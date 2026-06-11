@@ -1,0 +1,68 @@
+{
+  "ref": "Nazir 33b",
+  "heRef": "נזיר ל״ג ב",
+  "isComplex": false,
+  "text": [],
+  "he": [],
+  "versions": [],
+  "textDepth": 2,
+  "sectionNames": [
+    "Daf",
+    "Line"
+  ],
+  "addressTypes": [
+    "Talmud",
+    "Integer"
+  ],
+  "lengths": [
+    132,
+    1299
+  ],
+  "length": 132,
+  "heTitle": "נזיר ל״ג ב",
+  "titleVariants": [
+    "Talmud Nazir",
+    "Tractate Nazir",
+    "Masekhet Nazir",
+    "Naz.",
+    "BT Nazir",
+    "Nazir"
+  ],
+  "heTitleVariants": [
+    "נזיר"
+  ],
+  "type": "Talmud",
+  "primary_category": "Talmud",
+  "book": "Nazir",
+  "categories": [
+    "Talmud",
+    "Bavli",
+    "Seder Nashim"
+  ],
+  "order": [
+    16,
+    4
+  ],
+  "sections": [
+    "33b"
+  ],
+  "toSections": [
+    "33b"
+  ],
+  "isDependant": false,
+  "indexTitle": "Nazir",
+  "heIndexTitle": "נזיר",
+  "sectionRef": "Nazir 33b",
+  "firstAvailableSectionRef": "Nazir 34a",
+  "heSectionRef": "נזיר ל״ג ב",
+  "isSpanning": false,
+  "title": "Nazir 33b",
+  "heBook": "נזיר",
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Nazir 34a",
+  "prev": "Nazir 33a",
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}

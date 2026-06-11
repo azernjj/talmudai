@@ -1,0 +1,68 @@
+{
+  "ref": "Tamid 2a",
+  "heRef": "תמיד ב׳ א",
+  "isComplex": false,
+  "text": [],
+  "he": [],
+  "versions": [],
+  "textDepth": 2,
+  "sectionNames": [
+    "Daf",
+    "Line"
+  ],
+  "addressTypes": [
+    "Talmud",
+    "Integer"
+  ],
+  "lengths": [
+    66,
+    207
+  ],
+  "length": 66,
+  "heTitle": "תמיד ב׳ א",
+  "titleVariants": [
+    "Tractate Tamid",
+    "Talmud Tamid",
+    "Masekhet Tamid",
+    "Tam.",
+    "BT Tamid",
+    "Tamid"
+  ],
+  "heTitleVariants": [
+    "תמיד"
+  ],
+  "type": "Talmud",
+  "primary_category": "Talmud",
+  "book": "Tamid",
+  "categories": [
+    "Talmud",
+    "Bavli",
+    "Seder Kodashim"
+  ],
+  "order": [
+    36,
+    9
+  ],
+  "sections": [
+    "2a"
+  ],
+  "toSections": [
+    "2a"
+  ],
+  "isDependant": false,
+  "indexTitle": "Tamid",
+  "heIndexTitle": "תמיד",
+  "sectionRef": "Tamid 2a",
+  "firstAvailableSectionRef": "Tamid 25b",
+  "heSectionRef": "תמיד ב׳ א",
+  "isSpanning": false,
+  "title": "Tamid 2a",
+  "heBook": "תמיד",
+  "alts": [],
+  "index_offsets_by_depth": {},
+  "next": "Tamid 25b",
+  "prev": null,
+  "commentary": [],
+  "sheets": [],
+  "layer": []
+}
