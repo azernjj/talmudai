@@ -1,60 +1,134 @@
 import './style.css'
-import javascriptLogo from './assets/javascript.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import { setupCounter } from './counter.js'
 
-document.querySelector('#app').innerHTML = `
-<section id="center">
-  <div class="hero">
-    <img src="${heroImg}" class="base" width="170" height="179">
-    <img src="${javascriptLogo}" class="framework" alt="JavaScript logo"/>
-    <img src="${viteLogo}" class="vite" alt="Vite logo" />
-  </div>
-  <div>
-    <h1>Get started</h1>
-    <p>Edit <code>src/main.js</code> and save to test <code>HMR</code></p>
-  </div>
-  <button id="counter" type="button" class="counter"></button>
-</section>
+const app = document.querySelector('#app')
 
-<div class="ticks"></div>
+const sedarim = [
+  {
+    name: 'Zeraïm',
+    masechtot: [
+      { name: 'Berakhot', file: 'berakhot.json' }
+    ]
+  },
+  {
+    name: 'Moed',
+    masechtot: [
+      { name: 'Shabbat', file: 'shabbat.json' },
+      { name: 'Erouvin', file: 'eruvin.json' },
+      { name: 'Pessa’him', file: 'pesachim.json' }
+    ]
+  }
+]
 
-<section id="next-steps">
-  <div id="docs">
-    <svg class="icon" role="presentation" aria-hidden="true"><use href="/icons.svg#documentation-icon"></use></svg>
-    <h2>Documentation</h2>
-    <p>Your questions, answered</p>
-    <ul>
-      <li>
-        <a href="https://vite.dev/" target="_blank">
-          <img class="logo" src="${viteLogo}" alt="" />
-          Explore Vite
-        </a>
-      </li>
-      <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img class="button-icon" src="${javascriptLogo}" alt="">
-          Learn more
-        </a>
-      </li>
-    </ul>
-  </div>
-  <div id="social">
-    <svg class="icon" role="presentation" aria-hidden="true"><use href="/icons.svg#social-icon"></use></svg>
-    <h2>Connect with us</h2>
-    <p>Join the Vite community</p>
-    <ul>
-      <li><a href="https://github.com/vitejs/vite" target="_blank"><svg class="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#github-icon"></use></svg>GitHub</a></li>
-      <li><a href="https://chat.vite.dev/" target="_blank"><svg class="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#discord-icon"></use></svg>Discord</a></li>
-      <li><a href="https://x.com/vite_js" target="_blank"><svg class="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#x-icon"></use></svg>X.com</a></li>
-      <li><a href="https://bsky.app/profile/vite.dev" target="_blank"><svg class="button-icon" role="presentation" aria-hidden="true"><use href="/icons.svg#bluesky-icon"></use></svg>Bluesky</a></li>
-    </ul>
-  </div>
-</section>
+let currentLang = 'fr'
+let currentData = null
 
-<div class="ticks"></div>
-<section id="spacer"></section>
+app.innerHTML = `
+  <header class="topbar">
+    <div>
+      <h1>TALMUD AI</h1>
+      <p>Beit Midrash numérique</p>
+    </div>
+    <div class="lang">
+      <button id="frBtn">🇫🇷 Français</button>
+      <button id="enBtn">🇬🇧 English</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <h2>📚 Sedarim</h2>
+      <div id="library"></div>
+    </aside>
+
+    <main class="reader">
+      <h2 id="dafTitle">Berakhot 2a</h2>
+      <div id="segments"></div>
+    </main>
+
+    <section class="comments">
+      <h2>📝 Commentaires</h2>
+      <button id="rashiBtn">Rachi</button>
+      <button id="tosafotBtn">Tossefot</button>
+      <div id="commentBox" class="commentBox">
+        Choisis un commentaire.
+      </div>
+    </section>
+  </div>
 `
 
-setupCounter(document.querySelector('#counter'))
+function renderLibrary() {
+  const library = document.querySelector('#library')
+  library.innerHTML = sedarim.map(seder => `
+    <div class="seder">
+      <h3>${seder.name}</h3>
+      ${seder.masechtot.map(m => `
+        <button class="masechet" data-file="${m.file}">
+          ${m.name}
+        </button>
+      `).join('')}
+    </div>
+  `).join('')
+
+  document.querySelectorAll('.masechet').forEach(btn => {
+    btn.addEventListener('click', () => loadMasechet(btn.dataset.file))
+  })
+}
+
+async function loadMasechet(file) {
+  try {
+    const res = await fetch(`/data/bavli/${file}`)
+    if (!res.ok) throw new Error('Données non disponibles')
+    currentData = await res.json()
+    renderDaf('2a')
+  } catch (e) {
+    document.querySelector('#segments').innerHTML = `
+      <div class="empty">
+        Données non encore disponibles pour ce traité.
+      </div>
+    `
+  }
+}
+
+function renderDaf(daf) {
+  if (!currentData || !currentData[daf]) return
+
+  const data = currentData[daf]
+  document.querySelector('#dafTitle').textContent = `${currentData.title} ${daf}`
+
+  document.querySelector('#segments').innerHTML = data.segments.map((seg, index) => `
+    <article class="segment">
+      <div class="segNum">Segment ${index + 1}</div>
+      <div class="he">${seg.he}</div>
+      <div class="translation">
+        ${currentLang === 'fr'
+          ? (seg.fr || 'Traduction française en préparation.')
+          : (seg.en || 'English translation in preparation.')}
+      </div>
+    </article>
+  `).join('')
+}
+
+function renderCommentary(type) {
+  if (!currentData || !currentData['2a']) return
+
+  const items = currentData['2a'][type] || []
+  document.querySelector('#commentBox').innerHTML = items.length
+    ? items.map(x => `<p class="he">${x}</p>`).join('')
+    : 'Commentaire non disponible.'
+}
+
+document.querySelector('#frBtn').addEventListener('click', () => {
+  currentLang = 'fr'
+  renderDaf('2a')
+})
+
+document.querySelector('#enBtn').addEventListener('click', () => {
+  currentLang = 'en'
+  renderDaf('2a')
+})
+
+document.querySelector('#rashiBtn').addEventListener('click', () => renderCommentary('rashi'))
+document.querySelector('#tosafotBtn').addEventListener('click', () => renderCommentary('tosafot'))
+
+renderLibrary()
+loadMasechet('berakhot.json')

@@ -1,0 +1,23 @@
+{
+  "title": "Berakhot",
+  "2a": {
+    "segments": [
+      {
+        "he": "מאימתי קורין את שמע בערבין",
+        "fr": "À partir de quel moment récite-t-on le Chéma du soir ?",
+        "en": "From what time may one recite the Shema in the evening?"
+      },
+      {
+        "he": "משעה שהכהנים נכנסים לאכול בתרומתן",
+        "fr": "Depuis le moment où les Cohanim entrent pour manger leur térouma.",
+        "en": "From the time when the priests enter to partake of their teruma."
+      }
+    ],
+    "rashi": [
+      "משעה שהכהנים נכנסים לאכול בתרומתן – כהנים שנטמאו וטבלו והעריב שמשן והגיע עתם לאכול בתרומה."
+    ],
+    "tosafot": [
+      "מאימתי קורין וכו׳ – פירש רש״י ואנן היכי קרינן מבעוד יום."
+    ]
+  }
+}
