@@ -146,3 +146,31 @@ button {
     padding: 16px;
   }
 }
+.dafNav {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 8px 0 12px;
+  margin-bottom: 12px;
+  position: sticky;
+  top: 0;
+  background: #f9f3e8;
+  z-index: 5;
+}
+
+.dafBtn {
+  flex: 0 0 auto;
+  min-width: 48px;
+  padding: 7px 10px;
+  font-size: 13px;
+  border-radius: 8px;
+  background: #efe2c6;
+  color: #0b2345;
+}
+
+.dafBtn.active {
+  background: #0b2345;
+  color: white;
+}
