@@ -21,6 +21,7 @@ const sedarim = [
 
 let currentLang = 'fr'
 let currentData = null
+let currentDaf = '2a'
 
 app.innerHTML = `
   <header class="topbar">
@@ -41,7 +42,8 @@ app.innerHTML = `
     </aside>
 
     <main class="reader">
-      <h2 id="dafTitle">Berakhot 2a</h2>
+      <h2 id="dafTitle">Chargement...</h2>
+      <div id="dafNav"></div>
       <div id="segments"></div>
     </main>
 
@@ -58,6 +60,7 @@ app.innerHTML = `
 
 function renderLibrary() {
   const library = document.querySelector('#library')
+
   library.innerHTML = sedarim.map(seder => `
     <div class="seder">
       <h3>${seder.name}</h3>
@@ -75,12 +78,26 @@ function renderLibrary() {
 }
 
 async function loadMasechet(file) {
+  document.querySelector('#segments').innerHTML = `<div class="empty">Chargement du traité...</div>`
+
   try {
     const res = await fetch(`/data/bavli/${file}`)
-    if (!res.ok) throw new Error('Données non disponibles')
+
+    if (!res.ok) {
+      throw new Error('Données non disponibles')
+    }
+
     currentData = await res.json()
-    renderDaf('2a')
+
+    const dapim = Object.keys(currentData.dapim || {}).sort(sortDaf)
+    currentDaf = dapim.includes('2a') ? '2a' : dapim[0]
+
+    renderDafNav()
+    renderDaf(currentDaf)
   } catch (e) {
+    currentData = null
+    document.querySelector('#dafTitle').textContent = 'Données non disponibles'
+    document.querySelector('#dafNav').innerHTML = ''
     document.querySelector('#segments').innerHTML = `
       <div class="empty">
         Données non encore disponibles pour ce traité.
@@ -89,16 +106,65 @@ async function loadMasechet(file) {
   }
 }
 
-function renderDaf(daf) {
-  if (!currentData || !currentData[daf]) return
+function sortDaf(a, b) {
+  const pa = parseDaf(a)
+  const pb = parseDaf(b)
 
-  const data = currentData[daf]
+  if (pa.num !== pb.num) return pa.num - pb.num
+  return pa.side.localeCompare(pb.side)
+}
+
+function parseDaf(daf) {
+  const match = daf.match(/^(\d+)([ab])$/)
+  return {
+    num: match ? Number(match[1]) : 0,
+    side: match ? match[2] : ''
+  }
+}
+
+function renderDafNav() {
+  const box = document.querySelector('#dafNav')
+
+  if (!currentData || !currentData.dapim) {
+    box.innerHTML = ''
+    return
+  }
+
+  const dapim = Object.keys(currentData.dapim).sort(sortDaf)
+
+  box.innerHTML = `
+    <div class="dafNav">
+      ${dapim.map(daf => `
+        <button class="dafBtn ${daf === currentDaf ? 'active' : ''}" data-daf="${daf}">
+          ${daf}
+        </button>
+      `).join('')}
+    </div>
+  `
+
+  document.querySelectorAll('.dafBtn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentDaf = btn.dataset.daf
+      renderDafNav()
+      renderDaf(currentDaf)
+      document.querySelector('#commentBox').innerHTML = 'Choisis un commentaire.'
+    })
+  })
+}
+
+function renderDaf(daf) {
+  if (!currentData || !currentData.dapim || !currentData.dapim[daf]) {
+    document.querySelector('#segments').innerHTML = `<div class="empty">Daf non disponible.</div>`
+    return
+  }
+
+  const data = currentData.dapim[daf]
   document.querySelector('#dafTitle').textContent = `${currentData.title} ${daf}`
 
-  document.querySelector('#segments').innerHTML = data.segments.map((seg, index) => `
+  document.querySelector('#segments').innerHTML = (data.segments || []).map((seg, index) => `
     <article class="segment">
       <div class="segNum">Segment ${index + 1}</div>
-      <div class="he">${seg.he}</div>
+      <div class="he">${seg.he || ''}</div>
       <div class="translation">
         ${currentLang === 'fr'
           ? (seg.fr || 'Traduction française en préparation.')
@@ -109,22 +175,26 @@ function renderDaf(daf) {
 }
 
 function renderCommentary(type) {
-  if (!currentData || !currentData['2a']) return
+  if (!currentData || !currentData.dapim || !currentData.dapim[currentDaf]) {
+    return
+  }
 
-  const items = currentData['2a'][type] || []
+  const data = currentData.dapim[currentDaf]
+  const items = data[type] || []
+
   document.querySelector('#commentBox').innerHTML = items.length
     ? items.map(x => `<p class="he">${x}</p>`).join('')
-    : 'Commentaire non disponible.'
+    : 'Commentaire non disponible pour ce daf.'
 }
 
 document.querySelector('#frBtn').addEventListener('click', () => {
   currentLang = 'fr'
-  renderDaf('2a')
+  renderDaf(currentDaf)
 })
 
 document.querySelector('#enBtn').addEventListener('click', () => {
   currentLang = 'en'
-  renderDaf('2a')
+  renderDaf(currentDaf)
 })
 
 document.querySelector('#rashiBtn').addEventListener('click', () => renderCommentary('rashi'))
