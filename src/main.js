@@ -133,6 +133,7 @@ function renderLibrary() {
 }
 
 async function loadMasechet(file) {
+  localStorage.setItem('currentFile', file)
   document.querySelector('#segments').innerHTML = `<div class="empty">Chargement du traité...</div>`
 
   try {
@@ -145,7 +146,11 @@ async function loadMasechet(file) {
     currentData = await res.json()
 
     const dapim = Object.keys(currentData.dapim || {}).sort(sortDaf)
-    currentDaf = dapim.includes('2a') ? '2a' : dapim[0]
+    const savedDaf = localStorage.getItem(`daf_${file}`)
+
+    currentDaf = savedDaf && dapim.includes(savedDaf)
+      ? savedDaf
+      : (dapim.includes('2a') ? '2a' : dapim[0])
 
     renderDafNav()
     renderDaf(currentDaf)
@@ -160,7 +165,6 @@ async function loadMasechet(file) {
     `
   }
 }
-
 function sortDaf(a, b) {
   const pa = parseDaf(a)
   const pb = parseDaf(b)
@@ -213,22 +217,56 @@ function renderDaf(daf) {
     return
   }
 
+  currentDaf = daf
+
+  const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
+  localStorage.setItem(`daf_${currentFile}`, currentDaf)
+
   const data = currentData.dapim[daf]
+  const dapim = Object.keys(currentData.dapim).sort(sortDaf)
+  const currentIndex = dapim.indexOf(daf)
+  const previousDaf = currentIndex > 0 ? dapim[currentIndex - 1] : null
+  const nextDaf = currentIndex < dapim.length - 1 ? dapim[currentIndex + 1] : null
+
   document.querySelector('#dafTitle').textContent = `${currentData.title} ${daf}`
 
-  document.querySelector('#segments').innerHTML = (data.segments || []).map((seg, index) => `
-    <article class="segment">
-      <div class="segNum">Segment ${index + 1}</div>
-      <div class="he">${seg.he || ''}</div>
-      <div class="translation">
-        ${currentLang === 'fr'
-          ? (seg.fr || 'Traduction française en préparation.')
-          : (seg.en || 'English translation in preparation.')}
-      </div>
-    </article>
-  `).join('')
-}
+  document.querySelector('#segments').innerHTML = `
+    ${(data.segments || []).map((seg, index) => `
+      <article class="segment">
+        <div class="segNum">Segment ${index + 1}</div>
+        <div class="he">${seg.he || ''}</div>
+        <div class="translation">
+          ${currentLang === 'fr'
+            ? (seg.fr || 'Traduction française en préparation.')
+            : (seg.en || 'English translation in preparation.')}
+        </div>
+      </article>
+    `).join('')}
 
+    <div class="bottomNav">
+      ${previousDaf ? `<button id="prevDafBtn">← Daf précédent (${previousDaf})</button>` : ''}
+      ${nextDaf ? `<button id="nextDafBtn">Daf suivant (${nextDaf}) →</button>` : ''}
+    </div>
+  `
+
+  if (previousDaf) {
+    document.querySelector('#prevDafBtn').addEventListener('click', () => {
+      currentDaf = previousDaf
+      renderDafNav()
+      renderDaf(previousDaf)
+      document.querySelector('.reader').scrollTop = 0
+    })
+  }
+
+  if (nextDaf) {
+    document.querySelector('#nextDafBtn').addEventListener('click', () => {
+      currentDaf = nextDaf
+      renderDafNav()
+      renderDaf(nextDaf)
+      document.querySelector('.reader').scrollTop = 0
+    })
+  }
+}
 function renderCommentary(type) {
   if (!currentData || !currentData.dapim || !currentData.dapim[currentDaf]) {
     return
@@ -256,4 +294,4 @@ document.querySelector('#rashiBtn').addEventListener('click', () => renderCommen
 document.querySelector('#tosafotBtn').addEventListener('click', () => renderCommentary('tosafot'))
 
 renderLibrary()
-loadMasechet('berakhot.json')
+loadMasechet(localStorage.getItem('currentFile') || 'berakhot.json')

@@ -254,3 +254,26 @@ button {
     padding: 8px 10px;
   }
 }
+.bottomNav {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 28px 0 12px;
+  padding: 18px;
+  background: #fff8e8;
+  border-radius: 16px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+}
+
+.bottomNav button {
+  flex: 1;
+  background: #d4af37;
+  color: #102033;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .bottomNav {
+    flex-direction: column;
+  }
+}
