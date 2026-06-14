@@ -4,71 +4,59 @@ const app = document.querySelector('#app')
 
 const sedarim = [
   { name: 'Zeraïm', masechtot: [{ name: 'Berakhot', file: 'berakhot.json' }] },
-  {
-    name: 'Moed',
-    masechtot: [
-      { name: 'Shabbat', file: 'shabbat.json' },
-      { name: 'Erouvin', file: 'eruvin.json' },
-      { name: 'Pessa’him', file: 'pesachim.json' },
-      { name: 'Yoma', file: 'yoma.json' },
-      { name: 'Soukka', file: 'sukkah.json' },
-      { name: 'Beitsa', file: 'beitzah.json' },
-      { name: 'Roch Hachana', file: 'rosh-hashanah.json' },
-      { name: 'Taanit', file: 'taanit.json' },
-      { name: 'Meguila', file: 'megillah.json' },
-      { name: 'Moed Katan', file: 'moed-katan.json' },
-      { name: 'Haguiga', file: 'chagigah.json' }
-    ]
-  },
-  {
-    name: 'Nachim',
-    masechtot: [
-      { name: 'Yevamot', file: 'yevamot.json' },
-      { name: 'Ketoubot', file: 'ketubot.json' },
-      { name: 'Nedarim', file: 'nedarim.json' },
-      { name: 'Nazir', file: 'nazir.json' },
-      { name: 'Sota', file: 'sotah.json' },
-      { name: 'Gittin', file: 'gittin.json' },
-      { name: 'Kiddouchin', file: 'kiddushin.json' }
-    ]
-  },
-  {
-    name: 'Nezikin',
-    masechtot: [
-      { name: 'Bava Kama', file: 'bava-kamma.json' },
-      { name: 'Bava Metsia', file: 'bava-metzia.json' },
-      { name: 'Bava Batra', file: 'bava-batra.json' },
-      { name: 'Sanhédrin', file: 'sanhedrin.json' },
-      { name: 'Makot', file: 'makkot.json' },
-      { name: 'Chevouot', file: 'shevuot.json' },
-      { name: 'Avoda Zara', file: 'avodah-zarah.json' },
-      { name: 'Horayot', file: 'horayot.json' }
-    ]
-  },
-  {
-    name: 'Kodachim',
-    masechtot: [
-      { name: 'Zevahim', file: 'zevachim.json' },
-      { name: 'Menahot', file: 'menachot.json' },
-      { name: 'Houlin', file: 'chullin.json' },
-      { name: 'Bekhorot', file: 'bekhorot.json' },
-      { name: 'Arakhin', file: 'arakhin.json' },
-      { name: 'Temoura', file: 'temurah.json' },
-      { name: 'Keritot', file: 'keritot.json' },
-      { name: 'Meila', file: 'meilah.json' },
-      { name: 'Tamid', file: 'tamid.json' },
-      { name: 'Midot', file: 'middot.json' },
-      { name: 'Kinim', file: 'kinnim.json' }
-    ]
-  },
+  { name: 'Moed', masechtot: [
+    { name: 'Shabbat', file: 'shabbat.json' },
+    { name: 'Erouvin', file: 'eruvin.json' },
+    { name: 'Pessa’him', file: 'pesachim.json' },
+    { name: 'Yoma', file: 'yoma.json' },
+    { name: 'Soukka', file: 'sukkah.json' },
+    { name: 'Beitsa', file: 'beitzah.json' },
+    { name: 'Roch Hachana', file: 'rosh-hashanah.json' },
+    { name: 'Taanit', file: 'taanit.json' },
+    { name: 'Meguila', file: 'megillah.json' },
+    { name: 'Moed Katan', file: 'moed-katan.json' },
+    { name: 'Haguiga', file: 'chagigah.json' }
+  ]},
+  { name: 'Nachim', masechtot: [
+    { name: 'Yevamot', file: 'yevamot.json' },
+    { name: 'Ketoubot', file: 'ketubot.json' },
+    { name: 'Nedarim', file: 'nedarim.json' },
+    { name: 'Nazir', file: 'nazir.json' },
+    { name: 'Sota', file: 'sotah.json' },
+    { name: 'Gittin', file: 'gittin.json' },
+    { name: 'Kiddouchin', file: 'kiddushin.json' }
+  ]},
+  { name: 'Nezikin', masechtot: [
+    { name: 'Bava Kama', file: 'bava-kamma.json' },
+    { name: 'Bava Metsia', file: 'bava-metzia.json' },
+    { name: 'Bava Batra', file: 'bava-batra.json' },
+    { name: 'Sanhédrin', file: 'sanhedrin.json' },
+    { name: 'Makot', file: 'makkot.json' },
+    { name: 'Chevouot', file: 'shevuot.json' },
+    { name: 'Avoda Zara', file: 'avodah-zarah.json' },
+    { name: 'Horayot', file: 'horayot.json' }
+  ]},
+  { name: 'Kodachim', masechtot: [
+    { name: 'Zevahim', file: 'zevachim.json' },
+    { name: 'Menahot', file: 'menachot.json' },
+    { name: 'Houlin', file: 'chullin.json' },
+    { name: 'Bekhorot', file: 'bekhorot.json' },
+    { name: 'Arakhin', file: 'arakhin.json' },
+    { name: 'Temoura', file: 'temurah.json' },
+    { name: 'Keritot', file: 'keritot.json' },
+    { name: 'Meila', file: 'meilah.json' },
+    { name: 'Tamid', file: 'tamid.json' },
+    { name: 'Midot', file: 'middot.json' },
+    { name: 'Kinim', file: 'kinnim.json' }
+  ]},
   { name: 'Taharot', masechtot: [{ name: 'Nidda', file: 'niddah.json' }] }
 ]
 
 let currentLang = localStorage.getItem('talmudLang') || 'fr'
 let currentData = null
 let currentDaf = localStorage.getItem('currentDaf') || '2a'
-let dictionaryLoaded = false
 let dictionaryItems = []
+let dictionaryLoaded = false
 let dictLang = 'both'
 
 app.innerHTML = `
@@ -77,7 +65,6 @@ app.innerHTML = `
       <h1>TALMUD AI</h1>
       <p>Beit Midrash numérique</p>
     </div>
-
     <div class="lang">
       <button id="frBtn">🇫🇷 Français</button>
       <button id="enBtn">🇬🇧 English</button>
@@ -109,7 +96,6 @@ app.innerHTML = `
   </div>
 
   <div id="dictOverlay" class="dictOverlay hidden"></div>
-
   <aside id="dictionaryPanel" class="dictionaryPanel hidden">
     <div class="dictHeader">
       <h2>📖 Dictionnaire araméen</h2>
@@ -124,7 +110,7 @@ app.innerHTML = `
       <button id="dictEnBtn">English</button>
     </div>
 
-    <div id="dictStatus" class="dictStatus">Clique sur le dictionnaire pour charger les données.</div>
+    <div id="dictStatus" class="dictStatus">Dictionnaire prêt.</div>
     <div id="dictResults" class="dictResults"></div>
   </aside>
 `
@@ -138,6 +124,7 @@ function renderLibrary() {
     const filtered = seder.masechtot.filter(m =>
       m.name.toLowerCase().includes(q) || m.file.toLowerCase().includes(q)
     )
+
     if (!filtered.length) return ''
 
     return `
@@ -181,13 +168,18 @@ async function loadMasechet(file) {
     currentData = null
     document.querySelector('#dafTitle').textContent = 'Données non disponibles'
     document.querySelector('#dafNav').innerHTML = ''
-    document.querySelector('#segments').innerHTML = `<div class="empty">Données non encore disponibles pour ce traité.</div>`
+    document.querySelector('#segments').innerHTML = `
+      <div class="empty">Données non encore disponibles pour ce traité.</div>
+    `
   }
 }
 
 function parseDaf(daf) {
   const match = String(daf).match(/^(\d+)([ab])$/)
-  return { num: match ? Number(match[1]) : 0, side: match ? match[2] : '' }
+  return {
+    num: match ? Number(match[1]) : 0,
+    side: match ? match[2] : ''
+  }
 }
 
 function sortDaf(a, b) {
@@ -216,7 +208,9 @@ function renderDafNav() {
       <label class="dafSelectLabel">
         Daf
         <select id="dafSelect">
-          ${dapim.map(daf => `<option value="${daf}" ${daf === currentDaf ? 'selected' : ''}>${daf}</option>`).join('')}
+          ${dapim.map(daf => `
+            <option value="${daf}" ${daf === currentDaf ? 'selected' : ''}>${daf}</option>
+          `).join('')}
         </select>
       </label>
 
@@ -225,18 +219,11 @@ function renderDafNav() {
   `
 
   document.querySelector('#dafSelect').addEventListener('change', e => {
-    currentDaf = e.target.value
-    renderDafNav()
-    renderDaf(currentDaf)
-    document.querySelector('#commentBox').innerHTML = 'Choisis un commentaire.'
+    goToDaf(e.target.value)
   })
 
-  if (prev) {
-    document.querySelector('#topPrevDafBtn').addEventListener('click', () => goToDaf(prev))
-  }
-  if (next) {
-    document.querySelector('#topNextDafBtn').addEventListener('click', () => goToDaf(next))
-  }
+  if (prev) document.querySelector('#topPrevDafBtn').addEventListener('click', () => goToDaf(prev))
+  if (next) document.querySelector('#topNextDafBtn').addEventListener('click', () => goToDaf(next))
 }
 
 function goToDaf(daf) {
@@ -311,12 +298,15 @@ function openDictionary(initialSearch = '') {
   document.querySelector('#dictOverlay').classList.remove('hidden')
 
   const input = document.querySelector('#dictSearch')
-  input.value = initialSearch || input.value || ''
+  input.value = initialSearch || ''
   input.focus()
   input.select()
 
-  if (!dictionaryLoaded) loadDictionary()
-  else renderDictionaryResults()
+  if (!dictionaryLoaded) {
+    loadDictionary()
+  } else {
+    renderDictionaryResults()
+  }
 }
 
 function closeDictionary() {
@@ -329,10 +319,10 @@ async function loadDictionary() {
   status.textContent = 'Chargement du dictionnaire...'
 
   try {
-    const res = await fetch('/data/dictionary/dictionary.json')
+    const res = await fetch('/dictionary/dictionary.json')
 
     if (!res.ok) {
-      status.textContent = 'Fichier /data/dictionary/dictionary.json introuvable.'
+      status.textContent = 'Fichier /dictionary/dictionary.json introuvable.'
       return
     }
 
@@ -349,31 +339,47 @@ async function loadDictionary() {
 function normalizeDictionaryJson(raw) {
   const items = []
 
-  function addItem(term, value, category) {
-    const parsed = parseDictionaryValue(value, category)
-    items.push({
-      term: cleanText(term),
-      aramic: cleanText(parsed.aramic || term),
-      fr: cleanText(parsed.fr),
-      en: cleanText(parsed.en),
-      category
-    })
-  }
+  for (const [category, entries] of Object.entries(raw || {})) {
+    if (!entries || typeof entries !== 'object') continue
 
-  if (raw && typeof raw === 'object') {
-    for (const [category, entries] of Object.entries(raw)) {
-      if (!entries || typeof entries !== 'object') continue
-      for (const [term, value] of Object.entries(entries)) {
-        addItem(term, value, category)
-      }
+    for (const [term, value] of Object.entries(entries)) {
+      const parsed = parseDictionaryValue(value, category)
+      items.push({
+        term: cleanText(term),
+        aramic: cleanText(parsed.aramic || term),
+        fr: cleanText(parsed.fr),
+        en: cleanText(parsed.en),
+        category
+      })
     }
   }
 
   return mergeDictionaryItems(items)
 }
 
+function isEnglishCategory(category = '') {
+  const c = String(category).toLowerCase()
+  return c === 'english' || c.includes('eng')
+}
+
 function parseDictionaryValue(value, category = '') {
-  const isEnglishCategory = category.toLowerCase().includes('eng') || category.toLowerCase() === 'english'
+  const english = isEnglishCategory(category)
+
+  if (Array.isArray(value)) {
+    return {
+      aramic: value[0] || '',
+      fr: english ? '' : (value[2] || value[1] || ''),
+      en: english ? (value[2] || value[1] || '') : (value[1] || '')
+    }
+  }
+
+  if (value && typeof value === 'object') {
+    return {
+      aramic: value.aramic || value.hebrew || value.he || value.term || '',
+      fr: english ? '' : (value.fr || value.french || value.traduction || value.translation || ''),
+      en: value.en || value.english || (english ? value.translation || '' : '')
+    }
+  }
 
   if (typeof value === 'string') {
     const s = value.trim()
@@ -383,29 +389,80 @@ function parseDictionaryValue(value, category = '') {
       if (Array.isArray(parsed)) {
         return {
           aramic: parsed[0] || '',
-          fr: isEnglishCategory ? '' : (parsed[2] || ''),
-          en: isEnglishCategory ? (parsed[2] || parsed[1] || '') : ''
+          fr: english ? '' : (parsed[2] || parsed[1] || ''),
+          en: english ? (parsed[2] || parsed[1] || '') : (parsed[1] || '')
         }
       }
     } catch {}
 
     return {
       aramic: '',
-      fr: isEnglishCategory ? '' : s,
-      en: isEnglishCategory ? s : ''
+      fr: english ? '' : s,
+      en: english ? s : ''
     }
   }
 
   return { aramic: '', fr: '', en: '' }
 }
-      term.startsWith(q) ||
-      aramic.startsWith(q) ||
-      fr.includes(q) ||
-      en.includes(q)
-    )
-  })
-    .slice(0, 80)
 
+function mergeDictionaryItems(items) {
+  const map = new Map()
+
+  for (const item of items) {
+    const key = item.term || item.aramic
+    if (!key) continue
+
+    if (!map.has(key)) {
+      map.set(key, item)
+    } else {
+      const old = map.get(key)
+      map.set(key, {
+        ...old,
+        aramic: old.aramic || item.aramic,
+        fr: old.fr || item.fr,
+        en: old.en || item.en,
+        category: old.category || item.category
+      })
+    }
+  }
+
+  return Array.from(map.values())
+}
+
+function renderDictionaryResults() {
+  const q = cleanText(document.querySelector('#dictSearch').value).toLowerCase()
+  const box = document.querySelector('#dictResults')
+  const status = document.querySelector('#dictStatus')
+
+  box.innerHTML = ''
+
+  if (!q) {
+    status.textContent = dictionaryLoaded
+      ? `${dictionaryItems.length} entrées chargées. Écris un mot.`
+      : status.textContent
+    return
+  }
+
+  const exact = []
+  const starts = []
+  const contains = []
+
+  for (const item of dictionaryItems) {
+    const term = cleanText(item.term).toLowerCase()
+    const aramic = cleanText(item.aramic).toLowerCase()
+    const fr = cleanText(item.fr).toLowerCase()
+    const en = cleanText(item.en).toLowerCase()
+
+    if (term === q || aramic === q) {
+      exact.push(item)
+    } else if (term.startsWith(q) || aramic.startsWith(q)) {
+      starts.push(item)
+    } else if (fr.includes(q) || en.includes(q)) {
+      contains.push(item)
+    }
+  }
+
+  const results = [...exact, ...starts, ...contains].slice(0, 80)
   status.textContent = `${results.length} résultat(s).`
 
   if (!results.length) {
@@ -416,6 +473,7 @@ function parseDictionaryValue(value, category = '') {
   box.innerHTML = results.map(item => `
     <div class="dictCard">
       <div class="dictTerm">${escapeHtml(item.aramic || item.term)}</div>
+      ${item.term && item.term !== item.aramic ? `<div><b>Entrée :</b> ${escapeHtml(item.term)}</div>` : ''}
       ${dictLang !== 'en' && item.fr ? `<div><b>Français :</b> ${escapeHtml(item.fr)}</div>` : ''}
       ${dictLang !== 'fr' && item.en ? `<div><b>English :</b> ${escapeHtml(item.en)}</div>` : ''}
       <small>${escapeHtml(item.category || 'Dictionnaire')}</small>
@@ -444,7 +502,10 @@ function installHebrewWordClick() {
 }
 
 function cleanText(str) {
-  return String(str || '').replace(/\s+/g, ' ').trim()
+  return String(str || '')
+    .replace(/["“”]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
 }
 
 function escapeHtml(str) {
