@@ -313,6 +313,7 @@ function openDictionary(initialSearch = '') {
   const input = document.querySelector('#dictSearch')
   input.value = initialSearch || input.value || ''
   input.focus()
+  input.select()
 
   if (!dictionaryLoaded) loadDictionary()
   else renderDictionaryResults()
@@ -349,7 +350,7 @@ function normalizeDictionaryJson(raw) {
   const items = []
 
   function addItem(term, value, category) {
-    const parsed = parseDictionaryValue(value)
+    const parsed = parseDictionaryValue(value, category)
     items.push({
       term: cleanText(term),
       aramic: cleanText(parsed.aramic || term),
@@ -371,7 +372,32 @@ function normalizeDictionaryJson(raw) {
   return mergeDictionaryItems(items)
 }
 
-function parseDictionaryValue(value) {
+function parseDictionaryValue(value, category = '') {
+  const isEnglishCategory = category.toLowerCase().includes('eng') || category.toLowerCase() === 'english'
+
+  if (typeof value === 'string') {
+    const s = value.trim()
+
+    try {
+      const parsed = JSON.parse(s)
+      if (Array.isArray(parsed)) {
+        return {
+          aramic: parsed[0] || '',
+          fr: isEnglishCategory ? '' : (parsed[2] || ''),
+          en: isEnglishCategory ? (parsed[2] || parsed[1] || '') : ''
+        }
+      }
+    } catch {}
+
+    return {
+      aramic: '',
+      fr: isEnglishCategory ? '' : s,
+      en: isEnglishCategory ? s : ''
+    }
+  }
+
+  return { aramic: '', fr: '', en: '' }
+}
   if (Array.isArray(value)) {
     return { aramic: value[0] || '', en: value[1] || '', fr: value[2] || '' }
   }
@@ -437,7 +463,21 @@ function renderDictionaryResults() {
   }
 
   const results = dictionaryItems
-    .filter(item => `${item.term} ${item.aramic} ${item.fr} ${item.en}`.toLowerCase().includes(q))
+  .filter(item => {
+    const term = cleanText(item.term).toLowerCase()
+    const aramic = cleanText(item.aramic).toLowerCase()
+    const fr = cleanText(item.fr).toLowerCase()
+    const en = cleanText(item.en).toLowerCase()
+  
+    return (
+      term === q ||
+      aramic === q ||
+      term.startsWith(q) ||
+      aramic.startsWith(q) ||
+      fr.includes(q) ||
+      en.includes(q)
+    )
+  })
     .slice(0, 80)
 
   status.textContent = `${results.length} résultat(s).`
