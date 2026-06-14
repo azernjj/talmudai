@@ -328,10 +328,10 @@ async function loadDictionary() {
   status.textContent = 'Chargement du dictionnaire...'
 
   try {
-    const res = await fetch('/data/dictionary.json')
+    const res = await fetch('/data/dictionary/dictionary.json')
 
     if (!res.ok) {
-      status.textContent = 'Fichier /data/dictionary.json introuvable.'
+      status.textContent = 'Fichier /data/dictionary/dictionary.json introuvable.'
       return
     }
 
