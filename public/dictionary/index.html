@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dictionnaire araméen - TALMUD AI</title>
+  <link rel="stylesheet" href="./dictionary.css" />
+</head>
+<body>
+  <main class="page">
+    <header class="top">
+      <a class="back" href="/">← Retour TALMUD AI</a>
+      <h1>📖 Dictionnaire araméen</h1>
+      <p>Recherche instantanée araméen → français / anglais</p>
+    </header>
+
+    <section class="search-box">
+      <input id="searchInput" type="text" placeholder="Écris un mot araméen, français ou anglais..." autocomplete="off" />
+      <div class="filters">
+        <button data-lang="both" class="active">Français + English</button>
+        <button data-lang="fr">Français</button>
+        <button data-lang="en">English</button>
+      </div>
+      <div id="status">Chargement du dictionnaire...</div>
+    </section>
+
+    <section id="results" class="results"></section>
+  </main>
+
+  <script type="module" src="./dictionary.js"></script>
+</body>
+</html>
