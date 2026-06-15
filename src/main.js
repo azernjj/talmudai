@@ -497,7 +497,9 @@ function renderDictionaryResults() {
     }
   }
 
-  const results = [...exact, ...starts, ...contains].slice(0, 80)
+  const results = exact.length
+  ? exact
+  : [...starts, ...contains].slice(0, 80)
   status.textContent = `${results.length} résultat(s).`
 
   if (!results.length) {
