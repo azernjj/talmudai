@@ -141,9 +141,9 @@ function renderLibrary() {
   }).join('')
 
   document.querySelectorAll('.masechet').forEach(btn => {
-    btn.addEventListener('click', () => loadMasechet(btn.dataset.file))
-    document.querySelector('#mobileMenuBtn').addEventListener('click', () => {
-      document.querySelector('.sidebar').classList.toggle('open')
+    btn.addEventListener('click', () => {
+      loadMasechet(btn.dataset.file)
+      document.querySelector('.sidebar')?.classList.remove('open')
     })
   })
 }
@@ -322,26 +322,57 @@ async function loadDictionary() {
   const status = document.querySelector('#dictStatus')
   status.textContent = 'Chargement du dictionnaire...'
 
-  try {
-    const res = await fetch('/data/dictionary/dictionary.json')
+  const paths = [
+    '/data/dictionary/dictionary.json',
+    '/dictionary/dictionary.json',
+    '/data/dictionnaire/dictionary.json',
+    '/data/dictionary.json',
+    '/dictionary.json'
+  ]
 
-    if (!res.ok) {
-      status.textContent = 'Fichier /dictionary/dictionary.json introuvable.'
+  let lastError = ''
+
+  for (const url of paths) {
+    try {
+      const res = await fetch(url, { cache: 'no-store' })
+
+      if (!res.ok) {
+        lastError = `${url} : ${res.status}`
+        continue
+      }
+
+      const raw = await res.json()
+      dictionaryItems = normalizeDictionaryJson(raw)
+      dictionaryLoaded = true
+      status.textContent = `${dictionaryItems.length} entrées chargées.`
+      renderDictionaryResults()
       return
+    } catch (e) {
+      lastError = `${url} : ${e.message}`
     }
-
-    const raw = await res.json()
-    dictionaryItems = normalizeDictionaryJson(raw)
-    dictionaryLoaded = true
-    status.textContent = `${dictionaryItems.length} entrées chargées.`
-    renderDictionaryResults()
-  } catch (e) {
-    status.textContent = 'Erreur dictionnaire : ' + e.message
   }
+
+  status.textContent = 'Dictionnaire introuvable. Dernier essai : ' + lastError
 }
 
 function normalizeDictionaryJson(raw) {
   const items = []
+
+  if (Array.isArray(raw)) {
+    raw.forEach((value, index) => {
+      if (value && typeof value === 'object') {
+        const term = value.term || value.aramic || value.he || value.hebrew || value.word || ''
+        items.push({
+          term: cleanText(term),
+          aramic: cleanText(value.aramic || value.hebrew || value.he || term),
+          fr: cleanText(value.fr || value.french || value.traduction || ''),
+          en: cleanText(value.en || value.english || ''),
+          category: value.category || 'Dictionnaire'
+        })
+      }
+    })
+    return mergeDictionaryItems(items)
+  }
 
   for (const [category, entries] of Object.entries(raw || {})) {
     if (!entries || typeof entries !== 'object') continue
@@ -520,6 +551,108 @@ function escapeHtml(str) {
     .replaceAll('"', '&quot;')
 }
 
+
+function initMobileMenu() {
+  document.querySelector('#mobileMenuBtn')?.addEventListener('click', () => {
+    document.querySelector('.sidebar')?.classList.toggle('open')
+  })
+}
+
+function injectMobileStyles() {
+  if (document.querySelector('#talmudMobileFixStyle')) return
+
+  const style = document.createElement('style')
+  style.id = 'talmudMobileFixStyle'
+  style.textContent = `
+    @media (max-width: 768px) {
+      body {
+        overflow-x: hidden !important;
+      }
+
+      .layout {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      .topbar {
+        position: sticky !important;
+        top: 0 !important;
+        z-index: 1000 !important;
+      }
+
+      .lang {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        gap: 8px !important;
+      }
+
+      .mobileMenuBtn {
+        display: inline-flex !important;
+      }
+
+      .sidebar {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 86vw !important;
+        max-width: 360px !important;
+        height: 100vh !important;
+        overflow-y: auto !important;
+        z-index: 9999 !important;
+        transform: translateX(-105%) !important;
+        transition: transform .25s ease !important;
+        background: #fff !important;
+        padding: 16px !important;
+        box-shadow: 0 0 30px rgba(0,0,0,.25) !important;
+      }
+
+      .sidebar.open {
+        transform: translateX(0) !important;
+      }
+
+      #library,
+      .seder {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      .masechet {
+        display: block !important;
+        width: 100% !important;
+        min-width: 0 !important;
+        margin: 6px 0 !important;
+        white-space: normal !important;
+      }
+
+      .reader {
+        width: 100% !important;
+        max-width: 100% !important;
+        overflow: visible !important;
+      }
+
+      .comments {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .dictionaryPanel {
+        width: 92vw !important;
+        max-width: 92vw !important;
+        right: 4vw !important;
+        left: 4vw !important;
+      }
+    }
+
+    @media (min-width: 769px) {
+      .mobileMenuBtn {
+        display: none !important;
+      }
+    }
+  `
+  document.head.appendChild(style)
+}
+
+
 document.querySelector('#frBtn').addEventListener('click', () => {
   currentLang = 'fr'
   localStorage.setItem('talmudLang', currentLang)
@@ -544,5 +677,7 @@ document.querySelector('#masechetSearch').addEventListener('input', renderLibrar
 document.querySelector('#rashiBtn').addEventListener('click', () => renderCommentary('rashi'))
 document.querySelector('#tosafotBtn').addEventListener('click', () => renderCommentary('tosafot'))
 
+injectMobileStyles()
+initMobileMenu()
 renderLibrary()
 loadMasechet(localStorage.getItem('currentFile') || 'berakhot.json')
