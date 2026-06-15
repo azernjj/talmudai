@@ -1,0 +1,49 @@
+
+/* Correctif mobile TALMUD AI : Sedarim visibles en mode vertical */
+.mobileMenuBtn {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobileMenuBtn {
+    display: inline-flex !important;
+  }
+
+  .layout {
+    display: block !important;
+  }
+
+  .sidebar {
+    display: none;
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    height: auto !important;
+    max-height: 70vh;
+    overflow-y: auto;
+    position: relative;
+    z-index: 20;
+  }
+
+  .sidebar.open {
+    display: block !important;
+  }
+
+  .reader,
+  .comments {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  #library,
+  .seder,
+  .masechet {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .masechet {
+    display: block !important;
+    white-space: normal !important;
+  }
+}
