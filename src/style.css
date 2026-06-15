@@ -359,3 +359,30 @@ button:disabled {
     flex-direction: column;
   }
 }
+.mobileMenuBtn {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .mobileMenuBtn {
+    display: inline-block;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .sidebar.open {
+    display: block;
+  }
+
+  .reader {
+    padding-top: 12px;
+  }
+}
