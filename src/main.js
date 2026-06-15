@@ -66,6 +66,7 @@ app.innerHTML = `
       <p>Beit Midrash numérique</p>
     </div>
     <div class="lang">
+      <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Traités</button>
       <button id="frBtn">🇫🇷 Français</button>
       <button id="enBtn">🇬🇧 English</button>
       <button id="dictBtn">📖 Dictionnaire</button>
@@ -141,6 +142,9 @@ function renderLibrary() {
 
   document.querySelectorAll('.masechet').forEach(btn => {
     btn.addEventListener('click', () => loadMasechet(btn.dataset.file))
+    document.querySelector('#mobileMenuBtn').addEventListener('click', () => {
+      document.querySelector('.sidebar').classList.toggle('open')
+    })
   })
 }
 
@@ -149,7 +153,7 @@ async function loadMasechet(file) {
   document.querySelector('#segments').innerHTML = `<div class="empty">Chargement du traité...</div>`
   document.querySelector('#commentBox').innerHTML = 'Choisis un commentaire.'
   renderLibrary()
-
+  document.querySelector('.sidebar')?.classList.remove('open')
   try {
     const res = await fetch(`/data/merged/${file}`)
     if (!res.ok) throw new Error('Données non disponibles')
