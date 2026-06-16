@@ -48,8 +48,45 @@ export async function openParashiot() {
 }
 
 export async function loadParasha(file) {
-  document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la paracha...</div>'
+const verses = data.verses || []
 
+const fullHe = verses.map(v => v.he).filter(Boolean).join(' ')
+const fullEn = verses.map(v => v.en).filter(Boolean).join(' ')
+const fullFr = verses.map(v => v.fr).filter(Boolean).join(' ')
+
+const fullRashi = verses
+  .filter(v => (v.rashi || []).length)
+  .map(v => `
+    <section class="rashiBlock">
+      <h3>${escapeHtml(v.ref)}</h3>
+      ${(v.rashi || []).map(r => `
+        <p class="he">${r.he || ''}</p>
+        <p>${state.currentLang === 'fr'
+          ? (r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
+          : (r.en || 'Rashi English translation in preparation.')}
+        </p>
+      `).join('')}
+    </section>
+  `).join('')
+
+document.querySelector('#segments').innerHTML = `
+  <article class="segment parashaFull">
+    <h2>Texte hébreu</h2>
+    <div class="he parashaFullText">${fullHe}</div>
+
+    <h2>Traduction</h2>
+    <div class="translation">
+      ${state.currentLang === 'fr'
+        ? (fullFr || 'Traduction française en préparation.')
+        : (fullEn || 'English translation in preparation.')}
+    </div>
+
+    <details class="parashaRashi" open>
+      <summary>Rachi complet</summary>
+      ${fullRashi || 'Rachi non disponible.'}
+    </details>
+  </article>
+`
   try {
     const res = await fetch(`/data/parashiot/${file}`)
     if (!res.ok) throw new Error('Paracha introuvable')
