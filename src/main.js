@@ -70,6 +70,7 @@ app.innerHTML = `
       <button id="frBtn">🇫🇷 Français</button>
       <button id="enBtn">🇬🇧 English</button>
       <button id="dictBtn">📖 Dictionnaire</button>
+      <input id="globalSearch" placeholder="🔎 Rechercher dans tout le Talmud..." />
     </div>
   </header>
 
