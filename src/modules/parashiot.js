@@ -48,50 +48,46 @@ export async function openParashiot() {
 }
 
 export async function loadParasha(file) {
-const verses = data.verses || []
+  document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la paracha...</div>'
 
-const fullHe = verses.map(v => v.he).filter(Boolean).join(' ')
-const fullEn = verses.map(v => v.en).filter(Boolean).join(' ')
-const fullFr = verses.map(v => v.fr).filter(Boolean).join(' ')
-
-const fullRashi = verses
-  .filter(v => (v.rashi || []).length)
-  .map(v => `
-    <section class="rashiBlock">
-      <h3>${escapeHtml(v.ref)}</h3>
-      ${(v.rashi || []).map(r => `
-        <p class="he">${r.he || ''}</p>
-        <p>${state.currentLang === 'fr'
-          ? (r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
-          : (r.en || 'Rashi English translation in preparation.')}
-        </p>
-      `).join('')}
-    </section>
-  `).join('')
-
-document.querySelector('#segments').innerHTML = `
-  <article class="segment parashaFull">
-    <h2>Texte hébreu</h2>
-    <div class="he parashaFullText">${fullHe}</div>
-
-    <h2>Traduction</h2>
-    <div class="translation">
-      ${state.currentLang === 'fr'
-        ? (fullFr || 'Traduction française en préparation.')
-        : (fullEn || 'English translation in preparation.')}
-    </div>
-
-    <details class="parashaRashi" open>
-      <summary>Rachi complet</summary>
-      ${fullRashi || 'Rachi non disponible.'}
-    </details>
-  </article>
-`
   try {
     const res = await fetch(`/data/parashiot/${file}`)
     if (!res.ok) throw new Error('Paracha introuvable')
 
     const data = await res.json()
+    const verses = data.verses || []
+
+    const fullHe = verses
+      .map(v => v.he)
+      .filter(Boolean)
+      .join(' ')
+
+    const fullEn = verses
+      .map(v => v.en)
+      .filter(Boolean)
+      .join(' ')
+
+    const fullFr = verses
+      .map(v => v.fr)
+      .filter(Boolean)
+      .join(' ')
+
+    const fullRashi = verses
+      .filter(v => (v.rashi || []).length)
+      .map(v => `
+        <section class="rashiBlock">
+          <h3>${escapeHtml(v.ref)}</h3>
+          ${(v.rashi || []).map(r => `
+            <div class="rashiItem">
+              <p class="he">${r.he || ''}</p>
+              <p>${state.currentLang === 'fr'
+                ? (r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
+                : (r.en || 'Rashi English translation in preparation.')}
+              </p>
+            </div>
+          `).join('')}
+        </section>
+      `).join('')
 
     document.querySelector('#dafTitle').textContent = `📖 ${data.name}`
     document.querySelector('#dafNav').innerHTML = `
@@ -99,36 +95,32 @@ document.querySelector('#segments').innerHTML = `
         <button id="backParashiotBtn">← Liste des parachiot</button>
       </div>
     `
-    document.querySelector('#commentBox').innerHTML = 'Rachi apparaît sous chaque verset.'
+    document.querySelector('#commentBox').innerHTML = 'Texte complet de la paracha avec Rachi.'
 
-    document.querySelector('#segments').innerHTML = (data.verses || []).map(v => `
-      <article class="segment parashaVerse">
-        <div class="segNum">${escapeHtml(v.ref)}</div>
+    document.querySelector('#segments').innerHTML = `
+      <article class="segment parashaFull">
+        <div class="segNum">${escapeHtml(data.range || '')}</div>
 
-        <div class="he parashaHebrew">${v.he || ''}</div>
+        <section class="parashaFullSection">
+          <h2>Texte hébreu</h2>
+          <div class="he parashaFullText">${fullHe || 'Texte hébreu non disponible.'}</div>
+        </section>
 
-        <div class="translation">
-          ${state.currentLang === 'fr'
-            ? (v.fr || 'Traduction française en préparation.')
-            : (v.en || 'English translation in preparation.')}
-        </div>
+        <section class="parashaFullSection">
+          <h2>Traduction</h2>
+          <div class="translation parashaFullTranslation">
+            ${state.currentLang === 'fr'
+              ? (fullFr || 'Traduction française en préparation.')
+              : (fullEn || 'English translation in preparation.')}
+          </div>
+        </section>
 
-        ${(v.rashi || []).length ? `
-          <details class="parashaRashi">
-            <summary>▶ Rachi (${v.rashi.length})</summary>
-            ${(v.rashi || []).map(r => `
-              <div class="rashiItem">
-                <p class="he">${r.he || ''}</p>
-                <p>${state.currentLang === 'fr'
-                  ? (r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
-                  : (r.en || 'Rashi English translation in preparation.')}
-                </p>
-              </div>
-            `).join('')}
-          </details>
-        ` : ''}
+        <details class="parashaRashiFull">
+          <summary>Rachi complet</summary>
+          ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
+        </details>
       </article>
-    `).join('')
+    `
 
     document.querySelector('#backParashiotBtn')?.addEventListener('click', openParashiot)
   } catch (e) {
