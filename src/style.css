@@ -386,3 +386,36 @@ button:disabled {
     padding-top: 12px;
   }
 }
+.parashaBook {
+  margin: 24px 0;
+}
+
+.parashaBook h2 {
+  margin-bottom: 12px;
+}
+
+.parashaGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.parashaCard {
+  text-align: left;
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+}
+
+.parashaName {
+  display: block;
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.parashaCard small {
+  opacity: 0.75;
+}
