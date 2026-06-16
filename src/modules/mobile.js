@@ -1,0 +1,8 @@
+export function initMobileMenu(){document.querySelector('#mobileMenuBtn')?.addEventListener('click',()=>document.querySelector('.sidebar')?.classList.toggle('open'))}
+export function injectMobileStyles(){
+ if(document.querySelector('#talmudMobileFixStyle')) return
+ const style=document.createElement('style'); style.id='talmudMobileFixStyle'; style.textContent=`
+ @media (max-width:768px){body{overflow-x:hidden!important}.layout{display:block!important;width:100%!important}.topbar{position:sticky!important;top:0!important;z-index:1000!important}.lang{display:flex!important;flex-wrap:wrap!important;gap:8px!important}.mobileMenuBtn{display:inline-flex!important}#globalSearch{width:100%!important;min-width:0!important;margin-top:8px!important}.sidebar{position:fixed!important;top:0!important;left:0!important;width:86vw!important;max-width:360px!important;height:100vh!important;overflow-y:auto!important;z-index:9999!important;transform:translateX(-105%)!important;transition:transform .25s ease!important;background:#fff!important;padding:16px!important;box-shadow:0 0 30px rgba(0,0,0,.25)!important}.sidebar.open{transform:translateX(0)!important}#library,.seder{display:block!important;width:100%!important}.masechet{display:block!important;width:100%!important;min-width:0!important;margin:6px 0!important;white-space:normal!important}.reader,.comments{width:100%!important;max-width:100%!important;overflow:visible!important}.dictionaryPanel{width:92vw!important;max-width:92vw!important;right:4vw!important;left:4vw!important}}
+ @media (min-width:769px){.mobileMenuBtn{display:none!important}}`
+ document.head.appendChild(style)
+}

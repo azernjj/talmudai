@@ -1,0 +1,26 @@
+export function renderLayout(app) {
+  app.innerHTML = `
+    <header class="topbar">
+      <div class="brand"><h1>TALMUD AI</h1><p>Beit Midrash numérique</p></div>
+      <div class="lang">
+        <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Traités</button>
+        <button id="frBtn">🇫🇷 Français</button>
+        <button id="enBtn">🇬🇧 English</button>
+        <button id="dictBtn">📖 Dictionnaire</button>
+        <button id="parashaBtn">📖 Parachiot</button>
+        <input id="globalSearch" placeholder="🔎 Rechercher dans tout le Talmud..." autocomplete="off" />
+      </div>
+    </header>
+    <div class="layout">
+      <aside class="sidebar"><h2>📚 Sedarim</h2><input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" /><div id="library"></div></aside>
+      <main class="reader"><h2 id="dafTitle">Chargement...</h2><div id="dafNav"></div><div id="segments"></div></main>
+      <section class="comments"><h2>📝 Commentaires</h2><div class="commentActions"><button id="rashiBtn">Rachi</button><button id="tosafotBtn">Tossefot</button></div><div id="commentBox" class="commentBox">Choisis un commentaire.</div></section>
+    </div>
+    <div id="dictOverlay" class="dictOverlay hidden"></div>
+    <aside id="dictionaryPanel" class="dictionaryPanel hidden">
+      <div class="dictHeader"><h2>📖 Dictionnaire araméen</h2><button id="closeDictBtn">✕</button></div>
+      <input id="dictSearch" class="dictSearch" placeholder="Écris un mot araméen, français ou anglais..." autocomplete="off" />
+      <div class="dictLangButtons"><button id="dictBothBtn" class="active">FR + EN</button><button id="dictFrBtn">Français</button><button id="dictEnBtn">English</button></div>
+      <div id="dictStatus" class="dictStatus">Dictionnaire prêt.</div><div id="dictResults" class="dictResults"></div>
+    </aside>`
+}
