@@ -1,0 +1,2447 @@
+{
+  "slug": "nasso",
+  "name": "Nasso",
+  "range": "Numbers 4:21-7:89",
+  "verses": [
+    {
+      "ref": "Numbers 4:21",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:22",
+      "he": "נָשֹׂ֗א אֶת־רֹ֛אשׁ בְּנֵ֥י גֵרְשׁ֖וֹן גַּם־הֵ֑ם לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָֽם׃",
+      "en": "Take a census of the Gershonites also, by their ancestral house and by their clans.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נשא את ראש בני גרשון גם הם. כְּמוֹ שֶׁצִּוִּיתִיךָ עַל בְּנֵי קְהָת, לִרְאוֹת כַּמָּה יֵשׁ שֶׁהִגִּיעוּ לִכְלַל עֲבוֹדָה:",
+          "en": "נשא את ראש בני גרשון גם הם TAKE ALSO THE SUM OF THE SONS OF GERSHON - \"also\" implies: even as I have commanded you regarding the sons of Kohath; i.e. to see how many of them have already reached the age to be included amongst those fit for service.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:23",
+      "he": "מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה עַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקֹ֣ד אוֹתָ֑ם כׇּל־הַבָּא֙ לִצְבֹ֣א צָבָ֔א לַעֲבֹ֥ד עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "Record them from the age of thirty years up to the age of fifty, all who are subject to service in the performance of tasks for the Tent of Meeting.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:24",
+      "he": "זֹ֣את עֲבֹדַ֔ת מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י לַעֲבֹ֖ד וּלְמַשָּֽׂא׃",
+      "en": "These are the duties of the Gershonite clans as to labor and porterage:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:25",
+      "he": "וְנָ֨שְׂא֜וּ אֶת־יְרִיעֹ֤ת הַמִּשְׁכָּן֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד מִכְסֵ֕הוּ וּמִכְסֵ֛ה הַתַּ֥חַשׁ אֲשֶׁר־עָלָ֖יו מִלְמָ֑עְלָה וְאֶ֨ת־מָסַ֔ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+      "en": "they shall carry the cloths of the Tabernacle, the Tent of Meeting with its covering, the covering of dolphinddolphin See note at v. 6. skin that is on top of it, and the screen for the entrance of the Tent of Meeting;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את יריעת המשכן. עֶשֶׂר תַּחְתּוֹנוֹת:",
+          "en": "את יריעת המשכן THE CURTAINS OF THE TABERNACLE — the ten lower ones,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואת אהל מועד. יְרִיעֹת עִזִּים הָעֲשׂוּיוֹת לְאֹהֶל עָלָיו:",
+          "en": "ואת אהל מועד AND THE TENT OF MEETING i.e. the curtains of goats’ skins which were made as a tent above it (the Tabernacle).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מכסהו. עוֹרוֹת אֵילִים מְאָדָּמִים:",
+          "en": "מכסהו ITS COVERING — the rams’ skins dyed red.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "מסך פתח. וִילוֹן הַמִּזְרָחִי:",
+          "en": "מסך פתח THE SCREEN FOR THE ENTRANCE — the Veil at the east side.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:26",
+      "he": "וְאֵת֩ קַלְעֵ֨י הֶֽחָצֵ֜ר וְאֶת־מָסַ֣ךְ&thinsp;׀ פֶּ֣תַח&thinsp;׀ שַׁ֣עַר הֶחָצֵ֗ר אֲשֶׁ֨ר עַל־הַמִּשְׁכָּ֤ן וְעַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב וְאֵת֙ מֵֽיתְרֵיהֶ֔ם וְאֶֽת־כׇּל־כְּלֵ֖י עֲבֹדָתָ֑ם וְאֵ֨ת כׇּל־אֲשֶׁ֧ר יֵעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃",
+      "en": "the hangings of the enclosure, the screen at the entrance of the gate of the enclosure that surrounds the Tabernacle, the cords thereof, and the altar, and all their service equipment and all their accessories; and they shall perform the service.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אשר על המשכן. כְּלוֹמַר הַקְּלָעִים וְהַמָּסָךְ שֶׁל חָצֵר, הַסּוֹכְכִים וּמְגִנִּים עַל הַמִּשְׁכָּן וְעַל מִזְבַּח הַנְּחֹשֶׁת סָבִיב:",
+          "en": "אשר על המשכן [AND THE HANGINGS OF THE ENCLOSURE, AND THE SCREEN FOR THE ENTRANCE OF THE GATE OF THE ENCLOSURE] WHICH ARE על המשכן — that is to say, the hangings and the screen of the court which together screen and shelter the Tabernacle and the copper altar on all sides.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואת כל אשר יעשה להם. כְּתַרְגּוּמוֹ \"וְיָת כָּל דִּי יִתְּמְסַר לְהוֹן\" — לִבְנֵי גֵּרְשׁוֹן:",
+          "en": "ואת כל אשר יעשה להם — Understand this as the Targum does; “and everything that is handed over to them” — i.e. to the sons of Gershon.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:27",
+      "he": "עַל־פִּי֩ אַהֲרֹ֨ן וּבָנָ֜יו תִּהְיֶ֗ה כׇּל־עֲבֹדַת֙ בְּנֵ֣י הַגֵּרְשֻׁנִּ֔י לְכׇ֨ל־מַשָּׂאָ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כׇּל־מַשָּׂאָֽם׃",
+      "en": "All the duties of the Gershonites, all their porterage and all their service, shall be performed on orders from Aaron and his sons; you shall make them responsible for attending to all their porterage.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על פי אהרון ובניו. וְאֵיזֶה מֵהַבָּנִים מְמֻנֶּה עֲלֵיהֶם? ביד איתמר בן אהרון הכהן:",
+          "en": "על פי אהרן ובניו AT THE APPOINTMENT OF AARON AND HIS SONS [SHALL BE ALL THE SERVICE OF THE SONS OF THE GERSHONITES] — and which of his sons shall be appointed over them? Everything was (v. 28) “under the hand of Ithamar the son of Aaron the priest”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:28",
+      "he": "זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹ֛ת בְּנֵ֥י הַגֵּרְשֻׁנִּ֖י בְּאֹ֣הֶל מוֹעֵ֑ד וּמִ֨שְׁמַרְתָּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Those are the duties of the Gershonite clans for the Tent of Meeting; they shall attend to them under the direction of Ithamar son of Aaron the priest.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:29",
+      "he": "בְּנֵ֖י מְרָרִ֑י לְמִשְׁפְּחֹתָ֥ם לְבֵית־אֲבֹתָ֖ם תִּפְקֹ֥ד אֹתָֽם׃",
+      "en": "As for the Merarites, you shall record them by the clans of their ancestral house;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:30",
+      "he": "מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה וְעַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקְדֵ֑ם כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃",
+      "en": "you shall record them from the age of thirty years up to the age of fifty, all who are subject to service in the performance of the duties for the Tent of Meeting.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:31",
+      "he": "וְזֹאת֙ מִשְׁמֶ֣רֶת מַשָּׂאָ֔ם לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמּוּדָ֥יו וַאֲדָנָֽיו׃",
+      "en": "These are their porterage tasks in connection with their various duties for the Tent of Meeting: the planks, the bars, the posts, and the sockets of the Tabernacle;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:32",
+      "he": "וְעַמּוּדֵי֩ הֶחָצֵ֨ר סָבִ֜יב וְאַדְנֵיהֶ֗ם וִיתֵֽדֹתָם֙ וּמֵ֣יתְרֵיהֶ֔ם לְכׇ֨ל־כְּלֵיהֶ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם וּבְשֵׁמֹ֣ת תִּפְקְד֔וּ אֶת־כְּלֵ֖י מִשְׁמֶ֥רֶת מַשָּׂאָֽם׃",
+      "en": "the posts around the enclosure and their sockets, pegs, and cords—all these furnishings and their service: you shall list by name the objects that are their porterage tasks.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויתדתם ומיתריהם. שֶׁל עַמּוּדִים; שֶׁהֲרֵי יִתְדוֹת וּמֵיתְרֵי הַקְּלָעִים בְּמַשָּׂא בְנֵי גֵרְשׁוֹן הָיוּ, וִיתֵדוֹת וּמֵיתָרִים הָיוּ לַיְרִיעוֹת וְלַקְּלָעִים מִלְּמַטָּה, שֶׁלֹּא תַגְבִּיהֵם הָרוּחַ, וִיתֵדוֹת וּמֵיתָרִים הָיוּ לָעַמּוּדִים סָבִיב לִתְלוֹת בָּהֶם הַקְּלָעִים בִּשְׂפָתָם הָעֶלְיוֹנָה בִּכְלוּנְסוֹת וְקוּנְדָּסִין, כְּמוֹ שֶׁשְּׁנוּיָה בִמְלֶאכֶת הַמִּשְׁכָּן:",
+          "en": "ויתדתם ומיתריהם [AND THE COLUMNS OF THE ENCLOSURE ROUND ABOUT IT AND THEIR SOCKETS] AND THEIR PINS, AND THEIR CORDS — i.e. the pins and cords of the columns only, because the pins and cords of the hangings were part of the burden of the Gershonites (not of the sons of Merari). There were, as a matter of fact, pegs and cords for the curtains and the hangings on their lower edges in order that the wind should not raise them, there were also pegs and cords for the columns, round about, upon which to suspend the hangings by their upper edges on poles and rails, just as it is set forth in the Boraitha dealing with the work of the Tabernacle (cf. Rashi on Exodus 27:10, 19; Numbers 3:26 and our Note thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:33",
+      "he": "זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹת֙ בְּנֵ֣י מְרָרִ֔י לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+      "en": "Those are the duties of the Merarite clans, pertaining to their various duties in the Tent of Meeting under the direction of Ithamar son of Aaron the priest.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:34",
+      "he": "וַיִּפְקֹ֨ד מֹשֶׁ֧ה וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י הָעֵדָ֖ה אֶת־בְּנֵ֣י הַקְּהָתִ֑י לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+      "en": "So Moses, Aaron, and the chieftains of the community recorded the Kohathites by the clans of their ancestral house,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:35",
+      "he": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "from the age of thirty years up to the age of fifty, all who were subject to service for work relating to the Tent of Meeting.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:36",
+      "he": "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם אַלְפַּ֕יִם שְׁבַ֥ע מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+      "en": "Those recorded by their clans came to 2,750.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:37",
+      "he": "אֵ֤לֶּה פְקוּדֵי֙ מִשְׁפְּחֹ֣ת הַקְּהָתִ֔י כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "That was the enrollment of the Kohathite clans, all those who performed duties relating to the Tent of Meeting, whom Moses and Aaron recorded at GOD’s command through Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:38",
+      "he": "וּפְקוּדֵ֖י בְּנֵ֣י גֵרְשׁ֑וֹן לְמִשְׁפְּחוֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+      "en": "The Gershonites who were recorded by the clans of their ancestral house,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:39",
+      "he": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "from the age of thirty years up to the age of fifty, all who were subject to service for work relating to the Tent of Meeting—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:40",
+      "he": "וַיִּֽהְיוּ֙ פְּקֻ֣דֵיהֶ֔ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם אַלְפַּ֕יִם וְשֵׁ֥שׁ מֵא֖וֹת וּשְׁלֹשִֽׁים׃",
+      "en": "those recorded by the clans of their ancestral house came to 2,630.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:41",
+      "he": "אֵ֣לֶּה פְקוּדֵ֗י מִשְׁפְּחֹת֙ בְּנֵ֣י גֵרְשׁ֔וֹן כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֥ד מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל־פִּ֥י יְהֹוָֽה׃",
+      "en": "That was the enrollment of the Gershonite clans, all those performing duties relating to the Tent of Meeting whom Moses and Aaron recorded at GOD’s command.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:42",
+      "he": "וּפְקוּדֵ֕י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י לְמִשְׁפְּחֹתָ֖ם לְבֵ֥ית אֲבֹתָֽם׃",
+      "en": "The enrollment of the Merarite clans by the clans of their ancestral house,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:43",
+      "he": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "from the age of thirty years up to the age of fifty, all who were subject to service for work relating to the Tent of Meeting—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:44",
+      "he": "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃",
+      "en": "those recorded by their clans came to 3,200.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:45",
+      "he": "אֵ֣לֶּה פְקוּדֵ֔י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃",
+      "en": "That was the enrollment of the Merarite clans that Moses and Aaron recorded at GOD’s command through Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:46",
+      "he": "כׇּֽל־הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֧ה וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י יִשְׂרָאֵ֖ל אֶת־הַלְוִיִּ֑ם לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+      "en": "All the Levites whom Moses, Aaron, and the chieftains of Israel recorded by the clans of their ancestral houses,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:47",
+      "he": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּ֗א לַעֲבֹ֨ד עֲבֹדַ֧ת עֲבֹדָ֛ה וַעֲבֹדַ֥ת מַשָּׂ֖א בְּאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "from the age of thirty years up to the age of fifty, all who were subject to duties of service and porterage relating to the Tent of Meeting—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עבדת עבדה. הִיא הַשִּׁיר בִּמְצִלְתַּיִם וְכִנּוֹרוֹת, שֶׁהִיא עֲבוֹדָה לַעֲבוֹדָה אַחֶרֶת (ערכין י\"א):",
+          "en": "עבדת עבדה THE SERVICE OF THE MINISTRY — (lit., a service of a service). This is the song of the Levites with accompaniment of cymbals and harps, this being the service attached to another service (the sacrificial service) (Arakhin 11a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ועבדת משא. כְּמַשְׁמָעוֹ:",
+          "en": "ועבדת משא is what it literally implies: AND THE SERVICE OF CARRYING.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:48",
+      "he": "וַיִּהְי֖וּ פְּקֻדֵיהֶ֑ם שְׁמֹנַ֣ת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וּשְׁמֹנִֽים׃",
+      "en": "those recorded came to 8,580.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:49",
+      "he": "עַל־פִּ֨י יְהֹוָ֜ה פָּקַ֤ד אוֹתָם֙ בְּיַד־מֹשֶׁ֔ה אִ֥ישׁ אִ֛ישׁ עַל־עֲבֹדָת֖וֹ וְעַל־מַשָּׂא֑וֹ וּפְקֻדָ֕יו אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+      "en": "Each one, in turn, was given responsibility for his service and porterage at GOD’s command through Moses, and each was recorded as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ופקדיו אשר צוה ה' את משה. וְאוֹתָן הַפְּקוּדִים הָיוּ בְמִּצְוָה מִבֶּן שְׁלֹשִׁים שָׁנָה וְעַד בֶּן חֲמִשִּׁים:",
+          "en": "ופקדיו אשר צוה ה' את משה — This means, and those appointed by him (Moses) were appointed under the terms of the command which God had given to Moses (v. 43): from thirty years to fifty years old.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:1",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:2",
+      "he": "צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וִֽישַׁלְּחוּ֙ מִן־הַֽמַּחֲנֶ֔ה כׇּל־צָר֖וּעַ וְכׇל־זָ֑ב וְכֹ֖ל טָמֵ֥א לָנָֽפֶשׁ׃",
+      "en": "Instruct the Israelites to remove from camp anyone with an eruption or a dischargeaan eruption or a discharge See Leviticus chapters 13 and 15, respectively. and anyone defiled by a corpse.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "צו את בני ישראל וגו'. פָּרָשָׁה זוֹ נֶאֶמְרָה בַּיּוֹם שֶׁהוּקַם הַמִּשְׁכָּן, וּשְׁמוֹנֶה פָרָשִׁיּוֹת נֶאֶמְרוּ בוֹ בַיּוֹם, כִּדְאִיתָא בְּמַסֶּכֶת גִּטִּין בְּפֶרֶק הַנִּזָּקִין (גיטין דף ס'):",
+          "en": "צו את בני ישראל וגו׳ COMMAND THE CHILDREN OF ISRAEL etc. — This section was spoken on the day when the Tabernacle was erected; there were eight sections spoken on that day, as is related in Treatise Gittin 60a, in the chapter beginning with the word הנזקין.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישלחו מן המחנה. שָׁלֹשׁ מַחֲנוֹת הָיוּ שָׁם בִּשְׁעַת חֲנִיָּתָן, תּוֹךְ הַקְּלָעִים הִיא מַחֲנֵה שְׁכִינָה, חֲנִיַּת הַלְוִיִּם סָבִיב כְּמוֹ שֶׁמְּפֹרָשׁ בְּפָרָשַׁת בְּמִדְבַּר סִינַי, הִיא מַחֲנֵה לְוִיָּה, וּמִשָּׁם וְעַד סוֹף מַחֲנֵה הַדְּגָלִים לְכָל אַרְבַּע הָרוּחוֹת הִיא מַחֲנֵה יִשְׂרָאֵל; הַצָּרוּעַ נִשְׁתַּלַּח חוּץ לְכֻלָּן, הַזָּב מֻתָּר בְּמַחֲנֵה יִשְׂרָאֵל וּמְשֻׁלָּח מִן הַשְּׁתַיִם, וְטָמֵא לָנֶפֶשׁ מֻתָּר אַף בְּשֶׁל לְוִיָּה, וְאֵינוֹ מְשֻׁלָּח אֶלָּא מִשֶּׁל שְׁכִינָה, וְכָל זֶה דָּרְשׁוּ רַבּוֹתֵינוּ מִן הַמִּקְרָאוֹת בְּמַסֶּ' פְּסָחִים (דף ס\"ז):",
+          "en": "וישלחו מן המחנה [COMMAND THE CHILDREN OF ISRAEL] THAT THEY SEND AWAY FROM THE CAMP [EVERY LEPER etc.] — There were three camps one within the other whenever they encamped: the area within the hangings was the “camp of the Shechinah”, the encampment of the Levites round about this, as is described in the Sedrah במדבר סיני (Numbers 1:53), was the “camp of the Levites”, and from there outward up to the end of the encampment of the divisions in all the four directions was the “camp of the Israelites”. The leper was sent out from all of them; the person suffering from a flux was allowed to stay in the “camp of the Israelites”, but was sent out from the two inner camps, whilst a person who had become unclean by reason of a corpse was allowed to stay in the “camp of the Levites” also, and was sent out only from that of the Shechinah. All this have our Rabbis deduced in Treatise Pesachim 67a from the verses of our text.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "טמא לנפש. \"דִּמְסָאָב לִטְמֵי נַפְשָׁא דֶאֱנָשָׁא\", אוֹמֵר אֲנִי שֶׁהוּא לְשׁוֹן עַצְמוֹת אָדָם בִּלְשׁוֹן אֲרַמִּי. וְהַרְבֵּה יֵשׁ בִּבְ\"רַ, \"אַדְרִיאָנוּס שְׁחִיק טַמְיָא\", שְׁחִיק עֲצָמוֹת:",
+          "en": "טמא לנפש — Onkelos translates this by דמסאב לטמי נפשא דאנשא. I say that it (the word טמי in this rendering) is an expression in Aramaic for human bones, so that the Targum means: “whosoever is unclean by reason of the bones of a human being’’. There are many examples of the use of this word in Genesis Rabbah, as e.g. (Genesis Rabbah 78:1): Hadrian, שחיק טמיא, which means, “Hadrian may his bones be crushed!”",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:3",
+      "he": "מִזָּכָ֤ר עַד־נְקֵבָה֙ תְּשַׁלֵּ֔חוּ אֶל־מִח֥וּץ לַֽמַּחֲנֶ֖ה תְּשַׁלְּח֑וּם וְלֹ֤א יְטַמְּאוּ֙ אֶת־מַ֣חֲנֵיהֶ֔ם אֲשֶׁ֥ר אֲנִ֖י שֹׁכֵ֥ן בְּתוֹכָֽם׃",
+      "en": "Remove male and female alike; put them outside the camp so that they do not defile the camp of those in whose midst I dwell.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:4",
+      "he": "וַיַּֽעֲשׂוּ־כֵן֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְשַׁלְּח֣וּ אוֹתָ֔ם אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;{פ}",
+      "en": "The Israelites did so, putting them outside the camp; as GOD had spoken to Moses, so the Israelites did.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:5",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:6",
+      "he": "דַּבֵּר֮ אֶל־בְּנֵ֣י יִשְׂרָאֵל֒ אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכׇּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהֹוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃",
+      "en": "Speak to the Israelites: When a man or woman has committed any wrong toward a fellow human being, thus breaking faith with GOD, and they have realized their guilt,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "למעל מעל בה'. הֲרֵי חָזַר וְכָתַב כָּאן פָּרָשַׁת גּוֹזֵל וְנִשְׁבָּע עַל שֶׁקֶר, הִיא הָאֲמוּרָה בְפָרָשַׁת וַיִּקְרָא \"וּמָעֲלָה מַעַל בַּה' וְכִחֵשׁ בַּעֲמִיתוֹ וְגוֹ'\", וְנִשְׁנֵית כָּאן בִּשְׁבִיל שְׁנֵי דְבָרִים שֶׁנִּתְחַדְּשׁוּ בָהּ, הָאֶחָד שֶׁכָּתַב \"וְהִתְוַדּוּ\", לִמֵּד שֶׁאֵינוֹ חַיָּב חֹמֶשׁ וְאָשָׁם עַ\"פִּ עֵדִים עַד שֶׁיּוֹדֶה בַדָּבָר, וְהַשֵּׁנִי עַל גֶּזֶל הַגֵּר שֶׁהוּא נָתוּן לַכֹּהֲנִים (עי' ספרי):",
+          "en": "למעל מעל בה׳ [WHEN A MAN OR WOMAN SHALL DO ANY OF THE SINS AGAINST MAN,] TO ACT DECEITFULLY AGAINST THE LORD — Here, you see, Scripture writes down again the section dealing with a person who robs by violence from another, and swears falsely regarding it, — it is the same section that has already been stated in the Sedrah ויקרא (Lev 5:21), “[If a soul sin], and commits a trespass against the Lord, and deny unto his neighbour etc.” The reason why it is repeated here is because of two new points which are contained in it. The one is that it (Scripture) writes here, “and if they confess” which teaches that one is not liable to payment of the fifth (in addition to the capital; cf. Leviticus 5:24), nor to bring a guilt offering (cf. Leviticus 5:25) if he is convicted by the evidence of witnesses, but only when he himself confesses the matter (his guilt). The second new point is about something stolen from a proselyte (cf. Rashi on v. 8) — that it has to be handed over to the priests (cf. Sifrei Bamidbar 2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:7",
+      "he": "וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒ וְהֵשִׁ֤יב אֶת־אֲשָׁמוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִישִׁת֖וֹ יֹסֵ֣ף עָלָ֑יו וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֽוֹ׃",
+      "en": "they shall confess the wrong that they have done. They shall make restitution in the principal amount and add one-fifth to it, giving it to the one who was wronged.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את אשמו בראשו. הוּא הַקֶּרֶן שֶׁנִּשְׁבָּע עָלָיו (ב\"ק ק\"י):",
+          "en": "את אשמו בראשו [HE SHALL RESTORE] THAT WHEREIN HE IS GUILTY, AS BEING THE CHIEF SUM — This means, he shall restore the principal about which he has sworn falsely (Bava Kamma 110a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לאשר אשם לו. לְמִי שֶׁנִּתְחַיֵּב לוֹ (כתובות י\"ט):",
+          "en": "לאשר אשם לו [AND HE SHALL RESTORE THE PRINCIPAL … AND GIVE UNTO HIM] TO WHOM HE IS GUILTY — i.e. unto him to whom he (the claimant) owes money (Ketubot 19a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:8",
+      "he": "וְאִם־אֵ֨ין לָאִ֜ישׁ גֹּאֵ֗ל לְהָשִׁ֤יב הָאָשָׁם֙ אֵלָ֔יו הָאָשָׁ֛ם הַמּוּשָׁ֥ב לַיהֹוָ֖ה לַכֹּהֵ֑ן מִלְּבַ֗ד אֵ֚יל הַכִּפֻּרִ֔ים אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ עָלָֽיו׃",
+      "en": "If that party [is deceased and] has no kinbkin Lit. “redeemer.” to whom restitution can be made, the amount repaid shall go to GOD for the priest—in addition to the ram of expiation with which expiation is made on their behalf.cin addition to … on their behalf Cf. Lev. 5.15 f.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואם אין לאיש גאל. שֶׁמֵּת הַתּוֹבֵעַ שֶׁהִשְׁבִּיעוֹ וְאֵין לוֹ יוֹרְשִׁים:",
+          "en": "ואם אין לאיש גאל BUT IF THE MAN HAS NO KINSMAN — This means that the claimant who put him to the oath, died and has left no heirs,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "להשיב האשם אליו. כְּשֶׁנִּמְלַךְ זֶה לְהִתְוַדּוֹת עַל עֲוֹנוֹ; וְאָמְרוּ רַבּוֹתֵינוּ וְכִי יֵשׁ לְךָ אָדָם בְּיִשְׂרָאֵל שֶׁאֵין לוֹ גּוֹאֲלִים, אוֹ בֵן, אוֹ אָח, אוֹ שְׁאֵר בָּשָׂר הַקָּרוֹב מִמִּשְׁפַּחַת אָבִיו לְמַעְלָה עַד יַעֲקֹב? אֶלָּא זֶה הַגֵּר שֶׁמֵּת וְאֵין לוֹ יוֹרְשִׁים (סנהדרין ס\"ח):",
+          "en": "להשיב האשם אליו TO WHOM THAT WHEREIN HE IS GUILTY COULD BE RESTORED, when he decided at a later period to confess his sin. — Our Rabbis asked (Sifrei Bamidbar 4:1; Bava Kamma 109a): But can you find anyone in Israel who has no kinsman whatsoever, neither a son nor a brother nor other relative near akin to him from his father’s family, going back as far as Jacob? But this person referred to is a proselyte who died and has no heirs (his heathen relatives not being entitled to succeed to his property) (Sifrei Bamidbar 4:1; Bava Kamma 109a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "האשם המושב. זֶה הַקֶּרֶן וְהַחֹמֶשׁ (בבא קמא ק\"י):",
+          "en": "האשם המושב THAT WHEREIN HE IS GUILTY AND WHICH HATH TO BE RESTORED — i.e. the principal (האשם) and the fifth thereof (המושב) (cf. Bava Kamma 110a),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "לה' לכהן. קְנָאוֹ הַשֵּׁם וּנְתָנוֹ לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר (ספרי):",
+          "en": "לה’ לכהן BELONGS TO THE LORD, FOR THE PRIEST — This means the Lord becomes its owner and gives it to the priest of that Mishmar (shift) (Bava Kamma 109b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "מלבד איל הכפרים. הָאָמוּר בְּוַיִּקְרָא שֶׁהוּא צָרִיךְ לְהָבִיא:",
+          "en": "מלבד איל הכפרים BESIDES THE RAM OF EXPIATION which is mentioned in the Sedrah ויקרא (Leviticus 5:25), as being incumbent upon him to offer.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:9",
+      "he": "וְכׇל־תְּרוּמָ֞ה לְכׇל־קׇדְשֵׁ֧י בְנֵי־יִשְׂרָאֵ֛ל אֲשֶׁר־יַקְרִ֥יבוּ לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃",
+      "en": "So, too, any gift among the sacred donations that the Israelites offer shall be the priest’s.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וכל תרומה וגו'. אָמַר רַ' יִשְׁמָעֵאל וְכִי תְרוּמָה מַקְרִיבִין לַכֹּהֵן? וַהֲלֹא הוּא הַמְחַזֵּר אַחֲרֶיהָ לְבֵית הַגְּרָנוֹת, וּמַה תַּ\"ל אֲשֶׁר יַקְרִיבוּ לַכֹּהֵן? אֵלּוּ הַבִּכּוּרִים, שֶׁנֶּאֱמַר בָּהֶם (שמות כ\"ג), \"תָּבִיא בֵּית ה' אֱלֹהֶיךָ\", וְאֵינִי יוֹדֵעַ מַה יֵּעָשֶׂה בָהֶם, תַּ\"ל \"לַכֹּהֵן לוֹ יִהְיֶה\", בָּא הַכָּתוּב וְלִמֵּד עַל הַבִּכּוּרִים שֶׁיִּהְיוּ נִתָּנִין לַכֹּהֵן (ספרי):",
+          "en": "וכל תרומה וגו׳ AND EVERY HEAVE OFFERING … WHICH THEY BRING UNTO THE PRIEST] — R. Ishmael asked, “Do they then have to bring the heave-offering to the priest; does he not have to go around the granaries begging for it? What, then, is the meaning of ‘which they bring unto the priest’? It refers to the first fruits of which it is said, (Exodus 23:19) ‘[The first of the first fruits of thy ground] thou shalt bring into the house of the Lord they God’, but I do not know what is to be done with them, (i.e., this is nowhere stated). Scripture therefore states here, ‘[and every heave-offering, …which they bring] unto the priest, shall be his’ — Scripture comes and teaches you with respect to the first fruits that they must be given to the priest” (Sifrei Bamidbar 5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:10",
+      "he": "וְאִ֥ישׁ אֶת־קֳדָשָׁ֖יו ל֣וֹ יִהְי֑וּ אִ֛ישׁ אֲשֶׁר־יִתֵּ֥ן לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃&nbsp;{פ}",
+      "en": "And each shall retain his sacred donations: each priest shall keep what is given to him.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואיש את קדשיו לו יהיו. לְפִי שֶׁנֶּאֶמְרוּ מַתְּנוֹת כְּהֻנָּה וּלְוִיָּה, יָכוֹל יָבוֹאוּ וְיִטְּלוּם בִּזְרוֹעַ, תַּ\"ל \"וְאִישׁ אֶת קֳדָשָׁיו לוֹ יִהְיוּ\", מַגִּיד שֶׁטּוֹבַת הֲנָאָתָן לַבְּעָלִים, וְעוֹד מִדְרָשִׁים הַרְבֵּה דָרְשׁוּ בוֹ בְּסִפְרֵי; וּמִ\"אַ וְאִישׁ אֶת קֳדָשָׁיו לוֹ יִהְיוּ, מִי שֶׁמְּעַכֵּב מַעַשְׂרוֹתָיו וְאֵינוֹ נוֹתְנָן, לוֹ יִהְיוּ הַמַּעַשְׂרוֹת — סוֹף שֶׁאֵין שָׂדֵהוּ עוֹשֶׂה אֶלָּא אֶחָד מֵעֲשָׂרָה שֶׁהָיְתָה לְמוּדָה לַעֲשׂוֹת (תנחומא ראה):",
+          "en": "ואיש את קדשיו לו יהיו AND EVERY MAN’S HOLY THINGS SHALL BE HIS — Because the gifts due to the priests and the Levites are merely mentioned in the Torah (Deuteronomy 18:1—8) (without any statement as to how they are to come into possession of them), therefore one might think they may come and take them by force. On this account, it states here, ‘‘and every man’s holy things shall be his” — in some respect — thus it teaches us that the טובת הנאה, the gratification of using them in this respect as he wishes, belongs to the owner. — Many other Halachic rules have they (the Rabbis) deduced about it (this statement) in Sifrei Bamidbar 6:2. — An Agadic explanation of ואיש את קדשיו לו יהיו is the following: Whosoever retains the tithes and does not give them to the Levite, only the tithes will be his, i.e., his field will ultimately yield no more than a tithe of what it was accustomed to yield (so that his whole possession will not exceed the gifts he should have given to the priests and the Levites; cf. Midrash Tanchuma, Re'eh 10).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "איש אשר יתן לכהן. מַתָּנוֹת הָרְאוּיוֹת לוֹ:",
+          "en": "איש אשר יתן לכהן, A MAN, HOWEVER, WHO GIVES TO THE PRIEST the gifts that are due to him,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לו יהיה. מָמוֹן הַרְבֵּה (ברכות סג.):",
+          "en": "לו יהיה HE SHALL HAVE great riches (Berakhot 63a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:11",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:12",
+      "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי־תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃",
+      "en": "Speak to the Israelite people and say to them: Regarding anyonedanyone More precisely, “anyone, without exception,….” whose wife has gone astray and broken faith with him,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "איש איש כי תשטה אשתו. מַה כָּתוּב לְמַעְלָה מִן הָעִנְיָן? \"וְאִישׁ אֶת קֳדָשָׁיו לוֹ יִהְיוּ\", אִם אַתָּה מְעַכֵּב מַתְּנוֹת הַכֹּהֵן, חַיֶּיךָ שֶׁתִּצְטָרֵךְ לָבֹא אֶצְלוֹ לְהָבִיא לוֹ אֶת הַסּוֹטָה:",
+          "en": "איש איש כי תשטה אשתו IF ANY MAN’S WIFE GO ASIDE [AND ACT DECEITFULLY AGAINST HIM] — What is stated above, immediately before this section? ואיש את קדשיו לו יהיו: If you withhold the gifts due to the priest (cf. Rashi on v. 10), by your life, you will have to come to him in order to bring him your faithless wife for the ordeal by the waters (Berakhot 63a). (The translation therefore is: “A man who remains with his holy things, not giving them to the priest, לו יהיו they — the man and his wife — will become subject to him [require his services])”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "איש איש. לְלַמֶּדְךָ שֶׁמּוֹעֶלֶת בִּשְׁתַּיִם – בְּאִישׁ מִלְחָמָה שֶׁלְּמַעְלָה, וְאִישָׁהּ מִלְּמַטָּה:",
+          "en": "איש איש — The double expression איש איש is employed to teach you that she (the faithless wife) deals treacherously in two respects — against Him above Who bears the appelation of איש, as in the text \"[the Lord is] a Man of the war” (Exodus 15:3), and against her husband (אישה) here below (Midrash Tanchuma, Vaetchanan 5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כי תשטה אשתו. שָׁנוּ רַבּוֹתֵינוּ אֵין הַמְנָאֲפִין נוֹאֲפִין עַד שֶׁתִּכָּנֵס בָּהֶן רוּחַ שְׁטוּת, דִּכְתִיב \"כִּי תִשְׂטֶה\" וְכָתוּב בּוֹ \"נֹאֵף אִשָּׁה חֲסַר לֵב\" (משלי ו'); וּפְשׁוּטוֹ שֶׁל מִקְרָא: כי תשטה — תֵּט מִדַּרְכֵי צְנִיעוּת וְתֵחָשֵׁד בְּעֵינָיו, כְּמוֹ \"שְׂטֵה מֵעָלָיו וַעֲבֹר\" (שם ד'), \"אַל יֵשְׂטְ אֶל דְּרָכֶיהָ לִבֶּךָ\" (שם ז'):",
+          "en": "כי תשטה — Our Rabbis have taught (Midrash Tanchuma, Nasso 5): “Adulterers do never sin until a spirit of madness enters into them”, as it written, of her כי תשטה “if she becomes mad” (taking תִשְׂטֶה in the sense of תִשְׂטֶה, i.e. to become a שׁוֹטֶה, and so, too, of him Scripture writes, (Proverbs 6:32) “Whoso committeth adultery with a woman lacketh understanding”. — But the plain sense of the verse is that כי תשטה means: if she deviates from the path of modesty and thereby becomes suspect in his eyes. The word is similar to, (Proverbs 4:15) “turn away (שְׂטֵה) from it, and pass by”; (Proverbs 7:25) “Let not your heart turn (יַשְׂטְ) to her ways”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ומעלה בו מעל. וּמַהוּ הַמַּעַל? ושכב איש אתה:",
+          "en": "ומעלה בו מעל AND SHE ACTS UNFAITHFULLY AGAINST HIM — Wherein consists this infidelity? ושכב איש אתה THAT A MAN LIETH WITH HER.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:13",
+      "he": "וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־זֶ֒רַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃",
+      "en": "in that another man has had carnal relations with her unbeknown to her husband, and she has kept secret the fact that she defiled herself without being forced, and there is no witness against her—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ושכב איש. פְּרָט לְקָטָן וּמִי שֶׁאֵינוֹ אִישׁ (ספרי):",
+          "en": "ושכב איש AND A MAN LIETH [WITH HER] — a man, thus excluding a minor and a being that does not come under the term איש (i. e., an animal) (Sifrei Bamidbar 7:2; Sotah 24a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אתה שכבת זרע. שְׁכִיבָתָהּ פּוֹסֶלֶת אוֹתָהּ, וְאֵין שְׁכִיבַת אֲחוֹתָהּ פּוֹסֶלֶת אוֹתָהּ (כְּמַעֲשֶׂה בִשְׁתֵּי אֲחָיוֹת שֶׁהָיוּ דּוֹמוֹת זוֹ לָזוֹ):",
+          "en": "אתה שכבת זרע [AND A MAN LIETH] WITH HER CARNALLY — This implies: that only her sexual intercourse with another man makes her unfit for continuing in marital relation with her husband, but the fact that her sister had sexual intercourse with him does not make her unfit for such (Yevamot 95a) [as was once the case with two sisters who greatly resembled each other (Tanchuma 5:2:6)]",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ונעלם מעיני אישה. פְּרָט לְסוּמָא, הָא אִם הָיָה רוֹאֶה וּמְעַמְעֵם אֵין הַמַּיִם בּוֹדְקִין אוֹתָהּ (ספרי):",
+          "en": "תעלם מעיני אשה AND IT BE HID FROM THE EYES OF HER HUSBAND — Since it speaks of the eyes of the husband, it excludes the case of a blind man (i.e., a blind man cannot subject his wife to the ordeal). On the other hand, it states: “if it be concealed from his eyes”; it follows therefore that if he sees her improper conduct and wilfully closes his eyes to it the waters cannot try her (i.e., she cannot be subjected to the ordeal) (Sifrei Bamidbar 7:3; Sotah 27a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ונסתרה. שִׁעוּר שֶׁתֵּרָאֶה לְטֻמְאַת בִּיאָה:",
+          "en": "ונסתרה AND SHE WAS ASIDE SECRETLY with him such a period of time wherein there was a possibility for her to become defiled by intercourse (Sotah 4a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "ועד אין בה. הָא אִם יֵשׁ בָּהּ אֲפִלּוּ עֵד אֶחָד שֶׁאָמַר נִטְמֵאת לֹא הָיְתָה שׁוֹתָה (סוטה ד'):",
+          "en": "ועד אין בה AND THERE BE NO WITNESS AGAINST HER — But if there was even only one witness against her who stated that she was defiled she did not drink the מים המאררים, but was henceforth forbidden to her husband (Sotah 2b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "ועד אין בה. בְּטֻמְאָה, אֲבָל יֵשׁ עֵדִים לִסְתִירָה (שם ב'):",
+          "en": "ועד אין בה AND THERE WAS NO WITNESS AGAINST HER, as regards defilement, but there were witnesses regarding her meeting with the man privily.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "נתפשה. נֶאֶנְסָה, כְּמוֹ \"וּתְפָשָׂהּ וְשָׁכַב עִמָּהּ\" (דברים כ\"ב):",
+          "en": "ונתפשה [AND SHE WAS NOT] SEIZED — i.e. subjected to force (Sifrei Bamidbar 7:3). Similar is, (Deuteronomy 22:28) “And seizes her (ותפשה) and lieth with her”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:14",
+      "he": "וְעָבַ֨ר עָלָ֧יו רֽוּחַ־קִנְאָ֛ה וְקִנֵּ֥א אֶת־אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה אוֹ־עָבַ֨ר עָלָ֤יו רֽוּחַ־קִנְאָה֙ וְקִנֵּ֣א אֶת־אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃",
+      "en": "but a fit of jealousy has come over him and he is wrought up about the wife who has defiled herself; or if a fit of jealousy has come over him and he is wrought up about his wife although she has not defiled herself:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ועבר עליו. קֹדֶם לַסְּתִירָה:",
+          "en": "ועבר עליו AND [THE SPIRIT OF JEALOUSY] COME UPON HIM — i.e., had come upon him before her seclusion with the man.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "רוח קנאה וקנה. פֵּרְשׁוּ רַבּוֹתֵינוּ לְשׁוֹן הַתְרָאָה, שֶׁמַּתְרֶה בָהּ, אַל תִּסָּתְרִי עִם אִישׁ פְּלוֹנִי:",
+          "en": "רוח קנאה וקנא [AND] THE SPIRIT OF JEALOUSY [COME UPON HIM] וקנא — Our Rabbis said that it is an expression denoting warning — that he warns her: do not be aside privily with that man (Sotah 3a.)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "והוא נטמאה או עבר עליו וגו'. כְּלוֹמַר הוּא הִתְרָה בָּהּ, וְעָבְרָה עַל הַתְרָאָתוֹ, וְאֵין יָדוּעַ אִם נִטְמְאָה אִם לָאו:",
+          "en": "והוא נטמאה או עבר עליו וגו׳ AND SHE BE DEFILED, OR IF [THE SPIRIT OF JEALOUSY] COME UPON HIM [AND SHE WAS NOT DEFILED] — that is to say, he warned her but she disregarded his warning, and it is uncertain whether she has been defiled or not (Sifrei Bamidbar 8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:15",
+      "he": "וְהֵבִ֨יא הָאִ֣ישׁ אֶת־אִשְׁתּוֹ֮ אֶל־הַכֹּהֵן֒ וְהֵבִ֤יא אֶת־קׇרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים לֹֽא־יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה כִּֽי־מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֺֽן׃",
+      "en": "That man shall bring his wife to the priest. And he shall bring as an offering for her one-tenth of an ephah of barley flour. No oil shall be poured upon it and no frankincense shall be laid on it, for it is a grain offering of jealousy, a grain offering of remembrance that recalls wrongdoing.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קמח. שֶׁלֹּא יְהֵא מִסֹּלֶת:",
+          "en": "קמח implies that it shall not be of fine sifted flour.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שערים. וְלֹא חִטִּים, הִיא עָשְׂתָה מַעֲשֵׂה בְהֵמָה וְקָרְבָּנָהּ מַאֲכַל בְּהֵמָה (סוטה י\"ד):",
+          "en": "It must be שערים BARLEY, and not wheat; because she committed a bestial act, therefore shall her offering consist of that which is food for beasts (Sifrei Bamidbar 8; Sotah 14a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לא יצק עליו שמן. שֶׁלֹּא יְהֵא קָרְבָּנָהּ מְהֻדָּר, שֶׁהַשֶּׁמֶן קָרוּי אוֹר, וְהִיא עָשְׂתָה בַחֹשֶׁךְ:",
+          "en": "לא יצק עליו שמן HE SHALL POUR NO OIL UPON IT, so that her offering shall not be embellished (cf. Rashi on Leviticus 5:11) — and also because oil is called light (it is named יצהר from the root צהר, to give light; see Tanchuma) whilst she acted in darkness (Midrash Tanchuma, Nasso 3; cf. Sotah 15a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ולא יתן עליו לבנה. שֶׁהָאִמָּהוֹת נִקְרְאוּ לְבוֹנָה, שֶׁנֶּאֱמַר \"וְאֶל גִּבְעַת הַלְּבוֹנָה\" (שה\"ש ד'), וְהִיא פֵרְשָׁה מִדַּרְכֵיהֶן:",
+          "en": "ולא יתן עליו לבנה NOR SHALL HE PUT FRANKINCENSE THEREON — Because the matriarchs are symbolically termed frankincense, as it is said, (Songs 4:6) “I will get me … to the hill of frankincense” (which is taken as an allusion to the matriarchs), whilst she deviated from their paths (Midrash Tanchuma, Nasso 3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "כי מנחת קנאת הוא. הַקֶּמַח הַזֶּה, קֶמַח לָשׁוֹן זָכָר:",
+          "en": "כי מנחת קנאת הוא FOR IT IS A MEAL OFFERING OF JEALOUSY — i.e., this קמח is a meal offering of jealousy; for the word קמח is masculine and is therefore referred to by the masc. form.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "מנחת קנאת. מְעוֹרֶרֶת עָלֶיהָ שְׁתֵּי קְנָאוֹת, קִנְאַת הַמָּקוֹם וְקִנְאַת הַבַּעַל (ספרי):",
+          "en": "מנחת קנאת A MEAL OFFERING OF JEALOUSY — The plural קנאות is used because it arouses against her two outbreaks of jealousy — the jealousy of the Omnipresent and the jealousy of her husband (Tosefta Sotah 2; Sifrei Bamidbar 8; cf. Rashi’s second comment on איש איש v. 12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:16",
+      "he": "וְהִקְרִ֥יב אֹתָ֖הּ הַכֹּהֵ֑ן וְהֶֽעֱמִדָ֖הּ לִפְנֵ֥י יְהֹוָֽה׃",
+      "en": "The priest shall bring her forward and have her stand before GOD.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:17",
+      "he": "וְלָקַ֧ח הַכֹּהֵ֛ן מַ֥יִם קְדֹשִׁ֖ים בִּכְלִי־חָ֑רֶשׂ וּמִן־הֶֽעָפָ֗ר אֲשֶׁ֤ר יִהְיֶה֙ בְּקַרְקַ֣ע הַמִּשְׁכָּ֔ן יִקַּ֥ח הַכֹּהֵ֖ן וְנָתַ֥ן אֶל־הַמָּֽיִם׃",
+      "en": "The priest shall take sacral water in an earthen vessel and, taking some of the earth that is on the floor of the Tabernacle, the priest shall put it into the water.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מים קדשים. שֶׁקָּדְשׁוּ בַכִּיּוֹר, לְפִי שֶׁנַּעֲשָׂה מִנְּחֹשֶׁת מַרְאוֹת הַצּוֹבְאוֹת, וְזוֹ פֵרְשָׁה מִדַּרְכֵיהֶן, שֶׁהָיוּ נִבְעָלוֹת לְבַעְלֵיהֶן בְּמִצְרַיִם תַּחַת הַתַּפּוּחַ וְזוֹ קִלְקְלָה לְאַחֵר, תִּבָּדֵק בּוֹ:",
+          "en": "מים קדשים HOLY WATER — i.e., water that has become holy through being in the laver. — The water was taken from the laver because that was made of the copper mirrors of the women who had gathered (Exodus 38:8) [at the entrance to the Tent of Meeting] and this woman deviated from their chaste ways. Because they had cherished their husbands’ love in Egypt (cf. Rashi on Exodus 38:8), while this woman depravedly gave herself over to another, she was to be examined through it (Bamidbar Rabbah 9 :14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בכלי חרש. הִיא הִשְׁקָת אֶת הַנּוֹאֵף יַיִן מְשֻׁבָּח בְּכוֹסוֹת מְשֻׁבָּחִים, לְפִיכָךְ תִּשְׁתֶּה מַיִם הַמָּרִים בִּמְקִדָּה בְזוּיָה שֶׁל חֶרֶס (סוטה ט'):",
+          "en": "בכלי חרש IN AN EARTHEN VESSEL — She gave the adulterer excellent wine to drink in valuable goblets, therefore she shall drink the bitter water in a common earthenware cup. (Sotah 9a.)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:18",
+      "he": "וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ לִפְנֵ֣י יְהֹוָה֒ וּפָרַע֙ אֶת־רֹ֣אשׁ הָֽאִשָּׁ֔ה וְנָתַ֣ן עַל־כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִֽים׃",
+      "en": "After he has made the woman stand before GOD, the priest shall bare the woman’s headebare the woman’s head Or “dishevel the woman’s hair”; cf. Lev. 10.6. and place upon her hands the grain offering of remembrance, which is a grain offering of jealousy. And in the priest’s hands shall be the water of bitterness that induces the spell.fthat induces the spell Meaning of Heb. ha-meʼarerim uncertain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והעמיד הכהן וגו'. וַהֲלֹא כְבָר נֶאֱמַר \"וְהֶעֱמִדָהּ לִפְנֵי ה'\"? אֶלָּא מַסִּיעִין הָיוּ אוֹתָהּ מִמָּקוֹם לְמָקוֹם כְּדֵי לְיַגְּעָהּ וְתִטָּרֵף דַּעְתָּהּ וְתוֹדֶה (סוטה ח'):",
+          "en": "והעמיד הכהן וגו׳ AND THE PRIEST SHALL PRESENT [THE WOMAN BEFORE THE LORD] — But has it not already been stated, (v. 16) “and he shall present her before the Lord”? But they used to move her about from place to place (and thus, as it were, present her many times) in order to wear her out so that her thoughts should become confused and she be unable to invent explanations of her conduct and so she would confess her guilt (Sotah 8a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ופרע. סוֹתֵר אֶת קְלִיעַת שְׂעָרָהּ, כְּדֵי לְבַזּוֹתָהּ, מִכָּאן לִבְנוֹת יִשְׂרָאֵל שֶׁגִּלּוּי הָרֹאשׁ גְּנַאי לָהֶן (כתובות ע\"ב):",
+          "en": "ופרע AND HE SHALL PUT IN DISORDER [THE WOMAN’S HAIR] — i.e. he pulls away her hair-plaits in order to make her look despicable. — We may learn from this that as regards married Jewish women an uncovered head is a disgrace to them (Sifrei Bamidbar 11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לפני ה'. בְּשַׁעַר נִקָּנוֹר, הוּא שַׁעַר הָעֲזָרָה הַמִּזְרָחִי, דֶּרֶךְ כָּל הַנִּכְנָסִים (סוטה ז'):",
+          "en": "לפני ה׳ [AND THE PRIEST SHALL PRESENT THE WOMAN] BEFORE THE LORD — i.e. in the gateway of Nicanor (cf. Rashi on Leviticus 14:11 and Note thereon) which was the eastern gate of the court, the passage for all who entered the court [and where she was therefore most exposed to public view] (Sotah 7a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ונתן על כפיה. לְיַגְּעָהּ, אוּלַי תִּטָּרֵף דַּעְתָּהּ וְתוֹדֶה, וְלֹא יִמָּחֶה שֵׁם הַמְיֻחָד עַל הַמָּיִם (שם י\"ד):",
+          "en": "ונתן על כפיה AND HE SHALL PUT [THE MEAL-OFFERING OF MEMORIAL] IN HER HANDS — to wear her out even more (cf. Rashi on the beginning of the verse); — perhaps her thoughts would become confused now, so that she would confess her guilt and it would become unnecessary to blot out from the parchment the Divine Proper Name by the water (cf. Sifrei Bamidbar 11; Sotah 14a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "המרים. עַל שֵׁם סוֹפָן, שֶׁהֵם מָרִים לָהּ (שם כ'):",
+          "en": "המרים THE BITTER [WATERS] — They were called bitter waters because of their final effect, viz., that they proved bitter for her (Sifrei Bamidbar 11; Sotah 20a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "המאררים. הַמְחַסְּרִים אוֹתָהּ מִן הָעוֹלָם, לְשׁוֹן \"סִלּוֹן מַמְאִיר\" (יחזקאל כ\"ח), וְלֹא יִתָּכֵן לְפָרֵשׁ מַיִם אֲרוּרִים, שֶׁהֲרֵי קְדוֹשִׁים הֵן, וְלֹא אֲרוּרִים כָּתַב הַכָּתוּב, אֶלָּא מְאָרְרִים אֶת אֲחֵרִים, וְאַף אֻנְקְלוֹס לֹא תִרְגֵּם \"לִיטַיָּא\" אֶלָּא \"מְלַטְטַיָּא\" — שֶׁמַּרְאוֹת קְלָלָה בְּגוּפָהּ שֶׁל זוֹ:",
+          "en": "המאררים means, the waters that make her disappear (pine away) from the world. It has the same meaning as, (Ezekiel. 28:24): “a removing (ממאיר) brier” (one that removed some of the flesh). It would not be correct to explain מים המאררים as מים ארורים, “cursed waters” for actually they are holy (cf. v. 17). Besides, even if the meaning has anything to do with “cursing”, Scripture does not write ארורים, “waters that are cursed”, but מאררים — “that bring a curse to others”; and Onkelos, too, does not render it by ליטיא — “cursed waters” but by מלטטיא — “waters that show a curse on the body of this woman”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:19",
+      "he": "וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל־הָֽאִשָּׁה֙ אִם־לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם־לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרְרִ֖ים הָאֵֽלֶּה׃",
+      "en": "The priest shall adjure the woman, saying to her, “If no one else has lain with you, if you have not gone astray in defilement while in your husband’s household,gin your husband’s household Lit. “under your husband.” be immune to harm from this water of bitterness that induces the spell.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והשביע אתה וגו'. וּמַה הִיא הַשְּׁבוּעָה? אִם לֹא שָׁכַב הִנָּקִי, הָא אִם שָׁכַב, חִנָּקִי, שֶׁמִּכְּלַל לָאו אַתָּה שׁוֹמֵעַ הֵן, אֶלָּא שֶׁמִּצְוָה לִפְתֹּחַ בְּדִינֵי נְפָשׁוֹת תְּחִלָּה לִזְכוּת (שם י\"ז; שבועות ל\"ו; סנהדרין ל\"ג):",
+          "en": "והשביע אתה וגו׳ AND [THE PRIEST] SHALL ADJURE HER etc. — and wherein does this adjuration consist? In that he says to the woman, “if no man hath lain with thee … הנקי, be thou free”, which implies: “if, however, a man hath lain with thee, חנקי, thou deservest to be suffocated”, because from a negative statement you may deduce its converse, the positive statement. It is true that in an adjuration it would be more appropriate to make this threat of punishment if guilty, and to allow the converse to be derived from it, but here it mentions first what will happen if she has not sinned, since it intends to suggest that it is a duty in capital cases to begin the proceedings with the statement of something that bears upon the innocence of the accused (Sotah 17a; Shevuot 36a; Sanhedrin 33a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:20",
+      "he": "וְאַ֗תְּ כִּ֥י שָׂטִ֛ית תַּ֥חַת אִישֵׁ֖ךְ וְכִ֣י נִטְמֵ֑את וַיִּתֵּ֨ן אִ֥ישׁ בָּךְ֙ אֶת־שְׁכׇבְתּ֔וֹ מִֽבַּלְעֲדֵ֖י אִישֵֽׁךְ׃",
+      "en": "But if you have gone astray while committed to your husband and have defiled yourself, if anyone other than your husband has had carnal relations with you”—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת כי שטית. כִּי מְשַׁמֵּשׁ בִּלְשׁוֹן אִם:",
+          "en": "ואת כי שטית BUT IF THOU HAST BUT IF THOU HAST GONE ASIDE ASIDE — The word כי must here be employed in the meaning of “if” (cf. Rashi on Genesis 18:15).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:21",
+      "he": "וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה יִתֵּ֨ן יְהֹוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהֹוָ֤ה אֶת־יְרֵכֵךְ֙ נֹפֶ֔לֶת וְאֶת־בִּטְנֵ֖ךְ צָבָֽה׃",
+      "en": "here the priest shall administer the curse of adjuration to the woman, as the priest goes on to say to the woman—“may GOD make you a curse and an imprecation among your people, as GOD causes your thigh to sag and your belly to distend;hdistend Meaning of Heb. uncertain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בשבעת האלה. שְׁבוּעָה שֶׁל קְלָלָה:",
+          "en": "בשבעת האלה [AND THE PRIEST SHALL ADJURE THE WOMAN] WITH AN ADJURATION OF CURSING — i.e., an oath which contains the curse.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "יתן ה' אותך לאלה. שֶׁיִּהְיוּ הַכֹּל מְקַלְלִין בִּיךְ — \"יְבוֹאֵךְ כְּדֶרֶךְ שֶׁבָּא לִפְלוֹנִית\":",
+          "en": "יתן ה’ אותך לאלה THE LORD MAKE THEE AN EXECRATION — i.e. that everybody will curse through thee (i.e., by mention of thy name), saying, “May misfortune come upon you just as it came upon Mrs. so-and-so!”",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ולשבעה. שֶׁיִּהְיוּ הַכֹּל נִשְׁבָּעִין בִּיךְ —\"אִם לֹא יֶאֱרַע לִי כְּדֶרֶךְ שֶׁאֵרַע לִפְלוֹנִית\", וְכֵן הוּא אוֹמֵר \"וְהִנַּחְתֶּם שִׁמְכֶם לִשְׁבוּעָה לִבְחִירַי\" (ישעיהו ס\"ה), שֶׁהַצַּדִּיקִים נִשְׁבָּעִים בְּפֻרְעֲנוּתָן שֶׁל רְשָׁעִים, וְכֵן לְעִנְיַן הַבְּרָכָה, \"וְנִבְרְכוּ וְגוֹ'\" (בראשית י\"ב), \"בְּךָ יְבָרֵךְ יִשְׂרָאֵל לֵאמֹר\" (שם מ\"ח):",
+          "en": "ולשבעה [THE LORD MAKE THEE AN EXECRATION] AND AN OATH — This means, that everybody will swear through thee (i.e., by mention of thy name) — “If not (i.e., if I am not speaking the truth) may misfortune happen to me just as it happened to Mrs. So-and-so!” In a similar sense it states, (Isaiah 65:15) “and ye shall leave your name as an oath unto my chosen” which means that the righteous take an oath by mention of the punishment that came upon evil-doers. So, too, in reference to the blessing, does it state, (Genesis 12:3) “and through thee (i.e., by mention of thy name) shall bless themselves [all the families of the earth]”; (Genesis 48:20) “By thee shall Israel bless, saying, [God make thee as Ephraim and as Manasseh]” (Sifrei Bamidbar 14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "את ירכך. בִּקְלָלָה הִקְדִּים יָרֵךְ לַבֶּטֶן, לְפִי שֶׁבָּהּ הִתְחִילָה בַעֲבֵרָה תְּחִלָּה (סוטה ח'):",
+          "en": "את ירכך [WHEN THE LORD DOTH MAKE] THY THIGH [TO FALL, AND THY BELLY TO SWELL] — In uttering the curse that will befall her because of her sin he mentions the thigh before the belly (whilst in v. 22 the belly is stated to be affected first), because with it (the thigh) she began to sin (cf. Sotah 8b, 9b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "צבה. כְּתַרְגּוּמוֹ, נְפוּחָה:",
+          "en": "צבה — Understand this as the Targum does: SWOLLEN.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:22",
+      "he": "וּ֠בָ֠אוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֙לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן&thinsp;׀&thinsp;אָמֵֽן׃",
+      "en": "may this water that induces the spell enter your body, causing the belly to distend and the thigh to sag.” And the woman shall say, “Amen, amen!”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לצבות בטן. כְּמוֹ לְהַצְבּוֹת בֶּטֶן, זֶהוּ שִׁמּוּשׁ פַּתָּח שֶׁהַלָּמֶ\"ד נְקוּדָה בוֹ. וְכֵן \"לַנְחֹתָם הַדֶּרֶךְ\" (שמות י\"ג), \"לַרְאֹתְכֶם בַּדֶּרֶךְ אֲשֶׁר תֵּלְכוּ בָהּ\" (דברים א'), וְכֵן \"לַנְפִּל יָרֵךְ\" — לְהַנְפִּיל יָרֵךְ, שֶׁהַמַּיִם מַצְבִּים אֶת הַבֶּטֶן וּמַפִּילִים אֶת הַיָּרֵךְ:",
+          "en": "לצבות בטן is the same as לְהַצְבּוֹת בטן (the verb being the Hiphil infinitive). This is the usage of the Patach: that the “lamed” has it as its vowel instead of the ה having it (viz., that it is a contraction of לה). Similar is (Exodus 13:21) לַרְאתכם הדרך and (Deuteronomy 1:33) לַנְחֹתָם בדרך אשר הלכו בה (which are equivalent to לְהַרְאֹתְכֶם and לְהַנְחֹתָם). And so, too, in this verse, לַנְפִּל ירך, which is the same as לְהַנְפִּיל ירך. The meaning is: that the waters cause the belly to swell, and cause the thigh to fall.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לצבות בטן ולנפל ירך. בִּטְנוֹ וִירֵכוֹ שֶׁל בּוֹעֵל, אוֹ אֵינוֹ אֶלָּא נִבְעֶלֶת, כְּשֶׁהוּא אוֹמֵר \"אֶת יְרֵכֵךְ נֹפֶלֶת וְאֶת בִּטְנֵךְ צָבָה\" הֲרֵי שֶׁל נִבְעֶלֶת אָמוּר (סוטה כ\"ח):",
+          "en": "לצבות בטן ולנפל ירך [AND THIS WATER THAT CAUSETH THE CURSE SHALL GO INTO THY BOWELS] TO MAKE THE BELLY TO SWELL AND THE THIGH TO WASTE — i.e. the belly and the thigh of the adulterer (Note that Scripture does not state here, as in the preceding verse, “thy thigh”, “thy belly”). Or perhaps this is not so, but it means those of the adulteress? But when it states, (v. 21) “[when the Lord doth make] thy thigh to waste and thy belly to swell”, you see, that those of the adulteress are mentioned already (Sotah 28a; cf. Sifrei Bamidbar 15:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אמן אמן. קַבָּלַת שְׁבוּעָה – אָמֵן עַל הָאָלָה אָמֵן עַל הַשְּׁבוּעָה, אָמֵן אִם מֵאִישׁ זֶה אָמֵן אִם מֵאִישׁ אַחֵר, אָמֵן שֶׁלֹּא סָטִיתִי אֲרוּסָה וּנְשׂוּאָה שׁוֹמֶרֶת יָבָם וּכְנוּסָה (שם י\"ח):",
+          "en": "אמן אמן [AND THE WOMAN SHALL SAY] AMEN, AMEN — The utterance of the word אמן by a person implies the acceptance of an oath which has been recited by another with reference to him. — The two words אמן (which may mean “It is so”, or, “May it be so”) respectively signify, “Amen” with reference to the curse invoked, and “Amen” with reference to the oath recited. Accordingly she declares: “Amen” (“may it be so” i. e., may the אלה “the curse” befall me) if I have received defilement from this man, and “Amen” if I have received defilement from any other man; “Amen” (“It is so” — the terms of the oath are true) that I have not gone astray either when I was betrothed to my husband or since I have been married to him; (or in the case of a woman who has married her deceased husband’s brother; cf. Deuteronomy 25:7, it implies), “either when I was awaiting marriage with my brother-in-law or after I was married to him” (Sotah 18a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:23",
+      "he": "וְ֠כָתַ֠ב אֶת־הָאָלֹ֥ת הָאֵ֛לֶּה הַכֹּהֵ֖ן בַּסֵּ֑פֶר וּמָחָ֖ה אֶל־מֵ֥י הַמָּרִֽים׃",
+      "en": "The priest shall put these curses down in writing and rub it off into the water of bitterness.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:24",
+      "he": "וְהִשְׁקָה֙ אֶת־הָ֣אִשָּׁ֔ה אֶת־מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִ֑ים וּבָ֥אוּ בָ֛הּ הַמַּ֥יִם הַֽמְאָרְרִ֖ים לְמָרִֽים׃",
+      "en": "He is to make the woman drink the water of bitterness that induces the spell, so that the spell-inducing water may enter into her to bring on bitterness.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והשקה את האשה. אֵין זֶה סֵדֶר הַמַּעֲשֶׂה, שֶׁהֲרֵי בַתְּחִלָּהּ מַקְרִיב מִנְחָתָהּ, אֶלָּא הַכָּתוּב מְבַשֶּׂרְךָ שֶׁכְּשֶׁיַּשְׁקֶנָּה יָבֹאוּ בָהּ לְמָרִים; לְפִי שֶׁנֶּאֱמַר בֶּטֶן וְיָרֵךְ, מִנַּיִן לִשְׁאָר כָּל הַגּוּף? תַּ\"ל ובאו בה — בְּכֻלָּהּ, אִ\"כַּ מַה תַּ\"ל בֶּטֶן וְיָרֵךְ? לְפִי שֶׁהֵן הִתְחִילוּ בַעֲבֵרָה תְּחִלָּה לְפִיכָךְ הִתְחִיל מֵהֶם הַפֻּרְעָנוּת (ספרי):",
+          "en": "והשקה את האשה AND HE SHALL CAUSE THE WOMAN TO DRINK [THE BITTER WATER] — This was not the actual order of the proceedings, because really he offered her meal-offering first (before giving her the water to drink; cf. v. 26, 27), but Scripture here merely informs you that when he afterwards gives her the water to drink it will become bitter in her belly (cf. Sotah 19a). — Since only the thigh and the belly are mentioned (vv. 21. 22), I might conclude that only these are affected (see Sifrei Bamidbar 18); whence do we know that this applies also to the rest of the body? Because Scripture states here, “[and the water … shall come] into her [and become bitter]” — into all of her body! But if so, why does Scripture explicitly mention only the thigh and the belly? Because they (these two) were the first to begin the sin, therefore it (Scripture) makes the punishment begin with them (and for this reason Scripture mentions them explicitly, but, as a matter of fact, it extends to the whole body as is implied in the word בה (Sifrei Bamidbar 18).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "למרים. לִהְיוֹת לָהּ רָעִים וּמָרִים:",
+          "en": "למרים (The text is more lit., “and the waters shall enter into her as bitter”) — i.e. to become bad and bitter for her.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:25",
+      "he": "וְלָקַ֤ח הַכֹּהֵן֙ מִיַּ֣ד הָֽאִשָּׁ֔ה אֵ֖ת מִנְחַ֣ת הַקְּנָאֹ֑ת וְהֵנִ֤יף אֶת־הַמִּנְחָה֙ לִפְנֵ֣י יְהֹוָ֔ה וְהִקְרִ֥יב אֹתָ֖הּ אֶל־הַמִּזְבֵּֽחַ׃",
+      "en": "Then the priest shall take from the woman’s hand the grain offering of jealousy, elevate the grain offering before GOD, and present it on the altar.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והניף. מוֹלִיךְ וּמֵבִיא מַעֲלֶה וּמוֹרִיד, וְאַף הִיא מְנִיפָה עִמּוֹ, שֶׁיָּדָהּ לְמַעְלָה מִיָּדוֹ שֶׁל כֹּהֵן:",
+          "en": "והניף THEN [THE PRIEST] SHALL WAVE [THE MEAL-OFFERING] — He moves it about horizontally and vertically, and she, too, waves it together with him, because her hand has to be above the hand of the priest (Sotah 19a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והקריב אתה. זוֹ הִיא הַגָּשָׁתָהּ בְּקֶרֶן דְּרוֹמִית מַעֲרָבִית שֶׁל מִזְבֵּחַ קֹדֶם קְמִיצָה, כִּשְׁאָר מְנָחוֹת (סוטה י\"ד):",
+          "en": "והקריב אתה — This refers to what is known as the הגשה — bringing it to the south-west corner of the altar before the קמיצה, “the taking off of the handful of flour”, just as is the case with all other meal-offerings (cf. Rashi on Leviticus 7:7 and Sotah 14b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:26",
+      "he": "וְקָמַ֨ץ הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה וְאַחַ֛ר יַשְׁקֶ֥ה אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃",
+      "en": "The priest shall scoop out of the grain offering a token part of it and turn it into smoke on the altar. Last, he shall make the woman drink the water.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אזכרתה. הוּא הַקֹּמֶץ, שֶׁעַ\"יְ הַקְטָרָתוֹ הַמִּנְחָה בָאָה לְזִכָּרוֹן לְגָבוֹהַּ (ספרי):",
+          "en": "אזכרתה THE MEMORIAL PART THEREOF — i.e. the handful, and it is so called because through its being burnt the meal-offering is brought to remembrance before the Most High God (Sifrei Bamidbar 17; cf. Rashi on Leviticus 2:2 and 24:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:27",
+      "he": "וְהִשְׁקָ֣הּ אֶת־הַמַּ֗יִם וְהָיְתָ֣ה אִֽם־נִטְמְאָה֮ וַתִּמְעֹ֣ל מַ֣עַל בְּאִישָׁהּ֒ וּבָ֨אוּ בָ֜הּ הַמַּ֤יִם הַמְאָֽרְרִים֙ לְמָרִ֔ים וְצָבְתָ֣ה בִטְנָ֔הּ וְנָפְלָ֖ה יְרֵכָ֑הּ וְהָיְתָ֧ה הָאִשָּׁ֛ה לְאָלָ֖ה בְּקֶ֥רֶב עַמָּֽהּ׃",
+      "en": "Once he has made her drink the water—if she has defiled herself by breaking faith with her husband, the spell-inducing water shall enter into her to bring on bitterness, so that her belly shall distend and her thigh shall sag; and the woman shall become a curse among her people.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והשקה את המים. לְרַבּוֹת, שֶׁאִם אָמְרָה אֵינִי שׁוֹתָה לְאַחַר שֶׁנִּמְחֲקָה מְגִלָּה, מְעַרְעֲרִין אוֹתָהּ וּמַשְׁקִין אוֹתָהּ בְּעַל כָּרְחָהּ, אֶלָּא אִ\"כֵּ אָמְרָה טְמֵאָה אֲנִי (ספרי; סוטה כ'):",
+          "en": "והשקה את המים AND HE SHALL MAKE HER DRINK THE WATER — This statement made after Scripture has just said (v. 26) “and afterwards he shall make the woman drink the waters” (see Siphre) is intended to include the case that if she says, “I will not drink” after the scroll on which the Holy Name was written had been blotted out, they pour it into her and make her drink the water against her will — except if she adds: “I have been defiled” [when, of course, no further test is necessary] (Sotah 19b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וצבתה בטנה וגו'. אַעַ\"פִּ שֶׁבַּקְּלָלָה הִזְכִּיר יָרֵךְ תְּחִלָּה, הַמַּיִם אֵין בּוֹדְקִין אֶלָּא כְּדֶרֶךְ כְּנִיסָתָן בָּהּ (שם ט'):",
+          "en": "וצבתה בטנה AND HER BELLY SHALL SWELL, [AND HER THIGH SHALL WASTE] — Although when uttering the curse (v. 21) he (the priest) mentioned the thigh first, for the reason given by Rashi in his comment there, the water tested her (i.e., affected her) only according to the manner it passed into her body (i.e., it affected the belly first since it first entered that part of her body and then the thigh) (Sotah 9b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "והיתה האשה לאלה. כְּמוֹ שֶׁפֵּרַשְׁתִּי, שֶׁיְּהֵא הַכֹּל אָלִין בָּהּ:",
+          "en": "והיתה האשה לאלה AND THE WOMAN SHALL BE AN EXECRATION — This means, as I have already explained (v. 21), that everyone shall curse by mention of her name.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בקרב עמה. הֶפְרֵשׁ יֵשׁ בֵּין אָדָם הַמִּתְנַוֵּל בְּמָקוֹם שֶׁנִּכָּר, לְאָדָם הַמִּתְנַוֵּל בְּמָקוֹם שֶׁאֵינוֹ נִכָּר:",
+          "en": "בקרב עמה [AND THE WOMAN SHALL BE AN EXECRATION] AMONG HER PEOPLE — This is stressed: \"among her people” — because there is a difference between a person who is brought to disgrace in a place where he is well known and a person who is brought to disgrace in a place where he is unknown.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:28",
+      "he": "וְאִם־לֹ֤א נִטְמְאָה֙ הָֽאִשָּׁ֔ה וּטְהֹרָ֖ה הִ֑וא וְנִקְּתָ֖ה וְנִזְרְעָ֥ה זָֽרַע׃",
+      "en": "But if the woman has not defiled herself and is pure, she shall be unharmed and able to retain seed.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואם לא נטמא האשה. בִּסְתִירָה זוֹ:",
+          "en": "ואם לא נטמאה האשה AND IF THE WOMAN WAS NOT DEFILED on the occasion of this secluding herself with this man,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וטהרה הוא. מִמָּקוֹם אַחֵר:",
+          "en": "וטהרה הוא AND BE CLEAN (guiltless) as regards any other place,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ונקתה. מִמַּיִם הַמְאָרְרִים, וְלֹא עוֹד אֶלָּא ונזרעה זרע — אִם הָיְתָה יוֹלֶדֶת בְּצַעַר תֵּלֵד בְּרֶוַח, אִם הָיְתָה יוֹלֶדֶת שְׁחֹרִים, מֵעַתָּה יוֹלֶדֶת לְבָנִים:",
+          "en": "ונקתה THEN SHE SHALL BE FREE from the effect of the water that waste the body and not only this, but ונזרעה זרע SHE SHALL CONCEIVE SEED — i.e. if until now she used to bear children in pain, she will from now bear with ease (free from pain), if up to now she used to bear black (ugly) children, from now on she will bear white (beautiful) children (Sifrei Bamidbar 19; Sotah 26a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:29",
+      "he": "זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃",
+      "en": "This is the ritual in cases of jealousy, when a woman goes astray while in her husband’s householdiin her husband’s household See note at v. 19. and defiles herself,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 5:30",
+      "he": "א֣וֹ אִ֗ישׁ אֲשֶׁ֨ר תַּעֲבֹ֥ר עָלָ֛יו ר֥וּחַ קִנְאָ֖ה וְקִנֵּ֣א אֶת־אִשְׁתּ֑וֹ וְהֶעֱמִ֤יד אֶת־הָֽאִשָּׁה֙ לִפְנֵ֣י יְהֹוָ֔ה וְעָ֤שָׂה לָהּ֙ הַכֹּהֵ֔ן אֵ֥ת כׇּל־הַתּוֹרָ֖ה הַזֹּֽאת׃",
+      "en": "or when a man, overtaken by a fit of jealousy, is wrought up over his wife: the woman shall be made to stand before GOD and the priest shall carry out all this ritual with her.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "או איש. כְּמוֹ \"אוֹ נוֹדַע\" (שמות כ\"א), כְּלוֹמַר אִם אִישׁ קַנַּאי הוּא, לְכָךְ והעמיד את האשה.",
+          "en": "או איש — The word או here has the same meaning as in the phrase (Exodus 21:36): או נודע, “If it be known” (cf. Rashi on that verse and our Note thereon) — that is to say: if the man is a jealous man, then just on account of this, he shall present the woman [before the Lord and then the priest shall execute upon her all this law].”",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 5:31",
+      "he": "וְנִקָּ֥ה הָאִ֖ישׁ מֵעָוֺ֑ן וְהָאִשָּׁ֣ה הַהִ֔וא תִּשָּׂ֖א אֶת־עֲוֺנָֽהּ׃&nbsp;{פ}",
+      "en": "The man shall be clear of guilt; but that woman shall suffer for her guilt.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונקה האיש מעון. אִם בְּדָקוּהָ הַמַּיִם, אַל יִדְאַג לוֹמַר \"חַבְתִּי בְמִיתָתָהּ\", נָקִי הוּא מִן הָעֹנֶשׁ; דָּ\"אַ: מִשֶּׁיַּשְׁקֶנָּה תְּהֵא אֶצְלוֹ בְּהֶתֵּר, וְנִקָּה מֵעָוֹן, שֶׁהַסּוֹטָה אֲסוּרָה לְבַעְלָהּ (ספרי):",
+          "en": "ונקה האיש מעון THEN SHALL THE MAN BE GUILTLESS FROM INIQUITY — This means, if the waters try her (have effect on her), he should not worry and say: “I have incurred guilt through her death!” — No, he is free from punishment. Another explanation is: As soon as he has made her drink the water and she is proved innocent she may lawfully remain with him as his wife, and he is free from sin in permitting this, but if he lives with her before this, he is not free, for a סוטה (a wife suspected of infidelity) is forbidden to her husband pending her trial (cf. Sifrei Bamidbar 21).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:1",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:2",
+      "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהֹוָֽה׃",
+      "en": "Speak to the Israelites and say to them: If any man or woman explicitlyaexplicitly See note at Lev. 22.21. utters a nazirite’s vow, to set themselves apart for GOD,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי יפלא. יַפְרִישׁ; לָמָּה נִסְמְכָה פָרָשַׁת נָזִיר לְפָרָשַׁת סוֹטָה? לוֹמַר לְךָ שֶׁכָּל הָרוֹאֶה סוֹטָה בְקִלְקוּלָהּ יַזִּיר עַצְמוֹ מִן הַיַּיִן, שֶׁהוּא מֵבִיא לִידֵי נִאוּף (סוטה ב'):",
+          "en": "כי יפלא means, IF HE CLEARLY UTTERS (cf. Rashi on Leviticus 22:21 and Note thereon). — Why is the section dealing with the Nazarite placed in juxtaposition to the section dealing with the סוטה? To tell you that he who has once seen a סוטה in her disgrace should abstain from wine, because it may lead to adultery (Sotah 2a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "נדר נזיר. אֵין נְזִירָה בְכָל מָקוֹם אֶלָּא פְּרִישָׁה, אַף כָּאן שֶׁפֵּרֵשׁ מִן הַיַּיִן:",
+          "en": "נדר נזיר — The term נזר wherever it occurs denotes “keeping aloof from something” (cf. Rashi on Leviticus 22:2). Here, too, it means that he keeps away from wine (Sifrei Bamidbar 22).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "להזיר לה'. לְהַבְדִּיל עַצְמוֹ מִן הַיַּיִן לְשֵׁם שָׁמַיִם:",
+          "en": "להזיר לה׳ means, TO KEEP HIMSELF ALOOF from wine FOR THE SAKE OF HEAVEN (God).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:3",
+      "he": "מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכׇל־מִשְׁרַ֤ת עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃",
+      "en": "they shall abstain from wine and any other intoxicant; they shall not drink vinegar of wine or of any other intoxicant, neither shall they drink anything in which grapes have been steeped, nor eat grapes fresh or dried.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מיין ושכר. כְּתַרְגּוּמוֹ \"מֵחֲמַר חֲדַת וְעַתִּיק\", שֶׁהַיַּיִן מְשַׁכֵּר כְּשֶׁהוּא יָשָׁן:",
+          "en": "מיין ושכר — Understand this as the Targum does: he shall abstain from new (יין) and old wine (שכר). The latter is called שכר, “intoxicating drink”, because wine makes one intoxicated when it is old.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וכל משרת. לְשׁוֹן צְבִיעָה בְּמַיִם וְכָל מַשְׁקֶה; וּבִלְשׁוֹן מִשְׁנָה יֵשׁ הַרְבֵּה, אֵין שׁוֹרִין דְּיוֹ וְסַמָּנִים (שבת י\"ז), נָזִיר שֶׁשָּׁרָה פִתּוֹ (נזיר ל\"ד):",
+          "en": "וכל משרת — The word משרת denotes “steeping” in water or any other liquid. In the Mishnaic language there are many examples of this, e.g., (Shabbat 17b): “One must not soak (שורין) ink-materials and dyes in water on the eve of Sabbath”; (Nazir 34b): “A Nazarite who steeped (שרה) his bread in wine\".",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:4",
+      "he": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ מִכֹּל֩ אֲשֶׁ֨ר יֵעָשֶׂ֜ה מִגֶּ֣פֶן הַיַּ֗יִן מֵחַרְצַנִּ֛ים וְעַד־זָ֖ג לֹ֥א יֹאכֵֽל׃",
+      "en": "Throughout their term as nazirite, they may not eat anything that is obtained from the grapevine, even seeds or skin.bseeds or skin Meaning of Heb. ḥarṣannim and zag uncertain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חרצנים. הֵם הַגַּרְעִינִין:",
+          "en": "חרצנים are THE KERNELS....",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "זג. הֵם קְלִפוֹת שֶׁמִּבַּחוּץ, שֶׁהַחַרְצַנִּים בְּתוֹכָן כְּעִנְבָּל בְּזוּג:",
+          "en": "זג are THE HUSKS (skins) outside. They are called זג (a term also used for a bell) because the kernels are inside them as the clapper is in the bell (cf. Siphre; Nazir 34b; 39a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:5",
+      "he": "כׇּל־יְמֵי֙ נֶ֣דֶר נִזְר֔וֹ תַּ֖עַר לֹא־יַעֲבֹ֣ר עַל־רֹאשׁ֑וֹ עַד־מְלֹ֨את הַיָּמִ֜ם אֲשֶׁר־יַזִּ֤יר לַיהֹוָה֙ קָדֹ֣שׁ יִהְיֶ֔ה גַּדֵּ֥ל פֶּ֖רַע שְׂעַ֥ר רֹאשֽׁוֹ׃",
+      "en": "Throughout the term of their vow as nazirite, no razor shall touch their head; it shall remain consecrated until the completion of their term as nazirite of GOD, the hair of their head being left to grow untrimmed.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קדש יהיה. הַשֵּׂעָר שֶׁלּוֹ, לְגַדֵּל הַפֶּרַע שֶׁל שְׂעַר רֹאשׁוֹ (ספרי; תענית י\"א):",
+          "en": "קדש יהיה means HOLY SHALL IT (not “he”) BE viz., his hair shall be holy. inasmuch as he must let grow freely the hair of his head (lit., so as to let grow the over-growth, פרע, of the hair of his head) (Sifrei Bamidbar 25; Taanit 4a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פרע. נָקוּד פַּתָּח קָטָן אַף שֶׁהוּא דָּבוּק לִשְׂעַר רֹאשׁוֹ — פֶּרַע שֶׁל שֵׂעָר, וּפֵרוּשׁ שֶׁל פֶּרַע, גִּדּוּל שֶׁל שֵׂעָר, וְכֵן \"אֶת רֹאשׁוֹ לֹא יִפְרָע\" (ויקרא כ\"א), וְאֵין קָרוּי פֶּרַע פָּחוֹת מִשְּׁלֹשִׁים יוֹם (ספרי; סנהדרין כ\"ב):",
+          "en": "פרע — The word פרע is punctuated (as to its first syllable) with Patach-Katan (Segol) because it is in construct state to שער ראשו and the meaning is: the פרע, the wild growth of שער ראשו — The meaning of the word פרע is over-growth of the hair; similar is (Leviticus 21:10) “He shall not let his hair grow wild (יפרע)”. Growth of the hair of less than thirty days’ duration does not come under the term פרע (Sifrei Bamidbar 25; Sanhedrin 22b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:6",
+      "he": "כׇּל־יְמֵ֥י הַזִּיר֖וֹ לַיהֹוָ֑ה עַל־נֶ֥פֶשׁ מֵ֖ת לֹ֥א יָבֹֽא׃",
+      "en": "Throughout the term that they have set apart for GOD, they shall not go in where there is a dead person.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:7",
+      "he": "לְאָבִ֣יו וּלְאִמּ֗וֹ לְאָחִיו֙ וּלְאַ֣חֹת֔וֹ לֹא־יִטַּמָּ֥א לָהֶ֖ם בְּמֹתָ֑ם כִּ֛י נֵ֥זֶר אֱלֹהָ֖יו עַל־רֹאשֽׁוֹ׃",
+      "en": "Even if their father or mother, or their brother or sister should die, they must not become defiled for any of them, since hair set apart for their Godchair set apart for their God Lit. “the restriction of his God.” is upon their head:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:8",
+      "he": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ קָדֹ֥שׁ ה֖וּא לַֽיהֹוָֽה׃",
+      "en": "throughout their term as nazirite they are consecrated to GOD.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל ימי נזרו קדש הוא. זוֹ קְדֻשַּׁת הַגּוּף, מִלִּטַּמֵּא לְמֵתִים (ספרי):",
+          "en": "כל ימי נזרו קדש הוא ALL THE DAYS OF HIS NAZARITESHIP HE IS HOLY — This refers to the holiness of his body which consists in his abstaining from defiling himself by reason of a corpse (Sifrei Bamidbar 27).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:9",
+      "he": "וְכִֽי־יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טׇהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃",
+      "en": "If someone dies suddenly nearby,dnearby Cf. 19.14–16. defiling [a nazirite’s] consecrated hair, they shall shave their head at the time of becoming pure, shaving it on the seventh day.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בפתע. זֶה אֹנֶס:",
+          "en": "בפתע — This refers to a Nazarite who defiles himself thus by accident.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פתאום. זֶה שׁוֹגֵג, וְיֵ\"א פֶּתַע פִּתְאֹם דָּבָר אֶחָד הוּא – מִקְרֶה שֶׁל פִּתְאוֹם:",
+          "en": "פתאם — This refers to one who does so inadvertently (Sifrei Bamidbar 28:1; cf. Onkelos). — But there are some who say that פתע פתאום denotes one thing, viz., an occurrence of suddenness (by a sudden occurrence, suddenly).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "וכי ימות מת עליו. בָּאֹהֶל שֶׁהוּא בוֹ:",
+          "en": "וכי ימות מת עליו AND IF A MAN DIES עליו — i.e., in the tent where he (the נזיר) happens to be.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ביום טהרתו. בְּיוֹם הַזָּאָתוֹ, אוֹ אֵינוֹ אֶלָּא בַשְּׁמִינִי שֶׁהוּא טָהוֹר לְגַמְרֵי, תַּ\"ל \"בַּיּוֹם הַשְּׁבִיעִי\", אִי שְׁבִיעִי יָכוֹל אֲפִלּוּ לֹא הִזָּה, תַּ\"ל \"בְּיוֹם טָהֳרָתוֹ\" (ספרי):",
+          "en": "ביום טהרתו [THEN HE SHALL CLIP THE HAIR OF HIS HEAD] IN THE DAY OF HIS CLEANSING — i.e., on the day when he is being sprinkled with the מי חטאת, (the water containing the ashes of the Red Heifer; cf. Numbers 19:17). Or perhaps this is not so, but it means, on the eighth day when he is perfectly clean! It, however, continues: “on the seventh day [he shall clip it]”. But if it had written only “on the seventh day [he shall clip it]” I might have thought that he must clip his hair even if one had not sprinkled him for some reason or other! Scripture therefore also states “on the day of his cleansing [he shall clip the hair of his head]” (Sifrei Bamidbar 28:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:10",
+      "he": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יָבִא֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה אֶ֨ל־הַכֹּהֵ֔ן אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+      "en": "On the eighth day they shall bring two turtledoves or two pigeons to the priest, at the entrance of the Tent of Meeting.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וביום השמיני יבא שתי תרים. לְהוֹצִיא אֶת הַשְּׁבִיעִי, אוֹ אֵינוֹ אֶלָּא לְהוֹצִיא אֶת הַתְּשִׁיעִי ? קָבַע זְמַן לַקְּרֵבִין וְקָבַע זְמַן לַמַּקְרִיבִין, מַה קְּרֵבִין הִכְשִׁיר שְׁמִינִי וּמִשְּׁמִינִי וָהָלְאָה, אַף מַקְרִיבִין שְׁמִינִי וּמִשְּׁמִינִי וָהָלְאָה (שם):",
+          "en": "וביום השמיני יבא שתי תרים AND ON THE EIGHTH DAY HE SHALL BRING TWO TURTLES — On the eighth day, thus excluding the seventh. Or perhaps this is not so, but it is intended to exclude the ninth day (i.e., that the offering must not be brought later than the eighth day)? But Scripture has fixed a date for the animals which are to be offered (cf. Leviticus 22:27), and has also fixed a date for the persons who bring offerings (Exodus 22:29). How is it in the case of the animals offered as sacrifices? It declared the eighth day and any time from the eighth onward as fit for offering them! So, too, in the case of persons offering sacrifices “the eighth day” implies the eighth and any day from the eighth onwards and only excludes the seventh or any earlier day (Sifrei Bamidbar 29:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:11",
+      "he": "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+      "en": "The priest shall offer one as a purgation offering and the other as a burnt offering, and make expiation on [the nazirite’s] behalf for the guilt incurred through the corpse. That same day their head shall be reconsecrated;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מאשר חטא על הנפש. שֶׁלֹּא נִזְהַר מִטֻּמְאַת הַמֵּת, רַבִּי אֶלְעָזָר הַקַּפָּר אוֹמֵר, שֶׁצִּעֵר עַצְמוֹ מִן הַיַּיִן (ספרי; נזיר י\"ט):",
+          "en": "מאשר חטא על הנפש [AND THE PRIEST … MAKE EXPIATION FOR HIM] FOR THAT HE HATH SINNED BY THE DEAD — i.e., that he has not been on his guard against defilement by a corpse. — R. Eleazer ha-Kappar said, “his sin consists in that he has afflicted himself by abstaining from the enjoyment of wine (Sifrei Bamidbar 30; Nazir 19a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וקדש את ראשו. לַחֲזֹר וּלְהַתְחִיל מִנְיַן נְזִירוּתוֹ:",
+          "en": "וקדש את ראשו AND HE SHALL HALLOW HIS HEAD [THAT SAME DAY] by beginning again the counting of his Nazaritehood (i.e., he resumes his Nazaritehood).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:12",
+      "he": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+      "en": "and they shall rededicate to GOD their term as nazirite, bringing a lamb in its first year as a penalty offering. The previous period shall be void, since the consecrated hair was defiled.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והזיר לה' את ימי נזרו. יַחֲזֹר וְיִמְנֶה נְזִירוּתוֹ כְּבַתְּחִלָּה:",
+          "en": "'והדר לה את ימי נזרו AND HE SHALL CONSECRATE IN HONOUR OF THE LORD THE DAYS OF HIS NAZARITEHOOD — i.e., he shall again count the days of his Nazaritehood as though for the first time (i.e., he must begin the counting of the period of his Nazaritehood from the first day, not resume it at the point where it was broken off).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והימים הראשנים יפלו. לֹא יַעֲלוּ מִן הַמִּנְיָן:",
+          "en": "והימים הראשנים יפלו AND THE DAYS THAT WERE BEFORE SHALL BE LOST — i.e. shall not come into account.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:13",
+      "he": "וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+      "en": "This is the ritual for the nazirite: On the day that a term as nazirite is completed, theyethey Or “it,” i.e., the consecrated hair; cf. v. 19. shall be brought to the entrance of the Tent of Meeting.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יביא אתו. יָבִיא אֶת עַצְמוֹ, וְזֶה אֶחָד מִשְּׁלֹשָׁה אֶתִים שֶׁהָיָה רַבִּי יִשְׁמָעֵאל דּוֹרֵשׁ כֵּן, כַּיּוֹצֵא בוֹ \"וְהִשִּׂיאוּ אוֹתָם עֲוֹן אַשְׁמָה\" (ויקרא כ\"ב) — אֶת עַצְמָם, כַּיּוֹצֵא בוֹ \"וַיִּקְבֹּר אֹתוֹ בַגַּי\" (דברים ל\"ד) — הוּא קָבַר אֶת עַצְמוֹ:",
+          "en": "יביא אתו means, he shall bring himself. This (the word אתו) is one of the three cases of את with a pronominal suffix which R. Ishmael explained thus (as being reflexive and not accusative pronouns). Similar to it is (Leviticus 22:16): והשאיו אותם עון אשמה “and they will bring אותם the iniquity of trespass”, i.e., “and they will bring upon themselves”. Similar to it is, (Deuteronomy 34:6) ויקבר אתו בני “He (Moses) buried himself in the glen”, (Sifrei Bamidbar 32; cf. Rashi on Leviticus 22:16 and Note thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:14",
+      "he": "וְהִקְרִ֣יב אֶת־קׇרְבָּנ֣וֹ לַיהֹוָ֡ה כֶּ֩בֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃",
+      "en": "As an offering to GOD they shall present: one male lamb in its first year, without blemish, for a burnt offering; one ewe lamb in its first year, without blemish, for a purgation offering; one ram without blemish for an offering of well-being;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:15",
+      "he": "וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם׃",
+      "en": "a basket of unleavened cakes of choice flour with oil mixed in, and unleavened wafers spread with oil; and the proper grain offerings and libations.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומנחתם ונסכיהם. שֶׁל עוֹלָה וּשְׁלָמִים; לְפִי שֶׁהָיוּ בִכְלָל, וְיָצְאוּ לִדּוֹן בְּדָבָר חָדָשׁ — שֶׁיִּטָּעֲנוּ לֶחֶם — הֶחֱזִירָן לִכְלָלָן, שֶׁיִּטָּעֲנוּ נְסָכִים כְּדִין עוֹלָה וּשְׁלָמִים (ספרי):",
+          "en": "ומנחתם ונסכיהם AND THEIR MEAL-OFFERING AND THEIR DRINK-OFFERINGS — i.e., those of the burnt-offering and the feast-offerings (mentioned in v. 14; no חטאת except that of a leper requires נסכים). Because these (the עולה and the שלמים of the Nazir) are included in (come under) the general rule governing עולה and שלמים and have here been excepted to become subject to a new matter, viz., that they require an offering of bread together with them. Scripture restores them to the general rule by expressly stating that they require drink-offerings (and meal-offerings) as is the law of עולה and שלמים in general (Sifrei Bamidbar 34).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "חלות מצות ורקיקי מצות. עֶשֶׂר מִכָּל מִין:",
+          "en": "חלות מצות ורקיקי מצות (the word מצות must be connected with חלות too) PIERCED CAKES UNLEAVENED AND WAFERS OF UNLEAVENED BREAD — ten of each kind (Menachot 77b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:16",
+      "he": "וְהִקְרִ֥יב הַכֹּהֵ֖ן לִפְנֵ֣י יְהֹוָ֑ה וְעָשָׂ֥ה אֶת־חַטָּאת֖וֹ וְאֶת־עֹלָתֽוֹ׃",
+      "en": "The priest shall present these before GOD and offer the purgation offering and the burnt offering.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:17",
+      "he": "וְאֶת־הָאַ֜יִל יַעֲשֶׂ֨ה זֶ֤בַח שְׁלָמִים֙ לַֽיהֹוָ֔ה עַ֖ל סַ֣ל הַמַּצּ֑וֹת וְעָשָׂה֙ הַכֹּהֵ֔ן אֶת־מִנְחָת֖וֹ וְאֶת־נִסְכּֽוֹ׃",
+      "en": "He shall offer the ram as a sacrifice of well-being to GOD, together with the basket of unleavened cakes; the priest shall also offer the grain offerings and the libations.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "זבח שלמים לה' על סל המצות. יִשְׁחַט אֶת הַשְּׁלָמִים עַל מְנָת לְקַדֵּשׁ אֶת הַלֶּחֶם (עי' מנחות מ\"ו):",
+          "en": "זבח שלמים לה' על סל המצות [AND HE SHALL OFFER THE RAM] FOR A SACRIFICE OF A FEAST-OFFERING UNTO THE LORD, WITH THE BASKET OF UNLEAVENED BREAD — i.e., he shall slaughter the feast-offerings with the intention of sanctifying the bread by this very act (cf. Menachot 46b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את מנחתו ואת נסכו. שֶׁל אַיִל:",
+          "en": "את מנחתו ואת נסכו [THE PRIEST SHALL ALSO OFFER] ITS MEAL-OFFERING AND ITS DRINK-OFFERING — those of the ram.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:18",
+      "he": "וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת־רֹ֣אשׁ נִזְר֑וֹ וְלָקַ֗ח אֶת־שְׂעַר֙ רֹ֣אשׁ נִזְר֔וֹ וְנָתַן֙ עַל־הָאֵ֔שׁ אֲשֶׁר־תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים׃",
+      "en": "The nazirite shall then shave their consecrated hair, at the entrance of the Tent of Meeting, and take those locks of consecrated hair and put them on the fire that is under the sacrifice of well-being.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וגלח הנזיר פתח אוהל מועד. יָכוֹל יְגַלֵּחַ בָּעֲזָרָה, הֲרֵי זֶה דֶּרֶךְ בִּזָּיוֹן, אֶלָּא וְגִלַּח הַנָּזִיר לְאַחַר שְׁחִיטַת הַשְּׁלָמִים שֶׁכָּתוּב בָּהֶן \"וּשְׁחָטוֹ פֶּתַח אֹהֶל מוֹעֵד\":",
+          "en": "וגלח הנזיר פתח אהל מועד AND THE NAZARITE SHALL CLIP [THE HAIR OF THE HEAD OF HIS NAZARITEHOOD] AT THE ENTRANCE OF THE APPOINTED TENT — One might think that he must cut his hair in the forecourt (for it states at the entrance of the appointed tent)! Surely, this would be treating the forecourt in a contemptuous manner! But the meaning is: the Nazarite shall cut his hair after the feast-offerings had been slaughtered of which Scripture writes, (Leviticus 3:2) “and he shall slaughter it פתח אהל מועד” (cf. Sifrei Bamidbar 35; Nazir 45a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אשר תחת זבח השלמים. תַּחַת הַדּוּד שֶׁהוּא מְבַשְּׁלָן בּוֹ, לְפִי שֶׁשַּׁלְמֵי נָזִיר הָיוּ מִתְבַּשְּׁלִין בָּעֲזָרָה, שֶׁצָּרִיךְ לִטֹּל הַכֹּהֵן הַזְּרוֹעַ אַחַר שֶׁנִּתְבַּשְּׁלָה וּלְהָנִיף לִפְנֵי ה' (עי' נזיר מ\"ה):",
+          "en": "אשר תחת זבח השלמים [AND HE SHALL TAKE THE HAIR … AND PUT IT IN THE FIRE] WHICH IS UNDER THE SACRIFICE OF THE FEAST-OFFERINGS — i.e., under the pot in which he boils it (the שלמים); because the feast offerings of the Nazarite were boiled in the forecourt since the priest had to take “the shoulder” after it had been boiled (cf. vv. 19 and 20) and to wave it before the Lord (cf. Nazir 45b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:19",
+      "he": "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַזְּרֹ֣עַ בְּשֵׁלָה֮ מִן־הָאַ֒יִל֒ וְֽחַלַּ֨ת מַצָּ֤ה אַחַת֙ מִן־הַסַּ֔ל וּרְקִ֥יק מַצָּ֖ה אֶחָ֑ד וְנָתַן֙ עַל־כַּפֵּ֣י הַנָּזִ֔יר אַחַ֖ר הִֽתְגַּלְּח֥וֹ אֶת־נִזְרֽוֹ׃",
+      "en": "The priest shall take the shoulder of the ram when it has been boiled, one unleavened cake from the basket, and one unleavened wafer, and place them on the hands of the nazirite after the consecrated hair has been shaved.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הזרע בשלה. לְאַחַר שֶׁנִּתְבַּשְּׁלָה (חולין פ\"ח):",
+          "en": "הזרע בשלה [AND THE PRIEST SHALL TAKE] THE SHOULDER בשלה — i.e. after it has been boiled.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:20",
+      "he": "וְהֵנִיף֩ אוֹתָ֨ם הַכֹּהֵ֥ן&thinsp;׀&thinsp;תְּנוּפָה֮ לִפְנֵ֣י יְהֹוָה֒ קֹ֤דֶשׁ הוּא֙ לַכֹּהֵ֔ן עַ֚ל חֲזֵ֣ה הַתְּנוּפָ֔ה וְעַ֖ל שׁ֣וֹק הַתְּרוּמָ֑ה וְאַחַ֛ר יִשְׁתֶּ֥ה הַנָּזִ֖יר יָֽיִן׃",
+      "en": "The priest shall elevate them as an elevation offering before GOD; and this shall be a sacred donation for the priest, in addition to the breast of the elevation offering and the thigh of gift offering. After that the nazirite may drink wine.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קדש הוא לכהן. הַחַלָּה וְהָרָקִיק וְהַזְּרוֹעַ תְּרוּמָה הֵן לַכֹּהֵן:",
+          "en": "קדש הוא לכהן IT IS HOLY FOR THE PRIEST — The cake, the wafer and the shoulder are a heave-offering for the priest.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "על חזה התנופה. מִלְּבַד חָזֶה וְשׁוֹק הָרְאוּיִים לוֹ מִכָּל שְׁלָמִים מוּסָף עַל שַׁלְמֵי נָזִיר הַזְּרוֹעַ הַזֶּה, לְפִי שֶׁהָיוּ שַׁלְמֵי נָזִיר בִּכְלָל, וְיָצְאוּ לִדּוֹן בַּדָּבָר הֶחָדָשׁ — לְהַפְרָשַׁת זְרוֹעַ — הֻצְרַךְ לְהַחֲזִירָן לִכְלָלָן לִדּוֹן אַף בְּחָזֶה וְשׁוֹק (ספרי):",
+          "en": "על חזה התנופה means: BESIDES THE BREAST AND THE SHOULDER which are due to him (the priest) from all feast-offerings, there is to be added to the portions assigned to the priest in the case of the Nazarite’s feast-offerings, this shoulder. Because the feast-offerings of the Nazarite are included in the general rule governing feast-offerings but were excepted to become subject to a new matter — the setting apart of the shoulder for the priest — it became necessary to restore them to the general rule of שלמים by expressly stating that they are subjected also to the setting apart of the breast and thigh as are שלמים in general (Sifrei Bamidbar 37).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:21",
+      "he": "זֹ֣את תּוֹרַ֣ת הַנָּזִיר֮ אֲשֶׁ֣ר יִדֹּר֒ קׇרְבָּנ֤וֹ לַֽיהֹוָה֙ עַל־נִזְר֔וֹ מִלְּבַ֖ד אֲשֶׁר־תַּשִּׂ֣יג יָד֑וֹ כְּפִ֤י נִדְרוֹ֙ אֲשֶׁ֣ר יִדֹּ֔ר כֵּ֣ן יַעֲשֶׂ֔ה עַ֖ל תּוֹרַ֥ת נִזְרֽוֹ׃&nbsp;{פ}",
+      "en": "Such is the obligation of a nazirite; except that those who vow an offering to GOD of what they can afford, beyond their nazirite requirements, must do exactly according to the vow that they have made beyond their obligation as nazirites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מלבד אשר תשיג ידו. שֶׁאִם אָמַר הֲרֵינִי נָזִיר עַל מְנָת לְגַלֵּחַ עַל מֵאָה עוֹלוֹת וְעַל מֵאָה שְׁלָמִים, כְּפִי נִדְרוֹ אֲשֶׁר יִדֹּר כֵּן יַעֲשֶֹה — מוּסָף עַל תּוֹרַת נִזְרוֹ: עַל תּוֹרַת הַנָּזִיר, מוּסָף וְלֹא יֶחְסַר, שֶׁאִם אָמַר הֲרֵינִי נָזִיר חָמֵשׁ נְזִירוֹת עַל מְנָת לְגַלֵּחַ עַל שָׁלֹשׁ בְּהֵמוֹת הַלָּלוּ, אֵין אֲנִי קוֹרֵא בוֹ \"כַּאֲשֶׁר יִדֹּר כֵּן יַעֲשֶֹה\" (שם):",
+          "en": "מלבד אשר תשיג ידו [THIS IS THE LAW OF THE NAZARITE WHO HATH VOWED, AND OF HIS OFFERING UNTO THE LORD …] BESIDES THAT WHICH HIS HAND SHALL GET — This implies that if he vowed: “Behold, I take upon myself to become a Nazir under the condition that I shall cut my hair (i.e. that I shall make the final ceremony) in connection with the offering of a hundred burnt offerings and a hundred feast offerings” (whilst really there is prescribed a single offering of each kind) — then כפי נדרו אשר ידור כן יעשה ACCORDING TO THE VOW WHICH HE HATH VOWED MUST HE DO, but “in addition to (על) what is prescribed in the usual law of the Nazarite”. In addition to it, but not omitting any of it — so that if he vowed: “Behold, I take upon myself to become a Nazir five times under the condition to cut my hair (i.e. to make the final ceremony once) in connection with the offering of only these three animals (i. e. one עולה, one שלמים and one חטאת, whilst after the elapse of each term an עולה and a שלמים offering are due), I do not read with reference to him (i.e. I do not apply to him the words): “According to the vow which he vowed, so must he do” [— but he must bring each of the offerings five times as prescribed] (Sifrei Bamidbar 38).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:22",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD spoke to Moses:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 6:23",
+      "he": "דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר כֹּ֥ה תְבָרְכ֖וּ אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל אָמ֖וֹר לָהֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Speak to Aaron and his sons: Thus shall you bless the people of Israel. Say to them:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אמור. כְּמוֹ זָכוֹר, שָׁמוֹר, בְּלַעַז דישנ\"ט:",
+          "en": "אמור is infinitive. Similar forms are זכור (Exodus 20:8), שמור (Deuteronomy 5:12); in O. F. disant, (English = saying).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אמור להם. שֶׁיִּהְיוּ כֻלָּם שׁוֹמְעִים (שם):",
+          "en": "אמור להם SAYING UNTO THEM — so that all of them should hear the blessing (it would not suffice to pronounce the blessings upon the Israelites in their absence; cf. Sifrei Bamidbar 39).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אמור. מָלֵא — לֹא תְבָרְכֵם בְּחִפָּזוֹן וּבַהֲלוּת, אֶלָּא בְכַוָּנָה וּבְלֵב שָׁלֵם (תנחומא):",
+          "en": "אמור is written plene (with ו after the מ) thus indicating: ye shall not bless them hurriedly and hastily, but devoutly and with a whole heart (Midrash Tanchuma, Nasso 10).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:24",
+      "he": "יְבָרֶכְךָ֥ יְהֹוָ֖ה וְיִשְׁמְרֶֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "GOD bless you and protect you!",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יברכך. שֶׁיִּתְבָּרְכוּ נְכָסֶיךָ:",
+          "en": "יברכך [THE LORD] BLESS THEE — that thy property may increase (Sifrei Bamidbar 40).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישמרך. שֶׁלֹּא יָבֹאוּ עָלֶיךָ שׁוֹדְדִים לִטֹּל מָמוֹנְךָ; שֶׁהַנּוֹתֵן מַתָּנָה לְעַבְדּוֹ אֵינוֹ יָכוֹל לְשָׁמְרוֹ מִכָּל אָדָם, וְכֵיוָן שֶׁבָּאִים לִסְטִים עָלָיו וְנוֹטְלִין אוֹתָהּ מִמֶּנּוּ, מַה הֲנָאָה יֵשׁ לוֹ בְּמַתָּנָה זוֹ? אֲבָל הַקָּבָּ\"ה, הוּא הַנּוֹתֵן, הוּא הַשּׁוֹמֵר; וְהַרְבֵּה מִדְרָשִׁים דָּרְשׁוּ בוֹ בְּסִפְרֵי:",
+          "en": "וישמרך AND MAY HE GUARD THEE — that no robbers come upon thee to take away thy property. For a human being who gives a present to his servant cannot guard him against everybody, and if a band of robbers attack him and take it away, what pleasure can he, then, derive from this present?! The Holy One, blessed be He, however, both gives and guards — against everybody (Midrash Tanchuma, Nasso 10). Many Midrashic interpretations are given of this verse in the Sifrei (Sifrei Bamidbar 40).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:25",
+      "he": "יָאֵ֨ר יְהֹוָ֧ה&thinsp;׀&thinsp;פָּנָ֛יו אֵלֶ֖יךָ וִֽיחֻנֶּֽךָּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "GOD deal kindly and graciously with you!fdeal kindly…with Lit. “make His face to shine upon.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יאר השם פניו אליך. יַרְאֶה לְךָ פָּנִים שׂוֹחֲקוֹת, פָּנִים צְהֻבּוֹת:",
+          "en": "יאר ה' פניו אליך THE LORD MAKE HIS FACE SHINE UPON THEE — i.e. May He show thee a friendly (more lit., smiling) countenance — a beaming countenance.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויחנך. יִתֵּן לְךָ חֵן (תנחומא):",
+          "en": "ויחנך means, May He grant thee good favour (חן) (Sifrei Bamidbar 41).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:26",
+      "he": "יִשָּׂ֨א יְהֹוָ֤ה&thinsp;׀&thinsp;פָּנָיו֙ אֵלֶ֔יךָ וְיָשֵׂ֥ם לְךָ֖ שָׁלֽוֹם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "GOD bestow favorgbestow favor Lit. “lift up His face.” upon you and grant you peace!hpeace Or “friendship.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ישא ה' פניו אליך. יִכְבֹּשׁ כַּעֲסוֹ:",
+          "en": "ישא ה' פניו אליך THE LORD LIFT UP HIS COUNTENANCE UPON THEE — This expresses the idea: May He suppress His anger (Numbers Rabbah 11:7)).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 6:27",
+      "he": "וְשָׂמ֥וּ אֶת־שְׁמִ֖י עַל־בְּנֵ֣י יִשְׂרָאֵ֑ל וַאֲנִ֖י אֲבָרְכֵֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Thus they shall link My name with the people of Israel, and I will bless them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ושמו את שמי. יְבָרְכוּם בַּשֵּׁם הַמְפֹרָשׁ (ספרי):",
+          "en": "ושמו את שמי AND THEY SHALL PUT MY NAME [UPON THE CHILDREN OF ISRAEL] — i.e. they shall bless them by the Proper Name of God (i. e. when uttering the blessings they shall use the Tetragrammaton and no substitute for it) (Sifrei Bamidbar 43).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואני אברכם. לְיִשְׂרָאֵל, וְאַסְכִּים עִם הַכֹּהֲנִים; דָּ\"אַ, וַאֲנִי אֲבָרְכֵם — לַכֹּהֲנִים (חולין מ\"ט):",
+          "en": "ואני אברכם AND I WILL BLESS THEM — i.e. I will bless the Israelites: I will give My approval to the priests’ blessings (lit., I will agree with the priests). — Another explanation of “And I will bless them” is: “And I will bless the priests (Chullin 49a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:1",
+      "he": "וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים אֶת־הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ אֹתוֹ֙ וְאֶת־כׇּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ וְאֶת־כׇּל־כֵּלָ֑יו וַיִּמְשָׁחֵ֖ם וַיְקַדֵּ֥שׁ אֹתָֽם׃",
+      "en": "On the day that Moses finished setting up the Tabernacle, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויהי ביום כלות משה. כלת כְּתִיב — יוֹם הֲקָמַת הַמִּשְׁכָּן הָיוּ יִשְׂרָאֵל כְּכַלָּה הַנִּכְנֶסֶת לַחֻפָּה (פסיקתא; תנחומא):",
+          "en": "ויהי ביום כלות משה AND IT CAME TO PASS ON THE DAY THAT MOSES HAD FINISHED [RAISING THE TABERNACLE] — The word כלות is written defective (without ו after the ל) thus indicating: on the day that the Tabernacle was erected Israel was like a bride (כלה) who goes beneath the marriage canopy (Midrash Tanchuma, Nasso 20). (Cf. Rashi on Exodus 31:18.)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כלות משה. בְּצַלְאֵל וְאָהֳלִיאָב וְכָל חֲכַם לֵב עָשׂוּ אֶת הַמִּשְׁכָּן, וּתְלָאוֹ הַכָּתוּב בְּמֹשֶׁה, לְפִי שֶׁמָּסַר נַפְשׁוֹ עָלָיו, לִרְאוֹת תַּבְנִית כָּל דָּבָר וְדָבָר כְּמוֹ שֶׁהֶרְאָהוּ בָהָר, לְהוֹרוֹת לְעוֹשֵׂי הַמְּלָאכָה, וְלֹא טָעָה בְּתַבְנִית אַחַת; וְכֵן מָצִינוּ בְּדָוִד, לְפִי שֶׁמָּסַר נַפְשׁוֹ עַל בִּנְיַן בֵּית הַמִּקְדָּשׁ, שֶׁנֶּאֱמַר \"זְכוֹר ה' לְדָוִד אֵת כָּל עֻנּוֹתוֹ אֲשֶׁר נִשְׁבַּע לַה'\" וְגוֹ' (תהילים קל\"ב), לְפִיכָךְ נִקְרָא עַל שְׁמוֹ, שֶׁנֶּאֱמַר (מ\"א י\"ב) \"רְאֵה בֵיתְךָ דָּוִד\" (תנחומא):",
+          "en": "כלות משה MOSES HAD FINISHED — Bezalel and Ohaliab and all the wise-hearted men made the Tabernacle (cf. Exodus 36:1), but Scripture attributes it to Moses (describes it as his work), because he devoted himself wholeheartedly to it, to see that the shape of each article was exactly as He had shewn him on the mountain — to show the workmen how it should be made; nor did he err in a single shape. — A similar thing do we find in the case of David: because he devoted himself to the building of the Holy Temple, — as it is said, (Psalms 132:1—5) “Lord, remember David, and all his affliction: How he swore unto the Lord … [I will not give sleep to mine eyes … until I find out a place for the Lord …]”, therefore it is called by his name, as it is said, (1 Kings 12:16) “Now see your own house, David\" (Midrash Tanchuma, Nasso 13).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כלות משה להקים. וְלֹא נֶאֱמַר בְּיוֹם הָקִים, מְלַמֵּד שֶׁכָּל שִׁבְעַת יְמֵי הַמִּלּוּאִים הָיָה מֹשֶׁה מַעֲמִידוֹ וּמְפָרְקוֹ, וּבְאוֹתוֹ הַיּוֹם הֶעֱמִידוֹ וְלֹא פֵּרְקוֹ, לְכָךְ נֶאֱמַר \"כַּלּוֹת מֹשֶׁה לְהָקִים\" — אוֹתוֹ הַיּוֹם כָּלוּ הֲקָמוֹתָיו, וְרֹאשׁ חֹדֶשׁ נִיסָן הָיָה, בַּשֵּׁנִי נִשְׂרְפָה הַפָּרָה, בַּשְּׁלִישִׁי הִזּוּ הַזָּיָה רִאשׁוֹנָה, וּבַשְּׁבִיעִי גִּלְּחוּ (ספרי):",
+          "en": "כלות משה להקים [AND IT CAME TO PASS ON THE DAY] THAT MOSES HAD FINISHED SETTING UP [THE TABERNACLE] — but it is not said, “on the day Moses set up”; this (the phrase כלות … להקים, “had finished setting up”) teaches us that during each of the seven days of installation Moses used to erect and dismantle it (the Tabernacle), but on that day (the eighth) he erected it but did not again dismantle it; for this reason it is said: “on the day that (Moses) finished setting up” — i.e. on that day his several erections of it came to an end. — It was the New Moon (the first day) of Nisan (cf. Rashi on Leviticus 9:1 and Note thereon), on the second the Red Heifer was burnt, on the third they (the Levites) were sprinkled for the first time with the water in which its ashes were mingled (cf. Rashi on 8:7), and on the seventh day, after having been again sprinkled, they shaved their bodies and were ready to enter on their duties (cf. 8:6—7) (Sifrei Bamidbar 44).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:2",
+      "he": "וַיַּקְרִ֙יבוּ֙ נְשִׂיאֵ֣י יִשְׂרָאֵ֔ל רָאשֵׁ֖י בֵּ֣ית אֲבֹתָ֑ם הֵ֚ם נְשִׂיאֵ֣י הַמַּטֹּ֔ת הֵ֥ם הָעֹמְדִ֖ים עַל־הַפְּקֻדִֽים׃",
+      "en": "the chieftains of Israel, the heads of ancestral houses, namely, the chieftains of the tribes, those who were in charge of enrollment, drew nearadrew near Cf. Exod. 14.10.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הם נשיאי המטת. שֶׁהָיוּ שׁוֹטְרִים עֲלֵיהֶם בְּמִצְרַיִם וְהָיוּ מֻכִּים עֲלֵיהֶם, שֶׁנֶּאֱמַר (שמות ה') וַיֻּכּוּ שֹׁטְרֵי בְּנֵי יִשְׂרָאֵל וְגוֹ' (ספרי):",
+          "en": "הם נשיאי המטת THESE ARE THE LEADERS OF THE TRIBES — They were the officers [appointed] over them in Egypt, and they were beaten on account of them, as it says (Exodus 5:14),“The officers of the children of Israel were beaten” (Sifrei Bamidbar 45).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "הם העמדים על הפקדים. שֶׁעָמְדוּ עִם מֹשֶׁה וְאַהֲרֹן כְּשֶׁמָּנוּ אֶת יִשְֹרָאֵל, שֶׁנֶּאֱמַר \"וְאִתְּכֶם יִהְיוּ וְגוֹ'\" (במדבר א'):",
+          "en": "הם העמדים על הפקדים THEY WHO STOOD OVER THE COUNTING — They stood with Moses and Aaron when they counted the Israelites, as it says,“With you [Moses and Aaron] there shall be [a man from each tribe]” (Numbers 1:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:3",
+      "he": "וַיָּבִ֨יאוּ אֶת־קׇרְבָּנָ֜ם לִפְנֵ֣י יְהֹוָ֗ה שֵׁשׁ־עֶגְלֹ֥ת צָב֙ וּשְׁנֵ֣י עָשָׂ֣ר בָּקָ֔ר עֲגָלָ֛ה עַל־שְׁנֵ֥י הַנְּשִׂאִ֖ים וְשׁ֣וֹר לְאֶחָ֑ד וַיַּקְרִ֥יבוּ אוֹתָ֖ם לִפְנֵ֥י הַמִּשְׁכָּֽן׃",
+      "en": "and brought their offering before GOD: six draught carts and twelve oxen, a cart for every two chieftains and an ox for each one. When they had brought them before the Tabernacle,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שש עגלת צב. אֵין צָב אֶלָּא מְחֻפִּים, וְכֵן \"וּבַצַּבִּים וּבַפְּרָדִים\" (ישעיה ס\"ו); עֲגָלוֹת מְכֻסּוֹת קְרוּיוֹת צַבִּים:",
+          "en": "שש עגלת צב SIX COVERED WAGGONS — The word צב means “covered over”. Similar is, (Isaiah 66:20) “(And they shall bring all your brethren …] in covered wagons (בצבים) and upon mules”, where covered wagons are called צבים without the addition of a word denoting “wagons” (Sifrei Bamidbar 46 1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויקריבו אותם לפני המשכן. שֶׁלֹּא קִבֵּל מֹשֶׁה מִיָּדָם עַד שֶׁנֶּאֱמַר לוֹ מִפִּי הַמָּקוֹם; אָמַר רַבִּי נָתָן מָה רָאוּ הַנְּשִׂיאִים לְהִתְנַדֵּב כָּאן בַּתְּחִלָּה, וּבִמְלֶאכֶת הַמִּשְׁכָּן לֹא הִתְנַדְּבוּ תְּחִלָּה? אֶלָּא כָּךְ אָמְרוּ הַנְּשִׂיאִים, יִתְנַדְּבוּ צִבּוּר מַה שֶּׁיִּתְנַדְּבוּ, וּמַה שֶּׁמְּחַסְּרִין, אָנוּ מַשְׁלִימִין, כֵּיוָן שֶׁרָאוּ שֶׁהִשְׁלִימוּ צִבּוּר אֶת הַכֹּל, שֶׁנֶּאֱמַר \"וְהַמְּלָאכָה הָיְתָה דַיָּם\" (שמות ל\"ו), אָמְרוּ מֵעַתָּה מַה לָּנוּ לַעֲשׂוֹת? הֵבִיאוּ אַבְנֵי הַשֹּׁהַם וְהַמִּלּוּאִים לָאֵפוֹד וְלַחֹשֶׁן, לְכָךְ הִתְנַדְּבוּ כָּאן תְּחִלָּה (ספרי):",
+          "en": "ויקרבו אותם לפני המשכן AND THEY BROUGHT THEM BEFORE THE TABERNACLE — because Moses would not accept them (the gifts) at their (the princes’) hands until he was so bidden by the mouth of the Omnipresent (cf. v. 5). — Rabbi Nathan said: What reason had the princes to give their contributions here first of all the people, whereas at the work of the Tabernacle they were not the first but the last to contribute? But — he replied — the princes spoke thus: “Let the community in general contribute all they wish to give and then what will then be lacking we shall supply”. As soon as they saw that the community gave everything needed in its entirety (lit., that the community completed everything) — as it said, (Exodus 36:7) “For the stuff they had was enough [for all the work to make it]” — the princes asked, ‘What can we now do’? Therefore they brought the onyx stones, and stones for setting for the Ephod and for the breast plate. That is why they were here the first to contribute” (Sifrei Bamidbar 45 1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:4",
+      "he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "GOD said to Moses:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:5",
+      "he": "קַ֚ח מֵֽאִתָּ֔ם וְהָי֕וּ לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְנָתַתָּ֤ה אוֹתָם֙ אֶל־הַלְוִיִּ֔ם אִ֖ישׁ כְּפִ֥י עֲבֹדָתֽוֹ׃",
+      "en": "Accept these from them for use in the service of the Tent of Meeting, and give them to the Levites according to their respective services.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:6",
+      "he": "וַיִּקַּ֣ח מֹשֶׁ֔ה אֶת־הָעֲגָלֹ֖ת וְאֶת־הַבָּקָ֑ר וַיִּתֵּ֥ן אוֹתָ֖ם אֶל־הַלְוִיִּֽם׃",
+      "en": "Moses took the carts and the oxen and gave them to the Levites.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:7",
+      "he": "אֵ֣ת&thinsp;׀ שְׁתֵּ֣י הָעֲגָל֗וֹת וְאֵת֙ אַרְבַּ֣עַת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י גֵרְשׁ֑וֹן כְּפִ֖י עֲבֹדָתָֽם׃",
+      "en": "Two carts and four oxen he gave to the Gershonites, as required for their service,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כפי עבדתם. שֶׁהָיָה מַשָּׂא בְנֵי גֵרְשׁוֹן קַל מִשֶּׁל מְרָרִי, שֶׁהָיוּ נוֹשְׂאִים הַקְּרָשִׁים וְהָעַמּוּדִים וְהָאֲדָנִים:",
+          "en": "כפי עבדתם [TWO WAGGONS AND FOUR OXEN HE GAVE UNTO THE SONS OF GERSHON,] ACCORDING TO THEIR SERVICE — only two wagons and four oxen, whilst the sons of Merari were given twice as many, because the burden of the sons of Gershon was lighter than that of the sons of Merari since they carried the boards, the columns and the sockets.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:8",
+      "he": "וְאֵ֣ת&thinsp;׀ אַרְבַּ֣ע הָעֲגָלֹ֗ת וְאֵת֙ שְׁמֹנַ֣ת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י מְרָרִ֑י כְּפִי֙ עֲבֹ֣דָתָ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+      "en": "and four carts and eight oxen he gave to the Merarites, as required for their service—under the direction of Ithamar son of Aaron the priest.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:9",
+      "he": "וְלִבְנֵ֥י קְהָ֖ת לֹ֣א נָתָ֑ן כִּֽי־עֲבֹדַ֤ת הַקֹּ֙דֶשׁ֙ עֲלֵהֶ֔ם בַּכָּתֵ֖ף יִשָּֽׂאוּ׃",
+      "en": "But to the Kohathites he did not give any; since theirs was the service of the [most] sacred objects, their porterage was by shoulder.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי עבדת הקדש עלהם. מַשָּׂא דְּבַר הַקְּדֻשָּׁה — הָאָרוֹן וְהַשֻּׁלְחָן וְגוֹ', לְפִיכָךְ בַּכָּתֵף יִשָּׂאוּ:",
+          "en": "כי עבדת הקדש עלהם [BUT TO THE SONS OF KOHATH HE GAVE NONE (NO WAGGONS)] BECAUSE THE עבדת הקדש BELONGS UNTO THEM — (not the service of the Sanctuary devolved upon them, but the service in connection with) carrying the most holy objects: the ark, the table, etc. was incumbent upon them, therefore בכתף ישאו they should carry upon their shoulders (not in wagons).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:10",
+      "he": "וַיַּקְרִ֣יבוּ הַנְּשִׂאִ֗ים אֵ֚ת חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ בְּי֖וֹם הִמָּשַׁ֣ח אֹת֑וֹ וַיַּקְרִ֧יבוּ הַנְּשִׂיאִ֛ם אֶת־קׇרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃",
+      "en": "The chieftains also brought the dedication offering for the altar upon its being anointed. As the chieftains were presenting their offerings before the altar,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויקריבו הנשאים את חנכת המזבח. לְאַחַר שֶׁהִתְנַדְּבוּ הָעֲגָלוֹת וְהַבָּקָר לָשֵׂאת הַמִּשְׁכָּן, נְשָׂאָם לִבָּם לְהִתְנַדֵּב קָרְבְּנוֹת הַמִּזְבֵּחַ לְחַנְּכוֹ:",
+          "en": "ויקריבו הנשאים את חנכת המזבח AND THE PRINCES OFFERED FOR DEDICATING THE ALTAR — After they had presented the waggons and the oxen for carrying the Tabernacle, their heart prompted them to present offerings for the altar, in order to dedicate it (Here, ויקריבו denotes: they offered sacrifice).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויקריבו הנשיאם את קרבנם לפני המזבח. כִּי לֹא קִבֵּל מֹשֶׁה מִיָּדָם עַד שֶׁנֶּאֱמַר לוֹ מִפִּי הַגְּבוּרָה (ספרי):",
+          "en": "ויקריבו הנשיאם את קרבנם לפני המזבח AND THE PRINCES BROUGHT THEIR OFFERING BEFORE THE ALTAR, because Moses would not accept them at their hands until he was so bidden by the mouth of the Almighty (Sifrei Bamidbar 47).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:11",
+      "he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה נָשִׂ֨יא אֶחָ֜ד לַיּ֗וֹם נָשִׂ֤יא אֶחָד֙ לַיּ֔וֹם יַקְרִ֙יבוּ֙ אֶת־קׇרְבָּנָ֔ם לַחֲנֻכַּ֖ת הַמִּזְבֵּֽחַ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "GOD said to Moses: Let them present their offerings for the dedication of the altar, one chieftain each day.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יקריבו את קרבנם לחנכת המזבח. וַעֲדַיִן לֹא הָיָה יוֹדֵעַ מֹשֶׁה הֵיאַךְ יַקְרִיבוּ, אִם כְּסֵדֶר תּוֹלְדוֹתָם, אִם כְּסֵדֶר הַמַּסָּעוֹת, עַד שֶׁנֶּאֱמַר לוֹ מִפִּי הַקָּבָּ\"ה יַקְרִיבוּ לַמַּסָּעוֹת, אִישׁ יוֹמוֹ (שם):",
+          "en": "יקריבו את קרבנם לחנכת המזבח THEY SHALL OFFER THEIR OFFERING, [EACH PRINCE ON HIS DAY] FOR THE DEDICATING OF THE ALTAR — but Moses did not yet know how they were to bring their offerings — whether according to the order of their birth (i.e. according to the order in which the sons of Jacob after whom the tribes were named were born, in which case the prince of the tribe of Reuben would have offered first), or according to the order in which they moved off on the journeys, (when Judah would be the first), until he was told by the mouth of the Holy One, blessed be He: “according to the order on the journeys shall they offer” — yet each prince on his day (and not three together as they actually journeyed) (cf. Sifrei Bamidbar 47).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:12",
+      "he": "וַיְהִ֗י הַמַּקְרִ֛יב בַּיּ֥וֹם הָרִאשׁ֖וֹן אֶת־קׇרְבָּנ֑וֹ נַחְשׁ֥וֹן בֶּן־עַמִּינָדָ֖ב לְמַטֵּ֥ה יְהוּדָֽה׃",
+      "en": "The one who presented his offering on the first day was Nahshon son of Amminadab of the tribe of Judah.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ביום הראשון. אוֹתוֹ הַיּוֹם נָטַל עֶשֶׂר עֲטָרוֹת, רִאשׁוֹן לְמַעֲשֵׂה בְרֵאשִׁית, רִאשׁוֹן לַנְּשִׂיאִים וְכוּ', כִּדְאִיתָא בְסֵדֶר עוֹלָם:",
+          "en": "ביום הראשון ON THE FIRST DAY — That day received ten crowns (was distinguished in ten different ways): it was the same day as was the first day of Creation, the first day on which the princes offered etc., as it is set forth in Seder Olam 7 (cf. Rashi on Leviticus 9:1 and Note 2 thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "למטה יהודה. יִחֲסוֹ הַכָּתוּב עַל שִׁבְטוֹ, וְלֹא שֶׁגָּבָה מִשִּׁבְטוֹ וְהִקְרִיב, אוֹ אֵינוֹ אוֹמֵר \"לְמַטֵּה יְהוּדָה\" אֶלָּא שֶׁגָּבָה מִשִּׁבְטוֹ וְהֵבִיא, תַּ\"ל \"זֶה קָרְבַּן נַחְשׁוֹן\" — מִשֶּׁלּוֹ הֵבִיא (שם):",
+          "en": "למטה יהודה [NACHSHON THE SON OF AMINADAB,] OF THE TRIBE OF JUDAH — By these words Scripture merely states his genealogy after his tribe, and they do not mean that he collected the offerings from his tribe and offered them on their behalf. Or perhaps it does state למטה יהודה only to intimate that he collected the offerings from his tribe and then brought them? Scripture, however, states, (v. 17): this was the offering of Nachshon — he brought it of that which was his own (Sifrei Bamidbar 48).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:13",
+      "he": "וְקׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שניהם מלאים סלת. לְמִנְחַת נְדָבָה:",
+          "en": "שניהם מלאים סלת BOTH OF THEM WERE FULL OF FINE FLOUR — for a free-will meal-offering.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:14",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עשרה זהב. כְּתַרְגּוּמוֹ, מִשְׁקַל עֶשֶׂר שִׁקְלֵי הַקֹּדֶשׁ הָיָה בָהּ:",
+          "en": "עשרה זהב — Understand this as the Targum does: there was in it (it contained) the weight of ten shekels of the Sanctuary.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מלאה קטרת. לֹא מָצִינוּ קְטֹרֶת לְיָחִיד וְלֹא עַל מִזְבֵּחַ הַחִיצוֹן אֶלָּא זוֹ בִּלְבַד, וְהוֹרָאַת שָׁעָה הָיְתָה (מנחות נ'):",
+          "en": "מלאה קטרת FULL OF FRANKINCENSE — We do not find frankincense prescribed as an offering for an individual, nor to have been offered on the outer altar except this one alone; this offering of frankincense by the princes was therefore an הוראת שעה, a temporary measure (Menachot 50b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:15",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פר אחד. מְיֻחָד שֶׁבְּעֶדְרוֹ (עי' ספרי):",
+          "en": "פר אחד ONE BULLOCK — i.e. that which is unique (מיוחד) in the herd (cf. Sifrei Bamidbar 50).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:16",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שעיר עזים אחד לחטאת. לְכַפֵּר עַל קֶבֶר הַתְּהוֹם — טֻמְאַת סָפֵק (עי' ספרי):",
+          "en": "שעיר עזים אחד לחטאת ONE KID OF THE GOATS FOR A SIN-OFFERING, to make expiation for uncleanness caused by a grave in the depths of the earth, (i.e. one that is not known to exist and it might therefore be assumed that people passed over it and thereby unwittingly became unclean), which was only a doubtful uncleanness (one about which there exists a doubt as to whether it actually has been incurred or not) (cf. Sifrei Bamidbar 51).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:17",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתּוּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Nahshon son of Amminadab.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:18",
+      "he": "בַּיּוֹם֙ הַשֵּׁנִ֔י הִקְרִ֖יב נְתַנְאֵ֣ל בֶּן־צוּעָ֑ר נְשִׂ֖יא יִשָּׂשכָֽר׃",
+      "en": "On the second day, Nethanel son of Zuar, chieftain of Issachar, made his offering.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הקריב נתנאל בן צוער … הקרב את קרבנו. מַה תַּ\"ל \"הִקְרִיב\" בְּשִׁבְטוֹ שֶׁל יִשָּׂשכָר מַה שֶּׁלֹּא נֶאֱמַר בְּכָל הַשְּׁבָטִים? לְפִי שֶׁבָּא רְאוּבֵן וְעִרְעֵר וְאָמַר: אַחַר שֶׁקְּדָמַנִי יְהוּדָה, אַקְרִיב אֲנִי אַחֲרָיו, אָמַר לוֹ מֹשֶׁה מִפִּי הַגְּבוּרָה נֶאֱמַר לִי שֶׁיַּקְרִיבוּ כְּסֵדֶר מַסָּעוֹת — לְדִגְלֵיהֶם, לְכָךְ אָמַר הִקְרִב אֶת קָרְבָּנוֹ, וְהוּא חָסֵר יוֹ\"ד, שֶׁהוּא מַשְׁמַע הַקְרֵב, לְשׁוֹן צִוּוּי, שֶׁמִּפִּי הַגְּבוּרָה נִצְטַוָּה \"הַקְרֵב\". וּמַהוּ הִקְרִיב הִקְרִיב שְׁנֵי פְעָמִים? שֶׁבִּשְׁבִיל שְׁנֵי דְבָרִים זָכָה לְהַקְרִיב שֵׁנִי לַשְּׁבָטִים, אַחַת שֶׁהָיוּ יוֹדְעִים בַּתּוֹרָה, שֶׁנֶּאֱמַר \"וּמִבְּנֵי יִשָּׂשכָר יוֹדְעֵי בִינָה לַעִתִּים\" (דבהי\"א י\"ב), וְאַחַת שֶׁהֵם נָתְנוּ עֵצָה לַנְּשִׂיאִים לְהִתְנַדֵּב קָרְבָּנוֹת הַלָּלוּ. וּבִיסוֹדוֹ שֶׁל רַבִּי מֹשֶׁה הַדַּרְשָׁן מָצָאתִי, אָמַר רַבִּי פִּנְחָס בֶּן יָאִיר נְתַנְאֵל בֶּן צוּעָר הִשִּׂיאָן עֵצָה זוֹ:",
+          "en": "הקריב נתנאל בן צוער... הקרב את קרבנו NETANEL BROUGHT HIS OFFERING...HE BROUGHT HIS OFFERING: Why is the word הִקְרִב, “brought [his offering],” used in connection with the tribe of Issachar, but is not used in connection with any of the [other] tribes? Because [the tribe of] Reuben came and complained, “Is it not enough that my brother Judah has preceded me? Let me [at least] offer up after him.” Moses said to him,“I was told by the Almighty that they should offer up in the order in which they travel, according to their divisions.” This is why it says: הִקְרִב אֶת קָרְבָּנוֹ, [in which the word הִקְרִב is] missing a“yud,” [thus] giving it the meaning of הַקְרֵב, in the imperative for he was commanded by the Almighty,“Bring the offering!” What is the meaning of הִקְרִב … הִקְרִב, twice? For because of two reasons he [Issachar] merited to be the second of the tribes to offer their sacrifices: One, because they were [well] versed in the Torah, as it says,“And of the sons of Issachar, those who had understanding of the times” (I Chron. 12:32). Another, because they advised the princes to contribute these offerings (Sifrei Bamidbar 53). In the treatise of Rabbi Moses Hadarshan [“the preacher”], I found [the following]: Rabbi Pinchas the son of Yair says [that] Netanel the son of Zu’ar gave them this idea.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:19",
+      "he": "הִקְרִ֨ב אֶת־קׇרְבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "He presented as his offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קערת כסף. מִנְיַן אוֹתִיוֹתָיו בְּגִימַטְרִיָּא תתק\"ל, כְּנֶגֶד שְׁנוֹתָיו שֶׁל אָדָם הָרִאשׁוֹן:",
+          "en": "קערת כסף — The numerical value of its letters (of the letters of these two words) is 930 corresponding to the years of Adam ha-Rishon (Numbers Rabbah 14:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שלשים ומאה משקלה. עַל שֵׁם שֶׁכְּשֶׁהֶעֱמִיד תּוֹלָדוֹת לְקִיּוּם הָעוֹלָם בֶּן ק\"ל שָנָה הָיָה, שֶׁנֶּאֱמַר \"וַיְחִי אָדָם שְׁלֹשִׁים וּמְאַת שָׁנָה וַיּוֹלֶד\" וְגוֹ' (בראשית ה'):",
+          "en": "שלשים ומאה משקלה THE WEIGHT THEREOF WAS AN HUNDRED AND THIRTY SHEKELS — in allusion to the fact that when he (Adam) first raised children to maintain the world in existence he was 130 years old, for it is said, (Genesis 5:3) “and Adam lived a hundred and thirty years and then begat [a son]” (Numbers Rabbah 14:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מזרק אחד כסף. בְּגִימַטְרִיָּא תק\"ך, עַל שֵׁם נֹחַ שֶׁהֶעֱמִיד תּוֹלָדוֹת בֶּן ת\"ק שָׁנָה, וְעַל שֵׁם עֶשְֹרִים שָׁנָה שֶׁנִּגְזְרָה גְּזֵרַת הַמַּבּוּל קֹדֶם תּוֹלְדוֹתָיו — כְּמוֹ שֶׁפֵּרַשְׁתִּי אֵצֶל \"וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה\" (שם ו') — לְפִיכָךְ נֶאֱמַר — מִזְרָק אֶחָד כֶּסֶף, וְלֹא נֶאֱמַר מִזְרָק כֶּסֶף אֶחָד כְּמוֹ שֶׁנֶּאֱמַר בַּקְּעָרָה, לוֹמַר שֶׁאַף אוֹתִיּוֹת שֶׁל אֶחָד מִצְטָרְפוֹת לַמִּנְיָן:",
+          "en": "מזרק אחד כסף — The numerical value of these words is 520, being an allusion to Noah who begot children at the age of 500 and also an allusion to the twenty years before his offspring were born when the decree regarding the flood was made (thus together 520 years) — just as I have set forth in my comment upon the verse (Genesis 6:3): “yet his days shall be 120 years”. — It is for this reason that it is here said, מזרק אחד כסף and it is not said, מזרק כסף אחד, the number being placed at the end of the phrase, as it is said of the charger (קערת כסף אחת), — to indicate that the letters of the word אחד, too, should be taken into account in this reckoning (Numbers Rabbah 14:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "שבעים שקל. כְּנֶגֶד שִׁבְעִים אֻמּוֹת שֶׁיָּצְאוּ מִבָּנָיו:",
+          "en": "שבעים שקל SEVENTY SHEKELS — corresponding to the seventy nations that descended from his (Noah’s) sons (Numbers Rabbah 14:12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:20",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כף אחת. כְּנֶגֶד הַתּוֹרָה שֶׁנִּתְּנָה מִיָּדוֹ שֶׁל הַקָּבָּ\"ה:",
+          "en": "כף) כף אחת also denotes “hand”) — in allusion to the Torah that was given from the hand of the Holy One, blessed be He (Numbers Rabbah 13:16).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עשרה זהב. כְּנֶגֶד עֲשֶׂרֶת הַדִּבְּרוֹת:",
+          "en": "עשרה זהב — TEN SHEKELS, GOLD — corresponding to the Ten Commandments (Numbers Rabbah 13:16).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מלאה קטרת. גִּימַטְרִיָּא שֶׁל קְטֹרֶת תרי\"ג מִצְוֹת, וּבִלְבַד שֶׁתַּחֲלִיף קוֹ\"ף בְּדָלֶ\"ת עַ\"יְ א\"ת ב\"ש ג\"ר ד\"ק:",
+          "en": "מלאה קטרת — The total of the word קטרת according to their numerical value is 613, the number of the Biblical commandments, except that you must exchange the קו\"ף by דל\"ת, according to the “Method of Permutation” known as א׳׳ת ב\"ש ג\"ר ד\"ק (by which the first letter of the Alphabet may take the place of the last, the second that of the one before last etc.) (Numbers Rabbah 13:16).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:21",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פר אחד. כְּנֶגֶד אַבְרָהָם, שֶׁנֶּאֱמַר בּוֹ \"וַיִּקַּח בֶּן בָּקָר\" (שם י\"ח):",
+          "en": "פר אחד ONE BULLOCK, [A YOUNG ONE, בן בקר] — in allusion to Abraham of whom it states, (Genesis 18:7) “And he took a young bull (בן בקר)\" (Numbers Rabbah 13:14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "איל אחד. כְּנֶגֶד יִצְחָק, \"וַיִּקַּח אֶת הָאַיִל\" וְגוֹ' (שם כ\"ב):",
+          "en": "איל אחד ONE RAM — in allusion to Isaac, with reference to whom Scripture states, (Genesis XXII 13) “and he (Abraham) took the ram (האיל) [and offered it up … in the stead of his son]” (Numbers Rabbah 13:14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כבש אחד. כְּנֶגֶד יַעֲקֹב, \"וְהַכְּשָׂבִים הִפְרִיד יַעֲקֹב\" (שם ל'):",
+          "en": "כבש אחד ONE LAMB — in allusion to Jacob of whom Scripture states, (Genesis 30:40) “and Jacob did separate the lambs” (Numbers Rabbah 13:14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:22",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שעיר עיזים. לְכַפֵּר עַל מְכִירַת יוֹסֵף שֶׁנֶּאֱמַר בּוֹ \"וַיִּשְׁחֲטוּ שְׂעִיר עִזִּים\" (שם ל\"ז):",
+          "en": "שעיר עזים [ONE] KID OF THE GOATS — in order to make expiation for the “selling of Joseph” with reference to whom it states, (Genesis 37:31) “and they slaughtered a kid of the goats” (Numbers Rabbah 13:13).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:23",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Nethanel son of Zuar.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולזבח השלמים בקר שנים. כְּנֶגֶד מֹשֶׁה וְאַהֲרֹן שֶׁנָּתְנוּ שָׁלוֹם בֵּין יִשְׂרָאֵל לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם:",
+          "en": "ולזבח השלמים בקר שנים AND FOR A SACRIFICE OF PEACE-OFFERINGS TWO OXEN — The two peace-offerings are an allusion to Moses and Aaron who made peace between Israel and their Father in Heaven (Numbers Rabbah 13:19).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אלים כבשים ועתדים. שְׁלֹשָׁה מִינִים כְּנֶגֶד כֹּהֲנִים וּלְוִיִּם וְיִשְׂרְאֵלִים, וּכְנֶגֶד תּוֹרָה נְבִיאִים וּכְתוּבִים, שָׁלֹשׁ חֲמִשִּׁיּוֹת כְּנֶגֶד חֲמִשָּׁה חֻמְשִׁין וַחֲמֵשֶׁת הַדִּבְּרוֹת הַכְּתוּבִין עַל לוּחַ אֶחָד וַחֲמִשָּׁה הַכְּתוּבִים עַל הַשֵּׁנִי; עַד כָּאן בִּיסוֹדוֹ שֶׁל רַבִּי מֹשֶׁה הַדַּרְשָׁן:",
+          "en": "אילם כבשים ועתדים — three species — in allusion to the three divisions of the nation: priests, Levites and ordinary Israelites, and also in allusion to the Pentateuch, the Prophets and the Hagiographa, the three sections of the Holy Scriptures. There are three times “five”, in allusion to the “Five Books of Moses”, to the five Commandments written on one of the Tablets and to the five written on the other (Numbers Rabbah 14:10). Thus far have I found in the work of R. Moshe the Preacher.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:24",
+      "he": "בַּיּוֹם֙ הַשְּׁלִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+      "en": "On the third day, it was the chieftain of the Zebulunites, Eliab son of Helon.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ביום השלישי נשיא וגו'. בַּיּוֹם הַשְּׁלִישִׁי הָיָה הַנָּשִׂיא הַמַּקְרִיב זְבוּלֻן, וְכֵן כֻּלָּם, אֲבָל בִּנְתַנְאֵל שֶׁנֶּאֱמַר בּוֹ הִקְרִיב נְתַנְאֵל, נוֹפֵל אַחֲרָיו הַלָּשׁוֹן לוֹמַר נְשִׂיא יִשָּׂשכָר, לְפִי שֶׁכְּבָר הִזְכִּיר שְׁמוֹ וְהַקְרָבָתוֹ, וּבַשְּׁאָר שֶׁלֹּא נֶאֱמַר בָּהֶן הִקְרִיב, נוֹפֵל עֲלֵיהֶן לָשׁוֹן זֶה — נָשִׂיא לִבְנֵי פְלוֹנִי — אוֹתוֹ הַיּוֹם הָיָה הַנָּשִׂיא הַמַּקְרִיב לְשֵׁבֶט פְּלוֹנִי:",
+          "en": "ביום השלישי וגו׳ means, ON THE THIRD DAY, THE PRINCE who offered WAS OF THE SONS OF ZEBULUN, and similar is the meaning of the parallel statement in the case of all of them (all the other tribes). In the case of Nethaneel, however, of whom it is stated, (v. 18) הקריב “[on the second day] did Nethaneel the son of Zuar offer”, it is appropriate to use after it the phrase: “the prince of Issachar”, since it has already mentioned his name and the fact that he offered, whilst in the case of the others of whom it is not stated “he offered”, this phrase is the appropriate one, viz., the prince belonging to the sons of that-and-that tribe, when the meaning of the entire sentence is: on that day the prince who offered was of the sons of so-and-so.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:25",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:26",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:27",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:28",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:29",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Eliab son of Helon.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:30",
+      "he": "בַּיּוֹם֙ הָרְבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י רְאוּבֵ֑ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+      "en": "On the fourth day, it was the chieftain of the Reubenites, Elizur son of Shedeur.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:31",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:32",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:33",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:34",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:35",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Elizur son of Shedeur.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:36",
+      "he": "בַּיּוֹם֙ הַחֲמִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י שִׁמְע֑וֹן שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+      "en": "On the fifth day, it was the chieftain of the Simeonites, Shelumiel son of Zurishaddai.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:37",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:38",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:39",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:40",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:41",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Shelumiel son of Zurishaddai.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:42",
+      "he": "בַּיּוֹם֙ הַשִּׁשִּׁ֔י נָשִׂ֖יא לִבְנֵ֣י גָ֑ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+      "en": "On the sixth day, it was the chieftain of the Gadites, Eliasaph son of Deuel.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:43",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:44",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:45",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:46",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:47",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Eliasaph son of Deuel.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:48",
+      "he": "בַּיּוֹם֙ הַשְּׁבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+      "en": "On the seventh day, it was the chieftain of the Ephraimites, Elishama son of Ammihud.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:49",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:50",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:51",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:52",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:53",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Elishama son of Ammihud.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:54",
+      "he": "בַּיּוֹם֙ הַשְּׁמִינִ֔י נָשִׂ֖יא לִבְנֵ֣י מְנַשֶּׁ֑ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+      "en": "On the eighth day, it was the chieftain of the Manassites, Gamaliel son of Pedahzur.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:55",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:56",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:57",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:58",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:59",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Gamaliel son of Pedahzur.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:60",
+      "he": "בַּיּוֹם֙ הַתְּשִׁיעִ֔י נָשִׂ֖יא לִבְנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃",
+      "en": "On the ninth day, it was the chieftain of the Benjaminites, Abidan son of Gideoni.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:61",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:62",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:63",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:64",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:65",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Abidan son of Gideoni.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:66",
+      "he": "בַּיּוֹם֙ הָעֲשִׂירִ֔י נָשִׂ֖יא לִבְנֵ֣י דָ֑ן אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃",
+      "en": "On the tenth day, it was the chieftain of the Danites, Ahiezer son of Ammishaddai.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:67",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:68",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:69",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:70",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:71",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Ahiezer son of Ammishaddai.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:72",
+      "he": "בְּיוֹם֙ עַשְׁתֵּ֣י עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י אָשֵׁ֑ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+      "en": "On the eleventh day, it was the chieftain of the Asherites, Pagiel son of Ochran.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:73",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:74",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:75",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:76",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:77",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Pagiel son of Ochran.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:78",
+      "he": "בְּיוֹם֙ שְׁנֵ֣ים עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י נַפְתָּלִ֑י אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+      "en": "On the twelfth day, it was the chieftain of the Naphtalites, Ahira son of Enan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:79",
+      "he": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+      "en": "His offering: one silver bowl weighing 130 shekels and one silver basin of 70 shekels by the sanctuary weight, both filled with choice flour with oil mixed in, for a grain offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:80",
+      "he": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃",
+      "en": "one gold ladle of 10 shekels, filled with incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:81",
+      "he": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+      "en": "one bull of the herd, one ram, and one lamb in its first year, for a burnt offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:82",
+      "he": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃",
+      "en": "one goat for a purgation offering;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:83",
+      "he": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲחִירַ֖ע בֶּן־עֵינָֽן׃&nbsp;{פ}",
+      "en": "and for his sacrifice of well-being: two oxen, five rams, five he-goats, and five yearling lambs. That was the offering of Ahira son of Enan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:84",
+      "he": "זֹ֣את&thinsp;׀ חֲנֻכַּ֣ת הַמִּזְבֵּ֗חַ בְּיוֹם֙ הִמָּשַׁ֣ח אֹת֔וֹ מֵאֵ֖ת נְשִׂיאֵ֣י יִשְׂרָאֵ֑ל קַעֲרֹ֨ת כֶּ֜סֶף שְׁתֵּ֣ים עֶשְׂרֵ֗ה מִֽזְרְקֵי־כֶ֙סֶף֙ שְׁנֵ֣ים עָשָׂ֔ר כַּפּ֥וֹת זָהָ֖ב שְׁתֵּ֥ים עֶשְׂרֵֽה׃",
+      "en": "This was the dedication offering for the altar from the chieftains of Israel upon its being anointed: silver bowls, 12; silver basins, 12; gold ladles, 12.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ביום המשח אתו. בּוֹ בַיּוֹם שֶׁנִּמְשַׁח הִקְרִיב, וּמָה אֲנִי מְקַיֵּם \"אַחֲרֵי הִמָּשַׁח\" (פסוק פ\"ח)? שֶׁנִּמְשַׁח תְּחִלָּה וְאַ\"כַּ הִקְרִיב, אוֹ אַחֲרֵי הִמָּשַׁח — לְאַחַר זְמַן וְלֹא בָא לְלַמֵּד בְּיוֹם הִמָּשַׁח אֶלָּא לוֹמַר שֶׁנִּמְשַׁח בַּיּוֹם? כְּשֶׁהוּא אוֹמֵר (ויקרא ז') \"בְּיוֹם מָשְׁחוֹ אֹתָם\", לָמַדְנוּ שֶׁנִּמְשַׁח בַּיּוֹם, וּמַתַּ\"ל \"בְּיוֹם הִמָּשַׁח אֹתוֹ\" ? בַּיּוֹם שֶׁנִּמְשַׁח הִקְרִיב (ספרי):",
+          "en": "ביום המשח אתו [THIS WAS THE DEDICATION OFFERING OF THE ALTAR] IN THE DAY WHEN IT WAS ANOINTED — This implies that on the very same day that it was anointed an offering was brought; but how, then, can I explain, (v. 88) “[This was dedication of the altar] after that it was anointed”? As intimating that it was first anointed and afterwards — but still on the same day — the offering was brought. Or, perhaps, these words אחרי המשח mean “some time (i.e. many days) after it was anointed”, and the phrase here ביום המשח אתו is merely intended to intimate that it was anointed during the day-time (and not at night)! This cannot be so, because when it states, (Leviticus 7:36) “In the day that he anointed them (Aaron and his sons)” we learn that it (the altar) was anointed during the day-time. What, then, must be the meaning of ביום המשח here? What we first suggested — that on the very same day that it was anointed the offering was brought (cf. Sifrei Bamidbar 53).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "קערת כסף שתים עשרה. הֵם הֵם שֶׁהִתְנַדְּבוּ, וְלֹא אֵרַע בָּהֶם פְּסוּל (שם):",
+          "en": "קערת כסף שתים עשרה TWELVE CHARGERS OF SILVER — This intimates: these are the same chargers which they had brought as free-will gifts and nothing to disqualify them had happened to them in the meantime (Sifrei Bamidbar 53).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:85",
+      "he": "שְׁלֹשִׁ֣ים וּמֵאָ֗ה הַקְּעָרָ֤ה הָֽאַחַת֙ כֶּ֔סֶף וְשִׁבְעִ֖ים הַמִּזְרָ֣ק הָאֶחָ֑ד כֹּ֚ל כֶּ֣סֶף הַכֵּלִ֔ים אַלְפַּ֥יִם וְאַרְבַּע־מֵא֖וֹת בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+      "en": "Silver per bowl, 130; per basin, 70. Total silver of vessels, 2,400 sanctuary shekels.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שלשים ומאה הקערה האחת וגו'. מַה תַּ\"ל? לְפִי שֶׁנֶּאֱמַר \"שְׁלֹשִׁים וּמֵאָה\" וְלֹא פֵּרֵשׁ בְּאֵיזוֹ שֶׁקֶל, לְכָךְ חָזַר וּשְׁנָאָהּ כָּאן, וְכָלַל בְּכֻלָּן — כל כסף הכלים, בשקל הקדש:",
+          "en": "שלשים ומאה הקערה אחת וגו׳ EACH CHARGER OF SILVER WEIGHING AN HUNDRED AND THIRTY SHEKELS etc. — Why is this stated at all since it has already been staled several times? But because it has only been said “the weight thereof was 130 shekels”, but it does not explain according to which shekel this is reckoned, it (Scripture) therefore repeats it (the number of shekels) here and then makes a general statement with regard to all of them: “all the silver of the vessels was [two thousand and four hundred shekels] after the shekels of the Sanctuary”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כל כסף הכלים וגו'. לִמֶּדְךָ שֶׁהָיוּ כְלֵי הַמִּקְדָּשׁ מְכֻוָּנִים בְּמִשְׁקָלָן — שׁוֹקְלָן אֶחָד אֶחָד, וְשׁוֹקְלָן כֻּלָּן כְּאֶחָד — לֹא רִבָּה וְלֹא מִעֵט (שם):",
+          "en": "כל כסף הכלים ALL THE SILVER OF THE VESSELS [WAS TWO THOUSAND AND FOUR HUNDRED SHEKELS etc.] — By giving the sum total of the shekels it teaches you that the vessels of the Sanctuary had their weight exact (thus e.g. a bowl of 70 shekels was exactly 70, neither more nor less) — whether one weighed them each separately or whether one weighed them all together he got neither more nor less than it should have been ( Sifrei Bamidbar 54).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:86",
+      "he": "כַּפּ֨וֹת זָהָ֤ב שְׁתֵּים־עֶשְׂרֵה֙ מְלֵאֹ֣ת קְטֹ֔רֶת עֲשָׂרָ֧ה עֲשָׂרָ֛ה הַכַּ֖ף בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ כׇּל־זְהַ֥ב הַכַּפּ֖וֹת עֶשְׂרִ֥ים וּמֵאָֽה׃",
+      "en": "The 12 gold ladles filled with incense—10 sanctuary shekels per ladle—total gold of the ladles, 120.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כפות זהב שתים עשרה. לָמָּה נֶאֱמַר? לְפִי שֶׁנֶּאֱמַר כַּף אַחַת עֲשָׂרָה זָהָב, הִיא שֶׁל זָהָב וּמִשְׁקָלָהּ עֲשָׂרָה שְׁקָלִים שֶׁל כֶּסֶף, אוֹ אֵינוֹ אֶלָּא כַּף אַחַת שֶׁל כֶּסֶף וּמִשְׁקָלָהּ עֲשָׂרָה שִׁקְלֵי זָהָב — וְשִׁקְלֵי זָהָב אֵין מִשְׁקָלָם שָׁוֶה לְשֶׁל כֶּסֶף — תַּ\"ל \"כַּפּוֹת זָהָב\" — שֶׁל זָהָב הָיוּ (שם):",
+          "en": "כפות זהב שתים עשרה THE GOLDEN SPOONS WERE TWELVE — Why is this stated at all, since we have been told that twelve princes brought each one spoon? But because it is stated in each instance: “one spoon עשרה זהב”, I might explain it either as meaning: it was of gold but its weight was ten shekels of silver, or, perhaps, not so, but it means: one spoon of silver and the weight thereof ten gold-shekels — and the gold-shekels have not their weight equal to those of silver-shekels — Scripture therefore states here, “golden spoons” — the spoons themselves were of gold ( Sifrei Bamidbar 55).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 7:87",
+      "he": "כׇּל־הַבָּקָ֨ר לָעֹלָ֜ה שְׁנֵ֧ים עָשָׂ֣ר פָּרִ֗ים אֵילִ֤ם שְׁנֵים־עָשָׂר֙ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנֵ֥ים עָשָׂ֖ר וּמִנְחָתָ֑ם וּשְׂעִירֵ֥י עִזִּ֛ים שְׁנֵ֥ים עָשָׂ֖ר לְחַטָּֽאת׃",
+      "en": "Total of herd animals for burnt offerings, 12 bulls; of rams, 12; of yearling lambs, 12—with their proper grain offerings; of goats for purgation offerings, 12.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:88",
+      "he": "וְכֹ֞ל בְּקַ֣ר&thinsp;׀ זֶ֣בַח הַשְּׁלָמִ֗ים עֶשְׂרִ֣ים וְאַרְבָּעָה֮ פָּרִים֒ אֵילִ֤ם שִׁשִּׁים֙ עַתֻּדִ֣ים שִׁשִּׁ֔ים כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה שִׁשִּׁ֑ים זֹ֚את חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ אַחֲרֵ֖י הִמָּשַׁ֥ח אֹתֽוֹ׃",
+      "en": "Total of herd animals for sacrifices of well-being, 24 bulls; of rams, 60; of he-goats, 60; of yearling lambs, 60. That was the dedication offering for the altar after its anointing.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 7:89",
+      "he": "וּבְבֹ֨א מֹשֶׁ֜ה אֶל־אֹ֣הֶל מוֹעֵד֮ לְדַבֵּ֣ר אִתּוֹ֒ וַיִּשְׁמַ֨ע אֶת־הַקּ֜וֹל מִדַּבֵּ֣ר אֵלָ֗יו מֵעַ֤ל הַכַּפֹּ֙רֶת֙ אֲשֶׁר֙ עַל־אֲרֹ֣ן הָעֵדֻ֔ת מִבֵּ֖ין שְׁנֵ֣י הַכְּרֻבִ֑ים וַיְדַבֵּ֖ר אֵלָֽיו׃&nbsp;{פ}",
+      "en": "When Moses went into the Tent of Meeting to speak with [God], he would hear the Voice addressing him from above the cover that was on top of the Ark of the Pact between the two cherubim; thus [God] spoke to him.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובבא משה. שְׁנֵי כְתוּבִים הַמַּכְחִישִׁים זֶה אֶת זֶה, שְׁלִישִׁי בָא וְהִכְרִיעַ בֵּינֵיהֶם, כָּתוּב אֶחָד אוֹמֵר \"וַיְדַבֵּר ה' אֵלָיו מֵאֹהֶל מוֹעֵד\" (ויקרא א') — וְהוּא חוּץ לַפָּרֹכֶת — וְכָתוּב אֶחָד אוֹמֵר \"וְדִבַּרְתִּי אִתְּךָ מֵעַל הַכַּפֹּרֶת\" (שמות כ\"ה), בָּא זֶה וְהִכְרִיעַ בֵּינֵיהֶם: מֹשֶׁה בָא אֶל אֹהֶל מוֹעֵד, וְשָׁם שׁוֹמֵעַ אֶת הַקּוֹל הַבָּא מֵעַל הַכַּפֹּרֶת מִבֵּין שְׁנֵי הַכְּרוּבִים — הַקּוֹל יוֹצֵא מִן הַשָּׁמַיִם לְבֵין שְׁנֵי הַכְּרוּבִים, וּמִשָּׁם יָצָא לְאֹהֶל מוֹעֵד (ספרי):",
+          "en": "ובבא משה AND WHEN MOSES CAME [INTO THE TENT OF MEETING … THEN HE HEARD THE VOICE SPEAKING UNTO HIM FROM OFF THE COVERING THAT WAS UPON THE ARK OF THE TESTIMONY] — When two Scriptural verses apparently contradict each other there comes a third and reconciles them. We have got such a case here: one verse says, (Leviticus 1:1) “[And the Lord called unto Moses] and spoke unto him out of the appointed tent”, which was outside the Vail, and another verse says, (Exodus 25:22). “And I shall speak unto thee from off the Ark-lid”, thus within the Vail — then this (our verse) comes and reconciles them: Moses entered the appointed tent, and there he heard the Voice which came from above the Ark-lid, from between the two Cherubim — the Voice issued from Heaven unto the space between the two Cherubim, and from there it issued into the appointed tent where it was heard by Moses. (Sifrei Bamidbar 58 1; cf. Rashi on Exodus 25:22.)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישמע את הקול. יָכוֹל קוֹל נָמוּךְ, תַּ\"ל \"אֶת הַקּוֹל\", הוּא הַקּוֹל שֶׁנִּדְבַּר עִמּוֹ בְּסִינַי, וּכְשֶׁמַּגִּיעַ לַפֶּתַח הָיָה נִפְסָק וְלֹא הָיָה יוֹצֵא חוּץ לָאֹהֶל:",
+          "en": "וישמע את הקול AND HE HEARD THE VOICE — One might think it was a very low voice! Scripture, however, states “the Voice” (with the definite article — the well-known Voice) — it was that thunderous Voice with which He spoke to him on Sinai, and yet when it reached the door of the appointed tent it broke off and did not issue beyond the appointed tent (and therefore it states Leviticus 1:1 מאהל מועד from the appointed tent, and not באהל מועד, because the Voice confined itself to the Interior of the אהל מועד; see Rashi on Leviticus 1:1) (cf. Sifrei Bamidbar 58:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מדבר. כְּמוֹ מִתְדַּבֵּר, כְּבוֹדוֹ שֶׁל מַעְלָה לוֹמַר כֵּן, מְדַּבֵּר בֵּינוֹ לְבֵין עַצְמוֹ, וּמֹשֶׁה שׁוֹמֵעַ מֵאֵלָיו:",
+          "en": "מדבר is the same as מתדבר (it is the Hitphael form with assimiliated ת) — “He heard the Voice uttering itself”. It is out of reverence for the Most High God that Scripture speaks thus: “The Voice was speaking to itself”, and Moses would listen in (i. e., he could not help hearing it).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "וידבר אליו. לְמַעֵט אֶת אַהֲרֹן מִן הַדִּבְּרוֹת (עי' ספרי):",
+          "en": "וידבר אליו AND HE SPOKE UNTO HIM — unto him: thus excluding Aaron from the Divine communications (cf. Rashi on Leviticus 1:1, s. v. אליו).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    }
+  ]
+}

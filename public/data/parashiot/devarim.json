@@ -1,0 +1,1805 @@
+{
+  "slug": "devarim",
+  "name": "Devarim",
+  "range": "Deuteronomy 1:1-3:22",
+  "verses": [
+    {
+      "ref": "Deuteronomy 1:1",
+      "he": "אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙ אֶל־כׇּל־יִשְׂרָאֵ֔ל בְּעֵ֖בֶר הַיַּרְדֵּ֑ן בַּמִּדְבָּ֡ר בָּֽעֲרָבָה֩ מ֨וֹל ס֜וּף בֵּֽין־פָּארָ֧ן וּבֵֽין־תֹּ֛פֶל וְלָבָ֥ן וַחֲצֵרֹ֖ת וְדִ֥י זָהָֽב׃",
+      "en": "These are the words that Moses addressed to all Israel on the other side of the Jordan.—Through the wilderness, in the Arabah near Suph, between Paran and Tophel, Laban, Hazeroth, and Di-zahab,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אלה הדברים. לְפִי שֶׁהֵן דִּבְרֵי תוֹכָחוֹת וּמָנָה כָאן כָּל הַמְּקוֹמוֹת שֶׁהִכְעִיסוּ לִפְנֵי הַמָּקוֹם בָּהֶן, לְפִיכָךְ סָתַם אֶת הַדְּבָרִים וְהִזְכִּירָם בְּרֶמֶז מִפְּנֵי כְבוֹדָן שֶׁל יִשְׂרָאֵל (עי' ספרי):",
+          "en": "אלה הדברים THESE ARE THE WORDS — Because these are words of reproof and he is enumerating here all the places where they provoked God to anger, therefore he suppresses all mention of the matters in which they sinned and refers to them only by a mere allusion contained in the names of these places out of regard for Israel (cf. Sifrei Devarim 1:1; Onkelos and Targum Jonathan).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אל כל ישראל. אִלּוּ הוֹכִיחַ מִקְצָתָן, הָיוּ אֵלּוּ שֶׁבַּשּׁוּק אוֹמְרִים אַתֶּם הֱיִיתֶם שׁוֹמְעִים מִבֶּן עַמְרָם וְלֹא הֲשִׁיבוֹתֶם דָּבָר מִכָּךְ וְכָךְ? אִלּוּ הָיִינוּ שָׁם הָיִינוּ מְשִׁיבִים אוֹתוֹ, לְכָךְ כִּנְּסָם כֻּלָּם וְאָמַר לָהֶם הֲרֵי כֻּלְּכֶם כָּאן, כָּל מִי שֶׁיֵּשׁ לוֹ תְשׁוּבָה יָשִׁיב (ספרי):",
+          "en": "אל כל ישראל [THE WORDS WHICH HE SPAKE] TO ALL ISRAEL — If he had reproved only some of them, those who were then in the street (i.e. those who were absent) might have said, “You heard from the son of Amram, and did not answer a single word regarding this and that; had we been there, we would have given him an answer!\". On this account he assembled all of them, and said to them, \"See, you are all here: he who has anything to say in reply, let him reply!” (Sifrei Devarim 1:6-7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "במדבר. לֹא בַמִּדְבָּר הָיוּ אֶלָּא בְּעַרְבוֹת מוֹאָב, וּמַהוּ בַּמִּדְבָּר? אֶלָּא בִּשְׁבִיל מַה שֶּׁהִכְעִיסוּהוּ בַּמִּדְבָּר שֶׁאָמְרוּ (שמות ט\"ז) \"מִי יִתֵּן מוּתֵנוּ וְגוֹ'\":",
+          "en": "במדבר IN THE WILDERNESS — They, however,‎‎were not then in the wilderness, but in the plains of Moab (cf. Numbers 36:13 and further on verse 5): What, therefore, is the meaning of במדבר? It does not mean \"in the wilderness”, but the meaning is: he reproved them on account of that wherein they had provoked Him to anger in the wilderness — that they said, (Exodus 16:3) “Would that we had died [by the hand of the Lord]” (cf. Sifrei Devarim 1:11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בערבה. בִּשְׁבִיל הָעֲרָבָה, שֶׁחָטְאוּ בְּבַעַל פְּעוֹר בְּשִּׁטִּים בְּעַרְבוֹת מוֹאָב:",
+          "en": "בערבה IN THE PLAIN — i.e. he reproved them regarding the plain: that they had sinned through Baal Peor at Shittim in the plains of Moab (cf. Sifrei Devarim 1:13)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "מול סוף. עַל מַה שֶּׁהִמְרוּ בְיַם סוּף בְּבוֹאָם לְיַם סוּף, שֶׁאָמְרוּ (שם י\"ד) \"הֲמִבְּלִי אֵין קְבָרִים בְּמִצְרַיִם\", וְכֵן בְּנָסְעָם מִתּוֹךְ הַיָּם, שֶׁנֶּאֱמַר (תהילים ק\"ו) \"וַיַּמְרוּ עַל יָם בְּיַם סוּף\" כִּדְאִיתָא בַּעֲרָכִין (דף ט\"ו):",
+          "en": "מול סוף OVER AGAINST SUPH — i.e. he reproved them regarding that in which they had shown themselves rebellious at the Red Sea (סוף): viz., on their arrival at the Red Sea — that they said, (Exodus 14:11) “Is it because there are no graves in Egypt [that thou hast brought us to die in the wilderness?]\"; and similarly when they left the midst of the Sea, as it is said, (Psalms 106:7) “They murmured because of the Sea, at the Red Sea”, as it is related in Treatise Arakhin 15a (cf. Rashi on Numbers 14:22 and Sifrei 1:14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "בין פארן ובין תפל ולבן. אָמַר רַבִּי יוֹחָנָן חָזַרְנוּ עַל כָּל הַמִּקְרָא וְלֹא מָצִינוּ מָקוֹם שֶׁשְּׁמוֹ תֹּפֶל וְלָבָן, אֶלָּא הוֹכִיחָן עַל הַדְּבָרִים שֶׁתָּפְלוּ עַל הַמָּן, שֶׁהוּא לָבָן, שֶׁאָמְרוּ (במדבר כ\"א) \"וְנַפְשֵׁנוּ קָצָה בַּלֶּחֶם הַקְּלֹקֵל\", וְעַל מַה שֶּׁעָשׂוּ בְמִדְבַּר פָּארָן עַל יְדֵי הַמְרַגְּלִים:",
+          "en": "בין פארן ובין תפל ולבן BETWEEN PARAN, AND TOPHEL AND LABAN — R. Jochanan said: We have gone through the whole Bible and we have found no place the name of which is Tophel or Laban! But the meaning is that he reproved them because of the calumnious statements (טפלו) they had made regarding the Manna which was white (לבן) in colour — that they said, (Numbers 21:5) “And our soul loathes this light bread”; and because of what they had done in the wilderness of Paran through the spies.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "וחצרת. בְּמַחְלָקְתּוֹ שֶׁל קֹרַח; דָּבָר אַחֵר אָמַר לָהֶם הָיָה לָכֶם לִלְמֹד מִמַּה שֶּׁעָשִׂיתִי לְמִרְיָם בַּחֲצֵרוֹת בִּשְׁבִיל לָשׁוֹן הָרָע, וְאַתֶּם נִדְבַּרְתֶּם בַּמָּקוֹם:",
+          "en": "וחצרת AND HAZEROTH — i.e. regarding wh‎at they had done there at the insurrection of Korah. — Another explanation: He said to them, “You ought to have taken a lesson from what I did to Miriam at Hazeroth because of the slander she uttered, and yet you even after that spoke against the Omnipresent (Sifrei Devarim 1:15).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 8,
+          "he": "ודי זהב. הוֹכִיחָן עַל הָעֵגֶל שֶׁעָשׂוּ בִּשְׁבִיל רֹב זָהָב שֶׁהָיָה לָהֶם, שֶׁנֶּאֱמַר (הושע ב') \"וְכֶסֶף הִרְבֵּיתִי לָהּ וְזָהָב עָשׂוּ לַבָּעַל\" (עי' ספרי; ברכות ל\"ב):",
+          "en": "ודי זהב AND DI ZAHAB (the name is taken in the sense of “sufficiency of gold”) — He reproved them on account of the golden calf which they had made in consequence of the abundance of gold which they had, as it is said, (Hosea 2:10) “And silver did I give them in abundance and gold: they, however, made it into a Baal” (cf. Berakhot 32a; Sifrei Devarim 1:18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:2",
+      "he": "אַחַ֨ד עָשָׂ֥ר יוֹם֙ מֵֽחֹרֵ֔ב דֶּ֖רֶךְ הַר־שֵׂעִ֑יר עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃",
+      "en": "it is eleven days from Horeb to Kadesh-barnea by the Mount Seir route.aThrough the wilderness … by the Mount Seir route This passage is unclear; cf. v. 19 and Num. 33.16–36.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אחד עשר יום מחרב. אָמַר לָהֶם מֹשֶׁה רְאוּ מַה גְּרַמְתֶּם אֵין לָכֶם דֶּרֶךְ קְצָרָה מֵחוֹרֵב לְקָדֵשׁ בַּרְנֵעַ כְּדֶרֶךְ הַר שֵׂעִיר, וְאַף הוּא מַהֲלַךְ י\"א יוֹם, וְאַתֶּם הֲלַכְתֶּם אוֹתָהּ בִּשְׁלֹוֹשָׁה יָמִים – שֶׁהֲרֵי בְּעֶשְׂרִים בְּאִיָּר נָסְעוּ מֵחוֹרֵב, שֶׁנֶּאֱמַר (במדבר י') \"וַיְהִי בַּשָּׁנָה הַשֵּׁנִית בַּחֹדֶשׁ הַשֵּׁנִי בְּעֶשְׂרִים בַּחֹדֶשׁ וְגוֹ'\", וּבְכ\"ט בְּסִיוָן שָׁלְחוּ אֶת הַמְרַגְּלִים מִקָּדֵשׁ בַּרְנֵעַ (תענית כ\"ט), צֵא מֵהֶם ל' יוֹם שֶׁעָשׂוּ בְּקִבְרוֹת הַתַּאֲוָה שֶׁאָכְלוּ הַבָּשָׂר חֹדֶשׁ יָמִים, וְשִׁבְעָה יָמִים שֶׁעָשׂוּ בַחֲצֵרוֹת לְהִסָּגֵר שָׁם מִרְיָם, נִמְצָא בִשְׁלוֹשָׁה יָמִים הָלְכוּ כָּל אוֹתוֹ הַדֶּרֶךְ – וְכָל כָּךְ הָיְתָה הַשְּׁכִינָה מִתְלַבֶּטֶת בִּשְׁבִילְכֶם לְמַהֵר בִּיאַתְכֶם לָאָרֶץ, וּבִשְׁבִיל שֶׁקִּלְקַלְתֶּם הֵסֵב אֶתְכֶם סְבִיבוֹת הַר שֵׂעִיר אַרְבָּעִים שָׁנָה (ע' ספרי):",
+          "en": "אחד עשר יום מחרב ELEVEN DAYS JOURNEY FROM HOREB — Moses said to them: “See what you brought about! There is no route from Horeb to Kadesh-Barnea as short as the way through Mount Seir, and even that is a journey of eleven days. You, however, traversed it in three days!” — for you see that they journeyed from Horeb on the twentieth of Eyar, as it is said, (Numbers 10:11—12) “And it came to pass in the second year, in the second month, on the twentieth of the month, [the cloud went up and the children of Israel journeyed out of the desert of Sinai” (which is Horeb)] and on the twenty-ninth of Sivan they sent out the spies from Kadesh Barnea, (an interval of 40 days; cf. Taanit 29a); deduct from these the thirty days they spent at Kibroth Hataavah, where they ate the flesh “a month of days”, and seven days they spent at Hazeroth for Miriam to be shut up there as a leper, it follows that in three days they traversed all that way. — To such an extent did the Shechinah exert itself to hasten your coming to the land of Canaan, but because you became degenerate, He made you travel round about Mount Seir for forty years (Sifrei Devarim 2:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:3",
+      "he": "וַֽיְהִי֙ בְּאַרְבָּעִ֣ים שָׁנָ֔ה בְּעַשְׁתֵּֽי־עָשָׂ֥ר חֹ֖דֶשׁ בְּאֶחָ֣ד לַחֹ֑דֶשׁ דִּבֶּ֤ר מֹשֶׁה֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֹת֖וֹ אֲלֵהֶֽם׃",
+      "en": "It was in the fortieth year, on the first day of the eleventh month, that Moses addressed the Israelites in accordance with the instructions that GOD had given him for them,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויהי בארבעים שנה בעשתי עשר חדש באחד לחדש. מְלַמֵּד שֶׁלֹּא הוֹכִיחָן אֶלָּא סָמוּךְ לַמִּיתָה; מִמִּי לָמַד? מִיַּעֲקֹב, שֶׁלֹּא הוֹכִיחַ אֶת בָּנָיו אֶלָּא סָמוּךְ לַמִּיתָה, אָמַר, רְאוּבֵן בְּנִי אֲנִי אוֹמֵר לְךָ מִפְּנֵי מָה לֹא הוֹכַחְתִּיךָ כָּל הַשָּׁנִים הַלָּלוּ, כְּדֵי שֶׁלֹּא תַנִּיחֵנִי וְתֵלֵךְ וְתִדְבַּק בְּעֵשָׂו אָחִי; וּמִפְּנֵי אַרְבָּעָה דְּבָרִים אֵין מוֹכִיחִין אֶת הָאָדָם אֶלָּא סָמוּךְ לַמִּיתָה, כְּדֵי שֶׁלֹּא יְהֵא מוֹכִיחוֹ וְחוֹזֵר וּמוֹכִיחוֹ, וְשֶׁלֹּא יְהֵא חֲבֵרוֹ רוֹאֵהוּ וּמִתְבַּיֵּשׁ מִמֶּנּוּ, כּוּ' כִּדְאִיתָא בְּסִפְרֵי. וְכֵן יְהוֹשֻׁעַ לֹא הוֹכִיחַ אֶת יִשְׂרָאֵל אֶלָּא סָמוּךְ לַמִּיתָה, וְכֵן שְׁמוּאֵל שֶׁנֶּאֱמַר (שמואל א י\"ב), \"הִנְנִי עֲנוּ בִי\", וְכֵן דָּוִד אֶת שְׁלֹמֹה בְנוֹ (מלכים א ב'):",
+          "en": "ויהי בארבעים שנה בעשתי עשר חדש באחד לחדש AND IT CAME TO PASS IN THE FORTIETH YEAR, IN THE ELEVENTH MONTH, ON THE FIRST OF THE MONTH, [MOSES SPAKE] — This tells us that he reproved them only shortly before his death (Jewish tradition holds that Moses died on the seventh day of the twelfth month; cf. Megillah 13b). From whom did he learn this? From Jacob, who reproved his sons only shortly before his death. He said, “Reuben, my son, I will tell you why I have not reproved you for your unfitial conduct during all these years: it was in order that you should not leave me and go and join Esau, my wicked brother\". — And on account of four things one should not reprove a person except shortly before one's death: that one should not reprove him and again have to reprove him; and that his fellow whom he reproves should not, when he afterwards happens to see him, feel ashamed before him, etc.; as it is set forth in Siphre. And similarly, Joshua reproved Israel only shortly before his death (cf. Joshua 24:1—29), and so, too, Samuel, as it is said, (I Samuel 12:3) “Behold, testify against me\", and so, also, David reproved his son Solomon only shortly before his death (cf. 1 Kings 2:1—9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:4",
+      "he": "אַחֲרֵ֣י הַכֹּת֗וֹ אֵ֚ת סִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּ֑וֹן וְאֵ֗ת ע֚וֹג מֶ֣לֶךְ הַבָּשָׁ֔ן אֲשֶׁר־יוֹשֵׁ֥ב בְּעַשְׁתָּרֹ֖ת בְּאֶדְרֶֽעִי׃",
+      "en": "after he had defeated Sihon king of the Amorites, who dwelt in Heshbon, and King Og of Bashan, who dwelt at Ashtaroth [and]b[and] Cf. Josh. 12.4; 13.12, 31. Edrei.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אחרי הכתו. אָמַר מֹשֶׁה אִם אֲנִי מוֹכִיחָם קֹדֶם שֶׁיִּכָּנְסוּ לִקְצֵה הָאָרֶץ, יֹאמְרוּ מַה לָּזֶה עָלֵינוּ? מַה הֵיטִיב לָנוּ? אֵינוֹ בָא אֶלָּא לְקַנְתֵּר וְלִמְצֹא עִלָּה, שֶׁאֵין בּוֹ כֹחַ לְהַכְנִיסֵנוּ לָאָרֶץ, לְפִיכָךְ הִמְתִּין עַד שֶׁהִפִּיל סִיחוֹן וְעוֹג לִפְנֵיהֶם וְהוֹרִישָׁם אֶת אַרְצָם וְאַחַר כָּךְ הוֹכִיחָן (ספרי):",
+          "en": "אחרי הכתו AFTER HE HAD SMITTEN [SIHON] — Moses said: If I reprove them before they enter at least a part of the land, they will say, “What claim has this man upon us? What good has he ever conferred upon us? He only comes (his purpose is only) to vex us and to discover some pretext for leaving us in the wilderness, for he really has not the power to bring us into the land” On this account he waited until he had defeated Sihon and Og before them and had given them possession of their land — and only after that did he reprove them (Sifrei Devarim 3:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "סיחן אשר יושב בחשבון. אִלּוּ לֹא הָיָה סִיחוֹן קָשֶׁה וְהָיָה שָׁרוּי בְּחֶשְׁבּוֹן, הָיָה קָשָׁה, שֶׁהַמְּדִינָה קָשָׁה, וְאִלּוּ הָיְתָה עִיר אַחֶרֶת וְסִיחוֹן שָׁרוּי בְּתוֹכָהּ, הָיְתָה קָשָׁה, שֶׁהַמֶּלֶךְ קָשֶׁה, עַל אַחַת כַּמָּה וְכַמָּה שֶׁהַמֶּלֶךְ קָשֶׁה וְהַמְּדִינָה קָשָׁה (שם):",
+          "en": "סיחן … אשר יושב בחשבון [AFTER HE HAD SMITTEN] SIHON … WHO DWELT IN HESHBON — Even if Sihon himself had not been difficult to defeat, but had resided at Heshbon, he would have been difficult to defeat, because the city was a difficult one to capture: and if it had been a matter of some other city, but Sihon had resided in it, it would have been difficult to capture, because its king, at least, would have been difficult to defeat. How much more was this so now when the king was difficult to defeat and the land difficult to capture (Sifrei Devarim 3:3; cf. Rashi on Numbers 21:23).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אשר יושב בעשתרת. הַמֶּלֶךְ קָשֶׁה וְהַמְּדִינָה קָשָׁה:",
+          "en": "אשר יושב בעשתרת [AND OG] WHO DWELT AT ASHTAROTH — here, too, the king was difficult to defeat and the city difficult to capture (Sifrei Devarim 3:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "עשתרת. הוּא לְשׁוֹן צוּקִין וְקֹשִׁי, כְּמוֹ \"עַשְׁתְּרֹת קַרְנַיִם\" (בראשית י\"ד) וְעַשְׁתָּרוֹת זֶה הוּא עַשְׁתְּרֹת קַרְנַיִם, שֶׁהָיוּ שָׁם רְפָאִים שֶׁהִכָּה אַמְרָפֶל, שֶׁנֶּאֱמַר (שם) \"וַיַּכּוּ אֶת רְפָאִים בְּעַשְׁתְּרֹת קַרְנַיִם\". וְעוֹג נִמְלַט מֵהֶם, וְהוּא שֶׁנֶּאֱמַר (שם) \"וַיָּבֹא הַפָּלִיט\", וְאוֹמֵר (דברים ג') \"כִּי רַק עוֹג מֶלֶךְ הַבָּשָׁן נִשְׁאַר מִיֶּתֶר הָרְפָאִים\":",
+          "en": "עשתרת — This is an expression denoting rocks and anything hard, just as (Genesis 14:5) “Ashtaroth Karnaim”, (i.e. the hard rocks of Karnaim) (Sifrei Devarim 3:5)). And indeed this Ashtaroth is identical with Ashtaroth Karnaim where the Rephaim (the giants) were, whom Amraphel smote, as it is said, (Genesis 14:5) “And they smote the Rephaim in Ashtaroth Karnaim\". Og, alone, escaped of them, and that is the meaning of what is stated, (Genesis 14:13; cf. Rashi) \"And the one who escaped (הפליט) came\", for it further states, (Deuteronomy 3:11) \"For only Og, king of Bashan, remained of the remnant of the Rephaim\",",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "באדרעי. שֵׁם הַמַּלְכוּת:",
+          "en": "באדרעי IN EDREI — the name of the royal city.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:5",
+      "he": "בְּעֵ֥בֶר הַיַּרְדֵּ֖ן בְּאֶ֣רֶץ מוֹאָ֑ב הוֹאִ֣יל מֹשֶׁ֔ה בֵּאֵ֛ר אֶת־הַתּוֹרָ֥ה הַזֹּ֖את לֵאמֹֽר׃",
+      "en": "On the other side of the Jordan, in the land of Moab, Moses undertook to expound this Teaching. He said:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הואיל. הִתְחִיל, כְּמוֹ (בראשית י\"ח) \"הִנֵּה נָא הוֹאַלְתִּי\" (ע' ספרי):",
+          "en": "הואיל means HE BEGAN, just as (Genesis 18:27) \"Behold, now I have begun (הואלתי)\" (cf. Sifrei Devarim 4:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "באר את התורה. בְּשִׁבְעִים לָשׁוֹן פֵּרְשָׁהּ לָהֶם (תנחומא; ע' סוטה ל\"ב):",
+          "en": "באר את התורה [MOSES BEGAN] TO EXPLAIN THIS LAW — in the seventy languages of the ancient world did he explain it to them (Midrash Tanchuma, Devarim 2; Genesis Rabbah 49; cf. Sotah 32a and Rashi on Deuteronomy 27:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:6",
+      "he": "יְהֹוָ֧ה אֱלֹהֵ֛ינוּ דִּבֶּ֥ר אֵלֵ֖ינוּ בְּחֹרֵ֣ב לֵאמֹ֑ר רַב־לָכֶ֥ם שֶׁ֖בֶת בָּהָ֥ר הַזֶּֽה׃",
+      "en": "The ETERNAL our God spoke to us at Horeb, saying: You have stayed long enough at this mountain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רב לכם שבת. כִּפְשׁוּטוֹ; וְיֵשׁ מִ\"אַ, הִרְבָּה לָכֶם גְדֻלָּה וְשָׂכָר עַל יְשִׁיבַתְכֶם בָּהָר הַזֶּה – עֲשִׂיתֶם מִשְׁכָּן, מְנוֹרָה, וְכֵלִים, קִבַּלְתֶּם תּוֹרָה, מִנִּיתֶם לָכֶם סַנְהֶדְרִין, שָׂרֵי אֲלָפִים וְשָׂרֵי מֵאוֹת (ע' ספרי):",
+          "en": "רב לכם שבת — Explain this according to its plain sense: YE HAVE DWELT LONG ENOUGH [IN THIS MOUNT]. — But there is an Agadic explanation: He has given you much distinction and reward for your having dwelt in this mount: you made the Tabernacle, the candlestick and the other sacred articles, you received the Torah, you appointed a Sanhedrin for yourselves, captains over thousands and captains over hundreds (cf. Sifrei Devarim 5:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:7",
+      "he": "פְּנ֣וּ&thinsp;׀ וּסְע֣וּ לָכֶ֗ם וּבֹ֨אוּ הַ֥ר הָֽאֱמֹרִי֮ וְאֶל־כׇּל־שְׁכֵנָיו֒ בָּעֲרָבָ֥ה בָהָ֛ר וּבַשְּׁפֵלָ֥ה וּבַנֶּ֖גֶב וּבְח֣וֹף הַיָּ֑ם אֶ֤רֶץ הַֽכְּנַעֲנִי֙ וְהַלְּבָנ֔וֹן עַד־הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־פְּרָֽת׃",
+      "en": "Start out and make your way to the hill country of the Amorites and to all their neighbors in the Arabah, the hill country, the Shephelah, the Negeb, the seacoast, the land of the Canaanites,cland of the Canaanites I.e., Phoenicia. and the Lebanon, as far as the Great River, the river Euphrates.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פנו וסעו לכם. זוֹ דֶּרֶךְ עֲרָד וְחָרְמָה:",
+          "en": "פנו וסעו לכם TURN YOU AND JOURNEY — this was the journey to Arad and Hormah mentioned in Numbers 21:1—3.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ובאו הר האמרי. כְּמַשְׁמָעוֹ:",
+          "en": "ובאו הר האמרי — Understand this according to what it literally implies.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואל כל שכניו. עַמּוֹן וּמוֹאָב וְהַר שֵׂעִיר:",
+          "en": "ואל כל שכניו AND TO ALL ITS NEIGHBOURING PLACES — Ammon, and Moab, and Mount Seir.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בערבה. זֶה מִישׁוֹר שֶׁל יַעַר:",
+          "en": "בערבה IN THE PLAIN — this is the plain of the forest.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "בהר. זֶה הַר הַמֶּלֶךְ:",
+          "en": "בהר IN THE MOUNTAIN — this is the King’s mountain.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "ובשפלה. זוֹ שְׁפֵלַת דָּרוֹם:",
+          "en": "ובשפלה AND IN THE LOW LAND — this is the low land of the south country.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "ובנגב ובחוף הים. אַשְׁקְלוֹן וְעַזָּה וְקֵיסָרִי וְכוּ' כִּדְאִיתָא בְּסִפְרֵי:",
+          "en": "ובנגב ובחוף הים AND IN THE SOUTH COUNTRY AND BY THE SEA COAST — Ashkelon and Gaza and Caesarea, etc., all as is stated in Sifrei Devarim 6:1.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 8,
+          "he": "עד הנהר הגדל. מִפְּנֵי שֶׁנִּזְכָּר עִם אֶרֶץ יִשְׂרָאֵל קוֹרְאוֹ גָּדוֹל, מְשַׁל הֶדְיוֹט אוֹמֵר \"עֶבֶד מֶלֶךְ מֶלֶךְ\", \"הִדַּבֵּק לַשַּׁחֲוָר וְיִשְׁתַּחֲווּ לְךָ\", ״קְרַב לְגַבֵּי דְהִינָא וְאִדַּהֵן\" (שבועות מ\"ז):",
+          "en": "עד הנהר הגדל TO THE GREAT RIVER [THE RIVER EUPHRATES] — Because it is mentioned in connection with the Land of Israel, it terms it \"great\". A popular proverb says: A king’s servant is a king, attach yourself to a captain and people will bow down to you; go near to an anointed (a distinguished) person and you become anointed (distinguished) yourself (cf. Rashi on Shevuot 47b and Genesis 15:18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:8",
+      "he": "רְאֵ֛ה נָתַ֥תִּי לִפְנֵיכֶ֖ם אֶת־הָאָ֑רֶץ בֹּ֚אוּ וּרְשׁ֣וּ אֶת־הָאָ֔רֶץ אֲשֶׁ֣ר נִשְׁבַּ֣ע יְ֠הֹוָ֠ה לַאֲבֹ֨תֵיכֶ֜ם לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לָתֵ֣ת לָהֶ֔ם וּלְזַרְעָ֖ם אַחֲרֵיהֶֽם׃",
+      "en": "See, I place the land at your disposal. Go, take possession of the land that GOD swore to your fathers Abraham, Isaac, and Jacob, to assign to them and to their heirs after them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ראה נתתי. בְּעֵינֵיכֶם אַתֶּם רוֹאִים, אֵינִי אוֹמֵר לָכֶם מֵאֹמֶד וּמִשְּׁמוּעָה (ספרי):",
+          "en": "ראה נתתי SEE, I HAVE GIVEN [THE LAND BEFORE THEE] — With your own eyes do you see this: I do not tell you this by conjecture or hearsay (Sifrei Devarim 7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "באו ורשו. אֵין מְעַרְעֵר בַּדָּבָר, וְאֵינְכֶם צְרִיכִים לְמִלְחָמָה, אִלּוּ לֹא שָׁלְחוּ מְרַגְּלִים לֹא הָיוּ צְרִיכִים לִכְלֵי זַיִן (ע' שם):",
+          "en": "באו ורשו GO IN AND POSSESS [THE LAND] — There is no one who will contest the matter, and you will not need to wage war. Indeed, had they not sent the spies, but had trusted in God's promise, they would not have needed weapons of war (cf. Sifrei Devarim 7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לאבתיכם. לָמָּה הִזְכִּיר שׁוּב לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב? אֶלָּא אַבְרָהָם כְּדַאי לְעַצְמוֹ, יִצְחָק כְּדַאי לְעַצְמוֹ, יַעֲקֹב כְּדַאי לְעַצְמוֹ (שם):",
+          "en": "לאבתיכם [THE LAND WHICH THE LORD SWARE] UNTO YOUR FATHERS … [TO GIVE TO THEM] — Why does he further mention their names: to Abraham, to Isaac, and to Jacob? But it is to suggest the following: The merit of Abraham would itself suffice, that of Isaac would itself suffice, that of Jacob would itself suffice, that I should give the land to you (cf. Sifrei Devarim 8:1; see also Rashi on Leviticus 26:42).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:9",
+      "he": "וָאֹמַ֣ר אֲלֵכֶ֔ם בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר לֹא־אוּכַ֥ל לְבַדִּ֖י שְׂאֵ֥ת אֶתְכֶֽם׃",
+      "en": "Thereupon I said to you, “I cannot bear the burden of you by myself.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואמר אלכם בעת ההוא לאמר. מַהוּ לֵאמֹר? אָמַר לָהֶם מֹשֶׁה לֹא מֵעַצְמִי אֲנִי אוֹמֵר לָכֶם, אֶלָּא מִפִּי הַקָּבָּ\"ה (שם):",
+          "en": "ואמר אלכם בעת ההוא לאמר AND I SPAKE UNTO YOU AT THAT TIME, SAYING — What is the force of לאמר, (lit., to say. i.e. being bidden to say)? Moses, in effect, said unto them: Not of myself do I tell you that I am not able to bear you, but by the bidding of the Holy One, blessed be He (Sifrei Devarim 9:1),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לא אוכל לבדי וגו'. אֶפְשָׁר שֶׁלֹּא הָיָה מֹשֶׁה יָכוֹל לָדוּן אֶת יִשְׂרָאֵל? אָדָם שֶׁהוֹצִיאָם מִמִּצְרַיִם, וְקָרַע לָהֶם אֶת הַיָּם, וְהוֹרִיד אֶת הַמָּן, וְהֵגִיז הַשְּׂלָו, לֹא הָיָה יָכוֹל לְדוּנָם? אֶלָּא כָּךְ אָמַר לָהֶם, ה' אלהיכם הרבה אתכם – הִגְדִּיל וְהֵרִים אֶתְכֶם עַל דַּיָּנֵיכֶם, נָטַל אֶת הָעֹנֶשׁ מִכֶּם וּנְתָנוֹ עַל הַדַּיָּנִין; וְכֵן אָמַר שְׁלֹמֹה (מלכים א ג') \"כִּי מִי יוּכַל לִשְׁפֹּט אֶת עַמְּךָ הַכָּבֵד הַזֶּה\"; אֶפְשָׁר מִי שֶׁכָּתוּב בּוֹ (שם ה') \"וַיֶּחְכַּם מִכָּל הָאָדָם\", אוֹמֵר מִי יוּכַל לִשְׁפֹּט? אֶלָּא כָּךְ אָמַר שְׁלֹמֹה, אֵין דַּיָּנֵי אֻמָּה זוֹ כְדַיָּנֵי שְׁאָר הָאֻמּוֹת, שֶׁאִם דָּן וְהוֹרֵג וּמַכֶּה וְחוֹנֵק וּמַטֶּה אֶת דִּינוֹ וְגוֹזֵל אֵין בְּכָךְ כְּלוּם, אֲנִי אִם חִיַּבְתִּי מָמוֹן שֶׁלֹּא כַדִּין, נְפָשׁוֹת אֲנִי נִתְבָּע, שֶׁנֶּאֱמַר (משלי כ\"ב) \"וְקָבַע אֶת קֹבְעֵיהֶם נָפֶשׁ\" (ספרי; סנהדרין ז'):",
+          "en": "לא אוכל לבדי וגו׳ I AM NOT ABLE [TO BEAR YOU] ALONE — Is it possible that Moses was not able to judge Israel? The man who brought them forth from Egypt, and divided the sea for them, and made the Manna fall, and collected the quails, was not he able to judge them?! But thus did he say unto them, ה' אלהיכם הרבה אתכם THE LORD YOUR GOD HATH MADE YOU GREAT (הרבה) — He has made you superior to and has placed you higher than your judges, inasmuch as He takes the punishment off you and places it upon your judges if they could have prevented your wrongdoing and did not do so. Solomon made a similar statement (namely that the Jewish judge may easily make himself liable to punishment): “For who is able to judge this thy grievous people?” (1 Kings 3:9). Is it possible that he of whom it is said, (1 Kings 5:11) “He was wiser than all men”, should say, \"Who is able to judge”? But this did Solomon mean: The judges of this people are not like the judges of other peoples, for if one of the latter gives judgment and wrongly sentences a person to death by the sword, or to flagellation, or to strangulation, or wrests his justice and thus robs him of his due, it is regarded as of little importance (lit., there is nothing at all in that); I, however, if I unjustly sentence a person to pay even a sum of money, my life is required of me, as it is said, (Proverbs 22:23) “And He robs of their life those who rob them\" (Sifrei Devarim 9:2; Sanhedrin 7a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:10",
+      "he": "יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם הִרְבָּ֣ה אֶתְכֶ֑ם וְהִנְּכֶ֣ם הַיּ֔וֹם כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹֽב׃",
+      "en": "The ETERNAL your God has multiplied you until you are today as numerous as the stars in the sky.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והנכם היום ככוכבי השמים. וְכִי כְכוֹכְבֵי הַשָּׁמַיִם הָיוּ בְּאוֹתוֹ הַיּוֹם, וַהֲלֹא לֹא הָיוּ אֶלָּא שִׁשִּׁים רִבּוֹא, מַהוּ וְהִנְּכֶם הַיּוֹם? הִנְּכֶם מְשׁוּלִים כַּיּוֹם – קַיָּמִים לְעוֹלָם כַּחַמָּה וְכַלְּבָנָה וְכַכּוֹכָבִים (עי' ספרי):",
+          "en": "והנכם היום ככוכבי השמים AND, BEHOLD, YE ARE THIS DAY AS THE STARS OF THE HEAVEN — But were they that day as the stars of the heaven? Were they not, indeed, only sixty myriads? What, then, is the meaning of “And, behold, ye are this day (היום lit., the day)\"? It means: Behold ye may be compared to the day (the sun), existing for ever just as the sun and the moon and the stars (cf. Sifrei Devarim 10:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:11",
+      "he": "יְהֹוָ֞ה אֱלֹהֵ֣י אֲבֽוֹתֵכֶ֗ם יֹסֵ֧ף עֲלֵיכֶ֛ם כָּכֶ֖ם אֶ֣לֶף פְּעָמִ֑ים וִיבָרֵ֣ךְ אֶתְכֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃",
+      "en": "May the ETERNAL, the God of your ancestors, increase your numbers a thousandfold, and bless you as promised.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יסף עליכם ככם אלף פעמים. מַהוּ שׁוּב ויברך אתכם כאשר דבר לכם? אֶלָּא אָמְרוּ לוֹ, מֹשֶׁה אַתָּה נוֹתֵן קִצְבָּה לְבִרְכוֹתֵינוּ? כְּבָר הִבְטִיחַ הַקָּבָּ\"ה אֶת אַבְרָהָם \"אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת וְגוֹ'\" (בראשית י\"ג), אָמַר לָהֶם זוֹ מִשֶּׁלִּי הִיא, אֲבָל הוּא יְבָרֵךְ אֶתְכֶם כַּאֲשֶׁר דִּבֶּר לָכֶם (ספרי):",
+          "en": "יסף עליכם ככם אלף פעמים MAY HE ADD TO YOU A THOUSAND TIMES AS MANY MORE AS YE ARE — What is the force of saying further: ויברך אתכם כאשר דבר לכם AND MAY HE BLESS YOU EVEN AS HE HATH SPOKEN CONCERNING YOU? But the explanation is: They said to him, “Moses, you are setting a limit to our blessings (only a thousand times)! The Holy One, blessed be He, has already made a boundless promise to Abraham (Genesis 13:16) “… if one can count [the dust of the earth, then can thy seed also be counted]\"! Moses replied to them: This (a thousand times) is from me (it is my blessing); but may He bless you even as He hath spoken concerning you!\" (Sifrei Devarim 11).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:12",
+      "he": "אֵיכָ֥ה אֶשָּׂ֖א לְבַדִּ֑י טׇרְחֲכֶ֥ם וּמַֽשַּׂאֲכֶ֖ם וְרִֽיבְכֶֽם׃",
+      "en": "How can I bear unaided the trouble of you, and the burden, and the bickering!",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "איכה אשא לבדי. אִם אֹמַר לְקַבֵּל שָׂכָר, לֹא אוּכַל, זוֹ הִיא שֶׁאָמַרְתִּי לָכֶם לֹא מֵעַצְמִי אֲנִי אוֹמֵר לָכֶם אֶלָּא מִפִּי הַקָּבָּ\"ה:",
+          "en": "איכה אשא לבדי HOW CAN I MYSELF ALONE BEAR [YOUR CUMBRANCE, etc.]? — If I were to say, \"I will do so in order to receive a reward for it\", I may not do so. This is what I have already said to you: not of myself do I tell you that I am not able to bear you, but by the bidding of the Holy One, blessed be He (see Rashi v. 9).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "טרחכם. מְלַמֵּד שֶׁהָיוּ יִשְׂרָאֵל טַרְחָנִין – הָיָה אֶחָד מֵהֶם רוֹאֶה אֶת בַּעַל דִּינוֹ נוֹצֵחַ בַּדִּין, אוֹמֵר יֵשׁ לִי עֵדִים לְהָבִיא, יֵשׁ לִי רְאָיוֹת לְהָבִיא, מוֹסִיף אֲנִי עֲלֵיכֶם דַּיָּנִין:",
+          "en": "טרחכם YOUR CUMBRANCE — Moses' use of this word regarding them teaches us that the Israelites were troublesome: if one of them perceived that his opponent in a law suit was about to be victor in the case he would say: I have witnesses to bring, further proof to adduce, I will add judges to you who are sitting (Sifrei Devarim 12:1) .",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ומשאכם. מְלַמֵּד שֶׁהָיוּ אֶפִּיקוֹרְסִין, הִקְדִּים מֹשֶׁה לָצֵאת, אָמְרוּ מָה רָאָה בֶן עַמְרָם לָצֵאת? שֶׁמָּא אֵינוֹ שָׁפוּי בְּתוֹךְ בֵּיתוֹ; אֵחַר לָצֵאת, אָמְרוּ מָה רָאָה בֶן עַמְרָם שֶׁלֹּא לָצֵאת? מָה אַתֶּם סְבוּרִים? יוֹשֵׁב וְיוֹעֵץ עֲלֵיכֶם עֵצוֹת רָעוֹת וְחוֹשֵׁב עֲלֵיכֶם מַחֲשָׁבוֹת:",
+          "en": "ומשאכם YOUR BURDEN — this teaches that they were Epicorsim (that they treated the judges with scant respect): if Moses went forth early from his tent they said, “Why does the son of Amram leave so early? Perhaps he is not at ease at home?\" If he left late, they said, “What do you think? He is sitting and devising evil schemes against you, and is plotting against you\" (Sifrei Devarim 12:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ורבכם. מְלַמֵּד שֶׁהָיוּ רוֹגְנִים (ספרי):",
+          "en": "וריבכם AND YOUR STRIFE — this teaches that they were always contentious (Sifrei Devarim 12:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:13",
+      "he": "הָב֣וּ לָ֠כֶ֠ם אֲנָשִׁ֨ים חֲכָמִ֧ים וּנְבֹנִ֛ים וִידֻעִ֖ים לְשִׁבְטֵיכֶ֑ם וַאֲשִׂימֵ֖ם בְּרָאשֵׁיכֶֽם׃",
+      "en": "Pick from each of your tribes individuals who are wise, discerning, and experienced, and I will appoint them as your heads.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הבו לכם. הַזְמִינוּ עַצְמְכֶם לַדָּבָר:",
+          "en": "הבו לכם means GET YOURSELVES READY for the matter (cf. Rashi on Genesis 11:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אנשים. וְכִי תַעֲלֶה עַל דַּעְתְּךָ נָשִׁים, מַה תַּ\"לֹ אֲנָשִׁים? צַדִּיקִים, כְּסוּפִים:",
+          "en": "אנשים MEN — But would it enter your mind that he would take women? Why then does it state here men? It means that he should take righteous, desirable men (cf. Sifrei Devarim 13:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "חכמים ונבנים. מְבִינִים דָבָר מִתּוֹךְ דָּבָר; זוֹ הִיא שֶׁשָּׁאַל אֲרִיּוֹס אֶת רַבִּי יוֹסֵי מַה בֵּין חֲכָמִים לִנְבוֹנִים? חָכָם דּוֹמֶה לְשֻׁלְחָנִי עָשִׁיר, כְּשֶׁמְּבִיאִין לוֹ דִּינָרִין לִרְאוֹת רוֹאֶה, וּכְשֶׁאֵין מְבִיאִין לוֹ יוֹשֵׁב וְתוֹהֵא, נָבוֹן דּוֹמֶה לְשֻׁלְחָנִי תַּגָּר, כְּשֶׁמְּבִיאִין לוֹ מָעוֹת לִרְאוֹת רוֹאֶה, וּכְשֶׁאֵין מְבִיאִין לוֹ, הוּא מְחַזֵּר וּמֵבִיא מִשֶּׁלּוֹ (ספרי):",
+          "en": "חכמים ונבנים WISE AND UNDERSTANDING [MEN] — i.e. men who can understand a matter out of (i.e. by comparison with) another matter. — This is what Arius asked R. Jose: what is the difference between wise men and understanding men? A wise man is like a rich money changer: when people bring him dinars to examine (to value) he examines them; and when they do not bring to him, he sits and does nothing (he does not go out to seek any). An understanding man, however, is like a merchant money changer: when they bring him coins to examine, he examines them; and when they do not bring to him, he goes about and brings of his own money (i.e. he himself buys coins) (cf. Sifrei Devarim 13:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "וידעים לשבטיכם. שֶׁהֵם נִכָּרִים לָכֶם, שֶׁאִם בָּא לְפָנַי מְעֻטָּף בְּטַלִּיתוֹ, אֵינִי יוֹדֵעַ מִי הוּא וּמֵאֵי זֶה שֵׁבֶט הוּא, וְאִם הָגוּן הוּא, אֲבָל אַתֶּם מַכִּירִין בּוֹ, שֶׁאַתֶּם גִּדַּלְתֶּם אוֹתוֹ, לְכָךְ נֶאֱמַר וִידֻעִים לְשִׁבְטֵיכֶם (ספרי):",
+          "en": "וידעים לשבטיכם AND [MEN] KNOWN AMONGST YOUR TRIBES — i.e. men who are known to you. For if he were to come before me wrapped in his robe, “I\" would not know who he is and of what tribe he is, and whether he is fitted for the office: but you know him for you have been brought up with him. On this account it states: known amongst your tribes (Sifrei Devarim 13:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "בראשיכם. רָאשִׁים וּמְכֻבָּדִים עֲלֵיכֶם – שֶׁתִּהְיוּ נוֹהֲגִין בָּהֶם כָּבוֹד וְיִרְאָה:",
+          "en": "בראשיכם [AND I WILL PLACE THEM] AT YOUR HEADS — as chiefs and persons honoured by you., i.e., that ye should pay them respect and reverence.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "ואשמם. חָסֵר יוֹ\"ד, לִמֵּד שֶׁאַשְׁמוֹתֵיהֶם שֶׁל יִשְׂרָאֵל תְּלוּיוֹת בְּרָאשֵׁי דַּיָּנֵיהֶם, שֶׁהָיָה לָהֶם לִמְחוֹת וּלְכַוֵּן אוֹתָם לַדֶּרֶךְ הַיְשָׁרָה (ספרי):",
+          "en": "ואשמם — This word lacks the letter י (after the ש: our editions, however, have it): this teaches that Israel's transgressions (אשם) are placed upon the heads of their judges, because it is their duty to prevent them from sinning, and to direct them into the right path (Sifrei Devarim 13:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:14",
+      "he": "וַֽתַּעֲנ֖וּ אֹתִ֑י וַתֹּ֣אמְר֔וּ טֽוֹב־הַדָּבָ֥ר אֲשֶׁר־דִּבַּ֖רְתָּ לַעֲשֽׂוֹת׃",
+      "en": "You answered me and said, “What you propose to do is good.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותענו אתי וגו'. חֲלַטְתֶּם אֶת הַדָּבָר לַהֲנָאַתְכֶם; הָיָה לָכֶם לְהָשִׁיב, מֹשֶׁה רַבֵּנוּ, מִמִּי נָאֶה לִלְמֹד, מִמְּךָ אוֹ מִתַּלְמִידְךָ? לֹא מִמְּךָ שֶׁנִּצְטַעַרְתָּ עָלֶיהָ? אֶלָּא יָדַעְתִּי מַחְשְׁבוֹתֵיכֶם, הֱיִיתֶם אוֹמְרִים עַכְשָׁו יִתְמַנּוּ עָלֵינוּ דַּיָּנִין הַרְבֵּה, אִם אֵין מַכִּירֵנוּ, אָנוּ מְבִיאִין לוֹ דוֹרוֹן וְהוּא נוֹשֵׂא לָנוּ פָנִים (שם):",
+          "en": "ותענו אתי וגו׳ AND YE ANSWERED ME, etc. — You at once decided the matter to your benefit. You should really have replied: Our teacher, Moses! From whom is it more fitting to learn, from you or from your disciple? Is it not from you who have taken such pains about it? But I knew your thoughts: you said, “Many judges will now be appointed over us; if one of them does not happen to be an acquaintance of ours, we shall bring him a gift and he will show us favour (Sifrei Devarim 14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לעשות. אִם הָיִיתִי מִתְעַצֵּל, אַתֶּם אוֹמְרִים עֲשֵׂה מְהֵרָה (שם):",
+          "en": "לעשות TO DO — If I showed myself remiss, you said: act quickly (Sifrei Devarim 14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:15",
+      "he": "וָאֶקַּ֞ח אֶת־רָאשֵׁ֣י שִׁבְטֵיכֶ֗ם אֲנָשִׁ֤ים חֲכָמִים֙ וִֽידֻעִ֔ים וָאֶתֵּ֥ן אוֹתָ֛ם רָאשִׁ֖ים עֲלֵיכֶ֑ם שָׂרֵ֨י אֲלָפִ֜ים וְשָׂרֵ֣י מֵא֗וֹת וְשָׂרֵ֤י חֲמִשִּׁים֙ וְשָׂרֵ֣י עֲשָׂרֹ֔ת וְשֹׁטְרִ֖ים לְשִׁבְטֵיכֶֽם׃",
+      "en": "So I took your tribal leaders, wise and experienced men, and appointed them heads over you: chiefs of thousands, chiefs of hundreds, chiefs of fifties, and chiefs of tens, and officials for your tribes.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואקח את ראשי שבטיכם. מְשַׁכְתִּים – אַשְׁרֵיכֶם, עַל מִי בָּאתֶם לְהִתְמַנּוֹת? עַל בְּנֵי אַבְרָהָם יִצְחָק וְיַעֲקֹב, עַל בְּנֵי אָדָם שֶׁנִּקְרְאוּ אַחִים וְרֵעִים, חֵלֶק וְנַחֲלָה, וְכָל לְשׁוֹן חִבָּה (שם):",
+          "en": "ואקח את ראשי שבטיכם SO I TOOK THE HEADS OF YOUR TRIBES — I took them by fine words: Happy are you! Over whom are you about to be appointed? Over the sons of Abraham, Isaac and Jacob — over the sons of people who are called God's brethren and friends, God's portion and inheritance and to whom is applied every other expression denoting affection (Sifrei Devarim 15:1; cf. Targum Jonathan).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אנשים חכמים וידעים. אֲבָל נְבוֹנִים לֹא מָצָאתִי; זוֹ אַחַת מִשֶּׁבַע מִדּוֹת שֶׁאָמַר יִתְרוֹ לְמֹשֶׁה וְלֹא מָצָא אֶלָּא שָׁלוֹשׁ, אנשים צַדִּיקִים, חכמים, וידעים (שם):",
+          "en": "אנשים חכמים וידעים [AND I TOOK] MEN, WISE AND KNOWN — but understanding men I could not find (Nedarim 20b). This, too, was one of the seven qualifications which Jethro mentioned to Moses, but he found only three: men, i.e. righteous men, wise and known (Sifrei Devarim 15:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ראשים עליכם. שֶׁתִּנְהֲגוּ בָהֶם כָּבוֹד, רָאשִׁים בְּמֶקַח, רָאשִׁים בְּמִמְכָּר, רָאשִׁים בְּמַשָּׂא וּמַתָּן, נִכְנָס אַחֲרוֹן וְיוֹצֵא רִאשׁוֹן (שם):",
+          "en": "ראשים עליכם [AND I MADE THEM] HEADS OVER YOU — i.e. that you should pay them respect — regard them as first in buying, first in selling, first in all matters of business — coming into the Synagogue and House of Study last and leave first (so that all should rise out of respect) (cf. Sifrei Devarim 15:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "שרי אלפים. אֶחָד מְמֻנֶּה עַל אֶלֶף:",
+          "en": "שרי אלפים means, one officer who is appointed over one thousand.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "שרי מאות. אֶחָד מְמֻנֶּה עַל מֵאָה:",
+          "en": "שרי מאות means, one who is appointed over one hundred.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "ושטרים. מִנִּיתִי עֲלֵיכֶם לשבטיכם – אֵלּוּ הַכּוֹפְתִין וְהַמַּכִּין בִּרְצוּעָה עַל פִּי הַדַּיָּנִין (עי' שם):",
+          "en": "ושטרים AND COURT-OFFICERS — i.e., and also I appointed court-officers over you, לשבטיכם ACCORDING TO YOUR TRIBES — these are they who bind and flog with the lash at the bidding of the judges (cf. Sifrei Devarim 15:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:16",
+      "he": "וָאֲצַוֶּה֙ אֶת־שֹׁ֣פְטֵיכֶ֔ם בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר שָׁמֹ֤עַ בֵּין־אֲחֵיכֶם֙ וּשְׁפַטְתֶּ֣ם צֶ֔דֶק בֵּֽין־אִ֥ישׁ וּבֵין־אָחִ֖יו וּבֵ֥ין גֵּרֽוֹ׃",
+      "en": "I charged your magistrates at that time as follows, “Hear out your fellow Israelites, and decide justly between one party and the other—be it a fellow Israelite or a stranger.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואצוה את שפטיכם. אָמַרְתִּי לָהֶם הֱווּ מְתוּנִין בַּדִּין – אִם בָּא דִּין לְפָנֶיךָ פַּעַם אַחַת, שְׁתַּיִם, וְשָׁלוֹשׁ, אַל תֹּאמַר כְּבָר בָּא דִּין זֶה לְפָנַי פְּעָמִים הַרְבֵּה, אֶלָּא הֱיוּ נוֹשְׂאִים וְנוֹתְנִים בּוֹ (שם):",
+          "en": "ואצוה את שפטיכם AND I COMMANDED YOUR JUDGES — I said to them: be deliberate in judgment: if a certain point of law comes before you once, twice, three times, do not say, \"This point of law has already come before me several times”, but discuss it well on that occasion also (Sifrei Devarim 16:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בעת ההוא. מִשֶּׁמִּנִּיתִים אָמַרְתִּי לָהֶם אֵין עַכְשָׁיו כִּלְשֶׁעָבַר, לְשֶׁעָבַר הֱיִיתֶם בִּרְשׁוּת עַצְמְכֶם, עַכְשָׁו הֲרֵי אַתֶּם מְשֻׁעְבָּדִים לַצִּבּוּר (שם):",
+          "en": "בעת ההוא [AND I COMMANDED YOUR JUDGES] AT THAT TIME — As soon as I appointed them, I said to them, \"It is not now as heretofore: heretofore you were your own masters (lit., under your own control), now you are in the service of the Community!” (Sifrei Devarim 16:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "שמע. לְשׁוֹן הֹוֶה, אודנ\"ט בְּלַעַז, כְּמוֹ זָכוֹר, שָׁמוֹר:",
+          "en": "שמע — This grammatical form expresses constant doing: oyant in old French, be hearing, just as זכור and שמור (see Rashi on Numbers 25:17).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ובין גרו. זֶה בַּעַל דִּינוֹ שֶׁאוֹגֵר עָלָיו דְּבָרִים; דָּ\"אַ ובין גרו, אַף עַל עִסְקֵי דִּירָה בֵּין חֲלֻקַּת אַחִים, אֲפִלּוּ בֵּין תַּנּוּר לְכִירַיִם (שם; סנהדרין ז'):",
+          "en": "ובין גרו AND BETWEEN HIS גר — this is his opponent in the lawsuit who merely heaps up (אוגר) words against him. Another explanation of AND BETWEEN HIS גר — also in a matter concerning a dwelling house (גור = to dwell), — in the division of property amongst brothers, even if it be a dispute about an oven and a kitchen range (cf. Sifrei Devarim 16:8-9; Sanhedrin 7b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:17",
+      "he": "לֹֽא־תַכִּ֨ירוּ פָנִ֜ים בַּמִּשְׁפָּ֗ט כַּקָּטֹ֤ן כַּגָּדֹל֙ תִּשְׁמָע֔וּן לֹ֤א תָג֙וּרוּ֙ מִפְּנֵי־אִ֔ישׁ כִּ֥י הַמִּשְׁפָּ֖ט לֵאלֹהִ֣ים ה֑וּא וְהַדָּבָר֙ אֲשֶׁ֣ר יִקְשֶׁ֣ה מִכֶּ֔ם תַּקְרִב֥וּן אֵלַ֖י וּשְׁמַעְתִּֽיו׃",
+      "en": "You shall not be partial in judgment: hear out low and high alike. Fear no one,dno one Or “none of the parties.” for judgment is God’s. And any matter that is too difficult for you, you shall bring to me and I will hear it.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תכירו פנים במשפט. זֶה הַמְמֻנֶּה לְהוֹשִׁיב הַדַּיָּנִים, שֶׁלֹּא יֹאמַר אִישׁ פְּלוֹנִי נָאֶה אוֹ גִּבּוֹר, אוֹשִׁיבֶנּוּ דַיָּן, אִישׁ פְּלוֹנִי קְרוֹבִי, אוֹשִׁיבֶנּוּ דַּיָּן בָּעִיר, וְהוּא אֵינוֹ בָּקִי בְדִינִין, נִמְצָא מְחַיֵּב אֶת הַזַּכַּאי וּמְזַכֶּה אֶת הַחַיָּב, מַעֲלֶה אֲנִי עַל מִי שֶׁמִּנָּהוּ כְּאִלּוּ הִכִּיר פָּנִים בַּדִּין:",
+          "en": "לא תכירו פנים במשפט YE SHALL NOT RESPECT PERSONS IN JUDGMENT — This is addressed to him whose office it is to appoint judges — that he should not say, Mr. So-and-so is a fine or a strong man, I will make him a judge; Mr. So-and-so is my relative, I will make him a judge in the city, — while in reality he is not expert in the laws, and consequently he will condemn the innocent and acquit the guilty — I will account it unto him who appointed him as though he had shown favor in judgment (Sifrei Devarim 17:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כקטן כגדל תשמעון. שֶׁיְּהֵא חָבִיב עָלֶיךָ דִּין שֶׁל פְּרוּטָה כְּדִין שֶׁל מֵאָה מָנֶה, שֶׁאִם קָדַם וּבָא לְפָנֶיךָ, לֹא תְסַלְּקֶנּוּ לָאַחֲרוֹן. דָּ\"אַ — כקטן כגדל תשמעון כְּתַרְגּוּמוֹ, שֶׁלֹּא תֹאמַר זֶה עָנִי הוּא וַחֲבֵרוֹ עָשִׁיר וּמְצֻוֶּה לְפַרְנְסוֹ, אֲזַכֶּה אֶת הֶעָנִי וְנִמְצָא מִתְפַּרְנֵס בִּנְקִיּוּת; דָּ\"אַ — שֶׁלֹּא תֹאמַר הֵיאַךְ אֲנִי פּוֹגֵם כְּבוֹדוֹ שֶׁל עָשִׁיר זֶה בִּשְׁבִיל דִּינָר, אֲזַכֶּנּוּ עַכְשָׁיו, וּכְשֶׁיּוֹצֵא לַחוּץ אֹמַר לוֹ תֵּן לוֹ שֶׁאַתָּה חַיָּב לוֹ (שם):",
+          "en": "כקטן כגדל תשמעון YE SHALL HEAR THE SMALL AS WELL AS THE GREAT, i.e. that a lawsuit regarding a peruta shall be as dear to you (shall be as of equal importance) as a lawsuit regarding a hundred maneh — that if it (the former) comes before you first, you should not set it aside until the last (Sanhedrin 8a). — Another explanation of YE SHALL HEAR THE SMALL AS WELL AS THE GREAT — Understand it as the Targum has it: Ye shall hearken unto the words of the small as to those of the great — i.e. that you should not say: This is a poor man and his fellow (opponent) is rich, and is in any case bidden to support him; I will find in favour of the poor man, and he will consequently obtain some support in a respectable fashion (see Rashi on Leviticus 19:15). — Another explanation is: that you should not say, “How can I offend against the honour of this rich man because of one dinar? I will for the moment decide in his favour, and when he goes outside (leaves the court) I will say to him, ‘Give it to him because in fact you owe it to him'\" (Sifrei Devarim 17:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לא תגורו מפני איש. לֹא תִּירְאוּ; דָּ\"אַ — לא תגורו לֹא תַכְנִיס דְּבָרֶיךָ מִפְּנֵי אִישׁ, לְשׁוֹן \"אֹגֵר בַּקַּיִץ\" (משלי י'):",
+          "en": "לא תגורו מפני איש means: YE SHALL NOT FEAR [ANY MAN]. — Another explanation of לא תגורו: Ye shall not gather in (shall not restrain) your words before any man. The word has the same meaning as in (Proverbs 10:5), \"Gathering (אוגר) in summer” (cf. Sanhedrin 8a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "כי המשפט לאלהים הוא. מַה שֶּׁאַתָּה נוֹטֵל מִזֶּה שֶׁלֹּא כַדִּין, אַתָּה מַזְקִיקֵנִי לְהַחֲזִיר לוֹ, נִמְצָא שֶׁהִטֵּיתָ עָלַי הַמִּשְׁפָּט (סנהדרין ח'):",
+          "en": "כי המשפט לאלהים הוא FOR THE JUDGMENT IS GOD’S — Whatever you take from this man unjustly you will compel Me to restore to him; it follows, therefore, that you have wrested judgment against Me (Sanhedrin 8a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "תקרבון אלי. עַל דָּבָר זֶה נִסְתַּלֵּק מִמֶּנּוּ מִשְׁפַּט בְּנוֹת צְלָפְחָד (שם); וְכֵן שְׁמוּאֵל אָמַר לְשָׁאוּל (שמואל א ט') \"אָנֹכִי הָרוֹאֶה\", אָמַר לוֹ הַקָּבָּ\"ה חַיֶּיךָ שֶׁאֲנִי מוֹדִיעֲךָ שֶׁאֵין אַתָּה רוֹאֶה, וְאֵימָתַי הוֹדִיעוֹ? כְּשֶׁבָּא לִמְשֹׁחַ אֶת דָּוִד (שמואל א ט\"ז) \"וַיַּרְא אֶת אֱלִיאָב וַיֹּאמֶר אַךְ נֶגֶד ה' מְשִׁיחוֹ\", אָמַר לוֹ הַקָּבָּ\"ה וְלֹא אָמַרְתָּ אָנֹכִי הָרֹאֶה? \"אַל תַּבֵּט אֶל מַרְאֵהוּ\" (ספרי):",
+          "en": "תקרבון אלי [AND THE CAUSE THAT IS TOO HARD FOR YOU] BRING TO ME [AND I WILL HEAR IT] — On account of this utterance (that he could decide difficult cases) the law regarding the daughters of Zelophehad evaded him (Sanhedrin 8a; see Rashi on Numbers 27:5). Similarly, Samuel said to Saul (I Samuel 9:19), “I” am the seer. Whereupon the Holy One, blessed be He, said to him, “By your life, I will let you know that you are not a seer”. And when did he let him know this? When he came to anoint David. For Scripture states, (I Samuel 16:6, 7) “And when he saw Eliab he said, Surely before the Lord stands his anointed one”. The Holy One, blessed be He, said to him: \"Did you not say, “I” am the seer? Look not at the outward appearance” (Sifrei Devarim 17:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:18",
+      "he": "וָאֲצַוֶּ֥ה אֶתְכֶ֖ם בָּעֵ֣ת הַהִ֑וא אֵ֥ת כׇּל־הַדְּבָרִ֖ים אֲשֶׁ֥ר תַּעֲשֽׂוּן׃",
+      "en": "Thus I instructed you, at that time, about the various things that you should do.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את כל הדברים אשר תעשון. אֵלּוּ עֲשֶׂרֶת הַדְּבָרִים שֶׁבֵּין דִּינֵי מָמוֹנוֹת לְדִינֵי נְפָשׁוֹת (שם):",
+          "en": "את כל הדברים אשר תעשון [AND I COMMANDED YOU …] ALL THE THINGS THAT YE SHOULD DO — These are the ten things that constitute the difference between civil cases and capital cases (Sifrei Devarim 18:1; cf. Sanhedrin 32a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:19",
+      "he": "וַנִּסַּ֣ע מֵחֹרֵ֗ב וַנֵּ֡לֶךְ אֵ֣ת כׇּל־הַמִּדְבָּ֣ר הַגָּדוֹל֩ וְהַנּוֹרָ֨א הַה֜וּא אֲשֶׁ֣ר רְאִיתֶ֗ם דֶּ֚רֶךְ הַ֣ר הָֽאֱמֹרִ֔י כַּאֲשֶׁ֥ר צִוָּ֛ה יְהֹוָ֥ה אֱלֹהֵ֖ינוּ אֹתָ֑נוּ וַנָּבֹ֕א עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃",
+      "en": "We set out from Horeb and traveled the great and terrible wilderness that you saw, along the road to the hill country of the Amorites, as the ETERNAL our God had commanded us. When we reached Kadesh-barnea,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "המדבר הגדול והנורא. שֶׁהָיוּ בוֹ נְחָשִׁים כְּקוֹרוֹת, וְעַקְרַבִּים כִּקְשָׁתוֹת (שם):",
+          "en": "המדבר הגדול והנורא [THAT]. GREAT AND FEARFUL WILDERNESS — [It is termed fearful] because there were in it serpents thick as beams and scorpions as bows (Sifrei Devarim 18:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:20",
+      "he": "וָאֹמַ֖ר אֲלֵכֶ֑ם בָּאתֶם֙ עַד־הַ֣ר הָאֱמֹרִ֔י אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃",
+      "en": "I said to you, “You have come to the hill country of the Amorites that the ETERNAL our God is giving to us.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:21",
+      "he": "רְ֠אֵ֠ה נָתַ֨ן יְהֹוָ֧ה אֱלֹהֶ֛יךָ לְפָנֶ֖יךָ אֶת־הָאָ֑רֶץ עֲלֵ֣ה רֵ֗שׁ כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהֹוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֙יךָ֙ לָ֔ךְ אַל־תִּירָ֖א וְאַל־תֵּחָֽת׃",
+      "en": "See, the ETERNAL your God has placed the land at your disposal. Go up, take possession, as the ETERNAL, the God of your fathers, promised you. Fear not and be not dismayed.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:22",
+      "he": "וַתִּקְרְב֣וּן אֵלַי֮ כֻּלְּכֶם֒ וַתֹּאמְר֗וּ נִשְׁלְחָ֤ה אֲנָשִׁים֙ לְפָנֵ֔ינוּ וְיַחְפְּרוּ־לָ֖נוּ אֶת־הָאָ֑רֶץ וְיָשִׁ֤בוּ אֹתָ֙נוּ֙ דָּבָ֔ר אֶת־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר נַעֲלֶה־בָּ֔הּ וְאֵת֙ הֶֽעָרִ֔ים אֲשֶׁ֥ר נָבֹ֖א אֲלֵיהֶֽן׃",
+      "en": "Then all of you came to me and said, “Let us send agents ahead to reconnoiter the land for us and bring back word on the route we shall follow and the cities we shall come to.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותקרבון אלי כלכם. בְּעִרְבּוּבְיָא; וּלְהַלָּן הוּא אוֹמֵר (דברים ה') \"וַתִּקְרְבוּן אֵלַי כָּל רָאשֵׁי שִׁבְטֵיכֶם וְזִקְנֵיכֶם וַתֹּאמְרוּ הֵן הֶרְאָנוּ וְגוֹ'\", אוֹתָהּ קְרִיבָה הָיְתָה הוֹגֶנֶת – יְלָדִים מְכַבְּדִים אֶת הַזְּקֵנִים וּשְׁלָחוּם לִפְנֵיהֶם, וּזְקֵנִים מְכַבְּדִים אֶת הָרָאשִׁים לָלֶכֶת לִפְנֵיהֶם, אֲבָל כָּאן \"וַתִּקְרְבוּן אֵלַי כֻּלְּכֶם\" בְּעִרְבּוּבְיָא – יְלָדִים דּוֹחֲפִין אֶת הַזְּקֵנִים, וּזְקֵנִים דּוֹחֲפִין אֶת הָרָאשִׁים (ספרי):",
+          "en": "ותקרבון אלי כלכם AND YE APPROACHED ME ALL OF YOU — all of you: in a crowd. But further on (Deuteronomy 5:20, 21) it states, “Ye approached me, even all the heads of your tribes, and your elders, and ye said, Behold [the Eternal our God] hath shown us [His glory and His greatness]’’: That approach to me was a fitting one — young people showing respect to their elders, letting these precede them, and the elders showing respect to the heads of the tribes that these should precede them. Here, however, ye approached me, all of you, in a crowd, the young pushing aside their olders, the elders pushing aside the heads (Sifrei Devarim 20:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישבו אתנו דבר. בְּאֵיזֶה לָשׁוֹן הֵם מְדַבְּרִים:",
+          "en": "וישבו אתנו דבר AND THEY SHALL BRING US WORD — i.e. they shall report to us in what language they speak (Sifrei Devarim 20:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "את הדרך אשר נעלה בה. אֵין דֶּרֶךְ שֶׁאֵין בָּהּ עַקְמִימוּת:",
+          "en": "את הדרך אשר נעלה בה BY WHAT WAY WE MUST GO UP — you will rarely find a road in which there is not some zigzag course (Sifrei Devarim 20:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ואת הערים אשר נבא אליהן. תְּחִלָּה לִכְבֹּשׁ (שם):",
+          "en": "ואת הערים אשר נבא אליהן AND UNTO WHAT CITIES WE SHALL COME first to capture them (cf. Sifrei Devarim 20:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:23",
+      "he": "וַיִּיטַ֥ב בְּעֵינַ֖י הַדָּבָ֑ר וָאֶקַּ֤ח מִכֶּם֙ שְׁנֵ֣ים עָשָׂ֣ר אֲנָשִׁ֔ים אִ֥ישׁ אֶחָ֖ד לַשָּֽׁבֶט׃",
+      "en": "I approved of the plan, and so I selected twelve of you, one representative from each tribe.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וייטב בעיני הדבר. בְּעֵינַי וְלֹא בְעֵינֵי הַמָּקוֹם; וְאִם בְּעֵינֵי מֹשֶׁה הָיָה טוֹב לָמָּה אֲמָרָהּ בַּתּוֹכָחוֹת? מָשָׁל לְאָדָם שֶׁאוֹמֵר לַחֲבֵרוֹ מְכֹר לִי חֲמוֹרְךָ זֶה, אָמַר לוֹ הֵן, נוֹתְנוֹ אַתָּה לִי לְנִסָּיוֹן? אָמַר לוֹ הֵן, בֶּהָרִים וּבַגְּבָעוֹת? אָמַר לוֹ הֵן, כֵּיוָן שֶׁרָאָה שֶׁאֵין מְעַכְּבוֹ כְלוּם, אָמַר הַלּוֹקֵחַ בְּלִבּוֹ בָּטוּחַ הוּא זֶה שֶׁלֹּא אֶמְצָא בוֹ מוּם, מִיָּד אָמַר לוֹ טֹל מְעוֹתֶיךָ אֵינִי מְנַסֵּהוּ מֵעַתָּה, אַף אֲנִי הוֹדֵיתִי לְדִבְרֵיכֶם, שֶׁמָּא תַחְזְרוּ בָכֶם כְּשֶׁתִּרְאוּ שֶׁאֵינִי מְעַכֵּב, וְאַתֶּם לֹא חֲזַרְתֶּם בָּכֶם (ספרי):",
+          "en": "וייטב בעיני הדבר AND THE MATTER WAS GOOD IN MY SIGHT — in my sight, said Moses, but not in the sight of the Omnipresent God. — But if it was good in Moses' sight why did he mention it in these reproofs? A parable! It may he compared to the case of a man who says to his fellow, \"Sell me this ass of yours”. He replies to him, \"Yes”. He asks him, \"Will you give it to me on trial?” He replies: \"Yes”. — \"May I try it on hills and mountains?” Again he replies, \"Yes\" — When he sees that he puts no obstacles in his way, the would-be purchaser says to himself: “This man is quite confident that I shall not find any defect in it\", and he at once says to him, “Take your money, I need not now put it to trial”. I, too, consented to your words, thinking that you would perhaps turn back on yourselves (re-consider the question of sending spies) when you saw that I put no obstacle in your way, but you did not re-consider (Sifrei Devarim 21:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואקח מכם. מִן הַבְּרוּרִים שֶׁבָּכֶם, מִן הַמְסֻלָּתִים שֶׁבָּכֶם (שם):",
+          "en": "ואקח מכם AND I TOOK OF YOU — of the choicest that were amongst you, of the finest that were amongst you (Sifrei Devarim 21:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "שנים עשר אנשים איש אחד לשבט. מַגִּיד שֶׁלֹּא הָיָה שֵׁבֶט לֵוִי עִמָּהֶם (שם):",
+          "en": "שנים עשר אנשים איש אחד לשבט [AND I TOOK] … TWELVE MEN, ONE MAN FOR A TRIBE — This (the statement: “twelve men”) tells us that the tribe of Levi was not with them in this request (Sifrei Devarim 21:3; cf. Rashi on Numbers 31:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:24",
+      "he": "וַיִּפְנוּ֙ וַיַּעֲל֣וּ הָהָ֔רָה וַיָּבֹ֖אוּ עַד־נַ֣חַל אֶשְׁכֹּ֑ל וַֽיְרַגְּל֖וּ אֹתָֽהּ׃",
+      "en": "They made for the hill country, came to the wadi Eshcol, and spied it out.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עד נחל אשכל. מַגִּיד שֶׁנִּקְרָא עַל שֵׁם סוֹפוֹ (שם):",
+          "en": "עד נחל אשכל [AND THEY CAME] TO THE BROOK OF ESHCOL — This tells us that it was so called on account of what was eventually, to happen there [— that they took from there a cluster (אשכל) of grapes] (Sifrei Devarim 22:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וירגלו אתה. מְלַמֵּד שֶׁהָלְכוּ בָהּ אַרְבָּעָה אֻמָּנִין שְׁתִי וָעֵרֶב (שם):",
+          "en": "וירגלו אתה AND THEY SPIED IT OUT — This teaches that they passed through it along four lines, along the length and the breadth (Sifrei Devarim 22:3; cf. Rashi on Numbers 13:21).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:25",
+      "he": "וַיִּקְח֤וּ בְיָדָם֙ מִפְּרִ֣י הָאָ֔רֶץ וַיּוֹרִ֖דוּ אֵלֵ֑ינוּ וַיָּשִׁ֨בוּ אֹתָ֤נוּ דָבָר֙ וַיֹּ֣אמְר֔וּ טוֹבָ֣ה הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃",
+      "en": "They took some of the fruit of the land with them and brought it down to us. And they gave us this report: “It is a good land that the ETERNAL our God is giving to us.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויורדו אלינו. מַגִּיד שֶׁאֶרֶץ יִשְׂרָאֵל גְּבוֹהָה מִכָּל הָאֲרָצוֹת (שם):",
+          "en": "ויורדו אלינו AND THEY BROUGHT IT DOWN TO US — This tells us that the land of Israel is situated higher than all other countries (Sifrei Devarim 23:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויאמרו טובה הארץ. מִי הֵם שֶׁאָמְרוּ טוֹבָתָהּ? יְהוֹשֻׁעַ וְכָלֵב (שם):",
+          "en": "ויאמרו טובה הארץ AND THEY SAID, THE LAND IS GOOD — Who were they who spoke of it being good? Joshua and Caleb (Sifrei Devarim 23:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:26",
+      "he": "וְלֹ֥א אֲבִיתֶ֖ם לַעֲלֹ֑ת וַתַּמְר֕וּ אֶת־פִּ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+      "en": "Yet youeyou Addressing the militia, which ostensibly fights on the nation’s behalf. refused to go up, and flouted the command of the ETERNAL your God.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותמרו. לְשׁוֹן הַתְרָסָה – הִתְרַסְתֶּם כְּנֶגֶד מַאֲמָרוֹ:",
+          "en": "ותמרו — This is an expression denoting setting oneself in opposition: ye opposed yourselves to His words.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:27",
+      "he": "וַתֵּרָגְנ֤וּ בְאׇהֳלֵיכֶם֙ וַתֹּ֣אמְר֔וּ בְּשִׂנְאַ֤ת יְהֹוָה֙ אֹתָ֔נוּ הוֹצִיאָ֖נוּ מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַשְׁמִידֵֽנוּ׃",
+      "en": "You sulkedfYou sulked Precise meaning of Heb. watteragnu uncertain. in your tents and said, “It is out of hatred for us that GOD brought us out of the land of Egypt, to hand us over to the Amorites to wipe us out.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותרגנו. לָשׁוֹן הָרָע, וְכֵן \"דִּבְרֵי נִרְגָּן\" (משלי י\"ח) – אָדָם הַמּוֹצִיא דִּבָּה:",
+          "en": "ותרגנו — This is an expression denoting slander. Similar is, (Proverbs 18:8) “The words of a נרגן” i.e. of a man who brings a false report (Sifrei Devarim 24:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בשנאת ה' אתנו. וְהוּא הָיָה אוֹהֵב אֶתְכֶם, אֲבָל אַתֶּם שׂוֹנְאִים אוֹתוֹ; מְשַׁל הֶדְיוֹט אוֹמֵר מַה דִּבְלִבָּךְ עַל רְחִמָּךְ מַה דִּבְלִבֵּהּ עֲלָךְ (ספרי):",
+          "en": "בשנאת ה׳ אתנו BECAUSE THE LORD HATETH US — Really, however, He loved you, but you hated Him. A common proverb says: What is in your own mind about your friend, you imagine is what is in his mind about you (Sifrei Devarim 24:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "בשנאת ה' אתנו הוציאנו מארץ מצרים. הוֹצָאָתוֹ לְשִׂנְאָה הָיְתָה; מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁהָיוּ לוֹ שְׁנֵי בָנִים וְיֵשׁ לוֹ שְׁתֵּי שָׂדוֹת, אַחַת שֶׁל שִׁקְיָא וְאַחַת שֶׁל בַּעַל, לְמִי שֶׁהוּא אוֹהֵב נוֹתֵן שֶׁל שִׁקְיָא, וּלְמִי שֶׁהוּא שׂוֹנֵא נוֹתֵן לוֹ שֶׁל בַּעַל, אֶרֶץ מִצְרַיִם שֶׁל שִׁקְיָא הִיא, שֶׁנִּילוּס עוֹלֶה וּמַשְׁקֶה אוֹתָהּ, וְאֶרֶץ כְּנַעַן שֶׁל בַּעַל, וְהוֹצִיאָנוּ מִמִּצְרַיִם לָתֵת לָנוּ אֶת אֶרֶץ כְּנַעַן (במ\"ר י\"ז):",
+          "en": "בשנאת ה' אתנו הוציאנו מארץ מצרים BECAUSE THE LORD HATETH US HE HATH BROUGHT US FORTH FROM THE LAND OF EGYPT — His bringing us forth was out of hatred. A parable! It may be compared to an earthly king who had two sons, and who had two fields, one well-watered; the other arid (dependent upon rain only). To him whom he loved best of his sons he gave the well-watered field, and to him whom he loved less he gave the arid one. The land of Egypt is a well-watered country, for the Nile rises and irrigates it, whilst the land of Canaan is an arid country — and He brought us forth from well-watered Egypt to give us the arid land of Canaan (Numbers Rabbah 17:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:28",
+      "he": "אָנָ֣ה&thinsp;׀ אֲנַ֣חְנוּ עֹלִ֗ים אַחֵ֩ינוּ֩ הֵמַ֨סּוּ אֶת־לְבָבֵ֜נוּ לֵאמֹ֗ר עַ֣ם גָּד֤וֹל וָרָם֙ מִמֶּ֔נּוּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצוּרֹ֖ת בַּשָּׁמָ֑יִם וְגַם־בְּנֵ֥י עֲנָקִ֖ים רָאִ֥ינוּ שָֽׁם׃",
+      "en": "What kind of placegWhat kind of place Lit. “Where.” are we going to? Our brothers have taken the heart out of us, saying, ‘We saw there a people stronger and taller than we, large cities with walls sky-high, and even Anakites.’”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ערים גדלת ובצורת בשמים. דִּבְּרוּ הַכְּתוּבִים לְשׁוֹן הֲבַאי (ספרי; חולין צ'):",
+          "en": "ערים גדלת ובצורת בשמים THE CITIES ARE GREAT AND FORTIFIED TO HEAVEN — Scriptural texts sometimes speak in exaggerated terms (Sifrei Devarim 25:4; Chullin 90b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:29",
+      "he": "וָאֹמַ֖ר אֲלֵכֶ֑ם לֹא־תַעַרְצ֥וּן וְלֹא־תִֽירְא֖וּן מֵהֶֽם׃",
+      "en": "I said to you, “Have no dread or fear of them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תערצון. לְשׁוֹן שְׁבִירָה, כְּתַרְגּוּמוֹ, וְדוֹמֶה לוֹ (איוב ל') \"בַּעֲרוּץ נְחָלִים לִשְׁכֹּן\"– שִׁבּוּר הַנְּחָלִים:",
+          "en": "לא תערצון — This is an expression denoting breaking, as the Targum translates it: You should not let yourselves be broken by them. Similar to it is, (Job 30:6) “To dwell in ערוץ נחלים”, i.e. in the fissure of the valleys.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:30",
+      "he": "יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ הַהֹלֵ֣ךְ לִפְנֵיכֶ֔ם ה֖וּא יִלָּחֵ֣ם לָכֶ֑ם כְּ֠כֹ֠ל אֲשֶׁ֨ר עָשָׂ֧ה אִתְּכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֵיכֶֽם׃",
+      "en": "None other than the ETERNAL your God, who goes before you, will fight for you—just as [God] did for you in Egypt before your very eyes,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ילחם לכם. בִּשְׁבִילְכֶם:",
+          "en": "ילחם לכם means, [HE WILL FIGHT] ON YOUR BEHALF.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:31",
+      "he": "וּבַמִּדְבָּר֙ אֲשֶׁ֣ר רָאִ֔יתָ אֲשֶׁ֤ר נְשָׂאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כַּאֲשֶׁ֥ר יִשָּׂא־אִ֖ישׁ אֶת־בְּנ֑וֹ בְּכׇל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר הֲלַכְתֶּ֔ם עַד־בֹּאֲכֶ֖ם עַד־הַמָּק֥וֹם הַזֶּֽה׃",
+      "en": "and in the wilderness, where you saw how the ETERNAL your God carried you, as a manhman A stereotypical head of household, responsible for its continuity. carries his son, all the way that you traveled until you came to this place.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובמדבר אשר ראית. מוּסָב עַל מִקְרָא שֶׁלְּמַעְלָה הֵימֶנּוּ – ככל אשר עשה אתכם במצרים, וְעָשָׂה אַף במדבר אשר ראית אשר נשאך וגו':",
+          "en": "ובמדבר אשר ראית — This is to be connected with the verse preceding: \"according to all that He did for you in Egypt\" \"and\" which He also did \"in the wilderness, where thou hast seen how that [the Lord thy God] bore thee, etc.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כאשר ישא איש את בנו. כְּמוֹ שֶׁפֵּרַשְׁתִּי אֵצֶל \"וַיִּסַּע מַלְאַךְ הָאֱלֹהִים הַהֹלֵךְ לִפְנֵי מַחֲנֵה יִשְׂרָאֵל וְגוֹ'\" (שמות י\"ד) מָשָׁל לִמְהַלֵּךְ בַּדֶּרֶךְ וּבְנוֹ לְפָנָיו, בָּאוּ לִסְטִים לִשְׁבּוֹתוֹ, וְכוּ':",
+          "en": "כאשר ישא איש את בנו AS A MAN DOTH BEAR HIS SON — The meaning is just as I have explained in connection with the verse (Exodus 14:19—20), \"And the angel of the Lord that went before the camp of the Israelites moved, etc.\". A parable! It may be compared to one who is proceeding on a journey, his son walking in front of him. If bandits come to kidnap him (the son), he takes him away from in front of him and places him behind himself, etc.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:32",
+      "he": "וּבַדָּבָ֖ר הַזֶּ֑ה אֵֽינְכֶם֙ מַאֲמִינִ֔ם בַּיהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+      "en": "Yet for all that, you have no faith in the ETERNAL your God,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובדבר הזה. שֶׁהוּא מַבְטִיחֲכֶם לַהֲבִיאֲכֶם אֶל הָאָרֶץ – אֵינְכֶם מַאֲמִינִים בּוֹ:",
+          "en": "ובדבר הזה YET IN REGARD TO THIS THING that He promised you, viz., to bring you to the Land, you did not believe in Him (because the promise has not yet been fulfilled).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:33",
+      "he": "הַהֹלֵ֨ךְ לִפְנֵיכֶ֜ם בַּדֶּ֗רֶךְ לָת֥וּר לָכֶ֛ם מָק֖וֹם לַחֲנֹֽתְכֶ֑ם בָּאֵ֣שׁ&thinsp;׀ לַ֗יְלָה לַרְאֹֽתְכֶם֙ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ־בָ֔הּ וּבֶעָנָ֖ן יוֹמָֽם׃",
+      "en": "who goes before you on your journeys—to scout the place where you are to encamp—in fire by night and in cloud by day, in order to guide you on the route you are to follow.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לראתכם. כְּמוֹ לְהַרְאוֹתְכֶם, וְכֵן (שמות י\"ג) \"לַנְחֹתָם הַדֶּרֶךְ\", וְכֵן (תהלים כ\"ו) \"לַשְׁמִעַ בְּקוֹל תּוֹדָה\", וְכֵן (מלכים ב ט') \"לָלֶכֶת לַגִּיד בְּיִזְרְעֶאל\":",
+          "en": "לראתכם — This word is the same as לְהַרְאֹתְכֶם. Similar, too, is לנחתם הדרך (like לְהַנְחֹתָם; see Rashi on Exodus 13:21). So also (Psalms 26:7) לשמיע בקול תודה [like לְהַשְׁמִיעַ], also, (2 Kings 9:15) ללכת לגיד ביזרעל [like לְהַגִּיד]",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:34",
+      "he": "וַיִּשְׁמַ֥ע יְהֹוָ֖ה אֶת־ק֣וֹל דִּבְרֵיכֶ֑ם וַיִּקְצֹ֖ף וַיִּשָּׁבַ֥ע לֵאמֹֽר׃",
+      "en": "Upon hearing your loud complaint, GOD became angry and vowed:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:35",
+      "he": "אִם־יִרְאֶ֥ה אִישׁ֙ בָּאֲנָשִׁ֣ים הָאֵ֔לֶּה הַדּ֥וֹר הָרָ֖ע הַזֶּ֑ה אֵ֚ת הָאָ֣רֶץ הַטּוֹבָ֔ה אֲשֶׁ֣ר נִשְׁבַּ֔עְתִּי לָתֵ֖ת לַאֲבֹתֵיכֶֽם׃",
+      "en": "Not one of those involved, this evil generation, shall see the good land that I swore to give to your fathersifathers Abraham, Isaac, and Jacob; see v. 8; Gen. 24.7; 26.3; 50.24.—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:36",
+      "he": "זֽוּלָתִ֞י כָּלֵ֤ב בֶּן־יְפֻנֶּה֙ ה֣וּא יִרְאֶ֔נָּה וְלֽוֹ־אֶתֵּ֧ן אֶת־הָאָ֛רֶץ אֲשֶׁ֥ר דָּֽרַךְ־בָּ֖הּ וּלְבָנָ֑יו יַ֕עַן אֲשֶׁ֥ר מִלֵּ֖א אַחֲרֵ֥י יְהֹוָֽה׃",
+      "en": "none except Caleb son of Jephunneh; he shall see it, and to him and his descendants will I give the land on which he set foot, because he remained loyal to GOD.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אשר דרך בה. — חֶבְרוֹן; שֶׁנֶּאֱמַר (במדבר י\"ג) \"וַיָּבֹא עַד חֶבְרוֹן\":",
+          "en": "אשר דרך בה [AND TO HIM WILL I GIVE THE LAND] THAT HE TROD UPON — viz., Hebron, as it is said, (Numbers 13:22) “And he (Caleb) came to Hebron”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:37",
+      "he": "גַּם־בִּי֙ הִתְאַנַּ֣ף יְהֹוָ֔ה בִּגְלַלְכֶ֖ם לֵאמֹ֑ר גַּם־אַתָּ֖ה לֹא־תָבֹ֥א שָֽׁם׃",
+      "en": "Because of you GOD was incensed with me too, saying: You shall not enter it either.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "התאנף. נִתְמַלֵּא רֹגֶז:",
+          "en": "התאנף means HE WAS FILLED WITH ANGER.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:38",
+      "he": "יְהוֹשֻׁ֤עַ בִּן־נוּן֙ הָעֹמֵ֣ד לְפָנֶ֔יךָ ה֖וּא יָ֣בֹא שָׁ֑מָּה אֹת֣וֹ חַזֵּ֔ק כִּי־ה֖וּא יַנְחִלֶ֥נָּה אֶת־יִשְׂרָאֵֽל׃",
+      "en": "Joshua son of Nun, who attends you, he shall enter it. Imbue him with strength, for he shall allot it to Israel.—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:39",
+      "he": "וְטַפְּכֶם֩ אֲשֶׁ֨ר אֲמַרְתֶּ֜ם לָבַ֣ז יִהְיֶ֗ה וּ֠בְנֵיכֶ֠ם אֲשֶׁ֨ר לֹא־יָדְע֤וּ הַיּוֹם֙ ט֣וֹב וָרָ֔ע הֵ֖מָּה יָבֹ֣אוּ שָׁ֑מָּה וְלָהֶ֣ם אֶתְּנֶ֔נָּה וְהֵ֖ם יִירָשֽׁוּהָ׃",
+      "en": "Moreover, your little ones who you said would be carried off, your children who do not yet know good from bad, they shall enter it; to them will I give it and they shall possess it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:40",
+      "he": "וְאַתֶּ֖ם פְּנ֣וּ לָכֶ֑ם וּסְע֥וּ הַמִּדְבָּ֖רָה דֶּ֥רֶךְ יַם־סֽוּף׃",
+      "en": "As for you, turn about and march into the wilderness by the way of the Sea of Reeds.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פנו לכם. אָמַרְתִּי לְהַעֲבִיר אֶתְכֶם דֶּרֶךְ רֹחַב אֶרֶץ אֱדוֹם לְצַד צָפוֹן לִכָּנֵס לָאָרֶץ, קִלְקַלְתֶּם וּגְרַמְתֶּם לָכֶם עִכּוּב:",
+          "en": "פנו לכם TURN YE — I thought to let you pass across the breadth of the land of Edom in a northerly direction and thus enter the Land (cf. Rashi on Numbers 34:3); you, however, became degenerate and caused this delay for yourselves.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פנו לכם. לַאֲחוֹרֵיכֶם וְתֵלְכוּ בַּמִּדְבָּר לְצַד יַם סוּף – שֶׁהַמִּדְבָּר שֶׁהָיוּ מְהַלְּכִים בּוֹ לִדְרוֹמוֹ שֶׁל הַר שֵׂעִיר הָיָה מַפְסִיק בֵּין יַם סוּף לְהַר שֵׂעִיר – עַתָּה הִמָּשְׁכוּ לְצַד הַיָּם וּתְסַבְּבוּ אֶת הַר שֵׂעִיר כָּל דְּרוֹמוֹ מִן הַמַּעֲרָב לַמִּזְרָח:",
+          "en": "פנו לכם TURN YE backwards, and proceed through the wilderness towards the Red Sea; — for the wilderness through which they were travelling was to the south of Mount Seir separating the Red Sea from Mount Seir. — Now proceed in the direction of the Sea and travel round Mount Seir along the whole of its south side from the west to the east.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:41",
+      "he": "וַֽתַּעֲנ֣וּ&thinsp;׀ וַתֹּאמְר֣וּ אֵלַ֗י חָטָ֘אנוּ֮ לַיהֹוָה֒ אֲנַ֤חְנוּ נַעֲלֶה֙ וְנִלְחַ֔מְנוּ כְּכֹ֥ל אֲשֶׁר־צִוָּ֖נוּ יְהֹוָ֣ה אֱלֹהֵ֑ינוּ וַֽתַּחְגְּר֗וּ אִ֚ישׁ אֶת־כְּלֵ֣י מִלְחַמְתּ֔וֹ וַתָּהִ֖ינוּ לַעֲלֹ֥ת הָהָֽרָה׃",
+      "en": "You replied to me, saying, “We stand guilty before GOD. We will go up now and fight, just as the ETERNAL our God commanded us.” And you each girded yourselves with war gear and recklesslyjrecklessly Meaning of Heb. wattahinu uncertain. started for the hill country.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותהינו. לְשׁוֹן \"הִנֶּנּוּ וְעָלִינוּ אֶל הַמָּקוֹם\" (במדבר י\"ד), זֶה הַלָּשׁוֹן שֶׁאֲמַרְתֶּם לְשׁוֹן \"הֵן\", כְּלוֹמַר נִזְדַּמַּנְתֶּם:",
+          "en": "ותהינו — This is an expression derived from the word הננו in (Numbers 14:40) \"Here we are (הננו) and we will go up to the place”. This is the expression which you uttered — the expression הן, \"yes”. The word, therefore, means as much as: you expressed your readiness to go up into the mountain.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:42",
+      "he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י אֱמֹ֤ר לָהֶם֙ לֹ֤א תַֽעֲלוּ֙ וְלֹא־תִלָּ֣חֲמ֔וּ כִּ֥י אֵינֶ֖נִּי בְּקִרְבְּכֶ֑ם וְלֹא֙ תִּנָּ֣גְפ֔וּ לִפְנֵ֖י אֹיְבֵיכֶֽם׃",
+      "en": "But GOD said to me, “Warn them: Do not go up and do not fight, since I am not in your midst; else you will be routed by your enemies.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תעלו. לֹא עֲלִיָּה תְהֵא לָכֶם אֶלָּא יְרִידָה:",
+          "en": "לא תעלו “GO NOT UP” — There will be no “ascent” for you, but only a descent (defeat) (cf. Rashi on Numbers 16:12 and Numbers Rabbah 17:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:43",
+      "he": "וָאֲדַבֵּ֥ר אֲלֵיכֶ֖ם וְלֹ֣א שְׁמַעְתֶּ֑ם וַתַּמְרוּ֙ אֶת־פִּ֣י יְהֹוָ֔ה וַתָּזִ֖דוּ וַתַּעֲל֥וּ הָהָֽרָה׃",
+      "en": "I spoke to you, but you would not listen; you flouted GOD’s command and willfully marched into the hill country.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 1:44",
+      "he": "וַיֵּצֵ֨א הָאֱמֹרִ֜י הַיֹּשֵׁ֨ב בָּהָ֤ר הַהוּא֙ לִקְרַאתְכֶ֔ם וַיִּרְדְּפ֣וּ אֶתְכֶ֔ם כַּאֲשֶׁ֥ר תַּעֲשֶׂ֖ינָה הַדְּבֹרִ֑ים וַֽיַּכְּת֥וּ אֶתְכֶ֛ם בְּשֵׂעִ֖יר עַד־חׇרְמָֽה׃",
+      "en": "Then the Amorites who lived in those hills came out against you like so many bees and chased you, and they crushed you at Hormah in Seir.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כאשר תעשינה הדברים. מַה הַדְּבוֹרָה הַזֹּאת כְּשֶׁהִיא מַכָּה אֶת הָאָדָם מִיָּד מֵתָה, אַף הֵם כְּשֶׁהָיוּ נוֹגְעִים בָּכֶם מִיָּד מֵתִים:",
+          "en": "כאשר תעשינה הדברים [AND THEY PURSUED YOU] AS BEES DO — Just as a bee when it stings a person it dies immediately, similarly they (the Amorites): when they attacked you they died immediately (Numbers Rabbah 17:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:45",
+      "he": "וַתָּשֻׁ֥בוּ וַתִּבְכּ֖וּ לִפְנֵ֣י יְהֹוָ֑ה וְלֹֽא־שָׁמַ֤ע יְהֹוָה֙ בְּקֹ֣לְכֶ֔ם וְלֹ֥א הֶאֱזִ֖ין אֲלֵיכֶֽם׃",
+      "en": "Again you wept before GOD; but GOD would not heed your cry or give ear to you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא שמע ה' בקלכם. כִּבְיָכוֹל עֲשִׂיתֶם מִדַּת רַחֲמָיו כְּאִלּוּ אַכְזָרִי:",
+          "en": "ולא שמע ה' בקלכם BUT THE LORD WOULD NOT HEAR YOUR VOICE — If it is at all possible to say so of God, you made His attribute of mercy as though it were cruel (Numbers Rabbah 17:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 1:46",
+      "he": "וַתֵּשְׁב֥וּ בְקָדֵ֖שׁ יָמִ֣ים רַבִּ֑ים כַּיָּמִ֖ים אֲשֶׁ֥ר יְשַׁבְתֶּֽם׃",
+      "en": "Thus, after you had remained at Kadesh all that long time,kall that long time Lit. “many days, like the days that you remained.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותשבו בקדש ימים רבים. י\"ט שָׁנָה, שֶׁנֶּאֱמַר כימים אשר ישבתם בִּשְׁאָר הַמַּסָּעוֹת, וְהֵם הָיוּ ל\"ח שָׁנָה, י\"ט מֵהֶם עָשׂוּ בְקָדֵשׁ וי\"ט שָׁנָה הוֹלְכִים וּמְטֹרָפִים וְחָזְרוּ לְקָדֵשׁ, כְּמוֹ שֶׁנֶּאֱמַר (במדבר ל\"ב) \"וַיְנִיעֵם בַּמִּדְבָּר\"; כָּךְ מָצָאתִי בְּסֵדֶר עוֹלָם:",
+          "en": "ותשבו בקדש ימים רבים SO YE ABODE IN KADESH MANY DAYS — viz., nineteen years, as it is said here כימים אשר ישבתם, ACCORDING TO THE DAYS THAT YE ABODE, i.e. abode at all the other stations. They (the total years) were thirtyeight years; nineteen of them they spent at Kadesh, and nineteen years they went moving about aimlessly, and then they returned to Kadesh, as it is said, (Numbers 32:13) “And he made them move about in the wilderness”. — Thus have I found in Seder Olam 8.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:1",
+      "he": "וַנֵּ֜פֶן וַנִּסַּ֤ע הַמִּדְבָּ֙רָה֙ דֶּ֣רֶךְ יַם־ס֔וּף כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהֹוָ֖ה אֵלָ֑י וַנָּ֥סׇב אֶת־הַר־שֵׂעִ֖יר יָמִ֥ים רַבִּֽים׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "we marched back into the wilderness by the way of the Sea of Reeds, as GOD had spoken to me, and skirted the hill country of Seir a long time.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונפן ונסע המדברה. אִלּוּ לֹא חָטְאוּ הָיוּ עוֹבְרִים דֶּרֶךְ הַר שֵׂעִיר לִכָּנֵס לָאָרֶץ מִן דְּרוֹמוֹ לִצְפוֹנוֹ, וּבִשְׁבִיל שֶׁקִּלְקְלוּ הָפְכוּ לְצַד הַמִּדְבָּר, שֶׁהוּא בֵין יַם סוּף לִדְרוֹמוֹ שֶׁל הַר שֵׂעִיר, וְהָלְכוּ אֵצֶל דְּרוֹמוֹ מִן הַמַּעֲרָב לַמִּזְרָח דרך ים סוף. דֶּרֶךְ יְצִיאָתָן מִמִּצְרַיִם שֶׁהוּא בְּמִקְצוֹעַ דְּרוֹמִית מַעֲרָבִית; מִשָּׁם הָיוּ הוֹלְכִים לְצַד הַמִּזְרָח:",
+          "en": "ונפן ונסע המדברה THEN WE TURNED AND JOURNEYED INTO THE WILDERNESS — If they had not sinned, they would have passed by the way of Mount Seir to enter the Land from its south to its north, but because they became degenerate they had to turn towards the wilderness which is between the Red Sea and the south of Mount Seir, and they proceeded along its southern side from the west to the east, דרך ים סוף BY THE ROUTE FROM THE RED SEA — i.e. by the route which they had taken on leaving Egypt which is at the south-west corner. From there (where they were at that moment) they went towards the east.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ונסב את הר שעיר. כָּל דְּרוֹמוֹ עַד אֶרֶץ מוֹאָב:",
+          "en": "ונסב את הר שעיר AND WE COMPASSED MOUNT SEIR, the whole of the south side as far as the land of Moab.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:2",
+      "he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "en": "Then GOD said to me:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:3",
+      "he": "רַב־לָכֶ֕ם סֹ֖ב אֶת־הָהָ֣ר הַזֶּ֑ה פְּנ֥וּ לָכֶ֖ם צָפֹֽנָה׃",
+      "en": "You have been skirting this hill country long enough; now turn north.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פנו לכם צפנה. סֹבּוּ לָכֶם לְרוּחַ מִזְרָחִית, מִן הַדָּרוֹם לַצָּפוֹן, פְּנֵיכֶם לַצָּפוֹן, נִמְצְאוּ הוֹלְכִים אֶת רוּחַ הַמִּזְרָחִית וְזֶהוּ שֶׁנֶּאֱמַר (שופטים י\"א) \"וַיָבוֹאוּ (וַיָּבֹא) מִמִּזְרַח שֶׁמֶשׁ לְאֶרֶץ מוֹאָב\":",
+          "en": "פנו לכם צפנה TURN YOU NORTHWARD — Turn you along the eastern side of Moab, from the south to the north, your faces directed to the north. Consequently they were travelling along the east side of Moab, and this is what is meant by (Judges 11:18) “And they came by the east side of the land of Moab”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:4",
+      "he": "וְאֶת־הָעָם֮ צַ֣ו לֵאמֹר֒ אַתֶּ֣ם עֹֽבְרִ֗ים בִּגְבוּל֙ אֲחֵיכֶ֣ם בְּנֵי־עֵשָׂ֔ו הַיֹּשְׁבִ֖ים בְּשֵׂעִ֑יר וְיִֽירְא֣וּ מִכֶּ֔ם וְנִשְׁמַרְתֶּ֖ם מְאֹֽד׃",
+      "en": "And charge the people as follows: You will be passing through the territory of your kin, the descendants of Esau, who live in Seir. Though they will be afraid of you, be very careful",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונשמרתם מאד. וּמַהוּ הַשְּׁמִירָה? אל תתגרו בם:",
+          "en": "ונשמרתם מאד TAKE YE GOOD HEED TO YOURSELVES — And what is this \"taking heed”? What follows: אל תתגרו בם CONTEND NOT WITH THEM.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:5",
+      "he": "אַל־תִּתְגָּר֣וּ בָ֔ם כִּ֠י לֹֽא־אֶתֵּ֤ן לָכֶם֙ מֵֽאַרְצָ֔ם עַ֖ד מִדְרַ֣ךְ כַּף־רָ֑גֶל כִּֽי־יְרֻשָּׁ֣ה לְעֵשָׂ֔ו נָתַ֖תִּי אֶת־הַ֥ר שֵׂעִֽיר׃",
+      "en": "not to provoke them. For I will not give you of their land so much as a foot can tread on; I have given the hill country of Seir as a possession to Esau.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עד מדרך כף רגל. אֲפִלּוּ מִדְרַךְ כַּף רֶגֶל, כְּלוֹמַר אֲפִלּוּ דְּרִיסַת הָרֶגֶל אֵינִי מַרְשֶׁה לָכֶם לַעֲבֹר בְּאַרְצָם שֶׁלֹּא בִרְשׁוּת. וּמִדְרַשׁ אַגָּדָה עַד שֶׁיָּבֹא יוֹם דְּרִיסַת כַּף רֶגֶל עַל הַר הַזֵּיתִים, שֶׁנֶּאֱמַר (זכריה י\"ד) \"וְעָמְדוּ רַגְלָיו וְגוֹ'\":",
+          "en": "עד מדרך כף רגל — This means, Even מדרך כף רגל, as much as to say: even only treading with the feet (a single step). The text means, I do not permit you to pass into their land without their permission. — A Midrashic explanation is: I shall not give you of their land until there come the day of the treading of the sole of foot upon the Mount of Olives (the Messianic period), as it is said, (Zechariah 14:4) \"And his feet shall stand [in that day upon the Mount of Olives etc.]”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ירשה לעשו. מֵאַבְרָהָם, עֲשָׂרָה עֲמָמִים נָתַתִּי לוֹ, שִׁבְעָה לָכֶם וְקֵינִי וּקְנִזִּי וְקַדְמוֹנִי הֵן עַמּוֹן וּמוֹאָב וְשֵׂעִיר, אֶחָד מֵהֶם לְעֵשָׂו וְהַשְּׁנַיִם לִבְנֵי לוֹט, בִּשְׂכַר שֶׁהָלַךְ אִתּוֹ לְמִצְרַיִם וְשָׁתַק עַל מַה שֶּׁהָיָה אוֹמֵר עַל אִשְׁתּוֹ אֲחוֹתִי הִיא, עֲשָׂאוֹ כִּבְנוֹ (בראשית רבה נ\"א):",
+          "en": "ירשה לעשו [I HAVE GIVEN MOUNT SEIR] TO ESAU AS AN INHERITANCE from Abraham. The territory of ten clans I gave (promised) him (Abraham); seven of them will be yours (the seven clans of Canaan), and the Kenites, the Kenizzites and the Kadmonites, — who are Ammon, Moab and Seir — one of them already belongs to Esau, and the other two to the children of Lot (cf. Genesis Rabbah 44:23; and Rashi on Genesis 15:19); as a reward because he (Lot) went with him (Abraham) To Egypt, and kept silent about what he said regarding his wife, “She is my sister”, he treated him as his son (and therefore he, through his children Amon and Moab, inherited part of the land promised to him) (cf. Rashi on Genesis 19:29 and Genesis Rabbah 51:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:6",
+      "he": "אֹ֣כֶל תִּשְׁבְּר֧וּ מֵֽאִתָּ֛ם בַּכֶּ֖סֶף וַאֲכַלְתֶּ֑ם וְגַם־מַ֜יִם תִּכְר֧וּ מֵאִתָּ֛ם בַּכֶּ֖סֶף וּשְׁתִיתֶֽם׃",
+      "en": "aOr “You may obtain food from them to eat for money; and you may also procure water from them to drink for money.” What food you eat you shall obtain from them for money; even the water you drink you shall procure from them for money.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "תכרו. לְשׁוֹן מֶקַח, וְכֵן \"אֲשֶׁר כָּרִיתִי לִי\" (בראשית נ'), שֶׁכֵּן בִּכְרַכֵּי הַיָּם קוֹרִין לִמְכִירָה כִּירָה (ראש השנה כ\"ו):",
+          "en": "תכרו — This is an expression denoting purchase. Similar is (Genesis 50:5; see Rashi thereon), “which I have bought (כריתי) for myself”, for thus in the coast cities do they use for \"trading” the term כירה (Rosh Hashanah 26a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:7",
+      "he": "כִּי֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ יָדַ֣ע לֶכְתְּךָ֔ אֶת־הַמִּדְבָּ֥ר הַגָּדֹ֖ל הַזֶּ֑ה זֶ֣ה&thinsp;׀ אַרְבָּעִ֣ים שָׁנָ֗ה יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃",
+      "en": "Indeed, the ETERNAL your God has blessed you in all your undertakings, watching over your wanderings through this great wilderness; the ETERNAL your God has been with you these past forty years: you have lacked nothing.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי ה' אלהיך ברכך. לְפִיכָךְ לֹא תִכְפּוּ אֶת טוֹבָתוֹ לְהַרְאוֹת כְּאִלּוּ אַתֶּם עֲנִיִּים, אֶלָּא הַרְאוּ עַצְמְכֶם עֲשִׁירִים:",
+          "en": "כי ה' אלהיך ברכך FOR THE LORD THY GOD HATH BLESSED THEE — therefore you should not show yourselves ungrateful to Him by behaving as though you were poor, but act as rich people.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:8",
+      "he": "וַֽנַּעֲבֹ֞ר מֵאֵ֧ת אַחֵ֣ינוּ בְנֵי־עֵשָׂ֗ו הַיֹּֽשְׁבִים֙ בְּשֵׂעִ֔יר מִדֶּ֙רֶךְ֙ הָֽעֲרָבָ֔ה מֵאֵילַ֖ת וּמֵעֶצְיֹ֣ן גָּ֑בֶר&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַנֵּ֙פֶן֙ וַֽנַּעֲבֹ֔ר דֶּ֖רֶךְ מִדְבַּ֥ר מוֹאָֽב׃",
+      "en": "We then moved on, away from our kin, the descendants of Esau, who live in Seir, away from the road of the Arabah, away from Elath and Ezion-geber; and we marched on in the direction of the wilderness of Moab.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונפן ונעבר. לְצַד צָפוֹן הָפַכְנוּ פָנִים לַהֲלֹךְ רוּחַ מִזְרָחִית:",
+          "en": "ונפן ונעבר AND WE TURNED AND PASSED, towards the north; we turned our faces to proceed along the eastern side (see Rashi on v. 3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:9",
+      "he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י אַל־תָּ֙צַר֙ אֶת־מוֹאָ֔ב וְאַל־תִּתְגָּ֥ר בָּ֖ם מִלְחָמָ֑ה כִּ֠י לֹֽא־אֶתֵּ֨ן לְךָ֤ מֵֽאַרְצוֹ֙ יְרֻשָּׁ֔ה כִּ֣י לִבְנֵי־ל֔וֹט נָתַ֥תִּי אֶת־עָ֖ר יְרֻשָּֽׁה׃",
+      "en": "And GOD said to me: Do not harass the Moabites or provoke them to war. For I will not give you any of their land as a possession; I have assigned Ar as a possession to the descendants of Lot.bdescendants of Lot I.e., the Moabites and the Ammonites; cf. Gen. 19.36–38.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואל תתגר בם וגו'. לֹא אָסַר לָהֶם עַל מוֹאָב אֶלָּא מִלְחָמָה, אֲבָל מְיָרְאִים הָיוּ אוֹתָם, וְנִרְאִים לָהֶם כְּשֵׁהֶם מְזֻיָּנִים, לְפִיכָךְ כְּתִיב (במדבר כ\"ב) \"וַיָּגָר מוֹאָב מִפְּנֵי הָעָם\", שֶׁהָיוּ שׁוֹלְלִים וּבוֹזְזִים אוֹתָם; אֲבָל בִּבְנֵי עַמּוֹן נֶאֱמַר (פסוק י\"ט) \"וְאַל תִּתְגָּר בָּם\" – שׁוּם גֵּרוּי, בִּשְׂכַר צְנִיעוּת אִמָּם, שֶׁלֹּא פִרְסְמָה עַל אָבִיהָ כְּמוֹ שֶׁעָשְׂתָה הַבְּכִירָה שֶׁקָּרְאָה שֵׁם בְּנָהּ מוֹאָב (בבא קמא ל\"ח):",
+          "en": "ואל תתגר בם וגו׳ AND DO NOT CONTEND WITH THEM [IN WAR] — As regards Moab He forbade them (the Israelites) only war against them, but they may frighten them, appearing before them when equipped for war; therefore it is written, (Numbers 22:3) \"And Moab was afraid because of the people\", because they took plunder and loot from them. But about the children of Ammon it is said, (v. 19) “Do not contend with them\" — no provocation of any kind, — as a reward for the modesty shown by their ancestress, Lot's younger daughter, who did not publicly divulge regarding her father's conduct, as his elder daughter did, who called her son's name “Moab\" (i.e. born of the father) (Bava Kamma 38b; see Rashi on Genesis 19:37).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ער. שֵׁם הַמְּדִינָה:",
+          "en": "ער is the name of the district.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:10",
+      "he": "הָאֵמִ֥ים לְפָנִ֖ים יָ֣שְׁבוּ בָ֑הּ עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִֽים׃",
+      "en": "It was formerly inhabited by the Emim, a people great and numerous, and as tall as the Anakites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "האמים לפנים וגו'. אַתָּה סָבוּר שֶׁזּוֹ אֶרֶץ רְפָאִים שֶׁנָּתַתִּי לוֹ לְאַבְרָהָם, לְפִי שֶׁהָאֵמִים שֶׁהֵם רְפָאִים יָשְׁבוּ בָהּ לְפָנִים, אֲבָל לֹא זוֹ הִיא, כִּי אוֹתָן רְפָאִים הוֹרַשְׁתִּי מִפְּנֵי בְנֵי לוֹט וְהוֹשַׁבְתִּים תַּחְתָּם:",
+          "en": "האמים לפנים וגו׳ THE EMIM [ABODE THERE] FORMERLY — You might think that this is the land of the Rephaim which I gave (promised) to Abraham (Genesis 15:20), because the Emim who are Rephaim, dwelt there formerly (and they are one of the seven clans whose land you were to possess), but this is not that land, because those Rephaim I drove out from before the children of Lot and settled these in their stead (cf. Rashi on 3:13).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:11",
+      "he": "רְפָאִ֛ים יֵחָשְׁב֥וּ אַף־הֵ֖ם כָּעֲנָקִ֑ים וְהַמֹּ֣אָבִ֔ים יִקְרְא֥וּ לָהֶ֖ם אֵמִֽים׃",
+      "en": "Like the Anakites, they are counted as Rephaim; but the Moabites call them Emim.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רפאים יחשבו וגו'. רְפָאִים הָיוּ נֶחֱשָׁבִין אוֹתָם אֵמִים, כָּעֲנָקִים הַנִּקְרָאִים רְפָאִים, עַל שֵׁם שֶׁכָּל הָרוֹאֶה אוֹתָם יָדָיו מִתְרַפּוֹת (בראשית רבה כ\"ו):",
+          "en": "רפאים יחשבו וגו׳ THEY [ALSO] ARE ACCOUNTED REPHAIM, [AS THE ANAKIM] — As Rephaim are those Emim accounted, even as the Anakim — who are also termed Rephaim because the hands of everyone who beheld them became weak (רפה) (cf. Genesis Rabbah 26:7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אמים. עַל שֵׁם שֶׁאֵימָתָם מֻטֶּלֶת עַל הַבְּרִיּוֹת (שם), וְכֵן בְּשֵׂעִיר יָשְׁבוּ הַחֹרִים וּנְתַתִּים לִבְנֵי עֵשָׂו:",
+          "en": "אמים — so called because the dread (אימה) of them lay upon the people. — So, too, (v. 12) the Horim dwelt formerly in Seir and I gave them over unto the children of Esau. (Genesis Rabbah 26:7)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:12",
+      "he": "וּבְשֵׂעִ֞יר יָשְׁב֣וּ הַחֹרִים֮ לְפָנִים֒ וּבְנֵ֧י עֵשָׂ֣ו יִֽירָשׁ֗וּם וַיַּשְׁמִידוּם֙ מִפְּנֵיהֶ֔ם וַיֵּשְׁב֖וּ תַּחְתָּ֑ם כַּאֲשֶׁ֧ר עָשָׂ֣ה יִשְׂרָאֵ֗ל לְאֶ֙רֶץ֙ יְרֻשָּׁת֔וֹ אֲשֶׁר־נָתַ֥ן יְהֹוָ֖ה לָהֶֽם׃",
+      "en": "Similarly, Seir was formerly inhabited by the Horites; but the descendants of Esau dispossessed them, wiping them out and settling in their place, just as Israel did in the land they were to possess, which GOD had given to them.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יירשום. לָשׁוֹן הוֹוֶה, כְּלוֹמַר נָתַתִּי בָהֶם כֹּחַ שֶׁהָיוּ מוֹרִישִׁים אוֹתָם וְהוֹלְכִים:",
+          "en": "יירשום — This is a present tense form of the verb; it is as much as to say, I gave them power that they might go on driving them out continuously.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:13",
+      "he": "עַתָּ֗ה קֻ֛מוּ וְעִבְר֥וּ לָכֶ֖ם אֶת־נַ֣חַל זָ֑רֶד וַֽנַּעֲבֹ֖ר אֶת־נַ֥חַל זָֽרֶד׃",
+      "en": "Up now! Cross the wadi Zered! So we crossed the wadi Zered.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:14",
+      "he": "וְהַיָּמִ֞ים אֲשֶׁר־הָלַ֣כְנוּ&thinsp;׀ מִקָּדֵ֣שׁ בַּרְנֵ֗עַ עַ֤ד אֲשֶׁר־עָבַ֙רְנוּ֙ אֶת־נַ֣חַל זֶ֔רֶד שְׁלֹשִׁ֥ים וּשְׁמֹנֶ֖ה שָׁנָ֑ה עַד־תֹּ֨ם כׇּל־הַדּ֜וֹר אַנְשֵׁ֤י הַמִּלְחָמָה֙ מִקֶּ֣רֶב הַֽמַּחֲנֶ֔ה כַּאֲשֶׁ֛ר נִשְׁבַּ֥ע יְהֹוָ֖ה לָהֶֽם׃",
+      "en": "The time that we spent in travel from Kadesh-barnea until we crossed the wadi Zered was thirty-eight years, until that whole generation of warriors had perished from the camp, as GOD had sworn concerning them.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:15",
+      "he": "וְגַ֤ם יַד־יְהֹוָה֙ הָ֣יְתָה בָּ֔ם לְהֻמָּ֖ם מִקֶּ֣רֶב הַֽמַּחֲנֶ֑ה עַ֖ד תֻּמָּֽם׃",
+      "en": "Indeed, GOD’s hand struck them, to root them out from the camp until they were finished off.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "היתה בם. לְמַהֵר וּלְהֻמָּם בְּתוֹךְ אַרְבָּעִים שָׁנָה, שֶׁלֹּא יִגְרְמוּ לִבְנֵיהֶם עוֹד לְהִתְעַכֵּב בַּמִּדְבָּר:",
+          "en": "היתה בם [FOR INDEED THE HAND OF THE LORD] WAS AGAINST THEM [TO DESTROY THEM] speedily within a period of forty years, so that they should no longer be the cause for their children to tarry in the wilderness.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:16",
+      "he": "וַיְהִ֨י כַאֲשֶׁר־תַּ֜מּוּ כׇּל־אַנְשֵׁ֧י הַמִּלְחָמָ֛ה לָמ֖וּת מִקֶּ֥רֶב הָעָֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "When all the warriors among the people had died off,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויהי כאשר תמו וגו' וידבר ה' אלי וגו'. אֲבָל מִשִּׁלּוּחַ הַמְרַגְּלִים עַד כָּאן לֹא נֶאֱמַר בְּפָרָשָׁה זוֹ וַיְדַבֵּר אֶלָּא וַיֹּאמֶר, לְלַמֶּדְךָ שֶׁכָּל ל\"ח שָׁנָה שֶׁהָיוּ יִשְׂרָאֵל נְזוּפִים, לֹא נִתְיַחֵד עִמּוֹ הַדִּבּוּר בִּלְשׁוֹן חִבָּה, פָּנִים אֶל פָּנִים וְיִשּׁוּב הַדַּעַת – לְלַמֶּדְךָ שֶׁאֵין הַשְּׁכִינָה שׁוֹרָה עַל הַנְּבִיאִים אֶלָּא בִּשְׁבִיל יִשְׂרָאֵל (מכילתא שמות י\"ב):",
+          "en": "ויהי כאשר תמו וגו׳ וידבר ה' אלי וגו׳ SO IT CAME TO PASS WHEN [ALL THE MEN OF WAR] HAD COME TO AN END … THAT THE LORD SPOKE TO ME etc. — But from when the spies were sent forth until now, the word וידבר is not mentioned in this section, but ויאמר, to teach you that during these entire thirty eight years during which the Israelites were lying under God’s censure, the Divine speech was not directed towards him in an expression of affection, face to face, and with tranquility of mind — to teach you that the Shechinah rests upon the prophets only for Israel’s sake (Sifra, Vayikra Dibbura d'Nedavah, Chapter 2 13; Mekhilta; cf. Rashi on Leviticus 1:1 towards end).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אנשי המלחמה. מִבֶּן עֶשְׂרִים שָׁנָה הַיּוֹצְאִים בַּצָּבָא:",
+          "en": "אנשי המלחמה THE MEN OF WAR — men from twenty years old and upwards, who went to war (cf. Numbers 14:29 and Rashi thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:17",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "en": "GOD spoke to me, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:18",
+      "he": "אַתָּ֨ה עֹבֵ֥ר הַיּ֛וֹם אֶת־גְּב֥וּל מוֹאָ֖ב אֶת־עָֽר׃",
+      "en": "You are now passing through the territory of Moab, through Ar.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אתה עבר היום את גבול מואב, וקרבת מול בני עמון. מִכָּאן שֶׁאֶרֶץ עַמּוֹן לְצַד צָפוֹן:",
+          "en": "אתה עבר היום את גבול מואב … וקרבת מול בני עמון THOU ART TO PASS THIS DAY THE BOUNDARY OF MOAB … AND THOU WILT APPROACH OPPOSITE THE CHILDREN OF AMMON — from here we see that the land of Ammon was on the north [of Moab].",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:19",
+      "he": "וְקָרַבְתָּ֗ מ֚וּל בְּנֵ֣י עַמּ֔וֹן אַל־תְּצֻרֵ֖ם וְאַל־תִּתְגָּ֣ר בָּ֑ם כִּ֣י לֹֽא־אֶ֠תֵּ֠ן מֵאֶ֨רֶץ בְּנֵי־עַמּ֤וֹן לְךָ֙ יְרֻשָּׁ֔ה כִּ֥י לִבְנֵי־ל֖וֹט נְתַתִּ֥יהָ יְרֻשָּֽׁה׃",
+      "en": "You will then be close to the Ammonites; do not harass them or start a fight with them. For I will not give any part of the land of the Ammonites to you as a possession; I have assigned it as a possession to the descendants of Lot.cdescendants of Lot See note at v. 9.—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:20",
+      "he": "אֶֽרֶץ־רְפָאִ֥ים תֵּחָשֵׁ֖ב אַף־הִ֑וא רְפָאִ֤ים יָֽשְׁבוּ־בָהּ֙ לְפָנִ֔ים וְהָֽעַמֹּנִ֔ים יִקְרְא֥וּ לָהֶ֖ם זַמְזֻמִּֽים׃",
+      "en": "It, too, is counted as Rephaim country. It was formerly inhabited by Rephaim, whom the Ammonites call Zamzummim,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ארץ רפאים תחשב. אֶרֶץ רְפָאִים נֶחְשֶׁבֶת אַף הִיא, לְפִי שֶׁהָרְפָאִים יָשְׁבוּ בָהּ לְפָנִים, אֲבָל לֹא זוֹ הִיא שֶׁנָּתַתִּי לְאַבְרָהָם:",
+          "en": "ארץ רפאים תחשב IT (AMMON) ALSO WAS ACCOUNTED A LAND OF REPHAIM. — It also is accounted a land of Rephaim because the Rephaim formerly dwelt in it, but yet it is not that land which I gave to Abraham.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:21",
+      "he": "עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִ֑ים וַיַּשְׁמִידֵ֤ם יְהֹוָה֙ מִפְּנֵיהֶ֔ם וַיִּירָשֻׁ֖ם וַיֵּשְׁב֥וּ תַחְתָּֽם׃",
+      "en": "a people great and numerous and as tall as the Anakites. GOD wiped them out, so that [the Ammonites] dispossessed them and settled in their place,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:22",
+      "he": "כַּאֲשֶׁ֤ר עָשָׂה֙ לִבְנֵ֣י עֵשָׂ֔ו הַיֹּשְׁבִ֖ים בְּשֵׂעִ֑יר אֲשֶׁ֨ר הִשְׁמִ֤יד אֶת־הַחֹרִי֙ מִפְּנֵיהֶ֔ם וַיִּֽירָשֻׁם֙ וַיֵּשְׁב֣וּ תַחְתָּ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+      "en": "as [GOD] did for the descendants of Esau who live in Seir, by wiping out the Horites before them, so that they dispossessed them and settled in their place, as is still the case.das is still the case Lit. “until this day.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:23",
+      "he": "וְהָֽעַוִּ֛ים הַיֹּשְׁבִ֥ים בַּחֲצֵרִ֖ים עַד־עַזָּ֑ה כַּפְתֹּרִים֙ הַיֹּצְאִ֣ים מִכַּפְתֹּ֔ר הִשְׁמִידֻ֖ם וַיֵּשְׁב֥וּ תַחְתָּֽם׃",
+      "en": "So, too, with the Avvim who dwelt in villages in the vicinity of Gaza: the Caphtorim, who came from Crete,eCrete Heb. “Caphtor.” wiped them out and settled in their place.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והעוים הישבים בחצרים וגו'. עַוִּים מִפְּלִשְׁתִּים הֵם, שֶׁעִמָּהֶם הֵם נֶחֱשָׁבִים בְּסֵפֶר יְהוֹשֻׁעַ, שֶׁנֶּאֱמַר (יהושע י\"ג) \"חֲמֵשֶׁת סַרְנֵי פְלִשְׁתִּים הָעַזָּתִי וְהָאַשְׁדּוֹדִי הָאֶשְׁקְלוֹנִי הַגִּתִּי וְהָעֶקְרוֹנִי וְהָעַוִּים\", וּמִפְּנֵי הַשְּׁבוּעָה שֶׁנִּשְׁבַּע אַבְרָהָם לַאֲבִימֶלֶךְ לֹא יָכְלוּ יִשְׂרָאֵל לְהוֹצִיא אַרְצָם מִיָּדָם, וְהֵבֵאתִי עֲלֵיהֶם כַּפְתּוֹרִים וְהִשְׁמִידוּם וַיֵּשְׁבוּ תַחְתָּם, וְעַכְשָׁיו אַתֶּם מֻתָּרִים לְקַחְתָּהּ מִיָּדָם (חולין ס'):",
+          "en": "והעוים הישבים בחצרים וגו׳ BUT THE AVIM WHO DWELL IN HAZERIM etc. —The Avim are part of the Philistine people, for they are enumerated together with them in the Book of Joshua (Joshua 13:3), as it is said, “The five lords of the Philistines, the Gazathites, and the Ashdothites, and the Eshkalonites, the Gittites, and the Ekronites; also the Avim”. But because of the oath which Abraham had sworn to Abimelech, king of the Philistines (Genesis 21:24), Israel would have been unable to take their land out of their possession; but, says God, I brought the Caphtorites against them and they destroyed them and dwelt in their stead, and now you are permitted to take it (that land) from their (the Caphtorites) possession (Chullin 60b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:24",
+      "he": "ק֣וּמוּ סְּע֗וּ וְעִבְרוּ֮ אֶת־נַ֣חַל אַרְנֹן֒ רְאֵ֣ה נָתַ֣תִּי בְ֠יָדְךָ֠ אֶת־סִיחֹ֨ן מֶֽלֶךְ־חֶשְׁבּ֧וֹן הָֽאֱמֹרִ֛י וְאֶת־אַרְצ֖וֹ הָחֵ֣ל רָ֑שׁ וְהִתְגָּ֥ר בּ֖וֹ מִלְחָמָֽה׃",
+      "en": "Up! Set out across the wadi Arnon! See, I give into your power Sihon the Amorite, king of Heshbon, and his land. Begin the occupation: engage him in battle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:25",
+      "he": "הַיּ֣וֹם הַזֶּ֗ה אָחֵל֙ תֵּ֤ת פַּחְדְּךָ֙ וְיִרְאָ֣תְךָ֔ עַל־פְּנֵי֙ הָֽעַמִּ֔ים תַּ֖חַת כׇּל־הַשָּׁמָ֑יִם אֲשֶׁ֤ר יִשְׁמְעוּן֙ שִׁמְעֲךָ֔ וְרָגְז֥וּ וְחָל֖וּ מִפָּנֶֽיךָ׃",
+      "en": "This day I begin to put the dread and fear of you upon the peoples everywhere under heaven, so that they shall tremble and quake because of you whenever they hear you mentioned.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "תחת כל השמים. לִמֵּד שֶׁעָמְדָה חַמָּה לְמֹשֶׁה בְּיוֹם מִלְחֶמֶת עוֹג וְנוֹדַע הַדָּבָר תַּחַת כָּל הַשָּׁמַיִם (עבודה זרה כ\"ה):",
+          "en": "תחת כל השמים [THIS DAY I BEGIN TO PUT THE DREAD OF THEE … UPON THE NATIONS THAT ARE] UNDER THE WHOLE HEAVEN — This (the statement that the nations under the entire heaven will dread the Israelites) teaches that the sun stood still for Moses on the day of the battle with Og, and the matter was consequently known under the whole heaven (Avodah Zarah 25a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:26",
+      "he": "וָאֶשְׁלַ֤ח מַלְאָכִים֙ מִמִּדְבַּ֣ר קְדֵמ֔וֹת אֶל־סִיח֖וֹן מֶ֣לֶךְ חֶשְׁבּ֑וֹן דִּבְרֵ֥י שָׁל֖וֹם לֵאמֹֽר׃",
+      "en": "Then I sent messengers from the wilderness of Kedemoth to King Sihon of Heshbon with an offer of peace, as follows,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ממדבר קדמות. אַעַ\"פִּ שֶׁלֹּא צִוַּנִי הַמָּקוֹם לִקְרֹא לְסִיחוֹן לְשָׁלוֹם, לָמַדְתִּי מִמִּדְבַּר סִינַי – מִן הַתּוֹרָה שֶׁקָּדְמָה לָעוֹלָם – כְּשֶׁבָּא הַקָּבָּ\"ה לִתְּנָהּ לְיִשְׂרָאֵל חָזַר אוֹתָהּ עַל עֵשָׂו וְיִשְׁמָעֵאל, וְגָלוּי לְפָנָיו שֶׁלֹּא יְקַבְּלוּהָ וְאַעַ\"פִּ כֵן פָּתַח לָהֶם בְּשָׁלוֹם, אַף אֲנִי קִדַּמְתִּי אֶת סִיחוֹן בְּדִבְרֵי שָׁלוֹם; דָּ\"אַ, ממדבר קדמות – מִמְּךָ לָמַדְתִּי, שֶׁקָּדַמְתָּ לָעוֹלָם, יָכוֹל הָיִיתָ לִשְׁלֹחַ בָּרָק אֶחָד וְלִשְֹרֹף אֶת הַמִּצְרִים, אֶלָּא שְׁלַחְתַּנִי מִן הַמִּדְבָּר אֶל פַּרְעֹה לֵאמֹר (שמות ה') \"שַׁלַּח אֶת עַמִּי\", בְּמִתּוּן (תנחומא):",
+          "en": "ממדבר קדמות [AND I SENT MESSENGERS] FROM THE WILDERNESS OF KEDEMOTH — Although the Omnipresent had not commanded me to proclaim peace unto Sihon I learnt to do so from what happened in the wilderness of Sinai, i.e. from an incident that relates to the Torah which pre-existed (קדמה) the world. For when the Holy One, blessed be He, was about to give it (the Torah) to Israel, he took it round to Esau and Ishmael. It was manifest before Him that they would not accept it, but yet He opened unto them with peace. Similarly I first approached Sihon with words of peace. — Another explanation of ממדבר קדמות: Moses said to God, \"I learnt this from what Thou didst say in the wilderness — from Thee Who wast in existence before (קדמת) the world. Thou couldst have sent one flash of lightning to bum up the Egyptians, but Thou didst send me from the wilderness to Pharaoh, to say gently, (Exodus 5:1) \"Let my people go” (Yalkut Shimoni on Torah 764:27).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:27",
+      "he": "אֶעְבְּרָ֣ה בְאַרְצֶ֔ךָ בַּדֶּ֥רֶךְ בַּדֶּ֖רֶךְ אֵלֵ֑ךְ לֹ֥א אָס֖וּר יָמִ֥ין וּשְׂמֹֽאול׃",
+      "en": "“Let me pass through your country. I will keep strictly to the highway, turning off neither to the right nor to the left.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:28",
+      "he": "אֹ֣כֶל בַּכֶּ֤סֶף תַּשְׁבִּרֵ֙נִי֙ וְאָכַ֔לְתִּי וּמַ֛יִם בַּכֶּ֥סֶף תִּתֶּן־לִ֖י וְשָׁתִ֑יתִי רַ֖ק אֶעְבְּרָ֥ה בְרַגְלָֽי׃",
+      "en": "What food I eat you will supply for money, and what water I drink you will furnish for money; just let me pass throughfthrough Lit. “with my feet.”—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:29",
+      "he": "כַּאֲשֶׁ֨ר עָֽשׂוּ־לִ֜י בְּנֵ֣י עֵשָׂ֗ו הַיֹּֽשְׁבִים֙ בְּשֵׂעִ֔יר וְהַמּ֣וֹאָבִ֔ים הַיֹּשְׁבִ֖ים בְּעָ֑ר עַ֤ד אֲשֶֽׁר־אֶֽעֱבֹר֙ אֶת־הַיַּרְדֵּ֔ן אֶל־הָאָ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃",
+      "en": "as the descendants of Esau who dwell in Seir did for me, and the Moabites who dwell in Ar—that I may cross the Jordan into the land that the ETERNAL our God is giving us.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כאשר עשו לי בני עשו. לֹא לְעִנְיַן לַעֲבֹר בְּאַרְצָם, אֶלָּא לְעִנְיַן מֶכֶר אֹכֶל וּמַיִם:",
+          "en": "כאשר עשו לי בגי עשו AS THE CHILDREN OF ESAU DID TO ME — This does not refer to passing through their land (רק אעברה ברגלי) for Edom refused this, (cf. Numbers 20:18) but to the matter of selling food and water (also mentioned in the preceding verse).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עד אשר אעבר את הירדן. מוּסָב עַל אֶעְבְּרָה בְאַרְצֶךָ:",
+          "en": "עד אשר אעבר את הירדן UNTIL I SHALL PASS OVER THE JORDAN — This is to be connected with \"Let me pass through thy land” (v. 27).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:30",
+      "he": "וְלֹ֣א אָבָ֗ה סִיחֹן֙ מֶ֣לֶךְ חֶשְׁבּ֔וֹן הַעֲבִרֵ֖נוּ בּ֑וֹ כִּֽי־הִקְשָׁה֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ אֶת־רוּח֗וֹ וְאִמֵּץ֙ אֶת־לְבָב֔וֹ לְמַ֛עַן תִּתּ֥וֹ בְיָדְךָ֖ כַּיּ֥וֹם הַזֶּֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "But King Sihon of Heshbon refused to let us pass through, because GOD had stiffened his will and hardened his heart in order to deliver him into your power—as is now the case.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:31",
+      "he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י רְאֵ֗ה הַֽחִלֹּ֙תִי֙ תֵּ֣ת לְפָנֶ֔יךָ אֶת־סִיחֹ֖ן וְאֶת־אַרְצ֑וֹ הָחֵ֣ל רָ֔שׁ לָרֶ֖שֶׁת אֶת־אַרְצֽוֹ׃",
+      "en": "And GOD said to me: See, I begin by placing Sihon and his land at your disposal. Begin the occupation; take possession of his land.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "החלתי תת לפניך. כָּפָה שַׂר שֶׁל אֱמוֹרִיִּים שֶׁל מַעְלָה תַּחַת רַגְלָיו שֶׁל מֹשֶׁה וְהִדְרִיכוֹ עַל צַוָּארוֹ:",
+          "en": "החלתי תת לפניך I HAVE BEGUN TO GIVE [SIHON] BEFORE THEE — He cast down the tutelary angel of the Amorites, who was in the upper spheres, beneath Moses’ feet and made him tread upon his neck (cf. Rashi on Numbers 24:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:32",
+      "he": "וַיֵּצֵא֩ סִיחֹ֨ן לִקְרָאתֵ֜נוּ ה֧וּא וְכׇל־עַמּ֛וֹ לַמִּלְחָמָ֖ה יָֽהְצָה׃",
+      "en": "Sihon with all his troops took the field against us at Jahaz,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויצא סיחן. לֹא שָׁלַח בִּשְׁבִיל עוֹג לַעֲזֹר לוֹ, לְלַמֶּדְךָ שֶׁלֹּא הָיוּ צְרִיכִים זֶה לָזֶה:",
+          "en": "ויצא סיחן AND SIHON WENT FORTH — He did not send for Og to help him: this serves to teach you that they did not require one another's help, so mighty was each of them.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:33",
+      "he": "וַֽיִּתְּנֵ֛הוּ יְהֹוָ֥ה אֱלֹהֵ֖ינוּ לְפָנֵ֑ינוּ וַנַּ֥ךְ אֹת֛וֹ וְאֶת־בָּנָ֖ו וְאֶת־כׇּל־עַמּֽוֹ׃",
+      "en": "and the ETERNAL our God delivered him to us and we defeated him and his sons and all his troops.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת בניו. בנו כְתִיב, שֶׁהָיָה לוֹ בֵן גִּבּוֹר כְּמוֹתוֹ (תנחומא חקת):",
+          "en": "ואת בנו [AND WE SMOTE HIM] AND HIS SONS — It is written בנו, \"his son\" (although read as בניו \"his sons\"), for he had a son who was as mighty as himself (Midrash Tanchuma, Chukat 25).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:34",
+      "he": "וַנִּלְכֹּ֤ד אֶת־כׇּל־עָרָיו֙ בָּעֵ֣ת הַהִ֔וא וַֽנַּחֲרֵם֙ אֶת־כׇּל־עִ֣יר מְתִ֔ם וְהַנָּשִׁ֖ים וְהַטָּ֑ף לֹ֥א הִשְׁאַ֖רְנוּ שָׂרִֽיד׃",
+      "en": "At that time we captured all his towns, and we doomedgdoomed I.e., placed under ḥerem, which meant the annihilation of the population. Cf. note at Num. 21.2; Josh. 6.24. every town—men, women, and children—leaving no survivor.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מתם. אֲנָשִׁים, בְּבִזַּת סִיחוֹן נֶאֱמַר בָּזַזְנוּ לָנוּ, לְשׁוֹן בִּזָּה, שֶׁהָיְתָה חֲבִיבָה עֲלֵיהֶם וּבוֹזְזִים אִישׁ לוֹ, וּכְשֶׁבָּאוּ לְבִזַּת עוֹג, כְּבָר הָיוּ שְׂבֵעִים וּמְלֵאִים, וְהָיְתָה בְּזוּיָה בְּעֵינֵיהֶם, וּמְקָרְעִין וּמַשְׁלִיכִין בְּהֵמָה וּבְגָדִים, וְלֹא נָטְלוּ כִּי אִם כֶּסֶף וְזָהָב, לְכָךְ נֶאֱמַר בַּזּוֹנוּ לָנוּ, לְשׁוֹן בִּזָּיוֹן, כָּךְ נִדְרָשׁ בְּסִפְרֵי בְּפַ' וַיֵּשֶׁב יִשְׂרָאֵל בַּשִּׁטִּים:",
+          "en": "מתם means MEN. — Of the spoil taken from Sihon it is stated (v. 35) בזזנו לנו, an expression denoting plunder (בזה), because then this was an object of desire to them, so that each man took spoil for himself. But when they came to the plundering of Og, they were already full to satiety, and it was contemptible in their eyes, so that they tore in pieces and cast away cattle and garments, and took only silver and gold. On this account it is said (Deuteronomy 3:7) בַּזֹּנוּ לנו which is an expression denoting \"holding in contempt\" (בזיון). Thus is it expounded in Siphre in the chapter beginning with \"And Israel dwelt in Shittim״ (Numbers 25:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 2:35",
+      "he": "רַ֥ק הַבְּהֵמָ֖ה בָּזַ֣זְנוּ לָ֑נוּ וּשְׁלַ֥ל הֶעָרִ֖ים אֲשֶׁ֥ר לָכָֽדְנוּ׃",
+      "en": "We retained as booty only the cattle and the spoil of the cities that we captured.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:36",
+      "he": "מֵֽעֲרֹעֵ֡ר אֲשֶׁר֩ עַל־שְׂפַת־נַ֨חַל אַרְנֹ֜ן וְהָעִ֨יר אֲשֶׁ֤ר בַּנַּ֙חַל֙ וְעַד־הַגִּלְעָ֔ד לֹ֤א הָֽיְתָה֙ קִרְיָ֔ה אֲשֶׁ֥ר שָׂגְבָ֖ה מִמֶּ֑נּוּ אֶת־הַכֹּ֕ל נָתַ֛ן יְהֹוָ֥ה אֱלֹהֵ֖ינוּ לְפָנֵֽינוּ׃",
+      "en": "From Aroer on the edge of the Arnon valley, including the townhincluding the town Force of Heb. we-haʻir uncertain. in the valley itself, to Gilead, not a city was too mighty for us; the ETERNAL our God delivered everything to us.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 2:37",
+      "he": "רַ֛ק אֶל־אֶ֥רֶץ בְּנֵי־עַמּ֖וֹן לֹ֣א קָרָ֑בְתָּ כׇּל־יַ֞ד נַ֤חַל יַבֹּק֙ וְעָרֵ֣י הָהָ֔ר וְכֹ֥ל אֲשֶׁר־צִוָּ֖ה יְהֹוָ֥ה אֱלֹהֵֽינוּ׃",
+      "en": "But you did not encroach upon the land of the Ammonites, all along the wadi Jabbok and the towns of the hill country, just as the ETERNAL our God had commanded.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל יד נחל יבק. כָּל אֵצֶל נַחַל יַבֹּק:",
+          "en": "כל יד נחל יבק means, ALL THE DISTRICT BESIDE THE BROOK OF JABBOK.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וכל אשר צוה ה' אלהינו. שֶׁלֹּא לִכְבֹּשׁ, הִנַּחְנוּ:",
+          "en": "וכל אשר צוה ה' אלהינו לנו — This means, AND ALL WHICH THE LORD OUR GOD COMMANDED US not to capture, we left.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:1",
+      "he": "וַנֵּ֣פֶן וַנַּ֔עַל דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽלֶךְ־הַבָּשָׁ֨ן לִקְרָאתֵ֜נוּ ה֧וּא וְכׇל־עַמּ֛וֹ לַמִּלְחָמָ֖ה אֶדְרֶֽעִי׃",
+      "en": "We made our way up the road toward Bashan, and King Og of Bashan with all his troops took the field against us at Edrei.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונפן ונעל. כָּל צַד צָפוֹן הוּא עֲלִיָּה:",
+          "en": "ונפן ונעל AND WE TURNED AND WENT UP — every journey towards the north (from the wilderness towards Canaan) is “uphill”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:2",
+      "he": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֵלַי֙ אַל־תִּירָ֣א אֹת֔וֹ כִּ֣י בְיָדְךָ֞ נָתַ֧תִּי אֹת֛וֹ וְאֶת־כׇּל־עַמּ֖וֹ וְאֶת־אַרְצ֑וֹ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֣ר עָשִׂ֗יתָ לְסִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּֽוֹן׃",
+      "en": "But GOD said to me: Do not fear him, for I am delivering him and all his troops and his country into your power, and you will do to him as you did to Sihon king of the Amorites, who lived in Heshbon.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אל תירא אתו. וּבְסִיחוֹן לֹא הֻצְרַךְ לוֹמַר אַל תִּירָא אֹתוֹ אֶלָּא מִתְיָרֵא הָיָה מֹשֶׁה שֶׁלֹּא תַעֲמֹד לוֹ זְכוּת שֶׁשִּׁמֵּשׁ לְאַבְרָהָם, שֶׁנֶּאֱמַר (בראשית י\"ד) \"וַיָּבֹא הַפָּלִיט\", וְהוּא עוֹג:",
+          "en": "אל תירא אתו DO NOT FEAR HIM — In the case of Sihon, however, it did not feel it necessary to state, “Do not fear him״!? But in the case of Og Moses feared lest the merit that he (Og) had been of service to Abraham might avail him, as it is said, (Genesis 14:13: see Rashi thereon), \"And the fugitive came\", and that was Og (Genesis Rabbah 42:8; see Rashi on Numbers 21:34).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:3",
+      "he": "וַיִּתֵּן֩ יְהֹוָ֨ה אֱלֹהֵ֜ינוּ בְּיָדֵ֗נוּ גַּ֛ם אֶת־ע֥וֹג מֶֽלֶךְ־הַבָּשָׁ֖ן וְאֶת־כׇּל־עַמּ֑וֹ וַנַּכֵּ֕הוּ עַד־בִּלְתִּ֥י הִשְׁאִֽיר־ל֖וֹ שָׂרִֽיד׃",
+      "en": "So the ETERNAL our God also delivered into our power King Og of Bashan, with all his troops, and we dealt them such a blow that no survivor was left.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:4",
+      "he": "וַנִּלְכֹּ֤ד אֶת־כׇּל־עָרָיו֙ בָּעֵ֣ת הַהִ֔וא לֹ֤א הָֽיְתָה֙ קִרְיָ֔ה אֲשֶׁ֥ר לֹא־לָקַ֖חְנוּ מֵֽאִתָּ֑ם שִׁשִּׁ֥ים עִיר֙ כׇּל־חֶ֣בֶל אַרְגֹּ֔ב מַמְלֶ֥כֶת ע֖וֹג בַּבָּשָֽׁן׃",
+      "en": "At that time we captured all his towns; there was not a town that we did not take from them: sixty towns, the whole district of Argob, the kingdom of Og in Bashan—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חבל ארגב. מְתַרְגְּמִינַן בֵּית פֶּלֶךְ טְרָכוֹנָא, וְרָאִיתִי תַּרְגּוּם יְרוּשַׁלְמִי בִּמְגִלַּת אֶסְתֵּר קוֹרֵא פָּלָטִין טְרָכוֹנִין, לָמַדְתִּי חֶבֶל אַרְגּוֹב הִפַּרְכִיָּא – הֵיכַל מֶלֶךְ, כְּלוֹמַר שֶׁהַמַּלְכוּת נִקְרֵאת עַל שְׁמָהּ; וְכֵן אֶת הָאַרְגּוֹב דִּמְלָכִים (מלכים ב ט״ו:כ״ה), אֵצֶל הֵיכַל מֶלֶךְ הֲרָגוֹ פֶּקַח בֶּן רְמַלְיָהוּ לִפְקַחְיָה בֶן מְנַחֵם, לָמַדְתִּי שֶׁכָּךְ נִקְרָא שֵׁם הִפַּרְכִיָּא:",
+          "en": "חבל ארגב [ALL] THE LINE OF ARGOB — We render this in the Targum by בית פלך טרכונא Now I have seen that the Jerusalem Targum of the Scroll of Esther terms a palace טרכונין. I learn from this that חבל ארגב signifies “the province of the Royal Palace”, denoting that the province is called after its name (after the name of the palace). Similarly, also the term ארגוב found in the Book of Kings (2 15:25) where the meaning is that Pekah the son of Remaliah slew Pekahia the son of Menahem near the king’s palace (את ארגוב), I learn that thus (after the palace) was the province named.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:5",
+      "he": "כׇּל־אֵ֜לֶּה עָרִ֧ים בְּצֻרֹ֛ת חוֹמָ֥ה גְבֹהָ֖ה דְּלָתַ֣יִם וּבְרִ֑יחַ לְבַ֛ד מֵעָרֵ֥י הַפְּרָזִ֖י הַרְבֵּ֥ה מְאֹֽד׃",
+      "en": "all those towns were fortified with high walls, gates,agates I.e., two-leaf doors. and bars—apart from a great number of unwalled towns.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מערי הפרזי. פְּרוּזוֹת וּפְתוּחוֹת בְּלֹא חוֹמָה, וְכֵן (זכריה ב') \"פְּרָזוֹת תֵּשֵׁב יְרוּשָׁלַיִם\":",
+          "en": "מערי הפרזי [BESIDES] UNWALLED CITIES — unconfined and open, i.e. without a wall. Similar is, (Zechariah 2:8) “As open spaces (פרזות) shall Jerusalem be inhabited”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:6",
+      "he": "וַנַּחֲרֵ֣ם אוֹתָ֔ם כַּאֲשֶׁ֣ר עָשִׂ֔ינוּ לְסִיחֹ֖ן מֶ֣לֶךְ חֶשְׁבּ֑וֹן הַחֲרֵם֙ כׇּל־עִ֣יר מְתִ֔ם הַנָּשִׁ֖ים וְהַטָּֽף׃",
+      "en": "We doomed them as we had done in the case of King Sihon of Heshbon; we doomed every town—men, women, and children—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "החרם. לְשׁוֹן הֹוֶה – הָלוֹךְ וְכַלּוֹת:",
+          "en": "החרם — This has a present frequentative meaning: going on and destroying (see Rashi on Numbers 25:17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:7",
+      "he": "וְכׇל־הַבְּהֵמָ֛ה וּשְׁלַ֥ל הֶעָרִ֖ים בַּזּ֥וֹנוּ לָֽנוּ׃",
+      "en": "and retained as booty all the cattle and the spoil of the towns.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:8",
+      "he": "וַנִּקַּ֞ח בָּעֵ֤ת הַהִוא֙ אֶת־הָאָ֔רֶץ מִיַּ֗ד שְׁנֵי֙ מַלְכֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֖ר בְּעֵ֣בֶר הַיַּרְדֵּ֑ן מִנַּ֥חַל אַרְנֹ֖ן עַד־הַ֥ר חֶרְמֽוֹן׃",
+      "en": "Thus we seized, at that time, from the two Amorite kings, the country beyond the Jordan, from the wadi Arnon to Mount Hermon—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מיד. מֵרְשׁוּת:",
+          "en": "מיד means, FROM THE CONTROL OF.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:9",
+      "he": "צִידֹנִ֛ים יִקְרְא֥וּ לְחֶרְמ֖וֹן שִׂרְיֹ֑ן וְהָ֣אֱמֹרִ֔י יִקְרְאוּ־ל֖וֹ שְׂנִֽיר׃",
+      "en": "Sidonians called Hermon Sirion, and the Amorites call it Senir—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "צידנים יקראו לחרמון וגו'. וּבְמָקוֹם אַחֵר הוּא אוֹמֵר (דברים ד') \"וְעַד הַר שִׂיאֹן הוּא חֶרְמוֹן\", הֲרֵי לוֹ אַרְבָּעָה שֵׁמוֹת, לָמָּה הֻצְרְכוּ לִכָּתֵב? לְהַגִּיד שֶׁבַח אֶרֶץ יִשְׂרָאֵל – שֶׁהָיוּ אַרְבַּע מַלְכֻיּוֹת מִתְפָּאֲרוֹת בְּכָךְ, זוֹ אוֹמֶרֶת עַל שְׁמִי יִקָּרֵא, וְזוֹ אוֹמֶרֶת עַל שְׁמִי יִקָּרֵא:",
+          "en": "צידנים יקראו לחרמון וגו׳ THE SIDONIANS CALL HERMON SIRION — But in another passage it states, (Deuteronomy 4:48) “Even unto Mount Sion which is Hermon”. So you see it had four names. And why had they all to be written in Scripture? To tell the praise of the land of Israel: that there were four kingdoms (kings) priding themselves in this — one saying, \"After me shall it be named\", and another saying, \"After me shall it be named\" (Sifrei Devarim 37:10; cf. Chullin 60b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שניר. הוּא שֶׁלֶג בִּלְשׁוֹן אַשְׁכְּנַז וּבִלְשׁוֹן כְּנַעַן:",
+          "en": "שניר SHENIR — This signifies \"snow\" in the German language (Schnee) and in the Canaanite (Slav) language (Snih).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:10",
+      "he": "כֹּ֣ל&thinsp;׀ עָרֵ֣י הַמִּישֹׁ֗ר וְכׇל־הַגִּלְעָד֙ וְכׇל־הַבָּשָׁ֔ן עַד־סַלְכָ֖ה וְאֶדְרֶ֑עִי עָרֵ֛י מַמְלֶ֥כֶת ע֖וֹג בַּבָּשָֽׁן׃",
+      "en": "all the towns of the Tableland and the whole of Gilead and Bashan as far as SalcahbSalcah In contrast to others “Salecah” or “Salchah.” and Edrei, the towns of Og’s kingdom in Bashan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:11",
+      "he": "כִּ֣י רַק־ע֞וֹג מֶ֣לֶךְ הַבָּשָׁ֗ן נִשְׁאַר֮ מִיֶּ֣תֶר הָרְפָאִים֒ הִנֵּ֤ה עַרְשׂוֹ֙ עֶ֣רֶשׂ בַּרְזֶ֔ל הֲלֹ֣ה הִ֔וא בְּרַבַּ֖ת בְּנֵ֣י עַמּ֑וֹן תֵּ֧שַׁע אַמּ֣וֹת אׇרְכָּ֗הּ וְאַרְבַּ֥ע אַמּ֛וֹת רׇחְבָּ֖הּ בְּאַמַּת־אִֽישׁ׃",
+      "en": "Only King Og of Bashan was left of the remaining Rephaim. His bedstead, an iron bedstead, is now in Rabbah of the Ammonites; it is nine cubits long and four cubits wide, by the standard cubit!cstandard cubit Lit. “forearm of a (typical) person.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מיתר הרפאים. שֶׁהָרְגוּ אַמְרָפֶל וַחֲבֵרָיו בְּעַשְׁתְּרוֹת קַרְנַיִם, וְהוּא פָּלַט מִן הַמִּלְחָמָה שֶׁנֶּאֱמַר (בראשית י\"ד) \"וַיָּבֹא הַפָּלִיט\" – זֶהוּ עוֹג:",
+          "en": "מיתר הרפאים [ONLY OG … REMAINED] OF THE REST OF THE REPHAIM whom Amraphel and his allies slew in Ashteroth-Karnaim (Genesis 14:5), and he (Og) escaped from the battle, as it is said, (Genesis 14:13) \"And the fugitive came\", and that was Og (Genesis Rabbah 42:8; cf. Rashi on Genesis 14.13.1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "באמת איש. בְּאַמַּת עוֹג:",
+          "en": "באמת איש AFTER THE CUBIT OF A MAN — i.e. after the cubit of Og.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:12",
+      "he": "וְאֶת־הָאָ֧רֶץ הַזֹּ֛את יָרַ֖שְׁנוּ בָּעֵ֣ת הַהִ֑וא מֵעֲרֹעֵ֞ר אֲשֶׁר־עַל־נַ֣חַל אַרְנֹ֗ן וַחֲצִ֤י הַֽר־הַגִּלְעָד֙ וְעָרָ֔יו נָתַ֕תִּי לָרֽאוּבֵנִ֖י וְלַגָּדִֽי׃",
+      "en": "dVerses 12–13 proceed from south to north; vv. 14–16 from north to south. And this is the land that we apportioned at that time: The part from Aroer along the wadi Arnon, with part of the hill country of Gilead and its towns, I assigned to the Reubenites and the Gadites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת הארץ הזאת. הָאֲמוּרָה לְמַעְלָה, מִנַּחַל אַרְנוֹן וְעַד הַר חֶרְמוֹן, ירשנו בעת ההיא:",
+          "en": "ואת הארץ הזאת AND THIS LAND mentioned above (v. 8), \"from the brook of Arnon to Mount Hermon\", ירשנו בעת ההוא WE POSSESSED AT THAT TIME.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מערער אשר על נחל ארנן. אֵינוֹ מְחֻבָּר לְרֹאשׁוֹ שֶׁל מִקְרָא אֶלָּא לְסוֹפוֹ – עַל נָתַתִּי לָראוּבֵנִי וְלַגָּדִי, אֲבָל לְעִנְיַן יְרֻשָּׁה עַד הַר חֶרְמוֹן הָיָה:",
+          "en": "מערער אשר על נחל ארנן FROM AROER, WHICH IS BY THE BROOK ARNON — this must not be connected with the first part of this verse (defining הארץ הזאת) but with its conclusion — with נתתי לראבני ולגדי I GAVE TO THE REUBENITES AND TO THE GADITES; however, as respects possession (taking by conquest) that was \"[from the brook of Arnon] to Mount Hermon\" (v. 8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:13",
+      "he": "וְיֶ֨תֶר הַגִּלְעָ֤ד וְכׇל־הַבָּשָׁן֙ מַמְלֶ֣כֶת ע֔וֹג נָתַ֕תִּי לַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה כֹּ֣ל חֶ֤בֶל הָֽאַרְגֹּב֙ לְכׇל־הַבָּשָׁ֔ן הַה֥וּא יִקָּרֵ֖א אֶ֥רֶץ רְפָאִֽים׃",
+      "en": "The rest of Gilead, and all of Bashan under Og’s rule—the whole Argob district, all that part of Bashan that is called Rephaim country—I assigned to the half-tribe of Manasseh.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ההוא יקרא ארץ רפאים. הִיא אוֹתָהּ שֶׁנָּתַתִּי לְאַבְרָהָם:",
+          "en": "ההוא יקרא ארץ רפאים IT IS THAT WHICH IS CALLED THE LAND OF REPHAIM — it is that which I gave to Abraham (cf. Rashi on 2:20).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:14",
+      "he": "יָאִ֣יר בֶּן־מְנַשֶּׁ֗ה לָקַח֙ אֶת־כׇּל־חֶ֣בֶל אַרְגֹּ֔ב עַד־גְּב֥וּל הַגְּשׁוּרִ֖י וְהַמַּֽעֲכָתִ֑י וַיִּקְרָא֩ אֹתָ֨ם עַל־שְׁמ֤וֹ אֶת־הַבָּשָׁן֙ חַוֺּ֣ת יָאִ֔יר עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+      "en": "Jair son of Manasseh received the whole Argob district (that is, Bashan) as far as the boundary of the Geshurites and the Maacathites, and named it after himself: Havvoth-jaireHavvoth-jair I.e., “villages of Jair.”—as is still the case.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:15",
+      "he": "וּלְמָכִ֖יר נָתַ֥תִּי אֶת־הַגִּלְעָֽד׃",
+      "en": "To Machir I assigned Gilead.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:16",
+      "he": "וְלָראוּבֵנִ֨י וְלַגָּדִ֜י נָתַ֤תִּי מִן־הַגִּלְעָד֙ וְעַד־נַ֣חַל אַרְנֹ֔ן תּ֥וֹךְ הַנַּ֖חַל וּגְבֻ֑ל וְעַד֙ יַבֹּ֣ק הַנַּ֔חַל גְּב֖וּל בְּנֵ֥י עַמּֽוֹן׃",
+      "en": "And to the Reubenites and the Gadites I assigned the part from Gilead down to the wadi Arnon, the middle of the wadi being the boundary, and up to the wadi Jabbok, the boundary of the Ammonites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "תוך הנחל וגבל. כָּל הַנַּחַל וְעוֹד מֵעֵבֶר לִשְׂפָתוֹ, כְּלוֹמַר עַד וְעַד בִּכְלָל וְיוֹתֵר מִכֵּן:",
+          "en": "תוך הנחל וגבול THE MIDST OF THE BROOK AND THE TERRITORY, i.e., all the brook and in addition, land on its opposite bank. The words therefore are as much as to say, עד \"unto” the Brook of Arnon, ועד \"and” that which is mentioned as being \"unto” (i.e. the Brook itself) is included (by the words תוך הנחל), and even more than this (namely, the גבול, land on the other side of the brook).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:17",
+      "he": "וְהָֽעֲרָבָ֖ה וְהַיַּרְדֵּ֣ן וּגְבֻ֑ל מִכִּנֶּ֗רֶת וְעַ֨ד יָ֤ם הָֽעֲרָבָה֙ יָ֣ם הַמֶּ֔לַח תַּ֛חַת אַשְׁדֹּ֥ת הַפִּסְגָּ֖ה מִזְרָֽחָה׃",
+      "en": "fContinuing vv. 8–10; cf. 4.47–49. [We also seized] the Arabah, from the foot of the slopes of Pisgah on the east, to the edge of the Jordan, and from Chinnereth down to the sea of the Arabah, the Dead Sea.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מכנרת. מֵעֵבֶר הַיַּרְדֵּן הַמַּעֲרָבִי, וְנַחֲלַת בְּנֵי גָד מֵעֵבֶר הַיַּרְדֵּן הַמִּזְרָחִי, וְנָפַל בְּגוֹרָלָם רֹחַב הַיַּרְדֵּן כְּנֶגְדָּם, וְעוֹד מֵעֵבֶר שְׂפָתוֹ עַד כִּנֶּרֶת, וְזֶהוּ שֶׁנֶּאֱמַר והירדן וגבל – הַיַּרְדֵּן וּמֵעֵבֶר לוֹ:",
+          "en": "מכנרת FROM CHINNERETH — This is on the western side of Jordan. The inheritance of the children of Gad was in the east side of the Jordan, and there fell as their lot the width of the Jordan, adjoining their territory, and in addition, land on its opposite bank up to Chinnereth. This is the meaning of what is said here, \"And the Jordan and the territory thereof”, i.e. the Jordan and some land on its opposite bank.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:18",
+      "he": "וָאֲצַ֣ו אֶתְכֶ֔ם בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר יְהֹוָ֣ה אֱלֹהֵיכֶ֗ם נָתַ֨ן לָכֶ֜ם אֶת־הָאָ֤רֶץ הַזֹּאת֙ לְרִשְׁתָּ֔הּ חֲלוּצִ֣ים תַּֽעַבְר֗וּ לִפְנֵ֛י אֲחֵיכֶ֥ם בְּנֵֽי־יִשְׂרָאֵ֖ל כׇּל־בְּנֵי־חָֽיִל׃",
+      "en": "At that time I charged you,gyou Addressing the leaders of Reuben, Gad, and Manasseh; cf. Num. 32. saying, “The ETERNAL your God has given you this country to possess. You must go as shock-troops, warriors all, at the head of your fellow Israelites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואצו אתכם. לִבְנֵי רְאוּבֵן וּבְנֵי גָד הָיָה מְדַבֵּר:",
+          "en": "ואצו אתכם AND I COMMANDED YOU — He now addresses himself to the sons of Reuben and the sons of Gad.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לפני אחיכם. הֵם הָיוּ הוֹלְכִים לִפְנֵי יִשְׂרָאֵל לַמִּלְחָמָה לְפִי שֶׁהָיוּ גִּבּוֹרִים, וְאוֹיְבִים נוֹפְלִים לִפְנֵיהֶם, שֶׁנֶּאֱמַר (דברים ל\"ג) \"וְטָרַף זְרוֹעַ אַף קָדְקֹד\":",
+          "en": "לפני אחיכם [YE SHALL PASS OVER EQUIPPED] BEFORE YOUR BRETHREN — they used to go in front of the other Israelites into battle because they were mighty men, and the enemy fell before them, as it is said of Gad, (Deuteronomy 33:20) \"He tears the arm together with the crown” (cf. Rashi on Numbers 32:17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:19",
+      "he": "רַ֠ק נְשֵׁיכֶ֣ם וְטַפְּכֶם֮ וּמִקְנֵכֶם֒ יָדַ֕עְתִּי כִּֽי־מִקְנֶ֥ה רַ֖ב לָכֶ֑ם יֵֽשְׁבוּ֙ בְּעָ֣רֵיכֶ֔ם אֲשֶׁ֥ר נָתַ֖תִּי לָכֶֽם׃",
+      "en": "Only your wives, children, and livestock—I know that you have much livestock—shall be left in the towns I have assigned to you,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:20",
+      "he": "עַ֠ד אֲשֶׁר־יָנִ֨יחַ יְהֹוָ֥ה&thinsp;׀&thinsp;לַֽאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־הֵ֔ם אֶת־הָאָ֕רֶץ אֲשֶׁ֨ר יְהֹוָ֧ה אֱלֹהֵיכֶ֛ם נֹתֵ֥ן לָהֶ֖ם בְּעֵ֣בֶר הַיַּרְדֵּ֑ן וְשַׁבְתֶּ֗ם אִ֚ישׁ לִֽירֻשָּׁת֔וֹ אֲשֶׁ֥ר נָתַ֖תִּי לָכֶֽם׃",
+      "en": "until GOD has granted your kindred a haven such as you have, and they too have taken possession of the land that the ETERNAL your God is assigning them, beyond the Jordan. Then you may return each to the homestead that I have assigned to him.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:21",
+      "he": "וְאֶת־יְהוֹשׁ֣וּעַ צִוֵּ֔יתִי בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר עֵינֶ֣יךָ הָרֹאֹ֗ת אֵת֩ כׇּל־אֲשֶׁ֨ר עָשָׂ֜ה יְהֹוָ֤ה אֱלֹהֵיכֶם֙ לִשְׁנֵי֙ הַמְּלָכִ֣ים הָאֵ֔לֶּה כֵּֽן־יַעֲשֶׂ֤ה יְהֹוָה֙ לְכׇל־הַמַּמְלָכ֔וֹת אֲשֶׁ֥ר אַתָּ֖ה עֹבֵ֥ר שָֽׁמָּה׃",
+      "en": "I also charged Joshua at that time, saying, “You have seen with your own eyes all that the ETERNAL your God has done to these two kings; so shall GOD do to all the kingdoms into which you shall cross over.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 3:22",
+      "he": "לֹ֖א תִּֽירָא֑וּם כִּ֚י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֖וּא הַנִּלְחָ֥ם לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Do not fear them, for it is the ETERNAL your God who will battle for you.”",
+      "fr": "",
+      "rashi": []
+    }
+  ]
+}

@@ -1,0 +1,1146 @@
+{
+  "slug": "vayakhel",
+  "name": "Vayakhel",
+  "range": "Exodus 35:1-38:20",
+  "verses": [
+    {
+      "ref": "Exodus 35:1",
+      "he": "וַיַּקְהֵ֣ל מֹשֶׁ֗ה אֶֽת־כׇּל־עֲדַ֛ת בְּנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֹׂ֥ת אֹתָֽם׃",
+      "en": "Moses then convoked the whole Israelite communityawhole Israelite community Or the leadership, on everyone’s behalf. and said to them: These are the things that GOD has commanded you to do:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויקהל משה. לְמָחֳרַת יוֹם הַכִּפּוּרִים כְּשֶׁיָּרַד מִן הָהָר, וְהוּא לְשׁוֹן הִפְעִיל, שֶׁאֵינוֹ אוֹסֵף אֲנָשִׁים בְּיָּדַיִם, אֶלָּא הֵן נֶאֱסָפִין עַל פִּי דִּבּוּרוֹ, וְתַרְגּוּמוֹ וְאַכְנֵישׁ:",
+          "en": "ויקהל משה AND MOSES ASSEMBLED [ALL THE CONGREGATION OF THE CHILDREN OF ISRAEL] — on the morrow after the Day of Atonement when he came down from the mountain. It (the word ויקהל) is used in the verbal form that expresses the idea of causing a thing to be done, because one does not actually assemble people with one’s hands, but they are assembled by his command. The Targum therefore should be ואכניש (not וכנש as some editions have).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:2",
+      "he": "שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י יִהְיֶ֨ה לָכֶ֥ם קֹ֛דֶשׁ שַׁבַּ֥ת שַׁבָּת֖וֹן לַיהֹוָ֑ה כׇּל־הָעֹשֶׂ֥ה ב֛וֹ מְלָאכָ֖ה יוּמָֽת׃",
+      "en": "On six days work may be done, but on the seventh day you shall have a sabbath of complete rest, holy to GOD; whoever does any work on it shall be put to death.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ששת ימים. הִקְדִּים לָהֶם אַזְהָרַת שַׁבָּת לְצִוּוּי מְלֶאכֶת הַמִּשְׁכָּן, לוֹמַר שֶׁאֵינוֹ דוֹחֶה אֶת הַשַּׁבָּת (מכילתא):",
+          "en": "ששת ימים SIX DAYS [MAY WORK BE DONE] — He intentionally mentioned to them the prohibition in reference to the Sabbath before the command about the building of the Tabernacle in order to intimate that it does not set aside (supersede) the Sabbath (cf. Mekhilta).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:3",
+      "he": "לֹא־תְבַעֲר֣וּ אֵ֔שׁ בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶ֑ם בְּי֖וֹם הַשַּׁבָּֽת׃&nbsp;{פ}",
+      "en": "You shall kindle no fire throughout your settlements on the sabbath day.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תבערו אש. יֵשׁ מֵרַבּוֹתֵינוּ אוֹמְרִים הַבְעָרָה לְלָאו יָצָאת, וְיֵשׁ אוֹמְרִים לְחַלֵּק יָצָאת (שבת ע'):",
+          "en": "לא תבערו אש YE SHALL NOT KINDLE A FIRE [THROUGHOUT YOUR HABITATIONS ON THEE SABBATH DAY] — There are some of our Rabbis who say that the law about kindling fire is singled out (more lit., goes forth from the general proposition; i. e. it is specially mentioned here although it is included in לא תעשה כל מלאכה, the law prohibiting all work on Sabbath) in order to constitute it a mere negative command (thus indicating that, like all other negative commands, its infringement is punishable by lashes but does not make the offender liable to death as does the doing of other work on Sabbath). Others, however, say that it was singled out in order to separate the various kinds of work comprised in the term כל מלאכה (thus indicating that each transgression of the Sabbath law is to be atoned for separately if several of them have been committed at the same time and under the same circumstances) (cf. Shabbat 70a; Yevamot 6b; Sanhedrin 35b; cf. also Pesachim 5b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:4",
+      "he": "וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־כׇּל־עֲדַ֥ת בְּנֵֽי־יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹֽר׃",
+      "en": "Moses said further to the whole Israelite community: This is what GOD has commanded:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "זה הדבר אשר צוה ה'. לִי לאמר לָכֶם:",
+          "en": "זה הדבר אשד צוה ה׳ THIS IS THE THING WHICH THE LORD COMMANDED me, לאמר TO TELL you.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:5",
+      "he": "קְח֨וּ מֵֽאִתְּכֶ֤ם תְּרוּמָה֙ לַֽיהֹוָ֔ה כֹּ֚ל נְדִ֣יב לִבּ֔וֹ יְבִיאֶ֕הָ אֵ֖ת תְּרוּמַ֣ת יְהֹוָ֑ה זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
+      "en": "Take from among you gifts to GOD; everyone whose heart is so moved shall bring them—gifts for GOD:bOn the list that follows, see 25.4–7 and the notes there. gold, silver, and copper;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נדיב לבו. עַל שֵׁם שֶׁלִּבּוֹ נוֹדְבוֹ, קָרוּי נְדִיב לֵב. כְּבָר פֵּרַשְׁתִּי נִדְבַת הַמִּשְׁכָּן וּמְלַאכְתּוֹ בִּמְקוֹם צַוָּאתָן:",
+          "en": "נדיב לבו [WHOSOEVER] IS OF A WILLING HEART — Because his heart prompts one to generosity, he is called נדיב לב, one who is prompted to generosity by the heart. I have already explained the various materials which formed the contribution towards the Tabernacle and the work done for it in the passages where the commands about them were given.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:6",
+      "he": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
+      "en": "blue, purple, and crimson yarns, fine linen, and goats’ hair;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:7",
+      "he": "וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃",
+      "en": "tanned ram skins, dolphin skins, and acacia wood;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:8",
+      "he": "וְשֶׁ֖מֶן לַמָּא֑וֹר וּבְשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
+      "en": "oil for lighting, spices for the anointing oil and for the aromatic incense;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:9",
+      "he": "וְאַ֨בְנֵי־שֹׁ֔הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפ֖וֹד וְלַחֹֽשֶׁן׃",
+      "en": "lapis lazuli and other stones for setting, for the ephod and the breastpiece.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:10",
+      "he": "וְכׇל־חֲכַם־לֵ֖ב בָּכֶ֑ם יָבֹ֣אוּ וְיַעֲשׂ֔וּ אֵ֛ת כׇּל־אֲשֶׁ֥ר צִוָּ֖ה יְהֹוָֽה׃",
+      "en": "And let all among you who are skilled come and make all that GOD has commanded:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:11",
+      "he": "אֶ֨ת־הַמִּשְׁכָּ֔ן אֶֽת־אׇהֳל֖וֹ וְאֶת־מִכְסֵ֑הוּ אֶת־קְרָסָיו֙ וְאֶת־קְרָשָׁ֔יו אֶת־בְּרִיחָ֕ו אֶת־עַמֻּדָ֖יו וְאֶת־אֲדָנָֽיו׃",
+      "en": "the Tabernacle, its tent and its covering, its clasps and its planks, its bars, its posts, and its sockets;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את המשכן. יְרִיעוֹת הַתַּחְתּוֹנוֹת הַנִּרְאוֹת בְּתוֹכוֹ קְרוּיִים מִשְׁכָּן:",
+          "en": "את המשכן THE TABERNACLE — The lower curtains which were visible within the building are called משכן.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את אהלו. הִיא אֹהֶל יְרִיעוֹת עִזִּים, הֶעָשׂוּי לְגַג:",
+          "en": "את אהלו ITS TENT — this is the covering of goats’ skins which was made to serve as a roofing.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואת מכסהו. מִכְסֵה עוֹרוֹת אֵילִים וְהַתְּחָשִׁים:",
+          "en": "ואת מכסהו AND ITS COVERING — the covering of rams’ skins and tachash skins.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:12",
+      "he": "אֶת־הָאָרֹ֥ן וְאֶת־בַּדָּ֖יו אֶת־הַכַּפֹּ֑רֶת וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃",
+      "en": "the ark and its poles, the cover, and the curtain for the screen;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת פרכת המסך. פָּרֹכֶת הַמְּחִיצָה; כָּל דָּבָר הַמֵּגֵן, בֵּין מִלְמַעְלָה בֵּין מִכְּנֶגֶד, קָרוּי מָסָךְ וּסְכָךְ, וְכֵן סַכְתָּ בַעֲדוֹ (איוב א'), הִנְנִי סָךְ אֶת דַּרְכֵּךְ (הושע ב'):",
+          "en": "ואת פרכת המסך means THE CURTAIN OF (that serves for) PARTITIONING — Everything that screens an object, whether it hangs above or in front of it is called מָסָךְ or סְכַךְ. Of similar meaning are: (Job 1:10) “[Hast Thou not] put a partition in front of him?” (שכת = סכת); (Hosea 2:8) “Behold I will partition off (סך = שך) thy way [with thorns]”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:13",
+      "he": "אֶת־הַשֻּׁלְחָ֥ן וְאֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו וְאֵ֖ת לֶ֥חֶם הַפָּנִֽים׃",
+      "en": "the table, and its poles and all its utensils; and the bread of display;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לחם הפנים. כְּבָר פֵּרַשְׁתִּי, עַל שֵׁם שֶׁהָיוּ לוֹ פָּנִים לְכָאן וּלְכָאן, שֶׁהוּא עָשׂוּי כְּמִין תֵּבָה פְרוּצָה:",
+          "en": "לחם הפנים THE SHOW BREAD — I have already explained (Exodus 25:29) that it was so called because it had two faces turning in this direction and in that, because it was made like a case open on two sides.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:14",
+      "he": "וְאֶת־מְנֹרַ֧ת הַמָּא֛וֹר וְאֶת־כֵּלֶ֖יהָ וְאֶת־נֵרֹתֶ֑יהָ וְאֵ֖ת שֶׁ֥מֶן הַמָּאֽוֹר׃",
+      "en": "the lampstand for lighting, its furnishings and its lamps, and the oil for lighting;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת כליה. מֶלְקָחַיִם וּמַחְתּוֹת:",
+          "en": "ואת כליה AND ITS VESSELS — the tongs and snuff-dishes.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "נרתיה. לוצי\"יש בְּלַעַז, בָּזִיכִים שֶׁהַשֶּׁמֶן וְהַפְּתִילוֹת נְתוּנִין בָּהֶן:",
+          "en": "נרתיה ITS LAMPS — luces in old French — bowls into which the oil and the wicks were placed.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואת שמן המאור. אַף הוּא צָרִיךְ חַכְמֵי לֵב, שֶׁהוּא מְשֻׁנֶּה מִשְּׁאָר שְׁמָנִים, כְּמוֹ שֶׁמְּפֹרָשׁ בִּמְנָחוֹת (דף פ\"ו), מְגַרְגְּרוֹ בְרֹאשׁ הַזַּיִת, וְהוּא כָּתִית וְזַךְ:",
+          "en": "ואת שמן המאר AND THE OIL ALSO FOR THE LIGHT — This also required wise-hearted men for preparing it (and therefore Scripture mentions it also after its statement v. 10 “And every wise hearted man … shall make…”), for it was different from other oils, as it is explained in Menachot 86a: he lets it (the olive) ripen on the top of the olive-tree etc. and thus it (the oil) is “beaten and yet clear” as Scripture prescribes (Exodus 27:20).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:15",
+      "he": "וְאֶת־מִזְבַּ֤ח הַקְּטֹ֙רֶת֙ וְאֶת־בַּדָּ֔יו וְאֵת֙ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְאֵ֖ת קְטֹ֣רֶת הַסַּמִּ֑ים וְאֶת־מָסַ֥ךְ הַפֶּ֖תַח לְפֶ֥תַח הַמִּשְׁכָּֽן׃",
+      "en": "the altar of incense and its poles; the anointing oil and the aromatic incense; and the entrance screen for the entrance of the Tabernacle;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מסך הפתח. וִילוֹן שֶׁלִּפְנֵי הַמִּזְרָח, שֶׁלֹּא הָיוּ שָׁם קְרָשִׁים וְלֹא יְרִיעוֹת:",
+          "en": "מסך הפתח THE SCREEN FOR THE ENTRANCE — the curtain that was in front of the east side of the Tabernacle, for there were neither boards nor curtains there.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:16",
+      "he": "אֵ֣ת&thinsp;׀ מִזְבַּ֣ח הָעֹלָ֗ה וְאֶת־מִכְבַּ֤ר הַנְּחֹ֙שֶׁת֙ אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃",
+      "en": "the altar of burnt offering, its copper grating, its poles, and all its furnishings; the laver and its stand;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:17",
+      "he": "אֵ֚ת קַלְעֵ֣י הֶחָצֵ֔ר אֶת־עַמֻּדָ֖יו וְאֶת־אֲדָנֶ֑יהָ וְאֵ֕ת מָסַ֖ךְ שַׁ֥עַר הֶחָצֵֽר׃",
+      "en": "the hangings of the enclosure, its posts and its sockets, and the screen for the gate of the court;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את עמדיו ואת אדניה. הֲרֵי חָצֵר קָרוּי כָּאן לְשׁוֹן זָכָר וּלְשׁוֹן נְקֵבָה, וְכֵן דְּבָרִים הַרְבֵּה:",
+          "en": "את עמדיו ואת אדניה ITS COLUMNS AND ITS SOCKETS — עמדיו has a masculine and אדניה a feminine suffix; thus חצר is here used as (lit., called) masculine and feminine noun. Similar it is with many things (cf. Rashi on Genesis 32:9).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואת מסך שער החצר. וִילוֹן פָּרוּשׂ לְצַד הַמִּזְרָח עֶשְׂרִים אַמָּה אֶמְצָעִיּוֹת שֶׁל רֹחַב הֶחָצֵר – שֶׁהָיָה חֲמִשִּׁים רֹחַב – וּסְתוּמִין הֵימֶנּוּ לְצַד צָפוֹן ט\"ו אַמָּה, וְכֵן לַדָּרוֹם, שֶׁנֶּאֱמַר, וַחֲמֵשׁ עֶשְׂרֵה אַמָּה קְלָעִים לַכָּתֵף:",
+          "en": "ואת מסך שער החצר AND THE SCREEN FOR THE GATE OF THE ENCLOSURE — the curtain which was hanging on the east side covering the twenty middle cubits in the width of the enclosure which latter was fifty cubits wide. Of this fifteen cubits on the north side were closed by hangings and so, too, on the south side, as it is said, (Exodus 27:14, 15) “The hangings of one side of the gate shall be fifteen cubits … [and on the other side shall be hangings fifteen cubits]”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:18",
+      "he": "אֶת־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־יִתְדֹ֥ת הֶחָצֵ֖ר וְאֶת־מֵיתְרֵיהֶֽם׃",
+      "en": "the pegs for the Tabernacle, the pegs for the enclosure, and their cords;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יתדת. לִתְקֹעַ וְלִקְשׁוֹר בָּהֶם סוֹפֵי הַיְרִיעוֹת בָּאָרֶץ, שֶׁלֹּא יָנוּעוּ בָּרוּחַ:",
+          "en": "יתדת THE PINS — in order to insert them into the ground and to fasten thereby the edges of the curtains that they should not be moved about by the wind.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מיתריהם. חֲבָלִים לִקְשֹׁר:",
+          "en": "מיתריהם THEIR CORDS to bind with.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:19",
+      "he": "אֶת־בִּגְדֵ֥י הַשְּׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃",
+      "en": "the service vestments for officiating in the sanctuary, the sacral vestments of Aaron the priest and the vestments of his sons for priestly service.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בגדי השרד. לְכַסּוֹת הָאָרוֹן וְהַשֻּׁלְחָן, הַמְּנוֹרָה וְהַמִּזְבְּחוֹת בִּשְׁעַת סִלּוּק מַסָּעוֹת:",
+          "en": "בגדי השרד THE KNITTED GARMENTS — to cover up the Ark, the table, the candelabrum and the altars at the time of removing and packing up the articles in the Tabernacle when they set out on their journeyings.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:20",
+      "he": "וַיֵּ֥צְא֛וּ כׇּל־עֲדַ֥ת בְּנֵֽי־יִשְׂרָאֵ֖ל מִלִּפְנֵ֥י מֹשֶֽׁה׃",
+      "en": "So the whole Israelite communitycwhole Israelite community See note at v. 1. left Moses’ presence.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:21",
+      "he": "וַיָּבֹ֕אוּ כׇּל־אִ֖ישׁ אֲשֶׁר־נְשָׂא֣וֹ לִבּ֑וֹ וְכֹ֡ל אֲשֶׁר֩ נָדְבָ֨ה רוּח֜וֹ אֹת֗וֹ הֵ֠בִ֠יאוּ אֶת־תְּרוּמַ֨ת יְהֹוָ֜ה לִמְלֶ֨אכֶת אֹ֤הֶל מוֹעֵד֙ וּלְכׇל־עֲבֹ֣דָת֔וֹ וּלְבִגְדֵ֖י הַקֹּֽדֶשׁ׃",
+      "en": "And everyone who excelled in ability and everyone whose spirit was moved came, bringing to GOD an offering for the work of the Tent of Meeting and for all its service and for the sacral vestments.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:22",
+      "he": "וַיָּבֹ֥אוּ הָאֲנָשִׁ֖ים עַל־הַנָּשִׁ֑ים כֹּ֣ל&thinsp;׀ נְדִ֣יב לֵ֗ב הֵ֠בִ֠יאוּ חָ֣ח וָנֶ֜זֶם וְטַבַּ֤עַת וְכוּמָז֙ כׇּל־כְּלִ֣י זָהָ֔ב וְכׇל־אִ֕ישׁ אֲשֶׁ֥ר הֵנִ֛יף תְּנוּפַ֥ת זָהָ֖ב לַיהֹוָֽה׃",
+      "en": "Men and women, all whose hearts moved them, all who would make an elevation offering of gold to GOD, came bringing brooches, earrings, rings, and pendantsdpendants Meaning of Heb. kumaz uncertain; cf. Num. 31.50.—gold objects of all kinds.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "(על הנשים. עִם הַנָּשִׁים וּסְמוּכִין אֲלֵיהֶן):",
+          "en": "על הנשים means with the women and closely following them.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "חח. הוּא תַּכְשִׁיט שֶׁל זָהָב עָגֹל, נָתוּן עַל הַזְּרוֹעַ, וְהוּא הַצָּמִיד:",
+          "en": "חח is a circular golden ornament placed upon the arm; it is the צמיד which is often mentioned in Scripture (cf. e. g., Numbers 31:50).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "וכומז. כְּלִי זָהָב הוּא נָתוּן כְּנֶגֶד אוֹתוֹ מָקוֹם לָאִשָּׁה, וְרַבּוֹתֵינוּ פֵּרְשׁוּ שֵׁם כּוּמָז, כָּאן מְקוֹם זִמָּה (שבת ס\"ד):",
+          "en": "כומז was a golden ornament worn by the women upon their private parts, Our Rabbis explain the name כּוּמָז as [an acrostic]: כַּאן מְקוֹם זִמָּה, [meaning] here is the place of licentiousness. (cf. Shabbat 64a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:23",
+      "he": "וְכׇל־אִ֞ישׁ אֲשֶׁר־נִמְצָ֣א אִתּ֗וֹ תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ וְעִזִּ֑ים וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים הֵבִֽיאוּ׃",
+      "en": "And everyone who possessed blue, purple, and crimson yarns, fine linen, goats’ hair, tanned ram skins, and dolphin skins, brought them;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וכל איש אשר נמצא אתו. תְּכֵלֶת אוֹ אַרְגָּמָן אוֹ תוֹלַעַת שָׁנִי אוֹ עוֹרוֹת אֵילִים אוֹ תְּחָשִׁים כֻּלָּם הֵבִיאוּ:",
+          "en": "וכל איש אשר נמצא אתו AND EVERY MAN WITH WHOM WAS FOUND blue purple, or red purple, or crimson, or rams’ skins, or tachash skins — all of them brought whatever they had.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:24",
+      "he": "כׇּל־מֵרִ֗ים תְּר֤וּמַת כֶּ֙סֶף֙ וּנְחֹ֔שֶׁת הֵבִ֕יאוּ אֵ֖ת תְּרוּמַ֣ת יְהֹוָ֑ה וְכֹ֡ל אֲשֶׁר֩ נִמְצָ֨א אִתּ֜וֹ עֲצֵ֥י שִׁטִּ֛ים לְכׇל־מְלֶ֥אכֶת הָעֲבֹדָ֖ה הֵבִֽיאוּ׃",
+      "en": "everyone who would make gifts of silver or copper brought them as gifts for GOD; and everyone who possessed acacia wood for any work of the service brought that.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:25",
+      "he": "וְכׇל־אִשָּׁ֥ה חַכְמַת־לֵ֖ב בְּיָדֶ֣יהָ טָו֑וּ וַיָּבִ֣יאוּ מַטְוֶ֗ה אֶֽת־הַתְּכֵ֙לֶת֙ וְאֶת־הָֽאַרְגָּמָ֔ן אֶת־תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־הַשֵּֽׁשׁ׃",
+      "en": "And all the skilled women spun with their own hands, and brought what they had spun, in blue, purple, and crimson yarns, and in fine linen.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:26",
+      "he": "וְכׇ֨ל־הַנָּשִׁ֔ים אֲשֶׁ֨ר נָשָׂ֥א לִבָּ֛ן אֹתָ֖נָה בְּחׇכְמָ֑ה טָו֖וּ אֶת־הָעִזִּֽים׃",
+      "en": "And all the women who excelled in that skill spun the goats’ hair.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "טוו את העזים. הִיא הָיְתָה אָמָּנוּת יְתֵרָה, שֶׁמֵּעַל גַּבֵּי הָעִזִּים טוֹוִין אוֹתָם (שבת ע\"ד):",
+          "en": "טוו את העזים [AND THE WOMEN] SPUN THE GOATS’ HAIR (lit., the goats) — This required extraordinary skill, for they spun it (the goats’ hair) from off the backs of the goats (whilst it was still on the living animals) (Shabbat 99a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:27",
+      "he": "וְהַנְּשִׂאִ֣ם הֵבִ֔יאוּ אֵ֚ת אַבְנֵ֣י הַשֹּׁ֔הַם וְאֵ֖ת אַבְנֵ֣י הַמִּלֻּאִ֑ים לָאֵפ֖וֹד וְלַחֹֽשֶׁן׃",
+      "en": "And the chieftains brought lapis lazuli and other stones for setting, for the ephod and for the breastpiece;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והנשאם הביאו. אָמַר רַ' נָתָן: מָה רָאוּ נְשִׂיאִים לְהִתְנַדֵּב בַּחֲנֻכַּת הַמִּזְבֵּחַ בַּתְּחִלָּה וּבִמְלֶאכֶת הַמִּשְׁכָּן לֹא הִתְנַדְּבוּ בַּתְּחִלָּה? אֶלָּא כָּךְ אָמְרוּ נְשִׂיאִים, יִתְנַדְּבוּ צִבּוּר מַה שֶּׁמִּתְנַדְּבִין, וּמַה שֶּׁמְּחַסְּרִים, אָנוּ מַשְׁלִימִין אוֹתוֹ, כֵּיוָן שֶׁהִשְׁלִימוּ צִבּוּר אֶת הַכֹּל – שֶׁנֶּ' וְהַמְּלָאכָה הָיְתָה דַיָּם – אָמְרוּ נְשִׂיאִים מֶה עָלֵינוּ לַעֲשׂוֹת? הביאו את אבני השהם וְגוֹ', לְכָךְ הִתְנַדְּבוּ בַּחֲנֻכַּת הַמִּזְבֵּחַ תְּחִלָּה, וּלְפִי שֶׁנִּתְעַצְּלוּ מִתְּחִלָּה נֶחְסְרָה אוֹת מִשְּׁמָם, וְהַנְּשִׂאִם כְּתִיב (ספרי במדבר מ\"ה):",
+          "en": "והנשאם הביאו AND THE PRINCES BROUGHT [ONYX STONES] R. Nathan asked, “What reason had the princes to give their contributions at the dedication of the altar (Numbers 7:12ff.) first of all the people, whereas at the work of the Tabernacle they were not the first, but the last to contribute?” But — replied he — the princes spoke thus: “Let the community in general contribute all they with to give and what will then be lacking we shall supply” But when the community gave everything needed in its entirety — as it is said, (Exodus 36:7) “For the stuff they had was enough [for all the work to make it, and some was left]” — the princes asked, “What can we now do?” therefore הביאו את אבני השהם וגו׳ THEY BROUGHT THE ONYX STONES etc. That is why they were the first to contribute at the consecration of the altar. Because, however, they were dilatory at the beginning, a letter is missing here from their title (thus intimating that something, viz., zeal was lacking in them): for it is written והנשאם instead of והנשיאים (Numbers Rabbah 12:16).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:28",
+      "he": "וְאֶת־הַבֹּ֖שֶׂם וְאֶת־הַשָּׁ֑מֶן לְמָא֕וֹר וּלְשֶׁ֙מֶן֙ הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
+      "en": "and spices and oil for lighting, for the anointing oil, and for the aromatic incense.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:29",
+      "he": "כׇּל־אִ֣ישׁ וְאִשָּׁ֗ה אֲשֶׁ֨ר נָדַ֣ב לִבָּם֮ אֹתָם֒ לְהָבִיא֙ לְכׇל־הַמְּלָאכָ֔ה אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה לַעֲשׂ֖וֹת בְּיַד־מֹשֶׁ֑ה הֵבִ֧יאוּ בְנֵי־יִשְׂרָאֵ֛ל נְדָבָ֖ה לַיהֹוָֽה׃&nbsp;{פ}",
+      "en": "Thus the Israelites, all the men and women whose hearts moved them to bring anything for the work that GOD, through Moses, had commanded to be done, brought it as a freewill offering to GOD.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:30",
+      "he": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל רְא֛וּ קָרָ֥א יְהֹוָ֖ה בְּשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃",
+      "en": "And Moses said to the Israelites: See, GOD has singled out by name Bezalel, son of Uri son of Hur, of the tribe of Judah,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חור. בְּנָהּ שֶׁל מִרְיָם הָיָה:",
+          "en": "חור HUR was the son the Miriam (Sotah 11b; cf. Rashi on Exodus 24:14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:31",
+      "he": "וַיְמַלֵּ֥א אֹת֖וֹ ר֣וּחַ אֱלֹהִ֑ים בְּחׇכְמָ֛ה בִּתְבוּנָ֥ה וּבְדַ֖עַת וּבְכׇל־מְלָאכָֽה׃",
+      "en": "endowing him with a divine spirit of skill, ability, and knowledge in every kind of craft,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:32",
+      "he": "וְלַחְשֹׁ֖ב מַֽחֲשָׁבֹ֑ת לַעֲשֹׂ֛ת בַּזָּהָ֥ב וּבַכֶּ֖סֶף וּבַנְּחֹֽשֶׁת׃",
+      "en": "and inspiring himeinspiring him Moved up from v. 34 for clarity. to make designs for work in gold, silver, and copper,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:33",
+      "he": "וּבַחֲרֹ֥שֶׁת אֶ֛בֶן לְמַלֹּ֖את וּבַחֲרֹ֣שֶׁת עֵ֑ץ לַעֲשׂ֖וֹת בְּכׇל־מְלֶ֥אכֶת מַחֲשָֽׁבֶת׃",
+      "en": "to cut stones for setting and to carve wood—to work in every kind of designer’s craft—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:34",
+      "he": "וּלְהוֹרֹ֖ת נָתַ֣ן בְּלִבּ֑וֹ ה֕וּא וְאׇֽהֳלִיאָ֥ב בֶּן־אֲחִיסָמָ֖ךְ לְמַטֵּה־דָֽן׃",
+      "en": "and to give directions. He and Oholiab son of Ahisamach of the tribe of Dan",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואהליאב. מִשֵּׁבֶט דָּן מִן הַיְרוּדִין שֶׁבַּשְּׁבָטִים – מִבְּנֵי הַשְּׁפָחוֹת – וְהִשְׁוָהוּ הַמָּקוֹם לִבְצַלְאֵל לִמְלֶאכֶת הַמִּשְׁכָּן וְהוּא מִגְּדוֹלֵי הַשְּׁבָטִים, לְקַיֵּם מַה שֶּׁנֶּ' וְלֹא נִכַּר שׁוֹעַ לִפְנֵי דָל (איוב ל\"ד):",
+          "en": "ואהליאב AND OHOLIAB — he was of the tribe of Dan, of one of the lowest of the tribes, of the sons of the handmaids, and yet the Omnipresent placed him with regard to the work of the Tabernacle on a level with Bezalel although he was a member of one of the noble tribes (Judah)! in order to confirm what Scripture says, (Job 34:19) “He regardeth not the rich more than the poor” (Midrash Tanchuma 2:10:13).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:35",
+      "he": "מִלֵּ֨א אֹתָ֜ם חׇכְמַת־לֵ֗ב לַעֲשׂוֹת֮ כׇּל־מְלֶ֣אכֶת חָרָ֣שׁ&thinsp;׀&thinsp;וְחֹשֵׁב֒ וְרֹקֵ֞ם בַּתְּכֵ֣לֶת וּבָֽאַרְגָּמָ֗ן בְּתוֹלַ֧עַת הַשָּׁנִ֛י וּבַשֵּׁ֖שׁ וְאֹרֵ֑ג עֹשֵׂי֙ כׇּל־מְלָאכָ֔ה וְחֹשְׁבֵ֖י מַחֲשָׁבֹֽת׃",
+      "en": "have been endowed with the skill to do any work—of the carver, the designer, the embroiderer in blue, purple, crimson yarns, and in fine linen, and of the weaver—as workers in all crafts and as makers of designs.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:1",
+      "he": "וְעָשָׂה֩ בְצַלְאֵ֨ל וְאׇהֳלִיאָ֜ב וְכֹ֣ל&thinsp;׀ אִ֣ישׁ חֲכַם־לֵ֗ב אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֜ה חׇכְמָ֤ה וּתְבוּנָה֙ בָּהֵ֔מָּה לָדַ֣עַת לַעֲשֹׂ֔ת אֶֽת־כׇּל־מְלֶ֖אכֶת עֲבֹדַ֣ת הַקֹּ֑דֶשׁ לְכֹ֥ל אֲשֶׁר־צִוָּ֖ה יְהֹוָֽה׃",
+      "en": "Let, then, Bezalel and Oholiab and all the skilled persons whom GOD has endowed with skill and ability to perform expertly all the tasks connected with the service of the sanctuary carry out all that GOD has commanded.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:2",
+      "he": "וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־בְּצַלְאֵל֮ וְאֶל־אׇֽהֳלִיאָב֒ וְאֶל֙ כׇּל־אִ֣ישׁ חֲכַם־לֵ֔ב אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה חׇכְמָ֖ה בְּלִבּ֑וֹ כֹּ֚ל אֲשֶׁ֣ר נְשָׂא֣וֹ לִבּ֔וֹ לְקׇרְבָ֥ה אֶל־הַמְּלָאכָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+      "en": "Moses then called Bezalel and Oholiab, and every skilled person whom GOD had endowed with skill, everyone who excelled in ability, to undertake the task and carry it out.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:3",
+      "he": "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כׇּל־הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ וְ֠הֵ֠ם הֵבִ֨יאוּ אֵלָ֥יו ע֛וֹד נְדָבָ֖ה בַּבֹּ֥קֶר בַּבֹּֽקֶר׃",
+      "en": "They took over from Moses all the gifts that the Israelites had brought, to carry out the tasks connected with the service of the sanctuary. But when these continued to bring freewill offerings to him morning after morning,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:4",
+      "he": "וַיָּבֹ֙אוּ֙ כׇּל־הַ֣חֲכָמִ֔ים הָעֹשִׂ֕ים אֵ֖ת כׇּל־מְלֶ֣אכֶת הַקֹּ֑דֶשׁ אִֽישׁ־אִ֥ישׁ מִמְּלַאכְתּ֖וֹ אֲשֶׁר־הֵ֥מָּה עֹשִֽׂים׃",
+      "en": "every single one of the artisans who were engaged in the tasks of the sanctuary came from the task in which they were engaged,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:5",
+      "he": "וַיֹּאמְרוּ֙ אֶל־מֹשֶׁ֣ה לֵּאמֹ֔ר מַרְבִּ֥ים הָעָ֖ם לְהָבִ֑יא מִדֵּ֤י הָֽעֲבֹדָה֙ לַמְּלָאכָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+      "en": "and said to Moses, “The people are bringing more than is needed for the tasks entailed in the work that GOD has commanded to be done.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מדי העבדה. יוֹתֵר מִכְּדֵי צֹרֶךְ הָעֲבוֹדָה:",
+          "en": "מדי העבדה means more than is sufficient for the needs of the work.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:6",
+      "he": "וַיְצַ֣ו מֹשֶׁ֗ה וַיַּעֲבִ֨ירוּ ק֥וֹל בַּֽמַּחֲנֶה֮ לֵאמֹר֒ אִ֣ישׁ וְאִשָּׁ֗ה אַל־יַעֲשׂוּ־ע֛וֹד מְלָאכָ֖ה לִתְרוּמַ֣ת הַקֹּ֑דֶשׁ וַיִּכָּלֵ֥א הָעָ֖ם מֵהָבִֽיא׃",
+      "en": "Moses thereupon had this proclamation made throughout the camp: “Not a single man or woman should make further effort toward gifts for the sanctuary!” So the people stopped bringing:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויכלא. לְשׁוֹן מְנִיעָה:",
+          "en": "ויכלא is an expression for withholding.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:7",
+      "he": "וְהַמְּלָאכָ֗ה הָיְתָ֥ה דַיָּ֛ם לְכׇל־הַמְּלָאכָ֖ה לַעֲשׂ֣וֹת אֹתָ֑הּ וְהוֹתֵֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "their efforts had been more than enough for all the tasks to be done.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והמלאכה היתה דים לכל המלאכה. וּמְלֶאכֶת הַהֲבָאָה הָיְתָה דַיָּם שֶׁל עוֹשֵׂי הַמִּשְׁכָּן, לְכָל הַמְּלָאכָה שֶׁל מִשְׁכָּן, לַעֲשׂוֹת אוֹתָהּ וּלְהוֹתֵר:",
+          "en": "והמלאכה היתה דים (lit., and the work was their sufficiency — was enough for them — for all the work) — this means the work of contributing was the sufficiency of (was enough for) the workers at the Tabernacle, for all the work connected with the Tabernacle to make it and even to leave some over.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והותר. כְּמוֹ וְהַכְבֵּד אֶת לִבּוֹ (שמות ח'), וְהַכּוֹת אֶת מוֹאָב (מלכים ב ג'):",
+          "en": "והותר is an infinitive similar to, (Exodus 8:11) “[But when Pharaoh saw that there was respite] he allowed his heart to be hardened (והכבד‎)”; (2 Kings 3:24) “and they smote (והכות) Moab” (infinitives used in perfect sense).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:8",
+      "he": "וַיַּעֲשׂ֨וּ כׇל־חֲכַם־לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃",
+      "en": "Then all the skilled among those engaged in the work made the tabernacle of ten strips of cloth, which they made of fine twisted linen, blue, purple, and crimson yarns; into these they worked a design of cherubim.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:9",
+      "he": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֙חַב֙ אַרְבַּ֣ע בָּֽאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכׇל־הַיְרִיעֹֽת׃",
+      "en": "The length of each cloth was twenty-eight cubits, and the width of each cloth was four cubits, all cloths having the same measurements.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:10",
+      "he": "וַיְחַבֵּר֙ אֶת־חֲמֵ֣שׁ הַיְרִיעֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת וְחָמֵ֤שׁ יְרִיעֹת֙ חִבַּ֔ר אַחַ֖ת אֶל־אֶחָֽת׃",
+      "en": "They joined five of the cloths to one another, and they joined the other five cloths to one another.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:11",
+      "he": "וַיַּ֜עַשׂ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת מִקָּצָ֖ה בַּמַּחְבָּ֑רֶת כֵּ֤ן עָשָׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
+      "en": "They made loops of blue wool on the edge of the outermost cloth of the one set, and did the same on the edge of the outermost cloth of the other set:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:12",
+      "he": "חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל־אֶחָֽת׃",
+      "en": "they made fifty loops on the one cloth, and they made fifty loops on the edge of the end cloth of the other set, the loops being opposite one another.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:13",
+      "he": "וַיַּ֕עַשׂ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וַיְחַבֵּ֨ר אֶת־הַיְרִיעֹ֜ת אַחַ֤ת אֶל־אַחַת֙ בַּקְּרָסִ֔ים וַיְהִ֥י הַמִּשְׁכָּ֖ן אֶחָֽד׃&nbsp;{פ}",
+      "en": "And they made fifty gold clasps and coupled the unitsaunits Lit. “strip of cloth,” here used collectively. to one another with the clasps, so that the tabernacle became one whole.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:14",
+      "he": "וַיַּ֙עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה אֹתָֽם׃",
+      "en": "They made cloths of goats’ hair for a tent over the tabernacle; they made the cloths eleven in number.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:15",
+      "he": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
+      "en": "The length of each cloth was thirty cubits, and the width of each cloth was four cubits, the eleven cloths having the same measurements.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:16",
+      "he": "וַיְחַבֵּ֛ר אֶת־חֲמֵ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְאֶת־שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָֽד׃",
+      "en": "They joined five of the cloths by themselves, and the other six cloths by themselves.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:17",
+      "he": "וַיַּ֜עַשׂ לֻֽלָאֹ֣ת חֲמִשִּׁ֗ים עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַקִּיצֹנָ֖ה בַּמַּחְבָּ֑רֶת וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ עַל־שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
+      "en": "They made fifty loops on the edge of the outermost cloth of the one set, and they made fifty loops on the edge of the end cloth of the other set.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:18",
+      "he": "וַיַּ֛עַשׂ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים לְחַבֵּ֥ר אֶת־הָאֹ֖הֶל לִהְיֹ֥ת אֶחָֽד׃",
+      "en": "They made fifty copper clasps to couple the tent together so that it might become one whole.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:19",
+      "he": "וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאׇדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "And they made a covering of tanned ram skins for the tent, and a covering of dolphinbdolphin See note at 25.5. skins above.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:20",
+      "he": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
+      "en": "They made the planks for the Tabernacle of acacia wood, upright.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:21",
+      "he": "עֶ֥שֶׂר אַמֹּ֖ת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+      "en": "The length of each plank was ten cubits, the width of each plank a cubit and a half.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:22",
+      "he": "שְׁתֵּ֣י יָדֹ֗ת לַקֶּ֙רֶשׁ֙ הָֽאֶחָ֔ד מְשֻׁ֨לָּבֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת כֵּ֣ן עָשָׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+      "en": "Each plank had two tenons, parallelcparallel See note at 26.17. to each other; they did the same with all the planks of the Tabernacle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:23",
+      "he": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קְרָשִׁ֔ים לִפְאַ֖ת נֶ֥גֶב תֵּימָֽנָה׃",
+      "en": "Of the planks of the Tabernacle, they made twenty planks for the south side,dsouth side See note at 26.18.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:24",
+      "he": "וְאַרְבָּעִים֙ אַדְנֵי־כֶ֔סֶף עָשָׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקְּרָשִׁ֑ים שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
+      "en": "making forty silver sockets under the twenty planks, two sockets under one plank for its two tenons and two sockets under each following plank for its two tenons;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:25",
+      "he": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עָשָׂ֖ה עֶשְׂרִ֥ים קְרָשִֽׁים׃",
+      "en": "and for the other side wall of the Tabernacle, the north side, twenty planks,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:26",
+      "he": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+      "en": "with their forty silver sockets, two sockets under one plank and two sockets under each following plank.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:27",
+      "he": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה עָשָׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
+      "en": "And for the rear of the Tabernacle, to the west, they made six planks;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:28",
+      "he": "וּשְׁנֵ֤י קְרָשִׁים֙ עָשָׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
+      "en": "and they made two planks for the corners of the Tabernacle at the rear.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:29",
+      "he": "וְהָי֣וּ תוֹאֲמִם֮ מִלְּמַ֒טָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ אֶל־רֹאשׁ֔וֹ אֶל־הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן עָשָׂ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֖י הַמִּקְצֹעֹֽת׃",
+      "en": "They matched at the bottom, but terminated as one at the top into one ring;eThey matched … one ring See note at 26.24. they did so with both of them at the two corners.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:30",
+      "he": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+      "en": "Thus there were eight planks with their sockets of silver: sixteen sockets, two under each plank.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:31",
+      "he": "וַיַּ֥עַשׂ בְּרִיחֵ֖י עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽת׃",
+      "en": "They made bars of acacia wood, five for the planks of the one side wall of the Tabernacle,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:32",
+      "he": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֤ה בְרִיחִם֙ לְקַרְשֵׁ֣י הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+      "en": "five bars for the planks of the other side wall of the Tabernacle, and five bars for the planks of the wall of the Tabernacle at the rear, to the west;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:33",
+      "he": "וַיַּ֖עַשׂ אֶת־הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֙חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+      "en": "they made the center bar to run, halfway up the planks, from end to end.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:34",
+      "he": "וְֽאֶת־הַקְּרָשִׁ֞ים צִפָּ֣ה זָהָ֗ב וְאֶת־טַבְּעֹתָם֙ עָשָׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וַיְצַ֥ף אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+      "en": "They overlaid the planks with gold, and made their rings of gold, as holders for the bars; and they overlaid the bars with gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:35",
+      "he": "וַיַּ֙עַשׂ֙ אֶת־הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+      "en": "They made the curtain of blue, purple, and crimson yarns, and fine twisted linen, working into it a design of cherubim.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:36",
+      "he": "וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+      "en": "They made for it four posts of acacia wood and overlaid them with gold, with their hooks of gold; and they cast for them four silver sockets.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:37",
+      "he": "וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+      "en": "They made the screen for the entrance of the Tent, of blue, purple, and crimson yarns, and fine twisted linen, done in embroidery;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:38",
+      "he": "וְאֶת־עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת־וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת׃&nbsp;{פ}",
+      "en": "and five posts for it with their hooks. They overlaid their tops and their bands with gold; but the five sockets were of copper.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:1",
+      "he": "וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת־הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+      "en": "Bezalel made the ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעש בצלאל. לְפִי שֶׁנָּתַן נַפְשׁוֹ עַל הַמְּלָאכָה יוֹתֵר מִשְּׁאָר חֲכָמִים, נִקְרֵאת עַל שְׁמוֹ (שמות רבה):",
+          "en": "ויעש בצלאל AND BEZALEL MADE [THE ARK] — Because he gave himself over to the work more whole-heartedly than the other wise men it is called after his name (his name alone is associated with the act) (Midrash Tanchuma, Vayakhel 10).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 37:2",
+      "he": "וַיְצַפֵּ֛הוּ זָהָ֥ב טָה֖וֹר מִבַּ֣יִת וּמִח֑וּץ וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+      "en": "He overlaid it with pure gold, inside and out; and he made a gold molding for it round about.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:3",
+      "he": "וַיִּצֹ֣ק ל֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+      "en": "He cast four gold rings for it, for its four feet: two rings on one of its side walls and two rings on the other.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:4",
+      "he": "וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+      "en": "He made poles of acacia wood, overlaid them with gold,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:5",
+      "he": "וַיָּבֵ֤א אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֖את אֶת־הָאָרֹֽן׃",
+      "en": "and inserted the poles into the rings on the side walls of the ark for carrying the ark.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:6",
+      "he": "וַיַּ֥עַשׂ כַּפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+      "en": "He made a cover of pure gold, two and a half cubits long and a cubit and a half wide.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:7",
+      "he": "וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+      "en": "He made two cherubim of gold; he made them of hammered work, at the two ends of the cover:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:8",
+      "he": "כְּרוּב־אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־הַכַּפֹּ֛רֶת עָשָׂ֥ה אֶת־הַכְּרֻבִ֖ים מִשְּׁנֵ֥י (קצוותו) [קְצוֹתָֽיו]׃",
+      "en": "one cherub at one end and the other cherub at the other end; he made the cherubim of one piece with the cover, at its two ends.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:9",
+      "he": "וַיִּהְי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹֽכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת הָי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃&nbsp;{פ}",
+      "en": "The cherubim had their wings spread out above, shielding the cover with their wings. They faced each other; the faces of the cherubim were turned toward the cover.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:10",
+      "he": "וַיַּ֥עַשׂ אֶת־הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+      "en": "He made the table of acacia wood, two cubits long, one cubit wide, and a cubit and a half high;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:11",
+      "he": "וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+      "en": "he overlaid it with pure gold and made a gold molding around it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:12",
+      "he": "וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+      "en": "He made a rim of a hand’s breadth around it and made a gold molding for its rim round about.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:13",
+      "he": "וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+      "en": "He cast four gold rings for it and attached the rings to the four corners at its four legs.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:14",
+      "he": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙ לַבַּדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+      "en": "The rings were next to the rim, as holders for the poles to carry the table.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:15",
+      "he": "וַיַּ֤עַשׂ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+      "en": "He made the poles of acacia wood for carrying the table, and overlaid them with gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:16",
+      "he": "וַיַּ֜עַשׂ אֶֽת־הַכֵּלִ֣ים&thinsp;׀ אֲשֶׁ֣ר עַל־הַשֻּׁלְחָ֗ן אֶת־קְעָרֹתָ֤יו וְאֶת־כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶ֨ת־הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר׃&nbsp;{פ}",
+      "en": "The utensils that were to be upon the table—its bowls, ladles, jugs, and jars with which to offer libations—he made of pure gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:17",
+      "he": "וַיַּ֥עַשׂ אֶת־הַמְּנֹרָ֖ה זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה עָשָׂ֤ה אֶת־הַמְּנֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה הָיֽוּ׃",
+      "en": "He made the lampstand of pure gold. He made the lampstand—its base and its shaft—of hammered work; its cups, calyxes, and petals were of one piece with it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:18",
+      "he": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה&thinsp;׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָֽאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+      "en": "Six branches issued from its sides: three branches from one side of the lampstand, and three branches from the other side of the lampstand.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:19",
+      "he": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בְּקָנֶ֥ה אֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+      "en": "There were three cups shaped like almond-blossoms, each with calyx and petals, on one branch; and there were three cups shaped like almond-blossoms, each with calyx and petals, on the next branch; so for all six branches issuing from the lampstand.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:20",
+      "he": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+      "en": "On the lampstand itself there were four cups shaped like almond-blossoms, each with calyx and petals:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:21",
+      "he": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּֽחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִמֶּֽנָּה׃",
+      "en": "a calyx, of one piece with it, under a pair of branches; and a calyx, of one piece with it, under the second pair of branches; and a calyx, of one piece with it, under the last pair of branches; so for all six branches issuing from it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:22",
+      "he": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה הָי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+      "en": "Their calyxes and their stems were of one piece with it, the whole of it a single hammered piece of pure gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:23",
+      "he": "וַיַּ֥עַשׂ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
+      "en": "He made its seven lamps, its tongs, and its fire pans of pure gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:24",
+      "he": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר עָשָׂ֣ה אֹתָ֑הּ וְאֵ֖ת כׇּל־כֵּלֶֽיהָ׃&nbsp;{פ}",
+      "en": "He made it and all its furnishings out of a talent of pure gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:25",
+      "he": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הַקְּטֹ֖רֶת עֲצֵ֣י שִׁטִּ֑ים אַמָּ֣ה אׇרְכּוֹ֩ וְאַמָּ֨ה רׇחְבּ֜וֹ רָב֗וּעַ וְאַמָּתַ֙יִם֙ קֹֽמָת֔וֹ מִמֶּ֖נּוּ הָי֥וּ קַרְנֹתָֽיו׃",
+      "en": "He made the incense altar of acacia wood, a cubit long and a cubit wide—square—and two cubits high; its horns were of one piece with it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:26",
+      "he": "וַיְצַ֨ף אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־גַּגּ֧וֹ וְאֶת־קִירֹתָ֛יו סָבִ֖יב וְאֶת־קַרְנֹתָ֑יו וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+      "en": "He overlaid it with pure gold: its top, its sides round about, and its horns; and he made a gold molding for it round about.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:27",
+      "he": "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב עָֽשָׂה־ל֣וֹ&thinsp;׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו עַ֖ל שְׁנֵ֣י צִדָּ֑יו לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֶֽם׃",
+      "en": "He made two gold rings for it under its molding, on its two walls—on opposite sides—as holders for the poles with which to carry it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:28",
+      "he": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+      "en": "He made the poles of acacia wood, and overlaid them with gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:29",
+      "he": "וַיַּ֜עַשׂ אֶת־שֶׁ֤מֶן הַמִּשְׁחָה֙ קֹ֔דֶשׁ וְאֶת־קְטֹ֥רֶת הַסַּמִּ֖ים טָה֑וֹר מַעֲשֵׂ֖ה רֹקֵֽחַ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "He prepared the sacred anointing oil and the pure aromatic incense, expertly blended.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:1",
+      "he": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אׇרְכּ֜וֹ וְחָֽמֵשׁ־אַמּ֤וֹת רׇחְבּוֹ֙ רָב֔וּעַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
+      "en": "He made the altar for burnt offering of acacia wood, five cubits long and five cubits wide—square—and three cubits high.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:2",
+      "he": "וַיַּ֣עַשׂ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ הָי֣וּ קַרְנֹתָ֑יו וַיְצַ֥ף אֹת֖וֹ נְחֹֽשֶׁת׃",
+      "en": "He made horns for it on its four corners, the horns being of one piece with it; and he overlaid it with copper.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:3",
+      "he": "וַיַּ֜עַשׂ אֶֽת־כׇּל־כְּלֵ֣י הַמִּזְבֵּ֗חַ אֶת־הַסִּירֹ֤ת וְאֶת־הַיָּעִים֙ וְאֶת־הַמִּזְרָקֹ֔ת אֶת־הַמִּזְלָגֹ֖ת וְאֶת־הַמַּחְתֹּ֑ת כׇּל־כֵּלָ֖יו עָשָׂ֥ה נְחֹֽשֶׁת׃",
+      "en": "He made all the utensils of the altar—the pails, the scrapers, the basins, the flesh hooks, and the fire pans; he made all these utensils of copper.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:4",
+      "he": "וַיַּ֤עַשׂ לַמִּזְבֵּ֙חַ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת תַּ֧חַת כַּרְכֻּבּ֛וֹ מִלְּמַ֖טָּה עַד־חֶצְיֽוֹ׃",
+      "en": "He made for the altar a grating of meshwork in copper, extending below, under its ledge, to its middle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:5",
+      "he": "וַיִּצֹ֞ק אַרְבַּ֧ע טַבָּעֹ֛ת בְּאַרְבַּ֥ע הַקְּצָוֺ֖ת לְמִכְבַּ֣ר הַנְּחֹ֑שֶׁת בָּתִּ֖ים לַבַּדִּֽים׃",
+      "en": "He cast four rings, at the four corners of the copper grating, as holders for the poles.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:6",
+      "he": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם נְחֹֽשֶׁת׃",
+      "en": "He made the poles of acacia wood and overlaid them with copper;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:7",
+      "he": "וַיָּבֵ֨א אֶת־הַבַּדִּ֜ים בַּטַּבָּעֹ֗ת עַ֚ל צַלְעֹ֣ת הַמִּזְבֵּ֔חַ לָשֵׂ֥את אֹת֖וֹ בָּהֶ֑ם נְב֥וּב לֻחֹ֖ת עָשָׂ֥ה אֹתֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "and he inserted the poles into the rings on the side walls of the altar, to carry it by them. He made it hollow, of boards.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נבוב לחת. נָבוּב הוּא חָלוּל, וְכֵן וְעָבְיוֹ אַרְבַּע אֶצְבָּעוֹת נָבוּב (ירמיהו נ\"ב):",
+          "en": "נבוב לחות HOLLOW WITH TABLETS — נבוב signifies hollow, similar to, (Jeremiah 52:21) “And the thickness thereof was four fingers: it was hollow (נבוב)‎”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "נבוב לחת. הַלּוּחוֹת שֶׁל עֲצֵי שִׁטִּים לְכָל רוּחַ, וְהֶחָלָל בָּאֶמְצַע:",
+          "en": "נבוב לחת — The word נבוב being in the construct state and subordinate to לחות the meaning of the verse is: He made it (the altar) out of the hollow space formed by the tablets i. e. the planks of Shittim wood mentioned in v. 1 were oil all sides and the hollow space in the middle (thus the hollow space itself — which was filled with earth — formed the altar. Unlike the golden altar it had no roof; cf. Rashi on Exodus 27:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:8",
+      "he": "וַיַּ֗עַשׂ אֵ֚ת הַכִּיּ֣וֹר נְחֹ֔שֶׁת וְאֵ֖ת כַּנּ֣וֹ נְחֹ֑שֶׁת בְּמַרְאֹת֙ הַצֹּ֣בְאֹ֔ת אֲשֶׁ֣ר צָֽבְא֔וּ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "He made the laver of copper and its stand of copper, from the mirrors of the women who performed tasksawomen who performed tasks Precise nuance of Heb. ṣoveʼot ʼasher ṣaveʼu uncertain. at the entrance of the Tent of Meeting.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "במראת הצבאת. בְּנוֹת יִשְׂרָאֵל הָיוּ בְיָדָן מַרְאוֹת שֶׁרוֹאוֹת בָּהֶן כְּשֶׁהֵן מִתְקַשְּׁטוֹת, וְאַף אוֹתָן לֹא עִכְּבוּ מִלְּהָבִיא לְנִדְבַת הַמִּשְׁכָּן, וְהָיָה מוֹאֵס מֹשֶׁה בָּהֶן מִפְּנֵי שֶׁעֲשׂוּיִם לְיֵצֶר הָרָע, אָמַר לוֹ הַקָּבָּ\"ה קַבֵּל, כִּי אֵלּוּ חֲבִיבִין עָלַי מִן הַכֹּל, שֶׁעַל יְדֵיהֶם הֶעֱמִידוּ הַנָּשִׁים צְבָאוֹת רַבּוֹת בְּמִצְרַיִם; כְּשֶׁהָיוּ בַעְלֵיהֶם יְגֵעִים בַּעֲבוֹדַת פֶּרֶךְ, הָיוּ הוֹלְכוֹת וּמוֹלִיכוֹת לָהֶם מַאֲכָל וּמִשְׁתֶּה, וּמַאֲכִילוֹת אוֹתָם וְנוֹטְלוֹת הַמַּרְאוֹת, וְכָל אַחַת רוֹאָה עַצְמָהּ עִם בַּעְלָהּ בַּמַּרְאָה, וּמְשַׁדַּלְתּוֹ בִדְבָרִים, לוֹמַר אֲנִי נָאָה מִמְּךָ, וּמִתּוֹךְ כָּךְ מְבִיאוֹת לְבַעְלֵיהֶן לִידֵי תַאֲוָה וְנִזְקָקוֹת לָהֶם וּמִתְעַבְּרוֹת וְיוֹלְדוֹת שָׁם, שֶׁנֶּאֱמַר תַּחַת הַתַּפּוּחַ עוֹרַרְתִּיךָ (שיר השירים ח'), וְזֶה שֶׁנֶּאֱמַר בְּמַרְאֹת הַצּוֹבְאוֹת. וְנַעֲשָׂה הַכִּיּוֹר מֵהֶם, שֶׁהוּא לָשׂוּם שָׁלוֹם בֵּין אִישׁ לְאִשְׁתּוֹ – לְהַשְׁקוֹת מִמַּיִם שֶׁבְּתוֹכוֹ לְמִי שֶׁקִּנֵּא לָהּ בַּעְלָהּ וְנִסְתְּרָה; וְתֵדַע לְךָ שֶׁהֵן מַרְאוֹת מַמָּשׁ, שֶׁהֲרֵי נֶאֱמַר וּנְחֹשֶׁת הַתְּנוּפָה שִׁבְעִים כִּכָּר וְגוֹ', וַיַּעַשׂ בָּהּ וְגוֹמֵר, וְכִיּוֹר וְכַנּוֹ לֹא הֻזְכְּרוּ שָׁם, לָמַדְתָּ שֶׁלֹּא הָיָה נְחֹשֶׁת שֶׁל כִּיּוֹר מִנְּחֹשֶׁת הַתְּנוּפָה, כָּךְ דָּרַשׁ רַבִּי תַּנְחוּמָא, וְכֵן תִּרְגֵּם אֻנְקְלוֹס בְּמֶחְזְיָת נְשַׁיָא וְהוּא תַרְגּוּם שֶׁל מַרְאוֹת, מירוריי\"ש בְּלַעַז. וְכֵן מָצִינוּ וְהַגִּלְיוֹנִים (ישעיה ג') – מְתַרְגְּמִינָן מֶחְזְיָתָא:",
+          "en": "במראת הצבאת OF THE MIRRORS OF THE WOMEN CROWDING — The Israelitish women possessed mirrors of copper into which they used to look when they adorned themselves. Even these did they not hesitate to bring as a contribution towards the Tabernacle. Now Moses was about to reject them since they were made to pander to their vanity, but the Holy One, blessed be He, said to him, “Accept them; these are dearer to Me than all the other contributions, because through them the women reared those huge hosts in Egypt!” For when their husbands were tired through the crushing labour they used to bring them food and drink and induced them to eat. Then they would take the mirrors, and each gazed at herself in her mirror together with her husband, saying endearingly to him, “See, I am handsomer than you!” Thus they awakened their husbands’ affection and subsequently became the mothers of many children, at it is said, (Song 8:5) “I awakened thy love under the apple-tree”, (referring to the fields where the men worked). This is what it refers to when it states, מראות הצבאת “the mirrors of the women who reared the hosts (צבאות)” (Midrash Tanchuma, Pekudei 9). And it was for this reason that the laver was made of them (the mirrors) — because it served the purpose of promoting peace between man and wife viz., by giving of its waters to be drunk by a woman whose husband had shown himself jealous of her and who nevertheless had associated with another (cf. Numbers ch. V) thus affording her an opportunity to prove her innocence (cf. Sotah 15b). You may know that the מראות mentioned in the text were really mirrors (and that the word does not mean visions, or appearance, etc.), for it is said, (v. 29) “And the copper of the wave-offering was seventy talents etc. … and therewith he made [the sockets etc.]” — the laver, however, and its base are not mentioned there amongst the articles made from that copper; hence you may learn that the copper of which the laver was made was not a part of the copper of the weave-offering, which is the only copper mentioned as having been contributed by the people. Thus did R. Tanchuma 2:11:9 explain the term מראת הצבאת. And so does Onkelos also render it: במחזית נשיא, and this first word is the Targum translation of מראות, in the sense of mireors in old French, for we find that for the word (Isaiah 3:23) “And the גליונים”, which are mirrors, we have in the Targum the same word מחזיתא.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אשר צבאו. לְהָבִיא נִדְבָתָן:",
+          "en": "אשר צבאו [THE WOMEN] WHO CAME IN CROWDS to bring their contribution.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:9",
+      "he": "וַיַּ֖עַשׂ אֶת־הֶחָצֵ֑ר לִפְאַ֣ת&thinsp;׀ נֶ֣גֶב תֵּימָ֗נָה קַלְעֵ֤י הֶֽחָצֵר֙ שֵׁ֣שׁ מׇשְׁזָ֔ר מֵאָ֖ה בָּאַמָּֽה׃",
+      "en": "He made the enclosure: On the southbsouth Cf. note at 26.18. side, a hundred cubits of hangings of fine twisted linen for the enclosure—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:10",
+      "he": "עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+      "en": "with their twenty posts and their twenty sockets of copper, the hooks and bands of the posts being silver.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:11",
+      "he": "וְלִפְאַ֤ת צָפוֹן֙ מֵאָ֣ה בָֽאַמָּ֔ה עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָֽעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+      "en": "On the north side, a hundred cubits—with their twenty posts and their twenty sockets of copper, the hooks and bands of the posts being silver.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:12",
+      "he": "וְלִפְאַת־יָ֗ם קְלָעִים֙ חֲמִשִּׁ֣ים בָּֽאַמָּ֔ה עַמּוּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָ֑ה וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשׁוּקֵיהֶ֖ם כָּֽסֶף׃",
+      "en": "On the west side, fifty cubits of hangings—with their ten posts and their ten sockets, the hooks and bands of the posts being silver.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:13",
+      "he": "וְלִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃",
+      "en": "And on the front side, to the east, fifty cubits:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:14",
+      "he": "קְלָעִ֛ים חֲמֵשׁ־עֶשְׂרֵ֥ה אַמָּ֖ה אֶל־הַכָּתֵ֑ף עַמּוּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+      "en": "fifteen cubits of hangings on the one flank, with their three posts and their three sockets,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:15",
+      "he": "וְלַכָּתֵ֣ף הַשֵּׁנִ֗ית מִזֶּ֤ה וּמִזֶּה֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר קְלָעִ֕ים חֲמֵ֥שׁ עֶשְׂרֵ֖ה אַמָּ֑ה עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+      "en": "and fifteen cubits of hangings on the other flank—on each side of the gate of the enclosurecenclosure Which accounts for the remaining 20 cubits; cf. v. 18.—with their three posts and their three sockets.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:16",
+      "he": "כׇּל־קַלְעֵ֧י הֶחָצֵ֛ר סָבִ֖יב שֵׁ֥שׁ מׇשְׁזָֽר׃",
+      "en": "All the hangings around the enclosure were of fine twisted linen.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:17",
+      "he": "וְהָאֲדָנִ֣ים לָֽעַמֻּדִים֮ נְחֹ֒שֶׁת֒ וָוֵ֨י הָֽעַמּוּדִ֜ים וַחֲשׁוּקֵיהֶם֙ כֶּ֔סֶף וְצִפּ֥וּי רָאשֵׁיהֶ֖ם כָּ֑סֶף וְהֵם֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף כֹּ֖ל עַמֻּדֵ֥י הֶחָצֵֽר׃",
+      "en": "The sockets for the posts were of copper, the hooks and bands of the posts were of silver, the overlay of their tops was of silver; all the posts of the enclosure were banded with silver.—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:18",
+      "he": "וּמָסַ֞ךְ שַׁ֤עַר הֶחָצֵר֙ מַעֲשֵׂ֣ה רֹקֵ֔ם תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר וְעֶשְׂרִ֤ים אַמָּה֙ אֹ֔רֶךְ וְקוֹמָ֤ה בְרֹ֙חַב֙ חָמֵ֣שׁ אַמּ֔וֹת לְעֻמַּ֖ת קַלְעֵ֥י הֶחָצֵֽר׃",
+      "en": "The screen of the gate of the enclosure, done in embroidery, was of blue, purple, and crimson yarns, and fine twisted linen. It was twenty cubits long. Its height—or width—was five cubits, like that ofdIts height—or width—was five cubits, like that of Meaning of Heb. uncertain. the hangings of the enclosure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לעמת קלעי החצר. כְּמִדַּת קַלְעֵי הֶחָצֵר:",
+          "en": "לעמת קלעי החצר [AND THE SCREEN…] ANSWERING TO THE HANGINGS OF THE ENCLOSURE — i. e. according to the measure of the height of the hangings of the enclosure.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:19",
+      "he": "וְעַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֥ם אַרְבָּעָ֖ה נְחֹ֑שֶׁת וָוֵיהֶ֣ם כֶּ֔סֶף וְצִפּ֧וּי רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+      "en": "The posts were four; their four sockets were of copper, their hooks of silver; and the overlay of their tops was of silver, as were also their bands.—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:20",
+      "he": "וְֽכׇל־הַיְתֵדֹ֞ת לַמִּשְׁכָּ֧ן וְלֶחָצֵ֛ר סָבִ֖יב נְחֹֽשֶׁת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "All the pegs of the Tabernacle and of the enclosure round about were of copper.",
+      "fr": "",
+      "rashi": []
+    }
+  ]
+}

@@ -1,0 +1,2487 @@
+{
+  "slug": "reeh",
+  "name": "Reeh",
+  "range": "Deuteronomy 11:26-16:17",
+  "verses": [
+    {
+      "ref": "Deuteronomy 11:26",
+      "he": "רְאֵ֗ה אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּ֑וֹם בְּרָכָ֖ה וּקְלָלָֽה׃",
+      "en": "See, this day I set before you blessing and curse:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ראה אנכי … ברכה וקללה. הָאֲמוּרוֹת בְּהַר גְּרִזִּים וּבְהַר עֵיבָל:",
+          "en": "ראה אנכי ... ברכה וקללה BEHOLD I [SET BEFORE YOU THIS DAY] A BLESSING AND A CURSE — those which are later to be recited on Mount Gerizim and on Mount Ebal respectively (cf. v. 29).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:27",
+      "he": "אֶֽת־הַבְּרָכָ֑ה אֲשֶׁ֣ר תִּשְׁמְע֗וּ אֶל־מִצְוֺת֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּֽוֹם׃",
+      "en": "blessing, if you obey the commandments of the ETERNAL your God that I enjoin upon you this day;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את הברכה. עַל מְנָת אֲשֶׁר תִּשְׁמְעוּ:",
+          "en": "את הברכה [I SET BEFORE YOU] THE BLESSING — with the condition that you should obey (אשר תשמעו‎).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:28",
+      "he": "וְהַקְּלָלָ֗ה אִם־לֹ֤א תִשְׁמְעוּ֙ אֶל־מִצְוֺת֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וְסַרְתֶּ֣ם מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּ֑וֹם לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא־יְדַעְתֶּֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "and curse, if you do not obey the commandments of the ETERNAL your God, but turn away from the path that I enjoin upon you this day and follow other gods, whom you have not experienced.kwhom you have not experienced I.e., who have not proved themselves to you; cf. Hos. 13.4.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מן הדרך אשר אנכי מצוה אתכם היום ללכת וגו'. הָא לָמַדְתָּ כָּל הָעוֹבֵד עֲ\"זָ הֲרֵי הוּא סָר מִכָּל הַדֶּרֶךְ שֶׁנִּצְטַוּוּ יִשְׂרָאֵל, מִכָּאן אָמְרוּ הַמּוֹדֶה בַּעֲ\"זָ כְּכוֹפֵר בְּכָל הַתּוֹרָה כֻלָּהּ (ספרי):",
+          "en": "מן הדרך אשר אנכי מצוה אתכם היום ללכת וגו׳ [IF YE DEPART] FROM THE WAY WHICH I COMMAND YOU THIS DAY, TO GO [AFTER OTHER GODS] etc. — You thus learn that he who serves idols departs from the entire path of life that Israel has been commanded. From this passage they (the Rabbis) taught the well-known dictum that he who acknowledges the divinity of an idol is as though he denied the Torah in its entirety (Sifrei Devarim 54:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:29",
+      "he": "וְהָיָ֗ה כִּ֤י יְבִֽיאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּ֑הּ וְנָתַתָּ֤ה אֶת־הַבְּרָכָה֙ עַל־הַ֣ר גְּרִזִ֔ים וְאֶת־הַקְּלָלָ֖ה עַל־הַ֥ר עֵיבָֽל׃",
+      "en": "When the ETERNAL your God brings you into the land that you are about to enter and possess, you shall pronounce the blessing at Mount Gerizim and the curse at Mount Ebal.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונתתה את הברכה. כְּתַרְגּוּמוֹ \"יָת מְבָרְכַיָּא\" – אֶת הַמְבָרְכִים:",
+          "en": "ונתת את הברכה THEN THOU SHALT PUT THE BLESSING [UPON MOUNT GERIZIM] — Understand this as the Targum renders it: ית מברכיא those who pronounce the blessing.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "על הר גרזים. כְּלַפֵּי הַר גְּרִזִּים הוֹפְכִין פְּנֵיהֶם וּפָתְחוּ בִּבְרָכָה – בָּרוךְ הָאִישׁ אֲשֶׁר לֹא יַעֲשֶׂה פֶסֶל וּמַסֵּכָה וְגוֹ'. כָּל הָאֲרוּרִים שֶׁבַּפָּרָשָׁה אָמְרוּ תְחִלָּה בִּלְשׁוֹן בָּרוּךְ, וְאַחַר כָּךְ הָפְכוּ פְנֵיהֶם כְּלַפֵּי הַר עֵיבָל וּפָתְחוּ בִּקְלָלָה (סוטה ל\"ג):",
+          "en": "על הר גרזים means “towards Mount Gerizim”: they (the Levites) turned their faces towards it and began with a formula of blessing: “Blessed be the man that doth not make any graven or molten image etc.”. For each of the paragraphs beginning with the expression ארור as set forth in the chapter (Deuteronomy 27), they first recited in a converse form, beginning with the expression ברוך, “Blessed be etc.” and only afterwards did they turn their faces towards Mount Ebal and began to recite the corresponding curse (Sifrei Devarim 55:2; Sotah 32a; cf. Rashi on Deuteronomy 27).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:30",
+      "he": "הֲלֹא־הֵ֜מָּה בְּעֵ֣בֶר הַיַּרְדֵּ֗ן אַֽחֲרֵי֙ דֶּ֚רֶךְ מְב֣וֹא הַשֶּׁ֔מֶשׁ בְּאֶ֙רֶץ֙ הַֽכְּנַעֲנִ֔י הַיֹּשֵׁ֖ב בָּעֲרָבָ֑ה מ֚וּל הַגִּלְגָּ֔ל אֵ֖צֶל אֵלוֹנֵ֥י מֹרֶֽה׃",
+      "en": "Both are on the other side of the Jordan, beyond the west road that is in the land of the Canaanites who dwell in the Arabah—near Gilgal, by the terebinths of Moreh.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הלא המה. נָתַן בָּהֶם סִימָן:",
+          "en": "הלא המה ARE THEY NOT [AT THE PASSAGE OF THE JORDAN … ]? — He gave geographical indications regarding them (the mountains).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אחרי. אַחַר הַעֲבָרַת הַיַּרְדֵּן הַרְבֵּה וָהָלְאָה לְמֵרָחוֹק; וְזֶהוּ לְשׁוֹן אַחֲרֵי, כָּל מָקוֹם שֶׁנֶּאֱמַר אַחֲרֵי מֻפְלָג הוּא:",
+          "en": "אחרי [AT THE PASSAGE OF THE JORDAN,] AFTER — This means: behind the passage of the Jordan much further on in a distance, for that is the force of the expression אחרי, because wherever the term אחרי (in contradistinction to אחר; cf. Rashi on Genesis 15:1) is used it signifies “greatly separated” (Genesis Rabbah 44:5; cf. Sifrei Devarim 56:1; Sotah 33b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "דרך מבוא השמש. לְהַלָּן מִן הַיַּרְדֵּן לְצַד מַעֲרָב, וְטַעַם הַמִּקְרָא מוֹכִיחַ שֶׁהֵם שְׁנֵי דְבָרִים, שֶׁנִּנְקְדוּ בִשְׁנֵי טְעָמִים, \"אַחֲרֵי\" נָקוּד בְּפַשְׁטָא, וְ\"דֶרֶךְ\" נָקוּד בְּמַשְׁפֵּל, וְהוּא דָּגֵשׁ, וְאִם הָיָה \"אַחֲרֵי דֶרֶךְ\" דִּבּוּר אֶחָד, הָיָה נָקוּד \"אַחֲרֵי\" בִּמְשָׁרֵת, בְּשׁוֹפָר הָפוּךְ, וְ\"דֶרֶךְ\" בְּפַשְׁטָא וְרָפֶה:",
+          "en": "דרך מבוא השמש [AT THE PASSAGE OF THE JORDAN, FAR DISTANT FROM IT] ON THE WAY OF THE SETTING OF THE SUN — i.e. beyond the Jordan towards the West. The accents in the verse prove that they (the word אחרי and the phrase דרך מבוא השמש) are two unconnected phrases since they bear two separate accents of a different character, viz., the word אחרי is marked by a Pashta (a disjunctive accent), and the word דרך is marked by a משפל (our Yetib), and also has a Dagesh. If, however, אחרי דרך formed one phrase, the word אחרי should be marked by a conjunctive accent, a שופר הפוך (our Mahpach) and דרך by a Pashta, while the ד of דרך would be ‘‘weak” (i.e. have no Dagesh; cf. Rashi on Joshua 7:15).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "מול הגלגל. רָחוֹק מִן הַגִּלְגָּל:",
+          "en": "מול הגלגל means, distant from Gilgal (not near Gilgal).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "אלוני מרה. שְׁכֶם הוּא, שֶׁנֶּאֱמַר (בראשית י\"ב) עַד מְקוֹם שְׁכֶם עַד אֵלוֹן מוֹרֶה (ספרי):",
+          "en": "אלוני מורה [BESIDE] THE TEREBINTHS OF MOREH — This is Shechem, for it states, (Genesis 12:6): “unto the place of Shechem, unto the terebinth of Moreh” (Sifrei Devarim 56:1; Sotah 33b; cf. Rashi on that verse).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:31",
+      "he": "כִּ֤י אַתֶּם֙ עֹבְרִ֣ים אֶת־הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם נֹתֵ֣ן לָכֶ֑ם וִֽירִשְׁתֶּ֥ם אֹתָ֖הּ וִֽישַׁבְתֶּם־בָּֽהּ׃",
+      "en": "For you are about to cross the Jordan to enter and possess the land that the ETERNAL your God is assigning to you. When you have occupied it and are settled in it,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי אתם עברים את הירדן וגו'. נִסִּים שֶׁל יַרְדֵּן יִהְיוּ סִימָן בְּיֶדְכֶם שֶׁתָּבֹאוּ וְתִירְשׁוּ אֶת הָאָרֶץ (עי' ספרי):",
+          "en": "כי אתם עברים את הירדן וגו׳ FOR YE SHALL PASS OVER THE JORDAN etc., — The miracles that will be wrought for you during your crossing of the Jordan shall be an omen for you that you will indeed come into and inherit the land (cf. Sifrei Devarim 57).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 11:32",
+      "he": "וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת אֵ֥ת כׇּל־הַֽחֻקִּ֖ים וְאֶת־הַמִּשְׁפָּטִ֑ים אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּֽוֹם׃",
+      "en": "take care to observe all the laws and rules that I have set before you this day.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 12:1",
+      "he": "אֵ֠לֶּה הַֽחֻקִּ֣ים וְהַמִּשְׁפָּטִים֮ אֲשֶׁ֣ר תִּשְׁמְר֣וּן לַעֲשׂוֹת֒ בָּאָ֕רֶץ אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֜ה אֱלֹהֵ֧י אֲבֹתֶ֛יךָ לְךָ֖ לְרִשְׁתָּ֑הּ כׇּ֨ל־הַיָּמִ֔ים אֲשֶׁר־אַתֶּ֥ם חַיִּ֖ים עַל־הָאֲדָמָֽה׃",
+      "en": "These are the laws and rules that you must carefully observe in the land that the ETERNAL, God of your ancestors, is giving you to possess, as long as you live on earth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 12:2",
+      "he": "אַבֵּ֣ד תְּ֠אַבְּד֠וּן אֶֽת־כׇּל־הַמְּקֹמ֞וֹת אֲשֶׁ֧ר עָֽבְדוּ־שָׁ֣ם הַגּוֹיִ֗ם אֲשֶׁ֥ר אַתֶּ֛ם יֹרְשִׁ֥ים אֹתָ֖ם אֶת־אֱלֹהֵיהֶ֑ם עַל־הֶהָרִ֤ים הָֽרָמִים֙ וְעַל־הַגְּבָע֔וֹת וְתַ֖חַת כׇּל־עֵ֥ץ רַעֲנָֽן׃",
+      "en": "You must destroy all the sites at which the nations you are to dispossess worshiped their gods, whether on lofty mountains and on hills or under any luxuriant tree.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אבד תאבדון. אַבֵּד וְאַחַר כָּךְ תְּאַבְּדוּן, מִכָּאן לָעוֹקֵר עֲ\"זָ שֶׁצָּרִיךְ לְשָׁרֵשׁ אַחֲרֶיהָ (עבודה זרה מ\"ה):",
+          "en": "אבד תאבדון YE SHALL UTTERLY DESTROY — Destroy and again destroy! (i.e. utterly destroy). From here we learn that he who eradicates an object of idol-worship must thoroughly uproot it (i.e. remove every trace of it) (Sifrei Devarim 60:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את כל המקמות אשר עבדו שם וגו'. וּמַה תְּאַבְּדוּן מֵהֶם? אֶת אֱלֹהֵיהֶם אֲשֶׁר עַל הֶהָרִים:",
+          "en": "את כל המקמות אשר עבדו שם וגו׳ [YE SHALL UTTERLY DESTROY] ALL THE PLACES (according to Rashi: FROM ALL THE PLACES) WHEREIN [THE NATIONS …] SERVED — And what shall ye destroy from them? Their gods which are upon the mountains (Avodah Zarah 45a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:3",
+      "he": "וְנִתַּצְתֶּ֣ם אֶת־מִזְבְּחֹתָ֗ם וְשִׁבַּרְתֶּם֙ אֶת־מַצֵּ֣בֹתָ֔ם וַאֲשֵֽׁרֵיהֶם֙ תִּשְׂרְפ֣וּן בָּאֵ֔שׁ וּפְסִילֵ֥י אֱלֹֽהֵיהֶ֖ם תְּגַדֵּע֑וּן וְאִבַּדְתֶּ֣ם אֶת־שְׁמָ֔ם מִן־הַמָּק֖וֹם הַהֽוּא׃",
+      "en": "Tear down their altars, smash their pillars, put their sacred postsasacred posts See note at 7.5. to the fire, and cut down the images of their gods, obliterating their name from that site.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מזבח. שֶׁל אֲבָנִים הַרְבֵּה:",
+          "en": "מזבח consists of many stones,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מצבה. שֶׁל אֶבֶן אַחַת, וְהוּא בִּימוֹס שֶׁשְּׁנוּיָה בַּמִּשְׁנָה (עבודה זרה מ\"ז): אֶבֶן שֶׁחֲצָבָהּ מִתְּחִלָּתָהּ לְבִימוֹס:",
+          "en": "מצבה of one stone only. It is the בימוס, the pedestal for idolatrous statuary, of which we learn in the Mishna (Avodah Zarah 3:7): A stone which one originally hewed for an idol’s pedestal is forbidden for use.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אשרה. אִילָן הַנֶּעֱבָד:",
+          "en": "אשרה is a tree that had been worshipped (Avodah Zarah 47a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ואבדתם את שמם. לְכַנּוֹת לָהֶם שֵׁם לִגְנַאי, בֵּית גַּלְיָא — קוֹרִין לָהּ בֵּית כַּרְיָא, עֵין כֹּל — עֵין קוֹץ (שם ל\"ו):",
+          "en": "ואבדתם את שמם AND DESTROY THEIR NAMES by giving them contemptuous nicknames. What they call בית גליא, “a sublime house”, you should call בית כריא, “a base house”, what they call עין כל, “the universal eye”, you call, עין קוץ “the thorn eye” (Avodah Zarah 46a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:4",
+      "he": "לֹֽא־תַעֲשׂ֣וּן כֵּ֔ן לַיהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+      "en": "Do not worship the ETERNAL your God in like manner,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תעשון כן. לְהַקְטִיר לַשָּׁמַיִם בְּכָל מָקוֹם, כִּי אִם בַּמָּקוֹם אֲשֶׁר יִבְחַר. דָּ\"אַ — ונתצתם את מזבחתם, ואבדתם את שמם, לא תעשון כן. אַזְהָרָה לַמּוֹחֵק אֶת הַשֵּׁם וְלַנּוֹתֵץ אֶבֶן מִן הַמִּזְבֵּחַ אוֹ מִן הָעֲזָרָה (מכות כ\"ב). אָמַר רַ' יִשְׁמָעֵאל וְכִי תַעֲלֶה עַל דַּעְתְּךָ שֶׁיִּשְׂרָאֵל נוֹתְצִין אֶת הַמִּזְבְּחוֹת? אֶלָּא שֶׁלֹּא תַעֲשׂוּ כְמַעֲשֵׂיהֶם וְיִגְרְמוּ עֲוֹנוֹתֵיכֶם לְמִקְדַּשׁ אֲבוֹתֵיכֶם שֶׁיִּתְחָרֵב (ספרי):",
+          "en": "לא תעשון כן YE SHALL NOT DO SO [UNTO THE LORD YOUR GOD] — i.e. to burn offerings to God at any place you choose (as do the idolaters, cf. v. 2), but at the place which He will choose (cf. vv. 5—6). — Another explanation is: ונתצתם את מזבחתם … ואבדתם את שמם … לא תעשון כן YE SHALL PULL DOWN THEIR ALTARS … YE SHALL DESTROY THEIR NAMES … BUT YE SHALL NOT DO THIS [TO THE LORD YOUR GOD] — It is a prohibition addressed to one who would blot out the Name of God from any writing, or would pull out a stone from the altar or from the forecourt (cf. Sifrei Devarim 61:12; Makkot 22a). R. Ishmael said: “But can the idea enter your mind that the Israelites would pull down the altars of God?” But the meaning of לא תעשון כן is that you should not do like their doings so that your sins would cause the Sanctuary of (built by) your fathers to be laid waste (Sifrei Devarim 61:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:5",
+      "he": "כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ מִכׇּל־שִׁבְטֵיכֶ֔ם לָשׂ֥וּם אֶת־שְׁמ֖וֹ שָׁ֑ם לְשִׁכְנ֥וֹ תִדְרְשׁ֖וּ וּבָ֥אתָ שָּֽׁמָּה׃",
+      "en": "but look only to the site that the ETERNAL your God will choose amidst all your tribes as God’s habitation, to establish the divine name there. There youbyou Addressing each head of a household with a patrimony, or his wife if he is unavailable; cf. vv. 12, 18. are to go,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לשכנו תדרשו. זֶה מִשְׁכַּן שִׁילֹה:",
+          "en": "לשכנו תדרשו AFTER HIS RESIDENCE SHALL YE INQUIRE — This refers to the Tabernacle at Shiloh. (Sifrei Devarim 62:3)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:6",
+      "he": "וַהֲבֵאתֶ֣ם שָׁ֗מָּה עֹלֹֽתֵיכֶם֙ וְזִבְחֵיכֶ֔ם וְאֵת֙ מַעְשְׂרֹ֣תֵיכֶ֔ם וְאֵ֖ת תְּרוּמַ֣ת יֶדְכֶ֑ם וְנִדְרֵיכֶם֙ וְנִדְבֹ֣תֵיכֶ֔ם וּבְכֹרֹ֥ת בְּקַרְכֶ֖ם וְצֹאנְכֶֽם׃",
+      "en": "and there you are to bring your burnt offerings and other sacrifices, your tithes and contributions,cyour…contributions Lit. “the contribution(s) of your hands.” your votive and freewill offerings, and the firstlings of your herds and flocks.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וזבחיכם. שְׁלָמִים שֶׁל חוֹבָה:",
+          "en": "וזבחיהם AND YOUR SACRIFICES — Obligatory feast-offerings (cf. Sifrei Devarim 63:7)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מעשרתיכם. מַעְשַׂר בְּהֵמָה וּמַעֲשֵׂר שֵׁנִי, לֶאֱכֹל לִפְנִים מִן הַחוֹמָה:",
+          "en": "מעשרתיכם [THERE YOU SHALL BRING] YOUR TITHES — i.e. both the tithe of the cattle and the second tithe, in order to consume them within the wall(cf. Sifrei Devarim 63:8).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "תרומת ידכם. אֵלּוּ הַבִּכּוּרִים, שֶׁנֶּאֱמַר בָּהֶם (דברים כ\"ו) וְלָקַח הַכֹּהֵן הַטֶּנֶא מִיָּדֶךָ (עי' ספרי):",
+          "en": "תרומת ידכם THE HEAVE-OFFERING OF YOUR HAND — These are the first-fruits of which it is said, (Deuteronomy 26:4) “And the priest shall take the basket out of thine hand” (cf. Sifrei Devarim 63:9).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ובכרת בקרכם. לְתִתָּם לַכֹּהֵן וְיַקְרִיבֵם שָׁם:",
+          "en": "ובכרת בקרכם AND THE FIRSTLINGS OF YOUR HERD — in order to give them to the priest that he may offer them there.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:7",
+      "he": "וַאֲכַלְתֶּם־שָׁ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וּשְׂמַחְתֶּ֗ם בְּכֹל֙ מִשְׁלַ֣ח יֶדְכֶ֔ם אַתֶּ֖ם וּבָתֵּיכֶ֑ם אֲשֶׁ֥ר בֵּֽרַכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+      "en": "Together with your households, you shall feast there before the ETERNAL your God, happy in all the undertakings in which the ETERNAL your God has blessed you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אשר ברכך ה'. לְפִי הַבְּרָכָה הָבֵא (ספרי):",
+          "en": "אשר ברכך ה׳ ACCORDING AS THE LORD [YOUR GOD] HAS BLESSED YOU — in accordance with the blessing bring [the offerings of festive rejoicing] (Sifrei Devarim 64:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:8",
+      "he": "לֹ֣א תַעֲשׂ֔וּן כְּ֠כֹ֠ל אֲשֶׁ֨ר אֲנַ֧חְנוּ עֹשִׂ֛ים פֹּ֖ה הַיּ֑וֹם אִ֖ישׁ כׇּל־הַיָּשָׁ֥ר בְּעֵינָֽיו׃",
+      "en": "You shall not act at all as we now act here, everyonedeveryone I.e., every householder. as they please,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תעשון ככל אשר אנחנו עשים וגו'. מוּסָב לְמַעְלָה עַל כי אתם עברים את הירדן וגו', כְּשֶׁתַּעַבְרוּ אֶת הַיַּרְדֵּן מִיָּד אַתֶּם מֻתָּרִים לְהַקְרִיב בְּבָמָה כָּל י\"ד שָׁנָה שֶׁל כִּבּוּשׁ וְחִלּוּק, וּבַבָּמָה לֹא תַקְרִיבוּ כָּל מַה שֶּׁאַתֶּם מַקְרִיבִים פה היום בַּמִּשְׁכָּן, שֶׁהוּא עִמָּכֶם וְנִמְשַׁח וְהוּא כָשֵׁר לְהַקְרִיב בּוֹ חַטָּאוֹת וַאֲשָׁמוֹת נְדָרִים וּנְדָבוֹת, אֲבָל בְּבָמָה אֵין קָרֵב אֶלָּא הַנִּדָּר וְהַנִּדָּב, וְזֶהוּ איש כל הישר בעיניו, נְדָרִים וּנְדָבוֹת, שֶׁאַתֶּם מִתְנַדְּבִים עַ\"יְ שֶׁיָּשָׁר בְּעֵינֵיכֶם לַהֲבִיאָם וְלֹא עַ\"יְ חוֹבָה, אוֹתָם תַּקְרִיבוּ בַּבָּמָה (שם; זבחים קי\"ז):",
+          "en": "לא תעשון ככל אשר אנחנו עשים וגו׳ YE SHALL NOT DO AFTER ALL [THE THINGS] THAT WE DO [HERE THIS DAY] — This refers back to what is stated above (Deuteronomy 11:31) “for ye shall pass over the Jordan etc.”, the meaning being: when ye have crossed the Jordan, you are at once permitted to offer on Bamahs, during all the fourteen years of subjugating and dividing the land amongst the tribes: but on these Bamahs you must not sacrifice all that you sacrifice “here this day”, in the Tabernacle that is with you and that has been anointed and is thus fit to offer sin and guilt offerings and vows and free-will offerings on it, whilst on a Bamah only that may be sacrificed which has been made the subject of a vow or a free-will offering. And that is the meaning of איש כל הישר בעיניו, “every man whatsoever is right in his eyes” — vows and free-will offerings which you dedicate because it is pleasing in your eyes to bring them, and not because of an obligation imposed upon you, such may you offer on Bamahs, but not sacrifices that are to be offered in consequence of an obligation (sin and guilt offerings) (Sifrei Devarim 65:4; Zevachim 117b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:9",
+      "he": "כִּ֥י לֹא־בָאתֶ֖ם עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּחֲלָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
+      "en": "because you have not yet come to the allotted haven that the ETERNAL your God is giving you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי לא באתם. כָּל אוֹתָן י\"ד שָׁנָה:",
+          "en": "כי לא באתם FOR YE SHALL NOT HAVE COME [UNTO THE REST] all those fourteen years of conquering and dividing the land.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עד עתה. כְּמוֹ עֲדַיִן:",
+          "en": "עד עתה is the same as “by that time”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אל המנוחה. זוֹ שִׁילֹה:",
+          "en": "אל המנוחה [FOR YE SHALL NOT HAVE COME YET] TO THE REST — This refers to Shiloh (Sifrei Devarim 66:2),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "נחלה. זוֹ יְרוּשָׁלַיִם (ספרי; זבחים קי\"ט):",
+          "en": "נחלה [AND TO] THE INHERITANCE — This refers to Jerusalem (Sifrei Devarim 66:2; Zevachim 119a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:10",
+      "he": "וַעֲבַרְתֶּם֮ אֶת־הַיַּרְדֵּן֒ וִֽישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם מַנְחִ֣יל אֶתְכֶ֑ם וְהֵנִ֨יחַ לָכֶ֧ם מִכׇּל־אֹיְבֵיכֶ֛ם מִסָּבִ֖יב וִֽישַׁבְתֶּם־בֶּֽטַח׃",
+      "en": "When you cross the Jordan and settle in the land that the ETERNAL your God is allotting to you, and you are granted safety from all your enemies around you and you live in security,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ועברתם את הירדן וישבתם בארץ. שֶׁתְּחַלְּקוּהָ וִיהֵא כָל אֶחָד מַכִּיר אֶת חֶלְקוֹ וְאֶת שִׁבְתּוֹ (נ\"א – שִׁבְטוֹ):",
+          "en": "ועברתם את הירדן וישבתם בארץ BUT WHEN YE GO OVER THE JORDAN, AND SETTLE IN THE LAND — This means, that ye shall have divided it amongst the tribes and every man knows his portion and the territory of his tribe,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והניח לכם. לְאַחַר כִּבּוּשׁ וְחִלּוּק וּמְנוּחָה מִן הַגּוֹיִם אֲשֶׁר הִנִּיחַ ה' לְנַסּוֹת בָּם אֶת יִשְׂרָאֵל – וְאֵין זוֹ אֶלָּא בִּימֵי דָוִד – אָז:",
+          "en": "והניח לכם AND WHEN HE GIVETH YOU REST — i.e., after having conquered and divided the land and having obtained rest from the nations “which the Lord left by which to prove Israel” (Judges 3:1) — which was only in the days of David (cf. Sifrei Devarim 68:3) — then,",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:11",
+      "he": "וְהָיָ֣ה הַמָּק֗וֹם אֲשֶׁר־יִבְחַר֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֥ם בּוֹ֙ לְשַׁכֵּ֤ן שְׁמוֹ֙ שָׁ֔ם שָׁ֣מָּה תָבִ֔יאוּ אֵ֛ת כׇּל־אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֣ה אֶתְכֶ֑ם עוֹלֹתֵיכֶ֣ם וְזִבְחֵיכֶ֗ם מַעְשְׂרֹֽתֵיכֶם֙ וּתְרֻמַ֣ת יֶדְכֶ֔ם וְכֹל֙ מִבְחַ֣ר נִדְרֵיכֶ֔ם אֲשֶׁ֥ר תִּדְּר֖וּ לַיהֹוָֽה׃",
+      "en": "then you must bring everything that I command you to the site where the ETERNAL your God will choose to establish the divine name: your burnt offerings and other sacrifices, your tithes and contributions,eyour…contributions See note at v. 6. and all the choice votive offerings that you vow to GOD.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והיה המקום וגו'. בְּנוּ לָכֶם בֵּית הַבְּחִירָה בִּירוּשָׁלַיִם, וְכֵן הוּא אוֹמֵר בְּדָוִד \"וַיְהִי כִּי יָשַׁב הַמֶּלֶךְ בְּבֵיתוֹ וַה' הֵנִיחַ לוֹ מִסָּבִיב מִכָּל אוֹיְבָיו וַיֹּאמֶר הַמֶּלֶךְ אֶל נָתָן הַנָּבִיא רְאֵה אָנֹכִי יוֹשֵׁב בְּבֵית אֲרָזִים, וַאֲרוֹן הָאֱלֹהִים יֹשֵׁב בְּתוֹךְ הַיְרִיעָה\" (שמואל ב ז'):",
+          "en": "והיה המקום וגו׳ IT SHALL BE [THAT YE SHALL BRING TO] THE PLACE [WHICH THE LORD YOUR GOD SHALL CHOOSE … EVEN THITHER YE SHALL BRING ALL THAT I COMMAND YOU] — then build the “Chosen House” for yourselves in Jerusalem. And so indeed it states of David, (II Samuel 7:1, 2): “And it came to pass when the king sat in his house, and the Lord had given him rest round about from all his enemies, that the king said unto Nathan the prophet, ‘See now, I dwell in the house of cedar, but the Ark of God dwelleth within curtains …'” (Sifrei Devarim 67:3; cf. Rashi on that verse).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שמה תביאו וגו'. לְמַעְלָה אָמוּר לְעִנְיַן שִׁילֹה וְכָאן אָמוּר לְעִנְיַן יְרוּשָׁלַיִם, וּלְכָךְ חִלְּקָם הַכָּתוּב לִתֵּן הֶתֵּר בֵּין זוֹ לְזוֹ, מִשֶּׁחָרְבָה שִׁילֹה וּבָאוּ לְנֹב וְחָרְבָה נֹב וּבָאוּ לְגִבְעוֹן הָיוּ הַבָּמוֹת מֻתָּרוֹת עַד שֶׁבָּאוּ לִירוּשָׁלַיִם (זבחים קיט):",
+          "en": "שמה תביאו THITHER SHALL YE BRING [ALL THAT I COMMAND YOU] — Above (v. 6) it (the same expression) is said in reference to Shiloh, but here it is said in reference to Jerusalem. It is for the following reason that Scripture divides the matter into two paragraphs: to give permission to offer on a Bamah in the intermediate period between the existence of the one sanctuary and the other; viz., that after Shiloh was destroyed and they came to Nob and erected the Tabernacle there, and then again when Nob was destroyed and they came to Gibeon, sacrificing on the Bamah was allowed until they finally came to Jerusalem (Zevachim 119a and Mishnah Zevachim 14:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מבחר נדריכם. מְלַמֵּד שֶׁיָּבִיא מִן הַמֻּבְחָר (ספרי):",
+          "en": "מבחר נדריכם YOUR CHOICE VOWS — This teaches that one should bring one’s offerings from the choicest (Sifrei Devarim 68:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:12",
+      "he": "וּשְׂמַחְתֶּ֗ם לִפְנֵי֮ יְהֹוָ֣ה אֱלֹֽהֵיכֶם֒ אַתֶּ֗ם וּבְנֵיכֶם֙ וּבְנֹ֣תֵיכֶ֔ם וְעַבְדֵיכֶ֖ם וְאַמְהֹתֵיכֶ֑ם וְהַלֵּוִי֙ אֲשֶׁ֣ר בְּשַֽׁעֲרֵיכֶ֔ם כִּ֣י אֵ֥ין ל֛וֹ חֵ֥לֶק וְנַחֲלָ֖ה אִתְּכֶֽם׃",
+      "en": "And youfyou See note at v. 5. shall rejoice before the ETERNAL your God with your sons and daughters and with your male and female slaves, along with the Levitegthe Levite I.e., he and his household. in your settlements, for he has no territorial allotment among you.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 12:13",
+      "he": "הִשָּׁ֣מֶר לְךָ֔ פֶּֽן־תַּעֲלֶ֖ה עֹלֹתֶ֑יךָ בְּכׇל־מָק֖וֹם אֲשֶׁ֥ר תִּרְאֶֽה׃",
+      "en": "Take care not to sacrifice your burnt offerings in any place you like,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "השמר לך. לִתֵּן לֹא תַעֲשֶׂה עַל הַדָּבָר:",
+          "en": "השמר לך TAKE HEED TO THYSELF [LEST THOU OFFER THY BURNT OFFERINGS IN EVERY PLACE THAT THOU SEEST] — This negative form of the positive command in v. 11, is stated in order to attach a negative command (לאו) to this matter (Sifrei Devarim 70:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בכל מקום אשר תראה. אֲשֶׁר יַעֲלֶה בְּלִבְּךָ, אֲבָל אַתָּה מַקְרִיב עַ\"פִּ נָבִיא, כְּגוֹן אֵלִיָּהוּ בְּהַר הַכַּרְמֶל (שם):",
+          "en": "בכל מקום אשר תראה IN EVERY PLACE THAT “THOU” SEEST — i.e., that enters thy mind, but thou mayest offer anywhere by the command of a prophet, as, for instance, Elijah did on Mount Carmel (1 Kings 18:21 ff.) (Sifrei Devarim 70:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:14",
+      "he": "כִּ֣י אִם־בַּמָּק֞וֹם אֲשֶׁר־יִבְחַ֤ר יְהֹוָה֙ בְּאַחַ֣ד שְׁבָטֶ֔יךָ שָׁ֖ם תַּעֲלֶ֣ה עֹלֹתֶ֑יךָ וְשָׁ֣ם תַּעֲשֶׂ֔ה כֹּ֛ל אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּֽךָּ׃",
+      "en": "but only in the place that GOD will choose in one of your tribal territories. There youhyou See note at v. 5. shall sacrifice your burnt offerings and there you shall observe all that I enjoin upon you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "באחד שבטיך. בְּחֶלְקוֹ שֶׁל בִּנְיָמִין, וּלְמַעְלָה הוּא אוֹמֵר \"מִכָּל שִׁבְטֵיכֶם\", הָא כֵיצַד? כְּשֶׁקָּנָה דָּוִד אֶת הַגֹּרֶן מֵאֲרַוְנָה הַיְבוּסִי גָּבָה הַזָּהָב מִכָּל הַשְּׁבָטִים, וּמִכָּל מָקוֹם הַגֹּרֶן בְּחֶלְקוֹ שֶׁל בִּנְיָמִין הָיָה (שם):",
+          "en": "באחד שבטיך [BUT IN THE PLACE WHICH THE LORD SHALL CHOOSE] IN ONE OF THY TRIBES — namely in the allotment of Benjamin (in whose territory the Temple stood). But above (v. 5) it states, “the place which the Lord … shall choose from all your tribes”? How can this be reconciled with that? In the following manner: when David bought the threshing-floor from Araunah the Jebusite (II Samuel 24:24) to build the Temple thereon, he collected money from all the tribes; however, the threshing-floor itself was situated in the territory of Benjamin (Sifrei Devarim 62:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:15",
+      "he": "רַק֩ בְּכׇל־אַוַּ֨ת נַפְשְׁךָ֜ תִּזְבַּ֣ח&thinsp;׀ וְאָכַלְתָּ֣ בָשָׂ֗ר כְּבִרְכַּ֨ת יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֲשֶׁ֥ר נָֽתַן־לְךָ֖ בְּכׇל־שְׁעָרֶ֑יךָ הַטָּמֵ֤א וְהַטָּהוֹר֙ יֹאכְלֶ֔נּוּ כַּצְּבִ֖י וְכָאַיָּֽל׃",
+      "en": "But whenever you desire, you may slaughter and eat meat in any of your settlements, according to the blessing that the ETERNAL your God has granted you. The impure and the pure alike may partake of it, as of the gazelle and the deer.igazelle…deer I.e., animals that may be eaten (cf. 14.5; Lev. 11.1ff.), but not sacrificed (Lev. 1.1ff.).",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק בכל אות נפשך. בַּמֶּה הַכָּתוּב מְדַבֵּר? אִם בִּבְשַׂר תַּאֲוָה לְהַתִּירָהּ לָהֶם בְּלֹא הַקְרָבַת אֵמוּרִים הֲרֵי אָמוּר בְּמָקוֹם אַחֵר (פסוק כ') \"כִּי יַרְחִיב ה' אֶת גְּבוּלְךָ וְגוֹ' וְאָמַרְתָּ אֹכְלָה בָשָׂר וְגוֹ'\", בַּמֶּה זֶה מְדַבֵּר? בְּקָדָשִׁים שֶׁנָּפַל בָּהֶם מוּם שֶׁיִּפָּדוּ וְיֵאָכְלוּ בְּכָל מָקוֹם, יָכוֹל יִפָּדוּ עַל מוּם עוֹבֵר? תַּ\"לֹ \"רַק\" (ספרי):",
+          "en": "רק בכל אות נפשך HOWEVER [THOU MAYEST SLAUGHTER AND EAT FLESH IN ALL THY GATES] IN EVERY LONGING OF THY SOUL — About what is Scripture here speaking? If you say that it speaks about בשר תאוה (flesh eaten for satisfying the appetite — an ordinary meal of meat and not a sacrificial meal) and that this verse is intended to permit it to them without offering the fat portions on the altar, behold, it states in another passage (v. 20) “When the Lord thy God shall enlarge thy boundary … and thou shalt say, I will eat flesh, [because thy soul longeth to eat flesh; thou mayest eat flesh in every longing of thy soul]”! About what, then, is this verse speaking? About consecrated animals which had become blemished, — that they must be redeemed and may then be eaten in anyplace (בכל שעריך). One might think that they may be redeemed and thus divested of their holy character also on account of a transitory blemish! Scripture, however, uses the expression רק (which word has a limitative force) (Sifrei Devarim 71:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "תזבח ואכלת. אֵין לְךָ בָהֶם הֶתֵּר גִּזָּה וְחָלָב אֶלָּא אֲכִילָה עַל יְדֵי זְבִיחָה (בכ' ו'):",
+          "en": "תזבח ואכלת THOU MAYEST SLAUGHTER AND EAT [FLESH] — You have no permission to use their fleece or milk (those of consecrated animals that had become blemished), but only the eating of their flesh after ritual slaughtering is permitted (cf. Sifrei Devarim 71:2-3; Bekhorot 15b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "הטמא והטהר. לְפִי שֶׁבָּאוּ מִכֹּחַ קָדָשִׁים שֶׁנֶּאֱמַר בָּהֶם \"וְהַבָּשָׂר אֲשֶׁר יִגַּע בְּכָל טָמֵא לֹא יֵאָכֵל\" (ויקרא ז'), הֻצְרַךְ לְהַתִּיר בּוֹ שֶׁטָּמֵא וְטָהוֹר אוֹכְלִים בִּקְעָרָה אַחַת:",
+          "en": "הטמא והטהור THE UNCLEAN AND THE CLEAN [MAY EAT THEREOF] — Because they (the consecrated animals that had become blemished) came to their present status by virtue of once having been consecrated animals, of which it is stated, (Leviticus 7:19) “And the flesh of offerings that toucheth any unclean thing shall not be eaten”, it felt it necessary explicitly to permit in their case that an unclean and a clean person may eat out of the same dish (i.e. together) (cf. Sifrei Devarim 71:7),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "כצבי וכאיל. שֶׁאֵין קָרְבָּן בָּא מֵהֶם:",
+          "en": "כצבי וכאיל AS OF THE GAZELLE AND OF THE HART of which no sacrifice is ever brought.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "כצבי וכאיל. לְפָטְרָן מִן הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה (ספרי):",
+          "en": "כצבי וכאיל AS OF THE GAZELLE, AND OF THE HART — These apparently redundant words are intended to exempt them (the פסולי המקדשין שנפדו) from the dues of “the shoulder, the two cheeks and the maw” (Deuteronomy 18:3) which are compulsory gifts to the priests in the case of non-holy (חולין) animals (Chullin 130a; Sifrei Devarim 71:9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:16",
+      "he": "רַ֥ק הַדָּ֖ם לֹ֣א תֹאכֵ֑לוּ עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃",
+      "en": "But you must not partake of the blood; you shall pour it out on the ground like water.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק הדם לא תאכלו. אַעַ\"פִּ שֶׁאָמַרְתִּי שֶׁאֵין לְךָ בוֹ זְרִיקַת דָּם בַּמִּזְבֵּח, לֹא תֹּאכְלֶנּוּ:",
+          "en": "רק הדם לא תאכלו ONLY YE SHALL NOT EAT THE BLOOD — Although I have told you that there is no sprinkling of blood on the altar in its case (it being blemished and thus unfit for the altar), you shall nevertheless not eat it.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "תשפכנו כמים. לוֹמַר לְךָ שֶׁאֵין צָרִיךְ כִּסּוּי (ספרי; חולין פ\"ד). דָּ\"אַ — הֲרֵי הוּא כַמַּיִם לְהַכְשִׁיר אֶת הַזְּרָעִים (שם ל\"ה):",
+          "en": "תשפכנו כמים YE SHALL POUR IT [UPON THE EARTH] AS WATER — This latter word is intended to tell you that although they are compared to these חיות, yet it (the blood) requires no covering with dust as prescribed in the case of these חיות in Leviticus 17:13 (Sifrei Devarim 71:15; Chullin 84a). Another explanation is that the word כמים is intended to suggest: It is like water in so far as to make seed (food) receptive to uncleanness just as water does (cf. Leviticus 11:38) (Sifrei Devarim 71:15; Chullin 35b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:17",
+      "he": "לֹֽא־תוּכַ֞ל לֶאֱכֹ֣ל בִּשְׁעָרֶ֗יךָ מַעְשַׂ֤ר דְּגָֽנְךָ֙ וְתִירֹשְׁךָ֣ וְיִצְהָרֶ֔ךָ וּבְכֹרֹ֥ת בְּקָרְךָ֖ וְצֹאנֶ֑ךָ וְכׇל־נְדָרֶ֙יךָ֙ אֲשֶׁ֣ר תִּדֹּ֔ר וְנִדְבֹתֶ֖יךָ וּתְרוּמַ֥ת יָדֶֽךָ׃",
+      "en": "You may not partake in your settlements of the tithes of your new grain or wine or oil, or of the firstlings of your herds and flocks, or of any of the votive offerings that you vow, or of your freewill offerings, or of your contributions.jyour contributions See note at v. 6.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תוכל. בָּא הַכָּתוּב לִתֵּן לֹא תַעֲשֶׂה עַל הַדָּבָר:",
+          "en": "לא תוכל THOU MAYEST NOT [EAT WITHIN THY GATES THE TITHE OF THY CORN etc.] — Scripture thereby intends to attach to this matter (the eating of מעשר בכור etc. outside the walls of Jerusalem) a negative command also (the positive command being contained in v. 11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לא תוכל. רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה אוֹמֵר יָכוֹל אַתָּה, אֲבָל אֵינְךָ רַשַּׁאי, כַּיּוֹצֵא בוֹ (יהושע ט\"ו) \"וְאֶת הַיְבוּסִי יוֹשְׁבֵי יְרוּשָׁלַיִם לֹא יָכְלוּ בְנֵי יִשְׂרָאֵל (יְהוּדָה) לְהוֹרִישָׁם\", יְכוֹלִים הָיוּ, אֶלָּא שֶׁאֵינָן רַשָּׁאִין לְפִי שֶׁכָּרַת לָהֶם אַבְרָהָם בְּרִית כְּשֶׁלָּקַח מֵהֶם מְעָרַת הַמַּכְפֵּלָה; וְלֹא יְבוּסִים הָיוּ, אֶלָּא חִתִּיִּים הָיוּ, אֶלָּא עַל שֵׁם הָעִיר שֶׁשְּׁמָהּ יְבוּס, כָּךְ מְפֹרָשׁ בְּפִרְקֵי דְּרַבִּי אֱלִיעֶזֶר (פ' ל\"ו), וְהוּא שֶׁנֶּאֱמַר \"כִּי אִם הֱסִירְךָ הָעִוְרִים וְהַפִּסְחִים\" (שמואל ב ה') – צְלָמִים שֶׁכָּתְבוּ עֲלֵיהֶם אֶת הַשְּׁבוּעָה:",
+          "en": "לא תוכל THOU MAYEST NOT (lit., thou canst not) [EAT etc.] — Rabbi Joshua the son of Korcha said: You can, but you are not allowed to (i.e. לא תוכל does not mean: you are unable for some reason or another to do so, but it expresses the inability to do it because of a legal restriction). A similar case we have in (Joshua 15:63) “As to the Jebusites, the inhabitants of Jerusalem, the children of Judah could not drive them out” — they could have done so, but they were not allowed to (Sifrei Devarim 72:1); because Abraham had made a covenant with them when he bought from them the cave of Machpelah that they would be spared at the conquest of the Land. — As a matter fact they were not Jebusites but Hittites (the people mentioned in Genesis 23 at the purchase of the cave), but they were called Jebusites after the city the name of which was Jebus. Thus is it explained in the Pirkei DeRabbi Eliezer 36. And this is the meaning of what is stated, that when David was about to drive out the Jebusites, they said to him (II Samuel 5:6) “Except thou take away the blind and the lame [thou shalt not come in hither]” — by “the blind and the lame” they meant the idols (that stood at the gates) upon which they had written the oath which Abraham had taken.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ובכרת בקרך. אַזְהָרָה לַכֹּהֲנִים:",
+          "en": "ובכרת בקרך [THOU MAYEST NOT EAT WITHIN THY GATES THE TITHE OF THY CORN …] AND THE FIRSTLINGS OF THY HERD — This, in contradistinction to מעשר דגנך וכו׳, is of course a prohibition addressed to the priests (since the Israelites were not at all permitted to eat firstlings; cf. Zevachim 5:1: הבכור נאכל לכהנים והמעשר לכל אדם).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ותרומת ידך. אֵלּוּ הַבִּכּוּרִים (ספרי; מכות י\"ז):",
+          "en": "‎ ותרומת ידך AND THE HEAVE-OFFERINGS OF THY HAND — This refers to the first-fruits (cf. Deuteronomy 26:4) (Sifrei Devarim 72:9; Makkot 17a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:18",
+      "he": "כִּ֡י אִם־לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ תֹּאכְלֶ֗נּוּ בַּמָּקוֹם֙ אֲשֶׁ֨ר יִבְחַ֜ר יְהֹוָ֣ה אֱלֹהֶ֘יךָ֮ בּוֹ֒ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֖י אֲשֶׁ֣ר בִּשְׁעָרֶ֑יךָ וְשָׂמַחְתָּ֗ לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃",
+      "en": "These you must consume before the ETERNAL your God in the place that the ETERNAL your God will choose—youkyou See note at v. 5. and your sons and your daughters, your male and female slaves, and the Levitelthe Levite See the second note at v. 12. in your settlements—happy before the ETERNAL your God in all your undertakings.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לפני ה'. לִפְנִים מִן הַחוֹמָה:",
+          "en": "לפני ה׳ [BUT THOU MUST EAT THEM] BEFORE THE LORD — i.e. within the walls of the city of Jerusalem.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והלוי אשר בשעריך. אִם אֵין לְךָ לָתֵת לוֹ מֵחֶלְקוֹ, כְּגוֹן מַעֲשֵׂר רִאשׁוֹן, תֵּן לוֹ מַעְשַׂר עָנִי, אֵין לְךָ מַעְשַׂר עָנִי, הַזְמִינֵהוּ עַל שְׁלָמֶיךָ (ספרי):",
+          "en": "והלוי אשר בשעריך [BUT THOU MUST EAT THEM BEFORE THE LORD, THOU …] AND THE LEVITE THAT IS WITHIN THY GATES — If you have nought to give him that is due to him as his portion, as, for instance, the first tithe, give him the “tithe of the poor” (the tithe that replaces the “second tithe” in the 3rd and 6th year of the Sabbatical period); and if you have no “tithe of the poor”, invite him to your feast-offering meal (Sifrei Devarim 74:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:19",
+      "he": "הִשָּׁ֣מֶר לְךָ֔ פֶּֽן־תַּעֲזֹ֖ב אֶת־הַלֵּוִ֑י כׇּל־יָמֶ֖יךָ עַל־אַדְמָתֶֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Be sure not to neglect the Levite as long as you live in your land.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "השמר לך. לִתֵּן לֹא תַעֲשֶׂה עַל הַדָּבָר (ספרי):",
+          "en": "השמר לך TAKE HEED TO THYSELF [LEST THOU FORSAKE THE LEVITE] — This is intended in addition to the positive command expressed in the previous verse, to attach to it (the neglect of the Levite) a negative command, also.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "על אדמתך. אֲבָל בַּגּוֹלָה אֵינְךָ מֻזְהָר עָלָיו יוֹתֵר מֵעֲנִיֵּי יִשְׂרָאֵל (שם):",
+          "en": "על אדמתך [TAKE HEED TO THYSELF LEST THOU FORSAKE THE LEVITE] UPON THY GROUND — but in exile (outside the Holy Land) you are not admonished as regards him more than as regards the poor of the ordinary Israelites (Sifrei Devarim 74:9; Talmud Yerushalmi Horayot end).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:20",
+      "he": "כִּֽי־יַרְחִיב֩ יְהֹוָ֨ה אֱלֹהֶ֥יךָ אֶֽת־גְּבֻלְךָ֮ כַּאֲשֶׁ֣ר דִּבֶּר־לָךְ֒ וְאָמַרְתָּ֙ אֹכְלָ֣ה בָשָׂ֔ר כִּֽי־תְאַוֶּ֥ה נַפְשְׁךָ֖ לֶאֱכֹ֣ל בָּשָׂ֑ר בְּכׇל־אַוַּ֥ת נַפְשְׁךָ֖ תֹּאכַ֥ל בָּשָֽׂר׃",
+      "en": "When GOD enlarges your territory, as promised, and you say, “I shall eat some meat,” for you have the urge to eat meat, you may eat meat whenever you wish.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי ירחיב וגו'. לִמְּדָה תוֹרָה דֶּרֶךְ אֶרֶץ שֶׁלֹּא יִתְאַוֶּה אָדָם לֶאֱכֹל בָּשָׂר אֶלָּא מִתּוֹךְ רַחֲבַת יָדַיִם וְעֹשֶׁר (חולין פ\"ד):",
+          "en": "כי ירחיב וגו׳ WHEN [THE LORD THY GOD] SHALL ENLARGE [YOUR BOUNDARY … AND YOU SHALL SAY, I WILL EAT FLESH … YOU MAY EAT FLESH] — The Torah teaches the proper rule of life — that one should not desire to eat flesh unless he lives amidst abundance and wealth (cf. Sifrei Devarim 75:5; Chullin 84a; see also Rashi on Leviticus 17:13).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כל אות נפשך וגו'. אֲבָל בַּמִּדְבָּר נֶאֱסַר לָהֶם בְּשַׂר חֻלִּין אֶלָּא אִם כֵּן מַקְדִּישָׁהּ וּמַקְרִיבָהּ שְׁלָמִים (שם ט\"ז):",
+          "en": "בכל אות נפשך וגו׳ [YOU MAY EAT FLESH] IN EVERY LONGING OF YOUR SOUL — In the wilderness, however, the flesh of a non-holy animal was forbidden to them as food, unless one first dedicated it to the altar and offered it as a peace-offering (Sifrei Devarim 75:4; Chullin 16b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:21",
+      "he": "כִּֽי־יִרְחַ֨ק מִמְּךָ֜ הַמָּק֗וֹם אֲשֶׁ֨ר יִבְחַ֜ר יְהֹוָ֣ה אֱלֹהֶ֘יךָ֮ לָשׂ֣וּם שְׁמ֣וֹ שָׁם֒ וְזָבַחְתָּ֞ מִבְּקָרְךָ֣ וּמִצֹּֽאנְךָ֗ אֲשֶׁ֨ר נָתַ֤ן יְהֹוָה֙ לְךָ֔ כַּאֲשֶׁ֖ר צִוִּיתִ֑ךָ וְאָֽכַלְתָּ֙ בִּשְׁעָרֶ֔יךָ בְּכֹ֖ל אַוַּ֥ת נַפְשֶֽׁךָ׃",
+      "en": "If the place where GOD has chosen to establish the divine name is too far from you, you may slaughter any of the cattle or sheep that GOD gives you, as I have instructed you; and you may eat to your heart’s content in your settlements.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי ירחק ממך המקום. וְלֹא תוּכַל לָבֹא וְלַעֲשׂוֹת שְׁלָמִים בְּכָל יוֹם כְּמוֹ עַכְשָׁו שֶׁהַמִּשְׁכָּן הוֹלֵךְ עִמָּכֶם:",
+          "en": "כי ירחק ממך המקום IF THE PLACE [WHICH THE LORD THY GOD HAS CHOSEN TO PUT HIS NAME THERE] BE TOO FAR FROM THEE and thou therefore art unable to come and prepare peace-offerings at any time, as thou doest now when the Tabernacle accompanies you,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וזבחת … כאשר צויתך. לָמַדְנוּ שֶׁיֵּשׁ צִוּוּי בַּזְּבִיחָה הֵיאַךְ יִשְׁחֹט, וְהֵן הִלְכוֹת שְׁחִיטָה שֶׁנֶּאֶמְרוּ לְמֹשֶׁה בְּסִינַי (שם כ\"ח):",
+          "en": "וזבחת … כאשר צויתך THEN THOU MAYEST SLAUGHTER … AS I HAVE COMMANDED THEE — This teaches us that there was already a commandment regarding the slaughtering of animals — as to how one should slaughter; it is not written in the Torah but it comprises the traditional regulations regarding the slaughter of animals that were given orally (נאמרו) to Moses on Mount Sinai (Sifrei Devarim 75:7; Chullin 28a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:22",
+      "he": "אַ֗ךְ כַּאֲשֶׁ֨ר יֵאָכֵ֤ל אֶֽת־הַצְּבִי֙ וְאֶת־הָ֣אַיָּ֔ל כֵּ֖ן תֹּאכְלֶ֑נּוּ הַטָּמֵא֙ וְהַטָּה֔וֹר יַחְדָּ֖ו יֹאכְלֶֽנּוּ׃",
+      "en": "Eat it, however, as the gazelle and the deer are eaten: the impure may eat it together with the pure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אך כאשר יאכל את הצבי וגו'. אֵינְךָ מֻזְהָר לְאָכְלָן בְּטָהֳרָה, אִי מַה צְּבִי וְאַיָּל חֶלְבָּן מֻתָּר אַף חֻלִּין חֶלְבָּן מֻתָּר? תַּ\"לֹ \"אַךְ\":",
+          "en": "אך כאשר יאכל את הצבי וגו׳ BUT ONLY AS THE GAZELLE [AND THE HART] IS EATEN, [SO THOU SHALT EAT THEM] — i.e. thou art not admonished to eat them in a state of cleanness as is the case with sacrifices which you slaughter in a holy place; if, however, you will argue: How is the case with the gazelle and the hart? Their fat is permitted as food; so, too, is the fat of non-consecrated domestic animals (חולין) permitted! Then I reply: Scripture says אך (which word has a limitative force and thus indicates that חולין are not to be treated like the gazelle and the hart in every respect) (cf. Bekhorot 15a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:23",
+      "he": "רַ֣ק חֲזַ֗ק לְבִלְתִּי֙ אֲכֹ֣ל הַדָּ֔ם כִּ֥י הַדָּ֖ם ה֣וּא הַנָּ֑פֶשׁ וְלֹא־תֹאכַ֥ל הַנֶּ֖פֶשׁ עִם־הַבָּשָֽׂר׃",
+      "en": "But make sure that you do not partake of the blood; for the blood is the life, and you must not consume the life with the flesh.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק חזק לבלתי אכל הדם. מִמַּה שֶּׁנֶּאֱמַר חֲזַק אַתָּה לָמֵד שֶׁהָיוּ שְׁטוּפִים בַּדָּם לְאָכְלוֹ, לְפִיכָךְ הֻצְרַךְ לוֹמַר חֲזַק דִּבְרֵי רַבִּי יְהוּדָה, רַ' שִׁמְעוֹן בֶּן עֲזַאי אוֹמֵר לֹא בָא הַכָּתוּב אֶלָּא לְהַזְהִירְךָ וּלְלַמֶּדְךָ עַד כַּמָּה אַתָּה צָרִיךְ לְהִתְחַזֵּק בַּמִּצְווֹת, אִם הַדָּם שֶׁהוּא קַל לְהִשָּׁמֵר מִמֶּנּוּ שֶׁאֵין אָדָם מִתְאַוֶּה לוֹ, הֻצְרַךְ לְחַזֶּקְךָ בְאַזְהָרָתוֹ, קַ\"וָ לִשְׁאָר מִצְווֹת (עי' ספרי):",
+          "en": "רק חזק לבלתי אכל הדם ONLY BE STRONG THAT THOU EAT NOT THE BLOOD — From the fact that it states, “Be strong” (make a special effort), you may learn that they had a prediliction to blood — to the eating of it; it was therefore necessary to state, “be strong”. This is the view of R. Judah. R. Simeon, the son of Azzai, however, says: Scripture merely intends to caution you and to teach you to what great an extent you must strive to fulfil the divine commandments in general. If, as regards blood from which one can easily keep aloof since one does not long for it, it felt it necessary to insist on a strong effort on your part when forbidding it to you, how much the more is it necessary for you to make great efforts in keeping other commands [the fulfillment of which requires much moral strength] (cf. Sifrei Devarim 76:1-3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ולא תאכל הנפש עם הבשר. אַזְהָרָה לְאֵבֶר מִן הַחַי (חולין ק\"ב):",
+          "en": "ולא תאכל הנפש עם הבשר AND THOU MAYEST NOT EAT THE LIFE WITH THE FLESH — This is a prohibition of אבר מן החי, the eating of a limb cut from a living animal (Sifrei Devarim 76:5; Chullin 102a; cf. Rashi on Genesis 9:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:24",
+      "he": "לֹ֖א תֹּאכְלֶ֑נּוּ עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃",
+      "en": "You must not partake of it; you must pour it out on the ground like water:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תאכלנו. אַזְהָרָה לְדַם הַתַּמְצִית (כריתות ד'):",
+          "en": "לא תאכלנו THOU SHALT NOT EAT IT — This is a prohibition against the eating of דם התמצית (the last blood oozing through the cut of a vein: תמצית from מצה “to squeeze”) (Keritot 4b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:25",
+      "he": "לֹ֖א תֹּאכְלֶ֑נּוּ לְמַ֨עַן יִיטַ֤ב לְךָ֙ וּלְבָנֶ֣יךָ אַחֲרֶ֔יךָ כִּֽי־תַעֲשֶׂ֥ה הַיָּשָׁ֖ר בְּעֵינֵ֥י יְהֹוָֽה׃",
+      "en": "you must not partake of it, in order that it may go well with you and with your descendants to come, for you will be doing what is right in GOD’s sight.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תאכלנו. אַזְהָרָה לְדַם הָאֵבָרִים (שם):",
+          "en": "לא תאכלנו THOU SHALT NOT EAT IT — This is a prohibition against eating of the blood contained in the limbs (Keritot 4b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "למען ייטב לך וגו'. צֵא וּלְמַד מַתַּן שְׂכָרָן שֶׁל מִצְווֹת, אִם הַדָּם שֶׁנַּפְשׁוֹ שֶׁל אָדָם קָצָה מִמֶּנּוּ, הַפּוֹרֵשׁ מִמֶּנּוּ זוֹכֶה לוֹ וּלְבָנָיו אַחֲרָיו, קַל וָחֹמֶר לְגֶזֶל וַעֲרָיוֹת שֶׁנַּפְשׁוֹ שֶׁל אָדָם מִתְאַוָּה לָהֶם (מכות כ\"ג):",
+          "en": "למען ייטב לך וגו׳ THAT IT MAY BE WELL WITH THEE, etc. — Go and learn how great is the grant of reward for keeping the divine commandments: if in the case of blood for which the soul of man feels a loathing, he who keeps aloof from it obtains merit for himself and for his children after him, how much the more is it so in the case of robbery or forbidden sexual relations for which the soul of man may feel a longing (Makkot 23b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:26",
+      "he": "רַ֧ק קׇֽדָשֶׁ֛יךָ אֲשֶׁר־יִהְי֥וּ לְךָ֖ וּנְדָרֶ֑יךָ תִּשָּׂ֣א וּבָ֔אתָ אֶל־הַמָּק֖וֹם אֲשֶׁר־יִבְחַ֥ר יְהֹוָֽה׃",
+      "en": "But such sacred and votive donations as you may have shall be taken by youmshall be taken by you Lit. “you shall pick up and come.” to the site that GOD will choose.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק קדשיך. אַעַ\"פִּ שֶׁאַתָּה מֻתָּר לִשְׁחֹט חֻלִּין, לֹא הִתַּרְתִּי לְךָ לִשְׁחֹט אֶת הַקֳּדָשִׁים וּלְאָכְלָן בִּשְׁעָרֶיךָ בְּלֹא הַקְרָבָה, אֶלָּא הֲבִיאֵם לְבֵית הַבְּחִירָה:",
+          "en": "רק קדשיך ONLY (i.e. however) THY HOLY THINGS [… THOU SHALT BEAR AND GO UNTO THE PLACE WHICH THE LORD SHALL CHOOSE] — This means: although you are permitted to slaughter non-holy animals I do not permit you to slaughter consecrated animals and to eat them in thy gates (i.e. wherever you please) without sacrificing them on the altar, but bring them to the “House of Choice” (the Sanctuary).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:27",
+      "he": "וְעָשִׂ֤יתָ עֹלֹתֶ֙יךָ֙ הַבָּשָׂ֣ר וְהַדָּ֔ם עַל־מִזְבַּ֖ח יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְדַם־זְבָחֶ֗יךָ יִשָּׁפֵךְ֙ עַל־מִזְבַּח֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהַבָּשָׂ֖ר תֹּאכֵֽל׃",
+      "en": "YounYou See note at v. 5. shall offer your burnt offerings, both the flesh and the blood, on the altar of the ETERNAL your God; and of your other sacrifices, the blood shall be poured out on the altar of the ETERNAL your God, and you shall eat the flesh.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ועשית עלתיך. אִם עוֹלוֹת הֵן, תֵּן הַבָּשָׂר וְהַדָּם עַל גַּבֵּי הַמִּזְבֵּח, וְאִם זִבְחֵי שְׁלָמִים הֵם, \"דַּם זְבָחֶיךָ יִשָּׁפֵךְ\" עַל הַמִּזְבֵּחַ תְּחִלָּה וְאַחַר כָּךְ \"וְהַבָּשָׂר תֹּאכֵל\". וְעוֹד דָּרְשׁוּ רַבּוֹתֵינוּ, \"רַק קָדָשֶׁיךָ\" בָּא לְלַמֵּד עַל הַקֳּדָשִׁים שֶׁבְּחוּצָה לָאָרֶץ, וּלְלַמֵּד עַל הַתְּמוּרוֹת וְעַל וַלְדוֹת קָדָשִׁים שֶׁיִּקְרְבוּ (ספרי; בכורות י\"ד):",
+          "en": "ועשית עלתיך AND THOU SHALT OFFER THY BURNT OFFERINGS — i.e. if they (thy sacrifices) be burnt offerings, put the flesh as well as the blood on the altar, but if they are peace offerings, then “the blood of thy sacrifices shall be poured” first on the altar and afterwards you may eat the flesh. Furthermore did our Rabbis deduce that [the words] “thy sacrifices, however, [thou shalt bear, etc.]” are intended to teach with regard to consecrated animals that are outside the Land (abroad) as well as regards such animals that have been exchanged for other consecrated animals, and finally regarding the young of consecrated animals that [all] such must [also] be offered [in Jerusalem] (Sifrei Devarim 77:1; Bekhorot 14b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:28",
+      "he": "שְׁמֹ֣ר וְשָׁמַעְתָּ֗ אֵ֚ת כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֑ךָּ לְמַ֩עַן֩ יִיטַ֨ב לְךָ֜ וּלְבָנֶ֤יךָ אַחֲרֶ֙יךָ֙ עַד־עוֹלָ֔ם כִּ֤י תַעֲשֶׂה֙ הַטּ֣וֹב וְהַיָּשָׁ֔ר בְּעֵינֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Be careful to heed all these commandments that I enjoin upon you; thus it will go well with you and with your descendants after you forever, for you will be doing what is good and right in the sight of the ETERNAL your God.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שמר. זוֹ מִשְׁנָה שֶׁאַתָּה צָרִיךְ לְשָׁמְרָהּ בְּבִטְנְךָ שֶׁלֹּא תִשְׁכַּח, כָּעִנְיָן שֶׁנֶּאֱמַר (משלי כ\"ב) \"כִּי נָעִים כִּי תִשְׁמְרֵם בְּבִטְנֶךָ\", וְאִם שָׁנִיתָ אֶפְשָׁר שֶׁתִּשְׁמַע וּתְקַיֵּם, הָא כָל שֶׁאֵינוֹ בִּכְלַל מִשְׁנָה אֵינוֹ בִּכְלַל מַעֲשֶׂה (עי' ספרי):",
+          "en": "שמר KEEP [AND HEAR (understand) ALL THESE WORDS WHICH I COMMAND THEE] — This (the word שמר) implies the studying of the oral law — that you must keep it within you that it should not be forgotten, just as it is said, (Proverbs 22:18) “[And apply thy heart unto my knowledge] for it is a pleasant thing if thou keep (תשמרם) them within thee”, and only if thou learnest is it possible that thou wilt understand and fulfil the commands, but one who is not amongst those who study (lit., who is not included in learning) cannot be amongst those who act correctly (cf. Sifrei Devarim 79:3; see also Rashi on Deuteronomy 4:6). (The translation is: keep, i.e. study and retain your learning in mind: ושמעת, and then thou wilt understand how to observe the commands).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את כל הדברים. שֶׁתְּהֵא חֲבִיבָה עָלֶיךָ מִצְוָה קַלָּה כְּמִצְוָה חֲמוּרָה (שם):",
+          "en": "את כל הדברים [KEEP …] ALL WORDS [WHICH I COMMAND THEE] — This implies that a light precept should be as dear to you as a grave precept (Sifrei Devarim 79:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "הטוב. בְּעֵינֵי הַשָּׁמַיִם:",
+          "en": "הטוב [THAT IT MAY GO WELL WITH THEE … WHEN THOU DOEST] WHAT IS GOOD — This refers to an action that is proper in the eyes of the Heavenly Father.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "והישר. בְּעֵינֵי אָדָם:",
+          "en": "והישר AND WHAT IS RIGHT — this refers to an action that appears to be proper in the eyes of men (Sifrei Devarim 79:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:29",
+      "he": "כִּֽי־יַכְרִית֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ אֶת־הַגּוֹיִ֗ם אֲשֶׁ֨ר אַתָּ֥ה בָא־שָׁ֛מָּה לָרֶ֥שֶׁת אוֹתָ֖ם מִפָּנֶ֑יךָ וְיָרַשְׁתָּ֣ אֹתָ֔ם וְיָשַׁבְתָּ֖ בְּאַרְצָֽם׃",
+      "en": "When the ETERNAL your God has cut down before you the nations that you are about to enter and dispossess, and you have dispossessed them and settled in their land,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 12:30",
+      "he": "הִשָּׁ֣מֶר לְךָ֗ פֶּן־תִּנָּקֵשׁ֙ אַחֲרֵיהֶ֔ם אַחֲרֵ֖י הִשָּׁמְדָ֣ם מִפָּנֶ֑יךָ וּפֶן־תִּדְרֹ֨שׁ לֵאלֹֽהֵיהֶ֜ם לֵאמֹ֗ר אֵיכָ֨ה יַעַבְד֜וּ הַגּוֹיִ֤ם הָאֵ֙לֶּה֙ אֶת־אֱלֹ֣הֵיהֶ֔ם וְאֶעֱשֶׂה־כֵּ֖ן גַּם־אָֽנִי׃",
+      "en": "beware of being lured into their ways after they have been wiped out before you! Do not inquire about their gods, saying, “How did those nations worship their gods? I too will follow those practices.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פן תנקש. אֻנְקְלוֹס תִּרְגֵּם לְשׁוֹן מוֹקֵשׁ, וַאֲנִי אוֹמֵר שֶׁלֹּא חָשׁ לְדַקְדֵּק בַּלָּשׁוֹן, שֶׁלֹּא מָצִינוּ נוּ\"ן בִּלְשׁוֹן יוֹקֵשׁ, וַאֲפִלּוּ לַיְסוֹד הַנּוֹפֵל מִמֶּנּוּ, אֲבָל בִּלְשׁוֹן טֵרוּף וְקִשְׁקוּשׁ מָצִינוּ נוּ\"ן, \"וְאַרְכֻּבָתֵהּ דָא לְדָא נָקְשָׁן\" (דניאל ה'); וְאַף זֶה אֲנִי אוֹמֵר \"פֶּן תִּנָּקֵשׁ אַחֲרֵיהֶם\" – פֶּן תִּטָּרֵף אַחֲרֵיהֶם, לִהְיוֹת כָּרוּךְ אַחַר מַעֲשֵׂיהֶם; וְכֵן (תהילים ק\"ט) \"יְנַקֵּשׁ נוֹשֶׁה לְכָל אֲשֶׁר לוֹ\" – מְקַלֵּל אֶת הָרָשָׁע לִהְיוֹת עָלָיו נוֹשִׁים רַבִּים וְיִהְיוּ מַחֲזִירִין וּמִתְנַקְּשִׁין אַחַר מָמוֹנוֹ:",
+          "en": "פן תנקש [TAKE HEED TO THYSELF] LEST THOU BE SNARED — Onkelos renders תנקש as an expression of the same root and meaning as מוקש, a snare. But I say that he was not particular to examine carefully the expression, for we never find a נ in the term that means to snare, not even as a root letter that is sometimes omitted from it; but in the term denoting movement from place to place and knocking we do find a נ, as in (Daniel 5:6) “and his knees knocked (נקש) one against the other”. Here, too, I say that פן תנקש means lest thou run after them so that you cling to their doings. Similar is (Psalms 109:11) “Let the creditor be מנקש to all that he has” — he (the speaker) is cursing the wicked that he may have many creditors and that these may go about running after his money.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אחרי השמדם מפניך. אַחַר שֶׁתִּרְאֶה שֶׁאַשְׁמִידֵם מִפָּנֶיךָ, יֵשׁ לְךָ לָתֵת לֵב מִפְּנֵי מָה נִשְׁמְדוּ אֵלּוּ, מִפְּנֵי מַעֲשִׂים מְקֻלְקָלִים שֶׁבִּידֵיהֶם, אַף אַתָּה לֹא תַעֲשֶׂה כֵן שֶׁלֹּא יָבֹאוּ אֲחֵרִים וְיַשְׁמִידוּךָ (עי' ספרי):",
+          "en": "אחרי השמדם מפניך [TAKE HEED THAT THOU BE NOT SNARED] (according to Rashi, THAT THOU DO NOT RUN AFTER THEM) AFTER THAT THEY BE EXTERMINATED BEFORE THEE — The meaning is: after you see that I exterminate them from before you, you ought to pay attention to why these were exterminated — because of the depraved doings which they practiced. Consequently you should not act likewise lest others come and exterminate you (cf. Sifrei Devarim 81:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "איכה יעבדו. לְפִי שֶׁלֹּא עָנַשׁ עַל עֲבוֹדָה זָרָה אֶלָּא עַל זִבּוּחַ וְקִטּוּר וְנִסּוּךְ וְהִשְׁתַּחֲוָאָה, כְּמוֹ שֶׁכָּתוּב (שמות כ\"ב) \"בִּלְתִּי לַה' לְבַדּוֹ\" – דְּבָרִים הַנַּעֲשִׂים לַגָּבוֹהַּ, בָּא וְלִמֶּדְךָ כָאן שֶׁאִם דַּרְכָּהּ שֶׁל עֲ\"זָ לְעָבְדָהּ בְּדָבָר אַחֵר, כְּגוֹן פּוֹעֵר לִפְעוֹר וְזוֹרֵק אֶבֶן לְמַרְקוּלִיס, זוֹ הִיא עֲבוֹדָתוֹ וְחַיָּב, אֲבָל זִבּוּחַ וְקִטּוּר וְנִסּוּךְ וְהִשְׁתַּחֲוָאָה – אֲפִלּוּ שֶׁלֹּא כְדַרְכָּהּ חַיָּב (סנהדרין ס'):",
+          "en": "איכה יעבדו HOW DID [THESE NATIONS] SERVE [THEIR GODS? EVEN SO WILL I DO LIKEWISE] — Because Scripture has laid down a punishment for idolatrous worship only in the case of sacrifice, offering incense, libation and prostration, as it is written (Exodus 22:19), “[He that sacrifices unto any god] save unto the Lord only [shall be doomed to death]” — which thus puts under the death penalty only kinds of worship that are performed in honor of the Most High God (i.e. such as have characteristics similar to “sacrifice”; cf. Rashi on Exodus 22:19), Scripture comes and teaches you here that if the usual way of worshiping any idol is by some other rite, as e.g., that one exposes himself in front of Baal Peor, or casts a stone before Mercury — then this is its cult and one who performs it is therefore liable to the death penalty, but for sacrifice, offering incense, libation and prostration one becomes liable to the death penalty even though this be not the usual way of worshiping it (Sanhedrin 60b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 12:31",
+      "he": "לֹא־תַעֲשֶׂ֣ה כֵ֔ן לַיהֹוָ֖ה אֱלֹהֶ֑יךָ כִּי֩ כׇל־תּוֹעֲבַ֨ת יְהֹוָ֜ה אֲשֶׁ֣ר שָׂנֵ֗א עָשׂוּ֙ לֵאלֹ֣הֵיהֶ֔ם כִּ֣י גַ֤ם אֶת־בְּנֵיהֶם֙ וְאֶת־בְּנֹ֣תֵיהֶ֔ם יִשְׂרְפ֥וּ בָאֵ֖שׁ לֵאלֹֽהֵיהֶֽם׃",
+      "en": "You shall not act thus toward the ETERNAL your God, for they perform for their gods every abhorrent act that GOD detests; they even offer up their sons and daughters in fire to their gods.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי גם את בניהם. \"גַּם\" – לְרַבּוֹת אֶת אֲבוֹתֵיהֶם וְאִמּוֹתֵיהֶם; אָמַר רַבִּי עֲקִיבָא אֲנִי רָאִיתִי גוֹי שֶׁכְּפָתוֹ לְאָבִיו לִפְנֵי כַלְבּוֹ וַאֲכָלוֹ (ספרי):",
+          "en": "כי גם את בניהם FOR ALSO THEIR SONS [AND THEIR DAUGHTERS HAVE THEY BURNT IN THE FIRE TO THEIR GOD] — The word גם, “also”, is intended to include amongst those they used to burn, their parents also. R. Akiba related, “I once saw a heathen who bound his father before his dog which thereupon devoured him” (Sifrei Devarim 81:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:1",
+      "he": "אֵ֣ת כׇּל־הַדָּבָ֗ר אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם אֹת֥וֹ תִשְׁמְר֖וּ לַעֲשׂ֑וֹת לֹא־תֹסֵ֣ף עָלָ֔יו וְלֹ֥א תִגְרַ֖ע מִמֶּֽנּוּ׃&nbsp;{פ}",
+      "en": "aThis verse is labeled as 12.32 in some editions, and chapter 13 starts with the next verse. Be careful to observe only that which I enjoin upon you: neither add to it nor take away from it.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את כל הדבר. קַלָּה כַּחֲמוּרָה (שם):",
+          "en": "את כל הדבר EVERYTHING [I COMMAND YOU] — light precepts as well as grave ones (Sifrei Devarim 82:1),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "תשמרו לעשות. לִתֵּן לֹא תַעֲשֶׂה עַל עֲשֵׂה הָאֲמוּרִים בַּפָּרָשָׁה, שֶׁכָּל הִשָּׁמֶר לְשׁוֹן לֹא תַעֲשֶׂה הוּא, אֶלָּא שֶׁאֵין לוֹקִין עַל הִשָּׁמֶר שֶׁל עֲשֵׂה (מכות י\"ג):",
+          "en": "תשמרו לעשות OBSERVE TO DO — This statement is intended to attach also a prohibition (לאו) to the positive commands mentioned in this section (Sifrei Devarim 82:2), for wherever השמר is used it is a term that implies a prohibition, but the difference between this and an ordinary prohibition is that flagellation is not inflicted for infringing a prohibition resulting from the use of the term השמר in connection with a positive command.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לא תסף עליו. חֲמִשָּׁה טֹטָפוֹת, חֲמִשָּׁה מִינִין בַּלּוּלָב, אַרְבַּע בְּרָכוֹת לְבִרְכַּת כֹּהֲנִים (ספרי):",
+          "en": "לא תסף עליו THOU SHALT NOT ADD THERETO — as, for instance, to place five chapters in the Tephillin, to employ five species of fruit and plants in the fulfilment of the command of Lulab, to recite four instead of three blessings in the Benedictions of the priests (Sifrei Devarim 82:4; cf. Rashi on Deuteronomy 4:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:2",
+      "he": "כִּֽי־יָק֤וּם בְּקִרְבְּךָ֙ נָבִ֔יא א֖וֹ חֹלֵ֣ם חֲל֑וֹם וְנָתַ֥ן אֵלֶ֛יךָ א֖וֹת א֥וֹ מוֹפֵֽת׃",
+      "en": "If there appears among you a prophet or a dream-diviner, who gives you a sign or a portent,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונתן אליך אות. בַּשָּׁמַיִם, כָּעִנְיָן שֶׁנֶּאֱמַר בְּגִדְעוֹן (שופטים ו') \"וְעָשִׂיתָ לִּי אוֹת\" וְאוֹמֵר \"יְהִי נָא חֹרֶב אֶל הַגִּזָּה\" וְגוֹ':",
+          "en": "ונתן אליך אות [IF THERE ARISE AMONG YOU A PROPHET …] AND GIVETH THEE A SIGN that will show itself in the heavens, just as it is stated in the case of Gideon who spoke to the angel, (Judges 6:17) “[If now I found grace in your sight], then show me a sign (אות)”, and then it further states, (Judges 6:39) “[let me prove, I pray thee, but this once with the fleece;] let it be dry only upon the fleece [and upon all the ground let there be dew]”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "או מופת. בָּאָרֶץ, אַעַ\"פִּ כֵן לֹא תִשְׁמַע לוֹ, וְאִם תֹּאמַר מִפְּנֵי מָה נוֹתֵן לוֹ הַקָּבָּ\"ה מֶמְשָׁלָה לַעֲשׂוֹת אוֹת? כי מנסה ה' אלהיכם אתכם (ספרי; עי' סנהדרין צ'):",
+          "en": "או מופת OR A WONDER showing itself on the earth. — Nevertheless you shall not hearken unto him (although the sign or the wonder come to pass; cf. v. 3). But if you ask, why then does God give him the power to perform a sign? Scripture replies, (v. 4) “for the Lord your God trieth you, [to know whether you really love the Lord your God]” (Sifrei Devarim 84:1; cf. Sanhedrin 90a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:3",
+      "he": "וּבָ֤א הָאוֹת֙ וְהַמּוֹפֵ֔ת אֲשֶׁר־דִּבֶּ֥ר אֵלֶ֖יךָ לֵאמֹ֑ר נֵֽלְכָ֞ה אַחֲרֵ֨י אֱלֹהִ֧ים אֲחֵרִ֛ים אֲשֶׁ֥ר לֹֽא־יְדַעְתָּ֖ם וְנׇֽעׇבְדֵֽם׃",
+      "en": "saying, “Let us follow and worship another god”—whom you have not experiencedbwhom you have not experienced See note at 11.28.—even if the sign or portent named to you comes true,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 13:4",
+      "he": "לֹ֣א תִשְׁמַ֗ע אֶל־דִּבְרֵי֙ הַנָּבִ֣יא הַה֔וּא א֛וֹ אֶל־חוֹלֵ֥ם הַחֲל֖וֹם הַה֑וּא כִּ֣י מְנַסֶּ֞ה יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם בְּכׇל־לְבַבְכֶ֖ם וּבְכׇל־נַפְשְׁכֶֽם׃",
+      "en": "do not heed the words of that prophet or that dream-diviner. For the ETERNAL your God is testing you to see whether you really love the ETERNAL your God with all your heart and soul.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 13:5",
+      "he": "אַחֲרֵ֨י יְהֹוָ֧ה אֱלֹהֵיכֶ֛ם תֵּלֵ֖כוּ וְאֹת֣וֹ תִירָ֑אוּ וְאֶת־מִצְוֺתָ֤יו תִּשְׁמֹ֙רוּ֙ וּבְקֹל֣וֹ תִשְׁמָ֔עוּ וְאֹת֥וֹ תַעֲבֹ֖דוּ וּב֥וֹ תִדְבָּקֽוּן׃",
+      "en": "The ETERNAL your God is the One whom you should follow, whom you should revere, whose commandments you should observe, whose orders you should heed, whom you should worship, and to whom you should hold fast.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת מצותיו תשמרו. תּוֹרַת מֹשֶׁה:",
+          "en": "ואת מצותיו תשמורו HIS COMMANDMENTS YE SHALL KEEP — the Law of Moses,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ובקלו תשמעו. בְּקוֹל הַנְּבִיאִים:",
+          "en": "ובקלו תשמעו HIS VOICE YE SHALL OBEY — the voice of the prophets,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואתו תעבדו. בְּמִקְדָּשׁוֹ (ספרי):",
+          "en": "ואתו תעבדו HIM YE SHALL SERVE in His Temple (Sifrei Devarim 85:5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ובו תדבקון. הִדַּבֵּק בִּדְרָכָיו – גְּמֹל חֲסָדִים, קְבֹר מֵתִים, בַּקֵּר חוֹלִים, כְּמוֹ שֶׁעָשָׂה הַקָּבָּ\"ה (סוטה י\"ד):",
+          "en": "ובו תדבקון AND UNTO HIM YE SHALL CLEAVE — i.e. cleave to His ways: do kindly actions, bury the dead, visit the sick, as did the Holy One, blessed be He (Sotah 14a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:6",
+      "he": "וְהַנָּבִ֣יא הַה֡וּא א֣וֹ חֹלֵם֩ הַחֲל֨וֹם הַה֜וּא יוּמָ֗ת כִּ֣י דִבֶּר־סָ֠רָ֠ה עַל־יְהֹוָ֨ה אֱלֹֽהֵיכֶ֜ם הַמּוֹצִ֥יא אֶתְכֶ֣ם&thinsp;׀ מֵאֶ֣רֶץ מִצְרַ֗יִם וְהַפֹּֽדְךָ֙ מִבֵּ֣ית עֲבָדִ֔ים לְהַדִּֽיחֲךָ֙ מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר צִוְּךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָלֶ֣כֶת בָּ֑הּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "As for that prophet or dream-diviner, they shall be put to death for having urged disloyalty to the ETERNAL your God—who freed you from the land of Egypt and who redeemed you from the house of bondage—to make you stray from the path that the ETERNAL your God commanded you to follow. Thus you will sweep out evil from your midst.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "סרה. דָּבָר הַמּוּסָר מִן הָעוֹלָם, שֶׁלֹּא הָיָה וְלֹא נִבְרָא וְלֹא צִוִּיתִיו לְדַבֵּר כֵּן, דישטו\"רנורא בְּלַעַז:",
+          "en": "סרה [BECAUSE HE HATH SPOKEN] סרה — i.e. something that is strange in the world (more lit., removed from the world), something which never existed and was never created (a pure invention), and which I never bade him say; detournure in O. F.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והפדך מבית עבדים. אֲפִלּוּ אֵין לוֹ עָלֶיךָ אֶלָּא שֶׁפְּדָאֲךָ — דַּיּוֹ (ספרי):",
+          "en": "והפדך מבית עבדים AND WHO RELEASED YOU OUT OF THE HOUSE OF SERVANTS — even though he had no other claim on you but that He delivered you, it would be sufficient for Him to claim your obedience (Sifrei Devarim 86:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:7",
+      "he": "כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן־אִ֠מֶּ֠ךָ אֽוֹ־בִנְךָ֨ אֽוֹ־בִתְּךָ֜ א֣וֹ&thinsp;׀ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁר֙ לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ׃",
+      "en": "If your brother, your own mother’s son,cyour own mother’s son Samaritan reads, “the son of your father or the son of your mother.” or your son or daughter, or the wife of your bosom, or your closest frienddclosest friend Lit. “friend who is as yourself.” entices you in secret, saying, “Come let us worship other gods”—whom neither you nor your ancestors have experiencedewhom neither you nor your ancestors have experienced See note at 11.28.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי יסיתך. אֵין הֲסָתָה אֶלָּא גֵּרוּי, שֶׁנֶּאֱמַר (ש\"מ כ\"ו) אִם ה' הֱסִיתְךָ בִּי, אנסיטר\"א בְּלַעַז, שֶׁמַּשִּׂיאוֹ לַעֲשׂוֹת כֵּן:",
+          "en": "כי יסיתך IF [THY BROTHER …] ENTICE THEE — The term יסת always denotes to “stir up”, “to incite”, as it is said, (I Samuel 26:19) ”If it be the Lord that hath stirred thee up (הסיתך) against me” (Sifrei Devarim 87:2); inciter in O. F., Engl, to incite — i.e. that he induces one to act thus.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אחיך. מֵאָב:",
+          "en": "אחיך THY BROTHER — means, thy brother on the father’s side (Sifrei Devarim 87:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אוֹ בן אמך. מֵאֵם:",
+          "en": "בן אמך THE SON OF THY MOTHER — i.e., thy brother on the mother’s side. (The meaning of the Hebrew words is: thy brother or the son of thy mother) (Sifrei Devarim 87:5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "חיקך. הַשּׁוֹכֶבֶת בְּחֵיקְךָ וּמְחֻקָּה בְּךָ, אפקיי\"דא בְּלַעַז, וְכֵן (יחזקאל מ\"ג), \"וּמֵחֵיק הָאָרֶץ\" – מִיסוֹד הַתָּקוּעַ בָּאָרֶץ:",
+          "en": "חיקך [OR THE WIFE OF] THY BOSOM — i.e. who lies on thy bosom and is attached (מחוקה) to you, affichee in O. F. Similar is the expression (Ezekiel 43:14) “and from the bottom (מחיק) upon the ground” — i.e. from the foundation that is sunk in the ground.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "אשר כנפשך. זֶה אָבִיךָ, פֵּרֵשׁ לְךָ הַכָּתוּב אֶת הַחֲבִיבִין לְךָ, קַ\"וָ לַאֲחֵרִים:",
+          "en": "אשר כנפשך [OR THY FELLOWMAN] WHO IS AS THINE OWN SOUL — Thus refers to thy father (Sifrei Devarim 87:11). Scripture specially mentions all those who are dear to you — that you must not consent unto them nor spare them (v. 9), how much the less should you consent unto others or spare them.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "בסתר. דִּבֵּר הַכָּתוּב בַּהוֹוֶה, שֶׁאֵין דִּבְרֵי מֵסִית אֶלָּא בַּסֵּתֶר, וְכֵן שְׁלֹמֹה הוּא אוֹמֵר (משלי ז') \"בְּנֶשֶׁף בְּעֶרֶב יוֹם בְּאִישׁוֹן לַיְלָה וַאֲפֵלָה\":",
+          "en": "בסתר [IF THY BROTHER ENTICE THEE] SECRETLY — Scripture speaks of what usually occurs (but does not intend to exclude one who entices people publicly), for usually the words of the enticer are spoken in secret. Similarly does Solomon say of the strange woman that she practises her art of seduction (Proverbs 7:9) “In the twilight, in the evening of the day, in the blackness of night and the darkness” (Sifrei Devarim 87:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "אשר לא ידעת אתה ואבתיך. דָּבָר זֶה גְּנַאי גָּדוֹל הוּא לְךָ – שֶׁאַף הָאֻמּוֹת אֵין מַנִּיחִין מַה שֶּׁמָּסְרוּ לָהֶם אֲבוֹתֵיהֶם, וְזֶה אוֹמֵר לְךָ עֲזֹב מַה שֶּׁמָּסְרוּ לְךָ אֲבוֹתֶיךָ (ספרי):",
+          "en": "אשר לא ידעת אתה ואבתיך [LET US GO AND SERVE OTHER GODS] WHICH THOU HAST NOT KNOWN, THOU, NOR THY FATHERS — This would be a great disgrace for you: for not even the heathen nations abandon that which their fathers have handed down to them, and this man says to you, “Abandon what thy fathers have handed down to you”! (Sifrei Devarim 87:13).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:8",
+      "he": "מֵאֱלֹהֵ֣י הָֽעַמִּ֗ים אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם הַקְּרֹבִ֣ים אֵלֶ֔יךָ א֖וֹ הָרְחֹקִ֣ים מִמֶּ֑ךָּ מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־קְצֵ֥ה הָאָֽרֶץ׃",
+      "en": "from among the gods of the peoples around you, either near to you or distant, anywhere from one end of the earth to the other:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הקרבים אליך או הרחקים. לָמָּה פֵּרֵט קְרוֹבִים וּרְחוֹקִים? אֶלָּא כָּךְ אָמַר הַכָּתוּב: מִטִּיבָן שֶׁל קְרוֹבִים אַתָּה לָמֵד טִיבָן שֶׁל רְחוֹקִים, כְּשֵׁם שֶׁאֵין מַמָּשׁ בַּקְּרוֹבִים, כָּךְ אֵין מַמָּשׁ בָּרְחוֹקִים (סנהדרין ס\"א):",
+          "en": "הקרבים אליך או הרחקים [LET US GO AND SERVE OTHER GODS … NAMELY, OF THE GODS] WHICH ARE NIGH UNTO THEE, OR FAR OFF [FROM THEE] — To what end does it (Scripture) mention the gods of the near nations and those of the far-off ones? But this is in effect what Scripture says: From your knowledge of the gods of the near nations, you may draw conclusions regarding the nature of the gods of those far-off; just as there is nothing real in those of the near ones so there is nothing real in those of the far-off ones (Sanhedrin 61b; Sifrei Devarim 88:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מקצה הארץ. זוֹ חַמָּה וּלְבָנָה וּצְבָא הַשָּׁמַיִם שֶׁהֵן מְהַלְּכִין מִסּוֹף הָעוֹלָם וְעַד סוֹפוֹ (ספרי):",
+          "en": "מקצה הארץ [GODS … FAR OFF FROM THEE] FROM THE ONE END OF THE EARTH [EVEN UNTO THE OTHER END OF THE EARTH] — This refers to the sun, the moon and the host of heaven (the stars) who move from one end of the world to the other (Sifrei Devarim 88:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:9",
+      "he": "לֹא־תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא־תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא־תַחְמֹ֥ל וְלֹֽא־תְכַסֶּ֖ה עָלָֽיו׃",
+      "en": "do not assent or give heed to any of them. Show no pity or compassion, and do not cover up the matter;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תאבה לו. לֹא תְהֵא תָאֵב לוֹ, לֹא תֶּאֱהָבֶנּוּ, לְפִי שֶׁנֶּאֱמַר (ויקרא י\"ט) וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ – אֶת זֶה לֹא תֶאֱהַב:",
+          "en": "לא תאבה לו THOU SHALT NOT CONSENT UNTO HIM — i.e. thou shalt feel no longing (תאב) towards him, thou shalt show no affection for him (אהב); This is stated because it is said, (Leviticus 19:18) “Thou shalt love thy fellowman as thyself”; this man, however, thou shalt not love (Sifrei Devarim 89:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ולא תשמע אליו. בְּהִתְחַנְּנוֹ עַל נַפְשׁוֹ לִמְחֹל לוֹ, לְפִי שֶׁנֶּאֱמַר (שמות כ\"ג) עָזֹב תַּעֲזֹב עִמּוֹ – לָזֶה לֹא תַעֲזֹב:",
+          "en": "ולא תשמע אליו AND THOU SHALT NOT HEARKEN UNTO HIM when he makes entreaty for his life, that you should forgive him. This is stated because it says. (Exodus 23:5) “[If thou see the ass of him that hateth thee] thou shalt surely help him”; this man, however, thou shalt not help (Sifrei Devarim 89:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ולא תחוס עינך עליו. לְפִי שֶׁנֶּאֱמַר (ויקרא י\"ט) לֹא תַעֲמֹד עַל דַּם רֵעֶךָ – עַל זֶה לֹא תָחֹס:",
+          "en": "ולא תחוס עינך עליו NEITHER SHALL THINE EYE SPARE HIM — This is stated because it says, (Leviticus 19:16) “thou shalt not stand against the blood of thy fellow” — this man, however, thou shalt not spare (Sifrei Devarim 89:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ולא תחמל. לֹא תַהֲפֹךְ בִּזְכוּתוֹ:",
+          "en": "ולא תחמל NEITHER SHALT THOU PITY [HIM] — i.e. thou shalt not occupy thyself in his favour (you shall not seek to find anything favorable to him) (Sifrei Devarim 89:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "ולא תכסה עליו. אִם אַתָּה יוֹדֵעַ לוֹ חוֹבָה אֵינְךָ רַשַּׁאי לִשְׁתֹּק (ספרי):",
+          "en": "ולא תכסה עליו AND THOU SHALT NOT CONCEAL (COVER OVER) HIM — If you know anything about him that will condemn him, you are not allowed to keep silent (Sifrei Devarim 89:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:10",
+      "he": "כִּ֤י הָרֹג֙ תַּֽהַרְגֶ֔נּוּ יָ֥דְךָ֛ תִּֽהְיֶה־בּ֥וֹ בָרִֽאשׁוֹנָ֖ה לַהֲמִית֑וֹ וְיַ֥ד כׇּל־הָעָ֖ם בָּאַחֲרֹנָֽה׃",
+      "en": "but take that person’s life. Let your hand be the first to put them to death, followed by the hand of the rest of the people.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי הרג תהרגנו. אִם יָצָא מִבֵּ\"דִּ זַכַּאי הַחֲזִירֵהוּ לְחוֹבָה, יָצָא מִבֵּית דִּין חַיָּב אַל תַּחֲזִירֵהוּ לִזְכוּת (שם):",
+          "en": "כי הרג תהרגנו BUT THOU SHALT SURELY KILL HIM — and if he has left the court after having been acquitted have him brought back for condemnation if you know anything against him; if, on the other hand, he has left the court after being found guilty do not bring him back to plead in his favour (Sifrei Devarim 89:6-7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ידך תהיה בו בראשונה. מִצְוָה בְּיַד הַנִּסָּת לַהֲמִיתוֹ. לֹא מֵת בְּיָדוֹ, יָמוּת בְּיַד אֲחֵרִים, שֶׁנֶּאֱמַר ויד כל העם וגו' (עי' ספרי):",
+          "en": "ידך תהיה בו בראשונה THINE HAND SHALL BE FIRST UPON HIM [TO PUT HIM TO DEATH] — He who was to be seduced to idolatry has the duty to put him to death; if he did not die by his hand he must die by the hands of others, as it goes on to state “and afterwards the hands of all the people” (cf. Sifrei Devarim 89:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:11",
+      "he": "וּסְקַלְתּ֥וֹ בָאֲבָנִ֖ים וָמֵ֑ת כִּ֣י בִקֵּ֗שׁ לְהַדִּֽיחֲךָ֙ מֵעַל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃",
+      "en": "Stone them to death for having sought to make you stray from the ETERNAL your God, who brought you out of the land of Egypt, out of the house of bondage.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 13:12",
+      "he": "וְכׇ֨ל־יִשְׂרָאֵ֔ל יִשְׁמְע֖וּ וְיִֽרָא֑וּן וְלֹֽא־יוֹסִ֣פוּ לַעֲשׂ֗וֹת כַּדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה בְּקִרְבֶּֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Thus all Israel will hear and be afraid, and such evil things will not be done again in your midst.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 13:13",
+      "he": "כִּֽי־תִשְׁמַ֞ע בְּאַחַ֣ת עָרֶ֗יךָ אֲשֶׁר֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֥ן לְךָ֛ לָשֶׁ֥בֶת שָׁ֖ם לֵאמֹֽר׃",
+      "en": "If you hear it said, of one of the towns that the ETERNAL your God is giving you to dwell in,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לשבת שם. פְּרָט לִירוּשָׁלַיִם שֶׁלֹּא נִתְּנָה לְדִירָה (שם):",
+          "en": "לשבת שם [IF THOU SHALT HEAR SAY IN THE CITIES WHICH THE LORD THY GOD HATH GIVEN THEE] TO ABIDE THERE — The words “to abide there” are added to exclude Jerusalem which city was not intended as a dwelling-place (Sifrei Devarim 92:5; cf. Bava Kamma 82b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי תשמע, לאמר. אוֹמְרִים כֵּן יָצְאוּ וְגוֹ' –",
+          "en": "כי תשמע לאמור IF THOU SHALT HEAR … SAYING means, if thou shalt hear people saying thus: “[Certain men, worthless persons,] have gone out” etc.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:14",
+      "he": "יָצְא֞וּ אֲנָשִׁ֤ים בְּנֵֽי־בְלִיַּ֙עַל֙ מִקִּרְבֶּ֔ךָ וַיַּדִּ֛יחוּ אֶת־יֹשְׁבֵ֥י עִירָ֖ם לֵאמֹ֑ר נֵלְכָ֗ה וְנַעַבְדָ֛ה אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹא־יְדַעְתֶּֽם׃",
+      "en": "that some scoundrels from among you have gone and subverted the inhabitants of their town, saying, “Come let us worship other gods”—whom you have not experienced—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אנשים. וְלֹא נָשִׁים:",
+          "en": "אנשים CERTAIN MEN — but not women (Sifrei Devarim 93:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בני בליעל. בְּלִי עֹל, שֶׁפָּרְקוּ עֻלּוֹ שֶׁל מָקוֹם (שם):",
+          "en": "בני בליעל. WORTHLESS PERSONS — people that have thrown off the yoke of the Omnipresent (the word is taken in the sense of בְּלִי עוֹל, without a yoke) (Sifrei Devarim 93:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ישבי עירם. וְלֹא יוֹשְׁבֵי עִיר אַחֶרֶת, מִכָּאן אָמְרוּ אֵין נַעֲשֵׂית עִיר הַנִּדַּחַת עַד שֶׁיַּדִּיחוּהָ אֲנָשִׁים וְעַד שֶׁיִּהְיוּ מַדִּיחֶיהָ מִתּוֹכָהּ (סנהדרין קי\"א):",
+          "en": "ישבי עירם THE INHABITANTS OF THEIR CITY — but not the inhabitants of another city (Sifrei Devarim 93:4). From here they (our Rabbis) derived what they said, “A town is not treated as an עיר הנדחת (i.e. does not come under the category of a “condemned city” which according to vv. 16—17 must be utterly destroyed) unless it be men who lead them (the inhabitants) astray, and unless its seducers be of its midst (inhabitants of that city) (Sanhedrin 111b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:15",
+      "he": "וְדָרַשְׁתָּ֧ וְחָקַרְתָּ֛ וְשָׁאַלְתָּ֖ הֵיטֵ֑ב וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּקִרְבֶּֽךָ׃",
+      "en": "you shall investigate and inquire and interrogate thoroughly. If it is true, the fact is established—that abhorrent thing was perpetrated in your midst—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ודרשת וחקרת ושאלת היטב. מִכָּאן לָמְדוּ שֶׁבַע חֲקִירוֹת מֵרִבּוּי הַמִּקְרָא, כָּאן יֵשׁ ג' – דְּרִישָׁה וַחֲקִירָה וְהֵיטֵב, וְשָׁאַלְתָּ אֵינוֹ מִן הַמִּנְיָן, וּמִמֶּנּוּ לָמְדוּ בְּדִיקוֹת – וּבְמָקוֹם אַחֵר הוּא אוֹמֵר (דברים י\"ט) \"וְדָרְשׁוּ הַשּׁוֹפְטִים הֵיטֵב\", וְעוֹד בְּמָקוֹם אַחֵר הוּא אוֹמֵר (שם י\"ז) \"וְדָרַשְׁתָּ הֵיטֵב\", לָמְדוּ 'הֵיטֵב' 'הֵיטֵב' לִגְזֵרָה שָׁוָה, לִתֵּן הָאָמוּר שֶׁל זֶה בָּזֶה (סנהדרין מ'):",
+          "en": "ודרשת וחקרת ושאלת היטב THEN SHALT THOU INQUIRE, AND MAKE SEARCH, AND ASK DILIGENTLY — From here — from the variety of expressions denoting inquiry in this verse — they (the Rabbis) derived the law of investigating capital cases by means of seven investigations” (referring to date, time and place). in the following manner: here (in our verse) there occur three expressions relating to inquiry, viz., ודרשת, וחקרת and היטב — the expression ושאלת does not come into account, because from it they derived בדיקות, the examination referring to accompanying circumstances, — and in another passage (Deuteronomy 19:18) it states, “and the judges shall enquire diligently (ודרשו השופטים היטב)”, and still in another passage (Deuteronomy 17:40) it states, “and thou shalt inquire diligently (ודרשת היטב)\" — thus altogether seven expressions. — And although they are used in connection with different cases they learned by way of analogy (ג\"ש) of the term היטב used here and in the passages quoted that it is intended to apply what is stated in one case to the others also (Sanhedrin 40a; cf. Sifrei Devarim 93:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:16",
+      "he": "הַכֵּ֣ה תַכֶּ֗ה אֶת־יֹ֥שְׁבֵ֛י הָעִ֥יר הַהִ֖וא לְפִי־חָ֑רֶב הַחֲרֵ֨ם אֹתָ֧הּ וְאֶת־כׇּל־אֲשֶׁר־בָּ֛הּ וְאֶת־בְּהֶמְתָּ֖הּ לְפִי־חָֽרֶב׃",
+      "en": "put the inhabitants of that town to the sword and put its cattle to the sword. Doom it and all that is in it to destruction:",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הכה תכה. אִם אֵינְךָ יָכוֹל לַהֲמִיתָם בַּמִּיתָה הַכְּתוּבָה בָּהֶם, הֲמִיתֵם בְּאַחֶרֶת (ספרי; בבא מציעא ל\"א):",
+          "en": "הכה תכה THOU SHALT SURELY SMITE [THE INHABITANTS OF THAT CITY] — If you cannot put them to death by the death-penalty prescribed regarding them, kill them in some other way (Sifrei Devarim 94:1; Bava Metzia 31b; cf. Rashi on v. 10).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:17",
+      "he": "וְאֶת־כׇּל־שְׁלָלָ֗הּ תִּקְבֹּץ֮ אֶל־תּ֣וֹךְ רְחֹבָהּ֒ וְשָׂרַפְתָּ֨ בָאֵ֜שׁ אֶת־הָעִ֤יר וְאֶת־כׇּל־שְׁלָלָהּ֙ כָּלִ֔יל לַיהֹוָ֖ה אֱלֹהֶ֑יךָ וְהָיְתָה֙ תֵּ֣ל עוֹלָ֔ם לֹ֥א תִבָּנֶ֖ה עֽוֹד׃",
+      "en": "gather all its spoil into the open square, and burn the town and all its spoil as a holocaust to the ETERNAL your God. And it shall remain an everlasting ruin, never to be rebuilt.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לה' אלהיך. לִשְׁמוֹ וּבִשְׁבִילוֹ:",
+          "en": "לה' אלהיך [AND THOU SHALT BURN WITH FIRE THE CITY …] FOR THE LORD THY GOD — i.e. for the honor of His name and for His sake.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:18",
+      "he": "וְלֹֽא־יִדְבַּ֧ק בְּיָדְךָ֛ מְא֖וּמָה מִן־הַחֵ֑רֶם לְמַ֩עַן֩ יָשׁ֨וּב יְהֹוָ֜ה מֵחֲר֣וֹן אַפּ֗וֹ וְנָֽתַן־לְךָ֤ רַחֲמִים֙ וְרִֽחַמְךָ֣ וְהִרְבֶּ֔ךָ כַּאֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶֽיךָ׃",
+      "en": "Let nothing that has been doomed stick to your hand, in order that GOD may turn from a blazing anger and show you compassion, and in compassion increase you as promised on oath to your fathers—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "למען ישוב ה' מחרון אפו. שֶׁכָּל זְמַן שֶׁעֲ\"זָ בָעוֹלָם חֲרוֹן אַף בָּעוֹלָם (ספרי):",
+          "en": "למען ישוב ה' מחרון אף THAT THE LORD MAY TURN FROM THE FIERCENESS OF HIS WRATH — for as long as idol-worship exists in the world the fierce wrath of God is kindled against the world (Sifrei Devarim 96:3; Sanhedrin 111b; cf. Rashi on Genesis 9:32).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 13:19",
+      "he": "כִּ֣י תִשְׁמַ֗ע בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹר֙ אֶת־כׇּל־מִצְוֺתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לַעֲשׂוֹת֙ הַיָּשָׁ֔ר בְּעֵינֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "for you will be heeding the ETERNAL your God, obeying all the commandments that I enjoin upon you this day, doing what is right in the sight of the ETERNAL your God.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:1",
+      "he": "בָּנִ֣ים אַתֶּ֔ם לַיהֹוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת׃",
+      "en": "You are children of the ETERNAL your God. You shall not gash yourselves or shave the front of your heads because of the dead.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תתגדדו. לֹא תִתְּנוּ גְדִידָה וְשֶׂרֶט בִּבְשַׂרְכֶם עַל מֵת כְּדֶרֶךְ שֶׁהָאֱמוֹרִיִּים עוֹשִׂין, לְפִי שֶׁאַתֶּם בָּנָיו שֶׁל מָקוֹם וְאַתֶּם רְאוּיִין לִהְיוֹת נָאִים וְלֹא גְּדוּדִים וּמְקֹרָחִים:",
+          "en": "לא תתגדדו YE SHALL NOT CUT YOURSELVES — i.e. you shall not make cuttings and incisions in your flesh for the dead in the way the Amorites do (Sifrei Devarim 96:11), because you are children of the Lord and it is therefore becoming for you to be comely and not cut about and with hair torn out.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בין עיניכם. אֵצֶל הַפַּדַּחַת, וּבְמָקוֹם אַחֵר הוּא אוֹמֵר (ויקרא כ\"א) לֹא יִקְרְחֻה בְּרֹאשָׁם – לַעֲשׂוֹת כָּל הָרֹאשׁ כְּבֵין הָעֵינַיִם (ספרי):",
+          "en": "בין עיניכם [NOR MAKE ANY BALDNESS] BETWEEN YOUR EYES — i.e. adjoining the forehead. In another passage (Leviticus 21:5), however, it states, “They shall not make their head bald”! It, however, intends to make the entire head like between the eyes (בֵּין עֵינַיִם) [i.e., one must not make bald spots on any part of the head]. (Sifrei Devarim 96:13; cf. Rashi on Leviticus 21:5 and Note thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:2",
+      "he": "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהֹוָ֖ה אֱלֹהֶ֑יךָ וּבְךָ֞ בָּחַ֣ר יְהֹוָ֗ה לִֽהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־פְּנֵ֥י הָאֲדָמָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "For you are a people consecrated to the ETERNAL your God: the ETERNAL your God chose you from among all other peoples on earth to be the treasured one.athe treasured one See note at 7.6.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי עם קדוש אתה. קְדֻשַּׁת עַצְמְךָ מֵאֲבוֹתֶיךָ, וְעוֹד ובך בחר ה':",
+          "en": "כי עם קדוש אתה FOR THOU ART AN HOLY PEOPLE — You are holy — your actual holiness comes to you from your fathers, but, in addition, ובך בחר ה׳ THE LORD HAS CHOSEN YOU [so that you are for two reasons bound to keep away from these pagan customs] (cf. Sifrei Devarim 97:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:3",
+      "he": "לֹ֥א תֹאכַ֖ל כׇּל־תּוֹעֵבָֽה׃",
+      "en": "You shall not eat anything abhorrent.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל תועבה. כָּל שֶׁתִּעַבְתִּי לְךָ, כְּגוֹן צָרַם אֹזֶן בְּכוֹר כְּדֵי לְשָׁחֳטוֹ בַמְּדִינָה הֲרֵי דָּבָר שֶׁתִּעַבְתִּי לְךָ, כָּל מוּם לֹא יִהְיֶה בּוֹ, בָּא וְלִמֵּד כָּאן שֶׁלֹּא יִשְׁחַט וְיֹאכַל עַל אוֹתוֹ הַמּוּם. בִּשֵּׁל בָּשָׂר בְּחָלָב הֲרֵי דָּבָר שֶׁתִּעַבְתִּי לְךָ, וְהִזְהִיר כָּאן עַל אֲכִילָתוֹ (חולין קי\"ד):",
+          "en": "כל תועבה [THOU SHALT NOT EAT] ANY ABOMINATION — i.e. anything that I have declared to be an abomination to you (which in itself may not be an abominable thing) — as for instance if one deliberately makes a slit in the ear of a firstborn animal (thus making it unfit for sacrifice) so that one may slaughter it in the country (i.e. outside Jerusalem) and eat it there. Here you have a thing I declared to be an abomination to you, in that I commanded you (Leviticus 22:21) “one shall cause no blemish to be therein”. Scripture now comes and teaches you here that one should not slaughter such an animal and eat it, on account of that blemish. Another example: If one boils meat in milk — here you have a thing that I have declared to be an abomination to you (cf. Exodus 23:19; Exodus 34:26; Deuteronomy 14:21), and here it lays down the prohibition about eating it (Chullin 114b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:4",
+      "he": "זֹ֥את הַבְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְשֵׂ֥ה עִזִּֽים׃",
+      "en": "These are the animals that you may eat: the ox, the sheep, and the goat;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "זאת הבהמה, איל וצבי ויחמור. לָמַדְנוּ שֶׁהַחַיָּה בִכְלַל בְּהֵמָה, וְלָמַדְנוּ שֶׁהַבְּהֵמָה וְחַיָּה טְמֵאָה מְרֻבָּה מִן הַטְּהוֹרָה, שֶׁבְּכָל מָקוֹם פּוֹרֵט אֶת הַמֻּעָט (ספרי; חולין י\"ג):",
+          "en": "זאת הבהמה … איל וצבי ויחמור THESE ARE THE BEASTS [WHICH YOU MAY EAT] THE HART AND THE GAZELLE AND THE FALLOW DEER — This (the fact that Scripture begins with זאת הבהמה and goes on to enumerate חיות) teaches us that חיה is included in the term בהמה (Sifrei Devarim 100:1; Chullin 71a; cf. Rashi on Leviticus 11:2, last sentence, and Note thereon). It further teaches us that there are more unclean beasts and wild animals than clean ones, for where two contrasted classes are spoken of it always enumerates by name the individuals of the smaller class (Sifrei Devarim 100:3; Chullin 63a.) (Since it enumerates here the clean animals these must be the minority.)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:5",
+      "he": "אַיָּ֥ל וּצְבִ֖י וְיַחְמ֑וּר וְאַקּ֥וֹ וְדִישֹׁ֖ן וּתְא֥וֹ וָזָֽמֶר׃",
+      "en": "bA number of these creatures cannot be identified with certainty. the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope, the mountain sheep,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואקו. מְתֻרְגָּם יַעֲלָא (איוב ל\"ט) \"יַעֲלֵי סָלַע\", הוּא אשטנב\"וק:",
+          "en": "ואקו AND THE אקו — This is rendered in the Targum by יעלא, the same term as the Hebrew יעל in the expression יעלי סלע (Job 39:1). This is what is called in German 'Steinbock'.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ותאו. \"תּוֹרְבָּלָא\", תּוֹר הַיַּעַר, \"בָּלָא\" — יַעַר בִּלְשׁוֹן אֲרַמִּי:",
+          "en": "ותאו — This is rendered in the Targum by תורבלא which is the same as תור יער, the ox of the forest (wild ox), for בלא means “forest״ in the Aramaic language.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:6",
+      "he": "וְכׇל־בְּהֵמָ֞ה מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ שְׁתֵּ֣י פְרָס֔וֹת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+      "en": "and any other animal that has true hoofs that are cleft in two and brings up the cud—such you may eat.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מפרסת. סְדוּקָה, כְּתַרְגּוּמוֹ:",
+          "en": "מפרסת means split, as the Targum has it.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פרסה. פלאנט\"א:",
+          "en": "פרסה - plante in O. F. (English = hoof).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ושסעת. חֲלוּקָה בִשְׁתֵּי צִפָּרְנַיִם, שֶׁיֵּשׁ סְדוּקָה וְאֵינָהּ חֲלוּקָה בַּצִּפָּרְנַיִם, וְהִיא טְמֵאָה:",
+          "en": "ושסעת AND HATH CLOVEN [HOOFS] — i.e. hoofs divided into two nails, for there are animals with hoofs split but not entirely divided into two nails (cf. Rashi on Leviticus 9:3), and such are unclean.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בבהמה. מַשְׁמַע מַה שֶּׁנִּמְצָא בַבְּהֵמָה אֱכֹל, מִכָּאן אָמְרוּ שֶׁהַשְּׁלִיל נִתָּר בִּשְׁחִיטַת אִמּוֹ (חולין ס\"ט):",
+          "en": "בבהמה [AND EVERY BEAST THAT PARTETH THE HOOF …] AMONG THE BEASTS [YE MAY EAT] — if one takes בבהמה to signify “within the animal”, it suggests: that which is found in the beast you may eat. From here, therefore, they (the Rabbis) derived the law that a שליל (a fully developed embryo) becomes permitted to be eaten through the slaughter of its mother without requiring ritual slaughtering itself (Chullin 69a; Chullin 74a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:7",
+      "he": "אַ֣ךְ אֶת־זֶ֞ה לֹ֤א תֹֽאכְלוּ֙ מִמַּֽעֲלֵ֣י הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֥י הַפַּרְסָ֖ה הַשְּׁסוּעָ֑ה אֶֽת־הַ֠גָּמָ֠ל וְאֶת־הָאַרְנֶ֨בֶת וְאֶת־הַשָּׁפָ֜ן כִּֽי־מַעֲלֵ֧ה גֵרָ֣ה הֵ֗מָּה וּפַרְסָה֙ לֹ֣א הִפְרִ֔יסוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃",
+      "en": "But the following, which do bring up the cud or have true hoofs that are cleft through, you may not eat: the camel, the hare, and the daman—for although they bring up the cud, they have no true hoofs—they are impure for you;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "השסועה. בְּרִיָּה הִיא שֶׁיֵּשׁ לָהּ שְׁנֵי גַּבִּין וּשְׁתֵּי שִׁדְרָאוֹת (שם ס'); אָמְרוּ רַבּוֹתֵינוּ לָמָּה נִשְׁנוּ? בַּבְּהֵמוֹת מִפְּנֵי הַשְּׁסוּעָה וּבָעוֹפוֹת מִפְּנֵי הָרָאָה, שֶׁלֹּא נֶאֱמְרוּ בְּת\"כֹּ (שם ס\"ג):",
+          "en": "השסועה — (lit., a cleft one) is a certain animal which has two backs and two spinal columns (Chullin 60b). — Our Rabbis asked, “Why are these (the clean and unclean beasts and fowls) here repeated” since the names have already been mentioned in Leviticus XI? They replied: the repetition was necessary so far as quadrupeds are concerned because of the שסועה, and so far as fowls are concerned because of the ראה, both of which are not mentioned in Torath Cohanim (i.e. Leviticus) (Chullin 63b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:8",
+      "he": "וְאֶת־הַ֠חֲזִ֠יר כִּֽי־מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "also the swine—for although it has true hoofs, it does not bring up the cud—is impure for you. You shall not eat of their flesh or touch their carcasses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובנבלתם לא תגעו. רַבּוֹתֵינוּ פֵּרְשׁוּ — בָּרֶגֶל, שֶׁאָדָם חַיָּב לְטַהֵר אֶת עַצְמוֹ בָּרֶגֶל, יָכוֹל יִהְיוּ מֻזְהָרִים בְּכָל הַשָּׁנָה, תַּ\"לֹ \"אֱמֹר אֶל הַכֹּהֲנִים וְגוֹ'\", וּמַה טֻּמְאַת הַמֵּת חֲמוּרָה, הַכֹּהֲנִים מֻזְהָרִים וְאֵין יִשְׂרָאֵל מֻזְהָרִים, טֻמְאַת נְבֵלָה קַלָּה, לֹא כָּל שֶׁכֵּן:",
+          "en": "ובנבלתם לא תגעו YE SHALL NOT TOUCH THEIR CARRION — Our Rabbis explained that this refers only to the festive seasons when every male Israelite was obliged to appear in the Sanctuary and should therefore be in a state of cleanness. One might think that they (the Israelites, i.e. non-priests) are prohibited from touching a carcass during the whole year! It, however, states, (Leviticus 21:1) in reference to the uncleanness of a corpse: “Say unto the priests … [there shall none be defiled by the dead] etc.”. Now you may draw a conclusion a fortiori: How is it in the case of uncleanness caused by a corpse which is a stringent kind of uncleanness? Priests only are prohibited regarding it but ordinary Israelites are not prohibited! Surely in the case of uncleanness caused by a carcass which is less stringent this is all the more so! (Sifra, Shemini, Chapter 4 8-9; cf. Rashi on Leviticus 11:8 and Note thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:9",
+      "he": "אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֧ל אֲשֶׁר־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת תֹּאכֵֽלוּ׃",
+      "en": "These you may eat of all that live in water: you may eat anything that has fins and scales.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:10",
+      "he": "וְכֹ֨ל אֲשֶׁ֧ר אֵֽין־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת לֹ֣א תֹאכֵ֑לוּ טָמֵ֥א ה֖וּא לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "But you may not eat anything that has no fins and scales: it is impure for you.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:11",
+      "he": "כׇּל־צִפּ֥וֹר טְהֹרָ֖ה תֹּאכֵֽלוּ׃",
+      "en": "You may eat any pure bird.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל צפור טהרה תאכלו. לְהַתִּיר מְשֻׁלַּחַת שֶׁבַּמְּצֹרָע (ספרי; קידושין נ\"ז):",
+          "en": "כל צפור טהרה תאכלו ALL CLEAN BIRDS YOU MAY EAT — 'All' — this is intended to permit as food also the bird that is set free in the case of a leper (i.e. at his purification rite; Leviticus 14:7) (Sifrei Devarim 103:1; Kiddushin 57a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:12",
+      "he": "וְזֶ֕ה אֲשֶׁ֥ר לֹֽא־תֹאכְל֖וּ מֵהֶ֑ם הַנֶּ֥שֶׁר וְהַפֶּ֖רֶס וְהָֽעׇזְנִיָּֽה׃",
+      "en": "The followingcThe following A number of these creatures cannot be identified with certainty. you may not eat: the eagle, the vulture, and the black vulture;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וזה אשר לא תאכלו מהם. לֶאֱסֹר אֶת הַשְּׁחוּטָה (שם):",
+          "en": "וזה אשר לא תאכלו מהם BUT THESE ARE THEY WHICH YOU MAY NOT EAT — This again is intended to forbid as food the bird that is slaughtered in the case of a leper (Sifrei Devarim 103:1-2; Kiddushin 57a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:13",
+      "he": "וְהָרָאָה֙ וְאֶת־הָ֣אַיָּ֔ה וְהַדַּיָּ֖ה לְמִינָֽהּ׃",
+      "en": "the kite, the falcon, and the buzzard of any variety;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הראה והאיה. הִיא רָאָה הִיא אַיָּה הִיא דַיָּה, וְלָמָּה נִקְרָא שְׁמָהּ רָאָה? שֶׁרוֹאָה בְּיוֹתֵר, וְלָמָּה הִזְהִיר בְּכָל שְׁמוֹתֶיהָ? שֶׁלֹּא לִתֵּן פִּתְחוֹן פֶּה לְבַעַל דִּין לַחֲלֹק – שֶׁלֹּא יְהֵא הָאוֹסְרָהּ קוֹרֵא אוֹתָהּ רָאָה, וְהַבָּא לְהַתִּיר אוֹמֵר זוֹ דַּיָּה שְׁמָהּ אוֹ אַיָּה שְׁמָהּ, וְזוֹ לֹא אָסַר הַכָּתוּב. וּבָעוֹפוֹת פֵּרֵט לְךָ הַטְּמֵאִים לְלַמֵּד שֶׁהָעוֹפוֹת הַטְּהוֹרִים מְרֻבִּים עַל הַטְּמֵאִים, לְפִיכָךְ פֵּרֵט אֶת הַמֻּעָט (חולין ס\"ג):",
+          "en": "ראה — הראה וראיה and איה and דיה are names for the same bird. Why is it called ראה? Because it sees keenly. And why does Scripture prohibit it under each of its names? In order not to give an opponent occasion to argue, i.e. in order that he who regards it as forbidden may not say, “This is the ראה and is therefore forbidden”, and he who wishes to declare it as permitted will then reply, “But this is named דיה\", or “this is named איה and this Scripture has not forbidden”. — In the case of birds, Scripture enumerates by name the unclean species, thus telling you that the clean birds are more numerous than the unclean (in contradistinction to quadrupeds; see vv. 4—5), for which reason Scripture mentions those by name which form the minority (Chullin 63b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:14",
+      "he": "וְאֵ֥ת כׇּל־עֹרֵ֖ב לְמִינֽוֹ׃",
+      "en": "every variety of raven;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:15",
+      "he": "וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־הַתַּחְמָ֖ס וְאֶת־הַשָּׁ֑חַף וְאֶת־הַנֵּ֖ץ לְמִינֵֽהוּ׃",
+      "en": "the ostrich, the nighthawk, the sea gull, and the hawk of any variety;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:16",
+      "he": "אֶת־הַכּ֥וֹס וְאֶת־הַיַּנְשׁ֖וּף וְהַתִּנְשָֽׁמֶת׃",
+      "en": "the little owl, the great owl, and the white owl;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "התנשמת. קלב\"א שורי\"ץ:",
+          "en": "התנשמת — This is the chauve-souris in old French; (English = bat).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:17",
+      "he": "וְהַקָּאָ֥ת וְאֶֽת־הָרָחָ֖מָה וְאֶת־הַשָּׁלָֽךְ׃",
+      "en": "the pelican, the bustard, and the cormorant;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שלך. הַשּׁוֹלֶה דָּגִים מִן הַיָּם (שם):",
+          "en": "שלך is a bird that draws out (שלה = שלך) fish from out the sea (see Rashi on Leviticus 11:17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:18",
+      "he": "וְהַ֣חֲסִידָ֔ה וְהָאֲנָפָ֖ה לְמִינָ֑הּ וְהַדּוּכִיפַ֖ת וְהָעֲטַלֵּֽף׃",
+      "en": "the stork, any variety of heron, the hoopoe, and the bat.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "דוכיפת. הוּא תַּרְנְגוֹל הַבָּר, וּבְלַעַז הרו\"פא, וְכַרְבָּלְתּוֹ כְפוּלָה (גיט' ס\"ח):",
+          "en": "דוכיפת is the wild cock, which is called in old French herupe, and which has a double comb (Chullin 63a; cf. Rashi on Leviticus 11:19).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:19",
+      "he": "וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף טָמֵ֥א ה֖וּא לָכֶ֑ם לֹ֖א יֵאָכֵֽלוּ׃",
+      "en": "All winged swarming things are impure for you: they may not be eaten.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שרץ העוף. הֵם הַנְּמוּכִים, הָרוֹחֲשִׁים עַל הָאָרֶץ. זְבוּבִין וּצְרָעִים וַחֲגָבִים טְמֵאִים קְרוּיִים שֶׁרֶץ:",
+          "en": "שרץ העוף — These are the lowly creatures which move upon the ground: flies, hornets and the unclean species of grass-hoppers (cf. Rashi on Leviticus 11:20), come under the term of שרץ.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:20",
+      "he": "כׇּל־ע֥וֹף טָה֖וֹר תֹּאכֵֽלוּ׃",
+      "en": "You may eat only pure winged creatures.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל עוף טהור תאכלו. וְלֹא אֶת הַטָּמֵא, בָּא לִתֵּן עֲשֵׂה עַל לֹא תַעֲשֶׂה; וְכֵן בַּבְּהֵמָה \"אֹתָהּ תֹּאכֵלוּ\", וְלֹא בְהֵמָה טְמֵאָה, וְלָאו הַבָּא מִכְּלַל עֲשֵׂה עֲשֵׂה, לַעֲבֹר עֲלֵיהֶם בַּעֲשֵׂה וְלֹא תַעֲשֶׂה:",
+          "en": "כל עוף תאכלו ALL CLEAN FOWLS, YOU MAY EAT — but not (as is implied by these words) the unclean. Scripture intends, by this statement, to attach to the negative command which forbids unclean fowls (v. 12), a positive one which implicitly contains a prohibition. And similarly, when in the case of clean cattle it states, (v. 6) “that you may eat”, it implies: not, however, the unclean ones. Now a prohibition which is not plainly expressed but can only be drawn by inference from a positive command, is itself regarded only as a positive command, so that one who eats such food transgresses thereby not two negative commands, but a positive and a negative command (Sifrei Devarim 101:10; and cf. Rashi on Leviticus 11:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:21",
+      "he": "לֹ֣א תֹאכְל֣וּ כׇל־נְ֠בֵלָ֠ה לַגֵּ֨ר אֲשֶׁר־בִּשְׁעָרֶ֜יךָ תִּתְּנֶ֣נָּה וַאֲכָלָ֗הּ א֤וֹ מָכֹר֙ לְנׇכְרִ֔י כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהֹוָ֖ה אֱלֹהֶ֑יךָ לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ׃&nbsp;{פ}",
+      "en": "You shall not eat anything that has died a natural death; give it to the stranger in your community to eat, or you may sell it to a foreigner. For you are a people consecrated to the ETERNAL your God. You shall not boil a kid in its mother’s milk.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לגר אשר בשעריך. גֵּר תּוֹשָׁב שֶׁקִּבֵּל עָלָיו שֶׁלֹּא לַעֲבֹד עֲ\"זָ וְאוֹכֵל נְבֵלוֹת (ספרי):",
+          "en": "לגר אשר בשעריך [YE SHALL NOT EAT ANY CARRION: THOU SHALT GIVE IT] UNTO THE STRANGER THAT IS IN THY GATES — i.e. unto a stranger that is a sojourner (גר תושב) — one who has undertaken not to worship idols (i.e. one who has been converted to the fundamental tenet of Judaism) but who eats carrion (does not obey the other teachings of the Torah) (Sifrei Devarim 104:2; cf. Rashi on Leviticus 25:35).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי עם קדוש אתה לה'. קַדֵּשׁ אֶת עַצְמְךָ בַּמֻּתָּר לְךָ – דְּבָרִים הַמֻּתָּרִים וַאֲחֵרִים נוֹהֲגִים בָּהֶם אִסּוּר, אַל תַּתִּירֵם בִּפְנֵיהֶם (שם):",
+          "en": "כי עם קדוש אתה לה׳ FOR THOU ART AN HOLY PEOPLE UNTO THE LORD — This implies: show yourself holy (abstinent) in respect to things which are permitted to you — i.e. things that are actually permitted but which some treat as forbidden you should not treat as permissible in their presence (Sifrei Devarim 104:7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לא תבשל גדי. שָׁלוֹשׁ פְּעָמִים, פְּרָט לְחַיָּה וּלְעוֹפוֹת וְלִבְהֵמָה טְמֵאָה (חולין קי\"ג):",
+          "en": "לא תבשל גדי THOU SHALT NOT SEETHE A KID [IN ITS MOTHER’S MILK] — Three times the prohibition of seething meat in milk is mentioned in the Torah (here, and in Exodus 23:19 and Exodus 34:26) and each time in the form: “thou shalt not seethe a kid” thus excluding three species: a wild beast, fowls and unclean beasts from the prohibition (Sifrei Devarim 104:8; Chullin 113a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:22",
+      "he": "עַשֵּׂ֣ר תְּעַשֵּׂ֔ר אֵ֖ת כׇּל־תְּבוּאַ֣ת זַרְעֶ֑ךָ הַיֹּצֵ֥א הַשָּׂדֶ֖ה שָׁנָ֥ה שָׁנָֽה׃",
+      "en": "YoudYou See note at 12.5. shall set aside every year a tenth part of all the yield of your sowing that is brought from the field.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לא תבשל גדי‎ … עשר תעשר. מָה עִנְיַן זֶה אֵצֶל זֶה? אָמַר לָהֶם הַקָּבָּ\"ה לְיִשְׂרָאֵל: אַל תִּגְרְמוּ לִי לְבַשֵּׁל גְּדָיִים שֶׁל תְּבוּאָה עַד שֶׁהֵן בִּמְעֵי אִמּוֹתֵיהֶן, שֶׁאִם אֵין אַתֶּם מְעַשְּׂרִים מַעַשְׂרוֹת כָּרָאוּי כְּשֶׁהוּא סָמוּךְ לְהִתְבַּשֵּׁל אֲנִי מוֹצִיא רוּחַ קָדִים וְהִיא מְשַׁדַּפְתָּן, שֶׁנֶּאֱמַר (מלכים ב י\"ט) \"וּשְׁדֵפָה לִפְנֵי קָמָה\", וְכֵן לְעִנְיַן בִּכּוּרִים (פסיק' ר'; תנחומא):",
+          "en": "THOU SHALT TRULY TITHE [ALL THE INCREASE OF THY SEED] — What has this matter to do with that? (Why are they placed in juxtaposition)? But the Holy One, blessed be He, says in effect to Israel: “Do not compel Me to blast by heat the tender kernels of the grain, whilst they are yet in their mother’s womb (i.e. in the husks), for if you do not tithe your products as is proper, when they are near ripening I shall bring forth the east wind and it will blast them”, as it is said, (2 Kings 19:26) “[Therefore … they were] as the corn blasted before it be grown up” (Midrash Tanchuma, Re'eh 17). A similar reason may be given for בכורים (for its juxtaposition to לא תבשל גדי (Exodus 34:26).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שנה שנה. מִכָּאן שֶׁאֵין מְעַשְּׂרִין מִן הֶחָדָשׁ עַל הַיָּשָׁן (ספרי):",
+          "en": "שנה שנה [THOU SHALT TRULY GIVE TITHE] YEAR BY YEAR — From here we may derive that one must not give tithe from the new grain for the old (Sifrei Devarim 105:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:23",
+      "he": "וְאָכַלְתָּ֞ לִפְנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּק֣וֹם אֲשֶׁר־יִבְחַר֮ לְשַׁכֵּ֣ן שְׁמ֣וֹ שָׁם֒ מַעְשַׂ֤ר דְּגָֽנְךָ֙ תִּירֹשְׁךָ֣ וְיִצְהָרֶ֔ךָ וּבְכֹרֹ֥ת בְּקָרְךָ֖ וְצֹאנֶ֑ךָ לְמַ֣עַן תִּלְמַ֗ד לְיִרְאָ֛ה אֶת־יְהֹוָ֥ה אֱלֹהֶ֖יךָ כׇּל־הַיָּמִֽים׃",
+      "en": "You shall consume the tithes of your new grain and wine and oil, and the firstlings of your herds and flocks, in the presence of the ETERNAL your God, in the place where [God] will choose to establish the divine name, so that you may learn to revere the ETERNAL your God forever.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואכלת וגו'. זֶה מַעֲשֵׂר שֵׁנִי. שֶׁכְּבָר לִמְּדָנוּ לִתֵּן מַעֲשֵׂר רִאשׁוֹן לַלְוִיִם, שֶׁנֶּאֱמַר \"כִּי תִקְחוּ מֵאֵת בְּנֵי יִשְׂרָאֵל וְגוֹ'\" (במדבר י\"ח) וְנָתַן לָהֶם רְשׁוּת לְאָכְלוֹ בְּכָל מָקוֹם, שֶׁנֶּאֱמַר \"וַאֲכַלְתֶּם אֹתוֹ בְּכָל מָקוֹם\" (שם י\"ח), עַל כָּרְחֲךָ זֶה מַעֲשֵׂר אַחֵר הוּא:",
+          "en": "'ואכלת וגו AND THOU SHALT EAT [BEFORE THE LORD THY GOD, IN THE PLACE WHICH HE SHALL CHOOSE … THE TITHE OF THY CORN etc.] — This is the “Second Tithe”, for it (Scripture) has already taught us to give the “First Tithe” to the Levites — as it is said, (Numbers 18:26) “[And unto the Levite shalt thou speak …], when ye take of the children of Israel the tithes”, etc., — and besides it gave them permission to eat it in any place, as it is said, (Numbers 18:31) “and ye shall eat it in any place” — thus you must admit that this tithe mentioned here, (which is to be eaten by an ordinary Israelite in Jerusalem) must be another one, — the “Second Tithe”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:24",
+      "he": "וְכִֽי־יִרְבֶּ֨ה מִמְּךָ֜ הַדֶּ֗רֶךְ כִּ֣י לֹ֣א תוּכַל֮ שְׂאֵתוֹ֒ כִּֽי־יִרְחַ֤ק מִמְּךָ֙ הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לָשׂ֥וּם שְׁמ֖וֹ שָׁ֑ם כִּ֥י יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+      "en": "Should the distance be too great for you, should you be unable to transport them, because the place where the ETERNAL your God has chosen to establish the divine name is far from you and because the ETERNAL your God has blessed you,ehas blessed you I.e., with abundant crops.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי יברכך. שֶׁתְּהֵא הַתְּבוּאָה מְרֻבָּה לָשֵׂאת:",
+          "en": "כי יברכך WHEN [THE LORD THY GOD] HATH BLESSED THEE — so that your produce will be too much to carry [as far as Jerusalem].",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:25",
+      "he": "וְנָתַתָּ֖ה בַּכָּ֑סֶף וְצַרְתָּ֤ הַכֶּ֙סֶף֙ בְּיָ֣דְךָ֔ וְהָֽלַכְתָּ֙ אֶל־הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃",
+      "en": "you may convert them into money. Wrap up the money and take it with you to the place that the ETERNAL your God has chosen,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 14:26",
+      "he": "וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר־תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֙יִן֙ וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ׃",
+      "en": "and spend the money on anything you want—cattle, sheep, wine, or other intoxicant, or anything you may desire. And you shall feast there, in the presence of the ETERNAL your God, and rejoice with your household.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בכל אשר תאוה נפשך – כְּלָל:",
+          "en": "בכל אשר תאוה נפשך [AND THOU SHALT GIVE THAT MONEY] FOR WHATSOEVER THY SOUL LONGETH AFTER — this is a general statement,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בבקר ובצאן וביין ובשכר – פְּרָט:",
+          "en": "בבקר ובצאן וביין ובשכר FOR ANY OF THE HERD, OR ANY OF THE FLOCK, OR FOR WINE, OR FOR STRONG DRINK — this is a particularisation,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ובכל אשר תשאלך נפשך – חָזַר וְכָלַל, מַה הַפְּרָט מְפֹרָשׁ וְלַד וַלְדוֹת הָאָרֶץ וְרָאוּי לְמַאֲכַל אָדָם וְכוּ' (עירובין כ\"ז):",
+          "en": "ובכל אשר תאוה נפשך OR FOR WHATEVER THY SOUL DESIRES — Scripture again includes them in a general statement. [The rule is that when a verse expresses a כְּלָל, a פְּרָט, and then a כְּלָל again, as in this case, we apply the characteristics of the פְּרָט to the whole matter. Therefore,] just as the particulars mentioned have the characteristic of being products (ולד) of things themselves produced by the earth during the week of Creation, and are fitted to be food for man, etc. [So, too, the money must be expended only on things of this character] (Eruvin 27b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:27",
+      "he": "וְהַלֵּוִ֥י אֲשֶׁר־בִּשְׁעָרֶ֖יךָ לֹ֣א תַֽעַזְבֶ֑נּוּ כִּ֣י אֵ֥ין ל֛וֹ חֵ֥לֶק וְנַחֲלָ֖ה עִמָּֽךְ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "But do not neglect the Levitefthe Levite See the second note at 12.12. in your community, for he has no hereditary portion as you have.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והלוי, לא תעזבנו. מִלִּתֵּן לוֹ מַעֲשֵׂר רִאשׁוֹן:",
+          "en": "והלוי … לא תעזבנו AND THE LEVITE [THAT IS WITHIN THY GATES;] THOU SHALT NOT FORSAKE HIM by not giving him the “First Tithe” (מעשר ראשון).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי אין לו חלק ונחלה עמך. יָצְאוּ לֶקֶט שִׁכְחָה וּפֵאָה וְהֶפְקֵר, שֶׁאַף הוּא יֵשׁ לוֹ חֵלֶק עִמְּךָ בָּהֶן כָּמוֹךָ, וְאֵינָן חַיָּבִין בְּמַעֲשֵׂר:",
+          "en": "כי אין לו חלק ונחלה עמך OR HE HATH NO PORTION NOR INHERITANCE WITH THEE — This excludes “Gleanings” (לקט), “the forgotten sheaf” (שכחה), the “corner of the field” (פאה), and ownerless things (הפקר) from the things that must be tithed — for he (the Levite) has a portion in them (is entitled to take of them) with you, just the same as you, and they are therefore exempt from tithes (Mishnah Challah 1:3; Bava Kamma 94a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:28",
+      "he": "מִקְצֵ֣ה&thinsp;׀ שָׁלֹ֣שׁ שָׁנִ֗ים תּוֹצִיא֙ אֶת־כׇּל־מַעְשַׂר֙ תְּבוּאָ֣תְךָ֔ בַּשָּׁנָ֖ה הַהִ֑וא וְהִנַּחְתָּ֖ בִּשְׁעָרֶֽיךָ׃",
+      "en": "Every third yeargEvery third year Lit. “After a period of three years”; cf. 26.12. you shall bring out the full tithe of your yield of that year, but leave it within your settlements.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מקצה שלש שנים. בָּא וְלִמֵּד שֶׁאִם הִשְׁהָה מַעַשְׂרוֹתָיו שֶׁל שָׁנָה רִאשׁוֹנָה וּשְׁנִיָּה לִשְׁמִטָּה, שֶׁיְּבַעֲרֵם מִן הַבַּיִת בַּשְּׁלִישִׁית:",
+          "en": "מקצה שלש שנים AT THE END OF THREE YEARS [THOU SHALT BRING FORTH ALL THE TITHE OF THY INCREASE THE SAME YEAR] — Scripture hereby intends to teach you that if one has delayed to give his tithes of the first and the second year of the Sabbatical period, he has to remove them from his house in the third year.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 14:29",
+      "he": "וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין־לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּ֠ר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇל־מַעֲשֵׂ֥ה יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Then the Levite, who has no hereditary portion as you have, and the stranger, the fatherless, and the widow in your settlements shall come and eat their fill, so that the ETERNAL your God may bless you in all the enterprises you undertake.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובא הלוי. וְיִטֹּל מַעֲשֵׂר רִאשׁוֹן:",
+          "en": "ובא הלוי AND THE LEVITE SHALL COME and take the “First Tithe” which you have failed to give him,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והגר והיתום. וְיִטְּלוּ מַעֲשֵׂר שֵׁנִי, שֶׁהוּא שֶׁל עָנִי שֶׁל שָׁנָה זוֹ, וְלֹא תֹאכְלֶנּוּ אַתָּה בִּירוּשָׁלַיִם כְּדֶרֶךְ שֶׁנִּזְקַקְתָּ לֶאֱכֹל מַעֲשֵׂר שֵׁנִי שֶׁל שְׁתֵּי שָׁנִים:",
+          "en": "והגר והיתום AND THE STRANGER AND THE FATHERLESS [SHALL COME] and take the “Second Tithe”, which belongs to the poor in that year, and you shall not eat it yourself in Jerusalem, as you were bound to eat the “Second Tithe” of the first two years,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואכלו ושבעו. תֵּן לָהֶם כְּדֵי שָׂבְעָן, מִכָּאן אָמְרוּ אֵין פּוֹחֲתִין לֶעָנִי בַּגֹּרֶן וְכוּ' (ספרי קי). וְאַתָּה הוֹלֵךְ לִירוּשָׁלַיִם בַּמַּעֲשֵׂר שֶׁל שָׁנָה רִאשׁוֹנָה וּשְׁנִיָּה שֶׁהִשְׁהֵיתָ, וּמִתְוַדֶּה \"בִּעַרְתִּי הַקֹּדֶשׁ מִן הַבַּיִת\" כְּמוֹ שֶׁמְּפֹרָשׁ בְּכִי תְכַלֶּה לַעְשֵׂר (דברים כ\"ו):",
+          "en": "ואכלו ושבעו AND THEY SHALL EAT AND BE SATISFIED — Give them sufficient to satisfy them. From here they (the Rabbis) derived the law: one must give the poor in the barn no less than half a kab of wheat or a kab of barley (Sifrei Devarim 110:3). As for you, go up to Jerusalem with the tithe (i.e. מעשר שני) of the first and the second years which thou hast delayed, and make the confession there: “I have removed the hallowed things from the house” — as it is stated in the section beginning with the words כי תכלה לעשר (Deuteronomy 26:12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:1",
+      "he": "מִקֵּ֥ץ שֶֽׁבַע־שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃",
+      "en": "Every seventh yearaEvery seventh year Lit. “After a period of seven years”; cf. 14.28. you shall practice remission of debts.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מקץ שבע שנים. יָכוֹל שֶׁבַע שָׁנִים לְכָל מִלְוָה וּמִלְוָה, תַּ\"לֹ \"קָרְבָה שְׁנַת הַשֶּׁבַע\", וְאִם אַתָּה אוֹמֵר שֶׁבַע שָׁנִים לְכָל מִלְוָה וּמִלְוָה, לְהַלְוָאוֹת כָּל אֶחָד וְאֶחָד, הֵיאַךְ הִיא קְרֵבָה? הָא לָמַדְתָּ שֶׁבַע שָׁנִים לְמִנְיַן הַשְּׁמִטָּה (ספרי):",
+          "en": "מקץ שבע שנים AT THE END OF SEVEN YEARS [THOU SHALT MAKE A REMISSION] — One might think that this means seven years after each individual loan! Scripture, however, states, (v. 9) “[Take heed unto thyself lest there be in thy heart a word of worthlessness, saying], The seventh year … approacheth [and thine eye be evil against thy brother and thou givest him nought]”! Now, if you say that the seven years spoken of here mean seven years after each individual loan, i.e., after the granting of the loan to each individual person, how can one say, at the time the request for a loan is being made, “it (the seventh year) is coming near?” Consequently you must learn from this that Scripture means seven years according to the reckoning of the Sh’mitta-period (Sifrei Devarim 111:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:2",
+      "he": "וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כׇּל־בַּ֙עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ לֹֽא־יִגֹּ֤שׂ אֶת־רֵעֵ֙הוּ֙ וְאֶת־אָחִ֔יו כִּֽי־קָרָ֥א שְׁמִטָּ֖ה לַיהֹוָֽה׃",
+      "en": "This shall be the nature of the remission: all creditors shall remit the due that they claim from their fellow Israelites; they shall not dun their fellow Israelites—their kindred—for the remission proclaimed is of GOD.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שמוט כל בעל משה ידו. שָׁמוֹט אֶת יָדוֹ שֶׁל כָּל בַּעַל מַשֶּׁה:",
+          "en": "שמוט כל בעל משה ידו means as much as שמוט את ידו של כל בעל משה THERE SHALL BE A RELAXING OF THE HAND OF EVERY CREDITOR.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:3",
+      "he": "אֶת־הַנׇּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ׃",
+      "en": "You may dun the foreigner; but you must remit whatever is due you from your kindred.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את הנכרי תגש. זוֹ מִצְוַת עֲשֵׂה (שם):",
+          "en": "את הנכרי תגוש OF ANY ALIEN THOU MAYEST EXACT IT AGAIN — This implies a positive command (Sifrei Devarim 113:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:4",
+      "he": "אֶ֕פֶס כִּ֛י לֹ֥א יִֽהְיֶה־בְּךָ֖ אֶבְי֑וֹן כִּֽי־בָרֵ֤ךְ יְבָֽרֶכְךָ֙ יְהֹוָ֔ה בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹֽתֵן־לְךָ֥ נַחֲלָ֖ה לְרִשְׁתָּֽהּ׃",
+      "en": "There shall be no needy among you—since the ETERNAL your God will bless you in the land that the ETERNAL your God is giving you as a hereditary portion—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אפס כי לא יהיה בך אביון. וּלְהַלָּן הוּא אוֹמֵר \"כִּי לֹא יֶחְדַּל אֶבְיוֹן\"? אֶלָּא בִּזְמַן שֶׁאַתֶּם עוֹשִׂים רְצוֹנוֹ שֶׁל מָקוֹם אֶבְיוֹנִים בַּאֲחֵרִים וְלֹא בָכֶם, וּכְשֶׁאֵין אַתֶּם עוֹשִׂים רְצוֹנוֹ שֶׁל מָקוֹם אֶבְיוֹנִים בָּכֶם:",
+          "en": "אפס כי לא יהיה בך אביון HOWBEIT THERE SHALL BE NO NEEDY AMONG YOU — But further on (v. 11) it states, “For the needy shall never cease out of the land”! But the explanation is: When you do the will of the Omnipresent the needy will be amongst the others and not amongst you, if, however, you do not the will of the Omnipresent, the needy will be amongst you (Sifrei Devarim 114:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אביון. דַּל מֵעָנִי, וּלְשׁוֹן אֶבְיוֹן שֶׁהוּא תָּאֵב לְכָל דָּבָר (עי' ויקרא רבה ל\"ד):",
+          "en": "אביון denotes a person who is more destitute than an עני. The term אביון (from the root אבה “to long for”, “to desire”; cf. Rashi on Exodus 23:6) denotes one who longs for everything (because he lacks everything) (Leviticus Rabbah 34:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:5",
+      "he": "רַ֚ק אִם־שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֣ה אֱלֹהֶ֑יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃",
+      "en": "if only you heed the ETERNAL your God and take care to keep all this Instruction that I enjoin upon you this day.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק אם שמוע תשמע. אָז לא יהיה בך אביון:",
+          "en": "רק אם שמוע תשמע ONLY IF THOU WILT CAREFULLY HEARKEN [UNTO THE VOICE OF THE LORD THY GOD] — then לא יהיה בך אביון THERE SHALL BE NO NEEDY AMONGST YOU.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שמוע תשמע. שָׁמַע קִמְעָא מַשְׁמִיעִין אוֹתוֹ הַרְבֵּה (ספרי):",
+          "en": "שמוע תשמע [IF] THOU WILT CAREFULLY HEARKEN — The repetition of the verbal form suggests: If one listens a little (if one shows the determination to obey) he is caused to listen to many things (he gradually becomes obedient to every divine command) (Sifrei Devarim 115:1; cf. Rashi on Deuteronomy 11:13).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:6",
+      "he": "כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בֵּֽרַכְךָ֔ כַּאֲשֶׁ֖ר דִּבֶּר־לָ֑ךְ וְהַֽעֲבַטְתָּ֞ גּוֹיִ֣ם רַבִּ֗ים וְאַתָּה֙ לֹ֣א תַעֲבֹ֔ט וּמָֽשַׁלְתָּ֙ בְּגוֹיִ֣ם רַבִּ֔ים וּבְךָ֖ לֹ֥א יִמְשֹֽׁלוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "For the ETERNAL your God will bless you as promised: you will extend loans to many nations, but require none yourself; you will dominate many nations, but they will not dominate you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כאשר דבר לך. וְהֵיכָן דִּבֵּר? (דברים כ\"ח) בָּרוּךְ אַתָּה בָּעִיר (ספרי):",
+          "en": "כאשר דבר לך [FOR THE LORD GOD BLESSETH THEE] AS HE PROMISED THEE — and where did He promise you this? In the statement, (Deuteronomy 28:3—12) “Blessed shalt thou be in the city, etc.” (Sifrei Devarim 116:1).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והעבטת. כָּל לְשׁוֹן הַלְוָאָה כְּשֶׁנּוֹפֵל עַל הַמַּלְוֶה נוֹפֵל בִּלְשׁוֹן מַפְעִיל, כְּגוֹן וְהִלְוִיתָ, וְהַעֲבַטְתָּ. וְאִם הָיָה אוֹמֵר וְעָבַטְתָּ הָיָה נוֹפֵל עַל הַלֹּוֶה, כְּמוֹ וְלָוִיתָ:",
+          "en": "והעבטת AND THOU SHALT LEND ON PLEDGE — In the case of every term that denotes transacting a loan when it refers to the lender, the Hiphil form is appropriate to it (to cause a person to do something: here, “you will make many people to be borrowers” i.e. you will lend to them), as for instance, והעבטת, והלוית; while if it stated וְעָבַטְתָּ (in the Kal), it would apply to the borrower, meaning “thou wilt borrow on pledge”, the same as ולוית (“and thou will borrow”, which in Kal refers to the borrower).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "והעבטת גוים. יָכוֹל שֶׁתְּהֵא לֹוֶה מִזֶּה וּמַלְוֶה לָזֶה, תַּ\"לֹ \"וְאַתָּה לֹא תַעֲבֹט\":",
+          "en": "והעבטת גוים AND THOU SHALT LEND ON PLEDGE UNTO [MANY] NATIONS — One might think that you might do this in that you will borrow from one nation and lend to another! Scripture, however, states, “but you shall not borrow” (Sifrei Devarim 116:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ומשלת בגוים רבים. יָכוֹל גוֹיִם אֲחֵרִים מוֹשְׁלִים עָלֶיךָ, תַּ\"לֹ \"וּבְךָ לֹא יִמְשֹׁלוּ\" (שם):",
+          "en": "ומשלת בגוים רבים AND THOU SHALT RULE OVER MANY NATIONS — One might think that at the very same time other nations will be ruling over you! Scripture, however, states, “but they shall not rule over you (Sifrei Devarim 116:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:7",
+      "he": "כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֙יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת־לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן׃",
+      "en": "If, however, there is a needy person among you, one of your kindred in any of your settlements in the land that the ETERNAL your God is giving you, do not harden your heart and shut your hand against your needy kindred.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי יהיה בך אביון. הַתָּאֵב תָּאֵב קוֹדֵם:",
+          "en": "כי יהיה בך אביון IF THERE BE AMONG YOU A NEEDY MAN — The most needy has preference (Sifrei Devarim 116:4);",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מאחד אחיך. אָחִיךָ מֵאָבִיךָ קוֹדֵם לְאָחִיךָ מֵאִמְּךָ:",
+          "en": "מאחד אחיך ONE OF THY BRETHREN — thy brother on thy fathers side has preference over thy brother on thy mother’s side (Sifrei Devarim 116:5);",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "שעריך. עֲנִיֵּי עִירְךָ קוֹדְמִים לַעֲנִיֵּי עִיר אַחֶרֶת:",
+          "en": "שעריך [WITHIN ANY OF] THY GATES — this implies that the poor of thine own city have preference over the poor of another city (Sifrei Devarim 116:6; cf. Rashi on Exodus 22:24).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "לא תאמץ. יֵשׁ לְךָ אָדָם שֶׁמִּצְטַעֵר אִם יִתֵּן אִם לֹא יִתֵּן, לְכָךְ נֶאֱמַר \"לֹא תְאַמֵּץ\". יֵשׁ לְךָ שֶׁפּוֹשֵׁט אֶת יָדוֹ וְקוֹפְצָהּ, לְכָךְ נֶאֱמַר \"לֹא תִקְפֹּץ\" (שם):",
+          "en": "לא תאמץ THOU SHALT NOT MAKE [THY HEART] OBSTINATE — There are people who painfully deliberate whether they should give or not, therefore Scripture states, “thou shalt not make thy heart obstinate”; there again are people who stretch their hand forth (show readiness to give) but then close it, therefore it is written, “thou shalt not close thine hand” (Sifrei Devarim 116:10-11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "מאחיך האביון. אִם לֹא תִתֵּן לוֹ, סוֹפְךָ לִהְיוֹת אָחִיו שֶׁל אֶבְיוֹן (שם):",
+          "en": "מאחיך מאביון [NOR CLOSE THINE HAND] FROM THY NEEDY BROTHER — If you will not give him you will become in the end a brother of the needy (become as needy as himself) (cf. Sifrei Devarim 116:12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:8",
+      "he": "כִּֽי־פָתֹ֧חַ תִּפְתַּ֛ח אֶת־יָדְךָ֖ ל֑וֹ וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר יֶחְסַ֖ר לֽוֹ׃",
+      "en": "Rather, you must open your hand and lend whatever is sufficient to meet the need.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פתח תפתח. אֲפִלּוּ כַמָּה פְעָמִים (שם):",
+          "en": "פתח תפתח [BUT] THOU SHALT SURELY OPEN [THINE HAND] — even many times (Sifrei Devarim 116:13).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי פתח תפתח. הֲרֵי כִי מְשַׁמֵּשׁ בִּלְשׁוֹן אֶלָּא:",
+          "en": "כי פתח תפתח BUT THOU SHALT SURELY OPEN [THINE HAND] — Here, you see, the word כי has the meaning of “but” (whilst e.g.. in v. 7 it means “if”, in v. 10 “because”).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "והעבט תעביטנו. אִם לֹא רָצָה בְמַתָּנָה תֵּן לוֹ בְּהַלְוָאָה (עי' שם; כתובות ס\"ז):",
+          "en": "והעבט תעביטנו AND THOU SHALT LEND HIM ON PLEDGE — If he does not want a gift, give it to him as a loan (cf. Sifrei Devarim 116:14; Ketubot 67b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "די מחסרו. וְאִי אַתָּה מְצֻוֶּה לְהַעֲשִׁירוֹ:",
+          "en": "די מחסרו [LEND HIM ON PLEDGE] SUFFICIENT FOR HIS NEED — but you are not commanded to make him rich.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "אשר יחסר לו. אֲפִלּוּ סוּס לִרְכֹּב עָלָיו וְעֶבֶד לָרוּץ לְפָנָיו (שם):",
+          "en": "אשר יחסר לו [SUFFICIENT FOR HIS NEED] IN THAT WHICH HE LACKETH — This implies: you must provide him even with a horse to ride on and a slave to run before him (if he was accustomed to such and now feels the lack of them) (Sifrei Devarim 116:16; Ketubot 67b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "לו. זוֹ אִשָּׁה וְכֵן הוּא אוֹמֵר (בראשית ב') אֶעֱשֶׂה לּוֹ עֵזֶר כְּנֶגְדּוֹ (ספרי):",
+          "en": "לו — implies that you must help him even to get a wife; for so it states. אעשה לו עזר כנגדו “I will make a helpmate for him (לו)” (Sifrei Devarim 116:17; Ketubot 67b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:9",
+      "he": "הִשָּׁ֣מֶר לְךָ֡ פֶּן־יִהְיֶ֣ה דָבָר֩ עִם־לְבָבְךָ֨ בְלִיַּ֜עַל לֵאמֹ֗ר קָֽרְבָ֣ה שְׁנַֽת־הַשֶּׁ֘בַע֮ שְׁנַ֣ת הַשְּׁמִטָּה֒ וְרָעָ֣ה עֵֽינְךָ֗ בְּאָחִ֙יךָ֙ הָֽאֶבְי֔וֹן וְלֹ֥א תִתֵּ֖ן ל֑וֹ וְקָרָ֤א עָלֶ֙יךָ֙ אֶל־יְהֹוָ֔ה וְהָיָ֥ה בְךָ֖ חֵֽטְא׃",
+      "en": "Beware lest you harbor the base thought, “The seventh year, the year of remission, is approaching,” so that you are mean and give nothing to your needy kindred—who will cry out to GOD against you, and you will incur guilt.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וקרא עליך. יָכוֹל מִצְוָה, תַּ\"לֹ וְלֹא יִקְרָא:",
+          "en": "וקרא עליך AND HE CRY [UNTO THE LORD] AGAINST THEE — One might think this is a command (“he shall call against thee”). Scripture, however, states, (Deuteronomy 24:15) “[At his day thou shalt give him his hire … he is poor], so that he may not call against thee [unto the Lord]” (Sifrei Devarim 117:5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והיה בך חטא. מִכָּל מָקוֹם, אֲפִלּוּ לֹא יִקְרָא. אִם כֵּן לָמָּה נֶאֱמַר \"וְקָרָא עָלֶיךָ\"? מְמַהֵר אֲנִי לִפָּרַע עַל יְדֵי הַקּוֹרֵא יוֹתֵר מִמִּי שֶׁאֵינוֹ קוֹרֵא (שם):",
+          "en": "והיה בך חטא AND IT BE SIN UNTO THEE — under any circumstances, even if he does not cry against thee. But if this be so, to what end is it written “and he cry against thee”? It suggests that I will make greater haste to punish thee because of him who cries, than because of one who does not cry (Sifrei Devarim 117:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:10",
+      "he": "נָת֤וֹן תִּתֵּן֙ ל֔וֹ וְלֹא־יֵרַ֥ע לְבָבְךָ֖ בְּתִתְּךָ֣ ל֑וֹ כִּ֞י בִּגְלַ֣ל&thinsp;׀ הַדָּבָ֣ר הַזֶּ֗ה יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇֽל־מַעֲשֶׂ֔ךָ וּבְכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃",
+      "en": "Give readily and have no regrets when you do so, for in return the ETERNAL your God will bless you in all your efforts and in all your undertakings.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נתון תתן לו. אֲפִלּוּ מֵאָה פְעָמִים:",
+          "en": "נתן תתן לו THOU SHALT SURELY GIVE HIM — even hundred times (Sifrei Devarim 117:6).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לו. בֵּינוֹ וּבֵינְךָ:",
+          "en": "לו implies between him and you (privately) (Sifrei Devarim 117:7.)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כי בגלל הדבר. אֲפִלּוּ אָמַרְתָּ לִתֵּן, אַתָּה נוֹטֵל שְׂכַר הָאֲמִירָה עִם שְׂכַר הַמַּעֲשֶׂה (שם):",
+          "en": "כי בגלל הדבר הזה BECAUSE THAT FOR THIS THING [THE LORD THY GOD SHALL BLESS THEE] — (the word is taken in its literal sense of “word”, for it would have sufficed to state כי בגלל זה suggesting): even if you only say (intend) to give but are later unable to do so you will receive a reward for the mere saying (intention) together with the reward for the action (Sifrei Devarim 117:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:11",
+      "he": "כִּ֛י לֹא־יֶחְדַּ֥ל אֶבְי֖וֹן מִקֶּ֣רֶב הָאָ֑רֶץ עַל־כֵּ֞ן אָנֹכִ֤י מְצַוְּךָ֙ לֵאמֹ֔ר פָּ֠תֹ֠חַ תִּפְתַּ֨ח אֶת־יָדְךָ֜ לְאָחִ֧יךָ לַעֲנִיֶּ֛ךָ וּלְאֶבְיֹנְךָ֖ בְּאַרְצֶֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "For there will never cease to be needy ones in your land, which is why I command you: open your hand to the poor and needy kindred in your land.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על כן. מִפְּנֵי כֵן:",
+          "en": "על כן means מפני כן BECAUSE OF THIS.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לאמר. עֵצָה לְטוֹבָתְךָ אֲנִי מַשִּׂיאֲךָ:",
+          "en": "לאמר suggests: I give you good advice for your own benefit (Sifrei Devarim 118:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לאחיך לעניך. לְאֵיזֶה אָח? לֶעָנִי:",
+          "en": "לאחיך לעניך [THOU SHALT SURELY OPEN THINE HAND] UNTO THY BROTHER, TO THY POOR — open thine hand to thy brother, to which brother? To the poor one.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "לעניך. בְּיוֹ\"ד אֶחָד — לְשׁוֹן עָנִי אֶחָד הוּא, אֲבָל עֲנִיֶּיךָ בִשְׁנֵי יוֹדִי\"ן — שְׁנֵי עֲנִיִּים:",
+          "en": "לעניך written with one Jod denotes one poor man, but ענייך with two Jods denotes two (or many) poor, i.e. it is a plural form.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:12",
+      "he": "כִּֽי־יִמָּכֵ֨ר לְךָ֜ אָחִ֣יךָ הָֽעִבְרִ֗י א֚וֹ הָֽעִבְרִיָּ֔ה וַעֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבַשָּׁנָה֙ הַשְּׁבִיעִ֔ת תְּשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵעִמָּֽךְ׃",
+      "en": "If any fellow Hebrew, man or woman, is sold to you, they shall serve you six years, and in the seventh year you shall set them free.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי ימכר לך. עַל יְדֵי אֲחֵרִים, בִּמְכָרוּהוּ בֵּית דִּין בִּגְנֵבָתוֹ הַכָּתוּב מְדַבֵּר; וַהֲרֵי כְבָר נֶאֱמַר \"כִּי תִקְנֶה עֶבֶד עִבְרִי\" וּבִמְכָרוּהוּ בֵית דִּין הַכָּתוּב מְדַבֵּר? אֶלָּא מִפְּנֵי שְׁנֵי דְבָרִים שֶׁנִּתְחַדְּשׁוּ כָּאן, אֶחָד שֶׁכָּתוּב או העבריה אַף הִיא תֵצֵא בְּשֵׁשׁ. וְלֹא שֶׁמְּכָרוּהָ בֵית דִּין, שֶׁאֵין הָאִשָּׁה נִמְכֶּרֶת בִּגְנֵבָתָהּ, שֶׁנֶּאֱמַר \"בִּגְנֵבָתוֹ\" וְלֹא \"בִגְנֵבָתָהּ\" – אֶלָּא בִקְטַנָּה שֶׁמְּכָרָהּ אָבִיהָ, וְלִמֵּד כָּאן שֶׁאִם יָצְאוּ שֵׁשׁ שָׁנִים קֹדֶם שֶׁתָּבִיא סִימָנִין תֵּצֵא, וְעוֹד חִדֵּשׁ כָּאן העניק תעניק:",
+          "en": "כי ימכר לך IF [THY BROTHER …] BE SOLD UNTO THEE by others (not one that sells himself as a servant on account of his destitution, of which case Scripture deals in Leviticus 25:46 ff); Scripture is speaking of one whom the court has sold for a theft that he has committed. But has it not already been stated. (Exodus 21:2) “If thou buyest an Hebrew servant” and there, too, Scripture speaks of one whom the court has sold (as proved by Rashi in his comment on that verse; Mekhilta)?!. But the repetition was necessary because of two new points that are stated here: the one is that it is here written “or an Hebrew woman”, that she, too, like a man-servant, goes free at the end of six years of servitude — it does not mean a woman whom the court had sold, for a woman cannot be sold by the court on account of a theft committed by her, since it states, (Exodus 22:2) that the thief shall be sold “for his theft” which implies: he for his theft, but not she for her theft (Sotah 23b); — but what Scripture is speaking of here is of a woman under age whom her father has sold as a handmaid, and it teaches you here that if six years of servitude terminate before the time that she shows signs of incipient puberty she goes free. And further it mentions a new point here, viz., “thou shalt furnish him (or her) liberally” (cf. Rashi on Exodus 30:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:13",
+      "he": "וְכִֽי־תְשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם׃",
+      "en": "When you set them free, do not let them go empty-handed:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 15:14",
+      "he": "הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגׇּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ תִּתֶּן־לֽוֹ׃",
+      "en": "Furnish them out of the flock, threshing floor, and vat, with which the ETERNAL your God has blessed you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "העניק תעניק. לְשׁוֹן עֲדִי בַּגֹּבַהּ וּבְמַרְאִית הָעַיִן, דָּבָר שֶׁיְּהֵא נִכָּר שֶׁהֱטִיבוֹתָ לוֹ; וְיֵשׁ מְפָרְשִׁים לְשׁוֹן הַטְעָנָה עַל צַוָּארוֹ:",
+          "en": "הענק תעניק THOU SHALT FURNISH HIM LIBERALLY — The noun from the root ענק denotes an ornament worn high up on the body which thus easily comes within sight of the eye (i.e. is conspicuous), (cf. ענק, a giant, someone who towers on high) — i.e. you shall furnish him with something that will make it patent that you have been kind to him. There are some who explain the word הענק to mean loading on his (the servant’s) neck.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מצאנך ומגרנך ומיקבך. יָכוֹל אֵין לִי אֶלָּא אֵלּוּ בִּלְבַד, תַּ\"לֹ אשר ברכך – מִכָּל מַה שֶּׁבֵּרַכְךָ בּוֹרַאֲךָ. וְלָמָּה נֶאֶמְרוּ אֵלּוּ? מָה אֵלּוּ מְיֻחָדִים שֶׁהֵם בִּכְלַל בְּרָכָה אַף כָּל שֶׁהוּא בִּכְלַל בְּרָכָה, יָצְאוּ פְּרָדוֹת; וְלָמְדוּ רַבּוֹתֵינוּ בְמַסֶּכֶת קִדּוּשִׁין (דף י\"ז) בִּגְזֵרָה שָׁוָה כַּמָּה נוֹתֵן לוֹ מִכָּל מִין וָמִין:",
+          "en": "מצאנך מגרנך ומיקבך [THOU SHALT FURNISH HIM LIBERALLY] OUT OF THY FLOCK, AND OUT OF THY FLOOR, AND OUT OF THY WINE PRESS — One might think I have this duty in respect to these things only! Scripture, however, states “that wherewith the Lord thy God hath blessed thee [shalt thou give him]” implying, of all with which thy Creator hath blessed thee. Why, then, are these alone specifically mentioned? To teach you the following: How is it with these things? They have the characteristic that they come under the term of “blessing”, (i.e. they possess the power of propagating) so, too, you are obliged to furnish him only with such things that come under the term “blessing”, thus excluding mules, (because they are sterile) (Sifrei Devarim 119:3; Kiddushin 17a). — Our Rabbis have derived in Treatise Kiddushin 17a by reasoning from the analogous expressions found in certain texts (גז\"ש) what quantities one must give him of all the different kinds here mentioned.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:15",
+      "he": "וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַֽיִּפְדְּךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ עַל־כֵּ֞ן אָנֹכִ֧י מְצַוְּךָ֛ אֶת־הַדָּבָ֥ר הַזֶּ֖ה הַיּֽוֹם׃",
+      "en": "Bear in mind that you were slaves in the land of Egypt and the ETERNAL your God redeemed you; therefore I enjoin this commandment upon you today.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וזכרת כי עבד היית. וְהֶעֱנַקְתִּי וְשָׁנִיתִי לְךָ מִבִּזַּת מִצְרַיִם וּבִזַּת הַיָּם, אַף אַתָּה הַעֲנֵק וּשְׁנֵה לוֹ (ספרי):",
+          "en": "וזכרת כי עבד היית AND THOU SHALT REMEMBER THAT THOU WAST A SERVANT [IN THE LAND OF EGYPT] — and I loaded thee with good things, and did so a second time — from the spoil of the land of Egypt and from the spoil at the Red Sea; so you, too, load him once, and do it again for him (Sifrei Devarim 120:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:16",
+      "he": "וְהָיָה֙ כִּֽי־יֹאמַ֣ר אֵלֶ֔יךָ לֹ֥א אֵצֵ֖א מֵעִמָּ֑ךְ כִּ֤י אֲהֵֽבְךָ֙ וְאֶת־בֵּיתֶ֔ךָ כִּי־ט֥וֹב ל֖וֹ עִמָּֽךְ׃",
+      "en": "But should they say to you, “I do not want to leave you”—for they love you and your household and are happy with you—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 15:17",
+      "he": "וְלָקַחְתָּ֣ אֶת־הַמַּרְצֵ֗עַ וְנָתַתָּ֤ה בְאׇזְנוֹ֙ וּבַדֶּ֔לֶת וְהָיָ֥ה לְךָ֖ עֶ֣בֶד עוֹלָ֑ם וְאַ֥ף לַאֲמָתְךָ֖ תַּעֲשֶׂה־כֵּֽן׃",
+      "en": "you shall take an awl and put it through their ear into the door, and they shall become your slave in perpetuity. Do this even with your female slave.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עבד עולם. יָכוֹל כְּמַשְׁמָעוֹ, תַּ\"לֹ \"וְשַׁבְתֶּם אִישׁ אֶל אֲחֻזָּתוֹ וְאִישׁ אֶל מִשְׁפַּחְתּוֹ תָּשֻׁבוּ\" (ויקרא כ\"ה), הָא לָמַדְתָּ שֶׁאֵין זֶה אֶלָּא עוֹלָמוֹ שֶׁל יוֹבֵל (מכילתא שמות כ\"א):",
+          "en": "עבד עולם [AND HE SHALL BE THY] SERVANT עולם — One might think that עולם has here its usual meaning: for ever! Scripture, however, states, (Leviticus 25:10) “[And ye shall sanctify the fiftieth year and proclaim liberty throughout all the land unto all the inhabitants thereof] and ye shall return every man unto his family”. Consequently, you learn that it (what Scripture terms here עולם), can only mean the period until the termination of that Jubilee cycle (Mekhilta; cf. Rashi on that verse),",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואף לאמתך תעשה כן. הַעֲנֵק לָהּ; יָכוֹל אַף לִרְצִיעָה הִשְׁוָה הַכָּתוּב אוֹתָהּ, תַּ\"לֹ (שמות כ\"א) \"וְאִם אָמֹר יֹאמַר הָעֶבֶד\" – עֶבֶד נִרְצָע וְאֵין אָמָה נִרְצַעַת (ספרי):",
+          "en": "ואף לאמתך תעשה כן AND ALSO UNTO THY MAID SERVANT THOU SHALT DO LIKEWISE — i.e. furnish her out of thy property. One might think, however, that Scripture puts her on the same level with the man-servant concerning the piercing of the ear too! It however, states, (Exodus 21:5) “And if the man-servant (העבד) shall plainly say, [I love my lord … then … his lord shall bore his ear through with an awl]” — so you see that a man-servant must have his ear pierced, but a maid-servant does not have it pierced (Sifrei Devarim 122:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:18",
+      "he": "לֹא־יִקְשֶׁ֣ה בְעֵינֶ֗ךָ בְּשַׁלֵּֽחֲךָ֨ אֹת֤וֹ חׇפְשִׁי֙ מֵֽעִמָּ֔ךְ כִּ֗י מִשְׁנֶה֙ שְׂכַ֣ר שָׂכִ֔יר עֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תַּעֲשֶֽׂה׃&nbsp;{פ}",
+      "en": "When you do set them free, do not feel aggrieved; for in the six years you have been given double the service of a hired worker. Moreover, the ETERNAL your God will bless you in all you do.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי משנה שכר שכיר. מִכָּאן אָמְרוּ עֶבֶד עִבְרִי עוֹבֵד בֵּין בַּיּוֹם וּבֵין בַּלַּיְלָה, וְזֶהוּ כִפְלַיִם שֶׁבַּעֲבוֹדַת שְׂכִירֵי יוֹם. וּמַהוּ עֲבוֹדָתוֹ בַלַּיְלָה? רַבּוֹ מוֹסֵר לוֹ שִׁפְחָה כְנַעֲנִית וְהַוְּלָדוֹת לָאָדוֹן (ספרי):",
+          "en": "כי משנה שכר שכיר [IT SHALL NOT SEEM HARD UNTO THEE WHEN THOU LETTEST HIM GO FREE …] FOR [HE HATH BEEN WORTH] A DOUBLE HIRED SERVANT [UNTO THEE] — From here they (the Rabbis) derived the law that a Hebrew servant has to do service both by day and by night, and that is double as much as the labor of a man hired for day work only. And what is his service during the night? That his master gives him a Canaanite maid-servant with the object of raising children, and the children belong to the master (Sifrei Devarim 123:1; Kiddushin 15a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:19",
+      "he": "כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהֹוָ֣ה אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃",
+      "en": "YoubYou See note at 12.5. shall consecrate to the ETERNAL your God all male firstlings that are born in your herd and in your flock: you must not work your firstling ox or shear your firstling sheep.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל הבכור, תקדיש. וּבְמָקוֹם אַחֵר (ויקרא כ\"ז) הוּא אוֹמֵר \"לֹא יַקְדִּישׁ אִישׁ אֹתוֹ\", הָא כֵיצַד? אֵינוֹ מַקְדִּישׁוֹ לְקָרְבָּן אַחֵר; וְכָאן לִמֵּד שֶׁמִּצְוָה לוֹמַר הֲרֵי אַתָּה קָדוֹשׁ לִבְכוֹרָה. דָּ\"אַ — אִי אֶפְשָׁר לוֹמַר \"תַּקְדִּישׁ\", שֶׁכְּבָר נֶאֱמַר \"לֹא יַקְדִּישׁ\", וְאִי אֶפְשָׁר לוֹמַר \"לֹא יַקְדִּישׁ\", שֶׁהֲרֵי כְבָר נֶאֱמַר \"תַּקְדִּישׁ\", הָא כֵיצַד? מַקְדִּישׁוֹ אַתָּה הֶקְדֵּשׁ עִלּוּי וְנוֹתֵן לַהֶקְדֵּשׁ כְּפִי טוֹבַת הֲנָאָה שֶׁבּוֹ (ערכין כ\"ט):",
+          "en": "כל הבכור ... תקדיש ALL THE FIRSTLING MALES … THOU SHALT SANCTIFY [UNTO THE LORD] — But in another passage (Leviticus 27:26) it states, “[Only the firstborn of the beasts …] one shall not sanctify it”? How can these be reconciled? The latter passage means: he must not dedicate it as a different sacrifice (i.e. offer it as an עולה or שלמים instead of as a בכור), whilst here it teaches that it is a duty to say: “Thou art holy as a firstborn!” Another comment is: It is impossible to say that “thou shalt sanctify” is to be taken literally, for it already states in another passage “one shall not sanctify it”; it is, on the other hand, also impossible to take “one shall not sanctify it” literally, since it states “thou shalt sanctify it”. How can these be reconciled? In the following manner: by taking תקדיש in our verse to imply: “thou mayest dedicate” so far as the dedication of its value (הקדש עלוי) is concerned, and then he must give a sum corresponding to the טובת הנאה in it to the Temple treasury, but you must not dedicate it as far as the altar is concerned (i.e. dedicate it as any sacrifice other than as a בכור) (Arakhin 29a: cf. Sifrei Devarim 124:4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לא תעבד בבכור שורך ולא תגז וגו'. אַף הַחִלּוּף לָמְדוּ רַבּוֹתֵינוּ שֶׁאָסוּר, אֶלָּא שֶׁדִּבֵּר הַכָּתוּב בַּהוֹוֶה (בכורות כ\"ה):",
+          "en": "לא תעבד בבכור שורך ולא תגז וגו׳ THOU SHALT NOT WORK WITH THE FIRSTLING OF THY HERD, NOR SHEAR [THE FIRSTLING OF THY FLOCK] — The converse case also (working with the firstborn sheep and using the hair of the firstborn calf) have our Rabbis derived to be forbidden, but Scripture merely speaks of what usually occurs (Sifrei Devarim 124:6; Bekhorot 25a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:20",
+      "he": "לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ תֹאכְלֶ֙נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃",
+      "en": "You and your household shall eat it annually before the ETERNAL your God in the place that GOD will choose.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לפני ה' אלהיך תאכלנו. לַכֹּהֵן הוּא אוֹמֵר, שֶׁכְּבָר מָצִינוּ שֶׁהוּא מִמַּתְּנוֹת כְּהֻנָּה אֶחָד תָּם וְאֶחָד בַּעַל מוּם, שֶׁנֶּאֱמַר (במדבר י\"ח) וּבְשָׂרָם יִהְיֶה לָּךְ וְגוֹ' (בכ' כ\"ח):",
+          "en": "לפני ה׳ אלהיך תאכלנה THOU SHALT EAT IT BEFORE THE LORD THY GOD — Scripture is speaking to the priest (not to the owner to whom תקדיש in the previous verse refers), for we find already stated that it (the בכור) is one of the dues of the priests whether it is unblemished (and its blood and fat portions are to be sacrificed on the altar and the flesh eaten by the priests), or whether it is blemished (when it must not be offered on the altar), for it states, (Numbers 18:18) “and the flesh of them (the firstborn animals, both the blemished and the unblemished) shall be thine” (the priest’s) (cf. Bekhorot 28a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שנה בשנה. מִכָּאן שֶׁאֵין מַשְׁהִין אוֹתוֹ יוֹתֵר עַל שְׁנָתוֹ; יָכוֹל יְהֵא פָּסוּל מִשֶּׁעָבְרָה שְׁנָתוֹ, כְּבָר הֻקַּשׁ לְמַעֲשֵׂר, שֶׁנֶּאֱמַר (דברים י\"ד) וְאָכַלְתָּ לִפְנֵי ה' אֱלֹהֶיךָ מַעְשַׂר דְּגָנְךָ תִּירֹשְׁךָ וְיִצְהָרֶךָ וּבְכֹרֹת בְּקָרְךָ וְצֹאנֶךָ, מַה מַּעֲשֵׂר שֵׁנִי אֵינוֹ נִפְסָל מִשָּׁנָה לַחֲבֶרְתָּהּ אַף בְּכוֹר אֵינוֹ נִפְסָל, אֶלָּא שֶׁמִּצְוָה תּוֹךְ שְׁנָתוֹ (בכ' כ\"ז):",
+          "en": "שנה בשנה [THOU SHALT EAT IT BEFORE THE LORD …] YEAR BY YEAR — From here we derive the law that one should not defer it (i.e. sacrificing and eating it) beyond its first year (Bekhorot 28a). If so, one might think that it becomes invalid as a sacrifice as soon as its first year has passed! This is not the case, for it has been put in comparison with the second tithe, as it is said, (Deuteronomy 14:23; cf. Rashi on that verse): “and thou shalt eat before the Lord thy God the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds, and thy flocks”. How is it in the case of the second tithe? It does not become invalid if left over from one year to the other (cf. Rashi on Deuteronomy 14:28 and 29), so, too, does the firstborn animal not become invalid under the same circumstances, only that it is a meritorious act to offer and consume it within its first year.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "שנה בשנה. אִם שְׁחָטוֹ בְּסוֹף שְׁנָתוֹ אוֹכְלוֹ אוֹתוֹ הַיּוֹם וְיוֹם אֶחָד מִשָּׁנָה אַחֶרֶת, לִמֵּד שֶׁנֶּאֱכָל לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד (שם):",
+          "en": "שנה בשנה (may also be translated A YEAR WITH ANOTHER YEAR) — If one slaughtered it at the end of its first year (an the last day) he may eat it that day and the first day of the next year. This teaches us that it (a firstborn animal) may in all cases be eaten on two successive days and the intervening night (cf. Sifrei Devarim 125; Bekhorot 27b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:21",
+      "he": "וְכִֽי־יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע לֹ֣א תִזְבָּחֶ֔נּוּ לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃",
+      "en": "But if it has a defect, lameness or blindness, any serious defect, you shall not sacrifice it to the ETERNAL your God.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מום. כְּלָל:",
+          "en": "מום [AND IF THERE BE] ANY BLEMISH [THEREIN, IF IT BE LAME, OR BLIND, OR HAVE ANY ILL BLEMISH, THOU SHALT NOT SACRIFICE IT …] — any blemish is a general statement,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פסח או עור. פְּרָט:",
+          "en": "פסח או עור LAME OR BLIND is a particularization,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כל מום רע. חָזַר וְכָלַל — מַה הַפְּרָט מְפֹרָשׁ מוּם הַגָּלוּי וְאֵינוֹ חוֹזֵר, אַף כָּל מוּם שֶׁבַּגָּלוּי וְאֵינוֹ חוֹזֵר (שם ל\"ז):",
+          "en": "כל מום רע ANY ILL BLEMISH — it again comprises them in a general statement. How is it with the blemishes particularised? They have the characteristic that each is a visible (external) blemish and the animal never returns naturally to its original condition (i.e. never becomes free from the blemish). So, too, the general statement includes all such blemishes that are visible and incurable [while in the case of a transitory blemish the animal may be sacrificed when the blemish has disappeared] (Bekhorot 37a; cf. Sifrei Devarim 126:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 15:22",
+      "he": "בִּשְׁעָרֶ֖יךָ תֹּאכְלֶ֑נּוּ הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃",
+      "en": "Eat it in your settlements, the impure among you no less than the pure, just like the gazelle and the deer.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 15:23",
+      "he": "רַ֥ק אֶת־דָּמ֖וֹ לֹ֣א תֹאכֵ֑ל עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃&nbsp;{פ}",
+      "en": "Only you must not partake of its blood; you shall pour it out on the ground like water.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק את דמו לא תאכל. שֶׁלֹּא תֹאמַר הוֹאִיל וְכֻלּוֹ הֶתֵּר הַבָּא מִכְּלַל אִסּוּר הוּא, שֶׁהֲרֵי קָדוֹשׁ וְנִשְׁחָט בַּחוּץ בְּלֹא פִדְיוֹן וְנֶאֱכָל, יָכוֹל יְהֵא אַף הַדָּם מֻתָּר, תַּלְמוּד לוֹמַר רק את דמו לא תאכל:",
+          "en": "רק את דמו לא תאכל ONLY THOU SHALT NOT EAT THE BLOOD THEREOF — This prohibition appears to be redundant, since the blood of no animal may be eaten, but it is mentioned, in order that you should not think: since it (the blemished firstborn animal) is something that in every respect is permitted originally it belonged to a forbidden class of animals — for, you see, it was holy and yet it may be slaughtered outside the Temple, and may be eaten without redemption — and consequently you might think that its blood is also permitted, Scripture therefore states, “However thou shalt not eat its blood”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:1",
+      "he": "שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהֹוָ֖ה אֱלֹהֶ֑יךָ כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃",
+      "en": "Observe the monthamonth Cf. Exod. 13.4; 23.15; 34.18. of Abib and offer a passover sacrifice to the ETERNAL your God, for it was in the monthbmonth See previous note. of Abib, at night, that the ETERNAL your God freed you from Egypt.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שמור את חדש האביב. מִקֹּדֶם בּוֹאוֹ שְׁמֹר שֶׁיְּהֵא רָאוּי לְאָבִיב – לְהַקְרִיב בּוֹ אֶת מִנְחַת הָעֹמֶר, וְאִם לָאו עַבֵּר אֶת הַשָּׁנָה (עי' סנהדרין י\"א):",
+          "en": "שמור את חדש האביב WATCH THE MONTH OF ABIB — This means: Before it comes watch whether it will be capable of producing ripe ears (אביב), so that one may offer the Omer meal-offering during it, and if not (i.e. if you observe that the ears will not be ripe by the 16th of Nisan), then intercalate the year (i.e. add a month to the winter-period, so that the month Abib falls later than it otherwise would, by which time the ears will be ripened) (cf. Sanhedrin 11b and Note 4 on p. 191 of Leviticus in the Silbermann edition of the Pentateuch).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ממצרים לילה. וַהֲלֹא בַּיּוֹם יָצְאוּ שֶׁנֶּאֱמַר (במדבר ל\"ג) מִמָּחֳרַת הַפֶּסַח יָצְאוּ בְנֵי יִשְׂרָאֵל וְגוֹ'? אֶלָּא לְפִי שֶׁבַּלַּיְלָה נָתַן לָהֶם פַּרְעֹה רְשׁוּת לָצֵאת, שֶׁנֶּאֱמַר (שמות י\"ב) וַיִּקְרָא לְמֹשֶׁה וּלְאַהֲרֹן לַיְלָה וְגוֹ' (בראשית ט'):",
+          "en": "ממצרים לילה [FOR IN THE MONTH OF ABIB THE LORD THY GOD BROUGHT THEE FORTH] FROM EGYPT BY NIGHT — But did they not go forth by day , as it is said, (Numbers 30:3) “on the morrow after the Passover the children of Israel went out … [in the sight of all the Egyptians]”? But it states that they went out by night because Pharaoh gave them permission to go forth by night, as it is said, (Exodus 12:31) “And he called for Moses and Aaron by night, [and said, Rise up, go forth from among my people etc.]” (cf. Sifrei Devarim 128:5; Berakhot 9a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:2",
+      "he": "וְזָבַ֥חְתָּ פֶּ֛סַח לַיהֹוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר בַּמָּקוֹם֙ אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃",
+      "en": "You shall slaughter the passover sacrifice for the ETERNAL your God, from the flock and the herd, in the place where GOD will choose to establish the divine name.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וזבחת פסח לה' אלהיך צאן. שֶׁנֶּאֱמַר (שמות י\"ב) מִן הַכְּבָשִׂים וּמִן הָעִזִּים תִּקָּחוּ:",
+          "en": "וזבחת פסח לה' אלהיך צאן THOU SHALT THEREFORE SACRIFICE THE PASSOVER UNTO THE LORD THY GOD OF SHEEP, as it is said of the Passover offering, (Exodus 12:5) “Ye shall take it from the sheep or from the goats”,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ובקר. תִּזְבַּח לַחֲגִיגָה, שֶׁאִם נִמְנוּ עַל הַפֶּסַח חֲבוּרָה מְרֻבָּה, מְבִיאִים עִמּוֹ חֲגִיגָה כְּדֵי שֶׁיְּהֵא נֶאֱכָל עַל הַשֹּׂבַע (פסחים ס\"ט); וְעוֹד לָמְדוּ רַבּוֹתֵינוּ דְּבָרִים הַרְבֵּה מִפָּסוּק זֶה:",
+          "en": "— ובקר AND OXEN thou shalt slaughter as the חגיגה (the festival offering sacrificed on the fourteenth of Nisan in addition to the Passover offering); for if they have counted themselves (formed themselves) into too large a company for the Passover offering (so that one lamb will not suffice for them) they bring together with it a festival offering and this is eaten first, in order that it (the Passover sacrifice) can be eaten in satiety (i.e. after the appetite is satisfied; cf. Pesachim 69b, 70a). — And besides this our Rabbis derived many Halachic matters from this verse (cf. Sifrei Devarim 129; Berakhot 9a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:3",
+      "he": "לֹא־תֹאכַ֤ל עָלָיו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי כִּ֣י בְחִפָּז֗וֹן יָצָ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לְמַ֣עַן תִּזְכֹּ֗ר אֶת־י֤וֹם צֵֽאתְךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃",
+      "en": "You shall not eat anything leavened with it; for seven days thereaftercthereafter Lit. “upon it.” you shall eat unleavened bread, bread of distress—for you departed from the land of Egypt hurriedly—so that you may remember the day of your departure from the land of Egypt as long as you live.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לחם עני. לֶחֶם שֶׁמַּזְכִּיר אֶת הָעֹנִי שֶׁנִּתְעַנּוּ בְּמִצְרַיִם (ספרי):",
+          "en": "לחם עני THE BREAD OF AFFLICTION — i.e. bread that calls to mind the affliction to which they were subjected in Egypt (Sifrei Devarim 130:5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי בחפזון יצאת. וְלֹא הִסְפִּיק בָּצֵק לְהַחֲמִיץ וְזֶה יִהְיֶה לְךָ לְזִכָּרוֹן; וְחִפָּזוֹן לֹא שֶׁלְּךָ הָיָה אֶלָּא שֶׁל מִצְרַיִם, שֶׁכֵּן הוּא אוֹמֵר \"וַתֶּחֱזַק מִצְרַיִם עַל הָעָם וְגוֹ'\" (ספרי):",
+          "en": "כי בחפזון יצאת FOR THOU CAMEST FORTH [FROM THE LAND OF EGYPT] IN HASTE, and the dough therefore had no time to become leavened, and this (the eating of unleavened bread) shall be unto you as reminder of this. The haste, spoken of here, was not on thy part, but on Egypt’s part, for so it states, (Exodus 12:33) “And Egypt was urgent upon the people [hastening to send them out of the land]” (Sifrei Devarim 130:6; cf. Berakhot 9a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "למען תזכר. עַל יְדֵי אֲכִילַת הַפֶּסַח וְהַמַּצָּה את יום צאתך:",
+          "en": "למען תזכר THAT THOU MAYEST REMEMBER through the eating of the Passover sacrifice and the unleavened bread, את יום צאתך THE DAY WHEN THOU CAMEST FORTH [OUT OF THE LAND OF EGYPT].",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:4",
+      "he": "וְלֹֽא־יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכׇל־גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־יָלִ֣ין מִן־הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃",
+      "en": "For seven days no leaven shall be found with you in all your territory, and none of the flesh of what you slaughter on the evening of the first day shall be left until morning.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא ילין מן הבשר אשר תזבח בערב ביום הראשון לבקר. אַזְהָרָה לַמּוֹתִיר בְּפֶסַח דּוֹרוֹת, לְפִי שֶׁלֹּא נֶאֱמַר אֶלָּא בְּפֶסַח מִצְרַיִם; וְיוֹם רִאשׁוֹן הָאָמוּר כָּאן הוּא י\"ד בְּנִיסָן, כְּמָה דְּאַתְּ אָמַר \"אַךְ בַּיּוֹם הָרִאשׁוֹן תַּשְׁבִּיתוּ שְׂאוֹר מִבָּתֵּיכֶם\" (שמות י\"ב); וּלְפִי שֶׁנִּסְתַּלֵּק הַכָּתוּב מֵעִנְיָנוֹ שֶׁל פֶּסַח וְהִתְחִיל לְדַבֵּר בְּחֻקּוֹת שִׁבְעַת יָמִים, כְּגוֹן שִׁבְעַת יָמִים תֹּאכַל עָלָיו מַצּוֹת, וְלֹא יֵרָאֶה לְךָ שְׂאֹר בְּכָל גְּבֻלְךָ, הֻצְרַךְ לְפָרֵשׁ בְּאֵיזוֹ זְבִיחָה הוּא מַזְהִיר, שֶׁאִם כָּתַב וְלֹא יָלִין מִן הַבָּשָׂר אֲשֶׁר תִּזְבַּח בָּעֶרֶב לַבֹּקֶר הָיִיתִי אוֹמֵר שְׁלָמִים הַנִּשְׁחָטִים כָּל שִׁבְעָה כֻּלָּן בְּבַל תּוֹתִירוּ וְאֵינָן נֶאֱכָלִין אֶלָּא לְיוֹם וָלַיְלָה, לְכָךְ כָּתַב בערב ביום הראשון. דָּבָר אַחֵר בַּחֲגִיגַת י\"ד הַכָּתוּב מְדַבֵּר, וְלִמֵּד עָלֶיהָ שֶׁנֶּאֱכֶלֶת לִשְׁנֵי יָמִים, וְהָרִאשׁוֹן הָאָמוּר כָּאן בְּיוֹם טוֹב הָרִאשׁוֹן הַכָּתוּב מְדַבֵּר, וְכֵן מַשְׁמָעוּת הַמִּקְרָא – בְּשַׂר חֲגִיגָה אֲשֶׁר תִּזְבַּח בָּעֶרֶב לֹא יָלִין בְּיֹ\"טֹ הָרִאשׁוֹן עַד בָּקְרוֹ שֶׁל שֵׁנִי, אֲבָל נֶאֱכֶלֶת הִיא בְאַרְבָּעָה עָשָׂר וּבַחֲמִשָׁה עָשָׂר, וְכָךְ הִיא שְׁנוּיָה בְמַסֶּכֶת פְּסָחִים (דף ע\"א):",
+          "en": "ולא ילין מן הבשר אשר תזבח בערב ביום הראשון לבקר NEITHER SHALL ANY OF THE FLESH, WHICH THOU HAST SACRIFIED THE FIRST DAY AT EVEN, REMAIN ALL NIGHT UNTIL THE MORNING — This is a prohibition addressed to one who might, in the case of the Passover sacrifice offered in later generations (i.e. after the first that was offered in Egypt), leave over night any of its flesh. And it was necessary to state this because so far it has been mentioned only with regard to that one Passover sacrifice that was offered in Egypt (פסח מצרים) (Exodus 12:10). — The “first day” spoken of here is the fourteenth day of Nisan (not the, fifteenth which is the first day of the Festival), just as you must explain that term in the passage (Exodus 12:15): “even the first day (ביום הראשון) ye shall put away leaven out of your houses” (cf. Rashi on that verse). — And because Scripture has digressed from the subject of the Passover Sacrifice with which this section begins and has begun to speak of the ordinances relating to the seven days of the festival, as, for instance, (v. 3) “seven days thou shalt eat unleavened bread therewith”, and (v. 4) “and there shall be no leaven seen with thee in all thy boundaries [seven days]”, it was compelled to specify with regard to which offering it states the prohibition of leaving the flesh over night. For if it had written only “neither shall any of the flesh which thou sacrificedst at even (not mentioning ביום הראשון) remain all night until the morning”, I might have thought that the peace offerings which are slaughtered during all the seven days all come under the prohibition of “and thou shalt not leave any of it until the morning” (Exodus 12:10), and may therefore be eaten one day and the following night only (which is not so); therefore it wrote “[neither shall any of the flesh, which thou sacrificedst] at even on the first day [remain all night]”. — Another explanation is that Scripture speaks here of the festival offering brought on the fourteenth of Nisan (חגיגת י״ד, not of the קרבן פסח) and that it teaches with reference to it that it may be eaten during two successive days and the intervening night (cf. however, Rashi on Exodus 7:14 and Note 2 thereon). As regards the first day” that is mentioned here — according to this explanation — Scripture is speaking of the first day of the festival (the fifteenth of Nisan), and what the verse implies is the following: None of the flesh of the festival offering which you slaughtered at even (i.e. towards eventide on the fourteenth of Nisan) shall remain on the first day of the festival until the morning of the second day of the festival (the sixteenth of Nisan), but it may be eaten on the fourteenth and the fifteenth (and the intervening night). So is it set forth in Treatise Pesachim 71b.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:5",
+      "he": "לֹ֥א תוּכַ֖ל לִזְבֹּ֣חַ אֶת־הַפָּ֑סַח בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
+      "en": "You are not permitted to slaughter the passover sacrifice in any of the settlements that the ETERNAL your God is giving you;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 16:6",
+      "he": "כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְשַׁכֵּ֣ן שְׁמ֔וֹ שָׁ֛ם תִּזְבַּ֥ח אֶת־הַפֶּ֖סַח בָּעָ֑רֶב כְּב֣וֹא הַשֶּׁ֔מֶשׁ מוֹעֵ֖ד צֵֽאתְךָ֥ מִמִּצְרָֽיִם׃",
+      "en": "but at the place where the ETERNAL your God will choose to establish the divine name, there alone shall you slaughter the passover sacrifice, in the evening, at sundown, the time of day when you departed from Egypt.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בערב כבוא השמש מועד צאתך ממצרים. הֲרֵי שְׁלֹשָׁה זְמַנִּים חֲלוּקִים, בָּעֶרֶב מִשֵּׁשׁ שָׁעוֹת וּלְמַעְלָה זָבְחֵהוּ, וּכְבֹא הַשֶּׁמֶשׁ תֹּאכְלֵהוּ, וּמוֹעֵד צֵאתְךָ אַתָּה שׂוֹרְפֵהוּ, כְּלוֹמַר נַעֲשֶׂה נוֹתָר וְיֵצֵא לְבֵית הַשְּׂרֵפָה (ספרי; ברכות ט'):",
+          "en": "בערב כבוא השמש מועד צאתך ממצרים [THERE THOU SHALT SACRIFICE THE PASSOVER] AT EVEN, AT THE GOING DOWN OF THE SUN, AT THE APPOINTED TIME THAT THOU CAME FORTH OUT OF EGYPT — But these are three different points of time! The explanation is: at evening, i.e. from the sixth hour (reckoning from six o’clock in the morning) and onwards you shall slaughter it (תזבח בערב); and when the sun goes down you shall eat it, and at the time when you left Egypt (in the early morning) you shall burn it — that is to say, if in the morning there is any flesh left, it becomes what is technically termed נותר and must be removed to the “place of burning” (not actually burnt, for this is not permissible on a festival) (Sifrei Devarim 133:1; cf. Berakhot 9a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:7",
+      "he": "וּבִשַּׁלְתָּ֙ וְאָ֣כַלְתָּ֔ בַּמָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ וּפָנִ֣יתָ בַבֹּ֔קֶר וְהָלַכְתָּ֖ לְאֹהָלֶֽיךָ׃",
+      "en": "You shall cook and eat it at the place that the ETERNAL your God will choose; and in the morning you may start back on your journey home.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובשלת. זֶהוּ צְלִי אֵשׁ, שֶׁאַף הוּא קָרוּי בִּשּׁוּל:",
+          "en": "ובשלת is identical with צלי אש “roast with fire” mentioned in Exodus 12:9, for it (roasting) also comes under the term בשול “cooking” (Mekhilta).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ופנית בבקר. לְבָקְרוֹ שֶׁל שֵׁנִי, מְלַמֵּד שֶׁטָּעוּן לִינָה לֵיל שֶׁל מוֹצָאֵי י\"ט (ספרי; פסחים צ\"ה; חגיגה י\"ז):",
+          "en": "ופנית בבקר AND THOU SHALT TURN IN THE MORNING [AND GO INTO THY TENTS] — i.e. in the morning of the second day of the Passover week. — It teaches us that he (the pilgrim) is required to stay in Jerusalem during the night when the festival terminates (Sifrei Devarim 134:2; Pesachim 95b; Chagigah 17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:8",
+      "he": "שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת וּבַיּ֣וֹם הַשְּׁבִיעִ֗י עֲצֶ֙רֶת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After eating unleavened bread six days, you shall hold a solemn gatheringdsolemn gathering Precise meaning of Heb. ʻaṣereth uncertain. Cf. Lev. 23.36; Num. 29.35. for the ETERNAL your God on the seventh day: you shall do no work.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ששת ימים תאכל מצות. וּבְמָקוֹם אַחֵר (שמות י\"ב) הוּא אוֹמֵר \"שִׁבְעַת יָמִים\"? שִׁבְעָה מִן הַיָּשָׁן וְשִׁשָּׁה מִן הֶחָדָשׁ (ספרי; מנחות ס\"ו); דָּ\"אַ — לִמֵּד עַל אֲכִילַת מַצָּה בַּשְּׁבִיעִי שֶׁאֵינָהּ חוֹבָה, וּמִכָּאן אַתָּה לָמֵד לְשֵׁשֶׁת יָמִים, שֶׁהֲרֵי שְׁבִיעִי בִּכְלָל הָיָה וְיָצָא מִן הַכְּלָל לְלַמֵּד שֶׁאֵין אֲכִילַת מַצָּה בּוֹ חוֹבָה אֶלָּא רְשׁוּת, וְלֹא לְלַמֵּד עַל עַצְמוֹ יָצָא, אֶלָּא לְלַמֵּד עַל הַכְּלָל כֻּלּוֹ יָצָא, מַה שְּׁבִיעִי רְשׁוּת אַף כֻּלָּם רְשׁוּת, חוּץ מִלַּיְלָה הָרִאשׁוֹן שֶׁהַכָּתוּב קְבָעוֹ חוֹבָה, שֶׁנֶּאֱמַר (שמות י\"ב) \"בָּעֶרֶב תֹּאכְלוּ מַצֹּת\" (מכילתא; פסחים ק\"כ):",
+          "en": "ששת ימים תאכל מצות SIX DAYS THOU SHALT EAT UNLEAVENED BREAD — But in another passage it states, (Exodus 12:15): “seven days [ye shall eat unleavened bread]’’! But the explanation is: seven days ye may eat Mazzoth prepared from the old produce and six days (out of the seven. i.e. the last six days, after the Omer has been offered and the new crop has become permitted as food) ye may eat Mazzoth prepared from the new crop (Sifrei Devarim 134:5). Another explanation is: It teaches regarding the eating of unleavened bread on the seventh day of Passover that it is not obligatory; and from here (from this law concerning the seventh day) you may derive the law for the other six days. For the seventh day was included in the general statement (“seven days, thou shalt eat unleavened bread’’), and in the text: “six days thou shall eat unleavened bread” it has left the general statement, to teach ... eating unleavened bread on it is not obligatory but optional. Now, according to the well-known rule, it did not leave the general statement in order to teach this regarding itself alone but regarding everything that is included in the general statement. Now how is it with the seventh day? It is optional as regards the eating of unleavened bread (as explained in the earlier portion of this comment)! This, too, according to the rule, applies also to everything that was included in the general statement, and therefore all the other days are also optional in this respect, with the exception, however, of the first night of Passover, for which Scripture has fixed it (the eating of unleavened bread) as an obligation, as it is said, (Exodus 22:18) “at evening ye shall eat unleavened bread” (Pesachim 120a; cf. also Rashi on Exodus 12:15).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עצרת לה' אלהיך. עֲצֹר עַצְמְךָ מִן הַמְּלָאכָה; דָּ\"אַ — כְּנוּפְיָא שֶׁל מַאֲכָל וּמִשְׁתֶּה, לְשׁוֹן \"נַעְצְרָה נָּא אוֹתָךְ\" (שופטים י\"ג):",
+          "en": "עצרת לה' אלהיך [AND ON THE SEVENTH DAY SHALL BE] A RESTRICTION IN HONOR OF THE LORD — i.e., restrict yourself from work (Chagigh 18a). — Another explanation is that עצרת denotes a gathering for eating and drinking (a banquet), like the expression used (Judges 13:15) “Let us detain (נעצרה) thee [that we may make ready a kid for thee]”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:9",
+      "he": "שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפׇּר־לָ֑ךְ מֵהָחֵ֤ל חֶרְמֵשׁ֙ בַּקָּמָ֔ה תָּחֵ֣ל לִסְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת׃",
+      "en": "You shall count off seven weeks; start to count the seven weeks when the sickle is first put to the standing grain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מהחל חרמש בקמה. מִשֶּׁנִּקְצַר הָעֹמֶר שֶׁהוּא רֵאשִׁית הַקָּצִיר (עי' ספרי; מנחות ע\"א):",
+          "en": "מהחל חרמש בקמה [BEGIN TO NUMBER SEVEN WEEKS] FROM THE TIME THOU BEGINNEST TO PUT THE SICKLE TO THE CORN — i.e. from when the “Omer” has been cut (from the sixteenth of Nisan) which is the first produce to be harvested (Leviticus 23:10) (cf. Sifrei Devarim 136:2-3; Menachot 71a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:10",
+      "he": "וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+      "en": "Then you shall observe the Feast of Weeks for the ETERNAL your God, offering your freewill contribution according as the ETERNAL your God has blessed you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מסת נדבת ידך. דֵּי נִדְבַת יָדְךָ, הַכֹּל לְפִי הַבְּרָכָה הָבֵא שַׁלְמֵי שִׂמְחָה וְקַדֵּשׁ קְרוּאִים לֶאֱכֹל:",
+          "en": "מסת נדבת ידך means sufficient (די) free-will offerings of thy hand (i.e. of thy possession) (cf. Targum on Deuteronomy 15:8, which renders די מחסרו by כמסת חסרונה); everything must be in accordance with the blessing which God has bestowed upon you (אשר יברכך): offer peace-offerings of rejoicing and invite guests for the meal.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:11",
+      "he": "וְשָׂמַחְתָּ֞ לִפְנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּ֘ךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶ֒ךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃",
+      "en": "YoueYou See note at 12.5. shall rejoice before the ETERNAL your God with your son and daughter, your male and female slave, the Levitefthe Levite See the second note at 12.12. in your communities, and the stranger, the fatherless, and the widow in your midst, at the place where the ETERNAL your God will choose to establish the divine name.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לוי גר יתום ואלמנה. אַרְבָּעָה שֶׁלִּי כְּנֶגֶד אַרְבָּעָה שֶׁלְּךָ – בנך ובתך ועבדך ואמתך, אִם אַתָּה מְשַׂמֵּחַ אֶת שֶׁלִּי אֲנִי מְשַׂמֵּחַ אֶת שֶׁלְּךָ:",
+          "en": "לוי גר יתום ואלמנה THE LEVITE THE STRANGER, THE FATHERLESS, THE WIDOW — these four are Mine, corresponding to four that are yours, viz., בנך ובתך ועבדך ואמתך THY SON, THY DAUGHTER, THY MAN-SERVANT AND THY MAID-SERVANT; if you gladden Mine, I will gladden yours (Midrash Tanchuma, Re'eh 18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:12",
+      "he": "וְזָ֣כַרְתָּ֔ כִּי־עֶ֥בֶד הָיִ֖יתָ בְּמִצְרָ֑יִם וְשָׁמַרְתָּ֣ וְעָשִׂ֔יתָ אֶת־הַֽחֻקִּ֖ים הָאֵֽלֶּה׃&nbsp;{פ}",
+      "en": "Bear in mind that you were slaves in Egypt, and take care to obey these laws.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וזכרת כי עבד היית וגו'. עַל מְנָת כֵּן פְּדִיתִיךָ, שֶׁתִּשְׁמֹר וְתַעֲשֶׂה אֶת הַחֻקִּים הָאֵלֶּה:",
+          "en": "וזכרת כי עבד היית וגו׳ AND THOU SHALT REMEMBER THAT THOU WAST A SERVANT [IN EGYPT] — Only on this condition did I deliver you from Egypt: that you keep and do these statutes.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:13",
+      "he": "חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאׇ֨סְפְּךָ֔ מִֽגׇּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃",
+      "en": "After the ingathering from your threshing floor and your vat, you shall hold the Feast of Booths for seven days.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "באספך. בִּזְמַן הָאָסִיף שֶׁאַתָּה מַכְנִיס לַבַּיִת פֵּרוֹת הַקַּיִץ; דָּ\"אַ — באספך מגרנך ומיקבך, לִמֵּד שֶׁמְּסַכְּכִין אֶת הַסֻּכָּה בִּפְסֹלֶת גֹּרֶן וְיֶקֶב (ראש השנה י\"ג; סוכה י\"ב):",
+          "en": "באספך [THOU SHALT KEEP THE FESTIVAL OF TABERNACLES …] AFTER THAT THOU HAST GATHERED IN THE PRODUCE — i.e. at the usual harvest time, when thou bringest into the house the summer fruits. Another explanation is: באספך מגרנך ומיקבך teaches that one should cover the Succah only with the פסולת (lit., the chips, — that which falls off) of the barn and the wine-press [i.e. with vegetable matter] (Rosh Hashanah 13a; Sukkah 12a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:14",
+      "he": "וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃",
+      "en": "YougYou See note at 12.5. shall rejoice in your festival, with your son and daughter, your male and female slave, the Levite,hthe Levite See the second note at 12.12. the stranger, the fatherless, and the widow in your communities.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 16:15",
+      "he": "שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃",
+      "en": "You shall hold a festival for the ETERNAL your God seven days, in the place that GOD will choose; for the ETERNAL your God will bless alliall Lit. “you in all.” your crops and all your undertakings, and you shall have nothing but joy.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והיית אך שמח. לְפִי פְשׁוּטוֹ אֵין זֶה לְשׁוֹן צִוּוּי אֶלָּא לְשׁוֹן הַבְטָחָה, וּלְפִי תַלְמוּדוֹ לָמְדוּ מִכָּאן לְרַבּוֹת לֵילֵי יוֹם טוֹב הָאַחֲרוֹן לְשִׂמְחָה (שם מ\"ח):",
+          "en": "והיית אך שמח ONLY BE REJOICED — According to its plain sense this is not the expression of a command but expresses an assurance: “thou will be rejoicing”. But according to the Halachic interpretation they (the Rabbis) derived from here that the night before the last day of the festival (that preceding the eighth day) is to be included in the obligation of rejoicing (Sukkah 48a; cf. Sifrei Devarim 142:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:16",
+      "he": "שָׁל֣וֹשׁ פְּעָמִ֣ים&thinsp;׀&thinsp;בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהֹוָ֖ה רֵיקָֽם׃",
+      "en": "Three times a year—on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths—all your males shall appear before the ETERNAL your God in the place that [God] will choose. They shall not appear before GOD empty-handed,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא יראה את פני ה' ריקם. אֶלָּא הָבֵא עוֹלוֹת רְאִיָּה וְשַׁלְמֵי חֲגִיגָה:",
+          "en": "ולא יראה את פני ה׳ ריקם AND THEY SHALL NOT APPEAR BEFORE THE LORD EMPTY, but — bring the burnt offerings that are obligatory when one appears before the Lord, and the peace offerings of the festival.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:17",
+      "he": "אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "but each with his own gift, according to the blessing that the ETERNAL your God has bestowed upon you.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "איש כמתנת ידו. מִי שֶׁיֵּשׁ לוֹ אוֹכְלִין הַרְבֵּה וּנְכָסִים מְרֻבִּין יָבִיא עוֹלוֹת מְרֻבּוֹת וּשְׁלָמִים מְרֻבִּים (ספרי; חגיגה ח'):",
+          "en": "איש כמתנת ידו EVERY MAN [SHALL BRING] ACCORDING TO THE ABILITY OF HIS HAND TO GIVE — i.e. one who has a large household (lit., many eaters) and great possessions brings many burnt offerings and many peace offerings (Sifrei Devarim 143:10; Chagigah 8b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    }
+  ]
+}

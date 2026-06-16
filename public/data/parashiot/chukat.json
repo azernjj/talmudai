@@ -1,0 +1,1662 @@
+{
+  "slug": "chukat",
+  "name": "Houkat",
+  "range": "Numbers 19:1-22:1",
+  "verses": [
+    {
+      "ref": "Numbers 19:1",
+      "he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "en": "GOD spoke to Moses and Aaron, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:2",
+      "he": "זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר&thinsp;׀ אֶל־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ אֵלֶ֩יךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין־בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא־עָלָ֥ה עָלֶ֖יהָ עֹֽל׃",
+      "en": "This is the ritual law that GOD has commanded: Instruct the Israelite people to bring you a red cow without blemish, in which there is no defect and on which no yoke has been laid.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "זאת חקת התורה. לְפִי שֶׁהַשָּׂטָן וְאֻמּוֹת הָעוֹלָם מוֹנִין אֶת יִשְׂרָאֵל, לוֹמַר מַה הַמִּצְוָה הַזֹּאת וּמַה טַּעַם יֵשׁ בָּהּ? לְפִיכָךְ כָּתַב בָּהּ חֻקָּה — גְּזֵרָה הִיא מִלְּפָנַי, אֵין לְךָ רְשׁוּת לְהַרְהֵר אַחֲרֶיהָ (יומא ס\"ז):",
+          "en": "וזאת חקת התורה THIS IS THE ORDINANCE OF THE LAW — Because Satan and the nations of the world taunt Israel, saying, “What is this command and what reason is there for it”, on this account it (Scripture) writes (uses) the term חקה about it, implying: It is an enactment from before Me; you have no right to criticize it (Yoma 67b; cf. Midrash Tanchuma, Chukat 7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויקחו אליך. לְעוֹלָם הִיא נִקְרֵאת עַל שִׁמְךָ — פָּרָה שֶׁעָשָׂה מֹשֶׁה בַּמִּדְבָּר:",
+          "en": "ויקחו אליך THEY SHALL TAKE UNTO THEE — It will always be called by thy name: people will speak of the cow which Moses prepared in the wilderness (Midrash Tanchuma, Chukat 8).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אדמה תמימה. שֶׁתְּהֵא תְמִימָה בְּאַדְמִימוּת, שֶׁאִם הָיוּ בָהּ שְׁתֵּי שְׂעָרוֹת שְׁחֹרוֹת פְּסוּלָה (פרה פ\"ב):",
+          "en": "אדמה תמימה [A COW] RED, PERFECT — This means that it should be perfect in respect to its redness (Sifrei Bamidbar 123:1), — so that if there are two black hairs in it (or two of any color other than red) it is unfitted for the rite here described (Mishnah Parah 2:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:3",
+      "he": "וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל־אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל־מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט אֹתָ֖הּ לְפָנָֽיו׃",
+      "en": "You shall give it to Eleazar the priest. It shall be taken outside the camp and slaughtered in his presence.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אלעזר. מִצְוָתָהּ בַּסְּגָן (ספרי):",
+          "en": "אלעזר [YE SHALL GIVE IT TO] ELEAZAR — The command concerning it is to be carried out by the Segan (the second to the High Priest) (Sifrei Bamidbar 123:2; Yoma 42b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אל מחוץ למחנה. חוּץ לְשָׁלוֹשׁ מַחֲנוֹת:",
+          "en": "אל מחוץ למחנה [HE SHALL BRING IT FORTH] WITHOUT THE CAMP — Outside the three camps (Yoma 68a; cf. Rashi on Leviticus 4:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ושחט אתה לפניו. זָר שׁוֹחֵט וְאֶלְעָזָר רוֹאֶה (שם; יומא מ\"ב):",
+          "en": "ושחט אתה לפניו AND ONE SHALL SLAUGHTER IT IN HIS PRESENCE — A stranger (a non-priest) slaughters it while Eleazar looks on (superintends) (Sifrei Bamidbar 123:2; Yoma 42a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:4",
+      "he": "וְלָקַ֞ח אֶלְעָזָ֧ר הַכֹּהֵ֛ן מִדָּמָ֖הּ בְּאֶצְבָּע֑וֹ וְהִזָּ֞ה אֶל־נֹ֨כַח פְּנֵ֧י אֹֽהֶל־מוֹעֵ֛ד מִדָּמָ֖הּ שֶׁ֥בַע פְּעָמִֽים׃",
+      "en": "Eleazar the priest shall take some of its blood with his finger and sprinkle it seven times toward the front of the Tent of Meeting.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אל נכח פני אהל מועד. עוֹמֵד בְּמִזְרָחוֹ שֶׁל יְרוּשָׁלַיִם וּמִתְכַּוֵּן וְרוֹאֶה פִתְחוֹ שֶׁל הֵיכָל בִּשְׁעַת הַזָּאַת הַדָּם (ספרי; זבחים ק\"ה):",
+          "en": "אל נכח פני אהל מועד [HE SHALL SPRINKLE THE BLOOD] TOWARDS THE FRONT SIDE OF THE APPOINTED TENT He stands at the East of Jerusalem and must direct his gaze straight towards the entrance of the Hechal at the time of sprinkling the blood (Sifrei Bamidbar 123:2; Yoma 68a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:5",
+      "he": "וְשָׂרַ֥ף אֶת־הַפָּרָ֖ה לְעֵינָ֑יו אֶת־עֹרָ֤הּ וְאֶת־בְּשָׂרָהּ֙ וְאֶת־דָּמָ֔הּ עַל־פִּרְשָׁ֖הּ יִשְׂרֹֽף׃",
+      "en": "The cow shall be burned in his sight—its hide, flesh, and blood shall be burned, its dung included—",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:6",
+      "he": "וְלָקַ֣ח הַכֹּהֵ֗ן עֵ֥ץ אֶ֛רֶז וְאֵז֖וֹב וּשְׁנִ֣י תוֹלָ֑עַת וְהִשְׁלִ֕יךְ אֶל־תּ֖וֹךְ שְׂרֵפַ֥ת הַפָּרָֽה׃",
+      "en": "and the priest shall take cedar wood, hyssop, and crimson stuff, and throw them into the fire consuming the cow.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:7",
+      "he": "וְכִבֶּ֨ס בְּגָדָ֜יו הַכֹּהֵ֗ן וְרָחַ֤ץ בְּשָׂרוֹ֙ בַּמַּ֔יִם וְאַחַ֖ר יָבֹ֣א אֶל־הַֽמַּחֲנֶ֑ה וְטָמֵ֥א הַכֹּהֵ֖ן עַד־הָעָֽרֶב׃",
+      "en": "The priest shall wash his garments and bathe in water; after that the priest may reenter the camp, but he shall be impure until evening.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אל המחנה. לְמַחֲנֵה שְׁכִינָה, שֶׁאֵין טָמֵא מְשֻׁלָּח חוּץ לִשְׁתֵּי מַחֲנוֹת אֶלָּא זָב וּבַעַל קֶרִי וּמְצֹרָע (עי' פסחים ס\"ז):",
+          "en": "אל המחנה [AND AFTERWARDS HE MAY COME] INTO THE CAMP — into the camp of the Shechina (in the case of the Temple at Jerusalem, into the forecourt, the עזרה, immediately in front of the Temple), from which alone he had been barred, for no unclean person was expelled from two camps (i.e. from more than one, viz., the מחנה שכינה) except a person with a running issue and a man who had experienced a seminal emission (who were expelled from the מחנה שכינה and מחנה לויה), and a leper (who had to remain outside all three) (cf. Pesachim 67a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וטמא הכהן עד הערב. סָרְסֵהוּ וְדָרְשֵׁהוּ — וְטָמֵא עַד הָעֶרֶב וְאַחַר יָבֹא אֶל הַמַּחֲנֶה:",
+          "en": "וטמא הכהן עד הערב [AND AFTERWARDS HE SHALL COME INTO THE CAMP] AND THE PRIEST SHALL BE UNCLEAN UNTO THE EVENING — Invert its order (that of the phrases forming this half of the verse), and then explain it: He shall be unclean until the evening and afterwards he shall come into the camp (cf Rashi Leviticus 11:32 and Note thereon).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:8",
+      "he": "וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂר֖וֹ בַּמָּ֑יִם וְטָמֵ֖א עַד־הָעָֽרֶב׃",
+      "en": "The one who performed the burning shall also wash their garments in water, bathe, and be impure until evening.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:9",
+      "he": "וְאָסַ֣ף&thinsp;׀ אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר וְ֠הָיְתָ֠ה לַעֲדַ֨ת בְּנֵֽי־יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא׃",
+      "en": "Someone else who is pure shall gather up the ashes of the cow and deposit them outside the camp in a pure place, to be kept for water of lustrationawater of lustration Lit. “water for impurity.” for the Israelite community. It is for purgation.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והניח מחוץ למחנה. לִשְׁלֹשָׁה חֲלָקִים מְחַלְּקָהּ, אֶחָד נָתַן בְּהַר הַמִּשְׁחָה, וְאֶחָד מִתְחַלֵּק לְכָל הַמִּשְׁמָרוֹת, וְאֶחָד נָתַן בַּחֵיל (ספרי; פרה פ\"ג), זֶה שֶׁל מִשְׁמָרוֹת הָיָה חוּץ לָעֲזָרָה, לִטֹּל מִמֶּנּוּ בְּנֵי הָעֲיָרוֹת וְכָל הַצְּרִיכִין לִטָּהֵר, וְזֶה שֶׁבְּהַר הַמִּשְׁחָה כֹּהֲנִים גְּדוֹלִים לְפָרוֹת אֲחֵרוֹת מְקַדְּשִׁין הֵימֶנָּה, וְזֶה שֶׁבַּחֵיל נָתוּן לְמִשְׁמֶרֶת מִגְּזֵרַת הַכָּתוּב, שֶׁנֶּאֱמַר והיתה לעדת בני ישראל למשמרת:",
+          "en": "והניח מחוץ למחנה AND HE SHALL LAY THEM UP WITHOUT THE CAMP — He divided it (the ashes) into three portions: one he placed on Mount Olivet, another was divided between all the priestly divisions, and the other he placed in the חיל (the space that surrounded the Temple area) (Sifrei Bamidbar 124:1; Mishnah Parah 3:11). That portion given to the priestly divisions was outside the forecourt, so that the inhabitants of the cities and anyone who required to be cleansed might take of it; as for that which was on the Mount of Olives, the High Priests purified themselves by means of it for preparing other “red cows”, whilst that which was in the space surrounding the Temple area was placed there to be kept for all times by special enactment of Scripture, as it is said, “and it shall be kept for the congregation of the children of Israel\" (cf. Tosefta Parah 3 8).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "למי נדה. לְמֵי הַזָּיָה, כְּמוֹ \"וַיַּדּוּ אֶבֶן בִּי\" (איכה ג'), \"לְיַדּוֹת אֶת קַרְנוֹת הַגּוֹיִם\" (זכריה ב'), לְשׁוֹן זְרִיקָה:",
+          "en": "למי נדה FOR WATERS OF נדה — i.e. for waters of sprinkling (or casting); similar are, (Lamentations 3:53) “and they cast (וידו) a stone upon me”; (Zechariah 2:4) “to cast down (לידות) the horns of the nations”, both of which are expressions denoting “casting”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "חטאת הוא. לְשׁוֹן חִטּוּי, כִּפְשׁוּטוֹ, וּלְפִי הִלְכוֹתָיו קְרָאָהּ הַכָּתוּב חַטָּאת, לוֹמַר שֶׁהִיא כְּקָדָשִׁים לֵאָסֵר בַּהֲנָאָה (עי' ספרי; מנחות נ\"א):",
+          "en": "חטאת הוא IT IS A PURIFICATION FROM SIN — This, according to its literal meaning, is an expression denoting “purification”, but from the point of view of the Halachot to which it is to be subject Scripture terms it a חטאת, “sin-offering”, to state by so doing that it is similar to holy things — that it is prohibited for any other use (cf. Sifrei Bamidbar 124:2; Menachot 51b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:10",
+      "he": "וְ֠כִבֶּ֠ס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב וְֽהָיְתָ֞ה לִבְנֵ֣י יִשְׂרָאֵ֗ל וְלַגֵּ֛ר הַגָּ֥ר בְּתוֹכָ֖ם לְחֻקַּ֥ת עוֹלָֽם׃",
+      "en": "The one who gathers up the ashes of the cow shall also wash their clothes and be impure until evening. This shall be a permanent law for the Israelites and for the strangers who reside among them.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:11",
+      "he": "הַנֹּגֵ֥עַ בְּמֵ֖ת לְכׇל־נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים׃",
+      "en": "Anyone who touches the corpse of any human being shall be impure for seven days.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:12",
+      "he": "ה֣וּא יִתְחַטָּא־ב֞וֹ בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י יִטְהָ֑ר וְאִם־לֹ֨א יִתְחַטָּ֜א בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י לֹ֥א יִטְהָֽר׃",
+      "en": "They shall undergo cleansing with [the ashes] on the third day and on the seventh day, and then be pure; if they fail to undergo cleansing on the third and seventh days, they shall not be pure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הוא יתחטא בו. בָּאֵפֶר הַזֶּה:",
+          "en": "הוא יתחטא בו HE SHALL PURIFY HIMSELF WITH IT — with this ash.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:13",
+      "he": "כׇּֽל־הַנֹּגֵ֡עַ בְּמֵ֣ת בְּנֶ֩פֶשׁ֩ הָאָדָ֨ם אֲשֶׁר־יָמ֜וּת וְלֹ֣א יִתְחַטָּ֗א אֶת־מִשְׁכַּ֤ן יְהֹוָה֙ טִמֵּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִיִּשְׂרָאֵ֑ל כִּי֩ מֵ֨י נִדָּ֜ה לֹא־זֹרַ֤ק עָלָיו֙ טָמֵ֣א יִהְיֶ֔ה ע֖וֹד טֻמְאָת֥וֹ בֽוֹ׃",
+      "en": "Whoever touches a corpse—the body of a person who has died—and does not undergo cleansing, defiles GOD’s Tabernacle; that person shall be cut off from Israel. Since the water of lustration was not dashed on them, they remain impure; their impurity is still upon them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "במת בנפש. וְאֵי זֶה מֵת? שֶׁל נֶפֶשׁ הָאָדָם, לְהוֹצִיא נֶפֶשׁ בְּהֵמָה שֶׁאֵין טֻמְאָתָהּ צְרִיכָה הַזָּאָה; דָּ\"אַ, בנפש זוֹ רְבִיעִית דָּם (חולין ע\"ב):",
+          "en": "במת בנפש [HE WHO TOUCHES] A DEAD BODY OF ANY PERSON — And what dead body is here intended? That of a human being (נפש האדם), the addition of בנפש האדם serving to exclude the person (body) of an animal, so intimating that uncleanness caused by it does not require sprinkling for its removal. Another explanation of בנפש is, that this term refers to a quarter of a log of blood (this being regarded as the minimum quantity necessary for maintaining life in a human being) (Chullin 72a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את משכן ה' טמא. אִם נִכְנַס לָעֲזָרָה אֲפִלּוּ בִטְבִילָה בְּלֹא הַזָּאַת שְׁלִישִׁי וּשְׁבִיעִי:",
+          "en": "את משכן ה' הוא טמא HE DEFILES THE TABERNACLE OF THE LORD, if he enters the forecourt even though after having immersed himself, but without having been sprinkled on the third and seventh days,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "עוד טמאתו בו, אַף עַל פִּי שֶׁטָּבַל:",
+          "en": "עוד טמאתו בו HIS UNCLEANNESS IS YET UPON HIM, although he has immersed himself.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:14",
+      "he": "זֹ֚את הַתּוֹרָ֔ה אָדָ֖ם כִּֽי־יָמ֣וּת בְּאֹ֑הֶל כׇּל־הַבָּ֤א אֶל־הָאֹ֙הֶל֙ וְכׇל־אֲשֶׁ֣ר בָּאֹ֔הֶל יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃",
+      "en": "This is the ritual: When a person dies in a tent, whoever enters the tent and whoever is in the tent shall be impure seven days;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל הבא אל האהל. בְּעוֹד שֶׁהַמֵּת בְּתוֹכוֹ:",
+          "en": "כל הבא אל האהל ALL THAT COMETH INTO THE TENT, whilst the dead body is within it, shall be unclean seven days.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:15",
+      "he": "וְכֹל֙ כְּלִ֣י פָת֔וּחַ אֲשֶׁ֛ר אֵין־צָמִ֥יד פָּתִ֖יל עָלָ֑יו טָמֵ֖א הֽוּא׃",
+      "en": "and every open vessel, with no lid fastened down, shall be impure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וכל כלי פתוח. בִּכְלִי חֶרֶס הַכָּתוּב מְדַבֵּר, שֶׁאֵין מְקַבֵּל טֻמְאָה מִגַּבּוֹ אֶלָּא מִתּוֹכוֹ, לְפִיכָךְ אִם אֵין מְגוּפַת צְמִידָתוֹ פְּתוּלָה עָלָיו יָפֶה בְּחִבּוּר, טָמֵא הוּא, הָא אִם יֵשׁ צָמִיד פָּתִיל עָלָיו טָהוֹר (שם כ\"ה):",
+          "en": "וכל כלי פתוח AND EVERY OPEN VESSEL — Scripture is speaking of an earthen vessel which is not receptive of uncleanness by an unclean thing touching its exterior but only by it being in its interior (even without contact with the interior walls; cf. Rashi on Leviticus 11:33); therefore if the cover that forms its lid is not well joined to it by a perfect contact, it (the vessel) becomes unclean; but if the lid is joined upon it, it is clean, whilst metal vessels would in any case become unclean, whether they are closed or not, since they are receptive of uncleanness whether an unclean object touches them on their inside or on their outside (Chullin 25a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "פתיל. לְשׁוֹן מְחֻבָּר בִּלְשׁוֹן עֲרָבִי, וְכֵן (בראשית ל') \"נַפְתּוּלֵי אֱלֹהִים נִפְתַּלְתִּי\" — נִתְחַבַּרְתִּי עִם אֲחוֹתִי:",
+          "en": "פתיל is an expression denoting “joined” in the Arabic language. Similar is (Genesis 30:8; cf. Rashi thereon), נפתולי אלהים נפתלתי, “By bonds of God I have joined myself (נפתלתי) with my sister.\"",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:16",
+      "he": "וְכֹ֨ל אֲשֶׁר־יִגַּ֜ע עַל־פְּנֵ֣י הַשָּׂדֶ֗ה בַּֽחֲלַל־חֶ֙רֶב֙ א֣וֹ בְמֵ֔ת אֽוֹ־בְעֶ֥צֶם אָדָ֖ם א֣וֹ בְקָ֑בֶר יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃",
+      "en": "And in the open, anyone who touches a person who was killedbkilled Lit. “slain by the sword.” or who died naturally, or human bone, or a grave, shall be impure seven days.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על פני השדה. רַבּוֹתֵינוּ דָרְשׁוּ לְרַבּוֹת גּוֹלֵל וְדוֹפֵק (ספרי; חולין ע\"ב). וּפְשׁוּטוֹ — עַל פְּנֵי הַשָּׂדֶה, שֶׁאֵין שָׁם אֹהֶל, מְטַמֵּא הַמֵּת שָׁם בִּנְגִיעָה:",
+          "en": "על פני השדה [AND EVERYTHING WHICH TOUCHES] ON THE OPEN FIELD — Our Rabbis explained that this is intended to include the upper board and the side board of a coffin (which were on the surface of the field — that these, too, render a person unclean) (Chullin 72a). The literal meaning of the words על פני השדה is, however, that even where there is no אהל, covering, there too, the dead body may cause uncleanness, but only by contact with it.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:17",
+      "he": "וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את וְנָתַ֥ן עָלָ֛יו מַ֥יִם חַיִּ֖ים אֶל־כֶּֽלִי׃",
+      "en": "Some of the ashescashes Lit. “earth” or “dust.” from the fire of purgation shall be taken for the impure person, and fresh water shall be added to them in a vessel.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:18",
+      "he": "וְלָקַ֨ח אֵז֜וֹב וְטָבַ֣ל בַּמַּ֘יִם֮ אִ֣ישׁ טָהוֹר֒ וְהִזָּ֤ה עַל־הָאֹ֙הֶל֙ וְעַל־כׇּל־הַכֵּלִ֔ים וְעַל־הַנְּפָשׁ֖וֹת אֲשֶׁ֣ר הָֽיוּ־שָׁ֑ם וְעַל־הַנֹּגֵ֗עַ בַּעֶ֙צֶם֙ א֣וֹ בֶֽחָלָ֔ל א֥וֹ בַמֵּ֖ת א֥וֹ בַקָּֽבֶר׃",
+      "en": "Then someone who is pure shall take hyssop, dip it in the water, and sprinkle on the tent and on all the vessels and people who were there, or on the one who touched the bones or the person who was killed or died naturally or the grave.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 19:19",
+      "he": "וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיּ֥וֹם הַשְּׁלִישִׁ֖י וּבַיּ֣וֹם הַשְּׁבִיעִ֑י וְחִטְּאוֹ֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָהֵ֥ר בָּעָֽרֶב׃",
+      "en": "The pure person shall sprinkle it upon the impure person on the third day and on the seventh day, thus cleansing that person by the seventh day. [The latter] shall then wash their clothes and bathe in water—and at nightfall shall be pure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וחטאו ביום השביעי. הוּא גְמַר טָהֳרָתוֹ (עי' ספרי):",
+          "en": "וחטאו ביום השביעי AND HE SHALL PURIFY HIM ON THE SEVENTH DAY — This is the completion of his purification (cf. Sifrei Bamidbar 129:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:20",
+      "he": "וְאִ֤ישׁ אֲשֶׁר־יִטְמָא֙ וְלֹ֣א יִתְחַטָּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִתּ֣וֹךְ הַקָּהָ֑ל כִּי֩ אֶת־מִקְדַּ֨שׁ יְהֹוָ֜ה טִמֵּ֗א מֵ֥י נִדָּ֛ה לֹא־זֹרַ֥ק עָלָ֖יו טָמֵ֥א הֽוּא׃",
+      "en": "If anyone who has become impure fails to undergo cleansing, that person shall be cut off from the congregation for having defiled GOD’s sanctuary. The water of lustration was not dashed on them—they are impure.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואיש אשר יטמא וגו'. אִם נֶאֱמַר מִקְדָּשׁ לָמָּה נֶאֱמַר מִשְׁכָּן? כו' כִּדְאִיתָא בִשְׁבוּעוֹת (דף ט\"ז):",
+          "en": "ואיש אשר יטמא וגו׳ AND THE MAN THAT IS UNCLEAN [AND DOES NOT PURIFY HIMSELF … HATH DEFILED THE SANCTUARY OF THE LORD] — If the Sanctuary is mentioned why is the Tabernacle also mentioned (in v. 13 “he hath defiled the Tabernacle of the Lord”)? etc., as is set forth in Treatise Shevuot 16b.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:21",
+      "he": "וְהָיְתָ֥ה לָהֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם וּמַזֵּ֤ה מֵֽי־הַנִּדָּה֙ יְכַבֵּ֣ס בְּגָדָ֔יו וְהַנֹּגֵ֙עַ֙ בְּמֵ֣י הַנִּדָּ֔ה יִטְמָ֖א עַד־הָעָֽרֶב׃",
+      "en": "That shall be for them a law for all time. Further, whoever sprinkled the water of lustration shall wash their clothes; and whoever touches the water of lustration shall be impure until evening.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומזה מי הנדה. רַבּוֹתֵינוּ אָמְרוּ שֶׁהַמַּזֶּה טָהוֹר, וְזֶה בָא לְלַמֵּד שֶׁהַנּוֹשֵׂא מֵי חַטָּאת טָמֵא טֻמְאָה חֲמוּרָה לְטַמֵּא בְגָדִים שֶׁעָלָיו, מַה שֶּׁאֵין כֵּן בַּנּוֹגֵעַ, וְזֶה שֶׁהוֹצִיא בִּלְשׁוֹן \"מַזֶּה\", לוֹמַר לְךָ שֶׁאֵינָן מְטַמְּאִין עַד שֶׁיְּהֵא בָהֶן שִׁעוּר הַזָּאָה (נדה ט'):",
+          "en": "ומזה מי הנדה AND HE THAT SPRINKLED THE WATER OF SPRINKLING [SHALL WASH HIS GARMENTS] — Our Rabbis said that the one who sprinkles remains clean, and this statement is intended to intimate that one who bears the waters of purification becomes unclean with a more stringent uncleanness, in that he renders unclean the garments that are upon him (for it states here that he shall wash his garments), which is not so in the case of one who only touches these waters. And this fact that it here expresses it (the idea of “bearing the waters”) by the term “he that sprinkles” is only to tell you that they (the waters) do not render a person who bears them unclean unless they contain a quantity capable of being sprinkled (Yoma 14a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והנגע, יטמא. וְאֵין טָעוּן כִּבּוּס בְּגָדִים:",
+          "en": "והנגע…יטמא AND HE THAT TOUCHETH … SHALL BE UNCLEAN, but does not require washing of his garments.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 19:22",
+      "he": "וְכֹ֛ל אֲשֶׁר־יִגַּע־בּ֥וֹ הַטָּמֵ֖א יִטְמָ֑א וְהַנֶּ֥פֶשׁ הַנֹּגַ֖עַת תִּטְמָ֥א עַד־הָעָֽרֶב׃&nbsp;{פ}",
+      "en": "Whatever that impure person touches shall be impure; and the person who touches [that impure one] shall be impure until evening.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וכל אשר יגע בו הטמא. הַזֶּה שֶׁנִּטְמָא בְּמֵת, יטמא:",
+          "en": "וכל אשר יגע בו הטמא AND WHATSOEVER THE UNCLEAN PERSON TOUCHETH — i.e., this unclean person who has become unclean by reason of a corpse, SHALL TOUCH, יטמא SHALL BECOME UNCLEAN.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "והנפש הנגעת בּוֹ: בִּטְמֵא מֵת:",
+          "en": "והנפש הנגעת AND THE SOUL THAT TOUCHETH him that hath become unclean by reason of a corpse,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "תטמא עד הערב. כָּאן לָמַדְנוּ שֶׁהַמֵּת אֲבִי אֲבוֹת הַטֻּמְאָה, וְנוֹגֵעַ בּוֹ אַב הַטֻּמְאָה וּמְטַמֵּא אָדָם; זֶה פֵרוּשָׁהּ לְפִי מַשְׁמָעָהּ וְהִלְכוֹתֶיהָ. וּמִ\"אַ הֶעְתַּקְתִּי מִיסוֹדוֹ שֶׁל רַבִּי מֹשֶׁה הַדַּרְשָׁן וְזֶהוּ:",
+          "en": "תטמא עד הערב SHALL BE UNCLEAN UNTIL THE EVEN — Here we learn that a corpse is a progenitor of a primary source of uncleanness, and he that touches it becomes a primary source of uncleanness and can render a human being unclean. — This is its explanation (that of the whole chapter) according to what it literally implies and according to the Halachoth connected with it. — A Midrashic explanation I have copied from the work of R. Moses the Preacher, and this is:",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ויקחו אליך. מִשֶּׁלָּהֶם, כְּשֵׁם שֶׁהֵם פֵּרְקוּ נִזְמֵי הַזָּהָב לָעֵגֶל מִשֶּׁלָּהֶם, כָּךְ יָבִיאוּ זוֹ לְכַפָּרָה מִשֶּׁלָּהֶם: [רש\"י בשם ר' משה הדרשן]",
+          "en": "ויקחו אליך AND THEY SHALL TAKE UNTO THEE — They shall take from that which is their own: just as they divested themselves of their golden earrings for making of the calf — i.e., of that which was their own, so shall they bring this calf-like animal as an atonement from that which is their own.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "פרה אדמה. מָשָׁל לְבֶן שִׁפְחָה שֶׁטִּנֵּף פָּלָטִין שֶׁל מֶלֶךְ, אָמְרוּ תָּבֹא אִמּוֹ וּתְקַנֵּחַ הַצּוֹאָה, כָּךְ תָּבֹא פָרָה וּתְכַפֵּר עַל הָעֵגֶל (תנחומא): [רש\"י בשם ר' משה הדרשן]",
+          "en": "פרה אדמה A RED COW — Why this rite was performed with a cow may be exemplified by a parable it may be compared to the case of a handmaid’s child that defiled the king’s palace. They said: Let the mother come and wipe up the excrement. Similarly here: since they became defiled by a calf, let its mother (a cow) come and atone for the calf (cf. Midrash Tanchuma, Chukat 8).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "אדמה. עַל שֵׁם \"אִם יַאְדִּימוּ כַתּוֹלָע\" (ישעיהו א'), שֶׁהַחֵטְא קָרוּי אָדֹם: [רש\"י בשם ר' משה הדרשן]",
+          "en": "אדמה RED — It had to be red in allusion to the idea contained in the text (Isaiah 1:18): “Though they (your sins) be red as scarlet [they shall become as white as snow]” — so you see that sin is termed red.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "תמימה. עַל שֵׁם יִשְׂרָאֵל שֶׁהָיוּ תְמִימִים, וְנַעֲשׂוּ בוֹ בַּעֲלֵי מוּמִין, תָּבֹא זוֹ וּתְכַפֵּר עֲלֵיהֶם וְיַחְזְרוּ לְתַמּוּתָם: [רש\"י בשם ר' משה הדרשן]",
+          "en": "תמימה PERFECT — in allusion to the Israelites who were perfect but through it (the calf) became morally maimed: let this perfect animal come and atone for them so that they may regain their state of perfection.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 8,
+          "he": "לא עלה עליה על. כְּשֵׁם שֶׁפָּרְקוּ מֵעֲלֵיהֶם עֹל שָׁמַיִם: [רש\"י בשם ר' משה הדרשן]",
+          "en": "לא עלה עליה על [A COW] UPON WHICH NEVER CAME A YOKE — just as they cast off themselves the yoke of Heaven.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 9,
+          "he": "אל אלעזר הכהן. כְּשֵׁם שֶׁנִּקְהֲלוּ עַל אַהֲרֹן, שֶׁהוּא כֹּהֵן, לַעֲשׂוֹת הָעֵגֶל; וּלְפִי שֶׁאַהֲרֹן עָשָׂה אֶת הָעֵגֶל לֹא נִתְּנָה לוֹ עֲבוֹדָה זוֹ עַל יָדוֹ, שֶׁאֵין קַטֵּיגוֹר נַעֲשֶׂה סַנֵּיגוֹר: [רש\"י בשם ר' משה הדרשן]",
+          "en": "אל אלעזר הכהן TO ELEAZAR THE PRIEST — just as they gathered together against Aaron who was a priest to force him to make the golden calf. But because Aaron had made the calf this rite was not entrusted to him that it should be carried out by him, because the prosecuting counsel cannot become the defending counsel (Rosh Hashanah 26a; cf. Rashi on Leviticus 16:4; Aaron who had caused the sin was not a fitting person to atone for it: therefore the rite had to be performed by another priest, viz., by Eleazar).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 10,
+          "he": "ושרף את הפרה. כְּשֵׁם שֶׁנִּשְׂרַף הָעֵגֶל: [רש\"י בשם ר' משה הדרשן]",
+          "en": "ושרף את הפרה AND ONE SHALL BURN THE COW, just as the calf was burnt (Exodus 32:20).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 11,
+          "he": "עץ ארז ואזוב ושני תולעת. שְׁלֹשָׁה מִינִין הַלָּלוּ כְּנֶגֶד שְׁלֹשֶׁת אַלְפֵי אִישׁ שֶׁנָּפְלוּ בָעֵגֶל, וְאֶרֶז הוּא הַגָּבוֹהַּ מִכָּל הָאִילָנוֹת וְאֵזוֹב נָמוּךְ מִכֻּלָּם, סִימָן שֶׁהַגָּבוֹהַּ שֶׁנִּתְגָּאָה וְחָטָא יַשְׁפִּיל אֶת עַצְמוֹ כְּאֵזוֹב וְתוֹלַעַת וְיִתְכַּפֵּר לוֹ: [רש\"י בשם ר' משה הדרשן]",
+          "en": "עץ ארז ואזוב ושני תולעת CEDAR WOOD AND HYSSOP AND CRIMSON — These three species correspond to the three thousand men who fell by the edge of the sword on account of the golden calf. The cedar is the loftiest of all trees and the hyssop the lowliest of all — a symbol that the man of high position who displays pride and on that account falls into sin should make himself as lowly as the hyssop and the worm (תולעת), and he will then gain atonement.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 12,
+          "he": "למשמרת. כְּמוֹ שֶׁפֶּשַׁע הָעֵגֶל שָׁמוּר לְדוֹרוֹת לְפֻרְעָנוּת, וְאֵין לְךָ פְּקֻדָּה שֶׁאֵין בָּהּ מִפְּקֻדַּת הָעֵגֶל, שֶׁנֶּאֱמַר \"וּבְיוֹם פָּקְדִי וּפָקַדְתִּי\" וְגוֹ' (שמות ל\"ב), וּכְשֵׁם שֶׁהָעֵגֶל מְטַמֵּא כָּל הָעוֹסְקִים בּוֹ, כָּךְ פָּרָה תְטַמֵּא כָּל הָעוֹסְקִין בּוֹ, וּכְשֵׁם שֶׁנִּטְהֲרוּ בְּאֶפְרוֹ, שֶׁנֶּאֱמַר \"וַיִּזֶר עַל פְּנֵי הַמַּיִם\" וְגוֹ' (שם), כָּךְ \"וְלָקְחוּ לַטָּמֵא מֵעֲפַר שְׂרֵפַת הַחַטָּאת\" וְגוֹ\": [רש\"י בשם ר' משה הדרשן]",
+          "en": "למשמרת [IT SHALL BE] KEPT [FOR THE CONGREGATION OF THE CHILDREN OF ISRAEL], just as the transgression of the calf is kept in remembrance for all future generations for punishment, for there is no visitation of Israel in which there is not something of the visitation of the sin caused by the calf, as it is said, (Exodus 32:34) “On the day when I visit I will visit [their sin upon them]” (cf. Rashi on that verse, and Sanhedrin 102a; Yerushalmi Taanit 14). And just as the calf rendered unclean everyone who busied himself with it (cf. Avodah Zarah 32b), so, too, does the cow make unclean all who busy themselves with it. And just as they (Israel) were purified by its dust (Exodus 22:20), similarly it states, (v. 17) “And for an unclean person shall they take of the dust of the burnt cow of purification, etc.”",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:1",
+      "he": "וַיָּבֹ֣אוּ בְנֵֽי־יִ֠שְׂרָאֵ֠ל כׇּל־הָ֨עֵדָ֤ה מִדְבַּר־צִן֙ בַּחֹ֣דֶשׁ הָֽרִאשׁ֔וֹן וַיֵּ֥שֶׁב הָעָ֖ם בְּקָדֵ֑שׁ וַתָּ֤מׇת שָׁם֙ מִרְיָ֔ם וַתִּקָּבֵ֖ר שָֽׁם׃",
+      "en": "The Israelites arrived in a body at the wilderness of Zin on the first new moon,afirst new moon Of the fortieth year; cf. 33.36–38. and the people stayed at Kadesh. Miriam died there and was buried there.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל העדה. עֵדָה הַשְּׁלֵמָה, שֶׁכְּבָר מֵתוּ מֵתֵי מִדְבָּר וְאֵלּוּ פֵרְשׁוּ לַחַיִּים:",
+          "en": "כל העדה [THE CHILDREN OF ISRAEL], EVEN THE WHOLE CONGREGATION — The congregation in its entirety, for those who were to die in the wilderness in consequence of their sin had already died, but these had been expressly mentioned for life (cf. Rashi on v. 22).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ותמת שם מרים. לָמָּה נִסְמְכָה פָרָשַׁת מִיתַת מִרְיָם לְפָרָשַׁת פָּרָה אֲדֻמָּה? לוֹמַר לְךָ, מַה קָּרְבָּנוֹת מְכַפְּרִין, אַף מִיתַת צַדִּיקִים מְכַפֶּרֶת (מועד קטן כ\"ח):",
+          "en": "ותמת שם מרים AND MIRIAM DIED THERE — Why is the section narrating the death of Miriam placed immediately after the section treating of the red cow? To suggest to you the following comparison: What is the purpose of the sacrifices? They effect atonement! So, too, does the death of the righteous effect atonement! (Moed Katan 28a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ותמת שם מרים. אַף הִיא בִנְשִׁיקָה מֵתָה, וּמִפְּנֵי מָה לֹא נֶאֱמַר בָּהּ \"עַל פִּי ה'\"? שֶׁאֵינוֹ דֶּרֶךְ כָּבוֹד שֶׁל מַעְלָה, וּבְאַהֲרֹן נֶאֱמַר \"עַל פִּי ה'\" בְּאֵלֶּה מַסְעֵי (במדבר ל\"ג):",
+          "en": "ותמת שם מרים AND MIRIAM DIED THERE — She, too, as Moses and Aaron, died by a Divine Kiss. But why is it not said with reference to her: she died “by the command (lit., mouth) of God”, (this being the Biblical expression from which is derived the Midrashic statement that they died by the Divine Kiss)? Because this would not be a respectful way of speaking about the Most High God, as it would have reference to a woman. But of Aaron it says in the Sedrah אלה מסעי (Numbers 33:38), “By the mouth of the Lord” (Moed Katan 28a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:2",
+      "he": "וְלֹא־הָ֥יָה מַ֖יִם לָעֵדָ֑ה וַיִּקָּ֣הֲל֔וּ עַל־מֹשֶׁ֖ה וְעַֽל־אַהֲרֹֽן׃",
+      "en": "The community was without water, and they joined against Moses and Aaron.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא היה מים לעדה. מִכָּאן שֶׁכָּל אַרְבָּעִים שָׁנָה הָיָה לָהֶם הַבְּאֵר בִּזְכוּת מִרְיָם (תענית ט'):",
+          "en": "ולא היה מים לעדה AND THERE WAS NO WATER FOR THE CONGREGATION — Since this statement follows immediately after the mention of Miriam’s death, we may learn from it that during the entire forty years they had the “well” through Miriam’s merit (Taanit 9a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:3",
+      "he": "וַיָּ֥רֶב הָעָ֖ם עִם־מֹשֶׁ֑ה וַיֹּאמְר֣וּ לֵאמֹ֔ר וְל֥וּ גָוַ֛עְנוּ בִּגְוַ֥ע אַחֵ֖ינוּ לִפְנֵ֥י יְהֹוָֽה׃",
+      "en": "The people quarreled with Moses, saying, “If only we had perished when our brothers perished by GOD’s will!bby GOD’s will Lit. “before GOD”; cf. 16.35; 17.5.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולו גוענו. הַלְוַאי שֶׁגָּוַעְנוּ:",
+          "en": "ולו גוענו — means, WOULD THAT WE HAD DIED.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בגוע אחינו. בְּמִיתַת אַחֵינוּ בַּדֶּבֶר, לִמֵּד שֶׁמִּיתַת צָמָא מְגֻנָּה מִמֶּנָּה:",
+          "en": "בגוע אחינו means, by the death of our brethren — i.e., by the pestilence. This tells us that death by thirst is worse than that (i.e., than death by pestilence).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "בגוע. שֵׁם דָּבָר הוּא, כְּמוֹ בְּמִיתַת אַחֵינוּ, וְלֹא יִתָּכֵן לְפָרְשׁוֹ כְּשֶׁמֵּתוּ אַחֵינוּ, שֶׁאִם כֵּן הָיָה לוֹ לִנָּקֵד בִּגְוֹעַ:",
+          "en": "בגוע — This is a noun and means the same as במיתת אחינו, “by the death of our brethren”; and it would not be correct to explain (translate) it: “when our brethren died”, for if this were so, it should be voweled to read בִּגְוֹעַ.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:4",
+      "he": "וְלָמָ֤ה הֲבֵאתֶם֙ אֶת־קְהַ֣ל יְהֹוָ֔ה אֶל־הַמִּדְבָּ֖ר הַזֶּ֑ה לָמ֣וּת שָׁ֔ם אֲנַ֖חְנוּ וּבְעִירֵֽנוּ׃",
+      "en": "Why have you brought GOD’s congregation into this wilderness for us and our livestock to die there?",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:5",
+      "he": "וְלָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לְהָבִ֣יא אֹתָ֔נוּ אֶל־הַמָּק֥וֹם הָרָ֖ע הַזֶּ֑ה לֹ֣א&thinsp;׀ מְק֣וֹם זֶ֗רַע וּתְאֵנָ֤ה וְגֶ֙פֶן֙ וְרִמּ֔וֹן וּמַ֥יִם אַ֖יִן לִשְׁתּֽוֹת׃",
+      "en": "Why did you make us leave Egypt to bring us to this wretched place, a place with no grain or figs or vines or pomegranates? There is not even water to drink!”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:6",
+      "he": "וַיָּבֹא֩ מֹשֶׁ֨ה וְאַהֲרֹ֜ן מִפְּנֵ֣י הַקָּהָ֗ל אֶל־פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד וַֽיִּפְּל֖וּ עַל־פְּנֵיהֶ֑ם וַיֵּרָ֥א כְבוֹד־יְהֹוָ֖ה אֲלֵיהֶֽם׃&nbsp;{פ}",
+      "en": "Moses and Aaron came away from the congregation to the entrance of the Tent of Meeting, and fell on their faces. The Presence of GOD appeared to them,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:7",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "and GOD spoke to Moses, saying,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:8",
+      "he": "קַ֣ח אֶת־הַמַּטֶּ֗ה וְהַקְהֵ֤ל אֶת־הָעֵדָה֙ אַתָּה֙ וְאַהֲרֹ֣ן אָחִ֔יךָ וְדִבַּרְתֶּ֧ם אֶל־הַסֶּ֛לַע לְעֵינֵיהֶ֖ם וְנָתַ֣ן מֵימָ֑יו וְהוֹצֵאתָ֨ לָהֶ֥ם מַ֙יִם֙ מִן־הַסֶּ֔לַע וְהִשְׁקִיתָ֥ אֶת־הָעֵדָ֖ה וְאֶת־בְּעִירָֽם׃",
+      "en": "“You and your brother Aaron take the rod and assemble the community, and before their very eyes order the rock to yield its water. Thus you shall produce water for them from the rock and provide drink for the congregation and their livestock.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת בעירם. מִכָּאן שֶׁחָס הַקָּבָּ\"ה עַל מָמוֹנָם שֶׁל יִשְׂרָאֵל:",
+          "en": "ואת בעירם [SO SHALT THOU GIVE THE CONGREGATION] AND THEIR BEASTS [TO DRINK] From this we may see that the Holy One, blessed be He, has regard for the possessions of Israel (Menachot 76b; Midrash Tanchuma, Chukat 9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:9",
+      "he": "וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־הַמַּטֶּ֖ה מִלִּפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֖ר צִוָּֽהוּ׃",
+      "en": "Moses took the rod from before GOD, as he had been commanded.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:10",
+      "he": "וַיַּקְהִ֜לוּ מֹשֶׁ֧ה וְאַהֲרֹ֛ן אֶת־הַקָּהָ֖ל אֶל־פְּנֵ֣י הַסָּ֑לַע וַיֹּ֣אמֶר לָהֶ֗ם שִׁמְעוּ־נָא֙ הַמֹּרִ֔ים הֲמִן־הַסֶּ֣לַע הַזֶּ֔ה נוֹצִ֥יא לָכֶ֖ם מָֽיִם׃",
+      "en": "Moses and Aaron assembled the congregation in front of the rock; and he said to them, “Listen, you rebels, shall we get water for you out of this rock?”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויקהלו וגו'. זֶה אֶחָד מִן הַמְּקוֹמוֹת שֶׁהֶחֱזִיק מוּעָט אֶת הַמְרֻבֶּה (בראשית רבה ה'):",
+          "en": "ויקהלו וגו׳ [AND MOSES AND AARON] ASSEMBLED [THE WHOLE CONGREGATION BEFORE THE ROCK] — This was one of the places where the smaller contained the greater, (the entire congregation being assembled in front of one rock) (Leviticus Rabbah 10:9).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "המן הסלע הזה נוציא. לְפִי שֶׁלֹּא הָיוּ מַכִּירִין אוֹתוֹ, לְפִי שֶׁהָלַךְ הַסֶּלַע וְיָשַׁב לוֹ בֵּין הַסְּלָעִים כְּשֶׁנִּסְתַּלֵּק הַבְּאֵר, וְהָיוּ יִשְׂרָאֵל אוֹמְרִים לָהֶם מַה לָּכֶם מֵאֵי זֶה סֶלַע תּוֹצִיאוּ לָנוּ מַיִם? לְכָךְ אָמַר לָהֶם המרים — סַרְבָנִים, לְשׁוֹן יְוָנִי שׁוֹטִים, מוֹרִים אֶת מוֹרֵיהֶם, הֲמִן הַסֶּלַע הַזֶּה שֶׁלֹּא נִצְטַוִּינוּ עָלָיו נוֹצִיא לָכֶם מַיִם? (תנחומא):",
+          "en": "המן הסלע הזה נוציא MUST WE BRING [WATER] OUT OF THIS ROCK? — They said this because they could not distinguish it (the rock intended by God), for the rock from which the water had hitherto flowed during these forty years had vanished and taken a place amongst the other rocks when the “well” disappeared after Miriam’s death, and Israel said to them, “What difference is it to you from which rock you bring forth water for us?” — It was on this account that he (Moses) said unto them (called them) המרים — which may mean “refractory”, or, as a Greek expression, “foolish people” (µώροι), or, “such as would teach (מורים) their teachers” — from this rock about which we have received no Divine Command can we bring forth water for you?! (cf. Midrash Tanchuma, Chukat 9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:11",
+      "he": "וַיָּ֨רֶם מֹשֶׁ֜ה אֶת־יָד֗וֹ וַיַּ֧ךְ אֶת־הַסֶּ֛לַע בְּמַטֵּ֖הוּ פַּעֲמָ֑יִם וַיֵּצְאוּ֙ מַ֣יִם רַבִּ֔ים וַתֵּ֥שְׁתְּ הָעֵדָ֖ה וּבְעִירָֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "And Moses raised his hand and struck the rock twice with his rod. Out came copious water, and the community and their livestock drank.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פעמים. לְפִי שֶׁבָּרִאשׁוֹנָה לֹא הוֹצִיא אֶלָּא טִפִּין, לְפִי שֶׁלֹּא צִוָּה הַמָּקוֹם לְהַכּוֹתוֹ, אֶלָּא \"וְדִבַּרְתֶּם אֶל הַסֶּלַע\", וְהֵמָּה דִּבְּרוּ אֶל סֶלַע אַחֵר וְלֹא הוֹצִיא, אָמְרוּ, שֶׁמָּא צָרִיךְ לְהַכּוֹתוֹ כְּבָרִאשׁוֹנָה, שֶׁנֶּאֱמַר \"וְהִכִּיתָ בַצּוּר\" (שמות י\"ז), וְנִזְדַּמֵּן לָהֶם אוֹתוֹ סֶלַע וְהִכָּהוּ (תנחומא):",
+          "en": "פעמים [HE SMOTE THE ROCK] TWICE, because at the first attempt it did not bring forth more than a few drops, for God had not bidden him smite it, but He had said, (v. 8) “and ye shall speak to the rock”. They had, indeed, spoken, but to a different rock (not that which God had intended) and it had not given forth water. They said, “Perhaps it is necessary to smite it as on the former occasion when it says, (Exodus 17:6) ‘and ye shall smite the rock’, and just that rock intended by God happened to be there and they smote it [but without full effect, and so they smote it a second time] (cf. Midrash Tanchuma, Chukat 9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:12",
+      "he": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ יַ֚עַן לֹא־הֶאֱמַנְתֶּ֣ם בִּ֔י לְהַ֨קְדִּישֵׁ֔נִי לְעֵינֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל לָכֵ֗ן לֹ֤א תָבִ֙יאוּ֙ אֶת־הַקָּהָ֣ל הַזֶּ֔ה אֶל־הָאָ֖רֶץ אֲשֶׁר־נָתַ֥תִּי לָהֶֽם׃",
+      "en": "But GOD said to Moses and Aaron, “Because you did not trust Me enough to affirm My sanctity in the sight of the Israelite people, therefore you shall not lead this congregation into the land that I have given them.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יען לא האמנתם בי. גִּלָּה הַכָּתוּב שֶׁאִלּוּלֵי חֵטְא זֶה בִּלְבַד הָיוּ נִכְנָסִין לָאָרֶץ, כְּדֵי שֶׁלֹּא יֹאמְרוּ עֲלֵיהֶם כַּעֲוֹן דּוֹר הַמִּדְבָּר שֶׁנִּגְזַר עֲלֵיהֶם שֶׁלֹּא יִכָּנְסוּ, כָּךְ הָיָה עֲוֹן מֹשֶׁה וְאַהֲרֹן; וַהֲלֹא \"הֲצֹאן וּבָקָר יִשָּׁחֵט\" (במדבר יא, כב) קָשָׁה מִזּוֹ? אֶלָּא לְפִי שֶׁבַּסֵּתֶר, חִסֵּךְ עָלָיו הַכָּתוּב, וְכָאן שֶׁבְּמַעֲמַד כָּל יִשְׂרָאֵל, לֹא חִסֵּךְ עָלָיו הַכָּתוּב מִפְּנֵי קִדּוּשׁ הַשֵּׁם:",
+          "en": "יען לא האמנתם בי BECAUSE YE BELIEVED ME NOT — Scripture discloses the fact that but for this sin alone, they would have entered the land of Canaan, in order that people should not say of them, “Even as the sin of the generation of the Wilderness (a term used of those who left Egypt) on whom it was decreed that they should not enter the Land was the sin of Moses and Aaron” (cf. Rashi on Numbers 27:13). But was not the doubting question (cf. Rashi on Numbers 11:22), “shall the sheep and oxen be slaughtered for them?” a more grievous lack of faith in God than this? But because that had been said in private (no Israelites being present and therefore it could have no evil influence upon them), Scripture (God) spared him (and did not make his lack of faith public by pronouncing punishment for it), but here, where all Israel were standing by, Scripture does not spare him because of the Hallowing of the Divine Name (cf. Midrash Tanchuma, Chukat 10).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "להקדישני. שֶׁאִלּוּ דִּבַּרְתֶּם אֶל הַסֶּלַע וְהוֹצִיא, הָיִיתִי מְקֻדָּשׁ לְעֵינֵי הָעֵדָה, וְאוֹמְרִים מַה סֶּלַע זֶה שֶׁאֵינוֹ מְדַבֵּר וְאֵינוֹ שׁוֹמֵעַ וְאֵינוֹ צָרִיךְ לְפַרְנָסָה מְקַיֵּם דִּבּוּרוֹ שֶׁל מָקוֹם, קַל וָחֹמֶר אָנוּ:",
+          "en": "להקדישני TO SANCTIFY ME — For had you spoken to the rock and it had brought forth water I would have been sanctified before the whole congregation, for they would have said: What is the case with this rock which cannot speak and cannot hear and needs no maintenance? It fulfils the bidding of the Omnipresent God! How much more should we do so?",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לכן לא תביאו. בִּשְׁבוּעָה, כְּמוֹ \"וְלָכֵן נִשְׁבַּעְתִּי לְבֵית עֵלִי\" (שמואל א ג'), נִשְׁבַּע בִּקְפִיצָה שֶׁלֹּא יַרְבּוּ בִתְפִלָּה עַל כָּךְ:",
+          "en": "לכן לא תביאו THEREFORE YE SHALL NOT BRING — This expression (“therefore”) is used by way of an oath, just as (I Samuel 3:14), “Therefore I have sworn to the house of Eli”. Here He was quick to take an oath in order that they should not pray at length about it (that He should withdraw the decree) (Midrash Tanchuma, Vaera 2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:13",
+      "he": "הֵ֚מָּה מֵ֣י מְרִיבָ֔ה אֲשֶׁר־רָב֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶת־יְהֹוָ֑ה וַיִּקָּדֵ֖שׁ בָּֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Those are the waters of MeribahcMeribah I.e., “Quarrel”; cf. Exod. 17.7 and the second note there.—meaning that the Israelites quarrelled with GOD—whose sanctity was affirmed through them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "המה מי מריבה. הֵם הַנִּזְכָּרִים בְּמָקוֹם אַחֵר; אֶת אֵלּוּ רָאוּ אִצְטַגְנִינֵי פַרְעֹה, שֶׁמּוֹשִׁיעָן שֶׁל יִשְׂרָאֵל לוֹקֶה בַמַּיִם, לְכָךְ גָּזְרוּ (שמות א') \"כָּל הַבֵּן הַיִּלּוֹד הַיְאֹרָה תַּשְׁלִיכֻהוּ\" (סנהדרין ק\"א):",
+          "en": "המה מי מריבה THESE ARE THE WATERS OF MERIBAH — These are they that were alluded to, though unwittingly, on another occasion: these it was that Pharaoh’s astrologers foresaw, saying that Israel’s deliverer would be punished through water. On that account they decreed (Exodus 1:22) “Every son that is born shall ye cast into the river” (Sanhedrin 101b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויקדש בם. שֶׁמֵּתוּ מֹשֶׁה וְאַהֲרֹן עַל יָדָם; כְּשֶׁהַקָּבָּ\"ה עוֹשֶׂה דִּין בִּמְקֻדָּשָׁיו הוּא יָראוּי וּמִתְקַדֵּשׁ עַל הַבְּרִיּוֹת, וְכֵן הוּא אוֹמֵר \"נוֹרָא אֱלֹהִים מִמִּקְדָּשֶׁיךָ\" (תהילים ס\"ח), וְכֵן הוּא אוֹמֵר \"בִּקְרֹבַי אֶקָּדֵשׁ\" (ויקרא י'):",
+          "en": "ויקדש בם AND HE WAS SANCTIFIED IN THEM — For Moses and Aaron died on account of them (cf. Targum Jonathan on). When the Holy One, blessed be He, executes judgement upon those who are holy to Him he is revered and sanctified by mankind. Similarly does it state, (Psalms 68:36) “Revered art Thou when Thou showest Thyself אלהים, Judge, in consequence of thy hallowed ones”; and similarly, too, does it state, (Leviticus 10:3) “Through those that draw near unto me shall I be sanctified” (see Rashi on that verse; Zevachim 115b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:14",
+      "he": "וַיִּשְׁלַ֨ח מֹשֶׁ֧ה מַלְאָכִ֛ים מִקָּדֵ֖שׁ אֶל־מֶ֣לֶךְ אֱד֑וֹם כֹּ֤ה אָמַר֙ אָחִ֣יךָ יִשְׂרָאֵ֔ל אַתָּ֣ה יָדַ֔עְתָּ אֵ֥ת כׇּל־הַתְּלָאָ֖ה אֲשֶׁ֥ר מְצָאָֽתְנוּ׃",
+      "en": "From Kadesh, Moses sent messengers to the king of Edom: “Thus says your brother Israel: You know all the hardships that have befallen us;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אחיך ישראל. מָה רָאָה לְהַזְכִּיר כָּאן אַחֲוָה? אֶלָּא אָמַר לוֹ אַחִים אֲנַחְנוּ, בְּנֵי אַבְרָהָם, שֶׁנֶּאֱמַר לוֹ \"כִּי גֵר יִהְיֶה זַרְעֲךָ\" (בראשית ט\"ו), וְעַל שְׁנֵינוּ הָיָה אוֹתוֹ הַחוֹב לְפָרְעוֹ (תנחומא):",
+          "en": "אחיך ישראל THY BROTHER ISRAEL — What reason had he to mention here their brotherhood? But in effect he said to him: We are brothers, sons of Abraham to whom it was said, (Genesis 15:13) “know for a surety that thy seed shall be a stranger [in a land not theirs]”, and upon both of us, being of Abraham’s seed, was the duty of paying that debt (Midrash Tanchuma, Chukat 12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אתה ידעת את כל התלאה. לְפִיכָךְ פֵּרֵשׁ אֲבִיכֶם מֵעַל אָבִינוּ, שֶׁנֶּאֱמַר \"וַיֵּלֶךְ אֶל אֶרֶץ מִפְּנֵי יַעֲקֹב אָחִיו\" (בראשית ל״ו:ו׳) — מִפְּנֵי הַשְּׁטָר חוֹב הַמֻּטָּל עֲלֵיהֶם, וְהִטִּילוֹ עַל יַעֲקֹב:",
+          "en": "אתה ידעת את כל התלאה THOU KNOWEST ALL THE TRAVAIL — It was on this account that your father separated himself from our father, as it is said, (Genesis 36:6), \"And he (Esau) went to another land on account of Jacob, his brother” — on account of the bond which devolved upon both of them, and he cast the whole of it upon Jacob (Genesis Rabbah 82:13; cf. Rashi on Genesis 36.7.2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:15",
+      "he": "וַיֵּרְד֤וּ אֲבֹתֵ֙ינוּ֙ מִצְרַ֔יְמָה וַנֵּ֥שֶׁב בְּמִצְרַ֖יִם יָמִ֣ים רַבִּ֑ים וַיָּרֵ֥עוּ לָ֛נוּ מִצְרַ֖יִם וְלַאֲבֹתֵֽינוּ׃",
+      "en": "that our ancestors went down to Egypt, that we dwelt in Egypt a long time, and that the Egyptians dealt harshly with us and our ancestors.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וירעו לנו. סָבַלְנוּ צָרוֹת רַבּוֹת:",
+          "en": "וירעו לנו AND [THE EGYPTIANS] DID EVIL TO US — we have borne many adversities.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ולאבתינו. מִכָּאן שֶׁהָאָבוֹת מִצְטַעֲרִים בַּקֶּבֶר כְּשֶׁפֻּרְעָנוּת בָּאָה עַל יִשְֹרָאֵל (עי' תנחומא):",
+          "en": "ולאבתינו [THEY DID EVIL TO US] AND TO OUR FATHERS — From here we may learn that the patriarchs grieve in their graves when punishment comes upon Israel (cf. Midrash Tanchuma, Chukat 12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:16",
+      "he": "וַנִּצְעַ֤ק אֶל־יְהֹוָה֙ וַיִּשְׁמַ֣ע קֹלֵ֔נוּ וַיִּשְׁלַ֣ח מַלְאָ֔ךְ וַיֹּצִאֵ֖נוּ מִמִּצְרָ֑יִם וְהִנֵּה֙ אֲנַ֣חְנוּ בְקָדֵ֔שׁ עִ֖יר קְצֵ֥ה גְבוּלֶֽךָ׃",
+      "en": "We cried to GOD—who, upon hearing our plea, sent a messengerda messenger I.e., Moses himself. Or “an angel.” who freed us from Egypt. Now we are in Kadesh, the town on the border of your territory.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וישמע קלנו. בַּבְּרָכָה שֶׁבֵּרְכָנוּ אָבִינוּ \"הַקֹּל קוֹל יַעֲקֹב\", שֶׁאָנוּ צוֹעֲקִים וְנַעֲנִים (תנחומא בשלח):",
+          "en": "וישמע קלנו HE HEARD OUR VOICE — through the blessing with which our father, Jacob, had blessed us — “the voice is Jacob’s voice” (Genesis 27:22), because whenever we cry we are answered (Midrash Tanchuma, Beshalach 9 on בשלח).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מלאך. זֶה מֹשֶׁה, מִכָּאן שֶׁהַנְּבִיאִים קְרוּאִים מַלְאָכִים, וְאוֹמֵר \"וַיִּהְיוּ מַלְעִבִים בְּמַלְאֲכֵי הָאֱלֹהִים\" (דברי הימים ב' ל\"ו):",
+          "en": "מלאך A MESSENGER (or an angel) — This was Moses; from this we may learn that the prophets are termed “angel”; so, too, it says, (II Chronicles 36:16) “And they grieved the angels (מלאכי) of God” (Leviticus Rabbah 1:1).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:17",
+      "he": "נַעְבְּרָה־נָּ֣א בְאַרְצֶ֗ךָ לֹ֤א נַעֲבֹר֙ בְּשָׂדֶ֣ה וּבְכֶ֔רֶם וְלֹ֥א נִשְׁתֶּ֖ה מֵ֣י בְאֵ֑ר דֶּ֧רֶךְ הַמֶּ֣לֶךְ נֵלֵ֗ךְ לֹ֤א נִטֶּה֙ יָמִ֣ין וּשְׂמֹ֔אול עַ֥ד אֲשֶֽׁר־נַעֲבֹ֖ר גְּבֻלֶֽךָ׃",
+      "en": "Allow us, then, to cross your country. We will not pass through fields or vineyards, and we will not drink water from wells. We will follow the king’s highway, turning off neither to the right nor to the left until we have crossed your territory.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נעברה נא בארצך. אֵין לְךָ לְעוֹרֵר עַל הַיְרֻשָּׁה שֶׁל אֶרֶץ יִשְׂרָאֵל, כְּשֵׁם שֶׁלֹּא פָרַעְתָּ הַחוֹב, עֲשֵׂה לָנוּ עֵזֶר מְעַט לַעֲבֹר דֶּרֶךְ אַרְצְךָ:",
+          "en": "נעברה נא בארצך LET US PASS, I PRAY THEE, THROUGH THY COUNTRY — You have no right to lay claim to the land of Israel as an inheritance, just the same as you have not paid the debt (see Rashi v. 14); render us therefore a little assistance by permitting us to pass through your land.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ולא נשתה מי באר. מֵי בוֹרוֹת הָיָה צָרִיךְ לוֹמַר, אֶלָּא כָּךְ אָמַר מֹשֶׁה, אַעַ\"פִּ שֶׁיֵּשׁ בְּיָדֵנוּ מָן לֶאֱכֹל וּבְאֵר לִשְׁתּוֹת, לֹא נִשְׁתֶּה מִמֶּנּוּ, אֶלָּא נִקְנֶה מִכֶּם אֹכֶל וּמַיִם לַהֲנָאַתְכֶם, מִכָּאן לְאַכְסְנַאי אַעַ\"פִּ שֶׁיֵּשׁ בְּיָדוֹ לֶאֱכֹל יִקְנֶה מִן הַחֶנְוָנִי, כְּדֵי לְהַנּוֹת אֶת אֻשְׁפִּיזוֹ (תנחומא):",
+          "en": "ולא נשתה מי באר NEITHER WILL WE DRINK OF THE WATER OF THE SPRINGS — He should have said “water of the cisterns (בורות)”; but this was what Moses meant to say: Although we have manna to eat, and a well of which to drink, (that which followed them through the wilderness), we will not drink of it, but we will buy food and water from you to your advantage. From here we may learn a rule for a guest (one lodging in an inn): although he has in his possession something to eat, he should yet purchase something from the local tradesman in order to benefit his host (Midrash Tanchuma, Chukat 12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "דרך המלך נלך וגו'. אָנוּ חוֹסְמִים אֶת בְּהֶמְתֵּנוּ וְלֹא יִטּוּ לְכָאן וּלְכָאן לֶאֱכֹל (שם):",
+          "en": "דרך המלך נלך וגו׳ WE WILL KEEP TO THE KING’S HIGHWAY etc. — we will muzzle our cattle, and so they will not turn aside into the fields on this side or that to eat (Midrash Tanchuma, Chukat 12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:18",
+      "he": "וַיֹּ֤אמֶר אֵלָיו֙ אֱד֔וֹם לֹ֥א תַעֲבֹ֖ר בִּ֑י פֶּן־בַּחֶ֖רֶב אֵצֵ֥א לִקְרָאתֶֽךָ׃",
+      "en": "But Edom answered him, “You shall not pass through us, else we will go out against you with the sword.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פן בחרב אצא לקראתך. אַתֶּם מִתְגָּאִים בְּקוֹל שֶׁהוֹרִישְׁכֶם אֲבִיכֶם וְאוֹמְרִים \"וַנִּצְעַק אֶל ה' וַיִּשְׁמַע קֹלֵנוּ\", וַאֲנִי אֵצֵא עֲלֵיכֶם בְּמַה שֶּׁהוֹרִישֵׁנִי אָבִי \"וְעַל חַרְבְּךָ תִחְיֶה\" (בראשית כ\"ז):",
+          "en": "פן בחרב אצא לקראתך LEST I COME OUT AGAINST THEE WITH THE SWORD — You pride yourselves on the “voice” which your father bequeathed you as a blessing, saying, “And we cried unto the Lord and He heard our voice” (cf. Rashi on v. 16); I, therefore, will come out against you with that which my father bequeathed me when he said, (Genesis 27:40) “And by thy sword shalt thou live” (Midrash Tanchuma, Beshalach 9 on בשלח)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:19",
+      "he": "וַיֹּאמְר֨וּ אֵלָ֥יו בְּנֵֽי־יִשְׂרָאֵל֮ בַּֽמְסִלָּ֣ה נַעֲלֶה֒ וְאִם־מֵימֶ֤יךָ נִשְׁתֶּה֙ אֲנִ֣י וּמִקְנַ֔י וְנָתַתִּ֖י מִכְרָ֑ם רַ֥ק אֵין־דָּבָ֖ר בְּרַגְלַ֥י אֶֽעֱבֹֽרָה׃",
+      "en": "“We will keep to the beaten track,” the Israelites said to them, “and if we or our cattle drink your water, we will pay for it. We ask only for passage on foot—it is but a small matter.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "רק אין דבר. אֵין שׁוּם דָּבָר מַזִּיקְךָ:",
+          "en": "רק אין דבר lit., ONLY NO THING — i.e., nothing will do you any harm.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:20",
+      "he": "וַיֹּ֖אמֶר לֹ֣א תַעֲבֹ֑ר וַיֵּצֵ֤א אֱדוֹם֙ לִקְרָאת֔וֹ בְּעַ֥ם כָּבֵ֖ד וּבְיָ֥ד חֲזָקָֽה׃",
+      "en": "But they replied, “You shall not pass through!” And Edom went out against them in heavy force, strongly armed.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וביד חזקה. בְּהַבְטָחַת זְקֵנֵנוּ \"וְהַיָּדַיִם יְדֵי עֵשָׂו\" (שם):",
+          "en": "וביד חזקה AND WITH A STRONG HAND — relying upon our ancestors’ assurance: (Genesis 27:22) “and the hands are the hands of Esau” (cf. Midrash Tanchuma, Beshalach 9 on בשלח)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:21",
+      "he": "וַיְמָאֵ֣ן&thinsp;׀ אֱד֗וֹם נְתֹן֙ אֶת־יִשְׂרָאֵ֔ל עֲבֹ֖ר בִּגְבֻל֑וֹ וַיֵּ֥ט יִשְׂרָאֵ֖ל מֵעָלָֽיו׃&nbsp;{פ}",
+      "en": "So Edom would not let Israel cross their territory, and Israel turned away from them.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:22",
+      "he": "וַיִּסְע֖וּ מִקָּדֵ֑שׁ וַיָּבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל כׇּל־הָעֵדָ֖ה הֹ֥ר הָהָֽר׃",
+      "en": "Setting out from Kadesh, the Israelites arrived in a body at Mount Hor.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כל העדה. כֻּלָּם שְׁלֵמִים וְעוֹמְדִים לִכָּנֵס לָאָרֶץ, שֶׁלֹּא הָיָה בָּהֶן אֶחָד מֵאוֹתָם שֶׁנִּגְזְרָה גְזֵרָה עֲלֵיהֶם, שֶׁכְּבָר כָּלוּ מֵתֵי מִדְבָּר וְאֵלּוּ מֵאוֹתָן שֶׁכָּתוּב בָּהֶן (דברים ד') \"חַיִּים כֻּלְּכֶם הַיּוֹם\" (תנחומא):",
+          "en": "כל העדה THE WHOLE CONGREGATION — all of them perfect, and destined to enter the promised land, for among them there was not even one of those upon whom it had been decreed that they should not enter the land, because those who were to die in the wilderness had already ceased to exist, and these belonged to those about whom it is written, (Deuteronomy 4:4) ‘[But ye who did cleave to the Lord your God] are all of you alive this day” (Midrash Tanchuma, Chukat 14)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "הר ההר. הַר עַל גַּבֵּי הַר, כְּתַפּוּחַ קָטָן עַל גַּבֵּי תַפּוּחַ גָּדוֹל, וְאַעַ\"פִּ שֶׁהֶעָנָן הוֹלֵךְ לִפְנֵיהֶם וּמַשְׁוֶה אֶת הֶהָרִים, שְׁלֹשָׁה נִשְׁאֲרוּ בָהֶן — הַר סִינַי לַתּוֹרָה וְהֹר הָהָר לִקְבוּרַת אַהֲרֹן וְהַר נְבוֹ לִקְבוּרַת מֹשֶׁה (תנחומא):",
+          "en": "הר ההר MOUNT HOR (more lit., the mount of the mount) — This was a mount on top of a mount, like a small apple on top of a large apple. — Although the cloud went before them and levelled the mountains (cf. Rashi on 10:34), yet three of them remained: Mount Sinai for the giving of the Torah, Mount Hor for Aaron’s burial place, and Mount Nebo for Moses’ burial place (Midrash Tanchuma, Chukat 14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:23",
+      "he": "וַיֹּ֧אמֶר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן בְּהֹ֣ר הָהָ֑ר עַל־גְּב֥וּל אֶֽרֶץ־אֱד֖וֹם לֵאמֹֽר׃",
+      "en": "At Mount Hor, on the boundary of the land of Edom, GOD said to Moses and Aaron,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על גבול ארץ אדום. מַגִּיד שֶׁמִּפְּנֵי שֶׁנִּתְחַבְּרוּ כָאן לְהִתְקָרֵב לְעֵשָׂו הָרָשָׁע, נִפְרְצוּ מַעֲשֵׂיהֶם וְחָסְרוּ הַצַּדִּיק הַזֶּה, וְכֵן הַנָּבִיא אוֹמֵר לִיהוֹשָׁפָט (דברי הימים ב' כ') \"בְּהִתְחַבֶּרְךָ עִם אֲחַזְיָהוּ פָּרַץ ה' אֶת מַעֲשֶׂיךָ\" (תנחומא):",
+          "en": "על גבול ארץ אדום BY THE BOUNDARY OF THE LAND OF EDOM — This (the statement that Aaron died here) tells us that because they here wished to join themselves in close friendship with the wicked, a breach was made in their works and they had to lose this righteous man, Aaron. Similarly does the prophet say, (II Chronicles 20:37) “Because thou hast joined thyself with Ahaziah, the Lord hath made a breach in thy works” (Midrash Tanchuma, Chukat 14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:24",
+      "he": "יֵאָסֵ֤ף אַהֲרֹן֙ אֶל־עַמָּ֔יו כִּ֣י לֹ֤א יָבֹא֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לִבְנֵ֣י יִשְׂרָאֵ֑ל עַ֛ל אֲשֶׁר־מְרִיתֶ֥ם אֶת־פִּ֖י לְמֵ֥י מְרִיבָֽה׃",
+      "en": "“Let Aaron be gathered to his kin: he is not to enter the land that I have assigned to the Israelite people, because you disobeyed My command about the waters of Meribah.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:25",
+      "he": "קַ֚ח אֶֽת־אַהֲרֹ֔ן וְאֶת־אֶלְעָזָ֖ר בְּנ֑וֹ וְהַ֥עַל אֹתָ֖ם הֹ֥ר הָהָֽר׃",
+      "en": "Take Aaron and his son Eleazar and bring them up on Mount Hor.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קח את אהרן. בִּדְבָרִים שֶׁל נִחוּמִים — אֱמֹר לוֹ, אַשְׁרֶיךָ שֶׁתִּרְאֶה כִתְרְךָ נָתוּן לְבִנְךָ, מַה שֶּׁאֵין אֲנִי זַכַּאי לְכָךְ (שם):",
+          "en": "קח את אהרן TAKE AARON by consoling words — say to him: Happy art thou that thou wilt see thy crown being given to thy son, something to which I am not privileged (Midrash Tanchuma, Chukat 17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:26",
+      "he": "וְהַפְשֵׁ֤ט אֶֽת־אַהֲרֹן֙ אֶת־בְּגָדָ֔יו וְהִלְבַּשְׁתָּ֖ם אֶת־אֶלְעָזָ֣ר בְּנ֑וֹ וְאַהֲרֹ֥ן יֵאָסֵ֖ף וּמֵ֥ת שָֽׁם׃",
+      "en": "Strip Aaron of his vestments and put them on his son Eleazar. There Aaron shall be gathered unto the dead.”eunto the dead Lit. “and die.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את בגדיו. אֶת בִּגְדֵי כְהֻנָּה גְדוֹלָה הִלְבִּישָׁהוּ וְהִפְשִׁיטָם מֵעָלָיו, לְתִתָּם עַל בְּנוֹ בְּפָנָיו; אָמַר לוֹ הִכָּנֵס לַמְּעָרָה וְנִכְנַס, רָאָה מִטָּה מֻצַּעַת וְנֵר דָּלוּק, אָמַר לוֹ עֲלֵה לַמִּטָּה וְעָלָה, פְּשֹׁט יָדֶיךָ וּפָשַׁט, קְמֹץ פִּיךָ וְקָמַץ, עֲצֹם עֵינֶיךָ וְעָצַם, מִיָּד חָמַד מֹשֶׁה לְאוֹתָהּ מִיתָה, וְזֶהוּ שֶׁנֶּאֱמַר לוֹ (דברים ל\"ב) \"כַּאֲשֶׁר מֵת אַהֲרֹן אָחִיךָ\" — מִיתָה שֶׁנִתְאַוִּיתָ לָהּ (ספרי שם):",
+          "en": "את בגדיו [AND STRIP AARON OF] HIS GARMENTS — i.e., the garments of the high priesthood. — He clothed him in these and stripped them off him to place them on his son in his presence. He (Moses) said to him (Aaron), “Enter the cave”, and he entered. — He saw a bed already made (more lit., outspread, i.e., with its sheets, etc.) and a light burning. He said to him, “Ascend the bed”, and he ascended. — “Stretch out your hands”, and he stretched them out. — “Close your mouth”, and he closed it. — “Close your eyes”, and he closed them. At that moment Moses longed for that self-same death, and this is what was said to him (Deuteronomy 32:50), “[And die] … as Aaron thy brother died” — the death, for which you longed (Siphre on that verse).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:27",
+      "he": "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּאֲשֶׁ֖ר צִוָּ֣ה יְהֹוָ֑ה וַֽיַּעֲלוּ֙ אֶל־הֹ֣ר הָהָ֔ר לְעֵינֵ֖י כׇּל־הָעֵדָֽה׃",
+      "en": "Moses did as GOD had commanded. They ascended Mount Hor in the sight of the whole community.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעש משה. אַעַ\"פִּ שֶׁהַדָּבָר קָשֶׁה לוֹ, לֹא עִכֵּב (תנחומא):",
+          "en": "ויעש משה AND MOSES DID [AS THE LORD COMMANDED] — Although this thing was hard for him he did not delay to do so (Midrash Tanchuma, Chukat 17).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 20:28",
+      "he": "וַיַּפְשֵׁט֩ מֹשֶׁ֨ה אֶֽת־אַהֲרֹ֜ן אֶת־בְּגָדָ֗יו וַיַּלְבֵּ֤שׁ אֹתָם֙ אֶת־אֶלְעָזָ֣ר בְּנ֔וֹ וַיָּ֧מׇת אַהֲרֹ֛ן שָׁ֖ם בְּרֹ֣אשׁ הָהָ֑ר וַיֵּ֧רֶד מֹשֶׁ֛ה וְאֶלְעָזָ֖ר מִן־הָהָֽר׃",
+      "en": "Moses stripped Aaron of his vestments and put them on his son Eleazar, and Aaron died there on the summit of the mountain. When Moses and Eleazar came down from the mountain,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 20:29",
+      "he": "וַיִּרְאוּ֙ כׇּל־הָ֣עֵדָ֔ה כִּ֥י גָוַ֖ע אַהֲרֹ֑ן וַיִּבְכּ֤וּ אֶֽת־אַהֲרֹן֙ שְׁלֹשִׁ֣ים י֔וֹם כֹּ֖ל בֵּ֥ית יִשְׂרָאֵֽל׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "the whole community knew that Aaron had breathed his last. All the house of Israel bewailed Aaron thirty days.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויראו כל העדה. כְּשֶׁרָאוּ מֹשֶׁה וְאֶלְעָזָר יוֹרְדִים וְאַהֲרֹן לֹא יָרַד, אָמְרוּ הֵיכָן הוּא אַהֲרֹן? אָמַר לָהֶם מֵת, אָמְרוּ אֶפְשָׁר מִי שֶׁעָמַד כְּנֶגֶד הַמַּלְאָךְ וְעָצַר אֶת הַמַּגֵּפָה יִשְׁלֹט בוֹ מַלְאַךְ הַמָּוֶת? מִיָּד בִּקֵּשׁ מֹשֶׁה רַחֲמִים וְהֶרְאוּהוּ מַלְאֲכֵי הַשָּׁרֵת לָהֶם מֻטָּל בַּמִּטָּה, רָאוּ וְהֶאֱמִינוּ (שם):",
+          "en": "ויראו כל העדה AND ALL THE CONGREGATION SAW [THAT AARON HAD DIED] — When they saw Moses and Eleazar descending and that Aaron was not descending with them, they said, “Where, then, is Aaron?” — He replied to them, “He is dead!” They thereupon said, “Is it possible that a man who stood up against the Angel and stayed the plague, — that over him the Angel of Death should have power?!” — Moses at once offered prayer and the ministering angels showed him (Aaron) to them lying upon the bier. They saw and believed (cf. Midrash Tanchuma, Chukat 17).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כל בית ישראל. הָאֲנָשִׁים וְהַנָּשִׁים, לְפִי שֶׁהָיָה אַהֲרֹן רוֹדֵף שָׁלוֹם וּמַטִּיל אַהֲבָה בֵּין בַּעֲלֵי מְרִיבָה וּבֵין אִישׁ לְאִשְׁתּוֹ (אדר\"נ י\"ב):",
+          "en": "כל בית ישראל [THEY WEPT FOR AARON …] EVEN ALL THE HOUSE OF ISRAEL — all: both men and women, because Aaron used to pursue peace and promoted love between contending parties, and between man and wife (cf. The Fathers According to Rabbi Nathan 12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "כי גוע. אוֹמֵר אֲנִי שֶׁהַמְתַּרְגֵּם דְּהָא מִית טוֹעֶה הוּא, אֶלָּא אִם כֵּן מְתַרְגֵּם וַיִּרְאוּ וְאִתְחֲזִיאוּ, שֶׁלֹּא אָמְרוּ רַבּוֹתֵינוּ כִּי זֶה מְשַׁמֵּשׁ בִּלְשׁוֹן דְּהָא אֶלָּא עַל מִדְרָשׁ שֶׁנִּסְתַּלְּקוּ עַנְנֵי הַכָּבוֹד, וְכִדְאָמַר רַבִּי אַבָּהוּ (ראש השנה ג'), אַל תִּקְרֵי וַיִּרְאוּ, אֶלָּא וַיֵּרָאוּ, וְעַל לָשׁוֹן זֶה נוֹפֵל לְשׁוֹן דְּהָא, לְפִי שֶׁהִיא נְתִינַת טַעַם לְמַה שֶּׁלְּמַעְלָה הֵימֶנּוּ — לָמָּה וַיֵּרָאוּ? לְפִי שֶׁהֲרֵי מֵת אַהֲרֹן; אֲבָל עַל תַּרְגּוּם \"וְחָזוּ כָל כְּנִשְׁתָּא\" אֵין לְשׁוֹן דְּהָא נוֹפֵל אֶלָּא לְשׁוֹן אֲשֶׁר, שֶׁהוּא מִגִּזְרַת שִׁמּוּשׁ אִי, שֶׁמָּצִינוּ אִם מְשַׁמֵּשׁ בִּלְשׁוֹן אֲשֶׁר, כְּמוֹ \"וְאִם מַדּוּעַ לֹא תִקְצַר רוּחִי\" (איוב כ\"א), וְהַרְבֵּה מְפֹרָשִׁים מִזֶּה הַלָּשׁוֹן — \"אִם חֲרוּצִים יָמָיו\" (שם י\"ד):",
+          "en": "כי גוע THAT (or because) HE HAD DIED — I say that he who translates these words in the Targum (i.e., anyone who holds that this is the correct rendering) by דהא מית, “because he had died”, is in error unless he also translates in the Targum the word ויראו by ואתחזיאו “they were seen (exposed)”, for our Rabbis stated that this word כי is used here in the sense of “because” only in accordance with a Midrash which relates that the clouds of glory which hitherto enveloped Israel disappeared at Aaron's death, (so that all the congregation were now exposed to the sight of their enemies), and in accordance with what R. Abuhu said (Rosh Hashanah 3a), “Read here not וַיִּרְאוּ but וַיֵּרָאוּ, “they were seen”. It is to this sense of the verb that the meaning of “because” is applicable to the word כי, since that gives the reason for what precedes it: Why were they seen? Because, behold, Aaron had died, and the clouds disappeared. But to the translation in the Targum, וחזו כל כנשתא (“and all the congregation saw”), the meaning of “because” (for the word כי) is not applicable, but only the meaning אשר, “that”, which is one of the usages of the word אי (the Aramaic equivalent of אם, which itself is one of the four classifications of the usage of כי; see ibid). For we find אם used in the sense of אשר “that”, as e.g., (Job 21:4) “so that (ואם) why should I not be impatient?” And many passages where אם occurs may be explained in this sense, as (Job 14:5), “that (אם) his days are determined”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:1",
+      "he": "וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ יֹשֵׁ֣ב הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֙חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ&thinsp;׀&thinsp;מִמֶּ֖נּוּ שֶֽׁבִי׃",
+      "en": "When the Canaanite, king of Arad, who dwelt in the Negeb, learned that Israel was coming by the way of Atharim,aAtharim Meaning of Heb. ha-ʼatharim uncertain. Targum and other ancient versions render “the way [taken by] the scouts.” he engaged Israel in battle and took some of them captive.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וישמע הכנעני. שָׁמַע שֶׁמֵּת אַהֲרֹן וְנִסְתַּלְּקוּ עַנְנֵי כָבוֹד כו', כִּדְאִיתָא בְּרֹאשׁ הַשָּׁנָה (דף ג'), וַעֲמָלֵק מֵעוֹלָם רְצוּעַת מַרְדּוּת לְיִשְׂרָאֵל, מְזֻמָּן בְּכָל עֵת לְפֻרְעָנוּת:",
+          "en": "וישמע הכנעני AND THE CANAANITE HEARD — He heard that Aaron had died and that the clouds of glory had disappeared and he believed that now he was at liberty to wage war against Israel, as it is related in Rosh Hashana 3a; Amalek was from olden times a whip for chastising Israel — always held in readiness to be God's agent for Israels punishment (Midrash Tanchuma, Chukat 18).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ישב הנגב. זֶה עֲמָלֵק, שֶׁנֶּאֱמַר \"עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב\" (במדבר י\"ג), וְשִׁנָּה אֶת לְשׁוֹנוֹ לְדַבֵּר בִּלְשׁוֹן כְּנַעַן, כְּדֵי שֶׁיִּהְיוּ יִשְׂרָאֵל מִתְפַּלְּלִים לְהַקָּבָּ\"ה לָתֵת כְּנַעֲנִים בְּיָדָם, וְהֵם אֵינָן כְּנַעֲנִים, רָאוּ יִשְׂרָאֵל לְבוּשֵׁיהֶם כִּלְבוּשֵׁי עֲמָלֵקִים וּלְשׁוֹנָם לְשׁוֹן כְּנַעַן, אָמְרוּ נִתְפַּלֵּל סְתָם, שֶׁנֶּאֱמַר \"אִם נָתֹן תִּתֵּן אֶת הָעָם הַזֶּה בְּיָדִי\" (עי' ילקוט שמעוני תשס\"ד):",
+          "en": "ישב הנגב THE INHABITANT OF THE SOUTH COUNTRY — This was Amalek,as it is said, (Numbers 13:29), “Amalek was the inhabitant of the south country”. But he purposely changed his speech, talking in the “Canaanite” tongue, so that Israel might thereby be misled and would pray to the Holy One, blessed be He, that he should give the Canaanites into their power, whilst really they were not Canaanites, and their prayer would be ineffectual against the Amalakites. But Israel perceived that their clothing was as the clothing of Amalakites whilst their language was the language of Canaan; they thereupon said, “Let us pray against our enemies in general terms (without mention of any name), as it is stated (v. 2) that they said, “if Thou wilt indeed give this people into my hand”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "דרך האתרים. דֶּרֶךְ הַנֶּגֶב, שֶׁהָלְכוּ בּוֹ מְרַגְּלִים, שֶׁנֶּאֱמַר \"וַיַּעֲלוּ בַנֶּגֶב\" (במדבר י\"ג); דָּבָר אַחֵר: דֶּרֶךְ הָאֲתָרִים, דֶּרֶךְ הַתַּיָּר הַגָּדוֹל הַנּוֹסֵעַ לִפְנֵיהֶם, שֶׁנֶּאֱמַר (שם י') \"דֶּרֶךְ שְׁלֹשֶׁת יָמִים לָתוּר לָהֶם מְנוּחָה\" (תנחומא):",
+          "en": "דרך האתרים BY WAY OF ATHARIM — by way of the south country by which the spies (תרים) had gone, as it is said, (Numbers 13:22) “and they went up by the south country”. Another explanation of דרך האתרים is: By the way of the Great Searcher (the Ark) which used to journey in front of them, as it is said, (Numbers 10:33) “[and the Ark of the Covenant of the Lord went before them] in the three days’ journey to search out (לתור) a resting-place for them” (Midrash Tanchuma, Chukat 14).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "וישב ממנו שבי. אֵינָהּ אֶלָּא שִׁפְחָה אַחַת (ילקוט שמעוני שם):",
+          "en": "וישב ממנו שבי (more lit.,) AND CAPTURED FROM THEM A CAPTIVE — it was only one maid servant (Yalkut Shimoni on Torah 764).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:2",
+      "he": "וַיִּדַּ֨ר יִשְׂרָאֵ֥ל נֶ֛דֶר לַֽיהֹוָ֖ה וַיֹּאמַ֑ר אִם־נָתֹ֨ן תִּתֵּ֜ן אֶת־הָעָ֤ם הַזֶּה֙ בְּיָדִ֔י וְהַֽחֲרַמְתִּ֖י אֶת־עָרֵיהֶֽם׃",
+      "en": "Then Israel made a vow to GOD and said, “If You deliver this people into our hand, we will proscribebproscribe I.e., utterly destroy, reserving no booty except what is deposited in the Sanctuary; see Josh. 6.24. their towns.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והחרמתי. אַקְדִּישׁ שְׁלָלָם לְגָבוֹהַּ:",
+          "en": "והחרמתי means I WILL DEDICATE their spoil (that of the cities) to the Most High.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:3",
+      "he": "וַיִּשְׁמַ֨ע יְהֹוָ֜ה בְּק֣וֹל יִשְׂרָאֵ֗ל וַיִּתֵּן֙ אֶת־הַֽכְּנַעֲנִ֔י וַיַּחֲרֵ֥ם אֶתְהֶ֖ם וְאֶת־עָרֵיהֶ֑ם וַיִּקְרָ֥א שֵׁם־הַמָּק֖וֹם חׇרְמָֽה׃&nbsp;{פ}",
+      "en": "GOD heeded Israel’s plea and delivered up the Canaanites; and they and their cities were proscribed. So that place was named Hormah.cHormah Connected with heḥerim “to proscribe.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויחרם אתהם. בַּהֲרִיגָה:",
+          "en": "ויחרם אתהם AND HE DOOMED THEM by slaughter,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואת עריהם. חֶרְמֵי גָבוֹהַּ:",
+          "en": "ואת עריהם AND THEIR CITIES as things dedicated to the Most High.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:4",
+      "he": "וַיִּסְע֞וּ מֵהֹ֤ר הָהָר֙ דֶּ֣רֶךְ יַם־ס֔וּף לִסְבֹ֖ב אֶת־אֶ֣רֶץ אֱד֑וֹם וַתִּקְצַ֥ר נֶֽפֶשׁ־הָעָ֖ם בַּדָּֽרֶךְ׃",
+      "en": "They set out from Mount Hor by way of the Sea of ReedsdSea of Reeds Traditionally, but incorrectly, “Red Sea.” to skirt the land of Edom. But the people grew restive on the journey,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "דרךְ ים סוף. כֵּיוָן שֶׁמֵּת אַהֲרֹן וּבָאת עֲלֵיהֶם מִלְחָמָה זוֹ, חָזְרוּ לַאֲחוֹרֵיהֶם דֶּרֶךְ יַם סוּף, הוּא הַדֶּרֶךְ שֶׁחָזְרוּ לָהֶם כְּשֶׁנִּגְזַר עֲלֵיהֶם גְּזֵרַת מְרַגְּלִים, שֶׁנֶּאֱמַר \"וּסְעוּ הַמִּדְבָּרָה דֶּרֶךְ יַם סוּף\" (דברים א'), וְכָאן חָזְרוּ לַאֲחוֹרֵיהֶם שֶׁבַע מַסָּעוֹת, שֶׁנֶּאֱמַר \"וּבְנֵי יִשְׂרָאֵל נָסְעוּ מִבְּאֵרֹת בְּנֵי יַעֲקָן מוֹסֵרָה שָׁם מֵת אַהֲרֹן\", וְכִי בְמוֹסֵרָה מֵת? וַהֲלֹא בְהֹר הָהָר מֵת? אֶלָּא שָׁם חָזְרוּ וְהִתְאַבְּלוּ עָלָיו וְהִסְפִּידוּהוּ כְּאִלּוּ הוּא בִפְנֵיהֶם; וְצֵא וּבְדֹק בַּמַּסָּעוֹת וְתִמְצְאֵם שֶׁבַע מַסָּעוֹת מִן מוֹסֵרָה עַד הֹר הָהָר (תנחומא):",
+          "en": "דרך ים סוף BY THE WAY OF THE RED SEA — As soon as Aaron died and this war came upon them they turned back on the way to the Red Sea; this was the way on which they had turned back when there had been enacted against them the decree that they must wander in the wilderness in consequence of their murmuring after having received the report of the spies, as it is said, (Deuteronomy 1:40), “And take your journey into the wilderness by the way to the Red Sea”. Here they went back seven stages, as it is said, (Deuteronomy 10:6), “And the children of Israel journeyed from Beeroth-bene-jaakan to Moserah; there Aaron died”. But did he really die at Moserah; was it not at Mount Hor that he died?” But the explanation is, that there (at Moserah) they again mourned and lamented for him just as though he there lay dead before them. Go and examine the list of the stages (Numbers 33:31—37) and you will find that there are seven stages from Moserah to Mount Hor (Midrash Tanchuma, Chukat 18).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לסבב את ארץ אדום. שֶׁלֹּא נְתָנָם לַעֲבֹר בְּאַרְצוֹ:",
+          "en": "לסבב את ארץ אדום TO GO ROUND THE LAND OF EDOM — to go round it, because they would not permit them to pass through their land.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ותקצר נפש העם בדרך. בְּטֹרַח הַדֶּרֶךְ שֶׁהֻקְשָׁה לָהֶם, אָמְרוּ עַכְשָׁו הָיִינוּ קְרוֹבִים לִכָּנֵס לָאָרֶץ וְאָנוּ חוֹזְרִים לַאֲחוֹרֵינוּ, כָּךְ חָזְרוּ אֲבוֹתֵינוּ וְנִשְׁתָּהוּ שְׁלֹשִׁים וּשְׁמוֹנֶה שָׁנָה עַד הַיּוֹם, לְפִיכָךְ קָצְרָה נַפְשָׁם בְּעִנּוּי הַדֶּרֶךְ, וּבְלַעַ\"ז אנקרוט\"לור; וְלֹא יִתָּכֵן לוֹמַר וַתִּקְצַר נֶפֶשׁ הָעָם בַּדָּרֶךְ — בִּהְיוֹתוֹ בַדֶּרֶךְ, וְלֹא פֵּרֵשׁ בּוֹ בַּמֶּה קָצְרָה, שֶׁכָּל מָקוֹם שֶׁתִּמְצָא קִצּוּר נֶפֶש בַּמִּקְרָא מְפֹרָשׁ שָׁם בַּמֶּה קָצְרָה, כְּגוֹן \"וַתִּקְצַר נַפְשִׁי בָּהֶם\" (זכריה י\"א), וּכְגוֹן \"וַתִּקְצַר נַפְשׁוֹ בַּעֲמַל יִשְׂרָאֵל\" (שופטים י'), וְכָל דָּבָר קָשֶׁה עַל אָדָם נוֹפֵל בּוֹ לְשׁוֹן קִצּוּר נֶפֶשׁ, כְּאָדָם שֶׁהַטֹּרַח בָּא עָלָיו וְאֵין דַּעְתּוֹ רְחָבָה לְקַבֵּל אוֹתוֹ הַדָּבָר וְאֵין לוֹ מָקוֹם בְּתוֹךְ לִבּוֹ לָגוּר שָׁם הַצַּעַר, וּבְדָבָר הַמַּטְרִיחַ נוֹפֵל לְשׁוֹן גֹּדֶל, שֶׁגָּדוֹל הוּא וְכָבֵד עַל הָאָדָם, כְּגוֹן \"וְגַם נַפְשָׁם בָּחֲלָה בִי\" (זכריה י\"א) — גָּדְלָה עָלַי, \"וְיִגְאֶה כַּשַּׁחַל תְּצוּדֵנִי\" (איוב י'); כְּלָלוֹ שֶׁל פֵּרוּשׁ, כָּל לְשׁוֹן קִצּוּר נֶפֶשׁ בְּדָבָר לָשׁוֹן שֶׁאֵין יָכוֹל לְסָבְלוֹ הוּא — שֶׁאֵין הַדַּעַת סוֹבַלְתּוֹ:",
+          "en": "ותקצר נפש העם בדרך AND THE SOUL OF THE PEOPLE WAS MUCH DISCOURAGED BECAUSE OF THE WAY — because of the difficulties of the journey which were so hard for them. They said: Now we are close enough to enter the land, and yet we have to turn back. Just so had our fathers to turn back and they stayed in the wilderness thirty eight years until this day. —Consequently their soul became discouraged because of the hardship of the journey. In O. F., En cure del tour. — It would not be correct to say that ותקצר נפש העם בדרך means “[and the soul of the people was discouraged] while they were on the journey” and that it (the text) does not explain what it was discouraged through, for in every passage in Scripture where you find the phrase “the soul being discouraged”, it is there explained through what it became discouraged (the preposition ב being prefixed to the word that expresses the cause of discouragement). For example, (Zechariah 11:8) “And my soul became impatient of them (בהם)”, and, for example, (Judges 10:16): “And His soul became impatient with the enemies on account of the misery (בעמל) they inflicted upon Israel”. To anything that is hard for a man to bear the expression “the shortening of soul” (קצור נפש) is applicable - he is like a person upon whom trouble comes and his mind is not large enough to contain that matter and there is no room in his heart for that worry to abide there. Of the thing that causes the trouble the term “large” is used, denoting that it is too huge and heavy for a person. For example, (Zechariah 11:8) וגם נפשם בחלה בי, which signifies “(And also their souls] were great upon Me”; (Job. 10:16), “And it becomes large (it is a burden to Thee) even that Thou huntest me as though I were a lion”. (See Rashi on these verses and on Niddah 47a). To sum up the explanation: the phrase “shortening of the soul through a thing” signifies that one cannot bear it — that the mind cannot bear it.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:5",
+      "he": "וַיְדַבֵּ֣ר הָעָ֗ם בֵּֽאלֹהִים֮ וּבְמֹשֶׁה֒ לָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לָמ֖וּת בַּמִּדְבָּ֑ר כִּ֣י אֵ֥ין לֶ֙חֶם֙ וְאֵ֣ין מַ֔יִם וְנַפְשֵׁ֣נוּ קָ֔צָה בַּלֶּ֖חֶם הַקְּלֹקֵֽל׃",
+      "en": "and the people spoke against God and against Moses, “Why did you make us leave Egypt to die in the wilderness? There is no bread and no water, and we have come to loathe this miserable food.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "באלהים ובמשה. הִשְׁווּ עֶבֶד לְקוֹנוֹ (תנחומא):",
+          "en": "באלהים ובמשה [AND THE PEOPLE SPAKE] AGAINST GOD AND AGAINST MOSES — They placed the servant on a par with his Master (Midrash Tanchuma, Chukat 19).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "למה העליתנו. שְׁנֵיהֶם שָׁוִים:",
+          "en": "למה העליתנו WHEREFORE HAVE YE BROUGHT US UP — “ye”: they (God and Moses) were both on a par to them.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ונפשנו קצה. אַף זֶה לְשׁוֹן קִצּוּר נֶפֶשׁ וּמִאוּס:",
+          "en": "ונפשנו קצה AND OUR SOUL LOATHETH — This, too, is an expression for “the shortening of soul” and “rejecting” (not being able to bear the trouble).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בלחם הקלקל. לְפִי שֶׁהַמָּן נִבְלָע בָּאֵבָרִים קְרָאוּהוּ קְלֹקֵל, אָמְרוּ, עָתִיד הַמָּן הַזֶּה שֶׁיִּתְפַּח בְּמֵעֵינוּ, כְּלוּם יֵשׁ יְלוּד אִשָּׁה שֶׁמַּכְנִיס וְאֵינוֹ מוֹצִיא? (יומא ע\"ה):",
+          "en": "בלחם הקלקל THIS LIGHT BREAD — because the manna was miraculously absorbed into their limbs (and was not execrated) they derisively called it “light”. They said: this manna will at some time or other swell up in our stomachs, for is there any mortal (lit., anyone born of woman) who takes in food and does not eject it? (Yoma 75b; cf. Rashi on Avodah Zarah 5b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:6",
+      "he": "וַיְשַׁלַּ֨ח יְהֹוָ֜ה בָּעָ֗ם אֵ֚ת הַנְּחָשִׁ֣ים הַשְּׂרָפִ֔ים וַֽיְנַשְּׁכ֖וּ אֶת־הָעָ֑ם וַיָּ֥מׇת עַם־רָ֖ב מִיִּשְׂרָאֵֽל׃",
+      "en": "GOD sent serapheseraph Cf. Isa. 14.29; 30.6. In contrast to others “fiery”; exact meaning of Heb. saraph uncertain. serpents against the people. They bit the people and many of the Israelites died.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את הנחשים השרפים. שֶׁשּׂוֹרְפִים אֶת הָאָדָם בְּאֶרֶס שִׁנֵּיהֶם:",
+          "en": "את הנחשים השרפים BURNING SERPENTS — so termed because they burn (cause fever in) a person through the poison of their fangs.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וינשכו את העם. יָבֹא נָחָשׁ שֶׁלָּקָה עַל הוֹצָאַת דִּבָּה וְיִפָּרַע מִמּוֹצִיאֵי דִּבָּה, יָבֹא נָחָשׁ שֶׁכָּל הַמִּינִין נִטְעָמִין לוֹ טַעַם אֶחָד וְיִפָּרַע מִכְּפוּיֵי טוֹבָה שֶׁדָּבָר אֶחָד מִשְׁתַּנֶּה לָהֶם לְכַמָּה מַטְעַמִּים (תנחומא):",
+          "en": "וינשכו את העם AND THEY BIT THE PEOPLE — God said, as it were: Let the serpent which was punished for slanderous statements come and exact punishment from those who utter slander. — Let the serpent to which all kinds of food have one taste (that of earth; cf. Genesis 3:14 and Yoma 75a) come and exact punishment from these ingrates to whom one thing (the manna) had the taste of many different dainties (see Rashi 11:8) (Midrash Tanchuma, Chukat 19).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:7",
+      "he": "וַיָּבֹא֩ הָעָ֨ם אֶל־מֹשֶׁ֜ה וַיֹּאמְר֣וּ חָטָ֗אנוּ כִּֽי־דִבַּ֤רְנוּ בַֽיהֹוָה֙ וָבָ֔ךְ הִתְפַּלֵּל֙ אֶל־יְהֹוָ֔ה וְיָסֵ֥ר מֵעָלֵ֖ינוּ אֶת־הַנָּחָ֑שׁ וַיִּתְפַּלֵּ֥ל מֹשֶׁ֖ה בְּעַ֥ד הָעָֽם׃",
+      "en": "The people came to Moses and said, “We sinned by speaking against GOD and against you. Intercede with GOD to take away the serpents from us!” And Moses interceded for the people.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויתפלל משה. מִכָּאן לְמִי שֶׁמְּבַקְשִׁים מִמֶּנּוּ, שֶׁלֹּא יְהֵא אַכְזָרִי מִלִּמְחֹל (עי' תנחומא):",
+          "en": "ויתפלל משה AND MOSES PRAYED — From this we may learn that he of whom one seeks forgiveness should not be so cruel as not to forgive (cf. Midrash Tanchuma, Chukat 19).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:8",
+      "he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה עֲשֵׂ֤ה לְךָ֙ שָׂרָ֔ף וְשִׂ֥ים אֹת֖וֹ עַל־נֵ֑ס וְהָיָה֙ כׇּל־הַנָּשׁ֔וּךְ וְרָאָ֥ה אֹת֖וֹ וָחָֽי׃",
+      "en": "Then GOD said to Moses, “Make a seraphfseraph See note at v. 6. figure and mount it on a standard. And anyone who was bitten who then looks at it shall recover.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על נס. עַל כְּלוֹנָס, שֶׁקּוֹרִין פירק\"א בְּלַעַז, וְכֵן \"וְכַנֵּס עַל הַגִּבְעָה\" (ישעיהו ל'), \"אָרִים נִסִּי\" (שם מ\"ט), \"שְׂאוּ נֵס\" (שם י\"ג); וּלְפִי שֶׁהוּא גָּבוֹהַּ לְאוֹת וְלִרְאָיָה, קוֹרְאוֹ נֵס:",
+          "en": "על נס means [SET IT] UPON A POLE which is termed perche in O. F. Similar is, (Isaiah 30:17) “And like a polo (banner) upon the hill”; (Isaiah 49:22) “I will lift up my pole (banner)”; (Isaiah 13:3) “Lift up a banner.\" Because it is lofty so that it can serve as a sign and as evidence of something it is called נס, something raised on high (cf. Rashi on Exodus 20:17).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כל הנשוך. אֲפִלּוּ כֶלֶב אוֹ חֲמוֹר נוֹשְׁכוֹ הָיָה נִזּוֹק וּמִתְנַוְּנֶה וְהוֹלֵךְ, אֶלָּא שֶׁנְּשִׁיכַת הַנָּחָשׁ מְמַהֶרֶת לְהָמִית, לְכָךְ נֶאֱמַר כָּאן וְרָאָה אֹתוֹ — רְאִיָּה בְעָלְמָא — וּבִנְשִׁיכַת הַנָּחָשׁ נֶאֱמַר \"וְהִבִּיט\" — וְהָיָה אִם נָשַׁךְ הַנָּחָשׁ אֶת אִישׁ וְהִבִּיט וְגוֹ' — שֶׁלֹּא הָיָה מְמַהֵר נְשׁוּךְ הַנַּחַשׁ לְהִתְרַפְּאוֹת אֶלָּא אִם כֵּן מַבִּיט בּוֹ בְּכַוָּנָה; וְאָמְרוּ רַבּוֹתֵינוּ וְכִי נָחָשׁ מֵמִית אוֹ מְחַיֶּה? אֶלָּא, בִּזְמַן שֶׁהָיוּ יִשְׂרָאֵל מִסְתַּכְּלִין כְּלַפֵּי מַעְלָה וּמְשַׁעְבְּדִין אֶת לִבָּם לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם הָיוּ מִתְרַפְּאִים, וְאִם לָאו הָיוּ נִמּוֹקִים (ראש השנה כ\"ט):",
+          "en": "כל הנשוך ANYONE THAT IS BITTEN — even though a dog or ass had bitten him, he felt the effects of the injury and became enfeebled more and more (cf. Tanchuma); only that the bite of a serpent kills more speedily. On this account it is stated here: וראה אתו, “whoever has been bitten, when he seeth it, [shall live]” — a mere glance sufficed to heal him. But in the case of the serpent’s bite it is stated והביט, and he gazed — “and it came to pass that if a serpent had bitten any man, when he gazed [at the brazen serpent, he lived]”, for the serpent’s bite was not so quick to heal unless he gazed intently (cf. Jerusalem Talmud Rosh Hashanah 3:9). — Our Rabbis said: But could the copper serpent cause death or life?! But the explanation is that when the Israelites in gazing at the serpent looked up on high and subjected their hearts to their Father in Heaven, they were healed, but if they did not do this they waste away (Rosh Hashanah 29a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:9",
+      "he": "וַיַּ֤עַשׂ מֹשֶׁה֙ נְחַ֣שׁ נְחֹ֔שֶׁת וַיְשִׂמֵ֖הוּ עַל־הַנֵּ֑ס וְהָיָ֗ה אִם־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃",
+      "en": "Moses made a copper serpent and mounted it on a standard; and if someone was bitten by a serpent, they would look at the copper serpent and recover.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נחש נחשת. לֹא נֶאֱמַר לוֹ לַעֲשׂוֹתוֹ שֶׁל נְחֹשֶׁת, אֶלָּא אָמַר מֹשֶׁה, הַקָּבָּ\"ה קוֹרְאוֹ נָחָשׁ וַאֲנִי אֶעֱשֶׂנּוּ שֶׁל נְחֹשֶׁת, לָשׁוֹן נוֹפֵל עַל לָשׁוֹן (בראשית רבה ל\"א):",
+          "en": "נחש נחשת A SERPENT OF COPPER — He had not been told to make it of copper, but Moses said, “The Holy One, blessed be He, terms it נחש; I will therefore make it of נחשת — one term fitting the other term” (Genesis Rabbah 31:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:10",
+      "he": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנ֖וּ בְּאֹבֹֽת׃",
+      "en": "The Israelites marched on and encamped at Oboth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 21:11",
+      "he": "וַיִּסְע֖וּ מֵאֹבֹ֑ת וַֽיַּחֲנ֞וּ בְּעִיֵּ֣י הָֽעֲבָרִ֗ים בַּמִּדְבָּר֙ אֲשֶׁר֙ עַל־פְּנֵ֣י מוֹאָ֔ב מִמִּזְרַ֖ח הַשָּֽׁמֶשׁ׃",
+      "en": "They set out from Oboth and encamped at Iye-abarim, in the wilderness bordering on Moab to the east.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בעיי העברים. לֹא יָדַעְתִּי לָמָּה נִקְרָא שְׁמָם עִיִּים, וְעִי לְשׁוֹן חָרְבָּה הִיא — דָּבָר הַטָּאוּט בְּמַטְאֲטֵא, וְהָעַיִ\"ן בּוֹ יְסוֹד לְבַדָּהּ, וְהוּא מִלְּשׁוֹן \"יָעִים\" (שמות כ\"ז), \"וְיָעָה בָרָד\" (ישעיהו כ\"ח):",
+          "en": "בעיי העברים IN IJE-ABARIM (in the עיים of Abarim) — I do not know why the name (that of these places) was called עיים, for the term עי signifies ruins; it is a thing (spot) that has been swept as it were with a broom. Only the single letter ע in it belongs to the root; it is connected in meaning with יעים (Exodus 27:3) and (Isaiah 28:17) “And the hail shall sweep away (יעה).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "העברים. דֶּרֶךְ מַעֲבַר הָעוֹבְרִים שָׁם אֶת הַר נְבוֹ אֶל אֶרֶץ כְּנַעַן, שֶׁהוּא מַפְסִיק בֵּין אֶרֶץ מוֹאָב לְאֶרֶץ אֱמוֹרִי:",
+          "en": "העברים (from עבר to pass) — the road forming a pass for those who at that spot pass by Mount Nebo on their way to the land of Canaan, which mount separates the land of Moab from the land of the Amorites. ...",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "על פני מואב ממזרח השמש. בְּמִזְרָחָהּ שֶׁל אֶרֶץ מוֹאָב:",
+          "en": "על פני מואב ממזרח השמש [IN THE WILDERNESS WHICH IS] BEFORE MOAB TOWARDS THE SUN-RISING (the East) — i.e., to the East of the land of Moab (not in the East of the world).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:12",
+      "he": "מִשָּׁ֖ם נָסָ֑עוּ וַֽיַּחֲנ֖וּ בְּנַ֥חַל זָֽרֶד׃",
+      "en": "From there they set out and encamped at the wadi Zered.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 21:13",
+      "he": "מִשָּׁם֮ נָסָ֒עוּ֒ וַֽיַּחֲנ֗וּ מֵעֵ֤בֶר אַרְנוֹן֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר הַיֹּצֵ֖א מִגְּבֻ֣ל הָֽאֱמֹרִ֑י כִּ֤י אַרְנוֹן֙ גְּב֣וּל מוֹאָ֔ב בֵּ֥ין מוֹאָ֖ב וּבֵ֥ין הָאֱמֹרִֽי׃",
+      "en": "From there they set out and encamped beyond the Arnon, that is, in the wilderness that extends from the territory of the Amorites. For the Arnon is the boundary of Moab, between Moab and the Amorites.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מגבל האמרי. תְּחוּם סוֹף מֶצֶר שֶׁלָּהֶם, וְכֵן גְּבוּל מוֹאָב — לְשׁוֹן קָצֶה וָסוֹף:",
+          "en": "מגבל האמרי The word גבול denotes boundary-line of (marking) the end of their frontier. Similar is the term the גבול of Moab (in this verse): it is an expression for extremity and end.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מעבר ארנון. הִקִּיפוּ אֶרֶץ מוֹאָב כָּל דְּרוֹמָהּ וּמִזְרָחָהּ עַד שֶׁבָּאוּ מֵעֵבֶר הַשֵּׁנִי לְאַרְנוֹן בְּתוֹךְ אֶרֶץ הָאֱמוֹרִי בִּצְפוֹנָהּ שֶׁל אֶרֶץ מוֹאָב:",
+          "en": "מעבר ארנון ON THE OTHER SIDE OF ARNON — they travelled round the land of Moab along the whole of its southern and eastern sides until they came to the other side of the Arnon into the land of the Amorites on the north of the land of Moab.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "היצא מגבל האמרי. רְצוּעָה יוֹצְאָה מִגְּבוּל הָאֱמוֹרִי וְהִיא שֶׁל אֱמוֹרִיִּים, וְנִכְנֶסֶת לִגְבוּל מוֹאָב עַד אַרְנוֹן שֶׁהוּא גְּבוּל מוֹאָב, וְשָׁם חָנוּ יִשְֹרָאֵל וְלֹא בָאוּ לִגְבוּל מוֹאָב, כי ארנון גבול מואב, וְהֵם לֹא נָתְנוּ לָהֶם רְשׁוּת לַעֲבֹר בְּאַרְצָם, וְאַעַ\"פִּי שֶׁלֹּא פֵרְשָׁהּ מֹשֶׁה, פֵּרְשָׁהּ יִפְתָּח, כְּמוֹ שֶׁאָמַר יִפְתָּח (שופטים י\"א) \"וְגַם אֶל מֶלֶךְ מוֹאָב שָׁלַח וְלֹא אָבָה\", וּמֹשֶׁה רְמָזָהּ (דברים ב'), \"כַּאֲשֶׁר עָשׂוּ לִי בְּנֵי עֵשָׂו הַיֹּשְׁבִים בְּשֵׂעִיר וְהַמּוֹאָבִים הַיֹּשְׁבִים בְּעָר\" — מָה אֵלּוּ לֹא נְתָנוּם לַעֲבֹר בְּתוֹךְ אַרְצָם אֶלָּא הִקִּיפוּם סָבִיב, אַף מוֹאָב כֵּן:",
+          "en": "היצא מגבל האמרי [ARNON WHICH IS IN THE WILDERNESS] THAT COMETH OUT OF THE BOUNDARY OF THE AMORITES — a strip of land jutted out from the territory of the Amorites — it belonged to the Amorites — and entered into the territory of Moab extending unto the Arnon which is the boundary of Moab. It was there that the Israelites encamped and thus they did not pass into the territory of Moab, כי ארנון גבול מואב, FOR ARNON IS THE BOUNDARY OF MOAB, and they did not grant them permission to pass through their land. And although Moses did not state this plainly, Jephtha plainly stated it], as Jephtha said, (Judges 11:17) \"And in like manner he sent unto the king of Moab, out he would not permit him to pass through his territory”. Moses, however, made an allusion to it when he stated, (Deuteronomy 2:29) “As the children of Esau that dwell in Seir, and the Moabites that dwell in Ar, did unto me”. What was the case with these (the children of Esau)? They did not permit them to pass through their land, but they made them travel right round it! Similarly, too, Moab did!",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:14",
+      "he": "עַל־כֵּן֙ יֵֽאָמַ֔ר בְּסֵ֖פֶר מִלְחֲמֹ֣ת יְהֹוָ֑ה אֶת־וָהֵ֣ב בְּסוּפָ֔ה וְאֶת־הַנְּחָלִ֖ים אַרְנֽוֹן׃",
+      "en": "Therefore the Book of the Wars of GOD speaks ofgThe quotation that follows is a fragment; its text and meaning are uncertain. “…Waheb in Suphah, and the wadis: the Arnon",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על כן יאמר. עַל חֲנִיָּה זוֹ וְנִסִּים שֶׁנַּעֲשׂוּ בָהּ יאמר בספר מלחמת ה' — כְּשֶׁמְּסַפְּרִים נִסִּים שֶׁנַּעֲשׂוּ לַאֲבוֹתֵינוּ יְסַפְּרוּ אֶת וָהֵב וגו':",
+          "en": "על כן יאמר WHEREFORE IT IS SAID (more lit., about this it will be said) — About this encampment and the miracles that were wrought at it, it will be told בספר מלחמות ה׳ IN THE NARRATIVE (lit., THE BOOK) OF THE WARS OF THE LORD — whenever people narrate the miracles that were wrought for our fathers they will declare את והב.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את והב. כְּמוֹ אֶת יָהֵב, כְּמוֹ שֶׁיֵּאָמֵר מִן יעד וָעֵד, כֵּן יֵאָמֵר מִן יהב וָהֵב, וְהַוָּי\"ו יְסוֹד הוּא, כְּלוֹמַר אֶת אֲשֶׁר יָהַב לָהֶם וְהִרְבָּה נִסִּים בְּיַם סוּף:",
+          "en": "את והב — is equivalent to את יהב; just as from the root יעד one may say וָעֵד, so from יהב, \"to give” one may say והב: the ו is a root-letter. It means to say: they will relate what (את) He gave (והב) to them (i.e. what boons He gave to them) and how He did many miracles at the Red Sea (בים סוף being the equivalent of בסופה in the text).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואת הנחלים ארנון. כְּשֵׁם שֶׁמְּסַפְּרִים בְּנִסֵּי יַם סוּף, כָּךְ יֵשׁ לְסַפֵּר בְּנִסֵּי נַחֲלֵי אַרְנוֹן, שֶׁאַף כָּאן נַעֲשׂוּ נִסִּים גְּדוֹלִים, וּמָה הֵם הַנִּסִּים?",
+          "en": "ואת הנחלים ארנון AND THE VALLEYS AT ARNON — Just as they relate the miracles at the Red Sea, so there should be related, too, the miracles at the valleys of Arnon, for here, also, great miracles were wrought (Midrash Tanchuma, Chukat 20). And what were those miracles? (the reply is given in the next passage).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:15",
+      "he": "וְאֶ֙שֶׁד֙ הַנְּחָלִ֔ים אֲשֶׁ֥ר נָטָ֖ה לְשֶׁ֣בֶת עָ֑ר וְנִשְׁעַ֖ן לִגְב֥וּל מוֹאָֽב׃",
+      "en": "with its tributary wadis, stretched along the settled country of Ar, hugging the territory of Moab…”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואשד הנחלים. תַּרְגּוּם שֶׁל שֶׁפֶךְ \"אֶשֶׁד\" — שֶׁפֶךְ הַנְּחָלִים שֶׁנִּשְׁפַּךְ שָׁם דַּם אֱמוֹרִיִּים, שֶׁהָיוּ נֶחְבָּאִים שָׁם, לְפִי שֶׁהָיוּ הֶהָרִים גְּבוֹהִים וְהַנַּחַל עָמֹק וְקָצָר וְהֶהָרִים סְמוּכִים זֶה לָזֶה — אָדָם עוֹמֵד עַל הָהָר מִזֶּה וּמְדַבֵּר עִם חֲבֵרוֹ בָּהָר הַזֶּה — וְהַדֶּרֶךְ עוֹבֵר בְּתוֹךְ הַנַּחַל, אָמְרוּ אֱמוֹרִיִּים, כְּשֶׁיִּכָּנְסוּ יִשְׂרָאֵל לָאָרֶץ לְתוֹךְ הַנַּחַל לַעֲבֹר, נֵצֵא מִן הַמְּעָרוֹת שֶׁבֶּהָרִים שֶׁלְּמַעְלָה מֵהֶם, וְנַהַרְגֵם בְּחִצִּים וְאַבְנֵי בָּלִיסְטְרָאוֹת, וְהָיוּ אוֹתָן הַנְּקָעִים בָּהָר שֶׁל צַד מוֹאָב, וּבָהָר שֶׁל צַד אֱמוֹרִיִּים הָיוּ כְּנֶגֶד אוֹתָן נְקָעִים כְּמִין קְרָנוֹת וְשָׁדַיִם בּוֹלְטִין לַחוּץ, כֵּיוָן שֶׁבָּאוּ יִשְׂרָאֵל לַעֲבֹר, נִזְדַּעְזַע הָהָר שֶׁל אֶרֶץ יִשְׂרָאֵל כְּשִׁפְחָה הַיּוֹצֵאת לְהַקְבִּיל פְּנֵי גְבִרְתָּהּ, וְנִתְקָרֵב לְצַד הָהָר שֶׁל מוֹאָב וְנִכְנְסוּ אוֹתָן הַשָּׁדַיִם לְתוֹךְ אוֹתָן נְקָעִים וַהֲרָגוּם, וְזֶהוּ אֲשֶׁר נָטָה לְשֶׁבֶת עָר — שֶׁהָהָר נָטָה מִמְּקוֹמוֹ וְנִתְקָרֵב לְצַד מוֹאָב וְנִדְבַּק בּוֹ, וְזֶהוּ וְנִשְׁעַן לִגְבוּל מוֹאָב (תנחומא; ברכות נ\"ד):",
+          "en": "ואשר הנחלים THE DISCHARGE IN THE VALLEYS — The Targum translation of ,שפך “pouring forth”, is אשר. Consequently these words signify “the pouring forth in the valleys”, for at that place there was poured forth the blood of the Amorites who had concealed themselves there. As the mountains were high and the valley deep and narrow, and the mountains were so close to one another, that a man could stand upon the mountain on one side and speak to his fellow on the other mountain, and the road passed through the valley, the Amorites said: When the Israelites are about to enter the land by passing through the valley we will come out of the mountain caves above them and will kill them by arrows and stone missiles. Now those caves were in the mountains on the Moabite side, and on the mountain that was on the Amorite side there were, opposite those caves, projections like horns and breasts jutting out. When Israel were on the point of passing, the mountain that was located in the land of Israel (that on the Amorite side which afterwards came into the possession of the Israelites) was set in tremor as a handmaid that goes forth to receive her mistress, and moved nearer to the mountain of Moab, and these breast-like projections penetrated into the caves and killed them (the Amorites who were hidden in them). And this is the meaning of אשר נטה לשבת ער which inclineth towards the dwelling (location) of Ar (the capital Moab) — which means that the mountain inclined from its place and approached close to the mountain on the Moabite side and affixed itself to it: and this, too, is the meaning of ונשען לגבול מואב, and leaneth towards the boundary of Moab (Midrash Tanchuma, Chukat 20; cf. Berakhot 54b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:16",
+      "he": "וּמִשָּׁ֖ם בְּאֵ֑רָה הִ֣וא הַבְּאֵ֗ר אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לְמֹשֶׁ֔ה אֱסֹף֙ אֶת־הָעָ֔ם וְאֶתְּנָ֥ה לָהֶ֖ם מָֽיִם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "And from there to Beer,hBeer Lit. “well.” which is the well where GOD said to Moses, “Assemble the people that I may give them water.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומשם בארה. מִשָּׁם בָּא הָאֶשֶׁד אֶל הַבְּאֵר; כֵּיצַד? אָמַר הַקָּבָּ\"ה מִי מוֹדִיעַ לְבָנַי הַנִּסִּים הַלָּלוּ? הַמָּשָׁל אוֹמֵר \"נָתַתָּ פַּת לְתִינוֹק הוֹדִיעַ לְאִמּוֹ\". לְאַחַר שֶׁעָבְרוּ חָזְרוּ הֶהָרִים לִמְקוֹמָם, וְהַבְּאֵר יָרְדָה לְתוֹךְ הַנַּחַל וְהֶעֶלְתָה מִשָּׁם דַּם הַהֲרוּגִים וּזְרוֹעוֹת וְאֵבָרִים וּמוֹלַכְתָּן סָבִיב הַמַּחֲנֶה, וְיִשְׂרָאֵל רָאוּ וְאָמְרוּ שִׁירָה:",
+          "en": "ומשם בארה AND FROM THENCE TO THE WELL — from there the flow of blood ran to the well. How? The Holy One, blessed be He, said: Who will inform my children of those miracles? — The proverb says: If you have given bread to a child let its mother know (i.e., since the mother has, to an extent, benefitted by this, and the child cannot tell her, you should do so) (Shabbat 10b). After they (the Israelites) had passed by, the mountains returned to their original positions, and the well that followed the Israelites flowed down into the valley and brought up from there the blood and the arms and other limbs of those who had been thus killed, and carried them around the camp, so that Israel saw them, and they sang a song of triumph, as follows (Midrash Tanchuma, Chukat 20):",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:17",
+      "he": "אָ֚ז יָשִׁ֣יר יִשְׂרָאֵ֔ל אֶת־הַשִּׁירָ֖ה הַזֹּ֑את עֲלִ֥י בְאֵ֖ר עֱנוּ־לָֽהּ׃",
+      "en": "Then Israel sang this song: Spring up, O well—sing to it—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עלי באר. מִתּוֹךְ הַנַּחַל וְהַעֲלִי מַה שֶּׁאַתְּ מַעֲלָה; וּמִנַּיִן שֶׁהַבְּאֵר הוֹדִיעָה לָהֶם? שֶׁנֶּאֱמַר \"וּמִשָּׁם בְּאֵרָה\", וְכִי מִשָּׁם הָיְתָה, וַהֲלֹא מִתְּחִלַּת אַרְבָּעִים שָׁנָה הָיְתָה עִמָּהֶם? אֶלָּא שֶׁיָּרְדָה לְפַרְסֵם אֶת הַנִּסִּים (תנחומא); וְכֵן אָז יָשִׁיר … הַשִּׁירָה הַזֹּאת נֶאֶמְרָה בְּסוֹף אַרְבָּעִים וְהַבְּאֵר נִתְּנָה לָהֶם מִתְּחִלַּת אַרְבָּעִים, מָה רָאָה לִכָּתֵב כָּאן? אֶלָּא הָעִנְיָן הַזֶּה נִדְרָשׁ לְמַעְלָה הֵימָנוּ:",
+          "en": "עלי באר COME UP, WELL from the valley and bring up what you have to bring up! — Whence do we know that it was the well that announced to them these miracles as it is stated above? Because it is said: ומשם בארה “and from there to the well”. For you cannot say that it means: “from that place was (they got) the well”, because was it indeed from there that they got it? Had it not been with them from the beginning of the forty years’ wanderings? But it means that from there it flowed down to the Israelites to proclaim the miracles! Then again, also, the paragraph beginning with the words: אז ישיר … השירה הזאת were spoken at the end of the forty years whilst the well was given them at the beginning of the forty, and what reason then can there be to write it as late as here. But the subject of the song has to be explained in connection with what precedes it (that it was a summons to the well to bring up the bodies of the slain) (Midrash Tanchuma, Chukat 20).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:18",
+      "he": "בְּאֵ֞ר חֲפָר֣וּהָ שָׂרִ֗ים כָּר֙וּהָ֙ נְדִיבֵ֣י הָעָ֔ם בִּמְחֹקֵ֖ק בְּמִשְׁעֲנֹתָ֑ם וּמִמִּדְבָּ֖ר מַתָּנָֽה׃",
+      "en": "The well that the chieftains dug, That the nobles of the people started With maces, with their own staffs. And from MidbariMidbar Septuagint “the well” (= Beer); cf. v. 16. to Mattanah,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "באר חפרוה. זֹאת הִיא הַבְּאֵר אֲשֶׁר חֲפָרוּהָ שָׂרִים — מֹשֶׁה וְאַהֲרֹן:",
+          "en": "באר חפרוה THE WELL, [PRINCES] DIGGED IT means: This is the well which the princes, Moses and Aaron, digged (cf. Targum Jonathan on).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "במשענתם. בַּמַּטֶּה:",
+          "en": "במשענתם means WITH THE STAFF.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "וממדבר. נִתְּנָה לָהֶם:",
+          "en": "וממדבר מתנה AND FROM THE WILDERNESS was it given them [as a מתנה, a gift].",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:19",
+      "he": "וּמִמַּתָּנָ֖ה נַחֲלִיאֵ֑ל וּמִנַּחֲלִיאֵ֖ל בָּמֽוֹת׃",
+      "en": "and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וממתנה נחליאל. כְּתַרְגּוּמוֹ:",
+          "en": "וממתנה נחליאל — Understand this as the Targum does: And after it had been given them, it descended into the valley.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:20",
+      "he": "וּמִבָּמ֗וֹת הַגַּיְא֙ אֲשֶׁר֙ בִּשְׂדֵ֣ה מוֹאָ֔ב רֹ֖אשׁ הַפִּסְגָּ֑ה וְנִשְׁקָ֖פָה עַל־פְּנֵ֥י הַיְשִׁימֹֽן׃&nbsp;{פ}",
+      "en": "and from Bamoth to the valley that is in the country of Moab, at the peak of Pisgah, overlooking the wasteland.jwasteland Or “Jeshimon.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומבמות הגיא אשר בשדה מואב. כִּי שָׁם מֵת מֹשֶׁה וְשָׁם בָּטְלָה הַבְּאֵר; דָּ\"אַ, כָּרוּהָ נְדִיבֵי הָעָם — כָּל נָשִׂיא וְנָשִׂיא כְּשֶׁהָיוּ חוֹנִים נוֹטֵל מַקְלוֹ וּמוֹשֵׁךְ אֵצֶל דִּגְלוֹ וּמַחֲנֵהוּ, וּמֵי הַבְּאֵר נִמְשָׁכִין דֶּרֶךְ אוֹתוֹ סִימָן וּבָאִין לִפְנֵי חֲנִיַּת כָּל שֵׁבֶט וָשֵׁבֶט (תנחומא):",
+          "en": "ומבמות הגיא אשר בשדי מואב AND FROM THE HEIGHTS (it descended finally) INTO THE VALLEY THAT IS IN THE FIELD OF MOAB, for there Moses died, and there the well finally ceased to flow. Another explanation is: כרוה נדיבי עם THE NOBLES OF THE PEOPLE HOLLOWED IT — each prince of the tribes when they encamped took his staff and drew a line on the ground from the well to his banner and encampment, and the waters of the well ran by way of that mark and came before the camping place of each tribe (Midrash Tanchuma, Chukat 21).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "במחקק. עַל פִּי מֹשֶׁה שֶׁנִּקְרָא מְחוֹקֵק, שֶׁנֶּאֱמַר \"כִּי שָׁם חֶלְקַת מְחֹקֵק סָפוּן\" (דברים ל\"ג); וְלָמָּה לֹא נִזְכַּר מֹשֶׁה בְּשִׁירָה זוֹ? לְפִי שֶׁלָּקָה עַל יְדֵי הַבְּאֵר, וְכֵיוָן שֶׁלֹּא נִזְכַּר שְׁמוֹ שֶׁל מֹשֶׁה לֹא נִזְכַּר שְׁמוֹ שֶׁל הַקָּבָּ\"ה, מָשָׁל לְמֶלֶךְ שֶׁהָיוּ מְזַמְּנִין אוֹתוֹ לִסְעוּדָה, אָמַר אִם אוֹהֲבִי שָׁם אֲנִי שָׁם, וְאִם לָאו אֵינִי הוֹלֵךְ (תנחומא):",
+          "en": "במחקק THROUGH THE LAWGIVER — by command of Moses who is called the מחוקק, the Lawgiver, as it is said, (Deuteronomy 33:21) “for there is the portion of the lawgiver (Moses’ grave) concealed”. But why is Moses not expressly mentioned by name in this song? Because he was punished through the well! And since Moses’ name is not mentioned, the name of the Holy One, blessed be He, is also not mentioned. A parable! It may be compared to the case of a king whom his subjects invited to a feast. He said: If my friend will be there, I, too, will be there, but if not, I will not go (Midrash Tanchuma, Chukat 21).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ראש הפסגה. כְּתַרְגּוּמוֹ \"רֵישׁ רָמָתָא\":",
+          "en": "ראש הפסגה — Understand this as the Targum has it: to the top of the height.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "פסגה. לְשׁוֹן גֹּבַהּ, וְכֵן \"פַּסְּגוּ אַרְמְנוֹתֶיהָ\" (תהילים מ\"ח) — הַגְבִּיהוּ אַרְמְנוֹתֶיהָ:",
+          "en": "פסגה denotes “high”, just as (Psalms 48:14) פסגו ארמנותיה, which means “make high its palaces”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "ונשקפה. אוֹתָהּ הַפִּסְגָּה עַל פְּנֵי הַמָּקוֹם שֶׁשְּׁמוֹ יְשִׁימוֹן, וְהוּא לְשׁוֹן מִדְבָּר שֶׁהוּא שָׁמֵם; דָּבָר אַחֵר וְנִשְׁקָפָה הַבְּאֵר עַל פְּנֵי הַיְשִׁימוֹן, שֶׁנִּגְנְזָה בְּיַמָּהּ שֶׁל טְבֶרְיָא, וְהָעוֹמֵד עַל הַיְשִׁימוֹן מַבִּיט וְרוֹאֶה כְּמִין כְּבָרָה בַּיָּם, וְהִיא הַבְּאֵר, כָּךְ דָּרַשׁ רַבִּי תַנְחוּמָא:",
+          "en": "ונשקפה AND IT LOOKS — this height looks towards the place whose name is ישימון, which word describes the wilderness because that is waste (שמם with which the word ישימון may be linguistically associated). Another explanation is: ונשקפה AND IT LOOKS — the well looks על פני ישימון towards the front of ישימון, the wilderness, for it was hid (emptied) itself in the sea of Tiberias, and anyone who stood by the wilderness may look and see a kind of sieve in the sea, and that was the well!. Thus did R. Tanchuma (Midrash Tanchuma, Chukat 21) expound this passage.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:21",
+      "he": "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיחֹ֥ן מֶֽלֶךְ־הָאֱמֹרִ֖י לֵאמֹֽר׃",
+      "en": "Israel now sent messengers to Sihon king of the Amorites, saying,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וישלח ישראל מלאכים. וּבְמָקוֹם אַחֵר תּוֹלֶה הַשְּׁלִיחוּת בְּמֹשֶׁה, שֶׁנֶּאֱמַר \"וָאֶשְׁלַח מַלְאָכִים מִמִּדְבַּר קְדֵמוֹת\" (דברים ב'), וְכֵן \"וַיִּשְׁלַח מֹשֶׁה מַלְאָכִים מִקָּדֵשׁ אֶל מֶלֶךְ אֱדוֹם\" (במדבר כ'), וּבְיִפְתָּח הוּא אוֹמֵר (שופטים י\"א) \"וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל מֶלֶךְ אֱדוֹם\" וְגוֹ', הַכְּתוּבִים הַלָּלוּ צְרִיכִין זֶה לָזֶה, זֶה נוֹעֵל וְזֶה פוֹתֵחַ, שֶׁמֹּשֶׁה הוּא יִשְׂרָאֵל וְיִשְׂרָאֵל הֵם מֹשֶׁה, לוֹמַר לְךָ שֶׁנְּשִׂיא הַדּוֹר הוּא כְּכָל הַדּוֹר, כִּי הַנָּשִׂיא הוּא הַכֹּל (תנחומא):",
+          "en": "וישלח ישראל מלאכים AND ISRAEL SENT MESSENGERS — But in another passage it attributes this embassy to Moses, as it is said, (Deuteronomy 2:26), “And ‘I’ sent messengers from the wilderness of Kedemoth [to Sihon king of Heshbon]”! And so, too, it states, (Numbers 20:14), “And Moses sent messengers to the king of Edom”; whilst in the story of Jephtha, it says, (Judges 11:17) “And Israel sent messengers to the king of Edom, etc.”. Each of these pairs of verses is necessary one to the other (i.e., they supplement each other): one keeps back information and the other discloses it, (more lit., one locks up and the other opens) — you may gather from them that Moses is Israel and Israel is Moses, thus telling you that the prince of any generation is the equal of the whole generation, for the prince is the whole (Midrash Tanchuma, Chukat 23).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:22",
+      "he": "אֶעְבְּרָ֣ה בְאַרְצֶ֗ךָ לֹ֤א נִטֶּה֙ בְּשָׂדֶ֣ה וּבְכֶ֔רֶם לֹ֥א נִשְׁתֶּ֖ה מֵ֣י בְאֵ֑ר בְּדֶ֤רֶךְ הַמֶּ֙לֶךְ֙ נֵלֵ֔ךְ עַ֥ד אֲשֶֽׁר־נַעֲבֹ֖ר גְּבֻלֶֽךָ׃",
+      "en": "“Let me pass through your country. We will not turn off into fields or vineyards, and we will not drink water from wells. We will follow the king’s highway until we have crossed your territory.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אעברה בארצך. אַעַ\"פִּ שֶׁלֹּא נִצְטַוּוּ לִפְתֹּחַ לָהֶם בְּשָׁלוֹם בִּקְּשׁוּ מֵהֶם שָׁלוֹם (שם):",
+          "en": "אעברה בארצך LET ME PASS THROUGH THY LAND — Although they had not been bidden to open the negotiations with them by an offer of peace yet they first sought peace of them (cf. Midrash Tanchuma, Chukat 22).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:23",
+      "he": "וְלֹא־נָתַ֨ן סִיחֹ֣ן אֶת־יִשְׂרָאֵל֮ עֲבֹ֣ר בִּגְבֻלוֹ֒ וַיֶּאֱסֹ֨ף סִיחֹ֜ן אֶת־כׇּל־עַמּ֗וֹ וַיֵּצֵ֞א לִקְרַ֤את יִשְׂרָאֵל֙ הַמִּדְבָּ֔רָה וַיָּבֹ֖א יָ֑הְצָה וַיִּלָּ֖חֶם בְּיִשְׂרָאֵֽל׃",
+      "en": "But Sihon would not let Israel pass through his territory. Sihon gathered all his troops and went out against Israel in the wilderness. He came to Jahaz and engaged Israel in battle.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא נתן סיחן וגו'. לְפִי שֶׁכָּל מַלְכֵי כְנַעַן הָיוּ מַעֲלִין לוֹ מַס, שֶׁהָיָה שׁוֹמְרָם שֶׁלֹּא יַעַבְרוּ עֲלֵיהֶם גְּיָסוֹת, כֵּיוָן שֶׁאָמְרוּ לוֹ יִשְׂרָאֵל אֶעְבְּרָה בְאַרְצֶךָ, אָ\"לָ, כָּל עַצְמִי אֵינִי יוֹשֵׁב כָּאן אֶלָּא לְשָׁמְרָם מִפְּנֵיכֶם, וְאַתֶּם אוֹמְרִים כָּךְ (תנחומא):",
+          "en": "לא נתן סיחון וגו׳ AND SIHON WOULD NOT SUFFER [ISRAEL TO PASS THROUGH HIS BOUNDARY] — For all the Canaanite kings paid him tribute, because he protected them that no hostile forces should pass through his land against them. As soon as Israel said to him, “Let me pass through they land”, he answered them: “The whole purpose of my dwelling here is to protect them against you, and yet you speak thus!” (Midrash Tanchuma, Chukat 23).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויצא לקראת ישראל. אִלּוּ הָיְתָה חֶשְׁבּוֹן מְלֵאָה יַתּוּשִׁין אֵין כָּל בְּרִיָּה יְכוֹלָה לְכָבְשָׁהּ, וְאִם הָיָה סִיחוֹן בִּכְפָר חַלָּשׁ אֵין כָּל אָדָם יָכוֹל לְכָבְשׁוֹ, וְכָל שֶׁכֵּן שֶׁהָיָה בְּחֶשְׁבּוֹן; אָמַר הַקָּבָּ\"ה מָה אֲנִי מַטְרִיחַ עַל בָּנַי כָּל זֹאת לָצוּר עַל כָּל עִיר וָעִיר? נָתַן בְּלֵב כָּל אַנְשֵׁי הַמִּלְחָמָה לָצֵאת מִן הָעֲיָרוֹת, וְנִתְקַבְּצוּ כֻלָּם לְמָקוֹם אֶחָד וְשָׁם נָפְלוּ, וּמִשָּׁם הָלְכוּ יִשְׂרָאֵל אֶל הֶעָרִים וְאֵין עוֹמֵד לְנֶגְדָּם, כִּי אֵין שָׁם אֶלָּא נָשִׁים וָטָף (שם):",
+          "en": "ויצא לקראת ישראל AND HE WENT OUT AGAINST ISRAEL — Even if Heshbon had been full of people as puny as gnats, no human being could have captured it, and if Sihon had been (resided) in a weak village no human being could have overcome him. How much the more was he invincible whilst he dwelt in Heshbon. Therefore the Holy One, blessed be He, said: Why should I trouble My children to all this extent, to besiege each city? He therefore put it into the hearts of all the men of war to go forth from the cities, and they assembled all of them in one spot, and there they fell in battle; from there Israel proceeded to the cities and there were none to resist them, for there were only women and children there (Midrash Tanchuma, Chukat 23).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:24",
+      "he": "וַיַּכֵּ֥הוּ יִשְׂרָאֵ֖ל לְפִי־חָ֑רֶב וַיִּירַ֨שׁ אֶת־אַרְצ֜וֹ מֵֽאַרְנֹ֗ן עַד־יַבֹּק֙ עַד־בְּנֵ֣י עַמּ֔וֹן כִּ֣י עַ֔ז גְּב֖וּל בְּנֵ֥י עַמּֽוֹן׃",
+      "en": "But Israel put them to the sword, and took possession of their land, from the Arnon to the Jabbok, as far as [Az] of the Ammonites, for AzkAz Septuagint “Jazer,” cf. v. 32. marked the boundary of the Ammonites.lfor Az marked the boundary of the Ammonites In contrast to others “for the boundary of the Ammonites was strong.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי עז. וּמַהוּ חָזְקוֹ? הַתְרָאָתוֹ שֶׁל הַקָּבָּ\"ה שֶׁאָמַר לָהֶם אַל תְּצֻרֵם וְגוֹ' (דברים ב'):",
+          "en": "כי עז FOR [THE BOUNDARY OF THE CHILDREN OF AMMON] WAS STRONG — And what constituted its strength? The warning of the Holy One, blessed be He, who had said to them (the Israelites), (Deuteronomy 2:19), Harass them not, etc.”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:25",
+      "he": "וַיִּקַּח֙ יִשְׂרָאֵ֔ל אֵ֥ת כׇּל־הֶעָרִ֖ים הָאֵ֑לֶּה וַיֵּ֤שֶׁב יִשְׂרָאֵל֙ בְּכׇל־עָרֵ֣י הָֽאֱמֹרִ֔י בְּחֶשְׁבּ֖וֹן וּבְכׇל־בְּנֹתֶֽיהָ׃",
+      "en": "Israel took all those towns. And Israel settled in all the towns of the Amorites, in Heshbon and all its dependencies.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בנתיה. כְּפָרִים הַסְּמוּכִים לָהּ:",
+          "en": "בנתיה (lit., its daughters) — the villages adjacent to it.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:26",
+      "he": "כִּ֣י חֶשְׁבּ֔וֹן עִ֗יר סִיחֹ֛ן מֶ֥לֶךְ הָאֱמֹרִ֖י הִ֑וא וְה֣וּא נִלְחַ֗ם בְּמֶ֤לֶךְ מוֹאָב֙ הָֽרִאשׁ֔וֹן וַיִּקַּ֧ח אֶת־כׇּל־אַרְצ֛וֹ מִיָּד֖וֹ עַד־אַרְנֹֽן׃",
+      "en": "Now Heshbon was the city of Sihon king of the Amorites, who had fought against a former king of Moab and taken all his land from him as far as the Arnon.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והוא נלחם. לָמָּה הֻצְרַךְ לִכָּתֵב? לְפִי שֶׁנֶּאֱמַר (שם) \"אַל תָּצַר אֶת מוֹאָב\", וְחֶשְׁבּוֹן מִשֶּׁל מוֹאָב הָיְתָה, כָּתַב לָנוּ שֶׁסִּיחוֹן לְקָחָהּ מֵהֶם וְעַל יָדוֹ טָהֲרָה לְיִשְֹרָאֵל (חולין ס'; גיטין ל\"ח):",
+          "en": "והוא נלחם AND HE (SIHON) HAD FOUGHT [AGAINST THE FORMER KING OF MOAB] — Why is it necessary that this should be written? Because it is said (Deuteronomy 2:9), “Harass not Moab”, and Heshbon belonged to Moab (and therefore should not have been attacked), it (Scripture) tells us that Sihon had taken it from them, and through him it (Heshbon) became permissible to Israel as an object of attack (Chullin 60b; Gittin 38a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מידו. מֵרְשׁוּתוֹ (בבא מציעא נ\"ו):",
+          "en": "מידו means FROM HIS POSSESSION (Bava Metzia 56b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:27",
+      "he": "עַל־כֵּ֛ן יֹאמְר֥וּ הַמֹּשְׁלִ֖ים בֹּ֣אוּ חֶשְׁבּ֑וֹן תִּבָּנֶ֥ה וְתִכּוֹנֵ֖ן עִ֥יר סִיחֽוֹן׃",
+      "en": "Therefore the bards would recite: mThe meaning of several parts of this ancient poem is no longer certain. “Come to Heshbon; firmly built And well founded is Sihon’s city.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על כן. עַל אוֹתָהּ מִלְחָמָה שֶׁנִּלְחַם סִיחוֹן בְּמוֹאָב:",
+          "en": "על כן (more lit., about this) — about this war which Sihon waged against Moab,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "יאמרו המשלים. בִּלְעָם, שֶׁנֶּאֱמַר בּוֹ \"וַיִּשָּׂא מְשָׁלוֹ\" (במדבר כ\"ג):",
+          "en": "יאמרו המשלים THEY THAT SPEAK IN PARABLES SAY — One of these was Balaam of whom it is said, (Numbers 23:7), \"And he took up his parable”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "המשלים. בִּלְעָם וּבְעוֹר, וְהֵם אָמְרוּ:",
+          "en": "המשלים THEY THAT SPEAK IN PARABLES — The plural המשלים refers to Balaam and his father Beor (see Rashi on Numbers 24:3). They said —",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "באו חשבון. שֶׁלֹּא הָיָה סִיחוֹן יָכוֹל לְכָבְשָׁהּ וְהָלַךְ וְשָׂכַר אֶת בִּלְעָם לְקַלְּלוֹ (תנחומא); וְזֶהוּ שֶׁאָמַר לוֹ בָּלָק \"כִּי יָדַעְתִּי אֵת אֲשֶׁר תְּבָרֵךְ מְבֹרָךְ\" וְגוֹ' (במדבר כ\"ב):",
+          "en": "באו חשבון “COME TO HESHBON”, — For Sihon had been unable to capture it, and he went and hired Balaam to curse it, and this is the meaning of what Balak said, (Numbers 22:6) “For I know (by what has already happened) that whomsoever thou blessest is blessed, [and whomsoever thou cursest is cursed]” (Midrash Tanchuma, Chukat 24).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "תבנה ותכונן. חֶשְׁבּוֹן בְּשֵׁם סִיחוֹן לִהְיוֹת עִירוֹ:",
+          "en": "תבנה ותכונן IT WILL BE BUILT UP AND ESTABLISHED, [SIHON’S CITY] — Heshbon will be rebuilt under Sihon’s name to be his city.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:28",
+      "he": "כִּי־אֵשׁ֙ יָֽצְאָ֣ה מֵֽחֶשְׁבּ֔וֹן לֶהָבָ֖ה מִקִּרְיַ֣ת סִיחֹ֑ן אָֽכְלָה֙ עָ֣ר מוֹאָ֔ב בַּעֲלֵ֖י בָּמ֥וֹת אַרְנֹֽן׃",
+      "en": "For fire went forth from Heshbon, Flame from Sihon’s city, Consuming Ar of Moab, The lords of BamothnBamoth Cf. vv. 19 and 20, and 22.21. by the Arnon.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי אש יצאה מחשבון. מִשֶּׁכְּבָשָׁהּ סִיחוֹן:",
+          "en": "כי אש יצאה מחשבון FOR A FIRE WILL GO FORTH FROM HESHBON after Sihon captures it,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אכלה ער מואב. שֵׁם אוֹתָהּ הַמְּדִינָה קָרוּי עָר בְּלָשׁוֹן עִבְרִי וּלְחָיַת בְּלָשׁוֹן אֲרַמִּי:",
+          "en": "אכלה ער מואב IT WILL CONSUME AR OF MOAB — The name of that province was called Ar in the Hebrew language and Lechayath (see the Targum Onkelos) in the Aramaic language.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ער מואב. עָר שֶׁל מוֹאָב:",
+          "en": "ער מואב means AR OF MOAB.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:29",
+      "he": "אוֹי־לְךָ֣ מוֹאָ֔ב אָבַ֖דְתָּ עַם־כְּמ֑וֹשׁ נָתַ֨ן בָּנָ֤יו פְּלֵיטִם֙ וּבְנֹתָ֣יו בַּשְּׁבִ֔ית לְמֶ֥לֶךְ אֱמֹרִ֖י סִיחֽוֹן׃",
+      "en": "Woe to you, O Moab! You are undone, O people of Chemosh! His sons are rendered fugitive And his daughters captive By an Amorite king, Sihon.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אוי לך מואב. שֶׁקִּלְּלוּ אֶת מוֹאָב שֶׁיִּמָּסְרוּ בְיָדוֹ (תנחומא):",
+          "en": "אוי לך מואב WOE TO THEE, MOAB — [These are not the words of the historian but those of Balaam and Beor, for] they cursed the Moabites (as they had been hired to do) so that they should be delivered into his (Sihon’s) hands (Midrash Tanchuma, Chukat 24).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כמוש. שֵׁם אֱלֹהֵי מוֹאָב:",
+          "en": "כמוש CHEMOSH was the name of Moab’s god.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "נתן. הַנּוֹתֵן אֶת בָּנָיו שֶׁל מוֹאָב:",
+          "en": "נתן HE HATH GIVEN [HIS SONS] — The subject of the sentence is to be supplied: HE who gave HATH GIVEN HIS SONS i.e. those of Moab,",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "פליטם — נָסִים וּפְלֵטִים מֵחֶרֶב וְאֶת בְּנוֹתָיו בַּשְּׁבִית וְגוֹ':",
+          "en": "פלטים — AS FUGITIVES — as men who flee and attempt to escape from the sword, and his daughters into captivity, etc.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:30",
+      "he": "וַנִּירָ֛ם אָבַ֥ד חֶשְׁבּ֖וֹן עַד־דִּיבֹ֑ן וַנַּשִּׁ֣ים עַד־נֹ֔פַח אֲשֶׁ֖רׄ עַד־מֵֽידְבָֽא׃",
+      "en": "oMeaning of verse uncertain. Alternatively: “Their dominion is at an end / From Heshbon to Dibon / And from Nashim to Nophah, / Which is hard by Medeba.” Yet we have cast them down utterly, Heshbon along with Dibon; We have wrought desolation at Nophah, Which is hard by Medeba.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ונירם אבד. מַלְכוּת שֶׁלָּהֶם:",
+          "en": "ונירם means their sovreignty.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אבד חשבון עד דיבן — מַלְכוּת וְעֹל שֶׁהָיָה לְמוֹאָב בְּחֶשְׁבּוֹן אָבַד מִשָּׁם, וְכֵן עַד דִּיבֹן; תַּרְגּוּם שֶׁל סָר \"עַד\", כְּלוֹמַר סָר נִיר מִדִּיבֹן; נִיר לְשׁוֹן מַלְכוּת וְעֹל מֶמְשֶׁלֶת אִישׁ, כְּמוֹ \"לְמַעַן הֱיוֹת נִיר לְדָוִד עַבְדִּי\" (מ\"א י\"א):",
+          "en": "אבד חשבון עד דיבן means: the sovreignty and the subjugation which Moab had over Heshbon is destroyed from thence. Similar also is the meaning of עד דיבן because the Targum of סר “it hath departed” is עד, so that this phrase means to say, sovreignty hath departed from Dibon. The word ניר denotes the sovreignty and yoke which result from a person’s rulership, as, (1 Kings 11:36) “that David Thy servant may always have dominion (ניר) before Me”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ונשים. שִׁי\"ן דְּגוּשָׁה, לְשׁוֹן שְׁמָמָה, כָּךְ יֹאמְרוּ הַמֹּשְׁלִים, \"וַנַּשִּׁים אוֹתָם עַד נֹפַח\" — הֲשִׁמּוֹנוּם עַד נֹפַח:",
+          "en": "ונשים WE HAVE LAID WASTE — The ש has a Dagesh, for the word denotes waste (שמם). Thus say they who speak in parables: ונשים אותם עד נפח which signifies we have laid them waste as far as Nophah.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:31",
+      "he": "וַיֵּ֙שֶׁב֙ יִשְׂרָאֵ֔ל בְּאֶ֖רֶץ הָאֱמֹרִֽי׃",
+      "en": "So Israel occupied the land of the Amorites.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 21:32",
+      "he": "וַיִּשְׁלַ֤ח מֹשֶׁה֙ לְרַגֵּ֣ל אֶת־יַעְזֵ֔ר וַֽיִּלְכְּד֖וּ בְּנֹתֶ֑יהָ (ויירש) [וַיּ֖וֹרֶשׁ] אֶת־הָאֱמֹרִ֥י אֲשֶׁר־שָֽׁם׃",
+      "en": "Then Moses sent to spy out Jazer, and they captured its dependencies and dispossessed the Amorites who were there.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וישלח משה לרגל את יעזר. הַמְרַגְּלִים לְכָדוּהָ, אָמְרוּ לֹא נַעֲשֶׂה כָּרִאשׁוֹנִים, בְּטוּחִים אָנוּ בְּכֹחַ תְּפִלָּתוֹ שֶׁל מֹשֶׁה לְהִלָּחֵם (תנחומא):",
+          "en": "וישלח משה לרגל את יעזר AND MOSES SENT TO SPY OUT JAAZER — The spies captured it (as the text goes on to state, “and they captured it”). They said: We will not do as the former spies, for we have confidence in the power of Moses’ prayer to be able to fight against it (Midrash Tanchuma, Chukat 24).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:33",
+      "he": "וַיִּפְנוּ֙ וַֽיַּעֲל֔וּ דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽלֶךְ־הַבָּשָׁ֨ן לִקְרָאתָ֜ם ה֧וּא וְכׇל־עַמּ֛וֹ לַמִּלְחָמָ֖ה אֶדְרֶֽעִי׃",
+      "en": "They marched on and went up the road to Bashan, and King Og of Bashan, with all his troops, came out to Edrei to engage them in battle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 21:34",
+      "he": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ אַל־תִּירָ֣א אֹת֔וֹ כִּ֣י בְיָדְךָ֞ נָתַ֧תִּי אֹת֛וֹ וְאֶת־כׇּל־עַמּ֖וֹ וְאֶת־אַרְצ֑וֹ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֣ר עָשִׂ֗יתָ לְסִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּֽוֹן׃",
+      "en": "But GOD said to Moses, “Do not fear him, for I give him and all his troops and his land into your hand. You shall do to him as you did to Sihon king of the Amorites who dwelt in Heshbon.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אל תירא אתו. שֶׁהָיָה מֹשֶׁה יָרֵא לְהִלָּחֵם, שֶׁמָּא תַּעֲמֹד לוֹ זְכוּתוֹ שֶׁל אַבְרָהָם, שֶׁנֶּאֱמַר \"וַיָּבֹא הַפָּלִיט\" (בראשית י\"ד) — הוּא עוֹג שֶׁפָּלַט מִן הָרְפָאִים שֶׁהִכּוּ כְּדָרְלָעֹמֶר וַחֲבֵרָיו בְּעַשְׁתְּרוֹת קַרְנַיִם, שֶׁנֶּאֱמַר (דברים ג') \"רַק עוֹג מֶלֶךְ הַבָּשָׁן נִשְׁאַר מִיֶּתֶר הָרְפָאִים\" (נדה ס\"א):",
+          "en": "אל תירא אתו FEAR HIM NOT — God said this concerning Og but not about Sihon (cf v. 23), because Moses feared to wage battle, perhaps the merit of Abraham with whom Og had been associated would stand up (i.e., be an advocate) for him, as it is said, (Genesis 14:13) “And the one who escaped came [and told it to Abraham]” — this was Og who had escaped from the Rephaim whom Chedoladmar and his allies had smitten in Ashoreth Karnaim (Genesis 14:5), as it is said, (Deuteronomy 3:11). \"For only Og king of Bashan was left of the remnant of the Rephaim\" (cf. Midrash Tanchuma, Chukat 25, Niddah 61a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 21:35",
+      "he": "וַיַּכּ֨וּ אֹת֤וֹ וְאֶת־בָּנָיו֙ וְאֶת־כׇּל־עַמּ֔וֹ עַד־בִּלְתִּ֥י הִשְׁאִֽיר־ל֖וֹ שָׂרִ֑יד וַיִּֽירְשׁ֖וּ אֶת־אַרְצֽוֹ׃",
+      "en": "They defeated him and his sons and all his troops, until no remnant was left him; and they took possession of his country.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויכו אתו. מֹשֶׁה הֲרָגוֹ, כִּדְאִיתָא בִבְרָכוֹת בְּהָרוֹאֶה (ברכות דף נ\"ד), עֲקַר טוּרָא בַּר תְּלָתָא פַרְסֵי וְכוּ':",
+          "en": "ויכו אתו AND THEY SMOTE HIM — Moses slew him, as it is related in Treatise Berakhot, in the chapter beginning הרואה‎ (Berakhot 54b): He tore up a rock covering an area of three Parsang and he hurled it at him.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 22:1",
+      "he": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנוּ֙ בְּעַֽרְב֣וֹת מוֹאָ֔ב מֵעֵ֖בֶר לְיַרְדֵּ֥ן יְרֵחֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "The Israelites then marched on and encamped in the steppes of Moab, across the Jordan from Jericho.",
+      "fr": "",
+      "rashi": []
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "bereshit",
+    "name": "Bereshit",
+    "range": "Genesis 1:1-6:8",
+    "file": "bereshit.json"
+  },
+  {
+    "slug": "noach",
+    "name": "Noa'h",
+    "range": "Genesis 6:9-11:32",
+    "file": "noach.json"
+  },
+  {
+    "slug": "lekh-lekha",
+    "name": "Lekh Lekha",
+    "range": "Genesis 12:1-17:27",
+    "file": "lekh-lekha.json"
+  },
+  {
+    "slug": "vayera",
+    "name": "Vayera",
+    "range": "Genesis 18:1-22:24",
+    "file": "vayera.json"
+  },
+  {
+    "slug": "chayei-sarah",
+    "name": "Chayei Sarah",
+    "range": "Genesis 23:1-25:18",
+    "file": "chayei-sarah.json"
+  },
+  {
+    "slug": "toledot",
+    "name": "Toledot",
+    "range": "Genesis 25:19-28:9",
+    "file": "toledot.json"
+  },
+  {
+    "slug": "vayetze",
+    "name": "Vayetze",
+    "range": "Genesis 28:10-32:3",
+    "file": "vayetze.json"
+  },
+  {
+    "slug": "vayishlach",
+    "name": "Vayishlach",
+    "range": "Genesis 32:4-36:43",
+    "file": "vayishlach.json"
+  },
+  {
+    "slug": "vayeshev",
+    "name": "Vayeshev",
+    "range": "Genesis 37:1-40:23",
+    "file": "vayeshev.json"
+  },
+  {
+    "slug": "miketz",
+    "name": "Miketz",
+    "range": "Genesis 41:1-44:17",
+    "file": "miketz.json"
+  },
+  {
+    "slug": "vayigash",
+    "name": "Vayigash",
+    "range": "Genesis 44:18-47:27",
+    "file": "vayigash.json"
+  },
+  {
+    "slug": "vayechi",
+    "name": "Vayechi",
+    "range": "Genesis 47:28-50:26",
+    "file": "vayechi.json"
+  },
+  {
+    "slug": "shemot",
+    "name": "Shemot",
+    "range": "Exodus 1:1-6:1",
+    "file": "shemot.json"
+  },
+  {
+    "slug": "vaera",
+    "name": "Vaera",
+    "range": "Exodus 6:2-9:35",
+    "file": "vaera.json"
+  },
+  {
+    "slug": "bo",
+    "name": "Bo",
+    "range": "Exodus 10:1-13:16",
+    "file": "bo.json"
+  },
+  {
+    "slug": "beshalach",
+    "name": "Beshalach",
+    "range": "Exodus 13:17-17:16",
+    "file": "beshalach.json"
+  },
+  {
+    "slug": "yitro",
+    "name": "Yitro",
+    "range": "Exodus 18:1-20:23",
+    "file": "yitro.json"
+  },
+  {
+    "slug": "mishpatim",
+    "name": "Mishpatim",
+    "range": "Exodus 21:1-24:18",
+    "file": "mishpatim.json"
+  },
+  {
+    "slug": "terumah",
+    "name": "Terouma",
+    "range": "Exodus 25:1-27:19",
+    "file": "terumah.json"
+  },
+  {
+    "slug": "tetzaveh",
+    "name": "Tetsaveh",
+    "range": "Exodus 27:20-30:10",
+    "file": "tetzaveh.json"
+  },
+  {
+    "slug": "ki-tisa",
+    "name": "Ki Tisa",
+    "range": "Exodus 30:11-34:35",
+    "file": "ki-tisa.json"
+  },
+  {
+    "slug": "vayakhel",
+    "name": "Vayakhel",
+    "range": "Exodus 35:1-38:20",
+    "file": "vayakhel.json"
+  },
+  {
+    "slug": "pekudei",
+    "name": "Pekoudei",
+    "range": "Exodus 38:21-40:38",
+    "file": "pekudei.json"
+  },
+  {
+    "slug": "vayikra",
+    "name": "Vayikra",
+    "range": "Leviticus 1:1-5:26",
+    "file": "vayikra.json"
+  },
+  {
+    "slug": "tzav",
+    "name": "Tsav",
+    "range": "Leviticus 6:1-8:36",
+    "file": "tzav.json"
+  },
+  {
+    "slug": "shemini",
+    "name": "Shemini",
+    "range": "Leviticus 9:1-11:47",
+    "file": "shemini.json"
+  },
+  {
+    "slug": "tazria",
+    "name": "Tazria",
+    "range": "Leviticus 12:1-13:59",
+    "file": "tazria.json"
+  },
+  {
+    "slug": "metzora",
+    "name": "Metsora",
+    "range": "Leviticus 14:1-15:33",
+    "file": "metzora.json"
+  },
+  {
+    "slug": "acharei-mot",
+    "name": "A'harei Mot",
+    "range": "Leviticus 16:1-18:30",
+    "file": "acharei-mot.json"
+  },
+  {
+    "slug": "kedoshim",
+    "name": "Kedoshim",
+    "range": "Leviticus 19:1-20:27",
+    "file": "kedoshim.json"
+  },
+  {
+    "slug": "emor",
+    "name": "Emor",
+    "range": "Leviticus 21:1-24:23",
+    "file": "emor.json"
+  },
+  {
+    "slug": "behar",
+    "name": "Behar",
+    "range": "Leviticus 25:1-26:2",
+    "file": "behar.json"
+  },
+  {
+    "slug": "bechukotai",
+    "name": "Be'houkotaï",
+    "range": "Leviticus 26:3-27:34",
+    "file": "bechukotai.json"
+  },
+  {
+    "slug": "bamidbar",
+    "name": "Bamidbar",
+    "range": "Numbers 1:1-4:20",
+    "file": "bamidbar.json"
+  },
+  {
+    "slug": "nasso",
+    "name": "Nasso",
+    "range": "Numbers 4:21-7:89",
+    "file": "nasso.json"
+  },
+  {
+    "slug": "behaalotekha",
+    "name": "Beha'alotekha",
+    "range": "Numbers 8:1-12:16",
+    "file": "behaalotekha.json"
+  },
+  {
+    "slug": "shelach",
+    "name": "Shelach Lekha",
+    "range": "Numbers 13:1-15:41",
+    "file": "shelach.json"
+  },
+  {
+    "slug": "korach",
+    "name": "Kora'h",
+    "range": "Numbers 16:1-18:32",
+    "file": "korach.json"
+  },
+  {
+    "slug": "chukat",
+    "name": "Houkat",
+    "range": "Numbers 19:1-22:1",
+    "file": "chukat.json"
+  },
+  {
+    "slug": "balak",
+    "name": "Balak",
+    "range": "Numbers 22:2-25:9",
+    "file": "balak.json"
+  },
+  {
+    "slug": "pinchas",
+    "name": "Pin'has",
+    "range": "Numbers 25:10-30:1",
+    "file": "pinchas.json"
+  },
+  {
+    "slug": "matot",
+    "name": "Matot",
+    "range": "Numbers 30:2-32:42",
+    "file": "matot.json"
+  },
+  {
+    "slug": "masei",
+    "name": "Massei",
+    "range": "Numbers 33:1-36:13",
+    "file": "masei.json"
+  },
+  {
+    "slug": "devarim",
+    "name": "Devarim",
+    "range": "Deuteronomy 1:1-3:22",
+    "file": "devarim.json"
+  },
+  {
+    "slug": "vaetchanan",
+    "name": "Vaet'hanan",
+    "range": "Deuteronomy 3:23-7:11",
+    "file": "vaetchanan.json"
+  },
+  {
+    "slug": "ekev",
+    "name": "Ekev",
+    "range": "Deuteronomy 7:12-11:25",
+    "file": "ekev.json"
+  },
+  {
+    "slug": "reeh",
+    "name": "Reeh",
+    "range": "Deuteronomy 11:26-16:17",
+    "file": "reeh.json"
+  },
+  {
+    "slug": "shoftim",
+    "name": "Shoftim",
+    "range": "Deuteronomy 16:18-21:9",
+    "file": "shoftim.json"
+  },
+  {
+    "slug": "ki-teitzei",
+    "name": "Ki Teitsei",
+    "range": "Deuteronomy 21:10-25:19",
+    "file": "ki-teitzei.json"
+  },
+  {
+    "slug": "ki-tavo",
+    "name": "Ki Tavo",
+    "range": "Deuteronomy 26:1-29:8",
+    "file": "ki-tavo.json"
+  },
+  {
+    "slug": "nitzavim",
+    "name": "Nitsavim",
+    "range": "Deuteronomy 29:9-30:20",
+    "file": "nitzavim.json"
+  },
+  {
+    "slug": "vayelekh",
+    "name": "Vayelekh",
+    "range": "Deuteronomy 31:1-31:30",
+    "file": "vayelekh.json"
+  },
+  {
+    "slug": "haazinu",
+    "name": "Haazinou",
+    "range": "Deuteronomy 32:1-32:52",
+    "file": "haazinu.json"
+  },
+  {
+    "slug": "vezot-haberakha",
+    "name": "Vezot Haberakha",
+    "range": "Deuteronomy 33:1-34:12",
+    "file": "vezot-haberakha.json"
+  }
+]

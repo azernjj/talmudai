@@ -1,0 +1,2413 @@
+{
+  "slug": "noach",
+  "name": "Noa'h",
+  "range": "Genesis 6:9-11:32",
+  "verses": [
+    {
+      "ref": "Genesis 6:9",
+      "he": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+      "en": "This is the line of Noah.—Noah was a righteous man; he was blameless in his age; Noah walked with God.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אלה תולדת נח נח איש צדיק. הוֹאִיל וְהִזְכִּירוֹ סִפֵּר בְּשִׁבְחוֹ, שֶׁנֶּאֱמַר זֵכֶר צַדִּיק לִבְרָכָה (משלי י'). דָּבָר אַחֵר לִמֶּדְךָ שֶׁעִקַּר תּוֹלְדוֹתֵיהֶם שֶׁל צַדִּיקִים מַעֲשִׂים טוֹבִים:",
+          "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בדרותיו. יֵשׁ מֵרַבּוֹתֵינוּ דּוֹרְשִׁים אוֹתוֹ לְשֶׁבַח, כָּל שֶׁכֵּן אִלּוּ הָיָה בְדוֹר צַדִּיקִים הָיָה צַדִּיק יוֹתֵר; וְיֵשׁ שֶׁדּוֹרְשִׁים אוֹתוֹ לִגְנַאי, לְפִי דוֹרוֹ הָיָה צַדִּיק וְאִלּוּ הָיָה בְדוֹרוֹ שֶׁל אַבְרָהָם לֹא הָיָה נֶחְשָׁב לִכְלוּם (סנה' ק\"ח):",
+          "en": "בדורותיו IN HIS GENERATIONS — Some of our Rabbis explain it (this word) to his credit: he was righteous even in his generation; it follows that had he lived in a generation of righteous people he would have been even more righteous owing to the force of good example. Others, however, explain it to his discredit: in comparison with his own generation he was accounted righteous, but had he lived in the generation of Abraham he would have been accounted as of no importance (cf. Sanhedrin 108a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "את האלהים התהלך נח. וּבְאַבְרָהָם הוּא אוֹמֵר אֲשֶׁר הִתְהַלַּכְתִּי לְפָנָיו? (ברא' כ\"ד), נֹחַ הָיָה צָרִיךְ סַעַד לְתָמְכוֹ, אֲבָל אַבְרָהָם הָיָה מִתְחַזֵּק וּמְהַלֵּךְ בְצִדְקוֹ מֵאֵלָיו:",
+          "en": "את האלהים התהלך נח NOAH WALKED WITH GOD — In the case of Abraham Scripture says, (Genesis 24:40) ‘‘[God] before whom I walked”; Noah needed God’s support to uphold him in righteousness, Abraham drew his moral strength from himself and walked in his righteousness by his own effort (Genesis Rabbah 30:10).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "התהלך. לְשׁוֹן עָבָר, וְזֶהוּ שִׁמּוּשׁוֹ שֶׁל לָשׁוֹן, בְּלָשׁוֹן כָּבֵד מְשַׁמֶּשֶׁת לְהַבָּא וּלְשֶׁעָבַר בְּלָשׁוֹן א', קוּם הִתְהַלֵּךְ (שם י\"ג) לְהַבָּא, הִתְהַלֶּךְ נֹחַ לְשֶׁעָבַר; הִתְפַּלֵּל בְּעַד עֲבָדֶיךָ (שמואל א' י\"ב) לְהַבָּא, וּבָא וְהִתְפַּלֵּל אֶל הַבַּיִת הַזֶּה (מ\"א ח') לְשׁוֹן עָבָר, אֶלָּא שֶׁהַוָּי\"ו שֶׁבְּרֹאשׁוֹ הֲפָכוֹ לְהַבָּא:",
+          "en": "התהלך HE WALKED — This word is in the past tense. The following is the usage of this verbal form: in the “heavy” (כבד) conjugation one grammatical form is used both as future (i. e. the imperative, since the imperative calls for on action to be done in the future relative to the time when the command is given) and as past tense e. g., (13:17) קום התהלך “arise walk” is future (i. e. imperative); התהלך נח “Noah walked” (in this passage) is past; (1 Samuel 12:19) התפלל בעד עבדיך “Pray for thy servants” is future (i. e. imperative) and (1 Kings 8:42) ובא והתפלל אל הבית הזה “When he shall come and shall pray toward this house” is past, only that the ו at the beginning of the word changes the tense into the future (it is Vav conversive).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:10",
+      "he": "וַיּ֥וֹלֶד נֹ֖חַ שְׁלֹשָׁ֣ה בָנִ֑ים אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃",
+      "en": "Noah begot three sons: Shem, Ham, and Japheth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 6:11",
+      "he": "וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס׃",
+      "en": "The earth became corrupt before God; the earth was filled with lawlessness.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותשחת. לְשׁוֹן עֶרְוָה וַעֲ\"זָ (סנה' נ\"ז) כְּמוֹ פֶּן תַּשְׁחִתוּן (דב' ד'), כִּי הִשְׁחִית כָּל בָּשָׂר וְגוֹ':",
+          "en": "ותשחת [THE EARTH] WAS CORRUPT — It means lewdness and idolatry, as (Deuteronomy 4:16) פן תשחיתון “lest ye deal corruptly” (the following words show that this refers to idolatry) and as ‘כי השחית כל בשר וגו “for all flesh had corrupted etc.” (in next verse of this chapter where Rashi states that this has reference to lewdness) (Sanhedrin 57a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ותמלא הארץ חמס. גֶּזֶל:",
+          "en": "ותמלא הארץ חמס AND THE EARTH WAS FILLED WITH VIOLENCE — means robbery.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:12",
+      "he": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כׇּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "When God saw how corrupt the earth was, for all flesh had corrupted its ways on earth,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי השחית כל בשר. אֲפִלּוּ בְהֵמָה חַיָּה וָעוֹף נִזְקָקִין לְשֶׁאֵינָן מִינָן:",
+          "en": "כי השחית כל בשר FOR ALL FLESH HAD CORRUPTED — even cattle, beasts and fowl did not consort with their own species (Genesis Rabbah 28:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:13",
+      "he": "וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כׇּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ׃",
+      "en": "God said to Noah, “I have decided to put an end to all flesh, for the earth is filled with lawlessness because of them: I am about to destroy them with the earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "קץ כל בשר. כָּל מָקוֹם שֶׁאַתָּה מוֹצֵא זְנוּת וַעֲ\"זָ אַנְדְּרוֹלוֹמוּסְיָא בָּאָה לְעוֹלָם וְהוֹרֶגֶת טוֹבִים וְרָעִים.",
+          "en": "קץ כל בשר THE END OF ALL FLESH — Wherever you find lewdness and idolatry, punishment of an indiscriminate character comes upon the world killing good and bad alike (Genesis Rabbah 26:5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי מלאה הארץ חמס. לֹא נֶחְתַּם גְּזַר דִּינָם אֶלָּא עַל הַגֶּזֶל (סנה' ק\"ח):",
+          "en": "כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "את הארץ. כְּמוֹ מִן הָאָרֶץ, וְדוֹמֶה לוֹ כְּצֵאתִי אֶת הָעִיר (שמ' ט'), מִן הָעִיר; חָלָה אֶת רַגְלָיו (מ\"א ט\"ו), מִן רַגְלָיו. דָּ\"אַ אֶת הָאָרֶץ – עִם הָאָרֶץ, שֶׁאַף ג' טְפָחִים שֶׁל עֹמֶק הַמַּחֲרֵשָׁה נִמֹּחוּ וְנִטַּשְׁטְשׁוּ:",
+          "en": "את הארץ [I WILL DESTROY THEM] WITH THE EARTH — It is similar to מן הארץ \"from the earth”; other examples of this use of את are: (Exodus 9:29) בצאתי ‘‘when I go forth” את העיר which means מן העיר “from the city” and (1 Kings 15:23) חלה ‘‘he suffered” את רגליו which means מן רגליו ‘‘from his feet”. Another explanation of את הארץ is: “together with the earth” — for the earth was blotted out and washed away to the depth of a furrow of three handbreadths (Genesis Rabbah 31:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:14",
+      "he": "עֲשֵׂ֤ה לְךָ֙ תֵּבַ֣ת עֲצֵי־גֹ֔פֶר קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת־הַתֵּבָ֑ה וְכָֽפַרְתָּ֥ אֹתָ֛הּ מִבַּ֥יִת וּמִח֖וּץ בַּכֹּֽפֶר׃",
+      "en": "Make yourself an ark of gopher wood; make it an ark with compartments, and cover it inside and out with pitch.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עשה לך תבת. הַרְבֵּה רֶוַח וְהַצָּלָה לְפָנָיו, וְלָמָּה הִטְרִיחוֹ בְּבִנְיָן זֶה? כְּדֵי שֶׁיִּרְאוּהוּ אַנְשֵׁי דוֹר הַמַּבּוּל עוֹסֵק בָּהּ ק\"כ שָׁנָה, וְשׁוֹאֲלִין אוֹתוֹ מַה זֹּאת לְךָ, וְהוּא אוֹמֵר לָהֶם עָתִיד הַקָּבָּ\"ה לְהָבִיא מַבּוּל לָעוֹלָם, אוּלַי יָשׁוּבוּ:",
+          "en": "עשה לך תבת MAKE THEE AN ARK — There are numerous ways by which God could have saved Noah; why, then, did he burden him with this construction of the Ark? So that the men of the generation of the Flood might see him employed on it for 120 years and might ask him, “What do you need this for”? and so that he might answer them, “The Holy One, blessed be He, is about to bring a flood upon the world” — perhaps they might repent (literally, return to God) (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עצי גופר. כָּךְ שְׁמוֹ. וְלָמָּה מִמִּין זֶה? עַל שֵׁם גָּפְרִית שֶׁנִּגְזַר עֲלֵיהֶם לִמָּחוֹת בּוֹ:",
+          "en": "עצי גופר GOPHER WOOD — Thus is its name. Why of this species (גפר)? Because of the (גפרית) “sulphur” by which it was decreed that they were to be blotted out.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "קנים. מְדוֹרִים מְדוֹרִים לְכָל בְּהֵמָה וְחַיָּה:",
+          "en": "קנים ROOMS — Separate cabins for each kind of cattle and beast.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "בכפר. זֶפֶת בְלָשׁוֹן אֲרַמִּי, וּמָצִינוּ בַּתַּלְמוּד כּוּפְרָא בְּתֵבָתוֹ שֶׁל משֶׁה, עַל יְדֵי שֶׁהָיוּ הַמַּיִם תָּשִׁים דַּיָּהּ בְּחֹמֶר מִבִּפְנִים וְזֶפֶת מִבַּחוּץ; וְעוֹד, כְּדֵי שֶׁלֹּא יָרִיחַ אוֹתוֹ צַדִּיק רֵיחַ רַע שֶׁל זֶפֶת, אֲבָל כָּאן מִפְּנֵי חֹזֶק הַמַּיִם זִפְּתָהּ מִבַּיִת וּמִחוּץ:",
+          "en": "בכפר WITH כפר — This is an Aramaic term for the Hebrew זפת “pitch’’, and in the Talmud (Shabbat 67a) we find the noun כופרא “pitch”. In the case of the ark (cradle) in which Moses was placed, since the waters were not rapid it sufficed that it should be daubed with slime inside and with pitch outside; and a further reason for this was that this righteous person (Moses) should not smell the bad odour of the pitch (Sotah 12a). Here, however, because of the rough waters he had to cover it with pitch inside as well as outside.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:15",
+      "he": "וְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ שְׁלֹ֧שׁ מֵא֣וֹת אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙ רׇחְבָּ֔הּ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתָֽהּ׃",
+      "en": "This is how you shall make it: the length of the ark shall be three hundred cubits, its width fifty cubits, and its height thirty cubits.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 6:16",
+      "he": "צֹ֣הַר&thinsp;׀ תַּעֲשֶׂ֣ה לַתֵּבָ֗ה וְאֶל־אַמָּה֙ תְּכַלֶּ֣נָּה מִלְמַ֔עְלָה וּפֶ֥תַח הַתֵּבָ֖ה בְּצִדָּ֣הּ תָּשִׂ֑ים תַּחְתִּיִּ֛ם שְׁנִיִּ֥ם וּשְׁלִשִׁ֖ים תַּֽעֲשֶֽׂהָ׃",
+      "en": "Make an opening for daylight in the ark, and terminate it within a cubit of the top.cterminate it within a cubit of the top Meaning of Heb. uncertain. Put the entrance to the ark in its side; make it with bottom, second, and third decks.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "צהר. יֵ\"אֹ חַלּוֹן וְיֵ\"אֹ אֶבֶן טוֹבָה הַמְּאִירָה לָהֶם (ב\"ר שם):",
+          "en": "צהר A LIGHT — Some say this was a window; others say that it was a precious stone that gave light to them (Genesis Rabbah 31:11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ואל אמה תכלנה מלמעלה. כִּסּוּיָהּ מְשֻׁפָּע וְעוֹלֶה עַד שֶׁהוּא קָצָר מִלְמַעְלָה וְעוֹמֵד עַל אַמָּה כְּדֵי שֶׁיָּזוּבוּ הַמַּיִם לְמַטָּה מִכָּאן וּמִכָּאן:",
+          "en": "ואל אמה תכלנה מלמעלה AND TO A CUBIT SHALT THOU FINISH IT UPWARD — Its covering (roof) slanted upwards so that it narrowed at the top to a cubit, in order that the water should run off on both sides.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "בצדה תשים. שֶׁלֹּא יִפְּלוּ הַגְּשָׁמִים בָּהּ:",
+          "en": "בצדה תשים THOU SHALT SET [THE DOOR] IN THE SIDE THEREOF — in order that the rain might not penetrate.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "תחתים שנים ושלשים. ג' עֲלִיוֹת זוֹ עַל גַּב זוֹ, עֶלְיוֹנִים לָאָדָם, אֶמְצָעִים לְמָדוֹֹר, תַּחְתִּיִּים לְזֶבֶל (שם):",
+          "en": "תחתים שנים ושלישים WITH LOWER, SECOND AND THIRD STORIES — Three stories one above the other: the top rooms for the human beings, the middle ones as cabins for the cattle, and the bottom was for the refuse (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:17",
+      "he": "וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת־הַמַּבּ֥וּל מַ֙יִם֙ עַל־הָאָ֔רֶץ לְשַׁחֵ֣ת כׇּל־בָּשָׂ֗ר אֲשֶׁר־בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר־בָּאָ֖רֶץ יִגְוָֽע׃",
+      "en": "“For My part, I am about to bring the Flood—waters upon the earth—to destroy all flesh under the sky in which there is breath of life; everything on earth shall perish.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואני הנני מביא. הִנְנִי מוּכָן לְהַסְכִּים עִם אוֹתָם שֶׁזֵּרְזוּנִי וְאָמְרוּ לְפָנַי כְּבָר מָה אֱנוֹשׁ כִּי תִזְכְּרֶנּוּ (תה' ח'):",
+          "en": "ואני הנני מביא AND I, BEHOLD, I DO BRING — God says, “Now I am prepared to agree with those angels who cautioned Me and long ago said to Me (when I was about to create man), (Psalms 8:5) “What is man that thou art mindful of him” (Genesis Rabbah 31:12).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מבול. שֶׁבִּלָּה אֶת הַכֹּל, שֶׁבִּלְבֵּל אֶת הַכֹּל, שֶׁהוֹבִיל אֶת הַכֹּל מִן הַגָּבוֹהַּ לַנָּמוּךְ; וְזֶהוּ לְשׁוֹן אֻנְקְלוֹס שֶׁתִּרְגֵּם טוֹפָנָא, שֶׁהֵצִיף אֶת הַכֹּל, וֶהֱבִיאָהּ לְבָבֶל שֶׁהִיא עֲמֻקָּה, לְכָךְ נִקְרֵאת שִׁנְעָר, שֶׁנִּנְעֲרוּ שָׁם כָּל מֵתֵי מַבּוּל:",
+          "en": "מבול A FLOOD — so called because it ruined (בלה) everything; because it cast everything into confusion (בלל), and because it brought (הוביל from root יבל) everything down from the heights to a lower level. And this last explanation underlies the translation of Onkelos who translates it by טופנא (Ar. טוף = Heb. צוף) because the Flood caused everything to float about and brought it (the Ark) to Babel which is a low-lying district. That is the reason why it (Babylon) is called, also, Shinar (שנער): because all those who died through the Flood were shaken out (ננערו) into it (Shabbat 113b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:18",
+      "he": "וַהֲקִמֹתִ֥י אֶת־בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל־הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+      "en": "But I will establish My covenant with you, and you shall enter the ark, with your sons, your wife, and your sons’ wives.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והקמתי את בריתי. בְּרִית הָיָה צָרִיךְ עַל הַפֵּרוֹת שֶׁלֹּא יִרְקְבוּ וִיעַפְּשׁוּ וְשֶׁלֹּא יַהַרְגוּהוּ רְשָׁעִים שֶׁבַּדּוֹר (ב\"ר):",
+          "en": "והקמתי את בריתי BUT I WILL ESTABLISH MY COVENANT — A covenant was necessary for the sake of the fruits that they should not rot or decay; and also that the wicked people of that generation should not kill him (Genesis Rabbah 31:12)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אתה ובניך ואשתך. הָאֲנָשִׁים לְבַד וְהַנָּשִׁים לְבַד; מִכָּאן שֶׁנֶּאֱסְרוּ בְּתַשְׁמִישׁ הַמִּטָּה: (שם):",
+          "en": "אתה ובניך ואשתך THOU, AND THY SONS AND THY WIFE — Males separately and females separately. From this one may infer that they were not permitted to live together in the Ark as man and wife (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:19",
+      "he": "וּמִכׇּל־הָ֠חַ֠י מִֽכׇּל־בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל־הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ׃",
+      "en": "And of all that lives, of all flesh, you shall take two of each into the ark to keep alive with you; they shall be male and female.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומכל החי. אֲפִלּוּ שֵׁדִים (ב\"ר):",
+          "en": "ומכל החי AND OF EVERY LIVING THING — Even of demons (Genesis Rabbah 31:13).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שנים מכל. מִן הַפָּחוּת שֶׁבָּהֶם לֹא פָּחוֹת מִשְּׁנַיִם, אֶחָד זָכָר וְאֶחָד נְקֵבָה:",
+          "en": "שנים מכל TWO OF EVERY SORT — Even of the least numerous amongst them there were not less than two—one male, the other female.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:20",
+      "he": "מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן־הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת׃",
+      "en": "From birds of every kind, cattle of every kind, every kind of creeping thing on earth, two of each shall come to you to stay alive.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מהעוף למינהו. אוֹתָן שֶׁדָּבְקוּ בְמִינֵיהֶם וְלֹא הִשְׁחִיתוּ דַרְכָּם, וּמֵאֵלֵיהֶם בָּאוּ, וְכֹל שֶׁהַתֵּבָה קוֹלַטְתּוֹ הִכְנִיס (ב\"ר):",
+          "en": "מהעוף למינהו OF THE FOWLS AFTER THEIR KIND— those that had kept to their own species and had not corrupted their way (taking the words to mean, “of the fowls that had kept to their own kind”). All these came of their own accord, but only those which the Ark was allowing to pass in did Noah permit to enter (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 6:21",
+      "he": "וְאַתָּ֣ה קַח־לְךָ֗ מִכׇּל־מַֽאֲכָל֙ אֲשֶׁ֣ר יֵֽאָכֵ֔ל וְאָסַפְתָּ֖ אֵלֶ֑יךָ וְהָיָ֥ה לְךָ֛ וְלָהֶ֖ם לְאׇכְלָֽה׃",
+      "en": "For your part, take of everything that is eaten and store it away, to serve as food for you and for them.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 6:22",
+      "he": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+      "en": "Noah did so; just as God commanded him, so he did.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעש נח. זֶה בִּנְיַן הַתֵּבָה:",
+          "en": "ויעש נח THUS DID NOAH — This refers to the building of the Ark (Genesis Rabbah 31:14).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:1",
+      "he": "וַיֹּ֤אמֶר יְהֹוָה֙ לְנֹ֔חַ בֹּֽא־אַתָּ֥ה וְכׇל־בֵּיתְךָ֖ אֶל־הַתֵּבָ֑ה כִּֽי־אֹתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה׃",
+      "en": "Then GOD said to Noah, “Go into the ark, with all your household, for you alone have I found righteous before Me in this generation.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ראיתי צדיק. וְלֹא נֶאֱמַר צַדִּיק תָּמִים, מִכָּאן שֶׁאוֹמְרִים מִקְצַת שִׁבְחוֹ שֶׁל אָדָם בְּפָנָיו וְכֻלּוֹ שֶׁלֹּא בְּפָנָיו (ב\"ר):",
+          "en": "ראיתי צדיק [THEE] HAVE I SEEN RIGHTEOUS — It does not say “righteous and wholehearted” (as it does at the beginning of the Sedrah); hence we may infer that only a part of a man’s good qualities should be enumerated in his presence (since here God is speaking to Noah and calls him only “righteous”), but that in his absence the whole of his good qualities may be told (since when the Torah speaks about him in the earlier passage it calls him “righteous and wholehearted”) (Eruvin 18b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:2",
+      "he": "מִכֹּ֣ל&thinsp;׀ הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה תִּֽקַּח־לְךָ֛ שִׁבְעָ֥ה שִׁבְעָ֖ה אִ֣ישׁ וְאִשְׁתּ֑וֹ וּמִן־הַבְּהֵמָ֡ה אֲ֠שֶׁ֠ר לֹ֣א טְהֹרָ֥ה הִ֛וא שְׁנַ֖יִם אִ֥ישׁ וְאִשְׁתּֽוֹ׃",
+      "en": "Of every pure animal you shall take seven pairs, male and female mates, and of every animal that is not pure, two, male and female mates;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הטהורה. הָעֲתִידָה לִהְיוֹת טְהוֹרָה לְיִשְׂרָאֵל; לָמַדְנוּ שֶׁלָּמַד נֹחַ תּוֹרָה (שם פ' כ\"ו):",
+          "en": "הטהורה CLEAN—It means those cattle which will in future be permitted to Israel as clean; we thus learn that Noah studied the Torah.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "שבעה שבעה. כְּדֵי שֶׁיַּקְרִיב מֵהֶם קָרְבָּן בְּצֵאתוֹ:",
+          "en": "שבעה שבעה SEVEN AND SEVEN — so many, in order that he might offer some of them as a sacrifice when leaving the Ark (Genesis Rabbah 34:9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:3",
+      "he": "גַּ֣ם מֵע֧וֹף הַשָּׁמַ֛יִם שִׁבְעָ֥ה שִׁבְעָ֖ה זָכָ֣ר וּנְקֵבָ֑ה לְחַיּ֥וֹת זֶ֖רַע עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+      "en": "of the birds of the sky also, seven pairs, male and female, to keep seed alive upon all the earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "גם מעוף השמים וגו'. בִּטְהוֹרִים הַכָּתוּב מְדַבֵּר, וְלָמַד סָתוּם מִן הַמְפֹרָשׁ:",
+          "en": "‘גס מעוף השמים וגו OF FOWLS ALSO OF THE AIR — Scripture here means “clean” birds just as the animals in verse 2 are stated to be clean, for what is not explicitly stated may be learned by analogy from what is explicitly stated.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:4",
+      "he": "כִּי֩ לְיָמִ֨ים ע֜וֹד שִׁבְעָ֗ה אָֽנֹכִי֙ מַמְטִ֣יר עַל־הָאָ֔רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה וּמָחִ֗יתִי אֶֽת־כׇּל־הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+      "en": "For in seven days’ time I will make it rain upon the earth, forty days and forty nights, and I will blot out from the earth all existence that I created.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "כי לימים עוד שבעה. אֵלּוּ ז' יְמֵי אֶבְלוֹ שֶׁל מְתוּשֶׁלַח הַצַּדִּיק שֶׁחָס הַקָּבָּ\"ה עַל כְּבוֹדוֹ וְעִכֵּב אֶת הַפֻּרְעָנוּת. צֵא וַחֲשֹׁב שְׁנוֹתָיו שֶׁל מְתוּשֶׁלַח וְתִמְצָא שֶׁהֵם כָּלִים בִּשְנַת ת\"ר שָׁנָה לְחַיֵּי נֹחַ (סנה' ק\"ח):",
+          "en": "כי לימים עוד שבעה FOR YET SEVEN DAYS — These are the seven days of mourning for the righteous man Methuselah for whose honour the Holy One, blessed be He, had regard, and therefore postponed punishment. Go and calculate the years of Methuselah and you will find that they came to an end (i. e. he died) in the six hundredth year of Noah’s life (which coincided with the date of the Flood) (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "כי לימים עוד. מַהוּ עוֹד? זְמַן אַחַר זְמַן זֶה נוֹסָף עַל ק\"כ שָׁנָה:",
+          "en": "כי לימים עוד FOR YET [SEVEN] DAYS — What is meant by עוד \"yet\", \"more\"? A further period of time: this period (seven days) additional to the 120 years of respite that was promised (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ארבעים יום. כְּנֶגֶד יְצִירַת הַוָּלָד, שֶׁקִּלְקְלוּ לְהַטְרִיחַ לְיוֹצְרָם לָצוּר צוּרַת מַמְזֵרִים:",
+          "en": "ארבעים יום FORTY DAYS — corresponding to the period of a child’s formation, for by their sinning they had troubled their Creator to form embryos of illegitimate children (Genesis Rabbah 32:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:5",
+      "he": "וַיַּ֖עַשׂ נֹ֑חַ כְּכֹ֥ל אֲשֶׁר־צִוָּ֖הוּ יְהֹוָֽה׃",
+      "en": "And Noah did just as GOD commanded him.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעש נח. זֶה בִיאָתוֹ לַתֵּבָה:",
+          "en": "ויעש נח AND NOAH DID — This refers to his coming to the Ark.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:6",
+      "he": "וְנֹ֕חַ בֶּן־שֵׁ֥שׁ מֵא֖וֹת שָׁנָ֑ה וְהַמַּבּ֣וּל הָיָ֔ה מַ֖יִם עַל־הָאָֽרֶץ׃",
+      "en": "Noah was six hundred years old when the Flood came, waters upon the earth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:7",
+      "he": "וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָ֠יו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי־בָנָ֛יו אִתּ֖וֹ אֶל־הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י הַמַּבּֽוּל׃",
+      "en": "Noah, with his sons, his wife, and his sons’ wives, went into the ark because of the waters of the Flood.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נח ובניו. הָאֲנָשִׁים לְבַד וְהַנָּשִׁים לְבַד, לְפִי שֶׁנֶּאֱסְרוּ בְּתַשְׁמִישׁ הַמִּטָּה מִפְּנֵי שֶׁהָעוֹלָם שָׁרוּי בְּצַעַר:",
+          "en": "נח ובניו NOAH AND HIS SONS — The men separately and the women separately, because they were forbidden to live together as man and wife since the world was living in a state of distress",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מפני מי המבול. אַף נֹחַ מִקְּטַנֵּי אֲמָנָה הָיָה, מַאֲמִין וְאֵינוֹ מַאֲמִין שֶׁיָבֹא הַמַּבּוּל, וְלֹא נִכְנַס לַתֵּבָה עַד שֶׁדְּחָקוּהוּ הַמַּיִם:",
+          "en": "מפני מי המבול BECAUSE OF THE WATERS OF THE FLOOD — (מפני properly means ‘‘from before”) — Noah, also, was of those people who are wanting in faith: he believed and he did not believe that the Flood would come, and he would not enter the Ark until the waters forced him to do so (Genesis Rabbah 32:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:8",
+      "he": "מִן־הַבְּהֵמָה֙ הַטְּהוֹרָ֔ה וּמִ֨ן־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אֵינֶ֖נָּה טְהֹרָ֑ה וּמִ֨ן־הָע֔וֹף וְכֹ֥ל אֲשֶׁר־רֹמֵ֖שׂ עַל־הָֽאֲדָמָֽה׃",
+      "en": "Of the pure animals, of the animals that are not pure, of the birds, and of everything that creeps on the ground,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:9",
+      "he": "שְׁנַ֨יִם שְׁנַ֜יִם בָּ֧אוּ אֶל־נֹ֛חַ אֶל־הַתֵּבָ֖ה זָכָ֣ר וּנְקֵבָ֑ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֱלֹהִ֖ים אֶת־נֹֽחַ׃",
+      "en": "two of each, male and female, came to Noah into the ark, as God had commanded Noah.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שנים שנים. כֻּלָם הֻשְׁווּ בְּמִנְיָן זֶה – מִן הַפָּחוּת הָיוּ שְׁנַיִם:",
+          "en": "שנים שנים TWO AND TWO —In this number they were all equal — the least number was two.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "באו אל נח. מֵאֵלֵיהֶן:",
+          "en": "באו אל נח THEY CAME TO NOAH — of their own accord (Genesis Rabbah 32).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:10",
+      "he": "וַיְהִ֖י לְשִׁבְעַ֣ת הַיָּמִ֑ים וּמֵ֣י הַמַּבּ֔וּל הָי֖וּ עַל־הָאָֽרֶץ׃",
+      "en": "And on the seventh day the waters of the Flood came upon the earth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:11",
+      "he": "בִּשְׁנַ֨ת שֵׁשׁ־מֵא֤וֹת שָׁנָה֙ לְחַיֵּי־נֹ֔חַ בַּחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כׇּֽל־מַעְיְנֹת֙*(בספרי ספרד ואשכנז מַעְיְנוֹת֙) תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ׃",
+      "en": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day All the fountains of the great deep burst apart, And the floodgates of the sky broke open.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בחודש השני. רַבִּי אֱלִיעֶזֶר אוֹמֵר זֶה מַרְחֶשְׁוָן; רַבִּי יְהוֹשֻׁעַ אוֹמֵר זֶה אִיָּר (ר\"ה י\"א):",
+          "en": "בחדש השני IN THE SECOND MONTH — Rabbi Eliezer said, “This is the month Marcheshvan”; Rabbi Joshua said, “This is the month Eyar (Rosh Hashanah 11b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "נבקעו. לְהוֹצִיא מֵימֵיהֶן:",
+          "en": "נבקעו WERE BROKEN UP — so that they might give forth their waters.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "תהום רבה. מִדָּה כְנֶגֶד מִדָּה, הֵם חָטְאוּ בְּרַבָּה רָעַת הָאָדָם וְלָקוּ בִּתְהוֹם רַבָּה:",
+          "en": "תהום רבה THE GREAT DEEP — Measure for measure: they had sinned with רבה רעת האדם “great was the evil of man” (i. e. their sin is described by the word רבה “great”) and they were therefore punished by תהום רבה “the great deep” (i.e. the expression “great’’ is used of the instrument by which they were punished for their great sin) (Sanhedrin 108a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:12",
+      "he": "וַיְהִ֥י הַגֶּ֖שֶׁם עַל־הָאָ֑רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃",
+      "en": "(The rain fell on the earth forty days and forty nights.)",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויהי הגשם על הארץ. וּלְהַלָּן הוּא אוֹמֵר וַיְהִי הַמַּבּוּל? אֶלָּא כְּשֶׁהוֹרִידָן הוֹרִידָן בְּרַחֲמִים, שֶׁאִם יַחְזְרוּ יִהְיוּ גִּשְׁמֵי בְרָכָה; כְּשֶׁלֹּא חָזְרוּ הָיוּ לְמַבּוּל:",
+          "en": "ויהי הגשם על הארץ AND THE RAIN WAS UPON THE EARTH — But later on (v. 17) it says. “And the Flood was upon the earth”! But the explanation is this: when He poured down the water at first He made it fall in mercy (gently), in order that if the people would repent, it might prove a rain of blessing; but when they did not repent it became a destructive flood (Genesis Rabbah 31:12) .",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ארבעים יום וגו'. אֵין יוֹם רִאשׁוֹן מִן הַמִּנְיָן, לְפִי שֶׁאֵין לֵילוֹ עִמּוֹ שֶׁהֲרֵי כְתִיב בַּיּוֹם הַזֶּה נִבְקְעוּ כָּל מַעְיְנֹת, נִמְצְאוּ אַרְבָּעִים יוֹם כָּלִים בְּכ\"ח בְּכִסְלֵו לְרַבִּי אֱלִיעֱזֶר, שֶׁהַחֳדָשִׁים נִמְנִין כְּסִדְרָן אֶחָד מָלֵא וְאֶחָד חָסֵר, הֲרֵי י\"ב מִמַּרְחֶשְׁוָן וְכ\"ח מִכִּסְלֵו:",
+          "en": "‘ארבעים יום וגו FORTY DAYS AND [FORTY NIGHTS] — The first day is not included in this number, because its night (i.e. the night that preceded it, since according to Jewish reckoning a “day” comprises night-time and the following day-time) was not included with it — for it is written (v. 11) “On the same day (i. e. day-time) were all the fountains of the great deep broken up”. (Consequently the forty days ended, according to R. Eliezer, on the 28th day of Kislev (Rosh Hashanah 11b). as the months are counted as regular months, one full (of 30 days) and the next defective (of 29 days), so we have, 12 days of Marcheshvan and 28 days of Kislev.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:13",
+      "he": "בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם־וְחָ֥ם וָיֶ֖פֶת בְּנֵי־נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ וּשְׁלֹ֧שֶׁת נְשֵֽׁי־בָנָ֛יו אִתָּ֖ם אֶל־הַתֵּבָֽה׃",
+      "en": "That same day Noah and Noah’s sons, Shem, Ham, and Japheth, went into the ark, with Noah’s wife and the three wives of his sons—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בעצם היום הזה. לִמֶּדְךָ הַכָּתוּב שֶׁהָיוּ בְנֵי דוֹרוֹ אוֹמְרִים אִלּוּ אָנוּ רוֹאִים אוֹתוֹ נִכְנָס לַתֵּבָה, אָנוּ שׁוֹבְרִין אוֹתָהּ וְהוֹרְגִין אוֹתוֹ, אָמַר הַקָּבָּ\"ה אֲנִי מַכְנִיסוֹ לְעֵינֵי כֻלָּם וְנִרְאֶה דְבַר מִי יָקוּם:",
+          "en": "בעצם היום הזה IN THE SELFSAME DAY — Scripture teaches you that the people of his generation said: “If we see him enter the Ark we will smash it up and kill him”. The Holy One, blessed be He, thereupon said, ‘‘I will let him enter before the eyes of everyone and we shall see whose word prevails” (Genesis Rabbah 32:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:14",
+      "he": "הֵ֜מָּה וְכׇל־הַֽחַיָּ֣ה לְמִינָ֗הּ וְכׇל־הַבְּהֵמָה֙ לְמִינָ֔הּ וְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ לְמִינֵ֑הוּ וְכׇל־הָע֣וֹף לְמִינֵ֔הוּ כֹּ֖ל צִפּ֥וֹר כׇּל־כָּנָֽף׃",
+      "en": "they and all beasts of every kind, all cattle of every kind, all creatures of every kind that creep on the earth, and all birds of every kind, every bird, every winged thing.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "צפור כל כנף. דָבוּק הוּא, צִפּוֹר שֶׁל כָּל מִין כָּנָף, לְרַבּוֹת חֲגָבִים (כָּנָף לְשׁוֹן נוֹצָה, כְּמוֹ וְשִׁסַּע אֹתוֹ בִכְנָפָיו, שֶׁאֲפִלּוּ נוֹצָתָהּ עוֹלָה, אַף כָּאן צִפּוֹר כָּל מִין מַרְאִית נוֹצָה):",
+          "en": "צפור כל כנף [EVERY] BIRD OF EVERY KIND — The word צפור is in the construct state, viz.. birds of every kind of wing, thus including locusts (Chullin 139b). The word כנף means “wingfeather”, as (Leviticus 1:17) “He shall rend it by the wings thereof”, for even its feathers were offered as a sacrifice. Also here, the meaning is, birds with any kind of semblance of wing.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:15",
+      "he": "וַיָּבֹ֥אוּ אֶל־נֹ֖חַ אֶל־הַתֵּבָ֑ה שְׁנַ֤יִם שְׁנַ֙יִם֙ מִכׇּל־הַבָּשָׂ֔ר אֲשֶׁר־בּ֖וֹ ר֥וּחַ חַיִּֽים׃",
+      "en": "They came to Noah into the ark, two each of all flesh in which there was breath of life.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:16",
+      "he": "וְהַבָּאִ֗ים זָכָ֨ר וּנְקֵבָ֤ה מִכׇּל־בָּשָׂר֙ בָּ֔אוּ כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִ֑ים וַיִּסְגֹּ֥ר יְהֹוָ֖ה בַּֽעֲדֽוֹ׃",
+      "en": "Thus they that entered comprised male and female of all flesh, as God had commanded him. And GOD shut him in.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויסגור ה' בעדו. הֵגֵן עָלָיו שֶׁלֹּא יִשְׁבְּרוּהָ, הִקִּיף הַתֵּבָה דֻּבִּים וַאֲרָיוֹת וְהָיוּ הוֹרְגִים בָּהֶם; וּפְשׁוּטוֹ שֶׁל מִקְרָא סָגַר כְּנֶגֶדוֹ מִן הַמַּיִם, וְכֵן כָּל בְּעַד שֶׁבַּמִּקְרָא לְשׁוֹן כְּנֶגֶד הוּא, בְּעַד כָּל רֶחֶם (בראשית כ׳:י״ח), בַּעֲדֵךְ וּבְעַד בָּנַיִךְ (מ\"ב ד'), עוֹר בְּעַד עוֹר (איוב ב'), מָגֵן בַּעֲדִי (תהלים ג'), הִתְפַּלֵּל בְּעַד עֲבָדֶיךָ (שמואל א' י\"ב) – כְּנֶגֶד עֲבָדֶיךָ:",
+          "en": "ויסגור ה' בעדו AND THE LORD SHUT HIM IN — He protected him so that they could not smash up the Ark (cf. 5:13): He surrounded the Ark (thus enclosing it סגר) with bears and lions which killed some of them (Genesis Rabbah 32:8). But the literal meaning of the text is: He shut the door in front of him against the waters. Similarly, wherever בעד occurs in the Scriptures it means כנגד in front of. E. g., (20:18) “The lord had made a closure in front of (בעד) every womb”; (2 Kings 4:4) “Close the door in front of thyself (בעדך) and in front of (ובעד) thy sons”; (Job 2:4) ‘‘skin in front of (as a protection for) (בעד) skin”; (Psalms 3:4) “a shield in front of me ובעדי”: (1 Samuel 12:19) “Pray (בעד) thy servants” which means כנגד in front of (i. e. on behalf of, as a protection for) thy servants.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:17",
+      "he": "וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל־הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת־הַתֵּבָ֔ה וַתָּ֖רׇם מֵעַ֥ל הָאָֽרֶץ׃",
+      "en": "The Flood continued forty days on the earth, and the waters increased and raised the ark so that it rose above the earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותרם מעל הארץ. מְשֻׁקַּעַת הָיְתָה בַּמַּיִם י\"א אַמָּה כִסְפִינָה טְעוּנָה הַמְשֻׁקַּעַת מִקְצָתָהּ בַּמַּיִם; וּמִקְרָאוֹת שֶׁלְּפָנֵינוּ יוֹכִיחוּ:",
+          "en": "ותרם מעל הארץ AND IT WAS LIFTED UP ABOVE THE EARTH — It was eleven cubits deep in the water like a laden ship that has part of it sunk in the waters (Genesis Rabbah 32:9); the following verses prove that this is the meaning.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:18",
+      "he": "וַיִּגְבְּר֥וּ הַמַּ֛יִם וַיִּרְבּ֥וּ מְאֹ֖ד עַל־הָאָ֑רֶץ וַתֵּ֥לֶךְ הַתֵּבָ֖ה עַל־פְּנֵ֥י הַמָּֽיִם׃",
+      "en": "The waters swelled and increased greatly upon the earth, and the ark drifted upon the waters.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויגברו. מֵאֵלֵיהֶן:",
+          "en": "ויגברו [AND THE WATERS] PREVAILED — by themselves (without any external aid).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:19",
+      "he": "וְהַמַּ֗יִם גָּ֥בְר֛וּ מְאֹ֥ד מְאֹ֖ד עַל־הָאָ֑רֶץ וַיְכֻסּ֗וּ כׇּל־הֶֽהָרִים֙ הַגְּבֹהִ֔ים אֲשֶׁר־תַּ֖חַת כׇּל־הַשָּׁמָֽיִם׃",
+      "en": "When the waters had swelled much more upon the earth, all the highest mountains everywhere under the sky were covered.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:20",
+      "he": "חֲמֵ֨שׁ עֶשְׂרֵ֤ה אַמָּה֙ מִלְמַ֔עְלָה גָּבְר֖וּ הַמָּ֑יִם וַיְכֻסּ֖וּ הֶהָרִֽים׃",
+      "en": "Fifteen cubits higher did the waters swell, as the mountains were covered.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חמש עשרה אמה מלמעלה. לְמַעְלָה שֶׁל גֹּבַהּ כָּל הֶהָרִים, לְאַחַר שֶׁהֻשְׁווּ הַמַּיִם לְרָאשֵׁי הֶהָרִים:",
+          "en": "חמש עשרה אמה מלמעלה FIFTEEN CUBITS ABOVE —above the summits of all the mountains when once the waters reached the level of the mountains (Yoma 76a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:21",
+      "he": "וַיִּגְוַ֞ע כׇּל־בָּשָׂ֣ר&thinsp;׀ הָרֹמֵ֣שׂ עַל־הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם׃",
+      "en": "And all flesh that stirred on earth perished—birds, cattle, beasts, and all the things that swarmed upon the earth, and all humankind.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 7:22",
+      "he": "כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת־ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ׃",
+      "en": "All in whose nostrils was the merest breath of life, all that was on dry land, died.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נשמת רוח חיים. נְשָׁמָה שֶׁל רוּחַ חַיִּים:",
+          "en": "נשמת רוח חיים means the breathing of the breath of life.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אשר בחרבה. וְלֹא דָגִים שֶׁבַּיָּם (סנה' ק\"ח):",
+          "en": "אשר בחרבה WHATSOEVER WAS IN THE DRY LAND [DIED] — and not the fish in the sea (Sanhedrin 108a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:23",
+      "he": "וַיִּ֜מַח אֶֽת־כׇּל־הַיְק֣וּם&thinsp;׀ אֲשֶׁ֣ר&thinsp;׀ עַל־פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד־בְּהֵמָה֙ עַד־רֶ֙מֶשׂ֙ וְעַד־ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן־הָאָ֑רֶץ וַיִּשָּׁ֧אֶר אַךְ־נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָֽה׃",
+      "en": "All existence on earth was blotted out—humans, cattle, creeping things, and birds of the sky; they were blotted out from the earth. Only Noah was left, and those with him in the ark.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וימח. לְשׁוֹן וַיִּפְעַל הוּא וְאֵינוֹ לָשׁוֹן וַיִפָּעֵל, וְהוּא מִגִּזְרַת וַיִּפֶן וַיִּבֶן כָּל תֵּבָה שֶׁסּוֹפָהּ הֵ\"א, כְּגוֹן בָּנָה, מָחָה, קָנָה, כְּשֶׁהוּא נוֹתֵן וָי\"ו יוֹ\"ד בְּרֹאשָׁהּ, נָקוּד בְּחִירִק תַּחַת הַיּוֹ\"ד:",
+          "en": "וימח AND HE BLOTTED OUT — The word וימח is a Kal form and not a Niphal, and it is of the same grammatical form as ויפן and ויבן Every verb whose last root letter is ה, such as בנה, מחה, קנה when י and ו are perfixed, has Chireq as its vowel beneath the yod.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אך נח. לְבַד נֹחַ, זֶהוּ פְּשׁוּטוֹ; וּמִ\"אַ גוֹנֵחַ וְכוֹהֶה דָם מִטֹּרַח הַבְּהֵמוֹת וְהַחַיּוֹת. וְיֵ\"אֹ שֶׁאִחֵר מְזוֹנוֹת לָאֲרִי וְהִכִּישׁוֹ, וְעָלָיו נֶאֱמַר הֵן צַדִּיק בָּאָרֶץ יְשֻׁלָּם (משלי יא):",
+          "en": "אך נח means NOAH ONLY. This is its real meaning. But the Midrashic explanation is (Midrash Tanchuma, Noach 9) that he was coughing and spitting blood because of the trouble he had with the cattle and beasts (אך is taken as a מיעוט limitation, meaning to say that something is defective); others say, that he was once late in bringing food to a lion, so it struck him. Regarding him may the words be applied (Proverbs 11:31), “Behold, even the righteous is paid (for his evil deeds) in this world’’.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 7:24",
+      "he": "וַיִּגְבְּר֥וּ הַמַּ֖יִם עַל־הָאָ֑רֶץ חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+      "en": "And when the waters had swelled on the earth one hundred and fifty days,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 8:1",
+      "he": "וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כׇּל־הַֽחַיָּה֙ וְאֶת־כׇּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה וַיַּעֲבֵ֨ר אֱלֹהִ֥ים ר֙וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם׃",
+      "en": "God remembered Noah and all the beasts and all the cattle that were with him in the ark, and God caused a wind to blow across the earth, and the waters subsided.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויזכור אלהים. זֶה הַשֵּׁם מִדַּת הַדִּין הוּא, וְנֶהֶפְכָה לְמִדַּת רַחֲמִים עַל יְדֵי תְפִלַּת הַצַּדִּיקִים; וְרִשְׁעָתָן שֶׁל רְשָׁעִים הוֹפֶכֶת מִדַּת רַחֲמִים לְמִדַּת הַדִּין, שֶׁנֶאֱמַר וַיַּרְא ה' כִּי רַבָּה רָעַת הָאָדָם, וַיֹּאמֶר ה' אֶמְחֶה, (ברא' ו') וְהוּא שֵׁם מִדַּת רַחֲמִים:",
+          "en": "ויזכור אלהים AND GOD REMEMBERED— This Divine Name really signifies the God of Strict Justice but it is transformed into Divine Mercy through the prayers of the righteous, whilst the evil practised by wicked people transforms Divine Mercy into Strict Justice, as it is said (Genesis 6:5) “And the Lord ('ה) saw that the wickedness of man was great” and (Genesis 5:7) “And the Lord ('ה) said, “I will blot out etc.”— yet in these passages the Name ('ה) is מדת רחמים, that signifying Divine Mercy (Genesis Rabbah 33:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויזכור אלהים את נח וגו'. מַה זָּכַר לָהֶם לַבְּהֵמוֹת? זְכוּת, שֶׁלֹּא הִשְׁחִיתוּ דַרְכָּם קֹדֶם לָכֵן וְשֶׁלֹּא שִׁמְּשׁוּ בַּתֵּבָה:",
+          "en": "‘ויזכור אלהים את נח וגו AND GOD REMEMBERED NOAH etc. — What did He remember regarding the cattle? The merit that no perversion of their way had been seen amongst them previously to the Flood, and that they lived apart in the Ark.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ויעבר אלהים רוח. רוּחַ תַּנְחוּמִין וַהֲנָחָה עָבְרָה לְפָנָיו:",
+          "en": "ויעבר אלהים רוח AND GOD MADE A WIND (or SPIRIT) TO PASS — A spirit of consolation and relief passed before Him.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "על הארץ. עַל עִסְקֵי הָאָרֶץ:",
+          "en": "על הארץ OVER THE EARTH — Because of what was happening on earth.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "וישכו. כְּמוֹ כְּשֹׁךְ חֲמַת הַמֶּלֶךְ (אסתר ב') לְשׁוֹן הַנָּחַת חֵמָה:",
+          "en": "וישכו AND THE WATERS ASSUAGED — The word occurs again (Esther 2:1), “when the wrath of the king was assuaged (כשוך)”, and it means there abatement of anger.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:2",
+      "he": "וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם׃",
+      "en": "The fountains of the deep and the floodgates of the sky were stopped up, and the rain from the sky was held back;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויסכרו מעינות. כְּשֶׁנִּפְתְּחוּ כְּתִיב כָּל מַעְיְנֹת; וְכָאן אֵין כְּתִיב כָּל, לְפִי שֶׁנִּשְׁתַּיְּרוּ מֵהֶם אוֹתָן שֶׁיֵּשׁ בָּהֶם צֹרֶךְ לָעוֹלָם, כְּגוֹן חַמֵּי טְבֵרְיָא וְכַיוֹצֵא בָהֶן:",
+          "en": "ויסכרו מעינות AND THE FOUNTAINS … WERE STOPPED –– When they were opened, it was stated that all fountains were opened (7:11), whilst here the word all is omitted: the reason is that such of them as were essential to the world were left unstopped, such as the hot springs of Tiberias and their like (Sanhedrin 108a).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויכלא. וַיִמָּנַע כְּמוֹ לֹא תִכְלָא רַחֲמֶיךָ (תהלים מ'), לֹא יִכְלֶה מִמְּךָ (ברא' כג):",
+          "en": "ויכלא means was restrained. withheld, as (Psalms 40:12) “Thou wilt not withhold (תכלא) thy mercies” and (Genesis 23:6) “None of us will withhold (יכלה) from thee.’’",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:3",
+      "he": "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+      "en": "the waters then receded steadily from the earth. At the end of one hundred and fifty days the waters diminished,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מקצה חמשים ומאת יום. הִתְחִילוּ לַחֲסֹר וְהוּא אֶחָד בְּסִיוָן. כֵּיצַד? בְּכ\"ז בְּכִסְלֵו פָּסְקוּ הַגְּשָׁמִים, הֲרֵי ג' מִכִּסְלֵו וְכ\"ט מִטֵּבֵת הֲרֵי ל\"ב, וּשְׁבָט וַאֲדָר וְנִיסָן וְאִיָּר קי\"ח, הֲרֵי ק\"נ:",
+          "en": "מקצה חמשים ומאת יום AFTER THE END OF ONE HUNDRED AND FIFTY DAYS they began to decrease: that was on the first day of Sivan. How so? The rains ceased to fall on the twenty-seventh day of Kislev — you have three days left in Kislev, and the 29 days of Tebeth make 32, and Shebat, Adar, Nisan and Eyar have together 118, making altogether 150.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:4",
+      "he": "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃",
+      "en": "so that in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בחדש השביעי. סִיוָן, וְהוּא שְׁבִיעִי לְכִסְלֵו שֶׁבּוֹ פָּסְקוּ הַגְּשָׁמִים:",
+          "en": "בחדש השביעי IN THE SEVENTH MONTH — viz., Sivan, which is the seventh from Kislev in which the rains stopped falling.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בשבעה עשר יום. מִכָּאן אַתָּה לָמֵד שֶׁהָיְתָה הַתֵּבָה מְשֻׁקַּעַת בַּמַּיִם י\"א אַמָּה, שֶׁהֲרֵי כְתִיב בָּעֲשִׂירִי בְּאֶחָד לַחֹדֶשׁ נִרְאוּ רָאשֵׁי הֶהָרִים, זֶה אָב, שֶׁהִיא עֲשִׂירִי לְמַרְחֶשְׁוָן לִירִידַת גְּשָׁמִים, וְהֵם הָיוּ גְבוֹהִים עַל הֶהָרִים חֲמֵשׁ עֶשְׂרֵה אַמָּה, וְחָסְרוּ מִיּוֹם אֶחָד בְּסִיוָן עַד אֶחָד בְּאָב חֲמֵשׁ עֶשְׂרֵה אַמָּה לְשִּׁשִּׁים יוֹם, הֲרֵי אַמָּה לְד' יָמִים, נִמְצָא, שֶׁבְּי\"ו בְּסִיוָן לֹא חָסְרוּ אֶלָּא ד' אַמּוֹת וְנָחָה הַתֵּבָה לְיוֹם הַמָּחֳרָת; לָמַדְתָּ, שֶׁהָיְתָה מְשֻׁקַּעַת י\"א אַמָּה בַמַּיִם שֶׁעַל רָאשֵׁי הֶהָרִים:",
+          "en": "בשבעה עשר יום ON THE SEVENTEENTH DAY — From here you may infer that the Ark was submerged in the water to a depth of eleven cubits. For it is written (next verse) “In the tenth month on the first day of the month the tops of the mountains were seen” and this was Ab which is the tenth month after Cheshvan — after the rain began to fall. Now the waters were 15 cubits high above the mountains so that they subsided from the first of Sivan to the first of Ab 15 cubits for those 60 intervening days, which is one cubit each four days. Consequently by the sixteenth of Sivan they had subsided only 4 cubits, and since the Ark rested on Ararat on the next day, you may learn that it was submerged eleven cubits in the waters which were then still above the mountain tops (Genesis Rabbah 33:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:5",
+      "he": "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃",
+      "en": "The waters went on diminishing until the tenth month; in the tenth month, on the first of the month, the tops of the mountains became visible.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בעשירי נראו ראשי ההרים. זֶה אָב, שֶׁהוּא עֲשִׂירִי לְמַרְחֶשְׁוָן שֶׁהִתְחִיל הַגֶּשֶׁם. וְאִם תֹּאמַר הוּא אֱלוּל, וַעֲשִׂירִי לְכִסְלֵו שֶׁפָּסַק הַגֶּשֶׁם, כְּשֵׁם שֶׁאַתָּה אוֹמֵר בַּחֹדֶשׁ הַשְּׁבִיעִי סִיוָן, וְהוּא שְׁבִיעִי לַהַפְסָקָה – אִי אֶפְשָׁר לוֹמַר כֵּן, עַל כָּרְחֲךָ שְׁבִיעִי אִי אַתָּה מוֹנֶה אֶלָּא לַהַפְסָקָה, שֶׁהֲרֵי לֹא כָלוּ אַרְבָּעִים יוֹם שֶׁל יְרִידַת גְּשָׁמִים, וּמֵאָה וַחֲמִשִּׁים שֶׁל תִּגְבֹּרֶת הַמַּיִם עַד אֶחָד בְּסִיוָן; וְאִם אַתָּה אוֹמֵר שְׁבִיעִי לַיְרִידָה, אֵין זֶה סִיוָן, וְהָעֲשִׂירִי אִי אֶפְשָׁר לִמְנוֹת אֶלָּא לַיְרִידָה, שֶׁאִם אַתָּה אוֹמֵר לַהַפְסָקָה וְהוּא אֱלוּל, אִי אַתָּה מוֹצֵא בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ; שֶׁהֲרֵי מִקֵּץ אַרְבָּעִים יוֹם מִשֶׁנִּרְאוּ רָאשֵׁי הֶהָרִים שִׁלַּח אֶת הָעוֹרֵב וְכ\"א יוֹם הוֹחִיל בִּשְׁלִיחוּת הַיּוֹנָה, הֲרֵי שִׁשִּׁים יוֹם מִשֶּׁנִּרְאוּ רָאשֵׁי הֶהָרִים עַד שֶׁחָרְבוּ פְנֵי הָאֲדָמָה. וְאִם תֹּאמַר בֶּאֱלוּל נִרְאוּ, נִמְצָא שֶׁחָרְבוּ בְּמַרְחֶשְׁוָן וְהוּא קוֹרֵא אוֹתוֹ רִאשׁוֹן, וְאֵין זֶה אֶלָּא תִּשְׁרֵי, שֶׁהוּא רִאשׁוֹן לִבְרִיאַת עוֹלָם, וְלְרַבִּי יְהוֹשֻׁעַ הוּא נִיסָן:",
+          "en": "בעשירי וגו' נראו ראשי ההרים IN THE TENTH MONTH … WERE THE TOPS OF THE MOUNTAINS SEEN —This was Ab which is the tenth from Marcheshvan when the rain began. If, however, you say that it means Elul, the tenth month from Kislev in which the rain stopped, just as you said (see Rashi on verse 4) that “in the seventh month” means Sivan which was the seventh month after the rain stopped, then I reply that it is impossible to argue so. For you must needs admit that the “seventh” month when the Ark rested can only be counted from the time when the rain stopped, since the 40 days during which the rain fell and the 150 days during which the waters prevailed did not terminate until the first day of Sivan, and if you say that it means the seventh after the rain began to fall, this would not be Sivan. The “tenth month”, however, when the tops of the mountains became visible cannot possibly be counted except from the time the rain began to fall, for if you say that it must be calculated from the time when it stopped, which would be Elul, you would not then find that “in the first month, on the first day of the month the waters dried up from off the earth” (Genesis 8:13). For it was only at the end of 40 days after the tops of the mountains were visible that he sent forth the raven (Genesis 8:6), and he waited periods amounting altogether to 21 days during which he was sending forth the dove, making altogether 60 days from when the tops of the mountains became visible until when the face of the earth became dry; if, therefore, you say that it was in Elul that they were seen, it would follow that the earth became dry in Marcheshvan (60 days after Elul). But it (Scripture) calls it (the month when the waters were dried up; Genesis 8:13) the first month, and that can only be Tishri which is the first month reckoning according to the creation of the world — or according to R. Joshua, it would be Nisan (Genesis Rabbah 30:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:6",
+      "he": "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים י֑וֹם וַיִּפְתַּ֣ח נֹ֔חַ אֶת־חַלּ֥וֹן הַתֵּבָ֖ה אֲשֶׁ֥ר עָשָֽׂה׃",
+      "en": "At the end of forty days, Noah opened the window of the ark that he had made",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מקץ ארבעים יום. מִשֶּׁנִּרְאוּ רָאשֵׁי הֶהָרִים:",
+          "en": "מקץ ארבעים יום AT THE END OF FORTY DAYS from when the tops of the mountains were seen.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את חלון התבה אשר עשה. לְצֹהַר, וְלֹא זֶה פֶּתַח הַתֵּבָה הֶעָשׂוּי לְבִיאָה וִיצִיאָה:",
+          "en": "את חלון התבה אשר עשה THE WINDOW OF THE ARK WHICH HE HAD MADE — for the light; it does not mean the door of the Ark intended for entry and exit.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:7",
+      "he": "וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+      "en": "and sent out the raven; it went to and fro until the waters had dried up from the earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יצוא ושוב. הוֹלֵךְ וּמַקִּיף סְבִיבוֹת הַתֵּבָה, וְלֹא הָלַךְ בִּשְׁלִיחוּתוֹ, שֶׁהָיָה חוֹשְׁדוֹ עַל בַּת זוּגוֹ, כְּמוֹ שֶׁשָּׁנִינוּ בְּאַגָּדַת חֵלֶק (סנה' ק\"ח):",
+          "en": "יצא ושוב WENT FORTH TO AND FRO — It (the raven) flew in circles round and round the Ark and did not go on its errand for it suspected that he (Noah) intended to injure its mate, just as we learn in the Agada of Chelek (Sanhedrin 108b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עד יבשת המים. פְּשׁוּטוֹ כְּמַשְׁמָעוֹ. אֲבָל מִדְרַשׁ אַגָּדָה מוּכָן הָיָה הָעוֹרֵב לִשְׁלִיחוּת אַחֶרֶת בַּעֲצִירַת גְּשָׁמִים בִּימֵי אֵלִיָּהוּ, שֶׁנֶּאֱמַר וְהָעֹרְבִים מְבִאִים לוֹ לֶחֶם וּבָשָׂר (מ\"א י\"ז):",
+          "en": "עד יבשת המים UNTIL THE WATERS WERE DRIED UP—The real sense of the verse is what it plainly implies (until the waters of the Flood were dried up); but the Midrashic explanation (Genesis Rabbah 33:5) is: The raven went to and fro in the world being kept in readiness for another errand during the time when the rain was withheld and the waters dried up in the days of Elijah, as it is said, (1 Kings 17:6) “And the ravens brought him bread and flesh”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:8",
+      "he": "וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+      "en": "Then he sent out the dove to see whether the waters had decreased from the surface of the ground.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וישלח את היונה. לְסוֹף ז' יָמִים שֶׁהֲרֵי כְתִיב וַיָּחֶל עוֹד ז' יָמִים אֲחֵרִים, מִכְּלַל זֶה אַתָּה לָמֵד שֶׁאַף בָּרִאשׁוֹנָה הוֹחִיל ז' יָמִים:",
+          "en": "וישלח את היונה AND HE SENT FORTH A DOVE at the end of seven days, for it is written, (Genesis 8:10) “And he stayed yet other seven days” — from this statement you may infer that after the first occasion, also, he waited seven days.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישלח. אֵין זֶה לְשׁוֹן שְׁלִיחוּת אֶלָּא לְשׁוֹן שִׁלּוּח, שִׁלְּחָהּ לָלֶכֶת לְדַרְכָּה, וּבְזוֹ יִרְאֶה אִם קַלּוּ הַמַּיִם, שֶׁאִם תִּמְצָא מָנוֹחַ לֹא תָשׁוּב אֵלָיו:",
+          "en": "וישלח And HE SENT FORTH — This does not mean merely “sending on an errand”, but “sending away”, “letting go” — he freed her to go where she liked, and thus he could see whether the waters abated, because if she could find a resting place she would not return to him.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:9",
+      "he": "וְלֹֽא־מָצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שׇׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה כִּי־מַ֖יִם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה׃",
+      "en": "But the dove could not find a resting place for its foot, and returned to him to the ark, for there was water over all the earth. So putting out his hand, he took it into the ark with him.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 8:10",
+      "he": "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה׃",
+      "en": "He waited another seven days, and again sent out the dove from the ark.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויחל. לְשׁוֹן הַמְתָּנָה, וְכֵן לִי שָׁמְעוּ וְיִחֵלּוּ (איוב כ\"ט), וְהַרְבֵּה יֵשׁ בַּמִּקְרָא:",
+          "en": "ויחל AND HE STAYED — The word means waiting, as (Job 29:21) “Unto me they gave ear and waited (ויחלו)”, and it occurs frequently in the Scriptures.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:11",
+      "he": "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+      "en": "The dove came back to him toward evening, and there in its bill was a plucked-off olive leaf! Then Noah knew that the waters had decreased on the earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "טרף בפיה. אוֹמֵר אֲנִי שֶׁזָּכָר הָיָה, לְכֵן קוֹרְאוֹ פְעָמִים לְשׁוֹן זָכָר וּפְעָמִים לְשׁוֹן נְקֵבָה, לְפִי שֶׁכָּל יוֹנָה שֶׁבַּמִּקְרָא לְשׁוֹן נְקֵבָה, כְּמוֹ כְּיוֹנִים עַל אֲפִיקֵי מָיִם רֹחֲצוֹת (שיר ה'), כְּיוֹנֵי הַגֵּאָיוֹת כֻּלָּם הֹמוֹת (יחז' ז') וּכְמוֹ כְּיוֹנָה פוֹתָה (הושע ז'):",
+          "en": "טרף בפיה PLUCKED IN HER MOUTH — I am of opinion that it (the dove) was a male and that therefore it (the text) speaks of it sometimes as masculine and sometimes as feminine, because really wherever יונה “dove” occurs in the Scriptures it is spoken of as feminine, as (Song 5:12) “[His eyes] are like those of doves beside the water brooks. that are washing themselves (רוחצות fem.) in milk”; (Ezekiel 7:16) “Like the doves of the valleys, all of them moaning\" and as (Hosea 7:11) “Like a silly (פותה fem.) dove”",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "טרף. חָטַף. וּמִדְרַשׁ אַגָּדָה (עיר' י\"ח) לְשׁוֹן מָזוֹן; וְדָרְשׁוּ בְּפִיהָ לְשׁוֹן מַאֲמָר, אָמְרָה יִהְיוּ מְזוֹנוֹתַי מְרוֹרִין כְּזַיִת בְּיָדוֹ שֶׁל הַקָּבָּ\"ה וְלֹא מְתוּקִין כִּדְבַשׁ בִּידֵי בָשָׂר וָדָם:",
+          "en": "טרף means IT HAD PLUCKED OFF — The Midrashic explanation takes it as meaning “food”, and interprets בפיה as “speaking” — viz., she said. “Rather that my food be bitter as an olive but from the hand of God, than as sweet as honey and from the hand of mortal men” (Eruvin 18b; Genesis Rabbah 33).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:12",
+      "he": "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹֽא־יָסְפָ֥ה שׁוּב־אֵלָ֖יו עֽוֹד׃",
+      "en": "He waited still another seven days and sent the dove forth; and it did not return to him anymore.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וייחל. הוּא לְשׁוֹן וַיָּחֶל, אֶלָּא שֶׁזֶּה לְשׁוֹן וַיִּפְעַל וְזֶה לְשׁוֹן וַיִּתְפַּעֵל, וַיָּחֶל – וַיַּמְתֵּן; וַיִּיָּחֶל – וַיִּתְמַתֵּן:",
+          "en": "וייחל AND HE STAYED — This has the same meaning as ויחל (Genesis 8:10), only that the latter is the Kal, whereas the word here is the Hithpael: ויחל means “he waited” וייחל “he had patience”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:13",
+      "he": "וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ וַיָּ֤סַר נֹ֙חַ֙ אֶת־מִכְסֵ֣ה הַתֵּבָ֔ה וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃",
+      "en": "In the six hundred and first year, in the first month, on the first of the month, the waters began to dry from the earth; and when Noah removed the covering of the ark, he saw that the surface of the ground was drying.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בראשון. לְרַבִּי אֱלִיעֶזֶר הוּא תִּשְׁרֵי וּלְרַבִּי יְהוֹשֻׁעַ הוּא נִיסָן (ר\"ה י\"א):",
+          "en": "בראשׂון IN THE FIRST MONTH — According to R. Eliezer this would be Tishri, and according to R. Joshua Nisan (Rosh Hashanah 11b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "חרבו. נַעֲשָׂה כְמִין טִיט, שֶׁקָּרְמוּ פָנֶיהָ שֶׁל מַעְלָה:",
+          "en": "חרבו [THE WATERS] DRIED UP — It (the earth) had become like clay, for now its surface had become somewhat hardened.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:14",
+      "he": "וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ יָבְשָׁ֖ה הָאָֽרֶץ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "And in the second month, on the twenty-seventh day of the month, the earth was dry.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בשבעה ועשרים. יְרִידָתָן בַּחֹדֶשׁ הַשֵּׁנִי בְי\"ז בַּחֹדֶשׁ, אֵלּוּ י\"א יָמִים שֶׁהַחַמָּה יְתֵרָה עַל הַלְּבָנָה, שֶׁמִּשְׁפַּט דוֹר הַמַּבּוּל שָׁנָה תְמִימָה הָיָה:",
+          "en": "בשבעה ועשרים ON THE TWENTY-SEVENTH [OF THE MONTH] —The rain had begun to fall in the second month on the seventeenth day (Genesis 7:11): the ten days are those by which the solar year exceeds the lunar year; for the punishment of the generation of the Flood lasted a full (i.e. a solar) year (Genesis Rabbah 33:17).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "יבשה. נַעֲשָׂה גָּרִיד כְּהִלְכָתָהּ:",
+          "en": "יבשה WAS [THE EARTH] DRIED — It became hard as is its normal condition.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:15",
+      "he": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃",
+      "en": "God spoke to Noah, saying,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 8:16",
+      "he": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+      "en": "“Come out of the ark, together with your wife, your sons, and your sons’ wives.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אתה ואשתך וגו'. אִישׁ וְאִשְׁתּוֹ, כָּאן הִתִּיר לָהֶם תַּשְׁמִישׁ הַמִּטָּה:",
+          "en": "’אתה ואשתך וגו THOU AND THY WIFE etc. — Husband and wife are mentioned together— now He allowed them to resume family life (Genesis Rabbah 34:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:17",
+      "he": "כׇּל־הַחַיָּ֨ה אֲשֶֽׁר־אִתְּךָ֜ מִכׇּל־בָּשָׂ֗ר בָּע֧וֹף וּבַבְּהֵמָ֛ה וּבְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ (הוצא) [הַיְצֵ֣א] אִתָּ֑ךְ וְשָֽׁרְצ֣וּ בָאָ֔רֶץ וּפָר֥וּ וְרָב֖וּ עַל־הָאָֽרֶץ׃",
+      "en": "Bring out with you every living thing of all flesh that is with you: birds, animals, and everything that creeps on earth; and let them swarm on the earth and be fertile and increase on earth.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הוצא. הוֹצֵא כְּתִיב, הַיְצֵא קְרִי, הַיְצֵא – אֱמֹר לָהֶם שֶׁיֵּצְאוּ; הוֹצֵא – אִם אֵינָם רוֹצִים לָצֵאת הוֹצִיאֵם אַתָּה:",
+          "en": "הוצא BRING FORTH — The Ketib is הוצא and the Keri היצא — ;היצא means, “tell them to go forth”, הוצא means, ‘‘if they do not wish (if they refuse) to go forth, you make them go out”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ושרצו בארץ. וְלֹא בַּתֵּבָה, מַגִּיד שֶׁאַף הַבְּהֵמָה וְהָעוֹף נֶאֱסְרוּ בְתַשְׁמִישׁ:",
+          "en": "ושרצו בארץ THAT THEY MAY BRING FORTH ABUNDANTLY IN THE EARTH but not in the Ark: this teaches that cattle and fowls also were separated, male and female, in the Ark (Genesis Rabbah 34:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:18",
+      "he": "וַיֵּ֖צֵא־נֹ֑חַ וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־בָנָ֖יו אִתּֽוֹ׃",
+      "en": "So Noah came out, together with his sons, his wife, and his sons’ wives.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 8:19",
+      "he": "כׇּל־הַֽחַיָּ֗ה כׇּל־הָרֶ֙מֶשׂ֙ וְכׇל־הָע֔וֹף כֹּ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ לְמִשְׁפְּחֹ֣תֵיהֶ֔ם יָצְא֖וּ מִן־הַתֵּבָֽה׃",
+      "en": "Every animal, every creeping thing, and every bird, everything that stirs on earth came out of the ark by families.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "למשפחותיהם. קִבְּלוּ עֲלֵיהֶם עַל מְנָת לִדָּבֵק בְּמִינָן:",
+          "en": "למשפחתיהם AFTER THEIR FAMILIES — They took upon themselves to keep to their specie.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:20",
+      "he": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל&thinsp;׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+      "en": "Then Noah built an altar to GOD and, taking of every pure animal and of every pure bird, he offered burnt offerings on the altar.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מכל הבהמה הטהורה. אָמַר לֹא צִוָּה לִי הַקָּבָּ\"ה לְהַכְנִיס מֵאֵלּוּ ז' ז' אֶלָּא כְּדֵי לְהַקְרִיב קָרְבָּן מֵהֶם:",
+          "en": "מכל הבהמה הטהרה OF ALL CLEAN CATTLE — He said: “The Holy One, blessed be He, ordered me to take in seven pairs of these only in order that I might offer a sacrifice of them” (Genesis Rabbah 34:9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:21",
+      "he": "וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃",
+      "en": "GOD smelled the pleasing odor, and GOD resolved: “Never again will I doom the earth because of humankind, since the devisings of the human mind are evil from youth; nor will I ever again destroy every living being, as I have done.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מנעריו. מנעריו כְּתִיב, מִשֶּׁנִּנְעַר לָצֵאת מִמְּעֵי אִמּוֹ נִתַּן בּוֹ יֵצֶר הָרָע:",
+          "en": ". מנעריו FROM HIS YOUTH — This word is written without a Vav after the ע so that it may be read as מנעריו which would imply that from the moment the embryo bestirs itself to have an independent existence the evil inclination is given to it (Genesis Rabbah 34:10).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לא אסף ולא אסף. כָּפַל הַדָּבָר לִשְׁבוּעָה; הוּא שֶׁכָּתוּב אֲשֶׁר נִשְׁבַּעְתִּי מֵעֲבֹר מֵי נֹחַ, וְלֹא מָצִינוּ בָהּ שְׁבוּעָה, אֶלָּא זוֹ שֶׁכָּפַל דְּבָרָיו וְהִיא שְׁבוּעָה וְכֵן דָּרְשׁוּ חֲכָמִים בְּמס' שְׁבוּעוֹת:",
+          "en": "לא אסף… ולא אסף I WILL NEVER AGAIN … NEITHER WILL I EVER AGAIN — He repeated the expression that it might serve as a solemn oath, and it is to this that the text (Isaiah 54:9) refers: “For as I have sworn that the waters of Noah [will never again pass over the earth]”. We, however, do not find any explicit oath regarding this, but this passage in which He repeated these words, which may be regarded as an oath. Thus do our Sages explain in Treatise Shevuot 36a.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 8:22",
+      "he": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+      "en": "So long as the earth endures, Seedtime and harvest, Cold and heat, Summer and winter, Day and night Shall not cease.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "עוד כל ימי הארץ וגו' לא ישבתו. ו' עִתִּים הַלָּלוּ שְׁנֵי חֳדָשִׁים לְכָל אֶחָד וְאֶחָד, כְּמוֹ שֶׁשָּׁנִינוּ חֲצִי תִשְׁרֵי וּמַרְחֶשְׁוָן וַחֲצִי כִסְלֵו זֶרַע, חֲצִי כִסְלֵו וְטֵבֵת וַחֲצִי שְׁבָט קֹר (חֹרֶף) (ב\"מ ק\"ו):",
+          "en": "עוד כל ימי הארץ וגו' לא ישבתו WHILE THE EARTH REMAINETH … SHALL NOT CEASE — Of these six seasons each consists of two months, as we have learned (Bava Metzia 106b): Half of Tishri, Marcheshvan and half of Kislev is seedtime; half of Kislev, Tebeth and half of Shebat is the cold-season.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "קור. קָשֶׁה מֵחֹרֶף:",
+          "en": "קור COLD-SEASON is more severe than חורף winter.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "חרף. עֵת זֶרַע שְׂעוֹרִים וְקִטְנִית הַחֲרִיפִין לְהִתְבַּשֵּׁל מַהֵר, וְהוּא חֲצִי שְׁבָט וַאֲדָר וַחֲצִי נִיסָן:",
+          "en": "חורף WINTER is the time of sowing barley and pulse which are quick (חריף) to ripen. It is half of Shebat, Adar and half of Nisan.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "קציר. חֲצִי נִיסָן וְאִיָּר וַחֲצִי סִיוָן:",
+          "en": "קציר HARVEST — Half of Nisan, Eyar, and half of Sivan.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "קיץ. חֲצִי סִיוָן תַּמּוּז וַחֲצִי אָב, הוּא זְמַן לְקִיטַת תְּאֵנִים וּזְמַן שֶׁמְּיַבְּשִׁים אוֹתָן בַּשָּׂדוֹת, וּשְׁמוֹ קַיִץ, כְּמוֹ הַלֶּחֶם וְהַקַּיִץ לֶאֱכוֹל הַנְּעָרִים (ש\"ב ט\"ז):",
+          "en": "קיץ SUMMER — Half of Sivan, Tammuz and half of Ab. This is the time of fig-gathering, the time when they lay them out to dry in the fields. and its name is קיץ “summer-fruittime”, as (2 Samuel 16:2) “And the bread and the summer-fruit (קיץ) for the young men to eat”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 6,
+          "he": "חום. הוּא סוֹף יְמוֹת הַחַמָּה, חֲצִי אָב וֶאֱלוּל וַחֲצִי תִשְׁרֵי, שֶׁהָעוֹלָם חַם בְּיוֹתֵר; כְּמוֹ שֶׁשָּׁנִינוּ בְּמַסֶּכֶת יוֹמָא שִׁלְהֵי קַיְיטָא קָשֵׁי מִקַּיְיטָא:",
+          "en": "חום HEAT — This is the end of the hot season, half of Ab, Elul and half of Tishri, when the world is excessively hot, as we have learned in Treatise Yoma 29a: “The end of the summer is worse than the summer itself”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 7,
+          "he": "ויום ולילה לא ישבתו. מִכְּלָל שֶׁשָּׁבְתוּ כָּל יְמוֹת הַמַּבּוּל, שֶׁלֹּא שִׁמְּשׁוּ הַמַּזָּלוֹת, וְלֹא נִכַּר בֵּין יוֹם וּבֵין לַיְלָה (ב\"ר פכ\"ה ופ' ל\"ד):",
+          "en": "ויום ולילה לא ישבתו DAY AND NIGHT SHALL NOT CEASE — From this we may infer that they (day and night) ceased during the period of the Flood, for the planetary system did not function, so that there was no distinction between day and night (Genesis Rabbah 34:11).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 8,
+          "he": "לא ישבתו. לֹא יִפְסְקוּ כָּל אֵלֶה מִלְּהִתְנַהֵג כְּסִדְרָן:",
+          "en": "לא ישבתו SHALL NOT CEASE — None of these shall cease to take their natural course.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:1",
+      "he": "וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת־נֹ֖חַ וְאֶת־בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ אֶת־הָאָֽרֶץ׃",
+      "en": "God blessed Noah and his sons, and said to them, “Be fertile and increase, and fill the earth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:2",
+      "he": "וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כׇּל־חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כׇּל־ע֣וֹף הַשָּׁמָ֑יִם בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכׇל־דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ׃",
+      "en": "The fear and the dread of you shall be upon all the animals of the earth and upon all the birds of the sky—everything with which the earth is astir—and upon all the fish of the sea; they are given into your hand.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וחתכם. וְאֵימַתְכֶם, כְּמוֹ תִּרְאוּ חֲתַת (איוב ו') וְאַגָּדָה לְשׁוֹן חַיּוּת שֶׁכָּל זְמַן שֶׁתִּינוֹק בֶּן יוֹמוֹ חַי אֵין אַתָּה צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים; עוֹג מֶלֶךְ הַבָּשָׁן מֵת, צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים, שֶׁנֶּאֱמַר וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה, אֵימָתַי יִהְיֶה מוֹרַאֲכֶם עַל הַחַיּוֹת? כָּל זְמַן שֶׁאַתֶּם חַיִּים (שבת קנ\"א):",
+          "en": "וחתכם means AND THE DREAD OF YOU, similar to (Job 6:21) “ye see a terror (חתת).\" The Agada takes the word as signifying “life”, “vitality” (חיות): So long as a baby, even one day old, has life you do not have to guard it against the attacks of mice, whilst Og, king of Bashan, when dead needs to be guarded against the attacks of mice, as it is said, “And the fear of you and the terror of you shall be [upon the beasts of the field etc.].” When will the fear of you be upon the beasts? So long as you are alive (חתכם) (Shabbat 151b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:3",
+      "he": "כׇּל־רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא־חַ֔י לָכֶ֥ם יִהְיֶ֖ה לְאׇכְלָ֑ה כְּיֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָכֶ֖ם אֶת־כֹּֽל׃",
+      "en": "Every creature that lives shall be yours to eat; as with the green grasses, I give you all these.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לכם יהיה לאכלה. שֶׁלֹּא הִרְשֵׁיתִי לְאָדָם הָרִאשׁוֹן בָּשָׂר אֶלָּא יֶרֶק עֵשֶׂב; וְלָכֶם – כְּיֶרֶק עֵשֶׂב שֶׁהִפְקַרְתִּי לְאָדָם הָרִאשׁוֹן, נָתַתִּי לָכֶם אֶת כֹּל (סנה' נ\"ט):",
+          "en": "לכם יהיה לאכלה SHALL BE FOOD FOR YOU — For I did not permit Adam Harishon to eat meat, but green herbs alone; but lo you — even as the green herbs that I gave the full use of to Adam Harishon — do I give everything (Sanhedrin 59b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:4",
+      "he": "אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃",
+      "en": "You must not, however, eat flesh with its life-blood in it.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בשר בנפשו. אָסַר לָהֶם אֵבֶר מִן הַחַי, כְּלוֹמַר כָּל זְמַן שֶׁנַּפְשׁוֹ בּוֹ, לֹא תֹאכְלוּ הַבָּשָׂר:",
+          "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בנפשו דמו. בְעוֹד נַפְשׁוֹ בּוֹ",
+          "en": "בנפשו דמו (literally, its blood together with its life) means whilst its (the animal’s) life is still in it (the blood).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "בשר בנפשו לא תאכלו. הֲרֵי אֵבֶר מִן הַחַי, וְאַף בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ, הֲרֵי דָם מִן הַחַי:",
+          "en": "Consequently בשר בנפשו לא תאכלו FLESH SO LONG AS THERE IS LIFE IN IT SHALL YE NOT EAT forms the prohibition of אבר מן החי the eating of a limb cut from a living animal. And connecting בנפשו with דמו we obtain the reading also בנפשו דמו לא תאכלו ITS BLOOD TOGETHER WITH ITS LIFE SHALL YE NOT EAT which forms the prohibition of partaking of blood of a living animal (Sanhedrin 59a)",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:5",
+      "he": "וְאַ֨ךְ אֶת־דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ מִיַּ֥ד כׇּל־חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת־נֶ֥פֶשׁ הָֽאָדָֽם׃",
+      "en": "But for your own life-blood I will require a reckoning: I will require it of every animal; of humankind, too, will I require a reckoning for human life, of everyone for each other!",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואך את דמכם. אַעַ\"פִּ שֶׁהִתַּרְתִּי לָכֶם נְטִילַת נְשָׁמָה בַּבְּהֵמָה, אֶת דִּמְכֶם אֶדְרֹשׁ מֵהַשּׁוֹפֵךְ דַּם עַצְמוֹ:",
+          "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לנפשתיכם. אַף הַחוֹנֵק עַצְמוֹ, אַף עַל פִּי שֶׁלֹּא יָצָא מִמֶּנּוּ דָם:",
+          "en": "לנפשותיכם YOUR LIFE — Even though one strangles himself (Genesis Rabbah 34:13) so that no blood flows from him yet I will require it from him.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "מיד כל חיה. לְפִי שֶׁחָטְאוּ דוֹר הַמַּבּוּל וְהֻפְקְרוּ לְמַאֲכַל חַיּוֹת רָעוֹת לִשְׁלֹט בָּהֶן, שֶׁנֶּאֱמַר נִמְשַׁל כַּבְּהֵמוֹת נִדְמוּ (תהלים מ\"ט), לְפִיכָךְ הֻצְרַךְ לְהַזְהִיר עֲלֵיהֶן אֶת הַחַיּוֹת:",
+          "en": "מיד כל חיה AT THE HAND OF EVERY BEAST — Because the generation of the Flood sinned and they were therefore freely exposed to become food for wild beasts which would have power over them — as it is said (Psalms 49:21), “He is ruled over by wild beasts like the beasts that perish” (these being the prey of other animals) (Shabbat 151b) — it was therefore necessary to proclaim a punishment against wild animals on their account.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ומיד האדם. מִיַּד הַהוֹרֵג בְּמֵזִיד וְאֵין עֵדִים, אֲנִי אֶדְרֹשׁ:",
+          "en": "ומיד האדם AT THE HAND OF MAN — At the hand of one who kills with premeditation, when there are no witnesses to the murder, will “I” require it.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "מיד איש אחיו. שֶׁהוּא אוֹהֵב לוֹ כְאָח וְהָרַג שׁוֹגֵג, אֲנִי אֶדְרֹשׁ אִם לֹא יִגְלֶה וִיבַקֵּשׁ עַל עֲוֹנוֹ לִמָּחֵל, שֶׁאַף הַשּׁוֹגֵג צָרִיךְ כַּפָּרָה, וְאִם אֵין עֵדִים לְחַיְּבוֹ גָלוּת וְהוּא אֵינוֹ נִכְנָע, הַקָּבָּ\"ה דוֹרֵש מִמֶּנוּ, כְּמוֹ שֶׁדָּרְשוּ רַבּוֹתֵינוּ \"וְהָאֱלֹהִים אִנָּה לְיָדוֹ\" – בְּמַסֶּכֶת מַכּוֹת – הַקָּבָּ\"ה מְזַמְּנָן לְפֻנְדָּק אֶחָד וְכוּ':",
+          "en": "מיד איש אחיו AT THE HAND OF EVERY MAN’S BROTHER — At the hand of a man who loves him like a brother and slays him accidentally will “I” require it, unless he go into banishment (in one of the Cities of Refuge) and pray for forgiveness for his iniquity. For even one who kills another by accident needs atonement: therefore if there are no witnesses to the deed to make him liable to banishment and he does not humble himself, the Holy One, blessed be He, will require it of him, just as our Rabbis explain the text, (Exodus 21:13) ‘‘But God causes it to come to hand”, in Treatise Makkot (Makkot 10b): The Holy One, blessed be He, causes them (the man who killed by accident and had not expiated the murder and the man who killed with premeditation) to meet at the same inn. The former in ascending a ladder falls upon the latter and kills him and has therefore — the accident having been seen by men — to go to banishment.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:6",
+      "he": "שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת־הָאָדָֽם׃",
+      "en": "Whoever sheds human blood, By human [hands] shall their blood be shed; For in the image of God Was humankind made.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "באדם דמו ישפך. אִם יֵשׁ עֵדִים הֲמִיתוּהוּ אַתֶּם, לָמָּה? כִּי בְצֶלֶם אֱלֹהִים וגו':",
+          "en": "באדם דמו ישפך BY MAN SHALL HIS BLOOD BE SHED — If there are witnesses you kill him. Why? Because in the image of God [made He man] and he has destroyed the Divine image (Genesis Rabbah 34:14)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "עשה את האדם. זֶה מִקְרָא חָסֵר, וְצָרִיךְ לִהְיוֹת עָשָׂה הָעוֹשֶׂה אֶת הָאָדָם וְכֵן הַרְבֵּה בַּמִּקְרָא:",
+          "en": "עשה את האדם HE MADE MAN — This verse is abbreviated and should be “the Maker made man”; there are many similar expressions in the Scriptures.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:7",
+      "he": "וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ שִׁרְצ֥וּ בָאָ֖רֶץ וּרְבוּ־בָֽהּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Be fertile, then, and increase; abound on the earth and increase on it.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואתם פרו ורבו. לְפִי פְּשׁוּטוֹ הָרִאשׁוֹנָה לִבְרָכָה וְכָאן לְצִוּוּי. וּלְפִי מִדְרָשׁוֹ לְהַקִּישׁ מִי שֶׁאֵינוֹ עוֹסֵק בִּפְרִיָּה וּרְבִיָּה לְשׁוֹפֵךְ דָּמִים (יבמות ס\"ג):",
+          "en": "ואתם פרו ורבו AND YE, BE FRUITFUL AND MULTIPLY — According to the real sense, the first time this was said to man (Genesis 9:1) it was said as a blessing (an assurance that they would be fruitful); here it is a command (Ketubot 5a). According to the Midrashic explanation this command is mentioned here after the mention of murder in order to liken one who abstains from having children to one who sheds blood (Yevamot 63b).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:8",
+      "he": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־נֹ֔חַ וְאֶל־בָּנָ֥יו אִתּ֖וֹ לֵאמֹֽר׃",
+      "en": "And God said to Noah and to his sons with him,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:9",
+      "he": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+      "en": "“I now establish My covenant with you and your offspring to come,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואני הנני. מַסְכִּים אֲנִי עִמְּךָ, שֶׁהָיָה נֹחַ דוֹאֵג לַעֲסֹק בִּפְרִיָּה וּרְבִיָּה עַד שֶׁהִבְטִיחוֹ הַקָּבָּ\"ה שֶׁלֹּא לְשַׁחֵת הָעוֹלָם עוֹד, וְכֵן עָשָׂה וּבָאַחֲרוֹנָה אָמַר לוֹ הִנְנִי מַסְכִּים לַעֲשׂוֹת קִיּוּם וְחִזּוּק בְּרִית לְהַבְטָחָתִי וְאֶתֵּן לְךָ אוֹת:",
+          "en": "ואני הנני AND I BEHOLD I — “I am in agreement with you”; He said this because Noah feared to fulfil the duty of propagating the species until the Holy One, blessed be He, promised him that he would not again destroy the world and this promise God made (Midrash Tanchuma, Noach 11). Ultimately He said to him, “If you are still anxious I am willing to give to My promise the permanence and strength of a covenant and I will give you a sign.”",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:10",
+      "he": "וְאֵ֨ת כׇּל־נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּע֧וֹף בַּבְּהֵמָ֛ה וּֽבְכׇל־חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם מִכֹּל֙ יֹצְאֵ֣י הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃",
+      "en": "and with every living thing that is with you—birds, cattle, and every wild beast as well—all that have come out of the ark, every living thing on earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חית הארץ אתכם. הֵם הַמִּתְהַלְּכִים עִם הַבְּרִיּוֹת:",
+          "en": "חית הארץ אתכם AND EVERY ANIMAL OF THE EARTH WITH YOU or, THAT ARE WITH YOU — those which go about with human beings.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "מכל יוצאי התבה. לְהָבִיא שְׁקָצִים וּרְמָשִׂים:",
+          "en": "מכל יוצאי התבה OF ALL THAT GO OUT OF THE ARK — These words would include creeping things and reptiles.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "חית הארץ. לְהָבִיא הַמַּזִּיקִין, שֶׁאֵינָן בִּכְלַל הַחַיָּה אֲשֶׁר אִתְּכֶם, שֶׁאֵין הִלּוּכָן עִם הַבְּרִיוֹת:",
+          "en": "חית הארץ [EVEN EVERY] BEAST OF THE EARTH — These words are intended to include dangerous animals which cannot be included in the above description, “every living creature that is with you” — for these do not go about with human beings.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:11",
+      "he": "וַהֲקִמֹתִ֤י אֶת־בְּרִיתִי֙ אִתְּכֶ֔ם וְלֹֽא־יִכָּרֵ֧ת כׇּל־בָּשָׂ֛ר ע֖וֹד מִמֵּ֣י הַמַּבּ֑וּל וְלֹֽא־יִהְיֶ֥ה ע֛וֹד מַבּ֖וּל לְשַׁחֵ֥ת הָאָֽרֶץ׃",
+      "en": "I will maintain My covenant with you: never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "והקמותי. אֶעֱשֶׂה קִיּוּם לִבְרִיתִי. וּמַהוּ קִיּוּמוֹ? אוֹת הַקֶּשֶׁת כְּמוֹ שֶׁמְּסַיֵּם וְהוֹלֵךְ:",
+          "en": "והקמתי AND I WILL ESTABLISH — I will give confirmation to my covenant; and in what consists this confirmation? “The sign of the rainbow”, as it goes on explaining at the end.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:12",
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁר־אֲנִ֣י נֹתֵ֗ן בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כׇּל־נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּכֶ֑ם לְדֹרֹ֖ת עוֹלָֽם׃",
+      "en": "God further said, “This is the sign that I set for the covenant between Me and you, and every living creature with you, for all ages to come.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לדרת עולם. נִכְתַּב חָסֵר, שֶׁיֵּשׁ דּוֹרוֹת שֶׁלֹּא הֻצְרְכוּ לְאוֹת לְפִי שֶׁצַּדִּיקִים גְּמוּרִים הָיוּ, כְּמוֹ דּוֹרוֹ שֶׁל חִזְקִיָּהוּ מֶלֶךְ יְהוּדָה וְדוֹרוֹ שֶׁל רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי (ב\"ר):",
+          "en": "לדרת עולם FOR GENERATIONS FOR EVER — The word לדרת “for generations” is written defective (without Vav) (implying that the sign will be necessary only for such generations as are “defective’’ in faith) because there will be some generations which will require no sign since they were completely righteous, such as the generation of Hezekiah, king of Judah, and the generation of R. Simeon ben Yochai (Genesis Rabbah 35:2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:13",
+      "he": "אֶת־קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ׃",
+      "en": "I have set My bow in the clouds, and it shall serve as a sign of the covenant between Me and the earth.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:14",
+      "he": "וְהָיָ֕ה בְּעַֽנְנִ֥י עָנָ֖ן עַל־הָאָ֑רֶץ וְנִרְאֲתָ֥ה הַקֶּ֖שֶׁת בֶּעָנָֽן׃",
+      "en": "When I bring clouds over the earth, and the bow appears in the clouds,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בענני ענן. כְּשֶׁתַּעֲלֶה בְמַחֲשָׁבָה לְפָנַי לְהָבִיא חֹשֶׁךְ וַאֲבַדּוֹן לָעוֹלָם:",
+          "en": "בענני ענן WHEN I BRING A CLOUD — When I have it in mind to bring darkness and destruction upon the world.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:15",
+      "he": "וְזָכַרְתִּ֣י אֶת־בְּרִיתִ֗י אֲשֶׁ֤ר בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כׇּל־נֶ֥פֶשׁ חַיָּ֖ה בְּכׇל־בָּשָׂ֑ר וְלֹֽא־יִֽהְיֶ֨ה ע֤וֹד הַמַּ֙יִם֙ לְמַבּ֔וּל לְשַׁחֵ֖ת כׇּל־בָּשָֽׂר׃",
+      "en": "I will remember My covenant between Me and you and every living creature among all flesh, so that the waters shall never again become a flood to destroy all flesh.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:16",
+      "he": "וְהָיְתָ֥ה הַקֶּ֖שֶׁת בֶּֽעָנָ֑ן וּרְאִיתִ֗יהָ לִזְכֹּר֙ בְּרִ֣ית עוֹלָ֔ם בֵּ֣ין אֱלֹהִ֔ים וּבֵין֙ כׇּל־נֶ֣פֶשׁ חַיָּ֔ה בְּכׇל־בָּשָׂ֖ר אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃",
+      "en": "When the bow is in the clouds, I will see it and remember the everlasting covenant between God and all living creatures, all flesh that is on earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בין אלהים ובין כל נפש חיה. בֵּין מִדַּת הַדִּין שֶׁל מַעְלָה וּבֵינֵיכֶם, שֶׁהָיָה לוֹ לִכְתֹּב בֵּינִי וּבֵין כָּל נֶפֶשׁ חַיָּה, אֶלָּא זֶהוּ מִדְרָשׁוֹ כְּשֶׁתָּבֹא מִדַּת הַדִּין לְקַטְרֵג עֲלֵיכֶם לְחַיֵּב אֶתְכֶם, אֲנִי רוֹאֶה אֶת הָאוֹת וְנִזְכָּר:",
+          "en": "בין אלהים ובין כל נפש חיה BETWEEN GOD AND EVERY LIVING SOUL — Between Divine Justice and you; for otherwise it should have written “between Me and every living thing”. But this is its explanation: when Justice will come to accuse and condemn you I will look upon the sign and remember the covenant (see Genesis Rabbah 35:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:17",
+      "he": "וַיֹּ֥אמֶר אֱלֹהִ֖ים אֶל־נֹ֑חַ זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁ֣ר הֲקִמֹ֔תִי בֵּינִ֕י וּבֵ֥ין כׇּל־בָּשָׂ֖ר אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃&nbsp;{פ}",
+      "en": "That,” God said to Noah, “shall be the sign of the covenant that I have established between Me and all flesh that is on earth.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "זאת אות הברית. הֶרְאָהוּ הַקֶּשֶׁת וְאָמַר לוֹ הֲרֵי הָאוֹת שֶׁאָמַרְתִּי:",
+          "en": "זאת אות הברית THIS IS THE SIGN OF THE COVENANT — He pointed to the rainbow, and said to him, “This is the sign of which I have spoken.”",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:18",
+      "he": "וַיִּֽהְי֣וּ בְנֵי־נֹ֗חַ הַיֹּֽצְאִים֙ מִן־הַתֵּבָ֔ה שֵׁ֖ם וְחָ֣ם וָיָ֑פֶת וְחָ֕ם ה֖וּא אֲבִ֥י כְנָֽעַן׃",
+      "en": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth—Ham being the father of Canaan.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וחם הוא אבי כנען. לָמָּה הֻצְרַךְ לוֹמַר כָּאן? לְפִי שֶׁהַפָּרָשָׁה עֲסוּקָה וּבָאָה בְּשִׁכְרוּתוֹ שֶׁל נֹחַ שֶׁקִּלְקֵל בָּה חָם וְעַל יָדוֹ נִתְקַלֵּל כְּנַעַן, וַעֲדַיִן לֹא כָתַב תּוֹלְדוֹת חָם, וְלֹא יָדַעְנוּ שֶׁכְּנַעַן בְּנוֹ – לְפִיכָךְ הֻצְרַךְ לוֹמַר כָּאן וְחָם הוּא אֲבִי כְנָעַן:",
+          "en": "וחם הוא אבי כנען AND HAM IS THE FATHER OF CANAAN — Why is it necessary to mention this here? Because this section goes on to deal with the account of Noah’s drunkenness when Ham sinned and through him Canaan was cursed. Now as the generations of Ham have not yet been mentioned and we therefore would not know that Canaan was his son, it was necessary to state here that “Ham is the father of Canaan”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:19",
+      "he": "שְׁלֹשָׁ֥ה אֵ֖לֶּה בְּנֵי־נֹ֑חַ וּמֵאֵ֖לֶּה נָֽפְצָ֥ה כׇל־הָאָֽרֶץ׃",
+      "en": "These three were the sons of Noah, and from these the whole world branched out.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:20",
+      "he": "וַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה וַיִּטַּ֖ע כָּֽרֶם׃",
+      "en": "Noah, the tiller of the soil,athe tiller of the soil Or “a man of the soil.” was the first to plant a vineyard.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויחל. עָשָׂה עַצְמוֹ חֻלִּין, שֶׁהָיָה לוֹ לַעֲסֹק תְּחִלָּה בִּנְטִיעָה אַחֶרֶת (ב\"ר):",
+          "en": "ויחל [AND NOAH] BEGAN — (The word may be connected also with a root meaning “profane”) He profaned (degraded) himself, for he should have occupied himself first with planting something different (Genesis Rabbah 36:3).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "איש האדמה. אֲדוֹנֵי הָאֲדָמָה כְּמוֹ אִישׁ נָעֳמִי (רות א'):",
+          "en": "איש האדמה A MAN OF THE GROUND — The master (owner, lord) of the ground; similar to Ruth 1:3 איש נעמי “The husband (lord) of Naomi”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ויטע כרם. כְּשֶׁנִּכְנַס לַתֵּבָה הִכְנִיס עִמּוֹ זְמוֹרוֹת וְיִחוּרֵי תְאֵנִים (ב\"ר):",
+          "en": "ויטע כרם AND HE PLANTED A VINEYARD — When he went into the Ark he had taken with him vine-branches and shoots of fig trees (Genesis Rabbah 36:3).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:21",
+      "he": "וַיֵּ֥שְׁתְּ מִן־הַיַּ֖יִן וַיִּשְׁכָּ֑ר וַיִּתְגַּ֖ל בְּת֥וֹךְ אׇהֳלֹֽה׃",
+      "en": "He drank of the wine and became drunk, and he uncovered himself within his tent.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויתגל. לְשׁוֹן וַיִּתְפַּעֵל:",
+          "en": "ויתגל AND HE UNCOVERED HIMSELF — This is the Hithpael form.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אהלה. אהלה כְּתִיב, רֶמֶז לְי' שְׁבָטִים שֶׁנִּקְרְאוּ עַל שֵׁם שׁוֹמְרוֹן, שֶׁנִּקְרֵאת אָהֳלָה שֶׁגָּלוּ עַל עִסְקֵי הַיַּיִן שֶׁנֶּאֱמַר הַשֹּׁתִים בְּמִזְרְקֵי יַיִן (עמוס ו'):",
+          "en": "אהלה HIS TENT — This word is written אהלה (with ה at end instead of ו) so that it may be regarded as an allusion to the ten tribes who were spoken of as Samaria which was called “אהלה” Ohala and who were exiled because of indulgence in wine, at it is said (Amos 6:6) ‘‘that drink wine in bowls”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:22",
+      "he": "וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי־אֶחָ֖יו בַּחֽוּץ׃",
+      "en": "Ham, the father of Canaan, saw his father’s nakedness and told his two brothers outside.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וירא חם אבי כנען. יֵשׁ מֵרַבּוֹתֵינוּ אוֹמְרִים כְּנַעַן רָאָה וְהִגִּיד לְאָבִיו, לְכָךְ הֻזְכַּר עַל הַדָּבָר וְנִתְקַלֵּל (ב\"ר):",
+          "en": "וירא חם אבי כנען AND HAM THE FATHER OF CANAAN SAW — Some of our Rabbis say that Canaan saw it and told his father about it, and on that account he is mentioned in connection with this matter and was cursed (Genesis Rabbah 36:7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וירא את ערות אביו. יֵשׁ אוֹמְרִים סֵרְסוֹ וְיֵשׁ אוֹמְרִים רְבָעוֹ (סנה' ע'):",
+          "en": "וירא את ערות אביו AND HE SAW HIS FATHER'S NAKEDNESS — Some say that he castrated him and some say that he sodomized him (Sanhedrin 70a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:23",
+      "he": "וַיִּקַּח֩ שֵׁ֨ם וָיֶ֜פֶת אֶת־הַשִּׂמְלָ֗ה וַיָּשִׂ֙ימוּ֙ עַל־שְׁכֶ֣ם שְׁנֵיהֶ֔ם וַיֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית וַיְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִיהֶ֑ם וּפְנֵיהֶם֙ אֲחֹ֣רַנִּ֔ית וְעֶרְוַ֥ת אֲבִיהֶ֖ם לֹ֥א רָאֽוּ׃",
+      "en": "But Shem and Japheth took a cloth, placed it against both their backs and, walking backward, they covered their father’s nakedness; their faces were turned the other way, so that they did not see their father’s nakedness.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויקח שם ויפת. אֵין כְּתִיב וַיִּקְחוּ, אֶלָּא וַיִּקַּח – לִמֵּד עַל שֵׁם שֶׁנִּתְאַמֵּץ בַּמִּצְוָה יוֹתֵר מִיֶּפֶת, לְכָךְ זָכוּ בָנָיו לְטַלִּית שֶׁל צִיצִית, וְיֶפֶת זָכָה לִקְבוּרָה לְבָנָיו, שֶׁנֶאֱמַר אֶתֵּן לְגוֹג מְקוֹם שָׁם קֶבֶר (יחזקאל ל\"ט), וְחָם שֶׁבִּזָּה אֶת אָבִיו נֶאֱמַר בְּזַרְעוֹ כֵּן יִנְהַג מֶלֶךְ אַשּׁוּר אֶת שְׁבִי מִצְרַיִם וְאֶת גָּלוּת כּוּשׁ נְעָרִים וּזְקֵנִים עָרוֹם וְיָחֵף וַחֲשׂוּפַי שֵׁת וְגוֹ' (ישעיהו כ'):",
+          "en": "ויקח שם ויפת AND SHEM AND JAPHETH TOOK — (literally, “And Shem took and Japheth”) It is not written here ויקחו ‘‘And they took”, but ויקח “And he took”, in order to teach regarding Shem that he devoted himself to this duty with more eagerness than Japheth. Therefore have Shem’s sons received the privilege of wearing the cloak that has fringes, and the sons of Japheth were privileged to receive honorable burial, as it is said, (Ezekiel 39:11) “I will give unto Gog (a descendant of Japheth) a place fit for burial [in Israel]”. But as for Ham who despised his father — of his descendants it is said (Isaiah 20:4) “So shall the king of Assyria lead away the captives of Egypt, and the exiles of Ethiopia (these were peopled by the children of Ham) young and old, naked and barefoot and with buttocks uncovered etc.” (Genesis Rabbah 36:6 and Tanchuma 1:2:15).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ופניהם אחורנית. לָמָּה נֶאֱמַר פַּעַם שְׁנִיָּה? מְלַמֵּד שֶׁכְּשֶׁקָּרְבוּ אֶצְלוֹ וְהֻצְרְכוּ לַהֲפֹךְ עַצְמָם לְכַסּוֹתוֹ הָפְכוּ פְנֵיהֶם אֲחוֹרַנִּית:",
+          "en": "ופניהם אחורנית AND THEIR FACES WERE BACKWARD — Wherefore is it written a second time (that they turned themselves backward)? It is to tell us that when they came near to him and it was necessary for them to turn round in order to cover him they kept their faces turned away (Genesis Rabbah 36:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:24",
+      "he": "וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕דַע אֵ֛ת אֲשֶׁר־עָ֥שָׂה ל֖וֹ בְּנ֥וֹ הַקָּטָֽן׃",
+      "en": "When Noah woke up from his wine and learned what his youngest son had done to him,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בנו הקטן. הַפָּסוּל וְהַבָּזוּי, כְּמוֹ הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי בָּאָדָם (ירמיה מ\"ט):",
+          "en": "בנו הקטן HIS YOUNGER SON — The unworthy and despicable one, as (Jeremiah 49:15) “For, behold, I make thee small (קטן) among the nations, and despised among men\" (Genesis Rabbah 36:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:25",
+      "he": "וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְאֶחָֽיו׃",
+      "en": "he said, “Cursed be Canaan; The lowest of slaves Shall he be to his brothers.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ארור כנען. אַתָּה גָרַמְתָּ לִי שֶׁלֹּא אוֹלִיד בֵּן רְבִיעִי אַחֵר לְשַׁמְּשֵׁנִי, אָרוּר בִּנְךָ רְבִיעִי לִהְיוֹת מְשַׁמֵּשׁ אֶת זַרְעָם שֶׁל אֵלּוּ הַגְּדוֹלִים, שֶׁהוּטַל עֲלֵיהֶם טֹרַח עֲבוֹדָתִי מֵעַתָּה. וּמָה רָאָה חָם שֶׁסֵּרְסוֹ? אָמַר לָהֶם לְאֶחָיו אָדָם הָרִאשׁוֹן שְׁנֵי בָנִים הָיוּ לוֹ, וְהָרַג זֶה אֶת זֶה בִּשְׁבִיל יְרֻשַּׁת הָעוֹלָם, וְאָבִינוּ יֵשׁ לוֹ ג' בָּנִים וְעוֹדֶנּוּ מְבַקֵּשׁ בֵּן רְבִיעִי:",
+          "en": "ארור כנען CURSED BE CANAAN — You have brought it about that I cannot beget a fourth son to serve me; cursed, therefore, be your fourth son (see Chap. 10:6) to serve under the descendants of these elder ones upon whom the duty of serving me will devolve from now on. Why did Ham maltreat him in this manner? He said to his brothers, “Adam Harishon had two sons and one killed the other in order that he might possess the whole world(Genesis Rabbah 36:7): our father already has three sons, and he wishes to have yet another “.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:26",
+      "he": "וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃",
+      "en": "And he said, “Blessed be the ETERNAL, The God of Shem; Let Canaan be a slave to them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ברוך ה' אלהי שם. שֶׁעָתִיד לִשְׁמֹר הַבְטָחָתוֹ לְזַרְעוֹ, לָתֵת לָהֶם אֶת אֶרֶץ כְּנַעַן:",
+          "en": "ברוך ה' אלהי שם BLESSED BE THE ETERNAL, THE GOD OF SHEM, who will in days to come carry out his promise to his descendants to give them the land of Canaan.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויהי. לָהֶם כְּנַעַן לְמַס עוֹבֵד:",
+          "en": "ויהי AND MAY HE BE — Canaan — their servant serving and paying tribute (Cp. Josh. 16:10).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:27",
+      "he": "יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאׇֽהֳלֵי־שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃",
+      "en": "May God enlargebenlarge Heb. yapht, play on Heb. yepheth “Japheth.” Japheth, And let him dwell in the tents of Shem; And let Canaan be a slave to them.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יפת אלהים ליפת. מְתֻרְגָּם יַפְתֵּי, יַרְחִיב:",
+          "en": "יפת אלהים ליפת MAY GOD ENLARGE JAPHETH — The Targum renders the verb by יפתי meaning, “may He extend”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "וישכן באהלי שם. יַשְׁרֶה שְׁכִינָתוֹ בְּיִשְׂרָאֵל. וּמִדְרַשׁ חֲכָמִים אַעַ\"פִּ שֶׁיַּפְתְּ אֱלֹהִים לְיֶפֶת – שֶׁבָּנָה כֹּרֶשׁ, שֶׁהָיָה מִבְּנֵי יֶפֶת, בַּיִת שֵׁנִי – לֹא שָׁרְתָה בּוֹ שְׁכִינָה; וְהֵיכָן שָׁרְתָה? בְּמִקְדָשׁ רִאשׁוֹן שֶׁבָּנָה שְׁלֹמֹה שֶׁהָיָה מִבְּנֵי שֵׁם:",
+          "en": "וישכון באהלי שם AND MAY HE DWELL IN THE TENTS OF SHEM — may He make His Divine Presence (Shechinah) dwell in Israel. According to the Midrashic exposition of the Sages (Yoma 10a) it means: Although God enlarged Japheth inasmuch that Cyrus, who was a descendant of Japheth, built the second Temple, yet the Shechinah did not dwell in it. Where, then, did it dwell? In the first Temple which Solomon, a descendant of Shem, built.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ויהי כנען עבד למו. אַף מִשֶּׁיִּגְלוּ בְנֵי שֵׁם יִמָּכְרוּ לָהֶם עֲבָדִים מִבְּנֵי כְּנַעַן:",
+          "en": "ויהי כנען עבד למו AND MAY CANAAN BE SERVANT TO THEM — Even when the children of Shem be in exile, children of Canaan will be sold to them as slaves.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 9:28",
+      "he": "וַֽיְחִי־נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה׃",
+      "en": "Noah lived after the Flood 350 years.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 9:29",
+      "he": "וַיִּֽהְיוּ֙*(בספרי ספרד ואשכנז וַֽיְהִי֙) כׇּל־יְמֵי־נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃&nbsp;{פ}",
+      "en": "And all the days of Noah came to 950 years; then he died.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:1",
+      "he": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת בְּנֵי־נֹ֔חַ שֵׁ֖ם חָ֣ם וָיָ֑פֶת וַיִּוָּלְד֥וּ לָהֶ֛ם בָּנִ֖ים אַחַ֥ר הַמַּבּֽוּל׃",
+      "en": "These are the lines of Shem, Ham, and Japheth, the sons of Noah: sons were born to them after the Flood.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:2",
+      "he": "בְּנֵ֣י יֶ֔פֶת גֹּ֣מֶר וּמָג֔וֹג וּמָדַ֖י וְיָוָ֣ן וְתֻבָ֑ל וּמֶ֖שֶׁךְ וְתִירָֽס׃",
+      "en": "The descendants of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ותירס. זוֹ פָּרַס (ב\"ר):",
+          "en": "ותירס AND TIRAS — This is Persia (Yoma 10a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:3",
+      "he": "וּבְנֵ֖י גֹּ֑מֶר אַשְׁכְּנַ֥ז וְרִיפַ֖ת וְתֹגַרְמָֽה׃",
+      "en": "The descendants of Gomer: Ashkenaz, Riphath, and Togarmah.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:4",
+      "he": "וּבְנֵ֥י יָוָ֖ן אֱלִישָׁ֣ה וְתַרְשִׁ֑ישׁ כִּתִּ֖ים וְדֹדָנִֽים׃",
+      "en": "The descendants of Javan: Elishah and Tarshish, the Kittim and the Dodanim.aDodanim Septuagint and 1 Chron. 1.7 “Rodanim.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:5",
+      "he": "מֵ֠אֵ֠לֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם אִ֖ישׁ לִלְשֹׁנ֑וֹ לְמִשְׁפְּחֹתָ֖ם בְּגוֹיֵהֶֽם׃",
+      "en": "From these the maritime nations branched out. [These are the descendants of Japheth]b[These are the descendants of Japheth] Cf. vv. 20 and 31. by their lands—each with its language—their clans and their nations.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:6",
+      "he": "וּבְנֵ֖י חָ֑ם כּ֥וּשׁ וּמִצְרַ֖יִם וּפ֥וּט וּכְנָֽעַן׃",
+      "en": "The descendants of Ham: Cush, Mizraim, Put, and Canaan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:7",
+      "he": "וּבְנֵ֣י כ֔וּשׁ סְבָא֙ וַֽחֲוִילָ֔ה וְסַבְתָּ֥ה וְרַעְמָ֖ה וְסַבְתְּכָ֑א וּבְנֵ֥י רַעְמָ֖ה שְׁבָ֥א וּדְדָֽן׃",
+      "en": "The descendants of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The descendants of Raamah: Sheba and Dedan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:8",
+      "he": "וְכ֖וּשׁ יָלַ֣ד אֶת־נִמְרֹ֑ד ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ׃",
+      "en": "Cush also begot Nimrod, who was the first of the earth’s heroes.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "להיות גבור. לְהַמְרִיד כָּל הָעוֹלָם עַל הַקָּבָּ\"ה בַּעֲצַת דוֹר הַפַּלָּגָה:",
+          "en": "להיות גבור TO BE A MIGHTY ONE — Mighty in causing the whole world to rebel against the Holy One, blessed be He, by the plan he devised for the generation that witnessed the separation of the races (דור הפלגה) to build the Tower of Babel (Genesis Rabbah 23:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:9",
+      "he": "הֽוּא־הָיָ֥ה גִבֹּֽר־צַ֖יִד לִפְנֵ֣י יְהֹוָ֑ה עַל־כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד לִפְנֵ֥י יְהֹוָֽה׃",
+      "en": "He was a mighty hunter by the grace of GOD; hence the saying, “Like Nimrod a mighty hunter by the grace of GOD.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "גבר ציד. צָד דַּעְתָּן שֶׁל בְּרִיוֹת בְּפִיו, וּמַטְעָן לִמְרֹד בַּמָּקוֹם:",
+          "en": "גבור ציד A MIGHTY HUNTER — He ensnared the minds of people by his words, misleading them to rebel against the Omnipresent (Genesis Rabbah 37:2).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לפני ה'. מִתְכַּוֵן לְהַקְנִיטוֹ עַל פָּנָיו:",
+          "en": "‘לפני ה BEFORE THE LORD — intending purposely to provoke Him to His face",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "על כן יאמר. עַל כָּל אָדָם מַרְשִׁיעַ בְּעַזּוּת פָּנִים, יוֹדֵע רִבּוֹנוֹ וּמִתְכַּוֵּן לִמְרֹד בּוֹ, יֵאָמֵר זֶה כְּנִמְרֹד גִּבּוֹר צַיִד:",
+          "en": "על כן יאמר WHEREFORE IT IS SAID — Regarding any man who brazenly acts wickedly — knowing his Master and yet of set purpose rebelling against Him — it is said. “This man is like Nimrod a mighty hunter” (Sifra, Bechukotai, Section 2 1-2).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:10",
+      "he": "וַתְּהִ֨י רֵאשִׁ֤ית מַמְלַכְתּוֹ֙ בָּבֶ֔ל וְאֶ֖רֶךְ וְאַכַּ֣ד וְכַלְנֵ֑ה בְּאֶ֖רֶץ שִׁנְעָֽר׃",
+      "en": "The mainstays of his kingdom were Babylon, Erech, Accad, and Calnehcand Calneh Heb. we-khalneh, better vocalized we-khullanah “all of them being.” in the land of Shinar.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:11",
+      "he": "מִן־הָאָ֥רֶץ הַהִ֖וא יָצָ֣א אַשּׁ֑וּר וַיִּ֙בֶן֙ אֶת־נִ֣ינְוֵ֔ה וְאֶת־רְחֹבֹ֥ת עִ֖יר וְאֶת־כָּֽלַח׃",
+      "en": "From that land Asshur went forth and built Nineveh, Rehoboth-ir, Calah,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "מן הארץ וגו'. כֵּיוָן שֶׁרָאָה אַשּׁוּר אֶת בָּנָיו שׁוֹמְעִין לְנִמְרוֹד וּמוֹרְדִין בַּמָקוֹם לִבְנוֹת הַמִּגְדָּל יָצָא מִתּוֹכָם:",
+          "en": "‘מן הארץ וגו OUT OF THAT LAND WENT FORTH ASSHUR — As soon as Asshur saw that his sons listened to Nimrod, rebelling against the Omnipresent by building the Tower, he went forth out of their midst (Genesis Rabbah 37:4).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:12",
+      "he": "וְֽאֶת־רֶ֔סֶן בֵּ֥ין נִֽינְוֵ֖ה וּבֵ֣ין כָּ֑לַח הִ֖וא הָעִ֥יר הַגְּדֹלָֽה׃",
+      "en": "and Resen between Nineveh and Calah, that is the great city.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "העיר הגדלה. הִיא נִינְוֵה שֶׁנֶּ' וְנִינְוֵה הָיְתָה עִיר גְּדוֹלָה לֵאלֹהִים (יונה ג'):",
+          "en": "העיר הגדלה THE GREAT CITY — This refers to Nineveh (not to Calah the last mentioned city nor to Resen), as it is said (Jonah 3:3) “Now Nineveh was an exceeding great city” (Yoma 10a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:13",
+      "he": "וּמִצְרַ֡יִם יָלַ֞ד אֶת־לוּדִ֧ים וְאֶת־עֲנָמִ֛ים וְאֶת־לְהָבִ֖ים וְאֶת־נַפְתֻּחִֽים׃",
+      "en": "And Mizraim begot the Ludim, the Anamim, the Lehabim, the Naphtuhim,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "להבים. שֶׁפְּנֵיהֶם דּוֹמִים לְלַהַב:",
+          "en": "להבים LEHABIM — So called because their faces were fiery as a flame.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:14",
+      "he": "וְֽאֶת־פַּתְרֻסִ֞ים וְאֶת־כַּסְלֻחִ֗ים אֲשֶׁ֨ר יָצְא֥וּ מִשָּׁ֛ם פְּלִשְׁתִּ֖ים וְאֶת־כַּפְתֹּרִֽים׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "the Pathrusim, the Casluhim (from whom the Philistines came), and the Caphtorim.dCasluhim…Philistines…Caphtorim Cf. Jer. 47.4, Amos 9.7.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פתרסים ואת כסלחים אשר יצאו משם פלשתים. מִשְּׁנֵיהֶם יָצְאוּ, שֶׁהָיוּ פַּתְרוּסִים וְכַסְלוּחִים מַחֲלִיפִין מִשְׁכַּב נְשׁוֹתֵיהֶם אֵלּוּ לָאֵלּוּ וְיָצְאוּ מֵהֶם פְּלִשְׁתִּים:",
+          "en": "ואת פתרסים ואת כסלחים אשר יצאו משם פלשתים AND PATHRUSIM AND CASLUHIM OUT OF WHOM CAME PHILISTIM — They (the Philistines) were descended from both of them for the Pathrusim and the Casluhim used to live together in promiscuous intercourse, and the Philistines were their offspring (Genesis Rabbah 37:5).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:15",
+      "he": "וּכְנַ֗עַן יָלַ֛ד אֶת־צִידֹ֥ן בְּכֹר֖וֹ וְאֶת־חֵֽת׃",
+      "en": "Canaan begot Sidon, his first-born, and Heth;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:16",
+      "he": "וְאֶת־הַיְבוּסִי֙ וְאֶת־הָ֣אֱמֹרִ֔י וְאֵ֖ת הַגִּרְגָּשִֽׁי׃",
+      "en": "and the Jebusites, the Amorites, the Girgashites,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:17",
+      "he": "וְאֶת־הַֽחִוִּ֥י וְאֶת־הַֽעַרְקִ֖י וְאֶת־הַסִּינִֽי׃",
+      "en": "the Hivites, the Arkites, the Sinites,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:18",
+      "he": "וְאֶת־הָֽאַרְוָדִ֥י וְאֶת־הַצְּמָרִ֖י וְאֶת־הַֽחֲמָתִ֑י וְאַחַ֣ר נָפֹ֔צוּ מִשְׁפְּח֖וֹת הַֽכְּנַעֲנִֽי׃",
+      "en": "the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites spread out.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואחר נפוצו. מֵאֵלֶּה נָפוֹצוּ מִשְׁפָּחוֹת הַרְבֵּה:",
+          "en": "ואחר נפוצו AND AFTERWARDS WERE SPREAD ABROAD — From these many families were spread abroad (besides those already mentioned. 5:15—18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:19",
+      "he": "וַיְהִ֞י גְּב֤וּל הַֽכְּנַעֲנִי֙ מִצִּידֹ֔ן בֹּאֲכָ֥ה גְרָ֖רָה עַד־עַזָּ֑ה בֹּאֲכָ֞ה סְדֹ֧מָה וַעֲמֹרָ֛ה וְאַדְמָ֥ה וּצְבֹיִ֖ם עַד־לָֽשַׁע׃",
+      "en": "(The [original] Canaanite territory extended from Sidon as far as Gerar, near Gaza, and as far as Sodom, Gomorrah, Admah, and Zeboiim, near Lasha.)",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "גבול הכנעני. סוֹף אַרְצוֹ. כָּל גְּבוּל לְשׁוֹן סוֹף וְקָצֶה:",
+          "en": "גבול הכנעני THE BOUNDARY OF THE CANAANITE means the end of his land: wherever גבול occurs it signifies end and extremity.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "באכה. שֵׁם דָּבָר. וְלִי נִרְאֶה כְּאָדָם הָאוֹמֵר לַחֲבֵרוֹ, גְּבוּל זֶה מַגִּיעַ עַד אֲשֶׁר תָּבֹא לִגְבוּל פְּלוֹנִי:",
+          "en": "באכה AS THOU COMEST - This word is a noun. I think it is a colloquial expression like that used by a person who says to another: This boundary stretches until you come to such and such a boundary.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:20",
+      "he": "אֵ֣לֶּה בְנֵי־חָ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "These are the descendants of Ham, according to their clans and languages, by their lands and nations.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ללשונותם בארצותם. אַעַ\"פִּ שֶׁנֶּחְלְקוּ לִלְשׁוֹנוֹת וַאֲרָצוֹת, כֻּלָּם בְּנֵי חָם הֵם:",
+          "en": "ללשנתם בארצתם AFTER THEIR TONGUES, IN THEIR LANDS — Although these were of different tongues and lands they are nevertheless all sons of Ham.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:21",
+      "he": "וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ה֑וּא אֲבִי֙ כׇּל־בְּנֵי־עֵ֔בֶר אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃",
+      "en": "Sons were also born to Shem, ancestor of all the descendants of Eber and older brother of Japheth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אבי כל בני עבר. הַנָּהָר הָיָה שֵׁם:",
+          "en": "אבי כל בני עבר THE FATHER OF ALL THE CHILDREN OF EBER — (עבר means the “side” or “ other side” of a river) — The father of all the children of עבר הנהר, the other side of the River (Euphrates), was Shem.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "אחי יפת הגדול. אֵינִי יוֹדֵעַ אִם יֶפֶת הַגָּדוֹל אִם שֵׁם, כְּשֶׁהוּא אוֹמֵר שֵׁם בֶּן מְאַת שָׁנָה וְגוֹ' שְׁנָתַיִם אַחַר הַמַּבּוּל, הֱוֵי אוֹמֵר יֶפֶת הַגָּדוֹל, שֶׁהֲרֵי בֶּן ת\"ק שָׁנָה הָיָה נֹחַ כְּשֶׁהִתְחִיל לְהוֹלִיד, וְהַמַּבּוּל הָיָה בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה, נִמְצָא שֶׁהַגָּדוֹל בְּבָנָיו הָיָה בֶן מֵאָה שָׁנָה, וְשֵׁם לֹא הִגִּיע לְמֵאָה עַד שְׁנָתַיִם אַחַר הַמַּבּוּל:",
+          "en": "אחי יפת הגדול [SHEM …] THE BROTHER OF JAPHETH, THE ELDER — (The Hebrew is ambiguous: “the elder” may refer either to Shem or to Japheth). One cannot from here determine whether Japheth was the elder or Shem. Since, however, it states (10:10) “Shem was a hundred years old … two years after the flood” you must admit that Japheth was the elder. Because Noah was 500 years old when he first had children (5:32), and the Flood happened in the six hundredth year of his life (7:11), consequently the eldest of his sons was then one hundred years old, whereas Shem reached his hundredth year only two years after the Flood (and therefore Japheth was the elder of the two) (Genesis Rabbah 37:7).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "אחי יפת. וְלֹא אֲחִי חָם? שֶׁאֵלּוּ שְׁנֵיהֶם כִּבְּדוּ אֶת אֲבִיהֶם, וְזֶה בִּזָּהוּ:",
+          "en": "אחי יפת THE BROTHER OF JAPHETH — It does not state “brother of Ham”, because those two honoured their father whereas Ham put him to shame.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:22",
+      "he": "בְּנֵ֥י שֵׁ֖ם עֵילָ֣ם וְאַשּׁ֑וּר וְאַרְפַּכְשַׁ֖ד וְל֥וּד וַֽאֲרָֽם׃",
+      "en": "The descendants of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:23",
+      "he": "וּבְנֵ֖י אֲרָ֑ם ע֥וּץ וְח֖וּל וְגֶ֥תֶר וָמַֽשׁ׃",
+      "en": "The descendants of Aram: Uz, Hul, Gether, and Mash.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:24",
+      "he": "וְאַרְפַּכְשַׁ֖ד יָלַ֣ד אֶת־שָׁ֑לַח וְשֶׁ֖לַח יָלַ֥ד אֶת־עֵֽבֶר׃",
+      "en": "Arpachshad begot Shelah, and Shelah begot Eber.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:25",
+      "he": "וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים שֵׁ֣ם הָֽאֶחָ֞ד פֶּ֗לֶג כִּ֤י בְיָמָיו֙ נִפְלְגָ֣ה הָאָ֔רֶץ וְשֵׁ֥ם אָחִ֖יו יׇקְטָֽן׃",
+      "en": "Two sons were born to Eber: the name of the first was Peleg, for in his days the earth was divided;edivided Heb. niphlegah, play on “Peleg.” and the name of his brother was Joktan.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "נפלגה. נִתְבַּלְבְּלוּ הַלְּשׁוֹנוֹת וְנָפוֹצוּ מִן הַבִּקְעָה וְנִתְפַּלְּגוּ בְכָל הָעוֹלָם. לָמַדְנוּ שֶׁהָיָה עֵבֶר נָבִיא, שֶׁקָּרָא שֵׁם בְּנוֹ עַל שֵׁם הֶעָתִיד; וְשָׁנִינוּ בְסֵדֶר עוֹלָם שֶׁבְּסוֹף יָמָיו נִתְפַּלְּגוּ, שֶׁאִ\"תֹּ בִּתְחִלַּת יָמָיו, הֲרֵי יָקְטָן אָחִיו צָעִיר מִמֶּנּוּ וְהוֹלִיד כַּמָּה מִשְׁפָּחוֹת קֹדֶם לָכֵן, שֶׁנֶּאֱמַר וְיָקְטָן יָלַד וְגוֹ' וְאַחַר כָּךְ וַיְהִי כָל הָאָרֶץ וְגוֹ'; וְאִ\"תֹּ בְּאֶמְצַע יָמָיו, לֹא בָא הַכָּתוּב לִסְתֹּם אֶלָּא לְפָרֵשׁ, הָא לָמַדְתָּ שֶׁבִּשְׁנַת מוֹת פֶּלֶג נִתְפַּלְּגוּ:",
+          "en": "נפלגה [THE EARTH] WAS DIVIDED — The languages became confounded and they (the peoples) were scattered abroad from the plain of Shinar, and were dispersed throughout the whole world. We may learn from this that Eber was a prophet, for he gave his son the name פלג, “division” after an event which was to happen in the future (Genesis Rabbah 37:7). For we learn in Seder Olam that it was during the last of his days that they were dispersed abroad. For if you argue that this happened early in his life (and that therefore he was not anticipating the future in so naming his son, but that the name referred to an event that had already happened), behold, his brother Joktan was younger than he and he had begotten many families previous to the dispersion, as it is said (10:26) “And Joktan begot etc.” and only afterwards is it stated “And the whole earth was etc.” (with reference to the dispersion). If, on the other hand, you argue that the dispersal happened in the middle period of his life, then I reply that the verse surely does not intend to refer to the time when the dispersion took place in an indefinite manner, but to state quite definitely when it was. Hence you may learn that it was in the year of Peleg’s death that they were dispersed.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ויקטן. שֶׁהָיָה עָנָו וּמַקְטִין עַצְמוֹ, לְכָךְ זָכָה לְהַעֲמִיד כָּל הַמִּשְׁפָּחוֹת הַלָּלוּ:",
+          "en": "יקטן JOKTAN — He was so called (“the little one”) because he was so humble and thought little (ומקטין) of himself; therefore he merited the privilege of rearing all these families (Genesis Rabbah 37:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:26",
+      "he": "וְיׇקְטָ֣ן יָלַ֔ד אֶת־אַלְמוֹדָ֖ד וְאֶת־שָׁ֑לֶף וְאֶת־חֲצַרְמָ֖וֶת וְאֶת־יָֽרַח׃",
+      "en": "Joktan begot Almodad, Sheleph, Hazarmaveth, Jerah,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "חצרמות. עַל שֵׁם מְקוֹמוֹ, דִּבְרֵי אַגָּדָה (ב\"ר):",
+          "en": "חצרמות He was so called (Court of Death) after his city. So is the statement of the Agada (Genesis Rabbah 37:8).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 10:27",
+      "he": "וְאֶת־הֲדוֹרָ֥ם וְאֶת־אוּזָ֖ל וְאֶת־דִּקְלָֽה׃",
+      "en": "Hadoram, Uzal, Diklah,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:28",
+      "he": "וְאֶת־עוֹבָ֥ל וְאֶת־אֲבִֽימָאֵ֖ל וְאֶת־שְׁבָֽא׃",
+      "en": "Obal, Abimael, Sheba,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:29",
+      "he": "וְאֶת־אוֹפִ֥ר וְאֶת־חֲוִילָ֖ה וְאֶת־יוֹבָ֑ב כׇּל־אֵ֖לֶּה בְּנֵ֥י יׇקְטָֽן׃",
+      "en": "Ophir, Havilah, and Jobab; all these were the descendants of Joktan.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:30",
+      "he": "וַיְהִ֥י מוֹשָׁבָ֖ם מִמֵּשָׁ֑א בֹּאֲכָ֥ה סְפָ֖רָה הַ֥ר הַקֶּֽדֶם׃",
+      "en": "Their settlements extended from Mesha as far as Sephar, the hill country to the east.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:31",
+      "he": "אֵ֣לֶּה בְנֵי־שֵׁ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹׁנֹתָ֑ם בְּאַרְצֹתָ֖ם לְגוֹיֵהֶֽם׃",
+      "en": "These are the descendants of Shem according to their clans and languages, by their lands, according to their nations.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 10:32",
+      "he": "אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל׃&nbsp;{פ}",
+      "en": "These are the groupings of Noah’s descendants, according to their origins, by their nations; and from these the nations branched out over the earth after the Flood.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:1",
+      "he": "וַיְהִ֥י כׇל־הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים׃",
+      "en": "Everyone on earth had the same language and the same words.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שפה אחת. לְשׁוֹן הַקֹּדֶש:",
+          "en": "שפה אחת ONE LANGUAGE — The Holy Tongue (Hebrew) (Midrash Tanchuma, Noach 19).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ודברים אחדים. בָּאוּ בְעֵצָה אַחַת וְאָמְרוּ לֹא כָּל הֵימֶנּוּ שֶׁיָּבֹר לוֹ אֶת הָעֶלְיוֹנִים, נַעֲלֶה לָרָקִיעַ וְנַעֲשֶׂה עִמּוֹ מִלְחָמָה. דָּבָר אַחֵר עַל יְחִידוֹ שֶׁל עוֹלָם. דָּבָר אַחֵר וּדְבָרִים אֲחָדִים – אָמְרוּ אַחַת לְאֶלֶף ותרנ\"ו שָׁנִים הָרָקִיעַ מִתְמוֹטֵט כְּשֵׁם שֶׁעָשָׂה בִּימֵי הַמַּבּוּל, בֹּאוּ וְנַעֲשֶׂה לוֹ סְמִיכוֹת (ב\"ר):",
+          "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:2",
+      "he": "וַיְהִ֖י בְּנׇסְעָ֣ם מִקֶּ֑דֶם וַֽיִּמְצְא֥וּ בִקְעָ֛ה בְּאֶ֥רֶץ שִׁנְעָ֖ר וַיֵּ֥שְׁבוּ שָֽׁם׃",
+      "en": "And as they migrated from the east, they came upon a valley in the land of Shinar and settled there.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בנסעם מקדם. שֶׁהָיוּ יוֹשְׁבִים שָׁם, כְּדִכְתִיב לְמַעְלָה וַיְהִי מוֹשָׁבָם וְגו' הַר הַקֶּדֶם וְנָסְעוּ מִשָּׁם לָתוּר לָהֶם מָקוֹם לְהַחֲזִיק אֶת כֻּלָּם וְלֹא מָצְאוּ אֶלָּא שִׁנְעָר:",
+          "en": "בנסעם מקדם AS THEY JOURNEYED FROM THE EAST where they were then dwelling, as it is written above, (Genesis 10:30) “And their dwelling place was … the mountain of the East”. From there they journeyed to search out for themselves a place that would accommodate them all, but they found none except Shinar (Genesis Rabbah 38:7).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:3",
+      "he": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְנִשְׂרְפָ֖ה לִשְׂרֵפָ֑ה וַתְּהִ֨י לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר׃",
+      "en": "They said to one another, “Come, let us make bricks and burn them hard.”—Brick served them as stone, and bitumen served them as mortar.—",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "איש אל רעהו. אֻמָּה לְאֻמָּה, מִצְרַיִם לְכוּשׁ, וְכוּשׁ לְפוּט וּפוּט לִכְנַעַן:",
+          "en": "איש אל רעהו ONE TO ANOTHER — One nation to the other: Mizraim to Cush, Cush to Put. and Put to Canaan (Genesis Rabbah 38:6).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "הבה. הַזְמִינוּ עַצְמְכֶם. כָּל הָבָה לְשׁוֹן הַזְמָנָה הוּא, שֶׁמְּכִינִים עַצְמָן וּמִתְחַבְּרִים לִמְלָאכָה אוֹ לְעֵצָה אוֹ לְמַשָּׂא. הָבָה הַזְמִינוּ, אפר\"לייר בלע\"ז:",
+          "en": "הבה means, “Prepare yourselves”. Wherever the word הבה (come) occurs it has the meaning of “prepare”, meaning that they should get themselves ready and unite for some work or plan or burden (undertaking). “Come, get ready”: in old French appareiller; English to prepare.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לבנים. שֶׁאֵין אֲבָנִים בְּבָבֶל, שֶׁהִיא בִּקְעָה:",
+          "en": "לבנים BRICKS — For there is no stone in Babel which is a plain.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "ונשרפה לשרפה. כָּךְ עוֹשִׂין הַלְּבֵנִים שֶׁקּוֹרִין טוויל\"ש בל', שׂוֹרְפִים אוֹתָן בְּכִבְשָׁן:",
+          "en": "ונשרפה לשרפה AND BURN THEM THOROUGHLY — This is how bricks, which in old French are called Tuiles, English tiles, are made: they fire them in a furnace.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "לחמר. לָטוּחַ הַקִּיר:",
+          "en": "לחמר FOR MORTAR to plaster the walls.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:4",
+      "he": "וַיֹּאמְר֞וּ הָ֣בָה&thinsp;׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+      "en": "And they said, “Come, let us build us a city, and a tower with its top in the sky, to make a name for ourselves; else we shall be scattered all over the world.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "פן נפוץ. שֶׁלֹּא יָבִיא עָלֵינוּ שׁוּם מַכָּה לַהֲפִיצֵנוּ מִכָּאן:",
+          "en": "פן נפוץ LEST WE BE SCATTERED ABROAD — That He shall not be able by bringing some plague upon us, to scatter us from here.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:5",
+      "he": "וַיֵּ֣רֶד יְהֹוָ֔ה לִרְאֹ֥ת אֶת־הָעִ֖יר וְאֶת־הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם׃",
+      "en": "GOD came down to look at the city and tower that the mortals had built,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וירד ה' לראות. לֹא הֻצְרַךְ לְכָךְ, אֶלָּא בָא לְלַמֵּד לְדַיָּנִים שֶׁלֹּא יַרְשִׁיעוּ הַנִּדּוֹן עַד שֶׁיִּרְאוּ וְיָבִינוּ, מִדְרַשׁ רַבִּי תַנְחוּמָא:",
+          "en": "'וירד ה לראות AND THE LORD CAME DOWN TO SEE — He really did not need to do this, but Scripture intends to teach the judges that they should not proclaim a defendant guilty before they have seen the case and thoroughly understand the matter in question. This is to be found in Midrash of R. Tanchuma.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "בני האדם. אֶלָּא בְנֵי מִי? שֶׁמָּא בְנֵי חֲמוֹרִים וּגְמַלִּים? אֶלָּא בְנֵי אָדָם הָרִאשׁוֹן שֶׁכָּפָה אֶת הַטּוֹבָה וְאָמַר הָאִשָּׁה אֲשֶׁר נָתַתָּ עִמָּדִי, אַף אֵלּוּ כָפוּ בַּטּוֹבָה לִמְרֹד בְּמִי שֶׁהִשְׁפִּיעָם טוֹבָה, וּמִלְּטָם מִן הַמַּבּוּל:",
+          "en": "בני האדם THE CHILDREN OF MAN (ADAM) — But whose children could they have been (except the children of man, i.e. human beings) — perhaps the children of donkeys or camels? But it means the children of Adam Harishon who proved himself ungrateful when he said, (Genesis 3:12) “The woman whom Thou gavest to be with me, [she gave me of the tree etc.]”. These people, also, were ungrateful, rebelling against the One who had showered kindness upon them and had rescued them from the Flood (Genesis Rabbah 38:9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:6",
+      "he": "וַיֹּ֣אמֶר יְהֹוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת וְעַתָּה֙ לֹֽא־יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת׃",
+      "en": "and GOD said, “If, as one people with one language for all, this is how they have begun to act, then nothing that they may propose to do will be out of their reach.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הן עם אחד. כָּל טוֹבָה זוֹ יֵשׁ עִמָּהֶן, שֶׁעַם אֶחָד הֵם, וְשָׂפָה אַחַת לְכֻלָּן וְדָבָר זֶה הֵחֵלּוּ לַעֲשׂוֹת:",
+          "en": "הן עם אחד BEHOLD, THEY ARE ONE PEOPLE — They possess all the advantage of being one people and of having one language common to all of them, and this is what they begin to do!",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "החלם. כְּמוֹ אָמְרָם, עֲשׂוֹתָם – לְהַתְחִיל הֵם לַעֲשׂוֹת:",
+          "en": "החלם is infinitive, like אמרם “their speaking”. עשותם “their doing” (i.e. “they speak”, “they do”) — so here: “they begin to do”) (Genesis Rabbah 38:9).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "לא יבצר מהם וגו' לעשות. בִּתְמִיהָ. יִבָּצֵר לְשׁוֹן מְנִיעָה, כְתַרְגּוּמוֹ; וְדוֹמֶה לוֹ יִבְצֹר רוּחַ נְגִידִים (תה' ע\"ו):",
+          "en": "לא יבצר מהם וגו' לעשות This is a question (although the ה which introduces an interrogative sentence is absent): SHALL THEY NOT BE RESTRAINED FROM DOING WHAT THEY IMAGINE TO DO? The word יבצר means “restraining”, as the Targum understands it; a similar instance is, (Psalms 76:13) “He restrains (יבצור) the spirit of princes”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:7",
+      "he": "הָ֚בָה נֵֽרְדָ֔ה וְנָבְלָ֥ה שָׁ֖ם שְׂפָתָ֑ם אֲשֶׁר֙ לֹ֣א יִשְׁמְע֔וּ אִ֖ישׁ שְׂפַ֥ת רֵעֵֽהוּ׃",
+      "en": "Let us, then, go down and confound their speech there, so that they shall not understand one another’s speech.”",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "הבה נרדה. בְּבֵית דִּינוֹ נִמְלַךְ מֵעַנְוְתָנוּתוֹ יְתֵרָה:",
+          "en": "הבה נרדה COME, LET US GO DOWN — He took counsel with His Judicial Court because of His exceeding meekness (Sanhedrin 38b)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "הבה. מִדָּה כְנֶגֶד מִדָּה – הֵם אָמְרוּ הָבָה נִבְנֶה, וְהוּא כְנֶגֶדָּם מָדַד וְאָמַר הָבָה נֵרְדָה:",
+          "en": "הבה COME — measure for measure: they had said “Come, let us build“; He meted out to them correspondingly saying. “Come let us go down” (Midrash Tanchuma, Noach 18)",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ונבלה. וּנְבַלְבֵּל; נוּ\"ן מְשַׁמֵּשׁ בִּלְשׁוֹן רַבִּים, וְהֵ\"א אַחֲרוֹנָה יְתֵרָה, כְהֵ\"א שֶׁל נֵרְדָה:",
+          "en": "ונבלה means AND LET US CONFOUND The נ is the plural prefix, and the ה at the end is additional to the root as the ה in ונרדה.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "לא ישמעו. זֶה שׁוֹאֵל לְבֵנָה וְזֶה מֵבִיא טִיט, וְזֶה עוֹמֵד עָלָיו וּפוֹצֵעַ אֶת מֹחוֹ:",
+          "en": "ולא ישמעו — THEY MAY NOT UNDERSTAND — One asks for a brick and the other brings him lime: the former therefore attacks him and splits open his brains.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:8",
+      "he": "וַיָּ֨פֶץ יְהֹוָ֥ה אֹתָ֛ם מִשָּׁ֖ם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר׃",
+      "en": "Thus GOD scattered them from there over the face of the whole earth; and they stopped building the city.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויפץ ה' אתם משם. בָּעוֹלָם הַזֶּה; מַה שֶּׁאָמְרוּ פֶּן נָפוּץ, נִתְקַיֵּם עֲלֵיהֶם, הוּא שֶׁאָמַר שְׁלֹמֹה מְגוֹרַת רָשָׁע הִיא תְבוֹאֶנּוּ (משלי י'):",
+          "en": "ויפץ ה' אתם משם SO THE LORD SCATTERED THEM ABROAD FROM THENCE—In this world (Sanhedrin 107b). What they had said. (Genesis 11:4) “lest we be scattered abroad” really happened to them. This is what Solomon said, (Proverbs 10:24) “What the wicked fears will come upon him” (Midrash Tanchuma, Noach 18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:9",
+      "he": "עַל־כֵּ֞ן קָרָ֤א שְׁמָהּ֙ בָּבֶ֔ל כִּי־שָׁ֛ם בָּלַ֥ל יְהֹוָ֖ה שְׂפַ֣ת כׇּל־הָאָ֑רֶץ וּמִשָּׁם֙ הֱפִיצָ֣ם יְהֹוָ֔ה עַל־פְּנֵ֖י כׇּל־הָאָֽרֶץ׃&nbsp;{פ}",
+      "en": "That is why it was called Babel,aBabel I.e., “Babylon.” because there GOD confoundedbconfounded Heb. balal “confound,” play on “Babel.” the speech of the whole earth; and from there GOD scattered them over the face of the whole earth.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומשם הפיצם. לִמֵּד שֶׁאֵין לָהֶם חֵלֶק לָעוֹלָם הַבָּא; וְכִי אֵיזוֹ קָשָׁה, שֶׁל דּוֹר הַמַּבּוּל אוֹ שֶׁל דּוֹר הַפַּלָּגָה? אֵלּוּ לֹא פָשְׁטוּ יָד בָּעִקָּר וְאֵלּוּ פָשְׁטוּ יָד בָּעִקָּר לְהִלָּחֵם בּוֹ, וְאֵלּוּ נִשְׁטְפוּ וְאֵלּוּ לֹא נֶאֱבְדוּ מִן הָעוֹלָם? אֶלָּא שֶׁדּוֹר הַמַּבּוּל הָיוּ גַּזְלָנִים וְהָיְתָה מְרִיבָה בֵינֵיהֶם, לְכָךְ נֶאֱבְדוּ; וְאֵלּוּ הָיוּ נוֹהֲגִים אַהֲבָה וְרֵעוּת בֵּינֵיהֶם, שֶׁנֶּ' שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים, לָמַדְתָּ שֶׁשָּׂנְאוּי הַמַּחֲלֹקֶת וְגָדוֹל הַשָּׁלֹום:",
+          "en": "ומשם הפיצם AND FROM THENCE DID THE LORD SCATTER THEM —This teaches that they have no portion in the world to come (Sanhedrin 107b). Which sin was greater: that of the generation of the Flood or that of the generation of the Dispersion? The former did not stretch forth their hands against God; the latter did stretch forth their hands against God to war against him (surely, then, the sin of the generation of the Dispersion was greater) and yet the former (the generation of the Flood) were drowned and these did not perish from the world! But the reason is that the generation of the Flood were violent robbers and there was strife among them, and therefore they were destroyed; but these conducted themselves in love and friendship, as it is said, “They were one people and had one language”. — You may learn from this how hateful to God is strife and how great is peace (Genesis Rabbah 38:6).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:10",
+      "he": "אֵ֚לֶּה תּוֹלְדֹ֣ת שֵׁ֔ם שֵׁ֚ם בֶּן־מְאַ֣ת שָׁנָ֔ה וַיּ֖וֹלֶד אֶת־אַרְפַּכְשָׁ֑ד שְׁנָתַ֖יִם אַחַ֥ר הַמַּבּֽוּל׃",
+      "en": "This is the line of Shem. Shem was 100 years old when he begot Arpachshad, two years after the Flood.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "שם בן מאת שנה. כְּשֶׁהוֹלִיד אֶת אַרְפַּכְשָׁד שְׁנָתַיִם אַחַר הַמַּבּוּל:",
+          "en": "שם בן מאת שנה SHEM WAS A HUNDRED YEARS OLD when he begat Arpachshad two years after the Flood.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:11",
+      "he": "וַֽיְחִי־שֵׁ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־אַרְפַּכְשָׁ֔ד חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth ofcAfter the birth of Lit. “After he begot,” and so through v. 25. Arpachshad, Shem lived 500 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:12",
+      "he": "וְאַרְפַּכְשַׁ֣ד חַ֔י חָמֵ֥שׁ וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שָֽׁלַח׃",
+      "en": "When Arpachshad had lived 35 years, he begot Shelah.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:13",
+      "he": "וַיְחִ֣י אַרְפַּכְשַׁ֗ד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֶׁ֔לַח שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Shelah, Arpachshad lived 403 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:14",
+      "he": "וְשֶׁ֥לַח חַ֖י שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־עֵֽבֶר׃",
+      "en": "When Shelah had lived 30 years, he begot Eber.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:15",
+      "he": "וַֽיְחִי־שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־עֵ֔בֶר שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Eber, Shelah lived 403 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:16",
+      "he": "וַֽיְחִי־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־פָּֽלֶג׃",
+      "en": "When Eber had lived 34 years, he begot Peleg.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:17",
+      "he": "וַֽיְחִי־עֵ֗בֶר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־פֶּ֔לֶג שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Peleg, Eber lived 430 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:18",
+      "he": "וַֽיְחִי־פֶ֖לֶג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־רְעֽוּ׃",
+      "en": "When Peleg had lived 30 years, he begot Reu.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:19",
+      "he": "וַֽיְחִי־פֶ֗לֶג אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־רְע֔וּ תֵּ֥שַׁע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Reu, Peleg lived 209 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:20",
+      "he": "וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שְׂרֽוּג׃",
+      "en": "When Reu had lived 32 years, he begot Serug.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:21",
+      "he": "וַיְחִ֣י רְע֗וּ אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שְׂר֔וּג שֶׁ֥בַע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Serug, Reu lived 207 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:22",
+      "he": "וַיְחִ֥י שְׂר֖וּג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־נָחֽוֹר׃",
+      "en": "When Serug had lived 30 years, he begot Nahor.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:23",
+      "he": "וַיְחִ֣י שְׂר֗וּג אַחֲרֵ֛י הוֹלִיד֥וֹ אֶת־נָח֖וֹר מָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Nahor, Serug lived 200 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:24",
+      "he": "וַיְחִ֣י נָח֔וֹר תֵּ֥שַׁע וְעֶשְׂרִ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־תָּֽרַח׃",
+      "en": "When Nahor had lived 29 years, he begot Terah.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:25",
+      "he": "וַיְחִ֣י נָח֗וֹר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־תֶּ֔רַח תְּשַֽׁע־עֶשְׂרֵ֥ה שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "After the birth of Terah, Nahor lived 119 years and begot sons and daughters.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:26",
+      "he": "וַֽיְחִי־תֶ֖רַח שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֙וֹלֶד֙ אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָֽן׃",
+      "en": "When Terah had lived 70 years, he begot Abram, Nahor, and Haran.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:27",
+      "he": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת תֶּ֔רַח תֶּ֚רַח הוֹלִ֣יד אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָ֑ן וְהָרָ֖ן הוֹלִ֥יד אֶת־לֽוֹט׃",
+      "en": "Now this is the line of Terah: Terah begot Abram, Nahor, and Haran; and Haran begot Lot.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:28",
+      "he": "וַיָּ֣מׇת הָרָ֔ן עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו בְּאֶ֥רֶץ מוֹלַדְתּ֖וֹ בְּא֥וּר כַּשְׂדִּֽים׃",
+      "en": "Haran died in the lifetime of his father Terah, in his native land, Ur of the Chaldeans.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על פני תרח אביו. בְּחַיֵי אָבִיו. וּמִדְרַשׁ אַגָּדָה אוֹמֵר שֶׁעַל יְדֵי אָבִיו מֵת; שֶׁקָּבַל תֶּרַח עַל אַבְרָם בְּנוֹ לִפְנֵי נִמְרוֹד עַל שֶׁכִּתֵּת אֶת צְלָמָיו, וְהִשְׁלִיכוֹ לְכִבְשַׁן הָאֵשׁ, וְהָרָן יוֹשֵׁב וְאוֹמֵר בְּלִבּוֹ אִם אַבְרָם נוֹצֵחַ אֲנִי מִשֶּׁלּוֹ, וְאִם נִמְרוֹד נוֹצֵחַ אֲנִי מִשֶּׁלּוֹ; וּכְשֶׁנִּצַּל אַבְרָם, אָמְרוּ לוֹ לְהָרָן מִשֶּׁל מִי אַתָּה? אָמַר לָהֶם הָרָן מִשֶּׁל אַבְרָם אֲנִי, הִשְׁלִיכוּהוּ לְכִבְשַׁן הָאֵשׁ וְנִשְׂרַף, וְזֶהוּ אוּר כַּשְׂדִים (ב\"ר). וּמְנַחֵם פֵּרֵשׁ אוּר – בִּקְעָה; וְכֵן בָּאֻרִים כַּבְּדוּ ה' (ישעיה כ\"ד), וְכֵן מְאוּרַת צִפְעוֹנִי (שם י\"א) כָּל חֹר וּבֶקַע עָמֹק קָרוּי אוּר:",
+          "en": "על פני תרח אביו IN THE PRESENCE OF HIS FATHER TERAH — meaning during his father’s lifetime (Genesis Rabbah 38:13). The Midrashic explanation is that he died through his father. For Terah accused his son Abram before Nimrod of having smashed his idols to pieces, and he cast him into a fiery furnace. Haran waited and said to himself, “If Abram proves triumphant I will be on his side; if Nimrod wins I shall be on his”. When Abram was saved they said to Haran, “Whose side are you on?” Haran replied, “I am on Abram’s side”. They therefore cast him into the fiery furnace and he was burnt to death. It is to this that the name of the place Ur-Kasdim (fire of the Chaldees) alludes (Genesis Rabbah 38:13). Menachem ben Seruk, however, explains that אור means a valley, as (Isaiah 24:15) “Glorify ye the Lord in the valleys (באורים)”, and as (Isaiah 11:8) “the den (מאורת) of the basilisk”. Every hole or deep cleft may be called אור.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:29",
+      "he": "וַיִּקַּ֨ח אַבְרָ֧ם וְנָח֛וֹר לָהֶ֖ם נָשִׁ֑ים שֵׁ֤ם אֵֽשֶׁת־אַבְרָם֙ שָׂרָ֔י וְשֵׁ֤ם אֵֽשֶׁת־נָחוֹר֙ מִלְכָּ֔ה בַּת־הָרָ֥ן אֲבִֽי־מִלְכָּ֖ה וַֽאֲבִ֥י יִסְכָּֽה׃",
+      "en": "Abram and Nahor took wives for themselves, the name of Abram’s wife being Sarai and that of Nahor’s wife Milcah, the daughter of Haran, the father of Milcah and Iscah.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "יסכה. זוֹ שָׂרָה, עַל שֵׁם שֶׁסּוֹכָה בְּרוּחַ הַקֹּדֶשׁ וְשֶׁהַכֹּל סוֹכִין בְיָפְיָהּ; וְעוֹד יִסְכָּה לְשׁוֹן נְסִיכוּת, כְּמוֹ שָׂרָה לְשׁוֹן שְׂרָרָה:",
+          "en": "יסכה JISCAH — This was Sarah; she was also named Jiscah (from a root meaning “”to see”, “to look”) because she could see the future by holy inspiration, and because everybody looked (gazed) at her beauty (Megillah 14a). The name Jiscah also has reference to princely dignity (נסיכות) just as the name Sarah (שרה) has an allusion to “ruling’’(שררה).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:30",
+      "he": "וַתְּהִ֥י שָׂרַ֖י עֲקָרָ֑ה אֵ֥ין לָ֖הּ וָלָֽד׃",
+      "en": "Now Sarai was infertile, she had no child.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 11:31",
+      "he": "וַיִּקַּ֨ח תֶּ֜רַח אֶת־אַבְרָ֣ם בְּנ֗וֹ וְאֶת־ל֤וֹט בֶּן־הָרָן֙ בֶּן־בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ עַד־חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם׃",
+      "en": "Terah took his son Abram, his grandson Lot the son of Haran, and his daughter-in-law Sarai, the wife of his son Abram, and they set out together from Ur of the Chaldeans for the land of Canaan; but when they had come as far as Haran, they settled there.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויצאו אתם. וַיֵּצְאוּ תֶּרַח וְאַבְרָם עִם לוֹט וְשָׂרַי:",
+          "en": "ויצאו אתם AND THEY WENT FORTH WITH THEM — ויצאו אתם Terah and Abram went forth with Lot and Sarai.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 11:32",
+      "he": "וַיִּהְי֣וּ יְמֵי־תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיָּ֥מׇת תֶּ֖רַח בְּחָרָֽן׃&nbsp;{פ}",
+      "en": "The days of Terah came to 205 years; and Terah died in Haran.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וימת תרח בחרן. לְאַחַר שֶׁיָּצָא אַבְרָם מֵחָרָן וּבָא לְאֶרֶץ כְּנַעַן, וְהָיָה שָׁם יוֹתֵר מִשִּׁשִּׁים שָׁנָה; שֶׁהֲרֵי כָתוּב וְאַבְרָם בֶּן חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה בְּצֵאתוֹ מֵחָרָן וְתֶרַח בֶּן שִׁבְעִים שָׁנָה כְּשֶׁנּוֹלַד אַבְרָם, הֲרֵי קמ\"ה לְתֶרַח; כְּשֶׁיָּצָא אַבְרָם מֵחָרָן עֲדַיִן נִשְׁאֲרוּ מִשְּׁנוֹתָיו הַרְבֵּה, וְלָמָּה הִקְדִּים הַכָּתוּב מִיתָתוֹ שֶׁל תֶּרַח לִיצִיאָתוֹ שֶׁל אַבְרָם? שֶׁלֹּא יְהֵא הַדָּבָר מְפֻרְסָם לַכֹּל וְיֹאמְרוּ לֹא קִיֵּם אַבְרָם אֶת כְּבוֹד אָבִיו, שֶׁהִנִּיחוֹ זָקֵן וְהָלַךְ לוֹ, לְפִיכָךְ קְרָאוֹ הַכָּתוּב מֵת, שֶׁהָרְשָׁעִים אַף בְּחַיֵּיהֶם קְרוּיִים מֵתִים, וְהַצַּדִּיקִים אַף בְּמִיתָתָן קְרוּיִים חַיִּים, שֶׁנֶּאֱמַר וּבְנָיָהוּ בֶן יְהוֹיָדָע בֶּן אִישׁ חי (שְׁמוּאֵל ב' כ\"ג):",
+          "en": "וימת תרח בחרן AND TERAH DIED IN HARAN after Abram had left Haran (as related in the next chapter) and had come to the land of Canaan and had been there more than sixty years. For it is written, (Genesis 12:4) “And Abram was seventy five years old when he left Haran”, and Terah was seventy years old when Abram was born (Genesis 11:26), making Terah 145 years old when Abram left Haran, so that there were then many years of his life left (i. e. he lived many years after that — as a matter of fact, 60 years, as he was 205 years old when he died). Why, then, does Scripture mention the death of Terah before the departure of Abram? In order that this matter (his leaving home during his father’s lifetime) might not become known to all, lest people should say that Abram did not show a son’s respect to his father, for he left him in his old age and went his way. That is why Scripture speaks of him as dead (Genesis Rabbah 39:7). For indeed the wicked even while alive are called dead and the righteous even when dead are called living, as it is said, (2 Samuel 23:20) “And Benaiah the son of Jehoiada the son of a living man”.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "(בחרן הַנּוּ\"ן הֲפוּכָה לוֹמַר לְךָ, עַד אַבְרָם חֲרוֹן אַף שֶׁל מָקוֹם):",
+          "en": "בחרן IN HARAN — The נ is inverted to tell you that until the time of Abraham, the fierce anger (חרון) of the Omnipotent was kindled against the world.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "slug": "pekudei",
+  "name": "Pekoudei",
+  "range": "Exodus 38:21-40:38",
+  "verses": [
+    {
+      "ref": "Exodus 38:21",
+      "he": "אֵ֣לֶּה פְקוּדֵ֤י הַמִּשְׁכָּן֙ מִשְׁכַּ֣ן הָעֵדֻ֔ת אֲשֶׁ֥ר פֻּקַּ֖ד עַל־פִּ֣י מֹשֶׁ֑ה עֲבֹדַת֙ הַלְוִיִּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+      "en": "These are the records of the Tabernacle, the Tabernacle of the Pact, that were drawn up at Moses’ bidding—the work of the Levites under the direction of Ithamar son of Aaron the priest.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "אלה פקודי. בְּפָרָשָׁה זוֹ נִמְנוּ כָל מִשְׁקְלֵי נִדְבַת הַמִּשְׁכָּן, לַכֶּסֶף וְלַזָּהָב וְלַנְּחֹשֶׁת, וְנִמְנוּ כָל כֵּלָיו לְכָל עֲבוֹדָתוֹ:",
+          "en": "אלה פקודי THESE ARE THE SUMS [OF THE TABERNCLE] — In this section are enumerated all the weights of the metals given as a contribution for the Tabernacle, of silver, gold and copper, and also there are enumerated the vessels used for every kind of service in it.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "המשכן משכן. שְׁנֵי פְעָמִים, רֶמֶז לַמִּקְדָשׁ שֶׁנִּתְמַשְׁכֵּן בִּשְׁנֵי חֻרְבָּנִין עַל עֲוֹנוֹתֵיהֶן שֶׁל יִשְׂרָאֵל (תנחומא):",
+          "en": "המשכן משכן OF THE TABERNACLE, EVEN OF THE TABERNACLE — The word משכן is mentioned here twice in allusion to the Temple that was taken in pledge (משכן) — as it were — (as a security for Israel’s repentance) by being twice destroyed for Israel’s iniquities (Midrash Tanchuma, Pekudei 5).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "משכן העדת. עֵדוּת לְיִשְׂרָאֵל שֶׁוִּתֵּר לָהֶם הַקָּבָּ\"ה עַל מַעֲשֵׂה הָעֵגֶל, שֶׁהֲרֵי הִשְׁרָה שְׁכִינָתוֹ בֵּינֵיהֶם:",
+          "en": "משכן העדת THE TABERNACLE OF THE TESTIMONY — The Tabernacle was a testimony to Israel that God had shown Himself indulgent to them in respect to the incident of the golden calf, for through the Temple He made His Shechinah dwell amongst them (Midrash Tanchuma, Pekudei 6).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 4,
+          "he": "עבדת הלוים. פְּקוּדֵי הַמִּשְׁכָּן וְכֵלָיו הִיא עֲבוֹדָה הַמְּסוּרָה לַלְוִיִם בַּמִּדְבָּר – לָשֵׂאת וּלְהוֹרִיד וּלְהָקִים, אִישׁ אִישׁ לְמַשָּׂאוֹ הַמֻּפְקָד עָלָיו, כְּמוֹ שֶׁאָמוּר בְּפָ' נָשֹׂא:",
+          "en": "עבדת הלוים THE SERVICE OF THE LEVITES — The things in the Tabernacle which were counted and its vessels constituted the service entrusted to the Levites in the wilderness — to carry them, to take them down and to set them up, each man according to the burden which was assigned to him, as is set forth in the section נשא (Numbers 4).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 5,
+          "he": "ביד איתמר. הוּא הָיָה פָּקִיד עֲלֵיהֶם לִמְסֹר לְכָל בֵּית אָב עֲבוֹדָה שֶׁעָלָיו:",
+          "en": "ביד איתמר BY THE HAND OF ITHAMAR — He was the officer appointed over them (the Levites) with the duty to hand over to each “house of the father” (בית אב) the service that devolved upon it.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:22",
+      "he": "וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֣ה יְהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כׇּל־אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+      "en": "Now Bezalel, son of Uri son of Hur, of the tribe of Judah, had made all that GOD had commanded Moses;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובצלאל בן אורי וגו' עשה את כל אשר צוה ה' את משה. אֲשֶׁר צִוָּה מֹשֶׁה אֵין כְּתִיב כָּאן, אֶלָּא כָּל אֲשֶׁר צִוָּה ה' אֶת מֹשֶׁה, אֲפִלּוּ דְּבָרִים שֶׁלֹּא אָמַר לוֹ רַבּוֹ, הִסְכִּימָה דַּעְתּוֹ לְמַה שֶּׁנֶּאֱמַר לְמֹשֶׁה בְּסִינַי, כִּי מֹשֶׁה צִוָּה לִבְצַלְאֵל לַעֲשׂוֹת תְּחִלָּה כֵּלִים וְאַחַר כָּךְ מִשְׁכָּן, אָמַר לוֹ בְּצַלְאֵל מִנְהַג עוֹלָם לַעֲשׂוֹת תְּחִלָּה בַּיִת וְאַחַר כָּךְ מֵשִׂים כֵּלִים בְּתוֹכוֹ. אָמַר לוֹ כָּךְ שָׁמַעְתִּי מִפִּי הקב\"ה. אָמַר לוֹ מֹשֶׁה בְּצֵל אֵל הָיִיתָ, כִּי בְּוַדַּאי כָּךְ צִוָּה לִי הקב\"ה, וְכֵן עָשָׂה הַמִּשְׁכָּן תְּחִלָּה וְאַחַר כָּךְ עָשָׂה הַכֵּלִים:",
+          "en": "ובצלאל בן אורי וגו׳ עשה את כל אשר צוה ה' את משה AND BEZALEEL THE SON OF URI etc. MADE ALL THAT THE LORD COMMANDED MOSES — It is not stated here: אשר צֻוָּה (Bezaleel made all that he had been commanded), but “[Bezaleel made] all that the Lord commanded Moses” — even regarding such things which his teacher (Moses) did not tell him, his own opinion was in agreement with what had been told to Moses on Sinai (Jerusalem Talmud Peah 1:1; Bereishit Rabbah 1:14). [For Moses bade Bezaleel to make the vessels first and the Tabernacle afterwards but Bezaleel said to him: “Surely, it is the way of the world (the usual way) first to build a house and then to place the household utensils in it!” He (Moses) replied to him: “So, indeed, did I hear from the mouth of the Holy One, blessed be He”. Moses further said to him: (בצלאל), you must have been sitting in the shadow of God (בצל אל), for certainly did thus God command me!” And consequently Bezaleel made the Tabernacle first and afterwards he made the vessels (cf. Berakhot 55a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:23",
+      "he": "וְאִתּ֗וֹ אׇהֳלִיאָ֞ב בֶּן־אֲחִיסָמָ֛ךְ לְמַטֵּה־דָ֖ן חָרָ֣שׁ וְחֹשֵׁ֑ב וְרֹקֵ֗ם בַּתְּכֵ֙לֶת֙ וּבָֽאַרְגָּמָ֔ן וּבְתוֹלַ֥עַת הַשָּׁנִ֖י וּבַשֵּֽׁשׁ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "at his side was Oholiab son of Ahisamach, of the tribe of Dan, carver and designer, and embroiderer in blue, purple, and crimson yarns and in fine linen.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:24",
+      "he": "כׇּל־הַזָּהָ֗ב הֶֽעָשׂוּי֙ לַמְּלָאכָ֔ה בְּכֹ֖ל מְלֶ֣אכֶת הַקֹּ֑דֶשׁ וַיְהִ֣י&thinsp;׀ זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+      "en": "All the gold that was used for the work, in all the work of the sanctuary—the elevation offering of gold—came to 29 talentsetalents A talent here equals 3,000 shekels. and 730 shekels by the sanctuary weight.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ככר. שִׁשִּׁים מָנֶה, וּמָנֶה שֶׁל קֹדֶשׁ כָּפוּל הָיָה, הֲרֵי הַכִּכָּר ק\"כ מָנֶה, וְהַמָּנֶה כ\"ה סְלָעִים, הֲרֵי כִּכָּר שֶׁל קֹדֶשׁ שְׁלֹשֶׁת אֲלָפִים שְׁקָלִים, לְפִיכָךְ מָנָה בִּפְרוֹטְרוֹט כָּל הַשְּׁקָלִים שֶׁפְּחוּתִין בְּמִנְיָנָם מִג' אֲלָפִים, שֶׁאֵין מַגִּיעִין לְכִכָּר:",
+          "en": "ככר [TWENTY NINE] TALENTS — A common kikkar contains sixty common manehs, and the maneh of the Sanctuary (that used for purposes connected with the Temple) was double the common maneh. Consequently the kikkar here mentioned was 120 common manehs. Now a common maneh contained 25 Sela’im (or shekels), and the kikkar of the Sanctuary equals three thousand shekels. That is why Scripture counts (mentions the number of) all the shekels that are fewer than 3,000 as a separate item, because these do not together amount to a kikkar (cf. Bekhorot 5a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:25",
+      "he": "וְכֶ֛סֶף פְּקוּדֵ֥י הָעֵדָ֖ה מְאַ֣ת כִּכָּ֑ר וְאֶ֩לֶף֩ וּשְׁבַ֨ע מֵא֜וֹת וַחֲמִשָּׁ֧ה וְשִׁבְעִ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+      "en": "The silver of those of the community who were recorded came to 100 talents and 1,775 shekels by the sanctuary weight:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:26",
+      "he": "בֶּ֚קַע לַגֻּלְגֹּ֔לֶת מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ לְכֹ֨ל הָעֹבֵ֜ר עַל־הַפְּקֻדִ֗ים מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה לְשֵׁשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+      "en": "a half-shekelfhalf-shekel Heb. beqaʻ. a head, half a shekel by the sanctuary weight, for each one who was entered in the records, from the age of twenty years up, 603,550 men.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "בקע. הוּא שֵׁם מִשְׁקָל שֶׁל מַחֲצִית הַשֶּׁקֶל:",
+          "en": "בקע (from בָּקַע to split) is the name given to a weight of half a shekel.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "לשש מאות אלף וגו'. כָּךְ הָיוּ יִשְׂרָאֵל, וְכָךְ עָלָה מִנְיָנָם אַחַר שֶׁהוּקַם הַמִּשְׁכָּן בְּסֵפֶר וַיְדַבֵּר, וְאַף עַתָּה בְּנִדְבַת הַמִּשְׁכָּן כָּךְ הָיוּ, וּמִנְיַן חֲצָאֵי הַשְּׁקָלִים שֶׁל שֵׁשׁ מֵאוֹת אֶלֶף עוֹלֶה מְאַת כִּכָּר, כָּל אֶחָד שֶׁל שְׁלֹשֶׁת אֲלָפִים שְׁקָלִים, כֵּיצַד? שֵׁשׁ מֵאוֹת אֶלֶף חֲצָאִין הֲרֵי הֵן שְׁלֹשׁ מֵאוֹת אֶלֶף שְׁלֵמִים, הֲרֵי מְאַת כִּכָּר, וְהַשְּׁלֹשֶׁת אֲלָפִים וְה' מֵאוֹת וַחֲמִשִּׁים חֲצָאִים עוֹלִים אֶלֶף וְז' מֵאוֹת וְע\"ה שְׁקָלִים:",
+          "en": "לשש מאות אלף וגו׳ FOR SIX HUNDRED THOUSAND [AND THREE THOUSAND etc.] — Thus were the Israelites in number, and thus did their number amount to after the Tabernacle was set up, as it is stated in the Book of Numbers (ch. II), and at this time, also, when they contributed toward the Tabernacle they were just as many (cf. Rashi on Exodus 30:16). The half-shekels of 600,000 amount to a hundred talents, each talents consisting of three thousand shekels (cf. v. 25). How is this? 600,000 half-shekels are 300,000 whole shekels, making one hundred talents and the remaining 3550 half-shekels make 1775 whole shekels, as stated in the text.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:27",
+      "he": "וַיְהִ֗י מְאַת֙ כִּכַּ֣ר הַכֶּ֔סֶף לָצֶ֗קֶת אֵ֚ת אַדְנֵ֣י הַקֹּ֔דֶשׁ וְאֵ֖ת אַדְנֵ֣י הַפָּרֹ֑כֶת מְאַ֧ת אֲדָנִ֛ים לִמְאַ֥ת הַכִּכָּ֖ר כִּכָּ֥ר לָאָֽדֶן׃",
+      "en": "The 100 talents of silver were for casting the sockets of the sanctuary and the sockets for the curtain, 100 sockets to the 100 talents, a talent a socket.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לצקת. כְּתַרְגּוּמוֹ לְאַתָּכָא:",
+          "en": "לצקת means as the Targum has it: לאתכא, TO CAST.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את אדני הקדש. שֶׁל קַרְשֵׁי הַמִּשְׁכָּן, שֶהֵם מ\"ח קְרָשִׁים וְלָהֶן צ\"ו אֲדָנִים, וְאַדְנֵי הַפָּרֹכֶת אַרְבָּעָה, הֲרֵי מֵאָה, וְכָל שְׁאָר הָאֲדָנִים נְחֹשֶׁת כָּתוּב בָּהֶם:",
+          "en": "את אדני הקדש THE SOCKETS OF THE SANCTUARY — i. e. of the boards of the Tabernacle (the Sanctuary) which were forty-eight boards, and for these ninety-six sockets were required. The sockets for the partition vail were four in number, so we have altogether one hundred. As regards all the other sockets (those of the enclosure and of the vail at its entrance) they are not taken into account here, because “copper” was written concerning them (Scripture prescribes that they were to be of copper).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:28",
+      "he": "וְאֶת־הָאֶ֜לֶף וּשְׁבַ֤ע הַמֵּאוֹת֙ וַחֲמִשָּׁ֣ה וְשִׁבְעִ֔ים עָשָׂ֥ה וָוִ֖ים לָעַמּוּדִ֑ים וְצִפָּ֥ה רָאשֵׁיהֶ֖ם וְחִשַּׁ֥ק אֹתָֽם׃",
+      "en": "And of the 1,775 shekels he made hooks for the posts, overlay for their tops, and bands around them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וצפה ראשיהם. שֶׁל עַמּוּדִים מֵהֶן, שֶׁבְּכֻלָּן כְּתִיב וְצִפּוּי רָאשֵׁיהֶם וַחֲשֻׁקֵיהֶם כָּסֶף:",
+          "en": "וצפה ראשיהם [HE MADE HOOKS FOR THE COLUMNS] AND OVERLAID THEIR TOPS – the tops of the columns (not of the hooks) with them (the 1775 shekels of silver), for it is said with regard of all of them (the columns of the enclosure as well as of those of the vail at the entrance) (v. 19) “and the overlaying of their chapiters and their fillets were of silver”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:29",
+      "he": "וּנְחֹ֥שֶׁת הַתְּנוּפָ֖ה שִׁבְעִ֣ים כִּכָּ֑ר וְאַלְפַּ֥יִם וְאַרְבַּע־מֵא֖וֹת שָֽׁקֶל׃",
+      "en": "The copper from the elevation offering came to 70 talents and 2,400 shekels.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:30",
+      "he": "וַיַּ֣עַשׂ בָּ֗הּ אֶת־אַדְנֵי֙ פֶּ֚תַח אֹ֣הֶל מוֹעֵ֔ד וְאֵת֙ מִזְבַּ֣ח הַנְּחֹ֔שֶׁת וְאֶת־מִכְבַּ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁר־ל֑וֹ וְאֵ֖ת כׇּל־כְּלֵ֥י הַמִּזְבֵּֽחַ׃",
+      "en": "Of it he made the sockets for the entrance of the Tent of Meeting; the copper altar and its copper grating and all the utensils of the altar;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:31",
+      "he": "וְאֶת־אַדְנֵ֤י הֶֽחָצֵר֙ סָבִ֔יב וְאֶת־אַדְנֵ֖י שַׁ֣עַר הֶחָצֵ֑ר וְאֵ֨ת כׇּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־כׇּל־יִתְדֹ֥ת הֶחָצֵ֖ר סָבִֽיב׃",
+      "en": "the sockets of the enclosure round about and the sockets of the gate of the enclosure; and all the pegs of the Tabernacle and all the pegs of the enclosure round about.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:1",
+      "he": "וּמִן־הַתְּכֵ֤לֶת וְהָֽאַרְגָּמָן֙ וְתוֹלַ֣עַת הַשָּׁנִ֔י עָשׂ֥וּ בִגְדֵי־שְׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ וַֽיַּעֲשׂ֞וּ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+      "en": "Of the blue, purple, and crimson yarns they alsoaalso See 36.8. made the service vestments for officiating in the sanctuary; they made Aaron’s sacral vestments—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ומן התכלת והארגמן וגו'. שֵׁשׁ לֹא נֶאֱמַר כָּאן, וּמִכָּאן אֲנִי אוֹמֵר שֶׁאֵין בִּגְדֵי שְׂרָד הַלָּלוּ בִּגְדֵי כְהֻנָּה, שֶׁבְּבִגְדֵי כְהֻנָּה הָיָה שֵׁשׁ, אֶלָּא הֵם בְּגָדִים שֶׁמְּכַסִּים בָּהֶם כְּלֵי הַקֹּדֶשׁ בִּשְׁעַת סִלּוּק מַסָּעוֹת, שֶׁלֹּא הָיָה בָהֶם שֵׁשׁ:",
+          "en": "ומן התכלת והארגמן וגו׳ AND OF THE BLUE PURPLE AND OF THE RED PURPLE etc. — But there is no mention of linen here. From this fact I derive (cf. Rashi on Exodus 31:10) that these בגדי שרד mentioned here were not identical with the garments of the priests, for there was linen in the garments of the priests. But these were the cloths with which they covered up the holy vessels at the time of removing and packing up the articles in the Tabernacle when they set out on their journeyings which indeed had no linen in them.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:2",
+      "he": "וַיַּ֖עַשׂ אֶת־הָאֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+      "en": "The ephod was madebwas made Here and elsewhere in this chapter, the singular active verb (lit. “he made”) is used impersonally. of gold, blue, purple, and crimson yarns, and fine twisted linen.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:3",
+      "he": "וַֽיְרַקְּע֞וּ אֶת־פַּחֵ֣י הַזָּהָב֮ וְקִצֵּ֣ץ פְּתִילִם֒ לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ מַעֲשֵׂ֖ה חֹשֵֽׁב׃",
+      "en": "They hammered out sheets of gold and cut threads to be worked into designs among the blue, the purple, and the crimson yarns, and the fine linen.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וירקעו. כְּמוֹ לְרֹקַע הָאָרֶץ (תהילים קל\"ו), כְּתַרְגּוּמוֹ וּרְדִידוּ, טַסִּין הָיוּ מְרַדְּדִין מִן הַזָּהָב, אשטנ\"דרא בְּלַעַז, טַסִּין דַּקּוֹת. כָּאן הוּא מְלַמֶּדְךָ הֵיאַךְ הָיוּ טוֹוִין אֶת הַזָּהָב עִם הַחוּטִין, מְרַדְּדִים טַסִּין דַּקִּין, וְקוֹצְצִין מֵהֶן פְּתִילִים לְאֹרֶךְ הַטַּס – לַעֲשׂוֹת אוֹתָן פְּתִילִים תַּעֲרֹבֶת עִם כָּל מִין וָמִין בַּחֹשֶׁן וְאֵפוֹד שֶׁנֶּ' בָּהֶן זָהָב, חוּט אֶחָד שֶׁל זָהָב עִם ו' חוּטִין שֶׁל תְּכֵלֶת, וְכֵן עִם כָּל מִין וָמִין, שֶׁכָּל הַמִּינִים חוּטָן כָּפוּל ו', וְהַזָּהָב חוּט שְׁבִיעִי עִם כָּל אֶחָד וְאֶחָד:",
+          "en": "וירקעו AND THEY DID EXTEND — וירקעו is of the same root and meaning as, (Psalms 136:6) “To Him that stretcheth out (לרקע) the earth”. Render וירקעו as the Targum does: ורדידו, they extended by beating. Plates did they beat out of the gold; in old French estendre — to extend into thin plates. Here it informs you how they wove the gold together with the woollen threads. They beat out the thin plates and from them they cut threads along the length of the plates to make of these threads a mixture (to mix them) with each of the different kind of woolen threads in the ephod and the breast-plate in regard to which gold is mentioned in this connection. One thread of gold they intertwined with six threads of blue purple, and so with each kind of wool. For all the materials had their threads six-fold, and the gold formed the seventh with each of them (cf. Yoma 72a).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:4",
+      "he": "כְּתֵפֹ֥ת עָֽשׂוּ־ל֖וֹ חֹבְרֹ֑ת עַל־שְׁנֵ֥י (קצוותו) [קְצוֹתָ֖יו] חֻבָּֽר׃",
+      "en": "They made for it attaching shoulder-pieces; they were attached at its two ends.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:5",
+      "he": "וְחֵ֨שֶׁב אֲפֻדָּת֜וֹ אֲשֶׁ֣ר עָלָ֗יו מִמֶּ֣נּוּ הוּא֮ כְּמַעֲשֵׂ֒הוּ֒ זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "The decorated band that was upon it was made like it, of one piece with it; of gold, blue, purple, and crimson yarns, and fine twisted linen—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:6",
+      "he": "וַֽיַּעֲשׂוּ֙ אֶת־אַבְנֵ֣י הַשֹּׁ֔הַם מֻֽסַבֹּ֖ת מִשְׁבְּצֹ֣ת זָהָ֑ב מְפֻתָּחֹת֙ פִּתּוּחֵ֣י חוֹתָ֔ם עַל־שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "en": "They bordered the lazuli stones with frames of gold, engraved with seal engravings of the names of the sons of Israel.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:7",
+      "he": "וַיָּ֣שֶׂם אֹתָ֗ם עַ֚ל כִּתְפֹ֣ת הָאֵפֹ֔ד אַבְנֵ֥י זִכָּר֖וֹן לִבְנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+      "en": "They were set on the shoulder-pieces of the ephod, as stones of remembrance for the Israelites—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:8",
+      "he": "וַיַּ֧עַשׂ אֶת־הַחֹ֛שֶׁן מַעֲשֵׂ֥ה חֹשֵׁ֖ב כְּמַעֲשֵׂ֣ה אֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+      "en": "The breastpiece was made in the style of the ephod: of gold, blue, purple, and crimson yarns, and fine twisted linen.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:9",
+      "he": "רָב֧וּעַ הָיָ֛ה כָּפ֖וּל עָשׂ֣וּ אֶת־הַחֹ֑שֶׁן זֶ֧רֶת אׇרְכּ֛וֹ וְזֶ֥רֶת רׇחְבּ֖וֹ כָּפֽוּל׃",
+      "en": "It was square; they made the breastpiece doubled—a span in length and a span in width, doubled.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:10",
+      "he": "וַיְמַ֨לְאוּ־ב֔וֹ אַרְבָּעָ֖ה ט֣וּרֵי אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃",
+      "en": "They set in it four rows of stones. The first row was a row ofccarnelian, chrysolite,… See note at 28.17. carnelian, chrysolite, and emerald;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:11",
+      "he": "וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃",
+      "en": "the second row: a turquoise, a sapphire, and an amethyst;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:12",
+      "he": "וְהַטּ֖וּר הַשְּׁלִישִׁ֑י לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃",
+      "en": "the third row: a jacinth, an agate, and a crystal;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:13",
+      "he": "וְהַטּוּר֙ הָֽרְבִיעִ֔י תַּרְשִׁ֥ישׁ שֹׁ֖הַם וְיָשְׁפֵ֑ה מֽוּסַבֹּ֛ת מִשְׁבְּצֹ֥ת זָהָ֖ב בְּמִלֻּאֹתָֽם׃",
+      "en": "and the fourth row: a beryl, a lapis lazuli, and a jasper. They were encircled in their mountings with frames of gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:14",
+      "he": "וְ֠הָאֲבָנִ֠ים עַל־שְׁמֹ֨ת בְּנֵי־יִשְׂרָאֵ֥ל הֵ֛נָּה שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־שְׁמֹתָ֑ם פִּתּוּחֵ֤י חֹתָם֙ אִ֣ישׁ עַל־שְׁמ֔וֹ לִשְׁנֵ֥ים עָשָׂ֖ר שָֽׁבֶט׃",
+      "en": "The stones corresponded [in number] to the names of the sons of Israel: twelve, corresponding to their names; engraved like seals, each with its name, for the twelve tribes.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:15",
+      "he": "וַיַּעֲשׂ֧וּ עַל־הַחֹ֛שֶׁן שַׁרְשְׁרֹ֥ת גַּבְלֻ֖ת מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃",
+      "en": "On the breastpiece they made braided chains of corded work in pure gold.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:16",
+      "he": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ מִשְׁבְּצֹ֣ת זָהָ֔ב וּשְׁתֵּ֖י טַבְּעֹ֣ת זָהָ֑ב וַֽיִּתְּנ֗וּ אֶת־שְׁתֵּי֙ הַטַּבָּעֹ֔ת עַל־שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃",
+      "en": "They made two frames of gold and two rings of gold, and fastened the two rings at the two ends of the breastpiece,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:17",
+      "he": "וַֽיִּתְּנ֗וּ שְׁתֵּי֙ הָעֲבֹתֹ֣ת הַזָּהָ֔ב עַל־שְׁתֵּ֖י הַטַּבָּעֹ֑ת עַל־קְצ֖וֹת הַחֹֽשֶׁן׃",
+      "en": "attaching the two golden cords to the two rings at the ends of the breastpiece.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:18",
+      "he": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָֽעֲבֹתֹ֔ת נָתְנ֖וּ עַל־שְׁתֵּ֣י הַֽמִּשְׁבְּצֹ֑ת וַֽיִּתְּנֻ֛ם עַל־כִּתְפֹ֥ת הָאֵפֹ֖ד אֶל־מ֥וּל פָּנָֽיו׃",
+      "en": "They then fastened the two ends of the cords to the two frames, attaching them to the shoulder-pieces of the ephod, at the front.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:19",
+      "he": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ טַבְּעֹ֣ת זָהָ֔ב וַיָּשִׂ֕ימוּ עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
+      "en": "They made two rings of gold and attached them to the two ends of the breastpiece, at its inner edge, which faced the ephod.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:20",
+      "he": "וַֽיַּעֲשׂוּ֮ שְׁתֵּ֣י טַבְּעֹ֣ת זָהָב֒ וַֽיִּתְּנֻ֡ם עַל־שְׁתֵּי֩ כִתְפֹ֨ת הָאֵפֹ֤ד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֹֽד׃",
+      "en": "They made two other rings of gold and fastened them on the front of the ephod, low on the two shoulder-pieces, close to its seam above the decorated band.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:21",
+      "he": "וַיִּרְכְּס֣וּ אֶת־הַחֹ֡שֶׁן מִטַּבְּעֹתָיו֩ אֶל־טַבְּעֹ֨ת הָאֵפֹ֜ד בִּפְתִ֣יל תְּכֵ֗לֶת לִֽהְיֹת֙ עַל־חֵ֣שֶׁב הָאֵפֹ֔ד וְלֹֽא־יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֹ֑ד כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+      "en": "The breastpiece was held in place by a cord of blue from its rings to the rings of the ephod, so that the breastpiece rested on the decorated band and did not come loose from the ephod—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:22",
+      "he": "וַיַּ֛עַשׂ אֶת־מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תְּכֵֽלֶת׃",
+      "en": "The robe for the ephod was made of woven work, of pure blue.dof pure blue See note at 28.31.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:23",
+      "he": "וּפִֽי־הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ׃",
+      "en": "The opening of the robe, in the middle of it, was like the opening of a coat of mail, with a binding around the opening, so that it would not tear.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:24",
+      "he": "וַֽיַּעֲשׂוּ֙ עַל־שׁוּלֵ֣י הַמְּעִ֔יל רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מׇשְׁזָֽר׃",
+      "en": "On the hem of the robe they made pomegranates of blue, purple, and crimson yarns, twisted.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:25",
+      "he": "וַיַּעֲשׂ֥וּ פַעֲמֹנֵ֖י זָהָ֣ב טָה֑וֹר וַיִּתְּנ֨וּ אֶת־הַפַּֽעֲמֹנִ֜ים בְּת֣וֹךְ הָרִמֹּנִ֗ים עַל־שׁוּלֵ֤י הַמְּעִיל֙ סָבִ֔יב בְּת֖וֹךְ הָרִמֹּנִֽים׃",
+      "en": "They also made bells of pure gold, and attached the bells between the pomegranates, all around the hem of the robe, between the pomegranates:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:26",
+      "he": "פַּעֲמֹ֤ן וְרִמֹּן֙ פַּעֲמֹ֣ן וְרִמֹּ֔ן עַל־שׁוּלֵ֥י הַמְּעִ֖יל סָבִ֑יב לְשָׁרֵ֕ת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe for officiating in—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:27",
+      "he": "וַֽיַּעֲשׂ֛וּ אֶת־הַכׇּתְנֹ֥ת שֵׁ֖שׁ מַעֲשֵׂ֣ה אֹרֵ֑ג לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+      "en": "They made the tunics of fine linen, of woven work, for Aaron and his sons;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:28",
+      "he": "וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת־פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ וְאֶת־מִכְנְסֵ֥י הַבָּ֖ד שֵׁ֥שׁ מׇשְׁזָֽר׃",
+      "en": "and the headdress of fine linen, and the decorated turbans of fine linen, and the linen breeches of fine twisted linen;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ואת פארי המגבעת. תִּפְאֶרֶת הַמִּגְבָּעוֹת – הַמִּגְבָּעוֹת הַמְּפֹאָרוֹת:",
+          "en": "ואת פארי המגבעות means the beauty of the high caps — this is equivalent to: the beautiful high caps.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:29",
+      "he": "וְֽאֶת־הָאַבְנֵ֞ט שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י מַעֲשֵׂ֣ה רֹקֵ֑ם כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "and sashes of fine twisted linen, blue, purple, and crimson yarns, done in embroidery—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:30",
+      "he": "וַֽיַּעֲשׂ֛וּ אֶת־צִ֥יץ נֵֽזֶר־הַקֹּ֖דֶשׁ זָהָ֣ב טָה֑וֹר וַיִּכְתְּב֣וּ עָלָ֗יו מִכְתַּב֙ פִּתּוּחֵ֣י חוֹתָ֔ם קֹ֖דֶשׁ לַיהֹוָֽה׃",
+      "en": "They made the frontlet for the holy diadem of pure gold, and incised upon it the seal inscription: “Holy to GOD.”",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:31",
+      "he": "וַיִּתְּנ֤וּ עָלָיו֙ פְּתִ֣יל תְּכֵ֔לֶת לָתֵ֥ת עַל־הַמִּצְנֶ֖פֶת מִלְמָ֑עְלָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "They attached to it a cord of blue to fix it upon the headdress above—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לתת על המצנפת מלמעלה. וְעַ\"יְ הַפְּתִילִים הָיָה מוֹשִׁיבוֹ עַל הַמִּצְנֶפֶת כְּמִין כֶּתֶר; וְאִ\"אֶ לוֹמַר הַצִּיץ עַל הַמִּצְנֶפֶת, שֶׁהֲרֵי בִשְׁחִיטַת קָדָשִׁים שָׁנִינוּ שְׂעָרוֹ הָיָה נִרְאֶה בֵּין צִיץ לַמִּצְנֶפֶת שֶׁשָּׁם מֵנִיחַ תְּפִלִּין, וְהַצִּיץ הָיָה נָתוּן עַל הַמֶּצַח, הֲרֵי הַמִּצְנֶפֶת לְמַעְלָה וְהַצִּיץ לְמַטָּה, וּמַהוּ עַל הַמִּצְנֶפֶת מִלְמָעְלָה? וְעוֹד הִקְשֵׁיתִי בָהּ – כָּאן הוּא אוֹמֵר וַיִּתְּנוּ עָלָיו פְּתִיל תְּכֵלֶת, וּבְעִנְיַן הַצַּוָּאָה הוּא אוֹמֵר וְשַׂמְתָּ אוֹתוֹ עַל פְּתִיל תְּכֵלֶת? וְאוֹמֵר אֲנִי, פְּתִיל תְּכֵלֶת זֶה חוּטִין הֵן, לְקָשְׁרוֹ בָּהֶן בַּמִּצְנֶפֶת – לְפִי שֶׁהַצִּיץ אֵינוֹ אֶלָּא מֵאֹזֶן לְאֹזֶן וּבַמֶּה יִקְשְׁרֶנּוּ בְמִצְחוֹ? – וְהָיוּ קְבוּעִין בּוֹ חוּטֵי תְכֵלֶת לִשְׁנֵי רָאשָׁיו וּבְאֶמְצָעִיתוֹ, שֶׁבָּהֶן קוֹשְׁרוֹ וְתוֹלֵהוּ בַמִּצְנֶפֶת כְּשֶׁהוּא בְרֹאשׁוֹ, וּשְׁנֵי חוּטִין הָיוּ בְּכָל קָצֶה וְקָצֶה, אֶחָד מִמַּעַל וְאֶחָד מִתַּחַת לְצַד מִצְחוֹ, וְכֵן בְּאֶמְצָעוֹ, שֶׁכָּךְ הוּא נֹחַ לִקְשֹׁר, וְאֵין דֶּרֶךְ קְשִׁירָה בְּפָחוֹת מִשְּׁנֵי חוּטִין, לְכָךְ נֶאֱמַר עַל פְּתִיל תְּכֵלֶת, וְעָלָיו פְּתִיל תְּכֵלֶת, וְקוֹשֵׁר רָאשֵׁיהֶם הַשְּׁנַיִם כֻּלָּן יַחַד מֵאֲחוֹרָיו לְמוּל עָרְפּוֹ, וּמוֹשִׁיבוֹ עַל הַמִּצְנֶפֶת; וְאַל תִּתְמַהּ שֶׁלֹּא נֶאֱמַר פְּתִילֵי תְכֵלֶת הוֹאִיל וּמְרֻבִּין הֵן, שֶׁהֲרֵי מָצִינוּ בְחֹשֶׁן וְאֵפוֹד וַיִּרְכְּסוּ אֶת הַחֹשֶׁן … בִּפְתִיל תְּכֵלֶת, וְעַל כָּרְחֲךָ פָּחוֹת מִשְּׁנַיִם לֹא הָיוּ שֶׁהֲרֵי בִשְׁנֵי קְצוֹת הַחֹשֶׁן הָיוּ ב' טַבְּעוֹת הַחֹשֶׁן, וּבִשְׁתֵּי כִתְפוֹת הָאֵפוֹד הָיוּ ב' טַבְּעוֹת הָאֵפוֹד, שֶׁכְּנֶגְדָן, וּלְפִי דֶּרֶךְ קְשִׁירָה ד' חוּטִין הָיוּ וּמִכָּל מָקוֹם פָּחוֹת מִשְּׁנַיִם אִ\"אֶ:",
+          "en": "לתת על המצנפת מלמעלה TO FASTEN IT ON HIGH UPON THE MITRE — and by means of the threads he placed it on the mitre as though it were a kind of crown. It is, however, impossible to say that לתת על המצנפת means to put the plate on the mitre, for in the Treatise on the Slaughter of the Sacrifices (Zevachim 19a) we learn: His (the High Priest’s) hair was visible between the plate and the mitre, whereon he placed the Tephillin”. Now the plate rested on his forehead (cf. Exodus 28:38), consequently the mitre was above (on the crown of the head) and the plate beneath (on the forehead). What then can be the meaning of “to fasten it on high upon the mitre”? Besides, I have put another question about this: here it says, “and they put upon it (the plate) a thread of blue purple” and in the section where the command is given it states, (Exodus 28:37) “And thou shalt put it on a blue purple string” (so that the plate was above the thread, not beneath it as is here commanded). I therefore say that this פתיל of blue purple mentioned here was not an ornament but threads by which to tie it (the plate) on the mitre. For the plate reached only from one ear to the other, so with what could they tie it to his forehead? So blue purple threads were attached to it at its (the plate’s) two ends and on the middle by means of which they tied it on and hung it on the mitre whenever this was on his head. There were two threads on each end (of the plate) one on its upper side and the other underneath, on the side next to the forehead and so also at the middle of it (the plate) — because in this way it was easy to tie it on. Since, however, the way of tying a thing on is by not less than two threads the text is justified in saying both, (Exodus 23:37) “[And thou shalt put it] on a blue purple thread” and here “and they put upon it a thread of blue purple”. He (the High Priest) tied both ends of all of them (of all the threads) together behind him on his neck, and thus placed it (the plate) on the mitre. Do not be puzzled because it does not say “threads of blue purple” seeing that there were many (three double threads altogether), for we find the same thing in the case of the breast-plate and the ephod: (Exodus 28:28) “And they shall fasten the breast-plate by the rings thereof unto the rings of the ephod … with a string (and not with strings) of blue purple” and you must admit that there could not have been less than two strings, for at the two ends of the breast-plate were the two rings of the breast-plate and on the two shoulder-pieces of the ephod were the two rings of the ephod opposite to them. Now according to the way the breast-plate was tied on there were four threads, and under any circumstances with less than two it would have been impossible to tie it on, and yet Scripture speaks of “a string” of blue purple.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:32",
+      "he": "וַתֵּ֕כֶל כׇּל־עֲבֹדַ֕ת מִשְׁכַּ֖ן אֹ֣הֶל מוֹעֵ֑ד וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;{פ}",
+      "en": "Thus was completed all the work of the Tabernacle of the Tent of Meeting. The Israelites did so; just as GOD had commanded Moses, so they did.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעשו בני ישראל. אֶת הַמְּלָאכָה ככל אשר צוה ה' וגו':",
+          "en": "ויעשו בני ישראל AND THE CHILDREN OF ISRAEL MADE the work ככל אשר צוה ה' וגו׳ ACCORDING TO ALL THAT THE LORD COMMANDED MOSES [SO DID THEY] or [SO THEY MADE IT].",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:33",
+      "he": "וַיָּבִ֤יאוּ אֶת־הַמִּשְׁכָּן֙ אֶל־מֹשֶׁ֔ה אֶת־הָאֹ֖הֶל וְאֶת־כׇּל־כֵּלָ֑יו קְרָסָ֣יו קְרָשָׁ֔יו בְּרִיחָ֖ו וְעַמֻּדָ֥יו וַאֲדָנָֽיו׃",
+      "en": "Then they brought the Tabernacle to Moses, with the Tent and all its furnishings: its clasps, its planks, its bars, its posts, and its sockets;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויביאו את המשכן וגו'. שֶׁלֹּא הָיוּ יְכוֹלִין לַהֲקִימוֹ; וּלְפִי שֶׁלֹּא עָשָׂה מֹשֶׁה שׁוּם מְלָאכָה בַמִּשְׁכָּן, הִנִּיחַ לוֹ הַקָּבָּ\"ה הֲקָמָתוֹ, שֶׁלֹּא הָיָה יָכוֹל לַהֲקִימוֹ שׁוּם אָדָם מֵחֲמַת כֹּבֶד הַקְּרָשִׁים, שֶׁאֵין כֹּחַ בָּאָדָם לְזָקְפָן, וּמֹשֶׁה הֶעֱמִידוֹ; אָמַר מֹשֶׁה לִפְנֵי הַקָּבָּ\"ה אֵיךְ אֶפְשָׁר הֲקָמָתוֹ עַ\"יְ אָדָם? אָמַר לוֹ עֲסֹק אַתָּה בְּיָדְךָ, וְנִרְאֶה כִּמְקִימוֹ וְהוּא נִזְקָף וְקָם מֵאֵלָיו, וְזֶהוּ שֶׁנֶּ' הוּקַם הַמִּשְׁכָּן (שמות מ') – הוּקַם מֵאֵלָיו; מִדְרַשׁ רַ' תַנְחוּמָא:",
+          "en": "ויביאו את המשכן וגו׳ AND THEY BROUGHT THE TABERNACLE [UNTO MOSES etc.], for they themselves were unable to erect it. Since Moses had done no work in the Mishkan, the Holy One, blessed is He, left for him the task of erecting it, for nobody was able to set it up because of the weight of the boards which no human strength was capable of setting up. Moses, however, succeeded in placing it in position. Moses said to the Holy One, blessed be He, “How is its erection possible by human beings?” God answered him: “You be busy with your hand!” He appeared to be erecting it, but in fact it set itself up and rose of its own accord. That is why Scripture says, (Exodus 40:17) “The Tabernacle was erected (הוקם)” — was erected by itself. This is a Midrash of Rabbi Tanchuma 2:11:11.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:34",
+      "he": "וְאֶת־מִכְסֵ֞ה עוֹרֹ֤ת הָֽאֵילִם֙ הַמְאׇדָּמִ֔ים וְאֶת־מִכְסֵ֖ה עֹרֹ֣ת הַתְּחָשִׁ֑ים וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃",
+      "en": "the covering of tanned ram skins, the covering of dolphinedolphin See note at 25.5. skins, and the curtain for the screen;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:35",
+      "he": "אֶת־אֲר֥וֹן הָעֵדֻ֖ת וְאֶת־בַּדָּ֑יו וְאֵ֖ת הַכַּפֹּֽרֶת׃",
+      "en": "the Ark of the Pact and its poles, and the cover;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:36",
+      "he": "אֶת־הַשֻּׁלְחָן֙ אֶת־כׇּל־כֵּלָ֔יו וְאֵ֖ת לֶ֥חֶם הַפָּנִֽים׃",
+      "en": "the table and all its utensils, and the bread of display;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:37",
+      "he": "אֶת־הַמְּנֹרָ֨ה הַטְּהֹרָ֜ה אֶת־נֵרֹתֶ֗יהָ נֵרֹ֛ת הַמַּֽעֲרָכָ֖ה וְאֶת־כׇּל־כֵּלֶ֑יהָ וְאֵ֖ת שֶׁ֥מֶן הַמָּאֽוֹר׃",
+      "en": "the pure lampstand,fpure lampstand See note at 31.8. its lamps—lamps in due order—and all its fittings, and the oil for lighting;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:38",
+      "he": "וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב וְאֵת֙ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְאֵ֖ת קְטֹ֣רֶת הַסַּמִּ֑ים וְאֵ֕ת מָסַ֖ךְ פֶּ֥תַח הָאֹֽהֶל׃",
+      "en": "the altar of gold, the oil for anointing, the aromatic incense, and the screen for the entrance of the Tent;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:39",
+      "he": "אֵ֣ת&thinsp;׀ מִזְבַּ֣ח הַנְּחֹ֗שֶׁת וְאֶת־מִכְבַּ֤ר הַנְּחֹ֙שֶׁת֙ אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃",
+      "en": "the copper altar with its copper grating, its poles and all its utensils, and the laver and its stand;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:40",
+      "he": "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־עַמֻּדֶ֣יהָ וְאֶת־אֲדָנֶ֗יהָ וְאֶת־הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר אֶת־מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ וְאֵ֗ת כׇּל־כְּלֵ֛י עֲבֹדַ֥ת הַמִּשְׁכָּ֖ן לְאֹ֥הֶל מוֹעֵֽד׃",
+      "en": "the hangings of the enclosure, its posts and its sockets, the screen for the gate of the enclosure, its cords and its pegs—all the furnishings for the service of the Tabernacle, the Tent of Meeting;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:41",
+      "he": "אֶת־בִּגְדֵ֥י הַשְּׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃",
+      "en": "the service vestments for officiating in the sanctuary, the sacral vestments of Aaron the priest, and the vestments of his sons for priestly service.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:42",
+      "he": "כְּכֹ֛ל אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה כֵּ֤ן עָשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת כׇּל־הָעֲבֹדָֽה׃",
+      "en": "Just as GOD had commanded Moses, so the Israelites had done all the work.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:43",
+      "he": "וַיַּ֨רְא מֹשֶׁ֜ה אֶת־כׇּל־הַמְּלָאכָ֗ה וְהִנֵּה֙ עָשׂ֣וּ אֹתָ֔הּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה כֵּ֣ן עָשׂ֑וּ וַיְבָ֥רֶךְ אֹתָ֖ם מֹשֶֽׁה׃&nbsp;{פ}",
+      "en": "And when Moses saw that they had performed all the tasks—as GOD had commanded, so they had done—Moses blessed them.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויברך אתם משה. אָמַר לָהֶם יְהִי רָצוֹן שֶׁתִּשְׁרֶה שְׁכִינָה בְמַעֲשֵׂה יְדֵיכֶם, וִיהִי נֹעַם ה' אֱלֹהֵינוּ עָלֵינוּ וְגוֹ', וְהוּא אֶחָד מִי\"א מִזְמוֹרִים שֶׁבִּתְפִלָּה לְמֹשֶׁה (ספרא):",
+          "en": "ויברך אתם משה AND MOSES BLESSED THEM — He said to them “May it be the will of God that His Shechinah rest upon the work of your hands; ‘and let the beauty of the Lord our God be upon us and establish Thou the work of our hands upon us’” (Psalms 90:17.) (Sifra, Shemini, Mechilta d'Miluim 2 15) This (from ויהי נועם onward) is part of one of the eleven Psalms (90—100) that are in the section beginning with, תפלה למשה; (Numbers Rabbah 12:9).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:1",
+      "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "en": "And GOD spoke to Moses, saying:",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:2",
+      "he": "בְּיוֹם־הַחֹ֥דֶשׁ הָרִאשׁ֖וֹן בְּאֶחָ֣ד לַחֹ֑דֶשׁ תָּקִ֕ים אֶת־מִשְׁכַּ֖ן אֹ֥הֶל מוֹעֵֽד׃",
+      "en": "On the first day of the first month you shall set up the Tabernacle of the Tent of Meeting.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:3",
+      "he": "וְשַׂמְתָּ֣ שָׁ֔ם אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְסַכֹּתָ֥ עַל־הָאָרֹ֖ן אֶת־הַפָּרֹֽכֶת׃",
+      "en": "Place there the Ark of the Pact, and screen off the ark with the curtain.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וסכת על הארן. לְשׁוֹן הַגָּנָה, שֶׁהֲרֵי מְחִצָּה הָיְתָה:",
+          "en": "וסכת על הארן means AND THOU SHALT SCREEN THE ARK — וסכת denotes screening and it is the correct term to use, for it (the veil) formed a partition (cf. Rashi on Exodus 35:12).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:4",
+      "he": "וְהֵבֵאתָ֙ אֶת־הַשֻּׁלְחָ֔ן וְעָרַכְתָּ֖ אֶת־עֶרְכּ֑וֹ וְהֵבֵאתָ֙ אֶת־הַמְּנֹרָ֔ה וְהַעֲלֵיתָ֖ אֶת־נֵרֹתֶֽיהָ׃",
+      "en": "Bring in the table and lay out its due setting; bring in the lampstand and light its lamps;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "וערכת את ערכו. שְׁתַּיִם מַעֲרָכוֹת שֶׁל לֶחֶם הַפָּנִים:",
+          "en": "וערכת את ערכו AND SET ITS ROWS — the two piles of the show-bread.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:5",
+      "he": "וְנָתַתָּ֞ה אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲר֣וֹן הָעֵדֻ֑ת וְשַׂמְתָּ֛ אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+      "en": "and place the gold altar of incense before the Ark of the Pact. Then put up the screen for the entrance of the Tabernacle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:6",
+      "he": "וְנָ֣תַתָּ֔ה אֵ֖ת מִזְבַּ֣ח הָעֹלָ֑ה לִפְנֵ֕י פֶּ֖תַח מִשְׁכַּ֥ן אֹֽהֶל־מוֹעֵֽד׃",
+      "en": "You shall place the altar of burnt offering before the entrance of the Tabernacle of the Tent of Meeting.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:7",
+      "he": "וְנָֽתַתָּ֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וְנָתַתָּ֥ שָׁ֖ם מָֽיִם׃",
+      "en": "Place the laver between the Tent of Meeting and the altar, and put water in it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:8",
+      "he": "וְשַׂמְתָּ֥ אֶת־הֶחָצֵ֖ר סָבִ֑יב וְנָ֣תַתָּ֔ אֶת־מָסַ֖ךְ שַׁ֥עַר הֶחָצֵֽר׃",
+      "en": "Set up the enclosure round about, and put in place the screen for the gate of the enclosure.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:9",
+      "he": "וְלָקַחְתָּ֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה וּמָשַׁחְתָּ֥ אֶת־הַמִּשְׁכָּ֖ן וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ וְקִדַּשְׁתָּ֥ אֹת֛וֹ וְאֶת־כׇּל־כֵּלָ֖יו וְהָ֥יָה קֹֽדֶשׁ׃",
+      "en": "You shall take the anointing oil and anoint the Tabernacle and all that is in it to consecrate it and all its furnishings, so that it shall be holy.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:10",
+      "he": "וּמָשַׁחְתָּ֛ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־כׇּל־כֵּלָ֑יו וְקִדַּשְׁתָּ֙ אֶת־הַמִּזְבֵּ֔חַ וְהָיָ֥ה הַמִּזְבֵּ֖חַ קֹ֥דֶשׁ קׇֽדָשִֽׁים׃",
+      "en": "Then anoint the altar of burnt offering and all its utensils to consecrate the altar, so that the altar shall be most holy.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:11",
+      "he": "וּמָשַׁחְתָּ֥ אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּ֑וֹ וְקִדַּשְׁתָּ֖ אֹתֽוֹ׃",
+      "en": "And anoint the laver and its stand to consecrate it.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:12",
+      "he": "וְהִקְרַבְתָּ֤ אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֔יו אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃",
+      "en": "You shall bring Aaron and his sons forward to the entrance of the Tent of Meeting and wash them with the water.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:13",
+      "he": "וְהִלְבַּשְׁתָּ֙ אֶֽת־אַהֲרֹ֔ן אֵ֖ת בִּגְדֵ֣י הַקֹּ֑דֶשׁ וּמָשַׁחְתָּ֥ אֹת֛וֹ וְקִדַּשְׁתָּ֥ אֹת֖וֹ וְכִהֵ֥ן לִֽי׃",
+      "en": "Put the sacral vestments on Aaron, and anoint him and consecrate him, that he may serve Me as priest.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:14",
+      "he": "וְאֶת־בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֥ אֹתָ֖ם כֻּתֳּנֹֽת׃",
+      "en": "Then bring his sons forward, put tunics on them,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:15",
+      "he": "וּמָשַׁחְתָּ֣ אֹתָ֗ם כַּאֲשֶׁ֤ר מָשַׁ֙חְתָּ֙ אֶת־אֲבִיהֶ֔ם וְכִהֲנ֖וּ לִ֑י וְ֠הָיְתָ֠ה לִהְיֹ֨ת לָהֶ֧ם מׇשְׁחָתָ֛ם לִכְהֻנַּ֥ת עוֹלָ֖ם לְדֹרֹתָֽם׃",
+      "en": "and anoint them as you have anointed their father, that they may serve Me as priests. This their anointing shall serve them for everlasting priesthood throughout the ages.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:16",
+      "he": "וַיַּ֖עַשׂ מֹשֶׁ֑ה כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֹת֖וֹ כֵּ֥ן עָשָֽׂה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "This Moses did; just as GOD had commanded him, so he did.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:17",
+      "he": "וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּאֶחָ֣ד לַחֹ֑דֶשׁ הוּקַ֖ם הַמִּשְׁכָּֽן׃",
+      "en": "In the first month of the second year, on the first of the month, the Tabernacle was set up.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:18",
+      "he": "וַיָּ֨קֶם מֹשֶׁ֜ה אֶת־הַמִּשְׁכָּ֗ן וַיִּתֵּן֙ אֶת־אֲדָנָ֔יו וַיָּ֙שֶׂם֙ אֶת־קְרָשָׁ֔יו וַיִּתֵּ֖ן אֶת־בְּרִיחָ֑יו וַיָּ֖קֶם אֶת־עַמּוּדָֽיו׃",
+      "en": "Moses set up the Tabernacle, placing its sockets, setting up its planks, inserting its bars, and erecting its posts.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:19",
+      "he": "וַיִּפְרֹ֤שׂ אֶת־הָאֹ֙הֶל֙ עַל־הַמִּשְׁכָּ֔ן וַיָּ֜שֶׂם אֶת־מִכְסֵ֥ה הָאֹ֛הֶל עָלָ֖יו מִלְמָ֑עְלָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "He spread the tent over the Tabernacle, placing the covering of the tent on top of it—just as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויפרש את האהל. הֵן יְרִיעוֹת הָעִזִּים:",
+          "en": "ויפרש את האהל AND HE SPREAD THE TENT The אהל is the curtains of goats’ skins.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:20",
+      "he": "וַיִּקַּ֞ח וַיִּתֵּ֤ן אֶת־הָעֵדֻת֙ אֶל־הָ֣אָרֹ֔ן וַיָּ֥שֶׂם אֶת־הַבַּדִּ֖ים עַל־הָאָרֹ֑ן וַיִּתֵּ֧ן אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָֽעְלָה׃",
+      "en": "He took the Pact and placed it in the ark; he fixed the poles to the ark, placed the cover on top of the ark,",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "את העדת. הַלּוּחוֹת:",
+          "en": "את העדות THE TESTIMONY — the Tablets.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:21",
+      "he": "וַיָּבֵ֣א אֶת־הָאָרֹן֮ אֶל־הַמִּשְׁכָּן֒ וַיָּ֗שֶׂם אֵ֚ת פָּרֹ֣כֶת הַמָּסָ֔ךְ וַיָּ֕סֶךְ עַ֖ל אֲר֣וֹן הָעֵד֑וּת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "and brought the ark inside the Tabernacle. Then he put up the curtain for screening, and screened off the Ark of the Pact—just as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:22",
+      "he": "וַיִּתֵּ֤ן אֶת־הַשֻּׁלְחָן֙ בְּאֹ֣הֶל מוֹעֵ֔ד עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן צָפֹ֑נָה מִח֖וּץ לַפָּרֹֽכֶת׃",
+      "en": "He placed the table in the Tent of Meeting, outside the curtain, on the north side of the Tabernacle.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "על ירך המשכן צפנה. בַּחֵצִי הַצְּפוֹנִי שֶׁל רֹחַב הַבַּיִת:",
+          "en": "על ירך המשכן צפנה UPON THE SIDE OF THE DWELLING NORTHWARD — i. e. in the northern half of the width of the house (not by the northern wall) (Yoma 33b).",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "ירך. כְּתַרְגּוּמוֹ, צִדָּא, כַּיָּרֵךְ הַזֶּה שֶׁהוּא בְּצִדּוֹ שֶׁל אָדָם:",
+          "en": "ירך — This must be understood at the Targum renderd it: צדא. The real meaning is “thigh”, but the side of anything is just like the thigh which is at a person’s side.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:23",
+      "he": "וַיַּעֲרֹ֥ךְ עָלָ֛יו עֵ֥רֶךְ לֶ֖חֶם לִפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "Upon it he laid out the setting of bread before GOD—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:24",
+      "he": "וַיָּ֤שֶׂם אֶת־הַמְּנֹרָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד נֹ֖כַח הַשֻּׁלְחָ֑ן עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן נֶֽגְבָּה׃",
+      "en": "He placed the lampstand in the Tent of Meeting opposite the table, on the south side of the Tabernacle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:25",
+      "he": "וַיַּ֥עַל הַנֵּרֹ֖ת לִפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "And he lit the lamps before GOD—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:26",
+      "he": "וַיָּ֛שֶׂם אֶת־מִזְבַּ֥ח הַזָּהָ֖ב בְּאֹ֣הֶל מוֹעֵ֑ד לִפְנֵ֖י הַפָּרֹֽכֶת׃",
+      "en": "He placed the altar of gold in the Tent of Meeting, before the curtain.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:27",
+      "he": "וַיַּקְטֵ֥ר עָלָ֖יו קְטֹ֣רֶת סַמִּ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "On it he burned aromatic incense—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויקטר עליו קטרת. שַׁחֲרִית וְעַרְבִית, כְּמוֹ שֶׁנֶּאֱמַר בַּבֹּקֶר בַּבֹּקֶר בְּהֵיטִיבוֹ אֶת הַנֵּרוֹת וְגוֹמֵר (שמות ל'):",
+          "en": "ויקטר עליו קטרת AND HE CAUSED THE INCENSE OF AROMATICS TO ASCEND UPON IT in the morning and in the evening, as it is said, (Exodus 30:7, 8) “[And Aaron shall cause incense of aromatics to ascend thereon in fumes] every morning when he trimmeth the lamps, [and when he trimmeth the lamps at even etc.]”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:28",
+      "he": "וַיָּ֛שֶׂם אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+      "en": "Then he put up the screen for the entrance of the Tabernacle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:29",
+      "he": "וְאֵת֙ מִזְבַּ֣ח הָעֹלָ֔ה שָׂ֕ם פֶּ֖תַח מִשְׁכַּ֣ן אֹֽהֶל־מוֹעֵ֑ד וַיַּ֣עַל עָלָ֗יו אֶת־הָעֹלָה֙ וְאֶת־הַמִּנְחָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "At the entrance of the Tabernacle of the Tent of Meeting he placed the altar of burnt offering. On it he offered up the burnt offering and the grain offering—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ויעל עליו וגו'. אַף בַּיּוֹם הַשְּׁמִינִי לַמִּלּוּאִים, שֶׁהוּא יוֹם הֲקָמַת הַמִּשְׁכָּן, שִׁמֵּשׁ מֹשֶׁה וְהִקְרִיב קָרְבְּנוֹת צִבּוּר, חוּץ מֵאוֹתָן שֶׁנִּצְטַוּוּ בוֹ בַיּוֹם, שֶׁנֶּאֱמַר קְרַב אֶל הַמִּזְבֵּחַ וְגוֹמֵר (ויקרא ט'):",
+          "en": "ויעל עליו וגו׳ AND OFFERED UPON IT etc. Not only during the first seven days of the consecration of Aaron and his sons during which Moses set the dwelling up and then dismantled it, but also on the eighth day of the consecration which was the day of the final erection of the dwelling for its ordinary purposes did Moses officiate and offer the congregational sacrifices except those which had been commanded exclusively for that very day, as it is said, (Leviticus 9:7) “[And Moses said to Aaron], approach unto the altar and offer etc.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 2,
+          "he": "את העלה. עוֹלַת הַתָּמִיד:",
+          "en": "את העלה THE BURNT OFFERING — the daily burnt offering.",
+          "fr": "",
+          "explanation_fr": ""
+        },
+        {
+          "id": 3,
+          "he": "ואת המנחה. מִנְחַת נְסָכִים שֶׁל תָּמִיד, כְּמוֹ שֶׁנֶּאֱמַר וְעִשָּׂרֹן סֹלֶת בָּלוּל בְּשֶׁמֶן וְגוֹמֵר (שמות כ\"ט):",
+          "en": "ואח המנחה AND THE MEAL OFFERING — The meal offering brought together with the libation which was made with the daily burnt offering, at it is said, (Exodus 29:40) “[And with the one lamb] (of the daily burnt offering) shall be brought a tenth deal of flour mingled with … oil; [and the fourth part of a hin of wine for a libation …]”.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:30",
+      "he": "וַיָּ֙שֶׂם֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם לְרׇחְצָֽה׃",
+      "en": "He placed the laver between the Tent of Meeting and the altar, and put water in it for washing.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:31",
+      "he": "וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו אֶת־יְדֵיהֶ֖ם וְאֶת־רַגְלֵיהֶֽם׃",
+      "en": "From it Moses and Aaron and his sons would wash their hands and feet;",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ורחצו ממנו משה ואהרן. יוֹם שְׁמִינִי לַמִּלּוּאִים הֻשְׁווּ כֻלָּם לִכְהֻנָּה, וְתַרְגּוּמוֹ וּמְקַדְּשִׁין מִנֵּהּ, בּוֹ בַיּוֹם קִדֵּשׁ מֹשֶׁה עִמָּהֶם:",
+          "en": "ורחצו ממנו משה ואהרן AND MOSES AND AARON [AND HIS SONS] LAVED [THEIR HANDS] — On the eighth day of the consecration all of them mentioned here, including Moses, were alike in respect of the priestly office. The translation of ורחצו in the Targum should therefore be ומקדשין, and they were hallowing (i. e. they then hallowed their hands and their feet), for on that day Moses laved his hands together with them (Aaron and his sons).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:32",
+      "he": "בְּבֹאָ֞ם אֶל־אֹ֣הֶל מוֹעֵ֗ד וּבְקׇרְבָתָ֛ם אֶל־הַמִּזְבֵּ֖חַ יִרְחָ֑צוּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "en": "they washed when they entered the Tent of Meeting and when they approached the altar—as GOD had commanded Moses.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ובקרבתם. כְּמוֹ וּבְקָרְבָם – כְּשֶׁיִּקְרְבוּ:",
+          "en": "ובקרבתם — This is equivalent to ובקרבם, and has an imperfect sense, the same as כשיקרבו. when they were approaching.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:33",
+      "he": "וַיָּ֣קֶם אֶת־הֶחָצֵ֗ר סָבִיב֙ לַמִּשְׁכָּ֣ן וְלַמִּזְבֵּ֔חַ וַיִּתֵּ֕ן אֶת־מָסַ֖ךְ שַׁ֣עַר הֶחָצֵ֑ר וַיְכַ֥ל מֹשֶׁ֖ה אֶת־הַמְּלָאכָֽה׃&nbsp;{פ}",
+      "en": "And he set up the enclosure around the Tabernacle and the altar, and put up the screen for the gate of the enclosure. When Moses had finished the work,",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:34",
+      "he": "וַיְכַ֥ס הֶעָנָ֖ן אֶת־אֹ֣הֶל מוֹעֵ֑ד וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+      "en": "the cloud covered the Tent of Meeting, and the Presence of GOD filled the Tabernacle.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:35",
+      "he": "וְלֹא־יָכֹ֣ל מֹשֶׁ֗ה לָבוֹא֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד כִּֽי־שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+      "en": "Moses could not enter the Tent of Meeting, because the cloud had settled upon it and the Presence of GOD filled the Tabernacle.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "ולא יכל משה לבוא אל אהל מועד. וְכָתוּב אֶחָד אוֹמֵר וּבְבֹא מֹשֶׁה אֶל אֹהֶל מוֹעֵד (במדבר ז')? בָּא הַכָּתוּב הַשְּׁלִישִׁי וְהִכְרִיעַ בֵּינֵיהֶם – כִּי שָׁכַן עָלָיו הֶעָנָן, אֱמֹר מֵעַתָּה כָּל זְמַן שֶׁהָיָה עָלָיו הֶעָנָן לֹא הָיָה יָכוֹל לָבֹא, נִסְתַּלֵּק הֶעָנָן נִכְנָס וּמְדַבֵּר עִמּוֹ (ספרא):",
+          "en": "ולא יכל משה לבא אל אהל מועד AND MOSES WAS NOT ABLE TO COME INTO THE APPOINTED TENT — But another verse says, (Numbers 7:89) “And when Moses came into the appointed tent [to speak with Him then he heard the voice]”! There comes, however, a third verse and reconciles these apparently contradictory verses, for it says here כי שכן עליו הענן “For (or when) the cloud abode thereon (on the appointed tent)”. Hence you may say: so long as the cloud was upon it “he was not able to come into the appointed tent”, but as soon as the cloud disappeared he entered it and spoke with Him (Sifra, Braita d'Rabbi Yishmael 18).",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:36",
+      "he": "וּבְהֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הַמִּשְׁכָּ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל בְּכֹ֖ל מַסְעֵיהֶֽם׃",
+      "en": "When the cloud lifted from the Tabernacle, the Israelites would set out, on their various journeys;",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:37",
+      "he": "וְאִם־לֹ֥א יֵעָלֶ֖ה הֶעָנָ֑ן וְלֹ֣א יִסְע֔וּ עַד־י֖וֹם הֵעָלֹתֽוֹ׃",
+      "en": "but if the cloud did not lift, they would not set out until such time as it did lift.",
+      "fr": "",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:38",
+      "he": "כִּי֩ עֲנַ֨ן יְהֹוָ֤ה עַֽל־הַמִּשְׁכָּן֙ יוֹמָ֔ם וְאֵ֕שׁ תִּהְיֶ֥ה לַ֖יְלָה בּ֑וֹ לְעֵינֵ֥י כׇל־בֵּֽית־יִשְׂרָאֵ֖ל בְּכׇל־מַסְעֵיהֶֽם׃",
+      "en": "For over the Tabernacle a cloud of GOD rested by day, while fire would appear in that cloudathat cloud Heb. “it.” by night—in the view of all the house of Israel throughout their journeys.",
+      "fr": "",
+      "rashi": [
+        {
+          "id": 1,
+          "he": "לעיני כל בית ישראל בכל מסעיהם. בְּכָל מַסָּע שֶׁהָיוּ נוֹסְעִים, הָיָה הֶעָנָן שׁוֹכֵן בַּמָּקוֹם אֲשֶׁר יַחֲנוּ שָׁם; מְקוֹם חֲנִיָּתָן אַף הוּא קָרוּי מַסָּע, וְכֵן וַיֵּלֶךְ לְמַסָּעָיו (בראשית י\"ג), וְכֵן אֵלֶּה מַסְעֵי (במדבר ל\"ג), לְפִי שֶׁמִּמְּקוֹם הַחֲנִיָּה חָזְרוּ וְנָסְעוּ, לְכָךְ נִקְרְאוּ כֻלָּן מַסָּעוֹת:",
+          "en": "לעיני כל בית ישראל בכל מסעיהם [THE CLOUD WAS ON THE TABERNACLE] … IN THE SIGHT OF ALL THE HOUSE OF ISRAEL, THROUGHOUT ALL THEIR JOURNEYS — At every מסע which they made (according to Rashi this means: at every station at which they stopped) the cloud rested upon the Tabernacle in the place where they encamped. A place where they encamped is also called מסע (the literal meaning of which is “journey”). Similar is, (Genesis 13:3) “And he went on to his resting places (למסעיו)“ (cf. Rashi on this verse); similar also is, (Numbers 33:1) “These are the מסעי” — “the places of encampment”. Because from the place of encampment they always set out again on a new journey therefore all the different stages of their journeys (including the places where they encamped) are called מסעות.",
+          "fr": "",
+          "explanation_fr": ""
+        }
+      ]
+    }
+  ]
+}
