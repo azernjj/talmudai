@@ -400,15 +400,52 @@ button:disabled {
   gap: 12px;
 }
 
-.parashaCard {
-  text-align: left;
-  padding: 16px;
-  border-radius: 14px;
-  border: 1px solid #ddd;
-  background: white;
-  cursor: pointer;
+.parashaGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px,1fr));
+    gap: 14px;
+    margin-top: 15px;
 }
 
+.parashaCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 90px;
+    padding: 15px;
+
+    border: 1px solid #1e5fb8;
+    border-radius: 12px;
+
+    background: linear-gradient(180deg,#2d7ff9,#1f5fc7);
+    color: #ffffff;
+
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: 0.2s;
+
+    box-shadow: 0 3px 8px rgba(0,0,0,.15);
+}
+
+.parashaCard:hover {
+    background: linear-gradient(180deg,#3d8fff,#2d6fd8);
+    transform: translateY(-2px);
+}
+
+.parashaName {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 6px;
+}
+
+.parashaCard small {
+    color: rgba(255,255,255,.9);
+    font-size: 12px;
+}
 .parashaName {
   display: block;
   font-weight: 800;
