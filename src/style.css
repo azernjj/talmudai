@@ -419,3 +419,21 @@ button:disabled {
 .parashaCard small {
   opacity: 0.75;
 }
+.parashaLine {
+  margin: 0 0 14px;
+  line-height: 1.9;
+}
+
+.verseNum {
+  display: inline-block;
+  font-weight: 800;
+  margin-right: 10px;
+  opacity: 0.65;
+  direction: ltr;
+}
+
+.parashaFullText .he,
+.parashaHebrew {
+  font-size: 23px;
+  line-height: 2;
+}
