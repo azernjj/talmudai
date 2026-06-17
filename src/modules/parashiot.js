@@ -57,10 +57,7 @@ export async function loadParasha(file) {
     const data = await res.json()
     const verses = data.verses || []
 
-    const fullHe = verses
-      .map(v => v.he)
-      .filter(Boolean)
-      .join(' ')
+    
 
     const fullEn = verses
       .map(v => v.en)
@@ -71,7 +68,28 @@ export async function loadParasha(file) {
       .map(v => v.fr)
       .filter(Boolean)
       .join(' ')
-
+      
+      const fullHe = verses.map(v => `
+      <p class="parashaLine">
+        <span class="verseNum">${escapeHtml(v.ref)}</span>
+        <span class="he">${v.he || ''}</span>
+      </p>
+    `).join('')
+    
+    const fullEn = verses.map(v => `
+      <p class="parashaLine">
+        <span class="verseNum">${escapeHtml(v.ref)}</span>
+        <span>${escapeHtml(v.en || '')}</span>
+      </p>
+    `).join('')
+    
+    const fullFr = verses.map(v => `
+      <p class="parashaLine">
+        <span class="verseNum">${escapeHtml(v.ref)}</span>
+        <span>${escapeHtml(v.fr || '') || 'Traduction française en préparation.'}</span>
+      </p>
+    `).join('')
+    
     const fullRashi = verses
       .filter(v => (v.rashi || []).length)
       .map(v => `
@@ -103,7 +121,7 @@ export async function loadParasha(file) {
 
         <section class="parashaFullSection">
           <h2>Texte hébreu</h2>
-          <div class="he parashaFullText">${fullHe || 'Texte hébreu non disponible.'}</div>
+          <div class="parashaFullText">${fullHe || 'Texte hébreu non disponible.'}</div>
         </section>
 
         <section class="parashaFullSection">
@@ -130,4 +148,22 @@ export async function loadParasha(file) {
 
 export function initParashiotEvents() {
   document.querySelector('#parashaBtn')?.addEventListener('click', openParashiot)
+}
+.parashaLine {
+  margin: 0 0 14px;
+  line-height: 1.9;
+}
+
+.verseNum {
+  display: inline-block;
+  font-weight: 800;
+  margin-right: 10px;
+  opacity: 0.65;
+  direction: ltr;
+}
+
+.parashaFullText .he,
+.parashaHebrew {
+  font-size: 23px;
+  line-height: 2;
 }
