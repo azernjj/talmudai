@@ -140,30 +140,28 @@ const verses = (data.verses || []).map(v => {
     `
     document.querySelector('#commentBox').innerHTML = 'Texte complet de la paracha avec Rachi.'
 
-    document.querySelector('#segments').innerHTML = `
-      <article class="segment parashaFull">
-        <div class="segNum">${escapeHtml(data.range || '')}</div>
+document.querySelector('#segments').innerHTML = `
+  <article class="segment parashaFull">
+    <div class="segNum">${escapeHtml(data.range || '')}</div>
 
-        <section class="parashaFullSection">
-          <h2>Texte hébreu</h2>
-          <div class="parashaFullText">${fullHe || 'Texte hébreu non disponible.'}</div>
-        </section>
+    <section class="parashaSideBySide">
+      <div class="parashaColumn translationColumn">
+        <h2>Traduction française</h2>
+        ${fullFr || 'Traduction française en préparation.'}
+      </div>
 
-        <section class="parashaFullSection">
-          <h2>Traduction</h2>
-          <div class="translation parashaFullTranslation">
-            ${state.currentLang === 'fr'
-              ? (fullFr || 'Traduction française en préparation.')
-              : (fullEn || 'English translation in preparation.')}
-          </div>
-        </section>
+      <div class="parashaColumn hebrewColumn">
+        <h2>Texte hébreu</h2>
+        ${fullHe || 'Texte hébreu non disponible.'}
+      </div>
+    </section>
 
-        <details class="parashaRashiFull">
-          <summary>Rachi complet</summary>
-          ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
-        </details>
-      </article>
-    `
+    <details class="parashaRashiFull">
+      <summary>Rachi complet</summary>
+      ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
+    </details>
+  </article>
+`    `
 
     document.querySelector('#backParashiotBtn')?.addEventListener('click', openParashiot)
   } catch (e) {

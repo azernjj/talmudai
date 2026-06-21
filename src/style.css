@@ -474,3 +474,50 @@ button:disabled {
   font-size: 23px;
   line-height: 2;
 }
+.parashaSideBySide {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+  align-items: start;
+}
+
+.parashaColumn {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.hebrewColumn {
+  direction: rtl;
+  text-align: right;
+}
+
+.translationColumn {
+  direction: ltr;
+  text-align: left;
+}
+
+.hebrewColumn .parashaLine {
+  direction: rtl;
+  text-align: right;
+}
+
+.translationColumn .parashaLine {
+  direction: ltr;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .parashaSideBySide {
+    grid-template-columns: 1fr;
+  }
+
+  .hebrewColumn {
+    order: 1;
+  }
+
+  .translationColumn {
+    order: 2;
+  }
+}
