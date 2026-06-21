@@ -1,0 +1,831 @@
+{
+  "name": "Metsora",
+  "range": "Leviticus 14:1-15:33",
+  "verses": [
+    {
+      "ref": "Leviticus 14:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:2",
+      "fr": "Ce sera le rituel pour un lépreux Héb. mesora', une personne atteinte de ṣara'ath ; voir note au 13.3. au moment d'être purifié. Lorsqu'il a été signalé, le bit a été signalé Cf. note au 13.2. au curé,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'תהיה תורת וגו ‎זאת CECI SERA LA LOI [DU LÉPREUX LE JOUR OU IL EST PRONONCÉ PROPRE] — Les mots « le jour » nous informent que nous ne pouvons pas le déclarer pur la nuit (Sifra, Metzora, Section 1 3 ; Megillah 21a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:3",
+      "fr": "le prêtre sortira du camp. Si le prêtre constate que le lépreux a été guéri de ses affections squameuses,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל מחוץ למחנה HORS DU CAMP — en dehors des trois camps où il (le lépreux) avait été envoyé à l'époque où il était décidément lépreux (cf. Rachi sur Lévitique 13 :46)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:4",
+      "fr": "le prêtre fera apporter à celui à purifier deux oiseaux vivants et purs, du bois de cèdre, de l'étoffe cramoisie et de l'hysope.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חיות VIVANT [OISEAUX] — Ce terme exclut les רפות‎ט, les oiseaux qui souffrent d'une maladie organique mortelle (חיות ne signifie pas seulement « vivant », mais aussi « capable de continuer à vivre »)."
+        },
+        {
+          "id": 2,
+          "fr": "הרות‎ט PROPRE — Ce terme exclut un oiseau impur (d'une espèce qui ne peut pas être mangée) (cf. Chullin 140a). Parce que les plaies de la lèpre sont une punition pour la calomnie, qui se fait par le bavardage, les oiseaux sont donc obligatoires pour sa purification (du lépreux), car ils bavardent, pour ainsi dire, continuellement avec un gazouillis (Arakhin 16b)."
+        },
+        {
+          "id": 3,
+          "fr": "ועץ ארז ET BOIS DE CÈDRE — Cet arbre élevé était utilisé parce que les épidémies constituent également une punition pour l'orgueil (cf. Arakhin 16a)."
+        },
+        {
+          "id": 4,
+          "fr": "ושני תולעת ואזוב ET CRIMSON ET HYSOP — Quel est le remède qu'il doit utiliser pour être guéri ? Qu'il, abandonnant l'orgueil, se considère humble comme un ver (תולעת) et comme une hysope (cf. Midrash Tanchuma, Metzora 3)."
+        },
+        {
+          "id": 5,
+          "fr": "עץ ארז signifie un bâton de bois de cèdre (pas un cèdre)."
+        },
+        {
+          "id": 6,
+          "fr": "שני תולעת — une bande de laine teinte en cramoisi."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:5",
+      "fr": "Le prêtre ordonnera d'égorger l'un des oiseaux sur de l'eau fraîche dans un vase de terre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל מים חיים SUR L'EAU COURANTE — Il la place d'abord (l'eau) dans le récipient, mais seulement, juste assez pour que le sang de l'oiseau y reste perceptible. Et c'est combien ? Le quatrième d'une bûche (Sotah 16b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:6",
+      "fr": "et il prendra l'oiseau vivant, ainsi que le bois de cèdre, l'étoffe cramoisie et l'hysope, et il les trempera avec l'oiseau vivant dans le sang de l'oiseau qui a été abattu sur l'eau fraîche.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את הצפור החיה יקח אתה QUANT À L'OISEAU VIVANT IL LE PRENDRA — La formulation (puisqu'elle ne dit pas « l'oiseau vivant et le bois de cèdre, etc., il le prendra », mais « l'oiseau vivant, il le prendra, et le bâton de cèdre, etc. ») nous informe qu'il ne le lie pas (l'oiseau) ensemble. avec eux (le bois de cèdre, etc.) mais le maintient séparé par lui-même. Le bâton de cèdre, cependant, et l'hysope sont liés ensemble par la barbotine pourpre, tout comme il est dit : « et le bois de cèdre et la barbotine pourpre et l'hysope » — une « prise » pour les trois (puisque ces trois sont regroupés après le mot יקח). cela ne relève pas non plus du règlement concernant le « trempage » ; il est donc dit « et il les trempera ainsi que l'oiseau vivant » — ainsi (l'Écriture) mentionne à nouveau l'oiseau en relation avec eux pour l'amener également sous le règlement du trempage (cf. Sifra, Metzora, chapitre 1-6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:7",
+      "fr": "Il en aspergera ensuite sept fois celui à purifier de l'éruption et effectuera la purification ; et il lâchera l'oiseau vivant en rase campagne.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:8",
+      "fr": "Celui qui doit être purifié lavera ses vêtements, rasera tous ses cheveux et se lavera dans l'eau, et alors il sera pur. Après cela, la personne peut entrer dans le camp mais doit rester hors de sa tente sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישב מחוץ לאהלו ET IL DEMEURERA HORS DE SA TENTE — Ceci nous informe que les relations matrimoniales lui sont interdites (מחוץ לאהלו implique hors de sa maison — sa vie de famille ; cf. Deutéronome 5 :27 : שובו לכם לאהליכם) (Sifra, Metzora, Section 2 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:9",
+      "fr": "Le septième jour, ils raseront tous leurs cheveux, de la tête, de la barbe [s'il y en a] et des sourcils. Après avoir rasé tous leurs cheveux, ils laveront leurs vêtements et se laveront dans l'eau, et alors ils seront purs.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את כל שערו [IL DOIT COUPER] TOUS SES CHEVEUX etc. — Nous avons une généralisation (« tous ses cheveux »), une particularisation (« sa tête, sa barbe et ses sourcils »), et encore une généralisation (« et tous ses cheveux »). Selon la règle d'interprétation (מדה ו' י״ג מדות), le but est d'inclure dans la généralisation uniquement les choses qui sont similaires à celles contenues dans la particularisation ; ici, il entend inclure chaque endroit du corps où se trouve une collection de poils, ceux-ci (les cheveux) étant visibles (celles-ci étant les caractéristiques de la tête, de la barbe et des sourcils) (Sotah 16a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:10",
+      "fr": "Le huitième jour, ils prendront deux agneaux mâles sans défaut, une brebis d'un an sans défaut, trois dixièmes de mesure de farine de blé mélangée à l'huile pour l'offrande, et un log d'huile.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכבשה אחת ET UN AGNEAU DE BREBIS pour le sacrifice pour le péché."
+        },
+        {
+          "id": 2,
+          "fr": "ושלשה עשרנים ET TROIS DIXIÈMES AFFAIRES [DE FARINE] — comme les libations de ces trois agneaux (Menachot 91a) — parce que l'offrande pour le péché et le sacrifice de culpabilité du lépreux nécessitent des libations (bien qu'elles ne soient pas requises avec d'autres offrandes pour le péché et la culpabilité)."
+        },
+        {
+          "id": 3,
+          "fr": "ולג אחד שמן ET UN BÛCHE D'HUILE — à asperger pour lui devant le Seigneur sept fois (cf. v. 17), et à en mettre sur le bout de son oreille et à en mettre sur ses pouces (v. 25)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:11",
+      "fr": "Ceux-ci seront présentés devant DIEU, avec la personne à purifier, à l'entrée de la Tente du Rendez-vous, par le prêtre qui effectue la purification.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'לפני ה DEVANT LE SEIGNEUR — i. e. à la porte de Nicanor et non dans le tribunal lui-même (Sifra, Metzora, Section 3 6 ; Sotah 8a), puisqu'il lui manquait encore l'expiation (car le sacrifice pour le péché n'avait pas encore été apporté, et dans de telles circonstances, il n'était pas autorisé à entrer dans le tribunal)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:12",
+      "fr": "Le prêtre prendra un des agneaux mâles et l'offrira avec la bûche d'huile en offrande de réparation, et il les élèvera en offrande d'élévation devant DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והקריב אתו לאשם ET IL L'APPORTERA EN OFFrande De Culpabilité - Cela signifie : il l'apportera à l'intérieur de la cour comme offrande de culpabilité pour l'agiter, car il fallait l'agiter de son vivant (car il est dit qu'il l'apportera « ainsi que la bûche d'huile » et cette dernière n'a pas été apportée en sacrifice ; d'ailleurs, l'acte d'abattage est mentionné au v. 13) (Ménachot 62b),"
+        },
+        {
+          "id": 2,
+          "fr": "והניף אתם ET IL LES AGITERA — le sacrifice de culpabilité et le journal d'huile."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:13",
+      "fr": "L'agneau doit être abattu sur place Voir 1.11 ; 4.24. dans le lieu sacré où sont sacrifiés les offrandes de purgation et les holocaustes. Car le sacrifice de réparation, comme le sacrifice de purgation, va au prêtre ; c'est très saint.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ ‎ ‎'במקום אשר ישחט וגו‎‎‎ À L'ENDROIT OÙ IL ABATTERA etc. — c'est-à-dire du côté de l'autel au nord. Mais pourquoi cela est-il dit ? N'a-t-il pas déjà été indiqué dans la loi concernant le sacrifice de culpabilité dans la section צו את אהרן que le sacrifice de culpabilité nécessite d'être abattu du côté nord de l'autel ? Mais parce que ce sacrifice de culpabilité est issu de (a fait exception à) la règle générale des sacrifices de culpabilité en ce sens qu'il est soumis à la loi d'être placé devant le Seigneur (v. 11), on pourrait penser que son abattage devrait avoir lieu à l'endroit où il a été placé (à la porte de Nicanor ; c'est-à-dire qu'il fera également une exception en ce qui concerne l'endroit où il doit être abattu) ; c'est pour cela qu'il est dit : « et il égorgera [l'agneau] à l'endroit où il égorge [le sacrifice pour le péché], etc. » (Sifra, Metzora, section 3 8)."
+        },
+        {
+          "id": 2,
+          "fr": "‎י כחטאת‏‎כ CAR COMME L'OFFRANDE POUR LE PÉCHÉ [AUSSI L'OFFRE DE CULPABILITÉ AU PRÊTRE] — Cela signifie que, comme toutes les offrandes pour le péché, cette offrande de culpabilité הוא לכהן est destinée au prêtre, c'est-à-dire. e. pour tous les rites sacrificiels qui dépendent du prêtre, ce sacrifice de culpabilité est exactement semblable au sacrifice pour le péché. Pour que vous ne disiez pas : Puisque son sang fait exception à la règle générale régissant les autres sacrifices de culpabilité en ce qu'il est placé sur le bout de l'oreille et sur les pouces, il doit également constituer une exception en ce sens qu'il ne doit pas exiger que le sang et les portions de graisse soient placés sur l'autel, il est donc expressément déclaré : « car, comme toutes les offrandes pour le péché, il en est de même pour ce sacrifice de culpabilité au prêtre » (לכהן, en référence au prêtre, dans la mesure où il est inquiet). On pourrait aussi penser que son sang doit être répandu sur la partie supérieure de l’autel comme c’est le cas pour le sacrifice pour le péché ! C'est pourquoi il est dit : (Lévitique 7 : 1, 2) « c'est une chose très sainte… et il en répandra le sang tout autour de l'autel ». Ainsi, cela est exposé dans Torath Cohanim (cf. Sifra, Metzora, chapitre 3 1 ; Zevachim 49a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:14",
+      "fr": "Le prêtre prendra du sang du sacrifice réparateur, et il le mettra sur le rebord de l'oreille droite de celui qui se purifie, sur le pouce de la main droite et sur le gros orteil du pied droit.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תנוך est la paroi interne de l'oreille. L'étymologie du mot תנוך m'est inconnue, et les compilateurs de glossaires l'appellent (traduisent par) tendron (cf. Rachi sur Exode 29 :22)."
+        },
+        {
+          "id": 2,
+          "fr": "בהן signifie POUCE."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:15",
+      "fr": "Le prêtre prendra ensuite un peu de bûche d'huile et la versera dans la paume de sa main gauche.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:16",
+      "fr": "Et le prêtre trempera son doigt droit dans l'huile qui est dans la paume de sa main gauche et aspergera sept fois de l'huile avec son doigt devant DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'לפני ה‎ [ET IL ARROSERA…] DEVANT LE SEIGNEUR — en direction du Saint des Saints (cf. Sifra, Metzora, Chapitre 3 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:17",
+      "fr": "Le prêtre mettra un peu de l'huile laissée dans sa paume sur le rebord de l'oreille droite de celui qui se purifie, sur le pouce de la main droite et sur le gros orteil du pied droit, sur le sang du sacrifice de réparation.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:18",
+      "fr": "Le prêtre mettra le reste de l'huile dans sa paume sur la tête de celui qui se purifie. Ainsi le prêtre fera pour eux l'expiation devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:19",
+      "fr": "Le prêtre offrira alors l'offrande de purgation et fera l'expiation pour celui qui est purifié de la souillure. Enfin, l'holocauste sera égorgé,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:20",
+      "fr": "et le prêtre offrira l'holocauste et l'offrande de céréales sur l'autel ; le prêtre fera pour eux l'expiation ; alors ils seront purs.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת המנחה ET L'OFFRE DE REPAS — l'offrande de repas de la libation qui accompagne un sacrifice d'animal."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:21",
+      "fr": "Mais si la personne est pauvre et sans ressources suffisantes, elle prendra en offrande de réparation un agneau mâle, à élever en expiation, un dixième de mesure de farine de qualité mélangée à l'huile pour l'offrande de céréales, et un rondin d'huile ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשרון סלת אחד‎ ET UN DIXIÈME DE FARINE — pour cet agneau qui est un seul, il apportera un dixième de farine pour accompagner sa libation."
+        },
+        {
+          "id": 2,
+          "fr": "שמן ‎‏ ולג ET UN BÛCHE D'HUILE — pour le placer sur les pouces. La quantité d'huile requise pour les libations de l'offrande de repas, l'Écriture n'a pas jugé nécessaire de la préciser ici (puisqu'elle est donnée dans Nombres 15 : 4 où trois bûches sont prescrites ; par conséquent, la bûche mentionnée par le héros ne peut pas être destinée aux libations mais à être placée sur les pouces)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:22",
+      "fr": "et deux tourterelles ou deux pigeons, selon leurs moyens, l'un pour l'offrande de purgation et l'autre pour l'holocauste.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:23",
+      "fr": "Le huitième jour de purification, ils les amèneront au prêtre, à l'entrée de la Tente du Rendez-vous, devant DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ביום השמיני לטהרתו LE HUITIEME JOUR DE SON PRONONCÉ PROPRE — i. e. le huitième jour après que les oiseaux auront été amenés et qu'il aura été aspergé de bâton de cèdre, d'hysope et de laine cramoisie (cf. v. 10)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:24",
+      "fr": "Le prêtre prendra l'agneau du sacrifice de réparation et la bûche d'huile, et les élèvera en offrande d'élévation devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:25",
+      "fr": "Lorsque l'agneau du sacrifice de réparation aura été immolé, le prêtre prendra du sang du sacrifice de réparation et le mettra sur le rebord de l'oreille droite de celui qui se purifie, sur le pouce de la main droite et sur le gros orteil du pied droit.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:26",
+      "fr": "Le prêtre versera ensuite un peu d'huile dans la paume de sa main gauche,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:27",
+      "fr": "et avec le doigt de sa main droite, le prêtre aspergera sept fois devant Dieu de l'huile qui est dans la paume de sa main gauche.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:28",
+      "fr": "Le prêtre mettra un peu de l'huile de sa paume sur le rebord de l'oreille droite de celui qui se purifie, sur le pouce de la main droite et sur le gros orteil du pied droit, aux mêmes endroits que le sang du sacrifice de réparation ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על מקום דם האשם SUR LE LIEU DU SANG DE L'OFFrande De Culpabilité — même si le sang a été essuyé ; cela enseigne que ce n'est pas la présence du sang qui apporte la validité de ce rite mais c'est le lieu (le fait que l'huile a été placée au bon endroit) qui l'apporte (Sifra, Metzora, chapitre 3 10 ; Menachot 10a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:29",
+      "fr": "et ce qui reste de l'huile dans sa paume, le sacrificateur le mettra sur la tête de celui qui se purifie, pour faire expiation pour lui devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:30",
+      "fr": "Celui-ci offrira alors une des tourterelles ou des pigeons, selon ses moyens :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:31",
+      "fr": "selon leurs moyens, l'un comme offrande de purgation et l'autre comme holocauste, avec l'offrande de céréales. Ainsi le prêtre fera l'expiation devant DIEU pour celui qui se purifie.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:32",
+      "fr": "Tel est le rituel de celui qui a une affection écailleuse et dont les moyens de purification sont limités.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:33",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:34",
+      "fr": "Lorsque vous entrerez dans le pays de Canaan, que je vous donne en possession, et que j'infligerai une plaie éruptive sur une maison du pays que vous possédez,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונתתי נגע צרעת [LORSQUE VOUS VENEZ AU PAYS…] JE METTRA LE PESTE DE LA LÈPRE — C'était une annonce pour eux que ces fléaux s'abattraient sur eux (Sifra, Metzora, Section 5 4 ; Horayot 10a), parce que les Amoréens ont caché des trésors d'or dans les murs de leurs maisons pendant les 40 années entières des Israélites. étaient dans le désert (afin qu'ils ne puissent pas les posséder lorsqu'ils conquièrent la Palestine), et à la suite de la peste, ils démoliraient la maison et les découvriraient (Lévitique Rabbah 17 : 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:35",
+      "fr": "le propriétaire de la maison viendra le dire au prêtre et lui dira : Quelque chose comme une plaie est apparu sur ma maison.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כנגע נראה לי בבית QUELQUE CHOSE COMME UNE PESTE M'EST MONTRÉ DANS LA MAISON — Même s'il (le propriétaire de la maison) est un homme instruit et sait avec certitude qu'il s'agit d'une peste, il ne tranchera pas la question avec certitude en disant : « une peste s'est manifestée à moi », mais « quelque chose comme une peste s'est manifestée à moi » (Mishna Negaim 12 : 5 ; Sifra, Metzora, section 5 10)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:36",
+      "fr": "Le prêtre fera nettoyer la maison avant d'entrer pour examiner la plaie, afin que rien dans la maison ne devienne impur ; après cela, le prêtre entrera pour examiner la maison.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'בטרם יבא הכהן וגו‎ [ILS DOIVENT NETTOYER LA MAISON] AVANT QUE LE PRÊTRE VENUE, etc. — Tant que le prêtre ne s'y est pas encore engagé, aucune loi d'impureté n'y est applicable."
+        },
+        {
+          "id": 2,
+          "fr": "ולא יטמא כל אשר בבית QUE TOUT CE QUI EST DANS LA MAISON NE SOIT PAS impur, car s'il ne la nettoie pas et que le prêtre vient examiner la peste, il faut la fermer et tout ce qui est à l'intérieur devient immédiatement impur. À quoi tient compte la Torah en ordonnant que ces précautions soient prises ? S'il a en vue des récipients en bois ou en métal qu'il suffit de rincer pour les rendre propres, il peut les immerger et ils deviendront propres (et il n'est pas nécessaire de les retirer de la maison de peur qu'ils ne deviennent impurs s'il ne le fait pas), et s'il a en vue de la nourriture et des liquides, il peut les manger pendant le temps de son impureté (auquel cas également il ne subit aucune perte puisqu'il peut les consommer à un moment où lui-même se trouve être impur). Il s'ensuit que la Torah ne doit considérer que les vases de terre pour lesquels il n'existe aucun moyen de purification par immersion dans un bain rituel (cf. Rachi sur Lévitique 11 :35) et qui resteront donc inutilisables sauf en relation avec la nourriture ordinaire (חולין) (Sifra, Metzora, section 5 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:37",
+      "fr": "Si, lorsqu'il examine la peste, il constate que la peste présente dans les murs de la maison est verdâtre ou verdâtre ou « jaunâtre ». ou des stries rougeâtres Signification de Héb. sheqa'aruroth incertain. qui semblent s'enfoncer profondément dans le mur,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שקערורת désigne un mensonge profond à cause de leurs couleurs (ils semblent se trouver profondément dans les pierres) (Sifra, Metzora, Section 6 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:38",
+      "fr": "le prêtre sortira de la maison jusqu'à l'entrée de la maison et fermera la maison pendant sept jours.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:39",
+      "fr": "Le septième jour, le prêtre reviendra. S'il voit que la peste s'est répandue sur les murs de la maison,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:40",
+      "fr": "le prêtre ordonnera qu'on arrache les pierres contenant la plaie et qu'on les jette hors de la ville dans un lieu impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וחלצו את האבנים — Comprenez וחלצו comme le fait le Targum : וישלפון, c'est-à-dire qu'ils les enlèveront de là. C'est similaire à (Deutéronome 25 :9) וחלצה נעלו — qui est une expression pour enlever (« elle enlèvera sa chaussure »)."
+        },
+        {
+          "id": 2,
+          "fr": "אל מקום טמא DANS UN ENDROIT IMPUR — i. e. un endroit où il est peu probable que des objets propres soient manipulés. L’Écriture vous enseigne que ces pierres rendent impur l’endroit où elles sont déposées pendant le temps où elles y sont."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:41",
+      "fr": "La maison sera grattée à l'intérieur tout autour, et l'enduit/enduit lit. « poussière », « boue ». ce qui sera gratté sera jeté hors de la ville dans un endroit impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יקצע — rogner en vieux français, SCRAPE OFF, et en hébreu mishnique, cela apparaît plusieurs fois."
+        },
+        {
+          "id": 2,
+          "fr": "‎À L'INTÉRIEUR."
+        },
+        {
+          "id": 3,
+          "fr": "סביב ROND ABOUT — i. e. l'endroit autour du lieu de la peste ; et dans Torath Cohanim (Sifra, Metzora, chapitre 4-5) il est également expliqué ainsi : qu'il devra décoller le plâtre qui entoure la zone où se trouvaient les pierres frappées par la peste."
+        },
+        {
+          "id": 4,
+          "fr": "הקצו est lié dans sa signification au mot קצה, fin, — cela signifie : qu'ils avaient gratté sur les bords de la peste qui l'entourait. (Les mots signifient : la poussière qu'ils ont enlevée des bords. Cela n'a rien à voir avec le « grattage »)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:42",
+      "fr": "Ils prendront d'autres pierres et les remplaceront par elles, et prendront d'autres revêtements et enduitront la maison.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:43",
+      "fr": "Si la peste éclate de nouveau dans la maison, après que les pierres auront été arrachées et après que la maison aura été grattée et replâtrée,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הִקְצוֹת — La forme grammaticale exprime l'idée que quelque chose « a été fait » (passif) et il en va de même pour le mot הִטּוֹחַ (les deux sont des infinitifs construits par Niphal), mais dans חִלֵּץ את האבנים, l'expression fait référence à l'homme qui les enlève (c'est-à-dire qu'elle est active, le sujet devant être fourni. La traduction est : « après qu'il a enlevé les pierres », tandis que les mots suivants dénotent : après que la maison a été grattée sur ses bords et après qu'elle a été plâtrée), elle (le mot חִלֵּץ) étant de la conjugaison lourde (Piel), tout comme כִּפֵּר et דִּבֵּר‎."
+        },
+        {
+          "id": 2,
+          "fr": "‎ ישוב מגע ‎ואם‎ ET SI LA PESTE RETOURNE [ET ÉCLARE DANS LA MAISON] — On pourrait penser que cela signifie : si elle revient le même jour, elle sera impure comme il est dit au v. 44. Il est cependant dit (v. 39) ושב הכהן « quand le prêtre reviendra [le septième jour] », et ici aussi, il est dit : ואם ישוב, « et si elle (la peste) revient ». Quel est le cas de « retour » évoqué ici ? C'est la fin d'une semaine ! De même, le « retour » mentionné ici signifie à la fin d'une semaine (Sifra, Metzora, section 7 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:44",
+      "fr": "le prêtre viendra examiner : si la peste s'est répandue dans la maison, c'est une éruption maligne dans la maison ; c'est impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובא הכהן וראה והנה פשה ALORS LE PRÊTRE VENDRA REGARDER, ET VOYEZ, SI LA PESTE S'EST PROPAGÉE… [ELLE EST IMPURE] — De là, on pourrait penser qu'une peste récurrente n'est impure (c'est-à-dire qu'elle rend toute la maison impure) que si elle se propage. Mais l'expression צרעת ממארת. « une lèpre inquiétante » est mentionnée en relation avec les maisons et l'expression. צרעת ממארת est mentionné en relation avec les vêtements (Lévitique 13 :51), rendant ainsi ce fléau analogue à ceci : quel est le cas là-bas ? L’Écriture déclare impure la plaie récurrente, même si elle ne s’est pas propagée (Lévitique 13 :55) ! De même, ici, il déclare impur la peste récurrente même si elle ne s’est pas propagée. Mais s’il en est ainsi, pourquoi dit-on ici « et voici, [la peste] s’est propagée » ? En fait, ce n'est pas le bon endroit pour le verset), et la déclaration « il démolira la maison » (v. 45) aurait dû être écrite immédiatement après (v. 43), « et si la peste revenait »). Les mots du v. 44, « il regardera et voici, si la plaie s'est répandue », par conséquent ont seulement pour but de nous dire quelque chose sur une plaie qui est restée dans le même état pendant la première semaine, et à laquelle il (le prêtre) vient à la fin de la deuxième semaine et constate qu'elle s'est propagée, car l'Écriture n'a rien expliqué du tout sur le cas où la plaie reste dans le même état pendant la première semaine. (Il ne parle au v. 39 que du moment où la peste s'est propagée au cours de la première semaine.) Il nous indique ici (dans la section qui parle de ce qui se passe une semaine après que la maison a été grattée, etc., c'est-à-dire après la fin de la deuxième semaine) la loi la concernant en mentionnant cette propagation (c'est-à-dire par les mots וראה והנה פשה) qui ne peut parler que du cas dans lequel elle est restée. le même état au cours de la première semaine et s'est propagé au cours de la deuxième semaine. Maintenant, que va-t-il en faire ? On pourrait penser qu'il doit la démolir, même comme il est dit immédiatement après (v. 45) « Il démolira la maison ». Il est cependant dit : (v. 39) « si le prêtre revient » à la fin de la semaine et constate que la maladie s'est propagée, et (v. 44) « et si le prêtre revient » à la fin de la deuxième semaine et constate maintenant que pour la première fois la maladie s'est propagée — ainsi nous pouvons apprendre ce qui doit être fait après cette « venue » à partir de ce qui se passe après ce « retour » ! Quelle est la loi en cas de « retour » ? Il doit enlever les pierres, gratter et recréper (v. 40-42), et lui donner encore une semaine ! De même, ici, dans le cas de cette « venue » au bout d'une deuxième semaine, il doit enlever les pierres, gratter et replâtrer et lui donner une semaine supplémentaire ! Si cela se reproduit, il doit démolir la maison : si cela ne se reproduit pas, la maison est propre. Et d'où pouvons-nous conclure que si elle est restée dans le même état pendant cette semaine (la première) et celle-là (la seconde), il devra enlever les pierres, gratter et repeindre, et lui donner encore une semaine (comme il l'a fait lorsqu'elle s'est propagée la deuxième semaine, comme nous venons de le dire) ? Parce qu'il dit, (v. 44) ובא « et si [le prêtre] vient », et (v. 48) ואם בא יבא « et si [le prêtre] vient », l'expression « venir » étant utilisée dans chaque cas pour indiquer une analogie entre eux, le raisonnement étant le suivant : De quoi peut parler ce verset 48 qui fait référence à la peste ne s'étant pas propagée ? Si vous dites qu'il s'agit d'une plaie qui s'est propagée pendant la première semaine mais qui ne s'est pas propagée pendant la deuxième semaine, voici, cela a déjà été mentionné (v. 39-43, et seconde moitié du v. 44) ! Si vous dites qu'il s'agit d'un fléau qui s'est propagé au cours de la deuxième semaine mais qui ne s'est pas propagé au cours de la première semaine, voici, cela a déjà été mentionné (v. 44 selon l'explication de Rachi ci-dessus). Par conséquent, il ne peut s’agir que de dire les mots ואם בא יבא, « s’il est venu une fois (בא), il revient (יבא) », à propos de celui qui vient à la fin de la première semaine et revient à la fin de la deuxième semaine, « et voici, [la peste] ne s’était pas propagée » dans les deux cas. Dans le cas d'un tel fléau qui demeure tel qu'il était pendant deux semaines successives, que fera-t-il ? On pourrait penser qu'il s'en va et s'en sort sans rien faire de plus parce que la maison est propre, puisqu'il est dit ici (immédiatement après), « il déclarera la maison propre ». Il est cependant dit : « si la plaie est guérie », ce qui implique que l'Écriture dit pour ainsi dire : Je déclare pure seulement la plaie qui est guérie (c'est-à-dire quand quelque chose a été fait par lequel elle est enlevée). Que va-t-il donc y faire ? La réponse est : plus haut (v. 44) il a parlé de « venir », et plus loin (v. 48) il parle aussi de « venir ». Quelle est la loi dans le cas précédent ? Il enlève les pierres, gratte et re-plâtre et lui donne une autre semaine — car, comme nous l'avons dit plus haut, nous avons pour tradition que « revenir » (v. 39 : ושב הכהן) et « venir » (v. 44 : ובא הכהן) sont identiques en ce qui concerne leur loi ; de même, cela doit être fait dans le dernier cas (v. 48 qui, comme nous l'avons prouvé, doit parler de עמד בראשון ובשני etc.), comme il est indiqué dans Torath Cohanim (Sifra, Metzora, Section 7 10). La conclusion de l'affaire est la suivante : la démolition d'une maison n'a lieu que dans le cas d'une peste qui réapparaît après l'enlèvement des pierres, le grattage et le recrépissage, et une telle peste récurrente n'exige pas qu'elle se soit également propagée pour rendre nécessaire la démolition de la maison. La séquence des versets est la suivante : « S’il revient » (v. 48), « il s’effondrera » (v. 45), « Mais si quelqu’un vient » (v. 46) « [Et celui qui couche dans la maison]… et celui qui mange dans la maison » (v. 47), et alors seulement v. 44 : « Et si le prêtre vient et regarde, et voici, la plaie s’est propagée » ; — et le dernier verset parle, comme montré ci-dessus, du cas d'une peste qui est restée telle qu'elle était pendant la première semaine à laquelle on a donc donné une deuxième semaine pour être enfermé, et à la fin de la deuxième semaine il vient et voit qu'elle s'est propagée. Et que va-t-il en faire ? Il enlève les pierres, les éraflures et les re-plâtres et lui donne encore une semaine. S'il revient, il démolit la maison, s'il ne revient pas, elle est propre et nécessite deux oiseaux pour la purification, mais cette troisième semaine est le temps maximum pour l'investigation, car il ne faut pas consacrer plus de trois semaines à l'investigation des fléaux."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:45",
+      "fr": "La maison sera démolie, ses pierres, ses poutres et tout le revêtement de la maison, et emmenée dans un lieu impur hors de la ville.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:46",
+      "fr": "Quiconque entrera dans la maison pendant qu'elle est fermée sera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל ימי הסגיר אתו [ET CELUI QUI ENTRE DANS LA MAISON] TOUS LES JOURS OÙ ELLE EST ENFERMÉE [SERA IMPUR JUSQU'AU SOIR] - \"les jours où elle est enfermée\", mais pas pendant les jours où il avait gratté la plaie (car à travers le grattage l'impureté a, au moins pour le moment, disparu, et la maison n'est à nouveau fermée que pour enquête). Je pourrais penser que je peux aussi exclure de cette loi la maison qui est décidément impure à cause d'une peste récurrente et qui doit être démolie et dont on a gratté la tache de la peste (mais qui n'a pas encore été démolie, car on pourrait supposer que pour le moment l'impureté est disparue) ! Il est cependant précisé « tous les jours » (Sifra, Metzora, chapitre 5 4)."
+        },
+        {
+          "id": 2,
+          "fr": "יטמא עד הערב [ET CELUI QUI ENTRE DANS LA MAISON] SERA IMPUR JUSQU'AU SOIR — Cela nous dit que le simple fait d'entrer dans la maison ne rend pas ses vêtements impurs (puisqu'il ne dit pas, comme dans le verset suivant, qu'il doit laver ses vêtements) (Sifra, Metzora, chapitre 5-5). Je pourrais penser que ses vêtements ne deviennent pas impurs même si, après être entré dans la maison, il y restait assez longtemps pour manger un demi-pain (un repas ordinaire, égal en masse à 4 œufs) ! Il est cependant dit (v. 47) « Et celui qui mange dans la maison lavera ses vêtements », car nous pouvons raisonner ainsi : Je n'ai ici que la loi concernant celui qui mange réellement. D'où puis-je déduire que cela s'applique également à celui qui dort dans la maison ? Parce que l'Écriture dit \"et celui qui dort [lavera ses vêtements]\". Maintenant, je n'ai que la loi concernant celui qui mange et celui qui dort dans la maison ; d'où puis-je déduire que la même loi s'applique à celui qui ne mange ni ne dort (mais reste simplement à la maison) ? Parce qu'il est dit יכבס יכבס (deux fois) au v. 47 où il aurait pu écrire : והשכב והאכל בבית יכבס את בגדיו, et une telle formulation impliquerait que seuls ceux qui dorment et mangent dans la maison doivent laver leur vêtements. Par l'insertion du premier יכבס, nous avons deux phrases coordonnées d'importance similaire, ce qui suggère que dormir et manger ne sont que des exemples de cas où les vêtements nécessiteraient d'être lavés. Ainsi, l'utilisation du premier יכבס sert à inclure, outre celui qui dort et celui qui mange dans la maison, toute personne qui y reste. S’il en est ainsi (c’est-à-dire si cela signifie que les vêtements de quiconque reste dans la maison deviennent impurs), pourquoi mentionne-t-il expressément celui qui mange et celui qui dort ? Disons simplement : celui qui reste dans la maison doit laver ses vêtements, alors que ceux-ci seraient également inclus ! Mais cela est fait afin de désigner pour celui qui dort dans la maison (c'est-à-dire qui fait autre chose dans la maison que d'y entrer et d'en sortir immédiatement, comme il est mentionné au v. 46) une période minimale de temps pendant laquelle le séjour rend ses vêtements impurs, c'est-à-dire un temps assez long pour manger un demi-pain (cf. Sifra, Metzora, chapitre 5 7-8)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:47",
+      "fr": "Celui qui dort dans la maison doit laver ses vêtements, et celui qui mange dans la maison doit laver ses vêtements.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:48",
+      "fr": "Mais si le prêtre vient et constate que la plaie ne s'est pas répandue dans la maison après que la maison ait été replâtrée, le prêtre déclarera la maison pure, car la plaie est guérie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם בא יבא ET SI [LE PRÊTRE] ARRIVE à la fin de la deuxième semaine,"
+        },
+        {
+          "id": 2,
+          "fr": "וראה והנה לא פשה ET REGARDEZ-LE, ET VOYEZ, LA PESTE NE S'EST PAS PROPAGÉE… [ALORS LE PRÊTRE DOIT PRONONCER LA MAISON NETTOYÉE]. — Ce verset, comme indiqué ci-dessus, est destiné à enseigner la loi concernant le cas où elle (la peste) est restée telle qu'elle était pendant la première et la deuxième semaine. Que va-t-il y faire ? On pourrait penser qu'il la déclarera pure tout comme le verset l'indique littéralement : וטהר הכהן את הבית \"et le prêtre déclarera la maison propre\" ! Il déclare cependant : \"[Le prêtre déclarera la maison propre] כי נרפא הנגע si la peste est guérie\" - L'Écriture dit, pour ainsi dire, que je déclare pure seulement la plaie qui est guérie, et seule est guérie la maison qui a été grattée et replâtrée et dans laquelle la peste n'est pas réapparue, mais celle-ci, dans laquelle pendant deux semaines la peste est restée dans le même état, est pas encore guéri et donc pas encore propre, et nécessite le retrait des pierres, le grattage et le replâtrage et encore une troisième semaine. Et le verset doit donc être expliqué comme suit : ואם בא יבא, Et si, étant venu une fois, il revient à la fin de la deuxième semaine et qu'il le regarde, et voici, il ne s'est pas étendu, il le replâtrera et bien sûr aussi enlèvera les pierres et le grattera - car le replâtrage n'a jamais lieu sans l'enlèvement des pierres et le grattage (et l'Écriture dit simplement אחרי הטוח par souci de brièveté) — אחרי הטוח את הבית et après que la maison ait été replâtrée, וטהר הכהן את הבית, le prêtre déclarera pur, si la peste n'est pas revenue à la fin de la troisième semaine, כי נרפא הנגע CAR ALORS LA PESTE EST GUÉRIE. Si, cependant, il est revenu à la fin de cette semaine, il n'est pas nécessaire d'énoncer ici la loi puisqu'il a déjà expliqué à propos d'un fléau récurrent qu'il exige la démolition de la maison (cf. Rachi sur le v. 44)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 14:49",
+      "fr": "Pour purger la maison, il prendra deux oiseaux, du bois de cèdre, de l'étoffe cramoisie et de l'hysope.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:50",
+      "fr": "Il égorgera l'unique oiseau au-dessus de l'eau douce dans un vase de terre.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:51",
+      "fr": "Il prendra le bois de cèdre, l'hysope, l'étoffe cramoisie et l'oiseau vivant, et il les trempera dans le sang de l'oiseau abattu et dans l'eau fraîche, et il en aspergera sept fois la maison.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:52",
+      "fr": "Après avoir purgé la maison avec le sang de l'oiseau, l'eau fraîche, l'oiseau vivant, le bois de cèdre, l'hysope et l'étoffe cramoisie,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:53",
+      "fr": "il lâchera l'oiseau vivant hors de la ville, en rase campagne. Il fera ainsi l'expiation pour la maison, et elle sera pure.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:54",
+      "fr": "Tel est le rituel de toute affection éruptive : pour les croûtes,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:55",
+      "fr": "pour une éruption sur un drap ou une maison,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:56",
+      "fr": "pour les gonflements, les éruptions cutanées ou les décolorations :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 14:57",
+      "fr": "pour déterminer quand ils sont impurs et quand ils sont purs. Tel est le rituel concernant les éruptions.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "להורת ביום הטמא — Cela peut être traduit : POUR DONNER DES INSTRUCTIONS « CONCERNANT » LE JOUR OU IL EST IMPUR, i. e. quel jour le rend pur et quel jour le rend impur (pour indiquer ce jour particulier où, selon les circonstances, une maison ou un vêtement ou une personne doit être déclaré propre ou impur)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:1",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:2",
+      "fr": "Parle au peuple israélite et dis-leur : Quand quelqu'un a un écoulement qui sort de son membre, un membre est lit. \"chair.\" il est impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי יהיה זב QUAND IL Y A UN PROBLÈME COURANT — On pourrait penser que s'il y a un problème courant d'une partie de son corps (par exemple, l'oreille, le nez), il sera impur ! Par conséquent, il indique מבשרו « de sa chair » (c'est-à-dire d'une partie de sa chair) et non de toutes les parties de sa chair (le préfixe מ est un partitif מ). Maintenant, cependant, que l’Écriture a fait une différence entre une partie de sa chair et une autre partie de sa chair, j’ai le droit de tirer une conclusion : elle (la Torah) déclare l’impureté dans le cas d’un homme ayant un problème récurrent (זב) et elle déclare l’impureté dans le cas particulier d’une femme ayant un problème récurrent (זבה). Comment ça se passe dans le cas d’un זבה ? À travers cet endroit de son corps où elle devient impure avec une impureté plus légère, à savoir celle d'un נדה, elle devient également impure avec une impureté plus grave, c'est-à-dire à travers זיבה, une continuation du problème au-delà de la période habituelle ! De même le זב : par le lieu où il devient impur avec une impureté plus légère, à savoir קרי, (une émission involontaire de sperme qui le rend impur seulement jusqu'au soir ; cf. v. 16), il devient aussi impur par une impureté plus grave, à savoir, זיבה (quand il est impur sept jours et doit apporter un sacrifice ; cf. vv. 13 ss. avec 16 et suiv. ; de ce dernier, il est évident de quelle partie du corps il s'agit ; il s'ensuit logiquement que c'est la même partie qui est ici visée) (Sifra, Metzora Parashat Zavim, Section 1 5)."
+        },
+        {
+          "id": 2,
+          "fr": "טמא‎ זובו SON PROBLEME EST IMPUR — Cela enseigne concernant une goutte (c'est-à-dire le sperme lui-même) qu'elle communique une impureté (et ce n'est pas seulement l'homme qui a le problème qui est impur) (Sifra, Metzora Parashat Zavim, Section 1 8-9 ; Niddah 55a). Le problème זב évoqué ici est similaire à l'eau de la pâte (qui manque de pâte) à base d'orge et elle est dissoute (fluide) et est semblable au blanc d'un œuf mélangé (où le blanc et le jaune ont coulé ensemble) ; שכבת זרע, cependant, est visqueux et ressemble au blanc d'un œuf qui n'est pas devenu confus (Niddah 35b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:3",
+      "fr": "L'impureté de son écoulement signifiera ce qui suit : que son membre coule avec l'écoulement ou qu'il soit bouché de manière à ce qu'il n'y ait pas d'écoulement, son impureté signifie ceci :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "רר [QUE SA CHAIR] GOUTTE — Ce mot est lié à ריר \"crachat\" - le sens est que sa chair coule avec son émission comme un crachat, c'est-à-dire. e. qu'il (le flux) ressorte d'apparence claire (non épais et troublé)."
+        },
+        {
+          "id": 2,
+          "fr": "או החתים OU [SA CHAIR] ÊTRE ARRÊTÉ — cela signifie que le flux sort épais et ferme l'orifice du membrane, de sorte que sa chair est bouchée par la goutte qui sort de lui. C'est son sens littéral. L'explication halakhique est la suivante : le premier verset (v. 2) énumère deux apparences de l'issue, puis le qualifie d'impur (l'homme qui en est affecté), car il est dit : \"quand un écoulement sort de sa chair, il est impur\" et l'autre verset (v. 3) énumère trois apparences de l'issue et le qualifie ensuite d'impur, comme il est dit, \"son impureté par son écoulement : si sa chair s'écoule par son écoulement comme avec crachat, ou si sa chair est bouchée par son écoulement, alors seulement c'est son impureté ! Comment concilier cela ? Deux apparences du flux servent à le rendre impur, et la troisième l'oblige également à apporter une offrande (Niddah 43b ; Megillah 8a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:4",
+      "fr": "Tout lit sur lequel repose celui qui a un écoulement sera impur, et tout objet sur lequel il s'assiéra sera impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל המשכב CHAQUE LIEU DE REPOS — Cela signifie : tout ce qui est aménagé pour y dormir (à l'exclusion donc d'une porte ou d'une planche, etc.). On pourrait cependant penser qu'il inclut également tout ce qui est destiné à une autre action, à condition qu'il puisse être utilisé pour dormir et qu'il ait réellement dormi dessus ! Il indique cependant אשר ישכב — il n'indique pas אשר שכב, « sur lequel on a dormi » mais אשר ישכב, « sur lequel on dort habituellement » — c'est-à-dire ce qui est destiné à être utilisé toujours à cet effet, excluant ainsi celui dont les gens peuvent lui dire : « Lève-toi et laisse-nous travailler. [avec ce sur quoi vous reposez]\" (Sifra, Metzora Parashat Zavim, chapitre 1 1-3)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר ישב [TOUT] OÙ IL EST ASSIS — Il n'est pas dit ici יָשַׁב אשר, \"sur lequel il s'est assis\", mais אשר יֵשֵׁב, \"sur lequel on s'assoit habituellement\" - il parle donc de quelque chose qui est destiné à être toujours utilisé à cet effet (Sifra, Metzora Parashat Zavim, chapitre 1 3 ; Shabbat 59a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:5",
+      "fr": "Celui qui touche sa literie devra laver ses vêtements, se laver dans l'eau et rester impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואיש אשר יגע במשכבו ET CELUI QUI TOUCHE SON LIEU DE REPOS [DOIT LAVER SES VÊTEMENTS… ET ÊTRE IMPURABLE JUSQU'AU SOIR] — Cela nous dit concernant l'objet sur lequel il se couche qu'il est plus strict qu'un objet touché par lui d'une autre manière que de s'allonger dessus — car cela (le premier) devient un élément primordial source d'impureté (אב הטומאה) communiquant l'impureté à tout homme qui la touche, celui-ci rendant à son tour impurs les vêtements qu'il porte à ce moment-là, tandis que tout ce qu'il touche qui n'est pas son lit devient seulement une source secondaire d'impureté du premier degré (ולד הטומאה) communiquant l'impureté uniquement à la nourriture et à la boisson (mais pas aux hommes ou aux vêtements) (cf. Sifra, Metsora Parashat Zavim, Section 2 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:6",
+      "fr": "Celui qui s'assied sur un objet sur lequel est assis celui qui a l'écoulement lavera ses vêtements, se baignera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והישב על הכלי ET CELUI QUI EST ASSIS SUR TOUT CHOSE [LÀ OÙ IL EST ASSIS QUI A UN PROBLÈME… SERA IMPUR] — même s'il (la personne) n'est pas réellement en contact avec cela : même s'il y a dix choses les unes sur les autres, la plus basse étant celle sur laquelle un זב s'est assis une fois, ils communiquent tous l'impureté selon la loi applicable à un siège sur sur lequel une personne impure s'est assise, et il en va de même pour un objet sur lequel elle s'est couchée (cf. Sifra, Metzora Parashat Zavim, chapitre 3 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:7",
+      "fr": "Celui qui touchera le corps de celui qui a un écoulement lavera ses vêtements, se lavera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:8",
+      "fr": "Si celui qui a un écoulement crache sur quelqu'un qui est pur, celui-ci lavera ses vêtements, se baignera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי ירק הזב בטהור ET SI CELUI QUI A LE PROBLÈME CRACHE SUR CELUI QUI EST PROPRE — et qu'il (la personne propre) entre en contact avec lui (le crachat; c'est-à-dire qu'il tombe réellement sur lui) ou même s'il le porte seulement (c'est-à-dire qu'il est, par exemple, tombé sur un bâton qu'il porte), alors IL SERA IMPUR JUSQU'AU MÊME, car les crachats communiquent l'impureté en les portant (cf. Niddah 55b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:9",
+      "fr": "Tout moyen de conduite monté par celui qui a une décharge sera impur ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל המרכב ET TOUT POUR CONDUIRE — même s'il ne s'est pas assis dessus en roulant, par ex. g. la prise devant la selle, qui s'appelle arcon en vieux français, devient impure car elle fait partie de quelque chose sur lequel on peut monter (משום מרכב), et la אוכף, la selle, qui s'appelle alves en vieux français, est impure car étant quelque chose sur lequel s'asseoir (משום מושב) (Eruvin 27a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:10",
+      "fr": "quiconque touche à quelque chose qui était sous lui sera impur jusqu'au soir ; et quiconque portera de telles choses lavera ses vêtements, se lavera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל הנגע בכל אשר יהיה תחתיו ET CELUI QUI TOUCHE TOUT CE QUI ÉTAIT תחתיו — sous le זב. Ceci vise à enseigner concernant un tel objet sur lequel monter (si un זב a monté dessus) que quiconque le touche devient impur, mais il n'a pas besoin de laver ses vêtements et c'est quelque chose de plus strict dans le cas d'une chose sur laquelle dormir que dans celui d'une chose sur laquelle monter (puisque le premier nécessite que ses vêtements soient lavés ; cf. v. 5)."
+        },
+        {
+          "id": 2,
+          "fr": "והנושא אותם ET CELUI QUI LES PORTE — « eux » signifie tout ce qui a été mentionné à propos d'un זב — son flux, ses crachats, son sperme et son urine, et ce sur quoi il a dormi ou monté — le fait de les porter rend un homme impur de sorte qu'il rend à son tour ses vêtements impurs (cf. Sifra, Metzora Parashat Zavim, chapitre 4 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:11",
+      "fr": "Celui que touchera celui qui a un écoulement sans s'être rincé les mains à l'eau, lavera ses vêtements, se baignera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וידיו לא שטף כמים [ET CELUI QUI A LE PROBLÈME] TOUCHE ET IL NE S'EST PAS RINCÉ LES MAINS DANS L'EAU [… SERA IMPUR JUSQU'AU MÊME] — \"et ne s'est pas rincé les mains\" signifie : tant qu'il (le זב) ne s'est pas immergé pour se purifier de son impureté : même s'il a cessé de produire et a compté sept jours purs (v. 13) mais qu'il lui manque encore l'immersion, il communique l'impureté sous toutes les formes de souillure qui lui sont propres. Et la raison pour laquelle l'Écriture exprime l'immersion de tout le corps du זב par le terme « se rincer les mains » est pour vous enseigner que les parties cachées du corps (בית הסתרים, l'intérieur de la bouche, des oreilles, du nez, etc., et les plis entre les parties adjacentes du corps, קמטים) n'exigent pas « l'arrivée de l'eau » sur eux. (c'est-à-dire qu'il n'a pas besoin d'être mouillé lorsqu'il s'immerge), mais seulement un membre visible, comme les mains (Sifra, Metzora Parashat Zavim, chapitre 4-5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:12",
+      "fr": "Un vase de terre que touchera celui qui a une décharge sera brisé ; et tout instrument en bois doit être rincé à l'eau.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכלי חרס אשר יגע בו הזב ET LE VASE DE LA TERRE QUE CELUI QUI A LE PROBLEME TOUCHE [SERA CASSÉ] — On pourrait penser que la loi s'applique également s'il l'a touché de l'extérieur (son extérieur), etc., comme il est indiqué dans Torath Cohanim (Sifra, Metzora Parashat Zavim, Section 3 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:13",
+      "fr": "Lorsque celui qui a un écoulement sera purifié de son écoulement, il comptera sept jours pour sa purification, lavera ses vêtements et se lavera dans de l'eau fraîche ; alors il sera pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי יטהר signifie QUAND IL CESSERA [DE SA PROBLÈME] (Sifra, Metzora Parashat Zavim, Chapitre 5 1)."
+        },
+        {
+          "id": 2,
+          "fr": "שבעת ימים לטהרתו [ALORS DOIT-IL NUMÉRO POUR LUI-MÊME] SEPT JOURS À COMPTER DE LA DATE QU'IL A CESSÉ — i. e. sept jours purs (gratuits) de l'impureté résultant de la question, c'est-à-dire. e. dans lequel il ne voit aucun problème, et tous (des sept jours) doivent être consécutifs (Sifra, Metzora Parashat Zavim, chapitre 5-6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:14",
+      "fr": "Le huitième jour, il prendra deux tourterelles ou deux pigeons et se présentera devant DIEU à l'entrée de la tente d'assignation et les donnera au prêtre.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:15",
+      "fr": "Le prêtre les offrira, l'un en sacrifice de purgation et l'autre en holocauste. Ainsi le prêtre fera l'expiation en sa faveur, pour sa libération, devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:16",
+      "fr": "Lorsqu'un homme aura une émission de sperme, il baignera tout son corps dans l'eau et restera impur jusqu'au soir.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:17",
+      "fr": "Tout tissu ou cuir sur lequel tombe la semence sera lavé à l'eau et restera impur jusqu'au soir.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:18",
+      "fr": "Et impliquant une femme : lorsqu'un homme a des relations charnelles avec elle, tous deux se baigneront dans l'eau et resteront impurs jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ורחצו במים ILS DOIVENT TOUS LES DEUX SE LAVER DANS L'EAU — C'est un décret du roi selon lequel une femme doit devenir impure à la suite de rapports sexuels. La raison n'est pas à cause de la loi de « celui qui touche שכבת זרע » (qui, selon Lévitique 22 : 7 est impur ; cf. Sifra sur ce verset) car dans son cas, c'est מגע בית הסתרים et cela ne la rend pas impure (Niddah 41b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:19",
+      "fr": "Lorsqu'une femme a un écoulement, son écoulement étant du sang provenant de son corps, elle restera sept jours dans sa séparation menstruelle ; quiconque la touchera sera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי תהיה זבה ET SI UNE FEMME A UN PROBLÈME — On pourrait penser que cela signifie : s'il y a un, sort de n'importe quel membre de son corps (par exemple oreille, nez) ! Il déclare cependant dans une loi faisant référence à cette question, (Lévitique 20 : 18) « et elle a découvert la fontaine de son sang » — seul l'écoulement de sang la rend donc impure qui vient de sa fontaine (Sifra, Metzora Parashat Zavim, Section 4 2)."
+        },
+        {
+          "id": 2,
+          "fr": "דם יהיה זובה בבשרה ET SON PROBLEME DANS SA CHAIR EST DU SANG — Son descendant ne relève pas du terme « flux » pour provoquer l'impureté, sauf s'il est rouge (cf. Niddah 19a)."
+        },
+        {
+          "id": 3,
+          "fr": "בנדתה [ELLE SERA] MISE À PART [SEPT JOURS] — Le mot a le même sens que (Job. 18 :18) « et ils le chasseront (ינדהו) du monde » — et son état est ainsi appelé parce qu'elle est mise à l'écart du contact de toute personne (séparée, afin que personne ne la touche)."
+        },
+        {
+          "id": 4,
+          "fr": "תהיה בנדתה [SEPT JOURS] ELLE SERA DANS SA SÉPARATION. même si elle n'a vu une manifestation de sang qu'une seule fois (lit., seulement la première apparition - c'est-à-dire pas 7 jours d'affilée) (Sifra, Metzora Parashat Zavim, Section 4-5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:20",
+      "fr": "Tout ce sur quoi elle se couche pendant sa séparation menstruelle sera impur ; et tout ce sur quoi elle s'assiéra sera impur.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:21",
+      "fr": "Quiconque touchera son lit lavera ses vêtements, se lavera dans l'eau et restera impur jusqu'au soir ;",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:22",
+      "fr": "et quiconque touchera un objet sur lequel elle s'est assise devra laver ses vêtements, se laver dans l'eau et rester impur jusqu'au soir.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:23",
+      "fr": "Que ce soit la literie ou l'objet sur lequel elle s'est assise, en le touchant on sera impur jusqu'au soir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם על המשכב הוא ET SI ON EST SUR SON LIEU DE REPOS [OU SUR TOUTE CHOSE SUR LAQUELLE ELLE EST ASSISE] — Cela signifie, celui qui dort ou s'assoit à l'endroit où elle a dormi ou s'est assise même s'il ne le touche pas directement (par exemple s'il y a des couvertures sur le canapé ou le siège ; car s'il le touche vv. 21 et 22 s'appliquent); il est également soumis à la loi de l'impureté qui est énoncée dans le verset ci-dessus : il exige de laver les vêtements."
+        },
+        {
+          "id": 2,
+          "fr": "על הכלי SUR UN NAVIRE — Ceci est destiné à ajouter à משכב et מושב tout article sur lequel monter (Sifra, Metzora Parashat Zavim, Section 4 15)."
+        },
+        {
+          "id": 3,
+          "fr": "בנגעו בו QUAND IL LE TOUCHE — \"cela\" (בו) — cela se réfère uniquement à מרכב qui, comme on vient de le dire, est inclus dans la loi à cause des mots על הכלי."
+        },
+        {
+          "id": 4,
+          "fr": "בנגעו בו יטמא QUAND IL LE TOUCHERA, IL SERA IMPUR, mais n'exige pas de laver les vêtements, car en ce qui concerne le מרכב, le fait d'être touché ne communique pas l'impureté aux gens afin qu'ils à leur tour rendent leurs vêtements impurs (cf. Mishna Kelim 23 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:24",
+      "fr": "Et si un homme couche avec elle, sa séparation menstruelle s'applique à lui ; il sera impur sept jours, et tout lit sur lequel il couchera deviendra impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותהי נדתה עליו [ET SI QUELQUE HOMME LIT AVEC ELLE] ALORS SON PROPRETÉ DE SÉPARATION SERA SUR LUI — On pourrait penser qu'il la suit dans son sillage — que s'il a eu des relations sexuelles avec elle e. g. le cinquième jour de sa séparation, il deviendra impur pendant trois jours seulement (les cinquième, sixième et septième) comme elle (c'est-à-dire parce que ce sont les jours restants pendant lesquels elle est impure) ! Or, l'Écriture déclare : « il sera impur pendant sept jours ». Ces paroles ne peuvent donc pas faire référence à la durée de son impureté. Quelle est alors la force de ותהי נדתה עליו ? Ils veulent dire : son état d'impureté en tant que נדה sera sur lui. Comment ça se passe dans son cas ? Elle, étant une אב הטומאה, rend l'homme impur, ainsi que les vases de terre au moyen de ‎‎היסט ! De même, il devient un אב הטומאה (pas un ולד הטומאה), et rend l'homme impur, ainsi que les vases de terre au moyen de היסט ! (Niddah 33a)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:25",
+      "fr": "Lorsqu'une femme a eu un écoulement de sang pendant plusieurs jours, pas au moment de sa séparation menstruelle, ou lorsqu'elle a un écoulement au-delà de la période de séparation menstruelle, elle sera impure, comme au moment de sa séparation menstruelle, aussi longtemps que dure son écoulement.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ימים רבים [ET SI UNE FEMME A UN PROBLEME DE SANG] BEAUCOUP DE JOURS — au moins trois jours (puisque le pluriel ימים suggère au moins deux jours, le mot רבים, « plus », doit impliquer au moins trois jours) (cf. Sifra, Metzora Parashat Zavim, Section 5 9),"
+        },
+        {
+          "id": 2,
+          "fr": "בלא עת נדתה HORS DU TEMPS DE SA SÉPARATION — i. e. au moins trois jours immédiatement après l'expiration des sept jours normaux de séparation."
+        },
+        {
+          "id": 3,
+          "fr": "או כי תזוב OU SI ELLE A UN FLUX pendant ces trois jours (mentionnés ci-dessus),"
+        },
+        {
+          "id": 4,
+          "fr": "על נדתה AU-DELÀ DU TEMPS DE SA SÉPARATION — i. e. étant éloignée (éloignée) de son heure de séparation d'un jour intermédiaire — cette femme (une telle femme) est, dans les deux cas, appelée זבה et la loi la concernant est décrétée dans cette section qui suit ; et ce n'est pas comme la loi d'un נדה, car elle (la première) exige le décompte de sept jours purs (c'est-à-dire que son impureté ne prend fin que lorsqu'elle a compté שבעה נקיים, sept jours consécutifs qui sont purs de tout flux ; cf. v. 28) et un sacrifice le jour suivant (cf. v. 29) ; tandis que le נדה n'exige pas le décompte des jours purs (c'est-à-dire התורה ‎מן et elle n'exige pas non plus de sacrifice) mais elle reste sept jours dans sa séparation et non plus indépendamment du fait qu'elle ait ou non vu un spectacle de sang (c'est-à-dire même s'il y a un écoulement le septième jour et qu'il cesse ensuite, elle est encore propre le huitième jour après s'être immergée). Et ils (nos rabbins) expliquent en expliquant cette section dans le Sifra. Il y a onze jours entre la fin d'une période נדה et le début de la période נדה suivante, de sorte que si elle voit du sang sur trois périodes, elle s'immerge. Et ils (nos rabbins) en exposant cette section (Sifra, Metzora Parashat Zavim, chapitre 8 2-3) ont dérivé la Halacha des onze jours qui interviennent entre l'expiration d'une période נדה et le début d'une autre période ‎נדה - c'est-à-dire. e. qu'à la suite de trois jours consécutifs pendant lesquels elle voit du sang au cours de ces onze jours, elle sera (soumise à la loi de) un זבה et non un נדה."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:26",
+      "fr": "Tout lit sur lequel elle se couchera pendant la durée de ses pertes sera pour elle comme un lit pendant sa séparation menstruelle ; et tout objet sur lequel elle s'assoit deviendra impur, comme c'est le cas pendant sa séparation menstruelle :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:27",
+      "fr": "quiconque les touchera sera impur ; il lavera ses vêtements, se baignera dans l'eau et restera impur jusqu'au soir.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:28",
+      "fr": "Lorsqu'elle sera purifiée de son écoulement, elle comptera sept jours, après quoi elle sera pure.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:29",
+      "fr": "Le huitième jour, elle prendra deux tourterelles ou deux pigeons et les apportera au prêtre à l'entrée de la tente d'assignation.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:30",
+      "fr": "Le prêtre offrira l'un en offrande de purgation et l'autre en holocauste ; et le prêtre fera pour elle l'expiation de ses pertes impures, devant Dieu.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 15:31",
+      "fr": "Tu mettras les Israélites en garde contre leur impureté, de peur qu'ils ne meurent à cause de leur impureté en profanant mon tabernacle qui est parmi eux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והזרתם AINSI VOUS METTEZ À PART [LES ENFANTS D'ISRAËL] — Le mot נזר a partout où il apparaît le sens de « séparer ». Il en va de même (Ésaïe 1 : 4) « ils sont partis (נזורו) en arrière » ; (Genèse 49 :26) « celui qui a été séparé de (נזיר) ses frères » (Sifra, Metzora Parashat Zavim, chapitre 9 6)."
+        },
+        {
+          "id": 2,
+          "fr": "ולא ימתו בטמאתם QU'ILS NE MEURENT PAS DANS LEUR IMPURETÉ [LORSQU'ILS PROFILENT MON TABERNACLE] — Ainsi vous voyez que la peine de « l'excision » à laquelle est soumis celui qui souille le Lieu Saint (cf. Nombres 19 :13) est ici appelée מיתה (c.-à-d. מיתה בידי שמים) (cf. Sifrei Bamidbar 125)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:32",
+      "fr": "Tel est le rituel concernant celui qui a un écoulement : concernant celui qui a une émission de sperme et devient ainsi impur ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זאת תורת הזב C'EST LA LOI DE CELUI QUI A UN PROBLÈME, c'est-à-dire quiconque n'a qu'une seule apparence de flux. Et quelle est sa loi ?"
+        },
+        {
+          "id": 2,
+          "fr": "ואשר תצא ממנו שכבת זרע, il est comme celui à qui une souillure est arrivée : il est impur avec une impureté qui ne dure que jusqu'au soir (Sifra, Metzora Parashat Zavim, chapitre 9 8 ; cf. v. 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 15:33",
+      "fr": "et concernant celle dont l'état est celui de la séparation menstruelle ; et concernant toute personne, homme ou femme, qui a un écoulement ; et concernant un homme qui couche avec une femme impure.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והזב את זובו — Ceci fait référence à toute personne qui a deux apparences et à toute personne qui a trois apparences, la loi concernant laquelle est énoncée ci-dessus (cf. Rachi sur le v. 3)."
+        }
+      ]
+    }
+  ]
+}

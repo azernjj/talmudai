@@ -1,0 +1,1408 @@
+{
+  "name": "Shemot",
+  "range": "Exodus 1:1-6:1",
+  "verses": [
+    {
+      "ref": "Exodus 1:1",
+      "fr": "Voici les noms des fils d'Israël qui vinrent en Égypte avec Jacob, chacun venant avec sa maison :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואלה שמות בני ישראל MAINTENANT, CE SONT LES NOMS DES ENFANTS D'ISRAËL — Bien que l'Écriture les ait déjà énumérés par leur nom alors qu'ils vivaient, lorsqu'ils descendirent en Égypte (Genèse 46 : 8-27), elle les énumère à nouveau lorsqu'elle nous raconte leur mort, montrant ainsi à quel point ils étaient chers à Dieu — qu'ils sont comparés aux étoiles que Dieu aussi fait ressortir et fait entrer par leur nombre et leur nom lorsqu'elles cessent de briller, comme il est dit (Ésaïe 40 :26) « Il fait sortir leur armée par numéro, Il les appelle tous par leur nom » (Exode Rabba 1 :3 ; Tanchuma Yashan 1 :1 :2)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:2",
+      "fr": "Ruben, Siméon, Lévi et Juda ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:3",
+      "fr": "Issacar, Zabulon et Benjamin ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:4",
+      "fr": "Dan et Nephtali, Gad et Asher.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:5",
+      "fr": "Le nombre total des descendants de Jacob s’élevait à soixante-dix, Joseph étant déjà en Égypte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויוסף היה במצרים lit., ET JOSEPH ÉTAIT EN ÉGYPTE ] Mais lui et ses fils n'étaient-ils pas inclus dans les soixante-dix ? Alors, que veut nous dire cette déclaration ? Ne sait-on pas qu'il était en Egypte ? Mais son but est de vous informer de la justice de Joseph : c’est le même Joseph qui gardait les brebis de son père ; c'est le même Joseph qui était en Égypte et y est devenu roi, et pourtant il est resté inébranlable dans sa justice, et le changement d'une position humble à un rang élevé en Égypte n'a causé aucune détérioration de son caractère (cf. Sifrei האזינו ; Exode Rabbah 1 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:6",
+      "fr": "Joseph mourut, ainsi que tous ses frères et toute cette génération.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:7",
+      "fr": "Mais les Israélites étaient fertiles et prolifiques ; ils se multiplièrent et augmentèrent considérablement, de sorte que le pays en fut rempli.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Que là-bas, les femmes ne faisaient pas de fausses couches et ne mouraient pas lorsqu'elles étaient jeunes."
+        },
+        {
+          "id": 2,
+          "fr": "וישרצו ET ILS AUGMENTENT ABONDAMMENT (plus lit., ils ont envahi, un mot utilisé pour désigner la prolificité des reptiles) — ils ont donné naissance à six enfants en une seule naissance (les six mots de פרו à מאד suggèrent ou impliquent le chiffre six) (Midrash Tanchuma, Shemot 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:8",
+      "fr": "Un nouveau roi s'éleva sur l'Égypte qui ne connaissait pas Joseph.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקם מלך חדש MAINTENANT IL EST SURVENU UN NOUVEAU ROI — Rab et Samuel (deux professeurs amoraïm ou talmudiques) différaient dans leur interprétation de ces mots. L'un d'eux disait qu'il était réellement un nouveau roi ; l'autre dit que c'était le même roi mais qu'il avait fait de nouveaux édits (Sotah 11a)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר לא ידע QUI NE SAVAIT PAS [JOSEPH] — il se comportait comme s'il ne le connaissait pas (Sotah 11a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:9",
+      "fr": "Et il dit à son peuple : « Voyez, le peuple israélite est bien trop nombreux pour nous.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:10",
+      "fr": "Traitons-les avec discernement, afin qu'ils n'augmentent pas ; autrement, en cas de guerre, ils pourraient se joindre à nos ennemis dans la lutte contre nous et sortir de terre, ce qui signifie peut-être à cause de leur misérable condition, voir Osée 2.2, ou « prendre l'ascendant sur le pays ». Contrairement aux autres, « faites-les sortir du pays ».",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הבה נתחכמה ALLEZ, AGISSONS SAGEMENT — Partout où הבה est utilisé, il a le sens de se préparer et de se préparer à faire une affaire particulière ; cela signifie autant que : préparez-vous pour cela (cf. Rachi sur Genèse 11 :4 et Rachi sur Genèse 38 :16)."
+        },
+        {
+          "id": 2,
+          "fr": "נתחכמה לו LAISSONS-NOUS LES TRAITER SAGEMENT (לו plus lit., avec lui) — i. e. avec le peuple (le mot לו, qui est au singulier, fait référence à עם utilisé dans le verset précédent dans la phrase עם בני ישראל) : réfléchissons judicieusement à ce que nous devons leur faire. Nos rabbins ont cependant expliqué que le singulier לו fait référence à Dieu, et que les mots signifient : « utilisons notre sagesse contre Celui qui se montrerait le libérateur d’Israël, en les condamnant à mort par l’eau, puisqu’Il ​​a déjà juré qu’Il ​​n’apporterait pas un autre déluge sur le monde, et Il sera donc incapable de nous punir ‘mesure pour mesure’, comme c’est Sa manière. »)"
+        },
+        {
+          "id": 3,
+          "fr": "ועלה מן הארץ ET IL MONTERA HORS DE LA TERRE, contre notre volonté. Nos rabbins ont expliqué qu’ils parlaient comme une personne qui prononce une malédiction contre elle-même mais attache la malédiction aux autres (parce qu’elle ne souhaite pas utiliser une expression menaçante à son sujet), de sorte que c’est comme si l’Écriture écrivait « et nous devrons sortir du pays » et ils en prendront possession (Sotah 11a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:11",
+      "fr": "Alors ils ont mis sur eux des maîtres d’œuvre pour les opprimer par des travaux forcés ; et ils bâtirent des villes de garnison pour Pharaon : Pithom et Raamsès.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עליו [PAR CONSÉQUENT ILS SE SONT MIS] SUR EUX (עליו sur lui) i. e. sur le peuple."
+        },
+        {
+          "id": 2,
+          "fr": "מסים a le sens de tribut (מס), un prélèvement forcé de travail, de sorte que שרי מסים sont les officiers qui leur exigent le tribut de travail. Et quel était cet hommage ? Qu'ils bâtiraient des villes-magasins pour Pharaon."
+        },
+        {
+          "id": 3,
+          "fr": "למען ענותו בסבלותם POUR LES AFFLIGTER DE LEURS FARDEAU — i. e. les fardeaux des Égyptiens."
+        },
+        {
+          "id": 4,
+          "fr": "ערי מסכנות — Traduisez ceci comme le fait le Targum : VILLES QUI SONT DES LIEUX POUR LES TRÉSORS ; de même, nous avons (Ésaïe 22 :15) « Allez les apporter à cet intendant (הסוכן) » — le trésorier nommé sur les magasins (Exode Rabbah 2 :1)."
+        },
+        {
+          "id": 5,
+          "fr": "את פתם ואת רעמסס PITHOM ET RAMESES — Ces villes existaient déjà mais n'étaient pas adaptées à l'origine à cet effet ; maintenant ils les fortifièrent et les fortifièrent pour servir de villes-entrepôts."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:12",
+      "fr": "Mais plus ils étaient opprimés, plus ils se multipliaient et s'étendaient, de sorte que les [Égyptiens] en vinrent à craindre les Israélites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכאשר יענו אתו ET COMME ILS LES AFFLIGENT ] Quelle que soit la question dans laquelle ils mettaient leur cœur à les affliger, ainsi le cœur du Saint, béni soit-Il, était déterminé à les multiplier et à les faire croître rapidement."
+        },
+        {
+          "id": 2,
+          "fr": "כן ירבה signifie : ainsi ils se sont multipliés et ainsi ils ont grandi rapidement (c'est-à-dire que la détermination de Dieu a été exécutée, les temps imparfaits des verbes dénotant la continuation de l'augmentation et de la croissance). C'est le vrai sens ; mais il existe une explication midrashique de ces temps imparfaits : Le Saint-Esprit (Dieu) a dit ceci : Vous dites פן ירבה, « de peur qu'ils n'augmentent », mais « je » dis כן ירבה, « ainsi ils augmenteront assurément » (Sotah 11a)."
+        },
+        {
+          "id": 3,
+          "fr": "ויקצו le mot signifie, ILS ÉTAIT LASES DE LEUR VIE. Nos rabbins ont expliqué que cela signifie qu'ils étaient comme des épines (קוצים) à leurs yeux (cf. Sotah 11a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:13",
+      "fr": "Les Égyptiens ont impitoyablement imposé aux Israélites",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בפרך signifie avec un service dur qui écrase (מפרכת) le corps et le brise (cf. Sotah 11b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:14",
+      "fr": "les divers travaux qu'ils leur faisaient accomplir. Sans pitié pour les divers travaux qu'ils leur faisaient accomplir. Impitoyablement déplacé vers le haut depuis la fin du verset pour plus de clarté. ils leur rendaient la vie amère par de durs travaux sur le mortier et les briques et par toutes sortes de travaux dans les champs.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:15",
+      "fr": "Le roi d'Égypte parla aux sages-femmes hébraïques, dont l'une s'appelait Shiphrah et l'autre Pouah :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למילדת (le participe Piel) — Ceci est synonyme de מולידות (le participe Hiphil, et les deux désignent les femmes qui aident la mère à donner naissance à l'enfant). Mais certains verbes sont utilisés sous des formes de conjugaison légère (c'est-à-dire celle qui n'a pas de Dagesh fort comme caractéristique) ou sous des formes de conjugaison forte (celle qui a un tel Dagesh), comme e. g., שׁוֹבֵר (Kal) et מְשַׁבֵּר (Piel) ; דּוֹבֵר (Kal) et מְדַבֵּר (Piel). les deux ayant la même signification ; de même, nous pouvons avoir ici מוליד (le Hiphil – sans Dagesh fort) ou מְיַלֵּד (le Piel), tous deux signifiant celui qui aide à donner naissance."
+        },
+        {
+          "id": 2,
+          "fr": "שפרה SHIPHRAH — C'était Jokébed ; elle portait ce nom supplémentaire parce qu'elle avait l'habitude de mettre le bébé après sa naissance en bonne condition physique (משפרת) par les soins qu'elle lui prodiguait (Sotah 11b)."
+        },
+        {
+          "id": 3,
+          "fr": "פועה PUAH — C'était Miriam, et elle portait ce nom supplémentaire parce qu'elle avait l'habitude d'appeler à haute voix, de parler et de chanter le bébé, tout comme le font les femmes qui apaisent un enfant quand il pleure (Sotah 11b)."
+        },
+        {
+          "id": 4,
+          "fr": "פועה a le sens de crier à haute voix, comme (Ésaïe 42 :14) « Je pleurerai (אפעה) comme une femme en travail »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:16",
+      "fr": "en disant : \"Quand vous accoucherez les femmes hébraïques, regardez le tabouret d'accouchement :cle tabouret d'accouchement Plus précisément, les supports en brique ou en pierre utilisés par les femmes égyptiennes lors de l'accouchement. Si c'est un garçon, tuez-le ; si c'est une fille, laissez-la vivre.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בילדכן QUAND VOUS FAITES LE BUREAU DE SAGE-FEMME ] Ce mot (le Piel) a la même force que בהולידכן (le Hiphil) : lorsque vous les aidez à accoucher."
+        },
+        {
+          "id": 2,
+          "fr": "על האבנים SUR LES TABOURETS — le siège de la femme en train d'accoucher ; dans un autre passage (Ésaïe 37 : 3), l'Écriture le qualifie de מַשְׁבֵּר. Il en va de même (Jérémie 18 : 3) « Il travaillait sur le אבנים » — le lieu des récipients de (produits par) l'artisanat du potier."
+        },
+        {
+          "id": 3,
+          "fr": "אם בן הוא וגו SI C'EST UN FILS etc. — Il était particulier uniquement à l'égard des enfants mâles parce que ses astrologues lui avaient dit qu'il devait naître d'une femme hébraïque un fils qui deviendrait leur libérateur (Exode Rabbah 1 : 18)."
+        },
+        {
+          "id": 4,
+          "fr": "וחיה a la même signification que ותחיה ALORS ELLE vivra."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:17",
+      "fr": "Les sages-femmes, craignant Dieu, ne firent pas ce que leur avait dit le roi d'Egypte ; ils ont laissé les garçons vivre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותחיין את הילדים Cela peut signifier ILS ont MAINTENU LES ENFANTS DANS LA VIE — ils leur ont fourni de la nourriture (Sotah 11b). Le Targum rend ותחיין la première fois qu'il apparaît (c'est-à-dire dans ce verset) par וקימא (ce qui signifie « et elles — les femmes — préservèrent les bébés »). et la deuxième fois (Exode 1:18) par וקימתן (qui signifie « et vous, les femmes, avez préservé etc. ») Le Targum est capable de distinguer les deux sens de ce mot, mais cela ne peut pas être fait en hébreu car dans la langue hébraïque dans le cas de fem. pluriel. ce mot et les formes similaires (terminant par נָה ou ןָ) sont utilisés dans le sens de « ils ont fait quelque chose » (3ème personne) et dans le sens de « vous avez fait quelque chose » (2ème personne). Par exemple : (Exode 2 :19) « Et elles (les filles de Jethro) dirent : (וַתֹּאמַרְןָ) « Un homme égyptien, etc. », qui est le passé (le texte de Rachi doit lire ici לשון עָבַר) (imperf. avec conv. Vau), tout comme on utiliserait וַיֹאמְרוּ si l'on parlait d'hommes ; (Jérémie 54 :25) « Vous, les femmes, avez parlé (ותדברנה) avec vos bouches », ayant le même sens que דברתן, et correspondant à ותדברו lorsqu'il est utilisé pour les hommes (Ézéchiel 13 :19) « Et vous (les femmes) m'avez profané (ותחללנה) parmi mon peuple » qui est un passé, le même que חללתן correspondant à ותחללו lorsqu'il est utilisé pour les hommes."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:18",
+      "fr": "Le roi d'Égypte fit appeler les sages-femmes et leur dit : « Pourquoi avez-vous fait cela, en laissant les garçons en vie ?",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 1:19",
+      "fr": "Les sages-femmes dirent à Pharaon : \" Parce que les femmes hébraïques ne sont pas comme les femmes égyptiennes : elles sont vigoureuses. Avant que la sage-femme puisse venir vers elles, elles ont accouché. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי חיות הנה signifie qu'elles sont tout aussi compétentes que les sages-femmes. L'araméen pour מילדות, sages-femmes, est חיתא (d'où le terme חיות dans ce verset). Nos Rabbins cependant (prenant ce mot dans le sens d'animaux) ont donné l'explication suivante (Sotah 11b) : ils ont été comparés aux bêtes des champs qui n'ont pas besoin de l'aide de sages-femmes. Et où sont-ils par rapport aux animaux ? (Genèse 49:9) « Juda est un jeune lion » ; (Genèse 27) « Benjamin est un loup qui apprend » ; (Deutéronome 33:17) « Joseph est le premier-né de son bœuf » ; (Genèse 49 :21) « Nephtali est une biche envoyée ». Quant aux ancêtres des tribus au sujet desquelles une telle comparaison n'est pas expressément écrite, l'Écriture les inclut implicitement dans les diverses bénédictions accordées à leurs frères (et ainsi ils sont également comparés, comme leurs frères, à des animaux), car l'Écriture déclare (Genèse 49 : 28) « Et il les bénit etc. » (cf. Rachi sur ces propos). Puis, encore une fois, il est écrit (Ézéchiel 19 : 2) « Comment ta mère était-elle une lionne ! » (Le prophète s’adresse aux princes d’Israël comme aux représentants du peuple, et par le terme « ta mère » désigne les ancêtres de la nation ; le chapitre continue en parlant de la progéniture de la mère comme de « petits »)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:20",
+      "fr": "Et Dieu a bien traité les sages-femmes ; et le peuple se multiplia et grandit considérablement.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וַיֵּיטָב signifie IL LEUR A FAIT DU BON. — Voici la différence entre certaines formes d'un mot (verbe) dont la racine est de deux lettres lorsqu'on leur préfixe ו et י : lorsqu'il entend exprimer le sens « et il a amené quelqu'un ou quelque chose à faire une action particulière » (c'est-à-dire le 3ème masc. sing, imperf. Hiphil avec Vau conversif), le י a la voyelle Tzéré qui est ce que nous appelons Kametz Katan, comme, (dans ce verset) « Et Dieu fit du bien (וַיֶּיטָב) avec les sages-femmes » (à Rachi la racine c'est טב ; nous la prenons comme יטב) ; (Lamentations 2:5) « וַיָרָב pour la fille de Juda [deuil] » i. e. Il a augmenté (rendu grand) le deuil ; (racine רֹב ; nous la prenons comme רבה). De même (II Chroniques 36 :20) « וַיָּגָל le reste » qui se produit en relation avec Nebuzaradon, i. e. il fit exiler le reste ; (Juges 15:4) וַיָּפָן queue à queue\", c'est-à-dire qu'il a tourné les queues l'une vers l'autre (plus lit., il a fait tourner une queue vers l'autre) — tous ces termes expriment le sens \"il a amené les autres à faire quelque chose\" (c'est-à-dire qu'ils sont de la conjugaison Hiphil). Quand, cependant, il parle dans le sens de \"et il a fait quelque chose\" (3ème masc. chanter, imperf. Kal avec Vau conv.), le י a la voyelle Chirik. Par exemple, (Lévitique 10 :20) « וַיִיטַב à ses yeux » — cela signifie « de même (dans ce verset) le peuple », c'est-à-dire « וַיִיטַב à ses yeux ». e. les gens sont devenus nombreux ; (2 Rois 25 :21) « וַיִגָל Juda », c'est-à-dire. e. Juda devint exilé ; (2:12) « וַיִפֵן d'une manière et d'une autre », c'est-à-dire. e. il s'est tourné d'un côté et de l'autre. Ne me répondez pas (ne soulevez pas d'objection) en citant les mots וַיֵּלֶךְ et וַיֵּשֶׁב et וַיַרֶד et וַיֵּצֵא (en disant que ces formes verbales ont aussi ו et י préfixés et que le י a le voyelle Tzéré et pourtant ce sont des formes Kal, pas Hiphil), car ce ne sont pas de la même classe de verbes que ceux mentionnés ci-dessus, car le י fait partie de la racine en eux - dans יֵלֵךְ et יֵשֵׁב et יֵרֵד et יֵצֵא, le י est une troisième lettre racine dans chacun d'eux."
+        },
+        {
+          "id": 2,
+          "fr": "וייטב אלהים למילדת PAR CONSÉQUENT, DIEU A BIEN TRAITÉ LES SAGES-FEMMES — Quel était le bien qu'il leur a fait ? Le verset suivant donne la réponse à ceci :"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:21",
+      "fr": "Et [Dieu] établit des maisons et des maisons Signification de Héb. batim incertain. pour les sages-femmes, parce qu'elles craignaient Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויעש להם בתים IL FAIT CES MAISONS — maisons (dynasties) du sacerdoce, des Lévites et de la royauté qui sont toutes appelées בתים, « maisons », comme il est dit, (1 Rois 9 :1) « et Salomon bâtit la maison de l'Éternel et la maison du roi » : « la maison de l'Éternel » i. e. une dynastie de prêtres et de Lévites — de Jokébed (Shifrah) ; et \"la maison du roi\", c'est-à-dire. e. une dynastie royale — de Miriam (Puah), comme cela est indiqué dans le Traité Sotah 11b."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 1:22",
+      "fr": "Alors Pharaon ordonna à tout son peuple, en disant : « Tout garçon qui naîtra, vous le jetterez dans le Nil, mais laissez chaque fille vivre. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לכל עמו Cela peut être traduit ET PHARAON A DONNÉ L'ORDRE CONCERNANT TOUS (לכל) SON PEUPLE — Concernant eux aussi, il a pris un décret (Sotah 12a). Car le jour où Moïse naquit, ses astrologues lui dirent : « Aujourd'hui, leur libérateur est né, mais nous ne savons pas s'il est né d'un père égyptien ou d'un Israélite ; mais nous voyons par notre art astrologique qu'il finira par souffrir du malheur à cause de l'eau ». Pharaon a donc pris ce jour-là un décret concernant les Égyptiens également, comme il est dit ici : « Tout fils qui naîtra [vous le jetterez dans le fleuve] », et il n'est pas dit « [tout fils] qui naîtra aux Hébreux ». Cependant, ils (les astrologues) ne savaient pas que Moïse allait finalement souffrir du malheur à cause des eaux de Mériba et non à cause des eaux du Nil (Exode Rabbah 1 : 18 ; Sotah 12a ; cf. aussi Rachi sur Nombres 20 : 13)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:1",
+      "fr": "Un membre de la maison de Lévi alla prendre pour femme une femme de Lévi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקח את בת לוי ET IL AVAIT PRIS POUR ÉPOUSE UNE FILLE DE LÉVI ] Il avait vécu séparé d'elle à la suite du décret de Pharaon selon lequel les enfants devaient, à leur naissance, être noyés. Maintenant, il l'a reprise et a conclu un deuxième mariage avec elle, et elle est également redevenue jeune physiquement. Car en réalité, elle avait alors 130 ans — car elle est née « entre les murs » alors qu’ils étaient sur le point d’entrer en Égypte (cf. Rachi sur Genèse 46 :15) et eux (les Israélites) y sont restés 210 ans, et lorsqu’ils ont quitté l’Égypte, Moïse avait 80 ans ; par conséquent, lorsqu'elle tomba enceinte de lui, elle avait 130 ans — et pourtant l'Écriture l'appelle בת לוי une jeune fille de Lévi (Sota 12a ; Bava Batra 119b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:2",
+      "fr": "La femme conçut et enfanta un fils ; et quand elle vit combien il était beau, elle le cacha pendant trois mois.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי טוב הוא QU'IL ÉTAIT BON — Quand il est né, toute la maison s'est remplie de lumière (Sotah 12a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:3",
+      "fr": "Lorsqu'elle ne put plus le cacher, elle lui procura un panier en osier et le calfeutra avec du bitume et de la poix. Elle y mit l'enfant et le plaça parmi les roseaux au bord du Nil.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא יכלה עוד הצפינו ET ELLE NE POUVAIT PLUS LE CACHER, car les Egyptiens calculaient la période à partir du moment où il (Amram) la reprit. Cependant, elle l'a enfanté après un terme de six mois et un jour - car une femme qui donne naissance à un enfant au septième mois peut le faire dans des mois incomplets (c'est-à-dire que le septième mois de grossesse peut ne pas être terminé) (Niddah 38b) - et ils (les Égyptiens) ont fait une enquête à son sujet au bout de neuf mois (le terme normal de la grossesse, mais dans ce cas, trois mois après la naissance de l'enfant ; donc « elle ne pouvait plus le cacher »)."
+        },
+        {
+          "id": 2,
+          "fr": "גמא PAPER-REED — Dans la langue de la Mishna, on l'appelle גמי (Shabbat 78a), et en vieux français junc. C'est une substance flexible qui offre une résistance à la pression des objets mous et durs (Sotah 12a)."
+        },
+        {
+          "id": 3,
+          "fr": "בחמר ובזפת — avec de la poix (זפת) à l'extérieur, mais avec de la bave (חמר) à l'intérieur, afin que cet enfant juste ne sente pas l'odeur désagréable de la poix (Sotah 12a)."
+        },
+        {
+          "id": 4,
+          "fr": "ותשם בסוף ET ELLE L'A MIS DANS LES DRAPEAUX ] Cela (סוף) a la même signification que אגם. vieux rosel français. Un autre exemple du mot est (Ésaïe 19 :6) « Et les roseaux et les drapeaux (סוף) se faneront »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:4",
+      "fr": "Et sa sœur se plaça à distance, pour savoir ce qui lui arriverait.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 2:5",
+      "fr": "La fille de Pharaon descendit se baigner dans le Nil, tandis que ses servantes marchaient le long du Nil. Elle aperçut le panier parmi les roseaux et envoya sa servante le chercher.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לרחץ על היאר — Inversez l'ordre des mots dans ce verset puis expliquez-le : « La fille de Pharaon descendit על היאר, près de la rivière, לרחץ pour s'y baigner »."
+        },
+        {
+          "id": 2,
+          "fr": "על יד היאר signifie À BORD DE LA RIVIÈRE. Similaire est (II Samuel 14 :30) « Voyez, le champ de Joab est à côté du mien (על ידי) ». En réalité, même dans ce sens, cela désigne la main réelle, car la main d’une personne est à côté de lui (c’est-à-dire à côté de son corps). Nos rabbins ont expliqué que le mot הלכת « ils allaient » dénote la mort, semblable à (Genèse 25 :32) « Voici, je vais (הולך) mourir » — ils allaient vers la mort parce qu'ils avaient tenté de l'empêcher de sauver l'enfant. L’Écriture aussi les soutient dans cette explication, car si ce n’est pas le sens, pourquoi avons-nous besoin qu’elle écrive « et ses demoiselles s’en allaient » ? (L'Écriture rapporte que rien ne s'est produit parce qu'ils s'y promenaient. Pourquoi alors insister sur ce détail s'il signifie simplement qu'ils marchaient le long de la berge ?)."
+        },
+        {
+          "id": 3,
+          "fr": "את אמתה signifie sa servante. Nos Rabbins l'ont cependant expliqué dans le sens de la main (cf. Sotah 12b) — mais selon la grammaire de la Langue Sainte, il aurait alors dû être écrit אַמָּתָה, dageshed dans le מ. — Et la raison pour laquelle ils ont expliqué que את אמתה signifiait את ידה « elle étendit la main » est parce qu'ils soutiennent que l'Écriture utilise intentionnellement ce terme pour indiquer que sa main a augmenté de plusieurs coudées (אמה, une coudée) afin qu'elle puisse atteindre plus facilement le berceau."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:6",
+      "fr": "Lorsqu'elle l'ouvrit, elle vit que c'était un enfant, un garçon qui pleurait. Elle en eut pitié et dit : « Ce doit être un enfant hébreu. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותפתח ותראהו lit., ET ELLE L'A OUVERT ET ELLE L'A VU — qui a-t-elle vu ? את הילד L'ENFANT. C'est le sens littéral du suffixe dans ותראהו. Une explication midrashique est (prenant את dans le sens de « avec » – elle l'a vu avec l'enfant) : elle a vu la Shechina avec lui (cf. Sotah 12b)."
+        },
+        {
+          "id": 2,
+          "fr": "והנה נער בכה lit., ET VOYEZ UN GARÇON PLEURANT — Bien qu'il fût un ילד, « un enfant », sa voix était comme celle d'un נער, un garçon adulte (cf. Sotah 12b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:7",
+      "fr": "Alors sa sœur dit à la fille de Pharaon : « Dois-je aller te chercher une nourrice hébraïque pour allaiter ton enfant ? »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מן העבריות DES HÉBREUX — Elle a expressément dit : « dois-je appeler une nourrice des Hébreux ? parce qu’elle (la fille de Pharaon) l’avait confié à de nombreuses femmes égyptiennes pour qu’elles le allaitent et qu’il avait refusé de téter – c’était parce qu’il était destiné à converser avec la Shekhina (Exode Rabba 1 : 21 et Sotah 12b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:8",
+      "fr": "Et la fille du Pharaon répondit : « Oui. » Alors la jeune fille est allée appeler la mère de l’enfant.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותלך העלמה ET LA JEUNE FEMME SONT ALLÉES — elle partit avec empressement et avec vigueur (עלמות) comme un jeune homme (עלם) (cf. Sotah 12b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:9",
+      "fr": "La fille du Pharaon lui dit : Prends cet enfant, allaite-le-moi et je te paierai ton salaire. Alors la femme prit l'enfant et l'allaita.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "היליכי (le mot peut être expliqué comme un composé de deux mots araméens, הי, voici, et ליכי, ce qui t'appartient - le tien) - elle a prophétisé sans savoir ce qu'elle prophétisait (inconsciemment, elle a déclaré le fait réel) - voici le tien (Exode Rabbah 1:21 et Sotah 12b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:10",
+      "fr": "Quand l’enfant grandit, elle l’amena à la fille du Pharaon, qui en fit son fils. Elle l'appela Moïse, Moïse Héb. Mosheh de l'égyptien pour « né de » ; ici associé à mashah « retirer ». expliquant: \"Je l'ai sorti de l'eau.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "משיתיהו Le Targum rend cela par שחלתיה qui en langue araméenne signifie tirer. Le mot apparaît dans le Talmud (Berakhot 8a) « comme on arrache (משחל) un poil du lait », et dans la langue hébraïque משיתיהו pourrait être interprété comme signifiant « je l'ai enlevé », tout comme (Josué 1 :8) « il ne partira pas (ימוש) » ; (Nombres 14 :44) « ils ne sont pas partis (משו) ». C’est en effet ce qu’a fait Menachem b. Seruk le classe (c'est-à-dire qu'il a mis משיתיהו sous la même racine que מש et משו dans les versets cités ; selon lui une racine bilitère מש, notre racine ע\"ו מוש). Je dis cependant qu'il ne doit pas être classé avec מש et וימוש mais qu'il doit être dérivé de משה, et que cela signifie retirer, semblable à (II Samuel 22 :17) « Il me tire (ימשני) de nombreuses eaux ». Car s'il était de la même classe que מש, il ne serait pas correct de dire משיתיהו (dans le Kal), mais הֲמישׁוֹתִיהוּ une forme Hiphil, (puisque cette racine dans le Kal signifie « partir » ou « s'en aller » et non « faire disparaître une chose »), tout comme de קם on dit הֲקִימוֹתִי et de שב — הֲשִׁיבוֹתִי et de הֲבִיאוֹתִי — בא ; ou il faut dire מַשְתִּיהוּ (qui est aussi une forme de מוש utilisée dans un sens causal), tout comme, (Zacharie 3 : 9) \"Et j'enlèverai (וּמַשְׁתִּי) l'iniquité de ce pays\". Mais מָשִׁיתִי ne peut être dérivé que d'un mot dont la forme verbale a un ה comme lettre racine à la fin du mot, comme par exemple, משה et בנה et עשה et. צוה et פנה Lorsqu'il veut dire à propos de ces verbes : « J'ai fait ceci et cela » (un Kal), un י remplace le ה, comme dans בָּנִיתִי et עָשִׂיתִי et צִוִּיתִי."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:11",
+      "fr": "Quelque temps après, lorsque Moïse fut devenu adulte, il se rendit chez ses parents et fut témoin de leurs travaux. Il vit un Égyptien battre un Hébreu, un de ses parents.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויגדל משה ET MOÏSE A GRANDI — Mais n'a-t-il pas déjà été écrit (Exode 2 :10) « Et l'enfant grandit » ? Rabbi Juda, fils d'Eloai, a dit : la première fois, il fait référence à la croissance en stature, la deuxième fois à la grandeur, — que Pharaon l'a nommé responsable de son palais (Tanchuma Yashan 2.2 : 17 ; cf. aussi Yalkut Shimoni sur la Torah 166 : 11)."
+        },
+        {
+          "id": 2,
+          "fr": "וירא בסבלתם ET IL A VU LEURS FARDEAU — il a fixé ses yeux et son esprit pour partager leur détresse. (Exode Rabba 1:27)"
+        },
+        {
+          "id": 3,
+          "fr": "איש מצרי UN HOMME ÉGYPTIEN — C'était l'un des chefs de mission nommés sur les officiers israélites et il avait l'habitude de les réveiller de leur lit au chant du coq afin qu'ils puissent se rendre à leur travail (Exode Rabbah 1 :28 et Lévitique Rabbah 32 :4)."
+        },
+        {
+          "id": 4,
+          "fr": "מכה איש עברי FRAPPER UN HOMME HÉBREU — le battre et le fouetter. Ce dernier était le mari de Shelomith, la fille de Dibri (voir Lévitique 24 : 11), et le maître d’ouvrage égyptien avait jeté son dévolu sur elle. Pendant la nuit, il l'a obligé (son mari) à se lever et l'a fait quitter la maison. Cependant, il revint, entra dans la maison et imposa ses attentions à la femme, croyant que c'était son mari. L'homme revint et comprit ce qui s'était passé, et quand l'Égyptien s'aperçut qu'il en était conscient, il le battit et le fouetta toute la journée (Exode Rabba 1 : 28)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:12",
+      "fr": "Il se tourna de côté et d'autre et, ne voyant personne autour, il frappa l'Égyptien et le cacha dans le sable.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויפן כה וכה ET IL TOURNE CETTE DIRECTION ET CETTE MANIÈRE — il vit ce qu'il lui avait fait dans la maison et ce qu'il lui avait fait dans les champs (à l'extérieur de la maison. à savoir, les coups auxquels il l'avait soumis) (Exode Rabbah 1.28). Mais selon le sens littéral, il faut l'expliquer dans son sens ordinaire : il s'est tourné dans un sens et dans un autre."
+        },
+        {
+          "id": 2,
+          "fr": "וירא כי אין איש ET IL A VU QU'IL N'Y AVAIT AUCUN HOMME destiné à sortir de lui, qui deviendrait un adepte de la religion d'Israël (Exode Rabbah 1:29; cf. Targum Jonathan sur Exode 2:12)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:13",
+      "fr": "Lorsqu'il sortit le lendemain, il trouva deux Hébreux en train de se battre ; alors il dit au coupable : « Pourquoi frappes-tu ton prochain ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שני אנשים עברים DEUX HOMMES DES HÉBREUX — à savoir, Dathan et Abiram (Nedarim 64b) ; ce sont eux aussi qui ont laissé une partie de la manne (Exode Rabba 1:29)."
+        },
+        {
+          "id": 2,
+          "fr": "נצים signifie se quereller."
+        },
+        {
+          "id": 3,
+          "fr": "למה תכה lit., POURQUOI FRAPPER TU ] Bien qu'il ne l'ait pas encore frappé, il est appelé ici רשע méchant, parce qu'il avait simplement levé la main contre lui (Sanhédrin 58b)."
+        },
+        {
+          "id": 4,
+          "fr": "רעך TON FELLOW (le mot désigne celui qui est l'égal d'un autre) - qui est aussi méchant que toi (Exode Rabbah 1:29)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:14",
+      "fr": "Il rétorqua : \"Qui t'a établi chef et dirigeant sur nous ? Veux-tu me tuer comme tu as tué l'Égyptien ?\" Moïse fut effrayé et pensa : Alors l'affaire est connue !",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מי שמך לאיש QUI T'A FAIT UN PERSONNAGE (lit., un homme), et tu n'es encore qu'un garçon (Midrash Tanchuma, Shemot 10)."
+        },
+        {
+          "id": 2,
+          "fr": "הלהרגני אתה אמר allumé. VOULEZ-VOUS PARLER AFIN DE ME TUER ] De là, nous pouvons apprendre qu'il l'avait tué par la simple prononciation du « Shem Hamephorash » (Midrash Tanchuma, Shemot 10 ; Exode Rabbah 1 :30)."
+        },
+        {
+          "id": 3,
+          "fr": "ויירא משה ET MOÏSE CRAINT — Expliquez-le dans son sens littéral : il avait peur de Pharaon. Une explication midrashique est la suivante : il s'est senti affligé parce qu'il a vu qu'il y avait des hommes méchants parmi les Israélites – des informateurs ordinaires. Il dit : Puisqu'il en est ainsi (מעתה), peut-être qu'ils ne sont pas dignes d'être délivrés de l'esclavage (Midrash Tanchuma, Shemot 10)."
+        },
+        {
+          "id": 4,
+          "fr": "אכן נדע הדבר LA CHOSE EST SÛREMENT CONNUE — Expliquez-la dans son sens littéral : le fait que j'ai tué l'Égyptien est connu. Une explication midrashique est la suivante : je connais maintenant cette question qui me laisse perplexe : comment Israël a-t-il péché plus que l'ensemble des soixante-dix nations, pour être opprimés par cette servitude écrasante ? Mais maintenant je vois qu’ils méritent cela (Exode Rabba 1 : 30)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:15",
+      "fr": "Lorsque Pharaon apprit l’affaire, il chercha à tuer Moïse ; mais Moïse s'enfuit devant Pharaon. Il est arrivéBarrivé Lit. « assis » ou « réglé ». au pays de Madian, et il s'assit près d'un puits.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישמע פרעה ET ​​PHARAON L'ENTENTENT — ils (Dathan et Abiram) l'ont calomnié (dénoncé) (Exode Rabbah 1:31)."
+        },
+        {
+          "id": 2,
+          "fr": "ויבקש להרג את משה ET IL CHERCHAIT À TUER MOÏSE ] Il le livra au bourreau pour le tuer, mais l'épée se révéla impuissante contre lui. C’est à cela que Moïse faisait référence lorsqu’il disait : (18 : 4) « Et Il m’a délivré de l’épée de Pharaon » (voir Mechilta יתרו et Exode Rabba 1 :31)."
+        },
+        {
+          "id": 3,
+          "fr": "[וישב בארץ מדין ET IL DEMEURE AU PAYS DE MIDIAN — le mot וישב signifie qu'il y resta, comme (Genèse 37 :1) « Et Jacob demeura (וישב)‎ ».]"
+        },
+        {
+          "id": 4,
+          "fr": "וישב על הבאר — Ici, le mot וישב a le sens de s'asseoir. Il a appris à s'asseoir près du puits grâce à Jacob dont le mariage avait été réalisé au moyen d'un puits (Exode Rabbah 1 : 32)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:16",
+      "fr": "Le prêtre de Madian avait sept filles. Ils venaient puiser de l'eau et remplissaient les auges pour abreuver le troupeau de leur père ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולכהן מדין LE PRÊTRE DE MIDIAN ] כהן signifie le chef d'entre eux (voir Targ. Onkelos et Mekhilta יתרו) ; il avait abandonné le culte des idoles auquel ils étaient dépendants et ils l'ont banni, le chassant d'eux (Exode Rabbah 1 : 32)."
+        },
+        {
+          "id": 2,
+          "fr": "את הרהטים LES GOUTTIÈRES — les auges pour les courants d'eau qui sont creusées dans le sol."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:17",
+      "fr": "mais des bergers vinrent et les chassèrent. Moïse se leva pour les défendre et il abreuva leur troupeau.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויגרשם ET ILS LES ONT CHASSÉS, à cause du bannissement dans lequel leur père et sa famille avaient été conduits (Midrash Tanchuma, Shemot 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:18",
+      "fr": "Lorsqu'ils revinrent auprès de leur père Reuel, celui-ci leur dit : « Comment se fait-il que tu sois revenu si tôt aujourd'hui ?",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 2:19",
+      "fr": "Ils répondirent : « Un Égyptien nous a délivrés des bergers ; il nous a même puisé de l'eau et a abreuvé le troupeau. »",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 2:20",
+      "fr": "Il dit à ses filles : \" Où est-il alors ? Pourquoi avez-vous laissé cet homme ? Demandez-lui de rompre le pain. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למה זה עזבתן — POURQUOI AVEZ-VOUS QUITTÉ [L'HOMME] ? — Il reconnut qu'il était de la descendance de Jacob car pour lui (Moïse), comme pour Jacob, l'eau était montée dans le puits à son approche (Midrash Tanchuma, Shemot 11)"
+        },
+        {
+          "id": 2,
+          "fr": "ויאכל לחם QU'IL PEUT MANGER DU PAIN — peut-être qu'il épousera l'une d'entre vous — tout comme vous le dites (Genèse 39 :6) « sauf le pain qu'il a mangé » (cf. Rachi sur ce verset, où le mot « pain » est expliqué comme un euphémisme) (Midrash Tanchuma, Shemot 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:21",
+      "fr": "Moïse consentit à rester avec l'homme, et il lui donna pour épouse sa fille Séphora.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויואל — Traduisez ceci comme le fait le Targum : ET IL ÉTAIT VOLONTÉ. Sont similaires : (Juges 19 :6) « Soyez content (הואל), je te prie, et reste toute la nuit » ; (Josué 7 : 7) « si nous aurions été satisfaits (הואלנו) » ; (Genèse 18 :31) « Je me contente (הואלתי) de parler ». Une explication midrashique est qu'il a le sens de prêter serment (אלה), de sorte qu'il devrait être rendu : « Et Moïse s'est engagé par serment à rester avec l'homme » — il lui a juré qu'il ne bougerait pas de Madian sans sa permission (cf. Exode 4 :18) (Nedarim 65a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:22",
+      "fr": "Elle enfanta un fils qu'il nomma Gershom,cGershom Associé à Gersham, « un étranger là-bas ». car il dit : « J'ai été étranger dans un pays étranger. »",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 2:23",
+      "fr": "Longtemps après, le roi d’Égypte mourut. Les Israélites gémissaient sous la servitude et criaient : et leur cri d'aide pour sortir de la servitude s'éleva jusqu'à Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "[ויהי בימים הרבים ההם ET IL ARRIVE PENDANT CES NOMBREUX JOURS pendant lesquels Moïse séjournait à Madian, וימת מלך מצרים QUE LE ROI D'EGYPTE MORT, et les Israélites ressentirent le besoin d'aide ; et donc ומשה היה רעה « Et Moïse paît le troupeau » et l'aide est venue par lui. Pour cette raison, ces chapitres sont placés en juxtaposition]."
+        },
+        {
+          "id": 2,
+          "fr": "וימת מלך מצרים LE ROI D'ÉGYPTE EST MORT — il est devenu atteint de lèpre (et peut donc être considéré comme mort ; cf. Nombres 12 : 12), et il avait l'habitude de massacrer des enfants israélites et de se baigner dans leur sang comme remède à sa maladie (cf. Targum Jonathan et Exode Rabbah 1 :34)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:24",
+      "fr": "Dieu entendit leurs gémissements et Dieu se souvint de l'alliance avec Abraham, Isaac et Jacob.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נאקתם signifie LEUR CRI. Il en va de même (Job 24 :12) « des hommes gémissent hors de la ville peuplée (ינאקו) »."
+        },
+        {
+          "id": 2,
+          "fr": "‎ את בריתו את אברהם — Les mots את אברהם sont les mêmes que עם אברהם, avec Abraham (c'est-à-dire que le mot את signifie « avec », tandis que dans la phrase précédente, את בריתו, c'est le signe de l'accusatif)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 2:25",
+      "fr": "Dieu regarda les Israélites et Dieu les remarqua.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וידע אלהים ET DIEU SAVAIT — Il dirigea son cœur vers eux et ne leur cacha pas ses yeux."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:1",
+      "fr": "Moïse, alors qu'il gardait le troupeau de son beau-père Jéthro, prêtre de Madian, conduisit le troupeau dans le désert et arriva à Horeb, la montagne de Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אחר המדבר [IL A CONDUITE LES MOUTONS] DERRIÈRE LE DÉSERT — afin de les éloigner de la propriété privée (גֶזֵל, c'est-à-dire les choses qui ne peuvent être appropriées qu'à la suite d'un « vol ») — afin qu'ils ne paissent pas dans les champs d'autrui (Exode Rabbah 2 : 3)."
+        },
+        {
+          "id": 2,
+          "fr": "אל הר האלהים À LA MONTAGNE DE DIEU — L'Écriture la nomme ainsi en référence à ce qui s'y est passé dans le futur (Sifrei sur Deutéronome 1:24)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:2",
+      "fr": "Un angeUn ange Héb. \"Un messager.\" de DIEU lui apparut dans un feu ardent sorti d'un buisson. Il regarda, et il y avait un buisson tout en feu, mais le buisson n'était pas consumé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בלבת אש signifie DANS UNE FLAMME DE FEU, c'est-à-dire. e. au cœur même de (לב) le feu. De même, לב est utilisé pour des objets inanimés dans : (Deutéronome 4 :11) « au cœur du (לב) ciel » ; (II Samuel 18 :14) « au milieu de (לב) le térébinthe ». Ne soyez pas intrigué par le ת, bien que le mot ordinaire pour cœur, לב. ne nécessite pas le suffixe ת dans la forme construite, car nous avons un autre exemple de cette forme, à savoir (Ézéchiel 16 :30) « comme ton cœur est faible (לבתך) ».‎"
+        },
+        {
+          "id": 2,
+          "fr": "מתוך הסנה HORS DU MILIEU D'UN BUISSON (un buisson épineux) — et non d'un autre arbre, conformément à l'idée (Psaume 91 :15) « Je serai avec lui dans les ennuis » (Midrash Tanchuma, Shemot 14)."
+        },
+        {
+          "id": 3,
+          "fr": "אֻכָּל signifie DÉVOURÉ, mangé. Il a la même forme grammaticale que (Deutéronome 21 : 3) « qui n'a pas été travaillé avec (עֻבַּד) » ; (Genèse 3 :23) « d'où il fut emmené (לֻקַח) :"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:3",
+      "fr": "Moïse dit : « Je dois me détourner pour regarder ce spectacle merveilleux ; pourquoi le buisson ne brûle-t-il pas ? »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אָסוּרָה signifie que je me détournerai d'ici afin de pouvoir m'en approcher."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:4",
+      "fr": "Quand DIEU vit qu'il s'était détourné pour regarder, DieubDieu. Cette étiquette peut faire référence à l'ange, agissant au nom de Dieu ; cf. Ibn Ezra ici et au v. 7. l'appela hors du buisson : \" Moïse ! Moïse ! \" Il répondit : « Me voici. »",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:5",
+      "fr": "Et [DieucDieu Voir note au v. 4.] dit : \"Ne vous approchez pas ! Enlevez vos sandales de vos pieds, car le lieu sur lequel vous vous tenez est une terre sainte !\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "של signifie DRAW OFF et décoller. Il a la même racine que (Nombres 19 :5) « et la tête de fer glisse (נשל) du manche » ; (Deutéronome 28 :40) « car tes olives tomberont (ישל)‎ »."
+        },
+        {
+          "id": 2,
+          "fr": "אדמת קדש הוא l'endroit EST LA TERRE SAINTE (c'est-à-dire que le pronom masculin הוא fait référence au mot המקום et non à אדמת, qui est féminin)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:6",
+      "fr": "et il continua : « Je suis le Dieu de ton père, y compris sa maison, le Dieu d'Abraham, le Dieu d'Isaac et le Dieu de Jacob. » Et Moïse se cachait le visage, car il avait peur de regarder Dieu.eDieu Ou « un être divin ».",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:7",
+      "fr": "Et DIEUfDIEU Cf. note au v. 4. poursuit : « J'ai bien noté le sort de mon peuple en Égypte et j'ai tenu compte de ses cris à cause de ses maîtres d'œuvre ; oui, je suis conscient de ses souffrances.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי ידעתי את מכאביו CAR JE CONNAIS LEURS DOULEURS — Le verbe a le même sens que dans (Exode 2:25) « et Dieu savait », signifiant autant que : car j'ai mis mon cœur à remarquer et à comprendre leurs tristesses, et je n'ai pas caché mes yeux de leur détresse, et je n'ai pas non plus bouché mes oreilles contre leur cri."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:8",
+      "fr": "Je suis descendu pour les délivrer des Égyptiens et pour les faire sortir de ce pays vers un pays bon et spacieux, un pays où coulent le lait et le miel, la région des Cananéens, des Hittites, des Amoréens, des Phéréziens, des Hivites et des Jébusiens.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:9",
+      "fr": "Maintenant, le cri des Israélites est parvenu jusqu'à moi ; de plus, j'ai vu comment les Égyptiens les oppriment.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:10",
+      "fr": "Venez donc, je vous enverrai vers Pharaon, et vous libérerez mon peuple, les Israélites, d'Egypte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועתה לך ואשלחך אל פרעה VENEZ MAINTENANT, PAR CONSÉQUENT, ET JE T'ENVERRAI AU PHARAON — Et si vous demandez : « À quoi cela servira-t-il ? והוצא את עמי ET FAITES SORTIR MON PEUPLE — vos paroles s'avéreront efficaces et vous les ferez sortir de là."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:11",
+      "fr": "Mais Moïse dit à Dieu : « Qui suis-je pour aller vers Pharaon et libérer les Israélites d'Egypte ? »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מי אנכי QUI SUIS-JE ? — Quelle importance ai-je pour parler avec les monarques ?"
+        },
+        {
+          "id": 2,
+          "fr": "וכי אוציא את בני ישראל ET QUE JE DEVRAIS FAIRE NOIR LES ENFANTS D'ISRAËL — et même si j'ai une importance suffisante pour cela, comment Israël a-t-il mérité qu'un miracle soit opéré pour eux et que je les fasse sortir d'Egypte ?"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:12",
+      "fr": "\"Je serai avec toi; ce sera ton signe que c'est moi qui t'ai envoyé. Et quand tu auras libéré le peuple d'Egypte, tu adoreras Dieu sur cette montagne.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויאמר כי אהיה עמך ET IL DIT, PARCE QUE JE SERAI AVEC TOI ] Il répondit d'abord à sa première question et à sa dernière question en dernier : concernant ce que tu as dit : « Qui suis-je pour aller vers Pharaon ? je. e. de quelle importance dois-je parler avec les rois, je réponds, ce n'est pas une entreprise de ta part, mais c'est en partie à moi car \"je\" serai avec toi\", וזה ET CELA - c'est-à-dire le spectacle dont tu as été témoin dans la brousse, לך האות כי אנכי שלחתיך SERA UN SIGN POUR TOI, PARCE QUE (כי) « JE » T'AI ENVOYÉ et « Je » suis compétent pour sauver : de même que tu as vu le buisson accomplir la mission que je lui ai confiée et qu'il n'a pas été consumé, ainsi va-t-en aussi à la mission que je te confie et tu ne subiras aucun mal. Et quant à ta question : Quel mérite ont les Israélites de sortir d'Egypte — je réponds que j'ai un grand dessein à cela, en les faisant sortir, car ils sont destinés à accepter la Torah. sur cette montagne à l'expiration de trois mois après leur départ d'Égypte (cf. Exode Rabbah 3:4). Une autre explication est : כי אהיה עמך CAR JE SERAI AVEC TOI et tu réussiras donc, וזה ET CECI — à savoir, le fait que tu réussiras dans ta mission לך האות SERA UN SIGNE POUR TOI. en ce qui concerne une autre promesse : car je vous promets que lorsque vous les aurez fait sortir d'Égypte, vous Me servirez sur cette montagne, c'est-à-dire que vous recevrez la Torah sur elle. C'est le mérite qui est un avocat pour Israël, où quelque chose qui arrivera dans le futur doit servir de אות en ce qui concerne un événement qui se produira dans un avenir plus lointain que nous trouvons ailleurs : (Ésaïe). 37 :30.) « Et ceci sera pour toi un signe — car vous mangerez cette année ce qui pousse tout seul, etc. » (le passage continue en déclarant qu'après quelques années, la terre dévastée aura retrouvé son ancienne fertilité) - ceci, c'est-à-dire. e, la chute de Sennachérib promise dans la section précédente de ce chapitre sera pour toi un signe par rapport à une autre promesse : car ton pays est maintenant stérile de fruits, mais je bénirai ce qui pousse tout seul et la terre produira des fruits en abondance."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:13",
+      "fr": "Moïse dit à Dieu : « Quand je viens vers les Israélites et que je leur dis : « Le Dieu de vos pères, de vos pères, y compris de leurs maisons, m'a envoyé vers vous », et ils me demandent : « Par quel nom ? » Par quel nom ? C'est-à-dire, quel aspect a été manifesté ? Cf. Ramban ; lit. « Quel est son nom ? que leur dirai-je ?",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:14",
+      "fr": "Et Dieu dit à Moïse : « Ehyeh-Asher-Ehyeh », iEhyeh-Asher-Ehyeh Signification de Héb. incertain; traduit diversement : « Je suis ce que je suis » ; « Je suis qui je suis » ; « Je serai ce que je serai » ; etc. continuant : « Ainsi direz-vous aux Israélites : « Ehyeh m'a envoyé vers vous. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אהיה אשר אהיה JE SUIS CE QUE JE SUIS — Je serai avec eux dans cette douleur — Moi Qui je serai avec eux dans la sujétion qu'ils subiront aux mains des autres royaumes (Berakhot 9b). Alors Moïse lui dit : Seigneur de l'Univers ! Pourquoi leur parler d'autres chagrins : ils en ont assez de ce chagrin ! Dieu lui répondit : Tu as bien parlé — כה תאמר AINSI TU DITES etc.… Ehyeh, « Je suis » — sans l'ajout de אשר אהיה qui fait référence aux chagrins futurs — m'a envoyé vers toi »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:15",
+      "fr": "Et Dieu dit en outre à Moïse : « Ainsi parlerez-vous aux Israélites : DIEU [יהוה], jיהוה Ce nom divin (y-h-w-h ; traditionnellement prononcé comme Adonaï, lit. « [le] Souverain ») est ici associé au verbe hayah « être ». le Dieu de vos pères, le Dieu d'Abraham, le Dieu d'Isaac et le Dieu de Jacob, m'a envoyé vers vous : ceci sera mon nom pour toujours, ceci sera mon appellation pour toute l'éternité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זה שמי לעלם CECI EST MON NOM POUR TOUJOURS — Le dernier mot est écrit sans ו (afin qu'il puisse être lu לְעַלֵּם et cela signifierait « ceci est Mon Nom qui doit être caché ») pour suggérer : Cachez-le (ce Nom Divin), afin qu'il ne soit pas lu exactement comme il est écrit (mais devrait être lu comme אדני ; cf. Pesachim 50a ; Exode Rabba 3 : 7)."
+        },
+        {
+          "id": 2,
+          "fr": "וזה זכרי ET CECI EST MON MÉMORIAL (le mot peut signifier « la mention de Moi ») — Il lui a appris comment lire le Nom Divin. De même, David a dit : (Psaumes 135 : 13) « O Seigneur, ton nom est pour toujours (שמך לעולם), ô Seigneur, ton mémorial est à travers toutes les générations (זכרך לדר ודר)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:16",
+      "fr": "« Allez rassembler les anciens d'Israël et dites-leur : L'ÉTERNEL, le Dieu de vos pères, le Dieu d'Abraham, d'Isaac et de Jacob, est apparu, est apparu ou a « communié avec ». et il me dit : « J'ai pris note de toi et de ce qui te arrive en Égypte,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את זקני ישראל LES ANCIENS D'ISRAËL, ceux choisis pour assister aux réunions (c'est-à-dire les dirigeants) (cf. Yoma 28b). Si, cependant, vous devez dire que le texte désigne les vieillards au sens ordinaire, je demande : comment lui a-t-il été possible de rassembler tous les vieillards parmi une population masculine de 600 000 ?"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:17",
+      "fr": "et j'ai déclaré : Je vous ferai sortir de la misère de l'Égypte vers le pays des Cananéens, des Hittites, des Amoréens, des Phérésiens, des Hiviens et des Jébusiens, vers un pays où coulent le lait et le miel.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:18",
+      "fr": "Ils vous écouteront ; alors tu iras avec les anciens d'Israël chez le roi d'Egypte et tu lui diras : L'ÉTERNEL, le Dieu des Hébreux, s'est manifesté à nous. Maintenant donc, parcourons trois jours dans le désert pour sacrifier à l'ÉTERNEL notre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושמעו לקלך ET ILS ECOUTERONT TA VOIX — dès que tu leur mentionneras cette expression (le double usage du verbe פקד comme au v. 16), ils écouteront ta voix, car ils ont depuis longtemps ce signe comme tradition de Jacob et Joseph selon lequel par la mention de cette phrase leur délivrance sera opérée. Jacob leur dit : « Et Dieu vous visitera sûrement », et Joseph leur dit (Genèse 50 :25) « Dieu vous visitera sûrement »."
+        },
+        {
+          "id": 2,
+          "fr": "נקרה עלינו DIEU EST ARRIVÉ À NOUS RENCONTRER — Le mot נקרה signifie une rencontre fortuite. Semblables sont : (Nombres 23 : 4) « Et Dieu rencontra (ויקר) [Balaam] » ; (Nombres 23 :15) ואנכי אִקָּרָה כה qui signifie « je serai rencontré par lui là-bas »."
+        },
+        {
+          "id": 3,
+          "fr": "Dieu des Hébreux. [הָעִבְרִיִּים est écrit avec] un youd supplémentaire comme allusion aux dix plaies. (D'après un vieux manuscrit de Rachi.)"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:19",
+      "fr": "Mais je sais que le roi d’Égypte ne vous laissera partir qu’en raison d’une plus grande puissance.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא יתן אתכם מלך מצרים להלך LE ROI D'ÉGYPTE NE VOUS LÂCHERA PAS PARTIR, si Je ne (ולא) ne lui montre pas Ma main forte (יד חזקה) — c'est comme dire : tant que je ne le laisse pas sentir Ma main forte, il ne te laissera pas partir."
+        },
+        {
+          "id": 2,
+          "fr": "לא יתן — Traduisez ceci comme le fait le Targum : il ne donnera pas la permission. Des utilisations similaires de נתן suivi de ל avec l'infinitif dans le sens de permettre sont : (Genèse 20 :6) « c'est pourquoi je ne t'ai pas permis (נתתיך) de la toucher » ; (Genèse 31 :7) « Et Dieu ne lui permit pas (נתנו) de me faire du mal ». Pourtant, tous ces passages ont réellement le sens de donner. \" Certains expliquent la phrase ולא ביד חזקה comme signifiant : \" Il ne vous permettra pas d'y aller, et ce ne sera pas parce que sa main est forte \", car (v. 20) \" Dès que j'étendrai ma main, je frapperai les Égyptiens [… et ensuite il vous laissera partir] \". Et ainsi le Targum le rend : et non pas à cause de sa puissance. est puissant. Cette explication m'a été donnée au nom de Rabbi Jacob, fils de Menachem."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 3:20",
+      "fr": "J'étendrai donc ma main et je frapperai l'Égypte de divers prodiges que je ferai sur elle ; après cela, il vous laissera partir.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:21",
+      "fr": "Et je traiterai favorablement les Égyptiens envers ce peuple, afin que lorsque vous partirez, vous ne repartiez pas les mains vides.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 3:22",
+      "fr": "Chaque femme empruntera à son voisin et au locataire de sa maison des objets d'argent et d'or et des vêtements, et vous les mettrez sur vos fils et vos filles, dépouillant ainsi les Égyptiens.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומגרת ביתה signifie de cette femme avec qui elle séjourne dans la même maison."
+        },
+        {
+          "id": 2,
+          "fr": "ונצלתם le rend comme le fait le Targum : et vous viderez l'Égypte. Semblables sont : (Exode 12 :36) « Et ils vidèrent (וינצלו) l’Égypte » ; (Exode 33 : 6) « Et les enfants d'Israël se dépouillèrent (ויתנצלו) de leurs ornements » Le נ qu'il contient est une lettre racine. Menachem ben Seruk l'a placé (ce mot ויתנצלו) dans la section צ (en prenant la racine comme צל et non comme נצל) avec (Genèse 31 :9) « Et Dieu a emporté (ויצל) le bétail de ton père », et avec, (Genèse 31 :16) « que Dieu a emporté (הציל) de notre père », mais son point de vue ne peut être soutenu. Car si le נ n’est pas une lettre racine, alors étant donné qu’il (le mot ונצלתם) est vocalisé avec Chirik, il ne peut pas être utilisé dans le sens de « et vous ferez quelque chose » (la voix active, qui est requise ici puisque את מצרים ne peut être que l’objet du verbe), mais dans le sens de « et vous vous ferez faire quelque chose » (le passif – « Niphal »), comme (Deutéronome 28 :63) « Et vous serez arrachés (וְנִסַּחְתֶּם) de votre pays » ; (Lévitique 26 :25) « et vous serez livrés (וְנִתַּתֶּם) entre les mains de l'ennemi » ; (Lévitique 17) « Et vous serez frappés (וְנִגַּפְתָּם) devant vos ennemis » ; (Ézéchiel 22 :21) « Et vous fondrez (וְנִתַּכְתָּם) au milieu d'elle » ; (Jérémie 7 : 10) « Et vous dites : נִצַּלְנוּ » — ce qui exprime l'idée « quelque chose nous a été fait » (le Niphal : nous avons été délivrés). Là encore, chaque נ qui apparaît parfois dans un mot et parfois est omis, comme e. g. le נ de נוגף et נושא et נותן et נושך, lorsque le mot exprime le sens « et vous ferez quelque chose » (le Kal), il est indiqué avec Sheva vocal (חטף un son « arraché »), comme, par exemple, (Genèse 45 :19) « et vous supporterez (וּנְשָׂאתָם) ton père » ; (Nombres 32 :29) « Et vous leur donnerez (וּנְתַתֶּם) le pays de Galaad » ; (Genèse 17 :11) « Et vous circoncirez (וּנְמַלְתֶּם) la chair de votre prépuce ». Par conséquent, je suis d'avis que cette lettre נ qui est vocalisée avec un Chirik est l'une des lettres racines, et que la forme grammaticale du nom de la même racine est נִצּוּל qui est des formes fortes (dageshed), tout comme דִּבּוּר et כִּפּוּר et לִמּוּד. Lorsque, dans le cas des verbes formés à partir de ces racines, on exprime l'idée de « et vous ferez quelque chose » (voix active), le נ a la voyelle Chirik (c'est-à-dire que c'est la conjugaison de Piel), comme (Nombres 20 :8) « Et vous parlerez (וְדִבַּרְתֶּם) au rocher » ; (Ézéchiel 45:20) « Et vous expierez (וְכִּפַּרְתֶּם) pour la maison » ; (Deutéronome 11 :19) « Et vous les enseignerez (וְלִמַּדְתָּם) à vos enfants »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:1",
+      "fr": "Mais Moïse prit la parole et dit : « Et s'ils ne me croient pas et ne m'écoutent pas, mais disent : DIEU n'est pas apparu ni pour communiquer avec. toi?\"",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:2",
+      "fr": "DIEU lui dit : « Qu'est-ce que tu as dans la main ? \"Une tige.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מזה בידך QU'EST-CE QUE C'EST DANS TA MAIN ? — La raison pour laquelle les mots מה זה sont écrits ici comme un seul mot est pour donner l'occasion de l'expliquer ainsi : à cause de ceci (מִזֶּה) qui est entre tes mains, tu te rendras passible de punition parce que tu as nourri des soupçons à l'égard de personnes dignes (Exode Rabbah 3 : 12). Le vrai sens, cependant, est qu’il s’agit d’une question comme celle que l’on pose à son semblable : « Admettez-vous que cet objet devant vous est une pierre ? L'autre répond : « Oui ». Le premier dit : « Eh bien, je vais le transformer en bois »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:3",
+      "fr": "\"Jetez-le par terre.\" Il le jeta par terre et il devint un serpent ; et Moïse recula.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויהי לנחש ET IL EST DEVENU UN SERPENT — C'était une indication pour lui qu'il avait calomnié les Israélites en disant (v. 1) « Mais voici, ils ne me croiront pas, etc. », et qu'il avait fait sienne l'occupation (la calomnie) du serpent (cf. Genèse 3 : 5) (Exode Rabba 3 : 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:4",
+      "fr": "Alors DIEU dit à Moïse : « Étends ta main et saisis-la par la queue. » Il étendit la main et la saisit, et elle devint une verge dans sa main.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויחזק בו ET IL L'A SAISI — L'expression signifie « saisir » (אחז). Il y en a de nombreux exemples dans les Écritures : (Genèse 19 :16) « Les hommes saisirent (ויחזיקו בְּ..) sa main » ; (Deutéronome 25 :11) « Et elle saisit (והחזיקה בְּ..) ses parties secrètes » ; (I Samuel 17 :35) « Et je l'ai attrapé par (והחזקתי בְּ..) sa barbe ». [Partout où la racine חזק dans le Hiphil est suivie de la préposition ב, elle signifie « s'emparer d'une chose »]."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:5",
+      "fr": "\"afin qu'ils croient que l'ÉTERNEL, le Dieu de leurs ancêtres, le Dieu d'Abraham, le Dieu d'Isaac et le Dieu de Jacob, est apparu pour vous voir.\"",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:6",
+      "fr": "DIEU lui dit encore : « Mets ta main dans ton sein. » Il mit la main dans son sein ; et lorsqu'il le sortit, sa main était incrustée d'écailles neigeuses !cécailles Cf. Lév. 13.2–3.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מצרעת כשלג LÉPROUX COMME NEIGE — C'est la nature de la lèpre d'être blanche, et c'est pourquoi nous lisons en référence à un lépreux, (Lévitique 13 :4) « Si la tache lumineuse est blanche [dans la peau de sa chair] ». Par ce signe également, il indiquait qu'il avait fait une déclaration calomnieuse lorsqu'il disait : (v. 1) « Mais voici, ils ne me croiront pas ». C'est pourquoi Il le frappa de la lèpre (Exode Rabba 3 : 13) alors même que Miriam était tellement frappée par les calomnies qu'elle avait prononcées (cf. Shabbat 97a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:7",
+      "fr": "Et [Dieu] dit : « Remets ta main dans ton sein. » — Il remit sa main dans son sein ; et quand il l'enleva de son sein, il était là de nouveau comme le reste de son corps.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Et il l'a fait sortir de son sein et, voici, il était revenu comme son autre chair. Dans ce cas, il n'est pas dit מחיקו après le mot ויוצאה. (Chabbat 97a ; Exode Rabba 3 : 13)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:8",
+      "fr": "« Et s’ils ne vous croient pas ou ne prêtent pas attention au premier signe, ils croiront le second.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והאמינו לקל האת האחרון ILS CROIREONT LA VOIX DE CE DERNIER SIGNE — Dès que vous leur direz : « À cause de vous j'ai été frappé — parce que j'ai proféré des calomnies à votre sujet », ils vous croiront, car ils ont déjà l'expérience de ceci : que ceux qui s'unissent pour leur faire du mal sont frappés. par les fléaux, e. par exemple, Pharaon et Abimélec qui furent punis à cause de Sarah."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:9",
+      "fr": "Et s'ils ne sont pas convaincus par ces deux signes et ne vous écoutent toujours pas, prenez de l'eau du Nil et versez-la sur la terre sèche, et l'eau que vous prenez du Nil se changera en sang sur la terre sèche.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Vous prendrez de l'eau du fleuve. Il leur a fait allusion qu'avec le premier fléau, Il exigera un châtiment de leur divinité (Explication : Lorsque Dieu exige un châtiment des nations, Il exige d'abord un châtiment de leur divinité, car ils avaient adoré le Nil qui leur a donné leur subsistance et Il les a transformés (ses eaux) en sang. [Cette explication se trouve] dans un vieux manuscrit de Rachi."
+        },
+        {
+          "id": 2,
+          "fr": "והיו המים וגו׳ — Ici, nous avons le mot והיו deux fois. Il me semble que s'il était déclaré היאר לדם ביבשת מן והיו המים אשר תקח, je pourrais comprendre que cela signifie qu'il serait transformé en sang dans sa main et que même lorsqu'il atteindrait le sol, il conserverait cet état (plus lit., ce serait tel qu'il était). Mais maintenant (dans l’état actuel du texte), il nous dit que cela ne se transformerait pas en sang tant qu’il ne tomberait pas sur la terre sèche."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:10",
+      "fr": "Mais Moïse dit à DIEU : « S'il te plaît, ô mon Souverain, je n'ai jamais été un homme de paroles, ni dans le passé, ni maintenant que tu as parlé à ton serviteur ; je suis lent à parler et lent à parler. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "גם מתמול וגו׳ NI D'HIER [NI D'AVANT HIER] ] Cela nous enseigne que pendant une période entière de sept jours, Dieu s'était efforcé de persuader Moïse au buisson d'épines de partir en mission, pour les termes מתמול et שלשום et מאז דברך implique trois jours, et le triple גם qui est mentionné ici indique trois extensions de la période, soit six en tout, et donc il avait maintenant atteint le septième jour lorsqu'il lui dit en outre : (Exode v. 13) « Envoie, je te prie, par la main de celui que tu enverras » — jusqu'à ce que Dieu se mette en colère contre lui (Exode v. 14) et qu'il accepte la mission (cf. Lévitique). Rabbah 11 : 6 et Seder Olam ch. Toute cette réticence était due au fait qu’il ne voulait pas assumer une dignité qui le rendrait supérieur à son frère Aaron qui était plus âgé que lui et était également prophète, comme il est dit (I Samuel 2 :27) que l’homme de Dieu a parlé à Eli, le grand prêtre, au nom de Dieu : « Certainement, je me suis révélé à la maison de ton père quand ils étaient en Égypte » – ton père veut dire Aaron. De même dans : (Ézéchiel 20 :5, 7) « Et je me suis fait connaître à eux au pays d'Égypte… et je leur ai dit : « Rejetez chacun les choses détestables de ses yeux », et cette prophétie a été annoncée à Aaron (Exode Rabbah 3 :16 ; et cf. ברייתא דל\"ב מדות)."
+        },
+        {
+          "id": 2,
+          "fr": "כבד פה LENT DE PAROLE (lit. lourde de bouche) — Je parle fortement (avec difficulté) ; vieux balbus français. (Anglais = bègue)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:11",
+      "fr": "Et DIEU lui dit : \" Qui donne la parole aux humains ? Qui les rend muets ou sourds, voyants ou aveugles ? N'est-ce pas MOI, DIEU ? \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מי שם פה וגו׳ QUI A FAIT LA BOUCHE DE L'HOMME, etc.? — Qui vous a appris à parler lorsque vous avez été traduit en justice devant Pharaon à cause de l'Égyptien que vous avez tué ?"
+        },
+        {
+          "id": 2,
+          "fr": "או מי ישום אלם OU QUI REND LE MOUVEMENT — Qui a rendu Pharaon muet pour qu'il ne puisse pas insister sur l'exécution de son ordre de vous tuer ? Qui a rendu ses ministres sourds pour qu'ils n'entendent pas lorsqu'il donnait des ordres à votre sujet ? Et les bourreaux dont la tâche était de tuer, qui les a rendus aveugles pour qu'ils ne puissent pas voir lorsque vous vous êtes enfui de la plate-forme (lieu d'exécution surélevé) et que vous vous êtes échappé ? (Midrash Tanchuma, Shemot 10)"
+        },
+        {
+          "id": 3,
+          "fr": "הלא אנכי ה' MOI, dont le nom est LE SEIGNEUR, N'ai-je pas fait tout cela ?"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:12",
+      "fr": "Maintenant, partez, et je serai avec vous pendant que vous parlerez et je vous dirai quoi dire.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:13",
+      "fr": "Mais il dit : « S'il te plaît, ô mon Souverain, fais de quelqu'un d'autre ton agent. »dfaites de quelqu'un d'autre votre agent Lit. \"Envoie par qui Tu enverras.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ביד תשלח signifie par la main de celui que tu as l'habitude d'envoyer ; à savoir, Aaron (Exode Rabba 3:16). Une autre explication est : par la main d’une autre personne qu’il te plaira d’envoyer – car à la fin « je » ne les amènerai pas en terre de Palestine et « je » ne deviendrai pas leur libérateur à l’avenir – et tu as de nombreux messagers ! (Pirkei DeRabbi Eliezer 40)"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:14",
+      "fr": "DIEU se mit en colère contre Moïse et dit : \"Voilà ton frère Aaron le Lévite. Je le sais, il parle facilement. Même maintenant, il part à ta rencontre et il sera heureux de te voir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויחר אף ET LA COLÈRE [ DU SEIGNEUR ] BRILLENT — Rabbi Josué, fils de Korcha, a dit : partout où le terme « et la colère de Dieu a brillé » apparaît dans les Écritures, il laisse une impression précise (une mention d'une sorte de punition suit), mais ici aucun résultat de ce type n'est mentionné, car nous ne trouvons pas qu'une punition soit tombée sur Moïse en conséquence de cette colère de Dieu. Rabbi José lui dit : En fait, ici aussi, un résultat précis est mentionné, à savoir הלא אהרן אחיך הלוי « Aaron, le Lévite, n'est-il pas ton frère ? — ce qui implique qu'il était destiné à être un Lévite (un serviteur des prêtres) et non un prêtre, — et j'avais l'intention que le sacerdoce procède de vous. Maintenant, cependant, il n'en sera pas ainsi, mais il sera le prêtre et vous le Lévite, comme il est dit (I Chroniques 23 : 14) « Mais quant à Moïse, l'homme de Dieu, ses fils sont nommés parmi la tribu de Lévi » (Zevachim 102a)."
+        },
+        {
+          "id": 2,
+          "fr": "הנה הוא יצא לקראתך IL SORTIRA VERS TOI, quand tu iras en Egypte."
+        },
+        {
+          "id": 3,
+          "fr": "וראך ושמח בלבו ET QUAND IL VOUS VOIR, IL SERA HEUREUX DANS SON COEUR — pas comme vous le croyez, qu'il sera en colère contre vous parce que vous avez atteint une position élevée. En conséquence, Aaron a eu le privilège de porter l'ornement du pectoral qui était placé sur son cœur (cf. Exode 28 :29) (Shabbat 139a ; Exode Rabba 3 :17)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:15",
+      "fr": "Vous lui parlerez et mettrez les paroles dans sa bouche. Je serai avec vous et avec lui pendant que vous parlerez, et je vous dirai à tous les deux quoi faire.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:16",
+      "fr": "et il parlera pour vous au peuple. Il vous servira ainsi de porte-parole, et vous jouerez le rôle de Dieujouant le rôle de Dieu Cf. 7.1. à lui.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ודבר הוא לך signifie IL PARLERA au peuple POUR VOTRE COMPTE (לְךָ). Ce passage est la preuve, concernant chaque usage de לך et לי et לו et לכם et להם qui suivent le verbe דבר, qu'ils ont tous le sens de על « à cause de »."
+        },
+        {
+          "id": 2,
+          "fr": "יהיה לך לפה IL SERA POUR TOI AU LIEU D'UNE BOUCHE - il sera pour toi comme un porte-parole parce que tu es lent à parler (Exode Rabbah 3:17)."
+        },
+        {
+          "id": 3,
+          "fr": "לאלהים signifie un supérieur et un chef (cf. Onkelos)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:17",
+      "fr": "Et prends avec toi ce bâton, avec lequel tu accompliras les signes.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:18",
+      "fr": "Moïse retourna chez son beau-père JetherfJether, c'est-à-dire Jethro. et lui dit : « Laisse-moi retourner chez mes parents en Égypte et voir comment ils se portent. » Comment ils se portent Lit. « s'ils sont encore en vie ». Et Jéthro dit à Moïse : « Va en paix. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישב אל יתר חתנו ET IL RETOURNA À JETHRO SON BEAU-PÈRE, pour obtenir sa permission d'aller en Egypte, car il lui avait juré qu'il ne quitterait pas Madian sans sa permission (Nedarim 65a). Il est ici appelé יתר et il avait sept noms : Reuel, Jether, Jethro, Keni, Hobab, Cheber et Putiel (cf. Mekhilta)"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:19",
+      "fr": "DIEU dit à Moïse à Madian : « Retourne en Égypte, car tous ceux qui cherchaient à te tuer sont morts. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "CAR TOUS LES HOMMES SONT MORTS — Qui étaient ces hommes ? Dathan et Abiram : En réalité, ils étaient encore en vie, mais ils étaient descendus dans le monde, ayant perdu leurs biens, et un homme pauvre peut très bien être considéré comme mort (Nedarim 64b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:20",
+      "fr": "Moïse prit donc sa femme et ses fils, les monta sur un âne et retourna au pays d'Égypte. et Moïse prit avec lui le bâton de Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על החמור SUR « L'ÂNE » — l'âne désigné à cet effet : c'était l'âne qu'Abraham avait sellé dans le but de voyager pour lier Isaac sur le mont Moriah, et c'est aussi l'âne sur lequel le roi Messie se montrera une fois en public, comme il est dit, (Zacharie 9 :9) « [Voici, ton roi vient à toi,…] humble et monté sur un cul »(Pirkei DeRabbi Eliezer 31)."
+        },
+        {
+          "id": 2,
+          "fr": "וישב ארצה מצרים ויקח משה את מטה ET IL EST RETOURNÉ AU PAYS D'ÉGYPTE : ET MOÏSE A PRIS LE BÂTON [DE DIEU] — « Plus tôt et plus tard » ne sont pas strictement observés dans les Écritures (c'est-à-dire que les incidents ne sont pas nécessairement relatés dans l'ordre exact dans lequel ils apparaissent. Ici, il devrait être indiqué : Il prit le bâton, etc. et retourna en Égypte ; cf."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:21",
+      "fr": "Et DIEU dit à Moïse : \"Quand tu retourneras en Egypte, veille à accomplir devant Pharaon toutes les merveilles que j'ai mises en ton pouvoir. Mais moi, je raidirai son cœur pour qu'il ne laisse pas partir le peuple.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בלכתך לשוב מצרימה וגו׳ QUAND TU REVIENS EN EGYPTE, [VOIR QUE TU FAIS etc.] — Comprenez que vous devez y aller avec ce but en tête : que vous devez être vigoureux dans l'accomplissement de ma mission — faire toutes mes merveilles devant Pharaon et que vous ne devez pas avoir peur de lui."
+        },
+        {
+          "id": 2,
+          "fr": "אשר שמתי בידך [LES MERVEILLES] QUE J'AI MIS DANS TA MAIN ] Dieu ne parlait pas en référence aux trois signes mentionnés ci-dessus, car il ne lui avait pas ordonné de les faire devant Pharaon, mais devant Israël afin qu'ils croient en lui, et nous ne trouvons pas non plus qu'il les ait fait avant lui. Mais Dieu voulait dire : ces merveilles que je placerai désormais entre tes mains en Égypte — telles que (Exode 7 :9) « Quand Pharaon vous parlera, [en disant : montrez-vous une merveille (מופת)] ». Ne soyez pas perplexe car il est écrit אשר שמתי (un passé), car voici ce que cela signifie : quand vous parlerez avec lui, je les aurai déjà mis entre vos mains."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:22",
+      "fr": "Alors tu diras à Pharaon : Ainsi parle Dieu : Israël est mon fils premier-né.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואמרת אל פרעה ET ​​TU DITES AU PHARAON — Quand tu percevras que son cœur est têtu et qu'il refuse de les laisser partir, parle-lui ainsi :"
+        },
+        {
+          "id": 2,
+          "fr": "בני בכרי [ISRAËL EST] MON FILS, MON PREMIER-NÉ — Le terme בכור « premier-né » dénote une haute dignité comme, (Psaumes 89 :28) « Je le nommerai aussi בכור » (ce qui est expliqué par les mots suivants, « le plus haut des rois de la terre »). C'est le sens littéral ; un commentaire midrashique est : Ici (en ces mots) le Saint, béni soit-Il, a apposé son sceau sur la vente du droit d'aînesse que Jacob avait acheté à Ésaü (Genèse Rabbah 63 : 14)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:23",
+      "fr": "Je vous ai dit : « Laissez partir mon fils, afin qu'il m'adore », mais vous refusez de le laisser partir. Maintenant, je vais tuer ton fils premier-né.’»",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואמר אליך ET JE T'AI DIT, en tant que messager du Dieu omniprésent, שלח את בני LAISSEZ PARTIR MON FILS,"
+        },
+        {
+          "id": 2,
+          "fr": "הנה אנכי הרג וגו׳ VOICI, JE VAIS TUER, etc. — Ceci, il est vrai, fut le dernier des fléaux, mais c'est en le mentionnant que Dieu lui donna le premier avertissement concernant les fléaux qui s'abattraient sur lui, car c'était le plus grave de tous. C'est ce que l'Écriture veut dire par (Job 36 :22) « Voici, Dieu est puissant dans sa puissance », donc « Qui est un enseignant semblable à lui ? — Cela signifie : Un être humain qui entend se venger de son prochain garde ses projets secrets afin de ne pas chercher un moyen de s'échapper. Mais le Saint, béni soit-Il, est si puissant dans sa puissance qu'il n'y a aucune possibilité d'échapper à sa main, sauf en retournant à lui dans la pénitence. C'est précisément pour cette raison qu'Il l'enseigne (l'informe du châtiment qui lui arrivera) et l'avertit ainsi de revenir à Lui (Exode Rabbah 9 : 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:24",
+      "fr": "Lors d'un campement nocturne sur le chemin, GODhGOD Cette étiquette peut faire référence à un ange, agissant au nom de Dieu. Donc Rashbam, Ibn Ezra ; cf. Septante, Targum. l'a rencontré et a cherché à le tuer.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויהי ET IL ÉTAIT — Moïse était — PENDANT LE VOYAGE DANS LE LIEU D'HÉBERGEMENT."
+        },
+        {
+          "id": 2,
+          "fr": "ויבקש המיתו ET IL A CHERCHÉ À LE METTRE À MORT — l'ange cherchait etc., parce qu'il n'avait pas circoncis son fils Eliezer ; et parce qu'il s'était montré négligent en cela, il s'attira le châtiment de la mort. Cela a été enseigné dans un Boraitha (Nedarim 31b) : Rabbi José a dit : À Dieu ne plaise qu'il en soit ainsi ; Moïse n'avait pas manqué à ce devoir; mais il pensa : \" Si je le circoncis et que je parte immédiatement en voyage, la vie de l'enfant sera en danger pendant trois jours. Si, au contraire, je le circoncis et attends trois jours, le Saint, béni soit-Il, m'a ordonné : \" Va retourner en Egypte ! Par conséquent, il obéit à son ordre, avec l’intention de circoncire l’enfant dès que l’occasion se présenterait. Il n’y a donc eu aucune négligence de sa part ; pourquoi, alors, a-t-il été menacé de punition ? Parce qu'il s'occupait d'abord des affaires du lieu d'hébergement (c'est-à-dire parce qu'en arrivant à l'auberge, il se souciait d'abord de manger et de boire. Il aurait dû d'abord circoncire son fils. L'Egypte étant maintenant beaucoup plus proche, le danger qui suit la circoncision n'était pas si grand, puisque l'intervalle de temps entre l'opération et son arrivée en Egypte était maintenant plus court que s'il l'avait circoncis avant de partir en voyage). Voir cela dans le Traité Nedarim. — L'ange devint une sorte de serpent et l'engloutit (Moïse) de la tête jusqu'à la cuisse, le vomit, puis l'engloutit de nouveau depuis ses jambes jusqu'à cet endroit (le membre). Séphora comprit ainsi que cela était dû au retard dans la circoncision de son fils (Nedarim 32a ; cf. Exode Rabba 5 : 8)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:25",
+      "fr": "iSignification des versets incertaine. Séphora prit donc un silex, coupa le prépuce de son fils et toucha ses jambes avec, en disant : « Tu es vraiment pour moi un époux de sang ! »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותגע לרגליו ET LANCEZ-LE À SES PIEDS — i. e. elle le jeta aux pieds de Moïse (Talmud Yerushalmi Nedarim 3 : 9)."
+        },
+        {
+          "id": 2,
+          "fr": "ותאמר ET ELLE DIT, se référant à son fils :"
+        },
+        {
+          "id": 3,
+          "fr": "כי חתן דמים אתה לי ce qui signifie, tu as fait que mon époux (Moïse) était sur le point d'être tué à cause de toi : tu as été pour moi le meurtrier de mon mari."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:26",
+      "fr": "Et quand [Dieu] le laissa tranquille, elle ajouta : « Un époux de sang à cause de la circoncision. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וירף ALORS IL A RELÂCHÉ SON EMprise — l'ange a desserré son emprise ממנו DE LUI ; (cf. Exode Rabba 5:8). אז ALORS elle comprit qu'il était venu le tuer à cause du retard de la circoncision,"
+        },
+        {
+          "id": 2,
+          "fr": "אמרה חתן דמים למלות ELLE A DIT « L'ÉPOUX DE SANG À CAUSE DE LA CIRCONCISION » — mon époux était sur le point d'être tué à cause de la circoncision."
+        },
+        {
+          "id": 3,
+          "fr": "למלות signifie à cause de (ל) la circoncision (מולות). Le mot מולות est un nom, et le préfixe ל est utilisé au temps de על, « à cause de », tout comme dans (Exode 14 : 3) « Et Pharaon dira concernant les enfants (לבני) d'Israël ». Onkelos, cependant, a traduit le mot דמים comme faisant référence au sang de la circoncision (alors que, selon Rachi, il fait référence au sang de Moïse qui était sur le point d'être versé)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 4:27",
+      "fr": "DIEU dit à Aaron : « Va à la rencontre de Moïse dans le désert. » Il alla le rencontrer à la montagne de Dieu et il l'embrassa.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:28",
+      "fr": "Moïse parla à Aaron de toutes les choses que DIEU lui avait confiées et de tous les signes au sujet desquels il avait été instruit.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:29",
+      "fr": "Alors Moïse et Aaron allèrent rassembler tous les anciens des Israélites.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:30",
+      "fr": "Aaron répéta toutes les paroles que Dieu avait dites à Moïse, et il accomplit les signes devant l'assemblée,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 4:31",
+      "fr": "et l'assemblée fut convaincue. Lorsqu’ils apprirent que DIEU avait pris note des Israélites et qu’il avait vu leur sort, ils s’inclinèrent profondément en hommage.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:1",
+      "fr": "Ensuite Moïse et Aaron allèrent et dirent à Pharaon : « Ainsi parle l'ÉTERNEL, le Dieu d'Israël : Laisse aller mon peuple afin qu'il célèbre une fête pour moi dans le désert. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואחר באו משה ואהרן ET APRÈS MOÏSE ET AARON VENU — Mais les anciens s'éloignèrent un à un derrière Moïse et Aaron jusqu'à ce que chacun d'entre eux se soit échappé avant d'arriver au palais, parce qu'ils avaient peur d'y aller. Au Sinaï, ils furent punis pour cela, car il est dit (Exode 24 : 2) « Et Moïse seul s'approchera de l'Éternel, mais eux (les anciens ; cf. Exode 24 : 1) ne s'approcheront pas » — Il leur ordonna de rester en arrière. (Exode Rabba 5:14)"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:2",
+      "fr": "Mais Pharaon dit : \"Qui est DIEU pour que je l'écoute et laisse partir Israël ? Je ne connais pas DIEU et je ne laisserai pas partir Israël.\"",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:3",
+      "fr": "Ils répondirent : \" Le Dieu des Hébreux nous est devenu manifeste. Allons, nous vous prions, sur une distance de trois jours dans le désert pour sacrifier à l'ÉTERNEL notre Dieu, de peur que nous ne soyons frappés par la peste ou par l'épée. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פן יפגענו DE peur qu'il ne nous éclaire — Ils auraient dû dire : « De peur qu'il ne s'allume sur toi (Pharaon) [avec la peste], etc. — mais ils ont montré du respect à la royauté (le roi) en s'exprimant ainsi. Ce terme פגיעה « allumage », « rencontre » désigne la rencontre avec la mort (Exode Rabbah 5 :15)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:4",
+      "fr": "Mais le roi d'Égypte leur dit : \"Moïse et Aaron, pourquoi détournez-vous le peuple de ses travaux ? Mettez-vous au travail !\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תפריעו את העם ממעשיו signifie que vous les détachez et les éloignez de leur travail, parce qu'ils vous écoutent et croient qu'ils peuvent s'abstenir de leur travail. Semblables sont : (Proverbes 4 :15) « פרעהו ne passe pas à côté », c'est-à-dire. e. garde-le loin de toi, ne passe pas à côté ; (Proverbes 1:25) « et vous retirez (ותפרעו) tous mes conseils » ; (Exode 32 :25) « car c'est פרע » i. e. il s'était éloigné du bon chemin et s'était fait une chose à abhorrer (mais cf. Rachi sur ce verset où il explique le mot par מגולה — נתגלה שמצו וקלונו)."
+        },
+        {
+          "id": 2,
+          "fr": "Je t'en prie. Allez à vos fardeaux — Allez à votre travail que vous devez faire à la maison ; mais cela ne peut pas signifier « allez à vos travaux comme esclaves », car il parlait à Moïse et à Aaron qui étaient de la tribu de Lévi, et le travail de l'esclavage égyptien n'avait pas été imposé à la tribu de Lévi. Vous savez peut-être qu’il en était ainsi, parce que Moïse et Aaron allaient et venaient comme bon leur semblait (Exode Rabba 5 : 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:5",
+      "fr": "Et Pharaon continua : « Les habitants du pays sont déjà si nombreuxa, les habitants du pays sont déjà si nombreux Samaritain « Même maintenant, ils sont plus nombreux que les habitants du pays », c'est-à-dire que la population indigène (cf. Gen. 23.7). et vous voudriez qu'ils cessent de leurs travaux ! » b de leurs travaux Voir 1.5-11.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הן רבים עתה עם הארץ VOYEZ QUE LES GENS DU PAYS SONT MAINTENANT NOMBREUX sur qui incombe le devoir de travailler, et vous les faites se reposer de leurs fardeaux — c'est une grande perte pour nous, car tant de gens s'abstiendront de travailler."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:6",
+      "fr": "Le même jour, Pharaon donna cet ordre aux surveillants et aux surveillants du peuple :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הנגשים LES TASKMASTERS — C'étaient des Égyptiens, et les שוטרים, huissiers, étaient des Israélites (cf. vv. 14, 15, 19) (Exode Rabbah 5:18). Un maître d'œuvre (נוגש) était chargé de nombreux huissiers, et un שוטר était celui qui était nommé pour contrôler les ouvriers."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:7",
+      "fr": "« Vous ne fournirez plus au peuple de la paille pour fabriquer des briques comme auparavant ; qu'il aille ramasser de la paille pour lui-même.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תבן STRAW — En vieux français estouble ; Chaume anglais. Ils avaient l'habitude de pétrir cela pour en faire de l'argile."
+        },
+        {
+          "id": 2,
+          "fr": "לבנים BRICKS — vieilles tuiles françaises : tuiles anglaises, qu'ils fabriquent à partir d'argile et qu'ils sèchent au soleil ; parfois ils sont brûlés dans un four."
+        },
+        {
+          "id": 3,
+          "fr": "כתמול שלשם signifie ce que vous avez fait JUSQU'À MAINTENANT (pas « hier et avant-hier » comme c'est le sens littéral, mais simplement « autrefois »)."
+        },
+        {
+          "id": 4,
+          "fr": "וקששו signifie ET LAISSEZ-LES SE RASSEMBLER."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:8",
+      "fr": "Mais imposez-leur le même quota de briques qu'ils fabriquaient jusqu'à présent ; ne le réduisez pas, car ce sont des esquives ; c'est pourquoi ils crient : « Allons sacrifier à notre Dieu !",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת מתכנת הלבנים signifie le nombre total de briques que chacun fabriquait par jour lorsque la paille leur était fournie — ce total, vous leur imposerez maintenant également, afin que le service leur soit dur."
+        },
+        {
+          "id": 2,
+          "fr": "כי נרפים signifie parce qu'ils se sont détachés du travail ; par conséquent (ce mot dans Rachi correspond à על כן dans le texte hébreu) ​​leur esprit se tourne vers l'oisiveté et ils crient en disant : נלכה וגו׳ LAISSONS PARTIR [ET SACRIFICE etc.]."
+        },
+        {
+          "id": 3,
+          "fr": "מתכנת — Ce mot, et ותכן (v. 18), et les mots de la même racine dans (I Samuel 2 :3) « Et par Lui les actions sont comptées (נתכנו) » et dans (2 Rois 12 :12) « l'argent qui a été compté (המתכן) », ont tous le sens de compter."
+        },
+        {
+          "id": 4,
+          "fr": "נרפים — L'ouvrage est lâche (רפויה) dans leur main et négligé par eux afin qu'ils en soient détachés (הם נרפים). En vieux retrait français."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:9",
+      "fr": "Que des travaux plus pénibles soient imposés aux personnes impliquées ; qu'ils s'y tiennent et ne prêtent pas attention aux promesses trompeuses.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואל ישעו בדברי שקר ET LAISSEZ-LES NE PAS REGARDER LES MOTS VAINUS — qu'ils ne pensent pas et ne parlent pas toujours de « paroles de vent » disant : « Allons et sacrifions ». (Psaume 119 : 117) « Et je parlerai continuellement de (ואשעה ב־) tes statuts ». L'expression (Deutéronome 28 :37) למשל ולשנינה « [tu deviendras] un proverbe et un byword » que nous traduisons dans le Targum par « un sujet de conversation (שועי) », et le mot ויספר (Genèse 24 :66) « et il raconta » par ואשתעי \"et il en a parlé\". On ne peut pas dire que le mot ישעו a la même signification que les verbes dans (Genèse 4:4) « Et le Seigneur se tourna (וישע) vers Abel » et dans (Genèse 4:4) « mais il ne se tourna pas vers Caïn et son offrande (שעה) », et que nous devrions traduire אל ישעו par « Qu'ils ne se tournent pas », car si cela était donc les Écritures auraient dû écrire אל דברי שקר ou לדברי שקר (au lieu de בדברי) car telle est la construction dans tous ces cas. Les exemples sont : (Ésaïe 17 : 7) « L'homme se tournera vers (ישעה אל) son Créateur » ; (Ésaïe 17 :8) « et il ne se tournera pas vers (ישעה על) les autels » ; (Ésaïe 31 : 1) « ils ne se tournent pas vers (שעו על) le Saint d’Israël ». Je ne trouve pas la construction d'un ב après ces verbes dans le sens de « se tourner vers », mais après une expression de דבר « parler » — comme lorsque l'on dirige intensément sa conversation sur un sujet — la construction avec כ est tout à fait appropriée. Par exemple : (Ézéchiel 33 :30) « ceux qui dirigent intensément leur conversation (הנדברים) sur toi (בך) » ; (Nombres 12 : 1) « Et Miriam et Aaron dirigeèrent leur discours (ותדבר) sur Moïse (במשה) » ; (Zacharie 4:1) « Et l'ange qui dirigeait sa conversation (הדובר) sur moi (בי) » ; (Deutéronome 11 : 9) « Pour tourner votre conversation (לדבר) intensément sur eux (בם) » ; (Psaume 119 :46) « Et je dirigerai mon discours (אדברה) sur tes témoignages (בעדותיך) ». De même ici : ואל ישעו בדברי שקר signifie « qu'ils ne discutent pas toujours de sujets vains et vains »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:10",
+      "fr": "Alors les surveillants et les surveillants du peuple sortirent et dirent au peuple : « Ainsi parle Pharaon : Je ne vous donnerai pas de paille.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:11",
+      "fr": "Vous devez aller chercher vous-mêmes la paille partout où vous pouvez la trouver ; mais il n’y aura aucune diminution dans votre travail.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אתם לכו קחו לכם תבן ALLEZ, OUI, PRENEZ-VOUS DE LA PAILLE — et vous devrez y aller assez vite,"
+        },
+        {
+          "id": 2,
+          "fr": "כי אין נגרע מעבודתכם דבר CAR IL NE SERA PAS DIMINUÉ DE VOTRE TRAVAIL UNE SEULE CHOSE sur le total des briques que vous fabriquiez quotidiennement lorsque la paille vous était fournie, prête à l'emploi, du magasin du roi."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:12",
+      "fr": "Alors le peuple se dispersa dans tout le pays d'Égypte pour ramasser du chaume pour faire de la paille.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לקשש קש לתבן signifie FAIRE UN RASSEMBLEMENT, faire une collecte DANS le but de PAILLE pour l'argile."
+        },
+        {
+          "id": 2,
+          "fr": "קש désigne la collecte. Parce que le chaume est quelque chose qui est éparpillé et qui doit être ramassé (קושש), il est appelé קש dans d'autres passages."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:13",
+      "fr": "Et les surveillants les pressaient en disant : « Vous devez accomplir chaque jour le même travail que lorsque vous aviez de la paille. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אצים signifie PRESSER."
+        },
+        {
+          "id": 2,
+          "fr": "דבר יום ביומו signifie que la quantité totale due chaque jour est complétée ce jour-là, comme vous le faisiez lorsque la paille était prête à portée de main."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:14",
+      "fr": "Et les surveillants des Israélites, que les surveillants de Pharaon avaient placés sur eux, furent battus. «Pourquoi, leur a-t-on demandé, n'avez-vous pas terminé la quantité de briques prescrite, ni hier ni aujourd'hui, comme vous l'aviez fait auparavant ?»",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויכו שטרי בני ישראל ET LES HUISSIERS DES ENFANTS D'ISRAËL… ONT ÉTÉ FRAPPÉS — Ces huissiers étaient Israélites et ils ont épargné leurs compatriotes israéliens, ne les incitant pas à leur travail. Lorsqu'ils remettaient les briques aux maîtres d'œuvre égyptiens et que quelque chose manquait dans la quantité totale, ils les frappaient parce qu'ils n'avaient pas poussé les ouvriers israélites. C'est pour cette raison que ces huissiers eurent le privilège de devenir plus tard membres du Sanhédrin, et une partie de l'esprit prophétique qui était sur Moïse fut placé sur eux, comme il est dit (Nombres 11 : 16) « Rassemblez-moi soixante-dix hommes parmi les anciens d'Israël [que vous connaissez] » — de ceux dont vous connaissez les bonnes actions qu'ils ont faites en Égypte, « car ce sont les véritables anciens du peuple ayant été leurs huissiers » (Exode Rabbah 5:20)."
+        },
+        {
+          "id": 2,
+          "fr": "ויכו שטרי בני ישראל אשר שמו נגשי פרעה ONT ÉTÉ FRAPPES LES HUISSIERS DES ENFANTS D'ISRAËL QUE LES MAÎTRES D'ŒUVRE DE PHARAON AVAIT MIS comme huissiers עליהם SUR EUX (c'est-à-dire sur les Israélites) לאמר מדוע וגו׳ DIT, POURQUOI etc. — Pourquoi ont-ils été battus ? parce qu'ils (les maîtres d'œuvre) leur ont dit (les huissiers) POURQUOI N'AVEZ-VOUS PAS TERMINÉ (גם תמול גם היום) HIER ET AUJOURD'HUI LA TÂCHE FIXÉE POUR VOUS (חקכם) DANS LA FABRICATION DE BRIQUES comme vous l'avez fait hier au troisième degré (כתמול שלשם) – ce qui signifie avant-hier – qui était le moment où la paille leur était donnée."
+        },
+        {
+          "id": 3,
+          "fr": "Héb. וַיֻכּוּ Ils ont fait l'objet d'une action. [Le mot est dans la conjugaison « hoph'al », le destinataire du « hiph'il ».] Ils ont été battus par d'autres ; les surveillants les ont battus."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:15",
+      "fr": "Alors les surveillants des Israélites vinrent vers Pharaon et crièrent : « Pourquoi traitez-vous ainsi vos serviteurs ?",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:16",
+      "fr": "Aucune paille n'est distribuée à vos serviteurs, et pourtant ils nous demandent : Fabriquez des briques ! Ainsi, vos serviteurs sont battus, alors que la faute en incombe à votre propre peuple.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולבנים אמרים לנו ET LES BRIQUES ILS — les maîtres d'œuvre — DITES-NOUS עשו FAIRE, tout comme l'ancien numéro."
+        },
+        {
+          "id": 2,
+          "fr": "וְחָטָאת עַמֶּךָ MAIS LA FAUTE EST DANS TON PROPRE PEUPLE — Si le mot וחטאת avait la voyelle Patach sous le ט, je dirais que c'est un nom à l'état construit, de sorte que le sens serait, \"et cette chose est le péché de ton peuple\". Mais maintenant, puisque la voyelle est Kametz, c'est un nom au cas absolu, et sa signification est la suivante : « Et cette chose amène le péché sur ton peuple », comme s'il était écrit וחטאת לעמך. De manière similaire, nous trouvons ל omis dans (Ruth 1:19) « Quand ils furent venus בית לחם » qui est le même que לבית לחם, à Bethléem, et il existe de nombreux exemples similaires."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:17",
+      "fr": "Il répondit : \"Vous êtes des escrocs, des escrocs ! C'est pourquoi vous dites : 'Allons sacrifier à DIEU.'",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:18",
+      "fr": "Partez maintenant à votre travail ! Aucune paille ne vous sera distribuée, mais vous devez produire votre quota de briques !",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותכן לבנים signifie LE NOMBRE DE BRIQUES ; similaire est (2 Rois 12:12) « l'argent המתכן », c'est-à-dire. e. l'argent qui était compté, comme il est dit dans ce passage (v. 11), « et ils le mirent dans des sacs et comptèrent l'argent »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:19",
+      "fr": "Or, les surveillants des Israélites se trouvèrent en difficulté à cause de l’ordre suivant : « Vous ne devez pas réduire votre quantité quotidienne de briques. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויראו שטרי בני ישראל Le sens est : ET LES HUISSIERS DES ENFANTS D'ISRAËL ONT VU [LES] i. e. leurs compatriotes israéliens qui étaient gouvernés par eux,"
+        },
+        {
+          "id": 2,
+          "fr": "ברע — ils les ont vu dans le malheur et les ennuis qui leur sont arrivés, parce qu'ils ont dû leur rendre le travail pénible. לאמר לא תגרעו וגו׳ EN DITANT, VOUS NE DIMINUEZ PAS, etc."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:20",
+      "fr": "En quittant Pharaon, ils rencontrèrent Moïse et Aaron qui se tenaient sur leur chemin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויפגעו ET ILS ONT RENCONTRÉ — les hommes d'Israël se sont rencontrés — את משה ואהרן וגו׳ MOÏSE ET AARON etc.; Nos rabbins ont expliqué que partout où il est question de gens « se disputant » (2 :13 ; cf. Rachi sur ce verset) ou « debout », il s’agissait de Dathan et Abiram dont il est dit (Nombres 16 :27) « [Et Dathan et Abiram] sortirent debout » (Nedarim 64b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:21",
+      "fr": "Et ils leur dirent : « Que Dieu vous regarde et vous punisse de nous avoir rendus odieux au Pharaon et à ses courtisans, en leur mettant une épée dans la main pour nous tuer. »",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 5:22",
+      "fr": "Alors Moïse retourna vers DIEU et dit : \" Ô mon Souverain, pourquoi as-Tu fait du mal à ce peuple ? Pourquoi m'as-Tu envoyé ? \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למה הרעתה לעם הזה POURQUOI AS-TU FAIT SI MAL À CE PEUPLE ? — Et si Tu demandes : « Quel est ton souci ? Je réponds : « Je dois me plaindre de ce que Tu m’as envoyé » (Exode Rabbah 5 : 22)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 5:23",
+      "fr": "Depuis que je suis venu vers Pharaon pour parler en ton nom, il a traité ce peuple avec plus de mal ; et tu n’as toujours pas délivré ton peuple.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הרע C'est une expression désignant « il a provoqué quelque chose » — il (Pharaon) leur a apporté encore plus de mal. Il doit être traduit dans le Targum par אבאיש « il a mal traité »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 6:1",
+      "fr": "Alors DIEU dit à Moïse : « Tu verras bientôt ce que je ferai à Pharaon : il les laissera partir à cause d'une plus grande puissance ; en effet, à cause d'une plus grande puissance, il les chassera de son pays. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עתה תראה וגו׳ MAINTENANT TU VOIRS, etc. — Vous avez critiqué Mes méthodes pour guider le monde. Vous n'êtes pas comme Abraham à qui j'ai dit. (Genèse 21 : 12) « car par Isaac te lèvera une semence » et à qui j'ai dit plus tard, (Genèse 22 : 2) « fais-le monter en holocauste », et pourtant il n'a pas critiqué mes voies, donc, עתה תראה MAINTENANT TU VERRAS — ce qui va maintenant être fait à Pharaon, tu le verras, mais tu ne verras pas ce qui sera fait aux rois du sept nations de Canaan quand je les amènerai (les Israélites) en Terre Sainte (cf. Sanhédrin 111a)."
+        },
+        {
+          "id": 2,
+          "fr": "כי ביד חזקה ישלחם cela signifie : car à cause de Ma main forte (c'est-à-dire la main forte que J'utiliserai contre lui, le ב dans ביד signifiant « à cause de ») — qui se révélera forte contre lui, il les renverra."
+        },
+        {
+          "id": 3,
+          "fr": "וביד חזקה יגרשם מארצו ET D'UNE MAIN FORTE IL LES CHAUSSERA HORS DE SON PAYS — contre la volonté des Israélites eux-mêmes, il les chassera de son pays : ils n'auront pas assez de temps pour préparer eux-mêmes leurs provisions pour le voyage. Ainsi, en effet, l'Écriture déclare : (Exode 12 :33) « Et l'Égypte était pressante (תחזק. lit., était forte) sur le peuple, etc. »."
+        }
+      ]
+    }
+  ]
+}

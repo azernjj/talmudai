@@ -1,0 +1,622 @@
+{
+  "name": "Pekoudei",
+  "range": "Exodus 38:21-40:38",
+  "verses": [
+    {
+      "ref": "Exodus 38:21",
+      "fr": "Ce sont là les annales du Tabernacle, le Tabernacle du Pacte, qui furent rédigées à la demande de Moïse, œuvre des Lévites sous la direction d'Ithamar, fils du prêtre Aaron.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אלה פקודי VOICI LES SOMMES [DU TABERNCLE] ] Dans cette section sont énumérés tous les poids des métaux donnés en contribution pour le Tabernacle, d'argent, d'or et de cuivre, et y sont également énumérés les vases utilisés pour tout type de service qui y sont effectués."
+        },
+        {
+          "id": 2,
+          "fr": "המשכן משכן DU TABERNACLE, MÊME DU TABERNACLE — Le mot משכן est mentionné ici deux fois en allusion au Temple qui a été pris en gage (משכן) — pour ainsi dire — (en garantie du repentir d'Israël) en étant détruit à deux reprises pour les iniquités d'Israël (Midrash Tanchuma, Pekudei 5)."
+        },
+        {
+          "id": 3,
+          "fr": "משכן העדת LE TABERNACLE DU TÉMOIGNAGE — Le Tabernacle était un témoignage pour Israël que Dieu s'était montré indulgent envers eux en ce qui concerne l'incident du veau d'or, car à travers le Temple, Il fit habiter Sa Chechinah parmi eux (Midrash Tanchuma, Pekudei 6)."
+        },
+        {
+          "id": 4,
+          "fr": "עבדת הלוים LE SERVICE DES LÉVITES — Les choses du Tabernacle qui étaient comptées et ses ustensiles constituaient le service confié aux Lévites dans le désert — pour les transporter, les démonter et les installer, chacun selon le fardeau qui lui était assigné, comme indiqué dans la section נשא (Nombres 4)."
+        },
+        {
+          "id": 5,
+          "fr": "ביד איתמר PAR LA MAIN D'ITHAMAR — Il était l'officier nommé sur eux (les Lévites) avec le devoir de remettre à chaque « maison du père » (בית אב) le service qui lui incombait."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:22",
+      "fr": "Bezalel, fils d'Uri, fils de Hur, de la tribu de Juda, avait fait tout ce que Dieu avait commandé à Moïse ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובצלאל בן אורי וגו׳ עשה את כל אשר צוה ה' את משה ET BEZALEEL LE FILS D'URI etc. FAIT TOUT CE QUE LE SEIGNEUR A COMMANDÉ MOÏSE — Ce n'est pas indiqué ici : אשר צֻוָּה (Bezaleel a fait tout ce qui lui avait été commandé), mais « [Bezaleel a fait] tout ce que le Seigneur a commandé à Moïse » — même concernant de telles choses que son professeur (Moïse) ne lui a pas dit, sa propre opinion était en accord avec ce qui avait été dit à Moïse sur le Sinaï (Jérusalem Talmud Peah 1 : 1 ; Bereishit Rabbah 1 :14). [Car Moïse a ordonné à Betsaleel de fabriquer d'abord les ustensiles et ensuite le Tabernacle, mais Betsaleel lui a dit : « Certainement, c'est la manière du monde (la manière habituelle) de construire d'abord une maison et ensuite d'y placer les ustensiles de ménage ! » Il (Moïse) lui répondit : « C'est ainsi que j'ai entendu de la bouche du Saint, béni soit-Il ». Moïse lui dit en outre : (בצלאל), tu devais être assis à l'ombre de Dieu (בצל אל), car Dieu m'a certainement ordonné ainsi ! Et par conséquent Bezaleel fit d'abord le Tabernacle et ensuite il fabriqua les ustensiles (cf. Berakhot 55a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:23",
+      "fr": "à ses côtés était Oholiab, fils d'Ahisamach, de la tribu de Dan, sculpteur et dessinateur, et brodeur en fils bleus, pourpres et cramoisis et en fin lin.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:24",
+      "fr": "Tout l'or utilisé pour les travaux du sanctuaire, pour l'offrande d'or d'élévation, s'élevait à 29 talentstalents. Un talent ici équivaut à 3 000 sicles. et 730 shekels par poids du sanctuaire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ככר [VINGT NEUF] TALENTS — Un kikkar commun contient soixante manehs communs, et le maneh du Sanctuaire (qui était utilisé à des fins liées au Temple) était le double du maneh commun. Par conséquent, le kikkar mentionné ici était de 120 manehs communs. Or, un maneh commun contenait 25 Sela’im (ou shekels), et le kikkar du Sanctuaire équivaut à trois mille shekels. C'est pourquoi l'Écriture compte (mentionne le nombre de) tous les shekels inférieurs à 3 000 comme un élément distinct, car ils ne constituent pas ensemble un kikkar (cf. Bekhorot 5a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:25",
+      "fr": "L'argent des membres de la communauté enregistrés s'élevait à 100 talents et 1 775 sicles au poids du sanctuaire :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:26",
+      "fr": "un demi-shekel/moitié-shekel Héb. beqa'. une tête, un demi-sicle, au poids du sanctuaire, pour chaque personne inscrite dans les registres, depuis l'âge de vingt ans et au-dessus, 603 550 hommes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בקע (de בָּקַע à diviser) est le nom donné à un poids d'un demi-shekel."
+        },
+        {
+          "id": 2,
+          "fr": "לשש מאות אלף וגו׳ POUR SIX CENT MILLE [ET TROIS MILLE etc.] — Ainsi étaient les Israélites en nombre, et ainsi leur nombre s'élevait-il après l'établissement du Tabernacle, comme il est indiqué dans le Livre des Nombres (ch. II), et à cette époque, également, lorsqu'ils contribuèrent au Tabernacle, ils étaient tout aussi nombreux (cf. Rachi sur Exode 30 :16). Les demi-shekels de 600 000 équivaut à cent talents, chaque talent consistant en trois mille shekels (cf. v. 25). Comment ça ? 600 000 demi-shekels font 300 000 shekels entiers, ce qui fait cent talents et les 3 550 demi-shekels restants font 1 775 shekels entiers, comme indiqué dans le texte."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:27",
+      "fr": "Les 100 talents d'argent étaient destinés à fondre les bases du sanctuaire et les bases du rideau, 100 bases pour les 100 talents, un talent par base.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לצקת signifie comme le dit le Targum : לאתכא, À COULER."
+        },
+        {
+          "id": 2,
+          "fr": "את אדני הקדש LES PRISES DU SANCTUAIRE — i. e. des planches du Tabernacle (le Sanctuaire), qui étaient quarante-huit planches, et pour ces quatre-vingt-seize socles étaient nécessaires. Les prises pour le mur de séparation étaient au nombre de quatre, nous en avons donc en tout cent. Quant à toutes les autres douilles (celles de l'enceinte et du voile à son entrée) elles ne sont pas prises en compte ici, car « cuivre » a été écrit à leur sujet (l'Écriture prescrit qu'elles devaient être en cuivre)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:28",
+      "fr": "Et avec les 1 775 sicles, il fit des crochets pour les poteaux, des revêtements pour leurs sommets et des bandes tout autour.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וצפה ראשיהם [IL FAIT DES CROCHETS POUR LES COLONNES] ET RECOUVRAIT LEURS SOMMETS – le sommet des colonnes (et non des crochets) avec eux (les 1775 sicles d'argent), car il est dit à propos d'elles toutes (les colonnes de l'enceinte ainsi que celles du voile à l'entrée) (v. 19) « et la superposition leurs chapiteaux et leurs filets étaient d'argent »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:29",
+      "fr": "Le cuivre de l'offrande d'élévation s'élevait à 70 talents et 2 400 sicles.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:30",
+      "fr": "Il en fit les socles pour l'entrée de la Tente d'assignation ; l'autel d'airain et sa grille de cuivre et tous les ustensiles de l'autel ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:31",
+      "fr": "les bases de l'enceinte tout autour et les bases de la porte de l'enceinte ; et tous les piquets du Tabernacle et tous les piquets de l'enceinte tout autour.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:1",
+      "fr": "Parmi les fils bleus, violets et pourpres, ils sont également voir 36.8. confectionné les vêtements de service pour officier dans le sanctuaire; ils confectionnèrent les vêtements sacrés d’Aaron, comme DIEU l’avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומן התכלת והארגמן וגו׳ ET DU BLEU VIOLET ET DU ROUGE VIOLET etc. — Mais il n'y a aucune mention de lin ici. De ce fait je déduis (cf. Rachi sur Exode 31 :10) que ces בגדי שרד mentionnés ici n'étaient pas identiques aux vêtements des prêtres, car il y avait du lin dans les vêtements des prêtres. Mais c'étaient les tissus avec lesquels ils couvraient les vases sacrés au moment de retirer et d'emballer les objets du Tabernacle lorsqu'ils partaient en voyage et qui ne contenaient en effet aucun linge."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:2",
+      "fr": "L'éphod a été fabriqué. Ici et ailleurs dans ce chapitre, le verbe actif singulier (lit. « il a fait ») est utilisé de manière impersonnelle. de fils d'or, bleus, pourpres et cramoisi, et de fin lin retors.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:3",
+      "fr": "Ils martelèrent des feuilles d'or et coupèrent des fils pour former des motifs parmi les fils bleus, pourpres et cramoisis et le fin lin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וירקעו ET ILS S'ÉTENDENT — וירקעו a la même racine et la même signification que (Psaume 136 :6) « À Celui qui étend (לרקע) la terre ». Rendre וירקעו comme le fait le Targum : ורדידו, ils se sont étendus en battant. Ils battaient des assiettes avec de l'or ; en vieux français estendre - s'étendre en fines plaques. Ici, il vous explique comment ils tissaient l'or avec les fils de laine. Ils battaient les fines plaques et en coupaient des fils le long des plaques pour faire de ces fils un mélange (pour les mélanger) avec chacun des différents types de fils de laine de l'éphod et du pectoral à propos desquels l'or est mentionné à ce propos. Ils entrelaçaient un fil d'or avec six fils de pourpre bleu, et ainsi avec chaque sorte de laine. Car tous les matériaux avaient leurs fils six fois, et l'or formait le septième avec chacun d'eux (cf. Yoma 72a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:4",
+      "fr": "Ils y firent attacher des épaulettes ; ils étaient attachés à ses deux extrémités.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:5",
+      "fr": "La bande décorée qui était dessus était faite comme elle, d'une seule pièce avec elle ; de fils d'or, de bleu, de pourpre et de cramoisi, et de fin lin retors, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:6",
+      "fr": "Ils bordaient les pierres de lazuli d'encadrements d'or, gravés de sceaux gravés des noms des fils d'Israël.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:7",
+      "fr": "Ils étaient placés sur les épaulettes de l'éphod, comme pierres de souvenir pour les Israélites, comme Dieu l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:8",
+      "fr": "Le pectoral était fait dans le style de l'éphod : en fils d'or, bleus, pourpres et cramoisis et en fin lin retors.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:9",
+      "fr": "C'était carré ; ils firent doubler le pectoral : une envergure en longueur et une envergure en largeur, doublées.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:10",
+      "fr": "Ils y placèrent quatre rangées de pierres. La première rangée était une rangée de cornaline, chrysolite,… Voir note à 28.17. cornaline, chrysolite et émeraude;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:11",
+      "fr": "la deuxième rangée : une turquoise, un saphir et une améthyste ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:12",
+      "fr": "la troisième rangée : une jacinthe, une agate et un cristal ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:13",
+      "fr": "et la quatrième rangée : un béryl, un lapis-lazuli et un jaspe. Ils étaient entourés dans leurs montures de cadres d'or.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:14",
+      "fr": "Les pierres correspondaient [en nombre] aux noms des fils d'Israël : douze, correspondant à leurs noms ; gravés comme des sceaux, chacun avec son nom, pour les douze tribus.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:15",
+      "fr": "Sur le pectoral, ils firent des chaînes tressées en or pur.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:16",
+      "fr": "Ils firent deux cadres d'or et deux anneaux d'or, et ils attachèrent les deux anneaux aux deux extrémités du pectoral,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:17",
+      "fr": "attachant les deux cordons dorés aux deux anneaux aux extrémités du pectoral.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:18",
+      "fr": "Ils attachèrent ensuite les deux extrémités des cordes aux deux cadres, les attachant aux épaulettes de l'éphod, à l'avant.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:19",
+      "fr": "Ils firent deux anneaux d'or et les attachèrent aux deux extrémités du pectoral, sur son bord intérieur, qui faisait face à l'éphod.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:20",
+      "fr": "Ils firent deux autres anneaux d'or et les attachèrent sur le devant de l'éphod, bas sur les deux épaulettes, près de sa couture, au-dessus de la bande décorée.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:21",
+      "fr": "Le pectoral était maintenu en place par une corde bleue allant de ses anneaux aux anneaux de l'éphod, de sorte que le pectoral reposait sur la bande décorée et ne se détachait pas de l'éphod, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:22",
+      "fr": "La robe de l'éphod était faite d'ouvrage tissé, de bleu pur.dof bleu pur Voir note à 28.31.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:23",
+      "fr": "L'ouverture de la robe, au milieu, était comme l'ouverture d'une cotte de mailles, avec un lien autour de l'ouverture, pour qu'elle ne se déchire pas.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:24",
+      "fr": "Sur le bord de la robe, ils firent des grenades en fils bleus, pourpres et cramoisis, torsadés.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:25",
+      "fr": "Ils fabriquèrent aussi des clochettes en or pur, et attachèrent les clochettes entre les grenades, tout autour du bord de la robe, entre les grenades :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:26",
+      "fr": "une cloche et une grenade, une cloche et une grenade, tout autour du bord de la robe pour officier, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:27",
+      "fr": "Ils confectionnèrent les tuniques de fin lin, en tissu tissé, pour Aaron et ses fils ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:28",
+      "fr": "et la coiffure en fin lin, et les turbans décorés en fin lin, et les culottes en fin lin retors ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת פארי המגבעות signifie la beauté des hautes casquettes — cela équivaut à : les belles hautes casquettes."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:29",
+      "fr": "et des ceintures de fin lin retors, de fils bleus, pourpres et cramoisis, faites en broderie, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:30",
+      "fr": "Ils fabriquèrent le fronteau du saint diadème en or pur et incisent dessus l'inscription du sceau : « Saint à DIEU ».",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:31",
+      "fr": "Ils y attachèrent un cordon bleu pour le fixer sur la coiffe du dessus, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לתת על המצנפת מלמעלה POUR LE FIXER EN HAUT SUR LA MITTRE — et au moyen des fils il le plaça sur la mitre comme s'il s'agissait d'une sorte de couronne. Il est cependant impossible de dire que לתת על המצנפת signifie mettre la plaque sur la mitre, car dans le Traité sur l'abattage des sacrifices (Zevachim 19a) nous apprenons : Ses cheveux (du Grand Prêtre) étaient visibles entre la plaque et la mitre, sur laquelle il plaça la Tephillin\". Or la plaque reposait sur son front (cf. Exode). 28 : 38), par conséquent la mitre était au-dessus (sur le sommet de la tête) et la plaque en dessous (sur le front). Que peut donc signifier « de l'attacher en haut sur la mitre » ? D'ailleurs, j'ai posé une autre question à ce sujet : ici il est dit : « et ils mirent dessus (la plaque) un fil de pourpre bleue » et dans la section où l'ordre est donné, il est dit : « Et tu la mettras sur un fil bleu pourpre » (donc). que la plaque était au-dessus du fil, pas en dessous comme cela est ici commandé). Je dis donc que ce פתיל de pourpre bleu mentionné ici n'était pas un ornement mais des fils pour l'attacher (la plaque) sur la mitre. Car la plaque ne s'étendait que d'une oreille à l'autre, alors avec quoi pouvaient-ils l'attacher à son front ? mitre chaque fois que cela était sur sa tête. Il y avait deux fils à chaque extrémité (de la plaque), l'un sur sa face supérieure et l'autre en dessous, sur le côté près du front et donc aussi au milieu de celle-ci (la plaque) - parce que de cette façon il était facile de l'attacher. Puisque, cependant, la façon d'attacher une chose se fait avec au moins deux fils, le texte est justifié de dire les deux, (Exode 23:37) \"[Et tu le mettras] sur un pourpre bleu. \" et ici \" et ils mirent dessus un fil de pourpre bleu \". Il (le Grand Prêtre) attacha les deux extrémités de tous (de tous les fils) ensemble derrière lui sur son cou, et le plaça ainsi (la plaque) sur la mitre. Ne soyez pas perplexe car il ne dit pas \" fils de pourpre bleu \" étant donné qu'il y en avait beaucoup (trois fils doubles en tout), car nous trouvons la même chose dans le cas du pectoral et de l'éphod : (Exode 28:28) « Et ils attacheront le pectoral par ses anneaux aux anneaux de l'éphod… avec une ficelle (et non avec des ficelles) de pourpre bleu » et vous devez admettre qu'il ne pouvait pas y avoir moins de deux ficelles, car aux deux extrémités du pectoral se trouvaient les deux anneaux du pectoral et sur les deux épaulettes de l'éphod il y avait les deux anneaux de l'éphod qui leur étaient opposés. Le pectoral était attaché il y avait quatre fils, et en aucune circonstance avec moins de deux, il aurait été impossible de l'attacher, et pourtant l'Écriture parle d'« un cordon » de pourpre bleu."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:32",
+      "fr": "Ainsi fut achevé tout le travail du Tabernacle de la Tente d'assignation. Les Israélites l’ont fait ; Ils firent ce que Dieu avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויעשו בני ישראל ET LES ENFANTS D'ISRAËL FAIT l'œuvre ככל אשר צוה ה' וגו׳ SELON TOUT CE QUE LE SEIGNEUR A COMMANDÉ MOÏSE [Ainsi l'ont-ils fait] ou [Ainsi ils l'ont fait]."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:33",
+      "fr": "Puis ils apportèrent à Moïse le Tabernacle, avec la Tente et tous ses meubles : ses attaches, ses planches, ses barres, ses poteaux et ses socles ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויביאו את המשכן וגו׳ ET ILS APPORTENT LE TABERNACLE [À MOÏSE, etc.], car eux-mêmes étaient incapables de l'ériger. Puisque Moïse n'avait fait aucun travail dans le Mishkan, le Saint, béni soit-Il, lui laissa le soin de l'ériger, car personne ne pouvait le monter à cause du poids des planches qu'aucune force humaine n'était capable de mettre en place. Moïse réussit cependant à le mettre en place. Moïse dit au Saint, béni soit-Il : « Comment son érection est-elle possible par des êtres humains ? Dieu lui répondit : « Occupe-toi de ta main ! » Il semblait l'ériger, mais en fait elle se dressa et s'éleva d'elle-même. C'est pourquoi l'Écriture dit : (Exode 40 :17) « Le Tabernacle a été érigé (הוקם) » – a été érigé tout seul. Il s'agit d'un Midrash du Rabbin Tanchuma 2:11:11."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 39:34",
+      "fr": "le revêtement en peaux de béliers tannées, le revêtement en dauphin-dauphin Voir note au 25.5. les peaux et le rideau du paravent ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:35",
+      "fr": "l'Arche du Pacte et ses poteaux, et la couverture ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:36",
+      "fr": "la table et tous ses ustensiles, et le pain de présentation ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:37",
+      "fr": "le chandelier pur, le chandelier pur Voir la note en 31.8. ses lampes — des lampes en bon état — et tous ses accessoires, ainsi que l'huile pour l'éclairage ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:38",
+      "fr": "l'autel d'or, l'huile pour l'onction, l'encens aromatique et le paravent pour l'entrée de la tente ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:39",
+      "fr": "l'autel d'airain avec sa grille d'airain, ses poteaux et tous ses ustensiles, et la cuve et son support ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:40",
+      "fr": "les tentures de l'enceinte, ses poteaux et ses socles, le rideau de la porte de l'enceinte, ses cordes et ses piquets, tout l'ameublement pour le service du Tabernacle, la Tente d'assignation ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:41",
+      "fr": "les vêtements de service pour officier dans le sanctuaire, les vêtements sacrés d'Aaron le sacrificateur et les vêtements de ses fils pour le service sacerdotal.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:42",
+      "fr": "Tout comme DIEU l’avait commandé à Moïse, les Israélites avaient fait tout le travail.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 39:43",
+      "fr": "Et quand Moïse vit qu’ils avaient accompli toutes les tâches – comme DIEU l’avait ordonné, ainsi ils l’avaient fait – Moïse les bénit.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויברך אתם משה ET MOÏSE LES BÉNIS — Il leur dit : « Que la volonté de Dieu soit que sa Chechinah repose sur l'œuvre de vos mains ; et que la beauté de l'Éternel notre Dieu soit sur nous et que tu affermisses l'œuvre de nos mains sur nous » » (Psaumes 90 : 17.) (Sifra, Shemini, Mechilta d'Miluim 2 15) Ceci (à partir de ויהי נועם) fait partie de l'un des onze Psaumes (90-100) qui se trouvent dans la section commençant par תפלה למשה ; (Nombres Rabba 12 : 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:1",
+      "fr": "Et DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:2",
+      "fr": "Le premier jour du premier mois, tu dresseras le tabernacle de la tente d'assignation.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:3",
+      "fr": "Placez-y l'arche du pacte et recouvrez l'arche avec le rideau.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וסכת על הארן signifie ET TU ÉCRANERA L'ARCHE — וסכת désigne l'écran et c'est le terme correct à utiliser, car il (le voile) formait une cloison (cf. Rachi sur Exode 35 : 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:4",
+      "fr": "Apportez la table et disposez-la à sa place ; apportez le chandelier et allumez ses lampes ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וערכת את ערכו ET DÉFINIR SES RANGÉES — les deux tas de pain de proposition."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:5",
+      "fr": "et place l'autel d'or des parfums devant l'Arche du Pacte. Ensuite, installez le paravent pour l'entrée du Tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:6",
+      "fr": "Tu placeras l'autel des holocaustes devant l'entrée du tabernacle de la tente d'assignation.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:7",
+      "fr": "Placez la cuve entre la Tente d'assignation et l'autel, et mettez-y de l'eau.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:8",
+      "fr": "Tu dresseras l'enceinte tout autour, et tu placeras le grillage pour la porte de l'enceinte.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:9",
+      "fr": "Tu prendras l'huile d'onction et tu oindras le Tabernacle et tout ce qu'il contient pour le consacrer ainsi que tous ses meubles, afin qu'il soit saint.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:10",
+      "fr": "Oins ensuite l'autel des holocaustes et tous ses ustensiles pour consacrer l'autel, afin que l'autel soit très saint.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:11",
+      "fr": "Et tu oindras la cuve et son support pour la consacrer.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:12",
+      "fr": "Tu amèneras Aaron et ses fils à l'entrée de la tente d'assignation et tu les laveras avec l'eau.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:13",
+      "fr": "Mettez les vêtements sacrés sur Aaron, oignez-le et consacrez-le, afin qu'il me serve de prêtre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:14",
+      "fr": "Puis amène ses fils, et mets-leur des tuniques,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:15",
+      "fr": "et oins-les comme tu as oint leur père, afin qu'ils me servent comme prêtres. Leur onction leur servira pour le sacerdoce éternel à travers les âges.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:16",
+      "fr": "C'est ce que Moïse a fait ; Il fit ce que DIEU lui avait commandé.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:17",
+      "fr": "Le premier mois de la deuxième année, le premier du mois, le Tabernacle fut dressé.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:18",
+      "fr": "Moïse installa le Tabernacle, plaçant ses socles, installant ses planches, insérant ses barres et érigeant ses poteaux.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:19",
+      "fr": "Il étendit la tente sur le Tabernacle, plaçant la couverture de la tente dessus, tout comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויפרש את האהל ET IL ÉTEND LA TENTE Le אהל sont les rideaux de peaux de chèvres."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:20",
+      "fr": "Il prit le Pacte et le plaça dans l'arche ; il fixa les poteaux à l'arche, plaça le couvercle sur l'arche,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את העדות LE TÉMOIGNAGE — les Tablettes."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:21",
+      "fr": "et il fit entrer l'arche dans le Tabernacle. Puis il a levé le rideau pour protéger l’Arche du Pacte, tout comme DIEU l’avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:22",
+      "fr": "Il plaça la table dans la Tente d'assignation, à l'extérieur du rideau, du côté nord du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על ירך המשכן צפנה SUR LE CÔTÉ DE L'HABITATION VERS LE NORD — i. e. dans la moitié nord de la largeur de la maison (pas près du mur nord) (Yoma 33b)."
+        },
+        {
+          "id": 2,
+          "fr": "ירך — Cela doit être compris dans le Targum qui l'a rendu : צדא. Le vrai sens est « cuisse », mais le côté de tout est comme la cuisse qui se trouve à côté d’une personne."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:23",
+      "fr": "Là-dessus, il disposa le pain devant Dieu, comme Dieu l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:24",
+      "fr": "Il plaça le chandelier dans la Tente d'assignation, en face de la table, du côté sud du Tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:25",
+      "fr": "Et il alluma les lampes devant DIEU, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:26",
+      "fr": "Il plaça l'autel d'or dans la tente d'assignation, devant le rideau.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:27",
+      "fr": "Il y brûla de l'encens aromatique, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקטר עליו קטרת ET IL FAIT MONTER L'ENCENS DES AROMATIQUES dessus le matin et le soir, comme il est dit, (Exode 30:7, 8) « [Et Aaron fera monter dessus l'encens des aromates en fumée] chaque matin quand il taille les lampes, [et quand il taille les lampes à même etc.] »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:28",
+      "fr": "Puis il installa le paravent à l'entrée du Tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:29",
+      "fr": "A l'entrée du Tabernacle de la Tente d'assignation, il plaça l'autel des holocaustes. Il y offrit l'holocauste et l'offrande de céréales, comme Dieu l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויעל עליו וגו׳ ET OFFERT SUR ELLE etc. Non seulement pendant les sept premiers jours de la consécration d'Aaron et de ses fils pendant lesquels Moïse a érigé la demeure puis l'a démontée, mais aussi le huitième jour de la consécration qui était le jour de la construction finale de la demeure pour ses besoins ordinaires, Moïse a officié et offert les sacrifices de la congrégation, à l'exception de ceux qui avaient été commandé exclusivement pour ce jour-là, comme il est dit (Lévitique 9 :7) « [Et Moïse dit à Aaron], approche-toi de l'autel et offre, etc."
+        },
+        {
+          "id": 2,
+          "fr": "את העלה L'OFFrande brûlée — l'holocauste quotidien."
+        },
+        {
+          "id": 3,
+          "fr": "ואח המנחה ET L'OFFrande de repas — L'offrande de repas réunie avec la libation qui a été faite avec l'holocauste quotidien, il est dit (Exode 29 :40) « [Et avec l'un des agneau] (de l'holocauste quotidien) sera apporté un dixième de farine pétrie avec… de l'huile ; [et la quatrième partie d'un hin de vin pour une libation…] »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:30",
+      "fr": "Il plaça la cuve entre la tente d'assignation et l'autel et y mit de l'eau pour se laver.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:31",
+      "fr": "De là, Moïse, Aaron et ses fils se lavaient les mains et les pieds ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ורחצו ממנו משה ואהרן ET MOÏSE ET AARON [ET SES FILS] LAVÉ [LEURS MAINS] ] Le huitième jour de la consécration, tous ceux mentionnés ici, y compris Moïse, étaient pareils en ce qui concerne l'office sacerdotal. La traduction de ורחצו dans le Targum devrait donc être ומקדשין, et ils se sanctifiaient (c'est-à-dire qu'ils sanctifiaient ensuite leurs mains et leurs pieds), car ce jour-là, Moïse lava ses mains avec eux (Aaron et ses fils)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:32",
+      "fr": "ils se lavaient en entrant dans la tente d'assignation et en s'approchant de l'autel, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובקרבתם — Ceci est équivalent à ובקרבם et a un sens imparfait, le même que כשיקרבו. quand ils approchaient."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:33",
+      "fr": "Et il dressa l'enceinte autour du Tabernacle et de l'autel, et il posa le rideau pour la porte de l'enceinte. Quand Moïse eut fini le travail,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:34",
+      "fr": "la nuée couvrait la tente d'assignation, et la présence de DIEU remplissait le tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:35",
+      "fr": "Moïse ne pouvait pas entrer dans la Tente d'assignation, car la nuée s'y était déposée et la Présence de DIEU remplissait le Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא יכל משה לבא אל אהל מועד ET MOÏSE N'ÉTAIT PAS CAPABLE D'ENTRER DANS LA TENTE DÉSIGNÉE — Mais un autre verset dit : (Nombres 7 :89) « Et lorsque Moïse entra dans la tente désignée [pour lui parler, il entendit la voix] » ! Il arrive cependant un troisième verset qui réconcilie ces versets apparemment contradictoires, car il dit ici כי שכן עליו הענן \"Pour (ou quand) la nuée demeurait dessus (sur la tente désignée)\". C'est pourquoi vous pouvez dire : tant que la nuée était dessus, « il ne pouvait pas entrer dans la tente désignée », mais dès que la nuée disparaissait, il y entra et lui parla (Sifra, Braita d'Rabbi Yishmael 18)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 40:36",
+      "fr": "Lorsque la nuée se levait du Tabernacle, les Israélites partaient pour leurs différents voyages ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:37",
+      "fr": "mais si le nuage ne se dissipait pas, ils ne partiraient pas avant qu'il ne se dissipe.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 40:38",
+      "fr": "Car au-dessus du Tabernacle, une nuée de DIEU reposait le jour, tandis que le feu apparaissait dans cette nuée, cette nuée Héb. \"il.\" la nuit, à la vue de toute la maison d'Israël tout au long de leurs voyages.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לעיני כל בית ישראל בכל מסעיהם [LE NUAGE ÉTAIT SUR LE TABERNACLE] … À LA VUE DE TOUTE LA MAISON D'ISRAËL, TOUT AU LONG DE TOUS LEURS VOYAGES — À chaque מסע qu'ils faisaient (selon Rachi, cela signifie : à à chaque station où ils s'arrêtaient), la nuée reposait sur le Tabernacle à l'endroit où ils campaient. L’endroit où ils campèrent est également appelé מסע (dont le sens littéral est « voyage »). Il en va de même (Genèse 13 : 3) « Et il se rendit à ses lieux de repos (למסעיו) » (cf. Rachi sur ce verset) ; il en va de même (Nombres 33 : 1) « Ce sont les מסעי » — « les lieux de campement ». Parce que depuis le lieu de campement, ils repartent toujours pour un nouveau voyage, c'est pourquoi toutes les différentes étapes de leurs voyages (y compris les lieux où ils ont campé) sont appelées מסעות."
+        }
+      ]
+    }
+  ]
+}

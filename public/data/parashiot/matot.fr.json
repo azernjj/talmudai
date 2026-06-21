@@ -1,0 +1,996 @@
+{
+  "name": "Matot",
+  "range": "Numbers 30:2-32:42",
+  "verses": [
+    {
+      "ref": "Numbers 30:2",
+      "fr": "Moïse parla aux chefs des tribus israélites, disant : Voici ce que DIEU a commandé :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ראשי המטות [ET MOÏS A PARLÉ AUX] CHEFS DES TRIBUS DES ENFANTS D'ISRAËL] ] Cela ne veut pas dire qu'il a parlé uniquement aux princes des enfants d'Israël et non au peuple aussi, mais qu'il a montré du respect aux princes en les enseignant d'abord et qu'ensuite il a enseigné aux enfants d'Israël. Cette explication semble supposer qu’il s’agissait de la méthode générale d’enseignement, mais de quel verset biblique pouvons-nous déduire qu’il en était ainsi pour toutes les adresses, et qu’il ne s’agissait pas d’un cas exceptionnel ? Parce qu'il est dit (Exode 34 : 31-32) « [Et Moïse les appela], et Aaron et tous les princes de la congrégation revinrent vers lui et Moïse leur parla ; et ensuite tous les enfants d'Israël s'approchèrent, [et il leur donna tous les commandements que l'Éternel lui avait dit sur le mont Sinaï] ». Mais s’il ne s’agit pas d’un cas exceptionnel, quelle raison y a-t-il pour que l’Écriture fasse tout son possible pour le préciser ici ? Parce qu'en disant spécialement que les lois sur les vœux ont été enseignées d'abord aux princes, puis aux Israélites, il entend enseigner que l'annulation des vœux doit en réalité être effectuée par une personne experte en la Loi, et que seulement s'il n'y a pas un tel expert, ils peuvent être annulés par trois personnes ordinaires. Mais vous pourriez peut-être dire que cette déclaration signifie bien que Moïse n'a parlé de cette section qu'aux princes des enfants d'Israël, et que Moïse ne leur a pas parlé également, et que par conséquent rien ne peut être déduit concernant l'expert et les laïcs ! Mais il est dit ici : « C'est ici la parole », et il est dit dans le passage traitant des « animaux abattus hors du sanctuaire » (Lévitique 17 :2) : « C'est ici la parole ». Quel est le cas là-bas ? Elle était adressée à Aaron et à ses fils et à tous les enfants d'Israël, comme il est dit ici : « Parle à Aaron [et à ses fils et à tous les enfants d'Israël] » ! De même, cela s'adressait à tous (et la raison pour laquelle cela est indiqué ici est de nous dire que l'annulation des vœux, etc., comme ci-dessus) (cf. Sifrei Bamidbar 153 : 1 ; Nedarim 78a)."
+        },
+        {
+          "id": 2,
+          "fr": "זה הדבר CECI EST LA PAROLE — Moïse a prophétisé avec les mots (a introduit son message par la déclaration), « Ainsi dit l'Éternel : Vers minuit [irai-je au milieu de l'Égypte] » (Exode 11 : 4), et d'autres prophètes ont également prophétisé avec « Ainsi parle l'Éternel ». [que Dieu a parlé] » (Sifrei Bamidbar 153 : 2). Une autre explication de זה הדבר CECI EST LA PAROLE : c'est une expression restrictive servant à laisser entendre que le Sage (l'expert) utilise l'expression « invalidant » (התרה), et le mari (s'occupant des vœux de sa femme), uniquement de l'expression « annuler » (הפרה), comme c'est le langage de l'Écriture ici (par exemple, au v. 9), et que si ils (l'un d'eux) échangent l'expression, celui-ci (le vœu) n'est pas invalidé ni annulé selon le cas (Nedarim 78a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:3",
+      "fr": "Si quelqu'unbanyone En pratique, seul un chef de famille (généralement un homme) peut prononcer des vœux qui ne sont pas sujets à révision. Une fille (vv. 4-9) et une épouse (vv. 11-16) illustrent les membres à charge d’un ménage, y compris ses hommes subordonnés (cf. 2 Sam. 15.7-9). fait un vœu envers DIEU ou prête serment imposant une obligation ou « une interdiction ». sur eux-mêmes, ils ne rompront pas leur engagement ; ils doivent exécuter tout ce qui a franchi leurs lèvres.dcroisé leurs lèvres Lit. \"sort de sa bouche.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נדר UN VŒUR ] C'est à ce moment-là qu'on dit : Voici, je prends sur moi une obligation qui m'est aussi sacrée qu'une offrande, que je ne mangerai pas, ou que je ne ferai pas telle ou telle chose. — On pourrait penser que s'il jure qu'il mangera la chair d'un animal qui n'a pas été abattu correctement selon le rite, je pourrai lui appliquer le texte : « Il fera selon tout ce qui sort de sa bouche » ! Il est cependant dit : « [S’il prête serment] de s’interdire quelque chose », c’est-à-dire de s’interdire quelque chose qui lui est permis – et de ne pas rendre permis ce qui lui est interdit (Sifrei Bamidbar 153 : 4)."
+        },
+        {
+          "id": 2,
+          "fr": "לא יחל דברו C'est la même chose que לא יחלל דברו (la racine de יחל étant חלל) : il ne doit pas donner à sa propre parole un caractère profane (חולין) (Sifrei Bamidbar 153 :4 ; voir aussi Rachi sur le Lévitique 21 : 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:4",
+      "fr": "Si une femme fait un vœu envers DIEU ou assume une obligation alors qu'elle est encore dans la maison de son père en raison de sa jeunesse,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בבית אביה [SI UNE FEMME VEUT]… ÊTRE DANS LA MAISON DE SON PÈRE — c'est-à-dire sous le contrôle de son père, mais la loi énoncée ici s'applique même si elle n'est pas dans sa maison, à condition qu'elle soit sous son contrôle (Sifrei Bamidbar 153 : 4)."
+        },
+        {
+          "id": 2,
+          "fr": "בנעורה DANS SA JEUNESSE — lorsqu'elle est נערה, c'est-à-dire dans le premier état de féminité, mais pas lorsqu'elle est קטנה, mineure, et non lorsqu'elle est בוגרת (en pleine féminité) ; car en ce qui concerne une mineure, son vœu n'est en général pas un vœu (il est nul et non avenu ab initio), et un בוגרת n'est pas sous le contrôle de son père afin qu'il puisse annuler ses vœux. Qu'est-ce qu'un קטנה, un mineur, en ce qui concerne les vœux ? Nous pouvons déduire cela de ce que disent nos rabbins : une femme âgée de onze ans et un jour doit faire examiner ses vœux jusqu'à ce qu'elle atteigne l'âge de douze ans ; si elle comprend au nom de qui elle a fait le vœu ou au nom de qui elle a consacré la chose, son vœu est un vœu, mais une femme de douze ans et un jour n'a besoin d'aucune enquête concernant son vœu (Niddah 56b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:5",
+      "fr": "et que son père prend connaissance de son vœu ou de l'obligation qu'il s'est lui-même imposée et ne formule aucune objection, tous ses vœux resteront valables et toute obligation qu'il s'est imposée sera maintenue.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 30:6",
+      "fr": "Mais si son père la retient le jour où il l'apprend, aucun de ses vœux ou obligations qu'il s'est imposé ne sera maintenu ; et DIEU lui pardonnera, puisque son père la retenait.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם הניא אביה אתה MAIS SI SON PÈRE LA REFUSE ] L'hébreu signifie « s'il la retient » du vœu, c'est-à-dire qu'il l'annule pour elle. Je ne saurais pas ce qu'implique cette expression הניא, « retenir », (c'est-à-dire comment il la retient) — mais quand elle dit, (v. 9) « Mais si le jour qu'il l'entend, il la retient et annule [ses vœux] », il faut admettre que « la retenue » consiste à « annuler le vœu » (c'est-à-dire à s'exclamer מופר לך) (Sifrei Bamidbar 153 : 6). Mais le sens clair est toujours qu'il s'agit d'un terme pour « retenir » et « retirer » (et le mot והפר montre seulement comment et par quels moyens elle doit être empêchée de respecter son vœu) ; et similaire est (Nombres 32 :7) : « Et pourquoi enlevez-vous (תניאון) [le cœur des enfants d'Israël de l'idée de traverser le pays] » ; et ainsi aussi (Psaume 141 : 5) : « Huile de votre choix, que ma tête ne se détourne pas (יניא), et similaire aussi, (Nombres 14 :34) : « Et vous saurez que je me suis détourné (תנואתי) » — c'est-à-dire que vous saurez que vous vous êtes détournés de moi."
+        },
+        {
+          "id": 2,
+          "fr": "וה' יסלח לה ET LE SEIGNEUR LUI PARDONNERA — De quoi parle ici l'Écriture ? D'une femme qui, par exemple, a juré de devenir nazaréenne, et dont le père l'a entendu et l'a annulé pour elle, mais elle ne le savait pas, et a transgressé son vœu et a bu du vin ou s'est rendue impure au moyen d'un cadavre. C'est une telle femme qui demande pardon même si son vœu a été annulé. — Et si ceux dont les vœux ont été annulés demandent pardon dans un tel cas, combien plus est-il ainsi pour ceux dont les vœux n'ont pas été annulés et ont été transgressés ! (Sifrei Bamidbar 153 : 6 ; cf. Kiddushin 81b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:7",
+      "fr": "Si elle devait devenir la [épouse] de quelqu'un pendant son vœu ou son engagement, Lit. \"parole de ses lèvres.\" auquel elle s'est engagée est toujours en vigueur,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם היו תהיה לאיש ET SI ELLE DEVIENT UN HOMME — (une expression utilisée pour le mariage). Cela fait référence à une femme qui devient fiancée (ארוסה). Ou peut-être que ce n'est pas le cas, mais cela fait référence à une femme mariée (celle qui a rejoint son mari ; cf. Rachi sur Lévitique 21 : 9). Mais quand il est dit (v. 11) « Et si elle avait fait vœu dans la maison de son mari », il est évident qu'il s'agit ici d'une femme mariée, et ici donc le texte parle d'une femme qui n'a été que fiancée. Et cela (la mention séparée d'elle) vise à établir une règle différente à son sujet - que son père et son mari doivent annuler son vœu : si le père a annulé et le mari ne l'a pas annulé, ou si le mari a annulé et le père ne l'a pas annulé, alors ce vœu n'est pas considéré comme annulé, et il n'est pas nécessaire de déclarer (et c'est une évidence) que si l'un d'eux a confirmé le vœu, l'autre n'a pas le pouvoir de l'annuler (Sifrei Bamidbar 153 : 7 ; Nedarim 67a)."
+        },
+        {
+          "id": 2,
+          "fr": "ונדריה עליה [ET SI ELLE DEVIENT UN HOMME] ET SES VŒUX SONT SUR ELLE — Cela signifie qu'elle avait fait ses vœux étant dans la maison de son père, et son père ne les a pas entendus, et donc ils n'ont été ni annulés ni confirmés au moment de ses fiançailles (cf. Sifrei Bamidbar 153 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:8",
+      "fr": "et son mari l'apprend et ne formule aucune objection le jour où il le découvre, ses vœux resteront valables et ses obligations qu'elle s'est imposées resteront valables.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושמע אישה וגו׳ MAIS SI SON MARI ENTEND etc. — Ici, vous avez le cas où si le mari a confirmé le vœu, celui-ci est confirmé. (Le fait que le père puisse confirmer les vœux de sa fille fiancée est donné au v. 5, laquelle déclaration s'applique également au w. 6 et suiv. — voir Note)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:9",
+      "fr": "Mais si son mari la retient le jour où il en a connaissance, il annule par là même le vœu qui était en vigueur ou l'engagement Voir note au v. 7. auquel elle s'était liée ; et DIEU lui pardonnera.—",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והפר את נדרה ET LUI (LE MARI) ANNULE SON VOEU — On pourrait penser que puisque la confirmation par le mari ne nécessite pas l'accord du père, dans le cas évoqué ici elle est annulée même si le père ne l'a pas annulé ! Il déclare cependant (v. 17) : « [Voici les lois… relatives à un père avec sa fille] בנעריה בית אביה » ce qui signifie : tant qu'elle est בנעריה (pas complètement mariée), elle est sous le contrôle de son père (Sifrei Bamidbar 155 ; Ketuvot 46b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:10",
+      "fr": "Toutefois, le vœu d'une veuve ou d'une femme divorcée, quoi qu'elle se soit imposé, lui sera obligatoire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל אשר אסרה על נפשה יקום עליה [MAIS LE VOEU D'UNE VEUVE ET DE CELUI QUI EST DIVORCE] TOUT CE PAR LEQUEL ELLE A LIÉ SON ÂME SE TENIR CONTRE ELLE - parce qu'elle n'est pas sous le contrôle d'un père ou sous le contrôle d'un mari. L'Écriture parle d'une personne qui devient veuve après avoir été pleinement mariée (נשואה) (Sifrei Bamidbar 154 : 1), mais dans le cas d'une personne qui devient veuve après avoir seulement été fiancée, si son mari meurt, toute son autorité se vide (vide) et retourne à son père (Nedarim 70a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:11",
+      "fr": "De même, si, pendant qu'elle est dans la maison de son mari, elle fait un vœu ou s'impose une obligation par serment,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם בית אישה נדרה ET SI ELLE VEUT DANS LA MAISON DE SON MARI — Ici, l'Écriture parle d'une femme pleinement mariée (Sifrei Bamidbar 154 : 1 ; Nedarim 67a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:12",
+      "fr": "et son mari l'apprend, mais ne fait aucune objection - manquant ainsi de la retenir - tous ses vœux resteront valables et toutes ses obligations qu'elle s'est imposées resteront valables.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 30:13",
+      "fr": "Mais si son mari les annule le jour où il l'apprend, alors rien de ce qui a traversé ses lèvres ne sera conservé, qu'il s'agisse de vœux ou d'obligations qu'il s'est imposées. Son mari les a annulés et DIEU lui pardonnera.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 30:14",
+      "fr": "Tout vœu et toute obligation jurée d'abnégation peut être respecté par son mari ou annulé par son mari.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל נדר וכל שבעת אסר וגו׳ CHAQUE VOEU ET CHAQUE SERMENT OBLIGATOIRE [Pour affliger l'âme, son mari peut le confirmer ou son mari peut l'annuler] - Parce qu'il stipule qu'un mari peut annuler les vœux de sa femme, on pourrait penser que tous les vœux sont sous-entendu ! Il déclare donc : « [chaque vœu]… d’affliger l’âme » – il ne peut annuler que les vœux d’affliger l’âme, et ceux-ci sont énoncés dans le Traité Nedarim 79b."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:15",
+      "fr": "Si son mari n'a présenté aucune objection de ce jour à l'autre, il a maintenu tous les vœux ou obligations qu'elle a contractés : il les a maintenus en ne présentant aucune objection le jour où il l'a appris.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מיום אל יום [MAIS SI SON MARI TIENT TOTALEMENT SA PAIX AVEC ELLE] DE JOUR EN JOUR — Afin que vous ne disiez pas que ביום שמעו au v. 13 signifie que le mari a le droit d'annuler à partir du moment où elle a fait le vœu jusqu'au lendemain à la même heure. (c'est-à-dire vingt-quatre heures), il indique en conséquence מיום אל יום, c'est-à-dire à partir du jour où elle fait le vœu jusqu'au lendemain, — pour vous dire qu'il ne peut annuler le vœu que jusqu'à ce qu'il fasse nuit, [car alors un autre jour commence] (cf. Nedarim 76b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:16",
+      "fr": "Mais s'il les annule après [le jour] où il l'apprend, il supportera sa culpabilité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אחרי שמעו [MAIS S'IL DOIT LES ANNULER] APRÈS QU'IL LES A ENTENDUS, c'est-à-dire après les avoir entendus et confirmés - qu'il avait dit : « J'en suis content », alors s'il se retourne et l'annule même le même jour (Sifrei Bamidbar 156 : 2)."
+        },
+        {
+          "id": 2,
+          "fr": "ונשא את עונה IL PORTERA SON INIQUITÉ — Il prend sa place. Nous apprenons de là que celui qui fait faire à autrui un faux pas prend sa place par rapport à toutes les punitions qu'il encourrait (Sifrei Bamidbar 156 : 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 30:17",
+      "fr": "Telles sont les lois que DIEU a prescrites à Moïse entre un mari et sa femme, et entre un père et sa fille lorsqu'elle était dans la maison de son père en raison de sa jeunesse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:2",
+      "fr": "« Vengez le peuple israélite contre les Madianites ; alors vous serez rassemblés auprès de vos parents. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מאת המדינים [VENGER LES ENFANTS D'ISRAËL] DES MIDIANITES — mais pas des Moabites, car les Moabites sont entrés dans l'affaire par peur, parce qu'ils craignaient de les piller, puisqu'à leur sujet il était seulement dit (Deutéronome 2 :9) « Ne les combattez pas au combat » ; mais les Madianites, cependant, s'étaient excités (s'étaient mêlés) à une querelle qui ne les concernait pas. Une autre explication de la raison pour laquelle Dieu leur a interdit de faire la guerre aux Moabites, et qui explique en même temps pourquoi il leur avait été interdit de faire la guerre aux Ammonites (cf. Deutéronome 2:19) : à cause, dit-Il, des deux belles colombes (femmes vertueuses) que je dois faire naître d'elles, — Ruth la Moabite et Naamah l'Ammonite [l'épouse de Salomon] (Bava Kamma 38b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:3",
+      "fr": "Moïse a parlé au peuple, au peuple ou à ses dirigeants, au nom du peuple. en disant : « Que des troupes soient choisies parmi vous pour une campagne, et qu'elles se jettent sur Madian pour exercer la vengeance de DIEU sur Madian.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וידבר משה וגו׳ ET MOÏSE PARLENT etc. — Bien qu'il ait entendu (v. 2) que sa mort était associée à cette affaire, il l'a fait avec plaisir et n'a pas tardé (Sifrei Bamidbar 157 : 2)."
+        },
+        {
+          "id": 2,
+          "fr": "החלצו — Comprenez cela comme le fait le Targum dans le sens de « équipé (חלוצי) pour la guerre », armé."
+        },
+        {
+          "id": 3,
+          "fr": "אנשים HOMMES — les hommes justes, et semblables, (Exode 17 : 9) « Choisissez des hommes pour nous », et donc aussi (Deutéronome 1 :13) « des hommes sages et bien connus » (Midrash Tanchuma, Matot 3)."
+        },
+        {
+          "id": 4,
+          "fr": "‎'נקמת ה‎ « LA VENGEANCE DE L'Éternel » — [C'est vraiment équivalent à l'expression que Dieu avait employée (v.2), « la vengeance des enfants d'Israël »], car quiconque attaque Israël est comme s'il attaquait le Saint béni soit-Il."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:4",
+      "fr": "Vous en enverrez en campagne mille personnes de chacune des tribus d'Israël.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לכל מטות ישראל [MILLE DE CHAQUE TRIBU] DANS TOUTES LES TRIBUS D'ISRAËL — y compris, par conséquent, la tribu de Lévi (Sifrei Bamidbar 157 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:5",
+      "fr": "Ainsi furent rassemblés mille hommes de chaque tribu, parmi les divisions d'Israël, et douze mille choisis pour la campagne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וימסרו AINSI IL Y A ÉTÉ REMISE… [MILLE DE CHAQUE TRIBU] — Cela sert à vous dire dans quelle haute estime les bergers d'Israël étaient réellement tenus — à quel point ils étaient chers à Israël. Jusqu'à ce qu'ils aient entendu parler de sa mort prochaine, que dit-il ? Que Moïse s'est senti contraint de s'écrier à leur sujet : « Ils sont presque prêts à me lapider » ! (Exode 17 :14). Mais lorsqu’ils apprirent que la mort de Moïse était associée à l’exécution d’une vengeance contre Madian (cf. v. 2), ils refusèrent d’entrer en guerre jusqu’à ce qu’ils soient « livrés » contre leur propre gré (Sifrei Bamidbar 157 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:6",
+      "fr": "Moïse les envoya en campagne, mille de chaque tribu, avec Phinées, fils d'Éléazar, servant comme prêtre pendant la campagne, équipé des ustensiles sacrés, peut-être l'Urim ; cf. 27.21. et les trompettes pour faire retentir les sons.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אתם ואת פינחס [MOÏS LES ENVOYAIT… À LA GUERRE], EUX ET PHINEAS — La répétition du mot אתם, « eux », en association avec le nom de Phineas nous dit que Phineas était considéré comme égal à tous ensemble. — Mais pourquoi Phinéas est-il parti et Éléazar n'y est-il pas allé ? Le Saint, béni soit-Il, a dit : « Celui qui a commencé cette œuvre méritoire en tuant Kozbi, la fille de Zur (qui était une Madianite), qu'il l'achève ». — Une autre explication pour laquelle Phinéas et non Éléazar est parti est qu'il est allé se venger de Joseph, l'ancêtre de sa mère, comme il est dit (Genèse 37 :36) « Et les Madianites le vendirent [en Égypte] ». Et d’où savons-nous que la mère de Phinéas était de la famille de Joseph ? Parce qu'il est dit (Exode 6 :25) qu'elle était « l'une des filles de Putiel » (voir Rachi sur ce verset) – ce qui signifie qu'elle était de la postérité de Jéthro qui engraissait (פטם) les veaux pour le culte idolâtre, et de la postérité de Joseph qui a vaincu (שפטפט, qui parlait ou discutait avec) ses passions (cf. Sifrei Bamidbar 157 : 4 ; Sotah 43a). — Autre explication : Phinéas y est allé parce qu'il était le grand prêtre oint à des fins de guerre (cf. Deutéronome 20 : 2 et Rachi dessus) (Sotah 43a)."
+        },
+        {
+          "id": 2,
+          "fr": "וכלי הקדש ET LES VASES DE LA SAINTETÉ… [ÉTAIT AVEC EUX] — c'étaient l'Arche et la Plaque d'Or (qui sont appelées קדש, « sainteté », dans Nombres 4 :20 et Lévitique 8 :9 respectivement) (cf. Sifrei Bamidbar 157 :4 ; Sotah 43a). — Parce que Balaam était avec eux (les Madianites) et que par enchantement il fit flotter les rois de Madian dans les airs et qu'il flotta lui-même avec eux, il (Phineas) leur montra (leur tendit) le Platon d'Or sur lequel le Nom Divin était gravé et ils tombèrent immédiatement à terre. C'est pour cela qu'il est dit (v. 8) des rois de Madian qu'ils furent tués « sur ceux d'eux qui avaient été tués », c'est-à-dire qu'ils tombèrent du ciel sur ceux qui avaient déjà été tués ; et de même à propos de Balaam, il est écrit dans le livre de Josué (13 : 22) : « [Et Balaam, fils de Beor, les enfants d'Israël tuèrent] sur ceux qui furent tués par eux » (Midrash Tanchuma, Matot 2 ; Talmud Yerushalmi Sanhedrin 10 : 2)."
+        },
+        {
+          "id": 3,
+          "fr": "בידו signifie EN SA POSSESSION (pas réellement « dans sa main », car il lui était impossible de tenir ces objets sacrés dans sa main), semblable à (21 :26) « Et il prit toute sa terre de sa possession (מידו) » (Sifrei Bamidbar 157 :4)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:7",
+      "fr": "Ils prirent campagne contre Madian, comme Dieu l'avait ordonné à Moïse, et tuèrent tous les mâles.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:8",
+      "fr": "Avec leurs autres victimes, ils tuèrent les rois de Madian : Evi, Rekem, Tsur, Hur et Reba, les cinq rois de Madian. Ils passèrent aussi Balaam, fils de Beor, au fil de l'épée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חמשת מלכי מדין LES CINQ ROIS DE MIDIAN ] Mais ne puis-je pas voir que l'Écriture en a énuméré cinq ; pourquoi alors se sent-il obligé de dire qu’il y en avait cinq ? Mais c'est pour vous dire que même s'ils avaient tous été pareils dans le complot, ils ont également été traités de la même manière dans le châtiment qui leur a été infligé (cf. Rachi sur Genèse 25 : 22, où, comme ici, le total des noms mentionnés est indiqué) (Sifrei Bamidbar 157 : 5). — Balaam était allé là-bas pour recevoir la récompense des 24 000 qu'il avait fait tomber d'Israël par son conseil et maintenant aussi il quitta Madian pour rencontrer Israël et leur donna de mauvais conseils : c'est-à-dire, il leur dit : « Si, quand vous étiez 600 000 vous ne pouviez pas les vaincre, maintenant vous venez leur faire la guerre avec 12 000 ? Ils lui ont donné sa pleine récompense et ne l'ont pas hésité (ils l'ont tué) (Sifrei Bamidbar 157 : 5)."
+        },
+        {
+          "id": 2,
+          "fr": "בחרב [BALAAM AUSSI… ILS TUENT] AVEC L'ÉPÉE — Il est venu contre Israël en échangeant son métier (l'épée) contre leur métier (la bouche), car ils ne conquièrent que par leur bouche — par la prière et la pétition, et il est venu et a profité de leur métier pour les maudire avec sa bouche. C'est pourquoi ils se sont également opposés à lui et ont échangé leur savoir-faire contre celui des peuples païens qui viennent avec l'épée, comme il est dit (Genèse 27 :40) « Et tu vivras par ton épée » (cf. Rachi sur Nombres 22 :23)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:9",
+      "fr": "Les Israélites prirent captifs les femmes et autres non-combattants des Madianites et prirent comme butin tous leurs animaux, tous leurs troupeaux et toutes leurs richesses.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:10",
+      "fr": "Et ils détruisirent par le feu toutes les villes dans lesquelles ils étaient établis, ainsi que leurs campements.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "טירתם signifie le lieu de leurs scribes (notarii) — terme qui désigne le lieu d'habitation de leurs prêtres, ceux qui connaissent bien leurs lois (cf. Siphre). Une autre explication est que cela signifie la place de leurs princes, tout comme « les seigneurs des Philistins » (I Samuel 6 :4) est traduit dans le Targum par « le טורני des Philistins » (Sifrei Bamidbar 157 :5)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:11",
+      "fr": "Ils rassemblèrent tout le butin et tout le butin, humain et animal,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקחו את כל השלל ET ILS ONT PRIS TOUT LE DÉCHET… [ET ILS L'ONT APPORTÉ À MOÏSE] — Cela nous dit qu'ils étaient des hommes pieux et justes et qu'ils n'étaient pas soupçonnés de vol en tendant la main contre le butin sans permission, car il est dit : « ils ont pris tout le butin… [et l'ont apporté à Moïse] » (Sifrei Bamidbar 157 : 5). À leur sujet, cela est exprimé dans la littérature traditionnelle (Cantiques 6 : 6) : « Leurs dents sont comme un troupeau de brebis… [dont toutes sont parfaites] » — c'est-à-dire que même tes soldats sont tous justes (voir Rachi Cantiques 4 : 2)"
+        },
+        {
+          "id": 2,
+          "fr": "שלל sont des biens meubles composés de vêtements et d'ornements."
+        },
+        {
+          "id": 3,
+          "fr": "בז est un butin de biens meubles qui ne sont pas des ornements."
+        },
+        {
+          "id": 4,
+          "fr": "מלקוח sont des hommes et du bétail, mais dans tout passage où שבי est écrit en association avec מלקוח, le terme שבי s'applique aux hommes et מלקוח au bétail uniquement."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:12",
+      "fr": "et ils apportèrent les captifs, le butin et le butin à Moïse, au prêtre Éléazar et à toute la communauté israélite, toute la communauté israélite. Voir le verset suivant et la note à 8.9. au camp dans les steppes de Moab, au Jourdain près de Jéricho.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:13",
+      "fr": "Moïse, le prêtre Éléazar et tous les chefs de la communauté sortirent à leur rencontre hors du camp.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויצאו משה ואלעזר הכהן ET MOÏSE ET ÉLÉAZAR LE PRÊTRE SONT SORTIS, parce qu'ils voyaient les jeunes gens d'Israël sortir pour s'emparer du butin (Sifrei Bamidbar 157 : 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:14",
+      "fr": "Moïse se mit en colère contre les commandants de l'armée, les officiers de milliers et les officiers de centaines, qui revenaient de la campagne militaire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקצף משה על פקודי החיל ET MOÏSE ÉTAIT EN COLÈRE CONTRE LE פקודי החיל — CONTRE CEUX NOMMÉS SUR L'ARMÉE — Cela sert à vous apprendre que chaque méfait d'une génération est attribué aux dirigeants puisque ceux-ci ont le pouvoir de protester (Sifrei Bamidbar 157 : 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:15",
+      "fr": "Moïse leur dit : « Vous avez épargné toutes les femelles !",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:16",
+      "fr": "Pourtant, ce sont eux-mêmes qui, à la demande de Balaam, ont induit la signification de Héb. hayu…limsor incertain. les Israélites à offenser DIEU dans l’affaire de Peor, de sorte que la communauté de DIEU fut frappée par la peste.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הן הנה VOICI, CES [ÉTAIT UNE SÉCURITÉ POUR LES ENFANTS D'ISRAËL] — Ceux-ci : ce mot nous dit qu'ils les ont reconnus, en disant : « C'est la femme par qui un tel est tombé dans le péché » (Yalkut Shimoni sur la Torah 785)."
+        },
+        {
+          "id": 2,
+          "fr": "בדבר בלעם [CEUX-CI ÉTAIENT UNE SÉCURITÉ] PAR LA PAROLE DE BALAAM ] Il leur avait dit : Même si vous rassemblez toutes les armées qui sont dans le monde, vous ne pouvez pas les vaincre. Êtes-vous peut-être plus nombreux que les Égyptiens qui avaient six cents chars choisis ? Venez et je vais vous donner un conseil : Leur Dieu a une haine de l'immoralité, etc., comme cela est relaté dans le chapitre חלק (Sanhédrin 106a) et dans Sifrei Bamidbar 157 : 6."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:17",
+      "fr": "Maintenant donc, tuez tous les mâles parmi les non-combattants, et tuez aussi toutes les femmes qui ont connu un homme charnellement ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל אשה ידעת איש ET CHAQUE FEMME QUI CONNAIT L'HOMME — c'est-à-dire qui est apte à la cohabitation, même si elle n'en a jamais fait l'expérience (Sifrei Bamidbar 157 : 6). Comme test, ils les faisaient passer (les femmes) devant la Plaque d'Or, et si quelqu'un était apte à cohabiter, son visage devenait vert (Yevamot 60b)."
+        },
+        {
+          "id": 2,
+          "fr": "הרגו [ET TOUTES LES FEMMES QUI PEUVENT CONNAÎTRE L'HOMME]… TUER — Pourquoi répète-t-il ce mot après l'avoir utilisé dans la première moitié de la phrase ? Il s'agit de montrer où arrive la pause dans le paragraphe. C’est également l’opinion de Rabbi Ismaël (Sifrei Bamidbar 157 : 6). Car si je lis (en omettant le mot הֲרֹגוּ‎),‎ הרגו כל זכר בטף וכל אשה ידעת איש‎ ... וכל הטף בנשים וגו׳ ‎ \"Maintenant, tuez donc tous les mâles parmi les petits... et toutes les femmes... et tous les petits parmi les femmes... gardez-les en vie\", je ne sais pas s'ils devaient tuer \"toutes les femmes\" avec les \"mâles parmi les petits\" ou les garder en vie avec les \"petits parmi les femmes\". Pour cette raison, הרגו est indiqué (ajouté) à la fin du verset."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:18",
+      "fr": "mais épargnez toutes les femmes non combattantes qui n’ont pas eu de relations charnelles avec un homme.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:19",
+      "fr": "« Vous resterez alors hors du camp sept jours ; quiconque parmi vous ou parmi vos captifs qui aura tué quelqu'un ou touché un cadavre se purifiera le troisième et le septième jour.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מחוץ למחנה [ET DEMEUREZ] À L'EXTÉRIEUR DU CAMP — Cela signifie qu'ils ne doivent pas entrer dans le parvis du sanctuaire (le מחנה שכינה cf. Rachi sur 5 : 2)."
+        },
+        {
+          "id": 2,
+          "fr": "כל הרג נפש CELUI QUI A TUÉ UNE PERSONNE — Rabbi Meir a dit : L’Écriture parle de quelqu’un qui a tué une personne avec une arme réceptive à l’impureté, et l’Écriture vous enseigne qu’« un récipient » (tout objet) rend un homme impur par la connexion ainsi formée avec le cadavre, tout comme s’il était réellement en contact avec le cadavre lui-même. Ou peut-être pourrait-on penser que même s’il avait tiré une flèche et l’avait tué (auquel cas il n’était pas « connecté » au moyen de la flèche avec l’homme qu’il avait tué), il devait rester en dehors du camp comme étant impur. Mais il est dit immédiatement après : « et quiconque aura touché quelqu'un sera tué » ; il compare la personne qui tue à celle qui touche une personne tuée. Qu’en est-il de celui qui touche un cadavre ? Il devient impur en raison de la connexion avec cela ! De même, celui qui tue devient impur uniquement à cause d'un lien avec lui (le cadavre) (Sifrei Bamidbar 127 :1 sur Nombres 19 :16)."
+        },
+        {
+          "id": 3,
+          "fr": "תתחטאו PURIFIEZ-VOUS au moyen des eaux d'aspersion, comme c'est la loi dans le cas des autres personnes devenues impures à cause d'un cadavre. Car même selon l'opinion de ceux qui disent que les tombes des païens ne rendent pas les Israélites impurs s'ils sont sous la même tente (toit) avec eux (c'est-à-dire les tombes), parce qu'il est dit (Ézéchiel 34 : 31) « Et vous, mes brebis, les brebis de mon pâturage, vous êtes des hommes », ce qui signifie : Vous seuls êtes sous le terme « hommes » (Yevamot 61a) – même ceux-là admettront que les cadavres des païens rendre un Israélite impur par contact avec eux et en les portant, car le terme אדם, homme, n'est utilisé qu'en référence à l'impureté causée par une « tente », puisqu'il déclare (Nombres 19 :14) « Si un homme (אדם) meurt dans une tente »."
+        },
+        {
+          "id": 4,
+          "fr": "אתם ושביכם [PURIFIEZ-VOUS ET VOS CAPTIFS ] Non pas que les païens soient réceptifs à l'impureté et aient donc besoin d'être aspergés, mais ces captifs sont censés être de la même catégorie que vous. Quel est votre cas vous-mêmes ? Vous êtes un peuple en alliance avec Dieu ! De même, vos captifs, lorsqu'ils entrent dans l'alliance avec Dieu, s'ils deviennent impurs, ils doivent être aspergés (Sifrei Bamidbar 157 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:20",
+      "fr": "Tu nettoieras également tout vêtement, tout objet en peau, tout ce qui est en poil de chèvre et tout objet en bois.»",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל מעשה עזים ET TOUT CE QUI EST FABRIQUÉ À PARTIR DE CHÈVRES — tout : cela sert à inclure les objets fabriqués à partir de cornes, de griffes et d'os (Chullin 25b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:21",
+      "fr": "Le prêtre Éléazar dit aux troupes qui avaient pris part aux combats : « Voici la loi rituelle que DIEU a prescrite à Moïse :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויאמר אלעזר הכהן וגו׳ ET ELEAZAR LE PRÊTRE DIT etc. — Parce que Moïse tomba dans la colère (Nombres 31:14), il tomba dans l'erreur : il lui échappa les lois concernant l'élimination des impuretés absorbées par les vases qui ont contenu la nourriture des païens. Cela aussi, trouvez-vous que c'était le cas le huitième jour de l'installation des prêtres, comme il est dit (Lévitique 10 :16) « Et Moïse se mit en colère contre Éléazar et Ithamar », — il tomba dans la colère, il tomba dans l'erreur (cf. 10 :16 qu'il s'est trompé concernant le שעיר החטאת qu'Aaron a refusé de manger). De même, quand il dit : (Nombres 20:10, Nombres 20:11) « Écoutez, maintenant, vous les rebelles »,… « il frappa le rocher » ; c'est à cause de sa colère qu'il a commis l'erreur (Sifrei Bamidbar 157 :9 ; cf. Pesachim 66b)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר צוה ה׳ וגו׳ [ET ÉLÉAZAR A DIT… C'EST L'ORDINANCE DE LA LOI] QUE LE SEIGNEUR A COMMANDÉ [MOÏSE] — il a associé la décision à son professeur (cf. Sifrei Bamidbar 157 : 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:22",
+      "fr": "Or et argent, cuivre, fer, étain et plomb…",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אך את הזהב וגו׳ SEULEMENT L'OR etc. — Éléazar a dit : Bien que Moïse vous ait seulement averti concernant les lois de l'impureté causée par le contact avec un cadavre, vous devez en outre être averti concernant les lois d'enlever tout ce qui est impur qui a été absorbé par les récipients. Le mot אך est un terme restrictif — cela revient à dire : « Il vous est interdit d'utiliser des récipients même après qu'ils ont été purifiés de l'impureté causée par un cadavre jusqu'à ce qu'ils aient été également purifiés de ce qu'ils ont absorbé de cette chair qui est interdite comme étant celle d'un animal non tué de la manière appropriée. Et nos rabbins ont dit que les mots אך את הזהב visent à laisser entendre qu'il est nécessaire d'enlever la rouille avant d'effectuer le rite d'élimination de la nourriture interdite qui a été absorbée. C'est, disent-ils, le but du terme אך, — qu'il ne devrait y avoir aucune rouille là-bas : Seul (אך) le métal — il sera comme il devrait être (le métal sans rien d'autre, comme la rouille) (Yalkut Shimoni sur la Torah 785 ; Rabbénu Asher sur Pesachim 30b déclare que cela se trouve dans Siphre, mais il manque dans nos éditions de l'ouvrage)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:23",
+      "fr": "tout article qui peut résister au feu : vous les passerez par le feu et ils seront purs, sauf qu'ils doivent être purifiés avec de l'eau de lustration ; et tout ce qui ne peut résister au feu doit passer par l'eau.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל דבר אשר יבא באש TOUT CE QUI VIENT SUR LE FEU, pour y faire bouillir quelque chose,"
+        },
+        {
+          "id": 2,
+          "fr": "תעבירו באש VOUS PASSEREZ PAR LE FEU — selon la manière dont il est utilisé, la manière dont il est nettoyé de ce qui a été absorbé : il nettoiera avec de l'eau chaude le récipient dont on utilise l'eau chaude, et celui qui est utilisé pour la viande rôtie, comme par exemple une broche et un grill, il le rendra chauffé à blanc dans la flamme (Avodah Zarah 75b)."
+        },
+        {
+          "id": 3,
+          "fr": "אך מי נדה יתחטא MAIS IL DOIT ÊTRE PURIFIÉ AVEC LES EAUX D'ASPERSION ] Selon son sens clair, cette purification consiste à le purifier de l'impureté causée par un cadavre. Il leur dit : les récipients nécessitent גיעול (la cérémonie par laquelle tout ce qui a été absorbé sera abandonné) pour les purifier de l'effet d'avoir contenu de la nourriture interdite, et aussi une purification pour les purifier de l'impureté causée par un cadavre. Mais nos rabbins ont dérivé de là la loi selon laquelle, afin de les rendre aptes à l'usage (pour les nettoyer entièrement) de l'interdiction, elle (l'Écriture) rendait l'immersion dans un bain rituel une exigence pour les récipients métalliques, et ils expliquaient les mots מי נדה qui sont écrits ici comme désignant « des eaux dans lesquelles un נדה s'immerge ». Et ça fait combien ? Quarante Seahs (Avodah Zarah 75b)."
+        },
+        {
+          "id": 4,
+          "fr": "וכל אשר לא יבא באש ET TOUT CE QUI NE VIENT PAS AU FEU, c'est-à-dire tout ce qui n'est pas utilisé sur le feu, comme par exemple les tasses et les flacons qui sont utilisés avec des articles froids et qui, par conséquent, n'absorbent aucune nourriture interdite,"
+        },
+        {
+          "id": 5,
+          "fr": "תעבירו במים VOUS PASSEREZ À TRAVERS L'EAU — Il les plonge et cela suffit. Cela concerne uniquement les ustensiles en métal (Avodah Zarah 75b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:24",
+      "fr": "Le septième jour, tu laveras tes vêtements et tu seras pur, et après cela tu pourras entrer dans le camp.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל המחנה [VOUS SEREZ PROPRES, ET APRÈS] VOUS POUVEZ VENIR DANS LE CAMP — dans le camp où est la Présence Divine (מחנה שכינה), car une personne impure à cause d'un cadavre n'a pas besoin d'être expulsée du camp des Lévites et du camp des Israélites, (mais seulement du camp de la Shechina, et par conséquent la permission d'entrer dans le camp après la purification doit signifier entrer dans le מחנה שכינה ; cf."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:25",
+      "fr": "DIEU dit à Moïse :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:26",
+      "fr": "« Vous, le prêtre Éléazar et les chefs de famille de la communauté, faites l'inventaire du butin capturé, humain et animal,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שאו את ראש signifie, FAITES LE RECENSEMENT."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:27",
+      "fr": "et diviser le butin à parts égales entre les combattants engagés dans la campagne et le reste de la communauté.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Et tu diviseras la proie en deux parties : entre ceux qui ont pris la guerre sur eux, etc. — la moitié pour ceux-ci et l'autre moitié pour elle. pour ceux-là."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:28",
+      "fr": "Vous exigerez une contribution pour DIEU : pour les guerriers qui ont combattu en campagne, un article sur cinq cents, en personnes, bœufs, ânes et moutons,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:29",
+      "fr": "sera prélevé sur leur demi-part et donné à Éléazar le prêtre comme contribution à DIEU ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:30",
+      "fr": "et sur la moitié de la part des autres Israélites, vous retrancherez un être humain sur cinquante, ainsi que du bétail, des ânes et des moutons, tous les animaux, et vous les donnerez aux Lévites, qui s'occupent des devoirs du Tabernacle de DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:31",
+      "fr": "Moïse et Éléazar le prêtre firent ce que DIEU avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:32",
+      "fr": "Le montant du butin, outre le butin que les troupes avaient pillé, s'élevait à 675 000 moutons,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויהי המלקוח יתר הבז ET LA PROIE, AU-DESSUS ET AU-DESSUS DU BUT… ÉTAIT [SIX CENT MILLE etc.] — Parce qu'il ne leur avait pas été ordonné (v. 28) de prélever un tribut sur les meubles mais seulement sur les מלקוח (les hommes et le bétail ; cf. Rachi sur v. 11) elle (l'Écriture) écrit cette expression : ויהי המלקוח, ce qui tombait sous la loi du partage (v. 27) et qui tombait aussi sous la loi du tribut — qui était en plus (יתר) le butin des meubles, אשר בזזו עם הצבא איש לו QUE LES HOMMES DE L'HÔTE AVAIT PILLÉ, CHACUN POUR LUI-MÊME, et qui n'était pas soumis à la loi du partage, — le nombre de moutons était etc. (c'est-à-dire צאן au début de la seconde moitié du verset signifie : le nombre de moutons)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:33",
+      "fr": "72 000 têtes de bétail,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:34",
+      "fr": "61 000 ânes,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:35",
+      "fr": "et un total de 32 000 êtres humains, à savoir les femelles qui n'avaient pas eu de relations charnelles.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:36",
+      "fr": "Ainsi, la moitié de ceux qui avaient participé à la campagne [était la suivante] : Le nombre de moutons était de 337 500,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:37",
+      "fr": "et le prélèvement de DIEU sur les brebis était de 675 ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:38",
+      "fr": "le bétail s'élevait à 36 000 têtes, sur lesquelles le prélèvement de DIEU était de 72 ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:39",
+      "fr": "le nombre d’ânes s’élevait à 30 500, sur lesquels le prélèvement de DIEU était de 61.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:40",
+      "fr": "Et le nombre des êtres humains était de 16 000, sur lesquels le prélèvement de Dieu était de 32.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:41",
+      "fr": "Moïse remit au prêtre Éléazar les contributions prélevées pour Dieu, comme Dieu l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:42",
+      "fr": "Quant à la moitié des autres Israélites, que Moïse retirait à ceux qui étaient entrés en campagne,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וממחצית בני ישראל אשר חצה משה ET DES ENFANTS DE LA MOITIÉ D'ISRAËL QUE MOÏSE divisa entre la congrégation et qu'il avait pris pour eux, מן האנשים הצבאים DES HOMMES QUI ONT GUERRE."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:43",
+      "fr": "cette moitié de la communauté était composée de 337 500 moutons,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותהי מחצית העדה LA MOITIÉ DE LA CONGRÉGATION ÉTAIT tel et tel en nombre (comme indiqué dans la seconde moitié de ce verset et dans les vv. 44-46)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:44",
+      "fr": "36 000 têtes de bétail,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:45",
+      "fr": "30 500 ânes,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:46",
+      "fr": "et 16 000 êtres humains.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:47",
+      "fr": "De cette demi-part des Israélites, Moïse a retenu un humain et un animal sur cinquante ; et il les donna aux Lévites, qui s'occupaient des devoirs du Tabernacle de DIEU, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקח משה וגו׳ ET MOÏSE A PRIS [DE CETTE MOITIÉ DES ENFANTS D'ISRAËL UNE PART SUR CHAQUE CINQUANTE] etc."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:48",
+      "fr": "Les chefs des divisions de troupes, les officiers de milliers et les officiers de centaines, s'approchèrent de Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הפקדים signifie CEUX QUI ONT ÉTÉ NOMMÉS (pas ceux qui ont été comptés, comme par exemple dans Nombres 3:39)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:49",
+      "fr": "Ils dirent à Moïse : « Tes serviteurs ont contrôlé les guerriers dont nous avions la garde, et aucun d'entre nous n'a disparu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא נפקד signifie IL NE MANQUE PAS. Sa traduction dans le Targum est לא שגא, ce qui signifie également en araméen « manque », tout comme les mots (Genèse 31 :39) אנכי אחטנה « Je comblerai le manque » sont traduits dans le Targum par דהות שגיא. ממנינא ce qui manquait du nombre (cf. Rachi sur ce verset), et donc aussi (I Samuel 20 :18) « Pour ton siège יִפָּקֵד », c'est-à-dire que l'endroit où tu étais assis manquera de l'homme qui s'y asseyait habituellement. Et il en est de même (I Samuel 20 : 15) « וַיִפָּקֵד la place de David » – sa place manquait, et personne n’y était assis."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:50",
+      "fr": "Nous avons donc apporté en offrande à DIEU les objets en or que chacun de nous a trouvés : des brassards, des bracelets, des chevalières, des boucles d'oreilles et des pendentifs, pendentifs Signification de Héb. kumaz incertain; cf. Exode. 35.22. afin que l'expiation soit faite pour nos personnes devant DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אצעדה — Ce sont des BANDES POUR LE PIED (bracelets de cheville)."
+        },
+        {
+          "id": 2,
+          "fr": "וצמיד sont des BANDES POUR LA MAIN (bracelets)."
+        },
+        {
+          "id": 3,
+          "fr": "Ce sont des BOUCLES D'OREILLES."
+        },
+        {
+          "id": 4,
+          "fr": "וכומז est un ornement en forme de ventre maternel – pour expier les pensées que leur cœur avait entretenues pour les filles de Madian (Chabbat 64a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 31:51",
+      "fr": "Moïse et le prêtre Éléazar acceptèrent d'eux leur or et toutes sortes d'objets ouvragés.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:52",
+      "fr": "Tout l’or offert par les officiers de milliers et les officiers de centaines en guise de contribution à DIEU s’élevait à 16 750 shekels.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:53",
+      "fr": "Mais dans les rangs, chacun gardait son butin pour soi.—",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 31:54",
+      "fr": "Moïse et le prêtre Éléazar acceptèrent donc l'or des chefs de milliers et des chefs de centaines et l'apportèrent à la tente d'assignation, en guise de rappel pour les Israélites devant Dieu.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:1",
+      "fr": "Les Rubénites et les Gadites possédaient un très grand nombre de troupeaux. Sachant que les terres de Jazer et de Galaad étaient une région propice au bétail,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:2",
+      "fr": "les Gadites et les Rubénites, les Gadites et les Rubénites, ou leurs chefs, pour les tribus. vint vers Moïse, le prêtre Éléazar et les chefs de la communauté, et leur dirent :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:3",
+      "fr": "« Ataroth, Dibon, Jazer, Nimra, Heshbon, Elealeh, Sebam, Nebo et Beon :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עטרות ודיבון וגו׳ ATOROTH ET DIBON etc. — Ceux-ci appartenaient au pays de Sihon et d'Og."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:4",
+      "fr": "le pays que Dieu a conquis pour la communauté d'Israël est un pays de bétail, et vos serviteurs ont du bétail.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:5",
+      "fr": "Ce serait une faveur pour nous, continuèrent-ils, si cette terre était donnée en propriété à vos serviteurs ; ne nous faites pas traverser le Jourdain.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:6",
+      "fr": "Moïse répondit aux Gadites et aux Rubénites : « Vos frères partiront-ils à la guerre pendant que vous restez ici ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "האחיכם SERONT VOS FRÈRES ] Cela dénote une question. (c'est-à-dire que le préfixe ה est la particule interrogative)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:7",
+      "fr": "Pourquoi détournerez-vous l’esprit des Israélites de la traversée vers le pays que DIEU leur a donné ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולמה תניאון signifie ET POURQUOI VOUS DÉVIEZ-VOUS ET RETENEZ-VOUS leur cœur de passer ? — parce qu'ils penseront que vous avez peur de passer outre, à cause de la perspective d'une guerre et de la force des villes et des peuples."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:8",
+      "fr": "C'est ce qu'ont fait vos pères lorsque je les ai envoyés de Kadès-Barnéa pour inspecter le pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מקדש ברנע DE KADESH-BARNEA — c'était son nom. Il y avait deux lieux appelés Kadesh (c'est pourquoi celui-ci se distingue de l'autre en s'appelant Kadesh-Barnea)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:9",
+      "fr": "Après être montés au wadi Eshcol et avoir inspecté le pays, ils détournèrent l'esprit des Israélites d'envahir le pays que DIEU leur avait donné.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:10",
+      "fr": "Alors DIEU fut furieux et jura :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:11",
+      "fr": "« Aucune des personnes impliquées, c’est-à-dire les milices ; voir note à 14h29. à partir de vingt ans, ceux qui sortiront d'Égypte verront le pays que j'ai promis par serment à Abraham, Isaac et Jacob, car ils ne me sont pas restés fidèles.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:12",
+      "fr": "nul, sauf Caleb, fils de Jephunné, le Kenizzite, et Josué, fils de Noun, car ils sont restés fidèles à Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הקנזי [CALEB LE FILS DE JEPHUNNEH] LE KENEZITE — Il (Caleb) était le beau-fils de Kenaz (et donc il est appelé ici le Kenezite), et la mère de Caleb lui enfanta Othniel (à Kenaz) (et pour cette raison Othniel, le fils de Kenaz est décrit dans Josué 15 : 17 comme le frère de Caleb) (Sotah 11b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:13",
+      "fr": "Irrité contre Israël, DIEU les fit errer dans le désert pendant quarante ans, jusqu’à ce que toute la génération qui avait provoqué le mécontentement de DIEU disparaisse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וינעם signifie, ET IL LES A DÉPLACES ; le mot a la même racine que נע dans (Genèse 4 :12) « un vagabond (נע) et un vagabond »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:14",
+      "fr": "Et maintenant vous, une race d’hommes pécheurs, une race d’hommes pécheurs ou « augmentant [les rangs] des hommes pécheurs ». avez remplacé vos pères, pour ajouter encore à la colère de DIEU contre Israël.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לספות a un sens similaire aux verbes de (Ésaïe 29 :1) : « ajouter (ספו) d'année en année » ; ( 7:21) : « ajoutez (ספו) vos holocaustes » — une expression désignant l'ajout (la traduction est : pour ajouter encore plus à la colère féroce du Seigneur contre Israël)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:15",
+      "fr": "Si vous vous détournez de [Dieu], qui les abandonne ensuite une fois de plus dans le désert, vous attirerez le malheur sur tout ce peuple.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:16",
+      "fr": "Alors ils s'approchèrent de lui et lui dirent : « Nous bâtirons ici des bergeries pour nos troupeaux et des villes pour nos dépendants.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נבנה למקננו פה NOUS CONSTRUISONS ICI [ DES PLIS À MOUTONS ] POUR NOS BÉTAILS ] Ils accordaient plus d'importance à leurs biens qu'à leurs fils et filles, car ils mentionnaient leur bétail avant leurs enfants. Moïse leur dit : \"Non ! Faites de ce qui est principal ce qui est principal et de ce qui est subordonné ce qui est subordonné. Construisez d'abord des villes pour vos petits et ensuite des enclos pour vos troupeaux\" (cf. v. 24) (Midrash Tanchuma, Matot 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:17",
+      "fr": "Et nous hâterons la signification de Héb. Hushim incertain. comme troupes de choc à l'avant-garde des Israélites jusqu'à ce que nous les ayons établis dans leur maison, tandis que nos dépendants restent dans les villes fortifiées à cause des habitants du pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואנחנו נחלץ חשים signifie, ET NOUS NOUS ARMERONS RAPIDEMENT, le dernier mot étant le même que dans (Ésaïe 8:3) : « le butin se hâte, la proie s'empresse (חש) » et dans (Ésaïe 5 :19), « Qu'il se hâte, qu'il accélère. »"
+        },
+        {
+          "id": 2,
+          "fr": "לפני בני ישראל AVANT LES ENFANTS D'ISRAËL - c'est-à-dire à la tête des troupes, parce qu'ils étaient des hommes puissants ; car ainsi est-il dit de Gad, (Deutéronome 30 :20) : « Il déchire le bras et le sommet de la tête ». Moïse leur a clairement déclaré ceci dans Sedrah אלה הדברים (Deutéronome 3 : 18) : « Et je vous ai commandé en ce temps-là… Vous passerez armés devant les enfants d'Israël, vous tous, hommes vaillants ». Et concernant le siège de Jéricho, il est écrit (Josué 6 :13) : « Et les hommes armés (החלוץ) marchaient devant eux » — cela fait référence aux tribus de Ruben et de Gad qui remplissaient ainsi les conditions qu'elles avaient fixées."
+        },
+        {
+          "id": 3,
+          "fr": "וישב טפנו ET NOS PETITS RESTERONT, aussi longtemps que nous serons avec nos frères en guerre,"
+        },
+        {
+          "id": 4,
+          "fr": "בערי המבצר DANS LES VILLES FORTIFIÉES que nous allons maintenant construire (cf. v. 16 avec v. 36)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:18",
+      "fr": "Nous ne retournerons pas chez nous tant que les autres Israélites ne seront pas en possession de leur part.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:19",
+      "fr": "Mais nous n’aurons pas de part avec eux au-delà du Jourdain, car nous avons reçu notre part à l’est du Jourdain.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מעבר לירדן וגו׳ DU CÔTÉ DU JORDANIE ET ​​LÀ-BAS — c'est-à-dire du côté ouest."
+        },
+        {
+          "id": 2,
+          "fr": "כי באה נחלתנו CAR NOTRE HÉRITAGE EST VENU [À NOUS] — Cela signifie : à ce moment-là, nous l'aurons déjà reçu du côté oriental."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:20",
+      "fr": "Moïse leur dit : « Si vous faites cela, si, à la demande de Dieu, vous partez au combat comme troupes de choc,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:21",
+      "fr": "et, à la demande de Dieu, tous ceux qui se battent parmi vous traversent le Jourdain, jusqu'à ce que [Dieu] ait directement dépossédé les ennemis,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:22",
+      "fr": "et le pays a été soumis à la demande de DIEU, et alors vous revenez — vous serez clair devant DIEU et devant Israël ; et ce pays sera votre propriété sous DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:23",
+      "fr": "Mais si vous ne le faites pas, vous aurez péché contre DIEU ; et sachez que votre péché vous rattrapera.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:24",
+      "fr": "Construisez des villes pour vos enfants et des bergeries pour vos troupeaux, mais faites ce que vous avez promis.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לצנאכם POUR VOS MOUTONS — Ce mot vient de la forme nominale qui se trouve dans (Psaumes 8 : 8) : « des moutons (צנה) et des bœufs, tous », où, également, il n'y a pas de א intermédiaire entre le נ et le צ. Le א qui vient ici après le נ est à la place du ה de צנה (et לצנאכם n'est pas la même forme que לצאנכם avec une inversion du א et du נ). J'ai appris cela grâce au travail de Rabbi Moïse le Prédicateur."
+        },
+        {
+          "id": 2,
+          "fr": "והיצא מפיכם תעשו ET FAITES CE QUI EST SORTI DE VOTRE BOUCHE, comme un vœu au Dieu Très-Haut (cf. Nombres 30:3), parce que vous avez pris sur vous de passer par la guerre jusqu'à la fin de l'assujettissement et de la division du pays ; — car Moïse leur demanda seulement (v. 22) : « Que [le pays] soit soumis et ensuite vous reviendrez », mais ils s'engageèrent, (v. 18) : « [nous ne retournerons pas dans nos maisons] jusqu'à ce que [les enfants d'Israël] aient hérité », ainsi vous voyez qu'ils ont fait une promesse supplémentaire, de rester du côté occidental les sept années pendant lesquelles ils se partageaient le pays. Et c’est effectivement ce qu’ils ont fait (cf. Josué XXII.)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:25",
+      "fr": "Les Gadites et les Rubénites répondirent à Moïse : « Tes serviteurs feront ce que mon seigneur commande.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויאמר בני גד ET LES ENFANTS DE GAD DIT, tous comme un seul homme (ויאמר est la forme singulière du verbe, tandis que le sujet בגי גד est le pluriel ; cf. Rachi sur Exode 19 : 2 s. v.)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:26",
+      "fr": "Nos enfants, nos femmes, nos troupeaux et tout notre bétail resteront derrière Lit. \"là.\" dans les villes de Galaad ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:27",
+      "fr": "tandis que vos serviteurs, tous ceux recrutés pour la guerre, traversent à la demande de DIEU, pour engager la bataille, comme mon seigneur l'ordonne.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:28",
+      "fr": "Moïse donna alors des instructions à leur sujet au prêtre Éléazar, à Josué, fils de Noun, et aux chefs de famille des tribus israélites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": ". ויצו להם ET IL A DONNÉ LA CHARGE ] C'est la même chose que, et il a donné la charge à leur sujet. Les mots impliquent : et pour veiller à l'accomplissement de l'accord qu'ils avaient conclu, il nomma Éléazar et Josué. L'utilisation du ל dans להם ici est la même que dans (Exode 14 :14) : \"Le Seigneur combattra לכם pour vous.\""
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:29",
+      "fr": "Moïse leur dit : « Si tous les combattants parmi les Gadites et les Rubénites traversent le Jourdain avec vous pour combattre à la demande de Dieu, et que le pays soit soumis devant vous, vous leur donnerez le pays de Galaad comme propriété.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:30",
+      "fr": "Mais s’ils ne passent pas avec vous en troupes de choc, ils prendront possession parmi vous au pays de Canaan.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:31",
+      "fr": "Les Gadites et les Rubénites répondirent : « Tout ce que Dieu a dit concernant vos serviteurs, nous le ferons.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:32",
+      "fr": "Nous traverserons nous-mêmes comme troupes de choc, à la demande de DIEU, le pays de Canaan ; et nous conserverons notre propriété héréditaire de l'autre côté du Jourdain. »de l'autre côté du Jourdain, c'est-à-dire en Transjordanie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואתנו אחזת נחלתנו ET QUE LA POSSESSION DE NOTRE HÉRITAGE SOIT AVEC NOUS [DE CE CÔTÉ DU JORDANIE] — cela revient à dire : (ואתנו) entre nos mains et en notre propriété, que la possession de notre héritage soit de ce côté-ci."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:33",
+      "fr": "Moïse assigna donc aux Gadites, aux Rubénites et à la demi-tribu de Manassé, fils de Joseph, le royaume de Sihon, roi des Amoréens, et le royaume d'Og, roi de Basan, le pays avec ses différentes villes et les territoires de leurs environs.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:34",
+      "fr": "Les Gadites rebâtirent Dibon, Ataroth, Aroer,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:35",
+      "fr": "Atroth-Shophan, Jazer, Jogbeha,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:36",
+      "fr": "Beth-Nimra et Beth-Haran comme villes fortes ou comme enclos pour les troupeaux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ערי מבצר וגדרת צאן VILLES FORTIFIÉES ET ENCLOS POUR LES MOUTONS — Cette fin du verset doit être reliée au début du paragraphe (v. 24) : Et les enfants de Gad bâtirent ces villes pour être des villes fortes et des enclos pour les moutons."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:37",
+      "fr": "Les Rubénites rebâtirent Heshbon, Elealeh, Kiriathaïm,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:38",
+      "fr": "Nebo, Baal-meon – certains noms ont été modifiés – et Sibmah ; ils ont donné des noms aux villes qu'ils ont reconstruites.gils ont donné des noms aux villes qu'ils ont reconstruites Cf. vv. 41, 42.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת נבו ואת בעל מעון מוסבת שם ET NEBO ET ET BAAL-MEON, LEURS NOMS ÉTANT CHANGÉS ] Nebo et Baal-Meon étaient des noms d'idoles, et les Ammonites appelaient leurs villes par les noms de leurs dieux. Les enfants de Ruben changèrent donc leurs noms en d’autres noms. C'est la signification de מוסבת שם : Nebo et Baal-Meon ont été changés en d'autres noms."
+        },
+        {
+          "id": 2,
+          "fr": "ואת שבמה ET SIBMAH — c'est-à-dire qu'ils ont également construit (cf. v. 37) Sibmah. Ceci est identique à Sebam mentionné ci-dessus (v. 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:39",
+      "fr": "Les descendants de Makir, fils de Manassé, allèrent en Galaad et s'en emparèrent, dépossédant les Amoréens qui s'y trouvaient ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויורש — Comprenez cela comme le fait le Targum « ET IL CHASSA », car l'expression ריש est utilisée dans deux sens différents, dans le sens de ירושה (le Kal), « hériter », et dans le sens de הורשה (le Hiphil) qui dénote chasser et expulser (voir Rachi sur Nombres 14 :24)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:40",
+      "fr": "Moïse donna donc Galaad à Makir, fils de Manassé, et il s'y installa.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 32:41",
+      "fr": "Jaïr, fils de Manassé, s'en alla et s'empara de leurs villages, de leurs villages ou « les villages de Cham » ; cf. Gén. 14.5. qu'il renomma Havvoth-jair.iHavvoth-jair, c'est-à-dire « les villages de Jair ».",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חותיהם Ceci est rendu dans le Targum par LEURS VILLAGES."
+        },
+        {
+          "id": 2,
+          "fr": "ויקרא אתהן חות יאיר ET IL LES A APPELÉS « LES VILLAGES DE JAIR » — Parce qu'il n'avait pas d'enfants, il leur a donné son nom, en souvenir."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 32:42",
+      "fr": "Et Nobah partit et prit Kenath et ses dépendances, et il lui donna son nom Nobah.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקרא לה נבח ET IL L'APPELAIT NOBAH — Le mot לה n'a pas de Mappik dans le ה (comme le mot לָהּ \"à lui\", l'a généralement). Maintenant, j'ai vu ce qui suit dans le travail de R. Moïse le Prédicateur : Parce que ce nom ne lui est pas resté de façon permanente, donc la lettre ה est faible (sans Mappik), — l'implication de son explication étant qu'elle (le mot לה) est la même que לא « non ». Mais je me demande quelle explication il donnera des deux mots similaires, (Ruth 2 :14) : « Et Boaz dit לָה », et (Zacharie 5 :11) : « construire une maison לָה »."
+        }
+      ]
+    }
+  ]
+}

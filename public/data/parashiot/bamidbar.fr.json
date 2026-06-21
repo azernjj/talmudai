@@ -1,0 +1,1178 @@
+{
+  "name": "Bamidbar",
+  "range": "Numbers 1:1-4:20",
+  "verses": [
+    {
+      "ref": "Numbers 1:1",
+      "fr": "Le premier jour du deuxième mois, la deuxième année après la sortie du pays d'Égypte, Dieu parla à Moïse dans le désert du Sinaï, dans la tente d'assignation, en disant :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וידבר… במדבר סיני … באחד לחדש וגו׳ ET [LE SEIGNEUR] PARLA [À MOÏSE] DANS LE DÉSERT DU SINAÏ… LE PREMIER JOUR DU [DEUXIÈME] MOIS… [PRENDEZ LA SOMME DE TOUTE LA CONGRÉGATION] etc. — Parce qu'ils lui étaient chers, Il les compte de temps en temps : lorsqu'ils sortaient d'Egypte, Il les comptait (Exode 12 : 37), lorsque beaucoup d'entre eux tombaient à cause de leur culte du veau d'or, Il les comptait pour connaître le nombre de ceux qui restaient (cf. Rachi Exode 30 : 16) ; alors qu'il était sur le point de faire habiter Sa Chechinah parmi eux (c'est-à-dire lorsqu'Il leur ordonna de faire un Tabernacle), Il fit de nouveau leur recensement ; car le premier jour de Nisan, le Tabernacle fut érigé (Exode 40 :2) et peu de temps après, le premier jour d'Iyar, Il les compta."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:2",
+      "fr": "Faites un recensement de toute la communauté israélite, de toute la communauté israélite ou de ceux qui sont éligibles pour combattre au nom de la communauté. par les clans de ses maisons ancestrales, les bits des maisons ancestrales, c'est-à-dire ses tribus. énumérant les noms de chaque mâle, tête par tête.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למשפחתם — [PRENDEZ LA SOMME DE LA CONGRÉGATION…] APRÈS LEURS FAMILLES — afin de connaître le nombre d'individus dans chaque tribu."
+        },
+        {
+          "id": 2,
+          "fr": "לבית אבתם PAR LA MAISON DE LEURS PÈRES — Celui dont le père appartient à une tribu et sa mère à une autre tribu doit prendre position avec la tribu de son père (cf. Bava Batra 109b)."
+        },
+        {
+          "id": 3,
+          "fr": "לגלגלתם PAR LEURS SONDAGES — i. e. au moyen de shekels — « un beka une tête (לגלגלת) », comme cela a été prescrit à une occasion précédente (Exode 38 :26)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:3",
+      "fr": "Toi et Aaron, vous les enregistrerez par groupes, depuis l'âge de vingt ans, tous ceux d'Israël capables de porter les armes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל יצא צבא [À PARTIR DE VINGT ANS ET PLUS] TOUS QUI SORTENT VERS L'HÔTE ] Cela nous dit que personne de moins de vingt ans ne sort vers l'hôte (cf. Rachi sur Exode 30 : 14 et note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:4",
+      "fr": "Vous serez accompagné d'un représentant de chaque tribu, chacun étant le chef de sa maison ancestrale.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואתכם יהיו ET AVEC VOUS IL Y AURA [UN HOMME DE CHAQUE TRIBU] — quand vous les dénombrerez, il y aura avec vous les princes de chaque tribu."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:5",
+      "fr": "Voici les noms des hommes qui vous assisteront : de Ruben, Elizur, fils de Shedeur.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:6",
+      "fr": "De Siméon, Shelumiel, fils de Zurishaddaï.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:7",
+      "fr": "De Juda, Nahshon, fils d'Amminadab.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:8",
+      "fr": "D'Issacar, Nthanel, fils de Zuar.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:9",
+      "fr": "De Zabulon, Eliab, fils d'Hélon.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:10",
+      "fr": "Des fils de Joseph : d'Éphraïm, Elishama, fils d'Ammihud ; de Manassé, Gamaliel, fils de Pedahtsur.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:11",
+      "fr": "De Benjamin, Abidan, fils de Gideoni.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:12",
+      "fr": "De Dan, Ahiézer, fils d'Ammishaddaï.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:13",
+      "fr": "D'Aser, Pagiel, fils d'Ochran.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:14",
+      "fr": "De Gad, Eliasaph, fils de Deuel.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:15",
+      "fr": "De Nephtali, Ahira, fils d'Enan.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:16",
+      "fr": "Tels sont les élus de l'assemblée, les chefs de leurs tribus ancestrales : ce sont les chefs des contingents d'Israël.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אלה קרואי העדה C'ÉTAIT CEUX APPELÉS DE LA CONGRÉGATION — ceux qui étaient appelés pour chaque question importante qui se passait dans la congrégation."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:17",
+      "fr": "Moïse et Aaron prirent donc ces hommes désignés par leur nom,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "האנשים האלה [ET MOÏSE ET AARON] A PRIS CES HOMMES — ces douze princes."
+        },
+        {
+          "id": 2,
+          "fr": "אשר נקבו QUI lui ONT ÉTÉ MENTIONNÉS (Moïse) ici בשמות PAR NOM."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:18",
+      "fr": "et le premier jour du deuxième mois, ils convoquèrent toute la communauté, toute la communauté Voir note au v. 2. qui étaient enregistrés par clans de leurs maisons ancestrales, les noms de ceux âgés de vingt ans et plus étant énumérés tête par tête.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויתילדו על משפחותם ILS DÉCLARENT LEUR PEDIGREE APRÈS LEURS FAMILLES — Ils apportèrent les archives de leur pedigree et des témoins pour confirmer la présomption répandue concernant leur filiation, afin que chacun puisse établir son pedigree par rapport à la tribu particulière (cf. Yalkut Shimoni sur la Torah 684)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:19",
+      "fr": "Comme DIEU l'avait ordonné à Moïse, il les enregistra dans le désert du Sinaï.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:20",
+      "fr": "Ils totalisèrent comme suit : Les descendants de Ruben, premier-né d'Israël, l'enregistrement des clans de leur maison ancestrale, énumérés par nom, tête par tête, tous les mâles âgés de vingt ans et plus, tous ceux en état de porter les armes.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:21",
+      "fr": "les inscrits de la tribu de Ruben : 46 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:22",
+      "fr": "Des descendants de Siméon, l'enregistrement des clans de leur maison ancestrale, leur inscription nominative, tête par tête, tous les mâles âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:23",
+      "fr": "les inscrits de la tribu de Siméon : 59 300.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:24",
+      "fr": "Parmi les descendants de Gad, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:25",
+      "fr": "les inscrits de la tribu de Gad : 45 650.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:26",
+      "fr": "Parmi les descendants de Juda, l'enregistrement des clans de leur maison ancestrale, énumérés par nom, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:27",
+      "fr": "les inscrits de la tribu de Juda : 74 600.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:28",
+      "fr": "Parmi les descendants d'Issacar, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:29",
+      "fr": "les inscrits de la tribu d'Issacar : 54 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:30",
+      "fr": "Parmi les descendants de Zabulon, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:31",
+      "fr": "les inscrits de la tribu de Zabulon : 57 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:32",
+      "fr": "Descendants de Joseph : Descendants d'Éphraïm, enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:33",
+      "fr": "ceux de la tribu d'Éphraïm : 40 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:34",
+      "fr": "Parmi les descendants de Manassé, l'enregistrement des clans de leur maison ancestrale, énumérés par nom, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:35",
+      "fr": "ceux de la tribu de Manassé : 32 200.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:36",
+      "fr": "Parmi les descendants de Benjamin, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:37",
+      "fr": "ceux de la tribu de Benjamin inscrits : 35 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:38",
+      "fr": "Parmi les descendants de Dan, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:39",
+      "fr": "ceux de la tribu de Dan inscrits : 62 700.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:40",
+      "fr": "Parmi les descendants d'Aser, l'enregistrement des clans de leur maison ancestrale, énumérés par nom, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:41",
+      "fr": "ceux de la tribu d'Aser inscrits : 41 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:42",
+      "fr": "[Parmi] les descendants de Nephtali, l'enregistrement des clans de leur maison ancestrale, énumérés nominativement, âgés de vingt ans et plus, tous ceux en état de porter les armes :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:43",
+      "fr": "ceux de la tribu de Nephtali : 53 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:44",
+      "fr": "Tels sont les inscriptions enregistrées par Moïse et Aaron et par les chefs d'Israël, qui étaient au nombre de douze, un pour chaque maison ancestrale.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:45",
+      "fr": "Tous les Israélites âgés de vingt ans et plus, recensés par maisons ancestrales, tous ceux en Israël qui pouvaient porter les armes,",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:46",
+      "fr": "le nombre total des inscrits s'élevait à 603 550.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:47",
+      "fr": "Les Lévites, cependant, n’étaient pas enregistrés parmi eux par leur tribu ancestrale.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:48",
+      "fr": "Car DIEU avait parlé à Moïse, en disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 1:49",
+      "fr": "N'enregistrez sous aucun prétexte la tribu de Lévi et ne la recensez pas avec les Israélites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אך את מטה לוי לא תפקד SEULEMENT TU NE NUMÉROTERAS PAS LA TRIBU DE LÉVI — La légion du Roi est digne d'être numérotée par elle-même (cf. Midrash Tanchuma, Bamidbar 15). — Une autre explication est : Le Saint, béni soit-Il, a prévu qu'un décret serait rendu une fois contre tous ceux qui avaient été dénombrés depuis vingt ans et au-dessus, à savoir qu'ils mourraient dans le désert (Nombres 14 : 29). Il dit donc : Que ceux-ci (les Lévites) ne soient pas inclus parmi ceux qui sont maintenant comptés, auquel cas ils doivent mourir, parce qu'ils sont à moi, puisqu'ils n'ont pas péché en adorant le veau d'or (cf. Nombres Rabba 3 : 7 ; Bava Batra 121b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:50",
+      "fr": "Tu confieras aux Lévites la responsabilité du Tabernacle du Pacte, de tous ses meubles et de tout ce qui s'y rapporte : ils porteront le Tabernacle et tous ses meubles, et ils l'entretiendront ; et ils camperont autour du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואתה הפקד את הלוים MAIS TU NOMMEREZ LES LÉVITES SURVEILLANTS [ SUR LE TABERNACLE etc.] — Comprenez le mot הפקד comme le fait le Targum : ,מני « nommer » ; cela (le mot מני) est une expression pour désigner une personne pour contrôler la chose sur laquelle elle a été nommée ; il en va de même (Esther 2:3) « et que le roi nomme (ויפקד) des officiers »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:51",
+      "fr": "Lorsque le Tabernacle doit être déployé, les Lévites le démonteront, et lorsque le Tabernacle doit être dressé, les Lévites le dresseront ; tout étranger qui empiètera sera mis à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יורידו אתו [ET QUAND LA DEMEURE EST MIS EN AVANT] LES LÉVITES LA DÉMONTERONT ] Comprenez יורידו comme le fait le Targum : ils le démonteront. Chaque fois qu'ils étaient sur le point de partir pour un voyage dans le désert d'une station à une autre (cf. Rachi Exode 40 : 38), ils démontaient la structure (lit., ils la démontaient de son état d'édification) et la portaient à l'endroit où la nuée demeurait ensuite, et là ils campaient et l'érigeaient (le Tabernacle)."
+        },
+        {
+          "id": 2,
+          "fr": "והזר הקרב ET LE LAÏQUE QUI VIENT PRÈS de leur service,"
+        },
+        {
+          "id": 3,
+          "fr": "יומת SERA MIS À MORT par le ciel (et non par décision du tribunal) (cf. Sanhédrin 84a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:52",
+      "fr": "Les Israélites camperont troupe par troupe, chaque [ménage] avec sa division et chacun sous son étendard.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואיש על דגלו [ET LES ENFANTS D'ISRAËL CAMPERONT, CHAQUE HOMME PAR SON PROPRE CAMP] ET CHAQUE HOMME SELON SON PROPRE NORME, tout comme l'ordre des bannières est donné dans ce Livre (Nombres) — trois tribus pour chaque bannière."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:53",
+      "fr": "Les Lévites camperont cependant autour du Tabernacle du Pacte, afin que la colère ne frappe pas la communauté israélite ; les Lévites monteront la garde autour du Tabernacle du Pacte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא יהיה קצף QU'IL N'Y A PAS DE COLÈRE [CONTRE LA CONGRÉGATION] — Si vous agissez selon Mes commandements, il n'y aura pas de colère, mais sinon, — c'est-à-dire si des étrangers participent à ce leur service (des Lévites), il y aura de la colère, tout comme nous le trouvons lors de l'incident avec Coré (Nombres 17 : 11) : « car la colère s'est manifestée [du Seigneur] »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 1:54",
+      "fr": "Les Israélites firent en conséquence ; Ils firent ce que Dieu avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:1",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:2",
+      "fr": "Les Israélites camperont chaque [ménage] avec son étendard, sous les bannières de leur maison ancestrale ; ils camperont à distance autour de la Tente d'assignation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "באתת [CHAQUE HOMME DES ENFANTS D'ISRAËL CAMPERA SELON SON PROPRE ÉTANCHE] AVEC LES SIGNES [DES MAISONS DE LEURS PÈRES] - Chaque bannière aura un signe différent - un morceau de tissu coloré y sera accroché, la couleur de l'un n'étant pas la même que celle de l'autre, mais la couleur de chaque tribu sera comme celle de sa pierre qui est fixée dans le pectoral (de. Exode 28:21), et ainsi tout le monde pourra reconnaître sa bannière. Une autre explication de באתת לבית אבתם est : par les signes (c'est-à-dire suivant les signes) que leur père Jacob leur a donnés séparément lorsqu'ils l'ont emmené hors d'Égypte, comme il est dit (Genèse 50 : 12) « Et ses fils le traitèrent exactement comme il leur avait ordonné ». Car il avait ordonné que Juda, Issacar et Zabulon le portent, ayant leur position du côté est du cercueil, Ruben, Siméon et Gad du côté sud, etc., — comme cela est relaté dans Tanchuma sur cette section (Midrash Tanchuma, Bamidbar 12 ; cf. Rachi sur Genèse 50 :12)."
+        },
+        {
+          "id": 2,
+          "fr": "מנגד À UNE QUELQUE DISTANCE [AUTOUR DE LA TENTE DÉSIGNÉE, ILS CAMPERONT] — à une distance d'un mile (2000 coudées), car il est dit : (Josué 3:4) « Pourtant, il y aura entre vous (les Israélites) et elle (l'Arche), environ deux mille coudées » ; la raison de cette distance, qui était celle d'un voyage d'un jour de sabbat, était qu'ils pouvaient venir à proximité du Tabernacle pour s'instruire le jour du sabbat, car Moïse, Aaron et ses fils et les Lévites campaient tout près de lui (Bemidbar Rabbah 2 :9 ; cf. Exode 33 :7 et Rachi là-dessus)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 2:3",
+      "fr": "Campé sur le front, ou côté est : l'étendard de la division de Juda, troupe par troupe. Chef des Judaites : Nahshon, fils d'Amminadab.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קדמה signifie DEVANT, qui s'exprime par קדם ; et de quel côté est-ce ? Le côté est (מזרחה), et par conséquent l'ouest, est appelé אחור, l'envers du monde (cf. Rachi sur Exode 27 : 13 et la note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 2:4",
+      "fr": "Sa troupe, telle qu'enrôlée : 74 600.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:5",
+      "fr": "Camping à côté : La tribu d'Issachar. Chef des Issacharites : Nthanel, fils de Zuar.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:6",
+      "fr": "Sa troupe, telle qu'enrôlée : 54 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:7",
+      "fr": "La tribu de Zabulon. Chef des Zabulunites : Eliab, fils d'Hélon.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:8",
+      "fr": "Sa troupe, telle qu'enrôlée : 57 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:9",
+      "fr": "Total des enrôlés dans la division de Juda : 186 400, pour toutes les troupes. Ceux-là marcheront les premiers.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ראשנה יסעו CEUX-CI PREMIER VOYAGE — Quand ils virent la nuée partir, les prêtres sonnèrent des trompettes et le camp de Juda partit le premier, mais en marchant, ils marchèrent en conservant les positions dans lesquelles ils campaient toujours : les Lévites et les chariots au centre (v. 17), la division de Juda à l'Est (v. 8), celle de Ruben au Sud, Celui d’Éphraïm à l’Ouest (v. 19) et celui de Dan au Nord (v. 25)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 2:10",
+      "fr": "Au sud : l'étendard de la division de Ruben, troupe par troupe. Chef des Rubénites : Elizur, fils de Shedeur.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:11",
+      "fr": "Sa troupe, telle qu'enrôlée : 46 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:12",
+      "fr": "Camping à côté : La tribu de Siméon. Chef des Siméonites : Shelumiel, fils de Zurishaddai.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:13",
+      "fr": "Sa troupe, telle qu'enrôlée : 59 300.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:14",
+      "fr": "Et la tribu de Gad. Chef des Gadites : Eliasaph, fils de Reuel.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:15",
+      "fr": "Sa troupe, telle qu'enrôlée : 45 650.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:16",
+      "fr": "Total des enrôlés dans la division Ruben : 151 450, pour toutes les troupes. Ceux-ci marcheront en second.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:17",
+      "fr": "Alors, à mi-chemin entre les divisions, la Tente d'assignation, la division des Lévites, se déplacera. Pendant qu'ils campent, ils marcheront, chacun en position, selon ses étendards.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונסע אהל מועד ET LA TENTE DE RÉUNION DEVRONT AVANCER après ces deux divisions (celles de Juda et Ruben), comme le montre la position de cette déclaration dans le récit."
+        },
+        {
+          "id": 2,
+          "fr": "כאשר יחנו כן יסעו QUAND ILS CAMPERONT AINSI ILS VOYAGERONENT — tout comme je l'ai expliqué (v. 9) : leurs positions en marche seront les mêmes qu'en campant — chaque division marche du côté qui lui est assigné."
+        },
+        {
+          "id": 3,
+          "fr": "על ידו signifie, à sa place. Le terme יד ne perd même pas dans ce sens son sens originel, à savoir celui de « main » — la zone à côté de soi est appelée על ידו « celle qui est par sa main », étant celle qui est la plus proche de lui, et toujours à la portée de sa main (et non au-delà) ; en son aise dans O. F."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 2:18",
+      "fr": "A l'ouest : l'étendard de la division d'Éphraïm, troupe par troupe. Chef des Éphraïmites : Elishama, fils d'Ammihud.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:19",
+      "fr": "Sa troupe, telle qu'enrôlée : 40 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:20",
+      "fr": "A côté : la tribu de Manassé. Chef des Manassites : Gamaliel, fils de Pedahtsur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועליו — Comprenez cela comme le fait le Targum : et ceux qui étaient proches de lui étaient la tribu de Manassé."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 2:21",
+      "fr": "Sa troupe, telle qu'enrôlée : 32 200.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:22",
+      "fr": "Et la tribu de Benjamin. Chef des Benjaminites : Abidan, fils de Gideoni.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:23",
+      "fr": "Sa troupe, telle qu'enrôlée : 35 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:24",
+      "fr": "Total des enrôlés dans la division d'Éphraïm : 108 100 pour toutes les troupes. Ceux-ci marcheront en troisième.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:25",
+      "fr": "Au nord : l'étendard de la division de Dan, troupe par troupe. Chef des Danites : Ahiézer, fils d'Ammishaddaï.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:26",
+      "fr": "Sa troupe, telle qu'enrôlée : 62 700.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:27",
+      "fr": "Camping à côté : La tribu d'Aser. Chef des Ashériens : Pagiel, fils d'Ochran.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:28",
+      "fr": "Sa troupe, telle qu'enrôlée : 41 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:29",
+      "fr": "Et la tribu de Nephtali. Chef des Nephtalites : Ahira, fils d'Enan.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:30",
+      "fr": "Sa troupe, telle qu'enrôlée : 53 400.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:31",
+      "fr": "Total des inscrits dans la division de Dan : 157 600. Ceux-ci marcheront en dernier, selon leurs étendards.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:32",
+      "fr": "Ce sont les inscriptions des Israélites par maisons ancestrales. Total des enrôlés dans les divisions, toutes troupes confondues : 603 550.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:33",
+      "fr": "Les Lévites, cependant, ne furent pas enregistrés parmi les Israélites, comme DIEU l’avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 2:34",
+      "fr": "Les Israélites firent en conséquence ; Comme Dieu l'avait ordonné à Moïse, ils campèrent selon leurs étendards, et ils marchèrent ainsi, chaque [ménage] avec son clan selon sa maison ancestrale.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:1",
+      "fr": "C'est la lignée d'Aaron et de Moïse au moment où DIEU parlait avec Moïse sur le mont Sinaï.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואלה תולדת אהרן ומשה ET CE SONT LA PROCÉDURE D'AARON ET DE MOÏSE — Mais il ne mentionne que les fils d'Aaron ! Mais ils sont aussi appelés fils de Moïse parce qu’il leur a enseigné la Torah. Cela nous dit que quiconque enseigne la Torah au fils de son prochain, l'Écriture la considère comme s'il l'avait engendré (Sanhédrin 19b)."
+        },
+        {
+          "id": 2,
+          "fr": "ביום דבר ה׳ את משה LE JOUR OÙ LE SEIGNEUR PARLA À MOÏSE, ces enfants (ceux d'Aaron) devinrent-ils ses (Moïse) enfants, parce qu'alors, pour la première fois, il leur enseigna ce qu'il avait entendu du Tout-Puissant."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:2",
+      "fr": "Voici les noms des fils d'Aaron : Nadab, le premier-né, Abihu, Eléazar et Ithamar ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:3",
+      "fr": "tels étaient les noms des fils d’Aaron, les prêtres oints qui étaient ordonnés au sacerdoce.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:4",
+      "fr": "Mais Nadab et Abihu moururent par la volonté de DIEU, par la volonté de DIEU. «devant DIEU». quand ils offrirent du feu étranger devant DIEU dans le désert du Sinaï ; et ils n'ont laissé aucun fils. Ce furent donc Éléazar et Ithamar qui furent prêtres du vivant de leur père Aaron.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על פני אהרן [ET ÉLÉAZAR ET ITHAMAR ONT MINISTÉ] DEVANT LA VISAGE D'AARON — c'est-à-dire pendant sa vie (cf. Rachi sur Genèse 11 :28)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:5",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:6",
+      "fr": "Avancez la tribu de Lévi et placez-les, c'est-à-dire les mâles de la tribu qui répondent aux critères d'âge ; cf. 8.23-26. en service auprès du prêtre Aaron pour le servir.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושרתו אתו [AMENER LA TRIBU DE LÉVI… DEVANT AARON] POUR QU'ILS LE MINISTÈRENT — Et en quoi consiste leur ministère ?"
+        },
+        {
+          "id": 2,
+          "fr": "ושמרו את משמרתו QU'ILS GARDER SA CHARGE ] Parce que le soin du sanctuaire, c'est-à-dire qu'aucun étranger ne doit s'en approcher, lui a été confié, comme il est dit (Nombres 18 : 1) \" Toi et tes fils, et la maison de ton père avec toi, porterez l'iniquité du sanctuaire \", (ce que Rachi explique comme faisant référence à l'iniquité commise par un « étranger » en s'approchant des choses saintes), et ces Lévites les aidaient — c'était donc leur ministère [fait allusion ici]."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:7",
+      "fr": "Ils accompliront des devoirs pour lui et pour toute la communauté devant la tente d'assignation, faisant l'œuvre du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושמרו את משמרתו ET ILS GARDERONT SA CHARGE ] Tout poste auquel une personne est nommée et les devoirs dont elle est tenue d'accomplir est partout dans l'Écriture et dans l'idiome mishnique appelé משמרת, une fonction, une charge. Par exemple, il est dit dans l'histoire de Bigthan et Teresh que lorsqu'ils conspiraient contre Assuérus, l'un dit à l'autre (Megillah 13b) : « Mais sûrement mon devoir officiel (משמרתי) n'est pas le même que votre devoir officiel (משמרתך) et donc nous ne pourrons jamais nous rencontrer pour mettre nos plans à exécution ! Son utilisation est également similaire dans l'expression ,משמרות כהונה ולויה « changements pour le devoir des prêtres et des Lévites »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:8",
+      "fr": "Ils prendront en charge tout l'ameublement de la Tente d'assignation – un devoir de la part des Israélites – en faisant le travail du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת משמרת בני ישראל [ET ILS GARDERONT TOUS LES NAVIRES DE LA TENTE D'ASSEMBLÉE] ET LA CHARGE DES ENFANTS D'ISRAËL — On l'appelle « la charge des enfants d'Israël » parce que tous (tous les Israélites) étaient réellement tenus de s'occuper des besoins du Sanctuaire, seulement que les Lévites ont pris leurs places comme les représentant. C'est pour cette raison qu'ils (les Lévites) recevaient d'eux la dîme en récompense, comme il est dit (Nombres 18 :31) « car c'est (la dîme) votre salaire en échange de votre service »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:9",
+      "fr": "Vous assignerez les Lévites à Aaron et à ses fils : ils lui seront formellement assignés parmi les Israélites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נתונים המה לו ILS LUI SONT DONNÉS comme une aide."
+        },
+        {
+          "id": 2,
+          "fr": "מאת בני ישראל a le même sens que DU MILIEU DES (מתוך) LES ENFANTS D'ISRAËL, c'est-à-dire qu'ils ont été mis à part du reste de la congrégation à cet effet par un décret de l'Omniprésent, et c'est Lui qui les lui a donnés (les Lévites), comme il est dit (Nombres 8 :19) « Et « moi » ai donné les Lévites en cadeau [à Aaron] »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:10",
+      "fr": "Tu confieras à Aaron et à ses fils la responsabilité d'observer leurs devoirs sacerdotaux ; et tout étranger qui empiètera sera mis à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת אהרן ואת בניו תפקד ET TU CHARGERA AARON ET SES FILS — Le mot תפקד est une expression pour « nommer » et non une expression pour « compter » (bien qu'il soit Kal, et généralement « nommer » est exprimé par le Hiphil du verbe ; cf. Rachi sur les Nombres 1h50)."
+        },
+        {
+          "id": 2,
+          "fr": "ושמרו את כהנתם ET ILS GARDERONT LEUR OFFICE DE PRÊTRE — la réception du sang dans des vases sacrés, son aspersion, la combustion de la graisse et les autres rites qui sont confiés à la charge des prêtres."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:11",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:12",
+      "fr": "Par la présente, je prends les Lévites parmi les Israélites à la place de tous les premiers-nés mâles, premiers issus de l'utérus parmi les Israélites : les Lévites seront à moi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואני הנה לקחתי ET MOI, VOIR, J'AI PRIS [LES LÉVITES PARMI LES ENFANTS D'ISRAËL] — Cela signifie : Et moi — d'où « je » réclame-t-il le droit sur eux parmi les enfants d'Israël, afin que les Israélites doivent les embaucher (cf. Rachi au v. 8) pour mon service ? C’est par l’intermédiaire des premiers-nés – sur lesquels j’ai sûrement un titre – que j’ai un droit sur eux (les Lévites) et donc je les prends à leur place (les premiers-nés). Car à l'origine, le service (les fonctions sacerdotales) était accompli par les premiers-nés, mais quand ils (les Israélites et parmi eux leurs premiers-nés aussi) péchèrent en adorant le veau d'or, ils furent disqualifiés, et les Lévites qui n'avaient pas adoré l'idole furent choisis à leur place (cf. Zevachim 112b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:13",
+      "fr": "Car chacun de ces premiers-nés m'appartient. Au moment où j'ai frappé tous les premiers-nés [mâles] au pays d'Égypte, je me suis consacré à moi-même tous les premiers-nés d'Israël, hommes et animaux, pour qu'ils soient à moi, à Dieu.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:14",
+      "fr": "DIEU parla à Moïse dans le désert du Sinaï, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:15",
+      "fr": "Enregistrez les descendants de Lévi par maison ancestrale et par clan ; enregistrez tous les mâles parmi eux à partir de l’âge d’un mois.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מבן חדש ומעלה [NOMMER LES ENFANTS DE LÉVI… CHAQUE MÂLE] À PARTIR D'UN MOIS — Dès qu'il a dépassé l'âge d'un enfant non viable (un mois complet était considéré comme la durée maximale qu'un tel enfant peut vivre), il peut être considéré comme relevant du terme « gardien de la charge sacrée ». — R. Juda, fils de R. Shalom, dit : C'est une chose tout à fait habituelle dans cette tribu d'être inclus dans un recensement dès leur naissance, car il est dit (Nombres XXVI 59) « [Et le nom de la femme d'Amram était Jokébed, fille de Lévi], que sa mère enfanta à Lévi en Égypte » – ce qui signifie qu'elle l'enfanta juste au moment où elle franchissait les portes de la ville frontière d'Égypte et pourtant elle est comptée parmi les soixante-dix âmes qui est descendu avec Jacob en Égypte (cf. Genèse 46 :27 et Rachi là-dessus), car si vous comptez leur nombre (comme indiqué dans Genèse 46 :8-27), vous constaterez qu'il leur manquait un soixante-dix, et c'est elle dont le nom n'est pas mentionné ici qui composait le nombre soixante-dix (cf. Midrash Tanchuma, Bamidbar 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:16",
+      "fr": "Moïse les enregistra donc sur l’ordre de DIEU, comme cela lui avait été ordonné.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על פי ה׳ [ET MOÏSE LES NUMÉROTAIT] SELON LA PAROLE DU SEIGNEUR — Moïse dit au Saint, béni soit-Il : « Comment puis-je entrer dans leurs tentes pour vérifier le nombre de leurs enfants ?! » Alors le Saint, béni soit-Il, lui répondit : « Toi, fais ta part et moi je ferai la mienne ! » Moïse alla donc se poster à l'entrée de chaque tente, la Chekhina s'y étant rendue auparavant, et une voix divine sortit de la tente, disant : « Il y a tant de bébés dans cette tente ». C'est pour cela qu'il est dit : « [et Moïse les dénombra] selon la parole (par la bouche) du Seigneur » (Nombres Rabbah 3 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:17",
+      "fr": "Voici les noms des fils de Lévi : Guershon, Kehath et Merari.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:18",
+      "fr": "Voici les noms des fils de Guershon, par clan : Libni et Shiméï.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:19",
+      "fr": "Fils de Kehath, par clan : Amram et Jitsehar, Hébron et Uzziel.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:20",
+      "fr": "Fils de Merari, par clan : Mahli et Mushi. Voici les clans des Lévites selon leurs maisons ancestrales :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:21",
+      "fr": "À Guershon appartenaient le clan des Libnites et le clan des Shiméites ; tels étaient les clans des Guershonites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לגרשון משפחת הלבני DE GERSHON, LA FAMILLE DES LIBNITES — c'est-à-dire : De Gershon, ceux qui furent dénombrés étaient la famille des Libnites et la famille des Shimites ; et la section se termine par la déclaration (v. 22) « ceux qui furent dénombrés étaient un tel et un tel nombre »."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:22",
+      "fr": "Les entrées enregistrées de tous leurs mâles à partir de l'âge d'un mois, telles qu'elles ont été enregistrées, s'élevaient à 7 500.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:23",
+      "fr": "Les clans des Guershonites devaient camper derrière le Tabernacle, à l'ouest.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:24",
+      "fr": "Le chef de la maison ancestrale des Guershonites était Eliasaph, fils de Laël.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:25",
+      "fr": "Les devoirs des Gershonites dans la Tente d'assignation comprenaient : le tabernacle, le ctabernacle Ici (en minuscules), le plus bas des couvertures du Tabernacle ; cf. Exode. 26.1. la tente, sa couverture et le paravent pour l'entrée de la tente d'assignation ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "המשכן LA DEMEURE — c'est-à-dire les rideaux inférieurs (ceux qui étaient étalés immédiatement sur les planches du Tabernacle)."
+        },
+        {
+          "id": 2,
+          "fr": "והאהל ET LA TENTE (le mot n'a pas son sens habituel de « tente » ; cf. Rachi sur Exode 26 : 7-12) — c'est-à-dire les rideaux de poils de chèvre qui étaient faits comme toiture (pour couvrir les rideaux inférieurs)."
+        },
+        {
+          "id": 3,
+          "fr": "מכסהו LA COUVERTURE DE CELUI-CI - la couverture faite de peaux de béliers et de peaux de tachash (cf. Rachi sur Exode 35:11)."
+        },
+        {
+          "id": 4,
+          "fr": "ומסך פתח ET L'ÉCRAN POUR L'ENTRÉE — c'est-à-dire le Voile (cf. Rachi sur Exode 35 : 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:26",
+      "fr": "les tentures de l'enceinte, le paravent pour l'entrée de l'enceinte qui entoure le Tabernacle, ses cordes et l'autel, tout le service qui s'y rattache.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת מיתריו ET SES CORDES — Cela signifie : ceux de « la demeure » (les rideaux inférieurs) et de « la tente » (les rideaux supérieurs), et non ceux de l'enceinte (חצר) mentionnés dans ce verset [bien que certains d'entre eux soient indiqués dans Nombres 4 :26 comme étant en charge des Gershonites]."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:27",
+      "fr": "À Kehath appartenaient le clan des Amramites, le clan des Izharites, le clan des Hébronites et le clan des Uzziélites ; tels étaient les clans des Kehathites.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:28",
+      "fr": "Tous les mâles recensés, âgés d'un mois et plus, étaient au nombre de 8 600, s'occupant des devoirs du sanctuaire.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:29",
+      "fr": "Les clans des Kehathites devaient camper le long du côté sud du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "משפחת בני קהת יוחנו … תימנה LA FAMILLE DES FILS DE KOHATH CAMPERA… VERS LE SUD — et à côté d'eux se trouvait la division de Ruben qui, elle aussi, campait dans le sud (cf. Nombres 2:10) — « Malheur aux méchants, malheur à son voisin ! C'est pour cette raison (en raison de l'amitié provoquée par cette proximité) que certains d'entre eux (les Rubénites) — Dathan et Abiram et 250 hommes (qui étaient aussi pour la plupart des Rubénites, cf. Rachi sur Nombres 16:1) — furent punis avec Coré et sa congrégation, (cf. Nombres 16:32 s.), parce qu'ils étaient entraînés dans une querelle avec eux (cf. Midrash Tanchuma, Vayéra 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:30",
+      "fr": "Le chef de la maison ancestrale des clans des Kehathites était Elizaphan, fils d'Uzziel.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:31",
+      "fr": "Leurs fonctions comprenaient : l'arche, la table, le chandelier, les autels et les ustensiles sacrés qui étaient utilisés avec eux, ainsi que le paravent, c'est-à-dire le rideau de protection ; cf. 4.5.—tous les services qui s'y rattachent.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והמסך ET L'ÉCRAN — c'est-à-dire le voile de séparation, car lui aussi (cf. Rachi au v. 25) est appelé מסך dans la phrase (Exode 40 :21) : פרכת המסך."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:32",
+      "fr": "Le chef des Lévites était Éléazar, fils du prêtre Aaron, chargé de l'entretien du sanctuaire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונשיא נשיאי הלוי ET [ELAZAR LE FILS D'AARON LE PRÊTRE ÉTAIT] LE PRINCE DES PRINCES DES LÉVITES — c'est-à-dire qu'il fut nommé sur eux tous. Et en ce qui concerne quel était son excès ?"
+        },
+        {
+          "id": 2,
+          "fr": "פקדת שמרי משמרת LA SURVEILLANCE DE CEUX QUI GARDENT LA CHARGE [DU SANCTUAIRE] — c'est-à-dire que par lui était la nomination de tous ceux-ci."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:33",
+      "fr": "À Merari appartenaient le clan des Mahlites et le clan des Mushites ; c'étaient les clans de Merari.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:34",
+      "fr": "Les entrées enregistrées de tous leurs mâles à partir de l'âge d'un mois s'élevaient à 6 200.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:35",
+      "fr": "Le chef de la maison ancestrale des clans de Merari était Zuriel, fils d'Abihail. Ils devaient camper le long du côté nord du Tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:36",
+      "fr": "Les tâches assignées aux Merarites comprenaient : les planches du Tabernacle, ses barres, poteaux et socles, et tous ses meubles - tout le service qui y est lié ;",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:37",
+      "fr": "ainsi que les poteaux autour de l'enceinte et leurs prises, piquets et cordons.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:38",
+      "fr": "Ceux qui devaient camper devant le Tabernacle, devant — devant la Tente d'assignation, à l'est — étaient Moïse, Aaron et ses fils, s'occupant des devoirs du sanctuaire, comme un devoir en faveur des Israélites ; et tout étranger qui empiéterait devait être mis à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "משה ואהרן ובניו [MAIS CEUX QUI CAMPENT DEVANT LA DEMEURE… SERONT] MOÏSE, AARON ET SES FILS - et à côté de lui se trouvait l'étendard du camp de Juda, et à côté de ces derniers campaient Issacar et Zabulon - \"C'est bien pour le juste, bien pour son prochain!\" Parce qu'ils (les fils de Juda, Issacar et Zabulon) étaient les voisins de Moïse qui s'occupait de la Torah, ils devinrent eux-mêmes d'éminents érudits dans la Loi, comme il est dit (Psaume 60 :9) « Juda est mon législateur » ; (I Chroniques 12:32) « et des enfants d'Issacar qui étaient des hommes qui avaient l'intelligence des temps pour savoir ce qu'Israël devait faire [leurs chefs étaient deux cents] » — c'est-à-dire deux cents chefs du Sanhédrin ; et (Juges 5 :14) « et de Zabulon sont sortis ceux qui manient la plume de l’écrivain » (Midrash Tanchuma, Bamidbar 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:39",
+      "fr": "Tous les Lévites enregistrés, que Moïse et Aaron, sur l'ordre de Dieu, enregistrèrent selon leurs clans, tous les mâles à partir de l'âge d'un mois, s'élevèrent à 22 000.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר פקד משה ואהרן [TOUS QUI ÉTAIENT NUMÉROTÉS DES LÉVITES] QUE MÔSE ET AARON NUMÉROTENT — Il y a des points sur le mot Aaron pour indiquer qu'il n'était pas parmi le nombre des Lévites (Bekhorot 4a ; Sifrei Bamidbar 69 :2 sur Nombres 9 :10)."
+        },
+        {
+          "id": 2,
+          "fr": "שנים ועשרים אלף [TOUS LES MÂLES À PARTIR D'UN MOIS ÉTAIT] VINGT DEUX MILLE — Mais dans l'énumération d'entre eux donnée ci-dessus, vous en trouverez trois cents autres — les fils de Gershon 7500 (v. 22). les fils de Kehath 8 600 (v. 28), les fils de Merari 6 200 (v. 34), soit 22 300 ! Pourquoi, alors, l'Écriture ne les a-t-elle pas inclus dans la somme totale avec les autres, alors qu'eux aussi auraient pu racheter le premier-né des Israélites (c'est-à-dire, lorsque chacun des 300 aurait également pu servir à remplacer un premier-né Israélite, comme l'ont fait les 22 000 autres ; cf. v. 41), et donc les 273 premiers-nés d'Israël qui dépassaient la somme totale des Lévites donnée par l'Écriture (le la somme totale des premiers-nés étant de 22 273, alors que les Lévites, tels que résumés par l'Écriture, n'étaient que 22 000) n'aurait pas du tout exigé la rédemption (cf. vv. 46-48) !? A cela nos rabbins ont répondu dans le Traité Bekhorot 5a : ces trois cents Lévites en question étaient eux-mêmes premiers-nés, et il leur suffisait bien de faire une chose : se libérer de la nécessité de la rançon."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:40",
+      "fr": "DIEU dit à Moïse : Enregistrez chaque premier-né mâle du peuple israélite à partir de l'âge d'un mois et faites une liste de leurs noms ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פקד כל בכר זכר … מבן חדש ומעלה NOMBRE TOUS LES PREMIERS-NÉS DES MÂLES [DES ENFANTS D'ISRAËL] À PARTIR D'UN MOIS ET PLUS — dès qu'il (le premier-né) a dépassé l'âge où il pourrait éventuellement s'avérer non viable (Nombres Rabba 4 : 3 ; cf. Rachi sur le v. 15)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:41",
+      "fr": "et prends pour moi les Lévites, Éternel, à la place de tous les premiers-nés du peuple israélite, et le bétail des Lévites à la place de tout premier-né mâle parmi le bétail des Israélites.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:42",
+      "fr": "Moïse enregistra donc tous les premiers-nés des Israélites, comme Dieu le lui avait ordonné.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:43",
+      "fr": "Le nombre total des premiers-nés mâles nommés, enregistrés à partir de l'âge d'un mois, s'élevait à 22 273.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:44",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:45",
+      "fr": "Prenez les Lévites à la place de tous les premiers-nés mâles du peuple israélite, et le bétail des Lévites à la place de leur bétail ; et les Lévites seront à moi, à Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת בהמת הלוים וגו׳ ET [TU PRENDRAS] LES BÊTES DES LÉVITES [À LA LIEU DE TOUS LES PREMIERS-NÉS PARMI LES BÊTES DES ENFANTS D'ISRAËL] - Les bêtes des Lévites n'ont pas racheté le premier-né des bêtes pures appartenant aux Israélites, mais seulement les premiers descendants de leurs des ânes (cf. Bekhorot 4a). Un agneau des Lévites (il faut se rappeler que pour la rédemption de פטר חמור un agneau est prescrit ; cf. Exode 13 :13) pouvait cependant libérer plusieurs premiers descendants d'ânes appartenant aux Israélites. Vous savez peut-être qu'il en est ainsi, car elles (l'Écriture) mentionnent un nombre de premiers-nés d'Israël supérieur au nombre des Lévites dans le cas des êtres humains, mais ne mentionne aucun nombre d'animaux premiers-nés appartenant aux Israélites comme étant en excès par rapport aux agneaux des Lévites, [bien qu'il y ait sans aucun doute beaucoup plus d'ânes premiers-nés des Israélites que d'agneaux ordinaires des Lévites] (cf. Bekhorot 4b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:46",
+      "fr": "Et comme prix de rachat des 273 premiers-nés d'Israël, en plus du nombre des Lévites,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת פדויי השלשה וגו׳ ET QUANT À CEUX QUI DOIVENT ÊTRE RACHÉS [DES DEUX CENT TROIS SOIXANTE, etc.]… [TU PRENDRAS…] — Cela signifie, « et quant aux premiers-nés qui doivent encore être rachetés parmi eux (les Israélites), à savoir, les 273 qui étaient en excès parmi eux, soit plus de 22 000 Lévites, tu prendras d'eux חמשת שקלים לגלגלת CINQ SHEKELS PAR SONDE, tel, à savoir, vingt pièces d'argent, était le prix de vente de Joseph, qui était le premier-né de Rachel (Jérusalem Talmud Shekalim 2:4 ; Genèse Rabbah. 84:18)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:47",
+      "fr": "prenez cinq sicles par tête, prenez cela au poids du sanctuaire, vingt guéras par sicle.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:48",
+      "fr": "et donnez l'argent à Aaron et à ses fils, comme prix de rachat pour ceux qui sont en excédent.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 3:49",
+      "fr": "Moïse prit donc l'argent du rachat sur ceux qui s'ajoutaient à ceux rachetés par les Lévites ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "העדפים על פדויי הלוים L'EXCÉDENT QUI ÉTAIENT PLUS QUE CEUX RACHÉS PAR LES LÉVITES signifie, qui étaient plus que ceux que les Lévites rachetèrent par leur propre personne."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:50",
+      "fr": "il prit l'argent du premier-né mâle des Israélites, 1 365 sicles du sanctuaire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חמשה וששים ושלש מאות ואלף MILLE TROIS CENT TROIS SOIXANTE-CINQ — Voici la somme totale : cinq shekels par tête pour deux cents premiers-nés si mille shekels ; car soixante-dix premiers-nés font trois cent cinquante sicles, et trois premiers-nés donnent quinze sicles, soit un total de 1 365. — Il (Moïse) dit : \"Comment dois-je procéder ? Tout premier-né à qui je dirai : \" Donne cinq sicles \" me répondra : \" Je suis l'un de ceux rachetés par les Lévites \" ! Qu'a-t-il donc fait ? Il apporta 22 000 tablettes et y inscrivit les mots « Un fils de Lévi », ainsi que 273 tablettes et y écrivit les mots « Cinq sicles ». Il les mélangea et les mit dans une urne. Il leur dit : « Venez tirer vos tablettes et décidez par tirage au sort » (Sanhédrin 17a)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 3:51",
+      "fr": "Et Moïse donna l’argent du rachat à Aaron et à ses fils, selon l’ordre de Dieu, comme Dieu l’avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:1",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:2",
+      "fr": "Faites un recensement [séparé] des Kehathites parmi les Lévites, selon les clans de leur maison ancestrale,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נשא את ראש וגו׳ PRENEZ LA SOMME DES [FILS DE KOHATH] — Comptez ceux parmi eux qui sont aptes au service de portage, et ce sont les hommes de trente à cinquante ans, car une personne de moins de trente ans n'a pas encore atteint sa pleine force, — c'est pourquoi ils (les rabbins) ont dit (Avot 5 :21) « un homme de trente ans a atteint l'âge où il entre en pleine force ». force », — quant à celui qui a plus de cinquante ans, sa force diminue progressivement à partir de ce moment-là."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:3",
+      "fr": "depuis l'âge de trente ans jusqu'à l'âge de cinquante ans, tous ceux qui sont soumis au service, pour accomplir les travaux de la Tente d'assignation.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:4",
+      "fr": "C'est la responsabilité des Kehathites dans la Tente d'assignation : les objets les plus sacrés.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קדש הקדשים [CECI DOIT ÊTRE LE SERVICE DES FILS DE KOHATH] LE קדש הקדשים — c'est-à-dire, ce qui est le plus saint de tous : l'Arche, la table, le candélabre, les autels, le voile de séparation et les ustensiles de service."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:5",
+      "fr": "Au lever du camp, Aaron et ses fils entreront, démonteront le rideau et en couvriront l'arche du pacte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובא אהרן ובניו וגו׳ ET [LORSQUE LE CAMP EST MIS EN AVANT,] AARON ET SES FILS, etc. — Ils mettront chaque objet dans son emballage qui lui est prescrit dans cette section, afin que les fils de Kehath n'aient rien d'autre à faire que de les porter."
+        },
+        {
+          "id": 2,
+          "fr": "בנסוע המחנה QUAND LE CAMP EST MIS EN AVANT — Quand le nuage est parti, ils savaient qu'ils devaient partir en voyage (voir Rachi sur Nombres 1:51 et la note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:6",
+      "fr": "Ils poseront une couverture de dauphinadolphin ou « dugong », ou d'une certaine teinte de cuir de vache teint ; sens de l'Héb. taḥash incertain. peau dessus et étalez dessus un tissu bleu pur ; et ils mettront ses poteaux en place.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:7",
+      "fr": "Sur la table de présentation, ils étendront un drap bleu ; ils y placeront les coupes, les louches, les cruches et les cruches de libation ; et le pain ordinaire reposera dessus.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קערת וכפת וקשות ומנקיות — Je les ai déjà décrits dans le chapitre traitant du travail du Tabernacle (Exode XXV)."
+        },
+        {
+          "id": 2,
+          "fr": "הנסך signifie « couvrant », — ayant la même signification que מסך, l'écran, — comme il est écrit (Exode 25 :29) « les couvertures par lesquelles ils seront couverts (יסך) » (cf. Rachi sur ce verset et la note y relative)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:8",
+      "fr": "Ils étendront dessus un tissu cramoisi, qu'ils couvriront d'une couverture de peau de dauphin ; et ils mettront les poteaux en place.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:9",
+      "fr": "Puis ils prendront un tissu bleu et couvriront le chandelier pour l'éclairage, avec ses lampes, ses pinces et ses brasiers, ainsi que tous les vases à huile qui servent à son service.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מלקחיה — une sorte de pince par laquelle on tire la mèche dans n'importe quelle direction on le souhaite."
+        },
+        {
+          "id": 2,
+          "fr": "מחתתיה — sorte de petite louche dont le fond était plat, non arrondi (concave), et qui n'avait pas de paroi devant (aucune pièce ne dépassant vers le haut) mais seulement sur ses côtés ; et il (le prêtre) y ratissait les cendres des lampes lorsqu'il les nettoyait (cf. Rachi sur Exode 25 :28)."
+        },
+        {
+          "id": 3,
+          "fr": "נרתיה SES LAMPES — luces dans O. F., les réceptacles dans lesquels les gens mettent l'huile et les mèches (pas les lumières comme le mot signifie parfois ; voir par exemple Exode 40 : 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:10",
+      "fr": "Ils le placeront ainsi que tous ses meubles dans une couverture de peau de dauphin, qu'ils placeront ensuite sur un cadre porteur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל מכסה עור תחש [ET ILS LE METTRA, ET TOUS LES NAVIRES] DANS UNE COUVERTURE DE PEAUX TACHASH — C'était une sorte de sac d'emballage."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:11",
+      "fr": "Ensuite, ils étendront un drap bleu sur l'autel d'or et le couvriront d'une couverture de peau de dauphin ; et ils mettront ses poteaux en place.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:12",
+      "fr": "Ils prendront tous les vases de service avec lesquels s'effectue le service dans le sanctuaire, les mettront dans un drap bleu et les couvriront d'une couverture en peau de dauphin, qu'ils placeront ensuite sur un cadre porteur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את כל כלי השרת אשר ישרתו בם בקדש [ET ILS PRENDRONT] TOUS LES NAVIRES DU MINISTÈRE, AVEC LESQUELS ILS MINISTRENT DANS LE LIEU SAINT, c'est-à-dire dans le Tabernacle qui est appelé saint ; c'étaient les vases pour l'encens avec lesquels ils accomplissaient le ministère à l'autel intérieur."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:13",
+      "fr": "Ils enlèveront les cendres de l'autel [de cuivre] et étendront dessus un drap de pourpre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ודשנו את המזבח ET ILS ENLEVERONT LES CENDRES DE L'AUTEL — de l'autel d'airain."
+        },
+        {
+          "id": 2,
+          "fr": "ודשנו signifie qu'ils en retireront les cendres (cf. Rachi sur Exode 27 : 3)."
+        },
+        {
+          "id": 3,
+          "fr": "ופרשו עליו בגד ארגמן ET ILS ÉTENDRONT UN VÊTEMENT DE ROUGE POURPRE SUR CELUI-CI ] Mais le feu qui descendait du ciel sur l'autel (cf. Rachi sur Lévitique 1:7) gisait sous le vêtement sous la forme d'un lion pendant les voyages ; il ne l'a cependant pas brûlé car ils ont renversé un grand récipient en cuivre dessus (cf. Yoma 21b)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:14",
+      "fr": "Ils placeront dessus tous les ustensiles qui servent à son service : les brasiers, les crochets à viande, les grattoirs et les bassins, tous les ustensiles de l'autel, et ils étendront dessus une couverture de peau de dauphin ; et ils mettront ses poteaux en place.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מחתת LES ENCENSEURS dans lesquels les charbons étaient ratissés dans le but de la cérémonie de תרומת הדשן, retirant une casserole de cendres de l'autel de cuivre (cf. Rachi sur Lévitique 6:4), et qui étaient formés comme une casserole qui n'a que trois murs (aucun devant) et avec l'avant de celui-ci aspire les charbons."
+        },
+        {
+          "id": 2,
+          "fr": "מזלגת — crochets de cuivre (cf. Rachi sur Exode 27 : 3) qu'ils enfonçaient de force dans les membres qui se trouvaient sur l'autel afin de les retourner afin qu'ils puissent être complètement et rapidement consumés."
+        },
+        {
+          "id": 3,
+          "fr": "יעים sont des pelles ; dans O. F. vedil. Ils étaient en cuivre et avec eux ils nettoyaient les cendres de l'autel."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:15",
+      "fr": "b Suite du v. 4. Quand Aaron et ses fils auront fini de couvrir les objets sacrés et tous les meubles des objets sacrés au lever du camp, alors seulement les Kehathites viendront les soulever, afin qu'ils n'entrent pas en contact avec les objets sacrés et ne meurent pas. Ces choses dans la tente d'assignation seront le portage des Kehathites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לכסת את הקדש [ET AARON ET SES FILS TERMINENT] COUVRANT LES CHOSES SAINTES — l'Arche et l'autel,"
+        },
+        {
+          "id": 2,
+          "fr": "ואת כל כלי הקדש ET TOUS LES NAVIRES DU SANCTUAIRE — le candélabre et les ustensiles de service,"
+        },
+        {
+          "id": 3,
+          "fr": "ומתו [AFIN QU'ILS NE TOUCHENT À RIEN DE SAINTE] DE PEUR QU'ILS MOURENT — parce que s'ils touchent, ils deviennent passibles de mort par le Ciel."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:16",
+      "fr": "La responsabilité de l'huile d'allumage, de l'encens aromatique, de l'offrande régulière et de l'huile d'onction incombera à Éléazar, fils d'Aaron, le prêtre, la responsabilité de tout le Tabernacle et de tout ce qui est consacré qui s'y trouve ou dans ses ustensiles.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ופקדת אלעזר ET LA CHARGE D'ÉLÉAZAR… [ÉTAIT L'HUILE POUR LA LUMIÈRE, ET L'ENCENS DES AROMATIQUES, ET L'OFFRE DE REPAS CONTINUE, ET L'HUILE D'ONCTION] — Cela signifie : la charge d'Éléazar qui était désigné sur eux pour les porter était l'huile, et l'encens et l'huile d'onction. En ce qui concerne l'offrande continue de repas mentionnée ici, il lui incombait de donner des ordres et d'insister pour qu'elle soit offerte au moment où ils campaient."
+        },
+        {
+          "id": 2,
+          "fr": "פקדת כל המשכן signifie : et en outre, il a été nommé sur le fardeau des fils de Kehath, c'est-à-dire pour donner à chacun des ordres concernant son service et son fardeau, qui était le Tabernacle et tout ce qui s'y trouvait - tous les articles énoncés ci-dessus dans cette section. Cependant, le fardeau des fils de Gershon et des fils de Merari, qui n'appartenait pas aux choses de caractère très saint, était exécuté sur ordre d'Ithamar, comme cela est exposé dans la section commençant par le mot נשא (vv. 21-34)."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:17",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:18",
+      "fr": "Ne laissez pas le groupe des clans Kehathites être retranché des Lévites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תכריתו NE VOUS COUPEZ PAS [LA TRIBU DES FAMILLES DES KOHATHITES] — Ne leur faites pas mourir."
+        }
+      ]
+    },
+    {
+      "ref": "Numbers 4:19",
+      "fr": "Faites ceci avec eux, afin qu'ils vivent et ne meurent pas lorsqu'ils s'approchent des objets les plus sacrés : qu'Aaron et ses fils entrent et assignent chacun d'eux tour à tour à ses devoirs et à son portage.",
+      "rashi": []
+    },
+    {
+      "ref": "Numbers 4:20",
+      "fr": "Mais que [les Kehathites] n'entrent pas à l'intérieur et ne soient pas témoins du démantèlement du sanctuaire, ils sont témoins du démantèlement du sanctuaire. Contrairement aux autres, « regardez les objets sacrés ne serait-ce qu'un instant ». de peur qu'ils ne meurent.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא יבאו לראות כבלע את הקדש MAIS ILS NE VENIRONT PAS POUR VOIR QUAND LES CHOSES SAINTES SONT ENVELOPPÉES, chacune dans son emballage, comme je l'ai expliqué plus haut dans cette section (v. 5 ss.): \"et ils étendront dessus tel ou tel vêtement\", « et ils le couvriront de telle ou telle couverture », — car « l'emballage » mentionné ici est identique au « recouvrement » mentionné dans ces passages."
+        }
+      ]
+    }
+  ]
+}

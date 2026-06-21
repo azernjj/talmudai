@@ -1,0 +1,743 @@
+{
+  "name": "Tazria",
+  "range": "Leviticus 12:1-13:59",
+  "verses": [
+    {
+      "ref": "Leviticus 12:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 12:2",
+      "fr": "Parlez ainsi au peuple israélite : Lorsqu'une femme en couches accouche Héb. tazria', lit. « donne naissance à des graines ». si elle enfante un mâle, elle sera impure sept jours ; elle sera impure comme au moment de sa condition de séparation menstruelle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשה כי תזריע SI UNE FEMME A CONÇU UNE GRAINE — R. Simlai a dit : De même que la formation de l'homme a eu lieu après celle de chaque bétail, bête et volaille lors de la création du monde, de même, la loi le concernant est énoncée après la loi concernant le bétail, la bête et la volaille (contenue dans le chapitre précédent) (Lévitique Rabbah 14 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "כי תזריע — Ces mots sont superflus, כי ילדה suffiraient — ils signifient littéralement « si elle donne naissance à une graine » et sont employés pour inclure le cas où si elle lui a donné naissance (l'enfant mâle) sous la forme d'une masse pulpeuse qui s'est dissoute, devenue liquéfiée comme une graine, même alors, sa mère devient impure comme s'il s'agissait d'une naissance normale (Niddah 27b)."
+        },
+        {
+          "id": 3,
+          "fr": "כימי נדת דותה תטמא COMME AUX JOURS DE LA SÉPARATION POUR SON IMPURETÉ, ELLE DEVIENT IMPURE — Selon la réglementation de toute impureté qui est mentionnée dans le cas d'une נדה, est-ce qu'elle devient impure en ce qui concerne l'impureté résultant de l'accouchement — même si l'utérus s'est ouvert sans aucun écoulement de sang (cf. Niddah 21a)."
+        },
+        {
+          "id": 4,
+          "fr": "דותה — C'est une expression pour tout ce qui coule de son corps (‎‎‏זב = דו, « coulant »), et la traduction est : « comme aux jours de séparation à cause de son flux ». Une autre explication est : il a la même signification que .מדוה (racine דוה), maladie, et cela est appelé דותה, « sa maladie », car aucune femme ne voit une perte de sang provenant d'elle-même, sauf qu'en conséquence, elle ne se sent pas bien et sa tête et ses membres sont lourds (cf. Niddah 9a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 12:3",
+      "fr": "Le huitième jour, la chair de son prépuce sera circoncise.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 12:4",
+      "fr": "Elle restera dans un état de purification du sang. Signification de Héb. deme tohorah incertain. pendant trente-trois jours : elle ne touchera à aucun objet consacré, ni n'entrera dans le sanctuaire jusqu'à ce que sa période de purification soit accomplie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תשב — Le mot תשב signifie ici « rester », tout comme dans (Deutéronome 1 :46) « Et vous êtes restés (ותשבו) à Kadesh », et (Genèse 13 :18) « et il est resté (‎‎וישב) dans la plaine de Mamré »"
+        },
+        {
+          "id": 2,
+          "fr": "בדמי טהרה DANS LE SANG DE PURIFICATION — Même si elle voit une perte de sang, elle est néanmoins pure (Sifra, Tazria Parashat Yoledet, chapitre 1 7)."
+        },
+        {
+          "id": 3,
+          "fr": "בדמי טהרה — Il n'y a pas de Mappik dans le dernier 'ה‎ de טהרה (comme il y en a dans le dernier mot de ce verset) : c'est (le mot) un nom non fléchi similaire dans son sens à טֹהַר (en étant une forme féminine)."
+        },
+        {
+          "id": 4,
+          "fr": "ימי טהרה — le 'ה ici a un Mappik et la signification est : les jours de son טֹהַר, sa purification."
+        },
+        {
+          "id": 5,
+          "fr": "בכל קדש [ELLE NE TOUCHERA PAS] TOUT CE QUI EST SAINT — pas n'importe quoi : cela sert à inclure l'offrande élevée (Makkot 14b ; Yevamot 75a). La Torah prescrit cela parce qu'une telle femme doit être considérée comme quelqu'un qui a pris l'immersion pendant une très longue journée (טבולת יום ארוך), parce qu'elle s'est immergée à la fin des sept premiers jours alors que son soleil ne se couche pour provoquer sa purification qu'au coucher du soleil du quarantième jour puisque ce n'est que le lendemain qu'elle doit apporter l'offrande d'expiation en relation avec sa purification, comme il est indiqué dans v.6."
+        },
+        {
+          "id": 6,
+          "fr": "לא תגע ELLE NE TOUCHERA PAS — Il s'agit d'une interdiction adressée à quiconque voudrait manger des choses saintes dans un état d'impureté, comme il est indiqué dans un Baraitha de Yevamot 75a."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 12:5",
+      "fr": "Si elle met au monde une femelle, elle sera impure deux semaines comme pendant sa menstruation, et elle restera dans un état de purification du sang (voir note au v. 4) pendant soixante-six jours.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 12:6",
+      "fr": "A l'issue de sa période de purification, soit pour son fils, soit pour sa fille, elle apportera au prêtre, à l'entrée de la Tente d'assignation, un agneau d'un an pour l'holocauste, et un pigeon ou une tourterelle pour l'offrande de purgation.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 12:7",
+      "fr": "Il l'offrira devant DIEU et fera l'expiation en sa faveur ; elle sera alors pure de son flux de sang. Tels sont les rituels concernant une femme qui porte un enfant, mâle ou femelle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והקריבו ET IL L'OFFRERA — Deux offrandes ont été mentionnées, un agneau et un oiseau, mais il est dit ici ,, et il l'offrira et fera ainsi l'expiation pour elle\" - cela vous enseigne que seule l'omission de sacrifier l'une en particulier de ces deux l'empêche de manger la nourriture sacrificielle. Et qu'est-ce que c'est ? C'est l'offrande pour le péché, car il est dit immédiatement après : \" il fera l'expiation pour elle et elle sera pure »- ce qui est destiné à l'expiation (c'est-à-dire le sacrifice pour le péché), de quoi dépend la purification (Sifra, Tazria Parashat Yoledet, chapitre 3-4)."
+        },
+        {
+          "id": 2,
+          "fr": "וטהרה ET ELLE SERA PROPRE — il s'ensuit donc que jusqu'à présent (jusqu'à ce qu'elle ait apporté l'offrande d'expiation) elle est qualifiée de « impure » (c'est-à-dire qu'elle est considérée comme טמאה) bien qu'elle soit en réalité טהרה."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 12:8",
+      "fr": "Mais si ses moyens ne suffisent pas pour acheter un mouton, elle prendra deux tourterelles ou deux pigeons, l'un pour l'holocauste et l'autre pour le sacrifice de purgation. Le prêtre fera l'expiation pour elle, et elle sera pure.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אחד לעלה ואחד לחטאת L'UN POUR UNE OFFRANDE HAUTEUR ET L'AUTRE POUR UNE OFFrande POUR LE PÉCHÉ ] L'Écriture le met (le עולה) en premier uniquement à titre de mention, mais en ce qui concerne son offrande, l'offrande pour le péché précède l'holocauste ; c'est ce que nous apprenons dans le Traité Zevachim 90a, dans le chapitre commençant par כל התדיר."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:1",
+      "fr": "DIEU parla à Moïse et à Aaron, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:2",
+      "fr": "Quand une personne a sur sa peau sa peau Lit. « la peau de leur chair », c'est-à-dire la peau en général. un gonflement, une éruption cutanée ou une décoloration, et que cela se transforme en une affection squameuse sur la peau, cela doit être signalé. Le mors doit être signalé ou « [la personne] doit être amenée ». à Aaron le prêtre ou à l'un de ses fils, les prêtres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'שאת או ספחת וגו‎ — Ce sont les noms des épidémies de lèpre — A RISING, A SCAB etc., — et elles sont les unes plus blanches que les autres (cf. Shevouot 5b ; Sifra, Tazria Parashat Nega'im, Section 1 4)."
+        },
+        {
+          "id": 2,
+          "fr": "בהרת signifie SPOTS, taie en O. F. — Similaire est (Job 37 :21) « C'est un endroit (בהיר) dans les cieux »."
+        },
+        {
+          "id": 3,
+          "fr": "'אל אהרון וגו‎ [IL SERA APPORTÉ] À AARON etc. — C'est un texte de l'Écriture que l'impureté et la purification des épidémies de lèpre ne sont prononcées que par la bouche d'un prêtre (Sifra, Tazria Parashat Nega'im, Section 1 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:3",
+      "fr": "Le prêtre examinera l'affection de la peau : si les poils de la zone affectée sont devenus blancs et que l'affection semble être plus profonde que la peau, c'est un lépreux Héb. ṣaraʻath est utilisé pour diverses maladies. Lorsqu’un être humain est déclaré impur en raison de ṣara'ath, la traduction traditionnelle « lèpre » a été retenue sans tenir compte de la terminologie médicale moderne. affection; quand le prêtre le verra, il déclarera la personne impure.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הפך לבן [LES CHEVEUX…] SONT DEVENUS BLANCS — Cela signifie qu'au début il faisait sombre, et qu'ils sont devenus blancs pendant la peste. Le plus petit nombre de cheveux impliqué par le terme שער est de deux (Sifra, Tazria Parashat Nega'im, chapitre 2 2)."
+        },
+        {
+          "id": 2,
+          "fr": "עמק מעור בשרו [LA PESTE] EST PLUS PROFONDE QUE LA PEAU DE SA CHAIR — Chaque couleur blanche est profonde (contrairement à une couleur sombre qui l'entoure) tout comme la couleur de tout ce qui est éclairé par le soleil est plus profonde que l'ombre (Chevouot 6b)."
+        },
+        {
+          "id": 3,
+          "fr": "וטמא אתו IL LE PRONONCERA IMPUR — Il (le prêtre) lui dira. «Tu es impur» - car c'est un texte de l'Écriture que les cheveux devenus blancs sont un symptôme d'impureté."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:4",
+      "fr": "Mais s'il s'agit d'une décoloration blanche sur la peau qui ne semble pas plus profonde que la peau et si les poils ne sont pas devenus blancs, le prêtre isolera la personne atteinte pendant sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועמק אין מראה ET SON APPARENCE NE SONT PAS PLUS PROFONDES [QUE LA PEAU] — Je ne connais pas le sens de cela."
+        },
+        {
+          "id": 2,
+          "fr": "והסגיר IL DOIT FERMER [LUI] ] Il l'enfermera dans une maison et ne le reverra plus avant la fin de la semaine. Alors les symptômes qui se manifesteront décideront à son sujet s'il est impur ou non."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:5",
+      "fr": "Le septième jour, le prêtre procédera à un examen, et si l'affection est restée inchangée en couleur et que la maladie ne s'est pas propagée sur la peau, le prêtre les isolera pendant encore sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בעניו signifie dans sa couleur et sa taille d'origine."
+        },
+        {
+          "id": 2,
+          "fr": "שנית… והסגירו IL DOIT L'ENFERMER… UNE DEUXIÈME FOIS — Par conséquent, si cela s'est propagé au cours de la première semaine, il est décidément impur et aucune autre quarantaine n'est requise."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:6",
+      "fr": "Le septième jour, le prêtre procédera à un nouvel examen : si l'affection s'est estompée et ne s'est pas étendue sur la peau, le prêtre déclarera la personne pure. C'est une éruption cutanée ; cette personne, après avoir lavé ses vêtements, sera pure.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כֵּהֶה signifie qu'il est devenu plus pâle que sa couleur précédente ; par conséquent, s'il reste dans sa couleur ou s'il s'est étendu, il est impur."
+        },
+        {
+          "id": 2,
+          "fr": "מספחת — C'est le nom d'une lèpre propre."
+        },
+        {
+          "id": 3,
+          "fr": "וכבס את בגדיו וטהר ET IL DOIT LAVER SES VÊTEMENTS ET ÊTRE PROPRE — Puisqu'il devait se taire, il a été qualifié (était considéré comme relevant du terme) « impur » (bien qu'il s'avère maintenant qu'il était propre), et il doit subir une immersion dans un bain rituel."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:7",
+      "fr": "Mais si l'éruption s'étend sur la peau après avoir été constatée par le prêtre et déclarée pure, cette personne devra à nouveau le signaler au prêtre.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:8",
+      "fr": "Et si le prêtre voit que l'éruption s'est étendue sur la peau, il les déclarera impures ; c'est la lèpre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וטמאו הכהן ET LE PRÊTRE LE PRONONCERA IMPUR — et dès qu'il l'aura déclaré impur, il est un lépreux décidé et il est obligé, lorsqu'il se remet de sa lèpre, d'apporter deux oiseaux (comme moyen de purification) et de raser sa chair et d'apporter l'offrande qui est mentionnée dans la section commençant par זאת תהיה — Lévitique ch. 14 (cf. Méguila 8b)."
+        },
+        {
+          "id": 2,
+          "fr": "צרעת הוא C'EST UNE LÈPRE — ce מספחת est une lèpre (tandis que le מספחת mentionné au v. 6 est une gale propre)"
+        },
+        {
+          "id": 3,
+          "fr": "Le mot צרעת est féminin ; נגע est masculin."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:9",
+      "fr": "Lorsqu'une personne présente une affection squameuse, elle doit être signalée. Voir note en 13.2. au curé.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:10",
+      "fr": "Si le prêtre trouve sur la peau une tuméfaction blanche qui a rendu blanc quelques poils, avec une tache de chair non décolorée dans la tuméfaction,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומחית A QUICK [RAW FLESH] — sainement en vieux français anglais guérison; — cela signifie que la partie du blanc à l'intérieur de la « tache blanche supérieure » (השאת) a pris une couleur chair ; c'est aussi un symptôme d'impureté ; — cheveux blancs sans chair saine, et chair saine sans cheveux blancs. Bien qu'une chair saine ne soit mentionnée qu'en relation avec une tache de couleur plus élevée, dans le cas de toutes les couleurs blanches pures (blanc comme neige et blanc laine) et de leurs nuances (lit., dérivations), elle est également un symptôme d'impureté (cf. Sifra, Tazria Parashat Nega'im, Section 3 1 ; Mishna Negaim 4 :6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:11",
+      "fr": "c'est une lèpre chronique sur la peau, et le prêtre déclarera la personne impure ; étant impurs, ils n’ont pas besoin d’être isolés.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צרעת נשנת הוא C'EST UNE VIEILLE LÈPRE — i. e. c'est une vieille lèpre au-dessous de la chair saine, et cette plaie paraît saine au-dessus, mais au-dessous elle est pleine d'humidité (pus), c'est pourquoi le prêtre la déclarera impure. L'Écriture dit cela afin que vous ne disiez pas : puisque de la chair saine l'a recouvert, je le déclarerai pur."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:12",
+      "fr": "Si l'éruption s'étend sur la peau de manière à couvrir toute la peau de la personne atteinte, de la tête aux pieds, partout où le prêtre peut voir :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מראשו DE LA TÊTE de l'homme ועד רגליו ET JUSQU'À SES PIEDS,"
+        },
+        {
+          "id": 2,
+          "fr": "לכל מראה עיני הכהן PARTOUT OÙ LE PRÊTRE REGARDE (lit., à la vue entière des yeux du prêtre) — Ceci exclut un prêtre dont la vue est obscurcie (dont la vue est imparfaite) (Sifra, Tazria Parashat Nega'im, chapitre 4-4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:13",
+      "fr": "si le prêtre voit que l'éruption a couvert tout le corps, il déclarera pure la personne affectée, qui est pure parce qu'elle est devenue toute blanche.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:14",
+      "fr": "Mais dès qu’une chair non colorée y apparaîtra, cette personne sera impure ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בו בשר חי‎‎‎‏‎‎ וביום הראות ‎‎ MAIS LE JOUR OÙ LA CHAIR BRUTE APPARAÎT EN LUI [IL SERA IMPUR] — Si cela signifie qu'une tache saine a germé en elle et que, pour cette raison, elle est impure, il est certain cependant qu'il a déjà été dit que la tache saine est un symptôme de impureté ! Pourquoi le répéter ici ? Mais c'est le cas suivant : la peste était sur l'un des « vingt-quatre extrémités des membres » qui dépassent du corps (cf. Rachi sur Exode 21 : 26), — qui ne peut pas devenir impur (c'est-à-dire être déclaré impur) parce qu'il a une chair saine puisque la peste lépreuse dans son ensemble ne peut pas être vue en même temps, (comme l'exige l'Écriture déclarant : לכל מראה עיני הכהן cf. Kiddushin 25a), parce qu'ils (les deux côtés du membre affecté) sont inclinés dans des directions différentes (Mishnah Negaim 6:7 ; Kiddushin 25a) - et la pointe du membre a été modifiée, de sorte que son côté incliné est devenu visible à travers la graisse, comme par exemple. Par exemple, si elle (la pointe du membre) est devenue épaisse et élargie (de sorte que les côtés inclinés s'aplatissent pour former une seule surface avec le membre) et que la chair saine y devient ainsi visible, l'Écriture nous informe qu'elle (une telle chair saine) la rend impure le jour où elle y est vue (Sifra, Tazria Parashat Nega'im, chapitre 5 1). ‎"
+        },
+        {
+          "id": 2,
+          "fr": "וביום — Pourquoi ce mot est-il utilisé (il aurait pu dire ובהראות) ? Pour nous informer qu'il y a des jours où vous pouvez voir (examiner) la peste et qu'il y a des jours où vous ne pouvez pas l'examiner. C'est pour cela qu'ils (les rabbins) dirent : L'époux a droit à un répit pendant tous les sept jours des festivités du mariage — pour lui, pour ses vêtements et pour sa maison (c'est-à-dire, que lui-même ou ses vêtements, cf. v. 17, ou sa maison, cf. Lévitique 14 :33 ss., ait été atteint de la lèpre), et de même, lors d'une fête, il (chacun) a droit à un répit tous les jours de la fête. cette fête - et pendant ces périodes, le prêtre ne peut pas venir l'examiner, lui ou ses vêtements ou sa maison (Mishnah Negaim 3:2; Moed Katan 7b; Sifra, Tazria Parashat Nega'im, Chapitre 5 2; cf. Bekhorot 43b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:15",
+      "fr": "Lorsque le prêtre verra la chair non décolorée, il la déclarera impure. La chair non colorée est impure ; c'est la lèpre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צרעת הוא C'EST UNE LÈPRE — cette chair est une lèpre ; בשר est masc., et donc le pronom הוּא est utilisé comme copule."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:16",
+      "fr": "Mais si la chair non colorée redevient blanche, cette personne viendra chez le prêtre,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:17",
+      "fr": "et le prêtre procédera à un examen : si l'affection est devenue blanche, le prêtre déclarera pure la personne atteinte, qui est alors pure.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:18",
+      "fr": "Lorsqu’une inflammation apparaît sur la peau et qu’elle guérit,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שחין A BOIL — Le mot exprime l'idée de chaleur. On l'appelle ainsi parce que la chair est devenue enflammée par une blessure résultant d'un coup et non du feu (ce dernier cas étant mentionné au v. 24 et étant appelé un מכוה) (Chullin 8a)."
+        },
+        {
+          "id": 2,
+          "fr": "ונרפא ET IL EST DEVENU GUÉRI – le furoncle (pas la chair également mentionnée dans ce verset) a été guéri et à sa place il a produit une autre plaie (le שאת mentionné dans le verset suivant)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:19",
+      "fr": "et qu'une tuméfaction blanche ou une décoloration blanche striée de rouge se développe là où était l'inflammation, cette personne devra en informer le prêtre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "או בהרת לבנה אדמדמת in OU UN POINT BRILLANT ROUGE-BLANC — Cela signifie que la peste n'est pas uniformément blanche mais qu'elle est composée et entremêlée de deux couleurs : le blanc et le rouge."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:20",
+      "fr": "Si le prêtre constate qu'elle paraît plus basse que le reste de la peau et que ses poils sont devenus blancs, le prêtre les déclarera impurs ; c'est une affection lépreuse qui a éclaté dans l'inflammation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מראה שפל IL EST EN VUE PLUS BAS [QUE LA PEAU] — il lui-même n'est pas plus profond, mais en raison de sa blancheur, il apparaît plus bas et plus profond (מראה שפל), tout comme la couleur de tout ce qui est éclairé par le soleil est plus profonde que l'ombre (voir Rachi v. 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:21",
+      "fr": "Mais si le prêtre constate qu'il n'y a pas de poils blancs et qu'ils ne sont pas plus bas que le reste de la peau, et qu'ils sont fanés, le prêtre les enfermera pendant sept jours.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:22",
+      "fr": "Si cela se répand dans la peau, le prêtre les déclarera impurs ; c'est une affection.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נגע הִוא C'EST UNE PESTE — ce point ascendant ou lumineux est une peste (שאת et בהרת sont fem., d'où l'adj. fem. הִיא)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:23",
+      "fr": "Mais si la décoloration reste stationnaire, sans s'être étendue, c'est la cicatrice de l'inflammation ; le prêtre les déclarera purs.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": ".תחתיה signifie À SA PLACE (et non « en dessous »)."
+        },
+        {
+          "id": 2,
+          "fr": "צרבת שחין [C'EST] UNE BOUILLON BRÛLANTE — Comprenez cela comme le fait le Targum : רשם שחנא — i. e. ce n'est qu'une marque (une cicatrice) de l'inflammation, discernable dans la chair. Partout où צרבת apparaît, cela désigne la contraction de la peau qui s'est ratatinée à cause d'une inflammation. Il en va de même (Ézéchiel 21 :3) « et tout visage se ratatinera (ונצרבו) » à cause de la chaleur mentionnée dans le verset, retrecir en vieux français, pour se contracter."
+        },
+        {
+          "id": 3,
+          "fr": "צרבת est retrecissement en vieux français (anglais = contraction)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:24",
+      "fr": "Lorsque la peau d'une personne subit une brûlure causée par le feu et que la tache de la brûlure est une décoloration, soit blanche striée de rouge, soit blanche,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מחית המכוה IIEALED FLESH OF THE BURNT PART — sainement en vieux français Le texte signifie que lorsque la partie brûlée a été guérie, elle s'est transformée en une tache brillante panachée ou uniformément blanche (c'est-à-dire ‎'וכו‎‎ והיתה signifie « et la chair guérie est devenue une tache blanche et brillante, etc. »). Les symptômes de propreté ou d’impureté d’une brûlure et les symptômes d’un furoncle sont exactement similaires. Pourquoi, alors, l’Écriture les a-t-elle mentionnés séparément (en deux paragraphes, au lieu de dire ואדם כי יהיה בעור בשרו שחין ומכוה) ? Pour nous dire qu'ils ne peuvent pas être combinés les uns avec les autres pour constituer la taille minimale d'une tache qui est un symptôme de la lèpre - si, par exemple. par exemple, il se développe une tache lépreuse de la taille de la moitié d'un גריס (un גריס est un demi-haricot; חצי גריס en est la moitié), dans une ébullition (שחין), et une de la taille d'une moitié de גריס dans une brûlure (מכוה), ils ne relèvent pas de la loi. d'un גריס complet (la taille minimale pour un endroit impur) (Chullin 8a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:25",
+      "fr": "le prêtre l'examinera. Si certains cheveux sont devenus blancs à cause de la décoloration, qui elle-même semble aller plus profondément que la peau, c'est la lèpre qui a éclaté dans la brûlure. Le prêtre déclarera la personne impure ; c'est une affection lépreuse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:26",
+      "fr": "Mais si le prêtre constate qu'il n'y a pas de poils blancs dans la décoloration, qu'ils ne sont pas plus petits que le reste de la peau et qu'ils sont fanés, le prêtre les isolera pendant sept jours.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:27",
+      "fr": "Le septième jour, le prêtre procédera à un examen : si la peau s'est étendue, le prêtre les déclarera impurs ; c'est une affection lépreuse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:28",
+      "fr": "Mais si la décoloration est restée stationnaire, sans s'être étendue sur la peau, et qu'elle s'est estompée, il s'agit du gonflement dû à la brûlure. Le prêtre les déclarera purs, car c'est la cicatrice de la brûlure.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:29",
+      "fr": "Si un homme ou une femme a une affection à la tête ou à la barbe,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בראש או בזקן SUR LA TÊTE OU SUR LA BARBE — L'Écriture entend faire une différence entre une plaie qui frappe un endroit où poussent les cheveux et une plaie qui frappe un endroit où se trouve de la chair (déjà mentionné v. 38) — qu'en ce qui concerne celle-ci (celle de la chair) son symptôme d'impureté consiste en des cheveux blancs, et en ce qui concerne l'autre son symptôme consiste en des cheveux dorés. (Sifra, Braita d'Rabbi Yishmael 14)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:30",
+      "fr": "le prêtre examinera l'affection. S'il paraît plus profond que la peau et s'il contient de fins poils jaunes, le prêtre les déclarera impurs ; c'est une desquamation, une éruption squameuse dans les cheveux ou la barbe.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובו שער צהוב ET IL Y A EN LUI DES CHEVEUX COULEURS OR — Cela signifie que les cheveux noirs qui s'y trouvaient sont devenus dorés (cf. Rachi au v. 3)."
+        },
+        {
+          "id": 2,
+          "fr": "נתק הוא — ceci (נתק) est le nom d'une peste qui se trouve à l'endroit où poussent les cheveux."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:31",
+      "fr": "Mais si le prêtre constate que la teigne ne semble pas aller plus profondément que la peau, mais qu'il n'y a pas de poils noirs, le prêtre isolera la personne atteinte pendant sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושער שחור אין בו ET IL N'Y A PAS DE CHEVEUX NOIRS [LE PRÊTRE LE FERA FERMER] — Par conséquent, s'il y a des cheveux noirs, il est propre et n'a pas besoin d'être enfermé — car les cheveux noirs sont une caractéristique de la propreté en cas de נתקים, comme il est dit (v. 37) « s'il y a du noir les cheveux y ont poussé… [il est propre] » (Sifra, Tazria Parashat Nega'im, chapitre 8-9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:32",
+      "fr": "Le septième jour, le prêtre examinera l'affection. Si la croûte ne s’est pas propagée, qu’aucun poil jaune n’y est apparu et qu’elle ne semble pas aller plus profondément que la peau,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'והנה לא פשה וגו‏‎‎‎ ET VOYEZ SI [LA GALE] NE SE PROPAGE PAS, etc. — Par conséquent, si elle se propage ou s'il y a des cheveux dorés, elle est impure."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:33",
+      "fr": "la personne atteinte de la teigne se rasera, mais sans se raser la teigne ; le prêtre les isolera pendant encore sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והתגלח ET IL DOIT COUPER SES CHEVEUX autour de la croûte,"
+        },
+        {
+          "id": 2,
+          "fr": "ואת הנתק לא יגלח MAIS IL NE DOIT PAS COUPER LES CHEVEUX DE LA BALADE LUI-MÊME - cela signifie qu'il laisse une rangée de deux cheveux tout près autour d'elle afin qu'elle puisse devenir discernable si elle (la gale) s'étend, car si elle se propage, elle passe les cheveux et s'étendra jusqu'à l'endroit où les cheveux ont été coupés (Mishna Negaim 10 : 5 ; Sifra, Tazria Parashat Nega'im, chapitre 9 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:34",
+      "fr": "Le septième jour, le prêtre examinera l'échine. Si la croûte ne s'est pas étendue sur la peau et ne semble pas aller plus profondément que la peau, le prêtre déclarera la personne pure ; après avoir lavé leurs vêtements, ils seront purs.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:35",
+      "fr": "Toutefois, si la croûte s'étend sur la peau après que la personne a été déclarée pure,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אחרי טהרתו [ET SI LA BALADE SE PROPAGER DU TOUT…] APRÈS QU'IL AIT ÉTÉ PRONONCÉ PROPRE — J'ai ici seulement la déclaration selon laquelle il est impur si elle se propage après qu'il a été libéré de la quarantaine ; d'où puis-je savoir qu'il en va de même si elle s'est propagée à la fin de la première semaine et/ou à la fin de la deuxième semaine ? Parce qu'il est dit ici : « si cela se propage » (Sifra, Tazria Parashat Nega'im, chapitre 9-9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:36",
+      "fr": "le prêtre procédera à un examen. Si la croûte s'est étendue sur la peau, le prêtre n'a pas besoin de rechercher des cheveux jaunes : la personne est impure.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:37",
+      "fr": "Mais si la croûte est restée inchangée en couleur et que des cheveux noirs y ont poussé, la croûte est guérie ; la personne est pure. Le prêtre les déclarera purs.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושער שחור ET [IL Y A] DES CHEVEUX NOIRS — D'où puis-je savoir que cela s'applique également aux cheveux jaunes ou roux qui, comme les cheveux noirs mentionnés ici, ne sont pas de couleur dorée ? Parce qu'il indique ושער « et les cheveux » (quelle que soit leur couleur) (Sifra, Tazria Parashat Nega'im, chapitre 9 14). L'expression צָהוֹב désigne quelque chose qui ressemble à l'apparence de l'or, et צהוב est équivalent à זהוב, orpàle en vieux français (anglais = or pâle)."
+        },
+        {
+          "id": 2,
+          "fr": "טהור הוא וטהרו הכהן IL EST PROPRE ET LE PRÊTRE DOIT LE PRONONCER PROPRE ] Par conséquent, une personne qui est vraiment impure et que le prêtre déclare pure n'est pas pure. [Il est vrai que la déclaration est laissée au prêtre — comme l'a souligné Rachi au v. 2 — mais s'il s'est trompé ou a délibérément déclaré la personne impure pure, cela n'a aucun effet car l'Écriture déclare : il est pur et le prêtre alors — et alors seulement — le déclarera pur] (Sifra, Tazria Parashat Nega'im, chapitre 9 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:38",
+      "fr": "Si un homme ou une femme a la peau, sa peau Voir note au v. 2. est striée de décolorations blanches,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Ce sont des SPOTS."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:39",
+      "fr": "et le prêtre voit que les décolorations sur la peau sont d'un blanc terne, c'est une dentelure éclatée sur la peau ; ils sont purs.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כהות לבנות DULL WHITE — Cela signifie que leur blancheur n'est pas intense mais d'un blanc terne."
+        },
+        {
+          "id": 2,
+          "fr": "בהק UNE LUMINOSITÉ — tout comme le blanc qui se montre dans la chair d'un homme vermeil, qu'on appelle rouge en vieux français, entre ses taches rouges : c'est ce qu'on appelle בהק « éclat » - comme un homme qui est couvert de taches semblables à des lentilles, quand entre une tache semblable à une lentille et une autre la chair apparaît brillante d'un éclat pur."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:40",
+      "fr": "Si un homme perd les cheveux et devient chauve, il est pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קרח הוא טהור הוא IL EST CHAUVE, IL EST PROPRE — pur de l'impureté de נתק (une croûte dans un endroit poilu) (Sifra, Braita d'Rabbi Yishmael 15), car il n'est pas soumis à la loi sur les symptômes de la tête ou de la barbe, qui sont des endroits où poussent les cheveux, mais à celle sur les symptômes d'une peste sur la peau de la chair — [cheveux blancs], de la chair saine ou de la propagation de la peste."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:41",
+      "fr": "S’il perd les cheveux sur le devant de sa tête et devient chauve au niveau du front, il est pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם מפאת בניו ET SI DU COIN DE SON VISAGE [IL TOMBE DES CHEVEUX DE SA TÊTE] — La zone allant de la pente du crâne en direction du visage est appelée גבחת (et cela explique pourquoi l'homme souffrant d'une telle maladie est ici appelé גבח) — et les temples des deux côtés sont également inclus ; et la zone allant de la pente du crâne vers l'arrière de la tête est appelée קרחת (d'où le terme קרח au v. 40) (Sifra, Tazria Parashat Nega'im, chapitre 10 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:42",
+      "fr": "Mais si une affection blanche striée de rouge apparaît sur la partie chauve en avant ou en arrière de la tête, c'est une éruption squameuse qui s'étend sur la partie chauve en avant ou en arrière de la tête.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נגע לבן אדמדם UNE MONTÉE DE LA PLAISIR ROUGE-BLANC — panaché (le terme לבנה אדמדמת ne signifie pas blanc et rouge chacun séparément, mais mélangés : blanc rougeâtre). D'où pouvons-nous apprendre que la peste est également impure si elle a les autres couleurs (non panachées, mais des nuances de blanc uni qui sont les caractéristiques distinctives des plaies) ? Parce qu'il dit ici : נגע, une peste (il la décrit comme une « peste » et donc toutes les couleurs applicables à une « peste » s'y appliquent également)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:43",
+      "fr": "Le prêtre l'examinera : si l'enflure de la partie chauve, devant ou derrière la tête, est blanche striée de rouge, comme une lèpre de la peau du corps,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כמראה צרעת עור בשר COMME LA COULEUR DE LA LÈPRE DANS LA PEAU DE LA CHAIR — c'est comme la couleur de la lèpre qui est mentionnée dans la section traitant de la peste sur la peau de la chair (v. 2) : « Quand un homme a dans la peau de sa chair… ». Qu'il rend impur à cause de quatre nuances de blanc, et qu'il est soumis à la loi de la quarantaine pendant deux semaines. Et il ne faut pas la traiter comme la couleur de la lèpre mentionnée dans le cas du furoncle (v. 18) ou de la brûlure (v. 24) qui, bien qu'elles soient également impures en raison de quatre nuances de blanc, sont cependant soumises à la loi de quarantaine pour une semaine seulement (c'est-à-dire si à la fin de la semaine il n'y a ni cheveux blancs, ni répandus, le prêtre le déclare immédiatement pur) ; il ne doit pas non plus être traité comme la couleur de נתקין à un endroit où poussent les cheveux - qui ne rendent pas une personne impure en raison de quatre couleurs : un שאת et sa sous-espèce, et celle d'un בהרת et sa sous-espèce."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:44",
+      "fr": "c'est un lépreux; il est impur. Le prêtre le déclarera impur ; il a l'affection sur la tête.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בראשו נגעו SA PESTE EST SUR SA TÊTE — J'ai seulement une déclaration selon laquelle les lois suivantes s'appliquent au cas de נתקין, plaies sur les endroits poilus ! D’où pouvons-nous apprendre que sont inclus les malades de toutes les autres sortes de fléaux lépreux ? Parce qu'il déclare מא יטמאנו‎ט, \"il le déclarera en tout cas impur\" (Sifra, Tazria Parashat Nega'im, chapitre 12 2) - incluant ainsi tous ceux-ci : concernant tout cela, il dit : \"ses vêtements seront déchirés, etc.\"."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:45",
+      "fr": "Quant à la personne lépreuse : ses vêtements seront déchirés, sa tête sera laissée nue, sa tête sera laissée nue ou « ses cheveux seront ébouriffés » ; cf. 10.6. et leur lèvre supérieure sera couverte ; et ils crieront : \" Impur ! Impur ! \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פרומים signifie DÉCHIRÉ."
+        },
+        {
+          "id": 2,
+          "fr": "פרוע signifie que sa tête sera recouverte de cheveux (Sifra, Tazria Parashat Nega'im, chapitre 13 6)."
+        },
+        {
+          "id": 3,
+          "fr": "ועל שפם יעטה ET IL COUVRIRA SES LÈVRES comme celui qui pleure les morts (Sifra, Tazria Parashat Nega'im, Chapitre 13 7 ; cf. Onkelos)."
+        },
+        {
+          "id": 4,
+          "fr": "שפם désigne les poils sur les lèvres ; grenon en vieux français, (anglais = moustache)."
+        },
+        {
+          "id": 5,
+          "fr": "וטמא טמא יקרא ET IL CELLERA, IMPUR, IMPUR — il doit proclamer à haute voix qu'il est impur, afin que les gens puissent se tenir loin de lui (Sifra, Tazria Parashat Nega'im, Chapitre 13 7 ; Moed Katan 5a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:46",
+      "fr": "Ils seront impurs tant que la maladie sera présente. Étant impurs, ils habiteront à l’écart, dans une demeure hors du camp.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בדד ישב IL DEMEURE SOLITAIRE ] Cela signifie que les personnes qui sont impures pour d'autres causes que celle de la lèpre ne resteront pas avec lui (Pesachim 67a ; cf. Sifra). Nos rabbins ont dit : Pourquoi est-il (le lépreux) traité différemment des autres personnes impures et doit-il rester solitaire ? Ils répondirent : Parce que lui, par des déclarations calomnieuses (cf. Nombres 12 : 10), a séparé l'homme et la femme, ou un homme de son ami, il doit être séparé de tout le monde (Arakhin 16b)."
+        },
+        {
+          "id": 2,
+          "fr": "מחוץ למחנה SANS LE CAMP — en dehors des trois camps (voir Rachi sur Lévitique 4:12 ; cf. Sifra, Tazria Parashat Nega'im, chapitre 13-14 et Pesachim 67a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:47",
+      "fr": "Lorsqu'une affection éruptive survient dans un drap de laine ou de lin,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:48",
+      "fr": "dans la chaîne ou dans la trame du lin ou de la laine, ou dans une peau ou dans tout objet en peau ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לפשתים ולצמר‎ signifie DE LIN OU DE LAINE."
+        },
+        {
+          "id": 2,
+          "fr": "או בעור QUE CE SOIT DANS UNE PEAU — il s'agit d'une peau qui n'a pas été fabriquée (dont aucun article n'a été fabriqué)."
+        },
+        {
+          "id": 3,
+          "fr": "או במלאכת עור OU DANS TOUT CE QUI EST FAIT DE PEAU — il s'agit d'une peau qui a été fabriquée."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:49",
+      "fr": "si l'affection du tissu ou de la peau, de la chaîne ou de la trame, ou de tout article en peau, est striée de vert-vert ou « jaune ». ou rouge, c'est une affection éruptive. On le montrera au prêtre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ירקרק désigne le vert parmi les verts (le vert le plus profond)."
+        },
+        {
+          "id": 2,
+          "fr": "אדמדם — le rouge le plus profond (Sifra, Tazria Parashat Nega'im, chapitre 14 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:50",
+      "fr": "et le prêtre, après avoir examiné l'affection, isolera l'article affecté pendant sept jours.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:51",
+      "fr": "Le septième jour, il examinera l'affection : si l'affection s'est étendue dans le tissu, soit dans la chaîne, soit dans la trame, soit dans la peau, quel que soit l'usage auquel la peau peut être utilisée, l'affection est une éruption maligne ; c'est impur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צרעת ממארת UNE LÈPRE FRETTING — Le mot ממארת a la même signification que. (Ézéchiel 28 :24) « une bruyère piquante (ממאיר) » ; point (poignant) en vieux français L'explication midrashique est : Attachez-y une malédiction (מארה), — que vous n'en ferez aucun usage (et donc il doit être brûlé) (Sifra, Tazria Parashat Nega'im, Chapitre 14 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:52",
+      "fr": "Le tissu, qu'il s'agisse d'une chaîne ou d'une trame de laine ou de lin, ou de tout article de peau, dans lequel l'affection se trouve, sera brûlé, car c'est une éruption maligne ; il sera consumé au feu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בצמר ובפשתים signifie DE LAINE OU DE LIN. C’est le sens ordinaire. Et l'explication midrashique est la suivante : on pourrait penser qu'il doit apporter des toisons de laine ou des tiges de lin et les brûler avec lui (le vêtement, afin de faire une flamme dans laquelle le brûler ; alors le verset signifiera : il brûlera le vêtement avec de la laine, etc.). Cependant, l'Écriture déclare, dans ce verset, היא באש תשרף \"il (le vêtement) sera brûlé au feu\". - aucune autre chose n'est requise avec cela. Si tel est le cas, pourquoi indique-t-il בצמר או בפשתים ? Pour exclure de la combustion les אומריות, les ourlets qui se trouvent dessus s'ils sont faits d'un matériau différent de la laine ou du lin respectivement. Le mot אומריות signifie un ourlet ; c'est le même que le mot plus connu אימרא. (La traduction est donc : il doit brûler [appliquer du feu sur] le vêtement, etc., sur les parties en laine uniquement) (Sifra, Tazria Parashat Nega'im, chapitre 15 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:53",
+      "fr": "Mais si le prêtre voit que l'affection dans le tissu, soit dans la chaîne, soit dans la trame, ou dans tout article de peau, ne s'est pas répandue,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 13:54",
+      "fr": "le prêtre ordonnera de laver l'objet affecté et il l'isolera pendant encore sept jours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את אשר בו הנגע CELA OÙ EST LA PESTE — On pourrait penser qu'il doit laver seulement l'endroit où se trouve la peste et non le vêtement lui-même ! Il. cependant, déclare : Non pas « il lavera la plaie, mais « ce qui est dans la plaie ». Si tel est le cas, alors on pourrait penser que le vêtement tout entier a besoin d'être lavé ! Il déclare cependant (v. 55) הנגע « la plaie » (après que la plaie a été lavée), et non le vêtement. Comment cela doit-il être fait ? Il lave une partie du vêtement avec (la plaie) (Sifra, Tazria Parashat Nega'im, chapitre 15 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:55",
+      "fr": "Et si, après avoir lavé l'objet affecté, le prêtre constate que l'affection n'a pas changé de couleur et qu'elle ne s'est pas étendue, elle est impure. Il sera consumé au feu ; c'est une frette,hfret Signification de l'Héb. peḥetheth incertain. que ce soit sur sa face intérieure ou sur sa face extérieure.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הֻכַּבֵּס‎ ‎ ‎‎‎‏ אחרי APRÈS SON LAVAGE — La forme verbale est une expression de quelque chose de fait (un infinitif passif)."
+        },
+        {
+          "id": 2,
+          "fr": "לא הפך הנגע את עינו LA PESTE N'A PAS CHANGÉ SA COULEUR — i. e. il n'est pas devenu plus pâle que son ancienne couleur."
+        },
+        {
+          "id": 3,
+          "fr": "והנגע לא פשה ET LA PESTE NE S'EST PAS PROPAGÉE — Nous comprenons de là que si elle n'a pas changé de couleur et ne s'est pas propagée, elle est impure (bien que le fait qu'elle ne s'est pas propagée puisse nous amener à supposer qu'elle est propre ; ici, cependant, la couleur n'a pas changé, et donc elle est impure). Il n'est bien sûr pas nécessaire de déclarer qu'il est impur si la couleur n'a pas changé mais que la peste s'est propagée (car la propagation est une raison supplémentaire pour le déclarer impur). Mais si elle a changé de couleur, mais qu'elle ne s'est pas répandue, je ne saurais qu'en faire. C'est pourquoi il est dit : (v. 50) « Et il fera taire la plaie » pendant un certain temps et l'examinera de nouveau — la fera taire quelles que soient les circonstances de doute. C'est l'opinion du rabbin Jehuda. Mais d'autres Sages disent que dans ce cas, il est sans aucun doute impur comme le dit Torath Cohanim (Sifra, Tazria Parashat Nega'im, chapitre 15 7) : et j'en fais mention ici (au lieu de le faire au v. 50), afin d'expliquer ce verset dans son rapport avec ce texte."
+        },
+        {
+          "id": 4,
+          "fr": "פחתת היא — Il s'agit d'une expression désignant une fosse (tout ce qui est découpé) comme dans (II Samuel 17 :9) « dans l'une des fosses (פחתים) ». C'est autant dire qu'il s'agit d'un fléau de basse altitude dont la couleur est profonde (Sifra, Tazria Parashat Nega'im, chapitre 15 8)."
+        },
+        {
+          "id": 5,
+          "fr": "בגבחתו ‎‎‎ או‎ בקרחתו — Comprenez cela comme le fait le Targum : dans son ancien état (lit., état frotté) ou dans son nouvel état."
+        },
+        {
+          "id": 6,
+          "fr": "קרחתו est donc שחקים (vêtements frottés par l'usure), vieux (et par conséquent, שחיקותיה est un contraste approprié avec חדתותיה dans le Targum). Ces mots, קרחת et גבחת, bien qu'ils ne soient pas correctement applicables aux vêtements, sont utilisés ici pour permettre une dérivation halakhique, pour laquelle il faut un argument déduit de la similitude des phrases : D'où savons-nous, en ce qui concerne une peste se propageant sur toute la surface, dans le cas de vêtements, qu'elle est propre ? Parce que les termes קרחת et גבחת sont utilisés dans le cas d'un être humain et les termes קרחת et גבחת sont utilisés dans le cas des vêtements. Comment ça se passe dans le premier cas ? Si cela s'est répandu sur tout son corps, il est pur (v.13) ! Ici aussi, s'il s'est répandu sur tout le vêtement, il est propre (Niddah 19a). Pour cette raison, l'Écriture utilise ici délibérément les expressions קרחת et גבחת, pour rendre le גז\"ש possible. Et en ce qui concerne son interprétation et sa traduction dans le Targum, ce qu'elle implique : קרחת est une expression désignant « vieux », et גבחת est une expression désignant « nouveau » (Sifra, Tazria Parashat Nega'im, chapitre 15 9); et le sens est exactement le même que s'il était écrit באחריתו או בקדמותו, — car קרחת a le sens des parties arrière (c'est-à-dire la fin), puisque גבחת a le sens de visage (recto, c'est-à-dire la fin). e. début), comme il est écrit (v. 41) « Et si du coin vers son visage [les cheveux de sa tête tombent]… il est un גבח » — de sorte que קרחת doit être toute cette partie qui descend sur le crâne vers l'arrière. Ainsi est-il expliqué dans Torath Cohanim (Sifra, Tazria Parashat Nega'im, Chapitre 10 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:56",
+      "fr": "Mais si le prêtre voit que la partie affectée, après avoir été lavée, est fanée, il l'arrachera du tissu ou de la peau, soit dans la chaîne, soit dans la trame ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וקרע אתו ALORS DOIT-IL LE RENDRE — i. e. il arrachera la plaie du vêtement et le brûlera (tout comme cela lui est ordonné dans le cas mentionné dans le verset suivant) (cf. Sifra, Tazria Parashat Nega'im, chapitre 16 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:57",
+      "fr": "et si cela se reproduit dans le tissu, que ce soit dans la chaîne ou dans la trame, ou dans tout article de peau, c'est une croissance sauvage ; l'article affecté sera consumé par le feu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פרחת היא C'EST UNE PESTE PROPAGÉE — c'est une chose qui éclate encore et encore."
+        },
+        {
+          "id": 2,
+          "fr": "באש תשרפנו TU LE BRÛLEREZ AU FEU — « cela » — le vêtement entier (contrairement au v. 56)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:58",
+      "fr": "Cependant, si l'affection disparaît du tissu, chaîne ou trame, ou de tout article de peau qui a été lavé, il sera lavé de nouveau et il sera pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וסר מהם הנגע SI LA PESTE EST SORTIE D'EUX — si, lorsqu'ils l'ont lavé d'abord sur ordre du prêtre (Lévitique 13 :54), la peste s'en est entièrement retirée (cf. Sifra, Tazria Parashat Nega'im, Chapitre 16 10),"
+        },
+        {
+          "id": 2,
+          "fr": "וכבס שנית IL DOIT ÊTRE LAVÉ UNE DEUXIÈME FOIS — ici, cette expression désigne une immersion dans un bain rituel (et non le lavage du vêtement). Les mots utilisés dans la traduction du Targum pour les expressions dérivées de la racine כבס apparaissant dans cette section désignent le fait de rendre blanc (nettoyage, — par exemple ויתחור), « et il sera rendu blanc » — à l'exception de ceci (וְכֻבַּס) qui n'est pas censé signifier rendre blanc mais signifier immersion. Pour cette raison, il est traduit dans le Targum par ויצטבע — « il sera trempé ». De même, partout où il parle de כבוס בגדים qui signifie « immersion », la traduction du Targum est ויצטבע, (c'est le Targum de וְכֻבַּס‎ ici et dans Lévitique 15 :17 ; le וְכִבֶּס, est, bien sûr, traduit par ויצבע)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 13:59",
+      "fr": "Tel est le procédé pour les affections éruptives du drap, de la laine ou du lin, en chaîne ou en trame, ou de tout article de peau, pour le déclarer pur ou impur.",
+      "rashi": []
+    }
+  ]
+}

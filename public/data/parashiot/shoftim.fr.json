@@ -1,0 +1,1142 @@
+{
+  "name": "Shoftim",
+  "range": "Deuteronomy 16:18-21:9",
+  "verses": [
+    {
+      "ref": "Deuteronomy 16:18",
+      "fr": "Vous nommerez des magistrats et des fonctionnaires pour vos tribus, dans toutes les colonies que l'ÉTERNEL votre Dieu vous donnera, et ils gouverneront le peuple avec la justice qui lui est due.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שפטים ושטרים JUGES ET HUISSIERS — שופטים sont les juges qui prononcent la sentence, et שוטרים sont ceux qui châtient les gens sur leur ordre (des juges) [battant et liant le récalcitrant] avec un bâton et une sangle jusqu'à ce qu'il accepte la sentence du juge (Sanhédrin 16b et Rachi dessus ; cf. Sifrei Devarim 144 :6)."
+        },
+        {
+          "id": 2,
+          "fr": "בכל שעריך DANS TOUTES TES PORTES — c'est-à-dire dans chaque ville (Sifrei Devarim 144 : 3)."
+        },
+        {
+          "id": 3,
+          "fr": "לשבטיך DANS TOUTES TES TRIBUS ] Ceci doit être lié à תתן לך, ainsi : tu te feras des juges et des huissiers pour tes tribus dans toutes toutes tes villes que l'Éternel, ton Dieu, te donne."
+        },
+        {
+          "id": 4,
+          "fr": "לשבטיך À TRAVERS TES TRIBUS — Cela enseigne que les juges doivent être nommés pour chaque tribu séparément et pour chaque ville séparément (Sifrei Devarim 144 : 4 ; Sanhédrin 16b)."
+        },
+        {
+          "id": 5,
+          "fr": "ושפטו את העם וגו׳ ET ILS JUGERONT LE PEUPLE [AVEC UN JUGEMENT JUSTE] — Cela signifie nommer des juges experts et justes pour donner un jugement juste (cf. Sifrei Devarim 144 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:19",
+      "fr": "Vous ne jugerez pas injustement : vous ne montrerez aucune partialité ; vous n'accepterez pas de pots-de-vin, car les pots-de-vin aveuglent les yeux de ceux qui sont intelligents et contrarient les arguments des justes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תטה משפט signifie ce qu'il implique littéralement : TU NE PERVERTIRAS PAS LE JUGEMENT."
+        },
+        {
+          "id": 2,
+          "fr": "ולא תכיר פנים ET VOUS NE RESPECTEREZ PAS LES PERSONNES — même si ce n'est que pendant les plaidoiries des parties. Il s'agit d'un avertissement adressé au juge pour qu'il ne soit pas indulgent envers l'un et dur envers l'autre, par ex. laisser l'un debout et l'autre s'asseoir ; car dès qu'il (la partie traitée durement) constate que le juge montre plus de respect envers son homologue, sa capacité à plaider est entravée (c'est-à-dire qu'il perd confiance en lui et ne peut pas présenter son cas avec assurance) (cf. Chevouot 30a)."
+        },
+        {
+          "id": 3,
+          "fr": "ולא תקח שחד NE PRENDEZ PAS DE CORRUPTION — même si vous avez l'intention de donner un jugement juste en faveur du donneur (Sifrei Devarim 144 :10 ; cf. Rachi sur Exode 23 :8)."
+        },
+        {
+          "id": 4,
+          "fr": "כי השחד יעור CAR LA CORRUPTION AVEUGLE — Dès qu'il (le juge) a accepté un pot-de-vin de sa part (de l'une des parties), il lui est impossible de ne pas incliner son cœur vers lui pour essayer de trouver quelque chose en sa faveur (Ketuvot 105b)."
+        },
+        {
+          "id": 5,
+          "fr": "דברי צדיקם signifie les mots qui ont été décrits par le terme « juste », à savoir les jugements de vérité prononcés sur le Sinaï (cf. Rachi sur Exode 22 : 8 et la note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:20",
+      "fr": "Justice, justice vous rechercherez, afin que vous puissiez prospérer et occuper la terre que l'ÉTERNEL votre Dieu vous donne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צדק צדק תרדף JUSTICE, LA JUSTICE TU POURSUIVRAS — allez (recherchez) un tribunal fiable (Sifrei Devarim 144 : 14 ; Sanhédrin 32b)."
+        },
+        {
+          "id": 2,
+          "fr": "למען תחיה וירשת [LA JUSTICE, LA JUSTICE TU POURRAIS POURSUIVRE] AFIN QUE TU PEUX VIVRE ET HÉRITER [LA TERRE QUE L'Éternel, ton Dieu, te donne] — La nomination de juges honnêtes est un mérite suffisant pour maintenir Israël en vie et pour l'installer en sécurité dans son pays (Sifrei Devarim 144 : 15)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:21",
+      "fr": "Vous n'installerez pas de poteau sacré post-sacré Voir note à 7.5. — toute sorte de poteau à côté de l'autel de l'ÉTERNEL votre Dieu que vous pourrez fabriquer —",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תטע לך אשרה TU NE TE PLANTERA PAS D'ASHERA ] Ceci est destiné à rendre quelqu'un passible d'une punition à son égard à partir du moment même où il la plante (l'Ashera) ; même s'il ne l'adore pas, il transgresse un commandement négatif par le simple fait de le planter (Sifrei Devarim 145 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "לא תטע לך אשרה כל עץ אצל מזבח ה' אלהיך TU NE PLANTERA PAS D'ASHERA, NI D'ARBRE PRÈS DE L'AUTEL DU SEIGNEUR TON DIEU - Ceci est une interdiction adressée à celui qui voudrait planter un arbre ou construire une maison. sur le mont du Temple (הר הבית) (Sifrei Devarim 145 : 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 16:22",
+      "fr": "ou ériger un pilier en pierre ; car tel est l'ÉTERNEL que votre Dieu déteste.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא תקים לך מצבה VOUS N'ÉLEVEZ AUCUN MONUMENT - c'est-à-dire un monument d'une seule pierre (cf. Rachi sur Deutéronome 12 : 3), pas même dans le but de le sacrifier au Ciel (à Dieu)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר שנא QUE [LE SEIGNEUR TON DIEU] HAIT ] Un autel de pierres et un autel de terre qu'il t'a ordonné de faire ; mais il déteste cela, parce que c'était une ordonnance religieuse parmi les Cananéens. Et même si cela lui plaisait du temps de nos patriarches (cf. Genèse 28 : 18), maintenant il le déteste parce que ceux-ci (les Cananéens) en ont fait une ordonnance à caractère idolâtre (cf. Sifrei Devarim 146)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:1",
+      "fr": "Tu ne sacrifieras pas à l'ÉTERNEL ton Dieu un bœuf ou un mouton qui présente un défaut grave, car cela est en horreur à l'ÉTERNEL ton Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תזבח ... כל דבר רע TU NE SACRIFIERAS PAS [AU SEIGNEUR TON DIEU AUCUN DU TROUPEAU OU DU TROUPEAU OÙ EST IMPÉRATIF OU] TOUTE MALÈVE CHOSE — Ceci est un avertissement à celui qui ferait des sacrifices abominables par une mauvaise déclaration (דבר רע). (Voir Rachi sur Lévitique 7 :18 ; cf. Sifrei Devarim 147 :5). En plus de cela, d'autres Halachas en ont été dérivées dans le Traité sur « L'abattage des sacrifices » (Zevachim 36)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:2",
+      "fr": "S'il se trouve parmi vous, dans une des colonies que l'ÉTERNEL votre Dieu vous donne, un homme ou une femme qui a offensé l'ÉTERNEL votre Dieu et transgressé l'alliance :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לעבר בריתו TRANSGRESSER SON ALLIANCE — c'est-à-dire l'alliance qu'Il a conclue avec vous de ne pas pratiquer l'idolâtrie."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:3",
+      "fr": "me tourner vers l'adoration d'autres dieux et m'incliner devant eux, devant le soleil ou la lune ou n'importe quelle armée céleste, quelque chose que je n'ai jamais commandé -",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר לא צויתי [ET EST PARTI ET SERVI D'AUTRES DIEUX… SOIT LE SOLEIL, OU LA LUNE, OU L'UN DES HÔTES DU CIEL] QUE JE N'AI PAS COMMANDÉ de les adorer (Megillah 9b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:4",
+      "fr": "et que vous en avez été informé ou en avez eu connaissance, vous ferez alors une enquête approfondie. Si c'est vrai, le fait est établi, que des choses odieuses ont été perpétrées en Israël,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נכון [ET, VOYEZ, QUE CE SOIT VRAI, ET LA CHOSE SOIT] CERTAIN — c'est-à-dire que le témoignage des témoins est en accord (מְכֻוָּן‎)"
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:5",
+      "fr": "vous emmènerez sur la place publique l'homme ou la femme qui a commis cette méchanceté, et vous la lapiderez à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והוצאת את האיש ההוא אל שעריך וגו׳ ALORS Tu amèneras cet homme [ou cette femme qui a fait cette mauvaise chose] à tes portes — Celui qui rend אל שעריך dans le Targum par לתרע בית דינך, jusqu'à la porte de ta cour, est une erreur, car ainsi nous avons appris (Sifrei Devarim 148 :2 ; Ketubot 45b) : אל שעריך — cela signifie la porte (la ville) dans laquelle il a adoré l'idole. Ou peut-être que ce n'est pas le cas, mais cela signifie la porte où il est jugé (les juges étaient assis « à la porte de la ville » ; cf., par exemple, Ruth 4 : 1 et suiv.) ?! Le terme שעריך, cependant, est utilisé ci-dessous (c'est-à-dire ici, qui est la dernière partie de cette section) et est utilisé ci-dessus (v. 2), et cela suggère une analogie. Quelle est la signification de שעריך mentionnée ci-dessus ? Évidemment la porte (la ville) où il servait l'idole ! De même, שעריך mentionné ci-dessous (dans notre verset) désigne la porte dans laquelle il a servi l'idole. La traduction correcte dans le Targum est donc לקרויך « tu le feras sortir dans tes villes » (cf. Rachi sur Deutéronome 16 :18)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:6",
+      "fr": "Une personne ne sera mise à mort que sur le témoignage de deux ou plusieurs Lit. \"trois.\" témoins; nul ne sera mis à mort sur la déposition d’un seul témoin. —",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שנים עדים או שלשה [PAR LA BOUCHE DE] DEUX TÉMOINS OU TROIS [TÉMOINS, CELUI QUI EST DIGNE DE MORT EST-IL MORT] — Mais si la preuve peut être établie par deux témoins, à quelle fin (l'Écriture) vous mentionne-t-elle explicitement qu'elle peut être établie par trois ? L'Écriture le fait afin de comparer le témoignage de trois témoins à celui de deux (pour que la même loi s'applique aux deux cas). Comment ça se passe dans le cas de deux ? Leur témoignage forme un seul témoignage ; de même, le témoignage de trois (ou plusieurs) témoins forme un seul témoignage et ils ne peuvent pas être déclarés « témoins comploteurs » à moins qu'il soit prouvé qu'ils sont tous des « témoins comploteurs » (Makkot 5b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:7",
+      "fr": "Que les mains des témoins soient les premières à mettre à mort, suivies par les mains du reste du peuple.ble reste du peuple Lit. « le peuple » ; cf. 1 Rois 21.11, 13. Ainsi vous balayerez le mal du milieu de vous.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 17:8",
+      "fr": "Si une affaire est trop compliquée pour que vous puissiez la trancher, qu'il s'agisse d'une controverse sur un homicide, un droit civil ou une agression, sujets de litige dans vos tribunaux, vous vous rendrez promptement au lieu que l'ÉTERNEL votre Dieu aura choisi,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי יפלא SI IL Y A [UNE CHOSE] TROP DUR [POUR TOI DANS LE JUGEMENT] — Le terme פלא désigne toujours la séparation et la distance ; cela signifie ici que l'affaire est à part et vous est cachée."
+        },
+        {
+          "id": 2,
+          "fr": "בין דם לדם [S'IL Y A QUELQUE CHOSE DE TROP DUR POUR TOI DANS LE JUGEMENT] ENTRE LE SANG ET LE SANG — c'est-à-dire entre le sang de la femme menstruée qui peut être du sang impur et le sang qui peut être pur (Niddah 19a ; cf. Sifrei Devarim 152 : 5),"
+        },
+        {
+          "id": 3,
+          "fr": "בין דין לדין ENTRE PLAIDOYER ET PLAIDOYER — c'est-à-dire entre un verdict d'acquittement et un verdict de « coupable »."
+        },
+        {
+          "id": 4,
+          "fr": "בין נגע לנגע ​​ENTRE PESTE ET PESTE — c'est-à-dire entre un fléau qui peut être impur et un fléau qui peut être pur."
+        },
+        {
+          "id": 5,
+          "fr": "דברי ריבה ÊTRE DES CHOSES DE COMBAT [À L'INTÉRIEUR DE TES PORTES] — c'est-à-dire que les savants de la ville (les juges) aient des opinions différentes sur cette affaire particulière (cf. Onkelos), l'un la déclarant impure, l'autre pure, l'un condamnant, l'autre acquittant,"
+        },
+        {
+          "id": 6,
+          "fr": "וקמת ועלית ALORS TU LEVERES ET MONTERAS [À L'ENDROIT QUE LE SEIGNEUR TON DIEU CHOISIRA] — Ceci (l'expression « monter ») enseigne que le Temple (à proximité duquel était assis le Sanhédrin) était situé plus haut que tous les autres endroits en Palestine (Sifrei Devarim 152 : 15 ; Sanhédrin 87a). (cf. cependant Ibn Ezra sur Nombres 16:12.)"
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:9",
+      "fr": "et présentez-vous devant les prêtres lévites, ou le magistrat en charge à l'époque, et présentez votre problème. Lorsqu'ils vous auront annoncé le verdict dans l'affaire,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הכהנים הלוים [ET TU VIENDRAS AUX] PRÊTRES LES LÉVITES — c'est-à-dire aux prêtres, qui descendent de la tribu de Lévi."
+        },
+        {
+          "id": 2,
+          "fr": "ואל השפט אשר יהיה בימים ההם [ET VOUS VENEZ AUX PRÊTRES…] ET AU JUGE QUI SERA EN CES JOURS — Les derniers mots apparemment redondants suggèrent : et même s'il n'est pas aussi éminent que les autres juges qui ont été avant lui, vous devez lui obéir — vous n'avez personne d'autre que le juge qui vit à votre époque (c'est-à-dire que vous ne vous souciez que de lui) (Rosh Hashanah 25b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:10",
+      "fr": "vous exécuterez le verdict qui vous sera annoncé depuis le lieu que DIEU a choisi, en observant scrupuleusement toutes leurs instructions.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 17:11",
+      "fr": "Vous agirez conformément aux instructions qui vous seront données et à la décision qui vous sera transmise ; vous ne devez pas vous écarter du verdict qu'on vous annonce ni à droite ni à gauche.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ימין ושמאל [TU NE S'ÉLIMINERA PAS DE LA PAROLE QU'ILS TE DONT] À DROITE NI À GAUCHE, même s'il (le juge) te dit de ce qui te paraît juste que c'est de gauche, ou de ce qui te paraît de gauche que c'est juste, tu dois lui obéir ; à plus forte raison s'il vous dit en réalité que ce qui est évidemment juste est juste et que ce qui reste est gauche (cf. Sifrei Devarim 154 : 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:12",
+      "fr": "Si la partie [perdante] agit avec présomption et néglige le prêtre chargé de servir là l'ÉTERNEL votre Dieu, ou le magistrat, cette personne mourra. Ainsi tu balayeras le mal d’Israël :",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 17:13",
+      "fr": "tout le peuple entendra et aura peur et n’agira plus avec présomption.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל העם ישמעו ET TOUT LE PEUPLE ENTENDRA [ET CRAINDRA] — De là, nous dérivons la loi selon laquelle ils l'attendent (c'est-à-dire différer l'exécution d'un זקן ממרא, un ancien qui ne tient pas compte de la décision de la Cour suprême, auquel l'Écriture se réfère au v. 12 par les mots והאיש אשר יעשה בזדון) jusqu'à la prochaine fête (quand tout Israël est rassemblé à Jérusalem) et ils l'ont mis à mort au moment de la fête (Sanhédrin 89a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:14",
+      "fr": "Si, après être entré dans le pays que l'ÉTERNEL votre Dieu vous a assigné, en avoir pris possession et vous y être installé, vous décidez : « J'établirai un roi sur moi, comme le font toutes les nations autour de moi »,",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 17:15",
+      "fr": "vous serez libre de vous établir un roi, choisi par l'ÉTERNEL votre Dieu. Assurez-vous de vous établir pour roi un des vôtres ; vous ne devez pas établir un étranger sur vous, quelqu'un qui n'est pas votre compatriote israélite.cfrère israélite Lit. \"frère.\"",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 17:16",
+      "fr": "De plus, il ne gardera pas beaucoup de chevaux et ne renverra pas des gens en Égypte pour en ajouter à ses chevaux, puisque DIEU vous a averti : « Vous ne devez plus retourner par là. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא ירבה לו סוסים IL NE SE MULTIPLERA PAS DE CHEVAUX - mais il n'aura que ce qui est suffisant pour ses voitures, afin de ne pas faire retourner le peuple en Egypte, car les chevaux viennent de là, comme il est dit dans l'histoire de Salomon (1 Rois 10:29) \"Et un char monta et sortit d'Egypte pour six cents sicles d'argent et un cheval pour cent cinquante » (Sanhédrin 21b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:17",
+      "fr": "Et il n'aura pas beaucoup de femmes, de peur que son cœur ne s'égare ; il n’amassera pas non plus d’argent et d’or avec excès.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא ירבה לו נשים NE SE MULTIPLIERA PAS PLUS DE FEMMES que dix-huit, car nous trouvons que David avait six femmes, et il lui fut annoncé (par Nathan le prophète) : « [Ainsi parle le Seigneur… J'ai mis les femmes de ton maître dans ton sein]… et si cela avait été trop peu, je t'ajouterais telles et telles choses comme celles-ci. (c’est-à-dire deux fois plus) » (Sanhédrin 21a)."
+        },
+        {
+          "id": 2,
+          "fr": "וכסף וזהב לא ירבה לו מאד IL NE DOIT PAS SE MULTIPLIER GRANDEMENT EN ARGENT ET EN OR - mais seulement autant qu'il en a besoin pour la solde de ses soldats (Sanhédrin 21a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:18",
+      "fr": "When he is seated on his royal throne, he shall have a copy of this Teaching written for him on a scroll bydby Nuance of Heb. milliphne incertain. les prêtres lévitiques.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והיה כשבתו ET CE SERA QUAND IL EST ASSIS [SUR LE TRÔNE DE SON ROYAUME] — s'il agit ainsi (comme prescrit dans les versets précédents), il est digne que son royaume perdure (Sifrei Devarim 160 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "את משנה התורה [IL L'ÉCRIRA] Un משנה תורה — c'est-à-dire deux rouleaux de la Loi, l'un qui est placé dans son trésor et l'autre qui sort et entre avec lui (c'est-à-dire un petit rouleau qu'il emporte partout avec lui) (Sanhédrin 21b). Onkelos, cependant, rend משנה par פתשגן, une copie ; il interpréta ainsi le mot משנה dans le sens de שנן, répétant et prononçant."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:19",
+      "fr": "Qu'il lui reste et qu'il y lise toute sa vie, afin qu'il apprenne à révérer l'ÉTERNEL son Dieu, à observer fidèlement chaque parole de cet Enseignement ainsi que ces lois.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "דברי התורה [TOUS] LES MOTS DE [CETTE] LOI ] Prenez-la comme ce qu'elle implique littéralement."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 17:20",
+      "fr": "Ainsi il ne se montrera pas hautain envers ses semblables et ne s'écartera pas de l'Instruction à droite ou à gauche, afin que lui et ses descendants puissent régner longtemps au milieu d'Israël.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולבלתי סור מן המצוה ET QU'IL NE S'ÉGARDE PAS DU COMMANDEMENT - pas même d'un commandement moins important qui lui a été donné par l'intermédiaire d'un prophète."
+        },
+        {
+          "id": 2,
+          "fr": "למען יאריך ימים JUSQU'À LA FIN QU'IL PEUT PROLONGER SES JOURS [DANS SON ROYAUME] — De la déclaration positive, vous pouvez déduire la négative (que s'il n'accomplit pas les commandements, son royaume ne durera pas). Et ainsi, en effet, trouvons-nous dans le cas de Saül que Samuel lui dit : (I Samuel 10 : 8) « Tu attendras sept jours, jusqu'à ce que je vienne à toi » pour offrir des holocaustes, et il est écrit (I Samuel 13 : 8) « et il resta sept jours », mais il ne tint pas sa promesse d'attendre tout le septième jour et avait à peine fini d'offrir l'holocauste lorsque Samuel vint (I Samuel 10 :10) et dit. à lui (I Samuel 10 : 13-14) « Tu as agi de façon insensée ; tu n’as pas gardé [le commandement de l’Éternel, ton Dieu, qu’il t’a donné ; car maintenant l’Éternel aurait établi ton royaume sur Israël pour toujours ;] mais maintenant ton royaume ne durera pas ». Ainsi vous apprenez que pour avoir négligé un commandement sans importance donné par l'intermédiaire d'un prophète, il fut sévèrement puni."
+        },
+        {
+          "id": 3,
+          "fr": "הוא ובניו [AFIN QU'IL PEUT PROLONGER SES JOURS DANS SON ROYAUME] LUI ET SES ENFANTS — Cela vous dit que si son fils est digne de devenir roi, il doit avoir la préférence sur toute autre personne (Horayot 11b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:1",
+      "fr": "Les prêtres lévites, toute la tribu de Lévi, n'auront aucune part territoriale avec Israël. Ils ne vivront que des offrandes du feu de DIEU comme leur lit. \"son\", c'est-à-dire celui de la tribu. partie,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל שבט לוי [LES PRÊTRES LES LÉVITES] À SAVOIR TOUTE LA TRIBU DE LÉVI [N'AURAIT AUCUNE PARTIE… AVEC ISRAËL] — toute la tribu, qu'ils soient valides ou qu'ils soient tarés (Sifrei Devarim 163 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "חלק UNE PARTIE — c'est-à-dire dans le butin pris au combat (Sifrei Devarim 163 : 2),"
+        },
+        {
+          "id": 3,
+          "fr": "ונחלה ET HÉRITAGE — dans le pays (Sifrei Devarim 163 : 3)."
+        },
+        {
+          "id": 4,
+          "fr": "'אשי ה LES OFFRANDES PAR LE FEU DU SEIGNEUR — les choses saintes apportées au Temple (Sifrei Devarim 163 : 4),"
+        },
+        {
+          "id": 5,
+          "fr": "ונחלתו ET SON HÉRITAGE — cela fait référence aux choses saintes qui pourraient être consommées en dehors de Jérusalem (גבולין) — les offrandes élevées et les dîmes (Sifrei Devarim 163 :4) qu'ils mangeront, MAIS נחלה UN HÉRITAGE, un véritable héritage, לא יהיה לו בקרב אחיו N'AURAIT-IL PAS PARMI SES FRÈRES. Dans Sifrei Devarim 164, ils (les rabbins) ont donné l'interprétation suivante : ונחלה לא יהיה לו — cela fait référence au נחלת שאר, l'héritage du שאר. בקרב אחיו — PARMI SES FRÈRES — cela fait référence à l'héritage des cinq. Je ne sais cependant pas avec certitude ce que cela signifie (ce que Sifrei entend par שאר et חמשה). Mais il me semble que la partie du pays de Canaan qui est de l’autre côté (ouest) du Jourdain et au-delà est appelée le pays des cinq nations (et ce sont donc les cinq mentionnés par Sifrei), tandis que le territoire de Sihon et Og du côté oriental pourrait être appelé le pays des deux nations, à savoir les Amoréens et les Cananéens, — et נחלת שאר mentionné dans Sifrei est destiné à inclure la terre des clans restants (שאר), les Kénites, les Kénizites et les Kadmonites, qui deviendront l’héritage d’Israël dans un avenir futur. (Mais le pays de Sihon et d'Og n'a pas besoin d'être mentionné puisqu'il était déjà divisé entre les deux tribus et demie, et on savait que la tribu de Lévi n'y avait aucune part.) De même, Sifrei fait un commentaire dans « la section traitant des cadeaux qui ont été promis à Aaron » sur le verset (Nombres 18 :24) « c'est pourquoi [je leur ai dit : Parmi les enfants d'Israël, ils n'auront pas d'héritage] » qu'il est destiné à exprimer un avertissement concernant le pays. des Kénites, des Kénizites et des Kadmonites (c'est-à-dire que même dans les temps ultérieurs, quand Israël héritera du pays de ces nations, le Lévite n'y aura pas de part). — On a depuis trouvé dans les mots du rabbin Kalonymus que la version appropriée de ce passage de Sifrei se lit comme suit : ונחלה לא יהיה לו MAIS ILS N'ONT AUCUN HÉRITAGE — cela fait référence au territoire des cinq, בקרב אחיו PARMI LEURS FRÈRES — cela fait référence au territoire de les sept, et il explique que cela signifie les cinq tribus et les sept tribus. Et parce que Moïse et Josué n'ont attribué un héritage dans le pays qu'à cinq tribus - car Moïse a attribué leur héritage à Ruben, Gad et la demi-tribu de Manassé, et Josué a attribué leur héritage à Juda, Éphraïm et l'autre demi-tribu de Manassé, tandis que les sept tribus restantes ont pris elles-mêmes leur part dans le pays (l'ont conquis) après la mort de Josué - c'est pour cette raison que (l'Écriture) mentionne (fait allusion) aux cinq tribus séparément et aux sept séparément."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:2",
+      "fr": "et n'auront aucune part parmi leurs tribus frères : DIEU est leur part, comme promis.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כאשר דבר לו COMME IL LUI PARLAIT, c'est-à-dire à Aaron [en disant] : « Vous n'hériterez pas de leur pays… Je suis votre part [et votre héritage, parmi les enfants d'Israël]. » - (Nombres 18 :20)"
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:3",
+      "fr": "Voici donc ce que les prêtres doivent payer sur le peuple : quiconque offre un sacrifice, soit un bœuf, soit un mouton, doit donner l'épaule, les joues et le ventre au prêtre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מאת העם [ET CECI DOIT ÊTRE DÛ AUX PRÊTRES] DU PEUPLE — mais pas du prêtre (c'est-à-dire que si un prêtre abat des animaux pour son propre usage, il est dispensé de donner ces cotisations à un autre prêtre) (Sifrei Devarim 165 : 3 ; cf. Chullin 132b)."
+        },
+        {
+          "id": 2,
+          "fr": "אם שור אם שה QUE CE SOIT UN DU TROUPEAU OU UN DU TROUPEAU — cela exclut une bête non domestiquée (חיה)."
+        },
+        {
+          "id": 3,
+          "fr": "הזרע L'ÉPAULE est la partie allant de l'articulation du genou à l'omoplate qui est appelée espalte en vieux français (cf. Rachi sur Chullin 134b)."
+        },
+        {
+          "id": 4,
+          "fr": "והלחיים LES DEUX JOUES — avec la langue. — Ceux qui interprètent symboliquement le texte biblique (cf. Chullin 134b) disent : Le זרוע des animaux, (appelé יד en hébreu plus tard), devint le dû des prêtres en récompense de la « main » (יד) que Phinéas, le prêtre, leva contre les injustes, comme il est dit. (Nombres 25 :7) « et il prit un javelot dans sa main » ; Les « pommettes » ainsi que la langue sont une récompense pour la prière qu'il a offerte, comme il est dit : (Psaumes 106 : 30) « Phineas se leva et pria » ; והקבה ET LE MAW — en récompense de son acte décrit ainsi (Nombres 25 : 8) : « [Et il les fit passer tous les deux, l'homme d'Israël] et la femme dans son ventre (קבתה) (Chullin 134b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:4",
+      "fr": "Tu lui donneras aussi les prémices de ton nouveau froment, du vin et de l'huile, et la première tonte de tes brebis.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ראשית דגנך LES PREMIERS FRUITS [AUSSI] DE TON MAÏS… [TU LUI DONNERAS] — Ceci fait référence à l'offrande élevée. L'Écriture ne fixe cependant aucune quantité minimale, mais nos rabbins en ont fixé une quantité allant du soixantième au quarantième : un œil bienveillant (une personne généreuse) donne un quarantième de la récolte, un avare au moins un soixantième, une personne de générosité moyenne un cinquantième. Ils ont trouvé un support dans l'Écriture selon lequel il ne faut pas donner moins d'un soixantième, car il est dit (Ézéchiel 45 : 13) « [Voici l'offrande élevée que vous offrirez :] le sixième d'un épha d'homer de blé ». Or, la sixième partie d'un épha est un demi-Seah ; si donc vous donnez la moitié d'un Seah comme Terumah à partir d'un Kor (qui est un autre terme pour un Homère), cela est une soixantième partie, car un Kor vaut trente Seahs (Talmud Yerushalmi Terumot 4:3)."
+        },
+        {
+          "id": 2,
+          "fr": "וראשית גז צאנך ET LE PREMIER DE LA TOison DE TON TROUPEAU [TU LUI DONNERAS] - c'est-à-dire que chaque année, lorsque vous tondez vos moutons (pas lorsque vous tondez un animal particulier pour la première fois), donnez le premier de celui-ci (la laine) au prêtre. L'Écriture ne mentionne aucune quantité minimale pour cela, mais nos rabbins lui ont assigné une quantité, à savoir un soixantième partie. Et combien de moutons doit-il y avoir dans le troupeau pour qu'ils soient soumis à la loi de ראשית הגז (de « donner la première tonte en cadeau au prêtre ») ? Au moins cinq moutons, comme il est dit (I Samuel 25:18) \"[Alors Abigaïl se dépêcha et… prit] cinq moutons tout habillés (עשויות). Rabbi Akiba dit : nous pouvons le déduire de notre texte lui-même, comme suit : ראשית גז suggère deux, צאנך aussi deux, ensemble quatre, תתן לו un, — au total cinq (Chullin 137a ; Sifrei Devarim 166 : 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:5",
+      "fr": "Car l'ÉTERNEL votre Dieu l'a choisi, lui et ses descendants, parmi toutes vos tribus, pour être présents au service au nom de DIEU pour toujours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לעמד לשרת SE TENIR POUR MINISTER — De là, nous pouvons déduire la loi selon laquelle le service sacrificiel doit être accompli debout (Sifrei Devarim 167 : 1 ; Sota 38a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:6",
+      "fr": "Si un Lévite souhaite se rendre de l'une des colonies d'Israël où il réside, à l'endroit que DIEU a choisi, il peut le faire quand il le souhaite.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי יבא הלוי ET SI UN LÉVITE VENAIT […ET MINISTRE] — On pourrait penser que l'Écriture parle d'un « Lévite » au sens habituel du mot (c'est-à-dire d'un לוי et non d'un כהן) ! L'Écriture continue cependant en déclarant (v. 7) « Et il exercera son ministère [au nom du Seigneur] » ; ainsi les Lévites doivent être exclus car ils ne sont pas aptes (n'ont pas droit au) service dans le Temple (Sifrei Devarim 168 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "ובא בכל אות נפשו ושרת ET VENIR AVEC TOUT LE DÉSIR DE SON ÂME… ET MINISTRE — Cela enseigne qu'un prêtre peut venir offrir son libre arbitre et ses sacrifices obligatoires même à un moment où une équipe sacerdotale est en charge à laquelle il n'appartient pas (Bava Kamma 109b). Une autre explication : Il enseigne en outre concernant les prêtres qui apparaissent dans le Temple comme pèlerins lors des fêtes qu'ils peuvent offrir [avec la rotation], et qui accomplissent les services liés aux sacrifices qui sont offerts à l'occasion de la fête, comme par exemple, les offrandes supplémentaires dues lors des fêtes - bien que ce déplacement ne leur appartienne pas (Sifrei Devarim 168 : 3 ; Soucca 55b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:7",
+      "fr": "Il peut servir au nom de l'ÉTERNEL son Dieu comme tous ses compagnons Lévites qui sont là devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 18:8",
+      "fr": "Ils recevront des parts égales des cotisations, sans égard aux dons ou patrimoines personnels.bsans égard aux dons ou patrimoines personnels Signification de l'Héb. incertain.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חלק כחלק יאכלו ILS PROFITERONT COMME DES PORTIONS ] Cela enseigne qu'ils (les prêtres qui viennent à Jérusalem lors des fêtes en tant que pèlerins mais qui ne sont pas responsables) participent aux peaux (des holocaustes dus lors des fêtes) et à la chair des boucs apportés en sacrifice pour le péché à cause des fêtes. On pourrait penser qu'ils participent aussi à des sacrifices qui ne sont pas offerts à l'occasion des fêtes, comme, par exemple, les holocaustes continus, les offrandes supplémentaires dues à cause du sabbat (au cours duquel tombe une fête) et les offrandes de vœux et de libre arbitre ! L'Écriture, cependant, déclare : לבד ממכריו על האבות [ILS BÉNÉFICIERONT DE PARTS COMME] SAUF LA VENTE DES PÈRES — c'est-à-dire à l'exception de ce que leurs ancêtres se vendaient entre eux à l'époque de David et de Samuel, lorsque le système des quarts de travail fut établi et qu'ils conclurent, pour ainsi dire, un accord de vente, en disant : « Prends les avantages sacerdotaux ordinaires pendant ta semaine et je les prendrai pendant ma semaine (Sifrei Devarim 169 :3 ; Soucca 56a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:9",
+      "fr": "Quand vous entrerez dans le pays que l’ÉTERNEL votre Dieu vous donne, vous n’apprendrez pas à imiter les pratiques odieuses de ces nations.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תלמד לעשות TU N'APPRENDRAS PAS À FAIRE [APRÈS LES ABOMINATIONS DE CES NATIONS] — tu n'apprendras pas à faire, mais tu peux apprendre leurs pratiques afin de les comprendre et d'enseigner aux autres, c'est-à-dire de comprendre leurs actes, à quel point ils sont dépravés, et ainsi pouvoir enseigner à tes enfants : « Ne faites pas ceci et cela parce que ce sont les observances religieuses de les païens ! (Sifrei Devarim 170 : 3 ; Sanhédrin 68a.)"
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:10",
+      "fr": "Qu'il ne se trouve personne parmi vous qui livre un fils ou une fille au feu, ou qui soit un augure, un devin, un devin, un enchanteur,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מעביר בנו ובתו באש [IL NE SE TROUVERA PARMI VOUS PERSONNE] QUI FAIT PASSER SON FILS OU SA FILLE PAR LE FEU ] C'était la façon d'adorer Molech. Ils firent deux bûchers, un de ce côté et un de l'autre (l'un en face de l'autre) et le passèrent (l'enfant) entre eux (cf. Sanhédrin 64b)."
+        },
+        {
+          "id": 2,
+          "fr": "קסם קסמים CELUI QUI UTILISE LA DIVINATION — Qu'est-ce qu'un devin ? Celui qui prend son bâton en main et dit (comme s'il le consultait) : « Dois-je y aller ou n'y vais-je pas ? Ainsi est-il dit (Osée 4 : 12) « Mon peuple demande conseil avec son bâton, et son bâton le lui déclare » (Sifrei Devarim 171 : 6)."
+        },
+        {
+          "id": 3,
+          "fr": "מעונן — Le rabbin Akiba a dit : Tels sont les gens qui assignent des moments (עונות pluriel de עונה « période », « temps ») – qui disent : « Ce moment est propice pour commencer un travail » ; les Sages, cependant, disent : Cela fait référence à ceux « qui contrôlent vos yeux » (qui trompent par tromperie optique ; ils relient מעונן à עין « œil ») (Sifrei Devarim 171 : 9)."
+        },
+        {
+          "id": 4,
+          "fr": "מנחש UN SORCIER — [celui qui tire des pronostics du fait que] le pain est tombé de sa bouche, ou qu'un cerf a croisé son chemin, ou que son bâton est tombé de sa main (Sifrei Devarim 171 :10 ; Sanhédrin 65b ; cf. Rachi sur Lévitique 19 :26)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:11",
+      "fr": "celui qui jette des sorts, ou celui qui consulte des fantômes ou des esprits familiers, ou celui qui s'enquiert des morts.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וחבר חבר OU UN CHARMEUR — Celui qui charme des serpents, des scorpions ou d'autres créatures en un seul endroit (חבר = « une assemblée ») (Sifrei Devarim 172 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "ושאל אוב OU UN CONSULTATEUR DE L'ESPRIT אוב — C'est une sorte de sorcellerie provoquée par un esprit dont le nom est פיתום (en grec : πύξον) qui parle depuis son aisselle (du charmeur), après avoir élevé un cadavre sous son aisselle (Sifrei Devarim 172 : 2)."
+        },
+        {
+          "id": 3,
+          "fr": "וידעני est celui qui met un os d'un animal, dont le nom est יִדּוֹעַ, dans sa bouche et l'os parle par voie de sorcellerie (Sanhédrin 65a ; cf. Rachi sur Lévitique 19 :31 et la note à ce sujet)."
+        },
+        {
+          "id": 4,
+          "fr": "ודרש אל המתים OU UN NÉCROMANCIER — comme, par exemple, celui qui élève un cadavre, le plaçant sur ses parties génitales, ou qui consulte un crâne (Sifrei Devarim 172 : 4 ; cf. Sanhédrin 65b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:12",
+      "fr": "Car quiconque fait de telles choses est en horreur à DIEU, et c'est à cause de ces choses odieuses que l'ÉTERNEL ton Dieu le dépossède devant toi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל אלה עשה [POUR] TOUS QUI FONT CES CHOSES [SONT UNE ABOMINATION POUR LE SEIGNEUR] — il ne dit pas « celui qui fait toutes ces choses », mais « tous ceux qui font ces choses » — qui n'en font même qu'une seule (Sifrei Devarim 173 : 1 ; cf. Makkot 24a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:13",
+      "fr": "Vous devez être de tout cœur avec l’ÉTERNEL votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תמים תהיה עם ה' אלהיך TU SERA PARFAIT AVEC LE SEIGNEUR TON DIEU — marche devant lui de tout cœur, mets ton espoir en Lui et n'essaye pas d'explorer l'avenir, mais quoi qu'il t'arrive, accepte-le de tout cœur, et alors tu seras avec Lui et deviendras Sa part (Sifrei Devarim 173 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:14",
+      "fr": "Les nations que vous allez déposséder ont en effet recours aux devins et aux augures ; mais l'ÉTERNEL, votre Dieu, ne vous a pas assigné cela.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא כן נתן לך ה' אלהיך MAIS LE SEIGNEUR TON DIEU NE T'A PAS SOUFAIT [FAIRE] - c'est-à-dire écouter מעוננים et קוסמים, car tu vois, Il a fait habiter Sa Divine Présence sur les prophètes et sur les « Urim et Thummim » (et ceux-ci vous informeront, si nécessaire, de ce que Dieu vous réserve)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:15",
+      "fr": "Du milieu de ton peuple, l'ÉTERNEL, ton Dieu, te suscitera un prophète comme moi, que tu écouteras.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מקרבך מאחיך כמני [LE SEIGNEUR TON DIEU SUSCITERA POUR TOI UN PROPHÈTE] DU MILIEU DE TOI, DE TES FRÈRES, COMME MOI — Cela signifie : Celui qui est comme moi, du milieu de toi, de tes frères, יקים לך SÉLEVERA-T-IL À TOI à ma place, et ainsi de même de prophète en prophète à travers tous les âges."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:16",
+      "fr": "C’est exactement ce que tu as demandé à l’ÉTERNEL ton Dieu à Horeb, le jour de l’Assemblée, en disant : « Que je n’entende plus la voix de l’ÉTERNEL mon Dieu et que je ne voie plus ce feu merveilleux, de peur que je ne meure. »",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 18:17",
+      "fr": "Alors DIEU me dit : « Ils ont bien fait de parler ainsi.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 18:18",
+      "fr": "Je leur susciterai du milieu de leur peuple un prophète comme toi, dans la bouche duquel je mettrai mes paroles et qui leur dira tout ce que je commande ;",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 18:19",
+      "fr": "et quiconque ne tient pas compte des paroles prononcées en mon nom, je lui en demanderai moi-même des comptes.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 18:20",
+      "fr": "Mais tout prophète qui ose prononcer en mon nom un oracle que je n'ai pas ordonné de prononcer, ou qui parle au nom d'autres dieux, ce prophète mourra.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר לא צויתיו לדבר [MAIS LE PROPHÈTE QUI DOIT PRENDRE PARLER UN MOT…] DONT JE NE L'AI PAS COMMANDÉ DE PARLER — mais que j'ai peut-être ordonné à son collègue prophète de parler (Sanhédrin 89a),"
+        },
+        {
+          "id": 2,
+          "fr": "ואשר ידבר בשם אלהים אחרים OU QUI DOIT PARLER AU NOM D'AUTRES DIEUX - même s'il est en parfait accord avec la Halacha, - qu'il interdit ce qui est interdit, ou permet ce qui est permis, [mais le fait au nom d'autres dieux] (Sanhédrin 89a),"
+        },
+        {
+          "id": 3,
+          "fr": "ומת IL MEURRA — par strangulation. — Il y a trois faux prophètes qui doivent être mis à mort par l'homme (par le tribunal) : celui qui prophétise quelque chose qu'il n'a pas entendu (il n'a pas reçu l'ordre de prophétiser) ; celui qui prophétise quelque chose qui ne lui a pas été dit mais qui a été dit à son compagnon prophète, et enfin celui qui prophétise au nom d'une idole. Mais celui qui supprime sa prophétie (ne la prononce pas comme il lui est ordonné de le faire), et celui qui transgresse les paroles d'un prophète, ou, étant lui-même prophète, transgresse ses propres paroles, leur mort incombe au Juge céleste, car il est dit (v. 19) « Je » l'exigerai de lui » (Sanhédrin 89a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:21",
+      "fr": "Et devriez-vous vous demander : « Comment pouvons-nous savoir que l’oracle n’a pas été prononcé par DIEU ? » –",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי תאמר בלבבך ET SI TU DITES DANS TON COEUR [COMMENT SAVOIRONS-NOUS LA PAROLE QUE LE SEIGNEUR N'A PAS PARLÉE] ? — vous demanderez cela une fois — quand Hananiah, fils d'Azur (le faux prophète) viendra et prophétisera (Jérémie 27 : 16) « Voici, les ustensiles de la maison de l'Éternel vont bientôt être ramenés de Babylone », tandis que Jérémie (le vrai prophète) se lève et proclame (Jérémie 27 : 19-22) « concernant les colonnes, et concernant la cuve, et concernant les bases, et concernant le reste des ustensiles [qui restent ». dans cette ville que Nebucadnetsar, roi de Babylone, n'a pas prise,…] » qui ne s'est pas exilé à Babylone avec Jeconiah, roi de Juda, « ils seront transportés à Babylone [et ils y resteront] » avec Sédécias quand il ira en exil (Sifrei Devarim 178 : 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 18:22",
+      "fr": "si le prophète parle au nom de DIEU et que l’oracle ne se réalise pas, cet oracle n’a pas été prononcé par DIEU ; le prophète l'a prononcé avec présomption : ne les craignez pas.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר ידבר הנביא QUAND LE PROPHÈTE PARLE [AU NOM DU SEIGNEUR] et dit : \"Cette chose vous arrivera une fois\", et vous verrez que cela n'est pas arrivé, הוא הדבר אשר לא דברו ה׳ C'EST LA CHOSE DONT LE SEIGNEUR N'A PAS PARLÉ — et, par conséquent, tuez-le. Si, cependant, vous dites : \" Mais ceci concerne quelqu'un qui prophétisera sur l'avenir. Mais supposez que quelqu'un vienne et dise : \" Faites ceci et cela, et je dis cela par ordre du Saint béni soit-Il \" ? Comment, alors, pouvons-nous savoir si Dieu a dit cela ou non ? \" La réponse est : dans un tel cas, il leur a déjà été ordonné que si quelqu'un vient à vous éloigner de l'un des commandements divins, לא תשמע לו « alors tu ne l'écouteras pas » (Deutéronome 13 :12), à moins que vous ne soyez certain qu'il est un homme parfaitement juste, comme, par exemple. Élie lors de l'incident du mont Carmel, qui offrit des sacrifices sur un Bamah (un autel improvisé) à une époque où les offrandes à Bamoth étaient interdites, mais qui l'a fait afin de protéger Israël contre l'idolâtrie. Tout dépend donc des besoins du moment et de la nécessité de prendre des mesures préventives (סיג) contre une violation. En référence à un tel cas, il est dit (v. 15) « vous l'écouterez » (Sanhédrin 89b ; Yevamot 90b)."
+        },
+        {
+          "id": 2,
+          "fr": "לא תגור ממנו TU N'ARAI PAS PEUR DE LUI — c'est-à-dire ne t'abstiens pas de prôner sa culpabilité (Sifrei Devarim 178 : 3) et ne crains pas d'encourir une punition à cause de lui (parce que tu as contribué à sa mort)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:1",
+      "fr": "Quand l'ÉTERNEL ton Dieu aura exterminé les nations dont le pays l'ÉTERNEL ton Dieu t'attribue, et que tu les auras dépossédées et installées dans leurs villes et leurs demeures,",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:2",
+      "fr": "tu réserveras trois villes dans le pays que l'ÉTERNEL ton Dieu te donne en possession.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:3",
+      "fr": "Tu examineras les distances et diviseras en trois parties le territoire du pays que l'ÉTERNEL ton Dieu t'a attribué, afin que tout meurtrier ait un lieu où fuir. Quant à la coupable féminine, l’affaire aurait pu être plus complexe.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תכין לך הדרך Tu te prépareras un chemin — « Refuge ! » \"Refuge!\" était inscrit à chaque carrefour (pour indiquer le chemin vers la ville de refuge la plus proche) (Makkot 10b)."
+        },
+        {
+          "id": 2,
+          "fr": "ושלשת את גבול ארצך ET TU DIVISERAS LE TERRITOIRE DE TA TERRE… EN TROIS PARTIES — de sorte que du point où commence la frontière jusqu'à la première ville de refuge, il y ait la même longueur de voyage que de celle-ci à la deuxième ville ; et qu'il devrait y avoir la même distance de la deuxième à la troisième et de la troisième à l'autre frontière (opposée) de la Terre d'Israël (Makkot 9b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:4",
+      "fr": "Or, c'est le cas de l'homicide qui peut s'y réfugier et y vivre : celui qui en a tué un autre sans le savoir, sans avoir été un ennemi dans le passé.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:5",
+      "fr": "Par exemple, un homme va avec un autre homme dans un bosquet pour couper du bois ; alors que sa main balance la hache pour abattre un arbre, la tête de hache s'envole du manche et frappe l'autre et il meurt. Cet homme s'enfuira dans l'une de ces villes et vivra.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונדחה ידו ET SA MAIN A MOUVÉ (GLIPÉ) alors qu'il était sur le point de laisser la hache tomber sur l'arbre. Le rendu du Targum est ותתמריג ידה, le sens étant « sa main s'est déplacée pour laisser le coup de hache tomber sur l'arbre ». Les mots (II Samuel 6 : 6) כי שמטו הבקר sont rendus dans le Targum Jonathan par : ארי מרגוהי תוריא « car les bœufs l'ont déplacée (l'Arche) »"
+        },
+        {
+          "id": 2,
+          "fr": "ונשל הברזל מן העץ — Certains de nos rabbins disent que cela signifie que le fer (hache) s'est envolé de son manche (העץ) ; mais certains d'entre eux disent que cela signifie que le fer a fait tomber un éclat de bois de l'arbre qui était en train d'être coupé, et il a sauté et l'a tué (selon cette explication, le mot העץ dans les deux cas fait référence à l'arbre) (Makkot 7b)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:6",
+      "fr": "Autrement, lorsque la distance est grande, le vengeur du sang, poursuivant le meurtrier avec une colère brûlante, peut l'atteindre et le frapper ; mais il n’encourait pas la peine de mort, puisqu’il n’avait jamais été l’ennemi de l’autre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פן ירדף גאל הדם DE peur que le vengeur du sang ne poursuive [le tueur] — c'est pourquoi je vous dis de vous préparer le chemin et [de préparer] de nombreuses villes de refuge."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:7",
+      "fr": "C'est pourquoi je te commande : réserve trois villes.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:8",
+      "fr": "Et quand l'ÉTERNEL ton Dieu agrandit ton territoire, comme cela a été juré à tes pères, pères Voir note à 1.35. et il vous donne tout le pays qui devait être donné à vos pères.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם ירחיב … כאשר נשבע ET SI [LE SEIGNEUR TON DIEU] AGRANDIT [TON TERRITOIRE], COMME IL A JURÉ [À TES PÈRES] de te donner le pays des Kénites, des Kénizites et des Kadmonites (Sifrei Devarim 184 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:9",
+      "fr": "si vous observez fidèlement toute cette instruction que je vous recommande aujourd'hui, d'aimer l'ÉTERNEL votre Dieu et de marcher dans les voies de Dieu en tout temps, alors vous ajouterez trois villes supplémentaires à ces trois.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויספת לך עוד שלש ALORS TU AJOUTERAS TROIS [VILLES] DE PLUS POUR TOI — Ainsi tu en as neuf en tout : les trois du côté est du Jourdain, les trois au pays de Canaan et trois autres dans le futur à venir lorsque Dieu agrandira ton territoire (Sifrei Devarim 185 : 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:10",
+      "fr": "Ainsi, le sang des innocents ne sera pas versé et vous serez coupables de sang dans le pays que l'ÉTERNEL votre Dieu vous attribue.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:11",
+      "fr": "Mais si un homme qui est l'ennemi d'un autre le guette, s'attaque à lui, lui porte un coup mortel et s'enfuit ensuite dans l'une de ces villes,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי יהיה איש שנא לרעהו MAIS SI UN HOMME DÉTESTE SON COMPAGNON [ET L'ATTEND] — C'est par sa haine qu'il en arrive au point de « l'attendre ». De là, ils (les rabbins) ont tiré leur déclaration : Si un homme transgresse un commandement léger, il finira par transgresser un commandement important ; — parce qu'il a transgressé le commandement (Lévitique 19 :17) « Tu ne haïras pas ton frère dans ton cœur », il finira par verser le sang. C’est pour cette raison qu’il est dit ici, apparemment de manière redondante, « mais si un homme hait son prochain [et le guette] », car il aurait dû écrire seulement : « Mais si un homme se lève et guette son prochain et le frappe à mort » (Sifrei Devarim 186 : 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:12",
+      "fr": "les anciens de sa ville le feront ramener de là et le livreront au vengeur du sang pour qu'il le mette à mort ;",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 19:13",
+      "fr": "vous ne devez lui montrer aucune pitié. Ainsi tu purgeras Israël du sang des innocents,cpurger Israël du sang des innocents Cf. Nombre. 35.33-34. et ça ira bien avec toi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תחוס עינך TON ŒIL NE PITTERA PAS [LUI] — c'est-à-dire que tu ne diras pas : La première (la seule) personne a déjà été tuée, pourquoi devrions-nous tuer celle-ci aussi, de sorte que deux Israélites soient tués ? (Sifrei Devarim 187 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:14",
+      "fr": "Vous ne déplacerez pas les bornes de votre prochain, posées par les générations précédentes, dans la propriété qui vous sera attribuée dans le pays que l'ÉTERNEL votre Dieu vous donne la possession.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תסיג גבול Tu n'enlèveras pas le repère de [ton prochain] — תסיג a la même signification que (Ésaïe 42 :17) « ils sont refoulés (נסגו אחור) ». Cela signifie que l'on déplace la marque qui montre la division du terrain (c'est-à-dire la division entre deux champs adjacents) en arrière dans le champ de son voisin afin d'agrandir ainsi le sien. — Mais n'est-il pas déjà dit. (Lévitique 19 : 13) « Tu ne voleras pas », pourquoi, alors, est-il également ordonné « Tu ne déplaceras pas le repère » ? Il enseigne que celui qui efface la frontière de son voisin transgresse deux commandements négatifs (לא תגזול et לא תסיג). On pourrait penser que c’est également le cas si l’on le fait en dehors de la Terre d’Israël ! L'Écriture, cependant, déclare : « dans ton héritage dont tu hériteras [dans le pays] » ; — ainsi, sur la Terre d'Israël, celui qui fait cela transgresse deux commandements négatifs, tandis qu'en dehors du pays, il transgresse uniquement le commandement de לא תגזול (Sifrei Devarim 188 : 1-2)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:15",
+      "fr": "Un seul témoin ne peut justifier contre un autre partie aucune culpabilité ou blâme pour une infraction qui pourrait être commise ; une affaire ne peut être valable que sur la déposition de deux témoins ou plus.dplus Voir note à 17.6.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עד אחד UN SEUL TÉMOIN [NE SE LÈVERA PAS CONTRE UN HOMME POUR AUCUNE INIQUITÉ] — C'est le passage classique dont dérive le principe général selon lequel partout où le terme « témoin » (עד) apparaît dans la Torah, il signifie deux témoins, à moins qu'il ne mentionne spécifiquement en relation avec lui le mot אחד (Sanhédrin 30a)."
+        },
+        {
+          "id": 2,
+          "fr": "לכל עון ולכל חטאת [UN TÉMOIN NE SE LEVERA PAS CONTRE UNE PERSONNE] POUR TOUTE INIVITÉ OU TOUT PÉCHÉ — c'est-à-dire que son prochain doit être puni en raison de son témoignage soit par une punition corporelle, soit par une punition monétaire ; mais il peut s'élever contre ses semblables pour le contraindre à prêter serment. Si, par exemple, quelqu'un dit à son prochain : \"Rends-moi le maneh que je t'ai prêté\", et qu'il répond \"Je n'ai rien de toi en ma possession\", et qu'un témoin témoigne qu'il l'a fait, il (l'accusé) doit prêter serment pour le satisfaire (Chevouot 40a ; cf. Sifrei Devarim 188 : 9)."
+        },
+        {
+          "id": 3,
+          "fr": "על פי שני עדים [À LA BOUCHE DE DEUX TÉMOINS... L'AFFAIRE SERA ÉTABLIE] — à leur bouche, mais pas pour qu'ils puissent écrire leur témoignage dans une lettre et l'envoyer au tribunal, ni qu'un interprète se place entre les témoins et les juges (Sifrei Devarim 188 : 10)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:16",
+      "fr": "Si quelqu'un comparaît contre une autre partie pour témoigner de manière malveillante et donne un témoignage incriminant mais faux,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לענות בו סרה [SI UN TÉMOIN DE VIOLENCE SE LÈVE CONTRE UN HOMME] POUR TÉMOIGNER CONTRE LUI סרה — c'est-à-dire une chose qui n'existe pas du tout ; ce terme est utilisé parce que ce témoin est loin (הוסר) d'avoir quoi que ce soit à voir avec ce témoignage. Comment ça ? (Donnez un exemple d'un tel cas) ?! Que deux autres témoins disent : « Mais n'étiez-vous pas avec nous ce jour-là (quand vous dites avoir vu l'accusé commettre ce crime) dans tel ou tel endroit (différent de celui où le crime allégué, selon vous, a eu lieu) ?! (Makkot 5a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:17",
+      "fr": "les deux parties en litige comparaîtront devant DIEU, devant les prêtres ou magistrats en autorité à ce moment-là,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועמדו שני האנשים ALORS LES DEUX HOMMES... SE TENIRONT [DEVANT LE SEIGNEUR] — L'Écriture ici fait référence aux témoins et enseigne premièrement qu'aucun témoignage n'est valable lorsqu'il est donné par des femmes, et enseigne deuxièmement qu'ils (les témoins) doivent soumettre leur témoignage debout (Chevouot 30a ; cf. Sifrei Devarim 190 : 1-3)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר להם הריב ENTRE QUI EST LE COMBAT — cela fait référence aux concurrents (Sanhédrin 19a)."
+        },
+        {
+          "id": 3,
+          "fr": "'לפני ה DEVANT LE SEIGNEUR ] Il devrait leur sembler comme s'ils se tenaient devant le Dieu omniprésent, car il est dit (Psaume 82 : 1) « Il (Dieu) juge parmi les juges » (cf. Sifrei Devarim 190 : 5 ; Sanhédrin 6b)."
+        },
+        {
+          "id": 4,
+          "fr": "אשר יהיו בימים ההם [ET ILS... SE TENIRONT DEVANT... LES JUGES] QUI SERA EN CES JOURS — Les mots apparemment redondants « qui sera en ces jours-là » suggèrent : Jephthé dans sa génération doit être considéré comme Samuel dans sa génération : vous devez le traiter avec respect (Rosh Hashanah 25b ; cf. Rachi sur Deutéronome 17 :9 et Deutéronome 26 :3)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:18",
+      "fr": "et les magistrats feront une enquête approfondie. Si celui qui a déposé est un faux témoin, ayant témoigné faussement contre un autre Israélite,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ודרשו השפטים היטב ET LES JUGES DOIVENT ENQUÊTER DILIGEMMENT sur la déclaration de ceux qui affirment qu'ils (les premiers témoins) sont des « témoins comploteurs », en ce sens qu'ils enquêtent et contre-interrogent ceux qui affirment qu'ils sont des « témoins comploteurs » par une enquête et un examen diligents."
+        },
+        {
+          "id": 2,
+          "fr": "והנה עד שקר העד ET, VOYEZ, SI LE TÉMOIN EST UN FAUX TÉMOIN — Partout où עד est écrit, [sauf si le chiffre אחד, « un » est ajouté (cf. Rachi sur le v. 15)], l'Écriture parle de deux témoins (Sanhédrin 30a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:19",
+      "fr": "tu feras à l'un ce que l'un a projeté de faire à l'autre. Ainsi vous balayerez le mal du milieu de vous ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כאשר זמם [ALORS VOUS LUI FAIREEZ] COMME IL AVAIT L'INTENTION D'AVOIR FAIT [À SON FRÈRE] — comme il avait l'intention de faire, mais pas comme il l'a fait ! C'est pourquoi ils (les rabbins) ont déclaré que s'ils (les faux témoins) ont déjà tué (c'est-à-dire si par leur témoignage l'accusé a déjà été exécuté), ils ne sont pas mis à mort (Makkot 5b)."
+        },
+        {
+          "id": 2,
+          "fr": "לעשות לאחיו [ALORS VOUS LUI FAIRE COMME IL AVAIT L'INTENTION] D'AVOIR FAIT À SON FRÈRE — Quelle est la force de לאחיו ? N'aurait-il pas suffi d'énoncer כאשר זמם לעשות ? Mais il enseigne à l'égard des témoins qui ont été prouvés avoir « comploté » contre une fille mariée d'un prêtre par une accusation d'adultère, qu'ils ne doivent pas être punis de l'incendie (comme cela aurait été le châtiment de la femme accusée, si elle avait été reconnue coupable), mais de la peine de mort à laquelle aurait été soumis l'adultère présumé, qui est l'étranglement. Car il est dit d'une telle femme (Lévitique 21 :9) « elle sera brûlée vive » — « elle », mais pas son amant (il n'est pas brûlé mais étranglé) — c'est pourquoi il est dit ici לאחיו, « à son frère » — « « [vous lui ferez] comme il avait eu l'intention de faire à son frère » mais pas ce qu'il avait eu l'intention de faire à sa sœur. Ce cas est cependant une exception, mais en ce qui concerne toute autre peine de mort, l’Écriture met les femmes sur le même plan que les hommes, et par conséquent ceux dont il est prouvé qu’ils ont « comploté » contre une femme subissent la même peine de mort que ceux dont il est prouvé qu’ils ont « comploté » contre un homme. Par exemple, ils ont témoigné contre elle qu'elle a tué une personne, ou qu'elle a profané le sabbat, puis on leur fait subir la mort qu'elle aurait subie, car l'Écriture exclut ici par le mot אחיו les témoins « comploteurs » de la peine de mort de la sœur (c'est-à-dire que la femme aurait subie) uniquement parce que c'est un cas où la loi concernant les témoins comploteurs peut leur être appliquée en les laissant subir la peine de mort de l'amant. (Sifrei Devarim 190 :14 ; Sanhédrin 90a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:20",
+      "fr": "d’autres entendront et auront peur, et de telles choses mauvaises ne se reproduiront plus parmi vous.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ישמעו ויראו [ET CEUX QUI RESTE] ENTENDRONT ET CRAIENT — De là, nous dérivons la loi selon laquelle une annonce publique est requise : « Les hommes nommés tel et tel doivent être exécutés parce qu'ils ont été reconnus coupables par le tribunal en tant que « témoins de complot » (Sanhédrin 89a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 19:21",
+      "fr": "Il ne faut pas non plus faire preuve de pitié : vie pour vie, œil pour œil, dent pour dent, main pour main, pied pour pied.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עין בעין EYE FOR EYE — c'est-à-dire une compensation monétaire ; de même aussi « dent pour dent », etc. (Sifrei Devarim 190 :16 ; Bava Kamma 84a ; cf. aussi Rachi sur Exode 21 :24)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:1",
+      "fr": "Quand vous vous adressez à la milice, comme agissant au nom de la nation. prenez le terrain contre vos ennemis, et voyez des chevaux et des chars - des forces plus grandes que les vôtres - n'ayez pas peur d'eux, car l'ÉTERNEL votre Dieu, qui vous a fait sortir du pays d'Égypte, est avec vous.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי תצא למלחמה QUAND TU PARTIS EN GUERRE — L'Écriture place le fait de partir en guerre en juxtaposition avec cette section ici (à עין בעין וכו׳) afin de vous dire qu'aucune personne dépourvue d'un membre ne part à la guerre (cf. Sifrei Devarim 190 : 17). Une autre explication de la raison pour laquelle ces deux sections sont juxtaposées l'une à l'autre : c'est pour vous dire que si vous exécutez un jugement juste, vous pouvez être sûr que si vous partez en guerre, vous serez victorieux. De la même manière, David dit : (Psaumes 119 :121) « J’ai exercé le jugement et la justice ; tu ne me laisseras pas entre les mains de mes oppresseurs » (Midrash Tanchuma, Shoftim 15)."
+        },
+        {
+          "id": 2,
+          "fr": "על איבך CONTRE TES ENNEMIS ] Qu'ils soient à tes yeux comme des ennemis : n'aie aucune pitié pour eux, car ils n'auront aucune pitié pour toi (Midrash Tanchuma, Shoftim 15)."
+        },
+        {
+          "id": 3,
+          "fr": "סוס ורכב [QUAND TU PARTS À LA GUERRE... ET VOIS] CHEVAUX ET CHARS (lit., cheval et char) — à mes yeux, ils ne sont tous qu'un seul cheval (c'est-à-dire qu'ils ne comptent pas). De la même manière, il déclare (Juges 6 : 16) « [Sûrement « je » serai avec toi,] et tu frapperas les Madianites comme un seul homme ». Et de la même manière, il déclare : (Exode 15 :19) « Car le cheval (et non les chevaux) de Pharaon est venu [dans la mer] » (Midrash Tanchuma, Shoftim 16 ; cf. Sifrei Devarim 190 :21)."
+        },
+        {
+          "id": 4,
+          "fr": "עם רב ממך [QUAND TU PARTS À LA GUERRE… ET VOIS] DES GENS PLUS QUE TOI (ou, comme cela peut être traduit : DES GENS, NOMBREUX DE TON POINT DE VUE) — à tes yeux, ils peuvent sembler nombreux mais à mes yeux ils ne sont pas nombreux (Midrash Tanchuma, Shoftim 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:2",
+      "fr": "Avant de vous lancer dans la bataille, le prêtre s'avancera et s'adressera aux troupes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כקרבכם אל המלחמה [CE DOIT ÊTRE] QUAND VOUS ARRIVEZ À LA BATAILLE, [QUE LE PRÊTRE… PARLE] - c'est-à-dire lorsque vous êtes sur le point de quitter le ספר - la limite de votre pays (Sifrei Devarim 191)."
+        },
+        {
+          "id": 2,
+          "fr": "ונגש הכהן ET \"LE\" PRÊTRE S'approchera [ET PARLE] \"le\" prêtre signifie celui qui a été oint à cet effet ; c'est celui qui est appelé dans le Talmud משוח מלחמה, « le prêtre oint pour la guerre » (Sotah 42a)."
+        },
+        {
+          "id": 3,
+          "fr": "ודבר אל העם ET IL PARLERA AU PEUPLE — dans la langue sainte (Sotah 42a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:3",
+      "fr": "Il leur dira : \"Écoutez, ô Israël ! Vous êtes sur le point d'engager le combat avec votre ennemi. Ne laissez pas votre courage faiblir. Ne soyez pas dans la peur, ni dans la panique, ni dans la crainte d'eux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שמע ישראל [ET IL LEUR DIT] Écoutez Israël — Même si vous n'avez d'autre mérite que l'accomplissement du commandement de « Lire le Shema », vous mériteriez qu'Il vous aide (Sotah 42a)."
+        },
+        {
+          "id": 2,
+          "fr": "על איבכם [ VOUS APPROCHEZ CE JOUR À LA GUERRE ] CONTRE VOS ENNEMIS ] Par ces mots apparemment redondants, le prêtre dit, pour ainsi dire : Rappelez-vous que ce ne sont pas vos frères, et si vous tombez entre leurs mains, ils n'auront aucune pitié pour vous ; - ce n'est pas comme la guerre de Juda contre Israël dont il est dit (II Chroniques 28 : 15) « Et les hommes nommément nommés se levèrent et prirent les captifs ; frères : ils sont retournés à Samarie » — ce sont vos ennemis contre lesquels vous marchez, montrez-vous donc forts pour la bataille (Sifrei Devarim 192 : 2 ; Sotah 42a)."
+        },
+        {
+          "id": 3,
+          "fr": "Ne laissez pas vos cœurs s'évanouir ; N'ayez crainte, et ne vous dépêchez pas, ni ne soyez terrifiés à cause d'eux. — Ce sont quatre avertissements correspondant à quatre choses que font les rois des nations au combat : ils rapprochent leurs boucliers pour les frapper l'un contre l'autre et font ainsi un grand bruit pour que leurs adversaires fuient précipitamment ; ils piétinent lourdement le sol avec leurs chevaux — et les font hennir — afin de faire du bruit à travers le battement des sabots de leurs chevaux ; eux-mêmes crient à haute voix et sonnent des trompettes et autres instruments bruyants."
+        },
+        {
+          "id": 4,
+          "fr": "אל ירך לבבכם QUE VOS CŒURS NE S'ÉFAILLENT PAS — à cause des hennissements des chevaux,"
+        },
+        {
+          "id": 5,
+          "fr": "אל תיראו NE CRAINDEZ PAS le bruit fait par le choc des boucliers,"
+        },
+        {
+          "id": 6,
+          "fr": "ואל תחפזו ET NE VOUS DÉPÊCHEZ PAS PRÉCIPITEMENT au son des trompettes,"
+        },
+        {
+          "id": 7,
+          "fr": "ואל תערצו NE SOYEZ PAS TERRIFIÉ par le bruit des cris (Sifrei Devarim 192 : 3 ; Sotah 42)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:4",
+      "fr": "Car c’est l’ÉTERNEL ton Dieu qui marche avec toi pour combattre pour toi contre ton ennemi, pour t’apporter la victoire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי ה׳ אלהיכם וגו׳ POUR LE SEIGNEUR VOTRE DIEU [EST-IL QUI VA AVEC VOUS] — Ils viennent à la guerre en s'appuyant sur la force conquérante des êtres humains (lit., chair et sang) mais vous venez en vous appuyant sur la force du Dieu omniprésent ! Les Philistins sont autrefois entrés en guerre en s’appuyant sur la force de Goliath – quelle a été sa fin ? Il tomba et ils tombèrent avec lui (Sotah 42a)."
+        },
+        {
+          "id": 2,
+          "fr": "ההלך עמכם [POUR LE SEIGNEUR TON DIEU] VA AVEC TOI — cela fait référence au camp de l'Arche Sainte (le camp qui a l'Arche Sainte en son milieu, c'est-à-dire le camp des Lévites) (Sotah 42a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:5",
+      "fr": "Alors les officiers s'adresseront aux troupes en ces termes : \" Y a-t-il quelqu'un qui a construit une nouvelle maison mais ne l'a pas consacrée ? Qu'il retourne chez lui, de peur qu'il ne meure au combat et qu'un autre ne la consacre. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא חנכו [QUEL HOMME EST LÀ QUI A CONSTRUIT UNE NOUVELLE MAISON] ET NE L'A PAS DÉDIÉE - c'est-à-dire qui n'y a pas encore habité. Le terme חנך désigne le début d'une chose (ici, cela signifie commencer à y vivre ; cf. Rachi sur Genèse 14 : 14)."
+        },
+        {
+          "id": 2,
+          "fr": "ואיש אחר יחנכנו [PEUT-IL MOURIR DANS LA GUERRE] ET UN AUTRE HOMME LE DÉDIERA - ce qui est une question qui provoque du chagrin."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:6",
+      "fr": "Y a-t-il quelqu’un qui a planté une vigne mais ne l’a jamais récolté ? Qu'il retourne chez lui, de peur qu'il ne meure au combat et qu'un autre ne le récolte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא חללו [ET QUEL HOMME EST LÀ QUI A PLANTÉ UN VIGNOBLE] ET N'EN A PAS ENCORE MANGÉ — לא חללו signifie, ne l'a pas encore racheté dans la quatrième année de sa croissance, car les fruits devaient soit être mangés à Jérusalem, soit recevoir un caractère non sacré (חולין), en les échangeant contre de l'argent et la valeur de l'argent doit être consommée à Jérusalem (l'expression ne signifie donc rien de plus que : qui n'en a pas mangé)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:7",
+      "fr": "Y a-t-il quelqu'un qui a payé la dot pour une femme,bpayé la dot pour une femme, faisant ainsi d'elle sa femme légalement, même si elle n'a pas encore emménagé, mais qui ne l'a pas encore accueillie [dans sa maison] ? Qu'il retourne chez lui, de peur qu'il ne meure au combat et qu'un autre ne la prenne pour femme.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פן ימות במלחמה [LAISSEZ-LE PARTIR ET RETOURNER] DE PEUR QU'IL MEURT DANS LA GUERRE — Le sens est : qu'il revienne pour qu'il ne meure pas, car s'il n'écoute pas les paroles des prêtres, il mérite la mort (Sifrei Devarim 194 : 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:8",
+      "fr": "Les officiers continueront à s'adresser aux troupes et diront : \" Y a-t-il quelqu'un qui a peur et qui est découragé ? Qu'il rentre chez lui, de peur que le courage de ses camarades ne s'affaisse comme le sien. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויספו השטרים ET LES BAILLIFS [PARLERONT] PLUS [AU PEUPLE] — Pourquoi dit-il ici : ils parleront davantage au peuple ? Le sens est qu'ils ont ajouté ceci aux paroles du prêtre, car le prêtre parlait et proclamait de שמע ישראל (v. 3) à להושיע אתכם (fin de 5:4), tandis que les paragraphes commençant par מי האיש (v. 5) et par le deuxième מי האיש (v. 6) et avec le troisième מי האיש (v. 7), le prêtre dit doucement et les officiers proclamèrent. Ce paragraphe, les officiers ont parlé et proclamé, de sorte que l'Écriture introduit à juste titre cette dernière partie par le mot ויספו השוטרים (Sotah 43a)."
+        },
+        {
+          "id": 2,
+          "fr": "הירא ורך הלבב [QUEL HOMME Y A-T-IL] QUI EST CRAINDANT ET TÉMOIGNÉ — Rabbi Akiba a dit : Prenez ces mots comme ce qu'ils impliquent littéralement ; ils signifient qu'il ne peut pas se tenir dans les rangs denses de la bataille et regarder une épée nue. Le rabbin José, le Galiléen, a dit que cela signifie quelqu'un qui a peur des péchés qu'il a commis, et c'est pourquoi l'Écriture lui a donné l'occasion d'attribuer son retour à sa maison, à sa vigne ou à sa femme, afin de voiler les motivations de ceux qui sont réellement revenus à cause des péchés qu'ils avaient commis, afin que les gens ne sachent pas qu'ils étaient de grands pécheurs, et quiconque verrait une personne revenir dirait : « Peut-être a-t-il construit une maison, ou planté une vigne ou fiancé un femme »(Sotah 44a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:9",
+      "fr": "Lorsque les officiels ont fini de s'adresser aux troupes, les commandants de l'armée prennent le commandement des troupes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שרי צבאות [ILS NOMMERONT] DES OFFICIERS DES HÔTES ] Cela signifie qu'ils placeront des gardes (זוקפין de זקף « se tenir debout ») devant et derrière eux (les troupes), avec des haches de fer à la main, et si quelqu'un tentait de déserter, il (le garde) était autorisé à lui couper les jambes. זוקפין sont des hommes qui se tenaient dans les ailes de la ligne de bataille pour relever (זקף) ceux qui tombaient et pour les renforcer par des paroles d'encouragement : « Retournez au combat et ne fuyez pas, car la fuite est la première étape vers la défaite » (Sifrei Devarim 198 ; Sotah 44)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:10",
+      "fr": "Lorsque vous approchez d'une ville pour l'attaquer, vous lui offrirez des conditions de paix. Vous lui offrirez des conditions de paix ou « lui demanderez de se rendre ».",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי תקרב אל עיר QUAND TU APPROCHES D'UNE VILLE [ POUR LUTTER CONTRE ELLE] — L'Écriture parle d'une guerre qui ne leur est pas obligatoire (comme ce fut le cas de la guerre contre les sept nations de Canaan, mentionnée au v. 16), comme il est clairement indiqué dans cette section (v. 15) « Tu feras ainsi à toutes les villes qui sont très loin [de toi] » etc. (Sifrei Devarim 199 : 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:11",
+      "fr": "S'il répond pacifiquement et vous laisse entrer, toutes les personnes présentes vous serviront aux travaux forcés.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל העם הנמצא בה TOUS LES GENS QUI S'Y TROUVENT [SONT DES TRIBUTARIES] — tous : même si vous y trouvez des personnes appartenant aux sept nations qu'il vous a été ordonné d'exterminer, vous êtes autorisé à les garder en vie (Sifrei Devarim 200 : 2)."
+        },
+        {
+          "id": 2,
+          "fr": "למס ועבדוך [TOUS LES GENS… SERONT] TRIBUTARES [À TOI], ET ILS TE SERVIR — Vous ne devez pas accepter leur reddition tant qu'ils n'ont pas pris sur eux à la fois le paiement du tribut et de la servitude (un seul ne suffit pas) (Sifrei Devarim 200 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:12",
+      "fr": "S'il ne se rend pas à vous, mais veut combattre avec vous, vous l'assiégerez ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם לא תשלים עמך ועשתה עמך מלחמה — L'Écriture vous dit que si elle ne fait pas la paix avec vous, elle finira par vous faire la guerre (vous attaquer) — si vous la laissez tranquille et partez (Sifrei Devarim 200 : 4). (La traduction est donc : ET SI IL NE FAIT PAS LA PAIX AVEC TOI. IL FERA LA GUERRE CONTRE TOI)."
+        },
+        {
+          "id": 2,
+          "fr": "וצרת עליה ALORS TU L'ASSIÈGERA — Cela implique que tu as le droit même de le mourir de faim, de lui faire souffrir la soif et de le tuer (les habitants) par des maladies mortelles (Sifrei Devarim 200 : 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:13",
+      "fr": "et quand l'ÉTERNEL ton Dieu le livrera entre tes mains, tu passeras tous ses mâles au fil de l'épée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונתנה ה' אלהיך בידך signifie ALORS LE SEIGNEUR TON DIEU LE METTRA ENTRE TES MAINS — si tu as fait tout ce qui est prescrit dans cette section, le Seigneur le remettra finalement entre tes mains (Sifrei Devarim 200 : 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:14",
+      "fr": "Vous pouvez cependant prendre pour butin les femmes, les enfants, le bétail et tout ce qui se trouve dans la ville, tout son butin, et jouir de l'usage du butin de votre ennemi, que l'ÉTERNEL votre Dieu vous donne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והטף ET LES PETITS [… TU PRENDRAS SUR TOI-MÊME] — les enfants mâles aussi. Mais comment dois-je comprendre (v. 13) « et tu frapperas tous les mâles » ? En référence aux adultes mâles (Sifrei Devarim 200 : 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:15",
+      "fr": "Ainsi tu traiteras avec toutes les villes qui sont très éloignées de toi, les villes qui n'appartiennent pas aux nations d'ici.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 20:16",
+      "fr": "Mais dans les villes de ces derniers peuples, que l'ÉTERNEL votre Dieu vous donne en héritage, vous ne laisserez personne vivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 20:17",
+      "fr": "Non, il faut proscrireproscrire Voir Lév. 27.29. eux, les Hittites et les Amoréens, les Cananéens et les Phéréziens, les Hivites et les Jébusiens, comme l'ÉTERNEL votre Dieu vous l'a ordonné,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כאשר צוך [MAIS TU LES VOULEZ À LA DESTRUCTION : LES HITTITES,… ET LES JÉBUSITES,] COMME [LE SEIGNEUR TON DIEU] T'A COMMANDÉ — Les mots : « comme Dieu te l'a commandé » sont destinés à inclure les Girgashites (la septième nation qui n'est pas mentionnée ici) (Sifrei Devarim 201 : 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:18",
+      "fr": "de peur qu'ils ne vous amènent à faire toutes les choses odieuses qu'ils ont faites pour leurs dieux et que vous ne soyez coupable devant l'ÉTERNEL votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למען אשר לא ילמדו [MAIS TU LES VOULEZ À LA DESTRUCTION…] QU'ILS VOUS APPRENNENT À NE PAS FAIRE [APRÈS LEURS ABOMINATIONS] — Par conséquent, s'ils se repentent de leurs abominations et souhaitent devenir prosélytes, vous êtes autorisé à les accepter comme tels (Sifrei Devarim 202 : 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:19",
+      "fr": "Lorsque, dans votre guerre contre une ville, vous devez l'assiéger longtemps pour la capturer, vous ne devez pas détruire ses arbres en brandissant la hache contre eux. Vous pouvez en manger, mais vous ne devez pas les couper. Les arbres des champs sont-ils humains pour se retirer devant vous dans la ville assiégée ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ימים [QUAND TU ASSIEGERA UNE VILLE] ימים JOURS — Le pluriel implique au moins deux jours,"
+        },
+        {
+          "id": 2,
+          "fr": "רבים BEAUCOUP doit impliquer au moins trois jours (cf. Rachi sur Lévitique 15 :25). De là, ils (les rabbins) ont dérivé la loi selon laquelle le siège d'une ville païenne ne doit pas commencer moins de trois jours avant le sabbat, et cela (ce verset) vous enseigne que l'ouverture (l'invitation à faire) la paix (v. 10) doit être répétée deux ou trois jours, car ainsi il est dit (II Samuel 1 : 1) « Et David demeura deux jours (ימים שנים) à Tsiklag » (Sifrei Devarim 200 : 4 ; Shabbat 19a). Et l'Écriture parle ici d'une guerre qui ne leur est pas obligatoire (Sifrei Devarim 200 : 1)."
+        },
+        {
+          "id": 3,
+          "fr": "כי האדם עץ השדה CAR L'ARBRE DU CHAMP EST-IL UN HOMME [QU'IL DOIT ÊTRE ASSIÉGÉ PAR TOI] ? — כי a ici le sens de « peut-être », « peut-être » (cf. Rachi sur Exode 23 :5) — l'arbre des champs est-il peut-être un homme capable de se retirer devant vous dans la ville assiégée, pour être châtié par les souffrances de la famine et de la soif comme les habitants de la ville ? Pourquoi devriez-vous le détruire ?"
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 20:20",
+      "fr": "Seuls les arbres dont vous savez qu’ils ne produisent pas de nourriture peuvent être détruits ; vous pouvez les abattre pour construire des ouvrages de siège contre la ville qui vous fait la guerre, jusqu'à ce qu'ils soient réduits.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עד רדתה [ET TU CONSTRUIRE DES REMPARTS CONTRE LA VILLE…] JUSQU'À רדתה — Ceci (le mot רדתה) signifie « soumettre », [et le sens est que tu l'assiégeras jusqu'à ce que] elle devienne soumise."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 21:1",
+      "fr": "Si, dans le pays que l'ÉTERNEL, ton Dieu, te donne la possession, on trouve un tué étendu à découvert, sans que l'on connaisse l'identité du meurtrier,",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 21:2",
+      "fr": "vos anciens et vos magistrats sortiront et mesureront les distances depuis le cadavre jusqu'aux villes voisines.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויצאו זקניך ALORS LES ANCIENS [ET LES JUGES] PARTIRONT — c'est-à-dire les distingués parmi tes aînés, ce sont le Grand Sanhédrin (Sotah 44b)."
+        },
+        {
+          "id": 2,
+          "fr": "ומדדו ET ILS MESURERONT — à partir de l'endroit où repose le cadavre,"
+        },
+        {
+          "id": 3,
+          "fr": "אל הערים אשר סביבת החלל AUX VILLES QUI SONT AUTOUR DE LUI QUI EST TUÉ — dans toutes les directions, afin de déterminer laquelle est la plus proche."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 21:3",
+      "fr": "Les anciens de la ville la plus proche du cadavre prendront alors une génisse qui n'a jamais été travaillée, qui n'a jamais tiré un joug ;",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 21:4",
+      "fr": "et les anciens de cette ville feront descendre la génisse vers un torrent toujours courant, qui n'est ni labouré ni semé. Là, dans le torrent, on brisera le cou de la génisse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל נחל איתן DANS UNE VALLÉE QUI EST איתן — ce qui est dur ; c'est-à-dire celui qui n'a jamais été labouré (Sifrei Devarim 207 : 2 ; Sotah 45b)."
+        },
+        {
+          "id": 2,
+          "fr": "וערפו ET ILS FRAPPERONT LE COU DE [LA GÉNISSE] - c'est-à-dire qu'on lui brise le cou avec une hachette. Le Saint, béni soit-Il, dit pour ainsi dire : Qu'une génisse qui n'a qu'un an et qui n'a donc produit aucun fruit (pas de progéniture) ait le cou brisé à un endroit (la vallée inexplorée) qui n'a pas produit de fruits, pour expier le meurtre de celui à qui ils n'ont pas permis d'engendrer davantage d'enfants (Sotah 46a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 21:5",
+      "fr": "Les prêtres, fils de Lévi, s'avanceront ; car l'ÉTERNEL ton Dieu les a choisis pour le service divin et pour prononcer la bénédiction au nom de DIEU, et tout procès et cas d'agression Cf. 17.8. Ou « affection cutanée » ; cf. 24.8. est soumis à leur décision.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 21:6",
+      "fr": "Alors tous les anciens de la ville la plus proche du cadavre se laveront les mains sur la génisse dont le cou a été brisé dans le wadi.",
+      "rashi": []
+    },
+    {
+      "ref": "Deuteronomy 21:7",
+      "fr": "Et ils feront cette déclaration : « Nos mains n’ont pas versé ce sang, et nos yeux ne l’ont pas vu faire.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ידינו לא שפכה [ET ILS RÉPONDRONT ET DIRONT,] NOS MAINS N'ONT PAS VERSÉ [CE SANG] — Mais viendrait-il à l'esprit de quelqu'un que les anciens de la cour soient suspectés d'effusion de sang ?! Mais le sens de la déclaration est le suivant : nous ne l'avons jamais vu et nous l'avons sciemment laissé partir sans nourriture ni escorte (si nous l'avions vu, nous ne l'aurions pas laissé partir sans celles-ci) (Sifrei Devarim 210 : 2 ; Sotah 45b). Les prêtres disent alors (verset suivant) : כפר לעמך ישראל PARDONNE À TON PEUPLE ISRAËL."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 21:8",
+      "fr": "Absolvez, ô ÉTERNEL, votre peuple Israël que vous avez racheté, et ne laissez pas la culpabilité du sang des innocents demeurer parmi votre peuple Israël. Et ils seront absous de tout crime de sang.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונכפר להם הדם ET LE SANG LEUR EST PARDONNÉ — L'Écriture leur annonce que lorsqu'ils auront fait cela (la cérémonie prescrite), leur péché sera pardonné (Sotah 46a)."
+        }
+      ]
+    },
+    {
+      "ref": "Deuteronomy 21:9",
+      "fr": "Ainsi, vous ôterez du milieu de vous la culpabilité à cause du sang des innocents, car vous ferez ce qui est droit aux yeux de DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואתה תבער MAIS TU ÉLIMINERAS [LA CULPABILITÉ DU SANG INNOCENT PARMI VOUS] — Cela enseigne que si le meurtrier est retrouvé après que le cou de la génisse ait été brisé, il doit néanmoins être mis à mort, — et c'est ce que l'Écriture décrit comme הישר בעיני ה׳ JUSTE AUX YEUX DU SEIGNEUR (cf. Sotah 47b ; Ketubot 37b et Tosafot sur Ketubot 37b :16.1 ואח\"כ נמצא ההורג)."
+        }
+      ]
+    }
+  ]
+}

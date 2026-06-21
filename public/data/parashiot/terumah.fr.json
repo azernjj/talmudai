@@ -1,0 +1,1226 @@
+{
+  "name": "Terouma",
+  "range": "Exodus 25:1-27:19",
+  "verses": [
+    {
+      "ref": "Exodus 25:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 25:2",
+      "fr": "Dis au peuple israélite de M'apporter des cadeaux ; vous accepterez des cadeaux pour Moi de la part de toute personne dont le cœur est ainsi ému.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקחו לי תרומה QU'ILS ME PRENDENT UNE OFFRE LOURDE — « Moi » signifie à la gloire de Mon Nom (Midrash Tanchuma, Terumah 1)."
+        },
+        {
+          "id": 2,
+          "fr": "תרומה est quelque chose de mis à part (cf. Onkelos) ; le sens est : qu'ils mettent à part de leurs biens un don volontaire en mon honneur."
+        },
+        {
+          "id": 3,
+          "fr": "ידבנו לבו — Le mot ידבנו a la même racine que נדבה (le נ dans ce dernier étant remplacé par le Dagesh dans le ד) ; c'est un terme désignant « bonne volonté », apaisement en vieux français (cf. Rachi sur Genèse 33 :10 et Lévitique 19 :5)."
+        },
+        {
+          "id": 4,
+          "fr": "תקחו את תרומתי VOUS PRENDRE MON OFFrande élevée — Nos rabbins ont dit : l'expression תרומה est utilisée ici trois fois, étant une allusion à trois offrandes élevées différentes ; l'une est l'offrande élevée qui consistait en un beka (un demi-shekel) par tête, et dont les alvéoles étaient faites, comme indiqué dans la section אלה פקודי (Exode 39 : 26-27) ; une autre est l'offrande élevée pour l'autel — un beka, une tête qui était donnée aux fonds (plus lit., « le panier », dans lequel étaient faites les collectes à des fins communautaires ou caritatives) à partir duquel acheter les sacrifices communautaires ; (voir Rachi sur Exode 30 : 15) et l'autre est celle impliquée dans le mot תרומתי « Mon offrande élevée » et mentionnée par le mot כסף dans le verset suivant — l'offrande élevée pour le Tabernacle qui était un don volontaire de chaque individu (Jérusalem Talmud Shekalim 1 : 1). Treize articles différents (cf. Tanchuma) qui sont mentionnés dans cette section étaient tous nécessaires soit pour le travail du Tabernacle (c'est-à-dire la construction du Tabernacle ou la fabrication des articles qu'il contient), soit pour les vêtements des prêtres, comme vous le découvrirez en examinant la question de près."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:3",
+      "fr": "Et voici les dons que vous accepterez d'eux : de l'or, de l'argent et du cuivre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זהב וכסף ונחשת וגו׳ OR ET ARGENT ET CUIVRE etc. — Tous ces éléments sont venus (ont été apportés) comme cadeaux volontaires, chacun donnant selon son cœur, à l'exception de l'argent qui a été apporté par tous en quantités égales (cf. Rachi ci-dessus), un demi-shekel par chaque personne. Car nous ne trouvons pas dans le récit de l'ensemble des travaux liés au Tabernacle qu'il fallait de l'argent pour le travail décrit en détail en plus de cela, car il est dit (Exode 38 : 25-26) « Et l'argent de ceux qui étaient recensés dans la congrégation [était de cent talents, etc.]… un beka pour chaque homme, etc. et vv. Les numéros 27 et 28 nous informent que de cet argent furent faits les douilles et les crochets. De l'autre argent qui est venu (a été apporté) là-bas, comme don volontaire, ils ont fait les vases sacrés (litt., vases pour le service), et c'est cet argent qui est mentionné dans ce verset et qui est déclaré dans le verset précédent comme ayant été apporté volontairement."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:4",
+      "fr": "des fils bleus, pourpres et cramoisis, du fin lin, du poil de chèvre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותכלת ET BLEU VIOLET — laine teinte avec le sang du חלזון (une sorte de coquillage), dont la couleur était bleu verdâtre (Menachot 44a)."
+        },
+        {
+          "id": 2,
+          "fr": "וארגמן ET ROUGE VIOLET — laine colorée avec une sorte de teinture dont le nom est ארגמן"
+        },
+        {
+          "id": 3,
+          "fr": "ושש — c'est ce que nous appelons LIN (Yevamot 4b)."
+        },
+        {
+          "id": 4,
+          "fr": "ועזים est les CHEVEUX DE CHÈVRE ; c'est pourquoi Onkelos le traduit par וּמְעַזֵּי qui désigne quelque chose qui vient des chèvres — et non des chèvres elles-mêmes, car la traduction araméenne de עזים est עִזַּיָּא‎."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:5",
+      "fr": "peaux de béliers tannées, peaux de béliers tannées Contrairement aux autres « peaux de béliers teintes en rouge ». dauphinbdauphin Ou « dugong », ou une certaine teinte de cuir de vache teint ; sens de l'Héb. taḥash incertain. peaux et bois d'acacia;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מאדמים RED — ils ont été teints en rouge après avoir été bronzés."
+        },
+        {
+          "id": 2,
+          "fr": "תחשים TACHASH était une sorte de bête sauvage. Il n’existait qu’à cette époque (quand Israël construisit le Tabernacle). Il était multicolore et c'est pourquoi il est traduit dans le Targum par ססגונה, et il est ainsi traduit parce qu'il ravit (שָׂשׂ) et est fier de ses couleurs (גונא) (Shabbat 28 ; Midrash Tanchuma, Terumah 6)."
+        },
+        {
+          "id": 3,
+          "fr": "ועצי שטים AND SHITTIM WOOD — Mais d'où ont-ils obtenu cela dans le désert ? Rabbi Tanchuma l'expliqua ainsi : Notre père Jacob prédit par le don du Saint-Esprit qu'Israël construirait un jour un Tabernacle dans le désert : il apporta donc des cèdres en Égypte et les y planta, et ordonna à ses enfants de les emporter avec eux lorsqu'ils quitteraient l'Égypte (Midrash Tanchuma, Terumah 9 ; cf. Bereishit Rabbah 94 et Rachi sur Exode 26 :15)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:6",
+      "fr": "de l'huile pour l'éclairage, des épices pour l'huile d'onction et pour l'encens aromatique ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שמן למאר HUILE POUR LA LUMIÈRE — « huile d'olive claire… pour faire monter continuellement la flamme »)."
+        },
+        {
+          "id": 2,
+          "fr": "בשמים לשמן המשחה ÉPICES POUR L'HUILE D'ONCTION qui a été fabriquée dans le but d'oindre les vases du Tabernacle et le Tabernacle lui-même afin de le sanctifier. Pour cette huile, des épices étaient nécessaires, comme indiqué dans la section כי תשא (Exode 30 :23 et suiv.)."
+        },
+        {
+          "id": 3,
+          "fr": "ולקטרת הסמים ET POUR L'ENCENS DES ÉPICES AROMATIQUES qui étaient brûlées chaque soir et matin, comme indiqué dans la section ואתה תצוה (Exode 30 : 7). Le mot קטרת signifie élever de la vapeur (קיטור) et une colonne de fumée."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:7",
+      "fr": "lapis lazuliclapis lazuli Cf. Gen. 2.12 et note. et d'autres pierres à sertir, pour l'éphod et pour le pectoral.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אבני שהם PIERRES D'ONYX — deux y étaient nécessaires pour les besoins de « l'éphod » qui est mentionné dans ואתה תצוה (Exode 28 :6 et suivants)."
+        },
+        {
+          "id": 2,
+          "fr": "מלאים FOR SETTING (lit., remplir) — Parce qu'ils faisaient pour eux (pour les pierres) des montures en or — une sorte d'indentation — et qu'ils y mettaient la pierre (dedans) pour remplir l'indentation, on les appelait « pierres de remplissage » ; l'endroit où se trouve l'indentation (c'est-à-dire le point creux) est appelé משבצת « réglage »."
+        },
+        {
+          "id": 3,
+          "fr": "לאפד ולחשן POUR L'ÉPHOD ET LE Pectoral respectivement : les pierres d'onyx pour l'éphod et les « pierres à sertir » pour le pectoral. L'éphod et le pectoral sont décrits dans ואתה תצוה. C'était une sorte d'ornement porté uniquement par le Grand Prêtre."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:8",
+      "fr": "Et qu'ils me fassent un sanctuaire pour que j'habite parmi eux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשו לי מקדש ET LAISSEZ-LES FAIRE DE MOI UN SANCTUAIRE — Qu'ils fassent à la gloire de Mon Nom (cf. Rachi sur le v. 2) un lieu de sainteté."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:9",
+      "fr": "Exactement comme je vous montre le modèle du Tabernacle et le modèle de tous ses meubles, vous le ferez ainsi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Et selon tout ce que je te montre ici, c'est LE MODÈLE DE LA DEMEURE. — Ce verset doit être relié au verset qui le précède, ainsi : Et qu'ils me fassent un sanctuaire… selon tout ce que je te montre (les mots ושכנתי בתוכם étant une parenthèse)."
+        },
+        {
+          "id": 2,
+          "fr": "וכן תעשו ET AINSI VOUS LE FAIREZ également dans les générations futures (cf. Sanhédrin 16b) ; si l'un des vases est perdu, ou lorsque vous faites pour Moi les vases pour la « Maison de l'Éternité » (un autre nom pour le Temple de Jérusalem), — comme par exemple. par exemple, les tables, chandeliers, cuves et supports que Salomon avait fabriqués - vous les ferez d'après le modèle de ceux-ci (les vases du Tabernacle). Si, cependant, le verset ne devait pas être lié au précédent mais formait une nouvelle déclaration, l'Écriture n'aurait pas dû écrire: וכן תעשו \"et ainsi vous les ferez\" mais כן תעשו \"ainsi vous les ferez\" et alors il parlerait de la fabrication de la tente d'assignation et de ses ustensiles et non des ustensiles du Temple, et la traduction serait : selon tout ce que je vous montre, le modèle du Tabernacle et le modèle de tous ses ustensiles, ainsi vous les ferez."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:10",
+      "fr": "Ils feront une arche en bois d'acacia, longue de deux coudées et demie, large d'une coudée et demie et haute d'une coudée et demie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשו ארון ET ILS FONT UNE ARCHE (ארון) — On l'appelle ainsi parce qu'elle avait l'apparence de boîtes (ארונות) que l'on fabrique sans pieds — en forme de coffre qu'on appelle escrin en vieux français qui repose sur son fond."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:11",
+      "fr": "Couvrez-le d'or pur, recouvrez-le à l'intérieur et à l'extérieur, et faites dessus une moulure d'or tout autour.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מבית ומחוץ תצפנו À L'intérieur et à l'extérieur, tu le recouvriras — Bezalel fit trois arches, deux en or et une en bois, chacune ayant quatre murs (côtés) et un fond, étant cependant ouverte au sommet. Il plaça l'arche de bois dans la plus grande arche d'or et la plus petite d'or dans celle de bois et recouvrit d'or son bord supérieur (celui de l'arche de bois) ; par conséquent, on peut dire que l'arche en bois était recouverte d'or à l'intérieur et à l'extérieur (Yoma 72b ; Talmud Shekalim de Jérusalem 6 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "זר זהב UNE FRONTIÈRE D'OR — un ornement en forme de couronne l'entourait (l'arche) tout autour au-dessus de son bord, car il (Bezalel) rendit l'arche extérieure qui était en or plus haute que les intérieures de sorte qu'elle se dressait contre l'épaisseur de la couverture qui était faite pour elle et même un peu au-delà (Yoma 72b). Lorsque le couvercle reposait sur l'épaisseur des côtés des deux petites arches, le rebord en forme de couronne s'élevait un peu au-dessus de toute l'épaisseur du couvercle. C'était un symbole de la « couronne de la Torah » qui était placée à l'intérieur de cette arche (Exode Rabbah 34b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:12",
+      "fr": "Fondez-lui quatre anneaux d'or, pour les attacher à ses quatre pieds, deux anneaux sur l'une de ses parois latérales et deux sur l'autre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויצקת — un terme utilisé pour couler du métal, comme le dit le Targum."
+        },
+        {
+          "id": 2,
+          "fr": "פעמתיו — Comprenez ceci tel que le Targum le rend : SUR SES COINS. C'était dans les coins supérieurs, près du couvercle, qu'étaient placés les anneaux, deux d'un côté de l'arche et deux de l'autre le long de la largeur de l'arche, et les bâtons y étaient placés (les anneaux). La longueur de l'arche formait ainsi un espace de deux coudées et demie entre une douve et l'autre, afin que deux hommes qui portaient l'arche pouvaient marcher facilement entre eux du même côté. Ainsi est-il expliqué dans le Traité Menachot dans la section commençant par les mots « Shtei HaLehem » (Menachot 98b)."
+        },
+        {
+          "id": 3,
+          "fr": "שתי הלחם ושתי טבעות על צלעו האחת ET DEUX ANNEAUX D'UN CÔTÉ — Ce sont les quatre anneaux dont il est question au début du verset, mais ici l'Écriture vous explique où ils ont été fixés. Ce ו du mot ושתי (la première fois que le mot apparaît ici) est vraiment redondant et l'interprétation est comme s'il se lisait, שתי טבעת (voir Note sur Exode 24 : 12). Puisque quel que soit le ו est là, vous pouvez le faire entrer ainsi : et deux de ces anneaux seront d'un côté et deux de l'autre côté."
+        },
+        {
+          "id": 4,
+          "fr": "צלעו signifie LE CÔTÉ DE CELA."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:13",
+      "fr": "Fabriquez des poteaux en bois d'acacia et couvrez-les d'or ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בדי signifie PORTÉES."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:14",
+      "fr": "puis insérez les barres dans les anneaux sur les parois latérales de l'arche, pour porter l'arche.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 25:15",
+      "fr": "Les barres resteront dans les anneaux de l'arche : elles n'en seront pas retirées.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא יסרו ממנו ILS NE S'EN PARTIRONT PAS pour toujours (cf. Yoma 72a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:16",
+      "fr": "Et dépose dans l'Arche [les tablettes] du Pacte que je te donnerai.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונתת אל הארן — Cela doit être expliqué comme s'il était écrit בארון : [ET TU METTEZ] DANS L'ARCHE,"
+        },
+        {
+          "id": 2,
+          "fr": "העדות LE TÉMOIGNAGE — la Torah (les Tablettes ; cf. Rachi sur Exode 40 :20) qui est un témoignage entre Moi et vous que J'ai ordonné les commandements qui y sont écrits (Midrash Tanchuma, Pekudei 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:17",
+      "fr": "Tu feras une couverture d'or pur, longue de deux coudées et demie et large d'une coudée et demie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כפרת — Un couvercle pour l'arche qui était ouvert sur le dessus. Il la posa dessus, à plat comme une dalle ordinaire."
+        },
+        {
+          "id": 2,
+          "fr": "אמתים וחצי ארכה DEUX COUDÉES ET DEMI EN SERONT LA LONGUEUR, comme l'était la longueur de l'arche, et sa largeur (du couvercle) était comme la largeur de l'arche (c'est-à-dire de l'arche intérieure en bois, cf. Rachi au v. 11) ; elle reposait ainsi sur l'épaisseur de ses quatre murs. Bien qu'il n'attribue aucune taille pour son épaisseur (de la couverture), nos rabbins ont expliqué (en lui appliquant un ג\"ש) que son épaisseur était d'une paume (Soucca 5a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:18",
+      "fr": "Faites deux chérubins en or, en forme de martelé, aux deux extrémités du couvercle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כרבים CHERUBIM — Ils avaient la forme d’un visage d’enfant (Soucca 5b)."
+        },
+        {
+          "id": 2,
+          "fr": "מקשה תעשה DU TRAVAIL BATTU TU FAIRE [LES] — i. e. tu ne les fabriqueras pas séparément (en dehors du couvercle lui-même) et tu ne les joindras pas aux extrémités du couvercle après qu'ils aient été fabriqués, comme le travail d'orfèvrerie qui s'appelle en vieux français souder (soudure anglaise) - mais tu déposeras une grande masse d'or (lit., beaucoup d'or) quand tu commenceras à fabriquer le couvercle et tu frapperas sur la partie médiane de celui-ci (l'or) avec un marteau ou avec un maillet, de sorte que ses extrémités dépassent vers le haut (se détachent en relief), puis façonnez les chérubins à partir de les bords saillants."
+        },
+        {
+          "id": 3,
+          "fr": "מקשה batediz (travail battu) en vieux français De même, nous avons (Daniel 5:6) « et ses genoux se heurtèrent (נקשן) l'un contre l'autre »."
+        },
+        {
+          "id": 4,
+          "fr": "קצות הכפרת signifie LES EXTRÉMITÉS DE LA COUVERTURE."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:19",
+      "fr": "Faites un chérubin à une extrémité et l'autre chérubin à l'autre extrémité ; tu feras d'une seule pièce avec le couvercle les chérubins à ses deux extrémités.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשה כרוב אחד מקצה ET FAIRE UN CHERUBIN D'UNE EXTREMITE — Afin que vous ne disiez pas que le verset précédent signifie deux chérubins à chaque extrémité, il a fallu préciser expressément : « un chérubin d'une extrémité et un chérubin de l'autre extrémité »."
+        },
+        {
+          "id": 2,
+          "fr": "מן הכפרת À PARTIR DU COUVERCLE lui-même, תעשו את הכרבים VOUS FAIREZ LES CHERUBINS — C'est l'explication de : (v. 18) « tu les feras en bois battu » — que tu les feras à partir du couvercle lui-même et que tu ne les fabriqueras pas eux-mêmes et que tu les joindras ensuite au couvercle."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:20",
+      "fr": "Les chérubins auront les ailes déployées vers le haut, et ils couvriront le couvercle de leurs ailes. Ils se feront face, les visages des chérubins étant tournés vers le couvercle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פרשי כנפים [ET LES CHERUBINS DOIVENT] DÉPLOYER LEURS AILES [EN HAUT] — i. e. que vous ne devez pas faire en sorte que leurs ailes touchent le corps mais s'étendent légèrement au-dessus mais presque au même niveau que leur tête, de sorte que l'espace creux entre les ailes et le couvercle soit de dix palmes, comme il est expliqué dans le Traité Soucca 5b."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:21",
+      "fr": "Placez le couvercle sur l'Arche, après avoir déposé à l'intérieur de l'Arche le Pacte que je vous donnerai.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואל הארן תתן את העדות ET DANS L'Arche tu mettras le témoignage — Je ne sais pas pourquoi cela est répété car cela a déjà été commandé, (v. 16) « et tu mettras le témoignage dans l'arche ». On peut dire qu'il a l'intention de nous dire que pendant que l'arche est encore seule — c'est-à-dire. e. sans la couverture — il doit d'abord y mettre le Témoignage, et seulement ensuite il doit y mettre la couverture pour la première fois. Ainsi, en effet, nous trouvons : que lorsqu'il (Moïse) érigea le Tabernacle, il est dit (Exode 40 :20) « et il [prit et] mit le témoignage dans l'arche », et ensuite il est dit : « et il mit le couvercle sur l'arche au-dessus d'elle » (cf. Talmud Yerushalmi Shekalim 6 :1)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:22",
+      "fr": "Là, je vous rencontrerai et je vous communiquerai, du haut du couvercle, d'entre les deux chérubins qui sont au sommet de l'arche du pacte, tout ce que je vous commanderai concernant le peuple israélite.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונועדתי ET [LÀ] JE SERAI RENCONTRÉ [PAR TOI] ] Quand je vous désignerai un lieu de rencontre pour vous parler, je désignerai cet endroit comme lieu de rencontre où je viendrai vous parler."
+        },
+        {
+          "id": 2,
+          "fr": "ודברתי אתך מעל הכפרת ET JE VOUS PARLERAI D'EN HAUT DE LA COUVERTURE — Dans un autre passage, cependant, il est dit : (Lévitique 1 : 1) « Et Dieu lui parla de la tente désignée, disant » — c'est cette partie du Tabernacle à l'extérieur du voile de séparation pendant que l'arche et la couverture étaient sur l'autre marée. du voile — par conséquent nous avons deux versets qui se contredisent ! Mais il y a un troisième verset qui les réconcilie : (Nombres 7 :89) « Et lorsque Moïse entra dans la tente désignée pour lui parler, il entendit la voix qui lui parlait de dessus la couverture, etc. » Ce verset explique exactement ce qui s'est passé. Moïse entra dans le Tabernacle et dès qu'il eut franchi l'entrée, une voix tomba du ciel à l'endroit sur la couverture qui était entre les chérubins, et de là elle sortit et fut entendue par Moïse dans la tente d'assignation (à l'extérieur du Saint des Saints ; cf. Sifrei Bamidbar 58 et Rachi sur Nombres 7 :89)."
+        },
+        {
+          "id": 3,
+          "fr": "ואת כל אשר אצוה אותך אל בני ישראל ET DE TOUT CE QUE JE T'ORDONNERAI CONCERNANT LES ENFANTS D'ISRAËL ] Ce ו du mot ואת est redondant et sans importance ; il existe de nombreuses phrases similaires à celle-ci dans les Écritures. Cependant, si vous souhaitez expliquer cela, le verset doit être interprété comme suit : [Je te parlerai du haut de la couverture] et ce que (ואת) je te dirai sera tout ce que je te commanderai concernant les enfants d'Israël."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:23",
+      "fr": "Tu feras une table en bois d'acacia, longue de deux coudées, large d'une coudée et haute d'une coudée et demie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קמתו LA HAUTEUR DE CELUI-CI — i. e. la hauteur de ses pieds ainsi que l'épaisseur du plateau."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:24",
+      "fr": "Recouvrez-le d'or pur et faites une moulure d'or autour.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זר זהב UNE FRONTIÈRE D'OR — un symbole de la couronne royale, car la table est un emblème de richesse et de grandeur, comme le montre le fait que les gens parlent de leur « table royale » lorsqu'ils souhaitent déclarer que l'on est extrêmement riche (cf. Yoma 72b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:25",
+      "fr": "Tu feras autour de lui un bord de la largeur d'une main, et tu feras pour son bord une moulure d'or tout autour.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מסגרת — Comprenez ceci tel que le Targum le rend : גדנפא, A RIM. Les Sages d'Israël ont des opinions différentes quant à ce que signifie ce מסגרת. Certains disent qu'il était au-dessus tout autour de la table comme le rebord vertical qui se trouve sur les bords de la table des hommes nobles, tandis que d'autres disent qu'il était fixé sous la table d'un pied à l'autre sur les quatre côtés de la table et que le plateau reposait sur ce rebord (cf. Menachot 96b et Soucca 5a)."
+        },
+        {
+          "id": 2,
+          "fr": "ועשית זר זהב למסגרתו ET TU FAIREAS UNE BORDURE D'OR AU BORD DE CELUI-CI —C'est la même bordure dont il a été question ci-dessus (v. 24), et ici il vous explique qu'elle a été fixée au bord."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:26",
+      "fr": "Faites-lui quatre anneaux d'or et attachez-les aux quatre coins de ses quatre pattes.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 25:27",
+      "fr": "Les anneaux doivent être à côté du bord, comme supports pour les poteaux pour porter la table.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Les anneaux doivent être insérés dans les jambes contre les extrémités de la bordure."
+        },
+        {
+          "id": 2,
+          "fr": "לבתים לבדים POUR LES PLACES POUR LES DOUTES — Ces anneaux seront des réceptacles dans lesquels mettre les douves."
+        },
+        {
+          "id": 3,
+          "fr": "לבתים signifie dans le but d'être (de servir de) réceptacles pour les douves, comme le dit le Targum : des emplacements pour les douelles."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:28",
+      "fr": "Tu feras les barres en bois d'acacia, et tu les couvriras d'or. c'est par eux que la table sera portée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונשא בם — Le mot ונשא est une forme passive (Niphal) ; le sens est : QUE LA TABLE PEUT ÊTRE PORTÉE PAR EUX."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:29",
+      "fr": "Fabriquez ses bols, louches, jarres et cruches pour offrir des libations ; faites-les d’or pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשית קערתיו וכפתיו ET TU FAIREAS LES PLATS ET LES CUILLÈRES DE CEUX-CI — קערתיו sont les formes (moules) qui ont été faites pour épouser la forme du pain (Menachot 97a). Le pain avait la forme d'une caisse ouverte sur deux de ses faces (dont deux faces opposées ont été enlevées ; c'est ce qu'on appellerait le devant et le dos). Il y avait un fond en dessous, mais pas de dessus, et ce fond était relevé aux deux extrémités pour former, pour ainsi dire, des murs. C'est pour cette raison qu'il était appelé לחם הפנים, « pain à visages » — parce qu'il avait des visages (surfaces) regardant dans les deux directions vers les côtés de la Maison (le Sanctuaire). Le pain était placé dans le sens de la longueur sur toute la largeur de la table, ses côtés étant exactement alignés avec le bord de la table. On lui fit un moule en or et un moule en fer : dans celui en fer on le cuisait, et lorsqu'on le sortait du four on le mettait sur le moule en or jusqu'au lendemain, jour du sabbat, où on le disposait sur la table (le moule étant alors retiré). Ce moule doré est ici appelé קערה (Menachot 94a ; cf. aussi Berliner’s Rashi 2e éd. p. 426)."
+        },
+        {
+          "id": 2,
+          "fr": "וכפתיו ET SES CUILLÈRES — louches (ou plutôt tasses à fond plat) dans lesquelles on mettait l'encens. Il y avait deux de ces récipients pour les deux poignées d'encens qui étaient placées sur les tas dans lesquels les pains étaient disposés, comme il est dit (Lévitique 24 :7) « Et tu mettras de l'encens pur sur chaque tas »."
+        },
+        {
+          "id": 3,
+          "fr": "וקשתיו — Celles-ci avaient la forme de moitiés de cannes creuses qui sont fendues sur toute leur longueur (Menachot 96a). Des articles similaires à ceux-ci étaient en or et trois d'entre eux étaient placés en rangée au-dessus de chaque pain de sorte qu'un autre pain (celui au-dessus) reposait sur les « cannes » ; ainsi ils (ces cannes) séparaient un pain d'un autre afin que l'air puisse entrer entre eux et qu'ils ne moisissent pas (Menachot 97a). En langue arabe, tout ce qui est creux est appelé קסוא (et cela correspond à la racine de ce mot, qui désigne donc quelque chose de creux)."
+        },
+        {
+          "id": 4,
+          "fr": "מנקיותיו — Il est traduit dans le Targum par ומכילתיה « et ses tréteaux (supports) » (cf. Menachot 96a). Selon lui, il s'agissait d'attaches à la table comme des sortes de piquets dorés (piliers) posés sur le sol et s'élevant bien au-dessus de la table jusqu'à la hauteur de la pile de pain. Ils étaient entaillés à cinq endroits, les uns au-dessus des autres, et les extrémités des cannes qui se trouvaient entre un pain et un autre étaient appuyées sur ces encoches afin que le poids des pains supérieurs ne pèse pas lourdement sur les pains inférieurs, auquel cas ceux-ci seraient brisés. Le mot מכילתיה utilisé par Onkelos pour rendre מנקיותיו désigne « porteurs » ; il a la même racine que le verbe dans (Jérémie 6 :11) « Je suis fatigué de le supporter (הכיל). » Mais quant au terme מנקיות (qui est un Piel de נקה et désignerait « nettoyants ») je ne sais pas comment il s'applique à ces attaches dont le but n'était pas de garder le pain propre mais simplement de servir de support aux cannes. Mais certains Sages juifs soutiennent que קשתיו (lié à קשה « dur ») sont les piquets (ou piliers) et ils sont ainsi appelés parce qu'ils servaient à le maintenir (les pains) dur et ferme, afin qu'il ne se brise pas, tandis que מנקיותיו sont les « cannes » qui maintenaient le pain propre afin qu'il ne moisisse pas. Onkelos, cependant, qui a traduit מנקיותיו par מכילתיה l'a compris selon l'opinion de celui qui soutient que מנקיות étaient les piliers de soutien (cf. Menachot 97a)."
+        },
+        {
+          "id": 5,
+          "fr": "אשר יסך בהן signifie PAR LEQUEL ILS SERONT COUVERTS. C'est à propos des קשות, des « cannes », que sont prononcés les mots אשר יסך, car celles-ci reposent dessus comme une couverture et un écran. Ainsi aussi, dans un autre passage (Nombres 4 :7), il est dit : ואת קשות הנסך, « et le קשות pour couvrir ; » les deux mots, יסך et הנסך, désignent le filtrage et la couverture."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:30",
+      "fr": "Et sur la table tu mettras le pain d'étalage, pour qu'il soit toujours devant Moi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לחם הפנים SHEW-BREAD (lit., pain de visages) — Il était ainsi appelé parce qu'il avait des « visages » (פנים) comme je l'ai expliqué (v. 29). Le nombre de pains et la manière dont ils étaient empilés sont entièrement expliqués dans la Sidrah אמר אל הכהנים (Lévitique 24 : 5-9)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:31",
+      "fr": "Tu feras un chandelier d'or pur; le chandelier sera fait d'ouvrage martelé; sa base et sa tige, ses coupes, ses calices et ses pétales seront d'une seule pièce.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מקשה תיעשה המנורה DU TRAVAIL BATTU LE CANDÉLABRE EST-IL FABRIQUÉ — i. e. on ne devrait pas le faire de pièces séparées ni faire de ses branches ou de ses lampes des membres séparés - une sorte de travail appelé souder en vieux français, Engl, to solder, mais il devait être fait dans son intégralité d'une seule masse d'or. Celui qui l'a fabriqué l'a battu avec le marteau et l'a coupé avec les instruments de son métier, faisant ainsi étaler les branches dans une direction et dans une autre (cf. Sifrei Bamidbar 61 : 1)."
+        },
+        {
+          "id": 2,
+          "fr": "מקשה — Ce mot est traduit dans le Targum par נגיד, une expression pour « tirer » ; il le rend ainsi parce que les parties du chandelier ont été arrachées de la masse dans un sens et dans un autre par le coup du marteau. Le terme מקשה désigne le fait de frapper avec le marteau — batediz en vieux français — comme le verbe dans (Daniel 5 : 6) « et ses genoux se heurtèrent (נקשן) l'un contre l'autre »."
+        },
+        {
+          "id": 3,
+          "fr": "תיעשה המנורה [DE TRAVAIL BATTU] LE CANDELABRE EST FABRIQUÉ — La forme passive utilisée ici par opposition aux formes actives de עשה utilisées tout au long de cette section en relation avec la fabrication des récipients indique qu'il doit être fabriqué de lui-même (automatiquement). Parce que Moïse était intrigué par le travail du chandelier, le Saint, béni soit-Il, lui dit : « Jetez le talent d'or au feu et il sera fait de lui-même. » Pour cette raison, il n'est pas dit ici תַּעֲשֶׂה « tu feras » (Midrash Tanchuma, Beha'alotcha 3)"
+        },
+        {
+          "id": 4,
+          "fr": "ירכה — le pied (la base) en dessous, qui a été réalisé sous la forme d'une boîte, trois pieds en sortant en dessous."
+        },
+        {
+          "id": 5,
+          "fr": "וקנה — SON ARBRE — sa branche médiane qui s'élève du point central de la base verticalement vers le haut. Sur elle se trouvait la lampe du milieu, en forme de coupe dans laquelle on versait l'huile et on mettait la mèche."
+        },
+        {
+          "id": 6,
+          "fr": "גביעיה — Ils ressemblaient à ce genre de gobelets en verre et qui sont longs et minces ; en vieux français, ils sont appelés maderins (cf. Rachi sur Genèse 44 : 2). Ceux-ci, cependant, étaient en or et sortaient en saillie de chaque branche selon le nombre que l'Écriture leur prescrit. Ils n’étaient là que pour embellir."
+        },
+        {
+          "id": 7,
+          "fr": "כפתריה SES BOUTONS ] C'étaient comme des pommes, globulaires, faisant saillie tout autour de la branche médiane (tige), comme celles qui sont faites pour les chandeliers des maisons princières (lit., qui se tiennent devant les princes), et qui sont appelées pommeaux en vieux français, ornements en forme de pomme. Leur nombre est indiqué dans cette section : combien de boutons en sont projetés (la branche du milieu) et combien reste libre entre un bouton et l'autre."
+        },
+        {
+          "id": 8,
+          "fr": "ופרחיה ET SES FLEURS — Des figures y ont été réalisées en forme de fleurs."
+        },
+        {
+          "id": 9,
+          "fr": "ממנה יהיו SERA DU MÊME — Tous seront en ouvrage battu sortant de cette pièce en forme de bloc : il ne faut pas les fabriquer séparément puis les joindre sur les branches."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:32",
+      "fr": "Six branches sortiront de ses côtés ; trois branches d'un côté du chandelier et trois branches de l'autre côté du chandelier.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יצאים מצדיה [ET SIX BRANCHES] DOIVENT SORTIR DE SON CÔTÉ — de chaque côté s'étendant en biais en haut jusqu'au niveau du chandelier proprement dit, c'est-à-dire. e. de la branche médiane. Elles sortaient de la branche médiane, les unes au-dessus des autres, la plus basse étant la plus longue, celle au-dessus étant plus courte qu'elle, et la supérieure encore plus courte que celle-là, car la hauteur de leurs sommets devait être la même que la hauteur de la branche médiane, la septième, la centrale, d'où sortaient les six autres branches."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:33",
+      "fr": "Sur une branche, il y aura trois coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales, et sur la branche suivante, il y aura trois coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales ; ainsi pour les six branches sortant du chandelier.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "משקדים — Comprenez cela comme le dit le Targum, מְצָיְרִין, pourchassé. Ils étaient « modelés » à la manière des vases en or et en argent, sorte de travail appelé en vieux français nieller."
+        },
+        {
+          "id": 2,
+          "fr": "שלשה גבעים TROIS GOBLETS, dépassant de chaque branche,"
+        },
+        {
+          "id": 3,
+          "fr": "כפתור ופרח ET UN BOUTON ET UNE FLEUR étaient également sur chaque branche."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:34",
+      "fr": "Et sur le chandelier lui-même, il y aura quatre coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובמנרה ארבעה גבעים ET DANS LE CANDELABRE DOIT ÊTRE QUATRE TASSES — i. e, sur le corps du chandelier (sur la branche verticale), se trouvaient quatre gobelets, à savoir un qui sortait de dessous les branches et trois au-dessus des pointes d'où sortaient les branches qui sortaient de ses côtés."
+        },
+        {
+          "id": 2,
+          "fr": "משקדים כפתריה ופרחיה Gobelets modelés, avec leurs boutons et leurs fleurs (ou il peut être traduit aussi : Gobelets, modelés avec leurs boutons et leurs fleurs — Le mot משקדים étant séparé du précédent par un אתנחתא semble appartenir aux mots suivants, à כפתוריה ופרחיה, mais le fait que dans le verset précédent, il ait été utilisé pour les gobelets suggère seulement la lecture גביעים משקדים. C'est l'un des cinq versets de l'Écriture dont la construction syntaxique est. dont est indécis : il n'est pas clair s'il faut lire גביעים משקדים ou משקדים כפתריה ופרחיה (Yoma 52b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:35",
+      "fr": "un calice, d'une seule pièce avec lui, sous une paire de branches ; et un calice, d'une seule pièce avec lui, sous la deuxième paire de branches, et un calice, d'une seule pièce avec lui, sous la dernière paire de branches ; ainsi pour les six branches sortant du chandelier.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכפתר תחת שני הקנים ET IL DOIT Y AVOIR UN BOUTON SOUS DEUX BRANCHES — Les branches ont été tirées des deux côtés du bouton dans cette direction et dans celle-là. Ainsi nous est-il enseigné dans le Baraitha traitant de la construction du Tabernacle (ch. 10) : La hauteur totale du chandelier était de dix-huit palmes, les jambes et la fleur occupant trois palmes. — C'est la fleur mentionnée en relation avec la base, comme il est dit (Nombres 8 : 4) « jusqu'à la base, jusqu'à la fleur ». — Ensuite, il y avait un espace de deux paumes qui était clair ; puis une paume dans laquelle se trouvait l'un des quatre gobelets (mentionné Exode 25:34) et un bouton et une fleur de ces deux boutons et de ces deux fleurs qui sont mentionnées avec le chandelier proprement dit, car il est dit (v. 34) \"[Et sur le candélabre (c'est-à-dire sur la tige) il y aura quatre coupes] faites comme des amandes avec leurs boutons et leurs fleurs\", ce qui nous enseigne qu'il y avait sur la branche médiane deux boutons et deux fleurs (le pluriel כפתריה ופרחיה sans indiquer le nombre suggérant « deux » de chaque espèce ; outre les trois boutons d'où émergeaient les branches et dont il est dit, (Exode 25 :35) « Et il y aura un bouton sous les deux branches, etc. » — Puis il y avait ce qui suit : deux palmes qui étaient simples ; une paume composée d'un bouton à partir duquel deux branches sortaient de chaque côté, s'étendant vers le haut jusqu'au niveau du chandelier proprement dit : une paume composée d'un bouton avec deux branches sortant d'elle, et une paume composée d'un bouton d'où sortaient deux branches et s'élevaient jusqu'au niveau du chandelier proprement dit ; fleur (des deux mentionnés Exode 25 : 34-35). Par conséquent, il y avait vingt-deux gobelets, dix-huit sur les six branches, trois sur chacune, et quatre sur le chandelier proprement dit, faisant en tout vingt-deux ; le nombre impliqué par le pluriel כפתורים, est deux. L'une d'elles était en bas près de la base et l'autre dans les trois paumes supérieures avec les trois gobelets. De plus, il avait neuf fleurs, six sur les six branches, — comme il est dit (Exode 25 :33) « avec un bouton et une fleur sur une branche » — et trois sur le chandelier proprement dit, c'est-à-dire deux, comme cela est sous-entendu dans ce qui est dit. \"fait comme des amandes avec ses boutons et ses fleurs\" - et le nombre minimum à comprendre par le pluriel פרחים est de deux, et un qui est mentionné dans la section בהעלתך, (Nombres 8:4) \"à la base de celui-ci et à sa fleur.\" sa position telle que définie dans cette section (Menachot 28b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:36",
+      "fr": "Leurs calices et leurs tiges seront d'une seule pièce avec lui, le tout étant une seule pièce d'or pur martelée.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 25:37",
+      "fr": "Faites ses sept lampes : les lampes seront montées de manière à donner de la lumière sur sa face avant.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את נרתיה SES LAMPES — sortes de petits bols dans lesquels on mettait l'huile et les mèches."
+        },
+        {
+          "id": 2,
+          "fr": "והאיר על עבר פניה ET FAITES-LES ÉCLAIRER CONTRE ELLE — Faites les bouches de ces six lampes qui sont au sommet des branches qui sortent de ses côtés de manière à ce qu'elles soient tournées vers la branche du milieu, afin que lorsque vous allumez les lampes, elles projettent leur lumière contre sa face avant (du chandelier), c'est-à-dire. e. leur lumière doit être dirigée vers l'avant de la branche centrale qui forme le chandelier proprement dit."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:38",
+      "fr": "et ses pinces et ses brasiers en or pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומלקחיה — C'étaient des pinces faites pour retirer les mèches de l'huile, les mettre en place et les attirer dans les bouches. Parce que les gens emportaient des choses avec eux, on les appelait מלקחים, (de לקח, « prendre »). Le mot צבתהא par lequel Onkelos le rend est le même que le terme plus familier צבת, « une paire de pinces » ; tenailles en vieux français"
+        },
+        {
+          "id": 2,
+          "fr": "ומחתתיה ET SES PLATS À TABAC ] C'étaient comme de petits bols dans lesquels le Grand Prêtre ratissait les cendres chaque matin lorsqu'il nettoyait les lampes des cendres des mèches qui avaient brûlé toute la nuit et s'étaient éteintes. Le mot מחתה est fougère (feuchière) en vieux français, comme dans (Ésaïe 30 :14) « pour ratisser (לחתות) le feu du foyer »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:39",
+      "fr": "Il sera fait, avec tous ces meubles, d'un talent d'or pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ככר זהב טהור D'UN TALENT D'OR PUR [DOIT-IL LE FAIRE AVEC TOUS CES NAVIRES] — i. e. que son poids avec (את) tous ses récipients sera exactement d'un talent, ni plus ni moins (cf. Menachot 88b). Un kikkar commun (non saint) (celui utilisé pour peser des articles ordinaires) était de soixante manehs, qui était utilisé à des fins sacrées le double, cent vingt manehs ; un maneh était égal à une litre (la balance romaine, une livre) par laquelle l'argent est pesé, selon le poids standard de Cologne. Cela représente cent denars, ce qui équivaut à vingt-cinq Sela’im, un Sela valant quatre denars (cf. Bekhorot 5a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 25:40",
+      "fr": "Notez bien et suivez les modèles qui vous sont montrés sur la montagne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וראה ועשה ET VOIR ET FAIRE ] Vois ici, dans la montagne, le modèle que je te montre. Cela vous enseigne que Moïse était perplexe quant à la fabrication de la Menorah jusqu'à ce que le Saint, béni soit-Il, lui en montre le modèle dans un chandelier de feu (Menachot 29a)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר אתה מראה QUI T'A ÉTÉ MONTRÉ — Traduisez comme le fait le Targum : דאת מתחזי בטורא qui t'a été montré sur la montagne. S'il était ponctué de Patach (מַרְאֶה), cela signifierait ce que tu montres aux autres », maintenant, cependant, qu'il est ponctué de חטף קמץ (notre קמץ חטוף, court Kametz), cela signifie « ce qui t'a été montré » - c'est-à-dire ce que d'autres te montrent [car la ponctuation fait la distinction entre les mots désignant « celui qui fait quelque chose » et « celui à qui on fait quelque chose » (c'est-à-dire entre le participe actif מַרְאֶה et le participe passif מָרְאֶה).]"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:1",
+      "fr": "Quant au tabernacle, l'atabernacle Héb. mishkan se réfère ici spécifiquement à la plus basse des couvertures du Tabernacle, et donc son rendu n'est pas en majuscule. faites-le de dix bandes de tissu ; tu les feras en fin lin retors, en fils bleu, pourpre et cramoisi, avec un dessin de chérubins dessus.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "De plus, tu feras la demeure de dix rideaux, afin qu'ils lui servent de toit et en même temps de revêtement mural pour l'extérieur des planches ; — car les rideaux étaient suspendus derrière eux pour les couvrir."
+        },
+        {
+          "id": 2,
+          "fr": "Ainsi, il y avait quatre matières différentes dans chaque fil, un de lin et trois de laine, chacun des brins dont un fil était composé étant six fois (le le mot est pris ici dans le double sens de שש « lin » et de שש « six »). Par conséquent, les quatre matériaux entrelacés en un seul fil donnaient un fil vingt-quatre (Yoma 71b ; Baraita DeMelekhet HaMishkan ch. 2)."
+        },
+        {
+          "id": 3,
+          "fr": "כרבים מעשה חשב AVEC CHERUBIM, LE TRAVAIL D'UN ARTISTE — Des chérubins étaient figurés sur eux (sur les rideaux) en train de les tisser, non pas ensuite par broderie qui est un travail d'aiguille — mais en la tissant sur ses deux surfaces, un motif d'un côté, un motif différent de l'autre ; e. par exemple, un lion d'un côté et un aigle de l'autre côté, tout comme sont tissées les ceintures de soie qui sont appelées en vieux français faisée (Yoma 72b, Talmud de Jérusalem Shekalim 8 : 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:2",
+      "fr": "La longueur de chaque toile sera de vingt-huit coudées, et la largeur de chaque toile sera de quatre coudées, toutes les toiles devant avoir les mêmes mesures.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:3",
+      "fr": "Cinq des tissus seront joints les uns aux autres, et les cinq autres tissus seront joints les uns aux autres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תהיין חברת DOIT JOINDRE ENSEMBLE — Ils les ont cousus ensemble avec une aiguille, chacun cinq séparément."
+        },
+        {
+          "id": 2,
+          "fr": "אשה אל אחתה ONE TO ANOTHER (lit., une femme à sa sœur) — C'est l'idiome de l'hébreu biblique — pour parler ainsi d'une chose qui est du genre féminin lorsqu'il la met en corrélation avec une chose du même genre. Dans le cas d'une chose masculine, il utilise l'expression איש אל אחיו, lit., un homme à son frère, comme on dit, e. g. des chérubins (Exode 25 :20) « et leurs visages furent tournés איש אל אחיו‎ »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:4",
+      "fr": "Faites des boucles de laine bleue sur le bord du tissu le plus à l'extérieur de l'ensemble ; et faites de même sur le bord du tissu extérieur de l'autre ensemble :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ללאת sont des lacets en vieux français. De même, Onkelos le traduit par ענובין, qui a le sens de « boucle »."
+        },
+        {
+          "id": 2,
+          "fr": "מקצה בחברת DE L'EXTRÉMITÉ DANS LA JONCTION — i. e. les boucles seront faites sur le rideau qui est le dernier de la section. La combinaison de cinq rideaux est ici appelée חוברת."
+        },
+        {
+          "id": 3,
+          "fr": "וכן תעשה בשפת היריעה הקיצונה במחברה השנית— ET DE MÊME TU FAIRES DANS LE BORD LE PLUS EXTÉRIEUR D'UN AUTRE RIDEAU DANS LA JOINTAGE DU DEUXIÈME — i. e. sur ce rideau qui est l'extrémité — קיצונה est lié dans le sens à קצה, fin ; — cela revient à dire : « à la fin de la section »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:5",
+      "fr": "tu feras cinquante boucles sur un tissu, et cinquante boucles sur le bord du tissu final de l'autre ensemble, les boucles devant être opposées les unes aux autres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מקבילת הללאת אשה אל אחתה — Faites attention à ce que vous fassiez les boucles (placez-les sur les rideaux) selon une mesure : que les espaces entre une boucle et l'autre soient exactement les mêmes, et de plus, comme leur mesure est sur l'une, il en sera de même sur l'autre, de sorte que lorsque vous disposez une section à côté de l'autre, les boucles de l'une doivent viennent exactement à l’opposé de ceux de l’autre. C'est ce que signifie l'expression מקבילות, à savoir « l'un en face de l'autre ». Dans le Targum, la traduction de נֶגֶד « opposé » est לקבל (d'où le terme מקבילות de קבל). Les rideaux avaient vingt-huit coudées de long et quatre coudées de large. Ainsi, lorsqu'ils joignirent cinq rideaux ensemble dans leur longueur, il s'ensuivit que leur largeur était de vingt coudées. Il en était de même pour l’autre section. Le Tabernacle avait trente coudées de longueur d'est en ouest, car il est dit (Exode 36 :23) « vingt planches pour le côté sud (qui était le côté long du Tabernacle) vers le sud », et la même chose est dite en référence au côté nord ; et comme chaque planche avait une coudée et demie de largeur, vous avez trente coudées d'est en ouest. La largeur du Tabernacle du nord au sud était de dix coudées, car il est dit (Exode 36 : 27, 28) « et pour le côté de la demeure, vers l'ouest, il fit six planches… et deux planches… pour les coins de la demeure », vous avez donc dix coudées (cela semble donner une largeur de douze coudées, mais chacune des planches d'angle se trouvait en partie derrière l'épaisseur de la planche adjacente qui se trouvait à angle droit avec elle, et comme l'épaisseur était d'une coudée, cela retirait une coudée de chaque côté de la mesure intérieure). — J'expliquerai ces versets chacun à sa place. — Ils étendirent les rideaux dans toute leur longueur sur toute la largeur du Tabernacle, de sorte que les dix coudées du milieu servaient de toit pour l'intérieur sur toute la largeur du Tabernacle et qu'une coudée de chaque côté de ces dix coudées servait à couvrir l'épaisseur des planches qui avaient une coudée d'épaisseur, de sorte qu'il restait en tout seize coudées, huit dépassant du côté nord et huit du côté sud, couvrant les planches verticales qui avaient dix coudées de hauteur ; par conséquent, les deux coudées les plus basses des planches restèrent visibles. La largeur des rideaux après avoir été assemblés était de quarante coudées, vingt coudées pour chaque section. Trente coudées de celles-ci servaient de couverture pour l'intérieur du Tabernacle sur toute sa longueur, et une coudée pour l'épaisseur des sommets des planches du côté ouest et une coudée de plus pour couvrir l'épaisseur des colonnes du côté est – car il n'y avait pas de planches du côté est mais il y avait cinq colonnes aux crochets desquelles le paravent était déployé et suspendu comme une sorte de rideau (cf. Exode 27 :10). Il restait ainsi huit coudées qui pendaient à l'arrière du Tabernacle du côté ouest, laissant apparaître les deux coudées les plus basses. C'est ce que j'ai trouvé dans le Boraitha מ\"ט מדות. Mais dans le Traité Shabbat 98b, il est dit que les rideaux ne couvraient pas l'épaisseur des colonnes du côté est, et par conséquent il y avait neuf coudées de rideaux accrochés à l'arrière du Tabernacle. Le texte de cette section soutient ce point de vue, puisqu'il dit (v. 33) « et tu accrocheras le voile de séparation sous les loquets ; » car si c'était comme le dit le Boraitha, le voile de séparation aurait été éloigné des prises d'une coudée à l'ouest."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:6",
+      "fr": "Et tu feras cinquante agrafes d'or, et tu attacheras les tissus les uns aux autres avec les agrafes, afin que le tabernacle devienne un tout.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קרסי זהב PRISES D'OR — Fermels en vieux français Ils en mettaient une extrémité dans les boucles d'une section et l'autre extrémité dans les boucles de l'autre section et ils les joignaient ainsi (ces sections) ensemble au moyen d'elles."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:7",
+      "fr": "Tu feras ensuite des toiles de poil de chèvre pour faire une tente au-dessus du tabernacle ; faites les tissus au nombre de onze.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יריעת עזים RIDEAUX DE עזים — i. e. POILS DE CHÈVRE (cf. Rachi sur Exode 25:4)."
+        },
+        {
+          "id": 2,
+          "fr": "לאהל על המשכן POUR ÊTRE UNE COUVERTURE SUR LA DEMEURE — i. e. pour les étendre sur les rideaux inférieurs (sur ceux qui avaient déjà été placés sur le Tabernacle)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:8",
+      "fr": "La longueur de chaque toile sera de trente coudées, et la largeur de chaque toile sera de quatre coudées, les onze toiles auront les mêmes mesures.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שלשים באמה [LA LONGUEUR D'UN RIDEAU DOIT ÊTRE] TRENTE COUDÉES — de sorte que lorsqu'ils les placent avec leur longueur sur la largeur du Tabernacle de la même manière qu'ils ont posé les premiers rideaux (dont la longueur était de 28 coudées), il s'ensuit qu'ils sont en excès d'une coudée de ce côté et d'une coudée de l'autre côté, couvrant ainsi l'une des deux coudées du planches laissées visibles. La coudée la plus basse des planches qu'aucun rideau ne couvrait était celle qui était insérée dans le trou de la base, car les bases elles-mêmes avaient une coudée de haut."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:9",
+      "fr": "Joignez cinq des toiles seules, et les six autres toiles seules ; et replie la sixième toile à l'avant de la tente.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכפלת את היריעה הששית ET TU DOUBLERAS LE SIXIÈME RIDEAU qui était supplémentaire dans ces rideaux supérieurs au-dessus des rideaux inférieurs,"
+        },
+        {
+          "id": 2,
+          "fr": "אל מול פני האהל EN FACE DE LA DEVANT DE LA TENTE ; la moitié de sa largeur (deux coudées) pendait, étant doublée, au-dessus du paravent qui se trouvait du côté est devant l'entrée, grâce à quoi le Tabernacle prenait l'apparence d'une épouse modeste dont le visage était couvert par un voile."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:10",
+      "fr": "Faites cinquante boucles sur le bord du tissu extérieur d'un ensemble, et cinquante boucles sur le bord du tissu de l'autre ensemble.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:11",
+      "fr": "Fabriquez cinquante agrafes en cuivre, placez-les dans les boucles et attachez la tente ensemble afin qu'elle ne fasse qu'un tout.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:12",
+      "fr": "Quant à l'excédent des toiles de la tente, la demi-toile supplémentaire recouvrira le dos du tabernacle,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וסרח העדף ביריעת האהל ET LE SURPLUS DES RIDEAUX DE LA TENTE au-dessus et au-dessus des rideaux inférieurs du Tabernacle [DERA PENDRE SUR etc.]. \"Les rideaux du אהל\" étaient les rideaux supérieurs faits de poils de chèvre que l'Écriture appelle אהל, comme il est dit à leur sujet, (v. 7) \"ils seront un אהל au-dessus de la demeure\". Le mot אהל utilisé en relation avec eux signifie seulement une couverture (le mot n'a pas son sens habituel de « tente ») car ils formaient une couverture et un écran sur ceux du bas. Ils dépassaient ceux du bas d'un demi-rideau du côté ouest. Car l'autre moitié du onzième rideau, qui dépassait le nombre des rideaux inférieurs, était repliée pour être suspendue devant la tente (le Tabernacle) (cf. v. 9). Il restait donc deux coudées, — la largeur de la moitié — en excédent de la largeur des rideaux inférieurs (c'est celle-ci qui est décrite ici comme חצי היריעה העדפת « le demi-rideau qui dépassait »)."
+        },
+        {
+          "id": 2,
+          "fr": "תסרח על אחרי המשכן DOIT ÊTRE PENDU SUR L'ARRIÈRE DU TABERNACLE — pour couvrir les deux coudées des planches qui ont été laissées nues."
+        },
+        {
+          "id": 3,
+          "fr": "אחרי המשכן L'ARRIÈRE DU TABERNACLE — i. e. le côté ouest. C'est ce qu'on appelle « l'arrière » car l'entrée se trouvait du côté est qui était donc sa façade. Le nord et le sud sont donc appelés les « côtés » dans les directions droite et gauche."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:13",
+      "fr": "tandis que la coudée supplémentaire à chaque extrémité de chaque longueur de toile de tente pendra jusqu'au bas des deux côtés du tabernacle et le couvrira.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והאמה מזה והאמה מזה ET UNE COUDÉE D'UN CÔTÉ ET UNE COUDÉE DE L'AUTRE CÔTÉ — i. e. au nord et au sud,"
+        },
+        {
+          "id": 2,
+          "fr": "בעדף בארך יריעת האהל DU SURPLUS DE LONGUEUR DES RIDEAUX DU TABERNACLE — i. e. qui dépassaient de deux coudées les rideaux du Tabernacle (ceux de laine),"
+        },
+        {
+          "id": 3,
+          "fr": "יהיה מרוח על צדי המשכן SERONT PENDUS SUR LES CÔTÉS DU TABERNACLE — au nord et au sud comme je l'ai expliqué ci-dessus. La Torah vous enseigne ici une règle de vie : qu'un homme doit prendre soin de ses objets artistiques (c'est ce que fait la Torah en ordonnant que les beaux rideaux inférieurs soient protégés par les grossiers rideaux supérieurs) (Yalkut Shimoni sur la Torah 422)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:14",
+      "fr": "Et faites pour la tente une couverture de peaux de bélier tannées, et une couverture de dauphinbdauphin. Voir note au 25.5. peaux ci-dessus.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מכסה לאהל [ET TU FAIREAS] UNE COUVERTURE POUR LE אהל ] Pour ce toit de poils de chèvre (qui est appelé אהל dans cette section), fais encore une autre couverture de peaux de béliers teintes en rouge, et au-dessus également une couverture de peaux de Tachash. Ces couvertures supérieures couvraient cependant seulement le toit (elles ne pendaient pas sur les côtés), leur longueur étant de 30 coudées et leur largeur de 10. C'est l'opinion de R. Nehemia (que les peaux de chèvres et la couche de peaux de béliers et de Tachash formaient deux couvertures différentes l'une au-dessus de l'autre) ; cependant, selon R. Jehudah, il n’y avait qu’une seule couverture, la moitié étant constituée de peaux de béliers teintes en rouge et l’autre moitié de peaux de Tachash (cf. Chabbat 28a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:15",
+      "fr": "Tu feras les planches du Tabernacle en bois d'acacia, debout.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשית את הקרשים ET TU FAIS LES PLANCHES — Il faut dire : « Tu feras des planches » (sans l'article défini), la même forme qui est utilisée pour chacune des autres choses (parties du Tabernacle) ! Quelle est la force du terme « les planches » ? Il parle des conseils qui existaient déjà comme étant désignés à cette fin. Car notre père Jacob avait planté des cèdres (arbres de shittim) en Égypte et, à sa mort, il avait ordonné à ses fils de les emporter avec eux lorsqu'ils quitteraient l'Égypte. Il leur dit que Dieu leur ordonnerait un jour d'ériger une demeure faite d'arbres à merde dans le désert. «Voyez», ajouta-t-il, «qu'ils soient prêts en votre possession!» (cf. Rachi sur Exode 25 : 5). C'est ce que le Babylonien incarnait dans sa composition liturgique : la plante de ceux qui avaient été avertis par leur père Jacob a grandi rapidement pour devenir les cèdres des poutres de notre Maison (le Tabernacle), ce qui fait référence au fait qu'ils avaient été avertis qu'ils (les cèdres) devaient être prêts en leur possession à l'avance (avant qu'ils ne soient nécessaires)."
+        },
+        {
+          "id": 2,
+          "fr": "עצי שטים עמדים DE SHITTIM-WOOD DEBOUT — Estantivs en vieux français ; Anglais, perpendiculaire. — Cela signifie que la longueur des planches doit être placée perpendiculairement aux murs du Tabernacle et que vous ne devez pas placer les murs des planches horizontalement de manière à ce que la largeur des planches soit le long de la hauteur des murs, une planche sur l'autre."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:16",
+      "fr": "La longueur de chaque planche sera de dix coudées et la largeur de chaque planche d'une coudée et demie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עשר אמות ארך הקדש DIX COUDÉES DOIVENT ÊTRE LA LONGUEUR D'UNE PLANCHE — Cela nous indique que la hauteur du Tabernacle était de dix coudées (puisque les planches étaient verticales)."
+        },
+        {
+          "id": 2,
+          "fr": "ואמה וחצי האמה רחב ET UNE COUDÉE ET DEMI SERONT LA LARGEUR ] Cela nous enseigne que la longueur du Tabernacle correspondant aux vingt planches qui étaient au nord et au sud était de 30 coudées d'est en ouest."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:17",
+      "fr": "Chaque planche aura deux tenons, parallèles au sens de l'Héb. meshulla, tous deux incertains. les uns aux autres; faites de même avec toutes les planches du Tabernacle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שתי ידות לקרש האחד IL DOIT Y AVOIR DEUX TENONS DANS UNE PLANCHE ] Ils découpèrent la partie inférieure des planches au milieu sur une hauteur d'une coudée, laissant un quart de sa largeur d'un côté et un quart de l'autre côté. Ces pièces de chaque côté des planches étaient les ידות, les tenons. Ainsi, la partie découpée faisait la moitié de la largeur de la planche (¾ de coudée) en son centre. Or ces tenons, ils les fixaient dans les douilles qui étaient creuses. Les sockets avaient une coudée de hauteur et il y en avait quarante en ligne, les unes contre les autres. Les tenons des planches qui étaient fixées dans les douilles étaient ensuite découpés sur trois côtés, la profondeur des portions ainsi découpées étant égale à l'épaisseur du rebord des douilles, de sorte que lorsque les planches étaient fixées dans les douilles, le bois de la planche recouvrait tout le dessus de la douille. Car s'il n'en était pas ainsi (si les tenons n'étaient pas coupés sur leur bord extérieur), il y aurait eu entre une planche et la suivante un espace égal à l'épaisseur des rebords de deux douilles qui les auraient séparées. C'est ce que l'on entend lorsqu'il est dit (v. 24) « et ils seront assemblés ensemble en dessous » — qu'ils couperont les côtés des tenons afin que les planches se joignent étroitement les unes aux autres."
+        },
+        {
+          "id": 2,
+          "fr": "משלבת signifie fait comme les barreaux (שליבה) d'une échelle et séparés les uns des autres et rabotés à leurs extrémités afin de pouvoir être insérés dans le creux des douilles comme un barreau qui se fixe dans le trou des montants de l'échelle."
+        },
+        {
+          "id": 3,
+          "fr": "אשה אל אחתה L'UN À L'AUTRE — i. e. les tenons doivent correspondre exactement les uns aux autres ; cela signifie que les portions coupées des devants et des dos doivent être exactement égales, une portion coupée ayant la même mesure qu'une autre portion coupée afin que de deux tenons l'un ne s'écarte pas d'une ligne droite vers l'avant et l'autre diverge vers l'extérieur (le dos) en référence à l'épaisseur de la planche qui était d'une coudée. Le Targum rend ידות par צירין, pivots, car ils ressemblaient, en un sens, aux pivots d'une porte qui sont insérés dans le trou du seuil."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:18",
+      "fr": "Avec les planches du Tabernacle, tu feras vingt planches au sud-sud Héb. utilise deux termes pour « sud », l'un après l'autre. côté:",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לפאת נגבה תימנה DU CÔTÉ SUD VERS LE SUD — Le mot פאה ici n'a pas le sens de « coin » (comme par exemple Lévitique 19 :9, פאת שדך) mais tout le côté est appelé פאה, comme le dit le Targum : Je suis en train de le faire."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:19",
+      "fr": "tu feras quarante socles d'argent sous les vingt planches, deux socles sous une planche pour ses deux tenons et deux socles sous chaque planche suivante pour ses deux tenons ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:20",
+      "fr": "et pour l'autre mur latéral du Tabernacle, du côté nord, vingt planches,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:21",
+      "fr": "avec leurs quarante socles en argent, deux socles sous une planche et deux socles sous chaque planche suivante.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:22",
+      "fr": "Et pour l'arrière du Tabernacle, à l'ouest, faites six planches ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולירכתי ET POUR L'ARRIÈRE-PART — C'est un terme pour « fin », comme le rend le Targum, ולסיפי, « pour les fins ». Parce que l'entrée était à l'est, le côté est est appelé l'avant et le côté ouest l'arrière. Et c'est pourquoi il est décrit ici par un mot désignant la fin, car le devant est la tête (le commencement) d'une chose."
+        },
+        {
+          "id": 2,
+          "fr": "תעשה ששה קרשים TU FAIRES SIX PLANCHES — ainsi tu as 9 coudées de largeur."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:23",
+      "fr": "et tu feras deux planches pour les coins du Tabernacle, à l'arrière.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושני קרשים תעשה למקצעת ET DEUX PLANCHES TU FAITES POUR LES COINS — une pour le coin nord-ouest et une pour le coin sud-ouest. Les huit planches étaient toutes alignées, sauf que toute la largeur de ces deux planches n'était pas visible à l'intérieur du Tabernacle, mais seulement une demi-coudée d'un côté et une demi-coudée de l'autre côté pouvait être vue à l'intérieur, ce qui faisait ainsi une largeur de dix coudées. La coudée restante d'une planche et la coudée restante de l'autre planche touchaient l'épaisseur des coudées des planches du Tabernacle du côté nord et du côté sud, afin que l'extérieur soit égal."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:24",
+      "fr": "Ils seront assortis en bas et se termineront de la même façon en haut à l'intérieur d'un anneau ; ils seront assortis… à l'intérieur d'un anneau Signification de Héb. incertain. ainsi en sera-t-il pour eux deux : ils formeront les deux coins.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויהיו ET ILS DOIVENT ÊTRE — toutes les planches doivent être — תאמים COUPLÉES ENSEMBLE les unes aux autres, מלמטה EN DESSOUS, de sorte que l'épaisseur des bords de deux prises adjacentes ne forme pas d'espace entre elles, les gardant séparées. C'est ce que je voulais dire lorsque j'ai expliqué (v. 17) que les tenons en forme de pivot d'une planche doivent être coupés de tous les côtés, afin que la largeur de la planche dépasse sur les côtés au-delà des tenons des planches afin qu'elle puisse couvrir le bord de la douille. La planche adjacente fut traitée de la même manière. Le résultat était qu'ils se sont couplés (ils se tenaient l'un contre l'autre). Chaque planche d'extrémité de la rangée ouest a été découpée dans sa largeur dans son épaisseur par rapport à la partie coupée des planches adjacentes du mur nord et sud, de sorte que les douilles qui se trouvent entre elles ne doivent pas les séparer (la planche d'extrémité et celle qui se trouve à côté du côté nord ou du côté sud)."
+        },
+        {
+          "id": 2,
+          "fr": "ויחדו יהיו תמים ET ILS DOIVENT ÊTRE COUPLÉS ENSEMBLE — תמים a ici la même signification que תאמים dans la phrase qui précède immédiatement."
+        },
+        {
+          "id": 3,
+          "fr": "על ראשו AU-DESSUS DE LA TÊTE — i. e. de chaque planche."
+        },
+        {
+          "id": 4,
+          "fr": "אל הטבעת האחת EN UN SEUL ANNEAU — Chaque planche avait sur le dessus deux incisions semi-circulaires, une à chaque extrémité de sa largeur, correspondant à l'épaisseur de l'anneau qui devait y être inséré. Ils l'ont passé (le plateau) dans le même anneau dans lequel le plateau suivant avait été passé (voir illustration) ; Ainsi, elle (une planche) s'est jointe à la planche voisine. Je ne sais cependant pas si ces anneaux étaient fixés aux planches ou s'ils étaient lâches (non vissés). Dans le cas de la planche d'extrémité, l'anneau était inséré dans les incisions pratiquées respectivement dans l'épaisseur de la planche nord et de la planche sud, et le haut de la planche qui se trouvait dans la rangée ouest adjacente y était également passé. Ainsi, les deux paires de murs (l'ouest avec respectivement le sud et le nord) étaient maintenues ensemble."
+        },
+        {
+          "id": 5,
+          "fr": "כן יהיה לשניהם AINSI CE SERA POUR EUX DEUX — pour les deux planches d'extrémité ; e. par exemple, pour la planche à l'extrémité du côté nord et pour la planche adjacente dans le mur ouest ; et il en sera ainsi aux deux coins."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:25",
+      "fr": "Il y aura donc huit planches avec leurs socles en argent : seize socles, deux socles sous la première planche, et deux socles sous chacune des autres planches.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והיו שמנה קרשים ET ILS SERONT HUIT PLANCHES — Ce sont les mêmes planches mentionnées ci-dessus (vv. 22-23) : « Tu feras six planches »… « et tu feras deux planches pour les coins » ; par conséquent, il y avait huit planches dans la rangée ouest. Ce qui suit est indiqué dans ce Mishna (paragraphe) du Boraitha traitant de « La structure du Tabernacle » qui traite de la méthode de disposition des planches du Tabernacle : ils ont fait les douilles creuses et ont coupé la planche en bas, un quart de sa largeur étant laissé d'un côté et un quart de l'autre côté, la partie coupée au milieu étant la moitié de sa largeur. Ainsi, ils ont fait pour cela (la planche) deux tenons comme deux חמוקין — je pense que la lecture correcte est « comme deux חווקין » i. e. comme deux barreaux d'une échelle placés à une certaine distance l'un de l'autre. Ceux-ci ont été rabotés de manière à se fixer dans le creux de la douille tout comme un barreau qui se fixe dans le trou du montant de l'échelle. C'est la signification de משלבות, à savoir, fait comme un barreau (שליבה). Ils les fixèrent (les deux tenons) dans les deux socles comme il est dit (v. 19) « deux socles [sous une planche pour ses deux tenons] et deux socles [sous une autre planche pour ses deux tenons] ». Ils découpèrent la planche en haut d'une largeur de doigt de ce côté et d'une largeur de doigt de l'autre côté et les placèrent (deux morceaux semi-circulaires en saillie sur deux planches adjacentes) en un seul anneau d'or afin qu'elles (les planches) ne se désagrègent pas, comme il est dit : « et elles seront reliées ensemble en bas, [et elles seront reliées ensemble en haut] ». Ainsi la Mishna ; son explication, je l'ai exposée ci-dessus en suivant l'ordre des versets."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:26",
+      "fr": "Tu feras des barres en bois d'acacia : cinq pour les planches d'un mur latéral du Tabernacle,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בריחים sont des BOULONS, comme le traduit le Targum : עברין ; en vieux français esparres."
+        },
+        {
+          "id": 2,
+          "fr": "חמשה לקרשי צלע המשכן CINQ POUR LES PLANCHES D'UN CÔTÉ DU TABERNACLE — Les cinq n'étaient en réalité que trois, mais les boulons supérieurs et inférieurs étaient chacun composés de deux pièces, l'une atteignant le milieu du mur d'un côté et l'autre atteignant le milieu du mur de l'autre côté, celui passant à travers l'anneau le plus extérieur d'un côté. côté et l'autre passant par l'anneau le plus extérieur de l'autre côté, jusqu'à ce qu'en passant par tous les anneaux intermédiaires, ils se rencontrent l'un contre l'autre. Ainsi, les boulons supérieur et inférieur étaient deux composés de quatre. Quant au boulon du milieu, sa longueur était égale à celle de tout le mur allant d'une extrémité du mur à l'autre extrémité, car il est dit : « Et le boulon du milieu, etc., s'étendra d'une extrémité à l'autre ». Celui-ci était donc d'un seul morceau, et nous avons ainsi les cinq dont parle ce passage. Pour les boulons supérieurs et inférieurs, les planches avaient des anneaux dans lesquels il fallait insérer deux anneaux pour chaque planche. Les boulons étaient משלשים i. e. placés en trois points équidistants le long des dix coudées qui formaient la hauteur de la planche, divisant ainsi la hauteur en quatre portions égales : une portion s'étendant de l'anneau supérieur jusqu'au haut de la planche, une autre de l'anneau inférieur jusqu'au bas, chaque portion étant un quart de la hauteur de la planche, et les deux autres portions étaient entre les anneaux (d'un anneau au boulon central et de là à l'autre anneau). Cela a été fait pour que tous les anneaux d'une rangée soient exactement opposés les uns aux autres afin que le boulon puisse être facilement inséré. Le boulon du milieu, cependant, n'avait pas d'anneaux, mais les protections étaient rainurées dans toute leur épaisseur et il (le boulon du milieu) les traversait par l'intermédiaire de ces rainures qui étaient exactement opposées les unes aux autres (toutes en une ligne droite). C’est le sens de ce qui est dit : « [et le boulon du milieu] au milieu des planches ». Les deux verrous supérieurs et les deux verrous inférieurs du côté nord et sud avaient chacun 15 coudées de long, tandis que le verrou du milieu avait 30 coudées de long. C’est ce que l’Écriture veut dire en disant de ce verrou qu’il atteindra « d’une extrémité à l’autre » — de l’est à l’ouest. Des cinq boulons du côté ouest, la longueur des deux boulons supérieurs et des deux inférieurs était chacune de six coudées, tandis que celui du milieu avait une longueur de douze coudées correspondant à la largeur totale des huit planches (dont chacune était d'une coudée et demie). C'est ainsi que cela est expliqué dans le Boraitha traitant de la construction du Tabernacle."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:27",
+      "fr": "cinq barres pour les planches de l'autre mur latéral du Tabernacle, et cinq barres pour les planches du mur du Tabernacle, à l'arrière, à l'ouest.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:28",
+      "fr": "La barre centrale à mi-hauteur des planches doit s'étendre d'un bout à l'autre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:29",
+      "fr": "Couvrez les planches d'or, et faites leurs anneaux d'or, qui serviront de supports aux barres ; et tu couvriras les lingots d'or.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בתים לבריחם POUR LES PLACES DES BOULONS — Les anneaux que vous ferez sur elles (les planches) serviront de réceptacles dans lesquels les boulons seront insérés."
+        },
+        {
+          "id": 2,
+          "fr": "וצפית את הבריחם זהב ET TU RECOUVRAIS LES BOULONS D'OR — Cela ne signifie pas que l'or doit être attaché aux boulons car il n'y avait pas de recouvrement dessus, mais sur les planches étaient fixées une sorte de deux agrafes en or, quelque chose comme les deux sections longitudinales d'une canne creuse. Ceux-ci étaient fixés à proximité de chaque anneau, des deux côtés de celui-ci. La longueur des deux agrafes remplissait l'espace sur la largeur de la planche, l'une s'étendant de l'anneau dans cette direction, l'autre de celui-ci (l'anneau) à nouveau dans l'autre sens. Ainsi, les boulons semblaient recouverts d'or lorsqu'ils reposaient sur les planches. Ces boulons formaient une saillie sur les murs extérieurs. Ainsi, ni les anneaux ni les agrafes n'étaient visibles à l'intérieur du Tabernacle, mais toute la surface du mur intérieur était intacte."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:30",
+      "fr": "Ensuite, dressez le Tabernacle selon la manière qui vous a été montrée sur la montagne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והקמת את המשכן ET TU INSTALLERAS LE TABERNACLE — une fois qu'il sera terminé, installe-le. ..."
+        },
+        {
+          "id": 2,
+          "fr": "הראית בהר Cela doit être traduit : QUE TU VOULEZ avant cela ONT ÉTÉ MONTRÉ DANS LA MONTAGNE — (Le verbe est au futur parfait). Car plus tard, je t'instruirai et te montrerai comment l'ériger."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:31",
+      "fr": "Tu feras un rideau de fils bleus, pourpres et cramoisi, et de fin lin retors ; il y aura un dessin de chérubins dessus.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פרכת est un terme désignant une partition ; dans la langue des Sages (en hébreu rabbinique) פרגוד est quelque chose qui sépare le roi du peuple (Berakhot 18b)."
+        },
+        {
+          "id": 2,
+          "fr": "תכלת וארגמן BLEU VIOLET ET ROUGE VIOLET — chaque matériau était entrelacé dans chaque brin par six fils (Yoma 71b)."
+        },
+        {
+          "id": 3,
+          "fr": "מעשה חשב LE TRAVAIL D'UN ARTISTE — J'ai déjà expliqué (v. 9) qu'il s'agit d'un tissage sur les deux surfaces, les dessins des deux faces n'étant pas semblables entre eux."
+        },
+        {
+          "id": 4,
+          "fr": "כרבים CHERUBIM — i. e. il y fera des figures de différentes créatures."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:32",
+      "fr": "Accrochez-le à quatre poteaux en bois d'acacia recouverts d'or et ayant des crochets d'or, [fixés] dans quatre socles d'argent.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Il s'agit de QUATRE COLONNES insérées dans quatre prises. Des crochets y étaient fixés, recourbés vers le haut, sur chacun desquels était suspendu un poteau autour duquel était enveloppé le haut du voile de séparation. Les crochets sont les ווים mentionnés dans le texte, car ils ont été fabriqués sous la forme de la lettre וי\"ו. Le voile de séparation avait dix coudées de long correspondant à la largeur du Tabernacle et dix coudées de large comme la hauteur des planches. Il était suspendu à un tiers de la longueur du Tabernacle du côté ouest de sorte qu'il y ait vers l'intérieur (c'est-à-dire de ce côté) dix coudées et de vers l'extérieur (vers l'entrée) vingt coudées. Il s'ensuit donc que le Saint des Saints mesurait dix coudées sur dix, et cela est en accord avec ce qui est dit (v. 33) « et tu accrocheras le voile de séparation sous les attaches » qui joignait ensemble les deux sections de la tenture du Tabernacle. les deux tiers de la longueur du Tabernacle (20 coudées), exactement là où nous avons indiqué que le voile était suspendu. La deuxième section couvrait l'autre tiers de la longueur du Tabernacle (10 coudées) et ce qui restait (10 coudées) pendait derrière pour couvrir les planches (qui faisaient 10 coudées de hauteur ; cf. Rachi au v. 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:33",
+      "fr": "Accrochez le rideau sous les agrafes, et portez l'Arche du Pacte là, derrière le rideau, afin que le rideau vous serve de cloison entre le Saint et le Saint des Saints.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:34",
+      "fr": "Placez le couvercle sur l'Arche du Pacte dans le Saint des Saints.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 26:35",
+      "fr": "Placez la table en dehors du rideau, et le chandelier près du mur sud du Tabernacle, en face de la table qui doit être placée près du mur nord.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושמת את השלחן ET TU METTRA LA TABLE [SANS LE VOILE DE SÉPARATION] ] La table était au nord, distante du mur nord de deux coudées et demie. Le candélabre était au sud, à deux coudées et demie du mur sud. L'autel d'or était en face de l'espace qui se trouvait entre la table et le candélabre légèrement reculé vers l'est (cf. Rachi sur Exode 30 :6). Tous ces trois étaient placés dans la partie qui s'étendait de la moitié de la longueur du Tabcrnacle (sans compter le Saint des Saints) vers l'intérieur. Comment ça? La longueur du Tabernacle depuis l'entrée jusqu'au voile de séparation était de 20 coudées, et l'autel, la table et le candélabre étaient distants de l'entrée en direction ouest de 10 coudées (Yoma 33b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:36",
+      "fr": "Tu feras un paravent pour l'entrée de la tente, en fils bleus, pourpres et cramoisis, et en fin lin retors, brodé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשית מסך ET TU FAIREAS UN ÉCRAN — un rideau qui formait un écran protecteur devant l'entrée. le mot מסך ayant le même sens que le verbe dans (Job 1. 10) « Ne l'as-tu pas couvert (שכת) ? C'est une expression désignant la protection."
+        },
+        {
+          "id": 2,
+          "fr": "מעשה רקם LE TRAVAIL D'UNE BRODERIE — Les dessins y étaient réalisés à l'aiguille ; tout comme les chiffres d’un côté l’étaient aussi les chiffres de l’autre côté."
+        },
+        {
+          "id": 3,
+          "fr": "רקם — Ce mot est le nom de l'ouvrier (un brodeur), pas le nom du métier (broderie). Le Targum devrait donc être עובד צַיָּר « œuvre de brodeuse », et non עובד צִיּוּר « œuvre de broderie ». La taille de l'écran était la même que la taille du voile de séparation, à savoir 10 coudées sur 10 coudées."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 26:37",
+      "fr": "Tu feras cinq poteaux en bois d'acacia pour le paravent, tu les couvriras d'or, leurs crochets étant en or, et tu fondras pour eux cinq socles en cuivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:1",
+      "fr": "Tu feras l'autel en bois d'acacia, long de cinq coudées et large de cinq coudées. L'autel sera carré et haut de trois coudées.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועשית את המזבח וגו׳ ושלש אמות קמתו ET TU FERAS UN AUTEL etc. ET LA HAUTEUR DE CELUI-CI DOIT ÊTRE DE TROIS COUDÉES — Ces mots doivent être compris tels qu'ils sont écrits (c'est-à-dire signifier exactement ce qu'ils disent — que sa hauteur était trois coudées) ; c'est l'opinion de R. Jehudah. R. José dit cependant : il est dit ici : « [l'autel sera] carré » et il est dit en référence à l'autel intérieur (l'or), (Exode 30 :2) « [sera-t-il] carré ». Comment c'était là (dans le cas de ce dernier) ? Sa hauteur était le double de sa longueur (« une coudée de longueur, une coudée de largeur, . . . et deux coudées de hauteur ») ! Donc, aussi, ici : la hauteur doit être le double de sa longueur, c'est-à-dire. e. dix coudées. Et si vous me demandez, comment puis-je expliquer les mots et trois coudées de hauteur ? Je réponds que cela donne la mesure à partir du bord de l'enceinte (סובב) vers le haut (alors que 10 coudées étaient la hauteur réelle du sol au sommet de l'autel) (cf. Zevachim 60a ; Rachi au v. 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:2",
+      "fr": "Faites ses cornes aux quatre coins, et les cornes seront d'une seule pièce avec lui ; et recouvrez-le de cuivre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ממנו תהיין קרנתיו SES CORNES DOIVENT ÊTRE DES MÊMES — i. e. il ne les fera pas séparément et ne les y attachera pas ensuite (à l'autel)."
+        },
+        {
+          "id": 2,
+          "fr": "וצפית אתו נחשת ET TU LE RECOUVRAIS DE CUIVRE — pour expier les péchés commis avec effronterie (plus lit., avec impudence du front, l'expression hébraïque pour l'effronterie étant « avoir un front de cuivre »), comme il est dit (Ésaïe 48 : 4) « [Parce que je sais que tu es obstiné] et que ton front est cuivre » (cf. notre expression anglaise « effronté ») (Midrash Tanchuma, Terumah 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:3",
+      "fr": "Fabriquez les seaux pour enlever ses cendres, ainsi que ses grattoirs, ses bassins, ses crochets à chair et ses braseros ; faites tous ses ustensiles en cuivre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "סירתיו — une sorte de pot."
+        },
+        {
+          "id": 2,
+          "fr": "לדשנו signifie ENLEVER SES CENDRES en eux. C'est exactement ainsi qu'Onkelos l'a traduit : למספי קטמה, pour y retirer les cendres. Car bien que dans son sens premier דַּשֵּׁן signifierait couvrir de cendres, il a aussi le sens d'enlever les cendres, car il existe dans la langue hébraïque certaines expressions avec la particularité que le même mot change de sens pour être utilisé pour désigner à la fois la « construction » et la « destruction » (ayant un sens positif et un sens négatif). Les exemples sont : (Psaume 80 :10) « et tu l’as fait prendre racine profondément (ותשרש) » ; (Job 5 : 3) « J'ai vu les insensés prendre racine (משריש) », alors que nous avons son sens opposé (négatif) dans (Job 31 :12) « et tu voudrais déraciner (תשרש) tout mon gain. Semblable à cela, (Ésaïe 17 :6) « dans les branches les plus fécondes (בסעיפיה) », et son opposé, (Ésaïe 10 :33) « L'Éternel des armées מסעף », c'est-à-dire. e. il en coupera les branches. Il en va de même (Jérémie 50 : 17) « Et cette dernière personne עִצְּמוֹ » — « s'est brisé les os » bien que la signification première de עצם soit d'avoir des os solides. Cela ressemble à cela (1 Rois 21 :13) « et le lapida avec des pierres (ויסקלהו) » i. e. a entassé des pierres au-dessus de lui, et son opposé est, (Ésaïe 62 :10) « סקלו les pierres » — i. e. enlevez ses pierres; et ainsi aussi (Ésaïe 5 :2) « Et il le clôtura et en rassembla les pierres (ויסקלהו). » Ainsi ici aussi, לדשנו signifie enlever ses cendres. Dans 0. F. à discendrer."
+        },
+        {
+          "id": 3,
+          "fr": "ויעיו ET SES PELLES — comme le rend le Targum, מגרפות, pelles par lesquelles les cendres ont été enlevées. Ils avaient la forme d'un couvercle de pot, en métal fin, mais muni d'une poignée. En vieux français védil."
+        },
+        {
+          "id": 4,
+          "fr": "ומזרקתיו ET SES BOLS, dans lesquels recevoir le sang des sacrifices."
+        },
+        {
+          "id": 5,
+          "fr": "ומזלגתיו ET SES CROCHETS À CHAIR — Ceux-ci avaient la forme de crochets courbés ; ils les enfonçaient de force dans la chair pour qu'elles la pénètrent, et avec eux ils retournaient la chair sur les charbons du foyer pour qu'elle se consume plus vite. En vieux français, on les appelle crochets et dans la langue de nos Sages צנוריות (Yoma 12a)."
+        },
+        {
+          "id": 6,
+          "fr": "ומחתתיו ET SES FEU-PANERS ] Ceux-ci avaient une cavité pour contenir les objets afin que les charbons puissent y être retirés de l'autel afin de les transporter vers l'autel intérieur pour l'encens. Et en raison de leur utilisation pour y aspirer les charbons (חתיה), ils étaient appelés מחתות. Ce mot a la même racine et la même signification que le verbe dans (Ésaïe 30 :14) « לחתות feu du foyer », qui a le sens de tirer le feu de sa place. Il en va de même (Proverbes 6 :27) « Un homme peut-il attiser (היחתה) du feu dans son sein ? »"
+        },
+        {
+          "id": 7,
+          "fr": "לכל כליו signifie TOUS LES RÉCIPIENTS DE CEUX-CI [TU FAIREAS EN CUIVRE] (c'est-à-dire que cela ne signifie pas : « tu feras des choses en cuivre, pour (c'est-à-dire pour servir) tous ses récipients » mais le ל est redondant ; cf. Rachi sur Exode 14 :28)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:4",
+      "fr": "Faites-lui une grille en treillis de cuivre ; et sur le treillis, faites quatre anneaux de cuivre à ses quatre coins.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מכבר UNE GRILLE — מכבר est une expression liée à כברה, un tamis qu'on appelle dans le vieux crible français. Une sorte de couverture a été confectionnée pour l'autel, constituée de nombreux trous, à la manière d'un filet. Les mots de ce verset sont transposés, et son explication est la suivante : Et tu lui feras une grille de cuivre, de réseau."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:5",
+      "fr": "Placez le treillis en dessous, sous le rebord de l'autel, de manière à ce qu'il s'étende jusqu'au milieu de l'autel.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כרכב המזבח LA BOUSSOLE DE L'AUTEL — כרכב est un entourage. Tout ce qui entoure un objet tout autour est appelé כרכב, tout comme nous le lisons dans la section talmudique commençant par les mots הכל שוחטין (Chullin 25a) : Les éléments suivants relèvent de la description des récipients en bois inachevés — tous ceux qui doivent encore être polis et arrondis (ולכרכב ; c'est-à-dire faire un bord en creusant hors du centre). Ceci est similaire à la pratique consistant à réaliser des rainures arrondies dans les planches qui forment les côtés des coffres et des chaises en bois. Pour l'autel aussi, il fit une cavité tout autour, d'une largeur d'une coudée, dans le mur pour l'ornementation. Il était fait au bout de trois coudées de sa hauteur (en mesurant à partir du haut de l'autel). Ceci est conforme au point de vue de celui qui dit (cf. v. 1) : sa hauteur (de l'autel) était deux fois sa longueur. Et si vous me demandez comment puis-je expliquer la déclaration « et sa hauteur sera de trois coudées », je réponds que cela donne la mesure à partir du bord de l'enceinte vers le haut. Cet encadrement ne servait que d'ornementation, mais un encadrement sur lequel les prêtres pouvaient marcher lorsqu'ils officiaient sur l'autel de cuivre n'avait que sur son sommet à l'intérieur de ses cornes (allant d'une corne à l'autre). Ainsi lisons-nous dans le Traité Zevachim 62a : Qu'est-ce que le כרכב ? L'espace en contrebas entre une corne de l'autel et l'autre, celui-ci étant d'une coudée de largeur, et, de cet espace vers l'intérieur (vers le centre de l'autel) un espace d'une autre coudée sur lequel les prêtres pouvaient marcher tout autour de l'autel, formant ainsi un contour de deux coudées de largeur. Ces deux coudées étaient appelées כרכב. La critique est là faite à cette définition : Mais n'est-il pas écrit : « [et tu la mettras (la grille)] sous le périmètre de l'autel en dessous » — laquelle affirmation nous enseigne que le כרכב était sur le côté de l'autel et non sur son sommet puisque la couverture formée par la grille était en dessous ? Sur quoi le Talmud répond (lit., répond le répondeur), qu'en fait il y avait deux entourages, un pour l'ornementation (celui du bas) et un autre (au sommet) pour les prêtres afin qu'ils ne glissent pas en se promenant. Celui du côté de l'autel était destiné à l'ornementation, et en dessous on plaçait la grille comme revêtement et sa largeur atteignait le milieu de sa hauteur (de l'autel), en la mesurant à partir du sol. Il servait également à marquer le milieu de sa hauteur séparant les deux moitiés du côté de l'autel sur lesquelles étaient déposées respectivement le sang sacrificiel qui devait être aspergé au-dessus (sur la partie supérieure ; c'était le sang d'un חטאת) et le sang qui devait être aspergé en dessous (celui de עולה, שלמים et אשם). En correspondance avec cela, un signe constitué d'une ligne rouge a été réalisé pour l'autel de la « Maison éternelle » (le Temple de Jérusalem) (Zevachim 53a ; Mishna Middot 3 : 1). Quant à l’ascension (כבש — le plan incliné) sur laquelle ils montaient jusqu’au sommet de l’autel, il est vrai que l’Écriture ne la mentionne pas expressément dans cette section, mais nous l’avons déjà sous-entendu dans la déclaration de la section commençant par les mots מזבח אדמה תעשה לי (Exode 20 : 21-23) : « Tu ne monteras pas par étapes [jusqu'à mon autel] »- i. e. tu ne feras pas de pas lors de son ascension, mais tu feras une ascension ininterrompue, — cela nous dit qu'il y a eu une telle ascension. — C'est ce qu'on lit dans la Mechilta d'Rabbi Yishmael 20 :23 :1). — Car l'autel de terre dont il est question ici est identique à l'autel de cuivre décrit ici et il était appelé autel de terre parce qu'ils remplissaient l'espace creux à l'intérieur (à l'intérieur de ses murs cuivrés) avec de la terre à chaque endroit où ils campaient dans le désert. Cette montée se faisait au sud de l’autel, son sommet se trouvant à seulement un cheveu de l’autel (c’est-à-dire touchant presque l’autel). Son pied atteignait la coudée adjacente aux tentures du parvis au sud (c'est-à-dire qu'il était éloigné d'une coudée de ces tentures de l'enceinte). Cette dernière affirmation est selon celui qui soutient que sa hauteur (celle de l'autel) était de dix coudées, tandis que selon celui qui soutient que le commandement (v. 1) « et sa hauteur sera de trois coudées » doit être pris littéralement (cf. Rachi sur le v. 1), la longueur de la montée n'était que de dix coudées, car comme l'autel était plus bas, la pente menant à son sommet ne pouvait pas être très longue. C'est ce que j'ai trouvé dans le Boraitha דמ\"ט מדות (cf. Yalkut Shimoni sur la Torah 419). Et en ce qui concerne cette déclaration selon laquelle il se tenait à seulement un cheveu du haut de l'autel, dans le Traité Zevachim 62b, ils (les rabbins) l'ont dérivé d'un texte biblique."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:6",
+      "fr": "Tu feras des poteaux pour l'autel, des poteaux en bois d'acacia, et tu les couvriras de cuivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:7",
+      "fr": "Les barres seront insérées dans les anneaux, de manière à ce que les barres restent des deux côtés de l'autel lorsqu'il est porté.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בטבעת [ET LES BARRES DOIVENT ÊTRE APPORTÉES] DANS LES ANNEAUX — dans les quatre anneaux faits pour la grille (v. 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:8",
+      "fr": "Faites-le creux, en planches. Comme on vous l'a montré sur la montagne, ainsi seront-ils faits.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נבוב לחת CREUX AVEC TABLETTES — Rendez-le comme le fait le Targum, חליל לוחין, creux en ce qui concerne les planches (לוחין est ce qu'on appelle un accusatif de respect) : des planches de bois de merde de tous les côtés (cf. v. 1) et un espace creux au milieu ; ce ne sera pas dans son intégralité un seul bloc de bois dont l'épaisseur dans deux directions sera de cinq coudées sur cinq coudées, comme le tronc d'un arbre qui a été creusé."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:9",
+      "fr": "Tu feras l'enceinte du Tabernacle : Du côté sud, comme côté sud Cf. note à 26h18. cent coudées de tentures en fin lin retors pour toute la longueur de l'enceinte de ce côté,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קלעים TENDANCES — faites comme les voiles des navires, pleines de trous, en travail de tresse et non en travail de tisserand. Le rendu dans le Targum, סרדין, est le même que le rendu de מִכְבָּר, qu'il rend par le singulier סרדא ; c'est qu'elles, les tentures comme la grille, sont criblées de trous comme un tamis."
+        },
+        {
+          "id": 2,
+          "fr": "לפאה האחת POUR UN CÔTÉ — le côté entier (pas seulement le coin ; cf. Rachi sur Exode 26 :18) est appelé פאה.‎"
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:10",
+      "fr": "avec ses vingt poteaux et leurs vingt socles en cuivre, les crochets et les attaches des poteaux étant d'argent.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועמדיו עשרים ET VINGT COLONNES DE CEUX-CI — Il y avait un espace de cinq coudées entre une colonne et l'autre"
+        },
+        {
+          "id": 2,
+          "fr": "ואדניהם ET LES PRISES des colonnes DOIVENT ÊTRE EN CUIVRE (c'est-à-dire que le mot נחשת doit être connecté uniquement avec le mot précédent ואדניהם, pas avec ועמדיו au début du verset). Les douilles reposaient sur le sol et les colonnes y étaient insérées. On fit une espèce de rail qu'on appelle pals en vieux français, de six palmes sur trois, et on fixa en son centre un anneau de cuivre. Ils replièrent le bord supérieur du rideau autour (autour de chaque traverse) par des cordes aux endroits où le rideau venait en face de chaque colonne et ils accrochèrent le rail par son anneau au crochet qui était sur la colonne et qui était fait comme la lettre ו, une de ses extrémités étant recourbée vers le haut et l'autre extrémité étant enfoncée dans la colonne, comme ces crochets qu'on fait pour y fixer les portes, et qu'on appelle dans les vieux gonds français. Ainsi la largeur du rideau pendait vers le bas et cette largeur formait la hauteur des murs de la cour."
+        },
+        {
+          "id": 3,
+          "fr": "Il y a aussi les crochets déjà mentionnés."
+        },
+        {
+          "id": 4,
+          "fr": "וחשקיהם ET LEURS FILETS ] Les colonnes étaient entourées de fils d'argent. Je ne sais cependant pas si cela a été fait sur toute leur surface ou seulement au sommet ou autour du milieu seulement, mais je sais que חשוק signifie « attaché », car nous trouvons dans le récit de la concubine de Gibeah (Juges 19 :10) : « il y avait avec lui deux ânes sellés (חבושים lit., liés) » ce dernier mot que le Targum rend par חשוקים‎."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:11",
+      "fr": "Encore cent coudées de tentures sur toute sa longueur, le long du côté nord, avec ses vingt poteaux et leurs vingt bases de cuivre, les crochets et les attaches des poteaux étant d'argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:12",
+      "fr": "Pour la largeur de l'enceinte, du côté occidental, cinquante coudées de tentures, avec leurs dix poteaux et leurs dix bases.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:13",
+      "fr": "Pour la largeur de l'enceinte sur le devant ou du côté est, cinquante coudées :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לפאת קדמה מזרחה DU CÔTÉ EST VERS L'EST — Les deux derniers mots sont les mêmes que פני המזרח. Le mot הדם est synonyme de פנים, le visage (le devant de toute chose), et אחור est le même terme que אֲחוֹרַיִם, les fesses, le derrière. L’Est est donc appelé קדם car c’est la partie avant du monde ; en conséquence, l'Occident est appelé אחור, la partie arrière du monde, tout comme vous parlez de (Deutéronome 11 :24) הים האחרון la Mer d'Entrave, que le Targum rend par « la Mer de l'Ouest »."
+        },
+        {
+          "id": 2,
+          "fr": "חמשים אמה CINQUANTE COUDÉES ] Ces cinquante coudées n'étaient pas toutes remplies de rideaux, car l'entrée était là ; il n'y avait que quinze coudées de rideaux du côté de l'entrée dans un sens, et de même de l'autre côté. Il restait ainsi une largeur d'espace ouvert à l'entrée composée de 20 coudées entre (entre les deux longueurs de rideaux à droite et à gauche de l'entrée). C'est ce que l'on entend par : (v. 16) « et pour la porte de l'enceinte un voile de vingt coudées » — un voile servant de paravent pour l'entrée, long de vingt coudées, égal à la largeur de l'entrée."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:14",
+      "fr": "quinze coudées de tentures sur un flanc, avec leurs trois poteaux et leurs trois bases ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עמדיהם שלשה LEURS COLONNES TROIS ] Il y avait cinq coudées d'espace entre une colonne et une autre colonne : entre la colonne à l'extrémité de la rangée sud, debout à l'angle sud-est, jusqu'à la première colonne qui était l'une des trois à l'est, il y avait cinq coudées ; depuis celui-ci jusqu'au deuxième, cinq coudées, et depuis le deuxième jusqu'au troisième, cinq coudées. C'était pareil de l'autre côté de l'entrée. Et quatre colonnes pour le paravent sont mentionnées ici, de sorte que vous avez dix colonnes pour l'est correspondant aux dix colonnes du côté ouest (v. 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:15",
+      "fr": "quinze coudées de tentures sur l'autre flanc, avec leurs trois poteaux et leurs trois bases ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:16",
+      "fr": "et pour la porte de l'enceinte, un paravent de vingt coudées, en fils bleu, pourpre et cramoisi, et en fin lin retors, brodé, avec leurs quatre poteaux et leurs quatre bases.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 27:17",
+      "fr": "Tous les poteaux autour de l'enceinte seront cerclés d'argent et leurs crochets seront d'argent ; leurs douilles seront en cuivre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל עמודי החצר סביב וגו׳ TOUTES LES COLONNES AUTOUR DE L'ENCEINTE, etc. — Parce que l'Écriture mentionne expressément les crochets, les filets et les douilles en cuivre en relation uniquement avec le nord et le sud, et en ce qui concerne l'est et l'ouest, il n'y a aucune mention des crochets, des filets et des douilles en cuivre (cf. vv. 14, 15, où il est effectivement fait mention de socles mais il n'est pas dit qu'ils doivent être en cuivre), c'est pourquoi l'Écriture vient maintenant et donne des instructions selon lesquelles les socles de tous les piliers qui sont autour doivent être en cuivre."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:18",
+      "fr": "La longueur de l'enceinte sera de cent coudées, et sa largeur de cinquante coudées en longueur ; et la hauteur était de cinq coudées, [avec tentures] de fin lin retors. Les douilles seront en cuivre :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ארך החצר LA LONGUEUR DE L'ENCEINTE — i. e. ses côtés nord et sud, qui s'étendent de l'est à l'ouest, seront de CENT COUDÉES."
+        },
+        {
+          "id": 2,
+          "fr": "ורחב חמשים בחמשים ET LA LARGE CINQUANTE PARTOUT ] La partie de l'enceinte du côté est était un carré de cinquante coudées sur cinquante, car le Tabernacle mesurait trente coudées de long et dix coudées de large. Son entrée était placée à l'est, à l'extrémité des cinquante coudées extérieures de la longueur de l'enceinte ; par conséquent il (le Tabernacle) était entièrement à l'intérieur des cinquante coudées intérieures (occidentales) et sa longueur se terminait au bout de trente autres coudées (utilisant ainsi quatre-vingts coudées au milieu de la longueur de l'enceinte) ; il s'ensuit donc qu'il y avait un espace de vingt coudées en arrière, entre les tentures de l'enceinte à l'ouest et les rideaux de l'arrière du Tabernacle. La largeur du Tabernacle occupait dix coudées au milieu de la largeur de l'enceinte ; ainsi il y avait un espace de vingt coudées au nord et au sud entre les tentures de l'enceinte et les rideaux du Tabernacle et il y avait un espace similaire à l'ouest, comme indiqué ci-dessus, tandis que cinquante sur cinquante était le parvis devant lui (cf. Eruvin 23b)."
+        },
+        {
+          "id": 3,
+          "fr": "וקמה חמש אמות ET LA HAUTEUR DE CINQ COUDÉES ] La hauteur des cloisons de l'enceinte était de cinq coudées et elle était formée par la largeur des rideaux."
+        },
+        {
+          "id": 4,
+          "fr": "ואדניהם נחשת ET LEURS DOUILLES EN CUIVRE — Cette déclaration est destinée à inclure les douilles du paravent — qu'il ne faut pas dire : les douilles en cuivre ne sont prescrites que pour les colonnes des rideaux (v. 17), mais les douilles du paravent qui ne sont pas déclarées en cuivre (v. 16) peuvent être d'un autre matériau ; c'est, me semble-t-il, la raison pour laquelle l'Écriture répète ces mots après les avoir utilisés au v. 17."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 27:19",
+      "fr": "tous les ustensiles du Tabernacle, du Tabernacle, c'est-à-dire de l'enceinte extérieure. (À l'intérieur de la tente, les meubles seront en or.) Car tout son service, ainsi que tous ses piquets et tous les piquets du parvis, seront en cuivre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לכל כלי המשכן TOUS LES VASES DU TABERNACLE qui étaient nécessaires pour l'ériger et pour le démonter comme, par exemple, les marteaux pour enfoncer les piquets et les colonnes."
+        },
+        {
+          "id": 2,
+          "fr": "יתדת CHEVILLES — sorte de clou en cuivre fait pour les rideaux du אהל (la deuxième couche de rideau au-dessus) et pour les tentures de l'enceinte, attachés à ceux-ci par des cordes tout autour sur leur bord inférieur afin que le vent ne les soulève pas. Je ne sais pas avec certitude s'ils étaient enfoncés dans le sol ou s'ils étaient simplement attachés aux bords et pendus, leur poids chargeant les bords des rideaux pour qu'ils ne puissent pas bouger sous le vent. Mais je dirais que leur nom (c'est-à-dire le nom donné ici à ces morceaux de métal) montre qu'ils étaient enfoncés dans le sol, et c'est pour cette raison qu'ils sont ici appelés יתדת. Le verset suivant me soutient dans mon opinion : (Isaïe 33 :20) « Une tente qui ne sera pas démontée ; ses pieux (יתדותיו) ne seront jamais arrachés. »."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "name": "Vayakhel",
+  "range": "Exodus 35:1-38:20",
+  "verses": [
+    {
+      "ref": "Exodus 35:1",
+      "fr": "Moïse a ensuite convoqué toute la communauté israélite, ou les dirigeants, au nom de tous. et leur dit : Voici les choses que DIEU vous a commandé de faire :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקהל משה ET MOÏSE ASSEMBLÉS [TOUTE LA CONGRÉGATION DES ENFANTS D'ISRAËL] — le lendemain du Jour des Expiations lorsqu'il descendit de la montagne. Il (le mot ויקהל) est utilisé sous la forme verbale qui exprime l’idée de faire faire une chose, car on n’assemble pas réellement les gens avec ses mains, mais ils sont assemblés par son ordre. Le Targum devrait donc être ואכניש (et non וכנש comme le font certaines éditions)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:2",
+      "fr": "Pendant six jours, vous pourrez travailler, mais le septième jour, vous aurez un sabbat de repos complet, saint pour DIEU ; quiconque y fera un travail sera mis à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ששת ימים SIX JOURS [PEUT ÊTRE FAIT LE TRAVAIL] — Il leur a intentionnellement mentionné l'interdiction en référence au sabbat avant l'ordre concernant la construction du Tabernacle afin de laisser entendre qu'il n'annule pas (ne remplace pas) le sabbat (cf. Mekhilta)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:3",
+      "fr": "Vous n'allumerez aucun feu dans vos colonies le jour du sabbat.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תבערו אש VOUS NE ALLUMEREZ PAS DE FEU [PENDANT VOS HABITATIONS LE JOUR DU SABBAT] — Certains de nos rabbins disent que la loi sur l'allumage du feu est isolée (plus lit., découle de la proposition générale ; c'est-à-dire qu'elle est spécialement mentionnée ici bien qu'elle soit incluse dans לא תעשה כל מלאכה, la loi interdisant tout travail le jour du sabbat) afin d'en faire un simple ordre négatif (indiquant ainsi que, comme tous les autres ordres négatifs, sa violation est punie de coups de fouet mais n'expose pas le contrevenant à la mort comme le fait l'exécution d'autres travaux le jour du sabbat). D'autres, cependant, disent qu'il a été isolé afin de séparer les différents types de travaux compris dans le terme כל מלאכה (indiquant ainsi que chaque transgression de la loi du sabbat doit être expiée séparément si plusieurs d'entre elles ont été commises en même temps et dans les mêmes circonstances) (cf. Chabbat 70a ; Yevamot 6b ; Sanhédrin 35b ; cf. aussi Pesachim 5b)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:4",
+      "fr": "Moïse dit encore à toute la communauté israélite : Voici ce que DIEU a commandé :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זה הדבר אשד צוה ה׳ C'EST LA CHOSE QUE LE SEIGNEUR M'A COMMANDÉ, לאמר DE vous DIRE."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:5",
+      "fr": "Prenez parmi vous des dons à DIEU ; tous ceux dont le cœur est ainsi ému leur apporteront des cadeaux pour DIEUb : Sur la liste qui suit, voir 25.4-7 et les notes qui s’y trouvent. l'or, l'argent et le cuivre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נדיב לבו [QUICONQUE] EST D'UN COEUR VOLONTANT ] Parce que son cœur incite à la générosité, il est appelé נדיב לב, celui qui est poussé à la générosité par le cœur. J'ai déjà expliqué les différents matériaux qui constituaient la contribution au Tabernacle et le travail effectué pour celui-ci dans les passages où les commandements à leur sujet étaient donnés."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:6",
+      "fr": "des fils bleus, pourpres et cramoisi, du fin lin et du poil de chèvre ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:7",
+      "fr": "peaux de béliers tannées, peaux de dauphins et bois d'acacia ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:8",
+      "fr": "de l'huile pour l'éclairage, des épices pour l'huile d'onction et pour l'encens aromatique ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:9",
+      "fr": "du lapis-lazuli et d'autres pierres à sertir, pour l'éphod et le pectoral.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:10",
+      "fr": "Et que tous ceux d’entre vous qui sont habiles viennent faire tout ce que DIEU a commandé :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:11",
+      "fr": "le Tabernacle, sa tente et sa couverture, ses attaches et ses planches, ses barres, ses poteaux et ses bases ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את המשכן LE TABERNACLE — Les rideaux inférieurs qui étaient visibles à l'intérieur du bâtiment sont appelés משכן."
+        },
+        {
+          "id": 2,
+          "fr": "את אהלו SA TENTE — c'est la couverture en peaux de chèvre qui a été faite pour servir de toiture."
+        },
+        {
+          "id": 3,
+          "fr": "ואת מכסהו ET SA COUVERTURE — la couverture des peaux de béliers et des peaux de tachash."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:12",
+      "fr": "l'arche et ses poteaux, le couvercle et le rideau pour le paravent ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת פרכת המסך signifie LE RIDEAU DE (qui sert à) LA PARTITION — Tout ce qui masque un objet, qu'il soit suspendu au-dessus ou devant lui, est appelé מָסָךְ ou סְכַךְ. D'une signification similaire sont : (Job 1 : 10) « [N'as-tu pas] mis une cloison devant lui ? (שכת = סכת); (Osée 2 :8) « Voici, je diviserai (סך = שך) ton chemin [avec des épines] »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:13",
+      "fr": "la table, ses barres et tous ses ustensiles ; et le pain de présentation ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לחם הפנים LE PAIN DE SPECTACLE — J'ai déjà expliqué (Exode 25 :29) qu'il était ainsi appelé parce qu'il avait deux faces tournantes dans une direction et dans une autre, parce qu'il était fait comme une caisse ouverte sur deux côtés."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:14",
+      "fr": "le chandelier pour l'éclairage, ses accessoires et ses lampes, et l'huile pour l'éclairage ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת כליה ET SES NAVIRES — les pinces et les tabatières."
+        },
+        {
+          "id": 2,
+          "fr": "נרתיה SES LAMPES — luces en vieux français — bols dans lesquels étaient placées l'huile et les mèches."
+        },
+        {
+          "id": 3,
+          "fr": "ואת שמן המאר ET L'HUILE AUSSI POUR LA LUMIÈRE — Cela nécessitait également des hommes sages pour la préparer (et c'est pourquoi l'Écriture la mentionne également après sa déclaration v. 10 « Et tout homme sage… fera… »), car elle était différente des autres huiles, comme il est expliqué dans Menachot 86a : il la laisse mûrir (l'olive) sur le dessus du olivier etc. et ainsi elle (l'huile) est « battue et pourtant claire » comme le prescrit l'Écriture (Exode 27 :20)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:15",
+      "fr": "l'autel des parfums et ses poteaux ; l'huile d'onction et l'encens aromatique; et le paravent pour l'entrée du Tabernacle ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מסך הפתח LE PARAVENT POUR L'ENTRÉE — le rideau qui était devant le côté est du Tabernacle, car il n'y avait là ni planches ni rideaux."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:16",
+      "fr": "l'autel des holocaustes, sa grille de cuivre, ses poteaux et tous ses ustensiles ; la cuve et son support ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:17",
+      "fr": "les tentures de l'enceinte, ses poteaux et ses socles, et le paravent de la porte du parvis ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את עמדיו ואת אדניה SES COLONNES ET SES PRISES — עמדיו a un suffixe masculin et אדניה un suffixe féminin ; ainsi חצר est ici utilisé comme (lit., appelé) nom masculin et féminin. Il en va de même pour beaucoup de choses (cf. Rachi sur Genèse 32 : 9)."
+        },
+        {
+          "id": 2,
+          "fr": "ואת מסך שער החצר ET LE PARAVENT POUR LA PORTE DE L'ENCEINTE — le rideau qui était suspendu du côté est, couvrant les vingt coudées médianes dans la largeur de l'enceinte, cette dernière mesurant cinquante coudées de large. De ce nombre, quinze coudées du côté nord étaient fermées par des tentures, ainsi que du côté sud, comme il est dit (Exode 27 : 14, 15) « Les tentures d'un côté de la porte seront de quinze coudées… [et de l'autre côté, il y aura quinze coudées de tentures] »."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:18",
+      "fr": "les piquets du Tabernacle, les piquets de l'enceinte et leurs cordes ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יתדת LES ÉPINGLES — afin de les insérer dans le sol et de fixer ainsi les bords des rideaux afin qu'ils ne soient pas déplacés par le vent."
+        },
+        {
+          "id": 2,
+          "fr": "מיתריהם LEURS CORDONS avec lesquels lier."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:19",
+      "fr": "les vêtements de service pour officier dans le sanctuaire, les vêtements sacrés d'Aaron le prêtre et les vêtements de ses fils pour le service sacerdotal.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בגדי השרד LES VÊTEMENTS TRICOTÉS — pour couvrir l'Arche, la table, le candélabre et les autels au moment de retirer et d'emballer les articles du Tabernacle lorsqu'ils partent en voyage."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:20",
+      "fr": "Ainsi, toute la communauté israélite, toute la communauté israélite Voir la note au v. 1. quitta la présence de Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:21",
+      "fr": "Et tous ceux qui excellaient en capacité et tous ceux dont l'esprit était ému vinrent apporter à DIEU une offrande pour le travail de la Tente d'assignation et pour tout son service et pour les vêtements sacrés.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:22",
+      "fr": "Des hommes et des femmes, tous dont le cœur les touchait, tous ceux qui voulaient faire une offrande d'or à DIEU, vinrent apportant des broches, des boucles d'oreilles, des bagues et des pendentifs. Signification de Héb. kumaz incertain; cf. Nombre. 31.50.—objets en or de toutes sortes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "על הנשים signifie avec les femmes et les suivre de près."
+        },
+        {
+          "id": 2,
+          "fr": "חח est un ornement circulaire doré placé sur le bras ; c'est le צמיד qui est souvent mentionné dans les Écritures (cf. par exemple, Nombres 31:50)."
+        },
+        {
+          "id": 3,
+          "fr": "כומז était un ornement doré porté par les femmes sur leurs parties intimes. Nos rabbins expliquent le nom כּוּמָז comme [un acrostiche] : כַּאן מְקוֹם זִמָּה, [signifiant] ici est le lieu de la licence. (cf. Chabbat 64a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:23",
+      "fr": "Et tous ceux qui possédaient des fils bleus, pourpres et cramoisi, du fin lin, du poil de chèvre, des peaux de bélier tannées et des peaux de dauphin, les apportèrent ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכל איש אשר נמצא אתו ET TOUS LES HOMMES AVEC QUI A ÉTÉ TROUVÉ du pourpre bleu, ou du pourpre rouge, ou du cramoisi, ou des peaux de béliers, ou des peaux de tachash, tous ont apporté ce qu'ils avaient."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:24",
+      "fr": "tous ceux qui voulaient faire des dons d'argent ou de cuivre les apportaient comme cadeaux à DIEU ; et tous ceux qui possédaient du bois d'acacia pour les travaux du service l'apportaient.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:25",
+      "fr": "Et toutes les femmes habiles filaient de leurs propres mains, et apportaient ce qu'elles avaient filé, des fils bleus, pourpres et cramoisis, et du fin lin.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:26",
+      "fr": "Et toutes les femmes qui excellaient dans ce métier filaient le poil des chèvres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "טוו את העזים [ET LES FEMMES] TISSENT LES POILS DES CHÈVRES (lit., les chèvres) — Cela nécessitait une habileté extraordinaire, car ils les filaient (les poils des chèvres) du dos des chèvres (alors qu'ils étaient encore sur les animaux vivants) (Chabbat 99a)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:27",
+      "fr": "Et les chefs apportèrent du lapis-lazuli et d'autres pierres à sertir, pour l'éphod et pour le pectoral ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והנשאם הביאו ET LES PRINCES APPORTENT DES [PIERRES D'ONYX] R. Nathan demanda : « Pour quelle raison les princes avaient-ils donné leurs contributions lors de la dédicace de l'autel (Nombres 7 : 12 suiv.) en premier lieu au peuple, alors qu'au travail du Tabernacle ils n'étaient pas les premiers, mais les derniers à contribuer ? Mais — répondit-il — les princes parlèrent ainsi : « Que la communauté en général donne tout ce qu'elle a à donner, et ce qui manquera alors, nous le pourvoirons. » Mais lorsque la communauté donna tout ce qui était nécessaire dans son intégralité — comme il est dit (Exode 36 :7) « Car l'étoffe qu'ils avaient était suffisante [pour tout le travail pour le faire, et il en restait] » - les princes demandèrent : « Que pouvons-nous faire maintenant ? donc הביאו את אבני השהם וגו׳ ILS A APPORTÉ LES PIERRES D'ONYX etc. C'est pourquoi ils furent les premiers à contribuer à la consécration de l'autel. Parce que, cependant, ils étaient dilatoires au début, il manque ici une lettre dans leur titre (indiquant ainsi que quelque chose, à savoir, le zèle leur manquait) : car il est écrit והנשאם au lieu de והנשיאים (Nombres Rabbah 12 : 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:28",
+      "fr": "et des épices et de l'huile pour l'éclairage, pour l'huile d'onction et pour le parfum aromatique.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:29",
+      "fr": "Ainsi les Israélites, tous les hommes et femmes dont le cœur les poussait à apporter quelque chose pour l'œuvre que DIEU, par l'intermédiaire de Moïse, avait ordonné d'accomplir, l'apportèrent comme une offrande volontaire à DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:30",
+      "fr": "Moïse dit aux Israélites : Voyez, Dieu a désigné Bezalel, fils d'Uri, fils de Hur, de la tribu de Juda,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חור HUR était le fils de Miriam (Sotah 11b ; cf. Rachi sur Exode 24 :14)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:31",
+      "fr": "le dotant d'un esprit divin d'habileté, de capacité et de connaissance dans toutes sortes de métiers,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:32",
+      "fr": "et l'inspirer, l'inspirer. Déplacé du v. 34 pour plus de clarté. faire des dessins pour travailler l'or, l'argent et le cuivre,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:33",
+      "fr": "tailler des pierres pour les sertir et sculpter du bois, exercer toutes sortes de métiers de dessinateur,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 35:34",
+      "fr": "et pour donner des directions. Lui et Oholiab, fils d'Ahisamach, de la tribu de Dan",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואהליאב ET OHOLIAB — il était de la tribu de Dan, de l'une des tribus les plus basses, des fils des servantes, et pourtant l'Omniprésent l'a placé en ce qui concerne le travail du Tabernacle au niveau de Bezalel bien qu'il soit membre d'une des tribus nobles (Juda) ! afin de confirmer ce que dit l'Écriture (Job 34 : 19) : « Il ne considère pas plus les riches que les pauvres » (Midrash Tanchuma 2 : 10 : 13)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 35:35",
+      "fr": "ont été dotés des compétences nécessaires pour accomplir n'importe quel travail - de sculpteur, de dessinateur, de brodeur en fils bleus, pourpres, cramoisis et en lin fin, et de tisserand - en tant qu'ouvriers dans tous les métiers et en tant que créateurs de dessins.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:1",
+      "fr": "Que donc Bezalel et Oholiab et toutes les personnes compétentes que DIEU a dotées de compétences et de capacités pour accomplir de manière experte toutes les tâches liées au service du sanctuaire exécutent tout ce que DIEU a commandé.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:2",
+      "fr": "Moïse appela alors Bezalel et Oholiab, ainsi que toutes les personnes compétentes que DIEU avait dotées de compétences, tous ceux qui excellaient en capacités, pour entreprendre la tâche et l'exécuter.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:3",
+      "fr": "Ils reprirent de Moïse tous les dons que les Israélites avaient apportés, pour accomplir les tâches liées au service du sanctuaire. Mais comme ceux-ci continuaient à lui apporter des offrandes volontaires matin après matin,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:4",
+      "fr": "chacun des artisans engagés dans les tâches du sanctuaire était issu de la tâche dans laquelle ils étaient engagés,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:5",
+      "fr": "et dit à Moïse : « Le peuple apporte plus que ce qui est nécessaire pour les tâches impliquées dans l'œuvre que DIEU a ordonné d'accomplir. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מדי העבדה signifie plus que ce qui est suffisant pour les besoins du travail."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:6",
+      "fr": "Moïse fit alors proclamer dans tout le camp cette proclamation : « Aucun homme ni aucune femme ne devrait faire davantage d’efforts pour obtenir des dons pour le sanctuaire ! » Alors les gens ont arrêté d'apporter :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויכלא est une expression pour retenir."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:7",
+      "fr": "leurs efforts avaient été plus que suffisants pour que toutes les tâches soient accomplies.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והמלאכה היתה דים (lit., et le travail était leur suffisance — leur suffisait — pour tout le travail) — cela signifie que le travail de contribution était la suffisance des (était suffisant pour) les ouvriers du Tabernacle, pour tout le travail lié au Tabernacle pour le faire et même pour en laisser un peu."
+        },
+        {
+          "id": 2,
+          "fr": "והותר est un infinitif similaire à (Exode 8 :11) « [Mais quand Pharaon vit qu'il y avait un répit], il laissa son cœur s'endurcir (והכבד‎) » ; (2 Rois 3 :24) « et ils frappèrent (והכות) Moab » (infinitifs utilisés dans un sens parfait)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 36:8",
+      "fr": "Alors tous les ouvriers habiles qui travaillaient à l'ouvrage confectionnèrent le tabernacle avec dix bandes de tissu, qu'ils firent de fin lin retors, de fils bleus, pourpres et cramoisi ; ils y travaillèrent un dessin de chérubins.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:9",
+      "fr": "La longueur de chaque tissu était de vingt-huit coudées, et la largeur de chaque tissu était de quatre coudées, tous les tissus ayant les mêmes mesures.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:10",
+      "fr": "Ils joignirent cinq des tissus les uns aux autres, et ils joignirent les cinq autres tissus les uns aux autres.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:11",
+      "fr": "Ils firent des boucles de laine bleue sur le bord du tissu extérieur d'un ensemble, et firent de même sur le bord du tissu extérieur de l'autre ensemble :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:12",
+      "fr": "ils firent cinquante boucles sur un tissu, et cinquante boucles sur le bord du tissu de fin de l'autre ensemble, les boucles étant opposées l'une à l'autre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:13",
+      "fr": "Et ils fabriquèrent cinquante fermoirs en or et assemblèrent les unités. Litt. « bande de tissu », utilisé ici collectivement. les uns aux autres avec les attaches, de sorte que le tabernacle devienne un tout.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:14",
+      "fr": "Ils firent des toiles de poil de chèvre pour faire une tente au-dessus du tabernacle ; ils confectionnèrent les tissus au nombre de onze.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:15",
+      "fr": "La longueur de chaque tissu était de trente coudées, et la largeur de chaque tissu était de quatre coudées, les onze tissus ayant les mêmes mesures.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:16",
+      "fr": "Ils assemblèrent eux-mêmes cinq des toiles et les six autres toiles.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:17",
+      "fr": "Ils firent cinquante boucles sur le bord du tissu extérieur d'un ensemble, et cinquante boucles sur le bord du tissu de fin de l'autre ensemble.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:18",
+      "fr": "Ils fabriquèrent cinquante attaches en cuivre pour relier la tente afin qu'elle puisse former un tout.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:19",
+      "fr": "Et ils firent pour la tente une couverture de peaux de béliers tannées, et une couverture de dauphinbdauphin. Voir note à 25.5. peaux ci-dessus.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:20",
+      "fr": "Ils fabriquèrent les planches du Tabernacle en bois d'acacia, debout.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:21",
+      "fr": "La longueur de chaque planche était de dix coudées, et la largeur de chaque planche d'une coudée et demie.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:22",
+      "fr": "Chaque planche avait deux tenons, parallèles. Voir note au 26.17. les uns aux autres; ils firent de même avec toutes les planches du Tabernacle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:23",
+      "fr": "Des planches du Tabernacle, ils firent vingt planches pour le côté sud, côté sud Voir note à 26.18.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:24",
+      "fr": "on fit quarante socles d'argent sous les vingt planches, deux socles sous une planche pour ses deux tenons et deux socles sous chaque planche suivante pour ses deux tenons ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:25",
+      "fr": "et pour l'autre mur latéral du Tabernacle, le côté nord, vingt planches,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:26",
+      "fr": "avec leurs quarante socles d'argent, deux socles sous une planche et deux socles sous chaque planche suivante.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:27",
+      "fr": "Et pour l'arrière du Tabernacle, à l'ouest, ils firent six planches ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:28",
+      "fr": "et ils firent deux planches pour les coins du tabernacle, à l'arrière.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:29",
+      "fr": "Ils correspondaient en bas, mais se terminaient par un seul en haut en un seul anneau ;eIls correspondaient… en un seul anneau Voir la note à 26.24. ils l'ont fait avec eux deux aux deux coins.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:30",
+      "fr": "Il y avait donc huit planches avec leurs socles en argent : seize socles, deux sous chaque planche.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:31",
+      "fr": "Ils firent des barres de bois d'acacia, cinq pour les planches d'un mur latéral du Tabernacle,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:32",
+      "fr": "cinq barres pour les planches de l'autre mur latéral du Tabernacle, et cinq barres pour les planches du mur du Tabernacle à l'arrière, à l'ouest ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:33",
+      "fr": "ils ont fait courir la barre centrale, à mi-hauteur des planches, d'un bout à l'autre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:34",
+      "fr": "Ils recouvrirent les planches d'or et firent leurs anneaux d'or pour fixer les barres ; et ils couvrit les lingots d'or.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:35",
+      "fr": "Ils firent le rideau avec des fils bleus, pourpres et cramoisis, et du fin lin retors, en y faisant un dessin de chérubins.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:36",
+      "fr": "Ils lui firent quatre poteaux en bois d'acacia et les couvrit d'or avec leurs crochets d'or ; et ils fondirent pour eux quatre bases d'argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:37",
+      "fr": "Ils firent le paravent pour l'entrée de la tente, avec des fils bleus, pourpres et cramoisi, et du fin lin retors, brodé;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 36:38",
+      "fr": "et cinq poteaux avec leurs crochets. Ils recouvrirent d'or leurs sommets et leurs bandes ; mais les cinq douilles étaient en cuivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:1",
+      "fr": "Bezalel fit l'arche en bois d'acacia, longue de deux coudées et demie, large d'une coudée et demie et haute d'une coudée et demie.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויעש בצלאל ET BEZALEL FAIT [L'ARCHE] — Parce qu'il s'est livré à l'œuvre avec plus de cœur que les autres sages, on l'appelle d'après son nom (son nom seul est associé à l'acte) (Midrash Tanchuma, Vayakhel 10)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 37:2",
+      "fr": "Il l'a recouvert d'or pur, à l'intérieur et à l'extérieur ; et il lui fit une moulure d'or tout autour.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:3",
+      "fr": "Il fondit pour elle quatre anneaux d'or, pour ses quatre pieds : deux anneaux sur l'une de ses parois latérales et deux anneaux sur l'autre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:4",
+      "fr": "Il fit des poteaux en bois d'acacia, et les couvrit d'or,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:5",
+      "fr": "et il inséra les barres dans les anneaux sur les parois latérales de l'arche pour porter l'arche.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:6",
+      "fr": "Il fit une couverture d'or pur, longue de deux coudées et demie et large d'une coudée et demie.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:7",
+      "fr": "Il fit deux chérubins d'or ; il les fit en travail martelé, aux deux extrémités du couvercle :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:8",
+      "fr": "un chérubin à une extrémité et l'autre chérubin à l'autre extrémité ; il fit les chérubins d'une seule pièce avec le couvercle, à ses deux extrémités.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:9",
+      "fr": "Les chérubins avaient les ailes déployées au-dessus, protégeant le couvercle de leurs ailes. Ils se faisaient face ; les visages des chérubins étaient tournés vers le couvercle.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:10",
+      "fr": "Il fit la table en bois d'acacia, longue de deux coudées, large d'une coudée et haute d'une coudée et demie;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:11",
+      "fr": "il le recouvrit d'or pur et fit une moulure d'or tout autour.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:12",
+      "fr": "Il fit autour d'elle un bord de la largeur d'une main et il fit pour son bord une moulure d'or tout autour.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:13",
+      "fr": "Il fondit pour lui quatre anneaux d'or et attacha les anneaux aux quatre coins de ses quatre pieds.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:14",
+      "fr": "Les anneaux étaient placés à côté du bord, comme supports pour les poteaux destinés à porter la table.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:15",
+      "fr": "Il fit les barres en bois d'acacia pour porter la table et les couvrit d'or.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:16",
+      "fr": "Les ustensiles qui devaient être sur la table, ses bols, ses louches, ses cruches et ses cruches pour offrir les libations, il les fit en or pur.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:17",
+      "fr": "Il fit le chandelier en or pur. Il fit le chandelier, sa base et son fût, en travail martelé ; ses coupes, calices et pétales étaient d'une seule pièce avec lui.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:18",
+      "fr": "Six branches sortaient de ses côtés : trois branches d'un côté du chandelier, et trois branches de l'autre côté du chandelier.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:19",
+      "fr": "Il y avait trois coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales, sur une branche ; et il y avait trois coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales, sur la branche voisine ; ainsi pour les six branches sortant du chandelier.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:20",
+      "fr": "Sur le chandelier lui-même, il y avait quatre coupes en forme de fleurs d'amandier, chacune avec un calice et des pétales :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:21",
+      "fr": "un calice, d'une seule pièce avec lui, sous une paire de branches ; et un calice, d'une seule pièce avec lui, sous la deuxième paire de branches ; et un calice, d'une seule pièce avec lui, sous la dernière paire de branches ; il en est de même pour les six branches qui en découlent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:22",
+      "fr": "Leurs calices et leurs tiges étaient d'une seule pièce avec lui, le tout étant une seule pièce martelée d'or pur.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:23",
+      "fr": "Il fit ses sept lampes, ses pinces et ses brasiers en or pur.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:24",
+      "fr": "Il le fit ainsi que tous ses meubles avec un talent d'or pur.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:25",
+      "fr": "Il fit l'autel des parfums en bois d'acacia, long d'une coudée et large d'une coudée, carré, et haut de deux coudées. ses cornes étaient d'une seule pièce avec lui.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:26",
+      "fr": "Il le couvrit d'or pur : son dessus, ses côtés tout autour et ses cornes ; et il lui fit une moulure d'or tout autour.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:27",
+      "fr": "Il lui fit deux anneaux d'or sous sa moulure, sur ses deux murs, sur les côtés opposés, comme supports pour les barres avec lesquelles il devait être porté.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:28",
+      "fr": "Il fit les barres en bois d'acacia et les couvrit d'or.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 37:29",
+      "fr": "Il prépara l'huile d'onction sacrée et l'encens aromatique pur, savamment mélangés.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:1",
+      "fr": "Il fit l'autel des holocaustes en bois d'acacia, long de cinq coudées et large de cinq coudées, carré, et haut de trois coudées.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:2",
+      "fr": "Il lui fit des cornes à ses quatre coins, les cornes étant d'une seule pièce avec elle ; et il le recouvrit de cuivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:3",
+      "fr": "Il fit tous les ustensiles de l'autel : les seaux, les grattoirs, les bassins, les crochets à chair et les braseros ; il fabriqua tous ces ustensiles en cuivre.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:4",
+      "fr": "Il fit pour l'autel une grille en treillis de cuivre, s'étendant en bas, sous son rebord, jusqu'en son milieu.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:5",
+      "fr": "Il fondit quatre anneaux aux quatre coins de la grille de cuivre, pour fixer les poteaux.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:6",
+      "fr": "Il fabriqua les poteaux en bois d'acacia et les recouvrit de cuivre ;",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:7",
+      "fr": "et il inséra les barres dans les anneaux des parois latérales de l'autel, pour le porter par elles. Il l'a fait creux, en planches.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נבוב לחות CREUX AVEC COMPRIMÉS — נבוב signifie creux, semblable à, (Jérémie 52:21) « Et son épaisseur était de quatre doigts : il était creux (נבוב)‎ »."
+        },
+        {
+          "id": 2,
+          "fr": "נבוב לחת — Le mot נבוב étant à l'état de construction et subordonné à לחות, la signification du verset est : Il l'a fait (l'autel) à partir de l'espace creux formé par les tablettes i. e. les planches de bois de Shittim mentionnées au v. 1 étaient de l'huile sur tous les côtés et l'espace creux au milieu (ainsi l'espace creux lui-même — qui était rempli de terre — formait l'autel. Contrairement à l'autel d'or, il n'avait pas de toit ; cf. Rachi sur Exode 27 : 8)."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:8",
+      "fr": "Il fit la cuve en cuivre et son support en cuivre, à partir des miroirs des femmes qui accomplissaient des tâches, des femmes qui accomplissaient des tâches. Nuance précise de Héb. ṣoveʼot ʼasher ṣaveʼu incertain. à l'entrée de la Tente d'assignation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "במראת הצבאת DES MIROIRS DES FEMMES AFFLUX ] Les femmes israélites possédaient des miroirs en cuivre dans lesquels elles se regardaient lorsqu'elles se paraient. Même ceux-là, ils n'hésitèrent pas à les apporter comme contribution au Tabernacle. Moïse était sur le point de les rejeter, car ils étaient destinés à satisfaire leur vanité, mais le Saint, béni soit-Il, lui dit : « Accepte-les ; ceux-ci me sont plus chers que toutes les autres contributions, car c'est par eux que les femmes ont élevé ces immenses armées en Égypte ! » Car lorsque leurs maris étaient fatigués par un travail écrasant, elles leur apportaient à manger et à boire et les incitaient à manger. Ensuite, elles prenaient les miroirs, et chacune se regardait dans son miroir avec son mari, en lui disant avec tendresse : « Tu vois, je suis plus beau que toi ! Ainsi elles éveillèrent l’affection de leurs maris et devinrent par la suite mères de nombreux enfants, comme il est dit (Ct 8 : 5) « J’ai éveillé ton amour sous le pommier » (en référence aux champs où travaillaient les hommes). C'est à cela qu'il fait référence lorsqu'il déclare : מראות הצבאת « les miroirs des femmes qui élevaient les hosties (צבאות) » (Midrash Tanchuma, Pekudei 9). Et c'est pour cette raison que la cuve en a été faite (les miroirs) — parce qu'elle servait à promouvoir la paix entre l'homme et la femme, c'est-à-dire en donnant ses eaux pour qu'elle soit bue par une femme dont le mari s'était montré jaloux d'elle et qui s'était néanmoins associé à une autre (cf. Nombres ch. V), lui donnant ainsi l'occasion de prouver son innocence (cf. Sotah 15b). Vous savez peut-être que les מראות mentionnés dans le texte étaient en réalité des miroirs (et que le mot ne signifie pas visions, ou apparition, etc.), car il est dit (v. 29) « Et le cuivre de l'offrande agitée était de soixante-dix talents, etc. c'est pourquoi vous apprendrez peut-être que le cuivre dont la cuve a été faite ne faisait pas partie du cuivre de l'offrande du tissage, qui est le seul cuivre mentionné comme ayant été apporté par le peuple. Ainsi R. Tanchuma 2:11:9 explique le terme מראת הצבאת. Et Onkelos le rend également : במחזית נשיא, et ce premier mot est la traduction Targum de מראות, dans le sens de mireors en vieux français, car nous trouvons que pour le mot (Isaïe 3 :23) « Et les גליונים », qui sont des miroirs, nous avons dans le Targum le même mot מחזיתא."
+        },
+        {
+          "id": 2,
+          "fr": "אשר צבאו [LES FEMMES] VENUES EN FOULE pour apporter leur contribution."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:9",
+      "fr": "Il fit l'enceinte : Au sud-sud Cf. note à 26h18. côté, cent coudées de tentures en fin lin retors pour l'enceinte.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:10",
+      "fr": "avec leurs vingt poteaux et leurs vingt socles en cuivre, les crochets et les attaches des poteaux étant en argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:11",
+      "fr": "Du côté nord, cent coudées, avec leurs vingt poteaux et leurs vingt bases de cuivre, les crochets et les attaches des poteaux étant d'argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:12",
+      "fr": "Du côté occidental, cinquante coudées de tentures, avec leurs dix poteaux et leurs dix bases, les crochets et les attaches des poteaux étant en argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:13",
+      "fr": "Et sur le devant, à l'est, cinquante coudées :",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:14",
+      "fr": "quinze coudées de tentures sur un flanc, avec leurs trois poteaux et leurs trois bases,",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:15",
+      "fr": "et quinze coudées de tentures sur l'autre flanc, de chaque côté de la porte de l'enceinteenceinte, ce qui représente les vingt coudées restantes ; cf. v. 18. — avec leurs trois poteaux et leurs trois bases.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:16",
+      "fr": "Toutes les tentures autour de l'enceinte étaient en fin lin retors.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:17",
+      "fr": "Les socles des poteaux étaient en cuivre, les crochets et les attaches des poteaux étaient en argent, le revêtement de leurs sommets était en argent ; tous les poteaux de l'enceinte étaient cerclés d'argent.",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:18",
+      "fr": "Le rideau de la porte de l'enceinte, réalisé en broderie, était fait de fils bleus, pourpres et cramoisis et de fin lin retors. Elle mesurait vingt coudées de long. Sa hauteur — ou sa largeur — était de cinq coudées, comme celle de D. Sa hauteur — ou sa largeur — était de cinq coudées, comme celle du sens de l'Héb. incertain. les tentures de l'enceinte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לעמת קלעי החצר [ET L'ÉCRAN…] RÉPONDRE AUX TENSIONS DE L'ENCEINTE — i. e. selon la mesure de la hauteur des tentures de l'enceinte."
+        }
+      ]
+    },
+    {
+      "ref": "Exodus 38:19",
+      "fr": "Les postes étaient au nombre de quatre ; leurs quatre bases étaient en cuivre, leurs crochets en argent ; et le revêtement de leurs sommets était d'argent, ainsi que leurs bandes. —",
+      "rashi": []
+    },
+    {
+      "ref": "Exodus 38:20",
+      "fr": "Tous les piquets du Tabernacle et de l'enceinte tout autour étaient en cuivre.",
+      "rashi": []
+    }
+  ]
+}

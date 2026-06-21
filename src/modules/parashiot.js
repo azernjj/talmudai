@@ -54,31 +54,67 @@ export async function loadParasha(file) {
     const res = await fetch(`/data/parashiot/${file}`)
     if (!res.ok) throw new Error('Paracha introuvable')
 
-    const data = await res.json()
-    const verses = data.verses || []
+const data = await res.json()
 
-      
+// Charge la traduction française si elle existe
+let frData = null
+
+try {
+  const frRes = await fetch(
+    `/data/parashiot/${file.replace(".json", ".fr.json")}`
+  )
+
+  if (frRes.ok) {
+    frData = await frRes.json()
+  }
+} catch (e) {
+  console.log("Pas de traduction française :", file)
+}
+
+// Création d'un index par référence (Genesis 1:1, etc.)
+const frByRef = new Map(
+  (frData?.verses || []).map(v => [v.ref, v])
+)
+
+// Fusion des données
+const verses = (data.verses || []).map(v => {
+
+  const frVerse = frByRef.get(v.ref)
+
+  return {
+    ...v,
+
+    fr: frVerse?.fr || "",
+
+    rashi: (v.rashi || []).map((r, i) => ({
+      ...r,
+      fr: frVerse?.rashi?.[i]?.fr || ""
+    }))
+  }
+
+})
+
       const fullHe = verses.map(v => `
       <p class="parashaLine">
         <span class="verseNum">${escapeHtml(v.ref)}</span>
         <span class="he">${v.he || ''}</span>
       </p>
     `).join('')
-    
+
     const fullEn = verses.map(v => `
       <p class="parashaLine">
         <span class="verseNum">${escapeHtml(v.ref)}</span>
         <span>${escapeHtml(v.en || '')}</span>
       </p>
     `).join('')
-    
+
     const fullFr = verses.map(v => `
       <p class="parashaLine">
         <span class="verseNum">${escapeHtml(v.ref)}</span>
         <span>${escapeHtml(v.fr || '') || 'Traduction française en préparation.'}</span>
       </p>
     `).join('')
-    
+
     const fullRashi = verses
       .filter(v => (v.rashi || []).length)
       .map(v => `

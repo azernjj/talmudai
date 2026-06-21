@@ -1,0 +1,840 @@
+{
+  "name": "Kedoshim",
+  "range": "Leviticus 19:1-20:27",
+  "verses": [
+    {
+      "ref": "Leviticus 19:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 19:2",
+      "fr": "Parlez à toute la communauté israélite et dites-leur : Vous serez saints, car moi, l'ÉTERNEL votre Dieu, je suis saint.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "דבר אל כל עדת בני ישראל PARLEZ À TOUTE LA CONGRÉGATION DES ENFANTS D'ISRAËL — Ceci (l'ajout des mots כל עדת) nous enseigne que cette section a été proclamée en pleine assemblée car la plupart des enseignements fondamentaux de la Torah en dépendent (contenus en elle) (Sifra, Kedoshim, Section 1 1 ; Vayikra Rabbah 24 : 5)."
+        },
+        {
+          "id": 2,
+          "fr": "קדשים תהיו VOUS SEREZ SAINTS — Cela signifie, tenez-vous à l'écart des relations sexuelles interdites que nous venons de mentionner et des pensées pécheresses. [Il est évident que c'est le sens de קדשים תהיו parce que] partout où vous trouvez dans la Torah un commandement de vous mettre en garde contre de telles relations, vous trouvez également une mention de « sainteté ». Les exemples sont : (Lévitique 21 : 7) « [Ils ne prendront pas] une femme qui est une prostituée, ou une profane, etc. », et dans le verset suivant « car moi, l'Éternel, qui vous sanctifie, [je suis saint] » ; (Lévitique 21 : 15) « Il ne profanera pas non plus sa postérité (par les unions interdites mentionnées dans les versets précédents), car moi, l'Éternel, je le sanctifie » ; (Lévitique 21 :6) « Ils seront saints… suivi de (v. 7) « [ils ne prendront pas] une femme qui soit une prostituée ou une profane » (cf. Vayikra Rabbah 24 :4-6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:3",
+      "fr": "Vous devez chacun vénérer votre mère et votre père, et observer mes sabbats : Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "איש אמו ואביו תראו signifie, CHACUN D'ENTRE VOUS CRAINDRA SA MÈRE ET SON PÈRE ; c'est le sens littéral. L'explication halakhique du verset est cependant la suivante : Puisque l'Écriture dit איש, je n'ai ici que la loi selon laquelle un homme doit craindre son père et sa mère, d'où puis-je savoir que cela s'applique également à une femme ? Parce que l'Écriture déclare תיראו (au pluriel), il est donc évident qu'elle parle ici de deux (homme et femme). Mais s’il en est ainsi (l’Écriture signifie également inclure une femme), pourquoi utilise-t-elle le terme איש, un homme ? Parce que c’est l’homme qui a les moyens de le faire, tandis que la femme est sous le contrôle des autres (ce qu’elle fait dépend du consentement de son mari) (Sifra, Kedoshim, Section 1 3 ; Kiddushin 30b)."
+        },
+        {
+          "id": 2,
+          "fr": "אמו ואביו תיראו CHACUN D'ENTRE VOUS CRAINDRA SA MÈRE ET SON PÈRE — Ici, l'Écriture mentionne la mère avant le père parce qu'il est évident pour Lui que l'enfant craint le père plus que la mère et donc, en mentionnant d'abord la mère, l'Écriture souligne le devoir de la craindre. Cependant, lorsqu'il s'agit d'honorer ses parents, l'Écriture mentionne le père avant la mère parce qu'il lui est évident que l'enfant honore la mère plus que le père parce qu'elle s'efforce de le gagner par des paroles aimables. C'est pourquoi, en mentionnant le père, la première Écriture souligne le devoir de l'honorer (Kiddushin 30b - Kiddushin 31a)."
+        },
+        {
+          "id": 3,
+          "fr": "ואת שבתי תשמרו ET MES SABBATS VOUS GARDEREZ — L'Écriture place le commandement d'observer le sabbat immédiatement après celui de craindre son père afin de suggérer ce qui suit : « Bien que je vous avertisse concernant la crainte due à votre père, s'il vous dit : « Profanez le sabbat », ne l'écoutez pas » - et il en est de même pour tout des autres commandements. C'est là, il est évident, le sens puisque l'Écriture ajoute :"
+        },
+        {
+          "id": 4,
+          "fr": "אני ה' אלהיכם « Je suis le Seigneur votre Dieu » (le pluriel) — vous et votre père êtes également tenus de M'honorer ! Ne lui obéissez donc pas si cela aboutit à rendre Mes paroles sans effet (Sifra, Kedoshim, Section 1 10 ; Bava Metzia 32a). — Qu'est-ce qu'implique le terme מורא ? Il ne faut pas s'asseoir à sa place (celle du père), ni parler à sa place (c'est-à-dire quand on s'attend à ce qu'il parle), ni contredire ses paroles. Et qu’est-ce qu’implique le terme כבוד ? Que l'enfant donne à manger et à boire aux parents, leur fournit des vêtements et des chaussures, les conduit dans la pièce et les fait sortir s'ils sont infirmes (Kiddushin 31b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:4",
+      "fr": "Ne vous tournez pas vers des idoles et ne vous faites pas de dieux en fusion : Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תפנו אל האלילים NE VOUS TOURNEZ PAS VERS LES IDOLES — pour les adorer (Sifra, Kedoshim, Section 1 10). Le mot אלילים, idoles, est lié à « non » (אל) — il est considéré comme n'ayant « aucune » importance."
+        },
+        {
+          "id": 2,
+          "fr": "ואלהי מסכה [NI NE VOUS FAITES PAS] DES DIEUX EN FONTE - Au début, ils peuvent apparaître comme « rien » (אלילים) mais si vous vous tournez vers eux, vous en ferez à la fin des dieux (Sifra, Kedoshim, Section 1 11). La traduction est donc : ne vous tournez pas vers ces « non-entités », afin de ne pas en faire finalement des dieux en fusion pour vous-mêmes."
+        },
+        {
+          "id": 3,
+          "fr": "לא תעשו לכם implique : ne créez pas de dieux en fusion pour les autres et ne laissez pas les autres en faire pour vous. Si, cependant, vous dites que לא תעשו לכם implique seulement « vous ne les ferez pas pour vous-mêmes » mais que d'autres peuvent les faire pour vous, alors je réponds : Mais l'Écriture a déjà déclaré (Exode 20 : 3) « Tu n'auras [aucun autre dieu] » — ni ta propre idole ni celle qui est l'idole (faite par) d'autres (Sifra, Kedoshim, Section 1 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:5",
+      "fr": "Lorsque vous sacrifiez une offrande de bien-être à DIEU, sacrifiez-la afin qu'elle soit acceptée en votre faveur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'וכי תזבחו וגו‎‎ ET SI VOUS SACRIFICE [UN SACRIFICE D'OFFRES DE PAIX AU SEIGNEUR, VOUS LE SACRIFIEREZ POUR QUE VOUS LE SOYEZ ACCEPTABLE] — Cette section est dite uniquement dans le but de nous enseigner que leur (les offrandes de paix) ne doivent pas être abattues sauf avec l'intention qu'elles soient consommées dans ce délai (le délai prescrit). v.6); car si son but était de fixer l'heure pour les manger, ce serait redondant, puisqu'il est déjà dit (Lévitique 7 : 16) « Mais si le sacrifice de son offrande est un vœu ou une offrande volontaire [il sera mangé le même jour… et le lendemain » (Sifra, Kedoshim, chapitre 1 1)."
+        },
+        {
+          "id": 2,
+          "fr": "לרצנכם תזבחהו VOUS LE SACRIFIEREZ POUR QUE CE SOIT ACCEPTABLE POUR VOUS — Cela signifie que, dès le début, l'abattage doit être effectué avec l'intention de Me donner satisfaction (c'est-à-dire de le sacrifier d'une manière qui Me satisfait) afin qu'il vous apporte une faveur (לרצנכם). Car si vous avez en rapport avec cela (avec le massacre) une intention qui l'invaliderait (le sacrifice), cela ne vous fera aucune faveur devant Moi."
+        },
+        {
+          "id": 3,
+          "fr": "לרצנכם signifie donc autant qu'apaisement en O. F., — « acceptation favorable ». C'est le sens littéral du verset. Nos rabbins, cependant, (prenant le mot dans son sens premier de volonté, « intention ») ont appris d'ici que celui qui manipule (מתעסק) un sacrifice (קדשים) (quand il accomplit l'acte de Shechitah sans intention de le faire) devient invalide, car il est requis qu'il ait l'intention de l'égorger (Zevachim 47a ; Chullin 13a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:6",
+      "fr": "On le mangera le jour où vous le sacrifierez, ou le lendemain ; mais ce qui restera le troisième jour devra être consumé au feu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ביום זבחכם יאכל LE JOUR QUE VOUS LE SACRIFIEZ [DOIT-IL ÊTRE MANGÉ] — Cela signifie que lorsque vous l'abattez (וכי תזבחו), abattez-le (תשחטהו = תזבחהו), en gardant à l'esprit la période que j'ai déjà fixée. vous comme ce à l'intérieur duquel il doit être mangé (ce qui est déjà mentionné Lévitique 7:16)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:7",
+      "fr": "Si on le mange le troisième jour, c'est une chose offensante, ce ne sera pas acceptable.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם האכל ‎'יאכל וגו‎‎‎ ET SI IL DOIT ÊTRE MANGÉ DU TOUT [LE TROISIÈME JOUR] etc. — S'il (ce verset) n'a aucune incidence sur un sacrifice à l'abattage duquel il y avait l'intention de manger sa chair au-delà de son (le temps prescrit), puisqu'il a déjà été dit, (Lévitique 7:18) « Et si toute chair du sacrifice doit être mangée (c'est-à-dire est destinée à être mangée) [le troisième jour, elle ne sera pas acceptée]\" - puis donnez-lui une application pour un sacrifice lors de l'abattage dont il y avait l'intention de manger sa chair en dehors du lieu prescrit (par exemple dans le cas d'une offrande de fête - hors des murs de Jérusalem) (Sifra, Kedoshim, chapitre 1-4). On pourrait penser que les gens sont passibles d'excision pour en manger (d'un tel sacrifice), l'Écriture déclare donc dans le cas du premier (le sacrifice חוץ לזמנו) (Lévitique 7 :18) « Et l'âme qui en mangera (ממנו) portera son iniquité » ; je. e. l'âme qui en mange, mais pas de celui qui lui est semblable (le sacrifice חוץ למקומו) portera son iniquité. Ceci exclut donc de la peine d'excision le cas d'un sacrifice qui a été abattu avec l'intention d'être consommé en dehors du lieu prescrit (Zevachim 28a)."
+        },
+        {
+          "id": 2,
+          "fr": "פגול signifie abominable ; il en va de même (Ésaïe 65 : 4) « et un bouillon de choses abominables (פגולים) est dans leurs récipients »."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:8",
+      "fr": "Et celui qui en mangera portera la culpabilité d'avoir profané ce qui est sacré pour DIEU ; cette personne sera retranchée de ses parents.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואכליו עונו ישא PAR CONSÉQUENT, TOUS QUI MANGENT ELLE PORTERA SON INIQUITÉ — L'Écriture parle ici de la chair effectivement laissée non brûlée le troisième jour (de sorte que ce verset doit être lié au v. 6, et non au v. 7) puisque personne n'est pas passible d'excision pour avoir mangé ce qui a été abattu avec l'intention de manger sa chair en dehors du lieu prescrit (dont parle le v. 7), car l'Écriture a déjà exclu un tel cas de la peine de l'excision (cf. Rachi v. 7). Ce verset doit donc parler du véritable נותר. Dans le Traité Keritot 5a, ils (nos rabbins) l'ont dérivé (le fait que le v. 8 renvoie à נותר dans 5 : 6) d'une analogie verbale."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:9",
+      "fr": "Lorsque vous moissonnerez la moisson de votre terre, vous ne moissonnerez pas jusqu'aux limites de votre champ, ni ne rassemblerez les glanages de votre moisson.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תכלה פאת שדך TU NE RÉCOLTERONS PAS ENTIÈREMENT LE COIN DE TON CHAMP — Cela signifie que l'on doit laisser פאה (une partie non coupée) à l'extrémité de son champ (cf. Sifra, Kedoshim, Chapitre 1 9 ; Mishna Peah 1 : 2 ; Shabbat 23a)."
+        },
+        {
+          "id": 2,
+          "fr": "ולקט קצירך [TU NE COLLECTERAS NI] LES glanages de ta récolte — Les glanages sont des épis qui tombent de la main du moissonneur pendant la récolte — un ou deux à la fois, mais trois n'entrent pas dans la catégorie de לקט (Mishna Peah 6 : 5 ; Sanhédrin 99a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:10",
+      "fr": "Vous ne vendangerez pas votre vigne à nu, ni ne récolterez les fruits tombés de votre vigne ; tu les laisseras aux pauvres et aux étrangers : Moi l'ÉTERNEL, je suis ton Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תעולל ET TU NE glaneras pas [TON VIGNE] - (עלל est un verbe lié au nom עולל \"jeune, tendre, non développé\"; cf. Samuel 15:3 : עולל ויונק) donc לא תעולל signifie, tu n'en prendras pas les raisins tendres. Ils peuvent être reconnus comme tels à partir de la description donnée dans Mishna Peah 7 : 4 (cf. aussi Sifra, Kedoshim, chapitre 3 3) où il est déclaré : Que sont עוללות ? Des grappes qui n'ont ni כתף, « bras » ni נטף, « gouttes »."
+        },
+        {
+          "id": 2,
+          "fr": "ופרט כרמך [TU NE COLLECTERA NI] LES RAISINS TOMBÉS DE TON VIGNOBLE — i. e. les baies individuelles des raisins qui tombent au sol lors de la vendange."
+        },
+        {
+          "id": 3,
+          "fr": "אני ה'‏‎‎‎‎ אלהיכם JE SUIS LE SEIGNEUR VOTRE DIEU — le Juge qui est sûr de punir si nécessaire et qui, pour la négligence de ces devoirs, n'exigera de vous rien de moins que vos âmes, comme il est dit (Proverbes 22 :22, 23) « Ne volez pas les pauvres… car l'Éternel plaidera leur cause, [et gâtera l'âme de ceux qui les ont gâtés] » (Sifra, Kedoshim, chapitre 3-7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:11",
+      "fr": "Vous ne volerez pas ; vous ne vous comporterez pas de manière trompeuse ou mensongère les uns envers les autres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תגנבו VOUS NE VOLEREZ PAS — Ceci est un avertissement adressé à celui qui vole de l'argent (la propriété de son prochain), mais la loi « Tu ne voleras pas » qui est contenue dans les Dix Commandements est un avertissement adressé à celui qui vole un être humain. Pour cela, c'est ce que l'on apprend du contexte, car il doit s'agir d'une affaire pour laquelle on devient passible de mort par jugement du tribunal (puisque les lois précédentes dans les Dix Commandements sont de ce caractère, ce qui est le cas de l'enlèvement et non du vol d'argent ; cf. Rachi sur Exode 19 :14) (Mekhilta 20 :13 :3 ; Sanhédrin 86a)."
+        },
+        {
+          "id": 2,
+          "fr": "ולא תכחשו VOUS NE FAITES PAS DE FAUSSES AFFAIRES [LES UNS AUX AUTRES] — Puisque l'Écriture a déclaré (Lévitique 5 : 21, 22) « [Si un homme pèche… et refuse à son prochain une charge, ou un dépôt… ou a trouvé ce qui a été perdu] et le nie (וכחש בה) », qu'il paiera le principal et y ajoutons une cinquième partie de plus, nous n'y avons mention que du châtiment qu'il encourt ; d’où vient l’interdiction (c’est-à-dire où est-elle interdite) ? D'après la déclaration de l'Écriture ici « vous ne ferez pas non plus de fausseté » (L'hébreu ici est תכחשו, le même terme que celui utilisé dans le verset cité — וכחש בה) (Sifra, Kedoshim, Section 2 3 ; Bava Kamma 105b)."
+        },
+        {
+          "id": 3,
+          "fr": "ולא תשקרו VOUS NE MENTIREZ PAS [L'UN À L'AUTRE] — Puisque l'Écriture a déclaré (V. 22) « [Si une âme pèche… et refuse à son prochain une charge ou un dépôt…] et jure faussement (לשקר) » qu'il paiera le principal et y ajoutera la cinquième partie en plus, nous n'y avons mention que de la punition qu'il encourt ; d'où vient l'interdiction de mentir ? D'après la déclaration de l'Écriture ici « vous ne vous mentirez pas les uns aux autres »."
+        },
+        {
+          "id": 4,
+          "fr": "Vous ne volerez pas, ni ne traiterez faussement, ni ne mentirez, ni ne jurez [l'un à l'autre] - Si vous volez, vous finirez par niez-le, alors vous mentirez (afin d'étayer votre premier déni), et finalement vous jurez faussement (Sifra, Kedoshim, Section 2 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:12",
+      "fr": "Tu ne jureras pas faussement par Mon nom, en profanant le nom de ton Dieu : Je suis l'ÉTERNEL.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא תשבעו בשמי ET VOUS NE JUREZ PAS PAR MON NOM [À UN MENSONGE] - Pourquoi cela est-il indiqué (comment la forme particulière des mots utilisée ici nous en dit-elle plus que ce qui est contenu dans le Troisième Commandement) ? Puisqu'il est dit (Exode 20 :7) « Tu ne prendras pas le nom du Seigneur (‎'ה) ton Dieu en vain », j'aurais pu en déduire que l'on n'est pas responsable à moins d'avoir juré par le « Nom propre » du Seigneur (שם המיוחד). D'où puis-je savoir que tous les noms décrivant les attributs de Dieu (Adonay, Rachum, Chanun etc.) sont inclus dans cette interdiction ? Parce que l'Écriture déclare « vous ne jurez pas par mon nom par un mensonge », ce qui implique donc n'importe quel nom que j'ai (Sifra, Kedoshim, section 2 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:13",
+      "fr": "Vous ne devez pas escroquer votre prochain, c'est-à-dire votre compatriote israélite, qu'il soit homme ou femme. Contrairement aux autres « voisins ». Tu ne commettras pas de vol. Le salaire d'un ouvrier ne vous restera pas jusqu'au matin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תעשק Tu n'auras pas tort [ton prochain] — Ceci fait référence à celui qui retient le salaire d'un serviteur (Sifra, Kedoshim, section 2 9 ; Bava Metzia 61a)."
+        },
+        {
+          "id": 2,
+          "fr": "לא תלין Le mot תלין est du genre féminin et fait référence au salaire."
+        },
+        {
+          "id": 3,
+          "fr": "עד בקר JUSQU'AU MATIN — L'Écriture parle ici d'une personne embauchée pour un travail de jour (שכיר יום) dont le départ du travail a lieu au coucher du soleil. Le délai pour percevoir son salaire est donc toute la nuit (et la loi n'est pas enfreinte à condition qu'il le paie avant le lever du jour). Dans un autre passage (Deutéronome 24 :14), il est dit : « le soleil ne se couchera pas sur (le salaire de l'homme) ». Ici, cependant, il s'agit d'un employé pour un travail de nuit (שכיר לילה) dont la période de travail se termine à l'aube, donc le moment de toucher son salaire est toute la journée (mais cela doit être fait avant le coucher du soleil). La raison pour laquelle il a toute la nuit ou toute la journée pour payer le salaire est que la Torah donne à l'employeur le temps d'un « Ona » (la moitié du jour astronomique ; cf. pour la signification du mot Niddah 65b) pour s'efforcer d'obtenir l'argent dont il a besoin pour payer le salaire (Bava Metzia 110b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:14",
+      "fr": "Tu n'insulteras pas les sourds, et tu ne mettras pas une pierre d'achoppement devant les aveugles. Tu craindras ton Dieu : Je suis l'ÉTERNEL.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תקלל חרש TU NE MAUDIRAS PAS LES SOURDS — J'ai ici seulement la loi selon laquelle il ne faut pas maudire les sourds : d'où sais-je que quiconque est inclus dans cette interdiction et que le sens est : Tu ne maudiras pas même les sourds ? Parce que l'Écriture déclare (Exode 22 :27) « Tu ne maudiras בעמך, personne parmi ton peuple ». Mais s’il en est ainsi, pourquoi l’Écriture dit-elle חרש et n’utilise-t-elle pas une expression plus générale ? Il le fait afin de proposer une analogie : quel est le cas du חרש ​​? C'est quelqu'un qui ne peut pas entendre votre malédiction et ne peut donc pas se sentir lésé, mais il a la caractéristique d'être une personne vivante ! La même chose s'applique à tous les vivants, excluant ainsi une personne décédée qui, bien qu'elle ne puisse pas entendre et se sentir lésée, n'est pas vivante (Sifra, Kedoshim, Section 2 13 ; cf. aussi Sanhédrin 66a)."
+        },
+        {
+          "id": 2,
+          "fr": "ולפני עור לא תתן מכשל TU NE METTRA PAS DE CAUSE D'ACHAT DEVANT L'AVEUGLE — Cela implique : \"Ne donnez pas à une personne \"aveugle\" en une matière un conseil qui ne lui convient pas. Ne lui dites pas : \"Vendez votre champ et achetez un âne avec le produit de la vente\", le fait étant que vous êtes s'efforçant de le contourner et de lui prendre (le champ) (Sifra, Kedoshim, Section 2 14)."
+        },
+        {
+          "id": 3,
+          "fr": "ויראת מאלהיך MAIS TU AURAIS PEUR DE TON DIEU — Parce que dans ce cas, il n'est pas donné à l'être humain de savoir si l'intention de cet homme (le délinquant) était pour le bénéfice ou le désavantage de la personne qu'il a conseillée, et il pourrait ainsi se soustraire à sa responsabilité en disant : « Je voulais le mieux », dit donc l'Écriture en se référant à lui : « Mais tu auras peur de ton Dieu\" qui connaît tes pensées secrètes. De même, dans toutes les actions où il n'est donné qu'au cœur de celui qui l'accomplit de connaître le motif qui le pousse et où les autres n'en ont aucune idée, l'Écriture déclare : « Mais crains ton Dieu ! (Sifra, Kedoshim, section 2 14 ; Bava Metzia 58b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:15",
+      "fr": "Vous ne devez pas rendre de décision injuste : ne favorisez pas les pauvres et ne faites pas preuve de déférence envers les riches ; jugez équitablement vos proches.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תעשו עול במשפט VOUS NE FAITES PAS D'INJUSTICE DANS LE JUGEMENT — Cela nous enseigne que le juge qui pervertit le jugement est appelé une « personne injuste » (עַוָּל), haineuse et détestée, vouée à la destruction et une abomination. Il est appelé à juste titre ainsi car la personne injuste (עַוָּל) est appelée par l'Écriture « abomination », comme il est dit (Deutéronome 25 :16) « Car tous ceux qui font [de telles choses], tous ceux qui commettent l'injustice (עַוָּל = עֹשֵׂה עָוֶל) sont une abomination. (תועבה) au Seigneur ton Dieu ». L'abomination (תועבה), quant à elle, est appelée par l'Écriture חרם et שקץ, comme il est dit (Deutéronome 7 :26) « Tu n'apporteras pas non plus une abomination (תועבה) dans ta maison, de peur que tu ne sois une chose condamnée (חרם) comme elle ; mais tu la considéreras comme Oui."
+        },
+        {
+          "id": 2,
+          "fr": "לא תשא פני דל TU NE RESPECTERA PAS LA PERSONNE DE L'INDIGENT — i. e. tu ne diras pas : « Ceci est un homme pauvre, et l'homme riche a de toute façon le devoir de le soutenir ; je trouverai en sa faveur (le pauvre) et il obtiendra par conséquent un soutien d'une manière respectable (Sifra, Kedoshim, chapitre 4 2)."
+        },
+        {
+          "id": 3,
+          "fr": "ולא תהדר פני גדול NI HONORER LA PERSONNE DU PUISSANT — tu ne diras pas : \"C'est un homme riche, ou, cet homme est de descendance noble (lit., le fils de grands gens), comment puis-je lui faire honte et être témoin de sa honte ? Il y a une punition pour une telle chose !\" C'est pour cette raison que l'Écriture déclare : « Tu n'honoreras pas la personne du puissant » (Sifra, Kedoshim, chapitre 4-3)."
+        },
+        {
+          "id": 4,
+          "fr": "בצדק תשפט עמיתך DANS LA JUSTICE, TU JUGEREZ TON COMPAGNON — Prends ceci comme les mots l'impliquent (c'est-à-dire prends le mot צדק comme ce qu'il implique habituellement : le strict droit). Une autre explication est : juge ton prochain avec une inclination en sa faveur (Sifra, Kedoshim, chapitre 4-4 ; Shevouot 30a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:16",
+      "fr": "Ne traitez pas bassement les gens, traitez-les bassement, par exemple par la calomnie ; contrairement aux autres, « se promène comme un conteur parmi » ; sens de l'Héb. idiome halakh rakhil être- incertain. membres de votre peuple. Ne profitez pas du profit du Lit. « se tenir debout » ; sens précis de Héb. idiome 'amad 'al incertain. le sang de ton prochain Voir la note au v. 13. Je suis DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תלך רכיל TU N'Y ALLERA PAS COMME PORTEUR DE CONTES — Je dis que parce que tous ceux qui sèment la discorde entre les gens et tous ceux qui calomnient vont dans les maisons de leurs amis pour espionner quel mal ils peuvent y voir, ou quel mal ils peuvent y entendre pour pouvoir le raconter dans les rues — on les appelle הולכי רכיל qui c'est la même chose que הולכי רגילה, \"les gens qui espionnent\" ; espiement dans O. F. Une preuve de mon affirmation est le fait que l'on ne trouve nulle part le terme רגיל utilisé dans l'Écriture sauf en relation avec l'expression הלך \"aller\". Les exemples sont : la phrase ici, לא תלך רכיל ; (Jérémie 6 :28) « [Ils] marchent tous comme des espions : ils sont d’airain et de fer ». Mais comme pour toutes les autres expressions pour « calomnie », le verbe הלך n’est pas utilisé avec elles. Des exemples sont (Psaume 101 : 5) « quiconque calomnie en secret son prochain » ; (Psaume 120 : 2) « fausse langue » ; (Psaume 12:4) \"la langue qui parle des choses orgueilleuses (calomnie)\". C'est pour cette raison que je dis que cette expression (הולך רכיל) signifie « parcourir ומרגל et espionner » (רגל = רכל), parce que le כ peut échanger avec ,ג puisque toutes les lettres dont la prononciation est de la même place dans les organes de la parole peuvent échanger entre elles e. g., בי\"ת avec גימ\"ל, פ\"א avec כ\"ף ou avec נו\"ן ; קו\"ף avec זי\"ן ; למ\"ד avec צד\"י. Et dans un sens similaire, nous avons, (II Samuel 19:28) \"Il a espionné ton serviteur [à mon seigneur]\" qui implique, \"il m'a espionné subtilement afin de dire du mal de moi à mon seigneur\" (et ainsi וירגל en vient à signifier \"calomnier\"). Il en est de même (Psaume 15 : 8) : לא רגל על ​​לשונו, ce qui signifie « il n'a pas espionné pour avoir du mal sur sa langue ». De même, le רוכל, le commerçant, est celui qui parcourt et cherche (épie) toutes sortes de marchandises, et donc aussi le vendeur de parfums que les femmes utilisent pour se rendre belles, car il se promène constamment dans les villages, il est appelé רוכל, ce qui a la même signification que רוגל. Et sa traduction dans le Targum לא תיכול קורצין, a le même sens que (Daniel 3:8) « et ils calomnièrent (אכלו קורציהון) les Juifs » ; et comme (Berakhot 58a) \"il l'a calomnié (אכל ביה קורצא בי מלכא) auprès du roi\". Il me semble que les gens avaient l'habitude de manger une petite collation dans la maison de celui qui écoutait leurs paroles calomnieuses, et cela constituait la confirmation définitive que ses déclarations (du calomniateur) étaient bien fondées et qu'il maintiendrait leur véracité. Cette \"collation\" était appelée אכילת קורצין, le mot קורצא ayant un sens lié à la racine קרץ dans (Proverbes 6:13) \"Il cligne de l'œil (קורץ)\", car c'est la manière de tous ceux qui calomnient de cligner des yeux et de suggérer leur des déclarations calomnieuses par des insinuations afin que ceux qui les entendent ne les comprennent pas."
+        },
+        {
+          "id": 2,
+          "fr": "לא תעמד על דם רעך Tu ne te tiendras pas non plus contre le sang de ton prochain — étant témoin de sa mort, tu peux le sauver : si, par exemple, il se noie dans la rivière ou si une bête sauvage ou un voleur l'attaque (Sifra, Kedoshim, chapitre 4 8 ; Sanhédrin 73a)."
+        },
+        {
+          "id": 3,
+          "fr": "‎'אני ה‎‎ JE SUIS LE SEIGNEUR — Qui suis fidèle en récompensant ceux qui obéissent à Mes commandements et qui suis certain de punir ceux qui les transgressent."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:17",
+      "fr": "Tu ne haïras pas tes proches dans ton cœur. Réprimandez votre parent mais Force exacte de nous- incertain. n'encourir aucune culpabilité à leur égard.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא תשא עליו חטא [TU REBUMERAIS EN TOUTE SAGE TON COMPAGNON] ET NE PORTERAS PAS DE PÉCHÉ À COMPTE DE LUI — i. e. bien qu'en le réprimandant, tu ne l'exposeras pas à la honte (lit., faire pâlir son visage) en public, auquel cas tu porteras le péché à cause de lui (cf. Sifra, Kedoshim, chapitre 4 8 ; Arakhin 16b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "fr": "Vous ne devez pas vous venger ni garder rancune contre les membres de votre peuple. Aimez votre prochain Voir note au v. 13, et cf. v. 34. comme toi-même : je suis DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תקם TU NE Vengeras PAS — Si l'un dit à un autre \"Prête-moi ta faucille\", et qu'il répond \"Non!\", et que le lendemain il (ce dernier) lui dit (l'ancien): \"Prête-moi ta hache\", et il rétorque: \"Je ne vais pas te la prêter, tout comme tu as refusé de me prêter ta faucille\", c'est une vengeance. Et qu'est-ce que \"garder rancune\"? Si l’un dit à l’autre : « Prête-moi ta hache », et qu’il répond « Non ! et le lendemain il lui dit : « Prête-moi ta faucille », et il répond : « La voici ; Je ne suis pas comme toi, parce que tu ne me prêterais pas » — c'est ce qu'on appelle « garder rancune (נטירה) » parce qu'il conserve (נוטר) l'inimitié dans son cœur bien qu'il ne se venge pas réellement (Sifra, Kedoshim, chapitre 4 10-11 ; Yoma 23a)."
+        },
+        {
+          "id": 2,
+          "fr": "ואהבת לרעך כמוך TU AIMERAS TON prochain COMME TOI-MÊME —Rabbi Akiba a dit : « Ceci est un principe fondamental de la Torah » (Sifra, Kedoshim, chapitre 4 12 ; Talmud Yerushalmi Nedarim 9 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:19",
+      "fr": "Vous observerez Mes lois. Vous ne laisserez pas votre bétail s'accoupler avec une espèce différente ; vous ne semerez pas votre champ avec deux sortes de semences ; tu ne porteras pas de tissu fait d'un mélange de deux sortes d'étoffes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חקתי תשמרו ‎את VOUS GARDEREZ MES ORDONNANCES — Ce sont celles-ci : « Tu ne feras pas engendrer deux sortes de bétail, etc. », (et les autres ordonnances énoncées dans ce verset), car par le terme חוקים on entend les textes du roi pour lesquels aucune raison n'est donnée et ceux qui précèdent ne sont pas de ce caractère."
+        },
+        {
+          "id": 2,
+          "fr": "ובגד כלאים UN VÊTEMENT MÉLANGÉ DE LIN ET DE LAINE NE VENERA PAS SUR TOI] — Pourquoi cette déclaration est-elle faite (comment la forme particulière des mots utilisés ici nous indique-t-elle un point de droit qui n'est pas contenu dans Deutéronome 22 :21 qui porte sur le même sujet) ? Parce que l'Écriture dit là « Tu ne porteras pas de שעטנז, de laine et de lin ensemble », je pourrais penser qu'il ne faut pas porter en combinaison de la laine (c'est-à-dire de la laine telle qu'elle vient de la tonte) et du lin peigné ! L'Écriture déclare donc ici « un vêtement (c'est-à-dire quelque chose fait d'un tissu) [un mélange de laine et de lin ne viendra pas sur toi] », excluant ainsi les morceaux lâches de laine et de lin combinés, qui ne forment pas un בגד. D'où savons-nous que cette interdiction s'étend au feutre (qui, bien que n'étant pas vraiment בגד, puisque le matériau n'est pas transformé en tissu, est cependant constitué de laine et de lin pressés en un seul matériau) ? Parce que l'Écriture déclare dans le Deutéronome « ​​שעטנז ne viendra pas sur toi », ce qui signifie un matériau calandré (pressé, שוע), ou tissé (טוי) ou tordu (נוז) ensemble — (שעטנז est considéré comme une abréviation de ces mots) (Sifra, Kedoshim, chapitre 4 18). Je dis que נוז est une expression désignant une matière qui est séchée en frottant entre les doigts afin de l'étendre en fils, ceux-ci étant ensuite entrelacés pour former une toile cohérente. Ceci est appelé tistre en O. F. (cf. Rachi sur Gittin 59a s. v. דבר הנמלל ונמתח). L'expression similaire se trouve dans le Talmud (Moed Katan 12b) : חזין לגזאי דאית בהון, « La plante de sésame peut être cueillie sur חולו של מועד parce qu'elle est propre à être utilisée à cause du נזאי, le grains séchés qu'il contient » — quel mot, à savoir, נזאי, nous expliquons qu'il signifie autant que « flétrissement », flestre en O. F.. Menachem explique שעטנו pour désigner une combinaison de laine et de lin."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:20",
+      "fr": "Si un homme a des relations charnelles avec une femme qui est esclave et qui a été désignée pour un autre homme, mais qui n'a pas été rachetée ni libérée, il y aura une indemnité ; ils ne seront cependant pas mis à mort, puisqu'elle n'a pas été libérée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נחרפת לאיש [ET CEUX QUI LIT CHARNEMENT AVEC UNE FEMME QUI EST SERVIETTE] REDONNÉ À UN HOMME — נחרפת signifie : destiné et désigné à un homme. Je n'en connais aucune utilisation similaire (la racine חרף) dans les Écritures. — Et c'est d'une servante cananéenne qui est en partie une שפחה et en partie une femme libre et qui est fiancée à un serviteur hébreu qui est autorisé à épouser un שפחה, que l'Écriture parle ici (Sifra, Kedoshim, chapitre 5 2 ; Keritot 11a)."
+        },
+        {
+          "id": 2,
+          "fr": "והפדה לא נפדתה signifie qu'elle est rachetée (הפדה) et non rachetée (לא נפדתה) (c'est-à-dire qu'elle est en partie rachetée, mais pas entièrement rachetée ; cf. Keritot 11a). Une expression dérivée du verbe פדה, à moins qu'elle ne soit définie plus précisément, signifie rédemption par l'argent."
+        },
+        {
+          "id": 3,
+          "fr": "או חפשה NI LA ​​LIBERTÉ [LUI A ÉTÉ DONNÉE] par le biais d'un document de libération (שטר שחרור) (Sifra, Kedoshim, Chapitre 5 3)."
+        },
+        {
+          "id": 4,
+          "fr": "בקרת תהיה UNE ENQUÊTE DOIT ÊTRE FAITE SUR ELLE — elle sera punie de coups de fouet mais pas lui. Il appartient au tribunal d'enquêter sur l'affaire (pour découvrir qu'elle n'est vraiment pas libre) afin de ne pas la rendre passible de mort (ce qui serait la punition d'une femme libre qui a commis l'adultère), כי לא חפשה PARCE QUE ELLE N'ÉTAIT PAS LIBRE et que son mariage avec l'esclave hébreu n'était pas un mariage. Nos rabbins, cependant, (prenant le mot בקרת comme s'il s'agissait de בקריאת \"en lisant\") ont appris de là que quiconque est soumis aux coups de fouet (le châtiment מלקות) sera soumis à la récitation (קריאה) des versets bibliques - que les juges qui prononcent la sentence des coups de fouet réciteront, tout en se tenant à côté de celui qui est fouetté. les versets (Deutéronome 28 :58, 59) : \"Si tu n'observes pas pour faire [toutes les paroles de la loi] etc… Alors le Seigneur distinguera tes fléaux (מכותך ce qui implique aussi tes \"cils\") etc.\" (cf. Kéritot 11a)"
+        },
+        {
+          "id": 5,
+          "fr": "כי לא חופשה PARCE QUE ELLE N'ÉTAIT PAS LIBRE, donc lui non plus n'est pas passible de mort à cause d'elle, puisque son mariage n'était pas un mariage. Il s'ensuit donc que si elle était libre, son mariage aurait été un mariage et il serait passible de la peine de mort (Sifra, Kedoshim, chapitre 5-5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:21",
+      "fr": "Mais il devra apporter à l'entrée de la Tente d'assignation, comme offrande de réparation à DIEU, un bélier d'offrande de réparation.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 19:22",
+      "fr": "Avec le bélier en offrande réparatrice, le prêtre fera pour lui l'expiation devant DIEU du péché qu'il a commis ; et le péché qu'il a commis lui sera pardonné.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונסלח לו מחטאתו אשר חטא ET LE PÉCHÉ QU'IL A PECHÉ LUI EST PARDONNÉ — [Les mots מחטאתו אשר חטא semblent redondants après la déclaration על חטאתו אשר חטא les précédant immédiatement, mais ils sont destinés] à inclure le pécheur volontaire ainsi que celui qui agit involontairement parmi ceux qui doivent apporter cette offrande (Sifra, Kedoshim, chapitre 5 7 ; Keritot 9a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:23",
+      "fr": "Lorsque vous entrerez dans le pays et que vous planterez un arbre pour vous nourrir, vous considérerez ses fruits comme interdits. Pendant trois ans, cela sera interdit, Héb. racine ʻ-r-l, communément « être incirconcis ». pour toi, à ne pas être mangé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וערלתם ערלתו את פריו signifiait lit., vous fermerez sa fermeture (considérez-la comme ci-jointe) : le sens étant qu'elle sera, pour ainsi dire, fermée et barrée afin qu'aucun avantage ne puisse en être tiré."
+        },
+        {
+          "id": 2,
+          "fr": "שלש שנים יהיה לכם ערלים TROIS ANS IL SERA POUR VOUS COMME INCIRCONCIS — A partir de quand compte-t-on ses trois ans ? Depuis le moment où il (l'arbre) a été planté (Sifra, Kedoshim, Section 3 3). On pourrait penser que si l'on l'a déposé (le fruit) pendant ces trois années, son utilisation deviendra autorisée après les trois ans, dit donc l'Écriture, יהיה, ce qui implique qu'il restera dans son ancien état d'être (interdit car il l'était pendant les trois années entières)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:24",
+      "fr": "La quatrième année, tous ses fruits seront mis de côté pour la jubilation devant DIEU ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יהיה כל פריו קדש [MAIS DANS LA QUATRIÈME ANNÉE] SES FRUITS SONT SAINTS, de la même manière que la « deuxième dîme » en référence à laquelle il est également dit (Lévitique 27 :30) « Et toute la dîme du pays… [appartient à l'Éternel] ; elle est sainte (קדש) au Seigneur\". Maintenant, quelle est la loi concernant la « deuxième dîme » ? Il ne faut pas en manger hors des murs de Jérusalem, sauf après la rédemption ! Il en est de même pour celui-ci (le fruit de la quatrième année). Et cette chose même הלולים לה׳, est UNE LOUANGE DU SEIGNEUR, car il l'emmène là-bas (à Jérusalem) pour louer et louer Dieu au Ciel, comme il le fait avec la deuxième dîme (cf. Berakhot 35a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:25",
+      "fr": "et ce n'est que la cinquième année que vous pourrez utiliser son fruit, afin que son rendement soit augmenté. Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "להוסיף לכם תבואתה [ET DANS LA CINQUIÈME ANNÉE VOUS MANGEREZ LE FRUIT DE CELUI-CI] AFIN QU'IL VOUS RENCONTRE SON AUGMENTATION — Cet ordre (de ערלה et נטע רבעי, fruit de la quatrième année) que vous observez aura pour conséquence qu'il vous donnera sa production en plus grande quantité. Parce qu'en récompense (pour l'accomplissement de Mon commandement), Je bénirai pour vous le fruit de la plantation. R. Akiba disait : « La Torah dit cela parce qu'elle a à l'esprit le mauvais penchant de l'homme : qu'il ne faut pas dire : « Voici, pendant quatre ans je dois m'en occuper pour rien ! » L'Écriture déclare donc que le résultat de votre obéissance sera qu'elle vous donnera ses produits en plus grande quantité (Sifra, Kedoshim, Section 3 9)."
+        },
+        {
+          "id": 2,
+          "fr": "'אני ה‎‎‎ signifie que c'est Moi, le Seigneur, Qui vous donne une promesse à ce sujet (que votre obéissance à Moi apportera une bénédiction sur votre récolte) et Qui suis fidèle à tenir Ma promesse."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:26",
+      "fr": "Vous ne mangerez rien avec son sang. Vous ne pratiquerez ni la divination ni la divination.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תאכלו על הדם VOUS NE MANGEREZ RIEN על הדם — Ce texte est interprété de nombreuses manières différentes dans le Traité Sanhédrin 63a : Il est considéré comme une interdiction de manger la chair des sacrifices avant que leur sang n'ait été aspergé ; et comme interdiction adressée à celui qui mange de la chair d'un animal non consacré (חולין) avant que la vie ne l'ait entièrement quitté ; et bien d’autres interprétations y sont données."
+        },
+        {
+          "id": 2,
+          "fr": "לא תנחשו VOUS NE DEVEZ PAS DIVIN — comme le font ceux qui tirent des pronostics du cri d'une belette ou du gazouillis des oiseaux (Sifra, Kedoshim, chapitre 6 2 ; Sanhédrin 66a), ou du fait que le pain tombe de sa bouche ou qu'un cerf croise son chemin (Sanhédrin 65b)."
+        },
+        {
+          "id": 3,
+          "fr": "ולא תעוננו Le verbe a un sens lié à la « période » (עונה) et aux « heures » ; ainsi un מעונן est celui qui dit : « Tel ou tel jour est propice pour commencer un travail, telle ou telle heure est peu propice pour commencer un voyage (Sanhédrin 66a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:27",
+      "fr": "Vous [hommes] n’arrondirez pas les pousses latérales de votre tête, ni ne détruirez les pousses latérales de votre barbe.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תקיפו פאת ראשכם VOUS NE DEVEZ PAS ARRONDIR LES COINS DE VOTRE TÊTE — Ceci fait référence à celui qui rend ses tempes exactement comme (aussi glabres que) l'arrière de ses oreilles et son front (cf. Rachi sur Makkot 20b, ד״ה המשוה צדעיו) en enlevant les cheveux de ses tempes, de sorte que le bord inférieur des cheveux qui entourent sa tête (c'est-à-dire son crâne, car nous ne nous occupons pas des cheveux de la nuque) forme un cercle complet, car au-dessus de l'arrière de ses oreilles les racines de ses cheveux sont situées beaucoup plus haut que ses tempes (et ce sont donc uniquement les tempes qui empêchent une ligne circulaire ininterrompue de faire le tour de son crâne). (Cf. Makkot 20b)."
+        },
+        {
+          "id": 2,
+          "fr": "פאת זקנך [TU NE MARRAS PAS] LES COINS DE TA BARBE — i. e. la pointe de la barbe et ses côtés, ceux-ci formant ensemble cinq coins : deux sur chaque joue, en haut près de la tête (les tempes) — là où elle (la joue) est large et a donc deux coins (donc quatre sur les deux côtés) et un en bas, sur le menton, à l'endroit où se trouve la jonction des deux joues (Chevouot 3a ; cf. aussi Sifra, Kedoshim, chapitre 6 3 ; Makkot 20a et Rachi sur Chevouot 3a : ועל הזקן ‎‎‏ (ד\"ה"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:28",
+      "fr": "Vous ne ferez pas d'entailles dans votre chair pour les morts, et vous ne vous inciserez aucune marque : je suis DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ ‎‎‎‎ושרט לנפש‏‎ ‎[Vous ne ferez] aucune coupure [dans votre chair] pour les morts — C'était la pratique des Amoréens (un terme général pour les païens) de faire des coupures dans leur chair quand quelqu'un qui leur appartenait mourait."
+        },
+        {
+          "id": 2,
+          "fr": "וכתבת קעקע [NOUS NE DEVEZ PAS IMPRESSIONNER] TOUTE ÉCRITURE PAR GRAVURE [SUR VOUS] — i. e. une écriture gravée (plus éclairée, creusée) et enfoncée dans la chair et qui ne peut jamais s'effacer car elle se pique avec une aiguille et reste noire pour toujours."
+        },
+        {
+          "id": 3,
+          "fr": "קעקע (racine יקע) est une expression liée dans le sens à והוקע dans (Nombres 25 :4) « et pendez-les (והוקע אותם) » et avec (II Samuel 21 :6) « et nous les pendrons (הוקענום) ». Ils enfonçaient des poteaux dans le sol et les y accrochaient ; par conséquent, eux-mêmes, comme les poteaux, étaient pour ainsi dire enfoncés et enfoncés dans le sol ; pourpoint en O. F."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:29",
+      "fr": "N'aviliez pas votre fille et n'en faites pas une prostituée, de peur que le pays ne tombe dans la prostitution et que le pays ne soit rempli de dépravation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תחלל את בתך להזנותה NE PROSTITUEZ PAS VOTRE FILLE POUR LA FAIRE DEVENIR UNE PROstituée — L'Écriture parle de quelqu'un qui donne sa fille célibataire pour concubinage illégitime (cf. Sifra, Kedoshim, Chapitre 7 2 ; Sanhédrin 76a)."
+        },
+        {
+          "id": 2,
+          "fr": "ולא תזנה הארץ DE PEUR QUE LA TERRE DEVENINE DÉLOIE À VOUS — Si vous faites cela, la terre deviendra infidèle envers vous en ce qui concerne la distribution de ses fruits, les produisant ailleurs et non dans votre pays. L'Écriture utilise également cette comparaison dans (Jérémie 3 :2-3) « et tu as pollué ton pays par ta prostitution… C'est pourquoi les douches ont été refusées, etc. » (de sorte que la terre ne produisit aucun fruit) (Sifra, Kedoshim, chapitre 7 4 ; Tosefta Kiddushin 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:30",
+      "fr": "Vous observerez mes sabbats et vénérerez mon sanctuaire : je suis DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומקדשי תיראו ET VOUS RÉVÉREREZ MON SANCTUAIRE — Cela implique qu'il ne faut pas y entrer avec son bâton à la main ou dans ses chaussures, ni avec sa ceinture porte-monnaie ou avec la poussière sur ses pieds (tous signes d'irrévérence) (Sifra, Kedoshim, chapitre 7 9 ; Berakhot 54a ; Yevamot 6b). Mais — dit Dieu — bien que Je vous prévienne concernant le respect dû au Sanctuaire, pourtant — את שבתתי תשמרו VOUS OBLIEREZ MES SABBATS — même l'érection du Sanctuaire ne peut déroger à la loi du Sabbat (Sifra, Kedoshim, Chapitre 7 7 ; Yevamot 6a ; cf. Rachi sur l'Exode 35:2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:31",
+      "fr": "Ne vous tournez pas vers les fantômes et ne vous adressez pas aux esprits familiers pour vous laisser souiller par eux : Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תפנו NE VOUS TOURNEZ PAS [VERS LE אבת NI VERS LE ידענים] — Ceci est un avertissement adressé aux nécromanciens et aux charmeurs eux-mêmes (pas aux personnes qui consultent ces escrocs). Le בעל אוב, le contrôleur de l'esprit אוב, comme on appelle le nécromancien (cf. I Samuel 28:7), est identique au פיתום (en grec : πύξωυ) ; c'est quelqu'un qui parle du creux de son bras ; ידעני est celui qui met dans sa bouche l'os d'un animal dont le nom est ידוע et l'os parle (Sanhédrin 65b)."
+        },
+        {
+          "id": 2,
+          "fr": "אל תבקשו signifie NE CHERCHEZ PAS à vous occuper d'eux, car si vous vous occupez d'eux, vous vous souillerez à Mes yeux et Je vous abhorrerai."
+        },
+        {
+          "id": 3,
+          "fr": "אני ה' אלהיכם JE SUIS LE SEIGNEUR VOTRE DIEU — Pensez simplement qui vous changez (par ces pratiques qui mènent à l'idolâtrie) pour qui ! (Sifra, Kedoshim, chapitre 7 11)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:32",
+      "fr": "Vous vous lèverez devant les vieillards et ferez preuve de déférence envers les vieillards ; tu craindras ton Dieu : Je suis l'ÉTERNEL.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מפני שיבה תקום Tu te lèveras devant une tête blanche — On pourrait penser que cette révérence est aussi due à un vieil homme ignorant ! L'Écriture dit cependant זקן — « tu honoreras le visage du ״זקן — et זקן désigne seulement celui qui a acquis la sagesse (Sifra, Kedoshim, chapitre 7 12 ; Kiddushin 32b)."
+        },
+        {
+          "id": 2,
+          "fr": "ET TU HONORERAS LE VISAGE DU VIEUX — Qu'implique le terme « honorer » un vieil homme ? Celui-là ne devrait pas s'asseoir à sa place ni contredire ses déclarations. On pourrait croire qu’on a le droit de fermer les yeux comme si on ne le voyait pas (le vieil homme) ! L'Écriture dit cependant \"mais aie peur de ton Dieu\", car dans cette chose, il est donné au cœur seulement de celui qui fait l'action de connaître le motif qui le pousse, car personne n'a de compréhension de cela sauf lui-même, et en référence à toute chose où il n'est donné qu'au cœur de savoir, l'Écriture déclare \"et tu auras peur de ton Dieu qui connaît tes pensées secrètes\" (Sifra, Kedoshim, chapitre 7 14 ; Kiddushin 32b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:33",
+      "fr": "Si des étrangers résident avec vous dans votre pays, vous ne leur ferez pas de tort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תונו [ET SI UN ÉTRANGER SÉJOURNE AVEC TOI DANS TON PAYS], VOUS NE LE VEXEZ PAS — Cela implique de le contrarier avec des mots (cf. Rachi sur Exode 22 :20) — ne lui dites pas : « Hier tu étais un idolâtre et maintenant tu viens étudier la Torah qui a été donnée de la bouche du Tout-Puissant ! (Sifra, Kedoshim, chapitre 8 2 ; Bava Metzia 58b, 59b.)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:34",
+      "fr": "Les étrangers qui résident avec vous seront pour vous comme vos citoyens ; vous aimerez chacun comme vous-même, car vous étiez étrangers au pays d'Égypte : Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי גרים הייתם CAR VOUS ÉTIEZ DES ÉTRANGERS [AU PAYS D'ÉGYPTE] — « Ne reproche pas à ton prochain une faute qui est aussi la tienne » (cf. Rachi sur Exode 22 :20)."
+        },
+        {
+          "id": 2,
+          "fr": "אני ה' אלהיכם JE SUIS LE SEIGNEUR VOTRE DIEU — Je suis ton Dieu et son Dieu ! (אלהיכם « votre » Dieu – le Dieu de vous deux)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:35",
+      "fr": "Vous ne devez pas falsifier les mesures de longueur, de poids ou de capacité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תעשו עול במשפט VOUS NE COMMETTEREZ PAS D'INJUSTITÉ EN משפט — Si cela fait référence à l'exécution de la justice, ce serait redondant, car il a déjà été déclaré (v. 15) « Vous ne commettrez aucune injustice en jugement ». Quelle est alors la signification de משפט mentionnée ici ? Il fait référence à ce qui est juste en ce qui concerne la mesure de longueur, le poids et la mesure de capacité. L'utilisation du mot משפט ici nous enseigne donc que celui qui a à voir avec la mesure (dans le commerce) est appelé (est considéré comme) « un juge », de sorte que s'il donne une fausse mesure, il est comme le juge qui pervertit la justice et il est donc appelé « une personne injuste » (עַוָּל), haineuse, détestée, vouée à la destruction et une abomination (cf. Rachi v. 15). Il réalise ces cinq choses qui sont mentionnées à propos du juge qui pervertit la justice : il souille le pays, profane le Nom de l'Éternel, fait quitter la Chechinah du milieu d'Israël, Israël tombe par l'épée et est exilé de son pays (Sifra, Kedoshim, chapitre 8-5)."
+        },
+        {
+          "id": 2,
+          "fr": "במדה — Ceci désigne la mesure du terrain (mesure linéaire et carrée) ;"
+        },
+        {
+          "id": 3,
+          "fr": "במשקל est ce que le mot implique littéralement (« en poids », de שקל, peser) ;"
+        },
+        {
+          "id": 4,
+          "fr": "ובמשורה — Ceci désigne une mesure liquide et sèche (Sifra, Kedoshim, Chapitre 8 6 ; Bava Metzia 61b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:36",
+      "fr": "Tu auras une balance honnête, des poids honnêtes, un épha honnête et un hin honnête. Moi l'ÉTERNEL, je suis votre Dieu qui vous ai libéré du pays d'Égypte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אבני צדק sont des pierres utilisées pour les poids avec lesquels on pèse."
+        },
+        {
+          "id": 2,
+          "fr": "איפת — Le « Epha » est une certaine mesure sèche."
+        },
+        {
+          "id": 3,
+          "fr": "והין — Le « Hin » est une certaine mesure liquide."
+        },
+        {
+          "id": 4,
+          "fr": "אשר הוצאתי אתכם QUI VOUS A FAIT SORTIR [D'EGYPTE] dans ce but, afin que vous soyez honnêtes dans vos actions (Sifra, Kedoshim, chapitre 8 10). Une autre explication est : j'ai fait la distinction en Egypte entre ceux qui étaient premiers-nés et ceux qui ne l'étaient pas (une question qui est cachée à la connaissance humaine), je suis également certain d'exiger une punition de celui qui met secrètement son poids dans le sel afin de profiter des gens qui n'en sont pas conscients (cf. Bava Metzia 61b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 19:37",
+      "fr": "Vous observerez fidèlement toutes Mes lois et toutes Mes règles : JE suis DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:1",
+      "fr": "Et DIEU parla à Moïse :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:2",
+      "fr": "Say further to the Israelite people: AnyoneaAnyone See note at 17.3. parmi les Israélites, ou parmi les étrangers résidant en Israël, qui donnera une descendance à Molech, sera mis à mort ; les gens du pays les jetteront des pierres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואל בני ישראל תאמר TU DITES ENCORE AUX ENFANTS D'ISRAËL les punitions pour la transgression des interdictions mentionnées dans les chapitres précédents."
+        },
+        {
+          "id": 2,
+          "fr": "מות יומת IL SERA SÛREMENT MIS À MORT par décision du tribunal ; et si le tribunal n'a pas l'autorité suffisante pour accomplir cela, alors, ‎ 'וכו‎‎ עם הארץ, les habitants du pays les assisteront (Sifra, Kedoshim, Section 4 4)."
+        },
+        {
+          "id": 3,
+          "fr": "עם הארץ LE PEUPLE DE LA TERRE — ce peuple pour lequel la terre a été créée : Israël (cf. Rachi sur Genèse 1 : 1) ; ou, ce peuple qui est destiné à rester en possession de la Terre (Canaan) par l'obéissance à ces commandements (Sifra, Kedoshim, Section 4 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:3",
+      "fr": "Et je tournerai ma face contre [ce parti], que je retrancherai du milieu de leurs parents pour avoir donné une descendance à Molech et avoir ainsi profané mon sanctuaire et profané mon saint nom.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אתן את פני ‎ est pris dans le sens de, פנאי שלי, Mes loisirs — Je me détournerai de tout ce qui m'occupe et m'occuperai de lui seul (Sifra, Kedoshim, Section 4 13 ; cf. Rachi sur Lévitique 17 : 10)."
+        },
+        {
+          "id": 2,
+          "fr": "באיש CONTRE CET HOMME — mais pas contre toute la congrégation s'ils pèchent ainsi (Sifra, Kedoshim, Section 4 13), car la communauté dans son ensemble n'est jamais punie par l'excision."
+        },
+        {
+          "id": 3,
+          "fr": "כי מזרעו נתן למלך PARCE QU'IL A DONNÉ SA SEMENCE AU MOLECH — Ces mots semblent redondants puisque au v. 20 la nature du péché est déjà mentionnée, mais parce que l'Écriture déclare (Deutéronome 18 : 10) « [On ne trouvera parmi vous] personne qui fasse passer son fils ou sa fille. le feu\", on pourrait penser que cette loi ne s'applique qu'à ses enfants ; D'où savons-nous que cela s'applique aussi au fils de son fils et au fils de sa fille ? Parce que l'Écriture dit ici : « parce qu'il a donné sa postérité au Molech ». D’où savons-nous que les enfants illégitimes sont également visés par cette loi ? Parce que l'Écriture déclare encore (v. 4) «quand il donne de sa semence au Molech» - qu'elle soit légitime ou non (Sifra, Kedoshim, Section 4 6-7; Sanhédrin 64b)."
+        },
+        {
+          "id": 4,
+          "fr": "למען טמא את מקדשי POUR PROFILER MON מקדש — Cela signifie la « Congrégation d'Israël » qui M'est sanctifiée. Le mot מקדש n'implique pas seulement le sanctuaire mais tout ce qui est saint pour Dieu, comme dans l'expression (Lévitique 21 :23) « afin qu'il ne profane pas mes choses saintes (‎‎‏מקדשי‎)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:4",
+      "fr": "Et si les habitants du pays fermaient les yeux sur le fait que ce parti donne des enfants à Molech, et ne les faisait pas mourir,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ואם העלם יעלימו ET SI [LES GENS DU PAYS] CACHENT LEURS YEUX [À L'HOMME] — S'ils cachent leurs yeux dans une chose, ils finiront par cacher leurs yeux aussi dans bien d'autres domaines (Sifra, Kedoshim, Section 4 9) ; si le Petit Sanhédrin (un tribunal judiciaire de vingt-trois) cache ses yeux, à la fin le Grand Sanhédrin (la Cour suprême de soixante et onze) cachera également ses yeux (Sifra, Kedoshim, Section 4 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:5",
+      "fr": "Moi-même, je tournerai ma face non seulement contre ce parti, mais aussi contre son clan ; et je les retrancherai du milieu de leur peuple, tous ceux qui s'égarent après Molech.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובמשפחתו [ALORS JE VAIS METTRE LES YEUX SUR CET HOMME] ET CONTRE SA FAMILLE — R. Siméon a demandé : « Mais comment sa famille a-t-elle péché pour qu'elle soit punie ? Mais la famille est mentionnée pour vous apprendre que vous pouvez considérer comme une règle qu'il n'y a pas de famille dans laquelle il y a un seul collecteur d'impôts (un métier tenu en grande réprobation par les Juifs) qui ne peut être considérée comme composée entièrement de collecteurs d'impôts, car ils essaient tous de le protéger (Sifra, Kedoshim, section 4 13 ; Shevouot 39a)."
+        },
+        {
+          "id": 2,
+          "fr": "והכרתי אתו ET JE VAIS LE COUPER — Pourquoi cela est-il indiqué (cela semble être une simple répétition de la déclaration du v. 3) ? Parce que puisque l'Écriture dit ici pour la raison exposée ci-dessus : « [Je tournerai ma face…] contre sa famille », je pourrais penser que toute la famille est également vouée à l'excision ; L'Écriture déclare donc « [Je le retrancherai] » - lui seul est soumis à l'excision, mais toute la famille n'est pas soumise à l'excision mais aux souffrances corporelles (Sifra, Kedoshim, Section 4 14 ; Shevouot 39a)."
+        },
+        {
+          "id": 3,
+          "fr": "לזנות אחרי המלך POUR COMMETTRE LA PUBLIQUE AVEC MOLECH — Ceci est destiné à inclure également le culte de toute autre idole qu'il a adoré de cette manière (en laissant ses enfants passer par le feu en son honneur) même si ce n'est pas la manière d'adorer qui lui est propre (Sifra, Kedoshim, Section 4 15 ; Sanhédrin 64a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:6",
+      "fr": "Et si quelqu’un se tourne vers des fantômes et des esprits familiers et s’égare à leur poursuite, je tournerai ma face contre cet homme et je le retrancherai du milieu de ses frères.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:7",
+      "fr": "Vous devez vous sanctifier et être saints, car Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והתקדשתם SANCTIFEZ-VOUS — Cela implique de se tenir à l'écart de toute idolâtrie (Sifra, Kedoshim, chapitre 10 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:8",
+      "fr": "Vous observerez fidèlement Mes lois : MOI DIEU vous sanctifie.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:9",
+      "fr": "Concernant anybanyone Voir la note à 17.3. qui insulte son père ou sa mère : ils seront mis à mort ; ils ont insulté leur père et leur mère – et la culpabilité du sang leur appartient, c’est-à-dire celle de l’auteur du crime.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אביו ואמו קלל IL A MAUDI SON PÈRE OU SA MÈRE — Ces mots apparemment redondants sont destinés à inclure comme sujet à la peine de mort celui qui maudit ses parents après leur mort (Sanhédrin 85b)."
+        },
+        {
+          "id": 2,
+          "fr": "דמיו בו SON SANG EST SUR LUI ] Cela implique une exécution par lapidation ; de même partout où les expressions דמיו בו ou דמיהם בם apparaissent. Nous apprenons cette règle halakhique du cas de אוב et ידעוני dont l'Écriture déclare expressément, (v. 27) [« ils seront sûrement mis à mort], ils les accableront de pierres, leur sang retombera sur eux (דמיהם בם) » (Sifra, Kedoshim, chapitre 10 7 ; cf. Sanhédrin 54a ; Kéritot 5a). Mais selon le sens littéral du passage, cela signifie la même chose que l'expression דמו בראשו (Josué 2:19) : « [Quiconque sortira des portes de ta maison dans la rue, son sang retombera sur sa tête] (דמו בראשו) » où le sens est : Personne ne mérite de punition à cause de sa mort, sauf lui-même, car il l'a provoquée sur lui-même. qu'il devait être tué (c'est-à-dire que c'était sa propre faute)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:10",
+      "fr": "Si un homme commet un adultère avec une femme mariée, ou avec la femme d'un autre homme, l'adultère et la femme adultère seront mis à mort.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואיש ET L'HOMME [QUI COMMET L'ADULIÈRE SERA SÛREMENT MIS À MORT] — un homme, excluant ainsi un mineur (Sifra, Kedoshim, Chapitre 10 8)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר ינאף את אשת איש QUI COMMET ADULTÈRE AVEC LA FEMME D'UN AUTRE HOMME — la femme d'un homme, excluant ainsi la femme d'un mineur de la peine de mort. Cela nous enseigne qu’un mineur ne peut pas contracter de mariage. Et à propos de quelle femme mariée dois-je vous rendre passible de la peine de mort ?"
+        },
+        {
+          "id": 3,
+          "fr": "אשר ינאף את אשת רעהו S'IL COMMET L'ADULTÈRE AVEC LA FEMME DE SON COMPAGNIE — son prochain, excluant ainsi la femme d'un païen ; cela nous enseigne qu'un païen ne peut pas conclure un contrat de mariage selon la loi juive (Sifra, Kedoshim, chapitre 10 8 ; Sanhédrin 52b)."
+        },
+        {
+          "id": 4,
+          "fr": "מות יומת הנאף והנאפת L'ADULTÈRE ET L'ADULTRE SERONT SÛREMENT MIS À MORT — Partout où la peine de mort est mentionnée dans l'Écriture sans être définie avec précision, seule l'étranglement est prévue (Sifra, Kedoshim, chapitre 10 8 ; Sanhédrin 55b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:11",
+      "fr": "Si un homme couche avec la femme de son père, c'est la nudité de son père qu'il découvre ; les deux seront mis à mort, et le crime de sang leur appartiendra.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:12",
+      "fr": "Si un homme couche avec sa belle-fille, ils seront tous deux mis à mort ; ils ont commis l’inceste – et c’est à eux qu’incombe le sang.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תבל עשו ILS ONT FORGÉ תבל — i. e. ils ont commis un acte honteux. Une autre interprétation est que תבל est lié à בלל pour « se mélanger » et signifie qu'ils mélangent (בּלל) la semence du père avec la semence du fils."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:13",
+      "fr": "Si un homme couche avec un homme comme on couche avec une femme, ils ont tous deux commis une chose odieuse ; ils seront mis à mort, et le crime de sang leur appartiendra.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "משכבי אשה signifie qu'il l'insère comme une brosse dans un tube [c.-à-d. à la manière des rapports conjugaux]."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:14",
+      "fr": "Si un homme épouse une femme et sa mère, c'est une dépravation ; lui et eux seront mis au feu, afin qu'il n'y ait pas de dépravation parmi vous.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ישרפו אתו ואתהן [ET SI UN HOMME PREND UNE FEMME ET SA MÈRE, C'EST MALCHANCE] ILS SERONT BRÛLÉS [AVEC LE FEU] LUI ET EUX — Vous ne pouvez pas dire que cela signifie qu'ils brûleront aussi sa première femme (c'est-à-dire celle qu'il a épousée en premier), car vous devez admettre qu'il l'a épousée légalement car elle ne lui était pas interdite en tant qu'épouse. Mais le fait est que le cas « d’une femme et de sa mère » est mentionné ici : il doit s’agir d’un cas où les deux lui sont interdits en raison d’une relation antérieure avec lui, c’est-à-dire que, par exemple, après avoir épousé une femme, il épouse aussi sa belle-mère et sa mère. Ce sont ces deux-là qu’il faut brûler. Il y a cependant certains de nos Rabbins qui disent que nous avons ici un cas où, en plus d'avoir épousé une femme, il épouse uniquement sa belle-mère (mais pas aussi la mère de cette dernière). Mais quelle pourrait alors être la signification de אתהן ? Cela signifie l'un d'eux (« את \"הן) et c'est un mot grec, הן (ξυ) signifiant « un » (Sanhédrin 76b ; Sifra, Kedoshim, chapitre 10 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:15",
+      "fr": "Si un homme a des relations charnelles avec un animal, il sera mis à mort ; et tu tueras l'animal.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת הבהמה תהרגו ET VOUS TUEREZ LA BÊTE — Si l'homme a péché, quel péché la bête a-t-elle commis ? Mais parce que l’occasion pour l’homme de trébucher (de pécher) a été occasionnée par cela, c’est pourquoi l’Écriture dit : « qu’il soit lapidé » ! Ce principe s'applique à plus forte raison à un être humain qui sait distinguer le bien du mal et qui pourtant attire le mal sur son prochain en l'incitant à commettre un péché. De la même manière, vous devriez expliquer : (Deutéronome 12 : 2) « Vous détruirez entièrement tous les lieux [où les nations… servaient leurs dieux… sous tout arbre buissonnant] » Ce qui suit n'est-il pas une conclusion logique ? Qu’en est-il des arbres qui ne peuvent ni voir ni entendre ? Simplement parce qu'ils ont eu l'occasion de pécher, l'Écriture dit : « Détruisez-les, brûlez-les, exterminez-les ! » Celui qui fait dévier son prochain du chemin de la vie vers le chemin de la mort, ne s'ensuit-il pas d'autant plus qu'il doit être puni ? (Sifra, Kedoshim, chapitre 11 5 ; cf. Sanhédrin 54a, 55a.)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:16",
+      "fr": "Si une femme s'approche d'un animal pour s'accoupler avec lui, vous tuerez la femme et l'animal ; ils seront mis à mort, et le crime de sang leur appartiendra.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:17",
+      "fr": "Si un homme épouse sa sœur, fille soit de son père, soit de sa mère, de telle sorte qu'il voie sa nudité et qu'elle voie sa nudité, c'est une honte ; they shall be excommunicateddexcommunicated Lit. \"couper.\" aux yeux de leurs proches. S'il a découvert la nudité de sa sœur, il en portera la culpabilité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "חסד הוא C'EST UNE MÉCHANTE CHOSE — C'est une expression araméenne, l'hébreu חרפה (honte) étant dans cette langue חסודא (cf. Onkelos sur Genèse 34 :14). Une explication midrashique (de חסד הוא) est : Si vous disiez : « Mais Caïn a épousé sa sœur ! » puis je réponds : le cas de Caïn était exceptionnel ; un acte de bonté (חסד) a été accompli par l'Omniprésent afin que son monde puisse être construit à travers lui (c'est-à-dire qu'il a rendu possible la propagation de la race humaine à travers cette union), comme il est dit (Psaumes 89 :3) « Le monde a été construit par חסד, la bonté de cœur » (Sifra, Kedoshim, chapitre 11 11 ; Sanhédrin 58b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:18",
+      "fr": "Si un homme couche avec une femme pendant ses règles et découvre sa nudité, il a mis à nu son flux et elle a exposé son flux sanguin ; tous deux seront retranchés du milieu de leur peuple.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הערה signifie IL A DÉCOUVERT. De même, le terme ערוה désigne partout « découverte ». Le ו dans le mot ערוה nudité, est inséré dans la racine ערה afin d'en former un nom, tout comme le nom זעוה, \"tremblant\", est de la même dérivation que זע dans la phrase (Esther 5:9) \"et il ne se leva pas et ne trembla pas (זע)\". De même, אחוה « fraternité » est de la même dérivation que אח, frère. Quant à ce terme « découvrir », nos Rabbins diffèrent dans le sens qu'ils lui donnent (Yevamot 55b). Certains disent que c'est le simple contact de la pointe de l'organe, tandis que d'autres disent que c'est l'insertion de la pointe."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:19",
+      "fr": "YoueYou Voir la note à 18.6. tu ne découvriras pas la nudité de la sœur de ta mère ou de la sœur de ton père, car cela revient à mettre à nu sa propre chair ; ils porteront la culpabilité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'וערות אחות אמך וגו‎‎‎ [ET TU NE DÉCOUVRERAS PAS] LA NUDE DE LA SOEUR DE TA MÈRE [NI DE LA SOEUR DE TON PÈRE] — L'Écriture répète l'interdiction à leur sujet (bien qu'elles aient déjà été mentionnées dans Lévitique 18 : 12, 13) pour nous dire qu'il est interdit de respecter à eux, tant à l'égard de la sœur de leur père ou de leur mère du côté paternel, qu'à l'égard de leurs sœurs du côté de leur mère. Mais en ce qui concerne un mariage interdit avec la femme du frère de son père (cf. Lévitique 18:14), l'interdiction (c'est-à-dire le איסור ערוה מדאורייתא) s'applique uniquement à la femme du frère de son père lorsqu'il est le frère du père du côté paternel (c'est-à-dire lorsque les deux ont un père) (cf. Yevamot 54b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:20",
+      "fr": "Si un homme couche avec la femme de son oncle, c’est la nudité de son oncle qu’il découvre. Ils porteront la culpabilité : ils mourront sans enfants.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר ישכב את דדתו ET SI UN HOMME LIT AVEC SA TANTE… [ILS MOURIRONT SANS ENFANTS] — Ce verset est destiné à enseigner que « l'excision » mentionnée ci-dessus (18 :29, où « toutes ces abominations incluent l'union interdite au v. 14 de ce chapitre) consiste en leur (les délinquants) quittant ce monde sans enfants."
+        },
+        {
+          "id": 2,
+          "fr": "ערירים — Traduisez ceci comme le rend le Targum : בלא ולד, sans enfant. Il en va de même (Genèse 15 :2) « et je mourrai sans enfant (ערירי) ». S'il a des enfants, il les enterrera (c'est-à-dire qu'ils mourront de son vivant) ; s'il n'a pas d'enfants au moment où ce péché est commis, il mourra sans enfants (il n'engendrera plus d'enfants par la suite). C'est pourquoi l'Écriture varie l'expression dans ces deux versets (celui-ci et le suivant) en déclarant ici ערירים ימתו, \"ils mourront sans enfants\", et là ערירים יהיו, \"ils seront sans enfants\". L'expression ערירים ימתו implique : s'il a des enfants au moment où il commet le péché, il n'en aura plus à sa mort car il les enterrera de son vivant ; ערירים יהיו, d'autre part, implique : s'il n'a pas d'enfants au moment où il commet le péché, il restera toute sa vie tel qu'il était alors (Sifra, Kedoshim, chapitre 12 7 ; Yevamot 55a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:21",
+      "fr": "Si un homme épouse la femme de son frère, c'est de l'indécence. C'est la nudité de son frère qu'il a découverte ; ils resteront sans enfants.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נדה הוא signifie que cette cohabitation doit être tenue à distance (évitée) et est répugnante. Nos Rabbins ont expliqué que ces paroles interdisent la moindre approche d'elle [c.-à-d. on est responsable de contact superficiel, comme cela est défini dans le commentaire du verset 18] tout comme si elle était une נדה dans le cas de laquelle une telle intimité est expressément déclarée comme interdite, comme il est dit (v. 18) « il a découvert sa fontaine » (cf. Yevamot 54a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:22",
+      "fr": "Vous observerez fidèlement toutes mes lois et tous mes règlements, de peur que le pays dans lequel je vous amène pour vous installer ne vous vomisse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:23",
+      "fr": "Vous ne suivrez pas les pratiques de la nation que je chasse devant vous. Car c'est parce qu'ils ont fait toutes ces choses que je les ai abhorrés",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קוץ — ואקץ signifie répugnance. Similaire : (Genèse 27 :46) « Je suis malade (קצתי) de ma vie », comme un homme dégoûté de sa nourriture (Sifra, Kedoshim, chapitre 12 : 16)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:24",
+      "fr": "et il t'a dit : Tu posséderas leur pays, car je te le donnerai en possession, un pays où coulent le lait et le miel. Moi l'ÉTERNEL, je suis votre Dieu qui vous ai mis à part des autres peuples.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 20:25",
+      "fr": "Ainsi tu distingueras l'animal pur de l'impur, l'oiseau impur du pur. Vous n'attirerez pas sur vous une abomination à cause de ce que j'ai mis à part pour que vous le traitiez comme impur, ce que j'ai mis à part pour que vous le traitiez comme impur. Déplacé pour plus de clarté à la fin du verset. - [qu'il s'agisse] d'un animal ou d'un oiseau ou de tout ce dont le sol est vivant.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והבדלתם בין הבהמה הטהרה לטמאה VOUS DEVEZ DONC DISTINGUER ENTRE LES BÊTES PROPRES ET IMPURS — Il est inutile pour l'Écriture de dire qu'il faut faire la distinction entre une vache et un âne car ceux-ci sont différents et se distinguent donc. Mais cela signifie : vous devez distinguer entre un animal qui vous est pur (permis) et celui qui vous est impur (interdit) bien qu'il s'agisse d'un animal pur en soi, c'est-à-dire faire une distinction entre un animal qui a été tué en coupant au moins la plus grande partie de chaque organe (l'œsophage et la trachée) ou s'il a été tué en coupant exactement la moitié de chaque organe. And how much difference is there between the greater part and the exact half? L’épaisseur d’un cheveu seulement (et par conséquent le commandement est donné : והבדלתם, « tu distingueras très soigneusement ») (Sifra, Kedoshim, chapitre 12 20 ; cf. aussi Rachi sur Lévitique 11 :47 et Chullin 27a)."
+        },
+        {
+          "id": 2,
+          "fr": "אשר הבדלתי לכם לטמא QUE J'AI SÉPARÉ POUR QUE VOUS LES DÉCLAREZ IMPURS ] Cela signifie, les déclarer comme interdits."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:26",
+      "fr": "Vous serez saints pour moi, car moi, DIEU, je suis saint, et je vous ai mis à part des autres peuples pour que vous soyez à moi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואבדל אתכם מן העמים להיות לי ‎ ET JE VOUS AI SÉPARÉ DES PEUPLES QUE VOUS DEVEZ ÊTRE À MIEN — Si vous vous tenez à l'écart d'eux, vous serez à moi, mais sinon, vous appartenez à (devenez soumis à) Nabuchodonosor et d'autres comme lui. Rabbi Eléazer ben Azaria dit : « D'où savons-nous qu'il ne faut pas dire : « Mon âme a horreur de la chair de porc » ou : « Je n'ai aucune envie de porter des vêtements qui sont un mélange de laine et de lin », mais qu'il faut dire : « Je les aimerais bien, mais que puis-je faire puisque mon Père qui est aux cieux m'a imposé ces décrets ? actions) devraient être pour Moi — que l'on devrait se tenir à l'écart du péché et prendre sur lui le joug du royaume des Cieux (Sifra, Kedoshim, Chapitre 12 : 23)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 20:27",
+      "fr": "Un homme ou une femme qui a un fantôme ou un esprit familier sera mis à mort ; ils seront lapidés, et le crime de sang leur appartiendra.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'כי יהיה בהם אוב וגו‎ [UN HOMME AUSSI, OU UNE FEMME] QUI A L'ESPRIT אוב, [OU C'EST UN MAGICIEN DOIT SÛREMENT ÊTRE MIS À MORT] - Ici, la peine de mort par lapidation est mentionnée pour eux, et ci-dessus (Lévitique 20 : 6) il mentionne excision ! Mais l'explication est la suivante : s'il y avait des témoins du délit et que l'avertissement nécessaire leur avait été donné, la mort par lapidation est le châtiment. S'il a agi consciemment mais n'a pas été averti, il est passible de l'excision et s'il enfreint la loi les concernant (le אוב ou ידעוני) par inadvertance, il doit apporter une offrande pour le péché. Et les mêmes règles s'appliquent à toutes les personnes passibles de la peine de mort, lorsque l'excision est mentionnée (c'est-à-dire que dans tous ces cas, la lapidation ou le sacrifice pour le péché constituent la punition selon les circonstances)."
+        }
+      ]
+    }
+  ]
+}

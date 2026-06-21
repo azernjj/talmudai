@@ -1,0 +1,999 @@
+{
+  "name": "Tsav",
+  "range": "Leviticus 6:1-8:36",
+  "verses": [
+    {
+      "ref": "Leviticus 6:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 6:2",
+      "fr": "Ordonnez ainsi à Aaron et à ses fils : Voici le rituel de l'holocauste : l'holocauste lui-même restera là où il est brûlé sur l'autel toute la nuit jusqu'au matin, pendant que le feu sur l'autel reste allumé dessus.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צו את אהרן COMMAND AARON — L'expression « Command… ! » implique toujours d'inciter à exécuter un commandement, impliquant également qu'il entre en vigueur immédiatement et qu'il lie les générations futures (cf. Rachi sur ce passage de Kiddushin 29a). R. Siméon a dit : L'Écriture doit particulièrement insister sur l'accomplissement des commandements dans le cas où une perte monétaire est impliquée (Sifra, Tzav, chapitre 1 1 ; Kiddushin 29a)."
+        },
+        {
+          "id": 2,
+          "fr": "‎ 'וגו‎‎ ‎זאת תורת העולה VOICI LA LOI DE L'OFFRANDE HALTÉE : [UNE TELLE OFFRE BRÛLÉE DEMEURERA SUR LE CHEMIN DE L'AUTEL TOUTE LA NUIT] — Ce paragraphe (vv. 1-2) est destiné à enseigner, en référence à la combustion des graisses et des membres des sacrifices, qu'elle est permis toute la nuit (Méguillah 21a) ; et d'enseigner concernant les sacrifices disqualifiés, lesquels d'entre eux, s'ils sont déjà élevés sur l'autel, doivent être démontés, et lesquels, s'ils sont élevés, n'ont pas besoin d'être démontés. Ce dernier cas peut se produire, car le terme תורה partout où il apparaît dans l'Écriture comme introduction à un groupe de lois (cf. Lévitique 6 : 7, 18 ; 7 : 1,11 etc.) est conçu comme un terme global (pour inclure toute la classe mentionnée) ; ici, il est destiné à nous dire : Une loi s'applique à tous les animaux qui peuvent être élevés sur l'autel, même à certains animaux disqualifiés — que s'ils ont été élevés une fois sur l'autel, ils ne doivent plus être descendus (Sifra, Tzav, chapitre 1 7 ; Zevachim 27b)."
+        },
+        {
+          "id": 3,
+          "fr": "הוא העולה — vise à exclure de la loi générale du עולה le bétail mâle et femelle avec lequel un péché sexuel a été commis et autres (c'est-à-dire que même s'ils étaient placés sur l'autel, ils doivent être démontés à nouveau), parce que leur disqualification n'a pas eu lieu dans le Lieu Saint, puisqu'ils ont été disqualifiés avant d'entrer dans le parvis (Sifra, Tzav, chapitre 1 8)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:3",
+      "fr": "Le prêtre portera des vêtements de lin, et des culottes de lin près du corps ; et il ramassera les cendres en lesquelles le feu a réduit l'holocauste sur l'autel et les placera à côté de l'autel.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מדו בד SA ROBE EN LIN — c'est ce qu'on appelle ailleurs le כתונת, le sous-poil ; et pourquoi alors est-il appelé ici מדו ? Pour laisser entendre qu'il (le כתונת) doit être fait à sa mesure (מדו de מדד à « mesurer ») (Sifra, Tzav, chapitre 2 1 ; Yoma 23b)."
+        },
+        {
+          "id": 2,
+          "fr": "על בשרו [ET DES TIROIRS À LIN IL METTRA] SUR SA CHAIR — Cela implique que rien ne doit s'interposer entre eux (cf. Sifra, Tzav, Chapitre 2 3 ; Zevachim 19a)."
+        },
+        {
+          "id": 3,
+          "fr": "והרים את הדשן ET IL REPRENDRA LES CENDRES — Il ramassa une pleine casserole de cendres de la masse de cendres consumée la plus intérieure et les déposa du côté est du כבש (le plan incliné menant à l'autel) (Sifra, Tzav, chapitre 1 4 Yoma 20a ; cf. Talmud de Jérusalem Yoma 2:1)."
+        },
+        {
+          "id": 4,
+          "fr": "העולה‎ את ‎‏ אשר תאכל האש‎הדשן ‎ [IL SORTIRA] CES CENDRES DANS LESQUELLES LE FEU A CONSOMMÉ L'OFFRANDE BRÛLÉE — et l'a ainsi transformée en cendres ; de ces cendres, il retirera un תרומה, une portion, ושמו אצל המזבח ET LE METTERA À CÔTÉ DE L'AUTEL."
+        },
+        {
+          "id": 5,
+          "fr": "[על המזבח [L'OFFRANDE] SUR L'AUTEL — Cela implique que s'il (le prêtre) trouve des membres de l'holocauste qui n'ont pas encore été consommés, il les remettra sur l'autel après avoir ratissé les charbons ici et là et les avoir retirés des cendres les plus intimes, car il est dit : העולה על המזבח את ‎ce qui implique : l'holocauste (c'est-à-dire tant qu'il peut être appelé עולה et non דשן) doit être ‎sur l'autel] (Sifra, Tzav, chapitre 1 5 ; Yoma 45b ; cf. Rachi là s. v. ‎אשר תאכל ‎ את העולה‎)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:4",
+      "fr": "Il ôtera ensuite ses vêtements et en revêtira d'autres, et portera les cendres hors du camp dans un lieu pur.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ ופשט את בגדיו ‎ ET IL DOIT RETIRER SES VÊTEMENTS — Ceci n'est pas obligatoire (cf. cependant Na'hmanide) mais c'est une question de décence afin qu'il ne souille pas, en enlevant les cendres, les vêtements dans lesquels il doit régulièrement exercer son ministère à l'autel ; dans les vêtements qu'il portait lorsqu'il faisait bouillir la marmite pour son maître (une tâche subalterne), il ne devait pas lui verser un verre de vin (une fonction honorable). C'est pour cela qu'il est dit : Et il portera d'autres vêtements — inférieurs à ceux dans lesquels il sert à l'autel (Yoma 23b ; Shabbat 114a)."
+        },
+        {
+          "id": 2,
+          "fr": "והוציא את הדשן ET IL FERA SORTIR LES CENDRES qui ont été entassées sur le tas de cendres (pas les cendres mentionnées au v. 3). Quand il s'est accumulé et qu'il n'y avait plus de place sur le tas de bois (מערכה), il l'a exécuté ; cela n'était pas obligatoire tous les jours, alors que le תרומת הדשן (le retrait du bac à cendres commandé au v. 3) était un devoir quotidien (Yoma 20a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:5",
+      "fr": "Le feu sur l'autel sera entretenu et ne s'éteindra pas. Chaque matin, le prêtre y alimentera du bois, y déposera l'holocauste et fera fumer les parties grasses des offrandes de prospérité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והאש על המזבח תוקד בו ET LE FEU SUR L'AUTEL Y BRILLERA — L'Écriture utilise ici (dans cette section) de nombreuses expressions de la racine יקד « allumer » : (Lévitique 6 : 2) « sur le feu (מוקדה) ; (Lévitique 6 :2) « et le feu sur l'autel flambera (תוקד) dessus » ; (Lévitique 6 :5) « et le feu sur l'autel flambera (תוקד) dessus » (Lévitique 6 :6) « un feu continu flambera (תוקד) sur l'autel » — tous ces passages ont été exposés dans Traité Yoma 45b où nos rabbins exposent leurs différentes opinions quant au nombre de מערכות (tas de bois — foyers) qui étaient là (sur l'autel)."
+        },
+        {
+          "id": 2,
+          "fr": "וערך עליה העלה ET IL METTRA EN ORDRE L'OFFrande brûlée dessus — L'holocauste continu du matin devait venir en premier (Menachot 49a ; cf. aussi Sifra, Tzav, chapitre 2 10 et Rachi sur Lévitique 3 : 5)."
+        },
+        {
+          "id": 3,
+          "fr": "‎‎‏ השלמים‎חלבי [ET IL FERA MONTER EN FUMÉES SUR LEUR] LA GRAISSE DES OFFRES DE PAIX — si des gens y apportent des offrandes de paix ce jour-là (il ne s'agit pas d'un ordre selon lequel les offrandes de paix doivent être placées sur l'autel après l'holocauste quotidien ; si, cependant, certaines sont sacrifiées un jour particulier, cela doit être fait à ce moment de la journée. travail). — Nos rabbins, cependant, ont dérivé d'ici la Halacha suivante, prenant le mot השלמים dans le sens de השלם « compléter », « terminer » : עליה dessus — sur l'holocauste continu du matin — compléter l'offrande de tous les sacrifices ; il s'ensuit donc que rien ne doit être offert plus tard que l'holocauste continuel apporté l'après-midi (Yoma 33a ; Pesachim 58)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:6",
+      "fr": "Un feu perpétuel sera allumé sur l'autel, pour ne pas s'éteindre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אש תמיד — Le mot redondant תמיד (parce qu'il aurait pu écrire לא תכבה המזבח ‎אש תוקד על‎ ; car cela aussi impliquerait qu'il doit brûler continuellement puisqu'il déclare qu'il ne doit jamais s'éteindre) laisse entendre : Le feu concernant l'utilisation de laquelle l'expression תמיד est utilisée, à savoir celle par laquelle les lampes du candélabre ont été allumées, en référence à laquelle il est dit (Exode 27 :20) « pour allumer continuellement les lampes (תמיד), cela aussi) doit être allumé à partir du feu sur l'autel extérieur Yoma 45b)."
+        },
+        {
+          "id": 2,
+          "fr": "‎‎תכבה‏ ‎לא‎ IL NE S'ÉTEINT JAMAIS — Celui qui éteint le feu sur l'autel transgresse deux commandements négatifs (celui-ci et celui contenu dans le v. 5)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:7",
+      "fr": "Et voici le rituel de l’offrande de céréales : les fils d’Aaron la présenteront devant DIEU, devant l’autel.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וזאת תורת המנחה ET C'EST LA LOI DE L'OFFRE DE REPAS — une loi pour toutes les offrandes de repas (cf. Rachi au v. 2) — exigeant pour elles « l'huile » et « l'encens » qui sont prescrits dans la section précédente (Lévitique 2 : 1). Cela a dû être laissé entendre d'une manière ou d'une autre ici parce que je pourrais penser que là j'ai la loi selon laquelle les offrandes de repas nécessitent de l'huile et de l'encens seulement si elles appartiennent à un Israélite ordinaire puisque c'est cela seul dont une poignée (קומץ) devait être prise, (car l'ordre de prendre le קומץ est précédé des mots ויצק עליה שמן ונתן עליה לבונה cf. Lévitique 2:1 et 2) ! D'où puis-je savoir qu'il en va de même pour l'offrande de repas des prêtres qui a été entièrement brûlée (et dont donc aucun קומץ n'a été prélevé ; cf. Rachi sur le v. 15) ? Parce que l'Écriture déclare : תורת — « c'est la loi générale de l'offrande de repas » (Sifra, Tzav, Section 2-3)."
+        },
+        {
+          "id": 2,
+          "fr": "הקרב אתה [AARON ET SES FILS L'APPORTENT] — Cela signifie rapprocher (ne pas offrir, c'est-à-dire brûler, car cela est mentionné plus tard dans le v. 8) du coin sud-ouest de l'autel."
+        },
+        {
+          "id": 3,
+          "fr": "לפני ה׳ AVANT LE SEIGNEUR ] C'est le côté ouest de l'autel qui faisait face à la direction de la « tente d'assignation » dans laquelle le Seigneur s'est révélé."
+        },
+        {
+          "id": 4,
+          "fr": "אל פני המזבח — Cela implique encore une fois le côté sud de l'autel, car c'était le ‎‎‎ אל פני המזבח, le devant de l'autel, puisque la montée qui y menait était située de ce côté (la combinaison donc des deux emplacements : 'לפני ה et אל פני המזבח décrit le coin sud-ouest de l'autel, comme indiqué ci-dessus) (Sotah 14b ; Sifra, Tzav, Section 2 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:8",
+      "fr": "On en prendra une poignée de la farine et de l'huile de choix de l'offrande, avec tout l'encens qui est sur l'offrande, et cette portion symbolique sera transformée en fumée sur l'autel, comme une odeur agréable à Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והרים ממנו‎ ET IL EN PRENDRA [DANS SA SAISIE] — De là — de lui comme une masse unie) — qu'il devrait y avoir un dixième entier d'épha en même temps dans le récipient quand il en prendra la poignée (Sifra, Tzav, Section 2 5 ; Menachot 24a)."
+        },
+        {
+          "id": 2,
+          "fr": "בקמצו AVEC SA SAISIE — Cela implique qu'il ne doit pas prendre de mesure pour le קומץ (il ne doit pas utiliser une mesure qui tient autant que son poing et en retirer la farine) (Sifra, Tzav, Section 2 5 ; Yoma 47a)."
+        },
+        {
+          "id": 3,
+          "fr": "ומשמנה‎ מסלת המנחה‎ DE LA FARINE DE L'OFFRE DE REPAS ET DE L'HUILE DE CELLE-CI — De là, nous pouvons déduire qu'il prend la « poignée » (קומץ) de cet endroit où il y a beaucoup d'huile dedans (Sotah 14b)."
+        },
+        {
+          "id": 4,
+          "fr": "המנחה L'OFFRE DE REPAS — Cela implique qu'elle ne doit pas être mélangée avec une autre offrande de repas (Sifra, Tzav, Section 2 5)."
+        },
+        {
+          "id": 5,
+          "fr": "‎‏‎‎‏ הלבנה אשר על המנחה והקטיר‎ואת כל ET TOUT L'ENCENS QUI EST SUR L'OFFRE DE REPAS IL FERA MONTER EN FUMÉES — Cela signifie qu'il enlève l'encens de l'offrande de repas après la poignée a été retiré de ce dernier et le brûle (cf. Rachi sur Lévitique 2:1). Et parce que l'Écriture n'a déclaré cela spécifiquement que dans le cas de l'une des offrandes de repas mentionnées dans ויקרא (Lévitique 2:2 ; à savoir, dans le cas de מנחת סולת, et cela pourrait donc s'appliquer à ce cas particulier uniquement), elle a été obligée de préciser ce paragraphe ici afin d'inclure dans une règle générale toutes sortes d'offrandes de repas quant à toutes les réglementations qui leur sont applicables."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:9",
+      "fr": "Ce qui en restera sera mangé par Aaron et ses fils ; on le mangera comme des gâteaux sans levain, dans l'enceinte sacrée ; ils le mangeront dans l'enceinte de la tente d'assignation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‏ ‏‏ קדוש‎במקום‏ [COMME LE PAIN SANS LEVÉ DOIT ÊTRE MANGÉ) DANS UN LIEU SAINT. — Et c'est quoi ? בחצר אהל מועד DANS L'ENCEINTE DE LA TENTE DE RÉUNION (Sifra, Tzav, Section 2 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:10",
+      "fr": "Il ne sera pas cuit avec du levain ; Je l'ai donné comme leur part de Mes offrandes par le feu ; c'est une chose très sainte, comme l'offrande de purgation et l'offrande de réparation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תאפה חמץ חלקם IL NE DOIT PAS ÊTRE CUIT COMME TOUT LEVÉ POUR LEUR PORTION — Il est également interdit de cuire les restes de l'offrande de repas qui deviennent la part des prêtres sous forme de levain (Menachot 55a)."
+        },
+        {
+          "id": 2,
+          "fr": "כחטאת וכאשם [IL EST TRÈS SAINT] COMME L'OFFrande POUR LE PÉCHÉ OU L'OFFRANDE DE CULPABILITÉ — l'offrande de repas du pécheur (v. 11) est comme l'offrande pour le péché, donc s'il (le prêtre) en retire la poignée non en tant que telle (sans avoir à l'esprit cette offrande), elle est invalide, tout comme l'offrande pour le péché dans de telles circonstances (cf. Rachi sur 5:12); une offrande de repas volontaire (c'est-à-dire l'une des autres offrandes de repas mentionnées dans ויקרא), cependant, est comme l'offrande de culpabilité, donc s'il en retire la poignée sans le faire comme tel, elle est toujours valable (Sifra, Tzav, chapitre 3 3 ; Zevachim 11a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:11",
+      "fr": "Seuls les mâles parmi les descendants d’Aaron peuvent en manger, comme leur dû pour toujours et à travers les âges, provenant des offrandes consumées par le feu de Dieu. Tout ce qui les touche deviendra saint.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל זכר TOUS LES MÂLES [PARMI LES ENFANTS D'AARON EN MANGERONT] — tous les mâles : même un avec une tache corporelle. Mais pourquoi cela est-il dit ? Si vous dites : dans le but de permettre à un tel prêtre de manger l'offrande de repas, alors c'est redondant, car voyez-vous, cela a déjà été dit (Lévitique 21 :22) « Celui (le prêtre avec un défaut) peut manger du pain de son Dieu, du très saint [et du saint] » ! Mais il est prévu d'inclure les prêtres présentant des imperfections corporelles dans le droit de répartition évoqué dans le verset précédent : Je leur ai donné cela comme leur part (c'est-à-dire qu'ils peuvent non seulement manger de la nourriture sainte si celle-ci leur est donnée par leurs confrères prêtres, mais qu'ils ont le droit de participer à la répartition) (Sifra, Tzav, chapitre 3-5 ; Zevachim 102a)."
+        },
+        {
+          "id": 2,
+          "fr": "כל אשר ‎'יגע וגו‎‎‏ TOUT CE QUI LES TOUCHE — i. e. les sacrifices de chair sainte à un degré mineur ou non consacrés (חולין) qui la touchent (l'offrande de repas) et en absorbent quoi que ce soit (Sifra, Tzav, chapitre 3 6 ; Zevachim 97b),"
+        },
+        {
+          "id": 3,
+          "fr": "יקדש DEVIENDRA SAINT de manière à être exactement comme cela (le מנחה) - que si elle (l'offrande de repas) est devenue disqualifiée (comme lorsque par exemple elle n'a pas été offerte en tant que telle, לשמה), elles (les choses saintes qui la touchent) deviendront également disqualifiées de la même manière, et si elles sont propres à être mangées, elles ne doivent être mangées que sous la même rigueur que l'offrande de repas. (c'est-à-dire qu'ils doivent être mangés dans un lieu saint (v. 9) et par des hommes uniquement ; v. 11, etc.) (Sifra, Tzav, chapitre 3 6 ; Zevachim 97b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:12",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 6:13",
+      "fr": "C'est l'offrande qu'Aaron et ses fils offriront à DIEU à l'occasion des hisahis ou « leurs ». onction: un dixième d'épha de farine de choix, en offrande régulière, moitié le matin et moitié le soir,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זה קרבן אהרון ובניו C'EST L'OFFRE D'AARON ET DE SES FILS ] Les prêtres ordinaires offrent également un dixième d'épha de farine le jour de leur installation dans le service sacerdotal ; le Grand Prêtre, cependant, en offre une chaque jour, comme il est dit, « une offrande continue, [la moitié le matin et la moitié le soir] etc. Et le prêtre parmi ses fils qui est oint à sa place (c'est-à-dire tout grand prêtre) [l'offrira] ; c'est une loi éternelle » (Sifra, Tzav, Section 3 1-4 ; Menachot 51b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:14",
+      "fr": "doit être préparé avec de l’huile sur une plaque chauffante. Vous l'apporterez bien trempé, et vous l'offrirez en offrande de céréales cuites au four. Signification de Héb. tuphine incertaine. tranches, d'une odeur agréable à DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "מרבכת signifie, échaudé avec de l'huile chaude jusqu'à saturation (cf. Sifra, Tzav, chapitre 4 6)."
+        },
+        {
+          "id": 2,
+          "fr": "תפיני signifie, cuit plusieurs fois : après l'avoir échaudé, il le fait cuire au four puis le fait frire à nouveau dans une poêle (cf. Menachot 50b)."
+        },
+        {
+          "id": 3,
+          "fr": "מנחת פתים LES MORCEAUX CASSÉS — Cela enseigne qu'il faut briser en morceaux (cf. Sifra, Tzav, Chapitre 4 6 ; Menachot 75b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:15",
+      "fr": "Et ainsi le prêtre, oint parmi ses fils pour lui succéder, le préparera ; c’est à DIEU – une loi pour tous les temps – d’être entièrement transformé en fumée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "המשיח תחתיו מבניו est le même que המשיח מבניו תחתיו LE PRÊTRE QUI EST OINT PARMI SES FILS À SA PLACE."
+        },
+        {
+          "id": 2,
+          "fr": "כליל תקטר IL MONTERA ENTIÈREMENT EN FUMÉES ] Le קמץ (la part de l'autel) n'en est pas retiré afin qu'il puisse en rester un reste pour être mangé par les prêtres, mais le tout est brûlé en entier. De même, le verset suivant souligne que toute offrande de repas volontaire d'un prêtre (c'est-à-dire une telle offrande en général) doit être entièrement brûlée (cf. Sifra, Tzav, chapitre 5-3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:16",
+      "fr": "De même, toute offrande de céréales du prêtre sera une offrande entière : elle ne sera pas mangée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כליל (lié à כל, tout) signifie que tout appartient également au Dieu Très-Haut (c'est-à-dire qu'aucune partie n'est donnée aux prêtres)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:17",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 6:18",
+      "fr": "Parlez ainsi à Aaron et à ses fils : Ceci est le rituel de l'offrande de purgation : l'offrande de purgation sera égorgée devant DIEU, à l'endroit même Cf. 1.11. là où l'on égorge l'holocauste : c'est très saint.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 6:19",
+      "fr": "Le prêtre qui l'offrira en offrande de purgation en mangera ; on le mangera dans l'enceinte sacrée, dans l'enceinte de la tente d'assignation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "המחטא אתה signifie le prêtre qui accomplit les rites qui y sont liés (c'est-à-dire ceux liés à l'aspersion du sang), il est appelé le מחטא car c'est par lui que cela devient un sacrifice pour le péché."
+        },
+        {
+          "id": 2,
+          "fr": "המחטא אתה יאכלנה LE PRÊTRE QUI L'OFFRE PEUT LE MANGER — i. e., le prêtre qui est apte à accomplir le rite (de sorte que les mots indiquent : Tout prêtre qui peut l'offrir en sacrifice pour le péché peut en manger ; ils ne font pas référence au seul prêtre qui l'a offert). Ainsi est exclu un prêtre qui est impur (et donc inapte) lorsque le sang est aspergé – et qui n’a aucune part à la chair. On ne peut pas dire que l’Écriture interdit ici d’en manger à TOUS les prêtres (c’est-à-dire même aux prêtres purs) sauf à celui qui asperge le sang, car, voyez-vous, il est déclaré plus loin (v. 22), « Tous les mâles parmi les prêtres peuvent en manger » (cf. Zevachim 99a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:20",
+      "fr": "Tout ce qui touche sa chair deviendra saint ; et si du sang est éclaboussé sur un vêtement, tu laveras la partie éclaboussée dans l'enceinte sacrée.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל אשר יגע בבשרה TOUT CE QUI TOUCHERA LA CHAIR DE CELLE-CI [DOIT DEVENIR SAINT] — tout article de nourriture qui le touchera et en absorbera quoi que ce soit (cf. Sifra, Tzav, Section 4 5 ; Zevachim 97a et Rachi au v. 11),"
+        },
+        {
+          "id": 2,
+          "fr": "יקדש DOIT ÊTRE SAINT, de manière à devenir exactement semblable à lui-même : si elle (l'offrande pour le péché) est devenue invalide, elle (la nourriture qui la touche) devient également disqualifiée, et si elle est propre à la consommation, elle ne peut être mangée que sous la même rigueur qui s'applique à elle (l'offrande pour le péché)."
+        },
+        {
+          "id": 3,
+          "fr": "ואשר יזה מדמה על הבגד signifie, et s'il y a des éclaboussures de sang sur un vêtement, tu laveras dans le parvis la tache tachée de sang sur le vêtement sur laquelle il a été éclaboussé (Sifra, Tzav, chapitre 6 3)."
+        },
+        {
+          "id": 4,
+          "fr": "אשר יזה signifie, doit être éclaboussé. C'est la même chose que le verbe dans (Job. 15 :29) « et leur substance ne se répandra pas (יטה) sur la terre » (cf. Rachi sur ce verset)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:21",
+      "fr": "Le vase de terre dans lequel il a été bouilli sera brisé ; s'il a été bouilli dans un récipient en cuivre, [le récipient] sera récuré et rincé à l'eau.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ישבר [MAIS UN VASE EN TERRE DANS LEQUEL IL EST DÉTREMPÉ] DOIT ÊTRE CASSÉ — parce que la substance qui y est absorbée devient ce qu'on appelle נותר (le terme technique pour toute partie d'un sacrifice non mangée dans le délai prescrit) (cf. Avodah Zarah 76a). C'est aussi la règle applicable à tous les sacrifices (c'est-à-dire qu'un récipient en terre dans lequel ils ont été cuits doit être brisé)."
+        },
+        {
+          "id": 2,
+          "fr": "ומרק — de la même racine et de la même signification que le nom dans (Esther 2:12) « les choses pour purifier (תמרוקי) les femmes » ; encouragement en vieux français; Anglais, récurage."
+        },
+        {
+          "id": 3,
+          "fr": "ומרק ושטף [ET S'IL EST DÉTREMPÉ DANS UN POT EN CUIVRE] IL DOIT ÊTRE À LA FOIS RÉCURVÉ ET RINCÉ [DANS L'EAU] — afin qu'il libère ce qu'il a absorbé : mais en ce qui concerne un vase en terre, l'Écriture vous enseigne qu'il ne peut jamais se débarrasser de sa souillure (lit., ne peut jamais quitter l'emprise que sa souillure a sur lui) (Avodah Zarah 34a ; Pesachim 30b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:22",
+      "fr": "Seuls les mâles de la lignée sacerdotale peuvent en manger : c'est une chose très sainte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל זכר בכהנים יאכלנה ALL MALES AMONG THE PRIESTS SHALL EAT THEREOF — Thus you learn that the statement “[the priest] that offers it for a sin-offering [shall eat it]” made above (v. 19) is not intended to exclude other priests (i. e. such as did not actually perform the rites of that sacrifice), mais seulement pour exclure de sa consommation les prêtres qui étaient alors inaptes à l'apporter en sacrifice pour le péché (cf. Rachi sur le v. 19)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 6:23",
+      "fr": "Mais on ne mangera aucune offrande de purgation dont le sang est apporté dans la tente d'assignation pour expiation dans le sanctuaire ; ceux-là seront consumés au feu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎'וכל חטאת וגו‎ ET AUCUNE OFFrande POUR LE PÉCHÉ [DONT LE SANG EST APPORTÉ DANS LA TENTE DE RENCONTRE DOIT ÊTRE MANGÉ] — Cela signifie que si le prêtre a apporté du sang d'une offrande pour le péché « externe » (dont le sang doit être aspergé sur l'autel extérieur) à l'intérieur, il devient invalide et doit être brûlé."
+        },
+        {
+          "id": 2,
+          "fr": "וכל ET TOUS — Le mot « tous » sert également à inclure dans cette loi d'autres sacrifices (Sifra, Tzav, chapitre 8 1 ; Zevachim 81b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:1",
+      "fr": "C'est le rituel de l'offrande réparatrice : elle est très sainte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קדש קדשים הוא [C'EST LA LOI DE L'OFFRANDE DE CULPABILITÉ] C'EST TRÈS SAINT — « C'est très saint » ; il peut être offert, mais un animal qui est échangé contre lui (cf. Lévitique 27 :34) ne peut pas être offert (Sifra, Tzav, Section 5 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:2",
+      "fr": "L'offrande de réparation sera égorgée à l'endroit où l'holocauste est égorgé, et le sang sera versé de tous les côtés de l'autel.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שחטו ILS ABATTENT — En utilisant le pluriel ישחטו, l'Écriture parle de « plusieurs massacreurs » en relation avec le עולה ‎‎‎‎(ישחטו את עולה)‎ » afin d'inclure également l'holocauste communautaire en vertu de la loi selon laquelle un עולה doit être abattu du côté nord de l'autel. — Puisque nous ne trouvons pas d'offrande de culpabilité dans le cas de l'ensemble de la communauté, le terme ישחטו au pluriel est utilisé ici (ישחטו את האשם) parce que l'Écriture le met en relation avec le עולה (c'est-à-dire puisque le pluriel est utilisé pour le עולה il l'équilibre par la même expression dans la phrase suivante) (cf. Sifra, Tzav, Section 5 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:3",
+      "fr": "Toute sa graisse sera offerte : la large queue ; la graisse qui recouvre les entrailles ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת ‎'כל חלבו וגו‎ [IL EN OFFRA] TOUTE LA GRAISSE, etc. — Jusqu'à présent, les portions grasses de l'offrande de culpabilité qui doivent être offertes n'ont pas encore été mentionnées comme devant être brûlées (bien que le אשם lui-même ait déjà été traité dans Lévitique 5 : 15), l'Écriture a donc été obligée de les spécifier expressément ici. Cependant, en ce qui concerne l'offrande pour le péché, elle (la combustion de leur graisse) a déjà été mentionnée dans la Sedrah ויקרא (Lévitique ch. 4), il était donc inutile de la mentionner dans 6 : 18-23."
+        },
+        {
+          "id": 2,
+          "fr": "את האליה LA GROSSE QUEUE — Parce que seul un bélier ou un agneau peut être offert en offrande de culpabilité et que la part de l'autel dans le cas d'un bélier et d'un agneau a été augmentée par la grosse queue (cf. Lévitique 3 : 9), elle est donc naturellement mentionnée ici comme devant être brûlée."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:4",
+      "fr": "les deux rognons et la graisse qui est dessus au niveau des reins ; et la protubérance du foie, qui sera enlevée avec les reins.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:5",
+      "fr": "Le prêtre les fera fumer sur l'autel, comme offrande consumée par le feu à DIEU ; c'est une offrande de réparation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשם הוא C'EST UNE OFFRE DE CULPABILITÉ — cela reste (הוא) une offrande de culpabilité jusqu'à ce que son appellation en soit retirée. Cela enseigne concernant une offrande de culpabilité dont le propriétaire est mort, ou dont le propriétaire a été expié par un autre sacrifice (par exemple si celui initialement destiné à cet effet a été perdu et retrouvé ensuite), que bien que sa valeur (c'est-à-dire l'animal acheté avec le produit de sa vente) soit destinée à devenir un holocauste pour l'autel sans emploi (lit., pour l'été de l'autel quand il n'y avait pas suffisamment de sacrifices obligatoires pour l'autel), néanmoins si on l'a abattu sans désignation spéciale) avant qu'il ne soit condamné au pâturage), il n'est pas propre à devenir un holocauste. — L'Écriture n'a pas, par ces mots, l'intention de laisser entendre concernant une offrande de culpabilité qu'elle devient invalide si elle est abattue non pas en tant que telle (mais comme un sacrifice autre qu'une offrande de culpabilité — שלא לשמו) i. e., dans le même sens qu'ils (les rabbins) ont expliqué le mot הוא qui est prononcé à propos d'un חטאת (Lévitique 4:24 ; cf. Rachi à ce sujet), car dans le cas de אשם, les mots limitatifs אשם הוא ne sont utilisés qu'après mention de la combustion des morceaux de graisse (pas comme dans le cas de חטאת, où חטאת הוא est indiqué après l'ordre d'abattage) et pourrait donc tout au plus être considéré comme limitant l'acte de הקטרה dans le sens où si cela a été fait שלא לשמה, le sacrifice est invalide ; ceci, cependant, n'est pas un fait car הקטרה n'est pas essentiel, et lui-même (le אשם), même si les morceaux de graisse n'ont pas été brûlés du tout, est néanmoins valable (Zevachim 5b ; Menachot 4a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:6",
+      "fr": "Seuls les mâles de la lignée sacerdotale peuvent en manger ; on le mangera dans l'enceinte sacrée : c'est très saint.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קדש קרשים הוא C'EST TRÈS SAINT — Dans Torath Cohanim, ces mots qui semblent être une simple répétition de ceux du v. 1, sont exposés (Sifra, Tzav, chapitre 9-10)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:7",
+      "fr": "L’offrande de réparation est comme l’offrande de purgation. La même règle s'applique aux deux : elle appartiendra au prêtre qui fait ainsi l'expiation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תורה אחת להם [COMME L'OFFRE DU PÉCHÉ EST AINSI L'OFFRE DE LA CULPABILITÉ EST :] IL Y A UNE LOI POUR EUX à cet égard (ce qui suit) :"
+        },
+        {
+          "id": 2,
+          "fr": "que הכהן אשר יכפר בו LE PRÊTRE QUI FAIT EXPIATION AVEC CELUI-CI - c'est-à-dire, qui est apte à effectuer l'expiation, y aura une part, excluant ainsi une personne impure qui s'est baignée un jour particulier mais attend le coucher du soleil pour être parfaitement pure, celle qui manque d'expiation (une personne impure qui s'est baignée mais doit attendre le lendemain pour apporter le sacrifice requis pour son rétablissement complet à la pureté), et celui qui est en état de deuil pendant la période entre la mort et l'enterrement d'un proche parent (Sifra, Tzav, chapitre 9 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:8",
+      "fr": "De même, le prêtre qui offre l'holocauste d'autrui gardera la peau de cet holocauste.acet holocauste Héb. «l'holocauste qu'il a offert».",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עור העלה אשר הקריב לכהן לו יהיה [ET LE PRÊTRE QUI OFFRE L'OFFRANDE HAUTEUR DE TOUT HOMME] MÊME LE PRÊTRE DOIT LUI-MÊME LA PEAU DE L'OFFrande Brûlée QU'IL A OFFERTE - excluant ainsi le טבול יום, le מחוסר כפורים et le אונן (cf. Rachi au v. 7) — que ceux-ci n'ont aucune part dans les peaux des holocaustes (Sifra, Tzav, chapitre 9 5 ; Zevachim 103b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:9",
+      "fr": "Toute offrande cuite au four et toute offrande cuite à la poêle ou sur une plaque chauffante appartiendront au prêtre qui l'offrira.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לכהן המקריב אתה וגו'‏‎‎‏‎‎ [ET CHAQUE OFFRE DE REPAS…] DOIT ÊTRE LE PRÊTRE QUI L'OFFRE etc. — On pourrait penser que ce sera à lui exclusivement ! L'Écriture, cependant, déclare (v. 10) לכל בני אהרן תהיה IL APPARTIENDRA À TOUS LES FILS D'AARON ; — on pourrait alors penser qu'il leur appartiendra à tous, ce qui est cependant impossible, car l'Écriture dit « [il appartiendra] au prêtre (qui l'offre » ! Comment alors concilier ces passages apparemment contradictoires ? En référant le texte à la « famille ») officiant le jour où il (le מנחה) est offert (Sifra, Tzav, chapitre 10 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:10",
+      "fr": "Mais toute autre offrande de céréales, avec de l'huile mélangée ou sèche, ira également aux fils d'Aaron.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בלולה בשמן [ET CHAQUE OFFRE DE REPAS] MÉLANGÉE D'HUILE — C'est l'offrande de repas volontaire (Lévitique 2 : 1, 4, 5, 7) ;"
+        },
+        {
+          "id": 2,
+          "fr": "וחרבה OU SEC — c'est l'offrande de repas du pécheur (Lévitique 5 :11) et la « offrande de repas de jalousie » (Nombres 5 :15) dans laquelle il n'y avait pas d'huile."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:11",
+      "fr": "C'est le rituel du sacrifice de bien-être que chacun peut offrir à DIEU :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:12",
+      "fr": "Celui qui l'offrira pour l'action de grâces offrira, avec le sacrifice d'action de grâces, des gâteaux sans levain, mélangés à l'huile, des galettes sans levain tartinées d'huile, et des gâteaux de farine de choix, mélangés à l'huile, bien imbibés.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אם על תודה יקריבנו SI IL L'OFFRE POUR UNE ACTION DE REMERCIEMENT - c'est-à-dire s'il l'apporte à cause de (על) une affaire qui nécessite des actions de grâce (תודה) : à cause d'une délivrance miraculeuse qui a été opérée pour lui, comme étant, par exemple, l'un de ceux qui ont fait un voyage en mer. ou s'il a voyagé dans le désert, ou s'il a été détenu en prison, ou s'il a été malade et maintenant guéri, tous sont tenus d'offrir des actions de grâces, puisqu'il est écrit en référence à eux, (Psaume 107 : 8, 15, 21, 31) « Qu'ils offrent des actions de grâces au Seigneur pour sa bonté et pour ses merveilles en faveur des enfants des hommes ! » (cf. Rachi sur ces vv. et sur les vv. 4, 10, 17 et 23 de ce chapitre ; voir aussi Berakhot 54b) — si c'est à cause de l'une de ces choses qu'il a fait le vœu de ces offrandes de paix, elles sont des « offrandes de paix en guise de reconnaissance » et nécessitent l'offrande de pain qui est mentionnée dans la section, et ne peuvent pas être mangées au-delà d'une période d'un jour et d'une nuit comme cela est indiqué ici (v. 15). [tandis que les autres שלמים peuvent être consommés à tout moment pendant deux jours et la nuit intermédiaire]."
+        },
+        {
+          "id": 2,
+          "fr": "והקריב על זבח התודה [S'IL L'OFFRE POUR UNE RECONNAISSANCE] ALORS IL OFFRA AVEC LE SACRIFICE DE RECONNAISSANCE quatre sortes de pain : des gâteaux, des gaufrettes et des gâteaux de farine saturés d'huile — ce sont trois sortes de pains sans levain ; il déclare en outre (v. 13), « avec des gâteaux de pain au levain [il offrira son offrande, etc.] », faisant ainsi quatre. Chaque sorte se composait de dix gâteaux ; ainsi est-il expliqué dans le Traité Menachoth 77a. Et leur mesure totale était de cinq Seahs selon la norme de Jérusalem, celles-ci étant égales à six Seahs de la norme « du désert » (c'est-à-dire en vigueur à l'époque où les Israélites étaient dans le désert) comprenant 20 dixièmes d'épha) (Menachot 76b)."
+        },
+        {
+          "id": 3,
+          "fr": "מרבכת — pain échaudé avec de l'huile, autant qu'il faut pour le saturer."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:13",
+      "fr": "Cette offrande, additionnée de gâteaux de pain au levain, sera offerte avec leur sacrifice de bien-être en action de grâce.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יקריב קרבנו על זבח [AVEC LES GÂTEAUX DE PAIN AU LEVÉ] IL OFFRA SON OFFRANT AVEC LE SACRIFICE — Le mot קרבנו est redondant (il aurait suffi de dire על חלת לחם חמץ יקריבנו), il laisse entendre que le pain n'est pas saint en tant que tel (קדוש קדושת הגוף), qu'il doit devenir invalide s'il est emporté hors du parvis, ou par le contact de טבול יום (voir v. 7) et de manière à devenir incapable de sortir de son statut sacré à celui de nourriture non sainte (ordinaire) (comme c'est le cas avec un sacrifice qui est קדוש קדושת הגוף), avant que le sacrifice ne soit abattu (Menachot 78b)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:14",
+      "fr": "Sur cette somme, on en offrira un de chaque espèce. \"offre.\" comme un cadeau à DIEU ; il ira au prêtre qui versera le sang de l'offrande de prospérité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אחד מכל קרבן [ET IL DOIT EN OFFRIR] UNE SUR CHAQUE OFFRE [POUR UNE OFFrande ÉLEVÉE AU SEIGNEUR] — un pain (morceau) de chacune de ces différentes sortes doit-il prendre en offrande élevée pour le prêtre qui accomplit le rite qui y est associé (le קרבן), et le reste peut être mangé par le propriétaire (Menachot 77b). La chair du sacrifice appartient également au propriétaire à l'exception de la poitrine et de l'épaule, tout comme l'agitation de la poitrine et de l'épaule est expressément prescrite plus tard (Lévitique 7:31 Lévitique 7:32) dans le cas des « offrandes de paix », les faisant ainsi devenir la part des prêtres (cf. Lévitique 7:31 Lévitique 7:32), et le sacrifice de reconnaissance relève du terme שלמים (Zevachim 4a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:15",
+      "fr": "Et la chair de ce sacrifice de remerciement de bien-être sera mangée le jour où elle sera offerte ; rien de tout cela ne sera mis de côté jusqu'au matin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובשר זבח תורת שלמיו ET LA CHAIR DU SACRIFICE DE L'OFFRANDE DE PAIX POUR RECONNAISSANCE [DOIT ÊTRE MANGÉ LE MÊME JOUR] — Il y a ici de nombreux mots apparemment redondants (רבויין) ; ils sont destinés à inclure dans cette loi le sacrifice d'expiation, le sacrifice de culpabilité, le bélier du Nazaréen et le חגיגה (l'offrande festive des pèlerins) apportés le 14 Nisan - qu'ils ne doivent être mangés que pendant un jour (le jour de l'abattage) et la nuit suivante, tout comme le תודה, et non pas deux jours et la nuit intermédiaire comme c'est le cas. שלמים - Sifra, Tzav, chapitre 12 1 ; Zévachim 36a)"
+        },
+        {
+          "id": 2,
+          "fr": "ביום קרבנו יאכל [ET LA CHAIR…] DOIT ÊTRE MANGÉ LE JOUR QUE SON OFFRE EST MANGÉE — et comme la période prescrite pour manger sa chair est la période pendant laquelle son pain peut être mangé (Sifra, Tzav, chapitre 12 1)."
+        },
+        {
+          "id": 3,
+          "fr": "לא יניח ממנו עד בקר IL NE LAISSERA RIEN JUSQU'AU MATIN, mais il pourra en manger toute la nuit. Mais si tel est le cas, pourquoi (les rabbins) ont-ils dit : (Zevachim 55a) « Le sacrifice de reconnaissance, etc.… ne peut être consommé que pendant la journée et la nuit suivante jusqu'à minuit » ? Par précaution pour éloigner les gens de la possibilité de pécher (cf. Berakhot 2a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:16",
+      "fr": "Toutefois, si le sacrifice est une offrande votive ou volontaire, il sera mangé le jour où le sacrifice est offert, et ce qui en reste sera mangé le lendemain.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם נדר או נדבה MAIS SI [LE SACRIFICE DE SON OFFRANT ÊTRE] UN VŒU OU UNE OFFRANT DE LIBRE ARBITRE — i. e., qu'il ne l'apporte pas en reconnaissance d'une délivrance miraculeuse (cf. Rachi v. 12), alors il « ne nécessite pas l'offrande de pain et peut être mangé pendant deux jours comme indiqué dans la section »."
+        },
+        {
+          "id": 2,
+          "fr": "וממחרת והנותר ממנו ET LE LENDEMAIN AUSSI LE RESTE — i. e. ce qui est resté le premier jour, יאכל PEUT ÊTRE MANGÉ ; — ce ו (celui de והנותר) est redondant (le texte étant équivalent à וממחרת הנותר ממנו יאכל) ; il existe de nombreux exemples similaires dans les Écritures : (Genèse 36 :24) « Et voici les fils de Zibean : Et Ajah (ואיה) et Anah » ; (Daniel 8 :13) : « donner et le sanctuaire (וקדש) et l'armée soient foulés aux pieds »."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:17",
+      "fr": "Ce qui restera alors de la chair du sacrifice sera consumé au feu le troisième jour.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:18",
+      "fr": "Si une partie de la chair de ce sacrifice de bien-être est mangée le troisième jour, elle ne sera pas acceptable ; cela ne comptera pas pour celui qui l’a offert. C'est une chose offensante, et celui qui en mange en portera la culpabilité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אם האכל יאכל וגו' ‏ ET SI QUELCONQUE [DE LA CHAIR] DOIT ÊTRE MANGÉ DU TOUT [LE TROISIÈME JOUR) — L'Écriture parle de quelqu'un qui a l'intention, en abattant le sacrifice, de le manger (la chair) le troisième jour. On pourrait penser que ce que signifie réellement le texte, c'est que si l'on en a mangé le troisième jour, il devient rétrospectivement disqualifié (c'est-à-dire qu'il est considéré comme invalide à partir du moment où il a été offert) ! L'Écriture déclare cependant : « Quant à celui qui l'offre, il n'y aura pas de מחשבה pour lui », ce qui implique qu'au moment où l'offre est offerte, elle peut devenir disqualifiée, et qu'elle ne peut pas devenir disqualifiée le troisième jour (Sifra, Tzav, Section 8 1). Et voici sa signification (celle du texte) : Au moment où il est offert, cela ne viendra à l'esprit d'aucun prêtre accomplissant un rite avec, d'en manger le troisième jour, et s'il nourrit une telle pensée, cela devient פגול, une chose abominable,"
+        },
+        {
+          "id": 2,
+          "fr": "והנפש האכלת ממנו ET L'ÂME QUI EN MANGE même pendant cette période (de trois jours), עונה תשא supportera son iniquité."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:19",
+      "fr": "La chair qui touche quelque chose d'impur ne sera pas mangée ; il sera consumé au feu. Quant aux autres viandes, seul celui qui est pur peut en manger.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והבשר ET LA CHAIR des animaux sacrés constituant les offrandes de paix (pas celle de פגול mentionnée au v. 18, car cela ne peut pas être mangé même s'il ne touche pas une chose impure), אשר יגע בכל טמא לא יאכל QUI TOUCHE TOUT IMPUR LA CHOSE NE DOIT PAS ÊTRE MANGÉE."
+        },
+        {
+          "id": 2,
+          "fr": "והבשר — Le mot והבשר la deuxième fois qu'il apparaît dans ce verset est redondant (il aurait dû dire : כל טהור יאכל בשר) mais il est destiné à inclure dans la loi mentionnée ici, la branche d'un sacrifice qui est sorti (a été sorti) en partie de l'endroit où il devait être mangé (dans le cas de שלמים, de Jérusalem, dans celui de קדשי קדשים, du parvis) — que la partie qui est restée à l'intérieur est autorisée à être mangée (cf. Sifra, Tzav, Section 9 6)."
+        },
+        {
+          "id": 3,
+          "fr": "כל טהור יאכל בשר TOUS QUI SONT PROPRES PEUVENT MANGER DE LA CHAIR — Pourquoi est-ce dit ? Pourquoi ne devrait-on pas supposer qu’une personne pure peut manger des sacrifices ? Mais, puisqu'il est dit (Deutéronome 12 :27) « et le sang de tes sacrifices sera versé sur l'autel…, mais tu pourras manger la chair », j'aurais pu penser que, comme il parle de tes sacrifices et déclare « tu peux manger », seul le propriétaire des sacrifices peut manger les offrandes de paix ! C'est pour cette raison qu'il est dit ici : « Tous ceux qui sont purs peuvent manger de la chair » (Sifra, Tzav, Section 9 7)."
+        },
+        {
+          "id": 4,
+          "fr": "[והבשר כל טהור יאכל בשר ‎ET QUANT À LA CHAIR, TOUS QUI SONT PROPRES PEUVENT MANGER DE LA CHAIR — Cela revient à dire : tout ce que je t'ai dit (certaines éditions lisent : שאסרתי לך, — « que je t'ai interdit »), n'est que dans le cas du sacrifice pour le péché et du sacrifice de culpabilité : si ceux-ci sont sortis (ont été emportés) sans les tentures du parvis, il leur est interdit (נפסלים ביוצא), comme il est dit (Lévitique 6 :19) « dans l'enceinte de la tente d'assignation »), ils en mangeront » ; mais en ce qui concerne cette chair (celle de שלמים) Je te le dis, « tous ceux qui sont purs peuvent manger de la chair » même au milieu de tout le peuple (certaines éditions lisent : בכל העיר, « dans toute la ville », ce qui est ce que « au milieu de tout le peuple » est censé signifier)]."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:20",
+      "fr": "Mais celui qui, dans un état d’impureté, mange de la chair provenant des sacrifices de bien-être de DIEU, sera retranché de sa famille.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וטמאתו עליו [MAIS L'ÂME QUI MANGE DE LA CHAIR DES SACRIFICES…] AYANT SON (ou SON) IMPURETÉ SUR ELLE (ou LUI) — L'Écriture parle ici de l'impureté de la personne (c'est-à-dire que les mots signifient : Et l'âme (la personne) qui mange la chair du שלמים tandis que son impureté est sur lui ; cela ne signifie pas : la personne qui mange la chair alors que son impureté est sur elle) (Sifra, Tzav, chapitre 14 3 ; Zevachim 43b ; cf. Rachi sur Lévitique 22 : 3). Mais une personne pure qui mange de la chair sacrificielle impure n'est pas punie de l'excision, comme c'est le cas ici, mais seulement pour avoir transgressé l'interdiction du v. 19 : « Et la chair qui touche quelque chose d'impur [ne sera pas mangée] », pour laquelle la punition est le fouet. L'interdiction se référant au cas « d'une personne impure qui mange des choses saintes » pour laquelle notre texte énonce le châtiment n'est pas expressément mentionnée dans la Torah mais les Sages l'ont dérivée au moyen d'une analogie verbale (ג\"ש) (Makkot 14b). — Trois fois le châtiment de l'excision est énoncé dans la Torah en référence aux personnes mangeant des sacrifices saints dans un état d'impureté corporelle, (ici, au v. 21 et dans le Lévitique 22 : 3), et nos rabbins les ont expliqués dans le Traité Shevouot 7a comme suit : l'une est conçue comme une déclaration générale, l'autre comme faisant référence à un cas particulier et la troisième est destinée à enseigner le קרבן עולה ויורד (le sacrifice de valeur plus ou moins grande selon les circonstances monétaires de celui qui l'offre ; Lévitique 5 :2, 3), qu'il n'est prescrit que comme un expiation pour avoir communiqué des impuretés au Temple ou de la nourriture sacrée en entrant dans le premier ou en mangeant le second dans un état d'impureté (cf. Rachi sur Lévitique 22 : 3 et la note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:21",
+      "fr": "Lorsqu'une personne touche quelque chose d'impur, que ce soit une impureté humaine, un animal impur ou toute créature impure, c'est une créature Héb. sheqeṣ, lit. \"abomination\"; plusieurs ms. et les versions anciennes lisent shereṣ « des choses grouillantes ». et mange de la chair provenant des sacrifices de bien-être de DIEU – cette personne sera retranchée de ses proches.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:22",
+      "fr": "Et DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:23",
+      "fr": "Parlez ainsi au peuple israélite : vous ne mangerez pas de graisse grasse, c'est-à-dire de graisse dure et grossière (suif) ; cf. 3.3-5. de bœuf, de mouton ou de chèvre.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:24",
+      "fr": "La graisse des animaux morts ou déchirés par les bêtes peut être utilisée à n'importe quelle fin, mais vous ne devez pas en manger.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יעשה לכל מלאכה [ET LA GRAISSE DE CHARBON ET LA GRAISSE DE CE QUI EST DÉCHIRÉ] PEUVENT ÊTRE UTILISÉES DANS TOUT TRAVAIL — L'Écriture vient et vous enseigne en ce qui concerne חלב (la graisse interdite) de la charogne qu'elle n'acquiert pas « l'impureté de la charogne » (‎‏טומאת נבלות), c'est-à-dire que même si la chair est impure (cf. Lévitique 11 :39), la graisse (חלב) n'acquiert pas cette impureté (cf. Sifra, Tzav, Section 10 5 ; Pesachim 23a, b)."
+        },
+        {
+          "id": 2,
+          "fr": "תאכלוה ‎לא ‎‏ ואכל[ET LA GRAISSE DE CHAROGUE… PEUT ÊTRE UTILISÉE DANS TOUT TRAVAIL] MAIS VOUS N'EN MANGEREZ EN AUCUN CAS — Par ces mots, il n'est pas destiné à interdire de manger le חלב d'un נבלה et טרפה parce que c'est חלב car cela a déjà été interdit dans Lévitique 3:17, mais la Torah dit en effet ici : L'interdiction de manger נבלה ou טרפה viendra et tombera sur (doit former une interdiction supplémentaire à) celle de חלב - que si quelqu'un le mange (le חלב de נבלה ou de טרפה), il devient passible de la punition pour avoir transgressé l'interdiction de נבלה également, (ou de טרפה également), et vous ne devriez pas dire : Aucune interdiction ne peut se superposer à une autre interdiction déjà existante (Zevachim 70a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:25",
+      "fr": "Si quelqu'un mange de la graisse d'animaux dont on peut faire des offrandes par le feu à Dieu, celui qui en mangera sera retranché de sa famille.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:26",
+      "fr": "Et vous ne devez consommer aucun sang, ni d'oiseau ni d'animal, dans aucune de vos colonies.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בכל מושבתיכם [ VOUS NE MANGEREZ PAS DE SANG…] DANS TOUTES VOS HABITATIONS — Puisqu'il s'agit d'un devoir personnel (חובת הגוף) et non d'un devoir dépendant du sol palestinien, il s'applique partout où les Israélites sont installés). Dans le Traité Kiddushin, premier chapitre (Kiddushin 37b), il est expliqué pourquoi il est nécessaire d'utiliser ce terme (c'est-à-dire d'ajouter ‎בכל משבתיכם)."
+        },
+        {
+          "id": 2,
+          "fr": "לעוף ולבהמה ‎Exclus [de cette interdiction] le sang des poissons et des sauterelles."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:27",
+      "fr": "Quiconque mange du sang sera retranché de sa famille.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:28",
+      "fr": "Et DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:29",
+      "fr": "Parlez ainsi au peuple israélite : L'offrande à DIEU d'un sacrifice de bien-être doit être présentée par celui qui offre ce sacrifice de bien-être à DIEU :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:30",
+      "fr": "leurs propres mains présenteront les offrandes de DIEU par le feu. Ils présenteront la graisse avec la poitrine, la poitrine pour qu'elle soit élevée en offrande d'élévation devant DIEU ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'ידיו תביאינה וגו‎ SES PROPRES MAINS DOIVENT APPORTER [LES OFFRANDES DE FEU DU SEIGNEUR] - Cela signifie que la main du propriétaire sera au-dessus et la graisse et les seins y reposeront, et la main du prêtre sera en dessous (c'est-à-dire sous la main du propriétaire) - et c'est ainsi qu'il les agite. (Ménachot 61b)."
+        },
+        {
+          "id": 2,
+          "fr": "‎'את אשי ה‎ LES OFFRANDES PAR LE FEU DU SEIGNEUR — et quelles sont ces offrandes par le feu qu'il apportera ?"
+        },
+        {
+          "id": 3,
+          "fr": "‎החזה יביאנו‎ ‎‏ את החלב על‏LA GRAISSE SUR LA POITRINE DOIT IL APPORTER — Quand il (le premier prêtre ; voir ci-dessous) la rapporte du lieu d'abattage, il place la graisse sur la poitrine, et quand il la transfère ensuite dans la main du prêtre qui doit faire l'agitation, il s'ensuit que la poitrine est sur le dessus et la graisse en dessous ; — c'est ce que déclare l'Écriture dans un autre passage, (Lévitique 10 : 15) « L'épaule soulevée et les seins agités seront apportés sur (על) les offrandes brûlées de la graisse, pour l'agiter pour une offrande agitée, etc. » (c'est-à-dire que pendant l'agitation, le חזה ושוק doit être au-dessus). Après l'avoir agité, il (ce prêtre) la transfère au prêtre qui doit la brûler sur l'autel, alors que par conséquent la poitrine est de nouveau en dessous ; — c'est ce que déclare l'Écriture (Lévitique 9 :20) « Et ils mirent la graisse sur les poitrines, et il brûla la graisse à l'autel ». Nous apprenons ainsi que trois prêtres sont nécessaires pour cela (pour le rite de la vague). Ainsi est-il expliqué dans le Traité Menachot 62a."
+        },
+        {
+          "id": 4,
+          "fr": "את החלב על החזה יביאנה LE PEIN AVEC LA GRAISSE, IL DOIT L'APPORTER — Et à quelle fin amène-t-il le sein ? Ceci est indiqué dans les mots qui suivent : « [Quant à la poitrine], להניף אותו dans le but de l'agiter » doit-il l'apporter, et non pas qu'elle doive également faire partie des offrandes brûlées. Mais parce qu'il est dit את אשי ה' את החלב על החזה \"‎les offrandes brûlées du Seigneur - la graisse avec la poitrine\", je pourrais penser que la poitrine appartient aussi aux offrandes brûlées, l'Écriture continue donc : 'את החזה להניף וגו, \"il amène le sein pour l'agiter, etc.\""
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:31",
+      "fr": "le sacrificateur fera fumer la graisse sur l'autel, et la poitrine ira à Aaron et à ses fils.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והקטיר הכהן את החלב ET LE PRÊTRE DOIT FAIRE MONTER LA GRAISSE EN FUMÉES [À L'AUTEL] et seulement après, והיה החזה לאהרן LA SEIN EST À AARON [ET SES FILS] — Cela nous enseigne que la chair des sacrifices ne peut pas être mangée tant que les portions de graisse sont sous l'autel (n'ont pas encore été placées dessus et brûlées) (Sifra, Tzav, chapitre 16 4 ; Pesachim 59b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:32",
+      "fr": "Et la cuisse droite de vos sacrifices de bien-être, vous la présenterez en offrande au prêtre ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שוק est ce membre de la jambe arrière droite qui s'étend de l'articulation du genou, dont l'os et le sang sont généralement vendus comme abats avec la tête, jusqu'à l'articulation médiane qui est ce qu'on appelle le סובך de la jambe (le סובד est le petit os entre cette articulation médiane et l'os de la cuisse ; par conséquent le שוק dont il est question en relation avec שלמים est le milieu, l’un des trois membres qui forment la patte d’un animal) (Chullin 134b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:33",
+      "fr": "Celui des fils d'Aaron qui offrira le sang et la graisse de l'offrande de prospérité recevra la cuisse droite comme portion.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎'וגו‎‎‎‎‎‎‎‏‎ השלמים ‎ ‏‏‎דם‎ ‎את ‎‎המקריב‎ [LUI PARMI LES FILS D'AARON] QUI OFFRE LE SANG DES OFFRES DE PAIX [ET LA GRAISSE AURAIT L'ÉPAULE DU CÔTÉ DROIT POUR SA PART] - « Celui qui offre le sang » signifie : celui qui est apte à en faire l'aspersion et à brûler les portions de graisse, — excluant ainsi un prêtre qui était impur au moment où le sang a été aspergé, ou les portions de graisse ont été brûlées — qui ne participe pas à la chair (Sifra, Tzav, chapitre 16 8 ; Zevachim 98b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:34",
+      "fr": "Car j'ai pris la poitrine d'offrande d'élévation et la cuisse d'offrande des Israélites, sur leurs sacrifices d'honneur, et je les ai données au prêtre Aaron et à ses fils comme ce qui leur était dû pour toujours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תנופה… .תרומה WAVE [PAIN ET] HEAVE [ÉPAULE] — Cela implique qu'il (le prêtre) les a déplacés d'avant en arrière dans une direction horizontale (תנופה) et les déplace de haut en bas (תרומה) (Sifra, Tzav, Chapitre 16 3 ; cf. Rachi sur Exode 29 :27 et note à ce sujet)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:35",
+      "fr": "Tels seront les avantages indirects. Litt. « onction », c'est-à-dire résultant de l'onction. d'Aaron et les avantages de ses fils provenant des offrandes consumées par le feu de DIEU, une fois qu'ils ont été intronisés. Lit. « mis en avant ». servir DIEU en tant que prêtres;",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:36",
+      "fr": "DIEU ordonna de leur donner, une fois qu'ils auraient été oints, comme un dû des Israélites pour toujours et à travers les âges.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 7:37",
+      "fr": "Tels sont les rites de l'holocauste, de l'offrande de céréales, de l'offrande de purgation, de l'offrande de réparation, de l'offrande d'ordination et du sacrifice de prospérité,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולמלואים ET POUR L'OFFRANDE DE CONSÉCRATION qui était offerte le jour de leur installation dans l'office sacerdotal (cf. Exode 28:41)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 7:38",
+      "fr": "ce dont Dieu chargea Moïse sur le mont Sinaï, lorsqu'il ordonna aux Israélites de présenter leurs offrandes à Dieu, dans le désert du Sinaï.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:1",
+      "fr": "DIEU parla à Moïse, disant :",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:2",
+      "fr": "Prends Aaron avec ses fils, et les vêtements, l'huile d'onction, le taureau de purgation, les deux béliers et la corbeille de pains sans levain ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "קח את אהרן TAKE AARON — Cette section a été prononcée sept jours avant l'érection définitive du Tabernacle et aurait donc dû être placée avant Exode XL., mais une transposition de ce genre est tout à fait habituelle dans la Bible, car il n'y a ni « plus tôt » ni « plus tard » (pas d'ordre chronologique) dans la Torah."
+        },
+        {
+          "id": 2,
+          "fr": "קח את אהרן signifie le gagner avec de belles paroles et l'attirer (cf. Rachi sur Exode 14:6) (Sifra, Tzav, Mechilta d'Miluim 1 2))."
+        },
+        {
+          "id": 3,
+          "fr": "ואת פר החטאת וגו'‏‎‎‎‎‎ ET LE Bœuf pour l'offrande pour le péché [ET LES DEUX RAMS] etc. — Ce sont les sacrifices mentionnés dans la section contenant le commandement concernant la cérémonie d'installation — dans la lecture biblique commençant par les mots, ואתה תצוה (voir Exode 29) et maintenant, le premier jour de la cérémonie d'installation, Il l'a de nouveau réprimandé (Moïse) à ce sujet lorsque le moment d'exécuter le commandement est arrivé."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:3",
+      "fr": "et rassemblez la communauté entière, ou les dirigeants ou leurs représentants, au nom de la communauté. à l'entrée de la Tente d'assignation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הקהל אל פתח אהל מועד ET Rassemblez-vous [toute la congrégation), à l'entrée de la tente de réunion — C'est l'un des cas où le plus petit comprenait le plus grand (la petite zone abritait toute la congrégation) (Lévitique Rabbah 10 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:4",
+      "fr": "Moïse a fait ce que DIEU lui avait ordonné. Et lorsque la communauté fut rassemblée à l’entrée de la Tente d’assignation,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:5",
+      "fr": "Moïse dit à la communauté : « C'est ce que DIEU a ordonné de faire. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "זה הדבר C'EST LA CHOSE [QUE LE SEIGNEUR M'A COMMANDÉ DE FAIRE] — Les choses que vous me verrez faire en votre présence, le Saint, béni soit-Il, m'a ordonné de les faire, et ne pensez pas que je les fais pour ma propre gloire et pour la gloire de mon frère. — L'ensemble de cette question traitée dans le présent chapitre, j'ai déjà expliqué dans la lecture biblique en commençant par les mots, ‎‏ ואתה תצוה ‏‎(Exode ch. XXIX.)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:6",
+      "fr": "Alors Moïse fit avancer Aaron et ses fils et les lava avec de l'eau.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:7",
+      "fr": "Il lui mit la tunique, le ceint de la ceinture, le vêtit de la robe, et lui mit l'éphod, le ceignant du lien décoré avec lequel il le lui attacha.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:8",
+      "fr": "Il lui mit le pectoral, et mit dans le pectoral l'Urim et le Thummim.bUrim et Thummim Voir note dans Exode. 28h30.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את האורים THE URIM — une inscription portant le nom propre du Seigneur (cf. Rachi sur Exode XXV 3:30)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:9",
+      "fr": "Et il mit la coiffure sur sa tête ; et sur la coiffure, devant, il mit le bandeau d'or, le saint diadème, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישם על המצנפת SUR LA MITRE… A-T-IL MIS [LA PLAQUE D'OR] — Des fils de bleu violet qui étaient : attachés sur la plaque qu'il a mise sur la mitre, par conséquent la plaque suspendue au milieu de la mitre serait « contre son visage » (sur son front) comme indiqué ici (cf. Rachi sur Exode 28 :37)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:10",
+      "fr": "Moïse prit l'huile d'onction et oint le Tabernacle et tout ce qu'il contenait, les consacrant ainsi.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:11",
+      "fr": "Il en aspergea sept fois l'autel, en oignant l'autel, tous ses ustensiles et la cuve avec son support, pour les consacrer.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויז ממנו על המזבח ET IL EN A SPROSÉ SUR L'AUTEL — Je ne sais pas où il a reçu un ordre concernant ces aspersion (cf., cependant Nachmanide)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:12",
+      "fr": "Il versa un peu d’huile d’onction sur la tête d’Aaron et l’oignit pour le consacrer.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וימשח … ‎‏ ויצק‎ ET IL A VERSÉ [L'HUILE D'ONCTION SUR LA TÊTE D'AARON] ET L'OINT |LUI| — D'abord, il versa de l'huile sur sa tête, puis il en mit une goutte entre ses sourcils, et il tira l'huile avec son doigt d'un endroit à l'autre (ce fait de tirer l'huile d'un endroit à l'autre était l'onction dont il est question ici) (Keritot 5b ; Horayot 12a ; cf. aussi Rachi sur Exode 29 :7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:13",
+      "fr": "Moïse fit alors avancer les fils d'Aaron, les vêtit de tuniques, les ceignit d'écharpes et leur attacha des turbans, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויחבש — Il s'agit d'un terme signifiant contraignant."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:14",
+      "fr": "Il fit avancer le taureau d'offrande de purgation. Aaron et ses fils posèrent les mains sur la tête du taureau de purgation,",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:15",
+      "fr": "et il a été abattu. Moïse prit le sang et en mit avec son doigt sur chacune des cornes de l'autel, nettoyant ainsi l'autel ; puis il versa le sang au pied de l'autel. Il la consacra donc pour y faire l'expiation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויחטא את המזבח ET IL A PURIFIÉ L'AUTEL — Il l'a nettoyé et purifié de tout ce qui aurait pu lui arriver « étrange » (étranger au but sacré pour lequel l'autel était destiné), afin qu'il puisse entrer dans un état de sainteté (cf. Rachi sur Exode 19 :36)."
+        },
+        {
+          "id": 2,
+          "fr": "ויקדשהו ET IL L'A SANCTIFIÉ par ce rite."
+        },
+        {
+          "id": 3,
+          "fr": "לכפר עליו QUE ON POURRAIT FAIRE EXPIATION SUR ELLE à partir de ce moment-là avec tous les sacrifices d'expiation (c'est-à-dire que tous les sacrifices d'expiation pourraient désormais être offerts sur elle ; le sens n'est pas qu'il l'a sanctifié afin qu'il puisse maintenant offrir une offrande d'expiation pour ou sur elle)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:16",
+      "fr": "Moïse prit alors toute la graisse qui entourait les entrailles, et la protubérance du foie, et les deux rognons et leur graisse, et les fit fumer sur l'autel.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הכבד [ET LE LOBE DE] LE FOIE — i. e. il l'a pris (le lobe) en plus d'un peu de foie — cela veut dire qu'il a pris un peu de foie avec (le lobe)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:17",
+      "fr": "Le reste du taureau, sa peau, sa chair et ses excréments, il les mit au feu hors du camp, comme Dieu l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:18",
+      "fr": "Puis il présenta le bélier de l'holocauste. Aaron et ses fils posèrent les mains sur la tête du bélier.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:19",
+      "fr": "et il a été abattu. Moïse répandit le sang sur tous les côtés de l'autel.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:20",
+      "fr": "Le bélier fut coupé en tronçons et Moïse fit fumer la tête, les tronçons et le suif sur l'autel ;",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:21",
+      "fr": "Moïse lava les entrailles et les jambes avec de l'eau et transforma tout le bélier en fumée. C'était un holocauste d'odeur agréable, un sacrifice par le feu à DIEU, comme DIEU l'avait ordonné à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:22",
+      "fr": "Il présenta le deuxième bélier, le bélier d'ordination. Aaron et ses fils posèrent les mains sur la tête du bélier.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "איל המלאים — Cela signifie la même chose que איל השלמים, car le mot מלואים est synonyme du mot שלמים ; ce terme est utilisé pour décrire le bélier car grâce à lui ils placent le prêtre pleinement (ממלאין) et complètement (משלימין) dans leur office sacerdotal (cf. Sifra, Tzav, Mechilta d'Miluim 1 20)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:23",
+      "fr": "et il a été abattu. Moïse prit un peu de son sang et le mit sur la crête ou « lobe ». de l’oreille droite d’Aaron, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:24",
+      "fr": "Moïse fit alors avancer les fils d'Aaron, et mit du sang sur le bord de leurs oreilles droites, sur les pouces de leur main droite et sur le gros orteil de leur pied droit ; et Moïse jeta le reste du sang sur tous les côtés de l'autel.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:25",
+      "fr": "Il prit la graisse, la large queue, toute la graisse des entrailles, la protubérance du foie, les deux rognons et leur graisse, et la cuisse droite.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:26",
+      "fr": "De la corbeille de pains sans levain qui était devant Dieu, il prit une galette de pain sans levain, une galette de pain à l'huile et une galette, et il les plaça sur les parties grasses et sur la cuisse droite.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וחלת לחם שמן ET UN GÂTEAU DE PAIN HUILÉ — C'était un gâteau échaudé, et on l'appelle « pain huilé » parce qu'il a utilisé une grande quantité d'huile pour cela, égale à celle qu'il a utilisée pour les gâteaux et les gaufrettes ensemble. C'est ce qui est expliqué dans le Traité Menachot 78a (également Menachot 89a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:27",
+      "fr": "Il déposa tout cela sur les paumes d'Aaron et sur les paumes de ses fils, et les éleva en offrande d'élévation devant DIEU.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:28",
+      "fr": "Alors Moïse les prit de leurs mains et les fit fumer sur l'autel avec l'holocauste. C'était une offrande d'ordination pour une odeur agréable ; c'était une offrande par le feu à DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויקטר המזבחה [ET MOÏSE LES A PRIS DE LEURS MAINS] ET LES A FAIT MONTER EN FUMÉES À L'AUTEL — Moïse (bien qu'il ne soit pas prêtre) officiait pendant les sept jours d'installation [dans un vêtement blanc] (Avodah Zarah 34a)."
+        },
+        {
+          "id": 2,
+          "fr": "על העלה [ET MOÏSE… LES FAIT MONTER DANS DES FUMÉES] על העלה — après l'holocauste (על est pris dans le sens d'en plus, en plus de l'holocauste. C'est pourquoi il l'a brûlé après l'holocauste). Nous ne trouvons dans aucun passage que l'épaule des offrandes de paix ait été brûlée, sauf dans ce seul cas (cf. Rachi sur Exode 29 :22)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:29",
+      "fr": "Moïse prit le sein et l'éleva comme offrande d'élévation devant DIEU ; c’était la part du bélier d’ordination qui revenait à Moïse – comme DIEU l’avait commandé à Moïse.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:30",
+      "fr": "Et Moïse prit de l'huile d'onction et du sang qui était sur l'autel et en aspergea Aaron et ses vêtements, ainsi que ses fils et ses vêtements. Il consacra ainsi Aaron et ses vêtements, ainsi que ses fils et leurs vêtements.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:31",
+      "fr": "Moïse dit à Aaron et à ses fils : Faites bouillir la chair à l'entrée de la Tente d'assignation et mangez-la là avec le pain qui est dans le panier d'ordination — comme je l'ai ordonné :d J'ai ordonné Ou, en vocalisant ṣuwwethi : « J'ai reçu l'ordre » ; cf. ci-dessous, v. 35 et 10.13. Aaron et ses fils en mangeront ;",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:32",
+      "fr": "et ce qui restera de la chair et du pain, vous le consommerez au feu.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:33",
+      "fr": "Vous ne sortirez pas de l'entrée de la Tente d'assignation pendant sept jours, jusqu'au jour où votre période d'ordination sera terminée. Il faudra sept jours pour votre ordination.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 8:34",
+      "fr": "Tout ce qui est fait aujourd'hui, DIEU a ordonné qu'il soit fait [sept jours], pour vous faire l'expiation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "צוה ה' לעשת [COMME IL L'A FAIT CE JOUR, ALORS] LE SEIGNEUR A COMMANDÉ DE FAIRE tous les sept jours). Mais nos rabbins ont expliqué comme suit : לעשת, « ainsi le Seigneur a ordonné de faire » — cela fait référence à la « génisse rousse » (Nombres ch. XIX.) ; et לכפר, « effectuer une cérémonie de purification » — cela fait référence à Yom-Kippour. Et ainsi ces paroles, disent-ils, visent à laisser entendre que le Grand Prêtre doit se séparer de sa famille pendant sept jours avant Yom-Kippour, et de même le prêtre qui brûle la génisse rousse (Sifra, Tzav, Mechilta d'Miluim 1 37 ; Yoma 2a ; Yoma 3b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:35",
+      "fr": "Vous resterez à l’entrée de la Tente d’assignation jour et nuit pendant sept jours, obéissant à l’ordre de Dieu : afin que vous ne mourriez pas, car ainsi m’a été commandé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא תמותו [C'est pourquoi vous demeurerez à l'entrée de la tente désignée jour et nuit. SEPT JOURS]… QUE VOUS NE MOUREZ PAS — Par conséquent, si vous ne le faites pas, vous devenez passible de la peine de mort."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 8:36",
+      "fr": "Et Aaron et ses fils firent tout ce que Dieu avait commandé par l'intermédiaire de Moïse.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויעש אהרן ובניו AINSI AARON ET SES FILS FONT [Toutes les choses] — Ceci est déclaré pour dire leur louange — qu'ils ne se tournèrent ni à droite ni à gauche (cf. Sifra, Tzav, Mechilta d'Miluim 1 38)."
+        }
+      ]
+    }
+  ]
+}

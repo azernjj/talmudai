@@ -1,0 +1,784 @@
+{
+  "name": "Behar",
+  "range": "Leviticus 25:1-26:2",
+  "verses": [
+    {
+      "ref": "Leviticus 25:1",
+      "fr": "DIEU parla à Moïse sur le Mont Sinaï :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בהר סיני [ET LE SEIGNEUR PARLA À MOÏSE] SUR LE MONT SINAI — Qu'est-ce que la question de l'année sabbatique a à voir avec le mont Sinaï pour que l'Écriture se sente obligée d'indiquer expressément où elle était commandée ? Tous les commandements n’ont-ils pas été donnés au Sinaï ? Mais cette déclaration vise à suggérer la comparaison suivante : Qu’en est-il dans le cas de la loi de Shemittah ? Ses règles générales, [ses prescriptions spécifiques] et ses moindres détails ont été ordonnés sur le Mont Sinaï ! De même, tous les commandements, avec leurs règles générales et leurs moindres détails, furent ordonnés sur le mont Sinaï. Ainsi est enseigné dans Torath Cohanim (Sifra, Behar, Section 1 1). Il me semble que voici l'explication de ceci : puisque nous ne trouvons pas dans le Deutéronome que la loi concernant « le reste du sol pendant l'année sabbatique » a été répétée dans « les champs de Moab » (cf. Deutéronome 34 : 1 ; l'endroit où Moïse a répété plusieurs des commandements contenus dans les autres livres du Pentateuque), nous pouvons en déduire que toutes ses règles générales et prescriptions spécifiques doivent avoir été promulguées sur le Sinaï. La mention expresse de בהר סיני ici semble donc inutile, mais l'Écriture, en la mentionnant, a l'intention d'enseigner concernant chaque commandement divin (lit., déclaration divine) qui a été prononcée à Moïse que dans tous les cas, leurs règles générales et leurs détails minutieux provenaient du Sinaï et qu'ils n'étaient répétés que dans « les champs de Moab »."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:2",
+      "fr": "Parlez au peuple israélite et dites-leur : Quand vous vous adressez au chef de famille (stéréotype) et à sa famille. entrez dans le pays que je vous assigne, le pays observera un sabbat de DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שבת לה׳ [ALORS LA TERRE GARDERA) UN REPOS ‎'לה‎ — Cela signifie un repos en l'honneur du Seigneur (pas un repos pour le Seigneur, comme au v. 4 : שבת שבתון יהיה לארץ, « il y aura un strict sabbat pour la terre », c'est-à-dire pour le terre pour se reposer) dans le même sens que ces mots sont utilisés dans le cas du sabbat hebdomadaire (lit., le sabbat de la création) (Exode 20 :10) où 'שבת לה‎ ne peut pas signifier « un jour pour que Dieu se repose » (Sifra, Behar, chapitre 1-2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:3",
+      "fr": "Pendant six ans, vous ensemencerez votre champ, et pendant six ans vous taillerez votre vigne et en récolterez le fruit.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 25:4",
+      "fr": "Mais la septième année, le pays aura un sabbat de repos complet, un sabbat de DIEU : tu ne sèmeras pas ton champ ni ne tailleras ta vigne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יהיה לארץ [UN SABBAT DE REPOS STRICT] SERA À LA TERRE [ou AU SOL] — aux champs et aux vignes."
+        },
+        {
+          "id": 2,
+          "fr": "לא תזמר — Le mot est un verbe dénominatif de זמורה, une branche, et désigne : faire quelque chose aux branches : il est utilisé ici parce qu'on coupe ses branches (celles de la vigne). Sa traduction dans le Targum est ainsi : לא תכסח, « tu ne retrancheras pas », et cette racine a une signification similaire en hébreu (Ésaïe 33 :12) « comme des épines coupées (כסוחים) » ; (Psaumes 80 :17) « il est brûlé au feu, il est coupé (כסוחה)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:5",
+      "fr": "Vous ne récolterez pas les restes de votre récolte et vous ne récolterez pas les raisins de vos vignes non taillées ; ce sera une année de repos complet pour le pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את ספיח קצירך CE QUI CROÎT DE SON PROPRE ACCORD DE TA RÉCOLTE — i. e. même si vous ne l'avez pas semé mais qu'il a poussé à partir de la graine qui y est tombée (dans le sol) au moment de la dernière récolte — et c'est ce que désigne le terme ספיח."
+        },
+        {
+          "id": 2,
+          "fr": "לא תקצור TU NE RÉCOLTEREZ PAS [IL] — pour le prendre comme votre propriété exclusive comme vous le faites avec d'autres récoltes (avec la récolte d'une autre année) mais il sera gratuit (הפקר) pour tous et alors vous pourrez également en récolter."
+        },
+        {
+          "id": 3,
+          "fr": "נזירך [ET LES RAISINS DE TA VIGNE] QUI SONT נזירים — i. e. ceux dont vous avez interdit les gens (שהנזרת) et dont vous les avez éloignés, sans les avoir déclarés libres à tout le monde."
+        },
+        {
+          "id": 4,
+          "fr": "לא תבצר TU NE RASSEMBLERAS PAS — tu ne dois pas les rassembler, mais tu peux rassembler ce qui a été déclaré gratuit pour tout le monde (Sifra, Behar, chapitre 1 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:6",
+      "fr": "Mais vous pouvez manger tout ce que produit la terre pendant son sabbat, vous, vos esclaves et vos esclaves, les ouvriers salariés et esclaves qui habitez avec vous,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'והיתה שבת הארץ וגו‎‎‎‎ ET LE SABBAT DE LA TERRE SERA [NOURRITURE POUR VOUS] — Bien que je vous les ai interdits (les fruits de l'année sabbatique) en déclarant « tu ne récolteras pas, etc. ne vous comportez pas à leur égard comme le propriétaire exclusif, mais tous doivent être égaux à son égard (le produit de l'année sabbatique) — vous et votre domestique et votre voyageur."
+        },
+        {
+          "id": 2,
+          "fr": "שבת הארץ לכם לאכלה LE שבת DE LA TERRE [SERA] POUR VOUS NOURRITURE — Puisque l'Écriture ne dit pas והיתה תבואת הארץ לכם לאכלה‏ mais‎‎ והיתה שבת הארץ לכם לאכלה cela laisse entendre : Seul ce qui a été traité selon la loi sabbatique (שבות) et déclaré gratuit pour tous pouvez-vous manger, mais pas ce qui a été gardé par vous (Sifra, Behar, chapitre 1-5)."
+        },
+        {
+          "id": 3,
+          "fr": "לך ולעבדך ולאמתך [ET LE SABBAT DE LA TERRE SERA DE LA NOURRITURE POUR VOUS] ; POUR TOI, POUR TON SERVITEUR ET POUR TA SERVIETTE — Parce qu'il est dit (Exode 23 : 11) « [mais la septième année tu le laisseras reposer et reposer] ; afin que les nécessiteux de ton peuple puissent manger », on pourrait penser qu'ils (les fruits de l'année sabbatique) sont interdits comme nourriture pour les riches (et donc aussi pour le propriétaire du champ et sa maison), l'Écriture dit donc ici : « [ce sera pour la nourriture de toi,] pour ton serviteur et pour ta servante » — ainsi tu as ici la mention des propriétaires (les riches) ainsi que des serviteurs et des servantes — les pauvres (Sifra, Behar, chapitre 1 6)."
+        },
+        {
+          "id": 4,
+          "fr": "ולשכירך ולתושבך ET POUR TON SERVITEUR ENGAGÉ, ET POUR TON SÉJOUR — Même les non-Juifs (Sifra, Behar, Chapitre 1 7)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:7",
+      "fr": "et ton bétail et les bêtes de ton pays mangeront tout son produit.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולבהמתך ולחיה ET POUR TA BÊTE ET POUR TON BÉTAIL [… TOUTE L'AUGMENTATION DE CELUI-CI EST DE LA NOURRITURE] — Si la bête sauvage peut en manger, à plus forte raison est-ce le cas pour le bétail à fournir, ce qui est votre devoir en nourriture ! Que veut donc dire l’Écriture en disant spécifiquement « et pour ton bétail » ? Mais en le mentionnant, il entend mettre sur un pied d'égalité (et suggérer un traitement égal) le bétail avec la bête sauvage : tant que la bête sauvage a la possibilité de manger des produits des champs, nourrissez votre bétail avec ce qui est stocké dans la maison ; Mais dès que la nourriture des champs a disparu pour la bête sauvage, fais-la disparaître de ta maison pour ton bétail. e. débarrasse-le de ta maison dans le champ et mets-le ainsi à la disposition de tous les animaux] (Sifra, Behar, chapitre 1 8 ; Taanit 6b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:8",
+      "fr": "Vous compterez sept semaines d'années, sept fois sept années, de sorte que la période de sept semaines d'années vous donne un total de quarante-neuf ans.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שבתות שנים [ET TU NOMBRERAS] SEPT SABBATS D'ANNÉES [À TOI] — sept périodes d'années Shemittah (cf. Onkelos). On pourrait penser que l'on peut garder sept années successives comme « Shemittah » et garder l'année qui les suit immédiatement comme « Jubilé », l'Écriture dit donc « sept années, sept fois », par conséquent vous êtes obligé de dire que chacune de ces sept années de libération doit être observée en son temps propre (c'est-à-dire à la fin de six années de travail) (Sifra, Behar, Section 1 1)."
+        },
+        {
+          "id": 2,
+          "fr": "'והיו לך ימי שבע וגו‎‎ ET LA PÉRIODE DE SEPT [SABBATS D'ANNÉES] EST À TOI [QUARANTE ET NEUF ANS] — Cette mention de la somme totale vous dit que même si vous n'avez pas observé les années de « Shemittah », gardez le « Jubilé » à la fin de quarante-neuf ans. (Sifra, Behar, Section 1 2). (La traduction selon cette explication midrashique est donc : Lorsque sept sabbats d'années (c'est-à-dire les sept périodes de sept ans) seront pour toi quarante-neuf ans, tu feras sonner le cor, etc. — peu importe si tu as observé ou non le שמיטות intermédiaire.) Le sens clair du verset, cependant, est : La somme totale des périodes dont chacune se termine par une « Shemittah » (ou la somme totale de ces périodes de Shemittah) te donnera quarante-neuf ans."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:9",
+      "fr": "Alors vous sonnerez du cor fort ; le septième mois, le dixième jour du mois, le jour des expiations, tu feras sonner le cor dans tout ton pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והעברת a le même sens que le verbe dans (Exode 36:6) « et ils firent que cela soit proclamé (ויעבירו קול) dans le camp » — c'est un terme pour proclamation (c'est-à-dire והעברת n'a pas le sens littéral de faire passer un cornet, c'est-à-dire de transportez-le dans le pays comme symbole de liberté) (Rosh Hashanah 34a)."
+        },
+        {
+          "id": 2,
+          "fr": "ביום הכפורים [LE DIXIÈME JOUR DU SEPTIÈME MOIS] LE JOUR DE L'EXPIATION [FAIRE SONNER LE CORNET] — Puisque l'Écriture dit « le jour de l'expiation », ne sais-je pas que c'est « le dixième jour du septième mois » ? Pourquoi, alors, l’Écriture ajoute-t-elle « le dixième jour du mois » ? Mais il ajoute ces mots pour vous dire : le son du שופר le dixième jour du mois annule le sabbat (remplace la loi du sabbat) dans tout votre pays (בכל ארצכם) ; tandis que le son du Shofar le jour de la nouvelle année, le premier jour de ce mois, ne remplace pas la loi du sabbat « dans tout votre pays », mais seulement au tribunal (בי\"ד) seul (Sifra, Behar, section 1 5 ; Roch Hachana 29b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:10",
+      "fr": "et tu sanctifieras la cinquantième année. Vous proclamerez releasebrelease Trad. \"liberté.\" dans tout le pays pour tous ses habitants. Ce sera un jubilé, Héb. yobel, « bélier » ou « corne de bélier ». pour vous : chacun de vous retournera dans sa propriété et chacun de vous retournera dans sa famille.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וקדשתם ET VOUS SANCTIFIEREZ [LA CINQUIÈME ANNÉE] — quand elle commence, ils la déclarent sainte dans le tribunal en disant : « L'année est sainte ! (Sifra, Behar, chapitre 2 1 ; Roch Hachana 8b et Roch Hachana 24a)."
+        },
+        {
+          "id": 2,
+          "fr": "וקראתם דרור ET VOUS PROCLAMEREZ LA LIBERTÉ aux esclaves, à la fois à celui dont l'oreille a été percée (et dont la période de servitude a ainsi été prolongée jusqu'au Jubilé; cf. Exode 21:6) et à celui dont les six années de servitude (la période prescrite pour un serviteur hébreu ordinaire; Exode 21:6 Exode 21:2), en comptant depuis le moment où il a été vendu, ne sont pas encore terminés. R. Jehuda a dit : \"Quelle est l'étymologie du terme דרור, liberté ? Un homme libre est comme une personne qui peut habiter (דור) dans une auberge - ce qui signifie qu'il peut résider dans n'importe quel endroit qu'il veut et n'est pas sous le contrôle des autres. (דרור implique donc la liberté de résidence) (Rosh Hashanah 9b)."
+        },
+        {
+          "id": 3,
+          "fr": "יובל הוא CE SERA UN JUBILÉ [À VOUS] ] Cette année se distinguera de toutes les autres années par le fait qu'elle seule recevra un nom spécial pour elle-même. Et quel est son nom ? « Jobel » est son nom — en référence au « son du Shofar » (la corne de bélier appelée יובל ; cf. Exode 19 :13)."
+        },
+        {
+          "id": 4,
+          "fr": "ושבתם איש אל אחזתו ET VOUS RETOURNEREZ CHAQUE HOMME À SA POSSESSION ] Cela signifie que les champs reviennent à leurs propriétaires. (Non pas que chaque homme retourne réellement sur sa terre – tout comme il est dit que l’esclave retourne effectivement dans sa famille)."
+        },
+        {
+          "id": 5,
+          "fr": "ואיש אל משפחתו תשבו ET VOUS RETOURNEREZ CHAQUE HOMME À SA FAMILLE — Ce verset est destiné à inclure dans la loi de libération des esclaves également l'esclave dont l'oreille a été percée (cf. Sifra, Behar, chapitre 2 5 ; Kiddushin 15a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:11",
+      "fr": "Cette cinquantième année sera pour vous un jubilé : vous ne semerez pas, vous ne récolterez pas les fruits, vous ne récolterez pas les vignes non taillées,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יובל הוא שנת החמשים שנה C'EST UN JUBILÉ ; LA CINQUANTIÈME ANNÉE [SERA POUR VOUS UNE PÉRIODE, etc.] — Pourquoi cette déclaration est-elle faite ? N'est-il pas identique à celui fait au v. 10 ? Mais parce qu’il est dit (v. 10) « et vous sanctifierez [la cinquantième année] », ce qui implique que l’année doit être sanctifiée au début bien que la loi de la libération des esclaves ne s’applique qu’à partir de Yom Kippour, et par conséquent on pourrait penser que le caractère sacré de l’année doit être prolongé jusqu’au dixième de Tishri de l’année suivante. L’Écriture déclare donc ici « un Jubilé est la cinquantième année » – mais pas une partie de la cinquante et unième – tout comme cela est expliqué dans Roch Hachana 8b et dans Torat Cohanim (Sifra, Behar, Chapitre 3 1)."
+        },
+        {
+          "id": 2,
+          "fr": "את נזריה [Vous ne récolterez pas les raisins] qui sont נזירים — i. e. les raisins que vous avez conservés (cf. Rachi au v. 6 : לכם לאכלה‎ שבת הארץ), mais vous pouvez récolter ceux qui ont été déclarés gratuits pour tous (cf. Rachi au v. 5 : ‎‎לא תבצר). Tout comme cela est dit en référence à l'année sabbatique, cela est également dit en ce qui concerne le Jubilé (Sifra, Behar, chapitre 3-2). Il y a donc deux années saintes successives : la quarante-neuvième année שמיטה, et la cinquantième, יובל‎‎."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:12",
+      "fr": "car c'est un jubilé. Ce sera une chose sainte pour vous : vous ne pourrez manger que les pousses provenant directement du champ.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ קדש תהיה לכם CE SERA SAINT POUR VOUS — Le caractère sacré du produit de cette année-là s'attache à son équivalent (c'est-à-dire aux articles donnés en échange), tout comme c'est le cas de la propriété du Temple (הקדש). On pourrait penser qu’après avoir été échangé il (le fruit) quitte (perd) son caractère sacré et devient חולין (produit ordinaire), comme c’est le cas de nombreux objets « saints » lorsqu’ils ont ainsi été échangés ! L'Écriture, cependant, déclare תהיה « [saint] sera-t-il », il sera toujours dans son statut originel (saint) (Sifra, Behar, chapitre 3 3 ; cf. Soucca 40b)."
+        },
+        {
+          "id": 2,
+          "fr": "מן השדה תאכלו את תבואתה VOUS MANGEREZ L'AUGMENTATION DE CELUI-CI מן השדה — ce n'est qu'en vertu de ce qui se trouve dans le champ que tu peux manger de ce qui est stocké dans la maison ; car s'il (un fruit particulier) a disparu pour servir de nourriture aux bêtes sauvages des champs, vous devez le retirer de la maison. Tout comme cela est indiqué en référence aux produits de l'année sabbatique, cela l'est également en référence à ceux du Jubilé (Sifra, Behar, chapitre 3-4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:13",
+      "fr": "En cette année de jubilé, chacun de vous retournera dans sa propriété.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תשבו איש אל אחזתו VOUS RENDREZ CHAQUE HOMME À SA POSSESSION — Mais n'a-t-il pas déjà été dit : (v. 10) « et vous ramènerez chacun à sa possession » ? Mais cela est répété afin d'inclure également dans cette loi le cas de celui qui a vendu son champ et que son fils s'est présenté et l'a racheté, — qu'il doit également être restitué au père lors du Jubilé (Sifra, Behar, chapitre 3-6)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:14",
+      "fr": "Lorsque vous vendez une propriété à votre voisin, c'est-à-dire à votre compatriote israélite ; voir v. 46. Si vous en achetez à votre prochain, vous ne vous ferez pas de tort les uns aux autres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎'וכי תמכרו וגו‎‎‎‎ ET SI TU VENDS [DEVRAIS TON AMI… VOUS NE DEVEZ PAS VOUS ATTEINDRE L'UN AUTRE] — Selon son sens simple, le verset laisse entendre ce qu'il signifie littéralement : (c'est-à-dire tel que traduit ci-dessus). Mais il existe aussi une interprétation midrashique : d’où peut-on déduire que si vous vendez quelque chose, vous devez le vendre à votre prochain israélite ? D'après ce que dit l'Écriture : « Et si vous vendez — לעמיתך vendez-le à quelqu'un qui vous est associé par nationalité ». Et d’où peut-on déduire que si vous avez l’intention d’acheter quelque chose, vous devriez l’acheter à votre compatriote israélite ? D'après ce que dit l'Écriture « ou si tu achètes quelque chose — מיד עמיתך, de la main de quelqu'un qui est associé à toi, achète-le » (Sifra, Behar, Section 3 1)."
+        },
+        {
+          "id": 2,
+          "fr": "אל תונו VOUS NE VOUS TROMPEREZ PAS [UN AUTRE] — Cela fait référence aux torts en matière d'argent (Sifra, Behar, Section 3 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:15",
+      "fr": "En achetant chez votre voisin, vous ne déduirez que le nombre d'années depuis le jubilé ; et en vous vendant, vous ne serez facturé que pour les années de récolte restantes :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "במספר שנים אחר היובל תקנה SELON LE NOMBRE D'ANNÉES APRÈS LE JUBILÉ TU ACHETEREZ [DE TON COMPAGNON] — Ceci (ce qui suit) est le sens littéral qui convient aux clauses du verset comme l'exige le contexte : L'Écriture entend ici mettre en garde contre tort interdit dans le verset précédent : Lorsque vous vendez ou achetez un bien foncier, tenez compte du nombre d'années restant jusqu'au Jubilé, et selon les années et les récoltes du champ que l'on peut s'attendre à produire, le vendeur vendra et l'acheteur achètera, car à la fin il (l'acheteur) devra le lui rendre (au vendeur) au cours de l'année du Jubilé. Par conséquent, s'il ne reste que quelques années avant le Jubilé et que cet homme le vend à un prix élevé, il s'ensuit que l'acheteur a été dépassé. Si, au contraire, il reste encore de nombreuses années avant le Jubilé et qu'il en consomme de nombreuses récoltes, le vendeur est dépassé si vous ne lui donnez qu'un bas prix. Il faut donc l'acheter en fonction de la période restant jusqu'au Jubilé. C'est ce que veut dire l'Écriture lorsqu'elle déclare : « Vous le vendrez à l'acheteur selon le nombre d'années des fruits qu'il vous vendra », c'est-à-dire selon le nombre d'années de récoltes pendant lesquelles il (le champ) restera entre les mains de l'acheteur. Nos rabbins, cependant, ont tiré de là la loi selon laquelle celui qui vend son champ n'a pas le droit de le racheter avant l'écoulement d'au moins deux ans, — qu'il doit rester en possession de l'acheteur deux années complètes à compter de date à date, et même s'il peut y avoir trois récoltes au cours de ces deux années, comme, par exemple, s'il l'a vendu alors qu'il avait son maïs debout. Et dans cette interprétation, le mot שני ne perd pas son sens littéral, à savoir celui d'années, (les mots שני תבואות ne sont pas pris dans cette interprétation pour signifier \"deux récoltes\" comme on pourrait le penser à première vue) - l'expression signifie מספר שנים של תבואות le nombre d'années de récoltes (c'est-à-dire que שני est la construction de שנים) et non d'années pendant lesquelles le maïs est frappé par l'explosion, et vous savez que le nombre minimum impliqué dans le pluriel שנים est de deux (c'est ainsi que les rabbins ont dérivé la loi selon laquelle le vendeur doit laisser le terrain en possession de l'acheteur pendant au moins deux ans) (Arakhin 29b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:16",
+      "fr": "plus ces années sont nombreuses, plus le prix que vous payez est élevé ; moins ces années sont nombreuses, plus le prix est bas ; car ce qui vous est vendu, c'est une quantité de récoltes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "תרבה מקנתו TU AUGMENTERAS LE PRIX DE CELUI-CI — i. e. vous pouvez le vendre à un prix élevé"
+        },
+        {
+          "id": 2,
+          "fr": "תמעיט מקנתו — Vous proposerez un prix inférieur."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:17",
+      "fr": "Ne vous faites pas de tort les uns aux autres, mais craignez votre Dieu ; car moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא תונו איש את עמיתו VOUS NE DEVEZ PAS ÊTRE EXTORTIONNELS LES UNS AUX AUTRES — Ici, l'Écriture met en garde contre le fait de vexer par des paroles (blesser les sentiments d'une personne) — qu'il ne faut pas ennuyer son prochain, ni lui donner un conseil qui ne lui convient pas, mais qui est conforme au plan et à l'avantage de le conseiller. Mais ne dites-vous pas : « Qui sait si j’avais l’intention de lui faire du mal ? L’Écriture déclare donc : « mais tu craindras ton Dieu » ! — Celui qui connaît les pensées des hommes, Il le sait ! Dans tous les cas où il s’agit d’une question de conscience (plus lit., une affaire remise au cœur), où personne ne connaît la vérité sauf celui qui a la pensée dans son cœur, l’Écriture dit toujours : « mais crains ton Dieu » ! (Sifra, Behar, chapitre 4 1-2 ; Bava Metzia 58b ; cf. aussi Rachi sur Lévitique 19 :14.)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:18",
+      "fr": "Vous observerez mes lois et observerez fidèlement mes règles, afin que vous puissiez vivre sur la terre en sécurité ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישבתם על הארץ לבטח [C'est pourquoi vous ferez mes ordonnances] et vous demeurerez dans le pays en sécurité — Il déclare cela parce qu'en guise de punition pour le péché de négligence des lois de la « Shemittah », Israël est exilé, comme il est dit (Lévitique 26 : 33, 34) \"(Et je te disperserai parmi les nations…] Alors le pays rattrapera les années sabbatiques… même alors rattrapera ses années sabbatiques qu'elle n'a pas observées\" (Chabbat 33a). Les soixante-dix années d'exil babylonien étaient en effet un châtiment correspondant aux soixante-dix années sabbatiques qu'ils avaient négligées (cf. Rachi sur Lévitique 26:35)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:19",
+      "fr": "la terre donnera ses fruits et vous mangerez à votre faim, et vous en vivrez en sécurité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונתנה הארץ וגו' וישבתם לבטח עליה ET LA TERRE RENDRA [SES PRODUITS ET VOUS MANGEREZ À VOTRE PLAISIR], ET DEMEUREZ-VOUS EN TOUTE SÉCURITÉ — Ces derniers mots impliquent que vous n'aurez pas à vous soucier des années (lit., a année) de sécheresse."
+        },
+        {
+          "id": 2,
+          "fr": "ואכלתם לשבע ET VOUS MANGEREZ À VOTRE PLAISIR — [même si vous ne mangez qu'un peu — cf. Rachi sur Lévitique 26 : 5], ce sera béni dans votre estomac."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:20",
+      "fr": "Et devriez-vous demander : « Que mangerons-nous la septième année, si nous ne pouvons ni semer ni récolter nos récoltes ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא נאסף [ET SI VOUS DITES,… VOICI, NOUS NE SERONS PAS] NI RASSEMBLER — dans la maison."
+        },
+        {
+          "id": 2,
+          "fr": "את תבואתנו NOTRE AUGMENTATION — comme, e. par exemple, le vin et les fruits des arbres et les pousses des champs, qui poussent d'eux-mêmes (Pesachim 51b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:21",
+      "fr": "J'ordonnerai ma bénédiction pour vous la sixième année, afin qu'elle produise une récolte suffisante pour trois ans.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לשלש השנים [IL DOIT PROVOQUER UNE AUGMENTATION] POUR LES TROIS ANS — i. e. pour une partie de la sixième année - depuis Nisan jusqu'au Nouvel An de la septième - pour toute la septième année et pour une partie de la huitième année, car la huitième année, ils sèmeront à Marcheshvan mais ne récolteront qu'à Nisan (de sorte qu'ils devront également dépendre de la récolte de la sixième année dans la huitième)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:22",
+      "fr": "Quand vous semez la huitième année, vous mangerez encore du vieux grain de cette récolte ; vous mangerez les vieilles jusqu'à la neuvième année, jusqu'à ce que les récoltes soient rentrées.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עד השנה התשיעית JUSQU'À LA NEUVIÈME ANNÉE — i. e. jusqu'à la Fête des Tabernacles de la neuvième année qui est le moment où la récolte de la huitième année arrive (בא תבואתה) dans la maison (les greniers). Car pendant tout l'été (les fruits) restaient dans les champs dans les granges, et à Tishri c'était le moment de les rassembler dans la maison. Parfois en effet, c'est le sol) qui devait produire des fruits pendant quatre ans, à savoir au cours de la sixième année précédant la septième « Shemittah » (c'est-à-dire la quarante-huitième année de la période du Jubilé), lorsqu'ils devaient s'abstenir de travaux agricoles deux années successives, à savoir l'année sabbatique et le Jubilé qui la suivait immédiatement. Cependant, ce verset (qui mentionne seulement une augmentation suffisante pour trois ans) est dit (écrit) en référence à toutes les autres années sabbatiques (c'est-à-dire ordinaires)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:23",
+      "fr": "Mais la terre ne doit pas être vendue au-delà de toute réclamation, car la terre m'appartient ; vous n'êtes que des étrangers résidant auprès de Moi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎‎לא תמכר‎‎ והארץ LA TERRAIN NE DOIT PAS ÊTRE VENDUE [ABSOLUMENT] — Ceci vise à accuser de transgression d'un ordre négatif (לאו) la négligence de restituer les champs à leurs propriétaires lors du Jubilé — il ordonne que l'acheteur ne doit pas le détenir (Sifra, Behar, Chapitre 5 8)."
+        },
+        {
+          "id": 2,
+          "fr": "לצמתת signifie indemnité de départ ; le sens est le suivant : il ne doit pas être vendu comme une vente à perpétuité."
+        },
+        {
+          "id": 3,
+          "fr": "כי לי הארץ CAR LA TERRE EST À MOI — Votre œil ne sera pas mauvais à son égard (vous ne lui en voudrez pas) car elle n'est pas à vous."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:24",
+      "fr": "Sur toute la terre que vous possédez, vous devez pourvoir au rachat de la terre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובכל ארץ אחזתכם ET DANS TOUTE LA TERRE DE VOTRE POSSESSION [VOUS ACCORDEREZ UNE RACHAT POUR LA TERRE] — (La traduction peut être : Et en ce qui concerne tout, etc.) incluant ainsi dans ce palais de justice et les serviteurs hébreux (c'est-à-dire qu'à ceux-ci aussi le droit de rédemption doit être accordé). Et cette question est expliquée dans le Traité Kiddushin 21a dans la première section (cf. aussi Sifra, Behar, chapitre 4-9). Au sens littéral, cependant, il faut le relier à l'article qui suit immédiatement : souligner que celui qui vend sa propriété foncière a le droit de la racheter après deux ans soit par lui-même, soit par son parent, et que l'acheteur n'a pas le droit de l'empêcher (גאולה תתנו לארץ, vous devez accorder le rachat)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:25",
+      "fr": "Si l'un de vos parents est en difficulté et doit vendre une partie de sa propriété, le rédempteur le plus proche, c'est-à-dire le parent le plus proche en mesure de racheter la terre. viendra racheter ce que ce parent a vendu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי ימוך אחיך ומכר ET SI TON FRÈRE EST CIRE PAUVRE ET A VENDU [CERTAINES DE SES POSSESSIONS] — Les mots d'introduction nous enseignent qu'il n'est pas permis de vendre ses biens immobiliers sauf sous la pression de la pauvreté (cf. Sifra, Behar, chapitre 5 1)."
+        },
+        {
+          "id": 2,
+          "fr": "מאחזתו CERTAINES DE SA POSSESSION — mais pas la totalité de la propriété. L'Écriture vous enseigne ainsi une règle pratique selon laquelle, quel que soit le besoin d'un homme, il doit toujours se laisser quelques immeubles (lit., un champ) (Sifra, Behar, chapitre 5 1)."
+        },
+        {
+          "id": 3,
+          "fr": "וגאל את ממכר אחיו IL RACHERA CE QUE SON FRÈRE A VENDU — et l'acheteur n'a pas le droit de l'empêcher."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:26",
+      "fr": "Concernant quiconque n’a personne pour être rédempteur mais prospère et acquiert suffisamment pour se racheter :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואיש כי לא יהיה לו גואל [ET] SI [UN HOMME] N'A PAS DE RACHAT — Mais existe-t-il quelqu'un en Israël qui n'a personne pour racheter sa propriété (qui n'a aucun parent du tout) ? Mais le sens est : un parent qui est capable (possède les moyens) de racheter ce qu'il a vendu (Sifra, Behar, chapitre 5 2 ; cf. Kiddushin 21a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:27",
+      "fr": "les années depuis sa vente seront comptées et la différence sera remboursée à celui à qui il a été vendu, afin que [le vendeur] revienne dans son exploitation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וחשב את שני ממכרו ALORS LAISSEZ-LE COMPTER LES ANNÉES DE LA VENTE DE CEUX-CI — [laissez-le compter ainsi :] Combien d'années restait-il jusqu'au Jubilé ? Untel et un tel ! A quel prix je te l'ai vendu ? A tel prix ! Or, l’année du jubilé, tu devras me le restituer ; il s'ensuit donc que vous avez réellement acheté un certain nombre de récoltes seulement (et non la terre elle-même) pour une certaine somme chaque année. Vous l'avez mangé (utilisé) pendant trois ou quatre ans ; déduisez donc leur valeur de la somme totale de l'argent d'achat et vous prenez le reste. Et c'est le sens de : « il restituera l'excédent », c'est-à-dire l'excédent du prix d'achat sur la valeur des récoltes dont il (l'acheteur) a bénéficié, et il le restituera à l'acheteur."
+        },
+        {
+          "id": 2,
+          "fr": "לאיש אשר מכר לו [ET IL RESTAURERA L'EXCÉDENT] À L'HOMME À QUI IL L'AVAIT VENDU — i. e. à qui lui — ce vendeur qui vient maintenant le racheter — l'avait vendu (mais pas à toute autre personne qui est maintenant en possession du champ, l'ayant à son tour acheté à cet homme à qui lui — le vendeur — l'avait initialement vendu) (Sifra, Behar, chapitre 5 3 ; Arakhin 30a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:28",
+      "fr": "Si [le vendeur] ne dispose pas de moyens suffisants pour le récupérer, ce qui a été vendu restera chez l'acheteur jusqu'au jubilé ; l'année du jubilé, il sera libéré, afin qu'ils retournent dans leur propriété.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "די השיב לו [MAIS SI IL N'EST PAS CAPABLE] DE LE RESTAURER (lit., si sa main ne trouve pas de moyens suffisants pour lui restituer) — Il s'ensuit donc qu'il (le vendeur) n'a pas le droit de racheter sa propriété en parties (lit., par moitiés) (Sifra, Behar, Chapitre 5 5, Arachin 30a)."
+        },
+        {
+          "id": 2,
+          "fr": "עד שנת היובל JUSQU'À L'ANNÉE DU JUBILÉ — « jusqu'à » mais pas « y compris » l'année du Jubilé ; cela signifie que rien de temps ne sera entré dans cette année (qu'aucun moment de cette année ne sera passé), parce que le Jubilé effectue la libération de ces biens dès son tout début (contrairement à l'annulation des dettes dans la « Shemittah » qui n'a lieu qu'à la fin de l'année ; cf. Deutéronome 15 : 1 ss.) (Sifra, Behar, chapitre 5-6 ; Arakhin 28b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:29",
+      "fr": "Concernant celui qui vend une maison d'habitation dans une ville fortifiée : Elle peut être rachetée jusqu'à ce qu'un an se soit écoulé depuis sa vente ; la période de remboursement sera d'un an.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בית מושב עיר חומה UN LIEU D'HABITATION DANS UNE VILLE QUI A UN MUR — i. e. une maison située dans une ville entourée d'un mur depuis l'époque de Josué, fils de Noun (Sifra, Behar, section 4 1)."
+        },
+        {
+          "id": 2,
+          "fr": "והיתה גאלתו ALORS IL A LE DROIT D'ÊTRE RACHETÉ [JUSQU'À LA FIN DE L'ANNÉE DE SA VENTE] — Parce qu'il est dit à propos d'un champ qu'on peut le racheter après deux ans à compter de la date de la vente et au-delà à tout moment qu'il veut, mais qu'on ne peut pas le racheter pendant les deux premières années, l'Écriture a été obligée de préciser spécialement en référence à ceci (le maison) que c'est exactement le contraire qui se produit : si l'on souhaite le racheter la première année, on peut le faire, mais après cela, on ne peut pas le racheter."
+        },
+        {
+          "id": 3,
+          "fr": "והיתה גאלתו ALORS LE RACHAT DE ELLE - de la maison - DOIT ÊTRE [JUSQU'À LA FIN DE L'ANNÉE]."
+        },
+        {
+          "id": 4,
+          "fr": "ימים ANNÉE (lit., jours) — les jours d'une année complète sont, brièvement, appelés « jours ». Similaire : (Genèse 24 :55) « Que la jeune fille reste avec nous un an (‎‎‏.\"(ימים"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:30",
+      "fr": "Si elle n'est pas rachetée avant qu'une année entière ne se soit écoulée, la maison dans la ville fortifiée passera à l'acheteur sans possibilité de réclamation à travers les âges ; il ne sera pas libéré au jubilé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וקם הבית...לצמתת (ALORS LA MAISON… DOIT ÊTRE ÉTABLIE ABSOLUMENT [À CELUI QUI L'A OBTENUE] — c'est-à-dire qu'elle laisse pour toujours le contrôle du vendeur et est sous le contrôle exclusif de l'acheteur."
+        },
+        {
+          "id": 2,
+          "fr": "אשר לא חמה — Nous lisons le texte comme s'il était écrit לו (c'est-à-dire que la tradition nous dit de le faire). Nos rabbins, de mémoire bénie, ont dit (Arakhin 32a) : Nous le faisons pour laisser entendre que la loi s'applique à une ville même si à l'heure actuelle elle n'a pas de rempart (אשר לא חמה) puisqu'avant elle en avait un (אשר לו חמה). Il est vrai que עיר est un nom féminin et la préposition qui y fait référence aurait dû être écrite לה (et non לו), mais parce que l'Écriture était obligée d'écrire לא dans le texte pour la raison donnée, la Massora (le texte biblique traditionnel sans voyelles) l'a remplacé par לו (au lieu de לה), car le son de l'un s'applique également à l'autre (ils sonnent de manière similaire)."
+        },
+        {
+          "id": 3,
+          "fr": "לא יצא ביובל IL NE SORTIRA PAS PENDANT LE JUBILÉ — Rabbi Saphra a dit : « si le Jubilé tombait au cours de cette année-là (la première année de sa vente), il ne sortira néanmoins pas » (Arakhin 31b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:31",
+      "fr": "Mais les maisons des villages qui n'ont pas de murs d'enceinte seront classées en rase campagne : elles pourront être rachetées, et elles seront libérées pendant le jubilé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובתי החצרים MAIS LES MAISONS DES VILLAGES — Comprenez ceci comme le fait le Targum : פצחין i. e. des « maisons de villes ouvertes » comme celles qui n'ont pas de rempart. Le terme חצר apparaît plusieurs fois dans ce sens dans le Livre de Josué, par exemple (Josué 13 :29) « les villes et leurs lieux sans murailles (וחצריהם) » ; de même (Genèse 25 :16) « par leurs lieux non murés (בחצריהם) et par leurs forteresses » (voir Rachi sur ce verset)."
+        },
+        {
+          "id": 2,
+          "fr": "על שדה הארץ יחשב [MAIS LES MAISONS DES VILLAGES]… SERONT COMPTABLES COMME LES CHAMPS DU PAYS — i. e. ils seront comme les champs qui peuvent être rachetés jusqu'au Jubilé (pas seulement la première année) et sortiront au Jubilé en possession de leurs propriétaires s'ils n'ont pas été rachetés entre-temps (Arakhin 33a)."
+        },
+        {
+          "id": 3,
+          "fr": "גאלה תהיה לו ILS PEUVENT ÊTRE RACHATÉS — immédiatement s'il (le vendeur) le désire. À cet égard, elle (la maison dans une ville sans muraille) présente un avantage encore plus grand que les champs, car les champs ne peuvent être rachetés que deux ans après la date de la vente (Arakhin 33a ; cf. Rachi au v. 24)."
+        },
+        {
+          "id": 4,
+          "fr": "וביבל יצא ET ILS SORTIRONT AU JUBILÉ — pour rien."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:32",
+      "fr": "Quant aux villes de Lévi, aux maisons des villes qu'il détient : Lévi aura pour toujours le droit de rachat.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וערי הלוים LES VILLES DES LÉVITES… [PEUT ÊTRE RACHATÉES À TOUT MOMENT] — Cela se réfère uniquement aux quarante-huit villes qui leur avaient été données (cf. Nombres 35 :6.7). (Mais si les Lévites se sont construits une autre ville, ou si un Lévite possède une maison dans une ville habitée par des Israélites, ceux-ci ne sont pas soumis à cette loi)."
+        },
+        {
+          "id": 2,
+          "fr": "גאלת עולם [LES LÉVITES ONT] LE DROIT DE RACHAT À TOUT MOMENT — Cela signifie qu'ils (les Lévites) peuvent racheter immédiatement — même avant la fin de deux ans — s'ils ont vendu un champ de ces champs qui leur avaient été donnés dans les deux mille coudées autour des villes (cf. Nombres 25 : 5) (alors que le champ d'un Israélite ordinaire doit rester au moins deux ans entre les mains de l'acheteur), ou s'ils ont vendu « une maison dans une ville qui a une muraille », ils peuvent la racheter à tout moment et elle ne devient pas irréductible au bout d'un an (comme c'est le cas pour de telles maisons appartenant aux Israélites ; cf. v. 30) (Arakhin 33b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:33",
+      "fr": "fSens de la première moitié du verset incertain. Les biens qui peuvent être rachetés à Lévi – les maisons vendues dans une ville qu'il détient – ​​seront libérés lors du jubilé ; car les maisons des villes de Lévi constituent son fief parmi les Israélites.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎הלוים‎ מן‎ואשר יגאל ‎‎‎‎ ‎— Cela signifie que si quelqu'un leur achète une maison ou une ville, alors cette maison qui a été vendue ou la ville qui a été vendue sortira au Jubilé et reviendra au Lévite qui l'a vendue, et ne sera pas irrécupérable comme le sont les autres maisons dans les « villes qui ont un mur » à savoir, ceux des Israélites. Selon cette explication, יגאל a ici le sens de « vente ». Une autre explication est (en prenant יגאל ici dans son sens habituel de « rachat ») : Parce qu'il est dit dans le verset précédent : « les Lévites auront le droit de rachat à tout moment », je pourrais penser que l'Écriture parle uniquement d'un acheteur israélite ordinaire qui a acheté une maison dans une ville des Lévites, mais lorsqu'un Lévite a acheté une maison à un autre Lévite, elle sera irrécupérable ! L'Écriture déclare donc « [les Lévites auront le droit de rachat à tout moment] », ואשר יגאל מן הלוים, « même si celui qui rachète le fait des Lévites — c'est-à-dire que celui aussi (un Lévite) qui rachète une maison de la possession d'un autre Lévite aura le droit de le faire à tout moment (Sifra, Behar, Chapitre 6 6)."
+        },
+        {
+          "id": 2,
+          "fr": "ויצא ממכר בית ALORS LA MAISON QUI A ÉTÉ VENDUE… SORTIRA [AU JUBILÉ] — Selon la deuxième explication de ‎'ואשר יגאל וכו‎‎ donnée ci-dessus, celle-ci contient un autre commandement et n'est pas une continuation des mots qui précèdent. Ils veulent dire : « mais s'il (le vendeur) ne l'a pas racheté », alors il sortira lors du Jubilé et ne deviendra pas irrécupérable à la fin de la première année comme c'est le cas pour la maison d'un Israélite."
+        },
+        {
+          "id": 3,
+          "fr": "כי בתי ערי הלוים הוא אחזתם CAR LES MAISONS DES VILLES DES LÉVITES SONT LEUR POSSESSION — Ils n'avaient pas de propriété séparée de champs et de vignes, seulement des villes pour y habiter ainsi que les terres ouvertes qui les entouraient ; ceux-ci remplaçaient donc dans leur cas les champs possédés par les Israélites et devaient donc être rachetables tout comme les champs, afin que leur héritage ne leur soit pas aliéné."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:34",
+      "fr": "Mais les terres non clôturées autour de ses villes ne peuvent être vendues, car c'est sa propriété pour toujours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ושדה מגרש עריהם לא ימכר ET LES CHAMPS DES BANLIEUES DE LEURS VILLES NE PEUVENT PAS ÊTRE VENDUS — Cela signifie : ils ne peuvent pas être vendus en tant que vente absolue par le trésorier des biens du Temple — que si un Lévite a consacré son champ au Temple et ne l'a pas racheté, et que le trésorier l'a ensuite vendu à quelqu'un, il ne le fait pas. passera en possession des prêtres au cours du Jubilé, comme c'est le cas avec la propriété d'un Israélite dont il est dit (Lévitique 27 : 16-20) « [et si un homme sanctifie à l'Éternel une partie d'un champ… et s'il ne rachète pas le champ] et qu'il (le trésorier ; voir Rachi sur ce verset) le vende à un autre homme, il ne sera plus racheté, [mais le champ lorsqu'il sortira dans le Jubilé, ce seront… les prêtres] » — le Lévite, cependant, peut le racheter à tout moment (même après le Jubilé et aussi lorsque le trésorier l'a vendu à un autre homme) (Sifra, Behar, chapitre 6-9)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:35",
+      "fr": "Si vos parents, se trouvant dans une situation difficile, tombent sous votre autorité et sont détenus par vous comme des étrangers résidents, laissez-les vivre à vos côtés :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והחזקת בו TU LE SOULAGER — Ne le laisse pas seul pour qu'il descende dans le monde jusqu'à ce qu'il finisse par tomber complètement alors qu'il sera difficile de le relever, mais soutiens-le dès le moment même de la défaillance de ses moyens. À quoi peut-on comparer cela (la différence entre le fait que vous l'assistiez immédiatement ou que vous attendiez avec votre aide jusqu'à ce qu'il descende dans le monde) ? A une charge excessive sur le dos d'un cul. Tant qu'il est encore sur le dos de l'âne, une seule personne suffit pour le saisir (la charge) et le maintenir (l'âne) debout, dès qu'il est tombé au sol, même cinq personnes ne sont pas capables de le mettre sur ses jambes (Sifra, Behar, Section 5 1)."
+        },
+        {
+          "id": 2,
+          "fr": "גר ותושב signifie, même s'il est un étranger ou un voyageur. Et qu'est-ce qu'un תושב ? Celui qui s'est engagé à ne pas adorer d'idoles (c'est-à-dire celui qui a été converti au principe fondamental du judaïsme) mais qui mange de la charogne (ne se soucie pas des autres commandements de la Torah) (Sifra, Behar, Section 5 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:36",
+      "fr": "n'exigez pas d'avance ou d'intérêts courus, d'avance ou d'intérêts courus, c'est-à-dire des intérêts déduits à l'avance ou des intérêts ajoutés au moment du remboursement. mais craignez votre Dieu. Laissez vos proches vivre à vos côtés en tant que tels.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נשך ותרבית [NE PRENEZ PAS] D'INTÉRÊT [DE LUI] OU AUGMENTEZ — Les rabbins les considèrent (ces deux choses) comme une seule, mais l'Écriture utilise deux mots différents pour la même offense afin de prescrire que celui qui enfreint la loi transgresse ainsi deux commandements négatifs (Bava Metzia 60b)."
+        },
+        {
+          "id": 2,
+          "fr": "ויראת מאלהיך MAIS AIE PEUR DE TON DIEU — Parce que les pensées de l'homme sont fortement attirées par l'idée de s'y intéresser et qu'il lui est difficile de s'en tenir à l'écart, de sorte qu'il essaie de se persuader que c'est un acte légitime (lit., il décide lui-même que c'est une chose permise) en raison du fait que son argent resterait autrement au chômage, l'Écriture a été obligée de déclare : « Mais aie peur de ton Dieu ! » Ou prenons un autre cas : si l'on prétend que son argent appartient à un non-juif pour pouvoir le prêter à un Israélite d'une manière ostensiblement légitime. Ceci n'est donné qu'à son cœur et à ses pensées pour connaître les circonstances réelles de l'affaire ; L’Écriture était donc obligée de déclarer : « Mais crains ton Dieu ! » (Bava Metzia 61b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:37",
+      "fr": "Ne prêtez pas votre argent à intérêt anticipé, et ne donnez pas votre nourriture à intérêt couru.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 25:38",
+      "fr": "Je suis l'ÉTERNEL votre Dieu, qui vous ai fait sortir du pays d'Égypte, pour vous donner le pays de Canaan, pour être votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'אשר הוצאתי וגו‎‎ [JE SUIS LE SEIGNEUR TON DIEU] QUI VOUS A FAIT SORTIR [DU PAYS D'EGYPTE] et qui a fait la distinction entre ceux qui étaient premiers-nés et ceux qui ne l'étaient pas (une question qui est cachée à la connaissance humaine), je connais également les véritables faits de cette affaire et j'exigerai une punition de celui qui prête de l'argent à un Israélite en disant qu'il appartient à un non-juif (Bava Metzia 61b ; cf. Rachi sur Lévitique 19 :36). Une autre explication est : Je suis l'Éternel votre Dieu qui vous a fait sortir du pays d'Égypte à condition que vous preniez sur vous l'accomplissement de Mes commandements même s'ils sont difficiles pour vous (cf. Sifra, Behar, Section 5 3)"
+        },
+        {
+          "id": 2,
+          "fr": "לתת לכם את ארץ כנען DE VOUS DONNER LA TERRE DE CANAAN en récompense pour votre engagement à accomplir Mes commandements."
+        },
+        {
+          "id": 3,
+          "fr": "להיות לכם לאלהים POUR ÊTRE VOTRE DIEU — Parce que pour celui qui habite sur la terre d'Israël, je suis Dieu ; tandis que celui qui le quitte peut être considéré comme s'il était un idolâtre (Sifra, Behar, Section 5 4 ; Ketubot 110b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:39",
+      "fr": "Si vos proches sont dans une situation difficile et doivent vous être livrés, ne les soumettez pas au traitement d'un esclave.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עבדת עבד [TU NE LE FORCE PAS] À SERVIR DE SERVITEUR D'OBLIGATION — i. e. tu ne lui feras pas accomplir un travail dégradant par lequel il est reconnu comme esclave — cela pourrait ressortir qu'il ne devra pas, par exemple, porter ses vêtements (du maître) après lui aux bains publics ni l'aider à enfiler ses bottes (cf. Sifra, Behar, chapitre 7 2)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:40",
+      "fr": "Demeurant avec vous comme ouvriers salariés ou liés, ils ne serviront avec vous que jusqu'à l'année du jubilé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כשכיר כתושב MAIS EN TANT QUE SERVITEUR ENGAGÉ ET EN TANT QUE SÉJOUR IL SERA À TOI ] — Employez-le aux travaux des champs ou à l'artisanat ; Traitez-le comme n'importe quel domestique."
+        },
+        {
+          "id": 2,
+          "fr": "עד שנת היבל [IL VOUS SERVIRA] JUSQU'À L'ANNÉE DU JUBILÉ ] Cela implique que si le Jubilé arrive (lit., le rencontre) avant la fin des six années de sa servitude, il le libère."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:41",
+      "fr": "Alors eux, ainsi que tous leurs enfants, seront libres de votre autorité ; ils retourneront dans leur famille et retourneront à la propriété ancestrale.—",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הוא ובניו עמו [ET IL S'ÉLOIGNERA DE TOI] LUI ET SES ENFANTS AVEC LUI — Le rabbin Siméon a demandé : S'il s'est vendu lui-même, celui qui a vendu ses enfants, ce que l'Écriture doit déclarer, ils quitteront le maître avec lui ? Mais nous pouvons en tirer une leçon que le maître est tenu de fournir de la nourriture à ses enfants (du serviteur) (Kiddushin 22a ; cf. Rachi sur Exode 21 : 3) bien qu’ils ne soient pas ses esclaves."
+        },
+        {
+          "id": 2,
+          "fr": "ואל אחזת אבתיו ET À LA POSSESSION DE SES PÈRES [DOIT-IL RETOURNER] — Cela signifie qu'il reviendra à la dignité détenue par ses ancêtres et que les gens ne le tiendront pas en basse estime à cause de cela (parce qu'il avait été auparavant esclave) ;"
+        },
+        {
+          "id": 3,
+          "fr": "אחזת signifie donc autant que חזקת « le statut de » (Makkot 13a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:42",
+      "fr": "Car ce sont mes serviteurs, que j'ai affranchis du pays d'Égypte ; ils ne peuvent pas se livrer à la servitude.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי עבדי הם CAR ILS SONT MES SERVITEURS — Mon document (acte d'achat) est d'une date antérieure ( Sifra, Behar, Section 6 1)."
+        },
+        {
+          "id": 2,
+          "fr": "לא ימכרו ממכרת עבד ILS NE SERONT PAS VENDUS COMME LE PENSENT PAR LA VENTE D'UN BONDSMAN — par annonce publique : « Voici un esclave à vendre ! On ne doit pas non plus le faire se tenir sur la pierre des enchères (Sifra, Behar, section 6 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:43",
+      "fr": "Vous ne les gouvernerez pas sans pitié ; tu craindras ton Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תרדה בו בפרך TU NE GÈNE PAS SUR LUI AVEC RIGUEUR — i. e. ne le forcez pas à faire quelque travail inutile dans le seul but de le contrarier. Ne pas, par ex. dites-lui : « Réchauffe-moi cette tasse de boisson » quand cela n'est pas nécessaire ; ni : « Binez sous cette vigne jusqu'à ce que je vienne » alors qu'il ne sait pas quand vous pourrez revenir. Peut-être direz-vous : « Personne ne sait si c’est nécessaire ou non, alors je lui dirai que c’est nécessaire » ! — la chose est ainsi confiée uniquement à son cœur (du maître), c'est pourquoi l'Écriture dit : « mais crains ton Dieu ! (Sifra, Behar, Section 6 2 ; voir Rachi sur Lévitique 19 :32)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:44",
+      "fr": "Si vous avez des esclaves, hommes et femmes, c'est auprès des nations qui vous entourent que vous pourrez acquérir des esclaves, hommes et femmes.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועבדך ואמתך אשר יהיו לך MAIS TON SERVITEUR ET TA SERVIETTE QUI PEUVENT ÊTRE À TIEN [FONT ÊTRE DES NATIONS QUI ENTOURENT TOI] — Si tu disais : « Mais s'il en est ainsi (que je dois traiter mon serviteur juif avec tant de respect), par qui serai-je servi ? Serviteurs juifs, je n'ai aucun pouvoir ; du peuple cananéen, je ne peux en posséder aucun, car Tu m'as prévenu : (Deutéronome XX 16) « Tu garderas en vie toute âme » ! Qui donc me servira ? Puis je réponds -"
+        },
+        {
+          "id": 2,
+          "fr": "מאת הגוים DES AUTRES NATIONS — ils peuvent vous servir."
+        },
+        {
+          "id": 3,
+          "fr": "אשר סביבתיכם [LES NATIONS] QUI SONT AUTOUR DE VOUS — pas cependant celles qui vivent dans les limites de votre pays ; car à leur sujet, je vous ai en effet dit : « Tu ne garderas aucune âme en vie » (Sifra, Behar, section 6 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:45",
+      "fr": "Vous pourrez aussi les acheter parmi les enfants des étrangers résidant parmi vous, ou parmi leurs familles qui sont parmi vous, et qu'ils ont engendrés dans votre pays. Ceux-ci deviendront votre propriété :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎ וגם מבני התושבים PLUS PARMI LES ÉTRANGERS TOLÉRÉS qui sont venus des pays autour de vous pour épouser des femmes cananéennes dans votre pays et qui leur ont donné des enfants ; alors l'enfant suit le père en ce qui concerne la nationalité, et ainsi, n'étant pas considéré comme un Cananéen, n'est pas inclus dans ce commandement, « Tu ne garderas en vie aucune âme », mais tu peux l'acheter comme serviteur (cf. Sifra, Behar, Section 6 4 ; Kiddushin 67b)."
+        },
+        {
+          "id": 2,
+          "fr": "מהם תקנו signifie QUE VOUS POUVEZ ACHETER."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:46",
+      "fr": "vous les conserverez en propriété pour vos enfants après vous, afin qu'ils en héritent pour toujours. Vous pouvez les traiter comme des esclaves. Mais quant à vos parents israélites, personne ne dominera impitoyablement sur un autre.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והתנחלתם אתם לבניכם signifie que vous pouvez les détenir comme votre possession, לבניכם אחריכם, pour le bénéfice de vos enfants après vous. Il ne serait cependant pas correct de donner au mot והתנחלתם le sens : « laissez-les en héritage à vos enfants », car si cela avait été prévu, il aurait dû écrire : והנחלתם אותם לבניכם (le Hiphil), mais והתנחלתם (qui est la forme Hithpael) équivaut à והתחזקתם « vous pouvez les détenir comme votre possession »."
+        },
+        {
+          "id": 2,
+          "fr": "איש באחיו ONE SUR ANOTHER — Ces mots apparemment redondants (car le texte aurait pu être : ובאחיכם בני ישראל לא תרדו בפרך) visent à inclure dans l'interdiction que le prince ne doit pas gouverner avec rigueur son peuple ni le roi sur ses sujets."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:47",
+      "fr": "Si un étranger résidant parmi vous a prospéré, et que vos parents, en difficulté, tombent sous son autorité et soient livrés à l'étranger résidant parmi vous, ou à une rejeton de la famille d'un étranger,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יד גר ותושב [ET SI] Un גר ותושב RICHE EN CIRE — Cela signifie un étranger, il étant en même temps un séjour avec toi, comme le rend le Targum : ערל תותב un voyageur incirconcis (l'expression est hendiadys). La fin du verset le prouve, car il dit : « et il se vend à un étranger » (גר תושב, sans le copulatif ו ​​avant le deuxième mot)."
+        },
+        {
+          "id": 2,
+          "fr": "וכי תשיג יד גר ותושב עמך ET SI UN ÉTRANGE SÉJOUR EST RICHE PAR TOI — Le dernier mot suggère : Quelle était la cause pour laquelle il est devenu riche ? Son lien étroit avec toi (עמך) (Sifra, Behar, chapitre 8 1)."
+        },
+        {
+          "id": 3,
+          "fr": "ומך אחיך עמו ET TON FRÈRE CIRE PAUVRE PAR LUI — Ici encore, le dernier mot suggère : Quelle était la cause pour laquelle il est devenu pauvre ? Son intimité avec lui (Sifra, Behar, chapitre 8 1), — parce qu'il a appris le mal de ses mauvaises actions (de l'étranger)."
+        },
+        {
+          "id": 4,
+          "fr": "משפחת גר — désigne lui-même un païen ; puisque, cependant, l'Écriture ajoute le mot לעקר « au stock de la famille païenne », elle fait ainsi référence à celui qui se vend à l'idole elle-même — pour en être le serviteur ; pas pour l'adorer comme une divinité, mais e. g., pour couper du bois ou puiser de l'eau qui doit être utilisée en relation avec ce culte des idoles (cf. Sifra, Behar, chapitre 8 1 ; Bava Kamma 113b ; Arakhin 30b ; Kiddushin 20a)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:48",
+      "fr": "[vos proches] auront le droit de rachat même après. [Typiquement,] un frère fera le rachat,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "גאלה תהיה לו signifie IL SERA racheté immédiatement — ne lui permettez pas de perdre totalement son identité parmi les païens (Sifra, Behar, chapitre 8 1 ; Kiddushin 20b)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:49",
+      "fr": "ou un oncle ou le fils d'un oncle fera le rachat ; quiconque dans la famille qui est de la même chair fera le rachat ; ou, après avoir prospéré, [vos parents autrefois pauvres] peuvent faire le rachat.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 25:50",
+      "fr": "Le total sera calculé chez l'acquéreur à partir de l'année de la remise à l'autre jusqu'à l'année jubilaire ; le prix de vente sera appliqué au nombre d’années, comme s’il s’agissait d’un mandat d’ouvrier salarié sous l’autorité d’autrui.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "עד שנת היובל [ET IL COMPTERA AVEC LUI…] JUSQU'À L'ANNÉE DU JUBILÉ — car après tout, essentiellement, il ne l'a acheté que pour travailler pour lui jusqu'au Jubilé, car vous devez sûrement admettre qu'au cours du Jubilé, il doit partir libre, comme le dit l'Écriture plus tard (v. 54) « [et s'il n'est pas racheté de cette manière], alors il ira l’année du Jubilé ». Et, bien sûr, l’Écriture parle ici d’un païen qui est sous votre contrôle (c’est-à-dire qui doit se soumettre à votre juridiction, sinon l’Écriture ne pourrait pas lui dicter) (Sifra, Behar, chapitre 9 3 ; Kiddushin 16a). Mais néanmoins, vous ne devez pas adopter des voies tortueuses contre lui, car cela entraînerait une profanation du Nom du Seigneur (Bava Kamma 113a), mais lorsqu'il souhaite être racheté, il doit être exact dans son calcul - les païens lui permettront seulement de déduire de l'argent d'achat le montant qui est dû chaque année : (c'est-à-dire que le Juif ne peut pas exiger une déduction plus importante) ; si e. par exemple, il y a eu vingt ans depuis la date où il a été vendu jusqu'au Jubilé et il l'a acheté pour vingt manehs — et par conséquent les païens ont acheté le travail de chaque année pour un maneh — s'il (le serviteur juif) est resté avec lui cinq ans et souhaite ensuite être racheté, il (le maître) ne doit lui accorder qu'une déduction de cinq manehs sur l'argent de l'achat, de sorte que le serviteur doit lui rembourser quinze manehs. C'est la signification de : והיה כסף ממכרו במספר שנים ; ET LE PRIX DE SA VENTE SERA CALCULÉ COMME EN FONCTION DU NOMBRE D'ANNÉES ;"
+        },
+        {
+          "id": 2,
+          "fr": "כימי שכיר יהיה עמו COMME AU RYTHME DES JOURS D'UN SERVITEUR ENGAGÉ DOIT-IL AVOIR ÉTÉ AVEC LUI — i. e. il calculera le montant dû pour chaque année comme s'il s'était loué avec lui e. par exemple, à raison d'un maneh par an et ce montant lui seul (le maître) doit lui accorder."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:51",
+      "fr": "S'il reste de nombreuses années, [vos proches] rembourseront le rachat proportionnellement au prix d'achat ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אם עוד רבות בשנים SI IL Y A ENCORE DE NOMBREUSES ANNÉES jusqu'au Jubilé."
+        },
+        {
+          "id": 2,
+          "fr": "לפיהן SELON EUX [IL RESTAURERA LE PRIX DE SA RACHAT] — tout cela exactement comme je l'ai expliqué ci-dessus."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:52",
+      "fr": "et s'il reste peu d'années jusqu'à l'année du jubilé, ainsi sera-t-il calculé : le paiement du rachat sera effectué selon les années concernées.",
+      "rashi": []
+    },
+    {
+      "ref": "Leviticus 25:53",
+      "fr": "L’un sera sous l’autorité de l’autre comme ouvrier engagé à l’année ; l'autre ne règnera pas impitoyablement sous vos yeux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא ירדנו בפרך לעיניך IL NE RÉGNERA PAS AVEC RIGUEUR SUR LUI DANS TES YEUX — c'est-à-dire que tu regardes sans inquiétude (Sifra, Behar, Chapitre 8 9 ; cf. Targum Jonathan sur)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:54",
+      "fr": "S'ils ne sont pas rachetés par l'une de ces manières, [vos parents], ainsi que tous leurs enfants, seront libérés au cours de l'année du jubilé.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואם לא יגאל באלה ET S'IL N'EST PAS RACHÉ PAR CES — par ceux-ci (ses parents), il peut être racheté, mais il ne peut pas être racheté par la fin de la période de servitude de six ans comme dans le cas d'un serviteur hébreu d'un maître hébreu (Kiddushin 15b)."
+        },
+        {
+          "id": 2,
+          "fr": "הוא ובניו עמו [IL SORTIRA…] LUI ET SES ENFANTS AVEC LUI — le païen qui acquiert un serviteur hébreu est tenu de fournir également de la nourriture à ses enfants, tout comme le maître israélite (cf. Rachi v. 41)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 25:55",
+      "fr": "Car c'est pour Moi que les Israélites sont mes serviteurs : ce sont Mes serviteurs, que J'ai affranchis du pays d'Égypte, Moi, l'ÉTERNEL, votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי לי מי ישראל עבדים POUR MOI LES ENFANTS D'ISRAËL SONT SERVITEUR — Mon document (acte d'achat) est d'une date antérieure (cf. Rachi au v. 42)."
+        },
+        {
+          "id": 2,
+          "fr": "אני ה׳ אלהיכם JE SUIS LE SEIGNEUR VOTRE DIEU — Celui qui vous asservit (les Israélites) sur terre l'asservit, pour ainsi dire, au ciel (Sifra, Behar, chapitre 9 4)."
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 26:1",
+      "fr": "Vous ne vous ferez pas d'idoles, vous ne vous érigerez pas d'images ou de colonnes taillées, et vous ne placerez pas de figuresfigurées. Signification de Héb. masque incertain ; cf. Nombre. 33.52. des pierres sur lesquelles vous adorerez dans votre pays, car Moi, l'ÉTERNEL, je suis votre Dieu.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לא תעשו לכם אלילם VOUS NE FAIREZ PAS D'IDOLES Ce commandement est répété ici en référence à celui qui s'est vendu comme esclave à un non-juif afin qu'il ne dise pas : « Puisque mon maître est un libertin, je serai comme lui ; puisque mon maître adore les idoles, je serai comme lui ; puisque mon maître profane le sabbat, je serai comme hin\", c'est pour cette raison que ces versets (v. 1 et v. 2) ont été énoncés. En effet, toutes ces sections (celles de l'ensemble de la Sedrah) sont énoncées dans l'ordre dans lequel les incidents auxquels elles se réfèrent se produisent réellement. La première Écriture avertit les gens au sujet des produits de la septième année (de ne pas en faire le commerce). Mais si quelqu'un est avare d'argent et se sent constamment soupçonné de faire le commerce des fruits de la septième année, il lui faudra un jour ou l'autre vendre ses biens meubles à cause de sa misère. C’est pour cette raison que l’Écriture y juxtapose (« Et quand vous faites une vente [à votre confrère juif] » (25 : 14) « ou faites un achat de la main… », quelque chose qui se transmet de main en main). S’il ne se repent toujours pas, il devra éventuellement vendre son héritage (25 : 25). S’il ne se repent pas, il devra éventuellement vendre sa maison, et s’il ne se repent pas, il devra éventuellement emprunter de l’argent avec intérêts (versets 25 : 35-38). Or, plus le scénario de ce passage est tardif, plus il est grave [c'est-à-dire qu'il vend d'abord ses biens, puis sa propriété, puis sa maison et puis même emprunte avec intérêts, ce qui est plus sévère que la vente de sa propriété ; (Nachalath Ya'akov) ainsi, le passage continue en conséquence, car] s'il ne se repent toujours pas, il devra éventuellement se vendre [à son compatriote juif comme serviteur] (versets 25 : 39-46) ; et [enfin,] s'il ne s'est toujours pas repenti, pas assez pour qu'il ait dû être vendu à son compatriote juif - mais il [sera obligé de se vendre] même à un non-juif ! (Kiddouchin 20a)"
+        },
+        {
+          "id": 2,
+          "fr": "ואבן משכית (une sorte de pavé en mosaïque) — Le mot משכית est une expression désignant « couvrir », semblable au verbe dans (Exode 33 :22) « Je te couvrirai (ושכותי) de ma main ». Une telle mosaïque est ainsi appelée parce que les gens recouvrent le sol d'un pavé de pierres."
+        },
+        {
+          "id": 3,
+          "fr": "להשתחות עליה DE VOUS PROSTERNER SUR CELA, pas même devant le Seigneur, puisque la prosternation implique d'étendre les mains et les pieds (la plus haute forme d'adoration) et que l'Écriture interdit de le faire en dehors du Temple (Megillah 22b)"
+        }
+      ]
+    },
+    {
+      "ref": "Leviticus 26:2",
+      "fr": "Vous observerez mes sabbats et vénérerez mon sanctuaire, le mien, celui de DIEU.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "‎'אני ה‎ JE SUIS LE SEIGNEUR, qui suis fidèle pour vous payer votre récompense."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "name": "Vayigash",
+  "range": "Genesis 44:18-47:27",
+  "verses": [
+    {
+      "ref": "Genesis 44:18",
+      "fr": "Alors Juda s'approcha de lui et lui dit : « S'il te plaît, mon seigneur, que ton serviteur fasse appel à mon seigneur, et ne t'impatiente pas envers ton serviteur, toi qui es l'égal de Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויגש אליו וגו' . . . דבר באזני אדני PUIS JUDAH S'EST VENU PRÈS DE LUI etc. [LAISSEZ VOTRE SERVITEUR PARLER] UNE MOT DANS LES OREILLES DE MON SEIGNEUR etc. Que mes paroles pénètrent dans vos oreilles (Genèse Rabbah 93 : 6)."
+        },
+        {
+          "id": 2,
+          "fr": "ואל יחר אפך ET QUE TA COLÈRE NE BRILLE PAS ] De ces mots, vous pouvez déduire qu'il lui a parlé en termes durs."
+        },
+        {
+          "id": 3,
+          "fr": "כי כמוך כפרעה CAR TU ES MÊME COMME PHARAON — À mes yeux, tu es aussi important que le roi. C'est le sens littéral, mais une explication midrashique est la suivante : vous serez finalement frappé de la lèpre pour avoir détenu Benjamin, tout comme votre ancêtre Pharaon a été frappé parce qu'il a détenu mon ancêtre Sarah une nuit. Une autre explication est : vous êtes aussi peu fiables que Pharaon – tout comme Pharaon donne des décrets et ne les exécute pas, fait des promesses et ne les tient pas, vous aussi. Est-ce ce que vous vouliez dire par « poser vos yeux sur lui » lorsque vous avez dit (Genèse 44 :21) « Faites-le tomber et je poserai mes yeux sur lui » ? Encore une autre interprétation de כי כמוך כפרעה CAR TU DEVIENS MÊME COMME PHARAON : si tu me provoques, je te tuerai, toi et ton maître (Genèse Rabbah 93 : 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:19",
+      "fr": "Mon seigneur demanda à ses serviteurs : « Avez-vous un père ou un autre frère ?",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אדני שאל את עבדיו MON SEIGNEUR A DEMANDÉ À SES SERVITEURS — Dès le début, vous êtes venus avec un prétexte contre nous. Pourquoi aviez-vous besoin de nous poser toutes ces questions ? Étions-nous en train de demander votre fille en mariage ou est-ce que vous demandiez notre sœur ? Et pourtant"
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:20",
+      "fr": "Nous avons dit à mon seigneur : « Nous avons un père âgé, et il y a un enfant de sa vieillesse, le plus jeune ; son propre frère est mort, de sorte que lui seul reste de sa mère, et son père raffole de lui.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ונאמר אל אדני NOUS AVONS DIT À MON SEIGNEUR — nous ne vous avons rien caché (Genèse Rabbah 93 : 8)."
+        },
+        {
+          "id": 2,
+          "fr": "ואחיו מת ET SON FRÈRE EST MORT — Il a prononcé ce mensonge par peur. Il pensa : si je lui dis qu'il est vivant, il pourra dire « Amène-le-moi »."
+        },
+        {
+          "id": 3,
+          "fr": "לבדו לאמו [IL] SEUL [EST GAUCHE] DE SA MÈRE — de cette mère, il n'a pas d'autre frère."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:21",
+      "fr": "Alors vous avez dit à vos serviteurs : « Faites-le descendre vers moi, et je le verrai. »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:22",
+      "fr": "Nous avons dit à mon seigneur : « Le garçon ne peut pas quitter son père ; s’il le quittait, son père mourrait.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועזב את אביו ומת CAR S'IL DEVRAIT QUITTER SON PÈRE, IL MEURT — S'il quitte son père, nous craindrons qu'il ne meure en voyage, car en effet sa mère est morte pendant un voyage."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:23",
+      "fr": "Mais vous avez dit à vos serviteurs : « À moins que votre plus jeune frère ne descende avec vous, ne me laissez pas voir vos visages. »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:24",
+      "fr": "Lorsque nous sommes revenus vers ton serviteur mon père, nous lui avons rapporté les paroles de mon seigneur.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:25",
+      "fr": "« Plus tard, notre père a dit : ‘Retourne et achète-nous de la nourriture.’",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:26",
+      "fr": "Nous avons répondu : « Nous ne pouvons pas descendre ; nous ne pouvons descendre que si notre plus jeune frère est avec nous, car nous ne pouvons pas montrer notre visage au mana. \"Voyez le visage de l'homme.\" à moins que notre plus jeune frère ne soit avec nous.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:27",
+      "fr": "Ton serviteur, mon père, nous a dit : « Comme vous le savez, ma femme m'a donné deux fils.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:28",
+      "fr": "Mais l'un d'eux m'a disparu, et j'ai dit : Hélas, il a été déchiré par une bête ! Et je ne l'ai pas revu depuis.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:29",
+      "fr": "Si vous m'enlevez celui-ci aussi et qu'il rencontre un malheur, vous enverrez ma tête blanche au schéol avec tristesse.'",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וקרהו אסון ET LES MÉCHANTS LUI ATTAQUENT — Car Satan porte plainte contre les hommes à l'heure du danger (Genèse Rabbah 91.9)."
+        },
+        {
+          "id": 2,
+          "fr": "'והורדתם את שיבתי וגו VOUS FAITES tomber MES CHEVEUX GRIS, etc. — Pendant que Benjamin est à mes côtés, je trouve du réconfort en lui pour la perte de sa mère et de son frère, de sorte que s'il meurt, il me semblera que tous les trois sont morts le même jour."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:30",
+      "fr": "« Maintenant, si je viens chez ton serviteur, mon père, et que le garçon n'est pas avec nous, puisque sa propre vie est tellement liée à la sienne...",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 44:31",
+      "fr": "quand il verra que le garçon n'est pas avec nous, il mourra, et tes serviteurs enverront la tête blanche de ton serviteur notre père au shéol dans le chagrin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והיה כראותו כי אין הנער ומת CELA ARRIVERA QUAND IL VOIR QUE LE GARÇON N'EST PAS AVEC NOUS, QU'IL MOURRA, c'est-à-dire que son père mourra de chagrin."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:32",
+      "fr": "Maintenant, ton serviteur s'est engagé auprès de mon père pour l'enfant, en disant : Si je ne te le ramène pas, je serai coupable pour toujours devant mon père.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי עבדך ערב את הנער CAR TON SERVITEUR EST DEVENU GARANTIE POUR LE GARÇON — Si tu me demandes pourquoi je participe au concours (défendre sa cause) plus fortement que mes autres frères — alors je vous dis : j'ai plus à perdre ; ils se tiennent tous en dehors du sujet (ils s'en soucient moins que moi), mais je me suis placé sous le lien ferme d'être un paria dans les deux mondes."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:33",
+      "fr": "C'est pourquoi, s'il te plaît, laisse ton serviteur rester l'esclave de mon seigneur à la place du garçon, et laisse le garçon retourner avec ses frères.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'ישב נא עבדך וגו LAISSEZ TON SERVITEUR DEMEURER etc. — À toutes fins, je lui suis supérieur en force — que ce soit pour la bataille ou pour le service en tant qu'esclave."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 44:34",
+      "fr": "Car comment puis-je retourner auprès de mon père si le garçon n'est pas avec moi ? Que je ne sois pas témoin du malheur qui allait s'abattre sur mon père !",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:1",
+      "fr": "Joseph ne pouvait plus se contrôler devant tous ses serviteurs et il cria : « Que tout le monde s'éloigne de moi ! » Il n’y avait donc personne d’autre lorsque Joseph se fit connaître à ses frères.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולא יכל יוסף להתאפק לכל הנצבים ET JOSEPH NE PEUVENT PAS SE RETENIR DEVANT TOUS QUI S'ONT TENUS ] Il ne pouvait pas supporter que les Égyptiens se tiennent à ses côtés, témoins de la honte de ses frères lorsqu'il se ferait connaître à eux."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:2",
+      "fr": "Ses sanglots étaient si forts que les Égyptiens pouvaient les entendre, et la nouvelle parvint donc au palais du Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישמע בית פרעה ET ​​LA MAISON DE PHARAON L'ENTENTENT ] La maison de Pharaon désigne ses serviteurs et les membres de sa maison. בית ici ne signifie pas une maison réelle (de sorte que les mots signifieraient « et on l'entendit dans la maison de Pharaon ; cf. 5:16), mais il est similaire à (1 Rois 12:21) בית ישראל « la maison d'Israël », ou בית יהודה la maison de Juda », signifiant le peuple de Juda. vieux français maisniede anglais tous les habitants d'une maison."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:3",
+      "fr": "Joseph dit à ses frères : \"Je m'appelle Joseph. Mon père va-t-il encore bien ?\" Mais ses frères ne purent lui répondre, tellement ils étaient stupéfaits à son sujet.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נבהלו מפניו [POUR] ILS ONT ÉTÉ ÉTONNÉS DE SA PRÉSENCE — par honte."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:4",
+      "fr": "Alors Joseph dit à ses frères : « Approchez-vous de moi. » Et quand ils s'avancèrent, il dit : « Je suis ton frère Joseph, celui que tu as vendu en Égypte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "גשו נא אלי Approchez-vous de moi, je vous prie — Il a vu qu'ils reculaient et il s'est dit \"Maintenant, mes frères ont honte\". Il les appela donc et leur montra qu'il était circoncis. (Genèse Rabba 93 : 10)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:5",
+      "fr": "Maintenant, ne vous affligez pas et ne vous faites pas de reproches parce que vous m'avez vendu ici ; c'est pour sauver la vie que Dieu m'a envoyé devant vous.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "למחיה POUR LA PRÉSERVATION DE LA VIE — c'est-à-dire que je puisse être envers vous pour la préservation de la vie."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:6",
+      "fr": "Cela fait maintenant deux ans que la famine règne dans le pays, et il y aura encore cinq années pendant lesquelles il n'y aura pas de rendement des labours.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כי זה שנתים הרעב signifie CAR CES DEUX ANNÉES DE FAMINE se sont écoulées parmi les années de famine qui doivent arriver dans le pays."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:7",
+      "fr": "Dieu m'a envoyé devant vous pour assurer votre survie sur terre et pour sauver vos vies dans une délivrance extraordinaire.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:8",
+      "fr": "Ce n’est donc pas vous qui m’avez envoyé ici, mais Dieu, qui a fait de moi un père pour Pharaon, un père pour Pharaon, c’est-à-dire le chancelier de Pharaon ; cf. Isa. 22h20-21. seigneur de toute sa maison, et gouverneur de tout le pays d'Égypte.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לאב UN PÈRE — il a fait de moi son collègue et il m'a conféré la dignité de « Père du roi »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:9",
+      "fr": "« Maintenant, retourne vite vers mon père et dis-lui : Ainsi parle ton fils Joseph : Dieu m'a établi seigneur de toute l'Égypte ; descends vers moi sans tarder.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ועלו אל אבי ET MONTEZ VERS MON PÈRE — il a dit « monte » parce que la terre d'Israël est située plus haut que tous les pays voisins (Kiddushin 69a)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:10",
+      "fr": "Vous habiterez dans la région de Goshen, où vous serez près de moi, vous et vos enfants et petits-enfants, vos troupeaux et tout ce qui est à vous.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:11",
+      "fr": "Là, je pourvoirai à vos besoins, car il y a encore cinq années de famine, afin que vous, votre maison et tout ce qui vous appartient, ne souffriez pas du besoin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "פן תורש — Le Targum rend cela par דלמא תתמסכן DE PEUR QUE VOUS NE SOYEZ APPAUVRIS, car le verbe a la même racine que celle que nous trouvons dans (1 Samuel 2 : 7) « Le Seigneur rend pauvre (מוריש) et rend riche »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:12",
+      "fr": "Vous voyez par vous-mêmes, et par mon frère Benjamin par lui-même, que c'est bien moi qui vous parle.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והנה עיניכם ראות ET, VOYEZ, TES YEUX VOYENT ma gloire, et que je suis ton frère, et plus loin כי פי המדבר אליכם QUE C'EST MA BOUCHE QUI VOUS PARLE dans la Langue Sainte) (Genèse Rabbah 93:10)."
+        },
+        {
+          "id": 2,
+          "fr": "ועיני אחי בנימין [VOS YEUX] ET LES YEUX DE MON FRÈRE BENJAMIN — il les mentionne séparément et de la même manière pour laisser entendre : tout comme je n'éprouve aucune haine contre Benjamin, mon frère, car il n'a pas participé à ma vente, de même mon cœur est libre de haine contre toi (Méguillah 16b)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:13",
+      "fr": "Et tu devras tout raconter à mon père sur ma haute position en Egypte et tout ce que tu as vu ; et amène mon père ici au plus vite.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:14",
+      "fr": "Sur ce, il embrassa Lit. \"est tombé dessus.\" son frère Benjamin autour du cou et pleura, et Benjamin pleura sur son cou.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויפל על צוארי בנימן אחיו ויבך ET IL TOMBE AU COU DE SON FRÈRE BENJAMIN ET Pleura — pour les temples qui devaient être sur le territoire de Benjamin et qui seraient finalement mis en ruines (Genèse Rabbah 93 : 12)."
+        },
+        {
+          "id": 2,
+          "fr": "ובנימין בכה על צואריו ET BENJAMIN PLEURENT SUR SON COU — pour le Tabernacle de Silo qui devait être sur le territoire de Joseph et qui serait finalement mis en ruines (Genèse Rabbah 93 : 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:15",
+      "fr": "Il embrassa tous ses frères et pleura sur eux ; ce n'est qu'à ce moment-là que ses frères ont pu lui parler.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואחרי כן ET APRÈS CELA — après qu'ils virent qu'il pleurait et réalisèrent qu'il était pacifiquement enclin à leur égard, דברו אחיו אתו SES FRÈRES PARLENT AVEC LUI — Car au début ils se sentirent confus devant lui."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:16",
+      "fr": "La nouvelle parvint au palais du Pharaon : « Les frères de Joseph sont arrivés ». Pharaon et ses courtisans étaient contents.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "והקל נשמע בית פרעה ET ​​LA RENOMMÉE DE CELUI-CI A ÉTÉ ENTENDU DANS LA MAISON DE PHARAON ] C'est la même chose que בבית, dans la maison de Pharaon et ici il désigne la maison réelle (cp. 45:2)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:17",
+      "fr": "Et Pharaon dit à Joseph : « Dis à vos frères : Faites ce qui suit : chargez vos bêtes et partez immédiatement au pays de Canaan.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "טענו את בעירכם LADE YOUR BEASTS — avec du grain."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:18",
+      "fr": "Prenez votre père et vos maisons et venez vers moi ; Je vous donnerai le meilleur du pays d’Égypte et vous vivrez de la graisse du pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "את טוב אוץ מצרים LE MEILLEUR DU PAYS D'ÉGYPTE — à savoir, le district de Goshen. Il a prophétisé sans savoir ce qu'il prophétisait lorsqu'il a dit « Je vous donnerai le meilleur du pays d'Égypte », car finalement ils devaient le rendre semblable aux profondeurs de la mer dans lesquelles il n'y a pas de poisson (c'est-à-dire qu'ils emporteraient le meilleur du pays lorsqu'ils quitteraient l'Égypte) (Berakhot 9b)."
+        },
+        {
+          "id": 2,
+          "fr": "חלב הארץ LA GRAISSE DE LA TERRE — Le mot חלב désigne toujours la meilleure partie d'une chose."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:19",
+      "fr": "Et il vous est demandé d'ajouter : « Faites ce qui suit : prenez du pays d'Égypte des chariots pour vos enfants et vos femmes, et amenez ici votre père.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואתה צויתה MAINTENANT TU ES COMMANDÉ — fournis les mots par moi (allumés, par ma bouche) pour leur dire"
+        },
+        {
+          "id": 2,
+          "fr": "זאת עשו FAITES CECI ] Dites-leur donc : que cela se fait avec ma permission."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:20",
+      "fr": "Et ne vous souciez pas de vos biens, car le meilleur de tout le pays d’Égypte sera à vous.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:21",
+      "fr": "Les fils d'Israël l'ont fait ; Joseph leur donna des chariots comme Pharaon l'avait ordonné, et il leur fournit des provisions pour le voyage.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:22",
+      "fr": "Il donna en outre à chacun des vêtements de rechange ; mais il donna à Benjamin trois cents pièces d'argent et plusieurs lires. \"cinq\"; cf. 43.34. changements de vêtements.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:23",
+      "fr": "Et il envoya à son père dix ânes chargés des meilleures choses d'Egypte, et dix jennies chargées de blé, de pain et de provisions pour son père pendant le voyage.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שלח כזאת IL A ENVOYÉ DE CETTE MANIÈRE — selon ce montant. Et quel était le montant ? עשרה חמרים וגו׳ dix ânes, etc. (c'est-à-dire autant que dix ânes pourraient transporter)."
+        },
+        {
+          "id": 2,
+          "fr": "מטוב מצרים DES MEILLEURES CHOSES D'EGYPTE — Nous trouvons qu'il est dit dans le Talmud (Méguillah 16b) qu'il lui envoya du vieux vin que les personnes âgées aiment beaucoup. Le Midrash déclare qu'il lui a envoyé des haricots cassés. (Genèse Rabba 94 : 2)."
+        },
+        {
+          "id": 3,
+          "fr": "בר ולחם MAÏS ET PAIN — comprenez cela tel que le Targum le rend."
+        },
+        {
+          "id": 4,
+          "fr": "ומזון signifie les choses qui sont mangées avec du pain."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:24",
+      "fr": "Alors qu'il renvoyait ses frères, il leur dit : « Ne vous disputez pas en chemin. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תרגזו בדרך NE SOYEZ PAS AGITÉ PAR LE CHEMIN — Ne vous occupez pas de discussions halakhiques de peur que le chemin ne devienne instable pour vous (c'est-à-dire de peur que vous ne vous perdiez). Une autre explication est : Ne faites pas de très grands pas et entrez dans la ville où vous passerez la nuit alors que le soleil brille encore (Taanit 10b). Cependant, selon le sens simple du verset, cela doit être expliqué ainsi : Parce qu'ils avaient honte, il craignait qu'ils ne se disputent en chemin au sujet de sa vente, se disputant entre eux. On dirait : « C'est par vous qu'il a été vendu ». Un autre : « C'est vous qui avez tenu des propos calomnieux à son égard et qui nous avez amené à le haïr »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:25",
+      "fr": "Ils montèrent d'Egypte et arrivèrent chez leur père Jacob au pays de Canaan.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 45:26",
+      "fr": "Et ils lui dirent : « Joseph est encore en vie ; oui, il règne sur tout le pays d'Égypte. » Son cœur s'engourdit, car il ne les croyait pas.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וכי הוא משל — le mot וכי est utilisé ici dans le sens de אשר « cela » : ET QU'IL ÉTAIT DIRIGEANT."
+        },
+        {
+          "id": 2,
+          "fr": "ויפג לבו ET LE COEUR DE JACOB CONTINUE FROID — son cœur est décédé (נחלף) et a cessé de croire — son cœur n'a pas prêté attention à leurs paroles. Le mot ויפג a la même signification que (Beitzah 14a) « toutes les épices laissent passer leur goût (מפיגין) » (c'est-à-dire perdent leur goût) en hébreu mishnique. Similaire est (Lamentations 3:49) « sans (הפגות) entracte ». Les mots (Jérémie 48 :11) « et son odeur n'est pas changée (נמר) » sont rendus dans le Targum par « et son odeur n'a pas את כל דברי יוסף."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:27",
+      "fr": "Mais quand ils racontèrent tout ce que Joseph leur avait dit, et quand il vit les chariots que Joseph avait envoyés pour le transporter, l'esprit de leur père Jacob revint.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": ".(פג TOUTES LES PAROLES DE JOSEPH — Comme preuve que c'était Joseph qui envoyait ce message, il les avait informés du sujet religieux qu'il étudiait avec son père au moment où il l'avait quitté, à savoir, la section de la génisse (עגלה) qui avait le cou brisé (Deutéronome 21 :6). C'est à cela que l'Écriture se réfère dans les mots « Et il vit (c'est-à-dire comprit le sens de) le עגלות (ici à prendre dans le sens de Génisse) que Joseph avait envoyé — et il n'indique pas « quel Pharaon avait envoyé » (comme on pourrait s'y attendre si עגלות signifiait des chariots) (Genèse Rabbah 94 : 3)."
+        },
+        {
+          "id": 2,
+          "fr": "ותחי רוח יעקב L'ESPRIT DE JACOB [LEUR PÈRE] RAVIVÉ — La Shechinah qui l'avait quitté reposa de nouveau sur lui (cf. Onkelos)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 45:28",
+      "fr": "\"Assez!\" dit Israël. \"Mon fils Joseph est toujours en vie ! Je dois aller le voir avant de mourir.\"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "רב ASSEZ ou BEAUCOUP — Beaucoup de joie et de plaisir m'attendent encore, puisque mon fils Joseph est encore en vie."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:1",
+      "fr": "Alors Israël partit avec tout ce qui lui appartenait, et il arriva à Beer-Sheba, où il offrit des sacrifices au Dieu de son père Isaac, son père Isaac, c'est-à-dire Isaac et sa maison.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "Le suffixe ה remplace le préfixe ל locale (Yevamot 13b)."
+        },
+        {
+          "id": 2,
+          "fr": "לאלהי אביו יצחק AU DIEU DE SON PÈRE, ISAAC — Le devoir d’honorer son père est plus impératif que celui d’honorer son grand-père (Genèse Rabbah 94 : 5) ; donc les sacrifices sont associés au nom d'Isaac et non à celui d'Abraham."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:2",
+      "fr": "Dieu a appelé Israël dans une vision nocturne : \" Jacob ! Jacob ! \" Il a répondu : « Ici ».",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "יעקב יעקב JACOB, JACOB — La répétition du nom est une marque d'affection (Sifra, Vayikra Dibbura d'Nedavah, chapitre 1 12)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:3",
+      "fr": "« Je suis Dieu, le Dieu de ton père.par ton père Cf. note au v. 1. Ne crains pas de descendre en Égypte, car j'y ferai de toi une grande nation.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אל תירא מרדה מצרימה PEUR DE NE PAS DESCENDRE EN ÉGYPTE — Dieu lui a dit cela parce qu'il était peiné d'avoir été contraint de quitter la Terre d'Israël (Pirkei DeRabbi Eliezer 39)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:4",
+      "fr": "Moi-même je descendrai avec vous en Égypte, et moi aussi je vous ramènerai ; et la main de Joseph te fermera les yeux.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואנכי אעלך ET MOI-MÊME VOUS FAIRERAI SÛREMENT AUSSI DE NOUVEAU — Ici, Il lui a promis qu'il serait enterré en Terre Sainte (Talmud Yerushalmi Sotah 1:10)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:5",
+      "fr": "Jacob partit donc de Beer-Sheba. Les fils d'Israël mirent leur père Jacob, leurs enfants et leurs femmes dans les chariots que Pharaon avait envoyés pour le transporter ;",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:6",
+      "fr": "et ils emportèrent leur bétail et les richesses qu'ils avaient amassées au pays de Canaan. Ainsi Jacob et toute sa postérité avec lui arrivèrent en Egypte :",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אשר רכשו בארץ כנען QU'ILS AVONT OBTENUS AU PAYS DE CANAAN ] Mais tout ce qu'il avait obtenu à Padan-aram, il le donna à Ésaü en paiement de sa part dans la grotte de Macpéla. Il a dit : « Les biens que j'ai acquis en dehors de la terre n'ont aucune valeur pour moi ». C'est à cela que se réfèrent les mots (Genèse 50 :5) « [Enterrez-moi dans mon sépulcre] que כריתי » j'ai obtenu pour moi-même au moyen d'un כרי. Il plaça devant lui (Ésaü) des tas d'or et d'argent comme un tas (כרי) de maïs et lui dit : « Prends-les en échange de ta part dans la grotte de Macpéla » (Midrash Tanchuma, Vayechi 6)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:7",
+      "fr": "il amena avec lui en Égypte ses fils et petits-fils, ses filles et petites-filles, toute sa postérité.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ובנות בניו LES FILLES DE SON FILS : ce furent Sérach, fille d'Aser, et Jokébed, fille de Lévi."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:8",
+      "fr": "Tels sont les noms des Israélites, Jacob et ses descendants, qui vinrent en Égypte. Ruben, le premier-né de Jacob ;",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הבאים מצרימה QUI EST VENU EN ÉGYPTE — Par rapport à l'époque où ils allaient en Égypte, l'Écriture les appelle « ceux qui venaient » en Égypte (le participe) et il ne faut donc pas s'étonner qu'elle ne précise pas אשר באו « qui est venu » (le temps parfait)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:9",
+      "fr": "Fils de Ruben : Enoch,cEnoch Ou « Hanoch ». Pallu, Hezron et Carmi.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:10",
+      "fr": "Fils de Siméon : Jemuel, Jamin, Ohad, Jachin, Zohar et SauldSaul ou « Shaul ». le fils d'une femme cananéenne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בן הכנענית LE FILS DE LA FEMME CANAÉNITAIRE — signifie le fils de Dinah, qui avait été associé à un Cananéen (Sichem). Quand ils (ses frères) eurent tué Sichem, Dinah refusa de quitter la ville jusqu'à ce que Siméon lui jure qu'il l'épouserait et considérerait l'enfant qu'elle était sur le point de porter comme le sien (cf. Genèse Rabbah 80 : 11)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:11",
+      "fr": "Fils de Lévi : Gershon, Kehath et Merari.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:12",
+      "fr": "Fils de Juda : Er, Onan, Schéla, Pérets et Zérah ; mais Er et Onan étaient morts au pays de Canaan ; Les fils de Perez furent Hetsron et Hamul.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:13",
+      "fr": "Fils d'Issacar : Tola, Pouva, Iob et Shimron.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:14",
+      "fr": "Fils de Zabulon : Sered, Elon et Jahleel.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:15",
+      "fr": "Ce sont là les fils que Léa enfanta à Jacob à Paddan-Aram, en plus de sa fille Dina. Personnes en tout, hommes et femmes : 33.e33 Y compris Jacob.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אלה בני לאה ואת דינה בתו CE SONT LES FILS DE LÉAH AVEC SA FILLE DINAH. — L'Écriture associe les hommes au nom de Léa et les femmes à celui de Jacob pour la raison donnée dans le Talmud (Niddah 31a)."
+        },
+        {
+          "id": 2,
+          "fr": "שלשים ושלש TRENTE TROIS — Mais dans l'énumération ci-dessus, vous n'en trouverez que trente-deux. Celui dont le nom est omis est Jokébed qui est né « entre les murs » juste au moment où ils entraient dans la ville frontière, comme il est dit (Nombres 26 :59) « Jokébed, la fille de Lévi, que sa mère enfanta à Lévi en Égypte, elle est née en Égypte, mais elle n'a pas été conçue en Égypte (Bava Batra 123)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:16",
+      "fr": "Fils de Gad : Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi et Areli.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:17",
+      "fr": "Fils d'Aser : Jimna, Ishva, Ishvi et Beriah, et leur sœur Serah. Fils de Beria : Héber et Malchiel.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:18",
+      "fr": "Tels étaient les descendants de Zilpa, que Laban avait donnée à sa fille Léa. Elle les enfanta à Jacob : seize personnes.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:19",
+      "fr": "Les fils de Rachel, femme de Jacob, étaient Joseph et Benjamin.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בני רחל אשת יעקב LES FILS DE RACHEL, FEMME DE JACOB — Dans le cas de toutes les autres épouses de Jacob, le terme אשת « épouse » n'est pas mentionné. Mais la raison en est qu’elle était la maîtresse principale de la maison (Genèse Rabbah 73 : 1)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:20",
+      "fr": "De Joseph naquirent au pays d'Égypte Manassé et Éphraïm, que lui enfantèrent Asenath, fille du prêtre Poti-Phéra d'On.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:21",
+      "fr": "Fils de Benjamin : Béla, Becher, Ashbel, Guéra, Naaman, Ehi, Rosh, Muppim, Huppim et Ard.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:22",
+      "fr": "Ce sont là les descendants de Rachel, nés de Jacob, soit 14 personnes en tout.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:23",
+      "fr": "Fils de Dan : fson Héb. «fils». Hushim.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:24",
+      "fr": "Fils de Nephthali : Jahzeel, Guni, Jezer et Schillem.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:25",
+      "fr": "Tels étaient les descendants de Bilhah, que Laban avait donné à sa fille Rachel. Elle les enfanta à Jacob, sept personnes en tout.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:26",
+      "fr": "Toutes les personnes appartenant à Jacob qui sont venues en Égypte, sans compter Joseph et les deux fils de Joseph, sa propre descendance, outre les femmes des fils de Jacob, toutes ces personnes étaient au nombre de 66.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "כל הנפש הבאה ליעקב CHAQUE ÂME QUI VENAIT AVEC JACOB — chaque âme qui a quitté Canaan pour aller en Égypte Le mot הבאה, ici, n'est pas un temps parfait, mais un participe avec un sens relatif présent — tout comme (Ester 2 : 4) « Le soir, elle (באה) était venir » et (Genèse 29 :7) « et voici, Rachel, sa fille, vient (באה) » et donc l'accent est sur la dernière syllabe, sur le א, car lorsqu'ils partirent, venant du pays de Canaan, ils n'étaient que soixante-six. Mais à la deuxième mention de ce mot (Genèse 46 :27) — « toutes les âmes de la maison de Jacob qui vinrent (הבאה) en Égypte étaient soixante-dix » – c'est un temps parfait et donc il est accentué sur l'avant-dernière syllabe, sur le ב. La raison en est qu'à leur arrivée, ils étaient soixante-dix, car ils y trouvèrent Joseph et ses deux fils, et Jokébed fut ajouté à leur nombre « entre les murs ». Selon le point de vue du rabbin (c.-à-d. R. Jehudah, cf. Genèse Rabbah 84) qui a déclaré qu'avec chacun des fils de Jacob était née une sœur jumelle, nous devons dire que celles-ci sont mortes avant qu'ils (Jacob et sa famille) ne descendent en Égypte, car ils ne sont pas énumérés ici. Dans Vayikra Rabbah 4 :6, j’ai trouvé ce qui suit : Lorsqu’il quitta Canaan (cf. Genèse 36 :6), la famille d’Ésaü ne comptait que six personnes (lui-même et ses cinq fils), et l’Écriture les appelle « les âmes de sa maison » (au pluriel) et c’est parce qu’ils adoraient de nombreux dieux (chacun servant un dieu différent et ayant pour ainsi dire une âme ou un sentiment religieux différent). Mais la famille de Jacob lorsqu’il arriva en Égypte était composée de soixante-dix personnes et l’Écriture les appelle « âme », au singulier, parce qu’ils servaient tous un seul Dieu."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:27",
+      "fr": "Et les fils de Joseph qui lui naquirent en Égypte étaient au nombre de deux. Ainsi, le total de la maison de Jacob qui vint en Égypte était de soixante-dix personnes. Soixante-dix personnes, y compris Jacob et Joseph.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:28",
+      "fr": "Il avait envoyé Juda devant lui vers Joseph, pour lui montrer le chemin de Goshen. Lorsqu'ils arrivèrent dans la région de Goshen,",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "להורת לפניו POUR LE DIRIGER — Rendre ceci comme le fait le Targum : lui préparer une place et lui montrer comment il doit s'y installer."
+        },
+        {
+          "id": 2,
+          "fr": "לפניו AVANT LUI — signifie avant qu'il n'y arrive. Un commentaire midrashique est : להורת לפניו (dans le sens de « afin qu'il y ait un enseignement devant lui ») — pour établir pour lui une maison d'étude d'où l'enseignement (הוראה ou תורה) pourrait sortir (Genèse Rabbah 95 : 3)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:29",
+      "fr": "Joseph ordonnalit. \"attaché.\" son char et partit pour Goshen à la rencontre de son père Israël ; il se présenta à lui et, l'embrassant autour du cou, il pleura longuement sur son cou.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויאסר יוסף מרכבתו ET JOSEPH PRÉPARENT (littéralement, attaché, attelé) SON CHAR — Il attela lui-même les chevaux au char, désireux de montrer l'honneur à son père (Genèse Rabbah 95 : 8 ; Mechilta à בשלח)."
+        },
+        {
+          "id": 2,
+          "fr": "וירא אליו ET IL APPARAIT DEVANT LUI — Joseph apparut devant son père."
+        },
+        {
+          "id": 3,
+          "fr": "ויבך על צואריו עוד ET PLEURÉ SUR SON COU PENDANT BON TEMPS — L'expression ויבך עוד signifie pleurer abondamment. De même, עוד a la même signification dans (Job 34 :23) « Car il ne place pas sur un homme עוד » – ce qui signifie quelque chose de plus que ce qui est approprié : Dieu ne lui impose pas d’accusations supplémentaires à ses péchés (les péchés qu’il a réellement commis). Ici aussi, il a pleuré abondamment et continuellement – ​​plus que d’habitude. Jacob, cependant, ne tomba pas au cou de Joseph et ne l’embrassa pas non plus. Nos rabbins disent : la raison était qu'il récitait le Shema (renouvellement de son allégeance à Dieu immédiatement après s'être installé dans un nouveau pays)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:30",
+      "fr": "Alors Israël dit à Joseph : « Maintenant, je peux mourir, ayant constaté par moi-même que tu es encore en vie. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אמותה הפעם MAINTENANT, JE VAIS MOURIR — Son sens littéral est tel que le rend le Targum. Une explication midrashique est (basée sur la traduction littérale : « Je mourrai cette fois ») : j'avais pensé que je mourrais de deux morts, dans ce monde et aussi dans le monde à venir, parce que la Présence Divine s'est éloignée de moi et j'ai donc pensé que Dieu me tiendrait responsable de votre mort. Maintenant, puisque tu es vivant, je ne mourrai qu'une seule fois, dans ce monde (Midrash Tanchuma, Vayigash 9)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:31",
+      "fr": "Alors Joseph dit à ses frères et à la maison de son père : « Je monterai et j'annoncerai la nouvelle à Pharaon, et je lui dirai : Mes frères et la maison de mon père, qui étaient au pays de Canaan, sont venus vers moi.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "'ואמרה אליו אחי וגו ET JE LUI DIRAI : « MES FRÈRES… sont venus à moi » et plus loin je lui dirai : והאנשים רעי צאן 'וגו ET LES HOMMES SONT DES BERGERS etc."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 46:32",
+      "fr": "Il se trouve qu’ils sont bergers ; ils ont toujours été éleveurs de bétail et ils ont amené avec eux leurs troupeaux et tout ce qui leur appartient.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:33",
+      "fr": "Ainsi, lorsque Pharaon vous appelle et vous demande : « Quelle est votre occupation ? »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 46:34",
+      "fr": "tu répondras : « Tes serviteurs ont été éleveurs depuis le début jusqu'à présent, nous et nos pères », afin que vous puissiez rester dans la région de Goshen. Car tous les bergers sont en horreur aux Égyptiens.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בעבור תשבו בארץ גשן AFIN QUE VOUS PUISSEZ DEMEURER DANS LE PAYS DE GOSHEN — et c'est le pays dont vous avez besoin, car c'est un pays de pâturage. Si vous lui dites que vous êtes inexpérimenté dans d'autres travaux, il vous enverra loin de lui et vous y installera."
+        },
+        {
+          "id": 2,
+          "fr": "כי תועבת מצרים כל רעה צאן CAR CHAQUE BERGER EST UNE ABOMINATION POUR LES ÉGYPTIENS — parce qu'ils (les moutons) sont considérés par eux comme des divinités."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:1",
+      "fr": "Alors Joseph vint rapporter à Pharaon, en disant : « Mon père et mes frères, avec leurs troupeaux et tout ce qui leur appartient, sont venus du pays de Canaan et sont maintenant dans la région de Goshen. »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:2",
+      "fr": "Et en sélectionnant soigneusement quelques-uns quelques Lit. \"cinq.\" de ses frères, il les présenta à Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ומקצה אחיו CERTAINS DE SES FRÈRES ] Certains des plus inférieurs parmi eux quant à la force - de ceux qui n'avaient pas l'air robustes. Car si Pharaon les trouvait robustes, il pourrait les inciter à faire leur service militaire. Les frères les plus faibles étaient les suivants : Ruben, Siméon, Lévi, Issacar et Benjamin, et ce sont eux dont Moïse ne répéta pas les noms lorsqu'il les bénit. Mais il mentionna deux fois les noms des plus forts : (Deutéronome 33 :7) « Et ceci est pour Juda… écoute, Éternel, la voix de Juda » ; (Deutéronome 33 :20) « Et de Gad il dit : Bienheureux celui qui étend Gad » ; (Deutéronome 33 :25) « Et de Nephtali il dit : Nephtali… » (Deutéronome 33 :22). «Et de Dan, il dit Dan…», et de la même manière il répéta les noms de Zabulon (Deutéronome 33:18) et d'Aser (Deutéronome 33:24). Il s'agit de la version de Genèse Rabbah 95 : 4 qui est une Agada palestinienne. Mais dans notre Talmud babylonien, nous trouvons que ceux dont Moïse a mentionné deux fois les noms étaient les plus faibles des frères et ce sont ceux-là qu’il (Joseph) a amenés devant Pharaon. Mais six sont énumérés ci-dessus comme ayant leurs noms mentionnés deux fois et il n'en amena que cinq devant Pharaon. L’explication est qu’il est vrai que le nom de Juda est mentionné deux fois, mais il est mentionné deux fois non pas parce qu’il était l’un des frères les plus faibles, mais il y a une autre raison à cela, comme indiqué dans Bava Kamma 92a. Dans le Baraitha de Siphre sur וזאת הברכה, nous avons la même version que dans notre Talmud babylonien."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:3",
+      "fr": "Pharaon dit à ses frères : « Quelle est votre occupation ? » Ils répondirent à Pharaon : « Nous, vos serviteurs, sommes des bergers, comme l'étaient aussi nos pères.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:4",
+      "fr": "Nous sommes venus, dirent-ils à Pharaon, pour séjourner dans ce pays, car il n'y a pas de pâturage pour les troupeaux de tes serviteurs, la famine étant grande au pays de Canaan. Priez donc que vos serviteurs restent dans la région de Goshen.",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:5",
+      "fr": "Alors Pharaon dit à Joseph : « Quant à ton père et à tes frères qui sont venus vers toi,",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:6",
+      "fr": "le pays d'Égypte est ouvert devant toi : installe ton père et tes frères dans la meilleure partie du pays ; qu'ils restent dans la région de Goshen. Et si tu connais parmi eux quelques hommes capables, confie-leur la garde de mon bétail.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אנשי חיל HOMMES D'ACTIVITÉ — compétents dans leur métier de garde de moutons."
+        },
+        {
+          "id": 2,
+          "fr": "על אשר לי SUR CE QUI EST À MOI — sur mes brebis."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:7",
+      "fr": "Joseph amena alors son père Jacob et le présenta à Pharaon ; et Jacob salua Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויברך יעקב ET JACOB BÉNI — c'était le salut de paix, comme c'est l'habitude dans le cas de tous ceux qui ont droit à une entrevue avec les rois à de longs intervalles ; saluer en vieux français"
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:8",
+      "fr": "Pharaon demanda à Jacob : « Combien d'années compte ta vie ? »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:9",
+      "fr": "Et Jacob répondit à Pharaon : \" Les années de mon séjour [sur terre] sont de cent trente. Les années de ma vie ont été rares et difficiles, et elles n'ont pas non plus atteint la durée de vie de mes ancêtres ou « pères », à savoir Térah, Abraham et Isaac. pendant leurs séjours. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "שני מגורי — signifie les jours où j'étais un étranger. Tous mes jours, j’ai été un étranger sur les terres des autres."
+        },
+        {
+          "id": 2,
+          "fr": "ולא השיגו ET ILS N'ONT PAS ATTEINT en ce qui concerne le bonheur."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:10",
+      "fr": "Alors Jacob fit ses adieux à Pharaon et quitta sa présence.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ויברך יעקב ET JACOB BÉNI [PHARAON] — c'est-à-dire qu'il lui donna le salut de paix comme il est d'usage pour tous ceux qui prennent congé des princes — ils les saluent et s'en vont. Un Midrash comprend cependant cela plus littéralement et demande : \"Quelle était la bénédiction avec laquelle il l'a béni ? Pour que les eaux du Nil puissent monter à son approche. Parce que l'Egypte ne boit pas (n'est pas irriguée par) l'eau de pluie, mais les eaux du Nil montent et l'irriguent. Et depuis le moment où Jacob le bénissait et désormais, chaque fois que Pharaon venait au Nil, il montait à son arrivée, débordait de ses rives et arrosait la terre. Ainsi est-il dit dans Tanchuma Yashan 4:2:26 à נשא."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:11",
+      "fr": "Joseph installa donc son père et ses frères, leur donnant des domaines dans la meilleure partie du pays d'Égypte, dans la région de Ramsès, comme Pharaon l'avait ordonné.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "רעמסס RAMESES — Ceci fait partie du pays de Goshen."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:12",
+      "fr": "Joseph nourrissait de pain son père, ses frères et toute la maison de son père, jusqu'aux plus petits.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לפי הטף SELON LEURS PETITS — selon les exigences de toute leur maison."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:13",
+      "fr": "Il n'y avait plus de pain dans le monde entier, car la famine était très grave ; le pays d'Égypte et le pays de Canaan furent tous deux languis à cause de la famine.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ולחם אין בכל הארץ ET IL N'Y AVAIT PAS DE PAIN DANS TOUT LE PAYS ] L'Écriture revient maintenant au sujet original, à savoir le récit du début des années de famine."
+        },
+        {
+          "id": 2,
+          "fr": "ותלה ET FAINTED — C'est la même chose que ותלאה, cela signifie être fatigué, comme le rend le Targum. Un autre exemple de racine est (Proverbes 26 :18) « Comme un fatigué qui jette des tisons de feu »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:14",
+      "fr": "Joseph rassembla tout l'argent qui se trouvait au pays d'Égypte et au pays de Canaan, en paiement des rations qu'on se procurait, et Joseph apporta l'argent dans le palais de Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בשבר אשר הם שוברים POUR LE MAÏS QU'ILS ACHETÉ — ils lui ont donné l'argent."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:15",
+      "fr": "Et lorsque l’argent fut épuisé en Égypte et au pays de Canaan, tous les Égyptiens vinrent vers Joseph et lui dirent : « Donnez-nous du pain, de peur que nous ne mourrions sous vos yeux, car l’argent n’est plus. »",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "אפס — Rendre ceci comme le fait le Targum : שלים EST À UNE FIN."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:16",
+      "fr": "Et Joseph dit : « Apportez votre bétail, et je vous le vendrai contre votre bétail, s'il n'y a plus d'argent. »",
+      "rashi": []
+    },
+    {
+      "ref": "Genesis 47:17",
+      "fr": "Ils apportèrent donc leurs troupeaux à Joseph, et Joseph leur donna du pain en échange des chevaux, des troupeaux de moutons et de bœufs, et des ânes ; il leur fournit donc du pain cette année-là en échange de tout leur bétail.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וינהלם — est la même chose que וינהגם ET IL LES A GUIDÉS, LES CONDUITS. De signification similaire sont (Ésaïe 51 : 18) « Il n'y a personne (מנהל) pour la conduire », et (Psaumes 23) « il me guide (ינהלני) près des eaux tranquilles »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:18",
+      "fr": "Et cette année-là terminée, ils vinrent le trouver l'année suivante et lui dirent : « Nous ne pouvons cacher à mon seigneur qu'avec tout l'argent et le bétail confiés à mon seigneur, il ne reste rien à la disposition de mon seigneur, sauf nos personnes et nos terres agricoles.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "בשנה השנית DANS LA DEUXIÈME ANNÉE — de la famine."
+        },
+        {
+          "id": 2,
+          "fr": "'כי אם תם הכסף וגו est la même chose que כי אשר תם הכסף et la signification est : mais (כי) c'est un fait que (אשר) l'argent et les troupeaux de bétail sont épuisés, et tout est maintenant entre les mains de mon seigneur."
+        },
+        {
+          "id": 3,
+          "fr": "בלתי אם גויתנו est la même chose que [RIEN NE RESTE] SI CE N'EST PAS NOS CORPS."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:19",
+      "fr": "Ne nous laissons pas périr sous vos yeux, ni nous ni notre pays. Prends-nous et notre terre en échange de pain, et nous et notre terre serons les serfs de Pharaon ; donne-nous la semence, afin que nous puissions vivre et ne pas mourir, et que la terre ne devienne pas un désert.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותן זרע DONNEZ-NOUS DES GRAINES — à semer dans le sol. Bien que Joseph ait dit (Genèse 45 :6) « Et il y aura encore cinq ans où il n’y aura ni labour ni semailles », dès que Jacob arriva en Égypte, une bénédiction vint avec son arrivée : on commença à semer et la famine prit fin. Ainsi lisons-nous dans la Tosefta de Sotah (Tosefta Sotah 10 : 3)."
+        },
+        {
+          "id": 2,
+          "fr": "לא תשם signifie qu'il ne sera pas désolé. Le Targum le rend par לא תבור ne doit pas être inculte, ce qui a la même signification que (Mishnah Peah 2:1) שדה בור un champ inculte — un champ qui n'est pas labouré."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:20",
+      "fr": "Joseph prit donc possession de toutes les terres agricoles de l'Égypte pour Pharaon, tous les Égyptiens ayant vendu leurs champs parce que la famine était trop forte pour eux ; ainsi le pays passa au Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ותהי הארץ לפרעה AINSI LA TERRE EST DEVENUE À PHARAON - possédée par lui."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:21",
+      "fr": "Et il enleva la population ville par ville, ville par ville Signification de Héb. leʻarim incertain. d’un bout à l’autre de la frontière égyptienne.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "ואת העם העביר ET QUANT AUX GENS IL LES A FAIT PASSER ] Joseph les a fait passer d'une ville à une autre afin de leur rappeler qu'ils n'avaient désormais aucun droit sur la terre. Il installa les habitants d'une ville dans une autre. Il n’était pas nécessaire que l’Écriture déclare cela, sauf dans le but de vous dire quelque chose qui fait honneur à Joseph : qu’il avait l’intention ainsi d’éloigner un reproche de la part de ses frères parce que, puisque les Égyptiens étaient eux-mêmes des étrangers dans les différentes villes où ils habitaient alors, ils ne pouvaient pas les appeler (les frères de Joseph) des étrangers (Chullin 60b)."
+        },
+        {
+          "id": 2,
+          "fr": "'מקצה גבול מצרים וגו signifie qu'il fit ainsi à toutes les villes du royaume d'Égypte D'UNE EXTRÊMITÉ DES LIMITES DE L'ÉGYPTE MÊME À L'AUTRE EXTRÊMITÉ DE CELLE-CI)."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:22",
+      "fr": "Il ne s'empara pas seulement du pays des prêtres, car les prêtres avaient une part de Pharaon, et ils vivaient de la part que Pharaon leur avait attribuée. c'est pourquoi ils n'ont pas vendu leurs terres.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הכהנים signifie LES PRÊTRES. Le terme כהן signifie toujours celui qui sert la Divinité, sauf dans les cas où il désigne une personne de haut rang, par ex. (Exode 2 :16) « Jethro le chef de (כהן) Madian » et (Genèse 41 :45) « le chef de (כהן) On »)."
+        },
+        {
+          "id": 2,
+          "fr": "חק לכהנים [POUR] LES PRÊTRES AVAIT UNE PORTION - une portion assignée d'une quantité définie de pain par jour."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:23",
+      "fr": "Alors Joseph dit au peuple : « Alors que je vous ai acquis aujourd'hui, vous et votre pays, pour Pharaon, voici de la semence pour que vous semiez le pays.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "הא signifie la même chose que הנה « voici », comme (Ézéchiel 16 :43) « Moi aussi, (הא) récompenserai ta voie sur ta tête »."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:24",
+      "fr": "Et quand la moisson viendra, vous en donnerez un cinquième à Pharaon, et les quatre cinquièmes vous appartiendront comme semence pour les champs et comme nourriture pour vous et ceux de vos maisons, et comme nourriture pour vos enfants.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לזרע השדה POUR LES GRAINES DU CHAMP — pour semer chaque année),"
+        },
+        {
+          "id": 2,
+          "fr": "ולאשר בבתיכם ET POUR CEUX DE VOS MAISONS — signifie et comme nourriture pour les serviteurs et les servantes qui sont dans vos maisons,"
+        },
+        {
+          "id": 3,
+          "fr": "טפכם signifie vos jeunes enfants."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:25",
+      "fr": "Et ils dirent : \" Vous nous avez sauvé la vie ! Nous sommes reconnaissants envers mon seigneur et nous serons les serfs du Pharaon. \"",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "נמצא חן LAISSONS-NOUS TROUVER LA FAVEUR — [AUX YEUX DE MON SEIGNEUR] en ce que tu dois faire pour nous ce que tu as dit."
+        },
+        {
+          "id": 2,
+          "fr": "והיינו עבדים לפרעה ET ​​NOUS SERONS LES SERVITEURS DU PHARAON, lui payant cet impôt chaque année."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:26",
+      "fr": "Et Joseph en fit une loi territoriale en Égypte, qui est toujours en vigueur, selon laquelle un cinquième devrait appartenir à Pharaon ; seulement le pays des prêtres n’est pas devenu celui de Pharaon.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "לחק COMME STATUT — sans abrogation."
+        }
+      ]
+    },
+    {
+      "ref": "Genesis 47:27",
+      "fr": "Ainsi Israël s'établit dans le pays d'Égypte, dans la région de Goshen ; ils y acquérèrent des propriétés, y furent fertiles et s'accrurent considérablement.",
+      "rashi": [
+        {
+          "id": 1,
+          "fr": "וישב ישראל בארץ מצרים ET ISRAËL DEMEURENT AU PAYS D'ÉGYPTE — et où dans le pays d'Égypte ? בארץ גשן AU PAYS DE GOSHEN qui fait partie du pays d'Égypte."
+        },
+        {
+          "id": 2,
+          "fr": "ויאחזו בה signifie ILS A ACQUIS DES POSSESSIONS."
+        }
+      ]
+    }
+  ]
+}
