@@ -54,64 +54,47 @@ export async function loadParasha(file) {
     const res = await fetch(`/data/parashiot/${file}`)
     if (!res.ok) throw new Error('Paracha introuvable')
 
-const data = await res.json()
+    const data = await res.json()
 
-// Charge la traduction française si elle existe
-let frData = null
+    let frData = null
+    try {
+      const frRes = await fetch(`/data/parashiot/${file.replace('.json', '.fr.json')}`)
+      if (frRes.ok) frData = await frRes.json()
+    } catch {}
 
-try {
-  const frRes = await fetch(
-    `/data/parashiot/${file.replace(".json", ".fr.json")}`
-  )
+    const frByRef = new Map((frData?.verses || []).map(v => [v.ref, v]))
 
-  if (frRes.ok) {
-    frData = await frRes.json()
-  }
-} catch (e) {
-  console.log("Pas de traduction française :", file)
-}
+    const verses = (data.verses || []).map(v => {
+      const frVerse = frByRef.get(v.ref)
 
-// Création d'un index par référence (Genesis 1:1, etc.)
-const frByRef = new Map(
-  (frData?.verses || []).map(v => [v.ref, v])
-)
+      return {
+        ...v,
+        fr: frVerse?.fr || v.fr || '',
+        rashi: (v.rashi || []).map((r, i) => ({
+          ...r,
+          fr: frVerse?.rashi?.[i]?.fr || r.fr || ''
+        }))
+      }
+    })
 
-// Fusion des données
-const verses = (data.verses || []).map(v => {
-
-  const frVerse = frByRef.get(v.ref)
-
-  return {
-    ...v,
-
-    fr: frVerse?.fr || "",
-
-    rashi: (v.rashi || []).map((r, i) => ({
-      ...r,
-      fr: frVerse?.rashi?.[i]?.fr || ""
-    }))
-  }
-
-})
-
-      const fullHe = verses.map(v => `
+    const fullHe = verses.map(v => `
       <p class="parashaLine">
         <span class="verseNum">${escapeHtml(v.ref)}</span>
         <span class="he">${v.he || ''}</span>
       </p>
     `).join('')
 
-    const fullEn = verses.map(v => `
-      <p class="parashaLine">
-        <span class="verseNum">${escapeHtml(v.ref)}</span>
-        <span>${escapeHtml(v.en || '')}</span>
-      </p>
-    `).join('')
-
     const fullFr = verses.map(v => `
       <p class="parashaLine">
         <span class="verseNum">${escapeHtml(v.ref)}</span>
-        <span>${escapeHtml(v.fr || '') || 'Traduction française en préparation.'}</span>
+        <span>${escapeHtml(v.fr || 'Traduction française en préparation.')}</span>
+      </p>
+    `).join('')
+
+    const fullEn = verses.map(v => `
+      <p class="parashaLine">
+        <span class="verseNum">${escapeHtml(v.ref)}</span>
+        <span>${escapeHtml(v.en || 'English translation in preparation.')}</span>
       </p>
     `).join('')
 
@@ -124,8 +107,8 @@ const verses = (data.verses || []).map(v => {
             <div class="rashiItem">
               <p class="he">${r.he || ''}</p>
               <p>${state.currentLang === 'fr'
-                ? (r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
-                : (r.en || 'Rashi English translation in preparation.')}
+                ? escapeHtml(r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
+                : escapeHtml(r.en || 'Rashi English translation in preparation.')}
               </p>
             </div>
           `).join('')}
@@ -138,30 +121,30 @@ const verses = (data.verses || []).map(v => {
         <button id="backParashiotBtn">← Liste des parachiot</button>
       </div>
     `
-    document.querySelector('#commentBox').innerHTML = 'Texte complet de la paracha avec Rachi.'
+    document.querySelector('#commentBox').innerHTML = 'Texte hébreu à droite, traduction à gauche.'
 
-document.querySelector('#segments').innerHTML = `
-  <article class="segment parashaFull">
-    <div class="segNum">${escapeHtml(data.range || '')}</div>
+    document.querySelector('#segments').innerHTML = `
+      <article class="segment parashaFull">
+        <div class="segNum">${escapeHtml(data.range || '')}</div>
 
-    <section class="parashaSideBySide">
-      <div class="parashaColumn translationColumn">
-        <h2>Traduction française</h2>
-        ${fullFr || 'Traduction française en préparation.'}
-      </div>
+        <section class="parashaSideBySide">
+          <div class="parashaColumn translationColumn">
+            <h2>${state.currentLang === 'fr' ? 'Traduction française' : 'English translation'}</h2>
+            ${state.currentLang === 'fr' ? fullFr : fullEn}
+          </div>
 
-      <div class="parashaColumn hebrewColumn">
-        <h2>Texte hébreu</h2>
-        ${fullHe || 'Texte hébreu non disponible.'}
-      </div>
-    </section>
+          <div class="parashaColumn hebrewColumn">
+            <h2>Texte hébreu</h2>
+            ${fullHe || 'Texte hébreu non disponible.'}
+          </div>
+        </section>
 
-    <details class="parashaRashiFull">
-      <summary>Rachi complet</summary>
-      ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
-    </details>
-  </article>
-`    `
+        <details class="parashaRashiFull">
+          <summary>Rachi complet</summary>
+          ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
+        </details>
+      </article>
+    `
 
     document.querySelector('#backParashiotBtn')?.addEventListener('click', openParashiot)
   } catch (e) {
