@@ -55,7 +55,8 @@ export async function loadParasha(file) {
     if (!res.ok) throw new Error('Paracha introuvable')
 
     const data = await res.json()
-
+    state.currentMode = 'parasha'
+    state.currentParasha = data
     let frData = null
     try {
       const frRes = await fetch(`/data/parashiot/${file.replace('.json', '.fr.json')}`)

@@ -1,6 +1,8 @@
 export const state = {
   currentLang: localStorage.getItem('talmudLang') || 'fr',
   currentData: null,
+  currentMode: 'talmud',
+  currentParasha: null,
   currentDaf: localStorage.getItem('currentDaf') || '2a',
   dictionaryItems: [],
   dictionaryLoaded: false,
