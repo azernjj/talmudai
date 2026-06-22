@@ -2,6 +2,9 @@ import { state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
 export async function openParashiot() {
+  state.currentMode = 'parasha'
+  state.currentParasha = null
+
   document.querySelector('#dafTitle').textContent = '📖 Parachiot'
   document.querySelector('#dafNav').innerHTML = ''
   document.querySelector('#commentBox').innerHTML = 'Choisis une paracha.'
@@ -55,8 +58,7 @@ export async function loadParasha(file) {
     if (!res.ok) throw new Error('Paracha introuvable')
 
     const data = await res.json()
-    state.currentMode = 'parasha'
-    state.currentParasha = data
+
     let frData = null
     try {
       const frRes = await fetch(`/data/parashiot/${file.replace('.json', '.fr.json')}`)
@@ -77,6 +79,13 @@ export async function loadParasha(file) {
         }))
       }
     })
+
+    state.currentMode = 'parasha'
+    state.currentParasha = {
+      ...data,
+      file,
+      verses
+    }
 
     const fullHe = verses.map(v => `
       <p class="parashaLine">
@@ -99,30 +108,13 @@ export async function loadParasha(file) {
       </p>
     `).join('')
 
-    const fullRashi = verses
-      .filter(v => (v.rashi || []).length)
-      .map(v => `
-        <section class="rashiBlock">
-          <h3>${escapeHtml(v.ref)}</h3>
-          ${(v.rashi || []).map(r => `
-            <div class="rashiItem">
-              <p class="he">${r.he || ''}</p>
-              <p>${state.currentLang === 'fr'
-                ? escapeHtml(r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
-                : escapeHtml(r.en || 'Rashi English translation in preparation.')}
-              </p>
-            </div>
-          `).join('')}
-        </section>
-      `).join('')
-
     document.querySelector('#dafTitle').textContent = `📖 ${data.name}`
     document.querySelector('#dafNav').innerHTML = `
       <div class="dafNav">
         <button id="backParashiotBtn">← Liste des parachiot</button>
       </div>
     `
-    document.querySelector('#commentBox').innerHTML = 'Texte hébreu à droite, traduction à gauche.'
+    document.querySelector('#commentBox').innerHTML = 'Clique sur le bouton Rachi pour afficher les commentaires.'
 
     document.querySelector('#segments').innerHTML = `
       <article class="segment parashaFull">
@@ -139,11 +131,6 @@ export async function loadParasha(file) {
             ${fullHe || 'Texte hébreu non disponible.'}
           </div>
         </section>
-
-        <details class="parashaRashiFull">
-          <summary>Rachi complet</summary>
-          ${fullRashi || '<div class="empty">Rachi non disponible.</div>'}
-        </details>
       </article>
     `
 
@@ -151,6 +138,35 @@ export async function loadParasha(file) {
   } catch (e) {
     document.querySelector('#segments').innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
   }
+}
+
+export function renderParashaRashi() {
+  const data = state.currentParasha
+
+  if (!data?.verses) {
+    document.querySelector('#commentBox').innerHTML = 'Choisis d’abord une paracha.'
+    return
+  }
+
+  const html = data.verses
+    .filter(v => (v.rashi || []).length)
+    .map(v => `
+      <section class="rashiBlock">
+        <h3>${escapeHtml(v.ref)}</h3>
+        ${(v.rashi || []).map(r => `
+          <div class="rashiItem">
+            <p class="he">${r.he || ''}</p>
+            <p>${state.currentLang === 'fr'
+              ? escapeHtml(r.fr || r.explanation_fr || 'Traduction / explication de Rachi en préparation.')
+              : escapeHtml(r.en || 'Rashi English translation in preparation.')}
+            </p>
+          </div>
+        `).join('')}
+      </section>
+    `).join('')
+
+  document.querySelector('#commentBox').innerHTML =
+    html || 'Rachi non disponible pour cette paracha.'
 }
 
 export function initParashiotEvents() {
