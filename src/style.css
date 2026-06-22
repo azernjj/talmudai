@@ -522,30 +522,24 @@ button:disabled {
   }
 }
 @media (max-width: 768px) {
-  .comments {
-    position: sticky !important;
-    top: 72px !important;
-    z-index: 900 !important;
-    background: #ffffff !important;
-    border: 1px solid #ddd !important;
-    border-radius: 12px !important;
-    padding: 10px !important;
-    margin: 10px 0 !important;
-  }
-
-  .commentActions {
+  .layout {
     display: flex !important;
-    gap: 8px !important;
-    flex-wrap: wrap !important;
+    flex-direction: column !important;
+    height: auto !important;
   }
 
-  .commentActions button {
-    flex: 1 !important;
-    min-width: 120px !important;
+  .sidebar {
+    order: 1 !important;
   }
 
-  .commentBox {
-    max-height: 45vh !important;
-    overflow-y: auto !important;
+  .comments {
+    order: 2 !important;
+    border-left: none !important;
+    border-top: 1px solid var(--border) !important;
+    border-bottom: 1px solid var(--border) !important;
+  }
+
+  .reader {
+    order: 3 !important;
   }
 }
