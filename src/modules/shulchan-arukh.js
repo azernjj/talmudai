@@ -13,6 +13,42 @@ async function getShulchanSections() {
   return shulchanSectionsCache
 }
 
+async function loadFrenchSection(file) {
+  try {
+    const frFile = file.replace('.json', '.fr.json')
+    const res = await fetch(`/data/shulchan-arukh/${frFile}`)
+    if (!res.ok) return null
+    return await res.json()
+  } catch {
+    return null
+  }
+}
+
+function mergeFrench(section, frSection) {
+  if (!frSection?.simanim) return section
+
+  const frBySiman = new Map((frSection.simanim || []).map(s => [s.siman, s]))
+
+  return {
+    ...section,
+    simanim: (section.simanim || []).map(siman => {
+      const frSiman = frBySiman.get(siman.siman)
+      const frBySeif = new Map((frSiman?.seifim || []).map(seif => [seif.seif, seif]))
+
+      return {
+        ...siman,
+        seifim: (siman.seifim || []).map(seif => {
+          const frSeif = frBySeif.get(seif.seif)
+          return {
+            ...seif,
+            fr: frSeif?.fr || seif.fr || ''
+          }
+        })
+      }
+    })
+  }
+}
+
 export async function renderShulchanLibrary() {
   const box = document.querySelector('#shulchanLibrary')
   if (!box) return
@@ -76,7 +112,10 @@ export async function loadShulchanSection(file) {
     const res = await fetch(`/data/shulchan-arukh/${file}`)
     if (!res.ok) throw new Error('Section introuvable')
 
-    const data = await res.json()
+    const rawData = await res.json()
+    const frData = await loadFrenchSection(file)
+    const data = mergeFrench(rawData, frData)
+
     currentShulchanSection = data
 
     document.querySelector('#dafTitle').textContent = `📜 ${data.heTitle} — ${data.title}`
