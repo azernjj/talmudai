@@ -592,3 +592,14 @@ button:disabled {
     max-height: none;
   }
 }
+.sideLangButtons {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.sideLangButtons button {
+  flex: 1;
+  font-size: 13px;
+  padding: 8px;
+}

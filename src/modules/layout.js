@@ -8,8 +8,6 @@ export function renderLayout(app) {
 
       <div class="lang">
         <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
-        <button id="frBtn">🇫🇷 Français</button>
-        <button id="enBtn">🇬🇧 English</button>
         <button id="dictBtn">📖 Dictionnaire</button>
         <button id="parashaBtn">📖 Parachiot</button>
         <input id="globalSearch" placeholder="🔎 Rechercher..." autocomplete="off" />
@@ -21,6 +19,12 @@ export function renderLayout(app) {
 
         <section class="sideBlock">
           <h2>📚 Sedarim</h2>
+
+          <div class="sideLangButtons">
+            <button id="frBtn">🇫🇷 Français</button>
+            <button id="enBtn">🇬🇧 English</button>
+          </div>
+
           <input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" />
           <div id="library" class="sideScroll"></div>
         </section>
