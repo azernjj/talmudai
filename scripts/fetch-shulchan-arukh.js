@@ -4,14 +4,13 @@ import path from "path";
 const outDir = "public/data/shulchan-arukh";
 fs.mkdirSync(outDir, { recursive: true });
 
-const sections = [
-  {
-    slug: "orach-chaim",
-    title: "Orach Chayim",
-    heTitle: "אורח חיים",
-    sefaria: "Shulchan Arukh, Orach Chayim"
-  }
-];
+const section = {
+  slug: "orach-chaim",
+  title: "Orach Chayim",
+  heTitle: "אורח חיים",
+  sefaria: "Shulchan Arukh, Orach Chayim",
+  maxSiman: 697
+};
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -31,90 +30,109 @@ async function getText(ref, lang = "he") {
   try {
     const res = await fetch(url);
     if (!res.ok) {
-      console.log("Erreur Sefaria", ref, res.status);
+      console.log(`- ${ref} ${lang} : ${res.status}`);
       return null;
     }
     return await res.json();
   } catch (e) {
-    console.log("Erreur réseau", ref, e.message);
+    console.log(`- ${ref} ${lang} : ${e.message}`);
     return null;
   }
 }
 
-async function fetchSection(section) {
-  console.log(`\n📜 ${section.title}`);
+function extractArray(data, lang) {
+  const raw = lang === "he" ? data?.he : data?.text;
 
-  const heData = await getText(section.sefaria, "he");
-  await sleep(300);
-  const enData = await getText(section.sefaria, "en");
+  if (Array.isArray(raw)) return raw.flat(Infinity).filter(Boolean).map(cleanHtml);
+  if (typeof raw === "string" && raw.trim()) return [cleanHtml(raw)];
 
-  const heText = heData?.he || [];
-  const enText = enData?.text || [];
+  return [];
+}
 
-  const simanim = [];
+async function fetchSiman(n) {
+  const ref = `${section.sefaria} ${n}`;
 
-  const maxSimanim = Math.max(heText.length, enText.length);
+  const heData = await getText(ref, "he");
+  await sleep(150);
 
-  for (let i = 0; i < maxSimanim; i++) {
-    const heSiman = Array.isArray(heText[i]) ? heText[i] : [];
-    const enSiman = Array.isArray(enText[i]) ? enText[i] : [];
+  const enData = await getText(ref, "en");
+  await sleep(150);
 
-    const maxSeifim = Math.max(heSiman.length, enSiman.length);
-    const seifim = [];
+  const he = extractArray(heData, "he");
+  const en = extractArray(enData, "en");
 
-    for (let j = 0; j < maxSeifim; j++) {
-      seifim.push({
-        seif: j + 1,
-        he: cleanHtml(heSiman[j] || ""),
-        en: cleanHtml(enSiman[j] || ""),
-        fr: "",
-        commentaries: {}
-      });
-    }
+  const max = Math.max(he.length, en.length);
 
-    simanim.push({
-      siman: i + 1,
-      title: "",
-      seifim
-    });
+  if (!max) return null;
 
-    console.log(`Siman ${i + 1} : ${seifim.length} seifim`);
-  }
+  return {
+    siman: n,
+    title: "",
+    seifim: Array.from({ length: max }, (_, i) => ({
+      seif: i + 1,
+      he: he[i] || "",
+      en: en[i] || "",
+      fr: "",
+      commentaries: {}
+    }))
+  };
+}
 
-  const out = {
+async function main() {
+  const outPath = path.join(outDir, `${section.slug}.json`);
+
+  let output = {
     slug: section.slug,
     title: section.title,
     heTitle: section.heTitle,
     sefaria: section.sefaria,
-    simanim
+    simanim: []
   };
 
-  fs.writeFileSync(
-    path.join(outDir, `${section.slug}.json`),
-    JSON.stringify(out, null, 2),
-    "utf8"
-  );
-
-  console.log(`✅ ${section.slug}.json sauvegardé`);
-}
-
-async function main() {
-  fs.writeFileSync(
-    path.join(outDir, "index.json"),
-    JSON.stringify(sections.map(s => ({
-      slug: s.slug,
-      title: s.title,
-      heTitle: s.heTitle,
-      file: `${s.slug}.json`
-    })), null, 2),
-    "utf8"
-  );
-
-  for (const section of sections) {
-    await fetchSection(section);
+  if (fs.existsSync(outPath)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(outPath, "utf8"));
+      if (existing?.simanim?.length) output = existing;
+    } catch {}
   }
 
-  console.log("\n✅ Choul'han Aroukh — étape 1 terminée.");
+  const existingBySiman = new Map(output.simanim.map(s => [s.siman, s]));
+
+  for (let n = 1; n <= section.maxSiman; n++) {
+    if (existingBySiman.has(n) && existingBySiman.get(n).seifim?.length) {
+      console.log(`✓ Siman ${n} déjà présent`);
+      continue;
+    }
+
+    const siman = await fetchSiman(n);
+
+    if (!siman) {
+      console.log(`- Siman ${n} vide`);
+      continue;
+    }
+
+    existingBySiman.set(n, siman);
+
+    output.simanim = Array.from(existingBySiman.values())
+      .sort((a, b) => a.siman - b.siman);
+
+    fs.writeFileSync(outPath, JSON.stringify(output, null, 2), "utf8");
+
+    console.log(`✓ Siman ${n} : ${siman.seifim.length} seifim`);
+  }
+
+  fs.writeFileSync(
+    path.join(outDir, "index.json"),
+    JSON.stringify([{
+      slug: section.slug,
+      title: section.title,
+      heTitle: section.heTitle,
+      file: `${section.slug}.json`
+    }], null, 2),
+    "utf8"
+  );
+
+  console.log("\n✅ Orach Chayim terminé.");
 }
 
 main().catch(err => {
