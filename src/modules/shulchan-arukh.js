@@ -4,13 +4,20 @@ import { escapeHtml } from './utils.js'
 let shulchanSectionsCache = null
 let currentShulchanSection = null
 let currentShulchanSiman = null
+let commentaryCache = {}
+
+const commentaries = [
+  { slug: 'mishnah-berurah', title: 'Mishnah Berurah' },
+  { slug: 'beur-halakha', title: 'Beur Halakha' },
+  { slug: 'magen-avraham', title: 'Magen Avraham' },
+  { slug: 'taz', title: 'Taz' },
+  { slug: 'baer-hetev', title: 'Ba’er Hetev' }
+]
 
 async function getShulchanSections() {
   if (shulchanSectionsCache) return shulchanSectionsCache
-
   const res = await fetch('/data/shulchan-arukh/index.json')
   if (!res.ok) throw new Error('Index Choul’han Aroukh introuvable')
-
   shulchanSectionsCache = await res.json()
   return shulchanSectionsCache
 }
@@ -85,7 +92,7 @@ export async function openShulchanArukh() {
 
   document.querySelector('#dafTitle').textContent = '📜 Choul’han Aroukh'
   document.querySelector('#dafNav').innerHTML = ''
-  document.querySelector('#commentBox').innerHTML = 'Les commentaires du Choul’han Aroukh seront ajoutés ici plus tard.'
+  document.querySelector('#commentBox').innerHTML = 'Choisis une section.'
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement...</div>'
 
   try {
@@ -113,6 +120,7 @@ export async function openShulchanArukh() {
 export async function loadShulchanSection(file) {
   state.currentMode = 'shulchan'
   state.currentParasha = null
+  commentaryCache = {}
 
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la section...</div>'
 
@@ -127,7 +135,6 @@ export async function loadShulchanSection(file) {
     currentShulchanSection = data
 
     document.querySelector('#dafTitle').textContent = `📜 ${data.heTitle} — ${data.title}`
-    document.querySelector('#commentBox').innerHTML = 'Choul’han Aroukh : texte principal. Les commentaires seront ajoutés ensuite.'
 
     renderSimanSelector(data)
 
@@ -163,9 +170,7 @@ function renderSimanSelector(section) {
         Siman
         <select id="simanSelect">
           ${simanim.map(s => `
-            <option value="${s.siman}">
-              ${s.siman}
-            </option>
+            <option value="${s.siman}">${s.siman}</option>
           `).join('')}
         </select>
       </label>
@@ -201,7 +206,8 @@ function renderSiman(section, siman) {
   if (select) select.value = String(siman.siman)
 
   document.querySelector('#dafTitle').textContent = `📜 ${section.heTitle} — Siman ${siman.siman}`
-  document.querySelector('#commentBox').innerHTML = `Choul’han Aroukh — ${escapeHtml(section.title)} — Siman ${siman.siman}`
+
+  renderCommentaryButtons()
 
   document.querySelector('#segments').innerHTML = `
     <article class="segment parashaFull">
@@ -228,9 +234,75 @@ function renderSiman(section, siman) {
   `
 }
 
+function renderCommentaryButtons() {
+  document.querySelector('#commentBox').innerHTML = `
+    <div class="commentActions shulchanCommentActions">
+      ${commentaries.map(c => `
+        <button class="saCommentaryBtn" data-commentary="${escapeHtml(c.slug)}">
+          ${escapeHtml(c.title)}
+        </button>
+      `).join('')}
+    </div>
+    <div id="saCommentaryBox" class="saCommentaryBox">
+      Choisis un commentaire du Choul’han Aroukh.
+    </div>
+  `
+
+  document.querySelectorAll('.saCommentaryBtn').forEach(btn => {
+    btn.addEventListener('click', () => renderShulchanCommentary(btn.dataset.commentary))
+  })
+}
+
+async function loadCommentary(slug) {
+  if (commentaryCache[slug]) return commentaryCache[slug]
+
+  const res = await fetch(`/data/shulchan-arukh/commentaries/${slug}/orach-chaim.json`)
+  if (!res.ok) throw new Error('Commentaire introuvable')
+
+  commentaryCache[slug] = await res.json()
+  return commentaryCache[slug]
+}
+
+async function renderShulchanCommentary(slug) {
+  const box = document.querySelector('#saCommentaryBox') || document.querySelector('#commentBox')
+
+  if (!currentShulchanSiman) {
+    box.innerHTML = 'Choisis d’abord un siman.'
+    return
+  }
+
+  box.innerHTML = '<div class="empty">Chargement du commentaire...</div>'
+
+  try {
+    const data = await loadCommentary(slug)
+    const siman = (data.simanim || []).find(s => s.siman === currentShulchanSiman.siman)
+    const title = data.title || slug
+
+    if (!siman?.items?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce siman.`
+      return
+    }
+
+    box.innerHTML = `
+      <h3>${escapeHtml(title)} — Siman ${currentShulchanSiman.siman}</h3>
+      ${siman.items.map(item => `
+        <div class="rashiItem">
+          <p class="he">${item.he || ''}</p>
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? (item.fr || item.en || 'Traduction française du commentaire en préparation.')
+              : (item.en || 'English translation unavailable.')
+          )}</p>
+        </div>
+      `).join('')}
+    `
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
+  }
+}
+
 export function renderShulchanCommentaryNotice() {
-  document.querySelector('#commentBox').innerHTML =
-    'Les commentaires du Choul’han Aroukh, comme Mishnah Berurah, Be’er Hetev, Magen Avraham, Taz, etc., seront ajoutés dans une prochaine étape.'
+  renderCommentaryButtons()
 }
 
 export function initShulchanArukhEvents() {
