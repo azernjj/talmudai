@@ -2,6 +2,7 @@ import { state, sedarim } from '../state.js'
 import { sortDaf } from './utils.js'
 import { installHebrewWordClick } from './dictionary.js'
 import { renderParashaRashi } from './parashiot.js'
+import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 
 export function renderLibrary() {
   const library = document.querySelector('#library')
@@ -61,7 +62,7 @@ export async function loadMasechet(file) {
 
     renderDafNav()
     renderDaf(state.currentDaf)
-  } catch (e) {
+  } catch {
     state.currentData = null
     document.querySelector('#dafTitle').textContent = 'Données non disponibles'
     document.querySelector('#dafNav').innerHTML = ''
@@ -119,6 +120,7 @@ export function renderDaf(daf) {
     return
   }
 
+  state.currentMode = 'talmud'
   state.currentDaf = daf
   localStorage.setItem('currentDaf', state.currentDaf)
 
@@ -178,6 +180,8 @@ export function initTalmudEvents() {
   document.querySelector('#rashiBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') {
       renderParashaRashi()
+    } else if (state.currentMode === 'shulchan') {
+      renderShulchanCommentaryNotice()
     } else {
       renderCommentary('rashi')
     }
@@ -186,6 +190,8 @@ export function initTalmudEvents() {
   document.querySelector('#tosafotBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') {
       document.querySelector('#commentBox').innerHTML = 'Tossefot n’existe pas sur les parachiot.'
+    } else if (state.currentMode === 'shulchan') {
+      renderShulchanCommentaryNotice()
     } else {
       renderCommentary('tosafot')
     }

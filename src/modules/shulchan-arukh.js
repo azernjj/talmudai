@@ -1,7 +1,9 @@
+import { state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
 let shulchanSectionsCache = null
 let currentShulchanSection = null
+let currentShulchanSiman = null
 
 async function getShulchanSections() {
   if (shulchanSectionsCache) return shulchanSectionsCache
@@ -78,9 +80,12 @@ export async function renderShulchanLibrary() {
 }
 
 export async function openShulchanArukh() {
+  state.currentMode = 'shulchan'
+  state.currentParasha = null
+
   document.querySelector('#dafTitle').textContent = '📜 Choul’han Aroukh'
   document.querySelector('#dafNav').innerHTML = ''
-  document.querySelector('#commentBox').innerHTML = 'Choisis une section.'
+  document.querySelector('#commentBox').innerHTML = 'Les commentaires du Choul’han Aroukh seront ajoutés ici plus tard.'
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement...</div>'
 
   try {
@@ -106,6 +111,9 @@ export async function openShulchanArukh() {
 }
 
 export async function loadShulchanSection(file) {
+  state.currentMode = 'shulchan'
+  state.currentParasha = null
+
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la section...</div>'
 
   try {
@@ -119,7 +127,7 @@ export async function loadShulchanSection(file) {
     currentShulchanSection = data
 
     document.querySelector('#dafTitle').textContent = `📜 ${data.heTitle} — ${data.title}`
-    document.querySelector('#commentBox').innerHTML = 'Choisis un siman.'
+    document.querySelector('#commentBox').innerHTML = 'Choul’han Aroukh : texte principal. Les commentaires seront ajoutés ensuite.'
 
     renderSimanSelector(data)
 
@@ -143,6 +151,14 @@ function renderSimanSelector(section) {
     <div class="dafNav selectMode">
       <button id="backShulchanBtn">← Choul’han Aroukh</button>
 
+      <button id="saFrBtn" class="${state.currentLang === 'fr' ? 'activeLang' : ''}">
+        🇫🇷 Français
+      </button>
+
+      <button id="saEnBtn" class="${state.currentLang === 'en' ? 'activeLang' : ''}">
+        🇬🇧 English
+      </button>
+
       <label class="dafSelectLabel">
         Siman
         <select id="simanSelect">
@@ -158,6 +174,20 @@ function renderSimanSelector(section) {
 
   document.querySelector('#backShulchanBtn')?.addEventListener('click', openShulchanArukh)
 
+  document.querySelector('#saFrBtn')?.addEventListener('click', () => {
+    state.currentLang = 'fr'
+    localStorage.setItem('talmudLang', state.currentLang)
+    renderSimanSelector(section)
+    if (currentShulchanSiman) renderSiman(section, currentShulchanSiman)
+  })
+
+  document.querySelector('#saEnBtn')?.addEventListener('click', () => {
+    state.currentLang = 'en'
+    localStorage.setItem('talmudLang', state.currentLang)
+    renderSimanSelector(section)
+    if (currentShulchanSiman) renderSiman(section, currentShulchanSiman)
+  })
+
   document.querySelector('#simanSelect')?.addEventListener('change', e => {
     const siman = simanim.find(s => String(s.siman) === e.target.value)
     if (siman) renderSiman(section, siman)
@@ -165,11 +195,13 @@ function renderSimanSelector(section) {
 }
 
 function renderSiman(section, siman) {
+  currentShulchanSiman = siman
+
   const select = document.querySelector('#simanSelect')
   if (select) select.value = String(siman.siman)
 
   document.querySelector('#dafTitle').textContent = `📜 ${section.heTitle} — Siman ${siman.siman}`
-  document.querySelector('#commentBox').innerHTML = `Section : ${escapeHtml(section.title)} — Siman ${siman.siman}`
+  document.querySelector('#commentBox').innerHTML = `Choul’han Aroukh — ${escapeHtml(section.title)} — Siman ${siman.siman}`
 
   document.querySelector('#segments').innerHTML = `
     <article class="segment parashaFull">
@@ -178,8 +210,12 @@ function renderSiman(section, siman) {
       ${(siman.seifim || []).map(seif => `
         <section class="parashaSideBySide shulchanSeif">
           <div class="parashaColumn translationColumn">
-            <h3>Seif ${seif.seif}</h3>
-            <p>${escapeHtml(seif.fr || seif.en || 'Traduction française en préparation.')}</p>
+            <h3>${state.currentLang === 'fr' ? 'Seif' : 'Paragraph'} ${seif.seif}</h3>
+            <p>${escapeHtml(
+              state.currentLang === 'fr'
+                ? (seif.fr || 'Traduction française en préparation.')
+                : (seif.en || 'English translation in preparation.')
+            )}</p>
           </div>
 
           <div class="parashaColumn hebrewColumn">
@@ -190,6 +226,11 @@ function renderSiman(section, siman) {
       `).join('')}
     </article>
   `
+}
+
+export function renderShulchanCommentaryNotice() {
+  document.querySelector('#commentBox').innerHTML =
+    'Les commentaires du Choul’han Aroukh, comme Mishnah Berurah, Be’er Hetev, Magen Avraham, Taz, etc., seront ajoutés dans une prochaine étape.'
 }
 
 export function initShulchanArukhEvents() {
