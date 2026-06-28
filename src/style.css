@@ -543,3 +543,52 @@ button:disabled {
     order: 3 !important;
   }
 }
+.sideBlock {
+  margin-bottom: 18px;
+}
+
+.sideBlock h2 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: var(--blue);
+}
+
+.sideScroll {
+  max-height: 42vh;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.smallScroll {
+  max-height: 22vh;
+}
+
+.sidebar hr {
+  display: none;
+}
+
+#shulchanLibrary .masechet,
+.shulchanSideBtn {
+  width: 100%;
+  text-align: center;
+  margin: 6px 0;
+}
+
+#shulchanLibrary .saHebrew {
+  display: block;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+#shulchanLibrary small {
+  display: block;
+  font-size: 12px;
+  opacity: 0.85;
+}
+
+@media (max-width: 768px) {
+  .sideScroll,
+  .smallScroll {
+    max-height: none;
+  }
+}
