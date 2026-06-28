@@ -13,7 +13,15 @@ export function renderLayout(app) {
       </div>
     </header>
     <div class="layout">
-      <aside class="sidebar"><h2>📚 Sedarim</h2><input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" /><div id="library"></div></aside>
+      <aside class="sidebar">
+      <h2>📚 Sedarim</h2>
+      <input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" />
+      <div id="library"></div>
+      <hr />
+      <h2>📜 Choul’han Aroukh</h2>
+      <input id="saSearch" class="masechetSearch" placeholder="🔍 Rechercher une section..." autocomplete="off" />
+      <div id="shulchanLibrary"></div>
+      </aside>
       <main class="reader"><h2 id="dafTitle">Chargement...</h2><div id="dafNav"></div><div id="segments"></div></main>
       <section class="comments"><h2>📝 Commentaires</h2><div class="commentActions"><button id="rashiBtn">Rachi</button><button id="tosafotBtn">Tossefot</button></div><div id="commentBox" class="commentBox">Choisis un commentaire.</div></section>
     </div>
