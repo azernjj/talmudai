@@ -8,6 +8,7 @@ export function renderLayout(app) {
         <button id="enBtn">🇬🇧 English</button>
         <button id="dictBtn">📖 Dictionnaire</button>
         <button id="parashaBtn">📖 Parachiot</button>
+        <button id="shulchanBtn">📜 Choul’han Aroukh</button>
         <input id="globalSearch" placeholder="🔎 Rechercher dans tout le Talmud..." autocomplete="off" />
       </div>
     </header>

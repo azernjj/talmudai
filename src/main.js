@@ -6,6 +6,7 @@ import { renderLibrary, loadMasechet, initTalmudEvents } from './modules/talmud.
 import { initDictionaryEvents } from './modules/dictionary.js'
 import { initParashiotEvents } from './modules/parashiot.js'
 import { initSearchEvents } from './modules/search.js'
+import { initShulchanArukhEvents } from './modules/shulchan-arukh.js'
 const app = document.querySelector('#app')
 renderLayout(app)
 injectMobileStyles()
@@ -14,6 +15,7 @@ initTalmudEvents()
 initDictionaryEvents()
 initParashiotEvents()
 initSearchEvents()
+initShulchanArukhEvents()
 renderLibrary()
 loadMasechet(localStorage.getItem('currentFile') || 'berakhot.json')
 window.TALMUD_AI_STATE = state
