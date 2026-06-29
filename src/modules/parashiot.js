@@ -7,7 +7,9 @@ let parashaCommentaryCache = {}
 
 const mikraotCommentaries = [
   { slug: 'rashi', title: 'Rachi' },
-  { slug: 'onkelos', title: 'Onkelos' }
+  { slug: 'onkelos', title: 'Onkelos' },
+  { slug: 'sforno', title: 'Sforno' },
+  { slug: 'ramban', title: 'Ramban' }
 ]
 
 export async function openParashiot() {
@@ -15,6 +17,7 @@ export async function openParashiot() {
   state.currentParasha = null
   currentParashaFile = null
   currentParashaCommentary = null
+  parashaCommentaryCache = {}
 
   document.querySelector('#dafTitle').textContent = '📖 Parachiot'
   document.querySelector('#dafNav').innerHTML = ''
@@ -167,16 +170,12 @@ function renderParashaCommentaryButtons() {
     </div>
 
     <div id="parashaCommentaryBox" class="saCommentaryBox">
-      Choisis un commentaire : Rachi ou Onkelos.
+      Choisis un commentaire : Rachi, Onkelos, Sforno ou Ramban.
     </div>
   `
 
   document.querySelectorAll('.parashaCommentaryBtn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const slug = btn.dataset.commentary
-      if (slug === 'rashi') renderParashaRashi()
-      if (slug === 'onkelos') renderParashaOnkelos()
-    })
+    btn.addEventListener('click', () => renderGenericParashaCommentary(btn.dataset.commentary))
   })
 }
 
@@ -224,25 +223,35 @@ async function loadParashaCommentary(slug) {
   return data
 }
 
-export async function renderParashaOnkelos() {
-  currentParashaCommentary = 'onkelos'
+export async function renderGenericParashaCommentary(slug) {
+  if (slug === 'rashi') {
+    renderParashaRashi()
+    return
+  }
+
+  currentParashaCommentary = slug
   renderParashaCommentaryButtons()
 
+  const commentary = mikraotCommentaries.find(c => c.slug === slug)
+  const title = commentary?.title || slug
+
   const box = document.querySelector('#parashaCommentaryBox') || document.querySelector('#commentBox')
-  box.innerHTML = '<div class="empty">Chargement de Onkelos...</div>'
+  box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
 
   try {
-    const data = await loadParashaCommentary('onkelos')
+    const data = await loadParashaCommentary(slug)
 
     if (!data?.verses?.length) {
-      box.innerHTML = 'Onkelos non disponible pour cette paracha.'
+      box.innerHTML = `${escapeHtml(title)} non disponible pour cette paracha.`
       return
     }
 
-    box.innerHTML = `
-      <h3>Onkelos — ${escapeHtml(data.name || '')}</h3>
+    const availableVerses = data.verses.filter(v => v.he || v.en || v.fr)
 
-      ${data.verses.map(v => `
+    box.innerHTML = `
+      <h3>${escapeHtml(title)} — ${escapeHtml(data.name || '')}</h3>
+
+      ${availableVerses.map(v => `
         <section class="rashiBlock">
           <h3>${escapeHtml(v.ref)}</h3>
 
@@ -250,16 +259,20 @@ export async function renderParashaOnkelos() {
             <p class="he">${v.he || ''}</p>
             <p>${escapeHtml(
               state.currentLang === 'fr'
-                ? (v.fr || v.en || 'Traduction française de Onkelos en préparation.')
+                ? (v.fr || v.en || `Traduction française de ${title} en préparation.`)
                 : (v.en || 'English translation unavailable.')
             )}</p>
           </div>
         </section>
-      `).join('')}
+      `).join('') || `${escapeHtml(title)} non disponible pour cette paracha.`}
     `
   } catch (e) {
     box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
   }
+}
+
+export function renderParashaOnkelos() {
+  return renderGenericParashaCommentary('onkelos')
 }
 
 export function initParashiotEvents() {
