@@ -1,0 +1,643 @@
+{
+  "name": "Vayigash",
+  "range": "Genesis 44:18-47:27",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Genesis 44:18",
+      "he": "וּקְרֵב לְוָתֵיהּ יְהוּדָה וַאֲמַר בְּבָעוּ רִבּוֹנִי יְמַלֶּל כְּעַן עַבְדָךְ פִּתְגָּמָא קֳדָם רִבּוֹנִי וְלָא יִתְקֵף רוּגְזָךְ בְּעַבְדָךְ אֲרֵי כְפַרְעֹה כֶּן אָתְּ:",
+      "en": "Yehudah approached him [Yoseif] and said, Please my master, let your servant speak [now] a word in my master’s ears [before my master], and do not be angry with your servant; for you are equal to Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:19",
+      "he": "רִבּוֹנִי שְׁאִיל יָת עַבְדוֹהִי לְמֵימָר הַאִית לְכוֹן אַבָּא אוֹ אָחָא:",
+      "en": "My master asked his servants, saying, Do you have a father or brother?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:20",
+      "he": "וַאֲמַרְנָא לְרִבּוֹנִי אִית לָנָא אַבָּא סָבָא וּבַר סִיבְתִין זְעֵיר וְאָחוּהִי מִית וְאִשְׁתָּאַר הוּא בִּלְחוֹדוֹהִי לְאִמֵּהּ וַאֲבוּהִי רְחִים לֵהּ:",
+      "en": "We said to my master, We have a father who is old, and a young child of his old age. His brother is dead, and he alone survives of his mother, and his father loves him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:21",
+      "he": "וַאֲמַרְתָּ לְעַבְדָיךְ אֲחִיתוֹהִי לְוָתִי וֶאֱשַׁוֵּי עֵינִי עֲלוֹהִי:",
+      "en": "You said to your servants, Bring him down to me, that I may set my eyes on him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:22",
+      "he": "וַאֲמַרְנָא לְרִבּוֹנִי לָא יִכּוּל עוּלֵימָא לְמִשְׁבַּק יָת אֲבוּהִי וְאִם יִשְׁבּוֹק יָת אֲבוּהִי וּמִית:",
+      "en": "We said to my master, the lad cannot leave his father, for if he left his father, he would die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:23",
+      "he": "וַאֲמַרְתָּ לְעַבְדָיךְ אִם לָא יֵחוֹת אֲחוּכוֹן זְעֵירָא עִמְּכוֹן לָא תוֹסְפוּן לְמֶחֱזֵי אַפָּי:",
+      "en": "You [then] said to your servants, If your youngest brother does not come down with you, you shall not see my face again.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:24",
+      "he": "וַהֲוָה כַּד סְלֵיקְנָא לְעַבְדָךְ אַבָּא וְחַוֵּינָא לֵיהּ יָת פִּתְגָּמֵי רִבּוֹנִי:",
+      "en": "When we went to your servant, my father, we told him of my master’s words.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:25",
+      "he": "וַאֲמַר אָבוּנָא תּוּבוּ זְבוּנוּ לָנָא זְעֵיר עִיבוּרָא:",
+      "en": "Our father said, Go back and buy us a little food [grain].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:26",
+      "he": "וַאֲמַרְנָא לָא נִכּוּל לְמֵיחָת אִם אִית אָחוּנָא זְעֵירָא עִמָּנָא וְנֵחוֹת אֲרֵי לָא נִכּוּל לְמֶחֱזֵי אַפֵּי גַבְרָא וְאָחוּנָא זְעֵירָא לֵיתוֹהִי עִמָּנָא:",
+      "en": "We said, We cannot go down. If our youngest brother is with us, we will go down, for we cannot see the man’s face, unless our youngest brother is with us.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:27",
+      "he": "וַאֲמַר עַבְדָךְ אַבָּא לָנָא אַתּוּן יְדַעְתּוּן אֲרֵי תְרֵין יְלִידַת לִי אִתְּתִי:",
+      "en": "Your servant, my father said to us, You know that my wife [Rochel] bore me two sons.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:28",
+      "he": "וּנְפַק חַד מִלְּוָתִי וַאֲמָרִית בְּרַם מִקְטַל קְטִיל וְלָא חֲזִתֵּיהּ עַד כְּעָן:",
+      "en": "One has [already] left me, and I said, surely he is torn to pieces [dead]. I have not see him until now.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:29",
+      "he": "וְתַדְבְּרוּן אַף יָת דֵּין מִן קֳדָמַי וִיעַרְעִנֵּיהּ מוֹתָא וְתַחֲתוּן יָת שִׂבְתִי בְּבִישְׁתָא לִשְׁאוֹל:",
+      "en": "If you take this one also away from me, and misfortune [death] befall him, you will bring my white head down to the grave in evil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:30",
+      "he": "וּכְעַן כְּמֵיתִי לְוַת עַבְדָךְ אַבָּא וְעוּלֵימָא לֵיתוֹהִי עִמָּנָא וְנַפְשֵׁיהּ חֲבִיבָא לֵהּ כְּנַפְשֵׁיהּ:",
+      "en": "And now, when I come to your servant, my father, and the lad is not with us; his soul is bound up with the lad’s [as beloved to him as his own] soul.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:31",
+      "he": "וִיהֵי כַּד יֶחֱזֵי אֲרֵי לֵית עוּלֵימָא וּמִית וְיַחֲתוּן עַבְדָיךְ יָת שִׂיבַת עַבְדָךְ אָבוּנָא בְּדָווֹנָא לִשְׁאוֹל:",
+      "en": "When he sees that the lad is not [with us], he will die. Your servants will have brought down the white head of your servant, our father, to the grave in sorrow.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:32",
+      "he": "אַרֵי עַבְדָךְ מְעָרַב בְּעוּלֵימָא מִן אַבָּא לְמֵימָר אִם לָא אַיְתִנֵּיהּ לְוָתָךְ וָאֱהִי חָטֵי לְאַבָּא כָּל יוֹמַיָּא:",
+      "en": "For your servant became surety for the lad, to my father, saying, If I do not bring him to you, I will have sinned [be a sinner] to my father for all time.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:33",
+      "he": "וּכְעַן יֵתֶב כְּעַן עַבְדָךְ תְּחוֹת עוּלֵימָא עַבְדָא לְרִבּוֹנִי וְעוּלֵימָא יִסַּק עִם אֲחוּהִי:",
+      "en": "And now, let your servant [now] remain as a slave to my master instead of the lad. Let the lad go up with his brothers.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:34",
+      "he": "אֲרֵי אֶכְדֵּין אֶסַּק לְוַת אַבָּא וְעוּלֵימָא לֵיתוֹהִי עִמִּי דִּלְמָא אֶחֱזֵי בְּבִישׁוּ דִּי יִשְׁתְּכַח יָת אַבָּא:",
+      "en": "For how shall I go up to my father when the lad is not with me; lest I see the evil that would befall my father.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:1",
+      "he": "וְלָא יְכִיל יוֹסֵף לְאִתְחַסָּנָא לְכֹל דְּקָיְמִין עִלָּו‍ֹהִי וּקְרָא אַפִּיקוּ כָל אֱנַשׁ מֵעִלָּוָי וְלָא קָם אֱנַשׁ עִמֵּיהּ כַּד אִתְיְדַע יוֹסֵף לְוַת אֲחוֹהִי:",
+      "en": "Yoseif could not contain his emotions in the presence of all who stood before him, and he cried out Let everyone leave my presence. No man remained with him, when Yoseif made himself known to his brothers.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:2",
+      "he": "וִיהַב יָת קָלֵיהּ בִּבְכִיתָא וּשְׁמָעוּ מִצְרַיִם וּשְׁמַע אֱנַשׁ בֵּית פַּרְעֹה:",
+      "en": "He wept aloud, and the Egyptians heard about it, and the [people of the] house of Pharaoh [also] heard.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:3",
+      "he": "וַאֲמַר יוֹסֵף לַאֲחוֹהִי אֲנָא יוֹסֵף הַעַד כְּעַן אַבָּא קַיָּם וְלָא יָכִילוּ אֲחוֹהִי לַאֲתָבָא יָתֵיהּ פִּתְגָּם אֲרֵי אִתְבְּהִילוּ מִן קֳדָמוֹהִי:",
+      "en": "Yoseif said to his brothers, I am Yoseif, is my father still alive? His brothers could not answer [a word to] him for they were shocked at his presence.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:4",
+      "he": "וַאֲמַר יוֹסֵף לַאֲחוֹהִי קְרִיבוּ כְעַן לְוָתִי וּקְרִיבוּ וַאֲמַר אֲנָא יוֹסֵף אֲחוּכוֹן דִּי זַבִּנְתּוּן יָתִי לְמִצְרָיִם:",
+      "en": "[Then] Yoseif said to his brothers, Please [Now] come close to me. They came close [to him] and he said, I am Yoseif your brother, whom you sold into Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:5",
+      "he": "וּכְעַן לָא תִתְּנְסוּן וְלָא יִתְקָף בְּעֵינֵיכוֹן אֲרֵי זַבִּנְתּוּן יָתִי הָכָא אֲרֵי לְקַיָּמָא שַׁלְּחַנִי יְיָ קֳדָמֵיכוֹן:",
+      "en": "Now do not worry, and do not be angry with yourselves that you sold me here; for it was to preserve life that Elohim sent me [here] before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:6",
+      "he": "אֲרֵי דְנַן תַּרְתֵּין שְׁנִין כַּפְנָא בְּגוֹ אַרְעָא וְעוֹד חָמֵשׁ שְׁנִין דִּי לֵית זְרוֹעָא וַחֲצָדָא:",
+      "en": "For it is [now] two years that there has been famine in the land; and for another five years there will be no plowing [sowing] or harvest.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:7",
+      "he": "וְשַׁלְּחַנִי יְיָ קֳדָמֵיכוֹן לְשַׁוָּאָה לְכוֹן שְׁאָרָא בְּאַרְעָא וּלְקַיָּמָא לְכוֹן לְשֵׁיזָבָא רַבָּא:",
+      "en": "Elohim sent me [here] before you to insure your survival in the land, and to keep you alive for a great deliverance.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:8",
+      "he": "וּכְעַן לָא אַתּוּן שְׁלַחְתּוּן יָתִי הָכָא אֶלָּהֵן מִן קֳדָם יְיָ וְשַׁוְּיַנִי לְאַבָּא לְפַרְעֹה וּלְרִבּוֹן לְכָל אֱנַשׁ בֵּיתֵיהּ וְשַׁלִּיט בְּכָל אַרְעָא דְמִצְרָיִם:",
+      "en": "Now [then] it was not you that sent me here, but [it was from before] Elohim; and He has made me as a father to Pharaoh, and master of all [the people of] his house, and ruler over all the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:9",
+      "he": "אוֹחוּ וּסְקוֹ לְוַת אַבָּא וְתֵימְרוּן לֵיהּ כִּדְנַן אֲמַר בְּרָךְ יוֹסֵף שַׁוְּיַנִי יְיָ לְרִבּוֹן לְכָל מִצְרָיִם חוּת לְוָתִי לָא תִתְעַכָּב:",
+      "en": "Hurry, go up to my father and tell him: this is what your son, Yoseif, says, Elohim has made me master of all Egypt. Come down to me, do not delay.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:10",
+      "he": "וְתֵתֵיב בְּאַרְעָא דְגשֶׁן וּתְהֵי קָרִיב לִי אַתְּ וּבְנָךְ וּבְנֵי בְנָךְ וְעָנָךְ וְתוֹרָךְ וְכָל דִּי לָךְ:",
+      "en": "You will dwell in the land of Goshen, and you will be close to me—you, your children, your grandchildren, your sheep, your cattle and all that you own.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:11",
+      "he": "וְאֵזוּן יָתָךְ תַּמָּן אֲרֵי עוֹד חֲמֵשׁ שְׁנִין כַּפְנָא דִּלְמָא תִתְמַסְכַּן אַתְּ וֶאֱנַשׁ בֵּיתָךְ וְכָל דִּי לָךְ:",
+      "en": "I will provide for you there, since there will be another five years of famine; lest you become impoverished together with [the people of] your household and all that is yours.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:12",
+      "he": "וְהָא עֵינֵיכוֹן חֲזָן וְעֵינֵי אָחִי בִנְיָמִין אֲרֵי בְלִישָׁנְכוֹן אֲנָא מְמַלֵּל עִמְּכוֹן:",
+      "en": "Behold, your eyes see it along with my brother Binyomin’s eyes, that I speak to you with my own mouth [in your language].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:13",
+      "he": "וּתְחַוּוּן לְאַבָּא יָת כָּל יְקָרִי בְּמִצְרַיִם וְיָת כָּל דִּי חֲזֵיתוּן וְתוֹחוּן וְתַחֲתוּן יָת אַבָּא הָכָא:",
+      "en": "Tell my father of all my honor in Egypt, and all that you saw. Hurry and bring my father down here.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:14",
+      "he": "וּנְפַל עַל צַוְּארֵי בִנְיָמִן אֲחוּהִי וּבְכָא וּבִנְיָמִן בְּכָא עַל צַוְּארֵיהּ:",
+      "en": "He [then] fell upon his brother Binyomin’s neck and wept, and Binyomin wept upon his neck.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:15",
+      "he": "וּנְשַׁק לְכָל אֲחוֹהִי וּבְכָא עֲלֵיהוֹן וּבָתַר כֵּן מַלִּילוּ אֲחוֹהִי עִמֵּיהּ:",
+      "en": "He kissed all his brothers and wept upon [their necks]. After that his brothers spoke with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:16",
+      "he": "וְקָלָא אִשְׁתְּמַע לְבֵית פַּרְעֹה לְמֵימַר עַלּוּ אֲחֵי יוֹסֵף וּשְׁפַר בְּעֵינֵי פַרְעֹה וּבְעֵינֵי עַבְדּוֹהִי:",
+      "en": "The news was heard in Pharaoh’s house that Yoseif’s brothers had come. This was good [news] in the eyes of Pharaoh and in the eyes of his servants.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:17",
+      "he": "וַאֲמַר פַּרְעֹה לְיוֹסֵף אֱמַר לְאַחָיךְ דָּא עִיבִידוּ טְעוּנוּ יָת בְּעִירְכוֹן וֶאֱזִילוּ אוֹבִילוּ לְאַרְעָא דִכְנָעַן:",
+      "en": "Pharaoh said to Yoseif, Tell your brothers to do this: load up your beasts, and go and enter [bring to] the land of Canaan.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:18",
+      "he": "וּדְבָרוּ יָת אֲבוּכוֹן וְיָת אֱנַשׁ בָּתֵּיכוֹן וְעוּלוּ לְוָתִי וְאֶתֵּן לְכוֹן יָת טוּב אַרְעָא דְמִצְרַיִם וְתֵיכְלוּן יָת טוּבָא דְאַרְעָא:",
+      "en": "Bring your father and [the people of] your households and come to me; and I will give you the best of the land of Egypt. You will eat of the fat of the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:19",
+      "he": "וְאַתְּ מְפַקָּדָא דָּא עִיבִידוּ סִיבוּ לְכוֹן מֵאַרְעָא דְמִצְרַיִם עֶגְלָן לְטַפְלֵיכוֹן וְלִנְשֵׁיכוֹן וְתִטְּלוּן יָת אֲבוּכוֹן וְתֵיתוּן:",
+      "en": "Now you are commanded [to order (your) brothers to] do the following: Take wagons from the land of Egypt for your little ones and for your wives. Bring your father and come.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:20",
+      "he": "וְעֵינְכוֹן לָא תְחוּס עַל מָנֵיכוֹן אֲרֵי טַב כָּל אַרְעָא דְמִצְרַיִם דִּלְכוֹן הוּא:",
+      "en": "Do not be concerned with your belongings, for the best of Egypt is yours,",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:21",
+      "he": "וַעֲבָדוּ כֵן בְּנֵי יִשְׂרָאֵל וִיהַב לְהוֹן יוֹסֵף עֶגְלָן עַל מֵימַר פַּרְעֹה וִיהַב לְהוֹן זְוָדִין לְאָרְחָא:",
+      "en": "The sons of Yisrael did so. Yoseif gave them wagons by order of Pharaoh, and he gave them provisions for the journey.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:22",
+      "he": "לְכָלְּהוֹן יְהַב לִגְבַר אִצְטְלַוָּן דִּלְבוּשָׁא וּלְבִנְיָמִן יְהַב תְּלָת מְאָה סִלְעִין דִּכְסַף וַחֲמֵשׁ אִצְטְלַוָּן דִּלְבוּשִׁין:",
+      "en": "To each of them, he gave a change of clothing. To Binyomin he gave three hundred [selaim of] silver pieces and five changes of clothing.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:23",
+      "he": "וְלַאֲבוּהִי שְׁלַח כְּדָא עַסְרָא חֲמָרִין טְעִינִין מִטּוּבָא דְמִצְרָיִם וַעֲסַר אַתְנָן טְעִינָן עִיבוּר וּלְחֵם וּזְוָדִין לַאֲבוּהִי לְאָרְחָא:",
+      "en": "To his father he sent the following: Ten male donkeys loaded with the best of Egypt, and ten female donkeys loaded with grain, bread, and food [provisions] for his father for the journey.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:24",
+      "he": "וְשַׁלַּח יָת אֲחוֹהִי וַאֲזָלוּ וַאֲמַר לְהוֹן לָא תִתְנַצּוּן בְּאָרְחָא:",
+      "en": "He sent his brothers off and they went. He said to them, Do not be troubled [argue] along the way.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:25",
+      "he": "וּסְלִיקוּ מִמִּצְרָיִם וַאֲתוֹ לְאַרְעָא דִכְנַעַן לְוַת יַעֲקֹב אֲבוּהוֹן:",
+      "en": "They went up from Egypt, and they came to the land of Canaan, to their father Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:26",
+      "he": "וְחַוִּיאוּ לֵיהּ לְמֵימַר עוֹד כְּעַן יוֹסֵף קַיָּם וַאֲרֵי הוּא שַׁלִּיט בְּכָל אַרְעָא דְמִצְרָיִם וַהֲווֹ מִלַּיָּא פָּיְגָן עַל לִבֵּיהּ אֲרֵי לָא הֵימִין לְהוֹן:",
+      "en": "They told him saying, Yoseif is still alive, and he is ruler of all the land of Egypt. His [Yaakov’s] heart stood still [The words created uncertainty in his heart], for he could not believe them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:27",
+      "he": "וּמַלִּילוּ עִמֵּיהּ יָת כָּל פִּתְגָּמֵי יוֹסֵף דִּי מַלִּיל עִמְּהוֹן וַחֲזָא יָת עֲגַלָּתָא דִּשְׁלַח יוֹסֵף לְמִטַּל יָתֵיהּ וּשְׁרַת רוּחַ נְבוּאָה לְוַת יַעֲקֹב אֲבוּהוֹן:",
+      "en": "They told him all the words of Yoseif which he had spoken to them, and he saw the wagons that Yoseif had sent to carry him. [Then] the spirit of [prophecy rested upon] their father Yaakov was revived.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:28",
+      "he": "וַאֲמַר יִשְׂרָאֵל סַגִּי לִי חֶדְוָא עַד כְּעַן יוֹסֵף בְּרִי קַיָּם אֱזֵיל וְאֶחֱזִנֵּיהּ עַד לָא אֵמוּת:",
+      "en": "Yisrael said, It is too much [There is great joy for me]! My son Yoseif still lives. I will go and see him before I die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:1",
+      "he": "וּנְטַל יִשְׂרָאֵל וְכָל דִּי לֵיהּ וַאֲתָא לִבְאֵר שָׁבַע וּדְבַח דִּבְחִין לֵאלָהֵהּ אֲבוּהִי יִצְחָק:",
+      "en": "Yisrael journeyed with all that he possessed, and he came to Beer Sheva. He offered sacrifices [there] to the God of his father Yitzchok.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:2",
+      "he": "וַאֲמַר יְיָ לְיִשְׂרָאֵל בְּחֶזְוֵי דְלֵילְיָא וַאֲמַר יַעֲקֹב יַעֲקֹב וַאֲמַר הָא אֲנָא:",
+      "en": "Elohim said to Yisrael in a night vision, and He said, Yaakov, Yaakov. And he said, Here I am.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:3",
+      "he": "וַאֲמַר אֲנָא אֵל אֱלָהָא דְאָבוּךְ לָא תִדְחַל מִלְּמֵיחַת לְמִצְרַיִם אֲרֵי לְעַם סַגִּי אֲשַׁוִּנָּךְ תַּמָּן:",
+      "en": "He said I am the Almighty, God of your father. Do not be afraid to do down to Egypt, for there I will make you into a great nation.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:4",
+      "he": "אֲנָא אֵחוֹת עִמָּךְ לְמִצְרַיִם וַאֲנָא אַסֵּקִנָּךְ אַף אַסָּקָא וְיוֹסֵף יְשַׁוֵּי יְדוֹהִי עַל עֵינָיךְ:",
+      "en": "I will go down with you to Egypt, and I will also surely bring you up again. Yoseif shall place his hand upon your eyes.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:5",
+      "he": "וְקָם יַעֲקֹב מִבְּאֵרָא דְשָׁבַע וּנְטָלוּ בְנֵי יִשְׂרָאֵל יָת יַעֲקֹב אֲבוּהוֹן וְיָת טַפְלְהוֹן וְיָת נְשֵׁיהוֹן בַּעֲגַלְתָּא דִּי שְׁלַח פַּרְעֹה לְמִטַּל יָתֵיהּ:",
+      "en": "Yaakov rose up from Beer Sheva. The sons of Yisrael transported their father Yaakov, their children, their wives in the wagons that Pharaoh had sent to carry him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:6",
+      "he": "וּדְבָרוּ יָת גֵּיתֵיהוֹן וְיָת קִנְיָנְהוֹן דִּי קְנוֹ בְּאַרְעָא דִכְנַעַן וַאֲתוֹ לְמִצְרָיִם יַעֲקֹב וְכָל בְּנוֹהִי עִמֵּיהּ:",
+      "en": "They took their livestock and their possessions that they had acquired in the land of Canaan, and they came to Egypt; Yaakov and all his descendants with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:7",
+      "he": "בְּנוֹהִי וּבְנֵי בְנוֹהִי עִמֵּיהּ בְּנָתֵיהּ וּבְנַת בְּנוֹהִי וְכָל זַרְעֵיהּ אָעֵיל עִמֵּיהּ לְמִצְרָיִם:",
+      "en": "His sons and grandsons were with him. His daughters and his granddaughters, and all his descendants he brought with him to Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:8",
+      "he": "וְאִלֵּין שְׁמָהַת בְּנֵי יִשְׂרָאֵל דְּעַלּוּ לְמִצְרַיִם יַעֲקֹב וּבְנוֹהִי בּוּכְרָא דְיַעֲקֹב רְאוּבֵן:",
+      "en": "These are the names of the sons of Yisrael who were coming to Egypt, Yaakov and his sons. The firstborn of Yaakov was Reuvein.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:9",
+      "he": "וּבְנֵי רְאוּבֵן חֲנוֹךְ וּפַלּוּא וְחֶצְרֹן וְכַרְמִי:",
+      "en": "The sons of Reuvein [were]: Chanoch, Phallu, Chetzron and Carmi.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:10",
+      "he": "וּבְנֵי שִׁמְעוֹן יְמוּאֵל וְיָמִין וְאֹהַד וְיָכִין וְצֹחַר וְשָׁאוּל בַּר כְּנַעֲנֵיתָא:",
+      "en": "The sons, of Shimon [were]: Yemueil, Yamin, Ohad, Yachin, Tzochar and Shaul, the son of the Canaanite woman.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:11",
+      "he": "וּבְנֵי לֵוִי גֵּרְשׁוֹן קְהָת וּמְרָרִי:",
+      "en": "The sons of Leivi [were] Gershon, Kehas and Merari.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:12",
+      "he": "וּבְנֵי יְהוּדָה עֵר וְאוֹנָן וְשֵׁלָה וָפֶרֶץ וָזָרַח וּמִית עֵר וְאוֹנָן בְּאַרְעָא דִכְנַעַן וַהֲווֹ בְנֵי פֶרֶץ חֶצְרֹן וְחָמוּל:",
+      "en": "The sons of Yehudah [were]: Eir, Onan, Sheiloh, Peretz and Zorach. Eir and Onan died in the land of Canaan. The sons of Peretz were Chetzron and Chamul.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:13",
+      "he": "וּבְנֵי יִשָּׂשׂכָר תּוֹלָע וּפֻוָּה וְיוֹב וְשִׁמְרוֹן:",
+      "en": "The sons of Yissachar [were]: Tolah, Phuvah, Yov and Shimron.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:14",
+      "he": "וּבְנֵי זְבֻלוּן סֶרֶד וְאֵלוֹן וְיַחְלְאֵל:",
+      "en": "The sons of Zevulun [were]: Sered, Eilon and Yachle’eil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:15",
+      "he": "אִלֵּין בְּנֵי לֵאָה דִּיְלִידַת לְיַעֲקֹב בְּפַדַּן אֲרָם וְיָת דִּינָה בְרַתֵּהּ כָּל נֶפֶשׁ בְּנוֹהִי וּבְנָתֵיהּ תְּלָתִין וּתְלָת:",
+      "en": "These are the sons of Leah that she bore to Yaakov in Padan Aram, along with his daughter Deenah. All the souls of his sons and daughters were thirty-three.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:16",
+      "he": "וּבְנֵי גָד צִפְיוֹן וְחַגִּי שׁוּנִי וְאֶצְבּוֹן עֵרִי וַאֲרוֹדִי וְאַרְאֵלִי:",
+      "en": "The sons of Gad [were]: Tzifyon, Chagi, Shuni, Etzbon, Eiri, Arodi, and Areili.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:17",
+      "he": "וּבְנֵי אָשֵׁר יִמְנָה וְיִשְׁוָה וְיִשְׁוִי וּבְרִיעָה וְשֶׂרַח אֲחַתְהוֹן וּבְנֵי בְרִיעָה חֶבֶר וּמַלְכִּיאֵל:",
+      "en": "The sons of Asher [were]: Yimnah, Yishvah, Yishvi, and Beriah, and their sister, Serach. The sons of Beriah [were]: Chever and Malki’eil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:18",
+      "he": "אִלֵּין בְּנֵי זִלְפָּה דִּיהַב לָבָן לְלֵאָה בְרַתֵּיהּ וִילִידַת יָת אִלֵּין לְיַעֲקֹב שִׁית עֶשְׂרֵי נַפְשָׁא:",
+      "en": "These are the sons of Zilpah, whom Lavan gave to his daughter, Leah. She bore these to Yaakov, sixteen souls.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:19",
+      "he": "בְּנֵי רָחֵל אִתַּת יַעֲקֹב יוֹסֵף וּבִנְיָמִן:",
+      "en": "The sons of Rochel, Yaakov’s wife [were]: Yoseif and Binyomin.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:20",
+      "he": "וְאִתְיְלִידוּ לְיוֹסֵף בְּאַרְעָא דְמִצְרַיִם דִּילִידַת לֵהּ אָסְנַת בַּת פּוֹטִי פֶרַע רַבָּא דְאוֹן יָת מְנַשֶּׁה וְיָת אֶפְרָיִם:",
+      "en": "In the land of Egypt, [sons] were born to Yoseif, which were born to him by Osnas, daughter of Poti Phera, priest [chief] of On; [they were] Menasheh and Ephraim.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:21",
+      "he": "וּבְנֵי בִנְיָמִן בֶּלַע וָבֶכֶר וְאַשְׁבֵּל גֵּרָא וְנַעֲמָן אֵחִי וָרֹאשׁ מֻפִּים וְחֻפִּים וָאָרְדְּ:",
+      "en": "The sons of Binyomin [were]: Bela, Becher, Ashbeil, Geiroh, Naamon, Eichi, Rosh, Muppim, Chuppim and Ard.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:22",
+      "he": "אִלֵּין בְּנֵי רָחֵל דְּאִתְיְלִידוּ לְיַעֲקֹב כָּל נַפְשָׁא אַרְבְּעָה עֲשָׂר:",
+      "en": "These are the sons of Rochel that she bore to Yaakov. All the souls were fourteen.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:23",
+      "he": "וּבְנֵי דָן חֻשִׁים:",
+      "en": "The sons of Don [were] Chushim.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:24",
+      "he": "וּבְנֵי נַפְתָּלִי יַחְצְאֵל וְגוּנִי וְיֵצֶר וְשִׁלֵּם:",
+      "en": "The sons of Naftali were: Yachtze’eil, Guni, Yeitzer and Shileim.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:25",
+      "he": "אִלֵּין בְּנֵי בִלְהָה דִּיהַב לָבָן לְרָחֵל בְּרַתֵּיהּ וִילִידַת יָת אִלֵּין לְיַעֲקֹב כָּל נַפְשָׁא שִׁבְעָא:",
+      "en": "These are the sons of Bilhah whom Lavan gave to his daughter Rochel. She bore these to Yaakov, seven souls in all.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:26",
+      "he": "כָּל נַפְשָׁא דְּעַלָּא לְיַעֲקֹב לְמִצְרַיִם נָפְקֵי יַרְכֵּיהּ בַּר מִנְּשֵׁי בְנֵי יַעֲקֹב כָּל נַפְשָׁתָא שִׁתִּין וְשִׁית:",
+      "en": "All the souls coming with Yaakov to Egypt, who came out of his loins, not counting the wives of Yaakov’s sons, all the souls totaled sixty-six.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:27",
+      "he": "וּבְנֵי יוֹסֵף דִּי אִתְיְלִידוּ לֵיהּ בְּמִצְרַיִם נַפְשָׁתָא תְרֵין כָּל נַפְשָׁתָא לְבֵית יַעֲקֹב דְּעַלּוּ לְמִצְרַיִם שִׁבְעִין:",
+      "en": "The sons of Yoseif who were born to him in Egypt were [another] two souls. All the souls of the house of Yaakov that came to Egypt were seventy.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:28",
+      "he": "וְיָת יְהוּדָה שְׁלַח קֳדָמוֹהִי לְוַת יוֹסֵף לְפַנָּאָה קֳדָמוֹהִי לְגשֶׁן וַאֲתוֹ לְאַרְעָא דְגשֶׁן:",
+      "en": "He [Yaakov] sent Yehudah ahead of him to Yoseif, so that he might direct him to [clear a place before him in] Goshen. They then came to the land of Goshen.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:29",
+      "he": "וְטַקִּיס יוֹסֵף רְתִכּוֹהִי וּסְלֵיק לְקַדָּמוּת יִשְׂרָאֵל אֲבוּהִי לְגשֶׁן וְאִתְגְּלִי לֵיהּ וּנְפַל עַל צַוְּרֵיהּ וּבְכָא עַל צַוְּרֵיהּ עוֹד:",
+      "en": "Yoseif harnessed his chariot, and went up to greet his father, Yisrael in Goshen. [When] he appeared before him, he fell on his neck, and wept on his neck for a long time.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:30",
+      "he": "וַאֲמַר יִשְׂרָאֵל לְיוֹסֵף אִלּוּ אֲנָא מָיִת זִמְנָא הָדָא מְנַחֵם אֲנָא בָּתַר דַּחֲזֵיתִי יָת אַפָּיךְ אֲרֵי עַד כְּעַן אַתְּ קַיָּם:",
+      "en": "Yisrael said to Yoseif, Now I can [If I were to] die [now I will have been consoled]; after I have seen your face that you are alive.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:31",
+      "he": "וַאֲמַר יוֹסֵף לַאֲחוֹהִי וּלְבֵית אֲבוּהִי אֶסַּק וְאֵחַוֵּי לְפַרְעֹה וְאֵימַר לֵיהּ אַחַי וּבֵית אַבָּא דִּי בְאַרְעָא דִכְנַעַן עַלּוּ לְוָתִי:",
+      "en": "Yoseif said to his brothers and to his father’s household, I will go up and tell Pharaoh. I will say to him, My brothers and my father’s household, who were in the land of Canaan, have come to me.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:32",
+      "he": "וְגֻבְרַיָּא רָעֵי עָנָא אֲרֵי גֻבְרֵי מָרֵי גֵיתֵי הֲווֹ וְעָנְהוֹן וְתוֹרְהוֹן וְכָל דִּי לְהוֹן אַיְתִיאוּ:",
+      "en": "The men are shepherds, for they are owners of livestock. Their sheep, their cattle, and all their possessions, they have brought [with them.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:33",
+      "he": "וִיהֵי אֲרֵי יִקְרֵי לְכוֹן פַּרְעֹה וְיֵימַר מָה עוֹבָדֵיכוֹן:",
+      "en": "And when Pharaoh calls you, and says, What is your occupation,",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:34",
+      "he": "וְתֵימְרוּן גֻּבְרֵי מָרֵי גֵיתֵי הֲווֹ עַבְדָּיךְ מֵעוּלֵמָנָא וְעַד כְּעַן אַף אֲנַחְנָא אַף אֲבְהָתָנָא בְּדִיל דִּי תֵיתְבוּן בְּאַרְעָא דְגשֶׁן אֲרֵי מְרַחֲקִין מִצְרָאֵי כָּל רָעֵי עָנָא:",
+      "en": "You should say, Your servants have been livestock owners from our youth until now, we and our fathers; so that you will be able to settle in the land of Goshen, since every shepherd is abhorrent to Egypt [the Egyptians make distant all shepherds].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:1",
+      "he": "וַאֲתָא יוֹסֵף וְחַוִּי לְפַרְעֹה וַאֲמַר אַבָּא וְאַחַי וְעָנְהוֹן וְתוֹרְהוֹן וְכָל דִּי לְהוֹן אֲתוֹ מֵאַרְעָא דִכְנָעַן וְהָא אִנּוּן בְּאַרְעָא דְגשֶׁן:",
+      "en": "Yoseif came and told Pharaoh, and he said, My father, and my brothers, their sheep, their cattle, and all their possessions, have come from the land of Canaan, and they are now in the land of Goshen.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:2",
+      "he": "וּמִקְצַת מִן אֲחוֹהִי דְּבַר חַמְשָׁא גֻבְרִין וַאֲקֵימִנּוּן קֳדָם פַּרְעֹה:",
+      "en": "From among his brothers, he took five men, and he presented them to Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:3",
+      "he": "וַאֲמַר פַּרְעֹה לַאֲחוֹהִי מָה עוֹבָדֵיכוֹן וַאֲמָרוּ לְפַרְעֹה רָעֵי עָנָא עַבְדָּיךְ אַף אֲנַחְנָא אַף אֲבְהָתָנָא:",
+      "en": "Pharaoh said to his brothers, What is your occupation? They said to Pharaoh, Your servants are shepherds, we and our fathers.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:4",
+      "he": "וַאֲמָרוּ לְוַת פַּרְעֹה לְאִתּוֹתָבָא בְאַרְעָא אֲתֵינָא אֲרֵי לֵית רַעֲיָא לְעָנָא דִּי לְעַבְדָּיךְ אֲרֵי תַקִּיף כַּפְנָא בְּאַרְעָא דִכְנָעַן וּכְעַן יֵתְבוּן כְּעַן עַבְדָּיךְ בְּאַרְעָא דְגשֶׁן:",
+      "en": "They said to Pharaoh, We have come to live in the land temporarily, since there is no pasture for your servant’s flocks, because the famine is severe in the land of Canaan. Now then, please let your servants [now] settle in the land of Goshen.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:5",
+      "he": "וַאֲמַר פַּרְעֹה לְיוֹסֵף לְמֵימָר אֲבוּךְ וְאַחָיךְ אֲתוֹ לְוָתָךְ:",
+      "en": "Pharaoh said to Yoseif, Your father and your brothers have come to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:6",
+      "he": "אַרְעָא דְמִצְרַיִם קֳדָמָךְ הִיא בִּדְשַׁפִּיר בְּאַרְעָא אוֹתֵיב יָת אֲבוּךְ וְיָת אַחָיךְ יֵתְבוּן בְּאַרְעָא דְגשֶׁן וְאִם יָדַעְתְּ וְאִית בְּהוֹן גֻּבְרִין דְּחֵילָא וּתְמַנִּנּוּן רַבָּנֵי גֵיתֵי עַל דִּי לִי:",
+      "en": "The land of Egypt is before you. In the best of the land, settle your father and your brothers. Let them settle in the land of Goshen. If you know of capable men among them, appoint them livestock officers over my [herds.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:7",
+      "he": "וְאַיְתִי יוֹסֵף יָת יַעֲקֹב אֲבוּהִי וַאֲקִימִנֵּיהּ קֳדָם פַּרְעֹה וּבָרִיךְ יַעֲקֹב יָת פַּרְעֹה:",
+      "en": "Yoseif [then] brought in Yaakov, his father, and presented him to Pharaoh; and Yaakov blessed Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:8",
+      "he": "וַאֲמַר פַּרְעֹה לְיַעֲקֹב כַּמָּה יוֹמֵי שְׁנֵי חַיָּךְ:",
+      "en": "Pharaoh said to Yaakov, How many are the years of your life?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:9",
+      "he": "וַאֲמַר יַעֲקֹב לְפַרְעֹה יוֹמֵי שְׁנֵי תוֹתָבוּתַי מְאָה וּתְלָתִין שְׁנִין זְעֵירִין וּבִישִׁין הֲווֹ יוֹמֵי שְׁנֵי חַיַּי וְלָא אַדְבִּיקוּ יָת יוֹמֵי שְׁנֵי חַיֵּי אֲבָהָתַי בְּיוֹמֵי תּוֹתָבוּתְהוֹן:",
+      "en": "Yaakov said to Pharaoh, The years of my temporary residence are one hundred and thirty years. Few and troublesome have been the days of my life. I have not attained the years of my father’s lives, in the days of their temporary residence.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:10",
+      "he": "וּבָרִיךְ יַעֲקֹב יָת פַּרְעֹה וּנְפַק מִן קֳדָם פַּרְעֹה:",
+      "en": "Yaakov blessed Pharaoh, and left Pharaoh’s presence.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:11",
+      "he": "וְאוֹתֵיב יוֹסֵף יָת אֲבוּהִי וְיָת אֲחוֹהִי וִיהַב לְהוֹן אַחֲסָנָא בְּאַרְעָא דְמִצְרַיִם בִּדְשַׁפִּיר בְּאַרְעָא בְּאַרְעָא דְרַעְמְּסֵס כְּמָא דִי פַקִּיד פַּרְעֹה:",
+      "en": "Yoseif settled his father and his brothers, and gave them a possession in the land of Egypt, in the best part of the land, in the land of Ramseis, as Pharaoh had ordered.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:12",
+      "he": "וְזָן יוֹסֵף יָת אֲבוּהִי וְיָת אֲחוֹהִי וְיָת כָּל בֵּית אֲבוּהִי לַחְמָא לְפוּם טַפְלָא:",
+      "en": "Yoseif provided his father, his brothers, and all his father’s household with bread according to [the needs of] the children.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:13",
+      "he": "וְלַחְמָא לֵית בְּכָל אַרְעָא אֲרֵי תַקִּיף כַּפְנָא לַחֲדָא וְאִשְׁתַּלְהֵי עַמָּא דְאַרְעָא דְמִצְרַיִם וְעַמָּא דְאַרְעָא דִכְנַעַן מִן קֳדָם כַּפְנָא:",
+      "en": "There was no bread in all the land, for the famine was very severe. The [the people of the] land of Egypt, and Canaan were worn out because of the famine.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:14",
+      "he": "וְלַקִּיט יוֹסֵף יָת כָּל כַּסְפָּא דְּאִשְׁתְּכַח בְּאַרְעָא דְמִצְרַיִם וּבְאַרְעָא דִכְנַעַן בְּעִיבוּרָא דִּי אִנּוּן זָבְנִין וְאַיְתֵי יוֹסֵף יָת כַּסְפָּא לְבֵית פַּרְעֹה:",
+      "en": "Yoseif gathered up all the money that was to be found in the land of Egypt, and in the land of Canaan, through the purchases [grain] they made. Yoseif brought the money to the house of Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:15",
+      "he": "וּשְׁלִים כַּסְפָּא מֵאַרְעָא דְמִצְרַיִם וּמֵאַרְעָא דִכְנַעַן וַאֲתוֹ כָל מִצְרָאֵי לְוַת יוֹסֵף לְמֵימַר הַב לָנָא לַחְמָא וּלְמָה נְמוּת לְקִבְלָךְ אֲרֵי שְׁלִים כַּסְפָּא:",
+      "en": "When the money was used up in the land of Egypt, and in the land of Canaan, all [the people of] Egypt came to Yoseif, saying, Give us bread; why should we die in your presence, [just] because there is no money?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:16",
+      "he": "וַאֲמַר יוֹסֵף הָבוּ גֵיתֵיכוֹן וְאֶתֵּן לְכוֹן בְּגֵיתֵיכוֹן אִם שְׁלִים כַּסְפָּא:",
+      "en": "Yoseif said, Bring your livestock, and I will give you [food] [in exchange] for your livestock if there is no more money.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:17",
+      "he": "וְאַיְתִיּוּ יָת גֵּיתֵיהוֹן לְוַת יוֹסֵף וִיהַב לְהוֹן יוֹסֵף לַחְמָא בְּסוּסָוָתָא וּבְגֵיתֵי עָנָא וּבְגֵיתֵי תוֹרִין וּבַחֲמָרִין וְזָנִנּוּן בְּלַחְמָא בְּכָל גֵּיתֵיהוֹן בְּשַׁתָּא הַהִיא:",
+      "en": "They brought their livestock to Yoseif, and Yoseif gave them bread [in exchange] for their horses, their flocks of sheep, their herds of cattle and their donkeys. He tended [sustained] them with bread in exchange for all their livestock, in that year.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:18",
+      "he": "וּשְׁלִימַת שַׁתָּא הַהִיא וַאֲתוֹ לְוָתֵיהּ בְּשַׁתָּא תִנְיֵתָא וַאֲמָרוּ לֵיהּ לָא נְכַסֵּי מִן רִבּוֹנִי אֶלָּהֵין שְׁלִים כַּסְפָּא וְגֵיתֵי בְעִירָא לְוַת רִבּוֹנִי לָא אִשְׁתָּאַר קֳדָם רִבּוֹנִי אֶלָּהֵין גְּוִיָּתָנָא וְאַרְעָנָא:",
+      "en": "That year came to an end. They came to him in the second year, and they said to him, We are holding nothing back from my master, for the money is used up, and the herds of cattle belong to my master. There is nothing left before my master except our bodies and our land.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:19",
+      "he": "לְמָה נְמוּת לְעֵינָיךְ אַף אֲנַחְנָא אַף אַרְעָתָנָא קְנֵי יָתָנָא וְיָת אַרְעָתָנָא בְּלַחְמָא וּנְהֵי אֲנַחְנָא וְאַרְעָתָנָא עַבְדִּין לְפַרְעֹה וְהַב בַּר זַרְעָא וְנֵיחֵי וְלָא נְמוּת וְאַרְעָא לָא תְבוּר:",
+      "en": "Why should we die before your eyes, both we and our land? Buy us and our land [in exchange] for bread. We and our land will become slaves to Pharaoh. Give us seed grain, let us live and not die, and let the land not become desolate [uncultivated].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:20",
+      "he": "וּקְנָא יוֹסֵף יָת כָּל אַרְעָא דְמִצְרַיִם לְפַרְעֹה אֲרֵי זַבִּינוּ מִצְרַיִם גְּבַר חַקְלֵיהּ אֲרֵי תְקֵיף עֲלֵיהוֹן כַּפְנָא וַהֲוַת אַרְעָא לְפַרְעֹה:",
+      "en": "Yoseif bought all the land of Egypt for Pharaoh, for every Egyptian sold his field, because the famine was severe upon them. Thus the land became Pharaoh’s [property.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:21",
+      "he": "וְיָת עַמָּא אַעְבַּר יָתֵיהּ מִקְּרֵי לִקְרֵי מִסְּיָפֵי תְּחוּם מִצְרַיִם וְעַד סוֹפֵיהּ:",
+      "en": "He [Yoseif] then transferred the people to cities [from city to city], from one end of the border of Egypt to the other.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:22",
+      "he": "לְחוֹד אַרְעָא דְכֻמָּרַיָּא לָא זַבִּין אֲרֵי חֳלָקָא לְכֻמָּרַיָּא מִלְּוַת פַּרְעֹה וְאָכְלִין יָת חֳלָקְהוֹן דִּיהַב לְהוֹן פַּרְעֹה עַל כֵּן לָא זַבִּינוּ יָת אַרְעֲהוֹן:",
+      "en": "But the land of the priests he did not buy, because the priests had an allotment from Pharaoh. They ate the allotment that Pharaoh gave them, and therefore they did not sell their land.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:23",
+      "he": "וַאֲמַר יוֹסֵף לְעַמָּא הָא זְבֵנִית יָתְכוֹן יוֹמָא דֵין וְיָת אַרְעֲכוֹן לְפַרְעֹה הֵא לְכוֹן בַּר זַרְעָא וְתִזְרְעוּן יָת אַרְעָא:",
+      "en": "Yoseif said to the people, Behold, I have today purchased you and your lands for Pharaoh. Here is seed, plant [it in] the soil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:24",
+      "he": "וִיהֵי בְּאָעוֹלֵי עֲלַלְתָּא וְתִתְּנוּן חַד מִן חַמְשָׁא לְפַרְעֹה וְאַרְבַּע חֳלָקִין יְהֵא לְכוֹן לְבַר זְרַע חַקְלָא וּלְמֵיכַלְכוֹן וְלֶאֱנַשׁ בְּבָתֵּיכוֹן וּלְמֵיכַל לְטַפְלְכוֹן:",
+      "en": "When it produces [the produce is gathered] you must give a fifth to Pharaoh. Four parts shall be yours for seed for your fields and for your food, and for those [the people] of your households, and for food for your little ones.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:25",
+      "he": "וַאֲמָרוּ קַיִּמְתָּנָא נַשְׁכַּח רַחֲמִין בְּעֵינֵי רִבּוֹנִי וּנְהֵי עַבְדִּין לְפַרְעֹה:",
+      "en": "They said, You have saved our lives. May we find favor in the eyes of my master, and we will be slaves to Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:26",
+      "he": "וְשַׁוִּי יָתַהּ יוֹסֵף לִגְזֵרָא עַד יוֹמָא הָדֵין עַל אַרְעָא דְמִצְרַיִם דִּיהוֹן יָהֲבִין חַד מִן חַמְשָׁא לְפַרְעֹה לְחוֹד אַרְעָא דְכֻמָּרַיָּא בִּלְחוֹדֵהוֹן לָא הֲוַת לְפַרְעֹה:",
+      "en": "Yoseif enacted a statute over the land of Egypt to this day, that a fifth belongs [they should give a fifth] to Pharaoh. Except the land of the priests alone, did not belong to Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:27",
+      "he": "וִיתֵיב יִשְׂרָאֵל בְּאַרְעָא דְמִצְרַיִם בְּאַרְעָא דְגשֶׁן וְאַחֲסִינוּ בַהּ וּנְפִישׁוּ וּסְגִיאוּ לַחֲדָא:",
+      "en": "Yisrael lived in the land of Egypt, in the land of Goshen. They acquired property there. They were fruitful and [their population] increased greatly.",
+      "fr": ""
+    }
+  ]
+}

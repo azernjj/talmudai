@@ -1,0 +1,883 @@
+{
+  "name": "Bereshit",
+  "range": "Genesis 1:1-6:8",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Genesis 1:1",
+      "he": "בְּקַדְמִין בְּרָא יְיָ יָת שְׁמַיָּא וְיָת אַרְעָא:",
+      "en": "In the beginning Elohim created the heavens and the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:2",
+      "he": "וְאַרְעָא הֲוַת צָדְיָא וְרֵיקַנְיָא וַחֲשׁוֹכָא פָּרַשׂ עַל אַפֵּי תְהוֹמָא וְרוּחָא מִן קֳדָם יְיָ מְנַשְּׁבָא עַל אַפֵּי מַיָּא:",
+      "en": "The earth was unformed and desolate, and (there was) darkness [was spread] over the surface of the abyss. The breath of [from before] Elohim hovered [blew] above the surface of the water.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:3",
+      "he": "וַאֲמַר יְיָ יְהֵי נְהוֹרָא וַהֲוָה נְהוֹרָא:",
+      "en": "Elohim said, Let there be light. and there was light.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:4",
+      "he": "וַחֲזָא יְיָ יָת נְהוֹרָא אֲרֵי טָב וְאַפְרֵשׁ יְיָ בֵּין נְהוֹרָא וּבֵין חֲשׁוֹכָא:",
+      "en": "Elohim saw that the light was good, and Elohim divided the light from the darkness.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:5",
+      "he": "וּקְרָא יְיָ לִנְהוֹרָא יְמָמָא וְלַחֲשׁוֹכָא קְרָא לֵילְיָא וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹמָא חָד:",
+      "en": "Elohim called the light day, and the darkness He called night. It became evening and it became morning, one day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:6",
+      "he": "וַאֲמַר יְיָ יְהִי רְקִיעָא בִּמְצִיעוּת מַיָּא וִיהִי מַפְרִישׁ בֵּין מַיָּא לְמַיָּא:",
+      "en": "Elohim said, Let there be a canopy in the midst [middle] of the waters, and let it divide between waters and waters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:7",
+      "he": "וַעֲבַד יְיָ יָת רְקִיעָא וְאַפְרֵישׁ בֵּין מַיָּא דִּי מִלְרַע לִרְקִיעָא וּבֵין מַיָּא דִּי מֵעַל לִרְקִיעָא וַהֲוָה כֵן:",
+      "en": "Elohim made the canopy, and divided the waters which were beneath the canopy, from the waters which were above the canopy, and it was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:8",
+      "he": "וּקְרָא יְיָ לִרְקִיעָא שְׁמַיָּא וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם תִּנְיָן:",
+      "en": "Elohim called the canopy heaven. It became evening and it became morning the second day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:9",
+      "he": "וַאֲמַר יְיָ יִתְכַּנְשׁוּן מַיָּא מִתְּחוֹת שְׁמַיָּא לַאֲתַר חָד וְתִתְחֲזֵי יַבֶּשְׁתָּא וַהֲוָה כֵן:",
+      "en": "Elohim said, Let the waters beneath the heavens be gathered into one place, and let the dryness be seen. It was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:10",
+      "he": "וּקְרָא יְיָ לְיַבֶּשְׁתָּא אַרְעָא וּלְבֵית כְּנִישׁוּת מַיָּא קְרָא יַמְמֵי וַחֲזָא יְיָ אֲרֵי טָב:",
+      "en": "Elohim called the dryness, earth, and the gathering of the waters, He called seas, and Elohim saw that it was good.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:11",
+      "he": "וַאֲמַר יְיָ תַּדְאֵית אַרְעָא דִּיתְאָה עִסְבָּא דְּבַר זַרְעֵהּ מִזְדְּרַע אִילַן פֵּירִין עָבַד פֵּירִין לִזְנֵהּ דִּי בַר זַרְעֵהּ בֵּהּ עַל אַרְעָא וַהֲוָה כֵן:",
+      "en": "Elohim said, Let the earth sprout grass, seed-yielding herbs, fruit trees bearing fruit of its own kind, with its seed within it, upon the earth. And it was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:12",
+      "he": "וְאַפֵּקַת אַרְעָא דִּיתְאָה עִסְבָּא דְּבַר זַרְעֵהּ מִזְדְּרַע לִזְנוֹהִי וְאִילַן עָבֵד פֵּירִין דְּבַר זַרְעֵהּ בֵּהּ לִזְנוֹהִי וַחֲזָא יְיָ אֲרֵי טָב:",
+      "en": "The earth brought forth grass, herbs yielding seed of its kind, and trees bearing fruit which has in it seeds of its kind; and Elohim saw that it was good.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:13",
+      "he": "וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם תְּלִיתָאִי:",
+      "en": "It became evening and it became morning, the third day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:14",
+      "he": "וַאֲמַר יְיָ יְהוֹן נְהוֹרִין בִּרְקִיעָא דִּשְׁמַיָּא לְאַפְרָשָׁא בֵּין יְמָמָא וּבֵין לֵילְיָא וִיהוֹן לְאָתִין וּלְזִמְנִין וּלְמִימְנֵי בְהוֹן יוֹמִין וּשְׁנִין:",
+      "en": "Elohim said, Let there be lights in the canopy of heaven to divide between the day and the night, and they will serve for signs for seasons, [and to count] (for) days and (for) years [with them].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:15",
+      "he": "וִיהוֹן לִנְהוֹרִין בִּרְקִיעָא דִּשְׁמַיָּא לְאַנְהָרָא עַל אַרְעָא וַהֲוָה כֵן:",
+      "en": "They will be for lights in the canopy of heaven to illuminate the earth. And it was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:16",
+      "he": "וַעֲבַד יְיָ יָת תְּרֵין נְהוֹרַיָּא רַבְרְבַיָּא יָת נְהוֹרָא רַבָּא לְמִשְׁלַט בִּימָמָא וְיָת נְהוֹרָא זְעֵרָא לְמִשְׁלַט בְּלֵילְיָא וְיָת כּוֹכְבַיָּא:",
+      "en": "Elohim made the two great lights, the large light to rule the day, and the small light to rule the night, and the stars",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:17",
+      "he": "וִיהַב יָתְהוֹן יְיָ בִּרְקִיעָא דִּשְׁמַיָּא לְאַנְהָרָא עַל אַרְעָא:",
+      "en": "Elohim set them in the canopy of the heaven to illuminate the earth,",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:18",
+      "he": "וּלְמִשְׁלַט בִּימָמָא וּבְלֵילְיָא וּלְאַפְרָשָׁא בֵּין נְהוֹרָא וּבֵין חֲשׁוֹכָא וַחֲזָא יְיָ אֲרֵי טָב:",
+      "en": "to rule in the day and the night, and to divide between the light and the darkness; and Elohim saw that it was good.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:19",
+      "he": "וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם רְבִיעָאִי:",
+      "en": "It became evening and it became morning, the fourth day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:20",
+      "he": "וַאֲמַר יְיָ יִרְחֲשׁוּן מַיָּא רְחֵשׁ נַפְשָׁא חַיְתָא וְעוֹפָא יְפָרַח עַל אַרְעָא עַל אַפֵּי רְקִיעָא דִּשְׁמַיָּא:",
+      "en": "Elohim said, Let the waters teem with swarms of living creatures, and let birds fly above the earth, in the open canopy of the heaven.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:21",
+      "he": "וּבְרָא יְיָ יָת תַּנִּינַיָּא רַבְרְבַיָּא וְיָת כָּל נַפְשָׁא חַיְתָא דִּרְחִשָׁא דִּי אַרְחִישׁוּ מַיָּא לִזְנֵיהוֹן וְיָת כָּל עוֹפָא דְפָרַח לִזְנוֹהִי וַחֲזָא יְיָ אֲרֵי טָב:",
+      "en": "And thus Elohim created the great whales, and every living creature that creeps, with which the waters teem, of its kind, and every winged bird of its kind; and Elohim saw that it was good.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:22",
+      "he": "וּבָרִיךְ יָתְהוֹן יְיָ לְמֵימָר פּוּשׁוּ וּסְגוּ וּמְלוּ יָת מַיָּא בְּיַמְמַיָּא וְעוֹפָא יִסְגֵּי בְּאַרְעָא:",
+      "en": "Elohim blessed them saying, Be fruitful and multiply, fill the waters of the seas, and let the birds multiply on the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:23",
+      "he": "וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם חֲמִישָׁאִי:",
+      "en": "It became evening and it became morning, the fifth day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:24",
+      "he": "וַאֲמַר יְיָ תַּפֵּק אַרְעָא נַפְשָׁא חַיְתָא לִזְנַהּ בְּעִיר וּרְחֵשׁ וְחֵוַת אַרְעָא לִזְנַהּ וַהֲוָה כֵן:",
+      "en": "Elohim said, Let the earth bring forth living creatures, each of its kind, animals [of pasture], creeping things, and beasts of the earth, each to its kind. And it was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:25",
+      "he": "וַעֲבַד יְיָ יָת חֵוַת אַרְעָא לִזְנַהּ וְיָת בְּעִירָא לִזְנַהּ וְיָת כָּל רִחֲשָׁא דְאַרְעָא לִזְנוֹהִי וַחֲזָא יְיָ אֲרֵי טָב:",
+      "en": "And thus Elohim made the beasts of the earth, each of its kind, the animals [of pasture] each of its kind, and everything that creeps on the ground, each of its kind, and Elohim saw that it was good.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:26",
+      "he": "וַאֲמַר יְיָ נַעֲבִיד אֶינָשָׁא בְּצַלְמֵנָא כִּדְמוּתָנָא וְיִשְׁלְטוּן בְּנוּנֵי יַמָּא וּבְעוֹפָא דִּשְׁמַיָּא וּבִבְעִירָא וּבְכָל אַרְעָא וּבְכָל רִחֲשָׁא דְּרָחֵשׁ עַל אַרְעָא:",
+      "en": "Elohim said, Let us make man in our image, as our likeness, and let him dominate the fish of the sea, the birds of the heaven, the animals, all the earth, and every creeping thing that creeps on the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:27",
+      "he": "וּבְרָא יְיָ יָת אָדָם בְּצַלְמֵהּ בְּצַלְמָא דַיְיָ בְּרָא יָתֵהּ דְּכַר וְנוּקְבָא בְּרָא יָתְהוֹן:",
+      "en": "And thus Elohim created man in his image. In the form of Elohim, He created him, male and female, He created them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:28",
+      "he": "וּבָרִיךְ יָתְהוֹן יְיָ וַאֲמַר לְהוֹן יְיָ פּוּשׁוּ וּסְגוּ וּמְלוּ יָת אַרְעָא וּתְקוּפוּ עֲלַהּ וּשְׁלוּטוּ בְּנוּנֵי יַמָּא וּבְעוֹפָא דִּשְׁמַיָּא וּבְכָל חַיְתָא דְּרָחֵשָׁא עַל אַרְעָא:",
+      "en": "Elohim blessed them, and Elohim said to them, Be fruitful and multiply, fill the earth and subdue it, and dominate the fish of the sea, the birds of the heaven, and every living thing that moves upon the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:29",
+      "he": "וַאֲמַר יְיָ הָא יְהָבִית לְכוֹן יָת כָּל עִסְבָּא דְּבַר זַרְעֵהּ מִזְדְּרַע דִּי עַל אַפֵּי כָל אַרְעָא וְיָת כָּל אִילָנָא דִּי בֵהּ פֵּירֵי אִילָנָא דְּבַר זַרְעֵהּ מִזְדְּרָע לְכוֹן יְהֵא לְמֵיכָל:",
+      "en": "Elohim said, Behold, I have given you all seed-yielding herbs that are on the surface of the earth, and every tree that has seed-yielding fruit; to you it shall be for food.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:30",
+      "he": "וּלְכָל חֵוַת אַרְעָא וּלְכָל עוֹפָא דִּשְׁמַיָּא וּלְכֹל דְּרָחֵשׁ עַל אַרְעָא דִּי בֵהּ נַפְשָׁא חַיְתָא יָת כָּל יְרוֹק עִסְבָּא לְמֵיכָל וַהֲוָה כֵן:",
+      "en": "And for every animal of the earth, for every bird of the heaven, and for everything that creeps on the ground, in which there is a living spirit, all vegetational herbs shall be [their] food. And it was so.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 1:31",
+      "he": "וַחֲזָא יְיָ יָת כָּל דִּי עֲבַד וְהָא תַקִּין לַחֲדָא וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם שְׁתִיתָאִי:",
+      "en": "Elohim saw all that He had made, and behold it was very good [completely prepared]. It became evening and it became morning, the sixth day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:1",
+      "he": "וְאִשְׁתַּכְלָלוּ שְׁמַיָּא וְאַרְעָא וְכָל חֵילֵיהוֹן:",
+      "en": "The heavens and the earth were completed, and [so were] all their conglomerations.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:2",
+      "he": "וְשֵׁיצֵי יְיָ בְּיוֹמָא שְׁבִיעָאָה עֲבִדְתֵּהּ דִּי עֲבָד וְנַח בְּיוֹמָא שְׁבִיעָאָה מִכָּל עֲבִדְתֵּהּ דִּי עֲבָד:",
+      "en": "Elohim completed by the seventh day His work which He had made, and He abstained on the seventh day from all His work which He had made.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:3",
+      "he": "וּבָרִיךְ יְיָ יָת יוֹמָא שְׁבִיעָאָה וְקַדִּישׁ יָתֵהּ אֲרֵי בֵהּ נַח מִכָּל עֲבִדְתֵּהּ דִּי בְרָא יְיָ לְמֶעְבַּד:",
+      "en": "Elohim blessed the seventh day and sanctified it, for on it He abstained from all His work, which Elohim had created to do.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:4",
+      "he": "אִלֵּין תּוּלְדַת שְׁמַיָּא וְאַרְעָא כַּד אִתְבְּרִיאוּ בְּיוֹמָא דִּי עֲבַד יְיָ אֱלֹהִים אַרְעָא וּשְׁמַיָּא:",
+      "en": "This is the history of the heavens and the earth when they were created, on the day when Adonoy Elohim made earth and heaven.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:5",
+      "he": "וְכֹל אִילָנֵי חַקְלָא עַד לָא הֲווּ בְאַרְעָא וְכָל עִסְבָּא דְחַקְלָא עַד לָא צְמָח אֲרֵי לָא אָחִית מִטְרָא יְיָ אֱלֹהִים עַל אַרְעָא וְאֱנַשׁ לֵית לְמִפְלַח יָת אַדְמְתָא:",
+      "en": "All the plants of the field were not yet on the earth, and all the herbal vegetation of the field had not yet sprouted, for Adonoy Elohim had not brought rain [down] upon the earth, and there was [yet] no man to work the soil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:6",
+      "he": "וַעֲנָנָא הֲוָה סָלֵיק מִן אַרְעָא וְאַשְׁקֵי יָת כָּל אַפֵּי אַדְמְתָא:",
+      "en": "A mist rose up from the earth, and it watered the entire surface of the soil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:7",
+      "he": "וּבְרָא יְיָ אֱלֹהִים יָת אָדָם עַפְרָא מִן אַדְמְתָא וּנְפַח בְּאַפּוֹהִי נִשְׁמְתָא דְחַיֵּי וַהֲוַת בְּאָדָם לְרוּחַ מְמַלְלָא:",
+      "en": "Adonoy Elohim then formed the man, dust from the ground, and He blew into his nostrils the breath of life. And so man became a living [speaking] soul.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:8",
+      "he": "וּנְצִיב יְיָ אֱלֹהִים גִּינְתָא בְעֵדֶן מִלְּקַדְמִין וְאַשְׁוֵי תַמָּן יָת אָדָם דִּי בְרָא:",
+      "en": "Adonoy Elohim planted a garden in Eden, to the east, and there He placed the man He had formed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:9",
+      "he": "וְאַצְמַח יְיָ אֱלֹהִים מִן אַרְעָא כָּל אִילַן דִּמְרַגֵּג לְמֶחֱזֵי וְטַב לְמֵיכַל וְאִילַן חַיָּא בִּמְצִיעוּת גִּינְתָא וְאִילַן דְּאָכְלִין פֵּירוֹהִי חַכִּימִין בֵּין טַב לְבִישׁ:",
+      "en": "Adonoy Elohim made grow out of the soil every tree that is pleasant to look at, and good for [producing] food; the Tree of Life in the middle of the Garden, and the Tree (of) [from which the fruit if eaten gives] Knowledge [of what is] good and evil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:10",
+      "he": "וְנַהֲרָא הֲוָה נָפִיק מֵעֵדֶן לְאַשְׁקָאָה יָת גִּינְתָא וּמִתַּמָּן יִתְפָּרִשׁ וַהֲוֵי לְאַרְבְּעָה רֵישֵׁי נַהֲרִין:",
+      "en": "A river went out of Eden to water the Garden, and from there it separated and became four headwaters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:11",
+      "he": "שׁוּם חָד פִּישׁוֹן הוּא מַקִּיף יָת כָּל אֲרַע דַּחֲוִילָה דִּי תַמָּן דַּהֲבָא:",
+      "en": "The name of the first is Pishon which surrounds all the land of Chavilah, where there is gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:12",
+      "he": "וְדַהֲבָא דְאַרְעָא הַהִיא טָב תַּמָן בְּדָלְחָא וְאַבְנֵי בוּרְלָא:",
+      "en": "The gold of that land is good. Also found there is bdellium and onyx stones.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:13",
+      "he": "וְשׁוּם נַהֲרָא תִנְיָנָא גִּיחוֹן הוּא מַקִּיף יָת כָּל אַרְעָא דְכוּשׁ:",
+      "en": "The name of the second river is Gichon. It surrounds all the land of Kush.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:14",
+      "he": "וְשׁוּם נַהֲרָא תְּלִיתָאָה דִּיגְלַת הוּא מְהַלֵּךְ לְמַדִּינְחָא דְאַתּוּר וְנַהֲרָא רְבִיעָאָה הוּא פְרָת:",
+      "en": "The name of the third river is Chidekel[Diglas], which flows to the east of Ashur. The fourth river is P’ras.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:15",
+      "he": "וּדְבַר יְיָ אֱלֹהִים יָת אָדָם וְאַשְׁרֵיהּ בְּגִינְתָא דְעֵדֶן לְמִפְלְחַהּ וּלְמִטְרַהּ:",
+      "en": "Adonoy Elohim took the man, and put him in the Garden of Eden, to work it and to preserve it.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:16",
+      "he": "וּפַקִּיד יְיָ אֱלֹהִים עַל אָדָם לְמֵימָר מִכֹּל אִילַן גִּינְתָא מֵיכַל תֵּיכוּל:",
+      "en": "Adonoy Elohim commanded the man, saying, You may certainly eat from every tree in the Garden.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:17",
+      "he": "וּמֵאִילָן דְּאָכְלִין פֵּירוֹהִי חַכִּימִין בֵּין טַב לְבִישׁ לָא תֵיכוּל מִנֵּהּ אֲרֵי בְּיוֹמָא דְתֵיכוּל מִנֵּהּ מֵימַת תְּמוּת:",
+      "en": "But from the Tree (of) [from which the fruit if eaten gives] Knowledge of what is good and evil, you shall not eat from it, for on the day you eat from it, you will certainly die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:18",
+      "he": "וַאֲמַר יְיָ אֱלֹהִים לָא תַקִּין לְמֶהֱוֵי אָדָם בִּלְחוֹדוֹהִי אַעֲבֵד לֵהּ סְמַךְ לְקִבְלֵהּ:",
+      "en": "Adonoy Elohim said, It is not good [fitting] for the man to be alone. I will make a helper for him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:19",
+      "he": "וּבְרָא יְיָ אֱלֹהִים מִן אַרְעָא כָּל חֵוַת בְּרָא וְיָת כָּל עוֹפָא דִּשְׁמַיָּא וְאַיְתֵהּ לְוַת אָדָם לְמֶחֱזֵי מַה יִּקְרֵי לֵהּ וְכֹל דִּי הֲוָה קָרֵי לֵהּ אָדָם נַפְשָׁא חַיְתָא הוּא שְׁמֵהּ:",
+      "en": "Adonoy Elohim formed from the ground, every beast of the field, and every bird of the heaven, and brought them to the man, to see what he would call them. Whatever the man called [each] living creature, that is its name.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:20",
+      "he": "וּקְרָא אָדָם שְׁמָהָן לְכָל בְּעִירָא וּלְעוֹפָא דִּשְׁמַיָּא וּלְכָל חֵוַת בְּרָא וּלְאָדָם לָא אַשְׁכַּח סָמֵךְ לְקִבְלֵהּ:",
+      "en": "The man gave names to every animal, to the birds of the heaven, and to every beast of the field, but the man did not find a helper for himself.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:21",
+      "he": "וּרְמָא יְיָ אֱלֹהִים שִׁינְתָא עַל אָדָם וּדְמֵךְ וּנְסִיב חֲדָא מֵעִלְעוֹהִי וּמְלֵי בִשְׂרָא תְּחוֹתַהּ:",
+      "en": "Adonoy Elohim caused unconsciousness to fall upon the man and he slept. He took one of his ribs and closed over [filled] flesh in its place.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:22",
+      "he": "וּבְנָא יְיָ אֱלֹהִים יָת עִלְעָא דִּנְסִיב מִן אָדָם לְאִתְּתָא וְאַיְתַהּ לְוַת אָדָם:",
+      "en": "Adonoy Elohim built the rib that He took from the man into a woman, and He brought her to the man.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:23",
+      "he": "וַאֲמַר הָאָדָם הֲדָא זִמְנָא גַּרְמָא מִגַּרְמַי וּבִסְרָא מִבִּסְרִי לְדָא יִתְקְרֵי אִתְּתָא אֲרֵי מִבַּעְלָא נְסִיבָא דָא:",
+      "en": "The man said: This at last is bone of my bones and flesh of my flesh. This shall be called Woman, for from Man [husband] was she taken.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:24",
+      "he": "עַל כֵּן יִשְׁבּוֹק גְּבַר בֵּית מִשְׁכְּבֵי אַבוּהִי וְאִמֵּהּ וְיִדְבַּק בְּאִתְּתֵהּ וִיהוֹן לְבִסְרָא חָד:",
+      "en": "Therefore, a man shall leave [the house where] his father and his mother [sleep], and cling to his wife, and they shall become one flesh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 2:25",
+      "he": "וַהֲווֹ תַרְוֵיהוֹן עַרְטִילָאִין אָדָם וְאִתְּתֵהּ וְלָא מִתְכַּלְמִין:",
+      "en": "The two of them were naked, the man and his wife, and they were not ashamed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:1",
+      "he": "וְחִוְיָא הֲוָה חַכִּים מִכֹּל חֵוַת בְּרָא דִּי עֲבַד יְיָ אֱלֹהִים וַאֲמַר לְאִתְּתָא בְּקוּשְׁטָא אֲרֵי אֲמַר יְיָ לָא תֵיכְלוּן מִכֹּל אִילַן גִּינְתָא:",
+      "en": "The serpent was more cunning than any beast of the field which Adonoy Elohim made; and it said to the woman, Did Elohim even [truly] say that you should not eat from all the trees of the Garden?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:2",
+      "he": "וַאֲמָרַת אִתְּתָא לְחִוְיָא מִפֵּירֵי אִילַן גִּינְתָא נֵיכוּל:",
+      "en": "The woman said to the serpent, From the fruit of the trees of the Garden we may eat.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:3",
+      "he": "וּמִפֵּירֵי אִילָנָא דִּי בִמְצִיעוּת גִּינְתָא אֲמַר יְיָ לָא תֵיכְלוּן מִנֵּהּ וְלָא תְקַרְבוּן בֵּהּ דִּילְמָא תְּמוּתוּן:",
+      "en": "But of the fruit of the tree that is in the middle of the Garden, Elohim said, You shall not eat from it, neither shall you touch it, lest you die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:4",
+      "he": "וַאֲמַר חִוְיָא לְאִיתְּתָא לָא מוּת תְּמוּתוּן:",
+      "en": "The serpent said to the woman, You certainly will not die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:5",
+      "he": "אֲרֵי גַּלֵּי קֳדָם יְיָ אֲרֵי בְּיוֹמָא דְּתֵיכְלוּן מִנֵּהּ וְיִתְפַּתְּחַן עֵינֵיכוֹן וּתְהוֹן כְּרַבְרְבִין חַכִּימִין בֵּין טַב לְבִישׁ:",
+      "en": "For [it is revealed before] Elohim (knows) that on the day you will eat from it, your eyes will be opened, and you will become as gods [great ones], knowing what is good and what is evil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:6",
+      "he": "וַחֲזַת אִתְּתָא אֲרֵי טַב אִילַן לְמֵיכָל וַאֲרֵי אַסֵּי הוּא לְעַיְנִין וּמְרַגֵּג אִילָנָא לְאִסְתַּכָּלָא בֵהּ וּנְסֵיבַת מֵאִבֵּהּ וַאֲכָלַת וִיהָבַת אַף לְבַעְלַהּ עִמַּהּ וַאֲכָל:",
+      "en": "The woman saw that the tree was good for food, and that it was tempting [healing] to the eyes, and that the tree was appealing [to look at] as a means of [obtaining] wisdom. She took of its fruit and she ate, and she also gave it to her husband with her, and he ate.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:7",
+      "he": "וְאִתְפַּתָּחָא עֵינֵי תַרְוֵיהוֹן וִידָעוּ אֲרֵי עַרְטִילָאִין אִינוּן וְחַטִּיטוּ לְהוֹן טַרְפֵי תְאֵנִין וַעֲבָדוּ לְהוֹן זְרָזִין:",
+      "en": "The eyes of both of them were opened, and they realized that they were naked. They sewed together fig leaves, and made for themselves loincloths.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:8",
+      "he": "וּשְׁמָעוּ יָת קַל מֵימְרָא דַּיְיָ אֱלֹהִים מְהַלֵּךְ בְּגִינְתָא לִמְנַח יוֹמָא וְאִיטַמַּר אָדָם וְאִתְּתֵהּ מִן קֳדָם יְיָ אֱלֹהִים בְּגוֹ אִילַן גִּינְתָא:",
+      "en": "They heard the voice of [the Word of] Adonoy Elohim moving in the Garden at the breeze [in the evening] of the day. The man and his wife hid themselves from [the Presence of] Adonoy Elohim among the trees of the Garden.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:9",
+      "he": "וּקְרָא יְיָ אֱלֹהִים לְאָדָם וַאֲמַר לֵהּ אָן אָתְּ:",
+      "en": "Adonoy Elohim called to the man, and He said, Where are you?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:10",
+      "he": "וַאֲמַר יָת קַל מֵימְרָךְ שַׁמְעִית בְּגִינְתָא וּדְחֵילִית אֲרֵי עַרְטִילַאי אֲנָא וְאִיטַמָּרִית:",
+      "en": "He said, I heard Your voice [the voice of Your Word] in the Garden, and I was afraid because I was naked, so I hid myself.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:11",
+      "he": "וַאֲמַר מָן חַוֵי לָךְ אֲרֵי עַרְטִילַאי אָתְּ הֲמִן אִילָנָא דִּפַקֶּדְתָּךְ בְּדִיל דְּלָא לְמֵיכַל מִנֵּהּ אֲכָלְתְּ:",
+      "en": "And He said, Who told you that you were naked? From the tree whereof I commanded you not to eat of it, have you eaten?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:12",
+      "he": "וַאֲמַר הָאָדָם אִתְּתָא דִּיהַבְתָּ עִמִּי הִיא יַהֲבַת לִי מִן אִילָנָא וַאֲכָלִית:",
+      "en": "The man said, The woman that You gave to be with me—she gave me of the tree and I ate.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:13",
+      "he": "וַאֲמַר יְיָ אֱלֹהִים לְאִתְּתָא מַה דָּא עַבְדָת וַאֲמָרַת אִתְּתָא חִוְיָא אַטְעַיָנִי וַאֲכָלִית:",
+      "en": "Adonoy Elohim said to the woman, What is this that you have done? She said, The serpent deceived me, and I ate.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:14",
+      "he": "וַאֲמַר יְיָ אֱלֹהִים לְחִוְיָא אֲרֵי עֲבַדְתָּ דָּא לִיט אַתְּ מִכָּל בְּעִירָא וּמִכֹּל חֵוַת בָּרָא עַל מְעָךְ תֵּיזִיל וְעַפְרָא תֵיכוּל כָּל יוֹמֵי חַיָּיךְ:",
+      "en": "Adonoy Elohim said to the serpent, Because you did this, cursed are you from among all animals and beasts of the field. On your belly you shall crawl. And dust you shall eat all the days of your life.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:15",
+      "he": "וּדְבָבוּ אֱשַׁוֵּי בֵּינָךְ וּבֵין אִתְּתָא וּבֵין בְּנָךְ וּבֵין בְּנָהַהּ הוּא יְהֵי דְּכִיר לָךְ מַה דִּעֲבַדְתָּ לֵהּ מִלְּקַדְמִין וְאַתְּ תְּהֵא נָטִיר לֵהּ לְסוֹפָא:",
+      "en": "I will put hostility between you and the woman, and between your offspring and her offspring. He shall strike you on the head, and you shall strike him on the heel. [He will remember you, what you did to him from the beginning, and you will expect him at the end].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:16",
+      "he": "לְאִתְּתָא אֲמַר אַסְגָּאָה אַסְגֵּי צַעֲרַיְכִי וְעִדּוּיַיְכִי בְּצְעַר תֵּלְדִי בְנִין וּלְוַת בַּעְלִךְ תְּהֵא תִּאוּבְתִּיךְ וְהוּא יִשְׁלַט בִּךְ:",
+      "en": "To the woman He said, I will greatly increase your sorrow and your pregnancy. You will give birth to children with pain. Your desire will be for your husband, and he will dominate you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:17",
+      "he": "וּלְאָדָם אֲמַר אֲרֵי קַבֵּילְתָּ לְמֵימַר אִתְּתָךְ וַאֲכַלְתָּ מִן אִילָנָא דִּי פַקֵּידְתָּךְ לְמֵימַר לָא תֵיכוּל מִנֵּהּ לִיטָא אַרְעָא בְּדִילָךְ בַּעֲמַל תִּיכְלִינַהּ כָּל יוֹמֵי חַיָּיךְ:",
+      "en": "To the man He said, Because you listened to your wife, and ate from the tree which I commanded you, saying, Do not eat from it; the soil will be cursed because of you. In sorrow [With toil] you shall eat from it all the days of your life.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:18",
+      "he": "וְכוּבִין וְאַטְדִּין תַּצְמַח לָךְ וְתֵיכוּל יָת עִסְבָּא דְחַקְלָא:",
+      "en": "It will grow thorns and thistles for you; and you will eat the herbs of the field.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:19",
+      "he": "בְּזִעֲתָא דְאַפָּךְ תֵּיכוּל לַחְמָא עַד דְּתִיתוּב לְאַרְעָא דְּמִנַּהּ אִתְבְּרֵיתָא אֲרֵי עַפְרָא אַתְּ וּלְעַפְרָא תְּתוּב:",
+      "en": "By the sweat of your face you will eat bread, until you return to the ground for from it [the ground] were you taken [created]. For you are dust and to dust you shall return.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:20",
+      "he": "וּקְרָא אָדָם שׁוּם אִתְּתֵהּ חַוָּה אֲרֵי הִיא הֲוַת אִמָּא דְכָל בְּנֵי אֱנָשָׁא:",
+      "en": "The man called his wife’s name Chavah, [Eve] because she had become the mother of all living [people].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:21",
+      "he": "וַעֲבַד יְיָ אֱלֹהִים לְאָדָם וּלְאִתְּתֵהּ לְבוּשִׁין דִּיקָר עַל מְשַׁךְ בִּשְׂרֵיהוֹן וְאַלְבִּישִׁינוּן:",
+      "en": "And Adonoy Elohim made for Adam and his wife leather coats [garments of honor on the skin of their flesh] and He clothed them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:22",
+      "he": "וַאֲמַר יְיָ אֱלֹהִים הָא אָדָם הֲוָה יְחִידַי בְּעַלְמָא מִנֵּהּ לְמִידַע טַב וּבִישׁ וּכְעַן דִּילְמָא יוֹשִׁיט יְדֵהּ וְיִסַּב אַף מֵאִילָן חַיָּיא וְיֵכוּל וִיחֵי לְעָלָם:",
+      "en": "Adonoy Elohim said, Behold, the man has become like one of us [unique. It is for him] to know [what is] good and [what is] evil. Now he must be prevented from reaching out his hand and also taking from the Tree of Life and eat [from it] and live forever.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:23",
+      "he": "וְשַׁלְּחֵהּ יְיָ אֱלֹהִים מִגִּינְתָא דְעֵדֶן לְמִפְלַח יַת אַדְמְתָא דְּאִתְבְּרִי מִתַּמָּן:",
+      "en": "[Therefore] Adonoy Elohim sent him out of the Garden of Eden, to till the soil from which he was taken [created].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 3:24",
+      "he": "וְתָרִךְ יָת אָדָם וְאַשְׁרֵי מִלְּקַדְמִין לְגִינְתָא דְעֵדֶן יָת כְּרוּבַיָּא וְיָת שְׁנַן חַרְבָּא דְּמִתְהַפְּכָא לְמִיטַר יָת אוֹרַח אִילַן חַיָּיא:",
+      "en": "He banished the man [from the Garden] and at the east of [before] the Garden of Eden He stationed the Cherubim and the flame of the rotating sword, to guard the way to the Tree of Life.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:1",
+      "he": "וְאָדָם יְדַע יָת חַוָּה אִתְּתֵהּ וְעַדִּיאַת וִילִידַת יָת קַיִן וַאֲמֶרֶת קָנִיתִי גַּבְרָא (מִן) קֳדָם יְיָ:",
+      "en": "The man knew his wife, Chavah. She conceived and she gave birth to Kayin, and she said, I have obtained a man with [the help of] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:2",
+      "he": "וְאוֹסִיפַת לְמֵילַד יָת אֲחוֹהִי יָת הָבֶל וַהֲוָה הֶבֶל רָעֵי עָנָא וְקַיִן הֲוָה פָלַח בְּאַרְעָא:",
+      "en": "She gave birth again, to his brother Hevel. Hevel became a shepherd, but Kayin was a worker of the soil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:3",
+      "he": "וַהֲוָה מִסּוֹף יוֹמִין וְאַיְתִי קַיִן מֵאִבָּא דְאַרְעָא תִּקְרוּבְתָּא קֳדָם יְיָ:",
+      "en": "In the course of time, Kayin brought some fruit of the soil as an offering to Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:4",
+      "he": "וְהֶבֶל אַיְתִי אַף הוּא מִבַּכִּירֵי עָנֵהּ וּמִשַׁמִּנְהוֹן וַהֲוַת רַעֲוָא מִן קֳדָם יְיָ בְּהֶבֶל וּבְּקוּרְבָּנֵהּ:",
+      "en": "Hevel also brought from the firstborn of his flock, from the best thereof. [There was favor before Adonoy] Adonoy paid regard to Hevel and to his offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:5",
+      "he": "וּבְּקַיִן וּבְּקוּרְבָּנֵהּ לָא הֲוַת רַעֲוָא וּתְקֵף לְקַיִן לַחֲדָא וְאִתְכְּבִישׁוּ אַפּוֹהִי:",
+      "en": "But to Kayin and his offering He paid no regard [there was no favor]. Kayin became very angry and depressed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:6",
+      "he": "וַאֲמַר יְיָ לְקָיִן לְמָא תְּקִיף לָךְ וּלְמָא אִתְכְּבִישׁוּ אַפָּיךְ:",
+      "en": "Adonoy said to Kayin, Why are you angry? Why are you depressed?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:7",
+      "he": "הֲלָא אִם תּוֹטִיב עוֹבָדָךְ יִשְׁתְּבֵק לָךְ וְאִם לָא תּוֹטִיב עוֹבָדָךְ לְיוֹם דִּינָא חֶטְאָךְ נְטִיר דִיעֲתִיד לְאִתְפָּרְעָא מִנָּךְ אִם לָא תְתוּב וְאִם תְּתוּב יִשְׁתְּבֵק לָךְ:",
+      "en": "Is this not so—if you improve [your actions], there is forgiveness [for you], but if you do not improve [your actions], sin rests at the opening [your sin will be kept for the Day of Judgement]. Its desire is unto you, but you can dominate it. [For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:8",
+      "he": "וַאֲמַר קַיִן לְהֶבֶל אַחוֹהִי וַהֲוָה בְּמֶהֱוֵיהוֹן בְּחַקְלָא וְקָם קַיִן עַל הֶבֶל אַחוֹהִי וְקַטְלֵהּ:",
+      "en": "Kayin said [something] to his brother Hevel, and it happened when they were in the field, that Kayin rose up against his brother, Hevel, and killed him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:9",
+      "he": "וַאֲמַר יְיָ לְקַיִן אָן הֶבֶל אָחוּךְ וַאֲמַר לָא יָדַעֲנָא הֲנָטֵר אָחִי אֲנָא:",
+      "en": "Adonoy then said to Kayin, Where is your brother, Hevel? [Kayin] said, I know not, am I my brother’s keeper?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:10",
+      "he": "וַאֲמַר מֶה עֲבַדְתָּא קַל דַם זַרְעִין דִעֲתִידִין לְמֵפַק מִן אָחוּךְ קַבְלִין קֳדָמַי מִן אַרְעָא:",
+      "en": "He said [to Kayin], What have you done? The voice of your brother’s blood [the blood of the descendants that were destined to come from your brother] cries out to [before] Me from the ground.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:11",
+      "he": "וּכְעַן לִיט אָתְּ מִן אַרְעָא דִּפְתָחַת יָת פּוּמַהּ וְקַבִּילַת יָת דְּמֵהּ דְּאָחוּךְ מִן יְדָךְ:",
+      "en": "Now you are cursed from the ground that had to open its mouth to accept your brother’s blood from your hand.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:12",
+      "he": "אֲרֵי תִפְלַח בְאַרְעָא לָא תוֹסִיף לְמִתַּן חֵילַהּ לָךְ מִטַלְטֵל וְגָלֵי תְּהֵא בְאַרְעָא:",
+      "en": "When you work the ground, it will no longer give you of its strength. You will be unsettled, and a wanderer on the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:13",
+      "he": "וַאֲמַר קַיִן קֳדָם יְיָ סַגִּי חוֹבִי מִלְּמִשְׁבָּק:",
+      "en": "Kayin said to Adonoy, My sin is too great to bear.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:14",
+      "he": "הָא תָרִיכְתָּא יָתִי יוֹמָא דֵּין מֵעַל אַפֵּי אַרְעָא וּמִן קֳדָמָךְ לֵית אֶפְשָׁר לְאִטַּמָּרָא וָאֱהִי מְטַלְטֵל וְגָלֵי בְּאַרְעָא וִיהֵי כָל דְּיִשְׁכְּחִנַנִי יִקְטְלִינַנִי:",
+      "en": "Behold, today You have banished me from the face of the earth, and from Your face I am to be hidden [from before You it is impossible to be hidden]. I am to be unsettled and a wanderer on the earth; whoever finds me, will kill me.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:15",
+      "he": "וַאֲמַר לֵהּ יְיָ בְּכֵן כָּל קָטִיל קַיִן לְשַׁבְעָא דָּרִין יִתְפְּרַע מִנֵּהּ וְשַׁוִּי יְיָ לְקַיִן אָתָא בְּדִיל דְּלָא לְמִקְטַל יָתֵהּ כָּל דִיִשְׁכְּחֻנֵהּ:",
+      "en": "Adonoy said to him, Therefore, whoever kills Kayin, [after seven generations] revenge will be taken on him [Kayin] sevenfold. Adonoy placed a mark on Kayin, so that whoever would find him would not kill him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:16",
+      "he": "וּנְפַק קַיִן מִן קֳדָם יְיָ וִיתֵיב בְּאַרְעָא גָּלֵי וּמִטַּלְטַל דַּהֲוָה עֲבִידָא עֲלוֹהִי מִלְּקַדְמִין דְּגִינְתָא דְעֵדֶן:",
+      "en": "Kayin exited from the Presence of Adonoy and settled in the land of Nod [in the land of exile and wandering], east of Eden [which was made for him before the Garden of Eden].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:17",
+      "he": "וִידַע קַיִן יָת אִתְּתֵהּ וְעַדִּיאַת וִילֵידַת יָת חֲנוֹךְ וַהֲוָה בָּנֵי קַרְתָּא וּקְרָא שְׁמָא דְקַרְתָּא כְּשׁוּם בְּרֵהּ חֲנוֹךְ:",
+      "en": "Kayin knew his wife, and she conceived and gave birth to Chanoch. [Kayin] was building a city, and he named the city after his son Chanoch.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:18",
+      "he": "וְאִתְיְלִיד לַחֲנוֹךְ יָת עִירָד וְעִירָד אוֹלִיד יָת מְחוּיָאֵל וּמְחִיָּיאֵל אוֹלִיד יָת מְתוּשָׁאֵל וּמְתוּשָׁאֵל אוֹלִיד יָת לָמֶךְ:",
+      "en": "To Chanoch was born Irad. Irad had a son Mechuyael, Mechuyael had a son Mesushael, and Mesushael, had a son Lemech.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:19",
+      "he": "וּנְסִיב לֵהּ לֶמֶךְ תַּרְתֵּין נְשִׁין שׁוּם חֲדָא עָדָה וְשׁוּם תִּנְיֵתָא צִלָּה:",
+      "en": "Lemech married two women, the first was named Adah, and the name of the second was Tzillah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:20",
+      "he": "וִילֵידַת עָדָה יָת יָבָל הוּא הֲוָה רַבְּהוֹן דְּיָתְבֵי מַשְׁכְּנִין וּמָרֵי בְעִיר:",
+      "en": "Adah gave birth to Yaval. He was the father [master] of those who live in tents, and breed cattle.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:21",
+      "he": "וְשׁוּם אֲחוֹהִי יוּבָל הוּא הֲוָה רַבְּהוֹן דְּכָל דִּמְנַגֵּן עַל פּוּם נִבְלָא יָדְעֵי זְמַר כִּנּוֹרָא וְאַבּוּבָא:",
+      "en": "His brother’s name was Yuval. He was the father [master] of all who handle [play] the harp and [who know the song of the lute and the] flute.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:22",
+      "he": "וְצִלָּה אַף הִיא יְלֵידַת יָת תּוּבַל קַיִן רַבְּהוֹן דְכָל דְּיָדְעֵי עִיבִידַת נְחָשָׁא וּפַרְזְלָא וַאֲחָתֵהּ דְתוּבַל קַיִן נַעֲמָה:",
+      "en": "Tzillah also gave birth to Tuval Kayin, who sharpened everything which cuts copper and iron [who was the master of all who know the craft of copper and iron]. The sister of Tuval Kayin was Naamah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:23",
+      "he": "וַאֲמַר לֶמֶךְ לִנְשׁוֹהִי עָדָה וְצִלָּה שִׁמְעַן קָלִי נְשֵׁי לֶמֶךְ אֲצֵיתָא לְמֵמְרִי לָא גַּבְרָא קְטָלִית דִּבְדִילֵהּ אֲנָא סָבִיל חוֹבִין וְאַף לָא עוּלֵימָא חַבָּלִית דִּבְדִילֵהּ יִשְׁתֵּיצֵי זַרְעִי:",
+      "en": "Lemech said to his wives, Adah and Tzillah, hear my voice, wives of Lemech listen to my speech; have I have killed a man by my own wounding and a child by my own hurting? [I did not kill a man, that on his account I should bear the sin, and I did not even wound a child, that on his account my seed should be cut off].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:24",
+      "he": "אֲרֵי שַׁבְעָא דָּרִין אִיתְלִאוּ לְקָיִן הֲלָא לְלֶמֶךְ בְּרֵהּ שַׁבְעִין וְשַׁבְעָא:",
+      "en": "If Kayin shall be avenged sevenfold [If Kayin’s punishment shall be suspended for seven generations], then for Lemech, his son, it shall be seventy-seven fold [for seventy-seven generations].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:25",
+      "he": "וִידַע אָדָם עוֹד יָת אִתְּתֵהּ וִילֵידַת בַּר וּקְרַת יָת שְׁמֵהּ שֵׁת אֲרֵי אַמָרַת יְהַב לִי יְיָ בַּר אוֹחֲרָן חֲלַף הֶבֶל דִּקַטְלֵהּ קָיִן:",
+      "en": "Adam knew his wife again, and she gave birth to a son, and named him Sheis, Because Elohim has granted me another offspring in place of Hevel, for Kayin had killed him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 4:26",
+      "he": "וּלְשֵׁת אַף הוּא אִתְיְלִיד בַּר וּקְרָא יָת שְׁמֵהּ אֱנוֹשׁ בְּכֵן בְּיוֹמוֹהִי חָלוּ בְנֵי אֱנָשָׁא מִלְּצַלָּאָה בִּשְׁמָא דַּיְיָ:",
+      "en": "To Sheis also was born a son, and he named him Enosh. Then men began to call [idols] [men stopped praying] by the name Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:1",
+      "he": "דֵּין סְפַר תּוּלְדַת אָדָם בְּיוֹמָא דִּבְרָא יְיָ אָדָם בִּדְמוּת אֱלֹהִים עָבַד יָתֵהּ:",
+      "en": "This is the book of the generations of man. On the day Elohim created man. He made him in the likeness of Elohim.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:2",
+      "he": "דְּכַר וְנוּקְבָא בְּרָאנוּן וּבָרִיךְ יָתְהוֹן וּקְרָא יָת שְׁמָהוֹן אָדָם בְּיוֹמָא דְאִתְבְּרִיאוּ:",
+      "en": "Male and female He created them. He blessed them and named them man [Adam] on the day that they were created.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:3",
+      "he": "וַחֲיָא אָדָם מְאָה וּתְלָתִין שְׁנִין וְאוֹלִיד בִּדְמוּתֵהּ דְּדָמֵי לֵהּ וּקְרָא יָת שְׁמֵהּ שֵׁת:",
+      "en": "Adam lived a hundred and thirty years, and he had a son in his likeness, as his image, and he named him Sheis.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:4",
+      "he": "וַהֲווֹ יוֹמֵי אָדָם בָּתַר דְּאוֹלִיד יָת שֵׁת תַּמְנֵי מְאָה שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "The days of Adam after he had Sheis were eight hundred years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:5",
+      "he": "וַהֲווֹ כָּל יוֹמֵי אָדָם דַחֲיָא תְּשַׁע מְאָה וּתְלָתִין שְׁנִין וּמִית:",
+      "en": "All the days that Adam lived were nine hundred and thirty years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:6",
+      "he": "וַחֲיָא שֵׁת מְאָה וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת אֱנוֹשׁ:",
+      "en": "Sheis lived a hundred and five years and he had a son, Enosh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:7",
+      "he": "וַחֲיָא שֵׁת בָּתַר דְּאוֹלִיד יָת אֱנוֹשׁ תַּמְנֵי מְאָה וּשְׁבַע שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Enosh, Sheis lived eight hundred and seven years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:8",
+      "he": "וַהֲווֹ כָּל יוֹמֵי שֵׁת תְּשַׁע מְאָה וְתַרְתֵּי עַשְׂרֵי שְׁנִין וּמִית:",
+      "en": "All the days of Sheis were nine hundred and twelve years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:9",
+      "he": "וַחֲיָא אֱנוֹשׁ תִּשְׁעִין שְׁנִין וְאוֹלִיד יָת קֵינָן:",
+      "en": "Enosh lived ninety years and he had a son, Keinan.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:10",
+      "he": "וַחֲיָא אֱנוֹשׁ בָּתַר דְאוֹלִיד יָת קֵינָן תַּמְנֵי מְאָה וַחֲמֵשׁ עַשְׂרֵי שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Keinan, Enosh lived eight hundred and fifteen years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:11",
+      "he": "וַהֲווֹ כָּל יוֹמֵי אֱנוֹשׁ תְּשַׁע מְאָה וַחֲמֵשׁ שְׁנִין וּמִית:",
+      "en": "All the days of Enosh were nine hundred and five years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:12",
+      "he": "וַחֲיָא קֵינָן שַׁבְעִין שְׁנִין וְאוֹלִיד יָת מַהֲלַלְאֵל:",
+      "en": "Keinan lived seventy years and he had a son, Mahalaleil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:13",
+      "he": "וַחֲיָא קֵינָן בָּתַר דְּאוֹלִיד יָת מַהֲלַלְאֵל תַּמְנֵי מְאָה וְאַרְבְּעִין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Mahalaleil, Keinan lived eight hundred and forty years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:14",
+      "he": "וַהֲווֹ כָּל יוֹמֵי קֵינָן תְּשַׁע מְאָה וַעֲשַׂר שְׁנִין וּמִית:",
+      "en": "All the days of Keinan were nine hundred and ten years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:15",
+      "he": "וַחֲיָא מַהֲלַלְאֵל שִׁתִּין וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת יָרֶד:",
+      "en": "Mahalaleil lived sixty-five years and he had a son, Yered.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:16",
+      "he": "וַחֲיָא מַהֲלַלְאֵל בָּתַר דְּאוֹלִיד יָת יֶרֶד תַּמְנֵי מְאָה וּתְלָתִין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Yered, Mahalaleil lived eight hundred and thirty years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:17",
+      "he": "וַהֲווֹ כָּל יוֹמֵי מַהֲלַלְאֵל תַּמְנֵי מְאָה וְתִשְׁעִין וַחֲמֵשׁ שְׁנִין וּמִית:",
+      "en": "All the days of Mahalaleil were eight hundred and ninety-five years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:18",
+      "he": "וַחֲיָא יֶרֶד מְאָה וְשִׁתִּין וְתַרְתֵּין שְׁנִין וְאוֹלִיד יָת חֲנוֹךְ:",
+      "en": "Yered lived one hundred and sixty-two years and he had a son, Chanoch.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:19",
+      "he": "וַחֲיָא יֶרֶד בָּתַר דְּאוֹלִיד יָת חֲנוֹךְ תַּמְנֵי מְאָה שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Chanoch, Yered lived eight hundred years and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:20",
+      "he": "וַהֲווֹ כָּל יוֹמֵי יֶרֶד תְּשַׁע מְאָה וְשִׁתִּין וְתַרְתֵּין שְׁנִין וּמִית:",
+      "en": "All the days of Yered were nine hundred sixty-two years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:21",
+      "he": "וַחֲיָא חֲנוֹךְ שִׁתִּין וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת מְתוּשָׁלַח:",
+      "en": "Chanoch lived sixty-five years and he had a son, Mesushelach.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:22",
+      "he": "וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ בָּתַר דְּאוֹלִיד יָת מְתוּשֶׁלַח תְּלַת מְאָה שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "Chanoch walked with [the fear of] Elohim, after he had Mesushelach, [for] three hundred years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:23",
+      "he": "וַהֲוָה כָּל יוֹמֵי חֲנוֹךְ תְּלַת מְאָה וְשִׁתִּין וַחֲמֵשׁ שְׁנִין:",
+      "en": "All the days of Chanoch were three hundred and sixty-five years.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:24",
+      "he": "וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ וְלַיְתוֹהִי אֲרֵי (לָא) אֲמֵית יָתֵהּ יְיָ:",
+      "en": "Chanoch walked with [the fear of] Elohim, and he was no longer [there] for Elohim took him [put him to death].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:25",
+      "he": "וַחֲיָא מְתוּשֶׁלַח מְאָה וְתַמְנִין וּשְׁבַע שְׁנִין וְאוֹלִיד יָת לָמֶךְ:",
+      "en": "Mesushelach lived one hundred and eighty-seven years and he had a son Lemech.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:26",
+      "he": "וַחֲיָא מְתוּשֶׁלַח בָּתַר דְּאוֹלִיד יָת לֶמֶךְ שְׁבַע מְאָה וְתַמְנִין וְתַרְתֵּין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Lemech, Mesushelach lived seven hundred and eighty-two years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:27",
+      "he": "וַהֲווֹ כָּל יוֹמֵי מְתוּשֶׁלַח תְּשַׁע מְאָה וְשִׁתִּין וּתְשַׁע שְׁנִין וּמִית:",
+      "en": "All the days of Mesushelach were nine hundred and sixty-nine, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:28",
+      "he": "וַחֲיָא לֶמֶךְ מְאָה וְתַמְנִין וְתַרְתֵּין שְׁנִין וְאוֹלִיד בָּר:",
+      "en": "Lemech lived one hundred and eighty-two years and had a son.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:29",
+      "he": "וּקְרָא יָת שְׁמֵהּ נֹחַ לְמֵימָר דֵּין יְנַחֲמִנָּנָא מֵעוֹבָדָנָא וּמִלֵּאוּת יְדָנָא מִן אַרְעָא דִּי לַטְטַהּ יְיָ:",
+      "en": "He named his son Noach, saying, This one will bring us rest from our work and the anguish [toil] of our hands, from the soil which Adonoy has cursed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:30",
+      "he": "וַחֲיָא לֶמֶךְ בָּתַר דְּאוֹלִיד יָת נֹחַ חֲמֵשׁ מְאָה וְתִשְׁעִין וַחֲמֵשׁ שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:",
+      "en": "After he had Noach, Lemech lived five hundred and ninety-five years, and he had sons and daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:31",
+      "he": "וַהֲווֹ כָּל יוֹמֵי לֶמֶךְ שְׁבַע מְאָה וְשַׁבְעִין וּשְׁבַע שְׁנִין וּמִית:",
+      "en": "All the days of Lemech were seven hundred and seventy-seven years, and he died.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 5:32",
+      "he": "וַהֲוָה נֹחַ בַּר חֲמֵשׁ מְאָה שְׁנִין וְאוֹלִיד נֹחַ יָת שֵׁם יָת חָם וְיָת יָפֶת:",
+      "en": "Noach was five hundred years old, and Noach produced Sheim, Cham, and Yafes.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:1",
+      "he": "וַהֲוָה כַּד שְׁרִיאוּ בְנֵי אֱנָשָׁא לְמִסְגֵּי עַל אַפֵּי אַרְעָא וּבְנָתָא אִתְיְלִידוּ לְהוֹן:",
+      "en": "It came to be when men began to multiply on the face of the earth, that daughters were born to them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:2",
+      "he": "וַחֲזוֹ בְנֵי רַבְרְבַיָּא יָת בְּנַת אֱנָשָׁא אֲרֵי שַׁפִּירָן אִנוּן וּנְסִיבוּ לְהוֹן נְשִׁין מִכֹּל דִּי אִתְרְעִיאוּ:",
+      "en": "The sons of the rulers saw that the daughters of man were fair and they took for themselves wives from whomever they chose [wanted].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:3",
+      "he": "וַאֲמַר יְיָ לָא יִתְקַיַם דָרָא בִישָׁא הָדֵין קֳדָמַי לְעַלָם בְּדִיל דְאִנוּן בִּשְׂרָא וְעוֹבָדֵיהוֹן בִּישַׁיָא אַרְכָא יְהִיבַת לְהוֹן מְאָה וְעַשְׂרִין שְׁנִין אִם יְתוּבוּן:",
+      "en": "Adonoy said, My spirit will not continue to judge man forever [this evil generation shall not exist before me forever], since he is nothing but flesh [since they are flesh and their deeds are evil]. His days shall be a hundred and twenty years [I will give them a period of a hundred and twenty years for them to repent].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:4",
+      "he": "גִּבָּרַיָּא הֲווֹ בְאַרְעָא בְּיוֹמַיָּא הָאִנּוּן וְאַף בָּתַר כֵּן דִּי יַעֲלוּן בְּנֵי רַבְרְבַיָּא לְוַת בְּנַת אֱנָשָׁא וִילִידָן לְהוֹן אִנוּן גִּבָּרַיָּא דִּמֵעָלְמָא אֱנָשִׁין דִּשְׁמָא:",
+      "en": "There were giants on the earth in those days, and also later, when the sons of the rulers came to the daughters of man and they bore children to them. These were the mightiest ones who ever existed. [They were] men of renown.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:5",
+      "he": "וַחֲזָא יְיָ אֲרֵי סְגִיאַת בִּישַׁת אֱנָשָׁא בְּאַרְעָא וְכָל יִצְרָא מַחְשְׁבַת לִבֵּהּ לְחוֹד בִּישׁ כָּל יוֹמָא:",
+      "en": "Adonoy saw that man’s wickedness had increased on the earth, and that every inclination of his heart was only for evil, all day long.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:6",
+      "he": "וְתַב יְיָ בְּמֵימְרֵהּ אֲרֵי עֲבַד יָת אֱנָשָׁא בְּאַרְעָא וַאֲמַר בְּמֵימְרֵהּ לְמִתְּבַר תָּקְפְּהוֹן כִּרְעוּתֵהּ:",
+      "en": "Adonoy was comforted [regretted in His Word] that He had made man on the earth, and He grieved in His heart [and He said with His word to break their strength in accordance with His Will].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:7",
+      "he": "וַאֲמַר יְיָ אֶמְחֵי יָת אֲנָשָׁא דִּי בְרֵאתִי מֵעַל אַפֵּי אַרְעָא מֵאֱנָשָׁא עַד בְּעִירָא עַד רִיחֲשָׁא וְעַד עוֹפָא דִּשְׁמַיָּא אֲרֵי תָבִית בְּמֵימְרִי אֲרֵי עֲבַדְתִּנוּן:",
+      "en": "Adonoy said, I will obliterate mankind which I have created from the face of the earth, from man to beast, to the creeping things and to the birds of heaven, for I regret [with My word] that I made them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 6:8",
+      "he": "וְנֹחַ אַשְׁכַּח רַחֲמִין קֳדָם יְיָ:",
+      "en": "But Noach found favor [mercy] in the eyes of [before] Adonoy.",
+      "fr": ""
+    }
+  ]
+}

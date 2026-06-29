@@ -1,0 +1,925 @@
+{
+  "name": "Vayishlach",
+  "range": "Genesis 32:4-36:43",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Genesis 32:4",
+      "he": "וּשְׁלַח יַעֲקֹב אִזְגַּדִּין קֳדָמוֹהִי לְוַת עֵשָׂו אֲחוּהִי לְאַרְעָא דְשֵׂעִיר לַחֲקַל אֱדוֹם:",
+      "en": "Yaakov sent messengers before him to Eisov, his brother, to the Land of Seir, to the field of Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:5",
+      "he": "וּפַקִּיד יָתְהוֹן לְמֵימַר כְּדֵין תֵּימְרוּן לְרִבּוֹנִי לְעֵשָׂו כִּדְנַן אֲמַר עַבְדָּךְ יַעֲקֹב עִם לָבָן דָּרִית וְאוֹחָרִית עַד כְּעָן:",
+      "en": "He commanded them saying, This is what you should say to my master, Eisov. Your servant, Yaakov says, I lived as a stranger with Lavan, and was delayed until now.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:6",
+      "he": "וַהֲוָה לִי תּוֹרִין וַחֲמָרִין עָאן וְעַבְדִּין וְאַמְהָן וּשְׁלָחִית לְחַוָּאָה לְרִבּוֹנִי לְאַשְׁכָּחָא רַחֲמִין בְּעֵינָךְ:",
+      "en": "I acquired oxen, donkeys, sheep, servants and maidservants. I have sent [these messengers] to tell my master, to find favor in your eyes.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:7",
+      "he": "וְתָבוּ אִזְגַּדַּיָּא לְוַת יַעֲקֹב לְמֵימָר אֲתֵינָא לְוַת אָחוּךְ לְוַת עֵשָׂו וְאַף אָתֵי לְקַדָּמוּתָךְ וְאַרְבַּע מְאָה גַבְרָא עִמֵּיהּ:",
+      "en": "The messengers returned to Yaakov saying, We came to your brother, to Eisov, and he is also coming to meet you; and there are four hundred men with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:8",
+      "he": "וּדְחִיל יַעֲקֹב לַחֲדָא וַעֲקַת לֵיהּ וּפַלֵּיג יָת עַמָּא דִי עִמֵּיהּ וְיָת עָנָא וְיָת תּוֹרֵי וְגַמְלַיָּא לִתְרֵין מַשִּׁירְיָן:",
+      "en": "Yaakov was very frightened, and distressed. He divided the people that were with him, along with the sheep, cattle and camels, into two camps.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:9",
+      "he": "וַאֲמַר אִם יֵיתֵי עֵשָׂו לְמַשְׁרִיתָא חֲדָא וְיִמְחִנֵּיהּ וִיהֵי (נ\"א וְיִמְחֵנַהּ וּתְהִי) מַשְׁרִיתָא דְתִשְׁתָּאַר לְשֵׁיזָבָא:",
+      "en": "He said, If Eisov comes to one camp and attacks it, the remaining camp will survive.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:10",
+      "he": "וַאֲמַר יַעֲקֹב אֱלָהֵהּ דְּאַבָּא אַבְרָהָם וֵאלָהֵהּ דְּאַבָּא יִצְחָק יְיָ דִּי אֲמַר לִי תּוּב לְאַרְעָךְ וּלְיַלָּדוּתָךְ וְאוֹטֵיב עִמָּךְ:",
+      "en": "Yaakov said, God of my father Avraham, and God of my father Yitzchok, Adonoy Who said to me, Return to your land, to your birthplace, and I will do good with you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:11",
+      "he": "זְעִירָן זָכוּתַי מִכֹּל חִסְדִּין וּמִכָּל טַבְוָן דִּי עֲבַדְתָּ עִם עַבְדָּךְ אֲרֵי יְחִידִי עֲבָרִית יָת יַרְדְּנָא הָדֵין וּכְעַן הַוֵיתִי לִתְרֵין (נ\"א לְתַרְתֵּין) מַשִּׁרְיָן:",
+      "en": "I am unworthy [My merits are few] because of all the kindness and of all the faithfulness [goodness] that you have done with Your servant; for I crossed over this Jordan [only] with my staff [alone], and now I have become two camps.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:12",
+      "he": "שֵׁזַבְנִי כְעַן מִידָא דְאָחִי מִידָא דְעֵשָׂו אֲרֵי דַחֵל אֲנָא מִנֵּיהּ דִּילְמָא יֵיתֵי וְיִמְחִנַּנִי אִמָּא עַל בְּנַיָּא:",
+      "en": "Rescue me, I pray [now], from the hand of my brother, from the hand of Eisov, for I fear him, that he will come and attack me—mother and children alike.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:13",
+      "he": "וְאַתְּ אֲמַרְתָּ אוֹטָבָא אוֹטֵיב עִמָּךְ וֶאֱשַׁוִּי יָת בְּנָךְ סַגִּיאִין כְּחַלָּא דְיַמָּא דִּי לָא יִתִּמְנוּן מִסַּגִּי:",
+      "en": "You have said, I will do very good with you, and I will make your offspring [many] like the sands of the sea, which are too numerous to count.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:14",
+      "he": "וּבָת תַּמָּן בְּלֵילְיָא הַהוּא וּנְסִיב מִן דְּאַיְתִי בִידֵיהּ תִּקְרֻבְתָּא לְעֵשָׂו אֲחוּהִי:",
+      "en": "He spent that night there. He took from that which comes into his hand, [for] a present to his brother, Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:15",
+      "he": "עִזֵּי מָאתָן וּתְיָשַׁיָּא עֶסְרִין רְחֵלִין מָאתָן וְדִכְרִין עֶסְרִין:",
+      "en": "Two hundred female goats and twenty male goats, two hundred ewes and twenty rams.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:16",
+      "he": "גַּמְלֵי מֶנְקָתָא וּבְנֵיהוֹן תְּלָתִין תּוֹרְתָא אַרְבְּעִין וְתוֹרֵי עַסְרָא אַתְנָן עֶסְרִין וְעִירֵי עַסְרָא:",
+      "en": "Thirty nursing camels and their young, forty cows and ten bulls, twenty female donkeys and ten male donkeys.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:17",
+      "he": "וִיהַב בְּיַד עַבְדּוֹהִי עֶדְרָא עֶדְרָא בִּלְחוֹדוֹהִי וַאֲמַר לְעַבְדּוֹהִי עִבָּרוּ קֳדָמַי וּרְוָחָא תְּשַׁוּוּן בֵּין עֶדְרָא וּבֵין עֶדְרָא:",
+      "en": "He placed them in the hand of his servants, each herd by itself. He said to his servants, Pass on ahead of me, and keep a space between each herd.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:18",
+      "he": "וּפַקֵּיד יָת קַדְמָאָה לְמֵימָר אֲרֵי יְעַרְעִנָּךְ עֵשָׂו אָחִי וּשְׁאֵלִנָּךְ לְמֵימָר לְמָן אַתְּ וּלְאָן אַתְּ אָזֵל וּלְמָן אִלֵּין דִּקֳדָמָךְ:",
+      "en": "He commanded the first one, saying, When my brother, Eisov meets you and asks you saying, To whom do you belong, and where are you going; and who is the owner of this that is before you?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:19",
+      "he": "וְתֵימַר לְעַבְדָּךְ לְיַעֲקֹב תִּקְרֻבְתָּא הִיא דִּמְשַׁלְּחָא לְרִבּוֹנִי לְעֵשָׂו וְהָא אַף הוּא אָתֵי בַתְרָנָא:",
+      "en": "You should [then] say, [They belong] to your servant, Yaakov. It is a present sent to my master, Eisov, and see, he is also [coming] behind us.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:20",
+      "he": "וּפַקִּיד אַף יָת תִּנְיָנָא אַף יָת תְּלִיתָאָה אַף יָת כָּל דְּאָזְלִין בָּתַר עֲדָרַיָּא לְמֵימָר כְּפִתְגָּמָא הָדֵין תְּמַלְּלוּן עִם עֵשָׂו כַּד תַּשְׁכְּחוּן יָתֵיהּ:",
+      "en": "He also commanded the second and also the third, and to all who followed after the herds, saying, In like manner must you speak to Eisov when you find [meet] him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:21",
+      "he": "וְתֵימְרוּן אַף הָא עַבְדָּךְ יַעֲקֹב אָתֵי בַתְרָנָא אֲרֵי אֲמַר אַנְחִנֵּיהּ לְרוּגְזֵיהּ בְּתִקְרֻבְתָּא דְּאָזְלַת לָקֳדָמַי וּבָתַר כֵּן אֶחֱזֵי אַפּוֹהִי מָאִים יִסַּב אַפָּי:",
+      "en": "You should also say, See, your servant Yaakov is [coming] behind us. For he said, I will appease him [quieten his anger] with the present that goes before me, and afterwards I will see his face, perhaps he will forgive me.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:22",
+      "he": "וַעֲבָרַת תִּקְרֻבְתָּא עַל אַפּוֹהִי וְהוּא בָת בְּלֵילְיָא הַהוּא בְּמַשְׁרִיתָא:",
+      "en": "The present passed on ahead of him, but he spent the night in the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:23",
+      "he": "וְקָם בְּלֵילְיָא הוּא וּדְבַר יָת תַּרְתֵּין נְשׁוֹהִי וְיָת תַּרְתֵּין לְחֵינָתֵיהּ וְיָת חַד עֲסַר בְּנוֹהִי וַעֲבַר יָת מַעֲבַר יוּבְקָא:",
+      "en": "He got up that night and took his two wives, his two handmaids [concubines], and his eleven children, and crossed over the ford of the Yabbok [River].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:24",
+      "he": "וּדְבָרִנּוּן וְעַבָּרִנּוּן יָת נַחְלָא וְאַעְבַּר יָת דִּילֵיהּ:",
+      "en": "He [then] took them and crossed them over the stream. He [also] brought over all that he possessed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:25",
+      "he": "וְאִשְׁתָּאַר יַעֲקֹב בִּלְחוֹדוֹהִי וְאִשְׁתַּדֵּל גַּבְרָא עִמֵּיהּ עַד דִּסְלֵק צַפְרָא:",
+      "en": "Yaakov remained alone, and a man wrestled with him until daybreak.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:26",
+      "he": "וַחֲזָא אֲרֵי לָא יָכִיל לֵיהּ וּקְרֵיב בִּפְתֵי יַרְכֵּיהּ וְזָע פְּתֵי יַרְכָּא דְיַעֲקֹב בְּאִשְׁתַּדָּלוּתֵיהּ עִמֵּיהּ:",
+      "en": "He [the man] saw that he could not defeat him, and he struck the socket [girth] of his hip. [The girth of] Yaakov’s hip joint was dislocated as he wrestled with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:27",
+      "he": "וַאֲמַר שַׁלְּחַנִי אֲרֵי סְלִיק צַפְרָא וַאֲמַר לָא אֲשַׁלְּחִנָּךְ אֶלָּהֵין בֵּרַכְתָּנִי:",
+      "en": "He [the man] said, Let me go, for the dawn is breaking. He [Yaakov] said, I will not let you go unless you bless me.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:28",
+      "he": "וַאֲמַר לֵיהּ מָה שְׁמָךְ וַאֲמַר יַעֲקֹב:",
+      "en": "He [the man] said to him, What is your name? And he replied, Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:29",
+      "he": "וַאֲמַר לָא יַעֲקֹב יִתְאֲמַר עוֹד שְׁמָךְ אֶלָּהֵין יִשְׂרָאֵל אֲרֵי רַבְרְבַת קֳדָם יְיָ וְעִם גוּבְרַיָּא וִיכָלְתָּא:",
+      "en": "He [the man] said, No longer will your name be spoken of as Yaakov, but as Yisrael, for you have contended with God[ly beings] [are great before God] and with men, and you have won.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:30",
+      "he": "וּשְׁאֵל יַעֲקֹב וַאֲמַר חַוִּי כְעַן שְׁמָךְ וַאֲמַר לְמָה דְנַן אַתְּ שָׁאֵל לִשְׁמִי וּבָרִיךְ יָתֵיהּ תַּמָּן:",
+      "en": "Yaakov asked him, and said, Please [Now] tell me your name. He said, Why then do you ask my name? He then blessed him [Yaakov] there.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:31",
+      "he": "וּקְרָא יַעֲקֹב שְׁמָא דְאַתְרָא פְּנִיאֵל אֲרֵי חֲזֵיתִי מַלְאָכַיָּא דַיְיָ אַפִּין בְּאַפִּין וְאִשְׁתְּזָבַת נַפְשִׁי:",
+      "en": "Yaakov named the place Peniel [God’s Face], For I have seen God[ly beings] [Angles of God] face to face, and my soul has survived.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:32",
+      "he": "וּדְנַח לֵיהּ שִׁמְשָׁא כְּמָא דִי עֲבַר יָת פְּנוּאֵל וְהוּא מַטְלַע עַל יַרְכֵּיהּ:",
+      "en": "The sun shone for him as he passed by Penuel, and he limped due to his hip.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:33",
+      "he": "עַל כֵּן לָא יֵכְלוּן בְּנֵי יִשְׂרָאֵל יָת גִּידָא דְנַשְׁיָא דִּי עַל פְּתֵי יַרְכָּא עַד יוֹמָא הָדֵין אֲרֵי קְרֵיב בִּפְתֵי יַרְכָּא דְיַעֲקֹב בְּגִידָא דְּנַשְׁיָא:",
+      "en": "Therefore, the children of Israel must not eat the displaced tendon [nerve] which is on the [girth of the] hip joint to this very day; because he struck [the girth of] Yaakov’s hip joint on the displaced tendon.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:1",
+      "he": "וּזְקַף יַעֲקֹב עֵינוֹהִי וַחֲזָא וְהָא עֵשָׂו אֲתָא וְעִמֵּיהּ אַרְבַּע מְאָה גֻּבְרִין וּפַלִּיג יָת בְּנַיָּא עַל לֵאָה וְעַל רָחֵל וְעַל תַּרְתֵּין לְחֵינָתָא:",
+      "en": "Yaakov raised his eyes and saw that Eisov was coming, and with him there were four hundred men. He then divided the children among Leah, Rochel and the two handmaids [concubines].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:2",
+      "he": "וְשַׁוִּי יָת לְחֵינָתָא וְיָת בְּנֵיהֶן קַדְמָאִין וְיָת לֵאָה וּבְנָהָא בַּתְרָאִין וְיָת רָחֵל וְיָת יוֹסֵף בַּתְרָאִין:",
+      "en": "He placed the handmaids [concubines] and their children foremost, Leah and her sons behind them, and Rochel and Yoseif in the rear.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:3",
+      "he": "וְהוּא עֲבַר קֳדָמֵיהוֹן וּסְגִיד עַל אַרְעָא שְׁבַע זִמְנִין עַד מִקְרְבֵיהּ עַד (נ\"א לְוַת) אֲחוּהִי:",
+      "en": "He went ahead of them, and he prostrated himself to the earth seven times, until he approached his brother.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:4",
+      "he": "וּרְהַט עֵשָׂו לְקַדָּמוּתֵיהּ וְגַפְּפֵיהּ וּנְפַל עַל צַוְארֵיהּ וְנַשְּׁקֵיהּ וּבְכוֹ:",
+      "en": "Eisov ran to meet him. He hugged him and fell on his neck and kissed him. They [both] wept.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:5",
+      "he": "וּזְקַף יָת עֵינוֹהִי וַחֲזָא יָת נְשַׁיָּא וְיָת בְּנַיָּא וַאֲמַר מָן אִלֵּין לָךְ וַאֲמַר בְּנַיָּא דִּי חָס יְיָ יָת עַבְדָּךְ:",
+      "en": "[Eisov] raised his eyes and saw the women and children. He said, Who are these to you? He [Yaakov] said, These are the children whom God has graciously [compassionately] granted your servant.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:6",
+      "he": "וּקְרִיבַת לְחֵינָתָא אִנִּין וּבְנֵיהֵן וּסְגִידָא:",
+      "en": "The handmaids [concubines] [then] approached, they, and their children, and prostrated themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:7",
+      "he": "וּקְרִיבָא אַף לֵאָה וּבְנָהָא וּסְגִידוּ וּבָתַר כֵּן קְרֵיב יוֹסֵף וְרָחֵל וּסְגִידוּ:",
+      "en": "Leah and her children also approached and prostrated themselves, and finally Yoseif and Rochel approached and prostrated themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:8",
+      "he": "וַאֲמַר מָן לָךְ כָּל מַשְׁרִיתָא הָדֵין דִּי עֲרָעִית וַאֲמַר לְאַשְׁכָּחָא רַחֲמִין בְּעֵינֵי רִבּוֹנִי:",
+      "en": "He [Eisov] said, What do you have to do with that whole camp that approached me? He [Yaakov] said, It was to find favor in the eyes of my master.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:9",
+      "he": "וַאֲמַר עֵשָׂו אִית לִי סַגִּי אָחִי אַצְלַח בְּדִילָךְ:",
+      "en": "Eisov said, I have plenty. My brother, let what you have remain yours [be successful].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:10",
+      "he": "וַאֲמַר יַעֲקֹב בְּבָעוּ אִם כְּעַן אַשְׁכָּחִית רַחֲמִין בְּעֵינָיךְ וּתְקַבֵּל תִּקְרֻבְתִּי מִן יְדִי אֲרֵי עַל כֵּן חֲזִתִּנּוּן לְאַפָּיךְ כְּחֵיזוּ אַפֵּי רַבְרְבַיָּא וְאִתְרְעֵית לִי:",
+      "en": "Yaakov said, Please, no. If I have found favor in your eyes [now], take [accept] my present from my hand, because I have seen your face [and it was] like seeing the face of a God[ly being] [great ones]; and you have received me favorably.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:11",
+      "he": "קַבֵּל כְּעַן יָת תִּקְרֻבְתִּי דְּאִתּוֹתִיאַת לָךְ אֲרֵי רַחִים עֲלַי (קֳדָם) יְיָ וַאֲרֵי אִית לִי כֹלָּא וְאַתְקֵף בֵּיהּ וְקַבִּיל:",
+      "en": "Please [Now] accept my blessing [present] as it was brought to you, for God has been gracious to me, for I have everything. He thus urged him and he took [accepted] it.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:12",
+      "he": "וַאֲמַר נִטַּל וְנֵיהָךְ וְאֵיהַךְ לְקָבְלָךְ:",
+      "en": "He [Eisov] said, Go and we will move on, and I will move on with you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:13",
+      "he": "וַאֲמַר לֵיהּ רִבּוֹנִי יְדַע אֲרֵי יָנְקַיָּא רַכִּיכִין וְעָנָא וְתוֹרֵי מֵינִקְתָּא עָלָי וּדְחוֹקִנּוּן יוֹמָא חַד וִימוּתוּן כָּל עָנָא:",
+      "en": "He [Yaakov] said to him, My master knows that the children are delicate, and that the sheep and cattle with me are nursing. If they are driven hard for [even] one day, all the sheep will die.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:14",
+      "he": "יְעִבַּר כְּעַן רִבּוֹנִי קֳדָם עַבְדֵּיהּ וַאֲנָא אֱדַבֵּר בְּנִיחַ לְרֶגֶל עוֹבַדְתָּא דִי קֳדָמַי וּלְרֶגֶל יָנְקַיָּא עַד דִּי אֵעוֹל לְוַת רִבּוֹנִי לְשֵׂעִיר:",
+      "en": "Please [Now] my master, go on ahead of your servant. I will lead on gently, in my slow pace, according to the pace of the work that is before me, and according to the pace of the children, until I come to my master in Seir.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:15",
+      "he": "וַאֲמַר עֵשָׂו אֶשְׁבּוֹק כְּעַן עִמָּךְ מִן עַמָּא דִּעִמִּי וַאֲמַר לְמָא דְנַן אַשְׁכַּח רַחֲמִין בְּעֵינֵי רִבּוֹנִי:",
+      "en": "Eisov said, Let me leave [now] with you some of the people that are with me. He [Yaakov] said, What for? Let me find favor in the eyes of my master.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:16",
+      "he": "וְתָב בְּיוֹמָא הַהוּא עֵשָׂו לְאָרְחֵיהּ לְשֵׂעִיר:",
+      "en": "On that day Eisov returned on his way—going to Seir.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:17",
+      "he": "וְיַעֲקֹב נְטַל לְסֻכּוֹת וּבְנָא לֵיהּ בֵּיתָא וְלִבְעִירֵיהּ עֲבַד מְטַלָּן עַל כֵּן קְרָא שְׁמָא דְאַתְרָא סֻכּוֹת:",
+      "en": "Yaakov traveled to Sukkos and built himself a house, and for his livestock he made shelters. He therefore named the place Sukkos.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:18",
+      "he": "וַאֲתָא יַעֲקֹב שְׁלִים קַרְתָּא דִשְׁכֶם דִּי בְּאַרְעָא דִכְנָעַן בְּמֵיתֵיהּ מִפַּדַּן דַּאֲרָם וּשְׁרָא לָקֳבֵל (אַפֵּי) קַרְתָּא:",
+      "en": "Yaakov arrived safely at the city of Shechem, which is in the Land of Canaan, when he came from Padan Aram. He encamped before the city.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:19",
+      "he": "וּזְבַן יָת אַחֲסָנַת חַקְלָא דִּי פְרַס תַּמָּן מַשְׁכְּנֵיהּ מִידָא דִבְנֵי חֲמוֹר אֲבוּהִי דִשְׁכֶם בְּמֵאָה חוּרְפָן:",
+      "en": "He bought the part [possession] of the field where he had spread his tent, from the sons of Chamor, father of Shechem, for one hundred kesitahs [sheep].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:20",
+      "he": "וַאֲקֵם תַּמָּן מַדְבְּחָא וּפְלַח עֲלוֹהִי קֳדָם אֵל אֱלָהָא דְיִשְׂרָאֵל:",
+      "en": "He erected an altar there and called it [worshiped upon it before] the Almighty is [the] God of Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:1",
+      "he": "וּנְפָקַת דִּינָה בַּת לֵאָה דִּי יְלִידַת לְיַעֲקֹב לְמֶחֱזֵי בִּבְנַת אַרְעָא:",
+      "en": "Deenah went out, the daughter of Leah, whom she had borne to Yaakov, to see [visit] the local girls.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:2",
+      "he": "וַחֲזָא יָתַהּ שְׁכֶם בַּר חֲמוֹר חִיוָאָה רַבָּא דְאַרְעָא וּדְבַר יָתַהּ וּשְׁכִיב יָתַהּ וְעַנְיַהּ:",
+      "en": "She was seen by Shechem, son of Chamor, the Chivite, who was the prince of the land. He took her, was with her, and mistreated her.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:3",
+      "he": "וְאִתְרְעִיאַת נַפְשֵׁיהּ בְּדִינָה בַּת יַעֲקֹב וּרְחֵים יָת עוּלֶמְתָּא וּמַלִיל עַל לִבָּא דְעוּלֶמְתָּא:",
+      "en": "He became deeply attached to [He desired] Deenah, the daughter of Yaakov, and he loved the girl. He spoke to the girl’s heart.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:4",
+      "he": "וַאֲמַר שְׁכֶם לַחֲמוֹר אֲבוּהִי לְמֵימָר סַב לִי יָת עוּלֶמְתָּא הָדָא לְאִנְתּוּ:",
+      "en": "Shechem spoke to his father Chamor, saying, Take this young girl for me as a wife.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:5",
+      "he": "וְיַעֲקֹב שְׁמַע אֲרֵי סָאֵיב יָת דִּינָה בְרַתֵּיהּ וּבְנוֹהִי הֲווֹ עִם גֵיתוֹהִי בְּחַקְלָא וְשָׁתִיק יַעֲקֹב עַד מֵיתֵיהוֹן:",
+      "en": "Yaakov heard that he had defiled his daughter, Deenah, [while] his sons were with the livestock in the fields. Yaakov remained silent until they returned.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:6",
+      "he": "וּנְפַק חֲמוֹר אֲבוּהִי דִשְׁכֶם לְוַת יַעֲקֹב לְמַלָּלָא עִמֵּיהּ:",
+      "en": "Chamor, father of Shechem, went out to Yaakov to speak with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:7",
+      "he": "וּבְנֵי יַעֲקֹב עַלּוּ מִן חַקְלָא כַּד שְׁמָעוּ וְאִתְנְסִיסוּ גֻּבְרַיָּא וּתְקֵיף לְהוֹן לַחֲדָא אֲרֵי קְלָנָא עֲבַד בְּיִשְׂרָאֵל לְמִשְׁכַּב עִם בַּת יַעֲקֹב וְכֵן לָא כָשַׁר לְאִתְעֲבָדָא:",
+      "en": "The sons of Yaakov returned from the field when they heard [what had happened]. The men grieved and were very angry, for he [Shechem] had committed an outrage against Yisrael to lie with a daughter of Yaakov. Such a thing should not be done [It is not fitting for such a think to have been done].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:8",
+      "he": "וּמַלִּיל חֲמוֹר עִמְּהוֹן לְמֵימָר שְׁכֶם בְּרִי אִתְרְעִיאַת נַפְשֵׁיהּ בִּבְרַתְּכוֹן הָבוּ כְעַן יָתַהּ לֵיהּ לְאִנְתּוּ:",
+      "en": "Chamor spoke with them saying, My son, Shechem, desires your daughter. Please [Now] grant her to him for a wife.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:9",
+      "he": "וְתִתְחַתְּנוּן בָּנָא בְּנָתֵיכוֹן תִּתְּנוּן לָנָא וְיָת בְּנָתָנָא תִּסְּבוּן לְכוֹן:",
+      "en": "Intermarry with us. Give us your daughters, and take our daughters for yourselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:10",
+      "he": "וְעִמָּנָא תֵּתְבוּן וְאַרְעָא תְּהֵי קֳדָמֵיכוֹן תִּיבוּ וְעִבִידוּ בַהּ סְחוֹרְתָא וְאַחֲסִינוּ בַּהּ:",
+      "en": "You will [then] live with us and the land will be open to you. Live and [do] trade in [with] it and possess it.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:11",
+      "he": "וַאֲמַר שְׁכֶם לַאֲבוּהָא וּלְאַחָהָא אַשְׁכַּח רַחֲמִין בְּעֵינֵיכוֹן וְדִי תֵימְרוּן לִי אֶתֵּן:",
+      "en": "Shechem said to her father and her brothers, Let me find favor in your eyes and what ever you say [ask of me], I will give.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:12",
+      "he": "אַסְגּוֹ עֲלַי לַחֲדָא מוֹהֲרִין וּמַתְּנָן וְאֶתֵּן כְּמָא דִי תֵימְרוּן לִי וְהָבוּ לִי יָת עוּלֶמְתָּא לְאִנְתּוּ:",
+      "en": "Increase greatly the amount I must pay for the bridal dowry and gifts. I will give whatever you say, but give me the girl for a wife.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:13",
+      "he": "וַאֲתִיבוּ בְנֵי יַעֲקֹב יָת שְׁכֶם וְיָת חֲמוֹר אֲבוּהִי בְּחָכְמָתָא וּמַלִּילוּ דִּי סָאֵב יָת דִּינָה אֲחָתְהוֹן:",
+      "en": "The sons of Yaakov answered Shechem, and his father Chamor, with guile [cleverness], when they spoke; because he had defiled their sister, Deenah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:14",
+      "he": "וַאֲמָרוּ לְהוֹן לָא נִכּוּל לְמֶעְבַּד פִּתְגָּמָא הָדֵין לְמִתַּן יָת אֲחָתָנָא לִגְבַר דִּי לֵיהּ עָרְלְתָא אֲרֵי חִסּוּדָא הִיא לָנָא:",
+      "en": "They said to them, We cannot do such a thing—to give our sister [in marriage] to an uncircumcised man, for that is a disgrace to us.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:15",
+      "he": "בְּרַם בְּדָא נִתְפֵּס לְכוֹן אִם תֶּהֱווֹן כְּוָתָנָא לְמִגְזַר לְכוֹן כָּל דְּכוּרָא:",
+      "en": "This is the only way we will consent to you: if you will be like us, circumcising all your males.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:16",
+      "he": "וְנִתֵּן יָת בְּנָתָנָא לְכוֹן וְיָת בְּנָתֵיכוֹן נִסַּב לָנָא וְנִתּוּב עִמְּכוֹן וְנֵהֵי לְעַמָּא חָד:",
+      "en": "[Then] we will give our daughters to you, and we will take your daughters for ourselves. We will live together with you, and we will become one people.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:17",
+      "he": "וְאִם לָא תְקַבְּלוּן מִנָּנָא לְמִגְזָר וּנְדַבֵּר יָת בְּרַתָּנָא וְנֵזֵיל:",
+      "en": "But if you do not listen to [obey] us to be circumcised, we will take our daughter and go.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:18",
+      "he": "וּשְׁפָרוּ פִתְגָּמֵיהוֹן בְּעֵינֵי חֲמוֹר וּבְעֵינֵי שְׁכֶם בַּר חֲמוֹר:",
+      "en": "Their words were agreeable in the eyes of Chamor, and in the eyes of Shechem, the son of Chamor.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:19",
+      "he": "וְלָא אוֹחַר עוּלֵימָא לְמֶעְבַּד פִּתְגָּמָא אֲרֵי אִתְרְעִי בְּבַת יַעֲקֹב וְהוּא יַקִּיר מִכֹּל בֵּית אֲבוּהִי:",
+      "en": "The young man did not delay doing the thing, because he desired the daughter of Yaakov. He was the most honored person in his father’s house.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:20",
+      "he": "וַאֲתָא חֲמוֹר וּשְׁכֶם בְּרֵיהּ לִתְרַע קַרְתְּהוֹן וּמַלִּילוּ עִם אֲנָשֵׁי קַרְתְּהוֹן לְמֵימָר:",
+      "en": "Chamor and his son, Shechem came to the gate of their city, and they spoke to the men of their city saying,",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:21",
+      "he": "גֻּבְרַיָּא הָאִלֵּין שָׁלְמִין אִנּוּן עִמָּנָא וִיתִיבוּן בְּאַרְעָא וְיַעְבְּדוּן בַּהּ סְחוֹרְתָא וְאַרְעָא הָא פְתָיוּת יְדִין קֳדָמֵיהוֹן יָת בְּנָתֵיהוֹן נִסַּב לָנָא לִנְשִׁין וְיָת בְּנָתָנָא נִתֵּן לְהוֹן:",
+      "en": "These men are completely at peace with us. Let them live in the land and [do] trade in [with] it. The land has ample room to be open to them. We will take their daughters for wives, and we will give them our daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:22",
+      "he": "בְּרַם בְּדָא יִתָּפְסוּן לָנָא גוּבְרַיָּא לְמִתַּב עִמָּנָא לְמֵהֲוֵי לְעַמָּא חַד לְמִגְזַר לָנָא כָּל דְּכוּרָא כְּמָא דִּי אִנּוּן גְּזִירִין:",
+      "en": "But only on these terms will the men consent to live with us, to become one people: every male among us must be circumcised, just as they are circumcised.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:23",
+      "he": "גֵּיתֵיהוֹן וְקִנְיָנְהוֹן וְכָל בְּעִירְהוֹן הֲלָא דִּילָנָא אִנּוּן בְּרַם נִתְפֵּס לְהוֹן וִיתִיבוּן עִמָּנָא:",
+      "en": "Their livestock, their possessions and all their cattle, will it not be ours? Only let us consent to them, and they will live with us.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:24",
+      "he": "וְקַבִּילוּ מִן חֲמוֹר וּמִן שְׁכֶם בְּרֵיהּ כָּל נָפְקֵי תְּרַע קַרְתֵּיהּ וּגְזָרוּ כָּל דְּכוּרָא כָּל נָפְקֵי תְּרַע קַרְתֵּיהּ:",
+      "en": "They listened to [obeyed] Chamor, and to his son, Shechem—all those who passed through the gate of his city. Every male was circumcised—all who passed through the gate of his city.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:25",
+      "he": "וַהֲוָה בְיוֹמָא תְלִיתָאָה כַּד תְּקִיפוּ עֲלֵיהוֹן כֵּאבֵיהוֹן וּנְסִיבוּ תְרֵין בְּנֵי יַעֲקֹב שִׁמְעוֹן וְלֵוִי אֲחֵי דִינָה גְּבַר חַרְבֵּיהּ וְעַלּוּ עַל קַרְתָּא דְּיָתְבוּן לְרָחֲצָן וּקְטָלוּ כָּל דְּכוּרָא:",
+      "en": "On the third day when they were in pain [their pain was strong upon them], two of Yaakov’s sons, Shimon and Leivi, brothers of Deenah, each took his sword. They approached the city with confidence [whose inhabitants dwell in security], and killed every male.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:26",
+      "he": "וְיָת חֲמוֹר וְיָת שְׁכֶם בְּרֵיהּ קְטָלוּ לְפִתְגַּם דְּחָרֶב וּדְבָרוּ יָת דִּינָה מִבֵּית שְׁכֶם וּנְפָקוּ:",
+      "en": "They killed Chamor and his son Shechem at the point of the sword. They took Deenah from the house of Shechem and they left.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:27",
+      "he": "בְּנֵי יַעֲקֹב עַלוּ לְחַלָּצָא קָטִילַיָּא וּבְזוֹ קַרְתָּא דִּי סָאִיבוּ אֲחָתְהוֹן:",
+      "en": "The sons of Yaakov came upon the corpses [to strip the corpses], and they plundered the city that had defiled their sister.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:28",
+      "he": "יָת עָנְהוֹן וְיָת תּוֹרְהוֹן וְיָת חֲמָרֵיהוֹן וְיָת דִּי בְקַרְתָּא וְיָת דִּי בְחַקְלָא בְּזוֹ (ס\"א דְבָרוּ):",
+      "en": "Their sheep, their cattle, their donkeys, whatever was in the city and whatever was in the field—they took [plundered].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:29",
+      "he": "וְיָת כָּל נִכְסֵיהוֹן וְיָת כָּל טַפְלְהוֹן וְיָת נְשֵׁיהוֹן שְׁבוֹ וּבְזוֹ וְיָת כָּל דִּי בְבֵיתָא:",
+      "en": "All their wealth, all their children, and their wives—they took captive, and plundered—including everything in the houses.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:30",
+      "he": "וַאֲמַר יַעֲקֹב לְשִׁמְעוֹן וּלְלֵוִי עֲכַרְתּוּן יָתִי לְמִתַּן דְּבָבוּ בֵּינָנָא וּבֵין יָתְבֵי אַרְעָא בִּכְנַעֲנָאָה וּבַפְּרִזָּאָה וַאֲנָא עַם דְּמִנְיַן וְיִתְכַּנְּשׁוּן עֲלַי וְיִמְחִנּוּנִי וְאֶשְׁתֵּצֵי אֲנָא וֶאֱנַשׁ בֵּיתִי:",
+      "en": "Yaakov said to Shimon and Leivi, You have made trouble for me, making me obnoxious to [putting hatred between us and] the inhabitants of the land, the Canaanites and the Perizzites. [Since] I am few in number, they will gather together and attack me. I and my house [family] will be destroyed.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:31",
+      "he": "וַאֲמָרוּ הַכְנָפְקַת בָּרָא יִתְעֲבֵד (נ\"א יַעְבֵּד יָת) לַאֲחָתָנָא:",
+      "en": "They said, Should he make our sister [be treated] into a harlot [like one who goes outside]?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:1",
+      "he": "וַאֲמַר יְיָ לְיַעֲקֹב קוּם סַק לְבֵית אֵל וְתִיב תַּמָּן וְעִבֵד תַּמָּן מַדְבְּחָא לֵאלָהָא דְּאִתְגְּלִי לָךְ בְּמֵעִרְקָךְ מִן קֳדָם עֵשָׂו אָחוּךְ:",
+      "en": "Elohim said to Yaakov, Arise, go up to Beis Eil and live there; make an altar there to the Almighty Who appeared [became revealed] to you when you were fleeing from your brother Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:2",
+      "he": "וַאֲמַר יַעֲקֹב לֶאֱנַשׁ בֵּיתֵיהּ וּלְכֹל דִּי עִמֵּיהּ אַעְדוּ יָת טַעֲוַת עַמְמַיָּא דִּי בֵינֵיכוֹן וְאִדַּכּוּ וְשַׁנּוּ כְּסוּתְכוֹן:",
+      "en": "Yaakov [then] said to his household, and to everyone that was with him, Get rid of the foreign gods [false gods of the nations] in your midst. Purify yourselves and change your garments.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:3",
+      "he": "וְנֵקוֹם וְנִסַּק לְבֵית אֵל וְאֶעְבֵּד תַּמָּן מַדְבְּחָא לֵאלָהָא דְּקַבֵּל צְלוֹתִי בְּיוֹמָא דְעַקְתִי וַהֲוָה מֵימְרֵיהּ בְּסַעְדִּי בְּאָרְחָא דִּי אֲזָלִית:",
+      "en": "Let us arise and go up to Beis Eil. There I will make an altar to the Almighty, Who answered me [accepted my prayer] in the day of my distress, and Who was with me [whose Word was my support] along the way I traveled.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:4",
+      "he": "וִיהָבוּ לְיַעֲקֹב יָת כָּל טַעֲוַת עַמְמַיָּא דִי בִידֵיהוֹן וְיָת קָדָשַׁיָּא דִּי בְאוּדְנֵיהוֹן וְטַמַּר יָתְהוֹן יַעֲקֹב תְּחוֹת בָּטְמָא דִּי עִם שְׁכֶם:",
+      "en": "They gave Yaakov all the foreign gods [false gods of the nations] that were in their hands, and [also] the rings in their ears. Yaakov buried them under the oak [tree] which was near Shechem.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:5",
+      "he": "וּנְטָלוּ וַהֲוַת דַּחֲלָא דַיְיָ עַל עַמְמַיָּא דִּי בְּקִרְוֵי סַחֲרָנֵיהוֹן וְלָא רְדָפוּ בָּתַר בְּנֵי יַעֲקֹב:",
+      "en": "They began their journey. The terror of Elohim was upon the [people who were in the] cities that were around them, and they did not pursue the sons of Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:6",
+      "he": "וַאֲתָא יַעֲקֹב לְלוּז דִּי בְּאַרְעָא דִכְנַעַן הִיא בֵּית אֵל הוּא וְכָל עַמָּא דִּי עִמֵּיהּ:",
+      "en": "Yaakov came to Luz, which was in the land of Canaan—that is, to Beis Eil—he and all the people that were with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:7",
+      "he": "וּבְנָא תַמָּן מַדְבְּחָא וּקְרָא לְאַתְרָא אֵל בֵּית אֵל אֲרֵי תַמָּן אִתְגְּלִי לֵיהּ יְיָ בְּמֵעִרְקֵיהּ מִן קֳדָם אָחוּהִי:",
+      "en": "There he built an altar, and he called the place Eil Beis Eil, for there Elohim was revealed to him when he was fleeing from his brother.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:8",
+      "he": "וּמִיתַת דְּבוֹרָה מֵנִקְתָּא דְרִבְקָה וְאִתְקְבָרַת מִלְּרַע לְבֵית אֵל בְּשִׁפּוֹלֵי מֵישְׁרָא וּקְרָא שְׁמֵיהּ מֵישַׁר בָּכִיתָא:",
+      "en": "Devorah, Rivkah’s nurse, died, and she was buried below Beis Eil, under Allon [on the lower plain]. He named it Allon of Weeping [Plain of the Weeping].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:9",
+      "he": "וְאִתְגְּלִי יְיָ לְיַעֲקֹב עוֹד בְּמֵיתוֹהִי מִפַּדַּן אֲרָם וּבָרִיךְ יָתֵיהּ:",
+      "en": "Elohim again appeared [became revealed] to Yaakov when he came from Padan Aram, and He blessed him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:10",
+      "he": "וַאֲמַר לֵיהּ יְיָ שְׁמָךְ יַעֲקֹב לָא יִתְקְרֵי שְׁמָךְ עוֹד יַעֲקֹב אֶלָּהֵין יִשְׂרָאֵל יְהֵא שְׁמָךְ וּקְרָא יָת שְׁמֵיהּ יִשְׂרָאֵל:",
+      "en": "Elohim said to him. Your name is Yaakov. No longer will your name be Yaakov, but Yisrael will be your name; and He named him Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:11",
+      "he": "וַאֲמַר לֵיהּ יְיָ אֲנָא אֵל שַׁדַּי פּוּשׁ וּסְגֵי עַם וְכִנְשַׁת שִׁבְטִין יְהֵא מִנָּךְ וּמַלְכִין דְּשַׁלִּיטִין בְּעַמְמַיָּא מִנָּךְ יִפְּקוּן:",
+      "en": "Elohim said to him, I am Almighty Shaddai. Be fruitful and increase, a nation and a community of nations [an assembly of tribes] will come from you, and kings [who rule over nations] will come out of your loins [descend from you].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:12",
+      "he": "וְיָת אַרְעָא דִּי יְהָבִית לְאַבְרָהָם וּלְיִצְחָק לָךְ אֶתְּנִנַהּ וְלִבְנָךְ בַּתְרָךְ אֶתֵּן יָת אַרְעָא:",
+      "en": "The land that I gave to Avraham and Yitzchok, I will give to you; and to your offspring after you I will give the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:13",
+      "he": "וְאִסְתַּלַּק מֵעִלָּו‍ֹהִי יְקָרָא דַיְיָ בְּאַתְרָא דִּי מַלִּיל עִמֵּיהּ:",
+      "en": "[The Glory of] Elohim ascended from him at the place where He had spoken to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:14",
+      "he": "וַאֲקֵים יַעֲקֹב קַמְתָא בְּאַתְרָא דִּי מַלִּיל עִמֵּיהּ קָמַת אַבְנָא וְאַסִּיךְ עֲלַהּ נִסּוּכִין וַאֲרִיק עֲלַהּ מִשְׁחָא:",
+      "en": "Yaakov set up a monument in the place where He had spoken to him, it was a monument of [a single] stone. He poured a libation [libations] on it, and he [also] poured oil on it.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:15",
+      "he": "וּקְרָא יַעֲקֹב יָת שְׁמָא דְאַתְרָא דִּי מַלִּיל עִמֵּיהּ תַּמָּן יְיָ בֵּית אֵל:",
+      "en": "Yaakov named the place where Elohim had spoken to him; Beis Eil, [the House of the Almighty].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:16",
+      "he": "וּנְטָלוּ מִבֵּית אֵל וַהֲוָה עוֹד כְּרוּבַת אַרְעָא לְמֵיעַל לְאֶפְרָת וִילִידַת רָחֵל וְקַשִּׁיאַת בְּמֵילְדַהּ:",
+      "en": "They journeyed on from Beis Eil, and there was yet a stretch of land before [they would reach] Ephros when Rochel began to give birth. Her labor was very difficult.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:17",
+      "he": "וַהֲוָה בְּקַשְׁיוּתַהּ בְּמֵילְדַהּ וַאֲמֶרֶת לַהּ חָיְתָא לָא תִדְחֲלִי אֲרֵי אַף דֵּין לִיךְ בָּר:",
+      "en": "When her labor was at its most difficult stage, the midwife said to her, Do not fear, for this one will also be a son for you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:18",
+      "he": "וַהֲוָה בְּמִפַּק נַפְשַׁהּ אֲרֵי מִיתַת (נ\"א מַיְתָא) וּקְרַת שְׁמֵיהּ בַּר דְּוָי וַאֲבוּהִי קְרָא לֵיהּ בִּנְיָמִין:",
+      "en": "As her soul was departing, for she died, she named him Ben Oni [son of my sorrow], but his father named him Binyomin.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:19",
+      "he": "וּמִיתַת רָחֵל וְאִתְקְבָרַת בְּאֹרַח אֶפְרָת הִיא בֵּית לָחֶם:",
+      "en": "Rochel died and was buried on the way to Ephros, which is Beis Lechem [Bethlehem].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:20",
+      "he": "וַאֲקֵים יַעֲקֹב קַמְתָא עַל קְבֻרְתַּהּ הִיא קָמַת קְבֻרְתָּא דְרָחֵל עַד יוֹמָא דֵין:",
+      "en": "Yaakov set up a monument on her grave. This monument is on Rochel’s grave to this very day.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:21",
+      "he": "וּנְטַל יִשְׂרָאֵל וּפְרַס מַשְׁכְּנֵיהּ מִלְּהַלָּא לְמִגְדְּלָא דְעֵדֶר:",
+      "en": "Yisrael traveled on, and set up [spread] his tent beyond Migdal Eider [Tower of the herds].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:22",
+      "he": "וַהֲוָה כַּד שְׁרָא יִשְׂרָאֵל בְּאַרְעָא הַהִיא וַאֲזַל רְאוּבֵן וּשְׁכִיב עִם בִּלְהָה לְחֵינָתָא דַאֲבוּהִי וּשְׁמַע יִשְׂרָאֵל וַהֲווֹ בְנֵי יַעֲקֹב תְּרֵי עֲסַר:",
+      "en": "When Yaakov was settled in that land. Reuvein went and lay near Bilhah, his father’s concubine, and Yisrael heard [about it]. The sons of Yaakov were twelve.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:23",
+      "he": "בְּנֵי לֵאָה בּוּכְרָא דְיַעֲקֹב רְאוּבֵן וְשִׁמְעוֹן וְלֵוִי וִיהוּדָה וְיִשָׂשכָר וּזְבֻלוּן:",
+      "en": "The sons of Leah [were]: Reuvein, Yaakov’s firstborn, Shimon, Leivi, Yehudah, Yissachar and Zevulun.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:24",
+      "he": "בְּנֵי רָחֵל יוֹסֵף וּבִנְיָמִן:",
+      "en": "The sons of Rochel [were]: Yoseif and Binyomin.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:25",
+      "he": "וּבְנֵי בִלְהָה אַמְתָא דְרָחֵל דָּן וְנַפְתָּלִי:",
+      "en": "The sons of Bilhah, Rochel’s handmaid, [were]: Don and Naftali.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:26",
+      "he": "וּבְנֵי זִלְפָּה אַמְתָא דְלֵאָה גָּד וְאָשֵׁר אִלֵּין בְּנֵי יַעֲקֹב דִּי אִתְיְלִידַן לֵיהּ בְּפַדַּן אֲרָם:",
+      "en": "The sons of Zilpah, Leah’s handmaid, [were]: Gad and Asher. These are the sons of Yaakov that were born to him in Padan Aram.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:27",
+      "he": "וַאֲתָא יַעֲקֹב לְוַת יִצְחָק אֲבוּהִי מַמְרֵא קִרְיַת אַרְבַּע הִיא חֶבְרוֹן דִּי דָר תַּמָּן אַבְרָהָם וְיִצְחָק:",
+      "en": "Yaakov came to Yitzchok, his father, in Mamrei at Kiryas Arba, which is Chevron where Avraham and Yitzchok lived.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:28",
+      "he": "וַהֲווֹ יוֹמֵי יִצְחָק מְאָה וּתְמָנָן שְׁנִין:",
+      "en": "The days of [the life of] Yitzchok were one hundred and eighty years.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:29",
+      "he": "וְאִתְנְגִיד יִצְחָק וּמִית וְאִתְכְּנִישׁ לְעַמֵּיהּ סִיב וּשְׂבַע יוֹמִין וּקְבָרוּ יָתֵיהּ עֵשָׂו וְיַעֲקֹב בְּנוֹהִי:",
+      "en": "Yitzchok expired and died. He was gathered to his people old and in the fullness of days. His sons, Eisov and Yaakov buried him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:1",
+      "he": "וְאִלֵּין תּוּלְדַת עֵשָׂו הוּא אֱדוֹם:",
+      "en": "These are the descendants of Eisov, also known as Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:2",
+      "he": "עֵשָׂו נְסִיב יָת נְשׁוֹהִי מִבְּנַת כְּנָעַן יָת עָדָה בַּת אֵילוֹן חִתָּאָה וְיָת אָהֳלִיבָמָה בַּת עֲנָה בַּת צִבְעוֹן חִוָּאָה:",
+      "en": "Eisov took his wives from the daughters of Canaan: Adah, the daughter of Eylon, the Chittite, and Oholivomoh, the daughter of Anoh, daughter of Tzivon, the Chivite.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:3",
+      "he": "וְיָת בָּשְׂמַת בַּת יִשְׁמָעֵאל אֲחָתֵיהּ דִּנְבָיוֹת:",
+      "en": "[He also took] Bosmas, the daughter of Yishmael, the sister of Nevayos.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:4",
+      "he": "וִילִידַת עָדָה לְעֵשָׂו יָת אֱלִיפָז וּבָשְׂמַת יְלִידַת יָת רְעוּאֵל:",
+      "en": "Adah bore to Eisov, [his son] Eliphaz, and Bosmas bore Reueil.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:5",
+      "he": "וְאָהֳלִיבָמָה יְלִידַת יָת יְעוּשׁ וְיָת יַעְלָם וְיָת קֹרַח אִלֵּין בְּנֵי עֵשָׂו דִּי אִתְיְלִידוּ לֵיהּ בְּאַרְעָא דִכְנָעַן:",
+      "en": "Oholivomoh bore Yeush, Yalom, and Korach. These are the sons of Eisov that were born to him in the land of Canaan.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:6",
+      "he": "וּדְבַר עֵשָׂו יָת נְשׁוֹהִי וְיָת בְּנוֹהִי וְיָת בְּנָתֵיהּ וְיָת כָּל נַפְשַׁת בֵּיתֵיהּ וְיָת גֵּיתוֹהִי וְיָת כָּל בְּעִירֵיהּ וְיָת כָּל קִנְיָנֵיהּ דִּי קְנָא בְּאַרְעָא דִכְנָעַן וַאֲזַל לְאַרְעָא אָחֲרֵי מִן קֳדָם יַעֲקֹב אָחוּהִי:",
+      "en": "Eisov took his wives, his sons, his daughters, all the people of his household, his livestock, all his animals, and all his possessions that he had acquired in the land of Canaan, and he went to a [different] land away from his brother, Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:7",
+      "he": "אֲרֵי הֲוָה קִנְיָנְהוֹן סַגִּי מִלְּמִתַּב כַּחֲדָא וְלָא יְכִילַת אֲרַע תּוֹתָבוּתְהוֹן לְסוֹבָרָא יָתְהוֹן מִן קֳדָם גֵּיתֵיהוֹן:",
+      "en": "For their wealth was too great for them to live together. The land in which they lived temporarily could not support them because of their livestock.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:8",
+      "he": "וִיתֵיב עֵשָׂו בְּטוּרָא דְשֵׂעִיר עֵשָׂו הוּא אֱדוֹם:",
+      "en": "Eisov [therefore] settled in Mount Seir. Eisov is Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:9",
+      "he": "וְאִלֵּין תּוּלְדַת עֵשָׂו אֲבוּהוֹן דֶאֱדוֹמָאֵי בְּטוּרָא דְּשֵׂעִיר:",
+      "en": "These are the descendants of Eisov, the ancestor of Edom [the Edomites] in Mount Seir.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:10",
+      "he": "אִלֵּין שְׁמָהַת בְּנֵי עֵשָׂו אֱלִיפַז בַּר עָדָה אִתַּת עֵשָׂו רְעוּאֵל בַּר בָּשְׂמַת אִתַּת עֵשָׂו:",
+      "en": "These are the names of Eisov’s sons: Eliphaz, the son of Adah, the wife of Eisov, Reueil, the son of Bosmas, the wife of Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:11",
+      "he": "וַהֲווֹ בְּנֵי אֱלִיפָז תֵּימָן אוֹמָר צְפוֹ וְגַעְתָּם וּקְנַז:",
+      "en": "The sons of Eliphaz were Teiman, Omar, Tzepho, Gatam and Kenaz.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:12",
+      "he": "וְתִמְנַע הֲוַת לְחֵינָתָא לֶאֱלִיפַז בַּר עֵשָׂו וִילִידַת לֶאֱלִיפַז יָת עֲמָלֵק אִלֵּין בְּנֵי עָדָה אִתַּת עֵשָׂו:",
+      "en": "Timna became a concubine to Eliphaz, Eisov’s son, and she bore to Eliphaz [a son], Amaleik. These are the sons of Adah, the wife of Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:13",
+      "he": "וְאִלֵּין בְּנֵי רְעוּאֵל נַחַת וָזֶרַח שַׁמָּה וּמִזָּה אִלֵּין הֲווֹ בְּנֵי בָשְׂמַת אִתַּת עֵשָׂו:",
+      "en": "These are the sons of Reueil, Nachas, Zerach, Shamoh, and Mizzoh. These were the sons of Bosmas, the wife of Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:14",
+      "he": "וְאִלֵּין הֲווֹ בְּנֵי אָהֳלִיבָמָה בַת עֲנָה בַּת צִבְעוֹן אִתַּת עֵשָׂו וִילִידַת לְעֵשָׂו יָת יְעוּשׁ וְיָת יַעְלָם וְיָת קֹרַח:",
+      "en": "These are the sons of Oholivomoh, the daughter of Anoh, the daughter of Tzivon, the wife of Eisov; she bore to Eisov: Ye’ush, Yalom and Korach.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:15",
+      "he": "אִלֵּין רַבְרְבֵי בְּנֵי עֵשָׂו בְּנֵי אֱלִיפַז בּוּכְרָא דְעֵשָׂו רַבָּא תֵימָן רַבָּא אוֹמָר רַבָּא צְפוֹ רַבָּא קְנַז:",
+      "en": "These are the chiefs of the sons of Eisov: the sons of Eliphaz, Eisov’s first born: Chief Teiman, Chief Omar, Chief Tzepho, Chief Kenaz.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:16",
+      "he": "רַבָּא קֹרַח רַבָּא גַעְתָּם רַבָּא עֲמָלֵק אִלֵּין רַבְרְבֵי דֶאֱלִיפַז בְּאַרְעָא דֶאֱדוֹם אִלֵּין בְּנֵי עָדָה:",
+      "en": "Chief Korach, Chief Gatam, Chief Amaleik. These are the chiefs of Eliphaz in the land of Edom. These are the sons of Adah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:17",
+      "he": "וְאִלֵּין בְּנֵי רְעוּאֵל בַּר עֵשָׂו רַבָּא נַחַת רַבָּא זֶרַח רַבָּא שַׁמָּה רַבָּא מִזָּה אִלֵּין רַבְרְבֵי רְעוּאֵל בְּאַרְעָא (דֶ)אֱדוֹם אִלֵּין בְּנֵי בָשְׂמַת אִתַּת עֵשָׂו:",
+      "en": "These are the sons of Reu’eil, Eisov’s son: Chief Nachas, Chief Zerach. Chief Shamoh, Chief Mizzoh. These are the Chiefs of Reu’eil in the land of Edom. These are sons of Bosmas, wife of Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:18",
+      "he": "וְאִלֵּין בְּנֵי אָהֳלִיבָמָה אִתַּת עֵשָׂו רַבָּא יְעוּשׁ רַבָּא יַעְלָם רַבָּא קֹרַח אִלֵּין רַבְרְבֵי אָהֳלִיבָמָה בַּת עֲנָה אִתַּת עֵשָׂו:",
+      "en": "These are the sons of Oholivomoh, wife of Eisov: Chief Ye’ush, Chief Yalom, Chief Korach. These are the Chiefs of Oholivomoh, daughter of Anoh, wife of Eisov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:19",
+      "he": "אִלֵּין בְּנֵי עֵשָׂו וְאִלֵּין רַבְרְבָנֵיהוֹן הוּא אֱדוֹם:",
+      "en": "These are the sons of Eisov, and these are their chiefs, he is Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:20",
+      "he": "אִלֵּין בְּנֵי שֵׂעִיר חוֹרָאָה יָתְבֵי דְּאַרְעָא לוֹטָן וְשׁוֹבָל וְצִבְעוֹן וַעֲנָה:",
+      "en": "These are the sons of Se’ir, the Chorite, the inhabitants of the land: Lotan, Shoval, Tzivon, and Anoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:21",
+      "he": "וְדִשׁוֹן וְאֵצֶר וְדִישָׁן אִלֵּין רַבְרְבֵי חוֹרָאֵי בְּנֵי שֵׂעִיר בְּאַרְעָא דֶאֱדוֹם:",
+      "en": "Dishon, Eitzer and Dishan, these are the chiefs of the Chorites, the sons of Se’ir, in the land of Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:22",
+      "he": "וַהֲווֹ בְנֵי לוֹטָן חוֹרִי וְהֵימָם וַאֲחָתֵיהּ דְּלוֹטָן תִּמְנָע:",
+      "en": "The sons of Lotan were Chori and Heimam. Lotan’s sister was Timna.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:23",
+      "he": "וְאִלֵּין בְּנֵי שׁוֹבָל עַלְוָן וּמָנַחַת וְעֵיבָל שְׁפוֹ וְאוֹנָם:",
+      "en": "These are the sons of Shoval: Alvan, Manachas, Eival, Shefo and Onom.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:24",
+      "he": "וְאִלֵּין בְּנֵי צִבְעוֹן וְאַיָּה וַעֲנָה הוּא עֲנָה דִּי אַשְׁכַּח יָת גִּבָּרַיָּא בְּמַדְבְּרָא כַּד הֲוָה רָעֵי יָת חֲמָרַיָּא לְצִבְעוֹן אֲבוּהִי:",
+      "en": "These are the sons of Tzivon: Ayoh and Anoh. He is the same Anoh who found the mules [mighty ones] in the desert while tending the donkeys for his father, Tzivon.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:25",
+      "he": "וְאִלֵּין בְּנֵי עֲנָה דִּשֹׁן וְאָהֳלִיבָמָה בַּת עֲנָה:",
+      "en": "These are the children of Anoh: Dishon, and Oholivomoh the daughter of Anoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:26",
+      "he": "וְאִלֵּין בְּנֵי דִישָׁן חֶמְדָּן וְאֶשְׁבָּן וְיִתְרָן וּכְרָן:",
+      "en": "These are the sons of Dishon: Chemdan, Eshban, Yisran and Keran.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:27",
+      "he": "אִלֵּין בְּנֵי אֵצֶר בִּלְהָן וְזַעֲוָן וַעֲקָן:",
+      "en": "These are the sons of Eitzer: Bilhan, Za’avan and Akan.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:28",
+      "he": "אִלֵּין בְּנֵי דִישָׁן עוּץ וַאֲרָן:",
+      "en": "These are the sons of Dishon: Utz and Aran.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:29",
+      "he": "אִלֵּין רַבְרְבֵי חוֹרָאָה רַבָּא לוֹטָן רַבָּא שׁוֹבָל רַבָּא צִבְעוֹן רַבָּא עֲנָה:",
+      "en": "These are the chiefs of the Chorites: Chief Lotan, Chief Shoval, Chief Tzivon, Chief Anoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:30",
+      "he": "רַבָּא דִשֹׁן רַבָּא אֵצֶר רַבָּא דִישָׁן אִלֵּין רַבְרְבֵי חוֹרָאָה לְרַבְרְבָנֵיהוֹן בְּאַרְעָא דְשֵׂעִיר:",
+      "en": "Chief Dishon, Chief Eitzer, Chief Dishan. These are the chiefs of the Chorites based on the ranks of chiefs in the Land of Se’ir.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:31",
+      "he": "וְאִלֵּין מַלְכַיָּא דִּי מְלִיכוּ בְּאַרְעָא דֶאֱדוֹם קֳדָם דִּי מְלַךְ מַלְכָּא לִבְנֵי יִשְׂרָאֵל:",
+      "en": "These are the kings who reigned in the Land of Edom before any king reigned over the Children of Israel.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:32",
+      "he": "וּמְלַךְ בֶּאֱדוֹם בֶּלַע בַּר בְּעוֹר וְשׁוּם קַרְתֵּיהּ דִּנְהָבָה:",
+      "en": "Bela, son of Be’or reigned in Edom, and the name of his city was Dinhavah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:33",
+      "he": "וּמִית בָּלַע וּמְלַךְ תְּחוֹתוֹהִי יוֹבָב בַּר זֶרַח מִבָּצְרָה:",
+      "en": "Bela died, and he was succeeded as king by Yovav, son of Zerach, from Botzroh.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:34",
+      "he": "וּמִית יוֹבָב וּמְלַךְ תְּחוֹתוֹהִי חֻשָׁם מֵאַרְעָא דָרוֹמָא:",
+      "en": "Yovav died, and he was succeeded as king by Chusham from the land of the Teimanites [South].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:35",
+      "he": "וּמִית חֻשָׁם וּמְלַךְ תְּחוֹתוֹהִי הֲדַד בַּר בְּדַד דִּקְטִיל יָת מִדְיָנָאֵי בְּחַקְלָא דְמוֹאָב וְשׁוּם קַרְתֵּיהּ עֲוִית:",
+      "en": "Chusham died, and he was succeeded as king by Hadad, son of Bedad, who attacked [killed] Midian [the Midianites] in the field of Moav, and the name of his city was Avis.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:36",
+      "he": "וּמִית הֲדָד וּמְלַךְ תְּחוֹתוֹהִי שַׂמְלָה מִמַּשְׂרֵקָה:",
+      "en": "Hadad died, and he was succeeded as king by Samlah of Masriekah.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:37",
+      "he": "וּמִית שַׂמְלָה וּמְלַךְ תְּחוֹתוֹהִי שָׁאוּל מֵרְחוֹבֵי דְעַל פְּרָת:",
+      "en": "Samlah died, and he was succeeded as king by Sha’ul from Rechovos-by-the-river [P’ras].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:38",
+      "he": "וּמִית שָׁאוּל וּמְלַךְ תְּחוֹתוֹהִי בַּעַל חָנָן בַּר עַכְבּוֹר:",
+      "en": "Sha’ul died, and he was succeeded as king by Ba’al-Chanan, son of Achbor.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:39",
+      "he": "וּמִית בַּעַל חָנָן בַּר עַכְבּוֹר וּמְלַךְ תְּחוֹתוֹהִי הֲדַר וְשׁוּם קַרְתֵּיהּ פָּעוּ וְשׁוּם אִתְּתֵיהּ מְהֵיטַבְאֵל בַּת מַטְרֵד בַּת מְצָרֵף דַּהֲבָא:",
+      "en": "Ba’al-Chanan, son of Achbor died, and he was succeeded as king by Hadar. The name of his city was Pa’u. His wife’s name was Meheitaveil, the daughter of Matreid, daughter of Mei-Zahav [a goldsmith].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:40",
+      "he": "וְאִלֵּין שְׁמָהַת רַבְרְבֵי עֵשָׂו לְזַרְעֲיָתְהוֹן לְאַתְרֵיהוֹן בִּשְׁמָהָתְהוֹן רַבָּא תִמְנָע רַבָּא עַלְוָה רַבָּא יְתֵת:",
+      "en": "These are the names of the chiefs of Eisov, each with their families, according to their places, by their names: Chief Timna, Chief Alvoh, Chief Yeseis.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:41",
+      "he": "רַבָּא אָהֳלִיבָמָה רַבָּא אֵלָה רַבָּא פִינֹן:",
+      "en": "Chief Oholivomoh, Chief Eilah, Chief Pinon.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:42",
+      "he": "רַבָּא קְנַז רַבָּא תֵימָן רַבָּא מִבְצָר:",
+      "en": "Chief Kenaz, Chief Teimon, Chief Mivtzar.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:43",
+      "he": "רַבָּא מַגְדִּיאֵל רַבָּא עִירָם אִלֵּין רַבְרְבֵי אֱדוֹם לְמוֹתְבָנְהוֹן בְּאַרְעָא אַחֲסַנְתְּהוֹן הוּא עֵשָׂו אֲבוּהוֹן דֶּאֱדוֹמָאֵי:",
+      "en": "Chief Magdiel, Chief Iram. These are the chiefs of Edom according to their places of residence, in the land of their possession. Thus was Eisov the ancestor of the Edomites.",
+      "fr": ""
+    }
+  ]
+}

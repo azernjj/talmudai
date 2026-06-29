@@ -1,0 +1,589 @@
+{
+  "name": "Shoftim",
+  "range": "Deuteronomy 16:18-21:9",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Deuteronomy 16:18",
+      "he": "דַּיָּנִין וּפֻרְעָנִין תְּמַנֵּי לָךְ בְּכָל קִרְוָיךְ דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ לְשִׁבְטָיךְ וִידוּנוּן יָת עַמָּא דִּין דִּקְשׁוֹט:",
+      "en": "Judges and police officers you shall appoint for yourself in all of your cities that Adonoy, your God, is giving you for your tribes; who will judge the people righteous justice [true judgment].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 16:19",
+      "he": "לָא תַצְלֵי דִין לָא תִשְׁתְּמוֹדַע אַפִּין וְלָא תְקַבֵּל שֹׁחֲדָא אֲרֵי שֹׁחֲדָא מְעַוֵּר עֵינֵי חַכִּימִין וּמְקַלְקֵל פִּתְגָּמִין תְּרִיצִין:",
+      "en": "Do not pervert justice; do not display favoritism; and do not accept bribery, for bribery blinds the eyes of the wise and distorts words that are just [perverts the words of justice].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 16:20",
+      "he": "קֻשְׁטָא קֻשְׁטָא תְּהֵי רָדִיף בְּדִיל דְּתֵיחֵי וְתֵירַת יָת אַרְעָא דַּיְיָ אֱלָהָךְ יָהֵב לָךְ:",
+      "en": "Pursue absolute justice so that you may live and inherit the land that Adonoy, your God, is giving you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 16:21",
+      "he": "לָא תִצּוֹב לָךְ אֲשֵׁרַת כָּל אִילָן בִּסְטַר מַדְבְּחָא דַּיְיָ אֱלָהָךְ דִּי תַעְבֶּד לָךְ:",
+      "en": "Do not plant an Asherah for yourself [or] any tree near the altar of Adonoy, your God, that you will make for yourself.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 16:22",
+      "he": "וְלָא תְקִים לָךְ קָמָא דִּי סָנֵי יְיָ אֱלָהָךְ:",
+      "en": "And do not erect for yourself a monument that Adonoy, your God, detests.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:1",
+      "he": "לָא תִכּוֹס קֳדָם יְיָ אֱלָהָךְ תּוֹר וְאִמָּר דִּי יְהֵי בֵיהּ מוּמָא כֹּל מִדַּעַם בִּישׁ אֲרֵי מְרָחָק קֳדָם יְיָ אֱלָהָךְ הוּא:",
+      "en": "Do not sacrifice to [before] Adonoy, your God, an ox or a lamb that has a blemish, any bad thing; for it is abominated [distanced] by [before] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:2",
+      "he": "אֲרֵי יִשְׁתְּכַח בֵּינָךְ בַּחֲדָא מִקִּרְוָיךְ דַּיְיָ אֱלָהָךְ יָהֵב לָךְ גְּבַר אוֹ אִתְּתָא דִּי יַעְבֵּד יָת דְּבִישׁ קֳדָם יְיָ אֱלָהָךְ לְמֶעְבַּר עַל קְיָמֵיהּ:",
+      "en": "If there is found among you, in one of your cities that Adonoy, your God, is giving you, a man or a woman who does what is evil in the eyes of Adonoy, your God, by violating His covenant.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:3",
+      "he": "וַאֲזַל וּפְלַח לְטַעֲוַת עַמְמַיָּא וּסְגִיד לְהוֹן וּלְשִׁמְשָׁא אוֹ לְסִיהֲרָא אוֹ לְכָל חֵילֵי שְׁמַיָּא דִּי לָא פַקֵּדִית:",
+      "en": "He goes and serves other gods [idols of the nations] and bows to them—whether to the sun or to the moon or to any of the host of heaven that I did not command.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:4",
+      "he": "וִיחַוּוּן לָךְ וְתִשְׁמָע וְתִתְבַּע יָאוּת וְהָא קֻשְׁטָא כֵּוַן פִּתְגָּמָא אִתְעֲבִידַת תּוֹעֶבְתָּא הָדָא בְּיִשְׂרָאֵל:",
+      "en": "When you are told and you understand, you are to inquire thoroughly. If in fact the report is authenticated and accurate—this abomination was committed within Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:5",
+      "he": "וְתַפֵּק יָת גַּבְרָא הַהוּא אוֹ יָת אִתְּתָא הַהִיא דִּי עֲבָדוּ יָת פִּתְגָּמָא בִישָׁא הָדֵין לִתְרַע בֵּית דִּינָךְ יָת גַּבְרָא אוֹ יָת אִתְּתָא וְתִרְגְּמִנּוּן בְּאַבְנַיָּא וִימוּתוּן:",
+      "en": "You are to take out that man or that woman who did this evil thing to your city [the door of your court]—the man or the woman—and you are to stone them with stones so that they die.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:6",
+      "he": "עַל מֵימַר תְּרֵין סַהֲדִין אוֹ תְּלָתָא סַהֲדִין יִתְקְטֵל דְּחַיַּב קְטוֹל לָא יִתְקְטֵל עַל מֵימַר סָהִיד חָד:",
+      "en": "By the speech of two witnesses or three witnesses is the guilty one [the one sentenced to death] to be executed; he is not to be executed by the oral testimonoy of one witness.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:7",
+      "he": "יְדָא דְסַהֲדַיָּא תְּהֵי בֵיהּ בְּקַדְמֵיתָא לְמִקְטְלֵיהּ וִידָא דְכָל עַמָּא בְּבַתְרֵיתָא וּתְפַלֵּי עָבֵד דְּבִישׁ מִבֵּינָךְ:",
+      "en": "Let the hand of the witnesses be against him first to execute him, and the hand of the entire people afterward; and you will eliminate the evil [doer] from within you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:8",
+      "he": "אֲרֵי יִתִּכְסֵי מִנָּךְ פִּתְגָּמָא לְדִינָא בֵּין דְּמָא לִדְמָא בֵּין דִּינָא לְדִינָא וּבֵין מַכְתַּשׁ סְגִירוּ לְמַכְתַּשׁ סְגִירוּ פִּתְגָּמֵי פְלֻגְתָּא דִינָא בְּקִרְוָיךְ וּתְקוּם וְתִסַּק לְאַתְרָא דִּי יִתִּרְעֵי יְיָ אֱלָהָךְ בֵּיהּ:",
+      "en": "If a matter of law is too abstruse for you—between blood and blood, between decision and decision, or between leprosy [a plague of confinement] and leprosy [a plague of confinement], matters under [legal] dispute in your city; you shall rise and ascend to the place that Adonoy, your God, will have chosen.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:9",
+      "he": "וְתֵיתֵי לְוָת כָּהֲנַיָא לֵוָאֵי וּלְוָת דַּיָּנָא דִּי יְהֵי בְּיוֹמַיָּא הָאִנּוּן וְתִתְבַּע וִיחַוּוּן לָךְ יָת פִּתְגָּמָא דְדִינָא:",
+      "en": "You are to come before the kohanim-the Levites and the judge officiating during those days; you will inquire and they will tell you the legal decision.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:10",
+      "he": "וְתַעְבֵּד עַל מֵימַר פִּתְגָּמָא דִּי יְחַוּוּן לָךְ מִן אַתְרָא הַהוּא דִּי יִתִּרְעֵי יְיָ וְתִטַּר לְמֶעְבַּד כְּכֹל דִּי יַלְּפֻנָּךְ:",
+      "en": "You are to act according to the word that they tell you from that place that Adonoy will have chosen; and you are to be careful to fulfill exactly as they instruct you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:11",
+      "he": "עַל מֵימַר אוֹרַיְתָא דִּי יַלְּפֻנָּךְ וְעַל דִּינָא דִּי יֵימְרוּן לָךְ תַּעְבֵּד לָא תִסְטֵי מִן פִּתְגָּמָא דִּי יְחַוּוּן לָךְ יַמִּינָא וּשְׂמָאלָא:",
+      "en": "In accord with the Torah that they instruct you and upon the law that they state to you, are you to act; do not deviate from the word they tell you, neither right or left.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:12",
+      "he": "וּגְבַר דִּי יַעְבֵּד בִּרְשַׁע בְּדִיל דְּלָא לְקַבָּלָא מִן כַּהֲנָא דְּקָאֵם לְשַׁמָּשָׁא תַמָּן קֳדָם יְיָ אֱלָהָךְ אוֹ מִן דַּיָּנָא וְיִתְקְטֵל גַּבְרָא הַהוּא וּתְפַלֵּי עָבֵד דְּבִישׁ מִיִּשְׂרָאֵל:",
+      "en": "But the man who acts deliberately to not heed the kohein who stands to serve there [before] Adonoy, your God, or the judge; that man is to be executed and you will eliminate the evil [doer] from Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:13",
+      "he": "וְכָל עַמָּא יִשְׁמְעוּן וְיִדְחֲלוּן וְלָא יַרְשִׁיעוּן עוֹד:",
+      "en": "Let all the people hear and fear, and not sin deliberately again.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:14",
+      "he": "אֲרֵי תֵעוֹל לְאַרְעָא דַּיְיָ אֱלָהָךְ יָהֵב לָךְ וְתֵירְתַהּ וְתֵיתֵב בַּהּ וְתֵימַר אֱמַנִּי עֲלַי מַלְכָּא כְּכָל עַמְמַיָּא דִי בְסַחֲרָנָי:",
+      "en": "When you arrive in the land that Adonoy, your God, is giving you and inherit it and live in it, and you say, ‘‘Let me appoint over me a king like all the nations around me;’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:15",
+      "he": "מַנָּאָה תְמַנֵּי עֲלָךְ מַלְכָּא דִּי יִתִּרְעֵי יְיָ אֱלָהָךְ בֵּיהּ מִגּוֹ אַחָיךְ תְּמַנֵּי עֲלָךְ מַלְכָּא לֵית לָךְ רְשׁוּ לְמַנָּאָה עֲלָךְ גְּבַר נוּכְרַי דִּי לָא אֲחוּךְ הוּא:",
+      "en": "Appoint are you to appoint over yourself a king whom Adonoy, your God, will choose. From among your brothers are you to appoint over yourself a king; you may not [you have no permission to] place over yourself a foreigner who is not your brother.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:16",
+      "he": "לְחוֹד לָא יַסְגֵּי לֵיהּ סוּסָוָן וְלָא יָתֵב יָת עַמָּא לְמִצְרַיִם בְּדִיל לְאַסְגָּאָה לֵיהּ סוּסָוָן וַיְיָ אֲמַר לְכוֹן לָא תוֹסְפוּן לְמִתּוּב בְּאֹרַח הָדָא עוֹד:",
+      "en": "However, he must not acquire an abundance of horses for himself so that he will not return the people to Egypt in order to acquire an abundance of horses, because Adonoy told you, ‘‘You are not to proceed to return along this route again.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:17",
+      "he": "וְלָא יַסְגֵּי לֵיהּ נְשִׁין וְלָא יִטְעֵי לִבֵּיהּ וְכַסְפָּא וְדַהֲבָא לָא יַסְגֵּי לֵיהּ לַחֲדָא:",
+      "en": "And he is not to acquire an abundance of wives for himself so that his heart will not veer; and silver and gold he may not accumulate for himself in great abundance.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:18",
+      "he": "וִיהֵי כְמִתְּבֵיהּ עַל כָּרְסָא מַלְכוּתֵיהּ וְיִכְתּוֹב לֵיהּ יָת פַּתְשֶׁגֶן אוֹרַיְתָא הָדָא עַל סִפְרָא מִן קֳדָם כָּהֲנַיָּא לֵוָאֵי:",
+      "en": "It shall be, that when he occupies the throne of his kingdom, he must write for himself a duplicate of this Torah in a scroll form [the scroll] before the kohanim—the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:19",
+      "he": "וּתְהֵי עִמֵּיהּ וִיהֵי קָרֵי בֵיהּ כָּל יוֹמֵי חַיּוֹהִי בְּדִיל דְּיֵלַף לְמִדְחַל קֳדָם יְיָ אֶלָהֵיהּ לְמִטַּר יָת כָּל פִּתְגָּמֵי אוֹרַיְתָא הָדָא וְיָת קְיָמַיָּא הָאִלֵּין לְמֶעְבָּדְהוֹן:",
+      "en": "It is to accompany him and he is to read in it all the days of his life, in order that he learn to fear [before] Adonoy, his God, to guard every word of this Torah and these statutes to fulfill them;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 17:20",
+      "he": "בְּדִיל דְּלָא יְרִים לִבֵּיהּ מֵאֲחוֹהִי וּבְדִיל דְּלָא יִסְטֵי מִן תַּפְקֶדְתָּא יַמִּינָא וּשְׂמָאלָא בְּדִיל דְּיוֹרֵךְ יוֹמִין עַל מַלְכוּתֵיהּ הוּא וּבְנוֹהִי בְּגוֹ יִשְׂרָאֵל:",
+      "en": "That his pride not increase over his brothers and he does not stray from the commandment right or left; so that the days of his reign are lengthy over his kingdom, he and his sons within Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:1",
+      "he": "לָא יְהֵי לְכָהֲנַיָּא לֵוָאֵי כָּל שִׁבְטָא דְלֵוִי חֳלָק וְאַחֲסָנָא עִם יִשְׂרָאֵל קֻרְבָּנַיָּא דַיְיָ וְאַחֲסַנְתֵּיהּ יֵיכְלוּן:",
+      "en": "They will not have—the kohanim, the Levites, the entire tribe of Levi—a portion or an inheritance with Yisroel; Adonoy’s fire-offerings [sacrifices] and His inheritance will they eat.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:2",
+      "he": "וְאַחֲסָנָא לָא יְהֵי לֵיהּ בְּגוֹ אֲחוֹהִי מַתְּנָן דִּיהַב לֵיהּ יְיָ אִנּוּן אַחֲסַנְתֵּיהּ כְּמָא דִי מַלִּיל לֵיהּ:",
+      "en": "But he will have no territory among his brothers; [the gifts that] Adonoy [has given him] is his territory, as He said to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:3",
+      "he": "וְדֵין יְהֵי דְחָזֵי לְכָהֲנַיָּא מִן עַמָּא מִן נָכְסֵי נִכְסָתָא אִם תּוֹר אִם אִמָּר וְיִתֵּן לְכַהֲנָא דְּרוֹעָא וְלוֹעָא וְקֻבְתָא:",
+      "en": "And this will be the stipend of the kohanim from the people from the slaughterers of [permitted] meat, whether an ox or a sheep; he will give the kohein the foreleg and the jaw and the [fourth] stomach.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:4",
+      "he": "רֵישׁ עִבוּרָךְ חַמְרָךְ וּמִשְׁחָךְ וְרֵישׁ גִּזָּא דְעָנָךְ תִּתֶּן לֵיהּ:",
+      "en": "The first portion of your grain, your wine, and your olive oil, and the first of the shearing of your sheep are you to give him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:5",
+      "he": "אֲרֵי בֵיהּ יִתִּרְעֵי יְיָ אֱלָהָךְ מִכָּל שִׁבְטָיךְ לְמֵקַם לְשַׁמָּשָׁא בִשְׁמָא דַיְיָ הוּא וּבְנוֹהִי כָּל יוֹמַיָּא:",
+      "en": "For him did Adonoy, your God, choose from all your tribes to stand and perform the service in the name of Adonoy, he and his sons for all time.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:6",
+      "he": "וַאֲרֵי יֵיתֵי לֵוָאָה מֵחֲדָא מִקִּרְוָיךְ מִכָּל יִשְׂרָאֵל דִּי הוּא דָּר תַּמָּן וְיֵיתֵי בְּכָל רְעוּת נַפְשֵׁיהּ לְאַתְרָא דִּי יִתִּרְעֵי יְיָ:",
+      "en": "If a Levite should come from one of your cities throughout Yisroel where he sojourns, coming will all his soul’s desire to the place that Adonoy chooses.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:7",
+      "he": "וִישַׁמַּשׁ בִּשְׁמָא דַּיְיָ אֱלָהֵיהּ כְּכָל אֲחוֹהִי לֵוָאֵי דִּמְשַׁמְּשִׁין תַּמָּן (בִּצְלוֹ) קֳדָם יְיָ:",
+      "en": "He shall perform the service in the name of Adonoy, his God, like all his brother Levites who stand [serve] there [(in prayer)] in Adonoy’s Presence.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:8",
+      "he": "חֳלָק כָּחֳלָק יֵיכְלוּן בַּר מִמַּטַּרְתָּא דְּיֵיתֵי בְשַׁבַּתָּא דְּכֵן אַתְקִינוּ אֲבָהָתָא:",
+      "en": "They shall eat equal portions [portion for portions], except for what the families sold [to one another] [exept for the allotment which come on Shabbos, as our (fore)fathers have regulated].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:9",
+      "he": "אֲרֵי אַתְּ עָלֵל לְאַרְעָא דַּיְיָ אֱלָהָךְ יָהֵב לָךְ לָא תֵילַף לְמֶעְבַּד כְּטַעֲוַת עַמְמַיָּא הָאִנּוּן:",
+      "en": "Because you are entering the land that Adonoy, your God, is giving you; do not learn to perpetrate the abominations of those nations.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:10",
+      "he": "לָא יִשְׁתְּכַח בָּךְ מַעֲבַר בְּרֵיהּ וּבְרַתֵּיהּ בְּנוּרָא קָסֵם קֻסְמִין מְעָנֵן וּמְנַחֵשׁ וְחָרָשׁ:",
+      "en": "Let there not exist among you anyone who passes his son or daughter through fire, who practices the kosem-occult; who practices time-frame-occult or who divines portentuous events or a sorcerer.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:11",
+      "he": "וְרָטִין רְטָן וְשָׁאֵל בִּדִּין וּזְכוּרוּ וְתָבַע מִן מֵתַיָּא:",
+      "en": "Or a snake charmer, or one who invokes the spirit of Ov or yidoni, or communicates with the dead.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:12",
+      "he": "אֲרֵי מְרָחָק יְיָ כָּל דְּיַעְבֵּד אִלֵּין וּבְדִיל תּוֹעֲבָתָא הָאִלֵּין יְיָ אֱלָהָךְ מְתָרַךְ יָתְהוֹן מִקֳּדָמָךְ:",
+      "en": "For Adonoy’s abomination is [distances] anyone perpetrating this and because of these abominations, Adonoy, your God, is expelling them from before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:13",
+      "he": "שְׁלִים תְּהֵי בְּדַחַלְתָּא דַּיְיָ אֱלָהָךְ:",
+      "en": "Walk in perfect trust with [in the fear of] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:14",
+      "he": "אֲרֵי עַמְמַיָּא הָאִלֵּין דִּי אַתְּ יָרֵת יָתְהוֹן מִן מְעָנְנַיָּא וּמִן קַסָּמַיָּא שָׁמְעִין וְאַתְּ לָא כֵן יְהַב לָךְ יְיָ אֱלָהָךְ:",
+      "en": "Although these nations whom you are inheriting heed augurers and sorcerers, but as to you—Adonoy, your God, has not given you their status.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:15",
+      "he": "נְבִיָּא מִבֵּינָךְ מֵאַחָיךְ כְּוָתִי יְקִים לָךְ יְיָ אֱלָהָךְ מִנֵּיהּ תְּקַבְּלוּן:",
+      "en": "A prophet from your midst, of your brethren, like me, will Adonoy, your God, establish for you; heed him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:16",
+      "he": "כְּכֹל דִּי שְׁאֶלְתָּא מִקֳּדָם יְיָ אֱלָהָךְ בְּחֹרֵב בְּיוֹמָא דִקְהָלָא לְמֵימָר לָא אוֹסֵף לְמִשְׁמַע יָת קָל מֵימְרָא דַיְיָ אֱלָהַי וְיָת אֶשָּׁתָא רַבְּתָא הָדָא לָא אֶחֱזֵי עוֹד וְלָא אֵמוּת:",
+      "en": "Exactly as you requested from [before] Adonoy, your God, at Choreiv, on the day of assembly, saying, ‘‘Let me not continue to hear the voice [the word] of Adonoy, my God, and this great fire let me not see any more as that I will not die.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:17",
+      "he": "וַאֲמַר יְיָ לִי אוֹטִיבוּ דִּי מַלִּילוּ:",
+      "en": "Adonoy said to me, ‘‘What they said is excellent.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:18",
+      "he": "נְבִיָּא אֲקִים לְהוֹן מִגּוֹ אֲחֵיהוֹן כְּוָתָךְ וְאֶתֵּן פִּתְגָּמֵי נְבוּאָתִי בְּפוּמֵיהּ וִימַלֵּל עִמְּהוֹן יָת כָּל דִּי אֲפַקְּדִנֵּיהּ:",
+      "en": "A prophet will I establish for them from among their brethren like you, and I will place My words [of prophecy] in his mouth and he will tell them everything that I command him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:19",
+      "he": "וִיהֵי גַּבְרָא דִּי לָא יְקַבֵּל לְפִתְגָּמַי דִּי יְמַלֵּל בִּשְׁמִי מֵימְרִי יִתְבַּע מִנֵּיהּ:",
+      "en": "Now, the man who does not heed My words that he speaks in My Name; I [My word] will demand from him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:20",
+      "he": "בְּרַם נְבִיָּא דִּי יַרְשַׁע לְמַלָּלָא פִתְגָּמָא בִּשְׁמִי יָת דִּי לָא פַקֵּדִתֵּיהּ לְמַלָּלָא וְדִי יְמַלֵּל בְּשׁוּם טַעֲוַת עַמְמַיָּא וְיִתְקְטֵל נְבִיָּא הַהוּא:",
+      "en": "But the prophet who will malevolently make a statement in My Name, something that I did not instruct him to say, or which he says in the name of foreign gods [idols of the nations], that prophet must die.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:21",
+      "he": "וַאֲרֵי תֵימַר בְּלִבָּךְ אֶכְדֵּין נִדַּע יָת פִּתְגָּמָא דִּי לָא מַלְּלֵיהּ יְיָ:",
+      "en": "If you should say to yourself, ‘‘How can we know [which is] the statement that Adonoy did not speak?’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 18:22",
+      "he": "דִּי יְמַלֵּל נְבִיָּא בִּשְׁמָא דַיְיָ וְלָא יְהֵי פִתְגָּמָא וְלָא יִתְקַיַּם הוּא פִתְגָּמָא דִּי לָא מַלְּלֵיהּ יְיָ בִּרְשַׁע מַלְּלֵיהּ נְבִיָּא לָא תִדְחַל מִנֵּיהּ:",
+      "en": "Should the prophet speak in Adonoy’s Name, and the matter does not happen and is not fulfilled, that is the statement that Adonoy did not speak. The prophet spoke it malevolently; do not fear him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:1",
+      "he": "אֲרֵי יְשֵׁצֵי יְיָ אֱלָהָךְ יָת עַמְמַיָּא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ יָת אַרְעֲהוֹן וְתֵירְתִנּוּן וְתֵיתֵב בְּקִרְוֵיהוֹן וּבְבָתֵּיהוֹן:",
+      "en": "When Adonoy, your God, annihilates the nations whose land Adonoy, your God is giving you; and you inherit them and live in their cities and in their houses;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:2",
+      "he": "תְּלַת קִרְוִין תַּפְרַשׁ לָךְ בְּגוֹ אַרְעָךְ דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ לְמֵירְתַהּ:",
+      "en": "Separate three cities for yourself, within your land that Adonoy, your God, is giving you to inherit.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:3",
+      "he": "תְּתַקֵּן לָךְ אָרְחָא וּתְתַלַּת יָת תְּחוּם אַרְעָךְ דִּי יַחְסְנִנָּךְ יְיָ אֱלָהָךְ וִיהֵי לְמֵעִירוֹק תַּמָּן כָּל קָטוֹלָא:",
+      "en": "Ready the route for yourself and divide the borders of your land into three sections that Adonoy, your God, will allot you; this will serve for any murderer to flee there.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:4",
+      "he": "וְדֵין פִּתְגַּם קָטוֹלָא דְּיֵעִרוֹק תַּמָּן וְיִתְקַיַּם דִּי יִקְטוֹל יָת חַבְרֵיהּ בְּלָא מַנְדְּעֵיהּ וְהוּא לָא סָנֵי לֵיהּ מֵאִתְמַלֵּי וּמִדְּקָמוֹהִי:",
+      "en": "And this is the matter of the murderer who may flee there to survive: whoever smites his peer without intent, and he had not been his enemy yesterday [or] the day before;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:5",
+      "he": "וְדִי יֵעוּל עִם חַבְרֵיהּ בְּחֻרְשָׁא לְמִקַּץ אָעִין וְתִתְמְרֵג יְדֵיהּ בְּפַרְזְלָא לְמִקַּץ אָעִין וְיִשְׁתְּלֵף פַּרְזְלָא מִן אָעָא וְיַשְׁכַּח יָת חַבְרֵיהּ וִימוּת הוּא יֵעִרוֹק לַחֲדָא מִן קִרְוַיָּא הָאִלֵּין וְיִתְקַיַּם:",
+      "en": "And whoever comes with his peer into the woods to chop trees, and as his hand swung the axe downward to cut the wood the iron flew off the wooden handle and encounters his peer and he dies; he is to flee to one of these cities to survive.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:6",
+      "he": "דִּילְמָא יִרְדּוֹף גָּאֵל דְּמָא בָּתַר קָטוֹלָא אֲרֵי יֵחַם לִבֵּיהּ וְיַדְבְּקִנֵּיהּ אֲרֵי תִסְגֵּי אָרְחָא וְיִקְטְלִנֵּיהּ נְפַשׁ וְלֵיהּ לֵית חוֹבַת דִּין דִּקְטוֹל אֲרֵי לָא סָנֵי הוּא לֵיהּ מִתְּמַלִּי וּמִדְּקָמוֹהִי:",
+      "en": "Lest the blood-redeemer pursue the murderer when his heart grows heated, and he catches up with him over the length of the road and he smite him dead when he has no [judgment of a] death sentence because he had not been his enemy yesterday [or] the day before.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:7",
+      "he": "עַל כֵּן אֲנָא מְפַקְּדָךְ לְמֵימָר תְּלַת קִרְוִין תַּפְרֵשׁ לָךְ:",
+      "en": "Therefore am I commanding you the following: three cities shall you separate for yourself.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:8",
+      "he": "וְאִם יַפְתֵּי יְיָ אֱלָהָךְ יָת תְּחוּמָךְ כְּמָא דִי קַיִּים לַאֲבָהָתָךְ וְיִתֶּן לָךְ יָת כָּל אַרְעָא דִּי מַלִּיל לְמִתַּן לַאֲבָהָתָךְ:",
+      "en": "And when Adonoy, your God, expands your boundary, in accordance with His oath to your forefathers, and He give you the entire land that He promised to give to your forefathers,",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:9",
+      "he": "אֲרֵי תִטַּר יָת כָּל תַּפְקֶדְתָּא הָדָא לְמֶעְבְּדַהּ דִּי אֲנָא מְפַקְּדָךְ יוֹמָא דֵין לְמִרְחַם יָת יְיָ אֱלָהָךְ וְלִמְהַךְ בְּאָרְחָן דְּתַקְּנָן קֳדָמוֹהִי כָּל יוֹמַיָּא וְתוֹסֵף לָךְ עוֹד תְּלַת קִרְוִין עַל תְּלַת אִלֵּין:",
+      "en": "When you will be guarding this entire mitzvah to fulfill it, that I am commanding you today, to love Adonoy, your God, and to go in His ways [that are proper before Him] for all time; then you shall add three more cities to these three.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:10",
+      "he": "וְלָא יִשְׁתְּפֵךְ דָּם זַכַּי בְּגוֹ אַרְעָךְ דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ אַחֲסָנָא וִיהֵי עֲלָךְ חוֹבַת דִּין דִּקְטוֹל:",
+      "en": "And let innocent blood not be shed within your land that Adonoy, your God, is giving you as territory, [otherwise] you will bear liability for the blood [the judgment of a death sentence].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:11",
+      "he": "וַאֲרֵי יְהֵי גְבַר סָנֵי לְחַבְרֵיהּ וְיִכְמַן לֵיהּ וִיקוּם עֲלוֹהִי וְיִמְחִנֵּיהּ נְפַשׁ וִימוּת וְיֵעִרוֹק לַחֲדָא מִן קִרְוַיָּא הָאִלֵּין:",
+      "en": "If there is a man who hates his neighbor, and will ambush him, arising against him and smiting him dead, and he will flee to one of these cities;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:12",
+      "he": "וִישַׁלְּחוּן סָבֵי קַרְתֵּיהּ וְיִדְבְּרוּן יָתֵיהּ מִתַּמָּן וְיִתְּנוּן יָתֵיהּ בְּיַד גָּאֵל דְּמָא וִימוּת:",
+      "en": "The elders of his city will send for and take him from there, and will hand him over to the blood-redeemer, and he will be executed.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:13",
+      "he": "לָא תְחוּס עֵינָךְ עֲלוֹהִי וּתְפַלֵּי אַשְׁדִּי דָם זַכַּי מִיִּשְׂרָאֵל וְיֵיטַב לָךְ:",
+      "en": "Do not view him with compassion. You are to eliminate the [shedding of] innocent blood from Yisroel, and you will have it good.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:14",
+      "he": "לָא תַשְׁנֵי תְּחוּמָא דְחַבְרָךְ דִּי תְחִימוּ קַדְמָאֵי בְּאַחֲסַנְתָּךְ דִּי תַחְסֵן בְּאַרְעָא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ לְמֵירְתַהּ:",
+      "en": "Do not move back the boundary of your neighbor that the first [settlers] determine [bounded] in your territory that you will inherit in the land that Adonoy, your God, is giving you to inherit.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:15",
+      "he": "לָא יְקוּם סָהִיד חַד בִּגְבַר לְכָל עַוָּיָן וּלְכָל חוֹבִין בְּכָל חֵט דִּי יֶחְטָא עַל מֵימַר תְּרֵין סָהֲדִין אוֹ עַל מֵימַר תְּלָתָא סָהֲדִין יִתְקַיַּם פִּתְגָּמָא:",
+      "en": "One witness may not arise against a man about any sin or for any transgression or transgression that he transgresses; by the word of two witnesses or by the word of three witnesses let a matter be established.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:16",
+      "he": "אֲרֵי יְקוּם סָהִיד שְׁקַר בִּגְבָר לְאַסְהָדָא בֵיהּ סַטְיָא:",
+      "en": "If false witnesses arise against a man and bear fallacious testimony [with perversity] against him;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:17",
+      "he": "וִיקוּמוּן תְּרֵין גֻּבְרִין דִּי לְהוֹן דִּינָא קֳדָם יְיָ קֳדָם כָּהֲנַיָּא וְדַיָּנַיָּא דִּי יְהוֹן בְּיוֹמַיָּא הָאִנּוּן:",
+      "en": "The two men shall stand, who are involved in the dispute, before Adonoy, before the kohanim and the judges who are in those days.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:18",
+      "he": "וְיִתְבְּעוּן דַּיָּנַיָּא יָאוּת וְהָא סָהִיד שְׁקַר סָהֲדָא שִׁקְרָא אַסְהַד בַּאֲחוֹהִי:",
+      "en": "When the judges shall investigate thoroughly and behold, the witness testified falsely, they testified falsely against their brother;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:19",
+      "he": "וְתַעְבְּדוּן לֵיהּ כְּמָא דִי חַשִּׁיב לְמֶעְבַּד לַאֲחוֹהִי וּתְפַלֵּי עָבֵד דְּבִישׁ מִבֵּינָךְ:",
+      "en": "You are to do to [each of] them as he conspired to do to his brother, and eliminate the evil [doers] from among you;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:20",
+      "he": "וּדְיִשְׁתָּאֲרוּן יִשְׁמְעוּן וְיִדְחֲלוּן וְלָא יוֹסְפוּן לְמֶעְבַּד עוֹד כְּפִתְגָּמָא בִישָׁא הָדֵין בֵּינָךְ:",
+      "en": "And the remainder will hear and be fearful, and they will not repeat this evil thing among you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 19:21",
+      "he": "וְלָא תְחוּס עֵינָךְ נַפְשָׁא חֳלַף נַפְשָׁא עֵינָא חֳלַף עֵינָא שִׁנָּא חֳלַף שִׁנָּא יְדָא חֳלַף יְדָא רַגְלָא חֳלַף רַגְלָא:",
+      "en": "You are not to have compassion: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:1",
+      "he": "אֲרֵי תִפּוֹק לַאֲגָחָא קְרָבָא עַל בַּעֲלֵי דְבָבָךְ וְתֶחֱזֵי סוּסָוָן וּרְתִכִּין עַם סַגִּי מִנָּךְ לָא תִדְחַל מִנְּהוֹן אֲרֵי יְיָ אֱלָהָךְ מֵימְרֵיהּ בְּסַעְדָּךְ דְּאַסְּקָךְ מֵאַרְעָא דְמִצְרָיִם:",
+      "en": "When you go to [wage] war against your enemy, and you see horse and chariot, people who outnumber you; do not be afraid of them, for [the word of] Adonoy, your God, is with you [will aid you], He Who brought you up from the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:2",
+      "he": "וִיהֵי כְּמִקְרָבְכוֹן לַאֲגָחָא קְרָבָא וְיִתְקְרִיב כַּהֲנָא וִימַלֵּל עִם עַמָּא:",
+      "en": "Now, as you [come] near the battle [to wage war], the kohein shall approach and speak to the people.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:3",
+      "he": "וְיֵימַר לְהוֹן שְׁמַע יִשְׂרָאֵל אַתּוּן קְרִיבִין יוֹמָא דֵין לַאֲגָחָא קְרָבָא עַל בַּעֲלֵי דְבָבֵיכוֹן לָא יְזוּעַ לִבְּכוֹן לָא תִדְחֲלוּן וְלָא תְתְבַּהֲתוּן וְלָא תִתָּבְרוּן מִקֳּדָמֵיהוֹן:",
+      "en": "He will say to them, ‘‘Hear, Yisroel! You are setting out today to battle [to wage war] against your enemies. Do not be faint hearted; or intimidated and do not panic, and do not be crushed [broken] before them;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:4",
+      "he": "אֲרֵי יְיָ אֱלָהֲכוֹן דִּמְדַבַּר קֳדָמֵיכוֹן לַאֲגָחָא לְכוֹן קְרָב עִם בַּעֲלֵי דְבָבֵיכוֹן לְמִפְרַק יָתְכוֹן:",
+      "en": "Because Adonoy, your God, marches with you [before you] to do battle [wage war] for you with your enemies to save you.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:5",
+      "he": "וִימַלְּלוּן סָרְכַיָּא קֳדָם עַמָּא לְמֵימַר מָן גַּבְרָא דִּי בְנָא בֵיתָא חַדְתָּא וְלָא חָנְכֵיהּ יְהַךְ וִיתוּב לְבֵיתֵיהּ דִּילְמָא יְמוּת בַּאֲגָחָא קְרָבָא וּגְבַר אָחֳרָן יַחְנְכִנֵּיהּ:",
+      "en": "The officers will address the people as follows, ‘‘Whichever man has built a new house and did not inaugurate it as a dwelling, let him go and return home lest he die in battle [while waging war] and another man will inaugurate it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:6",
+      "he": "וּמָן גַּבְרָא דִּי נְצִיב כַּרְמָא וְלָא אַחֲלֵיהּ יְהַךְ וִיתוּב לְבֵיתֵיהּ דִּילְמָא יְמוּת בַּאֲגָחָא קְרָבָא וּגְבַר אָחֳרָן יְחַלִּנֵּיהּ:",
+      "en": "And whichever man has planted a vineyard and did not redeem it[s fruit,] let him go and return home, lest he die in battle [while waging war] and another man redeem it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:7",
+      "he": "וּמָן גַּבְרָא דִּי אֵרַס אִתְּתָא וְלָא נָסְבַהּ יְהַךְ וִיתוּב לְבֵיתֵיהּ דִּילְמָא יְמוּת בַּאֲגָחָא קְרָבָא וּגְבַר אָחֳרָן יִסְּבִנַּהּ:",
+      "en": "And whichever man has betrothed a woman and not married her, let him go and return home, lest he die in battle [while waging war] and another man marry her.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:8",
+      "he": "וְיוֹסְפוּן סָרְכַיָּא לְמַלָּלָא עִם עַמָּא וְיֵימְרוּן מָן גַּבְרָא דְדָחֵל וּתְבִיר לִבָּא יְהַךְ וִיתוּב לְבֵיתֵיהּ וְלָא יִתְּבַר יָת לִבָּא דַאֲחוֹהִי כְּלִבֵּיהּ:",
+      "en": "The officers will further address the people and say. ‘‘Whoever is afraid or faint [broken] hearted, let him go and return home, and let him not destroy the resolve [break the heart] of his brothers like his own resolve.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:9",
+      "he": "וִיהֵי כַּד יְשֵׁצוּן סָרְכַיָּא לְמַלָּלָא עִם עַמָּא וִימַנּוּן רַבָּנֵי חֵילָא בְּרֵישׁ עַמָּא:",
+      "en": "When the officers finish addressing the people; they will appoint army commanders at the head of the people.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:10",
+      "he": "אֲרֵי תִקְרַב לְקַרְתָּא לַאֲגָחָא (קְרָבָא) עֲלַהּ וְתִקְרֵי לַהּ מִלִּין דִּשְׁלָם:",
+      "en": "When you near a city to do battle against it, you are to offer it [words of] peace.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:11",
+      "he": "וִיהֵי אִם שְׁלַם תַּעֲנִנָּךְ וְתִפְתַּח לָךְ וִיהֵי כָּל עַמָּא דְיִשְׁתְּכַח בַּהּ יְהוֹן לָךְ מַסְּקֵי מִסִּין וְיִפְלְחֻנָּךְ:",
+      "en": "Should it respond, ‘‘Peace!’’ and open for you, then all the people found in it will become your payers of tribute, and your servants.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:12",
+      "he": "וְאִם לָא תַשְׁלֵם עִמָּךְ וְתַעְבֵּד עִמָּךְ קְרָב וּתְצוּר עֲלַהּ:",
+      "en": "And if it does not settle for peace with you but engages in war against you, you shall lay siege to it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:13",
+      "he": "וְיִמְסְרִנַּהּ יְיָ אֱלָהָךְ בִּידָךְ וְתִמְחֵי יָת כָּל דְּכוּרַהּ לְפִתְגַּם דְּחָרֶב:",
+      "en": "Adonoy, your God, will deliver it into your hand, and you will smite all its males by the sword.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:14",
+      "he": "לְחוֹד נְשַׁיָּא וְטַפְלָא וּבְעִירָא וְכֹל דִּי יְהֵי בְקַרְתָּא כָּל עֲדָאַהּ תֵּבוֹז לָךְ וְתֵיכוּל יָת עֲדָאָה דְסָנְאָךְ דִּי יְהַב יְיָ אֱלָהָךְ לָךְ:",
+      "en": "However, the women and the children, and the animals, and everything that will be in the city—all its booty—are you to plunder for yourself; you will eat the booty of your enemies that Adonoy, your God, gave you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:15",
+      "he": "כֵּן תַּעְבֵּד לְכָל קִרְוַיָּא דִּי רְחִיקִין מִנָּךְ לַחֲדָא דִּי לָא מִקִּרְוֵי עַמְמַיָּא הָאִלֵּין אִנּוּן:",
+      "en": "So will you do to all the cities, that are very distant from you, that are not among the cities of these nations.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:16",
+      "he": "לְחוֹד מִקִּרְוֵי עַמְמַיָּא הָאִלֵּין דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ אַחֲסָנָא לָא תְקַיַּם כָּל נִשְׁמָתָא:",
+      "en": "However, from the cities of these peoples that Adonoy, your God, is giving you as inheritance, you are not to leave any person alive.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:17",
+      "he": "אֲרֵי גַמָּרָא תְגַמְּרִנּוּן חִתָּאֵי וֶאֱמֹרָאֵי כְּנַעֲנָאֵי וּפְרִזָּאֵי חִוָּאֵי וִיבוּסָאֵי כְּמָא דִי פַקְּדָךְ יְיָ אֱלָהָךְ:",
+      "en": "Rather annihilate are you to annihilate them: the Chittites and the Emorites, the Canaanites and the Perizites, the Chivites and the Yevusites; as Adonoy, your God, commanded you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:18",
+      "he": "בְּדִיל דִּי לָא יַלְּפוּן יָתְכוֹן לְמֶעְבַּד כְּכָל תּוֹעֲבָתְהוֹן דִּי עֲבָדוּ לְטַעֲוָתְהוֹן וּתְחוֹבוּן קֳדָם יְיָ אֱלָהֲכוֹן:",
+      "en": "In order that they do not teach you to do any of their abominations that they did for their gods [idols], and you will sin to [before] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:19",
+      "he": "אֲרֵי תְצוּר לְקַרְתָּא יוֹמִין סַגִּיאִין לַאֲגָחָא עֲלַהּ לְמִכְבְּשַׁהּ לָא תְחַבַּל יָת אִילָנַהּ לַאֲרָמָא עֲלוֹהִי גַּרְזְנָא אֲרֵי מִנֵּיהּ תֵּיכוּל וְיָתֵיהּ לָא תְקוּץ אֲרֵי לָא כַאֲנָשָׁא אִילַן חַקְלָא לְמֵיעַל מִקֳּדָמָךְ בִּצְיָרָא:",
+      "en": "If you besiege a city many days to wage war against it, to capture it, do not harm [any of] its trees by chopping it with an ax, because you eat from it you are not to cut it down; For, is [not] the tree in the field a man to join the besieged to escape you?",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 20:20",
+      "he": "לְחוֹד אִילָן דְּתִדַּע אֲרֵי לָא אִילַן דְּמַאֲכָל הוּא יָתֵיהּ תְּחַבַּל וּתְקוּץ וְתִבְנֵי כַרְקוֹמִין עַל קַרְתָּא דִּי הִיא עָבְדָא עִמָּךְ קְרָבָא עַד דְּתִכְבְּשַׁהּ:",
+      "en": "Only a tree that you know that it is not a fruit tree may you harm or cut down; and you will build battlements [fortifications] against the city that is waging war against you until it is conquered.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:1",
+      "he": "אֲרֵי יִשְׁתְּכַח קְטִילָא בְּאַרְעָא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ לְמֵירְתַהּ רָמֵי בְּחַקְלָא לָא אִתְיְדַע מַן קָטְלֵיהּ:",
+      "en": "If a corpse is found in the land that Adonoy, your God, is giving you to inherit, fallen in the field, it is not known who smote him.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:2",
+      "he": "וְיִפְּקוּן סָבָיךְ וְדַיָּנָיךְ וְיִמְשְׁחוּן לְקִרְוַיָּא דִּי סַחֲרָנוּת קְטִילָא:",
+      "en": "Your elders shall go out—and your judges—and measure in the direction of the cities around the corpse.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:3",
+      "he": "וּתְהֵי קַרְתָּא דִּקָרִיבָא לִקְטִילָא וְיִדְבְּרוּן סָבֵי קַרְתָּא הַהִיא עֶגְלַת תּוֹרֵי דִּי לָא אִתְפְּלַח בַּהּ דִּי לָא נְגִידַת בְּנִיר:",
+      "en": "Now, the city nearest the corpse—the elders of that city are to take a calf-heifer that has not been worked, that has not drawn [with] a yoke.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:4",
+      "he": "וְיֶחֱתוּן סָבֵי קַרְתָּא הַהִיא יָת עֲגַלְתָּא לְנַחֲלָא בַיָּר דִּי לָא אִתְפְּלַח בֵּיהּ וְלָא יִזְדְּרַע וְיִנְקְפוּן תַּמָּן יָת עֲגַלְתָּא בְּנַחֲלָא:",
+      "en": "The elders of that city will take down the calf to a stony valley that is not to be tilled and not to be seeded, and they shall decapitate the calf in that valley.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:5",
+      "he": "וְיִתְקָרְבוּן כָּהֲנַיָּא בְּנֵי לֵוִי אֲרֵי בְהוֹן יִתִּרְעֵי יְיָ אֱלָהָךְ לְשַׁמָּשׁוּתֵיהּ וּלְבָרָכָא בִּשְׁמָא דַיְיָ וְעַל מֵימְרֵהוֹן יְהֵי כָּל דִּין וְכָל מַכְתַּשׁ סְגִירוּ:",
+      "en": "The kohanim, descendants of Levi, will approach; because them did Adonoy, your God, choose to serve Him and to bless in Adonoy’s Name; and they will decide every dispute [law] and every nega.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:6",
+      "he": "וְכֹל סָבֵי קַרְתָּא הַהִיא דִּקְרִיבִין לִקְטִילָא יַסְחוּן יָת יְדֵיהוֹן עַל עֲגַלְתָּא דִּנְקֶפְתָּא בְנַחֲלָא:",
+      "en": "And all the elders of that city, those near the corpse, will wash their hands over the calf beheaded in that valley.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:7",
+      "he": "וִיתִיבוּן וְיֵימְרוּן יְדָנָא לָא אַשְׁדּוֹ יָת דְּמָא הָדֵין וְעֵינָנָא לָא חֲזָאָה:",
+      "en": "They will [answer] loudly declare, ‘‘Our hands have not spilled this blood and our eyes did not see.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:8",
+      "he": "כָּהֲנַיָּא יֵימְרוּן כַּפַּר לְעַמָּךְ יִשְׂרָאֵל דִּי פְרַקְתָּא יְיָ וְלָא תִתֵּן חוֹבַת דַּם זַכַּי בְּגוֹ עַמָּךְ יִשְׂרָאֵל וְיִתְכַּפַּר לְהוֹן עַל דְּמָא:",
+      "en": "[The kohanim will say,] ‘‘Forgive Your people Yisroel, whom You, Adonoy, have redeemed; and do not allow [the responsibility of] innocent blood [liability] within Your people Yisroel.’’ The blood shall thus be atoned for in their behalf.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 21:9",
+      "he": "וְאַתְּ תְּפַלֵּי אַשְׁדִּי דַם זַכַּי מִבֵּינָךְ אֲרֵי תַעְבֵּד דְּכָשָׁר קֳדָם יְיָ:",
+      "en": "Still, you must eradicate the [liability for] [shedding] innocent blood from within you, when you do what is upright [proper] in Adonoy’s eyes.",
+      "fr": ""
+    }
+  ]
+}

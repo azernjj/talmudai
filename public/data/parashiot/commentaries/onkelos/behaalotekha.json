@@ -1,0 +1,823 @@
+{
+  "name": "Beha'alotekha",
+  "range": "Numbers 8:1-12:16",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Numbers 8:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "And Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:2",
+      "he": "מַלֵּל עִם אַהֲרֹן וְתֵימַר לֵיהּ בְּאַדְלָקוּתָךְ יָת בּוֹצִינַיָּא לָקֳבֵל אַפֵּי מְנַרְתָּא יְהוֹן מְנַהֲרִין שִׁבְעָא בוֹצִינַיָּא:",
+      "en": "Speak to Aharon, and say to him; When you light the lamps towards the face of the Menorah shall the seven lamps cast [their] light.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:3",
+      "he": "וַעֲבַד כֵּן אַהֲרֹן לָקֳבֵל אַפֵּי מְנַרְתָּא אַדְלֵק בּוֹצִינָהָא כְּמָא דִּי פַקִּיד יְיָ יָת משֶׁה:",
+      "en": "Aharon did so; towards the face of the Menorah he lit its lamps, just as Adonoy commanded Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:4",
+      "he": "וְדֵין עוֹבַד מְנַרְתָּא נְגִידָא דְהַב עַד שִׁידַהּ עַד שׁוֹשַׁנַּהּ נְגִידָא הִיא כְּחֶזְוָא דִּי אַחֲזֵי יְיָ יָת משֶׁה כֵּן עֲבַד יָת מְנַרְתָּא:",
+      "en": "This is how the Menorah was made; beaten from [a block of] gold, from its base until its flowers it is beaten out [of a solid block], according to the vision which Adonoy showed to Moshe, so he made the Menorah.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:5",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:6",
+      "he": "קָרֵב יָת לֵוָאֵי מִגּוֹ בְּנֵי יִשְׂרָאֵל וּתְדַּכֵּי יָתְהוֹן:",
+      "en": "Take [bring near] the Levites from among Bnei Yisroel and purify them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:7",
+      "he": "וּכְדֵין תַּעְבֵּד לְהוֹן לְדַכּוֹאֵיהוֹן אַדֵּי עֲלֵיהוֹן מַיָּא דְחַטָּאתָא וְיַעְבְּרוּן מַסְפַּר עַל כָּל בִּשְׂרְהוֹן וִיחַוְּרוּן לְבוּשֵׁיהוֹן וְיִדְּכּוּן:",
+      "en": "This is what you shall do to them, to purify them; sprinkle them with the sin-offering waters, and cause a razor to pass over (shave) their entire bodies, and they shall wash their garments and purify themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:8",
+      "he": "וִיסְבוּן תּוֹר בַּר תּוֹרֵי וּמִנְחָתֵיהּ סֻלְתָּא דְּפִילָא בִמְשָׁח וְתוֹר תִּנְיַן בַּר תּוֹרֵי תִּסַּב לְחַטָּאתָא:",
+      "en": "They should take a young bullock and its meal-offering of flour mixed with oil, and you shall take a second young bullock, for a sin-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:9",
+      "he": "וּתְקָרֵב יָת לֵוָאֵי קֳדָם מַשְׁכַּן זִמְנָא וְתִכְנֵשׁ יָת כָּל כְּנִשְׁתָּא דִּבְנֵי יִשְׂרָאֵל:",
+      "en": "You shall bring the Levites near, before the Tent of Meeting, and you shall gather the entire congregation of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:10",
+      "he": "וּתְקָרֵב יָת לֵוָאֵי קֳדָם יְיָ וְיִסְמְכוּן בְּנֵי יִשְׂרָאֵל יָת יְדֵיהוֹן עַל לֵוָאֵי:",
+      "en": "You shall bring the Levites near, before Adonoy, and Bnei Yisroel shall lay their hands on the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:11",
+      "he": "וִירִים אַהֲרֹן יָת לֵוָאֵי אֲרָמָא קֳדָם יְיָ מִן בְּנֵי יִשְׂרָאֵל וִיהוֹן לְמִפְלַח יָת פָּלְחָנָא דַיְיָ:",
+      "en": "Aharon shall wave the Levites as a wave-offering before Adonoy from Bnei Yisroel and they will be [entrusted] to do the worship of Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:12",
+      "he": "וְלֵוָאֵי יִסְמְכוּן יָת יְדֵיהוֹן עַל רֵישׁ תּוֹרַיָּא וְיַעֲבֵּד יָת חַד חַטָּאתָא וְיָת חַד עֲלָתָא קֳדָם יְיָ לְכַפָּרָא עַל לֵוָאֵי:",
+      "en": "The Levites shall lay their hands on the head of the bulls and make the one for a sin-offering and the [other] one for a burnt-offering to Adonoy, to atone for the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:13",
+      "he": "וּתְקֵם יָת לֵוָאֵי קֳדָם אַהֲרֹן וְקָדָם בְּנוֹהִי וּתְרֵם יָתְהוֹן אֲרָמָא קֳדָם יְיָ:",
+      "en": "You shall set the Levites before Aharon and before his sons, and lift them up as a wave-offering to Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:14",
+      "he": "וְתַפְרֵשׁ יָת לֵוָאֵי מִגּוֹ בְּנֵי יִשְׂרָאֵל וִיהוֹן מְשַׁמְּשִׁין קֳדָמַי לֵוָאֵי:",
+      "en": "You shall separate the Levites from among Bnei Yisroel and the Levites shall be Mine [serve before Me].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:15",
+      "he": "וּבָתַר כֵּן יַעֲלוּן לֵוָאֵי לְמִפְלַח יָת מַשְׁכַּן זִמְנָא וּתְדַכֵּי יָתְהוֹן וּתְרֵם יָתְהוֹן אֲרָמָא:",
+      "en": "After this is done, the Levites shall come to work in the Tent of Meeting, and you shall purify them, and you shall lift them up as a wave-offering,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:16",
+      "he": "אֲרֵי אַפְרָשָׁא מַפְרְשִׁין אִנּוּן לִי מִגּוֹ בְּנֵי יִשְׂרָאֵל חֲלַף פְּתַח כָּל וַלְדָּא בּוּכְרָא כֹלָּא מִבְּנֵי יִשְׂרָאֵל קָרֵבִית יָתְהוֹן קֳדָמָי:",
+      "en": "For they are given [have been separated]; they are given [have been separated] to Me from among Bnei Yisroel in place of those who open the womb,—every firstborn of Bnei Yisroel—I have taken them to be Mine.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:17",
+      "he": "אֲרֵי דִילִי כָל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל בַּאֲנָשָׁא וּבִבְעִירָא בְּיוֹמָא דִּקְטָלִית כָּל בּוּכְרָא בְּאַרְעָא דְמִצְרַיִם אַקְדֵּשִׁית יָתְהוֹן קֳדָמָי:",
+      "en": "For every firstborn of Bnei Yisroel is Mine, human and animal; on the day in which I slew every firstborn in the land of Egypt, I have sanctified them to be Mine.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:18",
+      "he": "וְקָרֵבִית יָת לֵוָאֵי חֲלַף כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל:",
+      "en": "I have taken the Levites instead of all firstborn of Bnei Yisroel,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:19",
+      "he": "וִיהָבִית יָת לֵוָאֵי מְסִירִין לְאַהֲרֹן וְלִבְנוֹהִי מִגּוֹ בְּנֵי יִשְׂרָאֵל לְמִפְלַח יָת פָּלְחַן בְּנֵי יִשְׂרָאֵל בְּמַשְׁכַּן זִמְנָא וּלְכַפָּרָא עַל בְּנֵי יִשְׂרָאֵל וְלָא יְהֵי בִּבְנֵי יִשְׂרָאֵל מוֹתָא בְּמִקְרַב בְּנֵי יִשְׂרָאֵל לְקוּדְשָׁא:",
+      "en": "and I have given the Levites to be given as a gift to Aharon and to his sons from among Bnei Yisroel to do the duties of Bnei Yisroel in the Tent of Meeting, and to atone for Bnei Yisroel, so that there will not be a plague among Bnei Yisroel when Bnei Yisroel approach the sanctuary.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:20",
+      "he": "וַעֲבַד משֶׁה וְאַהֲרֹן וְכָל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל לְלֵוָאֵי כְּכֹל דִּי פַקִּיד יְיָ יָת משֶׁה לְלֵוָאֵי כֵּן עֲבָדוּ לְהוֹן בְּנֵי יִשְׂרָאֵל:",
+      "en": "Moshe, Aharon, and the entire congregation of Bnei Yisroel did to the Levites just as Adonoy commanded Moshe regarding the Levites, so did Bnei Yisroel do to them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:21",
+      "he": "וְאִדַּכִּיּוּ לֵוָאֵי וְחַוָּרוּ לְבוּשֵׁיהוֹן וַאֲרֵם אַהֲרֹן יָתְהוֹן אֲרָמָא קֳדָם יְיָ וְכַפַּר עֲלֵיהוֹן אַהֲרֹן לְדַכּוֹאֵיהוֹן:",
+      "en": "The Levites underwent purification and they washed their garments, and Aharon lifted them as a wave-offering before Adonoy; and Aharon achieved atonement on their behalf, to purify them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:22",
+      "he": "וּבָתַר כֵּן עֲלּוּ לֵוָאֵי לְמִפְלַח יָת פָּלְחַנְהוֹן בְּמַשְׁכַּן זִמְנָא קֳדָם אַהֲרֹן וְקָדָם בְּנוֹהִי כְּמָא דִּי פַקִּיד יְיָ יָת משֶׁה עַל לֵוָאֵי כֵּן עֲבָדוּ לְהוֹן:",
+      "en": "Afterwards, the Levites came to perform their duties in the Tent of Meeting in the presence of Aharon and in the presence of his sons; just as Adonoy commanded Moshe regarding the Levites, so they did unto them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:23",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:24",
+      "he": "דָּא דִּי לְלֵוָאֵי מִבַּר חָמֵשׁ וְעַשְׂרִין שְׁנִין וּלְעֵלָּא יֵיתֵי לַחֲיָלָא חֵילָא בְּפָלְחַן מַשְׁכַּן זִמְנָא:",
+      "en": "This concerns the Levites; from the age of twenty-five years and above he shall enter the division for the duties of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:25",
+      "he": "וּמִבַּר חַמְשִׁין שְׁנִין יְתוּב מֵחֵיל פָּלְחָנָא וְלָא יִפְלַח עוֹד:",
+      "en": "From the age of fifty he shall retire from the work force, and shall no longer work.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 8:26",
+      "he": "וִישַׁמַּשׁ עִם אֲחוֹהִי בְּמַשְׁכַּן זִמְנָא לְמִטַּר מַטָּרָא וּפָלְחָנָא לָא יִפְלָח כְּדֵין תַּעְבֵּד לְלֵוָאֵי בְּמַטְּרַתְהוֹן:",
+      "en": "But shall serve with his brethren in the Tent of Meeting to keep the watch, and he shall not do any service; so you shall have the Levites do in their guard duties.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בְּמַדְבְּרָא דְסִינַי בְּשַׁתָּא תִנְיֵתָא לְמִפַּקְהוֹן מֵאַרְעָא דְמִצְרַיִם בְּיַרְחָא קַדְמָאָה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe in the desert of Sinai in the second year of their exodus from the land of Egypt, in the first month, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:2",
+      "he": "וְיַעְבְּדוּן בְּנֵי יִשְׂרָאֵל יָת פִּסְחָא בְּזִמְנֵיהּ:",
+      "en": "Bnei Yisroel shall perform the Pesach-offering in its proper time.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:3",
+      "he": "בְּאַרְבְּעַת עַשְׂרָא יוֹמָא בְּיַרְחָא הָדֵין בֵּין שִׁמְשַׁיָּא תַּעְבְּדוּן יָתֵיהּ בְּזִמְנֵיהּ כְּכָל גְּזֵרָתֵיהּ וּכְכָל דְּחָזֵי לֵיהּ תַּעְבְּדוּן יָתֵיהּ:",
+      "en": "On the fourteenth day of this month, in the afternoon, you shall perform it in its proper time; according to all its statutes and according to all its laws [that are appropriate for it] you shall perform it.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:4",
+      "he": "וּמַלִּיל משֶׁה עִם בְּנֵי יִשְׂרָאֵל לְמֶעְבַּד פִּסְחָא:",
+      "en": "Moshe spoke to Bnei Yisroel [telling them] to perform the Pesach-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:5",
+      "he": "וַעֲבָדוּ יָת פִּסְחָא בְּנִיסָן בְּאַרְבְּעַת עַשְׂרָא יוֹמָא לְיַרְחָא בֵּין שִׁמְשַׁיָּא בְּמַדְבְּרָא דְסִינָי כְּכֹל דִּי פַקִּיד יְיָ יָת משֶׁה כֵּן עֲבָדוּ בְּנֵי יִשְׂרָאֵל:",
+      "en": "They performed the Pesach-offering in the first [month] [in Nissan] on the fourteenth day of the month in the afternoon in the Sinai desert; according to all that Adonoy commanded Moshe, so did Bnei Yisroel do.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:6",
+      "he": "וַהֲווֹ גֻבְרַיָּא דִּי הֲווֹ מְסָאֲבִין לִטְמֵי נַפְשָׁא דֶאֱנָשָׁא וְלָא יְכִילוּ לְמֶעְבַּד פִּסְחָא בְּיוֹמָא הַהוּא וּקְרִיבוּ קֳדָם משֶׁה וְקָדָם אַהֲרֹן בְּיוֹמָא הַהוּא:",
+      "en": "There were men who were impure, having had [contact with] a corpse, and they were not able to perform the Pesach-offering on that day, and they drew near before Moshe and before Aharon, on that day.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:7",
+      "he": "וַאֲמָרוּ גֻּבְרַיָּא הָאִנּוּן לֵיהּ אֲנַחְנָא מְסָאֲבִין לִטְמֵי נַפְשָׁא דֶאֱנָשָׁא לְמָא נִתְמְנַע בְּדִיל דְּלָא לְקָרָבָא יָת קֻרְבָּנָא דַיְיָ בְּזִמְנֵיהּ בְּגוֹ בְּנֵי יִשְׂרָאֵל:",
+      "en": "Those men said to him: “We are impure, having had contact with a corpse; why should we be excluded and not be able to bring the offering of Adonoy in its proper time, among Bnei Yisroel?”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:8",
+      "he": "וַאֲמַר לְהוֹן משֶׁה אוֹרִיכוּ עַד דְּאִשְׁמַע מָה דְאִתְפַּקַּד קֳדָם יְיָ עַל דִּי לְכוֹן:",
+      "en": "Moshe said to them: “Stand [wait] and I will listen to what Adonoy will instruct [command] for [regarding] you.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:9",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:10",
+      "he": "מַלֵּל עִם בְּנֵי יִשְׂרָאֵל לְמֵימָר גְּבַר גְּבַר אֲרֵי יְהֵי מְסָאָב לִטְמֵי נַפְשָׁא דֶאֱנָשָׁא אוֹ בְאָרְחָא רְחִיקָא לְכוֹן אוֹ לְדָרֵיכוֹן וְיַעְבֵּד פִּסְחָא קֳדָם יְיָ:",
+      "en": "Speak to Bnei Yisroel, saying; any person, if he will be impure from a corpse, or [is] on a distant road, [whether among] yourselves or for your descendants, he shall perform the Pesach-offering for Adonoy",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:11",
+      "he": "בְּיַרְחָא תִנְיָנָא בְּאַרְבְּעַת עַשְׂרָא יוֹמָא בֵּין שִׁמְשַׁיָּא יַעְבְּדוּן יָתֵיהּ עַל פַּטִּיר וּמְרָרִין יֵיכְלֻנֵּיהּ:",
+      "en": "in the second month, on the fourteenth day in the afternoon he shall perform it. Together with matzohs and bitter herbs they shall eat it.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:12",
+      "he": "לָא יַשְׁאֲרוּן מִנֵּיהּ עַד צַפְרָא וְגַרְמָא לָא יִתְבְּרוּן בֵּיהּ כְּכָל גְּזֵרַת פִּסְחָא יַעְבְּדוּן יָתֵיהּ:",
+      "en": "They shall not leave any of it over until the morning and they shall not break any of its bones; according to all the statutes of the Pesach-offering they shall perform it.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:13",
+      "he": "וְגַבְרָא דְהוּא דְכֵי וּבְאֹרַח לָא הֲוָה וְיִתְמְנַע לְמֶעְבַּד פִּסְחָא וְיִשְׁתֵּצֵי אֲנָשָׁא הַהִיא מֵעַמַּהּ אֲרֵי קֻרְבָּנָא דַיְיָ לָא קָרִיב בְּזִמְנֵיהּ חוֹבֵיהּ יְקַבֵּל גַּבְרָא הַהוּא:",
+      "en": "The person who is pure and was not on the road, and refrained from performing the Pesach-offering, that soul shall be cut off from its people, for the offering of Adonoy he did not bring in its proper time; that person shall bear his sin.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:14",
+      "he": "וַאֲרֵי יִתְגַּיַּר עִמְּכוֹן גִּיּוֹרָא וְיַעְבֵּד פִּסְחָא קֳדָם יְיָ כִּגְזֵרַת פִּסְחָא וְכִדְחָזֵי לֵיהּ כֵּן יַעְבֵּד קְיָמָא חַד יְהֵי לְכוֹן וּלְגִיּוֹרָא וּלְיַצִּיבָא דְאַרְעָא:",
+      "en": "If a proselyte dwells among you and brings the Pesach-offering to Adonoy; according to the statues of the Pesach-offering and according to its laws so shall he perform it; there shall be the same statute for yourselves; [both] for the proselyte and for the native born citizen.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:15",
+      "he": "וּבְיוֹמָא דְּאִתָּקַם יָת מַשְׁכְּנָא חֲפָא עֲנָנָא יָת מַשְׁכְּנָא לְמַשְׁכְּנָא דְסַהֲדוּתָא וּבְרַמְשָׁא הֲוָה עַל מַשְׁכְּנָא כְּחֵזוּ אֶשָּׁתָא עַד צַפְרָא:",
+      "en": "On the day that the Mishkon was erected, the Cloud covered the Mishkon [which served] as the Tent of Testimony; and in the evening, there was over the Mishkon an appearance of fire, until morning.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:16",
+      "he": "כֵּן הֲוָה תְדִירָא עֲנָנָא חָפֵי לֵיהּ וְחֵזוּ אֶשָּׁתָא בְּלֵילְיָא:",
+      "en": "So it always was, the Cloud covered it, and an appearance of fire, at night.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:17",
+      "he": "וּלְפוּם אִסְתַּלָּקוּת עֲנָנָא מֵעִלָּוֵי מַשְׁכְּנָא וּבָתַר כֵּן נָטְלִין בְּנֵי יִשְׂרָאֵל וּבְאַתְרָא דְּשָׁרֵי תַמָּן עֲנָנָא תַּמָּן שָׁרָן בְּנֵי יִשְׂרָאֵל:",
+      "en": "Whenever the Cloud was lifted from the Tent, afterwards, did Bnei Yisroel travel; in the place where the Cloud came to rest, it is there that Bnei Yisroel did camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:18",
+      "he": "עַל מֵימְרָא דַיְיָ נָטְלִין בְּנֵי יִשְׂרָאֵל וְעַל מֵימְרָא דַיְיָ שָׁרָן כָּל יוֹמֵי דִּי שָׁרֵי עֲנָנָא עַל מַשְׁכְּנָא שָׁרָן:",
+      "en": "On the word of Adonoy, did Bnei Yisroel travel and on the word of Adonoy, did they camp; all those days on which the Cloud will rested above the Mishkon, did they camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:19",
+      "he": "וּבְאוֹרָכוּת עֲנָנָא עַל מַשְׁכְּנָא יוֹמִין סַגִּיאִין וְיִטְּרוּן בְּנֵי יִשְׂרָאֵל יָת מַטְּרַת מֵימְרָא דַיְיָ וְלָא נָטְלִין:",
+      "en": "When the Cloud tarried above the Mishkon, for many days, Bnei Yisroel would keep the watch of [the word of] Adonoy and they would not travel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:20",
+      "he": "וְאִית דִּי הֲוָה עֲנָנָא יוֹמֵי דְמִנְיַן עַל מַשְׁכְּנָא עַל מֵימְרָא דַיְיָ שָׁרָן וְעַל מֵימְרָא דַיְיָ נָטְלִין:",
+      "en": "It sometimes happened that the Cloud was for a number of days above the Mishkon; on the order of Adonoy did they camp and on the order of Adonoy did they travel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:21",
+      "he": "וְאִית דִּי הֲוָה עֲנָנָא מֵרַמְשָׁא עַד צַפְרָא וּמִסְתַּלַּק עֲנָנָא בְּצַפְרָא וְנָטְלִין אוֹ יֵמָם וְלֵילֵי וּמִסְתַּלַּק עֲנָנָא וְנָטְלִין:",
+      "en": "It sometimes happened that the Cloud was [there] [but] from evening until morning, and then the Cloud rose in the morning and they traveled; or, [the Cloud was there] for a day and a night and the Cloud was lifted, and they traveled.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:22",
+      "he": "אוֹ תְרֵין יוֹמִין אוֹ יַרְחָא אוֹ עִדָּן בְּעִדָּן בְּאוֹרָכוּת עֲנָנָא עַל מַשְׁכְּנָא לְמִשְׁרֵי עֲלוֹהִי שָׁרָן בְּנֵי יִשְׂרָאֵל וְלָא נָטְלִין וּבְאִסְתַּלָּקוּתֵיהּ נָטְלִין:",
+      "en": "Or two days or a month or a year [period of time] that the Cloud prolonged its stay above the Mishkon to rest upon it; Bnei Yisroel remained encamped and they did not travel; when it rose they traveled.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 9:23",
+      "he": "עַל מֵימְרָא דַיְיָ שָׁרָן וְעַל מֵימְרָא דַיְיָ נָטְלִין יָת מַטְּרַת מֵימְרָא דַיְיָ נָטְרִין עַל מֵימְרָא דַיְיָ בִּידָא דְמשֶׁה:",
+      "en": "On the order of Adonoy they camped and on the order of [the word of] Adonoy they traveled; they kept the watch of Adonoy on the order of Adonoy, through Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:2",
+      "he": "עִבֵיד לָךְ תַּרְתֵּין חֲצוֹצְרַן דִּכְסַף נְגִיד תַּעְבֵּד יָתְהוֹן וִיהֶוְיָן לָךְ לְעַרְעָא כְנִשְׁתָּא וּלְאַטָּלָא יָת מַשְׁרִיתָא:",
+      "en": "Make for yourself two silver trumpets; you shall make them, beaten [from one block], and they shall be used by you to summon the congregation and to initiate the departure of the camps.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:3",
+      "he": "וְיִתְקְעוּן בְּהֵן וְיִזְדַּמְּנוּן לְוָתָךְ כָּל כְּנִשְׁתָּא לִתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "When they will blow them, the entire congregation shall present itself to you at the entrance of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:4",
+      "he": "וְאִם בַּחֲדָא יִתְקְעוּן וְיִזְדַּמְּנוּן לְוָתָךְ רַבְרְבַיָּא רֵישֵׁי אַלְפַיָּא דְיִשְׂרָאֵל:",
+      "en": "But if they blow one of them, the leaders shall present themselves to you, the heads of Israel’s thousands.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:5",
+      "he": "וְתִתְקְעוּן יַבֶּבְתָּא וְיִטְּלוּן מַשִּׁרְיָתָא דִּשְׁרַן קִדּוּמָא:",
+      "en": "When you blow a teruah [a wailing sound]; the camps that are camped eastward shall travel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:6",
+      "he": "וְתִתְקְעוּן יַבֶּבְתָּא תִּנְיָנוּת וְיִטְּלוּן מַשִּׁרְיָתָא דִּשְׁרַן דָּרוֹמָא יַבָּבָא יִתְקְעוּן לְמַטְּלָנֵיהוֹן:",
+      "en": "If you blow a second teruah, then shall travel the camps that are camped on the south side. They shall blow a teruah for their journeys.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:7",
+      "he": "וּבְמִכְנַשׁ יָת קְהָלָא תִּתְקְעוּן וְלָא תְיַבְּבוּן:",
+      "en": "But when gathering the congregation, you shall blow [a blast], but not a teruah.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:8",
+      "he": "וּבְנֵי אַהֲרֹן כָּהֲנַיָּא יִתְקְעוּן בַּחֲצוֹצְרָתָא וִיהֶוְיָן לְכוֹן לִקְיַם עֲלָם לְדָרֵיכוֹן:",
+      "en": "The sons of Aharon, the kohanim, shall sound the trumpets. This shall be for you an everlasting statute, for all your descendants.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:9",
+      "he": "וַאֲרֵי תֵעֲלוּן לְאַגָּחָא קְרָבָא בְּאַרְעֲכוֹן עַל מְעִיקֵי דִּמְעִיקִין לְכוֹן וּתְיַבְּבוּן בַּחֲצוֹצְרָתָא וְיֵיעוּל דּוּכְרָנֵיכוֹן לְטָבָא קֳדָם יְיָ אֱלָהָכוֹן וְתִתְפָּרְקוּן מִסַּנְאֵיכוֹן:",
+      "en": "If war shall come into your land against the oppresor who oppresses you and you shall blow teruahs [wail] with the trumpets and you will be remembered [your remembrance will come beneficially] before Adonoy, your God, and you will be delivered from you enemies.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:10",
+      "he": "וּבְיוֹם חֶדְוַתְכוֹן וּבְמוֹעֲדֵיכוֹן וּבְרֵישֵׁי יַרְחֵיכוֹן וְתִתְקְעוּן בַּחֲצוֹצְרָתָא עַל עֲלָוָתְכוֹן וְעַל נִכְסַת קוּדְשֵׁיכוֹן וִיהֶוְיָן לְכוֹן לְדוּכְרָנָא קֳדָם אֱלָהָכוֹן אֲנָא יְיָ אֱלָהָכוֹן:",
+      "en": "On your joyous days and on your festivals and on the beginnings of your months you shall blow with the trumpets for your burnt-offerings and for your peace-offerings; and it shall be a remembrance for you before your God, I am Adonoy your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:11",
+      "he": "וַהֲוָה בְּשַׁתָּא תִנְיֵתָא בְּיַרְחָא תִנְיָנָא בְּעַשְׂרִין לְיַרְחָא אִסְתַּלַּק עֲנָנָא מֵעִלָּוֵי מַשְׁכְּנָא דְסַהֲדוּתָא:",
+      "en": "It was in the second year, in the second month on the twentieth of the month that the Cloud rose up from above the Mishkon of the Testimony.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:12",
+      "he": "וּנְטָלוּ בְנֵי יִשְׂרָאֵל לְמַטְּלָנֵיהוֹן מִמַּדְבְּרָא דְסִינָי וּשְׁרָא עֲנָנָא בְּמַדְבְּרָא דְפָארָן:",
+      "en": "Bnei Yisroel traveled along on their journeys, from the Sinai desert, and the Cloud came to rest in the desert of Paran.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:13",
+      "he": "וּנְטָלוּ בְּקַדְמֵיתָא עַל מֵימְרָא דַיְיָ בִּידָא דְמשֶׁה:",
+      "en": "This was the first time that they traveled, on the order of Adonoy, through Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:14",
+      "he": "וּנְטַל טֵקַס מַשְׁרִית בְּנֵי יְהוּדָה בְּקַדְמֵיתָא לְחֵילֵיהוֹן וְעַל חֵילֵיהּ נַחְשׁוֹן בַּר עַמִּינָדָב:",
+      "en": "Then traveled the banner of the sons of Yehudah’s camp in the forefront according to their divisions; in charge of its divisions [was] Nachshon the son of Aminadav.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:15",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי יִשָּׂשכָר נְתַנְאֵל בַּר צוּעָר:",
+      "en": "In charge of the division of the tribe of the sons of Yissachar, [was] Nesanel the son of Tzu’ar.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:16",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי זְבוּלֻן אֱלִיאָב בַּר חֵלוֹן:",
+      "en": "In charge of the division of the tribe of the sons of Zevulun, [was] Eliav the son of Cheilon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:17",
+      "he": "וּמִתְפָּרַק מַשְׁכְּנָא וְנָטְלִין בְּנֵי גֵרְשׁוֹן וּבְנֵי מְרָרִי נָטְלֵי מַשְׁכְּנָא:",
+      "en": "[Then] the Mishkon was dismantled and the sons of Gershon traveled, with the sons of Merori, those who carried the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:18",
+      "he": "וּנְטַל טֵקַס מַשְׁרִית רְאוּבֵן לְחֵילֵיהוֹן וְעַל חֵילֵיהּ אֱלִיצוּר בַּר שְׁדֵיאוּר:",
+      "en": "[Then] the banner of Reuven’s camp traveled, according to their divisions. In charge of its division [was] Elitzur the son of Shdeiur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:19",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי שִׁמְעוֹן שְׁלֻמִיאֵל בַּר צוּרִישַׁדָּי:",
+      "en": "In charge of the division of the tribe of the sons of Shimon, [was] Shlumiel the son of Tzurishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:20",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי גָד אֶלְיָסָף בַּר דְּעוּאֵל:",
+      "en": "In charge of the division of the tribe of the sons of Gad, [was] Elyasaf the son of De’uel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:21",
+      "he": "וְנָטְלִין בְּנֵי קְהָת נָטְלֵי מַקְדְּשָׁא וּמְקִימִין יָת מַשְׁכְּנָא עַד מֵיתֵיהוֹן:",
+      "en": "[Then] the Kehos family traveled, the carriers of the sacred, and they erected the Mishkon by the time of their arrival.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:22",
+      "he": "וּנְטַל טֵקַס מַשְׁרִית בְּנֵי אֶפְרַיִם לְחֵילֵיהוֹן וְעַל חֵילֵיהּ אֱלִישָׁמָע בַּר עַמִּיהוּד:",
+      "en": "[Then] the banner of the sons of Ephraim’s camp traveled according to their divisions. In charge of its division, [was] Elishamah the son of Amihud.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:23",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי מְנַשֶּׁה גַּמְלִיאֵל בַּר פְּדָהצוּר:",
+      "en": "In charge of the division of the tribe of the sons of Menashe, [was] Gamliel the son of Pedahtzur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:24",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי בִנְיָמִן אֲבִידָן בַּר גִּדְעוֹנִי:",
+      "en": "In charge of the division of the tribe of the sons of Binyamin, [was] Avidan the son of Gid’oni.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:25",
+      "he": "וְנָטֵל טֵקַס מַשְׁרִית בְּנֵי דָן מַכְנֵישׁ לְכָל מַשִּׁרְיָתָא לְחֵילֵיהוֹן וְעַל חֵילֵיהּ אֲחִיעֶזֶר בַּר עַמִּישַׁדָּי:",
+      "en": "[Then] the banner of the sons of Don’s camp traveled; the gatherer for all the camps, according to their divisions. In charge of its division, [was] Achiezer the son of Amishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:26",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי אָשֵׁר פַּגְעִיאֵל בַּר עָכְרָן:",
+      "en": "In charge of the division of the tribe of the sons of Asher, [was] Pagiel the son of Ochran.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:27",
+      "he": "וְעַל חֵילָא דְּשִׁבְטָא דִּבְנֵי נַפְתָּלִי אֲחִירַע בַּר עֵינָן:",
+      "en": "In charge of the division of the tribe of the sons of Naftali, [was] Achirah the son of Einan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:28",
+      "he": "אִלֵּין מַטְּלָנֵי בְּנֵי יִשְׂרָאֵל לְחֵילֵיהוֹן וּנְטָלוּ:",
+      "en": "These are the journeys of Bnei Yisroel according to their divisions; and they journeyed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:29",
+      "he": "וַאֲמַר משֶׁה לְחֹבָב בַּר רְעוּאֵל מִדְיָנָאָה חֲמוּהִי דְמשֶׁה נָטְלִין אֲנַחְנָא לְאַתְרָא דִּי אֲמַר יְיָ יָתֵיהּ אֶתֵּן לְכוֹן אִיתָא עִמָּנָא וְנוֹטֵיב לָךְ אֲרֵי יְיָ מַלִּיל לְאַיְתָאָה טָבָא עַל יִשְׂרָאֵל:",
+      "en": "Moshe said to Chovav the son of Reuel, the Midianite, Moshe’s father-in-law: “We are journeying to the place about which Adonoy said; ‘I will give it to you’, come along with us and we will treat you well, for Adonoy spoke of bringing good [fortune] on Israel.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:30",
+      "he": "וַאֲמַר לֵיהּ לָא אֵזֵל אֶלָּהֵן לְאַרְעִי וּלְיַלָּדוּתִי אֵזֵל:",
+      "en": "He said to him “I will not go, but rather to my land and to my birthplace will I go.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:31",
+      "he": "וַאֲמַר לָא כְעַן תִּשְׁבּוֹק יָתָנָא אֲרֵי עַל כֵּן יְדַעַתְּ כַּד הֲוֵינָא שָׁרַן בְּמַדְבְּרָא וּגְבוּרַן דְּאִתְעֲבִידַן לָנָא חֲזֵיתָא בְעֵינָיִךְ:",
+      "en": "He said to him “please do not forsake us, for, because you know of our encampment in the desert, and you will be our eyes [the great things that were done for us you saw with your eyes].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:32",
+      "he": "וִיהֵי אֲרֵי תֵזֵל עִמָּנָא וִיהֵי טָבָא הַהוּא דִּי יוֹטִיב יְיָ עִמָּנָא וְנוֹטֵיב לָךְ:",
+      "en": "It will be, that when you go with us, it shall be that the very good which Adonoy will bestow on us we will bestow on (share with) you.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:33",
+      "he": "וּנְטָלוּ מִטּוּרָא דְּאִתְגְּלֵי עֲלוֹהִי יְקָרָא דַיְיָ מַהֲלַךְ תְּלָתָא יוֹמִין וַאֲרוֹן קְיָמָא דַיְיָ נָטֵל קֳדָמֵיהוֹן מַהֲלַךְ תְּלָתָא יוֹמִין לְאַתְקְנָאָה לְהוֹן אֲתַר בֵּית מֵישְׁרֵי:",
+      "en": "They traveled from the mountain of Adonoy [upon which the glory of Hashem was revealed] a journey of three days, and the Ark of the Covenant of Adonoy traveled in front of them a journey of three days, to prepare for them a place to settle.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:34",
+      "he": "וַעֲנַן יְקָרָא דַיְיָ מַטֵּיל עֲלֵיהוֹן בִּימָמָא בְּמִטַּלְהוֹן מִן מַשְׁרִיתָא:",
+      "en": "The Cloud [of the glory] of Adonoy was above them by day when they traveled from the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:35",
+      "he": "וַהֲוָה בְּמִטַּל אֲרוֹנָא וַאֲמַר משֶׁה אִתְגְּלֵי יְיָ וְיִתְבַּדְּרוּן סַנְאָיךְ וִיעָרְקוּן בַּעֲלֵי דְבָבָךְ מִן קֳדָמָךְ:",
+      "en": "Whenever the Ark departed Moshe woud say: “Rise, [reveal Yourself] Adonoy, and may Your enemies disperse, and those who hate You flee before You.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 10:36",
+      "he": "וּבְמִשְׁרוֹהִי אֲמַר תּוּב יְיָ שְׁרֵי בִיקָרָךְ בְּגוֹ רִבְוַת אַלְפַיָּא דְיִשְׂרָאֵל:",
+      "en": "When it rested, he would say: “Come to rest, Adonoy, [dwell in Your glory] among the myriads and thousands of Israel.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:1",
+      "he": "וַהֲוָה עַמָּא כַּד מִסְתַּקְפִין בִּישׁ קֳדָם יְיָ וּשְׁמִיעַ קֳדָם יְיָ וּתְקֵף רָגְזֵיהּ וּדְלֵקַת בְּהוֹן אֶשָּׁתָא מִן קֳדָם יְיָ וְשֵׁצִיאַת בִּסְיָפֵי מַשְׁרִיתָא:",
+      "en": "The people were like complainers; [it was] wicked in the ears of [before] Adonoy. Adonoy heard [before Hashem it was revealed] and His Anger flared and the fire of [from before] Adonoy burned among them and consumed [some] of the outcasts of the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:2",
+      "he": "וּצְוַח עַמָּא עַל משֶׁה וְצַלִּי משֶׁה קֳדָם יְיָ וְאִשְׁתַּקְּעַת אֶשָּׁתָא:",
+      "en": "The people cried out to Moshe, and Moshe prayed to Adonoy, and the fire subsided.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:3",
+      "he": "וּקְרָא שְׁמָא דְאַתְרָא הַהוּא דְּלֶקְתָּא אֲרֵי דְלֵקַת בְּהוֹן אֶשָּׁתָא מִן קֳדָם יְיָ:",
+      "en": "He called the name of that place Taveirah, for it was there that burned among them the fire of [from before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:4",
+      "he": "וַעֲרַבְרְבִין דִּי בֵינֵיהוֹן שְׁאִילוּ שְׁאֶלְתָּא וְתָבוּ וּבְכוֹ אַף בְּנֵי יִשְׂרָאֵל וַאֲמָרוּ מַאן יֵיכְלִנָּנָא בִּסְרָא:",
+      "en": "The collection [of nationalities] among them began to have strong cravings [make demands], and Bnei Yisroel turned and began to weep; and they said “Who will feed us meat?",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:5",
+      "he": "דְּכִירִין אֲנַחְנָא יָת נוּנַיָּא דַּהֲוֵינָא אָכְלִין בְּמִצְרַיִם מַגָּן יָת בּוֹצִינַיָּא וְיָת אֲבַטִּיחַיָּא וּכְרָתֵי וּבוּצְלֵי וְתוּמֵי:",
+      "en": "We remember the fish which we ate in Egypt freely; the cucumbers, watermelons, leeks, onions and garlic.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:6",
+      "he": "וּכְעַן נַפְשָׁנָא תָאִיבָא לֵית כָּל מִדָּעַם אֶלָּהֵן לְמַנָּא עֵינָנָא:",
+      "en": "Now our bodies are withered, there is nothing at all, but the manna before our eyes.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:7",
+      "he": "וּמַנָּא כְּבַר זְרַע גַּדָּא הוּא וְחֶזְוֵיהּ כְּחֵזוּ בְדֹלְחָא:",
+      "en": "The manna was like coriander seed and it is similiar to the appearance of crystal.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:8",
+      "he": "שַׁיְטִין עַמָּא וְלָקְטִין דְּצָבֵי טָחִין בְּרֵיחַיָּא אוֹ דְצָבֵי דָאִיךְ בַּמְּדֻכְתָּא וּמְבַשְּׁלִין לֵיהּ בְּקִדְרָא וְעָבְדִין יָתֵיהּ גְּרִיצָן וַהֲוָה טַעֲמֵיהּ כִּטְעֵם דְּלִישׁ בְּמִשְׁחָא:",
+      "en": "The people [merely] strolled about and they gathered it and [if they so desired,] they ground it with a millstone or [if they so desired,] crushed it in mortars and cooked it in pots and made cakes out of it. Its taste was like the taste of cake kneaded with oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:9",
+      "he": "וְכַד נָחֵית טַלָּא עַל מַשְׁרִיתָא לֵילְיָא נָחֵית מַנָּא עֲלוֹהִי:",
+      "en": "When the dew would descend on the camp, at night, the manna would descend on it.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:10",
+      "he": "וּשְׁמַע משֶׁה יָת עַמָּא בָּכַן לְזַרְעֲיַתְהוֹן גְּבַר בִּתְרַע מַשְׁכְּנֵיהּ וּתְקֵף רָגְזָא דַיְיָ לַחֲדָא וּבְעֵינֵי משֶׁה בִּישׁ:",
+      "en": "Moshe heard the people weep according to their families, at the door of each one’s tent. The Anger of Adonoy was greatly aroused and in Moshe’s eyes, it was evil.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:11",
+      "he": "וַאֲמַר משֶׁה קֳדָם יְיָ לְמָא אַבְאֶשְׁתָּא לְעַבְדָּךְ וּלְמָא לָא אַשְׁכָּחִית רַחֲמִין קֳדָמָךְ לְשַׁוָּאָה יָת מְטוּל כָּל עַמָּא הָדֵין עָלָי:",
+      "en": "Moshe said to Adonoy: “Why have you dealt poorly with Your servant, and why have I not found favor in Your eyes that You place the burden of the entire people upon me?",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:12",
+      "he": "הֲאַב אֲנָא לְכָל עַמָּא הָדֵין אִם בְּנַי אִנּוּן דְּאָמְרֵת לִי סוֹבַרְהִי בְּתָקְפָּךְ כְּמָא דִמְסוֹבַר תֻּרְבְּיָנָא יָת יַנְקָא עַל אַרְעָא דִּי קַיֶּמְתָּא לַאֲבָהָתוֹהִי:",
+      "en": "Have I conceived [am I a father to] this entire people? have I given birth to it [are they my children] that You say to me, carry it [with might] in your lap as a nurse carries an infant, to the land which You swore to their forefathers?",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:13",
+      "he": "מְנַן לִי בִּסְרָא לְמֵיהַב לְכָל עַמָּא הָדֵין אֲרֵי בָּכַן עָלַי לְמֵימַר הַב לָנָא בִסְרָא וְנֵיכוּל:",
+      "en": "From where do I have meat to give to this entire people on account of which they cry to me, saying: “Give us meat and we shall eat.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:14",
+      "he": "לֵית אֲנָא יָכִיל בִּלְחוֹדִי לְסוֹבָרָא יָת כָּל עַמָּא הָדֵין אֲרֵי יַקִּיר מִנִּי:",
+      "en": "I alone can not carry this entire people, for they are too burdensome for me.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:15",
+      "he": "וְאִם כְּדֵין אַתְּ עָבֵד לִי קְטָלְנִי כְעַן קְטוֹל אִם אַשְׁכָּחִית רַחֲמִין קֳדָמָךְ וְלָא אֶחֱזֵי בְּבִישְׁתִּי:",
+      "en": "If this is the way You treat me, please kill me, if I have found favor in Your eyes [before You]; so that I will not see my evil.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:16",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה כְּנוֹשׁ קֳדָמַי שַׁבְעִין גַּבְרָא מִסָּבֵי יִשְׂרָאֵל דִּי יְדַעַתְּ אֲרֵי אִנּוּן סָבֵי עַמָּא וְסַרְכוֹהִי וּתְדַבַּר יָתְהוֹן לְמַשְׁכַּן זִמְנָא וְיִתְעַתְּדוּן תַּמָּן עִמָּךְ:",
+      "en": "Adonoy said to Moshe: “Gather seventy men for [before] Me, from among the elders of Israel, [men] whom you know to be the people’s elders, and its officers, and you shall take them to the Tent of Meeting, and they shall stand there with you.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:17",
+      "he": "וְאֶתְגְּלֵי וֶאֱמַלֵּל עִמָּךְ תַּמָּן וַאֲרַבֵּי מִן רוּחָא דַּעֲלָךְ וֶאֱשַׁוֵּי עֲלֵיהוֹן וִיסוֹבְרוּן עִמָּךְ בְּמַטּוּל עַמָּא וְלָא תְסוֹבַר אַתְּ בִּלְחוֹדָךְ:",
+      "en": "I will descend [appear] and speak there with you, and I will make greater the spirit which is upon you, and place it on them, and they will bear, along with you, the burden of the people so that you need not bear it alone.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:18",
+      "he": "וּלְעַמָּא תֵימַר אִזְדַּמְּנוּ לִמְחַר וְתֵיכְלוּן בִּסְרָא אֲרֵי בְּכֵיתוּן קֳדָם יְיָ לְמֵימַר מָן יֵכְלִנָּנָא בִּסְרָא אֲרֵי טַב לָנָא בְּמִצְרָיִם וְיִתֵּן יְיָ לְכוֹן בִּסְרָא וְתֵיכְלוּן:",
+      "en": "You shall say to the people, prepare yourselves for the morrow and you shall eat meat, for you have cried in the ears of [before] Adonoy, saying: “Who will feed us meat; we had it good in Egypt;” [now] Adonoy gives you meat and you shall eat.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:19",
+      "he": "לָא יוֹמָא חַד תֵּיכְלוּן וְלָא תְרֵין יוֹמִין וְלָא חַמְשָׁא יוֹמִין וְלָא עַשְׂרָא יוֹמִין וְלָא עַשְׂרִין יוֹמִין:",
+      "en": "Not for one day will you be eating and not for two days; not for five days, not for ten days, and not for twenty days.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:20",
+      "he": "עַד יְרַח יוֹמִין עַד דִּי תְקוֹצוּן בֵּיהּ וִיהֵי לְכוֹן לְתַקְלָא חֲלַף דְּקַצְתּוּן יָת מֵימְרָא דַיְיָ דִּשְׁכִנְתֵּיהּ שַׁרְיַת בֵּינֵיכוֹן וּבְכֵיתוּן קֳדָמוֹהִי לְמֵימַר לְמָא דְנַן נְפַקְנָא מִמִּצְרָיִם:",
+      "en": "But rather for a month of days, until it comes out of your nostrils [will disgust you] and it will be repulsive to you; [this is] because you have rejected [the word of] Adonoy Who[’s Shechinah dwells] is among you, and you have cried before Him, saying: “Why have we come out from Egypt?”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:21",
+      "he": "וַאֲמַר משֶׁה שִׁית מְאָה אַלְפִין גַּבְרָא רִגְלָאָה עַמָּא דִּי אֲנָא בֵינֵיהוֹן וְאַתְּ אֲמַרְתְּ בִּסְרָא אֶתֵּן לְהוֹן וְיֵיכְלוּן יְרַח יוֹמִין:",
+      "en": "Moshe said: “The people are six hundred thousand on foot that I am among and You say that I will give them meat, to eat it for a month of days?",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:22",
+      "he": "הֲעָן וְתוֹרִין יִתְנַכְּסוּן לְהוֹן הַיְסַפְּקוּן לְהוֹן אִם יָת כָּל נוּנֵי יַמָּא יִתְכַּנְּשׁוּן לְהוֹן הַיְסַפְּקוּן לְהוֹן:",
+      "en": "Will sheep and cattle be slaughtered for them would that be sufficient for them? If all the fish of the sea would be gathered for them, would that be sufficient for them?”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:23",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה הֲמֵימְרָא דַיְיָ יִתְעַכָּב כְּעַן תֶּחֱזֵי הַיְעַרְעִנָּךְ פִּתְגָּמִי אִם לָא:",
+      "en": "Adonoy said to Moshe: “Has [can] the Hand [word] of Adonoy become short [be restrained]? Now you will see if My words will occur unto you or not.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:24",
+      "he": "וּנְפַק משֶׁה וּמַלִּיל לְעַמָּא יָת פִּתְגָּמַיָּא דַיְיָ וּכְנֵשׁ שַׁבְעִין גַּבְרָא מִסָּבֵי עַמָּא וַאֲקֵם יָתְהוֹן סְחוֹר סְחוֹר לְמַשְׁכְּנָא:",
+      "en": "Moshe went out and spoke the words of Adonoy to the people, and he gathered seventy men from the elders of the people and he had them stand around the Tent.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:25",
+      "he": "וְאִתְגְּלִי יְיָ בַּעֲנָנָא וּמַלִּיל עִמֵּיהּ וְרַבִּי מִן רוּחָא דִּי עֲלוֹהִי וִיהַב עַל שַׁבְעִין גַּבְרָא סָבַיָּא וַהֲוָה כַּד שְׁרַת עֲלֵיהוֹן רוּחָא דִנְבוּאָה וּמִתְנַבְּאִין וְלָא פַסְקִין:",
+      "en": "Adonoy descended [appeared] in a cloud and spoke to him, and He magnified the spirit which was upon him and He gave it unto the seventy men, [who were] the elders. When the spirit [of prophecy] came to rest upon them they prophesied, and they did not cease.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:26",
+      "he": "וְאִשְׁתָּאָרוּ תְּרֵין גֻּבְרִין בְּמַשְׁרִיתָא שׁוּם חָד אֶלְדָּד וְשׁוּם תִּנְיָנָא מֵידָד וּשְׁרַת עֲלֵיהוֹן רוּחָא דִנְבוּאָה וְאִנּוּן בִּכְתִיבַיָּא וְלָא נְפָקוּ לְמַשְׁכְּנָא וְאִתְנַבִּיאוּ בְּמַשְׁרִיתָא:",
+      "en": "Two people remained in the camp; one’s name was Eldad and the second one’s name was Meidad. The spirit [of prophecy] rested upon them; they were among those inscribed, and they did not go out to the Tent, and they prophesied in the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:27",
+      "he": "וּרְהַט עוּלֵמָא וְחַוִּי לְמשֶׁה וַאֲמַר אֶלְדָּד וּמֵידָד מִתְנַבְּאִין בְּמַשְׁרִיתָא:",
+      "en": "The youth ran and told Moshe, and said: “Eldad and Meidad are prophesying in the camp.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:28",
+      "he": "וַאֲתֵב יְהוֹשֻׁעַ בַּר נוּן מְשֻׁמְּשָׁנֵיהּ דְמשֶׁה מֵעוּלֵמוּתֵיהּ וַאֲמַר רִבּוֹנִי משֶׁה אֲסָרִנּוּן:",
+      "en": "Yehoshua the son of Nun answered, [he being] the attendant of Moshe, from his youth, and he said: “My master Moshe, destroy [bind] them!”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:29",
+      "he": "וַאֲמַר לֵיהּ משֶׁה הֲקִנְאָתִי אַתְּ מְקַנֵּי לִי רְעֵינָא פוֹן דִּיהוֹן כָּל עַמָּא דַיְיָ נְבִיאָין אֲרֵי יִתֵּן יְיָ יָת רוּחַ נְבוּאֲתֵיהּ עֲלֵיהוֹן:",
+      "en": "Moshe said to him, “Are you vengeful for me? Would (that) it be that all Adonoy’s people were prophets, that Adonoy would give His Spirit upon them.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:30",
+      "he": "וְאִתְכְּנֵשׁ משֶׁה לְמַשְׁרִיתָא הוּא וְסָבֵי יִשְׂרָאֵל:",
+      "en": "Moshe entered into the camp, he and the elders of Israel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:31",
+      "he": "וְרוּחָא נְטַל מִן קֳדָם יְיָ וְאַפְרַח שְׂלָיו מִן יַמָּא וּרְמָא עַל מַשְׁרִיתָא כְּמַהֲלַךְ יוֹמָא לְכָא וּכְמַהֲלַךְ יוֹמָא לְכָא סְחוֹר סְחוֹר לְמַשְׁרִיתָא וּכְרוּם תַּרְתֵּין אַמִּין עַל אַפֵּי אַרְעָא:",
+      "en": "From [before] Adonoy there gusted a wind and He caused quail to fly from the sea and spread them over the camp, about a day’s journey from this side and about a day’s journey from that side, around the camp, and about two amo¯s above the ground’s surface.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:32",
+      "he": "וְקָם עַמָּא כָּל יוֹמָא הַהוּא וְכָל לֵילְיָא וְכֹל יוֹמָא דְבַתְרוֹהִי וּכְנָשׁוּ יָת שְׂלָיו דְּאַזְעַר כְּנַשׁ עַשְׂרָא דְגוֹרִין וּשְׁטָחוּ לְהוֹן מַשְׁטִיחִין סְחוֹר סְחוֹר לְמַשְׁרִיתָא:",
+      "en": "The people arose all of that day, the entire night and the entire next day, and they gathered the quail. He who gathered the least amount, gathered ten heaps and they spread them for themselves around the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:33",
+      "he": "בִּסְרָא עַד כְּעַן בֵּין שִׁנֵּיהוֹן עַד לָא פְסַק וְרָגְזָא דַיְיָ תְּקֵיף בְּעַמָּא וּקְטַל יְיָ בְּעַמָּא קְטוֹל סַגִּי לַחֲדָא:",
+      "en": "The meat was still between their teeth before it was [even] finished, when the wrath of Adonoy was incited upon the people, and Adonoy smote the people an enormous blow.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:34",
+      "he": "וּקְרָא יָת שְׁמָא דְאַתְרָא הַהוּא קִבְרֵי דִמְשַׁאֲלֵי אֲרֵי תַמָּן קְבָרוּ יָת עַמָּא דְּשָׁאִילוּ:",
+      "en": "He called the name of that place Kivros Hataavoh [Graves of the Demanders], for it was there that they buried the people who had these cravings.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 11:35",
+      "he": "מִקִּבְרֵי דִמְשַׁאֲלֵי נְטָלוּ עַמָּא לַחֲצֵרוֹת וַהֲווֹ בַּחֲצֵרוֹת:",
+      "en": "From Kivros Hataavoh the people journeyed to Chatzeiros, and they stayed in Chatzeiros.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:1",
+      "he": "וּמַלֵּלַת מִרְיָם וְאַהֲרֹן בְּמשֶׁה עַל עֵסַק אִתְּתָא שַׁפִּרְתָּא דִּי נְסִיב אֲרֵי אִתְּתָא שַׁפִּרְתָּא דִנְסִיב רָחִיק:",
+      "en": "Miriam and Aharon spoke about Moshe concerning the Cushite [fair] woman that he married, for, he married [sent away] a Cushite [fair] woman.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:2",
+      "he": "וַאֲמָרוּ הַלְחוֹד בְּרַם בְמשֶׁה מַלִּיל יְיָ הֲלָא אַף עִמָּנָא מַלִּיל וּשְׁמִיעַ קֳדָם יְיָ:",
+      "en": "They said: “Is it only to Moshe that Adonoy has spoken? Did He not also speak with us?” and [it was heard before] Adonoy heard.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:3",
+      "he": "וְגַבְרָא משֶׁה עִנְוְתָן לַחֲדָא מִכֹּל אֱנָשָׁא דִּי עַל אַפֵּי אַרְעָא:",
+      "en": "The man, Moshe [was] most humble, more so than any other person on the face of the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:4",
+      "he": "וַאֲמַר יְיָ בִּתְכֵּף לְמשֶׁה וּלְאַהֲרֹן וּלְמִרְיָם פּוּקוּ תְלָתֵיכוֹן לְמַשְׁכַּן זִמְנָא וּנְפָקוּ תְּלָתֵיהוֹן:",
+      "en": "Adonoy said, suddenly, to Moshe, Aharon and Miriam: “Come out, all three of you, to the Tent of Meeting,” and the three of them went out.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:5",
+      "he": "וְאִתְגְּלִי יְיָ בְּעַמּוּדָא דַעֲנָנָא וְקָם בִּתְרַע מַשְׁכְּנָא וּקְרָא אַהֲרֹן וּמִרְיָם וּנְפָקוּ תַּרְוֵיהוֹן:",
+      "en": "Adonoy descended [appeared] in a pillar of cloud and He stood at the entrance of the Tent, and He called [to] Aharon and Miriam, and both of them went out.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:6",
+      "he": "וַאֲמַר שְׁמָעוּ כְעַן פִּתְגָּמָי אִם יְהוֹן לְכוֹן נְבִיאִין אֲנָא יְיָ בְּחֶזְיָן אֲנָא מִתְגְּלִי לְהוֹן בְּחֶלְמִין אֲנָא מְמַלֵּל עִמְּהוֹן:",
+      "en": "He said: “Please listen to My words. If there will be a prophet among you, [I,] Adonoy, will make [reveal] Myself known to him in a vision; in a dream I will speak to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:7",
+      "he": "לָא כֵן עַבְדִּי משֶׁה בְּכָל בֵּיתִי מְהֵימָן הוּא:",
+      "en": "That is not the case with My servant, Moshe; in My entire house he is trusted.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:8",
+      "he": "מַמְלַל עִם מַמְלַל מַלֶּלְנָא עִמֵּיהּ בְּחֵזוּ וְלָא בְחִדְוָן וּדְמוּת יְקָרָא דַיְיָ מִסְתַּכָּל וּמָא דֵין לָא דְחֶלְתּוּן לְמַלָּלָא בְּעַבְדִּי בְמשֶׁה:",
+      "en": "Mouth [speaker] to mouth [speaker] I speak to [with] him, in a vision and not in riddles; he gazes at the [glorious] likeness of Adonoy; so why are you not afraid to speak about My servant, about Moshe?”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:9",
+      "he": "וּתְקִיף רָגְזָא דַיְיָ בְּהוֹן וְאִסְתַּלָּק:",
+      "en": "Adonoy’s anger flared against them and He left.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:10",
+      "he": "וַעֲנָנָא אִסְתַּלַּק מֵעִלָּוֵי מַשְׁכְּנָא וְהָא מִרְיָם חַוְּרָא כְּתַלְגָּא וְאִתְפְּנִי אַהֲרֹן לְוָת מִרְיָם וְהָא סְגִירָת:",
+      "en": "The cloud departed from atop the Tent and behold! Miriam became afflicted with tzora’as white as snow; and Aharon turned towards Miriam and behold, she was afflicted with tzora’as.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:11",
+      "he": "וַאֲמַר אַהֲרֹן לְמשֶׁה בְּבָעוּ רִבּוֹנִי לָא כְעַן תְּשַׁוִּי עֲלָנָא חוֹבָא דְּאִטְפַּשְׁנָא וְדִי סְרָחְנָא:",
+      "en": "Aharon said to Moshe: “Oh, my master please do not put iniquity upon us for what we have foolishly done and for what we have transgressed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:12",
+      "he": "לָא כְעַן תִּתְרַחַק דָּא מִבֵּינָנָא אֲרֵי אֲחָתָנָא הִיא צַלִּי כְעַן עַל בִּסְרָא מִיתָא הָדֵין דִּי בַהּ וְיִתַּסִּי:",
+      "en": "Please let her not be like the dead [separated from among us for she is our sister]; That, since he came from his mother’s womb, it would be as half of his own flesh was consumed [pray now for this dead flesh which is in her, so she will be healed].”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:13",
+      "he": "וְצַלִּי משֶׁה קֳדָם יְיָ לְמֵימָר אֱלָהָא בְּבָעוּ אַסֵּי כְעַן יָתָהּ:",
+      "en": "Moshe cried out [in prayer] to Adonoy, saying: “Please, God, please heal her.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:14",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה וְאִלּוּ אָבוּהַהּ מִנְזַף נְזִיף בַּהּ הֲלָא תִתְכְּלֵם שַׁבְעָא יוֹמִין תִּסְתְּגַר שַׁבְעָא יוֹמִין מִבָּרָא לְמַשְׁרִיתָא וּבָתַר כֵּן תִּתְכְּנֵשׁ:",
+      "en": "Adonoy said to Moshe: “If her father were to spit in her face [strongly chastise her] would she not be in shame for seven days? She shall be closed off for seven days, beyond the encampment, and after that, she may join again.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:15",
+      "he": "וְאִסְתְּגָרַת מִרְיָם מִבָּרָא לְמַשְׁרִיתָא שַׁבְעָא יוֹמִין וְעַמָּא לָא נְטַל עַד דְּאִתְכְּנֵשַׁת מִרְיָם:",
+      "en": "Miriam was closed off beyond the encampment for seven days, and the people did not depart until Miriam was brought in to join them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 12:16",
+      "he": "וּבָתַר כֵּן נְטָלוּ עַמָּא מֵחֲצֵרוֹת וּשְׁרוֹ בְּמַדְבְּרָא דְפָארָן:",
+      "en": "After that, the people traveled from Chatzeiros and they camped in the desert of Paran.",
+      "fr": ""
+    }
+  ]
+}

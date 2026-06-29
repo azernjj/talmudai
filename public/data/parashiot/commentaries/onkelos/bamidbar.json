@@ -1,0 +1,961 @@
+{
+  "name": "Bamidbar",
+  "range": "Numbers 1:1-4:20",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Numbers 1:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בְּמַדְבְּרָא דְסִינַי בְּמַשְׁכַּן זִמְנָא בְּחַד לְיַרְחָא תִנְיָנָא בְּשַׁתָּא תִנְיֵתָא לְמִפַּקְהוֹן מֵאַרְעָא דְמִצְרַיִם לְמֵימָר:",
+      "en": "And Adonoy spoke to Moshe in the Sinai desert, in the Tent of Meeting, on the first [day] of the second month, in the second year of their exodus from the land of Egypt, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:2",
+      "he": "קַבִּילוּ יָת חֻשְׁבַּן כָּל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן כָּל דְּכוּרָא לְגֻלְגְּלַתְהוֹן:",
+      "en": "Take a head count [the sum] of the entire congregation of Bnei Yisroel according to their families to the house of their fathers counting the names of all males individually.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:3",
+      "he": "מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כָּל נָפֵק חֵילָא בְּיִשְׂרָאֵל תִּמְנוּן יָתְהוֹן לְחֵילֵיהוֹן אַתְּ וְאַהֲרֹן:",
+      "en": "From twenty years old and above, all those eligible for the army [who go to war] of Israel, you shall count them according to their divisions, you and Aharon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:4",
+      "he": "וְעִמְּכוֹן יְהוֹן גַּבְרָא גַבְרָא לְשִׁבְטָא גְּבַר רֵישׁ לְבֵית אֲבָהָתוֹהִי הוּא:",
+      "en": "Along with you, there shall be one man for each tribe, each man shall be the head of his fathers’ house.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:5",
+      "he": "וְאִלֵּין שְׁמָהַת גֻּבְרַיָּא דִּי יְקוּמוּן עִמְּכוֹן לִרְאוּבֵן אֱלִיצוּר בַּר שְׁדֵיאוּר:",
+      "en": "These are the names of the men who shall stand along with you. For [the tribe of] Reuven, Elitzur the son of Shdeiur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:6",
+      "he": "לְשִׁמְעוֹן שְׁלֻמִיאֵל בַּר צוּרִישַׁדָּי:",
+      "en": "For [the tribe of] Shimon, Shlumiel the son of Tzurishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:7",
+      "he": "לִיהוּדָה נַחְשׁוֹן בַּר עַמִּינָדָב:",
+      "en": "For [the tribe of] Yehudah, Nachshon the son of Aminadav.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:8",
+      "he": "לְיִשָּׂשכָר נְתַנְאֵל בַּר צוּעָר:",
+      "en": "For [the tribe of] Yissachar, Nesanel the son of Tzu’ar.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:9",
+      "he": "לִזְבוּלֻן אֱלִיאָב בַּר חֵלֹּן:",
+      "en": "For [the tribe of] Zevulun, Eliav the son of Cheilon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:10",
+      "he": "לִבְנֵי יוֹסֵף לְאֶפְרַיִם אֱלִישָׁמָע בַּר עַמִּיהוּד לִמְנַשֶּׁה גַּמְלִיאֵל בַּר פְּדָהצוּר:",
+      "en": "For the sons of Yoseif, for [the tribe of] Ephraim, Elishamah the son of Amihud. For [the tribe of] Menasheh, Gamliel the son of Pedahtzur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:11",
+      "he": "לְבִנְיָמִן אֲבִידָן בַּר גִּדְעֹנִי:",
+      "en": "For [the tribe of] Binyamin, Avidan the son of Gid’oni.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:12",
+      "he": "לְדָן אֲחִיעֶזֶר בַּר עַמִּישַׁדָּי:",
+      "en": "For [the tribe of] Don, Achiezer the son of Amishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:13",
+      "he": "לְאָשֵׁר פַּגְעִיאֵל בַּר עָכְרָן:",
+      "en": "For [the tribe of] Asher, Pagi’el the son of Ochran.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:14",
+      "he": "לְגָד אֶלְיָסָף בַּר דְּעוּאֵל:",
+      "en": "For [the tribe of] Gad, Elyasaf the son of De’uel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:15",
+      "he": "לְנַפְתָּלִי אֲחִירַע בַּר עֵינָן:",
+      "en": "For [the tribe of] Naftali, Achira the son of Einan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:16",
+      "he": "אִלֵּין מְעַרְעֵי כְנִשְׁתָּא רַבְרְבֵי שִׁבְטֵי אֲבָהַתְהוֹן רֵישֵׁי אַלְפַיָּא דְיִשְׂרָאֵל אִנּוּן:",
+      "en": "These are the ones called from the congregation, the leaders of their fathers’ tribes; they are the heads of the thousands of Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:17",
+      "he": "וּנְסֵב משֶׁה וְאַהֲרֹן יָת גֻּבְרַיָּא הָאִלֵּין דִּי אִתְפָּרָשׁוּ בִּשְׁמָהָן:",
+      "en": "Moshe and Aharon took these men who were designated by name.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:18",
+      "he": "וְיָת כָּל כְּנִשְׁתָּא אַכְנָשׁוּ בְּחַד לְיַרְחָא תִנְיָנָא וְאִתְיַחֲסוּ עַל זַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא לְגֻלְגְּלַתְהוֹן:",
+      "en": "They gathered together the entire congregation on the first [day] of the second month and they were registered by family ancestry according to the house of their fathers. according to the number of names each man of twenty years and above; individually.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:19",
+      "he": "כְּמָא דִי פַקֵּיד יְיָ יָת משֶׁה וּמְנִנּוּן בְּמַדְבְּרָא דְסִינָי:",
+      "en": "Just as Adonoy commanded Moshe. He counted them in the Sinai desert.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:20",
+      "he": "וַהֲווֹ בְנֵי רְאוּבֵן בּוּכְרָא דְיִשְׂרָאֵל תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן לְגֻלְגְּלַתְהוֹן כָּל דְּכוּרָא מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "These were the sons of Reuven, Yisroel’s firstborn, their births according to their families according to the house of their fathers. according to the number of individual names every male of twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:21",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דִרְאוּבֵן אַרְבְּעִין וְשִׁתָּא אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Their nunbers, for the tribe of Reuven, is forty-six thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:22",
+      "he": "לִבְנֵי שִׁמְעוֹן תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן מִנְיָנוֹהִי בְּמִנְיַן שְׁמָהָן לְגֻלְגְּלַתְהוֹן כָּל דְּכוּרָא מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Shimon, their births according to their families according to the house of their fathers, his numbers according to the number of individual names every male of twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:23",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְשִׁמְעוֹן חַמְשִׁין וְתִשְׁעָה אַלְפִין וּתְלַת מְאָה:",
+      "en": "Their numbers, for the tribe of Shimon, is fifty-nine thousand three hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:24",
+      "he": "לִבְנֵי גָד תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Gad, their births according to their families according to the house of their fathers in a counting of names. From twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:25",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְגָד אַרְבְּעִין וְחַמְשָׁא אַלְפִין וְשִׁית מְאָה וְחַמְשִׁין",
+      "en": "Their numbers, for the tribe of Gad, is forty-five thousand six hundred and fifty.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:26",
+      "he": "לִבְנֵי יְהוּדָה תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Yehudah, their births according to their families according to the house of their fathers, in a counting of names. From twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:27",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דִיהוּדָה שַׁבְעִין וְאַרְבְּעָא אַלְפִין וְשִׁית מְאָה:",
+      "en": "Their numbers, for the tribe of Yehudah, is seventy-four thousand six hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:28",
+      "he": "לִבְנֵי יִשָּׂשכָר תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Yissachar, their births according to their families according to the house of their fathers, in a counting of names. From twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:29",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְיִשָּׂשכָר חַמְשִׁין וְאַרְבְּעָא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Their numbers, for the tribe of Yissachar is fifty-four thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:30",
+      "he": "לִבְנֵי זְבוּלֻן תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Zevulun, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:31",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דִזְבוּלֻן חַמְשִׁין וּשְׁבַע אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Their numbers, for the tribe of Zevulun, is fifty-seven thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:32",
+      "he": "לִבְנֵי יוֹסֵף לִבְנֵי אֶפְרַיִם תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Yoseif; For the sons of Ephraim their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:33",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְאֶפְרָיִם אַרְבְּעִין אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Their numbers, for the tribe of Ephraim is forty thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:34",
+      "he": "לִבְנֵי מְנַשֶּׁה תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Menashe, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:35",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דִמְנַשֶּׁה תְּלָתִין וּתְרֵין אַלְפִין וּמָאתָן:",
+      "en": "Their numbers, for the tribe of Menashe is thirty-two thousand two hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:36",
+      "he": "לִבְנֵי בִנְיָמִן תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Binyamin, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:37",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְבִנְיָמִן תְּלָתִין וְחַמְשָׁא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Their numbers for the tribe of Binyamin, is thirty-five thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:38",
+      "he": "לִבְנֵי דָן תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Don, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:39",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְדָן שִׁתִּין וּתְרֵין אַלְפִין וּשְׁבַע מְאָה:",
+      "en": "Their numbers, for the tribe of Don, is sixty-two thousand seven hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:40",
+      "he": "לִבְנֵי אָשֵׁר תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהֲתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "For the sons of Asher, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:41",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְאָשֵׁר אַרְבְּעִין וְחַד אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Their numbers, for the tribe of Asher is forty-one thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:42",
+      "he": "בְּנֵי נַפְתָּלִי תּוּלְדַתְהוֹן לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן בְּמִנְיַן שְׁמָהָן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כֹּל נָפֵק חֵילָא:",
+      "en": "The sons of Naftali, their births according to their families according to the house of their fathers, in a counting of names from twenty years and above, all who go forth into the army.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:43",
+      "he": "מִנְיָנֵיהוֹן לְשִׁבְטָא דְנַפְתָּלִי חַמְשִׁין וּתְלַת אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Their numbers, for the tribe of Naftali is fifty-three thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:44",
+      "he": "אִלֵּין מִנְיָנַיָּא דִּי מְנָא משֶׁה וְאַהֲרֹן וְרַבְרְבֵי יִשְׂרָאֵל תְּרֵין עֲשַׂר גֻּבְרִין גַּבְרָא חַד לְבֵית אֲבָהָתוֹהִי הֲווֹ:",
+      "en": "These are the numbers which were counted [by] Moshe, Aharon and the leaders of Israel, [being] twelve men, each man was the head of his fathers’ house.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:45",
+      "he": "וַהֲווֹ כָּל מִנְיָנֵי בְנֵי יִשְׂרָאֵל לְבֵית אֲבָהַתְהוֹן מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא כָּל נָפֵק חֵילָא בְּיִשְׂרָאֵל:",
+      "en": "All the numbers of Bnei Yisroel according to the house of their fathers, from twenty years and above, all who go forth into the army of Israel,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:46",
+      "he": "וַהֲווֹ כָּל מִנְיָנַיָּא שִׁית מְאָה וּתְלָתָא אַלְפִין וַחֲמֵשׁ מְאָה וְחַמְשִׁין:",
+      "en": "All their numbers were six hundred and three thousand five hundred and fifty.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:47",
+      "he": "וְלֵוָאֵי לְשִׁבְטָא דַאֲבָהַתְהוֹן לָא אִתְמְנִיאוּ בֵּינֵיהוֹן:",
+      "en": "The Levites, according to the tribe of their fathers were not counted among them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:48",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:49",
+      "he": "בְּרַם יָת שִׁבְטָא דְלֵוִי לָא תִמְנֵי וְיָת חֻשְׁבַּנְהוֹן לָא תְקַבֵּל בְּגוֹ בְּנֵי יִשְׂראֵל:",
+      "en": "However, the tribe of Levi you shall not count and you shall not take [accept] their head count among Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:50",
+      "he": "וְאַתְּ מַנִּי יָת לֵוָאֵי עַל מַשְׁכְּנָא דְסַהֲדוּתָא וְעַל כָּל מָנוֹהִי וְעַל כָּל דִּי לֵיהּ אִנּוּן יִטְּלוּן יָת מַשְׁכְּנָא וְיָת כָּל מָנוֹהִי וְאִנּוּן יְשַׁמְּשֻׁנֵּיהּ וּסְחוֹר סְחוֹר לְמַשְׁכְּנָא יִשְׁרוּן:",
+      "en": "You shall appoint the Levites to oversee the Mishkon of Testimony and over all of its utensils and over all that belongs to it. They shall carry the Mishkon and all its utensils, and they shall administer it, and they shall camp around the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:51",
+      "he": "וּבְמִטַּל מַשְׁכְּנָא יְפָרְקוּן יָתֵיהּ לֵוָאֵי וּבְמִשְׁרֵי מַשְׁכְּנָא יְקִימוּן יָתֵיהּ לֵוָאֵי וְחִלּוֹנַי דְּיִקְרַב יִתְקְטָל:",
+      "en": "When the Mishkon is to be moved the Levites shall take it down, and when the Mishkon is to rest [in one place] the Levites shall erect it, and the stranger who approaches, shall die.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:52",
+      "he": "וְיִשְׁרוּן בְּנֵי יִשְׂרָאֵל גְּבַר עַל מַשְׁרוֹהִי וּגְבַר עַל טִקְסֵיהּ לְחֵילֵיהוֹן:",
+      "en": "Bnei Yisroel shall camp, each man at his own camp and each man at his own banner, according to their divisions.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:53",
+      "he": "וְלֵוָאֵי יִשְׁרוּן סְחוֹר סְחוֹר לְמַשְׁכְּנָא דְסַהֲדוּתָא וְלָא יְהֵי רוּגְזָא עַל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל וְיִטְּרוּן לֵוָאֵי יָת מַטְּרַת מַשְׁכְּנָא דְסַהֲדוּתָא:",
+      "en": "The Levites shall camp around the Mishkon of the Testimony, so that there will not be anger upon the congregation of Bnei Yisroel, and the Levites shall be careful to preserve the Mishkon of Testimony.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 1:54",
+      "he": "וַעֲבָדוּ בְּנֵי יִשְׂרָאֵל כְּכֹל דִּי פַקִּיד יְיָ יָת משֶׁה כֵּן עֲבָדוּ:",
+      "en": "Bnei Yisroel did according to all that Adonoy commanded Moshe; they did it [exactly].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה וְעִם אַהֲרֹן לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe and to Aharon, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:2",
+      "he": "גְּבַר עַל טִקְסֵיהּ בְּאַתְוָן לְבֵית אֲבָהַתְהוֹן יִשְׁרוּן בְּנֵי יִשְׂרָאֵל מִלָּקֳבֵל סְחוֹר סְחוֹר לְמַשְׁכַּן זִמְנָא יִשְׁרוּן:",
+      "en": "Each man at his own banner, with the insignia of their fathers’ houses shall Bnei Yisroel encamp, at a distance around the Tent of Meeting they shall encamp.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:3",
+      "he": "וְדִי שְׁרַן קִדּוּמָא מַדִּינְחָא טֵקַס מַשְׁרִית יְהוּדָה לְחֵילֵיהוֹן וְרַבָּא לִבְנֵי יְהוּדָה נַחְשׁוֹן בַּר עַמִּינָדָב:",
+      "en": "Those whose camp is in the forefront, on the eastern side is the camp of the banner of Yehudah according to their divisions, and the leader of the sons of Yehudah is Nachshon the son of Aminadav.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:4",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן שַׁבְעִין וְאַרְבְּעָא אַלְפִין וְשִׁית מְאָה:",
+      "en": "Its division and their numbers is seventy-four thousand six hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:5",
+      "he": "וְדִי שְׁרַן סְמִיכִין עֲלוֹהִי שִׁבְטָא דְיִשָּׂשכָר וְרַבָּא לִבְנֵי יִשָּׂשכָר נְתַנְאֵל בַּר צוּעָר:",
+      "en": "Those who camp along with [near] him are; the tribe of Yissachar, and the leader of the sons of Yissachar is Nesanel the son of Tzu’ar.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:6",
+      "he": "וְחֵילֵיהּ וּמִנְיָנוֹהִי חַמְשִׁין וְאַרְבְּעָא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Its division and its numbers is fifty-four thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:7",
+      "he": "שִׁבְטָא דִּזְבוּלֻן וְרַבָּא לִבְנֵי זְבוּלֻן אֱלִיאָב בַּר חֵלוֹן:",
+      "en": "The tribe of Zevulun, and the leader of the sons of Zevulun is Eliav the son of Cheilon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:8",
+      "he": "וְחֵילֵיהּ וּמִנְיָנוֹהִי חַמְשִׁין וְשִׁבְעָא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Its division and its numbers is fifty-seven thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:9",
+      "he": "כָּל מִנְיָנַיָּא לְמַשְׁרִית יְהוּדָה מְאָה וּתְמָנָן וְשִׁתָּא אַלְפִין וְאַרְבַּע מְאָה לְחֵילֵיהוֹן בְּקַדְמֵיתָא נָטְלִין:",
+      "en": "The total numbers for the encampment of Yehudah is one hundred eighty-six thousand four hundred according to their divisions, [and] they travel [in the] first [position].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:10",
+      "he": "טֵקַס מַשְׁרִית רְאוּבֵן דָּרוֹמָא לְחֵילֵיהוֹן וְרַבָּא לִבְנֵי רְאוּבֵן אֱלִיצוּר בַּר שְׁדֵיאוּר:",
+      "en": "The banner of the camp of Reuven is on the south side, according to their divisions, and the leader of the sons of Reuven is Elitzur the son of Shdeiur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:11",
+      "he": "וְחֵילֵיהּ וּמִנְיָנוֹהִי אַרְבְּעִין וְשִׁתָּא אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Its divisions and its numbers is forty-six thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:12",
+      "he": "וְדִי שְׁרַן סְמִיכִין עֲלוֹהִי שִׁבְטָא דְשִׁמְעוֹן וְרַבָּא לִבְנֵי שִׁמְעוֹן שְׁלֻמִיאֵל בַּר צוּרִישַׁדָּי:",
+      "en": "Those who camp along with him are; the tribe of Shimon, and the leader of the tribe of Shimon is Shlumiel the son of Tzurishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:13",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן חַמְשִׁין וּתְשַׁע אַלְפִין וּתְלַת מְאָה:",
+      "en": "Its division and their numbers is fifty-nine thousand three hundred;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:14",
+      "he": "וְשִׁבְטָא דְּגָד וְרַבָּא לִבְנֵי גָד אֶלְיָסָף בַּר רְעוּאֵל:",
+      "en": "The tribe of Gad, and the leader of the sons of Gad is Elyasaf the son of Re’uel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:15",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן אַרְבְּעִין וְחַמְשָׁא אַלְפִין וְשִׁית מְאָה וְחַמְשִׁין:",
+      "en": "Its division and their numbers is forty-five thousand six hundred fifty.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:16",
+      "he": "כָּל מִנְיָנַיָּא לְמַשְׁרִית רְאוּבֵן מְאָה וְחַמְשִׁין וְחַד אַלְפִין וְאַרְבַּע מְאָה וְחַמְשִׁין לְחֵילֵיהוֹן בְּתִנְיֵתָא נָטְלִין:",
+      "en": "The total numbers for the encampment of Reuven is one hundred fifty-one thousand four hundred and fifty, according to their division, and they travel [in the] second [position].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:17",
+      "he": "וְנָטֵל מַשְׁכַּן זִמְנָא מַשְׁרִית לֵוָאֵי בְּגוֹ מַשְׁרְיָתָא כְּמָא דְשָׁרַן כֵּן נָטְלִין גְּבַר עַל אַתְרֵיהּ לְטִקְסֵיהוֹן:",
+      "en": "The Tent of Meeting shall travel [along with] the camp of the Levites in the center of the [other] camps, just as they camp so shall they travel, each man in his place according to their [various] banners.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:18",
+      "he": "טֵקַס מַשְׁרִית אֶפְרַיִם לְחֵילֵיהוֹן מַעַרְבָא וְרַבָּא לִבְנֵי אֶפְרַיִם אֱלִישָׁמָע בַּר עַמִּיהוּד:",
+      "en": "The banner of the camp of Ephraim, according to their divisions is on the west side, and the leader of the sons of Ephraim is Elishamah the son of Amihud.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:19",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן אַרְבְּעִין אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Its division and their numbers is forty-thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:20",
+      "he": "וְדִסְמִיכִין עֲלוֹהִי שִׁבְטָא דִמְנַשֶּׁה וְרַבָּא לִבְנֵי מְנַשֶּׁה גַּמְלִיאֵל בַּר פְּדָהצוּר:",
+      "en": "Along with [near] him are; the tribe of Menashe, and the leader of the sons of Menashe is Gamliel the son of Pedahtzur.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:21",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן תְּלָתִין וּתְרֵין אַלְפִין וּמָאתָן:",
+      "en": "Its division and their numbers is thirty-two thousand two hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:22",
+      "he": "וְשִׁבְטָא דְּבִנְיָמִן וְרַבָּא לִבְנֵי בִנְיָמִן אֲבִידָן בַּר גִּדְעוֹנִי:",
+      "en": "The tribe of Binyamin, and the leader of the sons of Binyamin is Avidan the son of Gid’oni.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:23",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן תְּלָתִין וְחַמְשָׁא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Its division and their numbers is thirty-five thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:24",
+      "he": "כָּל מִנְיָנַיָּא לְמַשְׁרִית אֶפְרַיִם מְאָה וְתַמְנֵי אַלְפִין וּמְאָה לְחֵילֵיהוֹן בִּתְלִיתֵתָא נָטְלִין:",
+      "en": "The total numbers for the camp of Ephraim is one hundred eight thousand one hundred according to their divisions, and they travel [in the] third [position].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:25",
+      "he": "טֵקַס מַשְׁרִית דָּן צִפּוּנָא לְחֵילֵיהוֹן וְרַבָּא לִבְנֵי דָן אֲחִיעֶזֶר בַּר עַמִּישַׁדָּי:",
+      "en": "The banner of the camp of Don is on the north side according to their divisions, and the leader of the sons of Don is Achiezer the son of Amishadai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:26",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן שִׁתִּין וּתְרֵין אַלְפִין וּשְׁבַע מְאָה:",
+      "en": "Its division and their numbers is sixty-two thousand seven hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:27",
+      "he": "וְדִי שְׁרַן סְמִיכִין עֲלוֹהִי שִׁבְטָא דְאָשֵׁר וְרַבָּא לִבְנֵי אָשֵׁר פַּגְעִיאֵל בַּר עָכְרָן:",
+      "en": "Those who camp with him are; the tribe of Asher, and the leader of the sons of Asher is Pagi’el the son of Ochran.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:28",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן אַרְבְּעִין וְחַד אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Its divisions and their numbers is forty-one thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:29",
+      "he": "וְשִׁבְטָא דְּנַפְתָּלִי וְרַבָּא לִבְנֵי נַפְתָּלִי אֲחִירַע בַּר עֵינָן:",
+      "en": "The tribe of Naftali, and the leader of the sons of Naftali is Achira the son of Einan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:30",
+      "he": "וְחֵילֵיהּ וּמִנְיָנֵיהוֹן חַמְשִׁין וּתְלָתָא אַלְפִין וְאַרְבַּע מְאָה:",
+      "en": "Its divisions and their numbers is fifty-three thousand four hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:31",
+      "he": "כָּל מִנְיָנַיָּא לְמַשְׁרִית דָּן מְאָה וְחַמְשִׁין וְשִׁבְעָא אַלְפִין וְשִׁית מְאָה בְּבַתְרֵתָא נָטְלִין לְטִקְסֵיהוֹן:",
+      "en": "The total numbers for the encampment of Don is one hundred fifty-seven thousand six hundred and they travel [in the] last [position] according to their [various] banners.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:32",
+      "he": "אִלֵּין מִנְיָנֵי בְנֵי יִשְׂרָאֵל לְבֵית אֲבָהַתְהוֹן כָּל מִנְיָנֵי מַשְׁרְיָתָא לְחֵילֵיהוֹן שִׁית מְאָה וּתְלָתָא אַלְפִין וַחֲמֵשׁ מְאָה וְחַמְשִׁין:",
+      "en": "These are the numbers of Bnei Yisroel according to their fathers’ houses. The total numbers of the camps according to their divisions is six hundred three thousand five hundred fifty.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:33",
+      "he": "וְלֵוָאֵי לָא אִתְמְנִיאוּ בְּגוֹ בְּנֵי יִשְׂרָאֵל כְּמָא דִי פַקִּיד יְיָ יָת משֶׁה:",
+      "en": "The Levites were not counted among Bnei Yisroel just as Adonoy commanded Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 2:34",
+      "he": "וַעֲבָדוּ בְּנֵי יִשְׂרָאֵל כְּכֹל דִּי פַקִּיד יְיָ יָת משֶׁה כֵּן שָׁרַן לְטִקְסֵיהוֹן וְכֵן נָטְלִין גְּבַר לְזַרְעֲיַתְהוֹן עַל בֵּית אֲבָהָתוֹהִי:",
+      "en": "Bnei Yisroel did all which Adonoy commanded Moshe, so they camped according to their [various] banners and so they traveled, each man with his family according to his fathers’ house.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:1",
+      "he": "וְאִלֵּין תּוּלְדַת אַהֲרֹן וּמשֶׁה בְּיוֹמָא דְּמַלִּיל יְיָ עִם משֶׁה בְּטוּרָא דְסִינָי:",
+      "en": "These are the descendants of Aharon and Moshe on the day that Adonoy spoke to Moshe on Mount Sinai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:2",
+      "he": "וְאִלֵּין שְׁמָהַת בְּנֵי אַהֲרֹן בּוּכְרָא נָדָב וַאֲבִיהוּא אֶלְעָזָר וְאִיתָמָר:",
+      "en": "These are the names of Aharon’s sons; the firstborn, Nadav, and Avihu, Elazar and Isamar.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:3",
+      "he": "אִלֵּין שְׁמָהַת בְּנֵי אַהֲרֹן כָּהֲנַיָּא דְּאִתְרַבִּיאוּ דִּי אִתְקָרַב קֻרְבַּנְהוֹן לְשַׁמָּשָׁא:",
+      "en": "These are the names of Aharon’s sons, the anointed kohanim, whose hands are occupied with bringing offerings, to serve [God].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:4",
+      "he": "וּמִית נָדָב וַאֲבִיהוּא קֳדָם יְיָ בְּקָרוֹבֵיהוֹן אֶשָּׁתָא נוּכְרֵיתָא קֳדָם יְיָ בְּמַדְבְּרָא דְסִינַי וּבְנִין לָא הֲווֹ לְהוֹן וְשַׁמֵּשׁ אֶלְעָזָר וְאִיתָמָר עַל אַפֵּי אַהֲרֹן אֲבוּהוֹן:",
+      "en": "Nadav and Avihu died in the presence of Adonoy, when they offered a strange fire-offering before Adonoy, in the Sinai desert, and they had no sons. [However] Elazar and Isamar served in the presence of their father Aharon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:5",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:6",
+      "he": "קָרֵב יָת שִׁבְטָא דְלֵוִי וּתְקֵים יָתֵיהּ קֳדָם אַהֲרֹן כַּהֲנָא וִישַׁמְּשׁוּן יָתֵיהּ:",
+      "en": "Bring the tribe of Levi near and have it stand before Aharon the kohein, and they shall serve him.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:7",
+      "he": "וְיִטְּרוּן יָת מַטַּרְתֵּיהּ וְיָת מַטְּרַת כָּל כְּנִשְׁתָּא קֳדָם מַשְׁכַּן זִמְנָא לְמִפְלַח יָת פָּלְחַן מַשְׁכְּנָא:",
+      "en": "They shall take care to preserve his guardianship and the guardianship of the entire congregation before the Tent of Meeting, to serve in the service of the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:8",
+      "he": "וְיִטְּרוּן יָת כָּל מָאנֵי מַשְׁכַּן זִמְנָא וְיָת מַטְּרַת בְּנֵי יִשְׂרָאֵל לְמִפְלַח יָת פָּלְחַן מַשְׁכְּנָא:",
+      "en": "They shall guard all the utensils of the Tent of Meeting and the watch of Bnei Yisroel to serve in the service of the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:9",
+      "he": "וְתִתֵּן יָת לֵוָאֵי לְאַהֲרֹן וְלִבְנוֹהִי מְסִירִין יְהִיבִין אִנּוּן לֵיהּ מִן בְּנֵי יִשְׂרָאֵל:",
+      "en": "You shall place the Levites in the charge of Aharon and his sons; they are presented [and given] to him from [among] Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:10",
+      "he": "וְיָת אַהֲרֹן וְיָת בְּנוֹהִי תְּמַנֵּי וְיִטְּרוּן יָת כְּהֻנַּתְהוֹן וְחִלּוֹנַי דְּיִקְרַב יִתְקְטָל:",
+      "en": "You shall appoint Aharon and his sons and they shall guard their priesthood, and an outsider (non-kohein) who comes near shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:11",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:12",
+      "he": "וַאֲנָא הָא קָרֵבִית יָת לֵוָאֵי מִגּוֹ בְּנֵי יִשְׂרָאֵל חֲלַף כָּל בּוּכְרָא פָּתַח וַלְדָּא מִבְּנֵי יִשְׂרָאֵל וִיהוֹן מְשַׁמְּשִׁין קֳדָמַי לֵוָאֵי:",
+      "en": "Behold! I have taken the Levites from among Bnei Yisroel instead of all the firstborn who have opened the womb, among Bnei Yisroel, and [therefore] the Levites shall be Mine [serve before Me].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:13",
+      "he": "אֲרֵי דִילִי כָּל בּוּכְרָא בְּיוֹמָא דִקְטָלִית כָּל בּוּכְרָא בְּאַרְעָא דְמִצְרַיִם אַקְדֵּשִׁית קֳדָמַי כָּל בּוּכְרָא בְּיִשְׂרָאֵל מֵאֱנָשָׁא עַד בְּעִירָא דִּילִי יְהוֹן אֲנָא יְיָ:",
+      "en": "For all the firstborn are Mine, since on the day I smote all the firstborn in the land of Egypt I sanctified to [before] Me all the firstborn of Bnei Yisroel from man to beast; they shall be Mine, I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:14",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בְּמַדְבְּרָא דְסִינַי לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe in the Sinai desert, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:15",
+      "he": "מְנֵי יָת בְּנֵי לֵוִי לְבֵית אֲבָהַתְהוֹן לְזַרְעֲיַתְהוֹן כָּל דְּכוּרָא מִבַּר יַרְחָא וּלְעֵלָּא תִּמְנִנּוּן:",
+      "en": "Count the sons of Levi according to their fathers’ houses according to their families. All males from the age of one month and above, you shall count them.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:16",
+      "he": "וּמְנָא יָתְהוֹן משֶׁה עַל מֵימְרָא דַיְיָ כְּמָא דְּאִתְפַּקָּד:",
+      "en": "Moshe counted them according to the word of Adonoy, just as he was commanded.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:17",
+      "he": "וַהֲווֹ אִלֵּין בְּנֵי לֵוִי בִּשְׁמָהַתְהוֹן גֵּרְשׁוֹן וּקְהָת וּמְרָרִי:",
+      "en": "These were sons of Levi according to their names, Gershon, Kehos and Merori.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:18",
+      "he": "וְאִלֵּין שְׁמָהַת בְּנֵי גֵרְשׁוֹן לְזַרְעֲיַתְהוֹן לִבְנִי וְשִׁמְעִי:",
+      "en": "These are the names of Gershon’s sons according to their families; Livni and Shim’i.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:19",
+      "he": "וּבְנֵי קְהָת לְזַרְעֲיַתְהוֹן עַמְרָם וְיִצְהָר חֶבְרוֹן וְעֻזִּיאֵל:",
+      "en": "The sons of Kehos, according to their families were; Amram, Yitzhar Chevron and Uziel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:20",
+      "he": "וּבְנֵי מְרָרִי לְזַרְעֲיַתְהוֹן מַחְלִי וּמוּשִׁי אִלֵּין אִנּוּן זַרְעֲיַת לֵוָאֵי לְבֵית אֲבָהַתְהוֹן:",
+      "en": "The sons of Merori, according to their families were; Machli and Mushi. These are the families of Levi according to their fathers’ houses.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:21",
+      "he": "לְגֵרְשׁוֹן זַרְעִית לִבְנִי וְזַרְעִית שִׁמְעִי אִלֵּין אִנּוּן זַרְעֲיַת גֵּרְשׁוֹן:",
+      "en": "Of Gershon, the family of Livni and the family of Shim’i. These are the families of the Gershonites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:22",
+      "he": "מִנְיָנֵיהוֹן בְּמִנְיַן כָּל דְּכוּרָא מִבַּר יַרְחָא וּלְעֵלָּא מִנְיָנֵיהוֹן שַׁבְעָא אַלְפִין וַחֲמֵשׁ מְאָה:",
+      "en": "Their numbers, in a count of every male of one month and above; their numbers are seven thousand five hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:23",
+      "he": "זַרְעֲיַת גֵּרְשׁוֹן אֲחוֹרֵי מַשְׁכְּנָא יִשְׁרוּן מַעַרְבָא:",
+      "en": "The families of the Gershonites shall camp behind the Mishkon on the west side.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:24",
+      "he": "וְרַב בֵּית אַבָּא לְבֵית גֵּרְשׁוֹן אֶלְיָסָף בַּר לָאֵל:",
+      "en": "The leader of the household of the Gershonites is Elyasaf the son of Lael.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:25",
+      "he": "וּמַטְּרַת בְּנֵי גֵרְשׁוֹן בְּמַשְׁכַּן זִמְנָא מַשְׁכְּנָא וּפְרָסָא חוֹפָאֵיהּ וּפְרָסָא דִּתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "The guardianship of the sons of Gershon in the Tent of Meeting [was]; the Mishkon and the Tent, its cover and the Curtain for the entrance of the Tent of Meeting,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:26",
+      "he": "וּסְרָדֵי דְדַרְתָּא וְיָת פְּרָסָא דִּתְרַע דַּרְתָּא דִּי עַל מַשְׁכְּנָא וְעַל מַדְבְּחָא סְחוֹר סְחוֹר וְיָת אַטּוּנוֹהִי לְכֹל פּוּלְחָנֵיהּ:",
+      "en": "The hanging Curtains of the courtyard and the Curtain at the entrance of the courtyard which is around the Mishkon and Altar, and its ropes, for all of the work involving these things [its service].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:27",
+      "he": "וְלִקְהָת זַרְעִית עַמְרָם וְזַרְעִית יִצְהָר וְזַרְעִית חֶבְרוֹן וְזַרְעִית עֻזִּיאֵל אִלֵּין אִנּוּן זַרְעֲיַת קְהָת:",
+      "en": "Of Kehos, was the family of Amram, the family of Yitzhar, the family of Chevron and the family of Uziel, these are the families of the Kehosites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:28",
+      "he": "בְּמִנְיַן כָּל דְּכוּרָא מִבַּר יַרְחָא וּלְעֵלָּא תְּמַנְיָא אַלְפִין וְשִׁית מְאָה נָטְרֵי מַטַּרְתָּא דְקוּדְשָׁא:",
+      "en": "The number of every male from one month and above is eight thousand six hundred. [They were] the guardians of the sacred vessels.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:29",
+      "he": "זַרְעֲיַת בְּנֵי קְהָת יִשְׁרוּן עַל צִדָּא דְמַשְׁכְּנָא דָּרוֹמָא:",
+      "en": "The families of the children of Kehos shall camp on the south side of the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:30",
+      "he": "וְרַב בֵּית אַבָּא לְזַרְעֲיַת קְהָת אֱלִיצָפָן בַּר עֻזִּיאֵל:",
+      "en": "The leader of the household of the families of the Kehosites, is Elitzafan the son of Uziel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:31",
+      "he": "וּמַטַּרְתְּהוֹן אֲרוֹנָא וּפָתוֹרָא וּמְנַרְתָּא וּמַדְבְּחָא וּמָנֵי קוּדְשָׁא דִּי יְשַׁמְּשׁוּן בְּהוֹן וּפְרָסָא וְכֹל פָּלְחָנֵיהּ:",
+      "en": "Their guardianship is the Ark, the Table, the Menorah, the Altars and the sacred utensils with which they serve. And the Curtain, and all of the work involving these things.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:32",
+      "he": "וַאֲמַרְכְּלָא דִּמְמַנָּא עַל רַבְרְבֵי לֵוָאֵי אֶלְעָזָר בַּר אַהֲרֹן כַּהֲנָא דְּמִתְּחוֹת יְדוֹהִי מְמַנָּן נָטְרֵי מַטְּרַת קוּדְשָׁא:",
+      "en": "The leader of the leaders of Levi shall be Elazar, the son of Aharon, the kohein [who is] in charge of the appointment of the guardians to safeguard the holy [Sanctuary].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:33",
+      "he": "לִמְרָרִי זַרְעִית מַחְלִי וְזַרְעִית מוּשִׁי אִלֵּין אִנּוּן זַרְעֲיַת מְרָרִי:",
+      "en": "Of Merori, was the family of Machli and the family and Mushi; these are the families of the Merorites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:34",
+      "he": "וּמִנְיָנֵיהוֹן בְּמִנְיַן כָּל דְּכוּרָא מִבַּר יַרְחָא וּלְעֵלָּא שִׁתָּא אַלְפִין וּמָאתָן:",
+      "en": "Their numbers, in a count of every male of one month and above, is six thousand two hundred.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:35",
+      "he": "וְרַב בֵּית אַבָּא לְזַרְעֲיַת מְרָרִי צוּרִיאֵל בַּר אֲבִיחָיִל עַל צִדָּא דְמַשְׁכְּנָא יִשְׁרוּן צִפּוּנָא:",
+      "en": "The leader of the household of the families of the Merorites is Tzuriel the son of Avichail, they shall camp on the north side of the Mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:36",
+      "he": "וְדִי מְסִיר לְמַטְּרַת בְּנֵי מְרָרִי דַּפֵּי מַשְׁכְּנָא וְעַבְרוֹהִי וְעַמּוּדוֹהִי וְסַמְכוֹהִי וְכָל מָנוֹהִי וְכֹל פּוּלְחָנֵיהּ:",
+      "en": "The appointed task of the guardianship of the sons of Merori shall be the beams of the Mishkon, its bars, pillars and sockets; all of its utensils, and all of the work involving these things [its service].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:37",
+      "he": "וְעַמּוּדֵי דְדַרְתָּא סְחוֹר סְחוֹר וְסַמְכֵיהוֹן וְסִכֵּיהוֹן וְאַטּוּנֵיהוֹן:",
+      "en": "Also the pillars of the surrounding courtyard and their sockets, pegs and ropes.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:38",
+      "he": "וְדִי שְׁרַן קֳדָם מַשְׁכְּנָא קִדּוּמָא קֳדָם מַשְׁכַּן זִמְנָא מַדִּינְחָא משֶׁה וְאַהֲרֹן וּבְנוֹהִי נָטְרִין מַטְּרַת מַקְדְּשָׁא לְמַטְּרַת בְּנֵי יִשְׂרָאֵל וְחִלּוֹנַי דְּיִקְרַב יִתְקְטָל:",
+      "en": "Those who camped in front of the Mishkon in the forefront, in front of the Tent of Meeting on the east side [are]; Moshe, Aharon and his sons, guardians of the guardianship of the Sanctuary to guard on behalf of Bnei Yisroel. Any outsider (non-kohein) who comes near, shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:39",
+      "he": "כָּל מִנְיָנֵי לֵוָאֵי דִּי מְנָא משֶׁה וְאַהֲרֹן עַל מֵימְרָא דַיְיָ לְזַרְעֲיַתְהוֹן כָּל דְּכוּרָא מִבַּר יַרְחָא וּלְעֵלָּא עַשְׂרִין וּתְרֵין אַלְפִין:",
+      "en": "The number of all the Levites whom Moshe and Aharon counted at the word of Adonoy according to their families; every male from one month and above was twenty-two thousand.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:40",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה מְנֵי כָּל בּוּכְרַיָּא דִכְרַיָּא לִבְנֵי יִשְׂרָאֵל מִבַּר יַרְחָא וּלְעֵלָּא וְקַבֵּל יָת מִנְיַן שְׁמָהַתְהוֹן:",
+      "en": "Adonoy said to Moshe: Count every male firstborn of Bnei Yisroel from the age of one month and above and take the number of their names.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:41",
+      "he": "וּתְקָרֵב יָת לֵוָאֵי קֳדָמַי אֲנָא יְיָ חֲלַף כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל וְיָת בְּעִירָא דְלֵוָאֵי חֲלַף כָּל בּוּכְרָא בִּבְעִירָא דִּבְנֵי יִשְׂרָאֵל:",
+      "en": "You shall take the Levites for [before] Me, I, [who am] Adonoy, instead of every firstborn of Bnei Yisroel; and the animals of the Levites instead of every firstborn among the animals of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:42",
+      "he": "וּמְנָא משֶׁה כְּמָא דִי פַּקִיד יְיָ יָתֵיהּ יָת כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל:",
+      "en": "Moshe counted just as Adonoy commanded him to, every firstborn of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:43",
+      "he": "וַהֲווֹ כָל בּוּכְרַיָּא דִכְרַיָּא בְּמִנְיַן שְׁמָהָן מִבַּר יַרְחָא וּלְעֵלָּא לְמִנְיָנֵיהוֹן עַשְׂרִין וּתְרֵין אַלְפִין מָאתָן וְשַׁבְעִין וּתְלָתָא:",
+      "en": "Every male firstborn according to the number of names of one month and above according to their numbers, was twenty-two thousand two hundred and seventy-three.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:44",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:45",
+      "he": "קָרֵב יָת לֵוָאֵי חֲלַף כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל וְיָת בְּעִירָא דְלֵוָאֵי חֲלַף בְּעִירְהוֹן וִיהוֹן מְשַׁמְּשִׁין קֳדָמַי לֵוָאֵי אֲנָא יְיָ:",
+      "en": "Take the Levites instead of every firstborn of Bnei Yisroel, and the animals of the Levites instead of their animals, and the Levites shall [serve before Me] be Mine, I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:46",
+      "he": "וְיָת פֻּרְקַן מָאתָן וְשַׁבְעִין וּתְלָתָא דְּיַתִּירִין עַל לֵוָאֵי מִבּוּכְרַיָּא דִּבְנֵי יִשְׂרָאֵל:",
+      "en": "And the redemption of the two hundred and seventy-three that are in excess of the number of Levites from the firstborns of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:47",
+      "he": "וְתִסַּב חָמֵשׁ חָמֵשׁ סִלְעִין לְגֻלְגַּלְתָּא בְּסִלְעֵי קוּדְשָׁא תִּסַּב עַשְׂרִין מָעִין סִלְעָא:",
+      "en": "You shall take five shekolim apiece from each individual; you shall take it in holy shekolim at twenty gerah for each shekel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:48",
+      "he": "וְתִתֵּן כַּסְפָּא לְאַהֲרֹן וְלִבְנוֹהִי פֻּרְקַן דְּיַתִּירִין בְּהוֹן:",
+      "en": "You shall give the money to Aharon and to his sons as a redemption for those whose numbers are in excess [of the Levites.]",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:49",
+      "he": "וּנְסֵיב משֶׁה יָת כְּסַף פֻּרְקַנְהוֹן מִן דְּיַתִּירִין עַל פְּרִיקֵי לֵוָאֵי:",
+      "en": "Moshe took the redemption money from those whose numbers were in excess of those who were redeemed through the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:50",
+      "he": "מִן בּוּכְרַיָּא דִּבְנֵי יִשְׂרָאֵל נְסִיב יָת כַּסְפָּא אֲלַף וּתְלַת מְאָה וְשִׁתִּין וְחָמֵשׁ סִלְעִין בְּסִלְעֵי קוּדְשָׁא:",
+      "en": "From the firstborn of Bnei Yisroel, he took the money. One thousand three hundred sixty-five, in holy shekel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 3:51",
+      "he": "וִיהַב משֶׁה יָת כְּסַף פְּרִיקַיָּא לְאַהֲרֹן וְלִבְנוֹהִי עַל מֵימְרָא דַיְיָ כְּמָא דִי פַקִּיד יְיָ יָת משֶׁה:",
+      "en": "Moshe gave the money of those who were redeemed to Aharon and to his sons according to the word of Adonoy, just as Adonoy commanded to Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה וְעִם אַהֲרֹן לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe and to Aharon, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:2",
+      "he": "קַבִּילוּ יָת חֻשְׁבַּן בְּנֵי קְהָת מִגּוֹ בְּנֵי לֵוִי לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן:",
+      "en": "Take the count of the sons of Kehos from among the sons of Levi according to their families according to the house of their fathers.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:3",
+      "he": "מִבַּר תְּלָתִין שְׁנִין וּלְעֵלָּא וְעַד בַּר חַמְשִׁין שְׁנִין כָּל דְּאָתֵי לְחֵילָא לְמֶעְבַּד עִבִדְתָּא בְּמַשְׁכַּן זִמְנָא:",
+      "en": "From thirty years and above until fifty years, all who enter into the division to perform service in the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:4",
+      "he": "דֵּין פּוּלְחַן בְּנֵי קְהָת בְּמַשְׁכַּן זִמְנָא קֹדֶשׁ קוּדְשַׁיָּא:",
+      "en": "This is the service of the sons of Kehos in the Tent of Meeting, the Holy of Holies.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:5",
+      "he": "וְיֵעוֹל אַהֲרֹן וּבְנוֹהִי בְּמִטַּל מַשְׁרִיתָא וִיפָרְקוּן יָת פָּרֻכְתָּא דִפְרָסָא וִיכַסּוּן בַּהּ יָת אֲרוֹנָא דְסַהֲדוּתָא:",
+      "en": "Aharon and his sons shall enter when the camp is about to travel, and take down the screening curtain and, with it they shall cover the Ark of the Testimony.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:6",
+      "he": "וְיִתְּנוּן עֲלוֹהִי חוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וְיִפְרְסוּן לְבוּשׁ גְּמִיר תִּכְלָא מִלְעֵלָּא וִישַׁוּוּן אֲרִיחוֹהִי:",
+      "en": "They shall place upon it a covering of tachash [multi-colored]-hide and spread an entirely blue woolen cloth on top of it, and put its [carrying] poles [in place].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:7",
+      "he": "וְעַל פָּתוֹרָא דִלְחֵם אַפַּיָּא יִפְרְסוּן לְבוּשׁ תִּכְלָא וְיִתְּנוּן עֲלוֹהִי יָת מָגִיסַיָּא וְיָת בָּזִיכַיָּא וְיָת מְכִילָתָא וְיָת קַסְווֹת נִסּוּכָא וּלְחֵם תְּדִירָא עֲלוֹהִי יְהֵי:",
+      "en": "On the Show Table [table of the show bread] they shall spread a blue woolen cloth and they shall place upon it the molds, spoons, rods and the covering props, and the continual bread shall be upon it [continually].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:8",
+      "he": "וְיִפְרְסוּן עֲלֵיהוֹן לְבוּשׁ צְבַע זְהוֹרִי וִיכַסּוּן יָתֵיהּ בְּחוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וִישַׁוּוּן יָת אֲרִיחוֹהִי:",
+      "en": "They shall spread upon them a cloth of crimson thread and they shall cover it with a covering of tachash [multi-colored]-hide and put its [carrying] poles [in place].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:9",
+      "he": "וְיִסְּבוּן לְבוּשׁ תִּכְלָא וִיכַסּוּן יָת מְנַרְתָּא דְאַנְהוֹרֵי וְיָת בּוֹצִינָהָא וְיָת צִבְתָהָא וְיָת מַחְתְּיתָהָא וְיָת כָּל מָנֵי מִשְׁחָא דִּי יְשַׁמְּשׁוּן לֵיהּ בְּהוֹן:",
+      "en": "They shall take a blue woolen cloth and they shall cover the Menorah that illuminates and its lamps, its tongs and its scoops and all of its oil vessels; those with which you use to perform its service.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:10",
+      "he": "וְיִתְּנוּן יָתַהּ וְיָת כָּל מָנָהָא לְחוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וְיִתְּנוּן עַל אֲרִיחָא:",
+      "en": "They shall put it and all of its utensils into the covering of the tachash [multi-colored]-hide and put it on the carrying frame.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:11",
+      "he": "וְעַל מַדְבְּחָא דְדַהֲבָא יִפְרְסוּן לְבוּשׁ תִּכְלָא וִיכַסּוּן יָתֵיהּ בְּחוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וִישַׁוּוּן יָת אֲרִיחוֹהִי:",
+      "en": "On top of the golden Altar they shall spread a blue woolen cloth and they shall cover it with a covering of tachash [multi-colored]-hide, and put its [carrying] poles in place.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:12",
+      "he": "וְיִסְּבוּן יָת כָּל מָנֵי שִׁמּוּשָׁא דִּי יְשַׁמְּשׁוּן בְּהוֹן בְּקוּדְשָׁא וְיִתְּנוּן לִלְבוּשׁ תִּכְלָא וִיכַסּוּן יָתְהוֹן בְּחוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וְיִתְּנוּן עַל אֲרִיחָא:",
+      "en": "They shall take all the service utensils with which they serve in the Sanctuary and they shall put them inside a blue woolen cloth, and they shall cover them with a covering of tachash [multi-colored]-hide, and put it on the carrying frame.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:13",
+      "he": "וְיִסְּפוּן יָת קִטְמָא דְמַדְבְּחָא וְיִפְרְסוּן עֲלוֹהִי לְבוּשׁ אַרְגְּוָן:",
+      "en": "They shall remove the ashes from [atop] the Altar and they shall spread upon it a cloth of purple [wool].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:14",
+      "he": "וְיִתְּנוּן עֲלוֹהִי יָת כָּל מָנוֹהִי דִּי יְשַׁמְּשׁוּן עֲלוֹהִי בְהוֹן יָת מַחְתְּיָתָא וְיָת צִנּוֹרְיָתָא וְיָת מַגְרוֹפְיָתָא וְיָת מִזְרְקַיָּא כֹּל מָנֵי מַדְבְּחָא וְיִפְרְסוּן עֲלוֹהִי חוֹפָאָה דִּמְשַׁךְ סַסְגּוֹנָא וִישַׁווּן אֲרִיחוֹהִי:",
+      "en": "They shall put upon it all of its utensils which they use in service, those that are used on the Altar-top; the firepans, forks, scoops and sprinklers, all the utensils of the Altar. They shall spread upon it a covering of tachash [multi-colored]-hide, and put its [carrying] poles in place.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:15",
+      "he": "וִישֵׁיצֵי אַהֲרֹן וּבְנוֹהִי לְכַסָּאָה יָת קוּדְשָׁא וְיָת כָּל מָנֵי קוּדְשָׁא בְּמִטַּל מַשְׁרִיתָא וּבָתַר כֵּן יֵעֲלוּן בְּנֵי קְהָת לְמִטַּל וְלָא יִקְרְבוּן לְקוּדְשָׁא וְלָא יְמוּתוּן אִלֵּין מַטּוּל בְּנֵי קְהָת בְּמַשְׁכַּן זִמְנָא:",
+      "en": "Aharon and his sons shall complete the covering of the Sanctuary and all of the holy utensils whenever the camp is about to travel, and after that, the sons of Kehos shall come to carry [these items], and they shall not touch the Holy [objects] and they will [not] die. These are what the sons of Kehos must carry for the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:16",
+      "he": "וְדִי מְסִיר לְאֶלְעָזָר בַּר אַהֲרֹן כַּהֲנָא מִשְׁחָא דְאַנְהָרוּתָא וּקְטֹרֶת בּוּסְמַיָּא וּמִנְחָתָא תְדִירָא וּמִשְׁחָא דִרְבוּתָא מַטְרַת כָּל מַשְׁכְּנָא וְכָל דִּי בֵיהּ בְּקוּדְשָׁא וּבְמָנוֹהִי:",
+      "en": "Encharged [given] to Elazar, the son of Aharon the kohein, is the oil for illumination, the incense of spices the continual [daily] meal-offering and the anointing oil; the charge of the entire Mishkon and all of its contents in the Sanctuary, and its utensils.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:17",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה וְעִם אַהֲרֹן לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe and to Aharon, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:18",
+      "he": "לָא תְשֵׁיצוּן יָת שִׁבְטָא זַרְעֲיַת קְהָת מִגּוֹ לֵוָאֵי:",
+      "en": "Do not cut off the tribe of the families of the Kehosites, from among the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:19",
+      "he": "וְדָא עִבִידוּ לְהוֹן וְיֵחוּן וְלָא יְמוּתוּן בְּמִקְרַבְהוֹן לְקֹדֶשׁ קוּדְשַׁיָּא אַהֲרֹן וּבְנוֹהִי יֵעֲלוּן וִימַנּוּן יָתְהוֹן גְּבַר גְּבַר עַל פּוּלְחָנֵיהּ וּלְמַטּוּלֵיהּ:",
+      "en": "This is what you must do for them, that they may live and not die when they approach the Holy of Holies; Aharon and his sons shall [first] come and appoint them each man individually, to [perform] his own service, and to carry his own load.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 4:20",
+      "he": "וְלָא יֵעֲלוּן לְמֶחֱזֵי כַּד מְכַסָּן יָת מָנֵי קוּדְשָׁא וְלָא יְמוּתוּן:",
+      "en": "They shall not come in to see when the holy is [utensils are] being covered and [they will not] die.",
+      "fr": ""
+    }
+  ]
+}

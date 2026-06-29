@@ -1,0 +1,751 @@
+{
+  "name": "Shemot",
+  "range": "Exodus 1:1-6:1",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Exodus 1:1",
+      "he": "וְאִלֵין שְׁמָהַת בְּנֵי יִשְׂרָאֵל דְעַלוּ לְמִצְרָיִם עִם יַעֲקֹב גְבַר וֶאֱנַשׁ בֵּיתֵהּ עַלוּ:",
+      "en": "These are the names of the B’nei Yisrael who came to Egypt. Each man with his household who came with Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:2",
+      "he": "רְאוּבֵן שִׁמְעוֹן לֵוִי וִיהוּדָה:",
+      "en": "Reuvein, Shimon, Leivi and Yehudah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:3",
+      "he": "יִשָּׂשׂכָר זְבוּלֻן וּבִנְיָמִין:",
+      "en": "Yissachar, Zevulun, and Binyamin.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:4",
+      "he": "דָן וְנַפְתָּלִי גָד וְאָשֵׁר:",
+      "en": "Don, Naftali, Gad and Asher.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:5",
+      "he": "וַהֲוָה כָּל נַפְשָׁתָא נַפְקֵי יַרְכָּא דְיַעֲקֹב שַׁבְעִין נַפְשָׁן וְיוֹסֵף דַהֲוָה בְּמִצְרָיִם:",
+      "en": "All the souls that emanated from the loins of Yaakov, [numbered] seventy souls, [including] Yoseif who was [already] in Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:6",
+      "he": "וּמִית יוֹסֵף וְכָל אַחוֹהִי וְכֹל דָרָא הַהוּא:",
+      "en": "Yoseif died. All his brothers and all that generation [also died.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:7",
+      "he": "וּבְנֵי יִשְׂרָאֵל נְפִישׁוּ וְאִתְיַלָדוּ וּסְגִיאוּ וּתְקִיפוּ לַחֲדָא לַחֲדָא וְאִתְמְלִיאַת אַרְעָא מִנְהוֹן:",
+      "en": "The B’nei Yisrael were fruitful and prolific, and their population multiplied. They were exceedingly mighty, and the land was filled with them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:8",
+      "he": "וְקָם מַלְכָּא חַדְתָּא עַל מִצְרָיִם דְלָא מְקַיֵם גְזֵרַת יוֹסֵף:",
+      "en": "A new king came into power over Egypt, who did not know [fulfill] Yoseif[’s decree].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:9",
+      "he": "וַאֲמַר לְעַמֵהּ הָא עַמָא בְּנֵי יִשְׂרָאֵל סָגָן וְתַקִיפִין מִנָנָא:",
+      "en": "He said to his people, “Behold, the people of the B’nei Yisrael are becoming too numerous and strong for us.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:10",
+      "he": "הָבוּ נִתְחַכַּם לְהוֹן דִלְמָא יִסְגוּן וִיהֵי אֲרֵי יְעַרְעִנָנָא קְרָב וְיִתּוֹסְפוּן אַף אִנוּן עַל סַנְאָנָא וִיגִיחוּן בָּנָא קְרָב וְיִסְקוּן מִן אַרְעָא:",
+      "en": "Come let us deal wisely with him [them]. Lest he [they] increase so much, that, if there is war, he [they] will join our enemies and fight [a war] against us, driving us [and they will go up] from the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:11",
+      "he": "וּמַנִיאוּ עֲלֵיהוֹן שִׁלְטוֹנִין מַבְאִישִׁין בְּדִיל לְעַנוֹאֵהוֹן בְּפָלְחָנְהוֹן וּבְנוֹ קִרְוֵי בֵית אוֹצָרָא לְפַרְעֹה יָת פִּיתוֹם וְיָת רַעַמְסֵס:",
+      "en": "They appointed conscription [cruel] officers over him [them] to oppress him [them] with their burdens [work]. He [B’nei Yisrael] built supply cities for Pharaoh, Pisom and Ramseis.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:12",
+      "he": "וּכְמָא דִמְעַנַן לְהוֹן כֵּן סָגָן וְכֵן תַּקְפִין וַעֲקַת לְמִצְרָאֵי מִן קֳדָם בְּנֵי יִשְׂרָאֵל:",
+      "en": "But the more [the Egyptians] oppressed him [them], the more [the B’nei Yisrael] increased and spread [became strong]. [The Egyptians] came to loathe the B’nei Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:13",
+      "he": "וְאַפְלָחוּ מִצְרָאֵי יָת בְּנֵי יִשְׂרָאֵל בְּקַשְׁיוּ:",
+      "en": "The Egyptians enslaved the B’nei Yisrael, with body-breaking labor.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:14",
+      "he": "וְאַמְרָרוּ יָת חַיֵיהוֹן בְּפָלְחָנָא קָשְׁיָא בְּטִינָא וּבְלִבְנִין וּבְכָל פָּלְחָנָא בְּחַקְלָא יָת כָּל פָּלְחָנְהוֹן דְאַפְלָחוּ בְהוֹן בְּקַשְׁיוּ:",
+      "en": "They made their lives bitter with harsh labor involving mortar and bricks, and all kinds of work in the fields. All the work they made them do [was intended] to break them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:15",
+      "he": "וַאֲמַר מַלְכָּא דְמִצְרַיִם לְחַיָתָא יְהוּדַיָתָא דְשׁוּם חָדָא שִׁפְרָה וְשּׁוּם תִּנְיֵתָא פּוּעָה:",
+      "en": "The king of Egypt spoke to the Hebrew midwives. The name of one of them was Shifrah, and the name of the other was Puah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:16",
+      "he": "וַאֲמַר כַּד תֶּהֶוְיָן מוֹלְדָן יָת יְהוּדַיָתָא וְתֶחְזְיָן עַל מַתְבְּרָא אִם בַּר הוּא תִּקְטְלַן יָתֵהּ וְאִם בְּרַתָּא הִיא ותְקַיְמִנַהּ:",
+      "en": "He said, “When you deliver Hebrew women, you must look at the birthstool. If it is a boy, kill him; but if it is a girl, let her live.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:17",
+      "he": "וּדְחִילָא חַיָתָא מִן קֳדָם יְיָ וְלָא עֲבָדָא כְּמָא דְמַלִיל עִמְהֶן מַלְכָּא דְמִצְרָיִם וְקַיָמָא יָת בְּנַיָא:",
+      "en": "The midwives [however] feared [from before] Elohim and did not do as the Egyptian king had told them, and they kept the infant boys alive.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:18",
+      "he": "וּקְרָא מַלְכָּא דְמִצְרַיִם לְחַיָתָא וַאֲמַר לְהֶן מָה דֵין עֲבַדְתּוּן יָת פִּתְגָמָא הָדֵין וְקַיֵמְתּוּן יָת בְּנַיָא:",
+      "en": "The king of Egypt called for the midwives and said to them, “Why did you do this? You let the infant boys live.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:19",
+      "he": "וַאֲמָרָא חַיָתָא לְפַרְעֹה אֲרֵי לָא כִנְשַׁיָא מִצְרְיָתָא יְהוּדַיָתָא אֲרֵי חֲכִּימָן אִנוּן עַד לָא עַלַת לְוָתְהֶן חַיָתָא וִילִידָן:",
+      "en": "The midwives said to Pharaoh, “The Hebrew women are not like the Egyptians. They know how to deliver. Even before a midwife gets to them, they have already given birth.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:20",
+      "he": "וְאוֹטֵיב יְיָ לְחַיָתָא וּסְגִי עַמָא וּתְקִיפוּ לַחֲדָא:",
+      "en": "Elohim was good to the midwives, and the people increased and were very mighty.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:21",
+      "he": "וַהֲוָה כַּד דְחִילָא חַיָתָא מִן קֳדָם יְיָ וַעֲבַד לְהוֹן בָּתִּין:",
+      "en": "Because the midwives feared [from before] God, He gave them houses.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:22",
+      "he": "וּפַקִיד פַּרְעֹה לְכָל עַמֵהּ לְמֵימָר כָּל בְּרָא דְיִתְיְלִיד לִיהוּדָאֵי בְּנַהֲרָא תִּרְמֻנֵהּ וְכָל בְּרַתָּא תְּקַיְמוּן:",
+      "en": "Pharaoh then commanded all his people, saying, “Every boy who is born [to the Hebrews] must be thrown into the river; but every girl shall be allowed to live.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:1",
+      "he": "וַאֲזַל גַבְרָא מִדְבֵית לֵוִי וּנְסִיב יָת בַּת לֵוִי:",
+      "en": "A man of the house of Levi went and married the daughter of Levi.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:2",
+      "he": "וְעַדִיאַת אִתְּתָא וִילִידַת בָּר וַחֲזַת יָתֵהּ אֲרֵי טַב הוּא וְאַטְמַרְתֵּהּ תְּלָתָא יַרְחִין:",
+      "en": "The woman conceived and bore a son. She saw that he was [exceptionally] good, and she kept him hidden for three months.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:3",
+      "he": "וְלָא יְכֵילַת עוֹד לְאַטְמָרוּתֵהּ וּנְסֵיבַת לֵהּ תֵּבוּתָא דְגוֹמֶא וְחַפָּתַהּ בְּחֵמָרָא וּבְזִפְתָּא וְשַׁוִיאַת בַּהּ יָת רַבְיָא וְשַׁוִיתַהּ בְּיַעֲרָא עַל כֵּיף נַהֲרָא:",
+      "en": "When she could no longer hide him, she took a papyrus box and coated it with clay and tar. She placed the child in it, and placed it in the reeds near the bank of the river.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:4",
+      "he": "וְאִתְעַתָּדַת אֲחָתֵהּ מֵרָחִיק לְמִידַע מָה יִתְעֲבֵד לֵהּ:",
+      "en": "[The child’s] sister stood herself at a distance to see what would happen to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:5",
+      "he": "וּנְחָתַת בַּת פַּרְעֹה לְמִסְחֵי עַל נַהֲרָא וְעוּלֵימָתָהָא מְהַלְכָן עַל כֵּיף נַהֲרָא וַחֲזַת יָת תֵּבוּתָא בְּגוֹ יַעֲרָא וְאוֹשֵׁטַת יָת אַמְתַהּ וּנְסֵבְתַהּ:",
+      "en": "Pharaoh’s daughter went down to bathe by the river, while her maids walked along the river’s edge. She saw the box among the reeds and sent her maid and she fetched it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:6",
+      "he": "וּפְתָחַת וַחֲזַת יָת רַבְיָא וְהָא עוּלֵימָא בָּכֵי וְחָסַת עֲלוֹהִי וַאֲמֶרֶת מִבְּנֵי יְהוּדָאֵי הוּא דֵין:",
+      "en": "She opened it and saw the child, and behold a boy was crying. She took pity on it, and said, “This is one of the Hebrew boys.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:7",
+      "he": "וַאֲמֶרֶת אֲחָתֵהּ לְבַת פַרְעֹה הַאֵיזִיל וְאִקְרֵי לִיךְ אִתְּתָא מֵינִקְתָּא מִן יְהוּדַיָתָא וְתוֹנִיק לִיךְ יָת רַבְיָא:",
+      "en": "[The infant’s] sister said to Pharaoh’s daughter, “Shall I go and call to you a nursing [mother] from the Hebrew women to nurse the child for you?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:8",
+      "he": "וַאֲמֶרֶת לַהּ בַּת פַּרְעֹה אֵיזִילִי וַאֲזָלַת עוּלֶמְתָּא וּקְרַת יָת אִמֵהּ דְרַבְיָא:",
+      "en": "“Go,” said Pharaoh’s daughter to her. The young girl went and called the child’s mother.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:9",
+      "he": "וַאֲמֶרֶת לַהּ בַּת פַּרְעֹה אוֹבִילִי יָת רַבְיָא הָדֵין וְאוֹנְקִיהִי לִי וַאֲנָא אֶתֵּן יָת אַגְרָךְ וּנְסֵיבַת אִתְּתָא יָת רַבְיָא וְאוֹנִקְתֵּהּ:",
+      "en": "Pharaoh’s daughter said to her [the child’s mother], “Take this child and nurse him for me, and I will pay your fee.” The woman took the child and nursed it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:10",
+      "he": "וּרְבָא רַבְיָא וְאַיְתִיתֵהּ לְבַת פַּרְעֹה וַהֲוָה לָהּ לְבָר וּקְרַת שְׁמֵהּ משֶׁה וַאֲמֶרֶת אֲרֵי מִן מַיָא שְׁחַלְתֵּהּ:",
+      "en": "When the child grew up, she brought him to Pharaoh’s daughter, and he became her son. She named him Moshe, for she said, “I drew him from the water.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:11",
+      "he": "וַהֲוָה בְּיוֹמַיָא הָאִנוּן וּרְבָא משֶׁה וּנְפַק לְוָת אַחוֹהִי וַחֲזָא בְּפָלְחַנְהוֹן וַחֲזָא גְבַר מִצְרִי מָחֵי לִגְבַר יְהוּדִי מֵאַחוֹהִי:",
+      "en": "It was in those days when Moshe was grown that he [began] to go out to his brethren, and he saw their burdens [hard labor]. [One day] he saw an Egyptian beating one of his Hebrew brethren.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:12",
+      "he": "וְאִתְפְּנֵי לְכָא וּלְכָא וַחֲזָא אֲרֵי לֵית גַבְרָא וּמְחָא יָת מִצְרָאָה וְטַמְרֵהּ בְּחָלָא:",
+      "en": "He [Moshe] looked all around and [when] he saw that no man was there [watching], he killed the Egyptian and hid his body in the sand.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:13",
+      "he": "וּנְפַק בְּיוֹמָא תִנְיָנָא וְהָא תְּרֵין גֻבְרִין יְהוּדָאִין נָצָן וַאֲמַר לְחַיָבָא לְמָא אַתְּ מָחֵי לְחַבְרָךְ:",
+      "en": "He went out the next day, and behold two Hebrew men were quarreling. And he said to the wicked one, “Why are you beating your friend?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:14",
+      "he": "וַאֲמַר מָן שַׁוְיָךְ לִגְבַר רַב וְדַיָן עֲלָנָא הַלְמִקְטְלִי אַתְּ אָמַר כְּמָא דִקְטַלְתָּ יָת מִצְרָאָה וּדְחִיל משֶׁה וַאֲמַר בְּקוּשְׁטָא אִתְיְדַע פִּתְגָמָא:",
+      "en": "He [the wicked one] said, “Who made you a man, officer and judge over us? Do you intend to kill me as you killed the Egyptian?” Moshe was frightened, and he said, “So [Certainly] the matter is known.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:15",
+      "he": "וּשְׁמַע פַּרְעֹה יָת פִּתְגָמָא הָדֵין וּבְעָא לְמִקְטַל יָת משֶׁה וַעֲרַק משֶׁה מִן קֳדָם פַּרְעֹה וִיתֵיב בְּאַרְעָא דְמִדְיָן וִיתֵיב עַל בֵּירָא:",
+      "en": "Pharaoh heard about the matter, and he planned to kill Moshe. Moshe fled from Pharaoh, and resided in the land of Midian, and he sat [lived] near the well.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:16",
+      "he": "וּלְרַבָּא דְמִדְיָן שְׁבַע בְּנָן וְאָתָאָה וּדְלָאָה וּמְלָאָה יָת רְהָטַיָא לְאַשְׁקָאָה עֲנָא דַאֲבוּהֵן:",
+      "en": "The priest [minister] of Midian had seven daughters. They came to draw water [from the well] and fill the troughs to water their father’s sheep.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:17",
+      "he": "וַאֲתוֹ רָעַיָא וּטְרָדוּנוּן וְקָם משֶׁה וּפְרָקִנוּן וְאַשְׁקֵי יָת עַנְהֵן:",
+      "en": "Then the shepherds came and chased them away. Moshe got up and came to their aid, and then watered their sheep.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:18",
+      "he": "וַאֲתָאָה לְוַת רְעוּאֵל אֲבוּהֵן וַאֲמַר מָה דֵין אוֹחִיתוּן לְמֵיתֵי יוֹמָא דֵין:",
+      "en": "When they came to Reu’eil, their father, he said [to them], “How did you get to come [home] so early today?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:19",
+      "he": "וַאֲמָרָא גַבְרָא מִצְרָאָה שֵׁזְבָנָא מִיַד רָעַיָא וְאַף מִדְלָא דְלָא לָנָא וְאַשְׁקֵי יָת עָנָא:",
+      "en": "They said, “An Egyptian rescued us from the hand of the shepherds; and he also drew [water] for us, and watered the sheep.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:20",
+      "he": "וַאֲמַר לִבְנָתֵיהּ וְאָן הוּא לְמָא דְנַן שְׁבַקְתִּין יָת גַבְרָא קְרַן לֵהּ וְיֵכוּל לַחְמָא:",
+      "en": "He said to his daughters, “And where is he? Why did you abandon the man? Call him and let him eat bread.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:21",
+      "he": "וּצְבִי משֶׁה לְמִיתַב עִם גַבְרָא וִיהַב יָת צִפּוֹרָה בְרַתֵּהּ לְמשֶׁה:",
+      "en": "Moshe agreed to reside with the man, and he gave Moshe his daughter Tzipporah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:22",
+      "he": "וִילִדַת בַּר וּקְרָא יָת שְׁמֵהּ גֵרְשֹׁם אֲרֵי אֲמַר דַיָר הֲוֵיתִי בְּאַרַע נוּכְרָאָה:",
+      "en": "When she gave birth to a son, he named him Gershom, for he said, “I have been a foreigner in a strange land.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:23",
+      "he": "וַהֲוָה בְּיוֹמַיָא סַגִיאַיָא הָאִנוּן וּמִית מַלְכָּא דְמִצְרַיִם וְאִתְנָחוּ בְנֵי יִשְׂרָאֵל מִן פָּלְחָנָא דַהֲוָה קְשֵׁי עֲלֵיהוֹן וּזְעִיקוּ וּסְלֵיקָת קְבֶלְתְּהוֹן לָקֳדָם יְיָ מִן פָּלְחָנָא:",
+      "en": "A long time passed and the king of Egypt died. The B’nei Yisrael moaned because of their enslavement [which was hard upon them], and they cried. Their plea about their enslavement went up to [before] God.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:24",
+      "he": "וּשְׁמִיעַ קֳדָם יְיָ יָת קְבֶלְתְּהוֹן וּדְכִיר יְיָ יָת קַיָמֵהּ דְעִם אַבְרָהָם דְעִם יִצְחָק וּדְעִם יַעֲקֹב:",
+      "en": "Elohim heard their groaning [was heard before Elohim] and Elohim remembered His covenant with Avraham, with Yitzchok and with Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:25",
+      "he": "וּגְלִי קְדָם יְיָ שִׁעְבּוּדָא דִבְנֵי יִשְׂרָאֵל וַאֲמַר בְּמֵימְרֵהּ לְמִפְרַקְהוֹן יְיָ:",
+      "en": "Elohim saw [The enslavement of] the B’nei Yisrael [became revealed before Elohim], and Elohim took knowledge of them [said with His Word that He would deliver them].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:1",
+      "he": "וּמשֶׁה הֲוָה רָעֵי יָת עָנָא דְיִתְרוֹ חֲמוֹהִי רַבָּא דְמִדְיָן וּדְבַר יָת עָנָא לְבָתַר שְׁפַר רַעֲיָא לְמַדְבְּרָא וְאָתָא לְטוּרָא דְאִתְגְלִי עֲלוֹהִי יְקָרָא דַיְיָ לְחוֹרֵב:",
+      "en": "Moshe tended the sheep of his father-in-law Yisro, priest [minister] of Midian. He led the sheep to the edge of the wilderness [to the best pastures] and he came to the mountain [on which was the revealed the Glory] of God, in the area of Choreiv.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:2",
+      "he": "וְאִתְגְלִי מַלְאָכָא דַיְיָ לֵהּ בְּשַׁלְהוֹבִית אֶשָׁתָא מִגוֹ אַסָנָא וַחֲזָא וְהָא אַסָנָא בָּעֵר בְּאֶשְָׁתָא וַאֲסָנָא לֵיתוֹהִי מִתְאָכִיל:",
+      "en": "An angel of Adonoy appeared [became revealed] to him [Moshe] in the heart [a flame] of a fire in the midst of a thorn-bush. He looked and behold the bush was on fire, but the bush was not being consumed.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:3",
+      "he": "וַאֲמַר משֶׁה אִתְפְּנֵי כְעַן וְאֶחֱזֵי יָת חָזְוָנָא רַבָּא הָדֵין מָא דֵין לָא מִתּוֹקַד אַסָנָא:",
+      "en": "Moshe said, “I must turn aside and see [investigate] this great sight. Why doesn’t the bush burn?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:4",
+      "he": "וַחֲזָא יְיָ אֲרֵי אִתְפְּנֵי לְמֶחֱזֵי וּקְרָא לֵהּ יְיָ מִגוֹ אַסָנָא וַאֲמַר משֶׁה משֶׁה וַאֲמַר הָא אֲנָא:",
+      "en": "When Adonoy saw that [Moshe] turned aside to see, Elohim called to him from the midst of the thorn-bush, and said, “Moshe, Moshe.’” He [Moshe] said, “Here I am.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:5",
+      "he": "וַאֲמַר לָא תִקְרַב הַלְכָא שְׁרִי סֵינָךְ מֵעַל רִגְלָךְ אֲרֵי אַתְרָא דְאַתְּ קָאִים עֲלוֹהִי אֲתַר קַדִישׁ הוּא:",
+      "en": "He [God] said, “Do not come any closer. Take your shoes off your feet, because the place upon which you are standing is [a] holy ground [place].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:6",
+      "he": "וַאֲמַר אֲנָא אֱלָהָא דְאָבוּךְ אֱלָהָא דְאַבְרָהָם אֱלָהָא דְיִצְחָק וֵאלָהָא דְיַעֲקֹב וּכְבֵשִׁנּוּן משֶׁה לְאַפּוֹהִי אֲרֵי דָחִיל מִלְאִסְתַּכָּלָא בְּצֵית יְקָרָא דַיְיָ:",
+      "en": "He [God] then said, “I am the God of your father, the God of Avraham, the God of Yitzchok, and the God of Yaakov.” Moshe hid his face, for he was afraid to look at [the side of the Glory of] Elohim.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:7",
+      "he": "וַאֲמַר יְיָ מִגְלָא גְלִי קֳדָמַי יָת שִׁעְבּוּד עַמִי דִי בְמִצְרָיִם וְיָת קְבֶלְתְּהוֹן שְׁמִיעַ קֳדָמַי מִן קֳדָם מַפְלְחֵיהוֹן אֲרֵי גְלֵי קָדָמַי יָת כֵּיבֵיהוֹן:",
+      "en": "Adonoy said, “I have indeed seen the suffering of My people that are in Egypt [has indeed been revealed before Me]. I have heard how they [Their] cry out [is heard before Me] because [of the harshness] of their slave-masters, and I am aware of their pain [has become revealed before Me].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:8",
+      "he": "וְאִתְגְלֵיתִי לְשֵׁזָבוּתְהוֹן מִידָא דְמִצְרָאֵי וּלְאַסָקוּתְהוֹן מִן אַרְעָא הַהִיא לְאַרְעָא טָבָא וּפַתְיָא לְאַרְעָא עָבְדָא חֲלָב וּדְבָשׁ לַאֲתַר כְּנַעֲנָאֵי וְחִתָּאֵי וֶאֱמוֹרָאֵי וּפְרִזָאֵי וְחִוָאֵי וִיבוּסָאֵי:",
+      "en": "I have descended [become revealed] to free them from the hand of Egypt, and to bring them up from that land to a good, spacious land, to a land flowing with [producing] milk and honey; to the territory of the Canaanites, the Chittites, the Emorites, the Perizites, the Chivites and the Yevusites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:9",
+      "he": "וּכְעַן הָא קְבֵילַת בְּנֵי יִשְׂרָאֵל עָלַת קֳדָמָי וְאַף גְלֵי קֳדָמַי יָת דוֹחֲקָא דִי מִצְרָאֵי דָחֲקִין לְהוֹן:",
+      "en": "Now, behold, the cry of the B’nei Yisrael has come to [before] Me. I have also seen the oppression with which the Egyptians oppress them [is also revealed before Me].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:10",
+      "he": "וּכְעַן אִיתָא וַאֲשַׁלְחִנָּךְ לְוַת פַּרְעֹה וְאַפֵּיק יָת עַמִי בְנֵי יִשְׂרָאֵל מִמִצְרָיִם:",
+      "en": "Now go [come]. I am sending you to Pharaoh, and you will bring My people, the B’nei Yisrael, out of Egypt.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:11",
+      "he": "וַאֲמַר משֶׁה קֳדָם יְיָ מָן אֲנָא אֲרֵי אֵזִיל לְוָת פַּרְעֹה וַאֲרֵי אַפֵּיק יָת בְּנֵי יִשְׂרָאֵל מִמִצְרָיִם:",
+      "en": "Moshe said to [before] Elohim, “Who am I that I should go to Pharaoh? Am I able to bring the B’nei Yisrael out of Egypt?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:12",
+      "he": "וַאֲמַר אֲרֵי יְהֵי מֵימְרִי בְסַעְדָךְ וְדֵין לָךְ אָתָא אֲרֵי אֲנָא שְׁלַחְתָּךְ בְּאַפָּקוּתָךְ יָת עַמָא מִמִצְרַיִם תִּפְלְחוּן קֳדָם יְיָ עַל טוּרָא הָדֵין:",
+      "en": "He [God] said, “Because I will be with you [My Word will be your support]. This will be the proof that I have sent you—when you bring the people out of Egypt—you will serve [before] Elohim on this mountain.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:13",
+      "he": "וַאֲמַר משֶׁה קֳדָם יְיָ הָא אֲנָא אָתֵי לְוָת בְּנֵי יִשְׂרָאֵל וְאֵימַר לְהוֹן אֱלָהָא דְאַבְהַתְכוֹן שַׁלְחַנִי לְוָתְכוֹן וְיֵימְרוּן לִי מָא שְׁמֵהּ מָא אֵימַר לְהוֹן:",
+      "en": "Moshe said to [before] Elohim, “Behold, when I come to the B’nei Yisrael and say to them, ‘The God of your fathers sent me to you,’ they will say to me, ‘What is His name?’ What shall I say to them?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:14",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה אֶהְיֶה אֲשֶׁר אֶהְיֶה וַאֲמַר כִּדְנַן תֵּימַר לִבְנֵי יִשְׂרָאֵל אֶהְיֶה שַׁלְחַנִי לְוָתְכוֹן:",
+      "en": "Elohim said to Moshe, “Eh’yeh Asher Eh’yeh;” and He said, “This is what you must say to the B’nei Yisrael, ‘Eh’yeh sent me to you.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:15",
+      "he": "וַאֲמַר עוֹד יְיָ לְמשֶׁה כִּדְנַן תֵּימַר לִבְנֵי יִשְׂרָאֵל יְיָ אֱלָהָא דְאַבְהַתְכוֹן אֱלָהֵהּ דְאַבְרָהָם אֱלָהֵהּ דְיִצְחָק וֵאלָהֵהּ דְיַעֲקֹב שַׁלְחַנִי לְוָתְכוֹן דֵין שְׁמִי לְעָלַם וְדֵין דָכְרָנִי לְכָל דָר וְדָר:",
+      "en": "Elohim continued talking to Moshe, “This is what you must say to the B’nei Yisrael, ‘Adonoy, the God of your fathers, the God of Avraham, the God of Yitzchok, and the God of Yaakov, sent me to you. This is My eternal Name, and this is how I am to be mentioned for all generations.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:16",
+      "he": "אִזֵיל וְתִכְנוֹשׁ יָת סָבֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן יְיָ אֱלָהָא דְאַבְהַתְכוֹן אִתְגְלֵי לִי אֱלָהֵהּ דְאַבְרָהָם יִצְחָק וְיַעֲקֹב לְמֵימָר מִדְכַּר דְכִירְנָא יַתְכוֹן וְיָת דְאִתְעֲבַד לְכוֹן בְּמִצְרַיִם:",
+      "en": "“Go, gather the elders of Yisrael, and say to them, ‘Adonoy, the God of your fathers appeared [became revealed] to me—the God of Avraham, Yitzchok and Yaakov—saying, “I have indeed been mindful of you, regarding that which is being done to you in Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:17",
+      "he": "וַאֲמָרִית אַסֵיק יָתְכוֹן מִשִׁעְבּוּד מִצְרָאֵי לַאֲרַע כְּנַעֲנָאֵי וְחִתָּאֵי וֶאֱמוֹרָאֵי וּפְרִזָאֵי וְחִוָאֵי וִיבוּסָאֵי לְאַרְעָא עַבְדָא חֲלָב וּדְבָשׁ:",
+      "en": "I have said, I will bring you up out of the suffering of Egypt, to the land of the Canaanites, the Chittites, the Emorites, the Perizites, the Chivites and the Yevusites; to a land flowing with [producing] milk and honey.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:18",
+      "he": "וִיקַבְּלוּן לְמֵימְרָךְ וְתֵיתֵי אַתְּ וְסָבֵי יִשְׂרָאֵל לְוָת מַלְכָּא דְמִצְרַיִם וְתֵימְרוּן לֵהּ יְיָ אֱלָהָא דִיהוּדָאֵי אִתְקְרֵי עֲלָנָא וּכְעַן נֵזֵיל כְּעַן מַהֲלַךְ תְּלָתָא יוֹמִין בְּמַדְבְּרָא וּנְדַבַּח קֳדָם יְיָ אֱלָהָנָא:",
+      "en": "They will listen to [obey] your voice [Words]. You and the elders of Yisrael will come to the king of Egypt, and say to him, ‘Adonoy, God of the Hebrews happened to meet with us. Now we request that you let us go [now] into the wilderness for three days, to bring an offering [sacrifice] to [before] Adonoy, our God.’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:19",
+      "he": "וּקְדָמַי גְלֵי אֲרֵי לָא יִשְׁבּוֹק יָתְכוֹן מַלְכָּא דְמִצְרַיִם לְמֵיזָל וְלָא מִן קֳדָם דְחֵילֵהּ תַּקִיף:",
+      "en": "I know [It is revealed before Me] that the king of Egypt will not allow you to go [on this journey], but not because of his [power is] strong hand.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:20",
+      "he": "וָאֲשַׁלַח פּוֹן יָת מְחַת גְבֻרְתִּי וְאֶמְחֵי יָת מִצְרָאֵי בְּכֹל פְּרִשְׁוָתִי דִי אַעְבֵּד בֵּינֵיהוֹן וּבָתַר כֵּן יְשַׁלַח יָתְכוֹן:",
+      "en": "I will then send forth my hand [the blow of My power], and strike Egypt with all My wondrous deeds that I will perform in their midst. Then he [Pharaoh] will send you out.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:21",
+      "he": "וְאֶתֵּן יָת עַמָא הָדֵין לְרַחֲמִין בְּעֵינֵי מִצְרָאֵי וִיהֵי אֲרֵי תְהָכוּן לָא תְהָכוּן רֵיקָנִין:",
+      "en": "I will give this people grace in the eyes of the Egyptians; and when you go, you will not leave empty handed.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:22",
+      "he": "וְתִשְׁאַל אִתְּתָא מִשְׁבַבְתַּהּ וּמִקְרִיבַת בֵּיתַהּ מָנִין דִכְסַף וּמָנִין דִדְהַב וּלְבוּשִׁין וּתְשַׁווּן עַל בְּנֵיכוֹן וְעַל בְּנָתֵיכוֹן וּתְרוֹקִנוּן יָת מִצְרָיִם:",
+      "en": "Every woman shall borrow from her neighbor, and from the woman living in her house, articles of silver and gold, and clothing. You shall put them on your sons and daughters, and thus you will divest Egypt of its wealth.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:1",
+      "he": "וַאֲתֵיב משֶׁה וַאֲמַר וְהָא לָא יְהֵמְנוּן לִי וְלָא יְקַבְּלוּן מִנִי אֲרֵי יֵימְרוּן לָא אִתְגְלֵי לָךְ יְיָ:",
+      "en": "Moshe answered and said, “They will not believe me. They will not listen to my voice [obey me]. They will say, ‘Adonoy did not appear [become revealed] to you.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:2",
+      "he": "וַאֲמַר לֵהּ יְיָ מָא דֵין בִּידָךְ וַאֲמַר חוּטְרָא:",
+      "en": "Adonoy said to him, “What is that in your hand?” He said, “A rod.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:3",
+      "he": "וַאֲמַר רְמִיהִי לְאַרְעָא וּרְמָהִי לְאַרְעָא וַהֲוָה לְחִוֵי וַעֲרַק משֶׁה מִן קֳדָמוֹהִי:",
+      "en": "[God] said, “Throw it on the ground.” He [Moshe] threw it on the ground and it turned into a snake. Moshe ran away from it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:4",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה אוֹשִׁט יְדָךְ וְאֵחוֹד בְּזַנְבֵהּ וְאוֹשֵׁיט יְדֵהּ וְאַתְקֵף בֵּהּ וַהֲוָה לְחוּטְרָא בִּידֵהּ:",
+      "en": "Adonoy said to Moshe, “Reach out your hand and grasp its tail.” He reached out his hand and took hold of it, and it became a rod in his hand.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:5",
+      "he": "בְּדִיל דִיהֵמְנוּן אֲרֵי אִתְגְלִי לָךְ יְיָ אֱלָהָא דְאַבְהַתְהוֹן אֱלָהֵהּ דְאַבְרָהָם אֱלָהֵהּ דְיִצְחָק וֵאֵלָהֵהּ דְיַעֲקֹב:",
+      "en": "“This is so that they will believe that Adonoy appeared [became revealed] to you; the God of their fathers, God of Avraham, God of Yitzchok and God of Yaakov.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:6",
+      "he": "וַאֲמַר יְיָ לֵהּ עוֹד אָעֵיל כְּעַן יְדָךְ בְּעִטְפָךְ וְאָעֵיל יְדֵהּ בְּעִטְפֵהּ וְאַפְקַהּ וְהָא יְדֵהּ חַוְרָא כְתַלְגָא:",
+      "en": "Adonoy said furthermore to him [Moshe], “Put your hand into your bosom.” He put his hand into his bosom, and when he withdrew it, his hand had become a snow-like tzora’as [white as snow].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:7",
+      "he": "וַאֲמַר אָתֵיב יְדָךְ לְעִטְפָךְ וַאֲתֵיב יְדֵהּ לְעִטְפֵהּ וְאַפְקַהּ מֵעִטְפֵהּ וְהָא תָבַת הֲוַת כְּבִשְׂרֵהּ:",
+      "en": "He [Adonoy] said, “Put your hand into your bosom again.” [Moshe] put his hand into his bosom again, and when he withdrew it from his bosom, it had become [normal] as his flesh.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:8",
+      "he": "וִיהֵי אִם לָא יְהֵמְנוּן לָךְ וְלָא יְקַבְּלוּן לְקַל אָתָא קַדְמָאָה וִיהֵמְנוּן לְקַל אָתָא בַתְרָאָה:",
+      "en": "“If they do not believe you, and they do not listen to [accept] the voice [of proof] of the first [miraculous] sign; then they will believe the voice [of proof] of the latter [second] sign.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:9",
+      "he": "וִיהֵי אִם לָא יְהֵמְנוּן אַף לִתְרֵין אָתַיָא הָאִלֵּין וְלָא יְקַבְּלוּן מִנָךְ וְתִסַב מִמַיָא דִבְנַהֲרָא וְתֵשׁוֹד לְיַבֶּשְׁתָּא וִיהוֹן מַיָא דִי תִסַב מִן נַהֲרָא וִיהוֹן לִדְמָא בְּיַבֶּשְׁתָּא:",
+      "en": "And if they will not believe even these two signs, and they will not listen to your voice [accept you], then you shall take from the water of the river and pour it on the dry land. The water that you will take from the river will turn into blood on the dry land.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:10",
+      "he": "וַאֲמַר משֶׁה קֳדָם יְיָ בְּבָעוּ יְיָ לָא גְבַר דְמִלוּל אֲנָא אַף מִתְּמַלִי אַף מִדְקָמוֹהִי אַף מֵעִדַן דְמַלֶלְתָּא עִם עַבְדָךְ אֲרֵי יַקִיר מַמְלָל וְעַמִיק לִישָׁן אֲנָא:",
+      "en": "Moshe said to [before] Adonoy, “I beg You Adonoy, I am not a man of words—not since yesterday, not since the day before—not from the time You [first] spoke to Your servant, for I am clumsy [slow] of mouth [speech] [heavy of speech] and clumsy [slow] of tongue [language].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:11",
+      "he": "וַאֲמַר יְיָ לֵהּ מָן שַׁוִי פּוּמָא לַאֲנָשָׁא אוֹ מָן שַׁוִי אִלְמָא אוֹ חֵרְשָׁא אוֹ פִקְחָא אוֹ עַוִירָא הֲלָא אֲנָא יְיָ:",
+      "en": "Adonoy said to him, “Who gave man a mouth, or who makes [a person] dumb or deaf? [Who makes a person] see or makes him blind? Is it not I—Adonoy?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:12",
+      "he": "וּכְעַן אֱזֵיל וּמֵימְרִי יְהֵא עִם פּוּמָךְ וְאַלֵפִנָךְ דִי תְמַלֵל:",
+      "en": "Now go. I [My Word] will be with your mouth, and teach you what to say.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:13",
+      "he": "וַאֲמַר בְּבָעוּ יְיָ שְׁלַח כְּעַן בְּיַד מָן דְכָשַׁר דְתִשְׁלַח:",
+      "en": "[Moshe] said, “I beg You Adony [my Master,] please [now] send the one You usually send [who is fit to be sent].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:14",
+      "he": "וּתְקֵיף רוּגְזָא דַיְיָ בְּמשֶׁה וַאֲמַר הֲלָא אַהֲרֹן אָחוּךְ לֵוָאֵי גְלֵי קֳדָמַי אֲרֵי מַלָלָא יְמַלֵל הוּא וְאַף הָא הוּא נָפֵק לְקַדָמוּתָךְ וְיֶחֱזִנָךְ וְיֶחְדֵי בְלִבֵּהּ:",
+      "en": "Adonoy displayed anger toward Moshe and said, “Is not Aharon, the Levite, your brother? I know [It is revealed before Me] that he knows how to speak. Behold he is setting out to meet you, and when he sees you he will rejoice in his heart.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:15",
+      "he": "וּתְמַלֵל עִמֵהּ וּתְשַׁוִי יָת פִּתְגָמַיָא בְּפוּמֵהּ וּמֵימְרִי יְהֵי עִם פּוּמָךְ וְעִם פּוּמֵהּ וְאַלֵיף יָתְכוֹן יָת דִי תַעְבְּדוּן:",
+      "en": "You will speak to him and put the words in his mouth. I [My Word] will be with your mouth and with his mouth, and I will teach you what to do.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:16",
+      "he": "וִימַלֵל הוּא לָךְ לְעַמָא וִיהֵי הוּא יְהֵי לָךְ לִמְתֻרְגְמָן וְאַתְּ תְּהֵי לֵהּ לְרָב:",
+      "en": "He will speak to the people for you. He will be your spokesman, and you will be his master.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:17",
+      "he": "וְיָת חֻטְרָא הָדֵין תִּסַב בִּידָךְ דְתַעְבֵּד בֵּהּ יָת אָתַיָא:",
+      "en": "Take this rod in your hand, for with it you will perform the [miraculous] signs.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:18",
+      "he": "וַאֲזַל משֶׁה וְתָב לְוָת יֶתֶר חֲמוֹהִי וַאֲמַר לֵהּ אֵיזִיל כְּעַן וְאֵיתוּב לְוָת אַחַי דִי בְמִצְרַיִם וְאֶחֱזֵי הַעַד כְּעַן קַיָמִין וַאֲמַר יִתְרוֹ לְמשֶׁה אֱזֵיל לִשְׁלָם:",
+      "en": "Moshe went and returned to Yeser, his father-in-law, and said to him, “I would like to leave [now] and return to my brothers in Egypt, to see if they are still alive.” Yisro said to Moshe, “Go in peace.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:19",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה בְּמִדְיָן אֱזֵיל תּוּב לְמִצְרָיִם אֲרֵי מִיתוּ כָּל גֻבְרַיָא דִבְעוֹ לְמִקְטְלָךְ:",
+      "en": "Adonoy said to Moshe in Midian, “Go, return to Egypt, for they have died—all the men who had sought your life [to kill you].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:20",
+      "he": "וּדְבַר משֶׁה יָת אִתְּתֵהּ וְיָת בְּנוֹהִי וְאַרְכְּבִנוּן עַל חֲמָרָא וְתָב לְאַרְעָא דְמִצְרָיִם וּנְסִיב משֶׁה יָת חוּטְרָא דְאִתְעֲבִידוּ בֵּהּ נִסִין מִן קֳדָם יְיָ בִּידֵהּ:",
+      "en": "Moshe [then] took his wife and his sons, set them to ride on the donkey, and he returned to the land of Egypt. Moshe took the rod of [with which miracles had been carried out before] God in his hand.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:21",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה בִּמְהָכָךְ לְמִתּוּב לְמִצְרַיִם חֲזֵי כָּל מוֹפְתַיָא דִי שַׁוֵיתִי בִידָךְ וְתַעְבְּדִנוּן קֳדָם פַּרְעֹה וַאֲנָא אַתְקֵיף יָת לִבֵּהּ וְלָא יְשַּׁלַח יָת עַמָא:",
+      "en": "Adonoy said to Moshe, “On your way back to Egypt, see [keep in mind] all the wondrous [signs] that I have placed in your hand, and do them before Pharaoh. I will harden his heart, and he will not send the people out.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:22",
+      "he": "וְתֵימַר לְוָת פַּרְעֹה כִּדְנַן אֲמַר יְיָ בְּרִי בוּכְרִי יִשְׂרָאֵל:",
+      "en": "You will say to Pharaoh, This is what Adonoy said, Yisroel is My son, My firstborn.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:23",
+      "he": "וַאֲמָרִית לָךְ שַׁלַח יָת בְּרִי וְיִפְלַח קֳדָמַי וְאִם סָרִיב אַתְּ לְשַׁלָחוּתֵהּ הָא אֲנָא קָטִיל יָת בְּרָךְ בּוּכְרָךְ:",
+      "en": "And I have said to you, send out My son and let him serve [before] Me. If you refuse to send him, behold, I will slay your [own] firstborn son.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:24",
+      "he": "וַהֲוָה בְאָרְחָא בְּבֵית מְבָתָא וַעֲרַע בֵּהּ מַלְאֲכָא דַיְיָ וּבְעָא לְמִקְטְלֵהּ:",
+      "en": "He [Moshe] was along the way, in the inn, [an Angel of] Adonoy confronted him, and wanted to kill him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:25",
+      "he": "וּנְסֵיבַת צִפּוֹרָה טִנָרָא וּגְזָרַת יָת עָרְלַת בְּרַהּ וּקְרִיבַת לָקֳדָמוֹהִי וַאֲמֶרֶת אֲרֵי בִדְמָא דִמְהֻלְתָּא הָדֵין אִתְיְהֵב חַתְנָא לָנָא:",
+      "en": "Tzipporah took a flint-stone and cut off her son’s foreskin, and threw it at his feet [brought it before him], saying, “You are a bridegroom of blood to me [With this blood of circumcision, a husband is given to us].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:26",
+      "he": "וְנָח מִנֵהּ בְּכֵן אֲמֶרֶת אִלוּלֵי דְמָא דִמְהֻלְתָּא הָדֵין אִתְחַיַב חַתְנָא קְטוֹל:",
+      "en": "He then withdrew from him [Moshe. Then she said, “[You are] a bridegroom of blood [to me] because of the circumcision [Were it not for this blood of circumcision, my husband would have deserved to be killed].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:27",
+      "he": "וַאֲמַר יְיָ לְאַהֲרֹן אֱזֵיל לְקַדָמוּת משֶׁה לְמַדְבְּרָא וַאֲזַל וְעַרְעֵהּ בְּטוּרָא דְאִתְגְלֵי עֲלוֹהִי יְקָרָא דַיְיָ וּנְשַׁק לֵהּ:",
+      "en": "Adonoy said to Aharon, “Go meet Moshe in the desert.” He [Aharon] went and met him at the mountain [upon which was revealed the Glory] of God and he kissed him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:28",
+      "he": "וְחַוִי משֶׁה לְאַהֲרֹן יָת כָּל פִּתְגָמַיָא דַיְיָ דִי שַׁלְחֵהּ וְיָת כָּל אָתַיָא דִי פַקְדֵהּ:",
+      "en": "Moshe told Aharon all the words of Adonoy with which He had sent him; and all the [miraculous] signs that He had commanded him [to demonstrate].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:29",
+      "he": "וַאֲזַל משֶׁה וְאַהֲרֹן וּכְנָשׁוּ יָת כָּל סָבֵי בְּנֵי יִשְׂרָאֵל:",
+      "en": "Moshe and Aharon went [to Egypt] and they gathered all the elders of the B’nei Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:30",
+      "he": "וּמַלִיל אַהֲרֹן יָת כָּל פִּתְגָמַיָא דִי מַלִיל יְיָ עִם משֶׁה וַעֲבַד אָתַיָא לְעֵינֵי עַמָא:",
+      "en": "Aharon spoke all the words that Adonoy had spoken to Moshe, and he demonstrated the [miraculous] signs in the eyes [sight] of the people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:31",
+      "he": "וְהֵימִן עַמָא וּשְׁמָעוּ אֲרֵי דְכִיר יְיָ יָת בְּנֵי יִשְׂרָאֵל וַאֲרֵי גְלֵי קֳדָמוֹהִי יָת שִׁעְבּוּדְהוֹן וּכְרָעוּ וּסְגִידוּ:",
+      "en": "The people believed. When they heard that Adonoy was mindful of the B’nei Yisrael, and that He had seen their suffering [was revealed before Him], they bowed their heads and prostrated themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:1",
+      "he": "וּבָתַר כֵּן עַלוּ משֶׁה וְאַהֲרֹן וַאֲמָרוּ לְפַרְעֹה כִּדְנַן אֲמַר יְיָ אֱלָהָא דְיִשְׂרָאֵל שַׁלַח יָת עַמִי וִיחַגוּן קֳדָמַי בְּמַדְבְּרָא:",
+      "en": "Afterwards Moshe and Aharon went and said to Pharaoh, “This is what Adonoy, God of Yisrael said, ‘Send My people, so they may celebrate a festival to [before] Me in the wilderness.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:2",
+      "he": "וַאֲמַר פַּרְעֹה שְׁמָא דַיְיָ לָא אִתְגְלִי לִי דִי אֲקַבֵּל לְמֵמְרֵהּ לְשַׁלָחָא יָת יִשְׂרָאֵל לָא אִתְגְלִי לִי שְׁמָא דַיְיָ וְאַף יָת יִשְׂרָאֵל לָא אֲשַׁלַח:",
+      "en": "Pharaoh said, “Who is [The Name of] Adonoy [is not revealed to me] that I should obey his voice [Word], to let Yisrael go. I do not know [The Name of] Adonoy [is not revealed to me], nor will I let [the B’nei] Yisrael go.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:3",
+      "he": "וַאֲמָרוּ אֱלָהָא דִיהוּדָאֵי אִתְגְלִי עֲלָנָא נֵיזֵיל כְּעַן מַהֲלַךְ תְּלָתָא יוֹמִין בְּמַדְבְּרָא וּנְדַבַּח קֳדָם יְיָ אֱלָהָנָא דִלְמָא יְעַרְעִנָנָא בְּמוֹתָא אוֹ בִקְטוֹל:",
+      "en": "They said [to him], “The God of the Hebrews has revealed Himself to us. Please [Now] allow us to take a three day journey into the wilderness, and let us sacrifice to [before] Adonoy, our God, lest He strike us with the plague or with the sword.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:4",
+      "he": "וַאֲמַר לְהוֹן מַלְכָּא דְמִצְרַיִם לְמָא משֶׁה וְאַהֲרֹן תְּבַטְלוּן יָת עַמָא מֵעוֹבָדֵהוֹן אֱזִילוּ לְפָלְחָנְכוֹן:",
+      "en": "The king of Egypt said to them, “Why, Moshe and Aharon, are you distracting the people from their work? Get back to your burdens.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:5",
+      "he": "וַאֲמַר פַּרְעֹה הָא סַגִיאִין כְּעַן עַמָא דְאַרְעָא וּתְבַטְלוּן יָתְהוֹן מִפָּלְחָנְהוֹן:",
+      "en": "Then Pharaoh said, “Behold, the people of the land are now many, and you want them to take leave from their hard work.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:6",
+      "he": "וּפַקִיד פַּרְעֹה בְּיוֹמָא הַהוּא יָת שִׁלְטוֹנִין דְעַמָא וְיָת סָרְכוֹהִי לְמֵימָר:",
+      "en": "That day, Pharaoh commanded the taskmasters of the people and their officers, saying,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:7",
+      "he": "לָא תוֹסְפוּן לְמִיתַּן תִּבְנָא לְעַמָא לְמִרְמֵי לִבְנִין כְּמִתְּמַלֵי וּמִדְקָמוֹהִי אִנוּן יְהָכוּן וִיגַבְּבוּן לְהוֹן תִּבְנָא:",
+      "en": "“You shall no longer give the people straw to make bricks as before. Let them go gather [their own] straw,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:8",
+      "he": "וְיָת סְכוֹם לְבֵנַיָא דִי אִנוּן עָבְדִין מִתְּמַלֵי וּמִדְקָמוֹהִי תְּמַנוּן עֲלֵיהוֹן לָא תִמְנְעוּן מִנֵהּ אֲרֵי בַטְלָנִין אִנוּן עַל כֵּן אִנוּן צָוְחִין לְמֵימַר נֵיזֵיל נְדַבַּח קֳדָם אֱלָהָנָא:",
+      "en": "[And] the quota of bricks that they made before, you shall place upon them; do not reduce it, for they are lazy and therefore they cry out, saying, ‘We want to go sacrifice to [before] our God.’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:9",
+      "he": "תִּתָּקַף פָּלְחָנָא עַל גֻבְרַיָא וְיִתְעַסְקוּן בַּהּ וְלָא יִתְעַסְקוּן בְּפִתְגָמִין בְּטֵלִין:",
+      "en": "Make the workload heavier on the men, and make them do it. Let them not talk about [be occupied with] false ideas.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:10",
+      "he": "וּנְפָקוּ שִׁלְטוֹנֵי עַמָא וְסָרְכוֹהִי וַאֲמָרוּ לְעַמָא לְמֵימָר כִּדְנַן אֲמַר פַּרְעֹה לֵית אֲנָא יָהֵב לְכוֹן תִּבְנָא:",
+      "en": "They went out—the taskmasters of the people and their officers—and spoke to the people, saying, “This is what Pharaoh said, ‘I will no longer give you straw.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:11",
+      "he": "אַתּוּן אֱזִילוּ סִיבוּ לְכוֹן תִּבְנָא מֵאֲתַר דְתַשְׁכְּחוּן אֲרֵי לָא יִתִּמְנַע מִפָּלְחָנְכוֹן מִדָעַם:",
+      "en": "You must go get your own straw wherever you can find it, but your workload must not be reduced.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:12",
+      "he": "וְאִתְבַּדַר עַמָא בְּכָל אַרְעָא דְמִצְרָיִם לְגַבָּבָא גִילֵי לְתִבְנָא:",
+      "en": "The people spread out all over Egypt to gather grain-chaff for straw.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:13",
+      "he": "וְשִׁלְטוֹנַיָא דָחֲקִין לְמֵימָר אַשְׁלִימוּ עוֹבָדֵיכוֹן פִּתְגַם יוֹם בְּיוֹמֵהּ כְּמָא דַהֲוֵיתוּן עָבְדִין כַּד אִתְיְהֵב לְכוֹן תִּבְנָא:",
+      "en": "The taskmasters pressured them saying, “You must complete your daily work [quota], just as [you did] [before] when there was straw [given to you].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:14",
+      "he": "וּלְקוֹ סָרְכֵי בְּנֵי יִשְׂרָאֵל דִי מַנִיאוּ עֲלֵיהוֹן שִׁלְטוֹנֵי פַרְעֹה לְמֵימָר מָא דֵין לָא אַשְׁלֶמְתּוּן גְזֵרָתְכוֹן לְמִרְמֵי (לִבְנִין) כְּמֵאִתְמַלֵי וּמִדְקָמוֹהִי אַף תְּמַלֵי אַף יוֹמָא דֵין:",
+      "en": "The officers of the B’nei Yisrael were beaten—those whom Pharaoh’s taskmasters had appointed—and were told, “Why have you not completed your quotas of brick making as you did yesterday and before neither yesterday, nor today?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:15",
+      "he": "וַאֲתוֹ סָרְכֵי בְּנֵי יִשְׂרָאֵל וּצְוָחוּ (קֳדָם) לְפַרְעֹה לְמֵימָר לְמָא תַעְבֵּד כְּדֵין לְעַבְדָיךְ:",
+      "en": "The officers of the B’nei Yisrael came and cried out to Pharaoh, saying “Why are you doing this to your slaves?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:16",
+      "he": "תִּבְנָא לָא מִתְיְהֵב לְעַבְדָיךְ וּלְבֵנַיָא אָמְרִין לָנָא עִבִידוּ וְהָא עַבְדָיךְ לָקָן וְחָטָן עֲלֵיהוֹן עַמָךְ:",
+      "en": "Your slaves are not given straw, and yet we are told to make bricks. Your slaves are beaten, and it is a sin for your people [sin against them].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:17",
+      "he": "וַאֲמַר בַּטְלָנִין אַתּוּן בַּטְלָנִין עַל כֵּן אַתּוּן אָמְרִין נֵזֵיל נְדַבַּח קֳדָם יְיָ:",
+      "en": "He said, “You are lazy, therefore you say, ‘Let us go sacrifice to [before] Adonoy.’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:18",
+      "he": "וּכְעַן אֱזִילוּ פְלָחוּ וְתִבְנָא לָא יִתְיְהֵב לְכוֹן וּסְכוֹם לְבֵינַיָא תִּתְּנוּן:",
+      "en": "Now go, get to work. You will not be given straw, and you must deliver your quota of bricks.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:19",
+      "he": "וַחֲזוֹ סָרְכֵי בְנֵי יִשְׂרָאֵל יָתְהוֹן בְּבִישׁ לְמֵימָר לָא תִמְנְעוּן מִלִבְנֵיכוֹן פִּתְגַם יוֹם בְּיוֹמֵהּ:",
+      "en": "The officers of the B’nei Yisrael realized their bad position, saying, “You must not reduce your daily quota of bricks.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:20",
+      "he": "וַעֲרָעוּ יָת משֶׁה וְיָת אַהֲרֹן קָיְמִין לְקַדָמוּתְהוֹן בְּמִפַּקְהוֹן מִקֳדָם פַּרְעֹה:",
+      "en": "They met Moshe and Aharon who were waiting to meet them as they were leaving Pharaoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:21",
+      "he": "וַאֲמָרוּ לְהוֹן יִתְגְלֵי יְיָ עֲלֵיכוֹן וְיִתְפְּרַע דִי אַבְאֶשְׁתּוּן יָת רֵיחָנָא בְּעֵינֵי פַרְעֹה וּבְעֵינֵי עַבְדוֹהִי לְמִתַּן חַרְבָּא בִּידֵיהוֹן לְקַטָלוּתָנָא:",
+      "en": "They said to them [Moshe and Aharon], “Let Adonoy look at [become revealed to] you and judge [take revenge]. You have made our aroma abhorrent in the eyes of Pharaoh and in the eyes of his servants, putting a sword in their hands to kill us.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:22",
+      "he": "וְתָב משֶׁה קֳדָם יְיָ וַאֲמַר יְיָ לְמָא אַבְאֵשְׁתָּא לְעַמָא הָדֵין וּלְמָא דְנַן שְׁלַחְתָּנִי:",
+      "en": "Moshe returned to [before] Adonoy and said, “My Master. Why have You brought harm to this people? Why did You send me?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:23",
+      "he": "וּמֵעִדַן עַלִית לְוָת פַּרְעֹה לְמַלָלָא בִשְׁמָךְ אַבְאֵשׁ לְעַמָּא הָדֵין וְשֵׁזָבָא לָא שֵׁזַבְתָּא יָת עַמָךְ:",
+      "en": "Ever since I came to Pharaoh to speak in Your Name, he has done harm to this people; and You have not rescued Your people.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 6:1",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה כְּעַן תֶּחֱזֵי דְאֶעְבֵּד לְפַרְעֹה אֲרֵי בִידָא תַקִיפָא יְשַׁלְחִנוּן וּבִידָא תַקִיפָא יְתָרֵכִנוּן מֵאַרְעֵהּ:",
+      "en": "Adonoy said to Moshe, “Now you will see what I will do to Pharaoh, for by [My] strong hand he will let them go, and by [a] strong hand, he will drive them out of his land.”",
+      "fr": ""
+    }
+  ]
+}

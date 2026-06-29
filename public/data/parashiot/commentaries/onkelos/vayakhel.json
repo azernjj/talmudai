@@ -1,0 +1,739 @@
+{
+  "name": "Vayakhel",
+  "range": "Exodus 35:1-38:20",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Exodus 35:1",
+      "he": "וְאַכְנֵשׁ משֶׁה יָת כָּל כְּנִשְׁתָּא דִּבְנֵי יִשְׂרָאֵל וַאֲמַר לְהוֹן אִלֵּין פִּתְגָּמַיָּא דִּי פַקֵּד יְיָ לְמֶעְבַּד יָתְהוֹן:",
+      "en": "Moshe assembled the entire congregation of the B’nei Yisrael, and said to them, “These are the words that Adonoy has commanded you to do.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:2",
+      "he": "שִׁתָּא יוֹמִין תִּתְעֲבֵד עִבִדְתָּא וּבְיוֹמָא שְׁבִיעָאָה יְהֵי לְכוֹן קוּדְשָׁא שַׁבָּא שַׁבְּתָא קֳדָם יְיָ כָּל דְּיַעְבֵּד בֵּיהּ עִבִדְתָּא יִתְקְטֵל:",
+      "en": "Work may be done six days, but the seventh day must be holy to you, it is a Shabbos of Shabbos to [before] Adonoy. Whoever does work on it shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:3",
+      "he": "לָא תְבַעֲרוּן אֶשָּׁתָא בְּכֹל מוֹתְבָנֵיכוֹן בְּיוֹמָא דְּשַׁבְּתָא:",
+      "en": "You must not kindle a fire in all your dwelling places on the day of Shabbos.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:4",
+      "he": "וַאֲמַר משֶׁה לְכָל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל לְמֵימָר דֵּין פִּתְגָּמָא דִּי פַקֵּד יְיָ לְמֵימָר:",
+      "en": "Moshe said to the entire congregation of the B’nei Yisrael, saying, “This is the word that Adonoy has commanded:",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:5",
+      "he": "סָבוּ מִנְּכוֹן אַפְרָשׁוּתָא קֳדָם יְיָ כֹּל דְּיִתְרְעֵי לִבֵּיהּ יַיְתֵי יָת אַפְרָשׁוּתָא קֳדָם יְיָ דַּהֲבָא וְכַסְפָּא וּנְחָשָׁא:",
+      "en": "Take [collect] from among yourselves a terumah-offering to [before] Adonoy. Every man who is generous of heart shall bring a terumah-offering to [before] Adonoy: gold, silver and copper,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:6",
+      "he": "וְתִכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי וּבוּץ וּמְעַזֵּי:",
+      "en": "And greenish-blue wool, dark red wool, crimson [colored] wool, fine linen, and goat’s hair,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:7",
+      "he": "וּמַשְׁכֵי דְדִכְרֵי מְסַמְּקֵי וּמַשְׁכֵי דְסַסְגוֹנָא וְאָעֵי שִׁטִּין:",
+      "en": "and red-[dyed] rams’ skins, tachash [multicolored] skins, and accacia wood,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:8",
+      "he": "וּמִשְׁחָא לְאַנְהָרוּתָא וּבוּסְמַיָּא לִמְשַׁח רְבוּתָא וְלִקְטֹרֶת בּוּסְמַיָּא:",
+      "en": "and oil for the light, spices for annointing oil, and for the incense of aromatic spices,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:9",
+      "he": "וְאַבְנֵי בוּרְלָא וְאַבְנֵי אַשְׁלָמוּתָא לְשַׁקָּעָא בְאֵפוֹדָא וּבְחוּשְׁנָא:",
+      "en": "and onyx stones, and stones for setting into the ephod and the breastplate.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:10",
+      "he": "וְכָל חַכִּימֵי לִבָּא בְּכוֹן יֵיתוּן וְיַעַבְדוּן יָת כָּל דִּי פַקֵּד יְיָ:",
+      "en": "All those who are wise in heart among you shall come and make all that Adonoy has commanded.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:11",
+      "he": "יָת מַשְׁכְּנָא יָת פְּרָסֵיהּ וְיָת חוֹפָאֵיהּ יָת פּוּרְפוֹהִי וְיָת דַּפּוֹהִי יָת עַבְרוֹהִי יָת עַמּוּדוֹהִי וְיָת סַמְכוֹהִי:",
+      "en": "The mishkon, its tent and its cover, its clasps, and its planks, its bars, its pillars and its sockets.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:12",
+      "he": "יָת אֲרוֹנָא וְיָת אֲרִיחוֹהִי יָת כַּפֻּרְתָּא וְיָת פָּרֻכְתָּא דִפְרָסָא:",
+      "en": "The ark and its poles, its cover and the partition screen.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:13",
+      "he": "יָת פָּתוֹרָא וְיָת אֲרִיחוֹהִי וְיָת כָּל מָנוֹהִי וְיָת לְחֵם אַפַּיָּא:",
+      "en": "The table and its poles, and all its vessels, and the show breads.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:14",
+      "he": "וְיָת מְנַרְתָּא דְאַנְהוֹרֵי וְיָת מָנָהָא וְיָת בּוֹצִינָהָא וְיָת מִשְׁחָא דְאַנְהָרוּתָא:",
+      "en": "The menorah for light, and its vessels, and its lamps and the oil for the light.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:15",
+      "he": "וְיָת מַדְבְּחָא דִקְטֹרֶת בּוּסְמַיָּא וְיָת אֲרִיחוֹהִי וְיָת מִשְׁחָא דִרְבוּתָא וְיָת קְטֹרֶת בּוּסְמַיָּא וְיָת פְּרָסָא דְתַרְעָא לִתְרַע מַשְׁכְּנָא:",
+      "en": "The incense [spices] altar, and its poles, and the annointing oil, and the incense of aromatic spices, and the screen for the entrance, at the entrance of the mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:16",
+      "he": "יָת מַדְבְּחָא דַעֲלָתָא וְיָת סְרָדָא דִנְחָשָׁא דִּילֵיהּ יָת אֲרִיחוֹהִי וְיָת כָּל מָנוֹהִי יָת כִּיוֹרָא וְיָת בְּסִיסֵיהּ:",
+      "en": "The altar for burnt-offerings, with its copper grate, its poles and all its vessels, the laver and its base.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:17",
+      "he": "יָת סְרָדֵי דַרְתָּא יָת עַמּוּדוֹהִי וְיָת סַמְכָהָא וְיָת פְּרָסָא דִּתְרַע דַּרְתָּא:",
+      "en": "The curtains for the enclosure, its pillars and its sockets, and the screen for the entrance of the enclosure.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:18",
+      "he": "יָת סִכֵּי מַשְׁכְּנָא וְיָת סִכֵּי דְדַרְתָּא וְיָת אַטּוּנֵיהוֹן:",
+      "en": "The stakes of the mishkon, and the stakes of the enclosure and their ropes.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:19",
+      "he": "יָת לְבוּשֵׁי שִׁמּוּשָׁא לְשַׁמָּשָׁא בְקוּדְשָׁא יָת לְבוּשֵׁי קוּדְשָׁא לְאַהֲרֹן כַּהֲנָא וְיָת לְבוּשֵׁי בְנוֹהִי לְשַׁמָּשָׁא:",
+      "en": "The covering cloths [of service] for the holy articles [to serve in the Sanctuary], and the sacred garments for Aharon the kohein, and the garments for his sons to wear when they serve.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:20",
+      "he": "וּנְפָקוּ כָּל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל מִן קֳדָם משֶׁה:",
+      "en": "The entire congregation of the B’nei Yisrael departed from the presence of Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:21",
+      "he": "וַאֲתוֹ כָּל גְּבַר דְּאִתְרְעֵי לִבֵּיהּ וְכֹל דִּי אַשְׁלֵמַת רוּחֵיהּ יָתֵיהּ אַיְתִיאוּ יָת אַפְרָשׁוּתָא קֳדָם יְיָ לַעֲבִידַת מַשְׁכַּן זִמְנָא וּלְכָל פֻּלְחָנֵיהּ וְלִלְבוּשֵׁי קוּדְשָׁא:",
+      "en": "Every man whose heart lifted him up came—and every one whose generous spirit inspired [filled] him brought a terumah-offering to [before] Adonoy, for the work of the Tent of Meeting, and for all [that was needed for] its service, and for the sacred garments.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:22",
+      "he": "וּמַיְתַן גֻּבְרַיָּא עַל נְשַׁיָּא כֹּל דְּאִתְרְעֵי לִבֵּיהּ אַיְתִיאוּ שֵׁירִין וְשִׁבְכִין וְעִזְקַן וּמָחוּךְ כָּל מָן דִּדְהַב וְכָל גְּבַר דִּי אֲרֵים אֲרָמוּת דַּהֲבָא קֳדָם יְיָ:",
+      "en": "And they came—both men and [brought—men in addition to] woman—all who were generous of heart brought bracelets, nose rings, finger rings, and buckles—all kinds of golden vessels—and every man that offered a wave-offering of gold unto [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:23",
+      "he": "וְכָל גְּבַר דְּאִשְׁתְּכַח עִמֵּיהּ תִּכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי וּבוּץ וּמְעַזֵּי וּמַשְׁכֵי דְדִכְרֵי מְסַמְּקֵי וּמַשְׁכֵי סַסְגּוֹנָא אַיְתִיאוּ:",
+      "en": "Every man who had with him greenish-blue wool, dark red wool, crimson [colored] wool, fine linen, goats’ hair, red dyed rams’ skins, and tachash [multicolored] skins brought them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:24",
+      "he": "כָּל דַּאֲרֵים אֲרָמוּת כְּסַף וּנְחַשׁ אַיְתִיאוּ יָת אַפְרָשׁוּתָא קֳדָם יְיָ וְכֹל דִּי אִשְׁתְּכַח עִמֵּיהּ אָעֵי שִׁטִּין לְכָל עִבִידַת פֻּלְחָנָא אַיְתִיאוּ:",
+      "en": "Everyone who did lift up a terumah-offering of silver or copper, brought the terumah-offering to [before] Adonoy; and everyone who had with him acacia wood for use in the work of the service, brought it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:25",
+      "he": "וְכָל אִתְּתָא חַכִּימַת לִבָּא בִּידָהָא מְעַזְּלָא וּמַיְתַן כַּד עָזֵל יָת תִּכְלָא וְיָת אַרְגְּוָנָא יָת צְבַע זְהוֹרִי וְיָת בּוּצָא:",
+      "en": "And every wise-hearted woman spun with her hands; and they brought the spun yarn of greenish-blue wool, dark red wool, crimson [colored] wool and fine linen.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:26",
+      "he": "וְכָל נְשַׁיָּא דְּאִתְרְעֵי לִבְּהֶן עִמְּהֶן בְּחָכְמָא עַזְּלַן יָת מֵעַזְיָא:",
+      "en": "And all the women whose hearts inspired them with wisdom, spun the goat’s hair.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:27",
+      "he": "וְרַבְרְבַיָּא אַיְתִיאוּ יָת אַבְנֵי בוּרְלָא וְיָת אַבְנֵי אַשְׁלָמוּתָא לְשַׁקָּעָא בְּאֵפוֹדָא וּבְחוּשְׁנָא:",
+      "en": "And the leaders [of the tribes] brought onyx stones, and stones for setting into the ephod and breastplate.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:28",
+      "he": "וְיָת בּוּסְמָא וְיָת מִשְׁחָא לְאַנְהָרוּתָא וּלְמִשְׁחָא דִרְבוּתָא וְלִקְטֹרֶת בּוּסְמַיָּא:",
+      "en": "And the spices, and the oil for the light, and the anointing oil, and the incense of aromatic spices.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:29",
+      "he": "כָּל גְּבַר וְאִתְּתָא דְּאִתְרְעֵי לִבְּהוֹן עִמְּהוֹן לְאַיְתָאָה לְכָל עִבִדְתָּא דִּי פַקֵּד יְיָ לְמֶעְבַּד בִּידָא דְמשֶׁה אַיְתִיאוּ בְנֵי יִשְׂרָאֵל נְדַבְתָּא קֳדָם יְיָ:",
+      "en": "Every man and woman whose generous heart inspired them to bring something for all the work that Adonoy had commanded to be done through Moshe [did so]. The B’nei Yisrael brought a free-will gift to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:30",
+      "he": "וַאֲמַר משֶׁה לִבְנֵי יִשְׂרָאֵל חֲזוֹ דְּרַבִּי יְיָ בְּשׁוּם בְּצַלְאֵל בַּר אוּרִי בַר חוּר לְשִׁבְטָא דִיהוּדָה:",
+      "en": "Moshe said to the B’nei Yisrael, “See, Adonoy has designated [exalted] by name, Betzalel, son of Uri, son of Chur, of the tribe of Yehudah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:31",
+      "he": "וְאַשְׁלֵם עִמֵּיהּ רוּחַ נְבוּאָה מִן קֳדָם יְיָ בְּחָכְמְתָא בְּסוּכְלְתָנוּ וּבְמַדַּע וּבְכָל עִבִידָא:",
+      "en": "And He endowed him with Divine [the] spirit [of prophecy from before Adonoy], with wisdom, with understanding, with knowledge and with [the skill to perform] all types of crafting.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:32",
+      "he": "וּלְאַלָּפָא אוּמַנְוָן לְמֶעְבַּד בְּדַהֲבָא וּבְכַסְפָּא וּבִנְחָשָׁא:",
+      "en": "And to devise [plans] [teach craftsmanship] with ingenuity, to execute [those plans] in gold, in silver and in copper.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:33",
+      "he": "וּבְאוּמָנוּת אֶבֶן טָבָא לְאַשְׁלָמָא וּבְנַגָּרוּת אָעָא לְמֶעְבַּד בְּכָל עִבִידַת אוּמַנְוָן:",
+      "en": "And in masonary [to cut precious stones] for settings, and in carpentry, to execute all kinds of clever tasks [of craftsmanship].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:34",
+      "he": "וּלְאַלָּפָא יְהַב בְּלִבֵּיהּ הוּא וְאָהֳלִיאָב בַּר אֲחִיסָמָךְ לְשִׁבְטָא דְדָן:",
+      "en": "And the ability to instruct he instilled in his heart, he (Betzalel) and Oholiov, the son of Achisomoch of the tribe of Dan.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:35",
+      "he": "אַשְׁלֵם עִמְּהוֹן חַכִּימוּת לִבָּא לְמֶעְבַּד כָּל עִבִידַת נַגָּר וְאָמָּן וְצַיָּר בְּתִכְלָא וּבְאַרְגְּוָנָא בִּצְבַע זְהוֹרִי וּבְבוּצָא וּמַחֵי עָבְדֵי כָּל עִבִידָא וּמַלְפֵי אוּמַנְוָן:",
+      "en": "He filled them with wisdom of the heart, to execute all the tasks of the engraver [carpenter], the craftsman, and the embroiderer of greenish-blue wool, dark red wool, crimson [colored] wool, fine linen, and the [the tasks of] weaver, [also] that of laborers and planners [those who teach craftsmanship].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:1",
+      "he": "וַעֲבַד בְּצַלְאֵל וְאָהֳלִיאָב וְכָל גְּבַר חַכִּים לִבָּא דִּיהַב יְיָ חָכְמָא וְסוּכְלְתָנוּתָא בְּהוֹן לְמִדַּע לְמֶעְבַּד יָת כָּל עִבִידַת פָּלְחַן קוּדְשָׁא לְכֹל דִּי פַּקֵּד יְיָ:",
+      "en": "And they shall execute—Betzalel and Oholiov—and every wise-hearted man whom Adonoy had endowed with wisdom and insight to know (how) to execute in all of the holy work—all that Adonoy had commanded.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:2",
+      "he": "וּקְרָא משֶׁה לִבְצַלְאֵל וּלְאָהֳלִיאָב וּלְכָל גְּבַר חַכִּים לִבָּא דִּיהַב יְיָ חָכְמְתָא בְּלִבֵּיהּ כָּל דְּאִתְרְעֵי לִבֵּיהּ לְמִקְרַב לְעִבִדְתָּא לְמֶעְבַּד יָתֵיהּ:",
+      "en": "Moshe called to Betzalel and to Oholiov, and to every wise-hearted man whom Adonoy had endowed with wisdom in his heart, everyone whose heart moved him to approach the task—to execute it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:3",
+      "he": "וּנְסִיבוּ מִן קֳדָם משֶׁה יָת כָּל אַפְרָשׁוּתָא דִּי אַיְתִיאוּ בְּנֵי יִשְׂרָאֵל לְעִבִידַת פָּלְחַן קוּדְשָׁא לְמֶעְבַּד יָתַהּ וְאִנּוּן מַיְתַן לֵיהּ עוֹד נְדַבְתָּא בִּצְפַר בִּצְפָר:",
+      "en": "And they took from before Moshe, all the terumah-offering which the B’nei Yisrael brought for the tasks of the holy work, to execute it. And they continued to bring gifts each and every morning.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:4",
+      "he": "וַאֲתוֹ כָּל חַכִּימַיָּא דְּעָבְדִין יָת כָּל עִבִידַת קוּדְשָׁא גְּבַר גְּבַר מֵעִבִדְתֵּיהּ דְּאִנּוּן עָבְדִין:",
+      "en": "All the wise men came—who were executing all the holy tasks—each and every man from the task in which he was engaged.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:5",
+      "he": "וַאֲמָרוּ לְמשֶׁה לְמֵימַר מַסְגַּן עַמָּא לְאַיְתָאָה מִסַּת פָּלְחָנָא לְעִבִדְתָּא דְּפַקֵּד יְיָ לְמֶעְבַּד יָתַהּ:",
+      "en": "They said the following to Moshe: the people are bringing too much—more than is needed for the tasks which Adonoy has commanded to execute.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:6",
+      "he": "וּפַקֵּד משֶׁה וְאַעֲבַרוּ כָרוֹזָא בְמַשְׁרִיתָא לְמֵימַר גְּבַר וְאִתְּתָא לָא יַעַבְדוּן עוֹד עִבִדְתָּא לְאַפְרָשׁוּת קוּדְשָׁא וּפְסַק עַמָּא מִלְּאַיְתָאָה:",
+      "en": "Moshe commanded—and they proclaimed throughout the encampment saying, “Let no man or woman bring any more material for the sacred offering.” And the people stopped bringing.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:7",
+      "he": "וְעִבִדְתָּא הֲוַת מִסַּת לְכָל עִבִדְתָּא לְמֶעְבַּד יָתַהּ וִיתָרָת:",
+      "en": "The material was enough for all the work that had to be done, and some was left over.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:8",
+      "he": "וַעֲבָדוּ כָל חַכִּימֵי לִבָּא בְּעָבְדֵי עִבִדְתָּא יָת מַשְׁכְּנָא עֲשַׂר יְרִיעָן דְּבוּץ שְׁזִיר וְתִכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי צוּרַת כְּרוּבִין עוֹבַד אָמָּן עֲבַד יָתְהוֹן:",
+      "en": "All craftsmen with the spirit of wisdom made the mishkon out of ten drapes, (consisting of) twined fine linen, greenish blue wool, dark red wool and crimson [colored] wool, figures of Cherubim, the work of a craftsman.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:9",
+      "he": "אֻרְכָּא דִּירִיעֲתָא חֲדָא עַסְרִין וּתְמַנְיָא אַמִּין וּפוּתְיָא אַרְבַּע אַמִּין דִּירִיעֲתָא חֲדָא מְשַׁחְתָא חֲדָא לְכָל יְרִיעָתָא:",
+      "en": "The length of each drape was twenty eight amohs, and each drape was four amohs wide. All drapes had the same measure.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:10",
+      "he": "וְלָפֵף יָת חָמֵשׁ יְרִיעָן חֲדָא עִם חֲדָא וְחָמֵשׁ יְרִיעָן לָפֵף חֲדָא עִם חֲדָא:",
+      "en": "He joined (sewed) five of these drapes together, and the other five drapes he joined (sewed) together.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:11",
+      "he": "וַעֲבַד עֲנוּבִין דְּתִכְלָא עַל סִפְתָא דִירִיעֲתָא חֲדָא מִסִּטְרָא בֵּית לוֹפֵי כֵּן עֲבַד בְּסִפְתָא דִּירִיעֲתָא בְּסִטְרָא בֵּית לוֹפֵי תִּנְיֵתָא:",
+      "en": "He made loops of greenish blue wool on the edge of the drape which was at the (innermost) end of the (first) group. He did the same on the edge of the drape which was the innermost end of the second group.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:12",
+      "he": "חַמְשִׁין עֲנוּבִין עֲבַד בִּירִיעֲתָא חֲדָא וְחַמְשִׁין עֲנוּבִין עֲבַד בְּסִטְרָא דִירִיעֲתָא דְבֵית לוֹפֵי תִּנְיֵתָא מְכַוְּנָן עֲנוּבַיָּא חֲדָא לָקֳבֵל חֲדָא:",
+      "en": "He made fifty loops on (the edge of) one drape and he made fifty loops on the edge of the drape which was on the second group. The loops were opposite one another.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:13",
+      "he": "וַעֲבַד חַמְשִׁין פּוּרְפִין דִּדְהָב וְלָפֵף יָת יְרִיעֲתָא חֲדָא עִם חֲדָא בְּפוּרְפַיָּא וַהֲוָה מַשְׁכְּנָא חָד:",
+      "en": "He made fifty golden clasps and he joined the drapes (of each group) together with the clasps. The mishkon was thus one unit.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:14",
+      "he": "וַעֲבַד יְרִיעָן דִּמְעַזֵּי לִפְרָסָא עַל מַשְׁכְּנָא חַד עֲשַׂר יְרִיעָן עֲבַד יָתְהֶן:",
+      "en": "He made drapes of goats’ hair for a covering over the mishkon. He made eleven such drapes.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:15",
+      "he": "אֻרְכָּא דִּירִיעֲתָא חֲדָא תְּלָתִין בְּאַמִּין וְאַרְבַּע אַמִּין פּוּתְיָא דִּירִיעֲתָא חֲדָא מְשַׁחְתָּא חֲדָא לְחַד עֲשַׂר יְרִיעָן:",
+      "en": "The length of each drape was thirty amohs, and the width of each drape was four amohs. The eleven drapes were of the same measure.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:16",
+      "he": "וְלָפֵף יָת חֲמֵשׁ יְרִיעָן לְחוֹד וְיָת שֵׁת יְרִיעָן לְחוֹד:",
+      "en": "And he joined together five drapes by themselves, and six drapes by themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:17",
+      "he": "וַעֲבַד עֲנוּבִין חַמְשִׁין עַל סִפְתָא דִירִיעֲתָא בְּסִטְרָא בֵּית לוֹפֵי וְחַמְשִׁין עֲנוּבִין עֲבַד עַל סִפְתָא דִירִיעֲתָא דְבֵית לוֹפֵי תִּנְיֵתָא:",
+      "en": "He made fifty loops on the edge of one drape which was the innermost end of the (first) group and he made fifty loops on the edge of the drape which was on the second group.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:18",
+      "he": "וַעֲבַד פּוּרְפִין דִּנְחָשָׁא חַמְשִׁין לְלַפָּפָא יָת מַשְׁכְּנָא לְמֵהֱוֵי חָד:",
+      "en": "He made fifty copper clasps to join the tent together making it one.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:19",
+      "he": "וַעֲבַד חוֹפָאָה לְמַשְׁכְּנָא מַשְׁכֵי דְדִכְרֵי מְסַמְּקֵי וְחוֹפָאָה מַשְׁכֵי דְסַסְגּוֹנָא מִלְּעֵלָּא:",
+      "en": "He made a covering for the tent out of red dyed rams’ skins, and a covering of tachash [multicolored] skins above that.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:20",
+      "he": "וַעֲבַד יָת דַּפַּיָּא לְמַשְׁכְּנָא דְּאָעֵי שִׁטִּין קָיְמִין:",
+      "en": "He made planks for the mishkon out of acacia wood; (these planks) stood upright (vertically).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:21",
+      "he": "עֲשַׂר אַמִּין אֻרְכָּא דְדַפָּא וְאַמְּתָא וּפַלְגּוּת אַמְּתָא פּוּתְיָא דְּדַפָּא חָד:",
+      "en": "Each plank was ten amohs long, and one and one half amohs was the width of each plank.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:22",
+      "he": "תַּרְתֵּין צִירִין לְדַפָּא חַד מְשַׁלְּבִין חֲדָא לָקֳבֵל חֲדָא כֵּן עֲבַד לְכֹל דַּפֵּי מַשְׁכְּנָא:",
+      "en": "Each plank had two (square) pegs, exactly parallel to each other. In this manner he made all the planks of the mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:23",
+      "he": "וַעֲבַד יָת דַּפַּיָּא לְמַשְׁכְּנָא עֶסְרִין דַּפִּין לְרוּחַ עֵבַר דָּרוֹמָא:",
+      "en": "He made these planks for the mishkon, twenty planks for the southern side.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:24",
+      "he": "וְאַרְבְּעִין סַמְכִין דִּכְסַף עֲבַד תְּחוֹת עֶסְרִין דַּפִּין תְּרֵין סַמְכִין תְּחוֹת דַפָּא חַד לִתְרֵין צִירוֹהִי וּתְרֵין סַמְכִין תְּחוֹת דַּפָּא חַד לִתְרֵין צִירוֹהִי:",
+      "en": "He made forty silver sockets, (and placed them) under the twenty planks. There were two sockets under one plank (one) for each of the two pegs, and two sockets under the other plank, (one) for each of the two pegs.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:25",
+      "he": "וְלִסְטַר מַשְׁכְּנָא תִּנְיֵתָא לְרוּחַ צִפּוּנָא עֲבַד עֶסְרִין דַּפִּין:",
+      "en": "For the second wall of the mishkon, to the northern side, he made twenty planks.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:26",
+      "he": "וְאַרְבְּעִין סַמְכֵיהוֹן דִּכְסָף תְּרֵין סַמְכִין תְּחוֹת דַּפָּא חַד וּתְרֵין סַמְכִין תְּחוֹת דַּפָּא חָד:",
+      "en": "(He made) their forty silver sockets, two sockets under each plank, two sockets under each plank.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:27",
+      "he": "וְלִסְיָפֵי מַשְׁכְּנָא מַעַרְבָא עֲבַד שִׁתָּא דַפִּין:",
+      "en": "For the western end of the mishkon he made six planks.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:28",
+      "he": "וּתְרֵין דַּפִּין עֲבַד לְזָוְיַת מַשְׁכְּנָא בְּסוֹפֵיהוֹן:",
+      "en": "He made two planks for the corners of the mishkon at the rear side [their ends].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:29",
+      "he": "וַהֲווֹ מְכַוְּנִין מִלְּרַע וְכַחֲדָא הֲווֹ מְכַוְּנִין עַל רֵישֵׁיהּ לְעִזְקָתָא חֲדָא כֵּן עֲבַד לְתַרְוֵיהוֹן לִתְרֵין זָוְיָן:",
+      "en": "They were coupled together on the bottom, and they were coupled together evenly on the top with one (square) ring. In this manner he made the two (planks) which were at the two corners.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:30",
+      "he": "וַהֲווֹ תְּמַנְיָא דַפִּין וְסַמְכֵיהוֹן דִּכְסַף שִׁתָּא עֲשַׂר סַמְכִין תְּרֵין סַמְכִין תְּרֵין סַמְכִין תְּחוֹת דַּפָּא חָד:",
+      "en": "There were eight planks, and their silver sockets, totaling sixteen sockets, two sockets, two sockets under each plank.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:31",
+      "he": "וַעֲבַד עַבְּרֵי דְּאָעֵי שִׁטִּין חַמְשָׁא לְדַפֵּי סְטַר מַשְׁכְּנָא חָד:",
+      "en": "He made bars out of acacia wood, five for the planks of one wall,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:32",
+      "he": "וְחַמְשָׁא עַבְּרִין לְדַפֵּי סְטַר מַשְׁכְּנָא תִּנְיֵתָא וְחַמְשָׁא עַבְּרִין לְדַפֵּי מַשְׁכְּנָא לְסוֹפֵיהוֹן מַעַרְבָא:",
+      "en": "and five bars for the planks of the second wall of the mishkon, and five bars for the planks of the western (back) wall of the mishkon.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:33",
+      "he": "וַעֲבַד יָת עַבְּרָא מְצִיעָאָה לְאַעְבָּרָא בְּגוֹ דַפַּיָּא מִן סְיָפֵי לִסְיָפֵי:",
+      "en": "He made the middle (center) bar to go through the planks, [reinforcing the planks] from one end to the other.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:34",
+      "he": "וְיָת דַּפַּיָּא חֲפָא דַהֲבָא וְיָת עִזְקָתְהוֹן עֲבַד דַּהֲבָא אַתְרָא לְעַבְּרַיָּא וַחֲפָא יָת עַבְּרַיָּא דַּהֲבָא:",
+      "en": "He overlaid the planks with gold, and made their rings out of gold to hold the bars. He (also) overlaid the bars with gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:35",
+      "he": "וַעֲבַד יָת פָּרֻכְתָּא תִּכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי וּבוּץ שְׁזִיר עוֹבַד אָמָּן עֲבַד יָתַהּ צוּרַת כְּרוּבִין:",
+      "en": "He made the paroches (partition) out of greenish blue wool, dark red wool, crimson [colored] wool, and fine, twined linen, the work of a craftsman, with figures of Cherubim (woven into it).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:36",
+      "he": "וַעֲבַד לֵיהּ אַרְבְּעָא עַמּוּדֵי שִׁטִּין וַחֲפָנוּן דַּהֲבָא וָוֵיהוֹן דַּהֲבָא וְאַתִּיךְ לְהוֹן אַרְבְּעָא סַמְכִין דִּכְסָף:",
+      "en": "He made for it (the paroches) four acacia-wood pillars and he overlaid them with gold. Their hooks were also of gold. He cast for them four silver sockets.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:37",
+      "he": "וַעֲבַד פְּרָסָא לִתְרַע מַשְׁכְּנָא תִּכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי וּבוּץ שְׁזִיר עוֹבַד צַיָּר:",
+      "en": "He made a screen for the entrance of the tent, of greenish blue wool, dark red wool, crimson [colored] wool, and fine twined linen. It was the work of an embroiderer.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:38",
+      "he": "וְיָת עַמּוּדוֹהִי חַמְשָׁא וְיָת וָוֵיהוֹן וַחֲפָא רֵישֵׁיהוֹן וְכִבּוּשֵׁיהוֹן דַּהֲבָא וְסַמְכֵיהוֹן חַמְשָׁא נְחָשָׁא:",
+      "en": "(He made) five pillars (to hold the screen), along with their hooks and he overlaid their caps and bands with gold. Their five sockets (he made of) copper.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:1",
+      "he": "וַעֲבַד בְּצַלְאֵל יָת אֲרוֹנָא דְּאָעֵי שִׁטִּין תַּרְתֵּין אַמִּין וּפַלְגָּא אֻרְכֵּיהּ וְאַמְּתָא וּפַלְגָא פְתָיֵהּ וְאַמְתָא וּפַלְגָּא רוּמֵיהּ:",
+      "en": "Betzalel made the ark of acacia wood, two and one-half amohs long, one and one-half amohs wide, and one and one-half amohs high.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:2",
+      "he": "וַחֲפָהִי דְּהַב דְּכֵי מִגָּו וּמִבָּרָא וַעֲבַד לֵיהּ דֵּיר דִּדְהַב סְחוֹר סְחוֹר:",
+      "en": "He covered it with pure gold from inside and out. He made for it a golden crown-like rim around (its top).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:3",
+      "he": "וְאַתִּיךְ לֵיהּ אַרְבַּע עִזְקַן דִּדְהַב עַל אַרְבַּע זִוְיָתֵיהּ וְתַרְתֵּין עִזְקַן עַל סִטְרֵיהּ חַד וְתַרְתֵּין עִזְקַן עַל סִטְרֵיהּ תִּנְיֵתָא:",
+      "en": "He cast four gold rings on its (the ark’s) four corners, two rings on one side and two rings on the other side.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:4",
+      "he": "וַעֲבַד אֲרִיחֵי דְּאָעֵי שִׁטִּין וַחֲפָא יָתְהוֹן דַּהֲבָא:",
+      "en": "He made two poles of acacia wood, and overlaid them with gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:5",
+      "he": "וְאָעֵל יָת אֲרִיחַיָּא בְּעִזְקָתָא עַל סִטְרֵי אֲרוֹנָא לְמִטַּל יָת אֲרוֹנָא:",
+      "en": "He placed the poles in the rings on the sides of the ark, so that the ark can be carried with them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:6",
+      "he": "וַעֲבַד כַּפֻּרְתָּא דְּהַב דְּכֵי תַּרְתֵּין אַמִּין וּפַלְגָּא אֻרְכַּהּ וְאַמְּתָא וּפַלְגָּא פְּתָיַהּ:",
+      "en": "He made a cover (for the ark) of pure gold, two and one-half amohs long, and one and one-half amohs wide.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:7",
+      "he": "וַעֲבַד תְּרֵין כְּרוּבִין דִּדְהָב נְגִיד עֲבַד יָתְהוֹן מִתְּרֵין סִטְרֵי כַפֻּרְתָּא:",
+      "en": "He made two golden Cherubim. He hammered them out of the two ends of the (ark) cover.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:8",
+      "he": "כְּרוּבָא חַד מִסִּטְרָא מִכָּא וּכְרוּבָא חַד מִסִּטְרָא מִכָּא מִן כַּפֻּרְתָּא עֲבַד יָת כְּרוּבַיָּא מִתְּרֵין סִטְרוֹהִי:",
+      "en": "One Cherub out of one end [side], and one Cherub out of the other end [side]. From the (same piece of gold as the) cover itself, he made the Cherubim on its two ends [sides].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:9",
+      "he": "וַהֲווֹ כְרוּבַיָּא פְּרִיסָן גַּדְפֵיהוֹן לְעֵלָּא נָטְלִין בְּגַדְפֵיהוֹן עַל כַּפֻּרְתָּא וְאַפֵּיהוֹן חַד לָקֳבֵל חַד לָקֳבֵל כַּפֻּרְתָּא הֲווֹ אַפֵּי כְרוּבַיָּא:",
+      "en": "The Cherubim had their wings spread upward, sheltering the cover with their wings, and they faced one another, the Cherubim’s faces were (inclined) toward the cover.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:10",
+      "he": "וַעֲבַד יָת פָּתוֹרָא דְּאָעֵי שִׁטִּין תַּרְתֵּין אַמִּין אֻרְכֵּיהּ וְאַמְּתָא פְתָיֵהּ וְאַמְּתָא וּפַלְגָּא רוּמֵיהּ:",
+      "en": "He made a table out of acacia wood, two amohs long, one amoh wide, and one and one-half amohs high.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:11",
+      "he": "וַחֲפָא יָתֵיהּ דְּהַב דְּכֵי וַעֲבַד לֵיהּ דֵּיר דִּדְהַב סְחוֹר סְחוֹר:",
+      "en": "He overlaid it with pure gold, and he made a crown-like rim around it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:12",
+      "he": "וַעֲבַד לֵיהּ גְּדַנְפָא רוּמֵיהּ פּוּשְׁכָא סְחוֹר סְחוֹר וַעֲבַד דֵּיר דִּדְהַב לִגְדַנְפֵיהּ סְחוֹר סְחוֹר:",
+      "en": "He made a ledge of a tefach [high] around (the table), and he made a gold crown-like rim around the ledge.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:13",
+      "he": "וְאַתִּיךְ לֵיהּ אַרְבַּע עִזְקַן דִּדְהַב וִיהַב יָת עִזְקָתָא עַל אַרְבַּע זִוְיָתָא דִּי לְאַרְבַּע רַגְלוֹהִי:",
+      "en": "He cast for it (the table) four gold rings, and placed the rings on the four corners that are on its four legs.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:14",
+      "he": "לָקֳבֵל גְּדַנְפָא הֲווֹ עִזְקָתָא אַתְרָא לַאֲרִיחַיָּא לְמִטַּל יָת פָּתוֹרָא:",
+      "en": "The rings were against the ledge as houses (receptacles) for the poles with which to carry the table.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:15",
+      "he": "וַעֲבַד יָת אֲרִיחַיָּא דְּאָעֵי שִׁטִּין וַחֲפָא יָתְהוֹן דַּהֲבָא לְמִטַּל יָת פָּתוֹרָא:",
+      "en": "He made the poles out of acacia wood, and overlaid them with gold with which to carry the table.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:16",
+      "he": "וַעֲבַד יָת מָנַיָּא דִּי עַל פָּתוֹרָא יָת מָגִיסוֹהִי וְיָת בָּזִיכוֹהִי וְיָת מְכִילָתֵיהּ וְיָת קַשְׂוָתָא דִּי יִתְנַסַּךְ בְּהוֹן דְּהַב דְּכֵי:",
+      "en": "He made the vessels that were on the table, its dishes (bread shapes), its spoons (incense bowls), its supports, and its half-hollow tubes by which they (the breads) are covered, out of pure gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:17",
+      "he": "וַעֲבַד יָת מְנַרְתָּא דְּהַב דְּכֵי נְגִיד עֲבַד יָת מְנַרְתָּא שִׁידַהּ וּקְנַהּ כַּלִידָהָא חֵזוּרָהָא וְשׁוֹשַׁנָּהָא מִנַּהּ הֲווֹ:",
+      "en": "He made the menorah (out) of pure gold. The menorah was made by hammering (its form out of a solid piece of gold). Its base, its shaft, its cups, its knobs, and its flowers were of it (the same piece of gold).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:18",
+      "he": "וְשִׁתָּא קְנִין נָפְקִין מִסִּטְרָהָא תְּלָתָא קְנֵי מְנַרְתָּא מִסִּטְרַהּ חַד וּתְלָתָא קְנֵי מְנַרְתָּא מִסִּטְרַהּ תִּנְיָנָא:",
+      "en": "Six branches extended from its sides, three branches of the menorah from one of its sides, and three branches of the menorah from the second side.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:19",
+      "he": "תְּלָתָא כַלִּידִין מְצַיְּרִין בְּקַנְיָא חַד חֵזוּר וְשׁוֹשַׁן וּתְלָתָא כַלִּידִין מְצַיְּרִין בְּקַנְיָא חַד חֵזוּר וְשׁוֹשָׁן כֵּן לְשִׁתָּא קְנִין דְּנָפְקִין מִן מְנַרְתָּא:",
+      "en": "Three cups were engraved in almond-shaped patterns, on one branch with a knob and a flower, and three cups were engraved in almond-shaped patterns, on one branch with a knob and a flower. So was (the form) of each of the six branches that extended from (the shaft) of the menorah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:20",
+      "he": "וּבִמְנַרְתָּא אַרְבְּעָא כַלִּידִין מְצַיְּרִין חֵזּוּרָהָא וְשׁוֹשַׁנָּהָא:",
+      "en": "The (shaft of the) menorah had four cups, engraved in almond shaped patterns, with their knobs and their flowers.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:21",
+      "he": "וְחֵזוּר תְּחוֹת תְּרֵין קְנִין מִנַּהּ וְחֵזוּר תְּחוֹת תְּרֵין קְנִין מִנַּהּ וְחֵזוּר תְּחוֹת תְּרֵין קְנִין מִנַּהּ לְשִׁתָּא קְנִין דְּנָפְקִין מִנַּהּ:",
+      "en": "There was a knob under the two branches extending from it, and a (second) knob under the (second) two branches extending from it, and a (third) knob under the (third) two branches extending from it. (This held true) for the six branches that extended from it (the menorah’s shaft).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:22",
+      "he": "חֵזוּרֵיהוֹן וּקְנֵיהוֹן מִנַּהּ הֲווֹ כֻּלַהּ נְגִידָא חֲדָא דְּהַב דְּכֵי:",
+      "en": "Their knobs and their branches were made out of (the menorah) itself. It was all made of a single hammered work of pure gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:23",
+      "he": "וַעֲבַד יָת בּוֹצִינָהָא שִׁבְעָא וְצִבְיְתָהָא וּמַחִתְּיְתָהָא דְּהַב דְּכֵי:",
+      "en": "He made seven lamps (for the menorah), and its tongs and its (ash) scoops, of pure gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:24",
+      "he": "כִּכְּרָא דְּהַב דְּכֵי עֲבַד יָתַהּ וְיָת כָּל מָנָהָא:",
+      "en": "He made it out of a kikar of pure gold, together with all its vessels.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:25",
+      "he": "וַעֲבַד יָת מַדְבְּחָא דִקְטֹרֶת בּוּסְמַיָּא דְאָעֵי שִׁטִּין אַמְּתָא אֻרְכֵּיהּ וְאַמְּתָא פְתָיֵהּ מְרַבַּע וְתַרְתֵּין אַמִּין רוּמֵיהּ מִנֵּיהּ הֲווֹ קַרְנוֹהִי:",
+      "en": "He made the [spice] incense altar out of acacia wood, one amoh long and one amoh wide, it was square, and two amohs high. Its horn-like elevations were of one piece with it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:26",
+      "he": "וַחֲפָא יָתֵיהּ דְּהַב דְּכֵי יָת אִגָּרֵיהּ וְיָת כָּתְלוֹהִי סְחוֹר סְחוֹר וְיָת קַרְנוֹהִי וַעֲבַד לֵיהּ דֵּיר דִּדְהַב סְחוֹר סְחוֹר:",
+      "en": "He overlaid it with pure gold, on its top, its walls all around, and its horn-like elevations. He made a gold crown-like rim all around it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:27",
+      "he": "וְתַרְתֵּין עִזְקַן דִּדְהַב עֲבַד לֵיהּ מִלְּרַע לְדֵירֵיהּ עַל תַּרְתֵּין זִוְיָתֵיהּ עַל תְּרֵין סִטְרוֹהִי לְאַתְרָא לַאֲרִיחַיָּא לְמִטַּל יָתֵיהּ בְּהוֹן:",
+      "en": "He made two gold rings for it under its crown-like rim on two of its corners, on its two opposite sides, to house the poles with which to carry it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:28",
+      "he": "וַעֲבַד יָת אֲרִיחַיָּא דְּאָעֵי שִׁטִּין וַחֲפָא יָתְהוֹן דַּהֲבָא:",
+      "en": "He made the poles out of acacia wood and overlaid them with gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:29",
+      "he": "וַעֲבַד יָת מִשְׁחָא דִרְבוּתָא קוּדְשָׁא וְיָת קְטֹרֶת בּוּסְמַיָּא דְּכֵי עוֹבַד בּוּסְמָנוּ:",
+      "en": "He made the sacred anointing oil and the pure perfumed incense, according to the work of the perfumer.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:1",
+      "he": "וַעֲבַד יָת מַדְבְּחָא דַעֲלָתָא דְּאָעֵי שִׁטִּין חֲמֵשׁ אַמִּין אֻרְכֵּיהּ וַחֲמֵשׁ אַמִּין פְּתָיֵהּ מְרַבַּע וּתְלָתָא אַמִּין רוּמֵיהּ:",
+      "en": "He made the burnt-offering altar out of acacia wood. It was five amohs long and five amohs wide, it was square, and three amohs high.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:2",
+      "he": "וַעֲבַד קַרְנוֹהִי עַל אַרְבַּע זִוְיָתֵיהּ מִנֵּיהּ הֲווֹ קַרְנוֹהִי וַחֲפָא יָתֵיהּ נְחָשָׁא:",
+      "en": "He made its raised projections on its four corners. Its raised projections were one piece with it, and he overlaid it with copper.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:3",
+      "he": "וַעֲבַד יָת כָּל מָנֵי מַדְבְּחָא יָת פְּסַכְתֵּרָוָתָא וְיָת מַגְרוֹפְיָתָא וְיָת מִזְרְקָתָא יָת צִנּוּרְיָתָא וְיָת מַחְתְּיָתָא כָּל מָנוֹהִי עֲבַד נְחָשָׁא:",
+      "en": "He made all the vessels of the altar, its pots, its scoops, its basins, its flesh-hooks, and its fire pans. He made all of its vessels out of copper.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:4",
+      "he": "וַעֲבַד לְמַדְבְּחָא סְרָדָא עוֹבַד מְצַדְתָּא דִנְחָשָׁא תְּחוֹת סוֹבָבֵיהּ מִלְּרַע עַד פַּלְגֵּיהּ:",
+      "en": "He made for the altar a grate of copper netting, under its rim extending downward, (so that the grate reached) to the middle of the altar.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:5",
+      "he": "וְאַתִּיךְ אַרְבַּע עִזְקָתָא בְּאַרְבַּע סִטְרָתָא לִסְרָדָא דִנְחָשָׁא אַתְרָא לַאֲרִיחַיָּא:",
+      "en": "He cast four rings on the four corners [sides]of the copper grating to house the poles.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:6",
+      "he": "וַעֲבַד יָת אֲרִיחַיָּא דְּאָעֵי שִׁטִּין וַחֲפָא יָתְהוֹן נְחָשָׁא:",
+      "en": "He made the poles of acacia wood, and overlaid them with copper.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:7",
+      "he": "וְאָעֵיל יָת אֲרִיחַיָּא בְּעִזְקָתָא עַל סִטְרֵי מַדְבְּחָא לְמִטַּל יָתֵיהּ בְּהוֹן חֲלִיל לוּחִין עֲבַד יָתֵיהּ:",
+      "en": "He placed the poles into the rings that were on the (two) sides of the altar to carry it with them. He made it a hollow structure constructed from boards.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:8",
+      "he": "וַעֲבַד יָת כִּיוֹרָא נְחָשָׁא וְיָת בְּסִיסֵיהּ נְחָשָׁא בְּמֶחְזְיַן נְשַׁיָּא דְּאָתְיָן לְצַלָּאָה בִּתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "He made the basin out of copper and its base out of copper, from the mirrors of the women who had gathered [come to pray] at the entrance of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:9",
+      "he": "וַעֲבַד יָת דַּרְתָּא לְרוּחַ עֵבַר דָּרוֹמָא סְרָדֵי דַרְתָּא דְבוּץ שְׁזִיר מְאָה בְאַמִּין:",
+      "en": "He made the enclosure (for the mishkon). On the south side the curtains for the enclosure were made of fine, twined linen, one hundred amohs long.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:10",
+      "he": "עַמּוּדֵיהוֹן עֶסְרִין וְסַמְכֵיהוֹן עֶסְרִין נְחָשָׁא וָוֵי עַמּוּדַיָּא וְכִבּוּשֵׁיהוֹן כְּסָף:",
+      "en": "It had twenty pillars and twenty copper sockets. The hooks and bands of the pillars were of silver.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:11",
+      "he": "וּלְרוּחַ צִפּוּנָא מְאָה אַמִּין עַמּוּדֵיהוֹן עֶסְרִין וְסַמְכֵיהוֹן עֶסְרִין נְחָשָׁא וָוֵי עַמּוּדַיָּא וְכִבּוּשֵׁיהוֹן דִּכְסָף:",
+      "en": "On the north side, (its length was) one hundred amohs. It had twenty pillars and twenty copper sockets. The hooks and bands of the pillars were of silver.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:12",
+      "he": "וּלְרוּחַ מַעַרְבָא סְרָדִין חַמְשִׁין בְּאַמִּין עַמּוּדֵיהוֹן עַסְרָא וְסַמְכֵיהוֹן עַסְרָא וָוֵי עַמּוּדַיָּא וְכִבּוּשֵׁיהוֹן דִּכְסָף:",
+      "en": "On the west side, the curtains were of fifty amohs. It had ten pillars and ten sockets. The hooks and bands of the pillars were of silver.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:13",
+      "he": "וּלְרוּחַ קִדּוּמָא מָדִינְחָא חַמְשִׁין אַמִּין:",
+      "en": "(The width of the enclosure) on the east side was fifty amohs.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:14",
+      "he": "סְרָדִין חֲמֵשׁ עֶסְרֵי אַמִּין לְעִבְרָא עַמּוּדֵיהוֹן תְּלָתָא וְסַמְכֵיהוֹן תְּלָתָא:",
+      "en": "Curtains fifteen amohs long were on one flank (of the entrance). They had three pillars and three sockets.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:15",
+      "he": "וּלְעִבְרָא תִנְיֵתָא מִכָּא וּמִכָּא לִתְרַע דַּרְתָּא סְרָדִין חֲמֵשׁ עֶסְרֵי אַמִּין עַמּוּדֵיהוֹן תְּלָתָא וְסַמְכֵיהוֹן תְּלָתָא",
+      "en": "The other flank, on either side of the gate to the enclosure (there also were) curtains fifteen amohs long. They (too) had three pillars and three sockets.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:16",
+      "he": "כָּל סְרָדֵי דְדַרְתָּא סְחוֹר סְחוֹר דְּבוּץ שְׁזִיר:",
+      "en": "All curtains around the enclosure were made of twined, fine linen.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:17",
+      "he": "וְסַמְכַיָּא לְעַמּוּדַיָּא נְחָשָׁא וָוֵי עַמּוּדַיָּא וְכִבּוּשֵׁיהוֹן דִּכְסַף וְחִפּוּי רֵישֵׁיהוֹן דִּכְסָף וְאִנּוּן מְכַבְּשִׁין דִּכְסַף כָּל עַמּוּדֵי דַרְתָּא:",
+      "en": "The sockets for the pillars were of copper, the hooks and bands of the pillars were of silver, and the covering of their tops was of silver. All pillars of the enclosure had silver bands.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:18",
+      "he": "וּפְרָסָא דִּתְרַע דַּרְתָּא עוֹבַד צַיָּר תִּכְלָא וְאַרְגְּוָנָא וּצְבַע זְהוֹרִי וּבוּץ שְׁזִיר וְעֶסְרִין אַמִּין אֻרְכָּא וְרוּמָא בְּפוּתְיָא חֲמֵשׁ אַמִּין לָקֳבֵל סְרָדֵי דַרְתָּא:",
+      "en": "The screen at the entrance of the enclosure was the work of an embroiderer. It was made of greenish blue wool, dark red wool, crimson [colored] wool, and twined, fine linen. It was twenty amohs long and the height in the width was five amohs, corresponding to the curtains of the enclosure.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:19",
+      "he": "וְעַמּוּדֵיהוֹן אַרְבְּעָא וְסַמְכֵיהוֹן אַרְבְּעָא נְחָשָׁא וָוֵיהוֹן דִּכְסַף וְחִפּוּי רֵישֵׁיהוֹן וְכִבּוּשֵׁיהוֹן דִּכְסָף:",
+      "en": "(The screen) had four pillars and four copper sockets, silver hooks, and their tops and bands were overlaid with silver.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:20",
+      "he": "וְכָל סִכַּיָּא לְמַשְׁכְּנָא וּלְדַרְתָּא סְחוֹר סְחוֹר דִּנְחָשָׁא:",
+      "en": "All the stakes of the mishkon and the surrounding enclosure were made of copper.",
+      "fr": ""
+    }
+  ]
+}

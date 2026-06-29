@@ -1,0 +1,739 @@
+{
+  "name": "Ki Tavo",
+  "range": "Deuteronomy 26:1-29:8",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Deuteronomy 26:1",
+      "he": "וִיהֵי אֲרֵי תֵעוּל לְאַרְעָא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ אַחֲסָנָא וְתֵירְתַהּ וְתֵיתֵב בַּהּ:",
+      "en": "When it happens that you come to the land that Adonoy, your God, is giving you as territory, nd you inherit it and settle it;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:2",
+      "he": "וְתִסַּב מֵרֵישׁ כָּל אִבָּא דְאַרְעָא דִּי תָעֵל מֵאַרְעָךְ דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ וּתְשַׁוֵּי בְסַלָּא וּתְהַךְ לְאַתְרָא דִּי יִתִּרְעֵי יְיָ אֱלָהָךְ לְאַשְׁרָאָה שְׁכִנְתֵּיהּ תַּמָּן:",
+      "en": "You are to take of the first of all the fruits of the soil that you bring from your land, that Adonoy, your God, is giving you, and place [it] in a basket; and go to the place that Adonoy, your God, chooses to house His Presence there.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:3",
+      "he": "וְתֵיתֵי לְוָת כַּהֲנָא דִּי יְהֵי בְּיוֹמַיָּא הָאִנּוּן וְתֵימַר לֵיהּ חַוֵּיתִי יוֹמָא דֵין קֳדָם יְיָ אֱלָהָךְ אֲרֵי עַלִּית לְאַרְעָא דִּי קַיִּים יְיָ לַאֲבָהָתָנָא לְמִתַּן לָנָא:",
+      "en": "You are to come to the kohein who will be [of service] during those days and you will say to him, ‘‘I ascertain today to [before] Adonoy, your God, that I have arrived in the land that Adonoy swore to our forefathers to give us.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:4",
+      "he": "וְיִסַּב כַּהֲנָא סַלָּא מִידָךְ וְיַחְתִנֵּיהּ קֳדָם מַדְבְּחָא דַּיְיָ אֱלָהָךְ:",
+      "en": "The kohein shall then take the basket from your hand, and he will place it before the altar of Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:5",
+      "he": "וְתָתֵיב וְתֵימַר קֳדָם יְיָ אֱלָהָךְ לָבָן אֲרַמָּאָה בָּעָא לְאוֹבָדָא יָת אַבָּא וּנְחַת לְמִצְרַיִם וְדָר תַּמָּן בְּעַם זְעֵר וַהֲוָה תַמָּן לְעַם רַב תַּקִּיף וְסַגִּי:",
+      "en": "And you shall then proclaim and say before Adonoy, your God, ‘‘[Lovon] the Aramite [wanted to] destroy[ed] my forefather, then he descended to Egypt and sojourned there with a tiny community [small nation]; and there he became a great people, powerful and numerous.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:6",
+      "he": "וְאַבְאִישׁוּ לָנָא מִצְרַיִם וְעַנְּיָנָא וִיהָבוּ עֲלָנָא פָּלְחָנָא קַשְׁיָא:",
+      "en": "‘‘The Egyptians treated us badly and oppressed us, and they imposed hard labor upon us.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:7",
+      "he": "וְצַלֵּינָא קֳדָם יְיָ אֱלָהָא דַאֲבָהָתָנָא וְקַבִּיל יְיָ צְלוֹתָנָא וּגְלֵי קֳדָמוֹהִי עַמְלָנָא וְלֵאוּתָנָא וְדוּחֲקָנָא:",
+      "en": "‘‘We prayed to [before] Adonoy, God of our forefathers, and Adonoy accepted our prayer, and perceived [before Him] our oppression, and our labor, and the pressure upon us.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:8",
+      "he": "וְאַפְּקָנָא יְיָ מִמִּצְרַיִם בִּידָא תַקִּיפָא וּבִדְרָעָא מְרָמְמָא וּבְחֶזְוָנָא רַבָּא וּבְאָתִין וּבְמוֹפְתִין:",
+      "en": "‘‘And Adonoy took us out of Egypt with a powerful hand and with an extended arm, and with great display, and with signs, and with wonders.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:9",
+      "he": "וְאַיְתָנָא לְאַתְרָא הָדֵין וִיהַב לָנָא יָת אַרְעָא הָדָא אַרְעָא עָבְדָא חֲלַב וּדְבָשׁ:",
+      "en": "‘‘And He brought us to this place, and He gave us this land, a land flowing milk and honey.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:10",
+      "he": "וּכְעַן הָא אַיְתֵתִי יָת רֵישׁ אִבָּא דְאַרְעָא דִּיהַבְתְּ לִי יְיָ וְתַחְתִנֵיהּ קֳדָם יְיָ אֱלָהָךְ וְתִסְגּוּד קֳדָם יְיָ אֱלָהָךְ:",
+      "en": "And now, see! I have brought the first of the fruits of the soil that You have given me Adonoy.’’ And you shall then place it before Adonoy, your God, and you will prostrate yourself in the presence of Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:11",
+      "he": "וְתֶחֱדֵי בְכָל טַבְתָא דִּי יְהַב לָךְ יְיָ אֱלָהָךְ וְלֶאֱנַשׁ בֵּיתָךְ אַתְּ וְלֵוָאֵי וְגִיּוֹרָא דִּי בֵינָךְ:",
+      "en": "You shall rejoice with all the good that Adonoy, your God, gave you and [the members of] your household; you, the levi, and the proselyte in your midst.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:12",
+      "he": "אֲרֵי תְשֵׁצֵי לְעַשָּׂרָא יָת כָּל מַעֲשַׂר עֲלַלְתָּךְ בְּשַׁתָּא תְלִיתָאָה שְׁנַת מַעְשְׂרָא וְתִתֵּן לְלֵוָאֵי לְגִיּוֹרָא לְיִתַּמָּא וּלְאַרְמְלָא וְיֵכְלוּן בְּקִרְוָיךְ וְיִשְׂבְּעוּן:",
+      "en": "When you finish tithing all the tithes of your produce in the third year, the year of the tithe; and you have given to the Levi, to the proselyte, to the orphan, and to the widow, so that they may eat within your portals to their satisfaction;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:13",
+      "he": "וְתֵימַר קֳדָם יְיָ אֱלָהָךְ פַּלֵּתִי קֹדֶשׁ מַעְשְׂרָא מִן בֵּיתָא וְאַף יְהָבִתֵּיהּ לְלֵוָאֵי וּלְגִיּוֹרָא לְיִתַּמָּא וּלְאַרְמְלָא כְּכָל פִּקּוּדָךְ דִּי פַקִּדְתַּנִי לָא עֲבָרִית מִפִּקּוּדָיךְ וְלָא אִתִּנְשֵׁיתִי:",
+      "en": "You shall declare before Adonoy, your God, ‘‘I have divested my estate of sacred [tithe] material, and I have also presented it to the Levi and also to the proselyte, the orphan, and the widow, totally according to Your command that You commanded me; I did not transgress any of Your commandments nor did I forget.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:14",
+      "he": "לָא אֲכָלִית בְּאֶבְלִי מִנֵּיהּ וְלָא פַלֵּתִי מִנֵּיהּ בְּדִמְסָאָב וְלָא יְהָבִית מִנֵּיהּ לְמִית קַבֵּלִית לְמֵימְרָא דַּיְיָ אֱלָהָי עֲבָדִית כְּכֹל דִּי פַקִּדְתַּנִי:",
+      "en": "I did not eat of it when grieving, nor did I devour it when ritually defiled, nor did I make use of it for the dead; I have heeded the voice [word] of Adonoy, my God; I have fulfilled everything that You commanded me.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:15",
+      "he": "אִסְתְּכִי מִמְּדוֹר קָדְשָׁךְ מִן שְׁמַיָּא וּבָרֵךְ יָת עַמָּךְ יָת יִשְׂרָאֵל וְיָת אַרְעָא דִּי יְהַבְתְּ לָנָא כְּמָא דִי קַיֶּמְתָּא לַאֲבָהָתָנָא אֲרַע עָבְדָא חֲלַב וּדְבָשׁ:",
+      "en": "View, from Your sacred residence, from the heavens, and bless Your people, Yisroel and the soil which You have given us, as You swore to our forefathers, a land flowing with milk and honey.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:16",
+      "he": "יוֹמָא הָדֵין יְיָ אֱלָהָךְ מְפַקְּדָךְ לְמֶעְבַּד יָת קְיָמַיָּא הָאִלֵּין וְיָת דִּינַיָּא וְתִטַּר וְתַעְבֵּד יָתְהוֹן בְּכָל לִבָּךְ וּבְכָל נַפְשָׁךְ:",
+      "en": "This very day, Adonoy, your God, commands you to perform these statutes and the laws; you shall observe and perform them wholeheartedly and with your whole being.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:17",
+      "he": "יָת יְיָ חֲטַבְתָּ יוֹמָא דֵין לְמֶהֱוֵי לָךְ לֶאֱלָהּ וְלִמְהַךְ בְּאָרְחָן דְּתָקְנָן קֳדָמוֹהִי וּלְמִטַּר קְיָמוֹהִי וּפִקּוּדוֹהִי וְדִינוֹהִי וּלְקַבָּלָא בְמֵימְרֵיהּ:",
+      "en": "Adonoy, you have distinguised today to be a God for you and to go in His ways [which are proper before Him] and to guard His statutes and His commandments and His laws, and to obey Him [accept His word].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:18",
+      "he": "וַייָ חָטְבָךְ יוֹמָא דֵין לְמֶהֱוֵי לֵיהּ לְעַם חַבִּיב כְּמָא דִי מַלִּיל לָךְ וּלְמִטַּר כָּל פִּקּוּדוֹהִי:",
+      "en": "And Adonoy has distinguished you today to be for Him a treasured people as He said to you, and to guard all His commandments.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:19",
+      "he": "וּלְמִתְּנָךְ עִלָּאָה עַל כָּל עַמְמַיָּא דִּי עֲבַד לְתֻשְׁבָּחָא וּלְשׁוּם וְלִרְבוּ וּלְמֶהֱוָךְ עַם קַדִּישׁ קֳדָם יְיָ אֱלָהָךְ כְּמָא דִי מַלִּיל:",
+      "en": "And to place you superior to all the nations whom He made, for praise and for renown and for glory, and so that you may be a people sanctified to [before] Adonoy, your God, as He said.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:1",
+      "he": "וּפַקִּיד משֶׁה וְסָבֵי יִשְׂרָאֵל יָת עַמָּא לְמֵימָר טַר יָת כָּל תַּפְקֶדְתָּא דִּי אֲנָא מְפַקֵּד יָתְכוֹן יוֹמָא דֵין:",
+      "en": "Moshe and the elders of Yisroel commanded the people the following, ‘‘Keep all of the commandment that I am commanding you today.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:2",
+      "he": "וִיהֵי בְּיוֹמָא דִּי תַעְבְּרוּן יָת יַרְדְּנָא לְאַרְעָא דַּיְיָ אֱלָהָךְ יָהֵב לָךְ וּתְקִים לָךְ אַבְנִין רַבְרְבִין וּתְסוּד יָתְהוֹן בְּסִידָא:",
+      "en": "When the day comes that you cross the Yardein to the land that Adonoy, your God, is giving you, erect large stones and coat them with whitewash.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:3",
+      "he": "וְתִכְתּוֹב עֲלֵיהוֹן יָת כָּל פִּתְגָּמֵי אוֹרַיְתָא הָדָא בְּמֶעְבְּרָךְ בְּדִיל דִּי תֵעוּל לְאַרְעָא דַיְיָ אֱלָהָךְ יָהֵב לָךְ אַרְעָא עָבְדָא חֲלַב וּדְבַשׁ כְּמָא דִי מַלִּיל יְיָ אֱלָהָא דַאֲבָהָתָךְ לָךְ:",
+      "en": "You are to write on them all statements of this Torah upon your crossing; in order that you come to the land that Adonoy, your God, is giving you, a land flowing milk and honey, as promised by Adonoy, God of your forefathers, to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:4",
+      "he": "וִיהֵי בְּמֵעֲבָרְכוֹן יָת יַרְדְּנָא תְּקִימוּן יָת אַבְנַיָּא הָאִלֵּין דִּי אֲנָא מְפַקֵּד יָתְכוֹן יוֹמָא דֵין בְּטוּרָא דְעֵיבָל וּתְסוּד יָתְהוֹן בְּסִידָא:",
+      "en": "As soon as you have crossed the Yardein, set up these stones that I am commanding you today, on Mount Eival, and coat them with whitewash.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:5",
+      "he": "וְתִבְנֵי תַמָּן מַדְבְּחָא קֳדָם יְיָ אֱלָהָךְ מַדְבַּח אַבְנִין לָא תְרִים עֲלֵיהוֹן פַּרְזְלָא:",
+      "en": "Build there an altar to [before] Adonoy, your God; an altar of stones; do not lift iron upon them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:6",
+      "he": "אַבְנִין שָׁלְמִין תִּבְנֵי יָת מַדְבְּחָא דַּיְיָ אֱלָהָךְ וְתַסֵּק עֲלוֹהִי עֲלָוָן קֳדָם יְיָ אֱלָהָךְ:",
+      "en": "[Of] whole stones are you to build the altar of Adonoy, your God; and you are to bring upon it burnt-offerings to [before] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:7",
+      "he": "וְתִכּוֹס נִכְסַת קוּדְשִׁין וְתֵיכוּל תַּמָּן וְתֶחֱדֵי קֳדָם יְיָ אֱלָהָךְ:",
+      "en": "You are to slaughter peace [sacred]-offerings and eat [them] there; and you are to rejoice in the presence of Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:8",
+      "he": "וְתִכְתּוֹב עַל אַבְנַיָּא יָת כָּל פִּתְגָּמֵי אוֹרַיְתָא הָדָא פָּרַשׁ יָאוּת:",
+      "en": "You are to write on the stones all the statements of this Torah, explained properly.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:9",
+      "he": "וּמַלִּיל משֶׁה וְכָהֲנַיָּא לֵוָאֵי לְכָל יִשְׂרָאֵל לְמֵימָר אֲצֵית וּשְׁמַע יִשְׂרָאֵל יוֹמָא הָדֵין הֲוֵיתָא לְעַמָּא קֳדָם יְיָ אֱלָהָךְ:",
+      "en": "Moshe and the kohanim-Levi’im addressed all of Yisroel, to say, ‘‘Take heed and accept, Yisroel! [On] this day you have become a people to [before] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:10",
+      "he": "וּתְקַבֵּל לְמֵימְרָא דַּיְיָ אֱלָהָךְ וְתַעְבֵּד יָת פִּקּוּדוֹהִי וְיָת קְיָמוֹהִי דִּי אֲנָא מְפַקְּדָךְ יוֹמָא דֵין:",
+      "en": "You are to obey [accept the word of] Adonoy, your God, and perform His commandments and His statutes that I am commanding you today.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:11",
+      "he": "וּפַקִּיד משֶׁה יָת עַמָּא בְּיוֹמָא הַהוּא לְמֵימָר:",
+      "en": "Moshe commanded the people on that day, to say,",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:12",
+      "he": "אִלֵּין יְקוּמוּן לְבָרָכָא יָת עַמָּא עַל טוּרָא דִגְרִזִּים בְּמֵעֲבָרְכוֹן יָת יַרְדְּנָא שִׁמְעוֹן וְלֵוִי וִיהוּדָה וְיִשָּׂשׂכָר וְיוֹסֵף וּבִנְיָמִן:",
+      "en": "‘‘The following will stand to bless the people on Mount Gerizim, upon your crossing the Yardein: Shimon and Levi and Yehudah, and Yisachar and Yoseif and Binyomin.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:13",
+      "he": "וְאִלֵּין יְקוּמוּן עַל לְוָטַיָּא בְּטוּרָא דְעֵיבָל רְאוּבֵן גָּד וְאָשֵׁר וּזְבוּלֻן דָּן וְנַפְתָּלִי:",
+      "en": "And the following will stand for the curse[rs] at Mount Eival: Reuvein, Gad and Asher, and Zevulun, Don and Naftoli.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:14",
+      "he": "וִיתִיבוּן לֵוָאֵי וְיֵימְרוּן לְכָל אֱנַשׁ יִשְׂרָאֵל קָלָא רָמָא:",
+      "en": "The Levi’im are to respond and say to every man of Yisroel aloud:",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:15",
+      "he": "לִיט גַּבְרָא דִּי יַעְבֵּד צֶלֶם וּמַתְּכָא מְרָחָקָא קֳדָם יְיָ עֹבַד יְדֵי אָמָן וּמְשַׁוִּי בְסִתְרָא וִיתִיבוּן כָּל עַמָּא וְיֵימְרוּן אָמֵן:",
+      "en": "‘Cursed is the man who makes a statue or a molten image, [distanced before] Adonoy’s abomination, the handiwork of a craftsman, and places [it] in a secret [place];’ the entire people will respond and say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:16",
+      "he": "לִיט דְּיִקְלֵי אֲבוּהִי וְאִמֵּיהּ וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever reviles his father or his mother,’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:17",
+      "he": "לִיט דְּיִשְׁנֵי תְּחוּמָא דְחַבְרֵיהּ וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever casts aside [changes] the boundary of his fellow;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:18",
+      "he": "לִיט דְּיַטְעֵי עַוִּירָא בְּאָרְחָא וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever misleads the blind about the way;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:19",
+      "he": "לִיט דְּיַצְלֵי דִּין דַּיַּר יִתַּמָּא וְאַרְמְלָא וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever distorts justice for a convert, orphan, or widow;’ and entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:20",
+      "he": "לִיט דְּיִשְׁכּוּב עִם אִתַּת אֲבוּהִי אֲרֵי גַלִּי כַּנְפָא דַאֲבוּהִי וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever has intercourse with his father’s wife, because he exposed the corner of his father[’s garment];’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:21",
+      "he": "לִיט דְּיִשְׁכּוּב עִם כָּל בְּעִירָא וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever has intercourse with any animal;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:22",
+      "he": "לִיט דְּיִשְׁכּוּב עִם אֲחָתֵיהּ בַּת אֲבוּהִי אוֹ בַת אִמֵּיהּ וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever has intercourse with his sister, daughter of his father or daughter of his mother;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:23",
+      "he": "לִיט דְּיִשְׁכּוּב עִם חֲמוֹתֵיהּ וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever has intercourse with his father’s-in-law wife;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:24",
+      "he": "לִיט דְּיִמְחֵי לְחַבְרֵיהּ בְּסִתְרָא וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever strikes his fellow in secret;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:25",
+      "he": "לִיט דִּי מְקַבֵּל שֹׁחֲדָא לְמִקְטַל נְפַשׁ דַּם זַכַּי וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever accepts a bribe to kill an innocent person;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:26",
+      "he": "לִיט דִּי לָא יְקַיַּם יָת פִּתְגָּמֵי אוֹרַיְתָא הָדָא לְמֶעְבַּד יָתְהוֹן וְיֵימַר כָּל עַמָּא אָמֵן:",
+      "en": "‘Cursed is whoever does not uphold the statements of this Torah to perform them;’ and the entire people will say, Amein.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:1",
+      "he": "וִיהֵי אִם קַבָּלָא תְקַבֵּל לְמֵימְרָא דַּיְיָ אֱלָהָךְ לְמִטַּר לְמֶעְבַּד יָת כָּל פִּקּוּדוֹהִי דִּי אֲנָא מְפַקְּדָךְ יוֹמָא דֵין וְיִתְּנִנָּךְ יְיָ אֱלָהָךְ עִלַּי עַל כָּל עַמְמֵי אַרְעָא:",
+      "en": "When you hearken and obey [accept the word of] Adonoy, your God, to be sure to perform all of His commandments that I am commanding you today; Adonoy, your God, will place you superior to all the nations of the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:2",
+      "he": "וְיֵיתוּן עֲלָךְ כָּל בִּרְכְּתָא הָאִלֵּין וְיִדְבְּקֻנָּךְ אֲרֵי תְקַבַּל לְמֵימְרָא דַּיְיָ אֱלָהָךְ:",
+      "en": "All these blessings will come upon you and will reach [adhere to] you, when you obey [accept the word of] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:3",
+      "he": "בְּרִיךְ אַתְּ בְּקַרְתָּא וּבְרִיךְ אַתְּ בְּחַקְלָא:",
+      "en": "Blessed are you in the city, and blessed are you in the field.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:4",
+      "he": "בְּרִיךְ וַלְדָּא דִמְעָךְ וְאִבָּא דְאַרְעָךְ וּוַלְדָּא דִבְעִירָךְ בַּקְרֵי תוֹרָיךְ וְעֶדְרֵי עָנָךְ:",
+      "en": "Blessed is the fruit [offspring] of your belly, and the produce [fruit] of your soil, and the offspring of your animals, the issue of your cattle and the flocks of your sheep and goats.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:5",
+      "he": "בְּרִיךְ סַלָּךְ וְאַצְוָתָךְ:",
+      "en": "Blessed will be your [fruit] basket and your solid foods.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:6",
+      "he": "בְּרִיךְ אַתְּ בְּמֵעֲלָךְ וּבְרִיךְ אַתְּ בְּמִפְּקָךְ:",
+      "en": "You will be blessed at your arrival, and blessed at your departure.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:7",
+      "he": "יִתֵּן יְיָ יָת בַּעֲלֵי דְבָבָךְ דְּקָיְמִין עֲלָךְ תְּבִירִין קֳדָמָךְ בְּאָרְחָא חַד יִפְּקוּן לְוָתָךְ וּבְשִׁבְעָא אָרְחָן יֵעִרְקוּן מִקֳּדָמָךְ:",
+      "en": "Adonoy will set your enemies who rise against you smitten [broken] before you; by one road will they approach you, but by seven roads they will flee from you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:8",
+      "he": "יְפַקֵּד יְיָ עִמָּךְ יָת בִּרְכְּתָא בְּאוֹצָרָךְ וּבְכֹל אוֹשָׁטוּת יְדָךְ וִיבָרֵכִנָּךְ בְּאַרְעָא דַּיְיָ אֱלָהָךְ יָהֵב לָךְ:",
+      "en": "Adonoy will order upon you the blessing in your storehouses and in all your commerce; and He will bless you in the land that Adonoy, your God, is giving you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:9",
+      "he": "יְקִימִנָּךְ יְיָ לֵיהּ לְעַם קַדִּישׁ כְּמָא דִי קַיִּים לָךְ אֲרֵי תִטַּר יָת פִּקּוּדַיָּא דַּיְיָ אֱלָהָךְ וּתְהַךְ בְּאָרְחָן דְּתָקְנָן קֳדָמוֹהִי:",
+      "en": "Adonoy will establish you for Himself as a holy people as He swore to you; when you will guard the commandments of Adonoy, your God, and will go in His ways [that are correct before Him].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:10",
+      "he": "וְיֶחֱזוּן כָּל עַמְמֵי אַרְעָא אֲרֵי שְׁמָא דַיְיָ אִתְקְרֵי עֲלָךְ וְיִדְחֲלוּן מִנָּךְ:",
+      "en": "And all the peoples of the earth will see that you are called by Adonoy’s Name and they will fear you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:11",
+      "he": "וְיוֹתְרִנָּךְ יְיָ לְטָבָא בְּוַלְדָּא דִמְעָךְ וּבְוַלְדָּא דִבְעִירָךְ וּבְאִבָּא דְאַרְעָךְ עַל אַרְעָא דִּי קַיִּים יְיָ לַאֲבָהָתָךְ לְמִתַּן לָךְ:",
+      "en": "Adonoy will give you surplus as benefit in the fruit [offspring] of your belly, and the offspring of your animals, and the produce [fruit] of your soil; upon the land that Adonoy swore to your forefathers to give you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:12",
+      "he": "יִפְתַּח יְיָ לָךְ יָת אוֹצָרֵיהּ טָבָא יָת שְׁמַיָּא לְמִתַּן מְטַר אַרְעָךְ בְּעִדָּנֵיהּ וּלְבָרָכָא יָת כָּל עוֹבָדֵי יְדָךְ וְתוֹזֵף לְעַמְמִין סַגִּיאִין וְאַתְּ לָא תְזוּף:",
+      "en": "Adonoy will open for you His good storehouse, the sky, to give you your land’s rain on time and to bless all your endeavors; and you will lend to many nations, but you will not borrow.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:13",
+      "he": "וְיִתְּנִנָּךְ יְיָ לְתַקִּיף וְלָא לְחַלָּשׁ וּתְהֵי בְּרַם לְעֵלָּא וְלָא תְהֵי לְתַחְתָּא אֲרֵי תְקַבַּל לְפִקּוּדַיָּא דַּיְיָ אֱלָהָךְ דִּי אֲנָא מְפַקְּדָךְ יוֹמָא דֵין לְמִטַּר וּלְמֶעְבָּד:",
+      "en": "Adonoy will place you at the head [to be powerful], not at the tail [to be weak]; and you will be solely on top, you will not be on the bottom; when you heed the commandments of Adonoy, your God, that I am commanding you today to guard and to perform.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:14",
+      "he": "וְלָא תִסְטוּן מִכָּל פִּתְגָּמַיָּא דִּי אֲנָא מְפַקֵּד יָתְכוֹן יוֹמָא דֵין יַמִּינָא וּשְׂמָאלָא לִמְהַךְ בָּתַר טַעֲוַת עַמְמַיָּא לְמִפְלְחִנּוּן:",
+      "en": "And you do not deviate from all the statements that I am commanding you today to the right or to the left, to follow other gods [idols of the nations] to serve them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:15",
+      "he": "וִיהֵי אִם לָא תְקַבַּל בְּמֵימְרָא דַּיְיָ אֱלָהָךְ לְמִטַּר לְמֶעְבַּד יָת כָּל פִּקּוּדוֹהִי וּקְיָמוֹהִי דִּי אֲנָא מְפַקְּדָךְ יוֹמָא דֵין וְיֵיתוּן עֲלָךְ כָּל לְוָטַיָּא הָאִלֵּין וְיִדְבְּקֻנָּךְ:",
+      "en": "Should you not obey [accept the word of] Adonoy, your God, to guard to perform all His commandments and His statutes that I am commanding you today; then all these curses will come upon you and will reach [cleave to] you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:16",
+      "he": "לִיט אַתְּ בְּקַרְתָּא וְלִיט אַתְּ בְּחַקְלָא:",
+      "en": "Cursed are you in the city and cursed are you in the field.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:17",
+      "he": "לִיט סַלָּךְ וְאַצְוָתָךְ:",
+      "en": "Cursed is your [fruit] basket and cursed are your solid foods.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:18",
+      "he": "לִיט וַלְדָּא דִמְעָךְ וְאִבָּא דְאַרְעָךְ בַּקְרֵי תוֹרָיךְ וְעֶדְרֵי עָנָךְ:",
+      "en": "Cursed is the fruit [offspring] of your belly and the produce [fruit] of your soil, the calves of your cattle and the flocks of your sheep and goats.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:19",
+      "he": "לִיט אַתְּ בְּמֵעֲלָךְ וְלִיט אַתְּ בְּמִפְּקָךְ:",
+      "en": "Cursed are you upon your arrival and cursed are you upon your departure.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:20",
+      "he": "יְגָרֵי יְיָ בָּךְ יָת מְאֶרְתָּא וְיָת שִׁגּוּשַׁיָּא וְיָת מְזוֹפִיתָא בְּכָל אוֹשָׁטוּת יְדָךְ דִּי תַעְבֵּד עַד דְּתִשְׁתֵּצֵי וְעַד דְּתֵיבַד בִּפְרִיעַ מִן קֳדָם בִּישׁוּת עוֹבָדָיךְ דִּשְׁבַקְתָּא דַחַלְתִּי:",
+      "en": "Adonoy will visit upon you ruin, panic, and frustration in all the endeavors you undertake, until you are destroyed and until you are swiftly removed because of the wickedness of your deeds [in] that you forsook [the fear of] Me.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:21",
+      "he": "יַדְבֵּק יְיָ בָּךְ יָת מוֹתָא עַד דִּישֵׁיצֵי יָתָךְ מֵעַל אַרְעָא דִּי אַתְּ עָלֵל לְתַמָּן לְמֵירְתַהּ:",
+      "en": "Adonoy will attach the plague to you until He exterminates you from upon the land that you are coming there to inherit.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:22",
+      "he": "יִמְחִנָּךְ יְיָ בְּשַׁחֶפְתָּא וּבְקַדַּחְתָּא וּבִדְלֶקְתָּא וּבְחַרְחוּרָא וּבְחַרְבָּא וּבְשִׁדְּפוֹנָא וּבְיַרְקוֹנָא וְיִרְדְּפֻנָּךְ עַד דְּתֵיבָד:",
+      "en": "Adonoy will smite you with blistering and with searing temperature, and with raging fever, and with charchur, and with the sword, and with wind-blight, and with yellowing; and they will chase you until your annihilation.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:23",
+      "he": "וִיהוֹן שְׁמַיָּךְ דִּי עִלָּוֵי רֵישָׁךְ חֲסִינִין כִּנְחָשָׁא מִלְּאֲחָתָא מִטְרָא וְאַרְעָא דִי תְחוֹתָךְ תַּקִּיפָא כְפַרְזְלָא מִלְּמֶעְבַּד פֵּרִין:",
+      "en": "And the heavens above your head will be [unyielding] like copper [in withholding rain] and the earth that is beneath you, [as strong as] iron [so as not to bear fruit].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:24",
+      "he": "יִתֵּן יְיָ יָת מְטַר אַרְעָךְ אַבְקָא וְעַפְרָא מִן שְׁמַיָּא יֵחוּת עֲלָךְ עַד דְּתִשְׁתֵּצֵי:",
+      "en": "Adonoy will make the rain of your land into dust and soil; from the sky will it come down upon you until you are destroyed.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:25",
+      "he": "יִתְּנִנָּךְ יְיָ תְּבִיר קֳדָם סָנְאָךְ בְּאָרְחָא חֲדָא תִּפּוֹק לְוָתֵיהּ וּבְשִׁבְעָא אָרְחָן תֵּעִרוֹק מִקֳּדָמוֹהִי וּתְהֵי לְזִיעַ לְכָל מַלְכְּוַת אַרְעָא:",
+      "en": "Adonoy will set you smitten [broken] before your enemies. By one road will you go out toward them and by seven roads will you flee before them; and you will be a cause of shuddering for all the kingdoms of the earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:26",
+      "he": "וּתְהֵי נְבִלְתָּךְ מְשַׁגְּרָא לְמֵיכַל לְכָל עוֹפָא דִשְׁמַיָּא וְלִבְעִירַת אַרְעָא וְלֵית דְּמָנִיד:",
+      "en": "Your corpse will be [cast out for] food for every bird of the sky and for the animals of the earth; with no one to scare [them].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:27",
+      "he": "יִמְחִנָּךְ יְיָ בְּשִׁחֲנָא דְמִצְרַיִם וּבִטְחוֹרִין וּבְגַרְבָּא וּבַחֲרִיס יַבִּישׁ דִּי לָא תִכּוּל לְאִתַּסָּאָה:",
+      "en": "Adonoy will plague you with Egyptian boils and with hemorroids and with running and dry boils; from which you will be unable to be healed.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:28",
+      "he": "יִמְחִנָּךְ יְיָ בְּטַפְשׁוּתָא וּבְסַמְיוּתָא וּבְשַׁעֲמָמוּת לִבָּא:",
+      "en": "Adonoy will plague you with insanity and with blindness, and with utter confusion [in your heart].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:29",
+      "he": "וּתְהֵי מְמַשֵּׁשׁ בְּטִהֲרָא כְּמָא דִי מַשֵּׁשׁ עַוִּירָא בְּקַבְלָא וְלָא תַצְלַח יָת אָרְחָתָיךְ וּתְהֵי בְּרַם עָשִׁיק וְאָנִיס כָּל יוֹמַיָּא וְלֵית דְּפָרִיק:",
+      "en": "You will grope at midday the way a blind man gropes in the darkness, and you will not succeed your ways; you will be only the victim of wrangling and robbed all the days with no savior.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:30",
+      "he": "אִתְּתָא תֵירוֹס וּגְבַר אָחֳרָן יִשְׁכְּבִנַּהּ בֵּיתָא תִבְנֵי וְלָא תֵיתֵב בֵּיהּ כַּרְמָא תִצּוֹב וְלָא תְחַלִּנֵּיהּ:",
+      "en": "A woman will you marry and another man will lie with her; a house will you build and will not live in it; a vineyard will you plant and will not redeem it[s fruit].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:31",
+      "he": "תּוֹרָךְ יְהֵי נָכֵס לְעֵינָיךְ וְלָא תֵיכוּל מִנֵּיהּ חֲמָרָךְ יְהֵי אָנֵס מִקֳּדָמָךְ וְלָא יְתוּב לָךְ עָנָךְ מְסִירִין לְבַעֲלֵי דְבָבָךְ וְלֵית לָךְ פָּרִיק:",
+      "en": "Your ox [will be] butchered before your eyes, and you will not eat of it; your ass [will be] robbed in your presence and will not return to you; your flocks [will be] given to your enemies, and you have no savior.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:32",
+      "he": "בְּנָיךְ וּבְנָתָיךְ מְסִירִין לְעַמָּא אָחֳרָן וְעֵינָיךְ חֲזָן וִיסוּפָן בִּגְלָלְהֵן כָּל יוֹמָא וְלֵית חֵילָא בִּידָךְ:",
+      "en": "Your sons and your daughters [will be] given to another people while your eyes watch and pine for them [because of them] all day, and your are powerless.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:33",
+      "he": "אִבָּא דְאַרְעָךְ וְכָל לֵאוּתָךְ יֵכוּל עַמָּא דִּי לָא יְדַעַתְּ וּתְהֵי בְרַם עָשִׁיק וּרְעִיעַ כָּל יוֹמַיָּא:",
+      "en": "The fruit of your soil and all your toil will be eaten by a people that you do not know; and you will be solely oppressed and crushed all the time.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:34",
+      "he": "וּתְהֵי מִשְׁתַּטֵּיהּ מֵחֵזוּ עֵינָיךְ דִּי תֶחֱזֵי:",
+      "en": "And you will become insane [made] from the sights that you see.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:35",
+      "he": "יִמְחִנָּךְ יְיָ בְּשִׁחֲנָא בִישָׁא עַל רְכֻבַיָּא וְעַל שָׁקַיָּא דִּי לָא תִכּוּל לְאִתַּסָּאָה מִפַּרְסַת רַגְלָךְ וְעַד מוֹחָךְ:",
+      "en": "Adonoy will plague you with bad boils on the knees and on the legs from which you will be unable to be healed; from the sole of your foot till your skull [brain].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:36",
+      "he": "יַגְלֵי יְיָ יָתָךְ וְיָת מַלְכָּךְ דִּי תְקִים עֲלָךְ לְעַם דִּי לָא יְדַעַתְּ אַתְּ וַאֲבָהָתָיךְ וְתִפְלַח תַּמָּן לְעַמְמַיָּא פָּלְחֵי טַעֲוָתָא אָעָא וְאַבְנָא:",
+      "en": "Adonoy will lead [exile] you and your king, whom you will set upon yourself, to a nation that neither you nor your parents knew; and there you will serve other powers [nations worshipping idols] [of] wood and stone.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:37",
+      "he": "וּתְהֵי לְצָדוּ לִמְתַל וּלְשׁוֹעֵי בְּכֹל עַמְמַיָּא דִּי יִדְבְּרִנָּךְ יְיָ לְתַמָּן:",
+      "en": "You will become an [object of] stupefaction, be cited as an example and become the subject of gossip among all the peoples to whom Adonoy will lead you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:38",
+      "he": "בַּר זְרַע סַגִּי תַּפֵּק לְחַקְלָא וּזְעֵר תִּכְנוֹשׁ אֲרֵי יַחְסְלִנֵּיהּ גּוֹבָא:",
+      "en": "Much seed will you take out to the fields, and little will you gather because the locust will demolish it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:39",
+      "he": "כַּרְמִין תִּצּוֹב וְתִפְלַח וְחַמְרָא לָא תִשְׁתֵּי וְלָא תִכְנוֹשׁ אֲרֵי תֵיכְלִנֵּיהּ תֹּלַעְתָּא:",
+      "en": "Vineyards will you plant and labor in, but wine will you not drink nor will you store because worms will consume it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:40",
+      "he": "זֵיתִין יְהוֹן לָךְ בְּכָל תְּחוּמָךְ וּמִשְׁחָא לָא תְסוּךְ אֲרֵי יִתְּרוּן זֵיתָיךְ:",
+      "en": "Olives will you have within your entire boundary, but oil will you not annoint because your olives (trees) will be discarded [wasted].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:41",
+      "he": "בְּנִין וּבְנָן תּוֹלִיד וְלָא יְהוֹן לָךְ אֲרֵי יְהָכוּן בְּשִׁבְיָא:",
+      "en": "Sons and daughters will you bear, but you will not have them because they will go into captivity.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:42",
+      "he": "כָּל אִילָנָךְ וְאִבָּא דְאַרְעָךְ יַחְסְנִנֵּיהּ סַקָּאָה:",
+      "en": "All your trees and the fruit of your soil the cicada will impoverish.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:43",
+      "he": "תּוֹתַב עָרֵל דִּי בֵינָךְ יְהֵי סָלִיק עֵיל מִנָּךְ לְעֵלָּא לְעֵלָּא וְאַתְּ תְּהֵי נָחֵת לְתַחְתָּא לְתַחְתָּא:",
+      "en": "The non-Jew [uncircumcized alien] among you will rise above you higher and higher, while you descend lower and lower.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:44",
+      "he": "הוּא יוֹזְפִנָּךְ וְאַתְּ לָא תוֹזְפִנֵּיהּ הוּא יְהֵי לְתַקִּיף וְאַתְּ תְּהֵי לְחַלָּשׁ:",
+      "en": "He will lend to you but you will not lend to him; he will be at the head [powerful], and you will be at the tail [weak].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:45",
+      "he": "וְיֵיתוּן עֲלָךְ כָּל לְוָטַיָּא הָאִלֵּין וְיִרְדְּפֻנָּךְ וְיִדְבְּקֻנָּךְ עַד דְּתִשְׁתֵּצֵי אֲרֵי לָא קַבֶּלְתָּא לְמֵימְרָא דַּיְיָ אֱלָהָךְ לְמִטַּר פִּקּוּדוֹהִי וּקְיָמוֹהִי דִּי פַקְּדָךְ:",
+      "en": "All these curses will come upon you and will chase you and reach [adhere to] you until you are destroyed; for you have not obeyed [accepted the word of] Adonoy, your God, to guard His commandments and His statutes that He commanded you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:46",
+      "he": "וִיהוֹן בָּךְ לְאָת וּלְמוֹפֵת וּבִבְנָיךְ עַד עֳלָם:",
+      "en": "They will happen to you as a sign and a wonder, and to your descendants forever.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:47",
+      "he": "חֳלָף דִּי לָא פְלַחְתָּא קֳדָם יְיָ אֱלָהָךְ בְּחֶדְוָא וּבְשַׁפִּירוּת לִבָּא מִסְּגֵי כֹּלָּא:",
+      "en": "Since you did not serve [before] Adonoy, your God, with joy and goodheartedness, in total affluence.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:48",
+      "he": "וְתִפְלַח יָת בַּעֲלֵי דְבָבָךְ דִּי יְגָרִנֵּיהּ יְיָ בָּךְ בְּכַפְנָא וּבְצַחוּתָא וּבְעַרְטִלְיָתָא וּבַחֲסִירוּת כֹּלָּא וְיִתֵּן נִיר פַּרְזְלָא עַל צַוְּארָךְ עַד דִּישֵׁיצֵי יָתָךְ:",
+      "en": "You will serve your enemies whom Adonoy sends [will set] against you, in hunger and in thirst and in nakedness and lacking everything; and he will set an iron yoke upon your neck until he destroys you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:49",
+      "he": "יַיְתִי יְיָ עֲלָךְ עַם מֵרָחִיק מִסְּיָפֵי אַרְעָא כְּמָא דִי מִשְׁתְּדִי נִשְׁרָא עַמָּא דִּי לָא תִשְׁמַע לִישָׁנֵיהּ:",
+      "en": "Adonoy will raise upon you a nation from afar from the end of the earth, as the eagle soars, a nation whose language you will not hear.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:50",
+      "he": "עַם תַּקִּיף אַפִּין דִּי לָא יִסַּב אַפִּין לְסָבָא וְעַל יָנְקָא לָא מְרַחֵם:",
+      "en": "A hard-faced nation that will not show favor to the old, and will not pity the young.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:51",
+      "he": "וְיֵיכוּל וַלְדָּא דִבְעִירָךְ וְאִבָּא דְאַרְעָךְ עַד דְּתִשְׁתֵּצֵי דִּי לָא יַשְׁאַר לָךְ עִבוּרָא חַמְרָא וּמִשְׁחָא בַּקְרֵי תוֹרָיךְ וְעֶדְרֵי עָנָךְ עַד דְּיוֹבֵד יָתָךְ:",
+      "en": "They will consume the offspring of your animals, and the produce [fruit] of your soil until you are destroyed; that will not leave you grain, wine, or oil, the calves of your cattle, or the flocks of your sheep and goats until they have you removed.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:52",
+      "he": "וְיָעֵק לָךְ בְּכָל קִרְוָיךְ עַד דְּיִכְבַּשׁ שׁוּרָיךְ רָמַיָּא וּכְרִיכַיָּא דִּי אַתְּ רָחֵץ לְאִשְׁתֵּזָבָא בְּהֵן בְּכָל אַרְעָךְ וְיָעֵק לָךְ בְּכָל קִרְוָיךְ בְּכָל אַרְעָךְ דִּי יְהַב יְיָ אֱלָהָךְ לָךְ:",
+      "en": "They will make you suffer in all your cities until mastering [capturing] your ramparts and fortified walls upon which you rely [to be saved] throughout your land; they will make you suffer in all your cities throughout your land that Adonoy, your God, has given you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:53",
+      "he": "וְתֵיכוּל וַלְדָּא דִמְעָךְ בְּשַׂר בְּנָיךְ וּבְנָתָיךְ דִּי יְהַב לָךְ יְיָ אֱלָהָךְ בִּצְיָרָא וּבְעַקְתָא דְּיָעֵק לָךְ סָנְאָךְ:",
+      "en": "You will eat the flesh [offspring] of your womb, the flesh of your sons and your daughters that Adonoy, your God, gave you; in the siege and in the distress that your enemy will distress you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:54",
+      "he": "גַּבְרָא דְרַכִּיךְ בָּךְ וְדִמְפַנַּק לַחֲדָא תִּבְאֵשׁ עֵינֵיהּ בְּאָחוּהִי וּבְאִתַּת קְיָמֵיהּ וּבִשְׁאָר בְּנוֹהִי דִּי יַשְׁאַר:",
+      "en": "The delicate among you and the fastidious, [even] he will look askance at his brother and at the wife of his bosom [covenant] and at the rest of his sons whom he will leave over.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:55",
+      "he": "מִלְּמִתַּן לְחַד מִנְּהוֹן מִבְּשַׂר בְּנוֹהִי דִּי יֵיכוּל מִדְּלָא אִשְׁתָּאַר לֵיהּ כֹּלָּא בִּצְיָרָא וּבְעַקְתָא דִּי יָעֵק לָךְ סָנְאָךְ בְּכָל קִרְוָיךְ:",
+      "en": "From giving to any of them of the flesh of his sons that he is eating for [fear of] not leaving everything for himself; in siege and in distress that your enemy will distress you in all your cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:56",
+      "he": "דְּרַכִּיכָא בָךְ וְדִמְפַנְּקָא דִּי לָא נַסִּיאַת פַּרְסַת רַגְלַהּ לַאֲחָתָא עַל אַרְעָא מִמְּפַנְּקוּ וּמֵרַכִּיכוּ תַּבְאֵשׁ עֵינַהּ בִּגְבַר קְיָמַהּ וּבִבְרַהּ וּבִבְרַתַּהּ:",
+      "en": "The soft female among you and the indulged one the sole of whose foot never experienced standing [putting her foot] on the ground out of indulgence and out of softness; her eye will begrudge the husband of her bosom [covenant], and her son and daughter.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:57",
+      "he": "וּבִזְעֵר בְּנָהָא דְּיִפְּקוּן מִנַּהּ וּבִבְנָהָא דִּי תְלִיד אֲרֵי תֵיכְלִנּוּן בַּחֲסִירוּת כֹּלָּא בְּסִתְרָא בִּצְיָרָא וּבְעַקְתָא דִּי יָעֵק לָךְ סָנְאָךְ בְּקִרְוָיךְ:",
+      "en": "And her infant [little children] who emerges from between her legs [from her], and her children whom she bears, when she eats them for lack of everything, secretly; in siege and in distress that your enemy will distress you in your cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:58",
+      "he": "אִם לָא תִטַּר לְמֶעְבַּד יָת כָּל פִּתְגָּמֵי אוֹרַיְתָא הָדָא דִּכְתִיבִין בְּסִפְרָא הָדֵין לְמִדְחַל יָת שְׁמָא יַקִּירָא וּדְחִילָא הָדֵין יָת יְיָ אֱלָהָךְ:",
+      "en": "If you will not guard to perform all the statements of this Torah that are written in this book to fear the respected and awesome Name, of Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:59",
+      "he": "וְיַפְרַשׁ יְיָ יָת מָחָתָךְ וְיָת מָחַת בְּנָיךְ מָחָן רַבְרְבָן וּמְהֵימְנָן וּמַכְתְּשִׁין בִּישִׁין וּמְהֵימְנִין:",
+      "en": "Adonoy will strike you with prodigous blows and blows on your offspring, blows, great and dependable and illnesses harmful and dependable.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:60",
+      "he": "וְיָתֵב בָּךְ יָת כָּל מַכְתְּשֵׁי מִצְרַיִם דִּי דְחֶלְתָּא מִקֳּדָמֵיהוֹן וְיִדְבְּקוּן בָּךְ:",
+      "en": "He will bring back for you all the Egyptian diseases which you dreaded and they will cling to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:61",
+      "he": "אַף כָּל מְרַע וְכָל מָחָא דִּי לָא כְתִיבִין בְּסִפְרָא דְאוֹרַיְתָא הָדָא יַיְתִנּוּן יְיָ עֲלָךְ עַד דְּיִשְׁתֵּצָךְ:",
+      "en": "Also every illness and every plague that is not written in the book of this Torah, will Adonoy raise up against you until you are destroyed.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:62",
+      "he": "וְתִשְׁתַּאֲרוּן בְּעַם זְעֵר חֳלָף דִּי הֲוֵיתוּן כְּכוֹכְבֵי שְׁמַיָּא לְמִסְגֵּי אֲרֵי לָא קַבֶּלְתָּא לְמֵימְרָא דַּיְיָ אֱלָהָךְ:",
+      "en": "You will remain numerically few [a small nation] instead of your having been like the stars in the sky, multitudinous; for you have not obeyed [accepted the word of] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:63",
+      "he": "וִיהֵי כְּמָא דִחַדֵּי יְיָ עֲלֵיכוֹן לְאוֹטָבָא יָתְכוֹן וּלְאַסְגָּאָה יָתְכוֹן כֵּן יֶחֱדֵי יְיָ עֲלֵיכוֹן לְאוֹבָדָא יָתְכוֹן וּלְשֵׁצָאָה יָתְכוֹן וְתִטַּלְטְלוּן מֵעַל אַרְעָא דִּאַתְּ עָלֵל לְתַמָּן לְמֵירְתַהּ:",
+      "en": "It will happen that as Adonoy rejoiced over you to benefit you and to multiply you, so will Adonoy bring joy to others over you to remove you and to destroy you; and you will be uprooted [carried away] from upon the land that you are coming there to inherit.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:64",
+      "he": "וִיבַדְּרִנָּךְ יְיָ בְּכָל עַמְמַיָּא מִסְּיָפֵי אַרְעָא וְעַד סְיָפֵי אַרְעָא וְתִפְלַח תַּמָּן לְעַמְמַיָּא פָּלְחֵי טַעֲוָתָא דִּי לָא יְדַעְתָּ אַתְּ וַאֲבָהָתָךְ אָעָא וְאַבְנָא:",
+      "en": "Adonoy will disperse you among all the peoples from the end of the earth to the end of the earth; and you shall serve there [nations who serve] other gods [idols] which neither you nor your ancestors knew, wood and stone.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:65",
+      "he": "וּבְעַמְמַיָּא הָאִנּוּן לָא תְנוּחַ וְלָא יְהֵא מְנָח לְפַרְסַת רַגְלָךְ וְיִתֵּן יְיָ לָךְ תַּמָּן לֵב דָּחֵל וְחַשְׁכַת עַיְנִין וּמַפְּחַן נְפָשׁ:",
+      "en": "And among those nations you will not be tranquil and there will be no rest for the sole of your foot; and Adonoy will give you there a fearful heart and pining eyes and disillusioned spirit.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:66",
+      "he": "וִיהוֹן חַיָּיךְ תְּלָן לָךְ מִקֳּבֵל וּתְהֵי תָוֵה לֵילְיָא וִימָמָא וְלָא תְהֵימִין בְּחַיָּיךְ:",
+      "en": "Your life will dangle before you, and you will be in fear [afraid] night and day, and will have no faith in your living.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:67",
+      "he": "בְּצַפְרָא תֵימַר מָן יִתֵּן רַמְשָׁא וּבְרַמְשָׁא תֵימַר מָן יִתֵּן צַפְרָא מִתַּוְהוּת לִבָּךְ דִּי תְהֵי תָוֵה וּמֵחֵזוּ עֵינָיךְ דִּי תְהֵי חָזֵי:",
+      "en": "In the morning you will say, ‘‘Would that it were evening,’’ and in the evening you will say, ‘‘Would that it were morning,’’ from the fear [fright] in your heart that you will fear [be afraid] and from the sights of your eyes that you will see.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:68",
+      "he": "וְיָתֵיבִנָּךְ יְיָ מִצְרַיִם בִּסְפִינָן בְּאָרְחָא דִּי אֲמָרִית לָךְ לָא תוֹסֵף עוֹד לְמֵחְזְיַהּ וְתִזְדַּבְּנוּן תַּמָּן לְּבַעֲלֵי דְבָבָךְ לְעַבְדִּין וּלְאַמְהָן וְלֵית דְּקַנֵה:",
+      "en": "Adonoy will send you back to Egypt on ships, along the route that I told you, ‘‘You are not to see it again,’’ and there you will attempt to sell yourselves [be sold] to your enemies as slaves and as maidservants but no one will buy.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:69",
+      "he": "אִלֵּין פִּתְגָּמֵי קְיָמָא דִּי פַקִּיד יְיָ יָת משֶׁה לְמִגְזַר עִם בְּנֵי יִשְׂרָאֵל בְּאַרְעָא דְמוֹאָב בַּר מִקְּיָמָא דִּי גְזַר עִמְּהוֹן בְּחֹרֵב:",
+      "en": "These are the statements of the covenant that Adonoy commanded Moshe to ratify with Bnei Yisroel in the land of Moav, beside the covenant that he had made with them at Choreiv.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:1",
+      "he": "וּקְרָא משֶׁה לְכָל יִשְׂרָאֵל וַאֲמַר לְהוֹן אַתּוּן חֲזֵתוּן יָת כָּל דִּי עֲבַד יְיָ לְעֵינֵיכוֹן בְּאַרְעָא דְמִצְרַיִם לְפַרְעֹה וּלְכָל עַבְדוֹהִי וּלְכָל אַרְעֵיהּ:",
+      "en": "Moshe called to all of Yisroel and said to them, ‘‘You have seen everything that Adonoy did as you watched, in the land of Egypt, to Pharoah and to all his attendants and to his entire land.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:2",
+      "he": "נִסֵּי רַבְרְבַיָּא דִּי חֲזָאָה עֵינָיךְ אָתַיָּא וּמוֹפְתַיָּא רַבְרְבַיָּא הָאִנּוּן:",
+      "en": "The great miracles that you witnessed, those great signs and wonders.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:3",
+      "he": "וְלָא יְהַב יְיָ לְכוֹן לִבָּא לְמִדַּע וְעַיְנִין לְמֶחֱזֵי וְאֻדְנִין לְמִשְׁמַע עַד יוֹמָא הָדֵין:",
+      "en": "Yet Adonoy did not grant you a knowledgeable mind and eyes to see, and ears to hear until this day.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:4",
+      "he": "וְדַבָּרִית יָתְכוֹן אַרְבְּעִין שְׁנִין בְּמַדְבְּרָא לָא בְלִיאַת כְּסוּתְכוֹן מִנְּכוֹן וּמְסָנָךְ לָא עֲדוֹ מֵעַל רַגְלָךְ:",
+      "en": "I have led you forty years in the wilderness, your garments have not worn out on you and your shoes have not worn out on your feet.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:5",
+      "he": "לַחְמָא לָא אֲכַלְתּוּן וַחֲמַר חֲדַת וְעַתִּיק לָא שְׁתֵיתוּן בְּדִיל דְּתִדְּעוּן אֲרֵי אֲנָא יְיָ אֱלָהֲכוֹן:",
+      "en": "Bread have you not eaten, neither fresh nor aged wine have you drunk, in order that you know that I, Adonoy, am your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:6",
+      "he": "וַאֲתֵתוּן לְאַתְרָא הָדֵין וּנְפַק סִיחוֹן מַלְכָּא דְחֶשְׁבּוֹן וְעוֹג מַלְכָּא דְמַתְנָן לָקֳדָמוּתָנָא לַאֲגָחָא קְרָבָא וּמְחוֹנוּן:",
+      "en": "Then when you came to this place, Sichon, king of Cheshbon, came out—and Og, king of Boshon [Masnon]—toward us to wage war and we smote them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:7",
+      "he": "וּנְסִבְנָא יָת אַרְעֲהוֹן וִיהָבִנַּהּ לְאַחֲסָנָא לְשִׁבְטָא דִרְאוּבֵן וּלְשִׁבְטָא דְגָד וּלְפַלְגּוּת שִׁבְטָא דִמְנַשֶּׁה:",
+      "en": "And we took the their land and gave it as territory to the [tribe of the] Reuvenites and to the [tribe of the] Gaddites, and to half the tribe of the Menashians.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:8",
+      "he": "וְתִטְּרוּן יָת פִּתְגָּמֵי קְיָמָא הָדָא וְתַעְבְּדוּן יָתְהוֹן בְּדִיל דְּתִצְלְחוּן יָת כָּל דִּי תַעְבְּדוּן:",
+      "en": "You are to guard the tenets of this covenant and fulfill them, in order that you succeed in everything that you do.’’",
+      "fr": ""
+    }
+  ]
+}

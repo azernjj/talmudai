@@ -1,0 +1,547 @@
+{
+  "name": "Metsora",
+  "range": "Leviticus 14:1-15:33",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Leviticus 14:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "And Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:2",
+      "he": "דָּא תְהֵי אוֹרַיְתָא דִסְגִירָא בִּיוֹמָא דְדָכוּתֵיהּ וְיִתֵּתֵי לְוָת כַּהֲנָא:",
+      "en": "This shall be the law regarding the person with tzoraas [’confinement’] on the day of his purification, he shall be brought to the kohein.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:3",
+      "he": "וְיִפּוֹק כַּהֲנָא לְמִבָּרָא לְמַשְׁרִיתָא וְיֶחֱזֵי כַהֲנָא וְהָא אִתַּסִּי מַכְתַּשׁ סְגִירוּתָא מִן סְגִירָא:",
+      "en": "The kohein shall go out beyond the encampment. The kohein shall see; and behold! the skin-eruption of tzoraas [’confinement’] has healed from the person with tzoraas [’confinement’].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:4",
+      "he": "וִיפַקֵּד כַּהֲנָא וְיִסַּב לְמִדַּכֵּי תַּרְתֵּין צִפְּרִין חַיִּין דָּכְיָן וְאָעָא דְאַרְזָא וּצְבַע זְהוֹרִי וְאֵזוֹבָא:",
+      "en": "The kohein shall command to take for the person undergoing purification two live, pure [kosher] birds, cedar wood, crimson [colored] thread and hyssop.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:5",
+      "he": "וִיפַקֵּד כַּהֲנָא וְיִכּוֹס יָת צִפְּרָא חֲדָא לְמַאן דַּחֲסַף עַל מֵי מַבּוּעַ:",
+      "en": "The kohein shall command to slaughter the one bird in an earthenware vessel, over running water.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:6",
+      "he": "יָת צִפְּרָא חַיְתָא יִסַּב יָתַהּ וְיָת אָעָא דְאַרְזָא וְיָת צְבַע זְהוֹרִי וְיָת אֵזוֹבָא וְיִטְבּוֹל יָתְהוֹן וְיָת צִפְּרָא חַיְתָא בִּדְמָא דְּצִפְּרָא דִּנְכִיסָא עַל מֵי מַבּוּעַ:",
+      "en": "[As for] the living bird, he shall take it; and the cedar wood, the crimson [colored] thread and the hyssop and immerse them and the live bird in the blood of the slaughtered bird, over the running water.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:7",
+      "he": "וְיַדִּי עַל דְּמִדַּכֵּי מִן סְגִירוּתָא שְׁבַע זִמְנִין וִידַכִּנֵּיהּ וִישַׁלַּח יָת צִפְּרָא חַיְתָא עַל אַפֵּי חַקְלָא:",
+      "en": "He shall sprinkle on the person undergoing purification from the tzoraas [’confinement’], seven times and make him pure; and send the live bird into the open field.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:8",
+      "he": "וִיצַבַּע דְּמִדַּכֵּי יָת לְבוּשׁוֹהִי וִיגַלַּח יָת כָּל שַׂעֲרֵיהּ וְיַסְחֵי בְמַיָּא וְיִדְכֵּי וּבָתַר כֵּן יֵעוֹל לְמַשְׁרִיתָא וִיתֵב מִבָּרָא לְמַשְׁכְּנֵיהּ שַׁבְעָא יוֹמִין:",
+      "en": "The person undergoing purification shall wash his garments, and shave off all of his hair, and bathe in water, and he will become purified. After [this], he may come into the encampment. He must remain, outside of his tent, for seven days.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:9",
+      "he": "וִיהֵי בְיוֹמָא שְׁבִיעָאָה יְגַלַּח יָת כָּל שַׂעֲרֵיהּ יָת רֵישֵׁיהּ וְיָת דִּקְנֵיהּ וְיָת גְּבִינֵי עֵינוֹהִי וְיָת כָּל שַׂעֲרֵיהּ יְגַלָּח וִיצַבַּע יָת לְבוּשׁוֹהִי וְיַסְחֵי יָת בִּסְרֵיהּ בְּמַיָּא וְיִדְכֵּי:",
+      "en": "It shall be, that on the seventh day, he shall shave off all of his hair, [that of] his head, his beard and his eyebrows; he shall shave off all of his hair. He shall wash his garments, and bathe his body in water and become purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:10",
+      "he": "וּבְיוֹמָא תְמִינָאָה יִסַּב תְּרֵין אִמְּרִין שַׁלְמִין וְאִמַּרְתָּא חֲדָא בַּת שַׁתָּא שְׁלֶמְתָּא וּתְלָתָא עֶסְרוֹנִין סֻלְתָּא מִנְחָתָא דְּפִילָא בִמְשַׁח וְלֻגָּא חַד דְּמִשְׁחָא:",
+      "en": "On the eighth day, he shall take two unblemished lambs and one ewe in her first year, unblemished, and three tenths fine flour, for a meal-offering, mixed with oil and one log of oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:11",
+      "he": "וִיקִים כַּהֲנָא דִמְדַּכֵּי יָת גַּבְרָא דְּמִדַּכֵּי וְיָתְהוֹן קֳדָם יְיָ בִּתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "The kohein doing the purification, shall place the man undergoing the purification and the [aforementioned] items, before Adonoy, at the entrance of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:12",
+      "he": "וְיִסַּב כַּהֲנָא יָת אִמְּרָא חֲדָא וִיקָרֵב יָתֵיהּ לַאֲשָׁמָא וְיָת לֻגָּא דְמִשְׁחָא וִירִים יָתְהוֹן אֲרָמָא קֳדָם יְיָ:",
+      "en": "The kohein shall take one lamb and bring it as a guilt-offering, and (with) the log of oil and wave [lift] them [up] as a wave-offering [an uplifted offering] before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:13",
+      "he": "וְיִכּוֹס יָת אִמְּרָא בַּאֲתַר דִּי יִכּוֹס יָת חַטָּאתָא וְיָת עֲלָתָא בַּאֲתַר קַדִּישׁ אֲרֵי כְּחַטָּאתָא אֲשָׁמָא הוּא לְכַהֲנָא קֹדֶשׁ קוּדְשִׁין הוּא:",
+      "en": "He shall slaughter the lamb in the place where he slaughters the sin-offering and the burnt-offering, in the sacred place; for, just as the sin-offering—is the guilt-offering; it belongs to the kohein, it is most holy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:14",
+      "he": "וְיִסַּב כַּהֲנָא מִדְּמָא דַאֲשָׁמָא וְיִתֵּן כַּהֲנָא עַל רוּם אוּדְנָא דְמִדַּכֵּי דְּיַמִּינָא וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא:",
+      "en": "The kohein shall take from the blood of the guilt-offering and the kohein shall put it on the middle ridge [upper part] of the right ear of the person being purified, and on the thumb of his right hand and on the big toe of his right foot.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:15",
+      "he": "וְיִסַּב כַּהֲנָא מִלֻּגָּא דְמִשְׁחָא וִירִיק עַל יְדָא דְכַהֲנָא דִּשְׂמָאלָא:",
+      "en": "The kohein shall take from the log of the oil and he shall pour it onto the koheins left palm.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:16",
+      "he": "וְיִטְבּוֹל כַּהֲנָא יָת אֶצְבְּעֵיהּ דְיַמִּינָא מִן מִשְׁחָא דִּי עַל יְדֵיהּ דִּשְׂמָאלָא וְיַדִּי מִן מִשְׁחָא בְּאֶצְבְּעֵיהּ שְׁבַע זִמְנִין קֳדָם יְיָ:",
+      "en": "The kohein shall immerse his right finger in some of the oil that is on his left palm and he shall sprinkle some of the oil with his finger seven times before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:17",
+      "he": "וּמִשְּׁאָר מִשְׁחָא דִּי עַל יְדֵיהּ יִתֵּן כַּהֲנָא עַל רוּם אוּדְנָא דְּמִדַּכֵּי דְּיַמִּינָא וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא עַל דְּמָא דַאֲשָׁמָא:",
+      "en": "From the remaining oil that is on his palm, the kohein shall put on the middle ridge [upper part] of the right ear of the person being purified, and on the thumb of his right hand, and on the big toe of his right foot; on [over] the blood of the guilt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:18",
+      "he": "וּדְאִשְׁתָּאַר בְּמִשְׁחָא דִּי עַל יְדָא דְכַהֲנָא יִתֵּן עַל רֵישָׁא דְּמִדַּכֵּי וִיכַפֵּר עֲלוֹהִי כַּהֲנָא קֳדָם יְיָ:",
+      "en": "Whatever oil remains that is on the palm of the kohein, he shall put on the head of the person undergoing purification. The kohein will atone for him before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:19",
+      "he": "וְיַעְבֵּד כַּהֲנָא יָת חַטָּאתָא וִיכַפֵּר עַל דְּמִדַּכֵּי מְסּוֹבְתֵיהּ וּבָתַר כֵּן יִכּוֹס יָת עֲלָתָא:",
+      "en": "The kohein shall do (offer) the sin-offering and atone for the person undergoing purification from his impurity and afterwards he shall slaughter the burnt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:20",
+      "he": "וְיַסֵּק כַּהֲנָא יָת עֲלָתָא וְיָת מִנְחָתָא לְמַדְבְּחָא וִיכַפֵּר עֲלוֹהִי כַּהֲנָא וְיִדְכֵּי:",
+      "en": "The kohein shall raise up the burnt-offering and the meal-offering onto the altar and the kohein will atone for him and he will be purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:21",
+      "he": "וְאִם מִסְכֵּן הוּא וְלֵית יְדֵיהּ מַדְבְּקָא וְיִסַּב אִמַּר חַד אֲשָׁמָא לַאֲרָמָא לְכַפָּרָא עֲלוֹהִי וְעִסְרוֹנָא סֻלְתָּא חַד דְּפִיל בִּמְשַׁח לְמִנְחָא וְלֻגָּא דְמִשְׁחָא:",
+      "en": "If he is poor and his means are not sufficient, he shall take one lamb as a guilt-offering, for a wave-offering [an uplifted offering] to atone for him and one tenth fine flour mixed with oil, as a meal-offering and a log of oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:22",
+      "he": "וְתַרְתֵּין שַׁפְנִינִין אוֹ תְרֵין בְּנֵי יוֹנָה דִּי תַדְבֵּק יְדֵיהּ וִיהֵי חַד חַטָּאתָא וְחַד עֲלָתָא:",
+      "en": "And two turtledoves or two young pigeons such as his means suffice. One shall be for a sin-offering and one shall be for a burnt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:23",
+      "he": "וְיַיְתִי יָתְהוֹן בְּיוֹמָא תְמִינָאָה לְדַכָּיוּתֵיהּ לְוָת כַּהֲנָא לִתְרַע מַשְׁכַּן זִמְנָא קֳדָם יְיָ:",
+      "en": "He shall bring them on the eighth day of his purification, to the kohein, to the entrance of the Tent of Meeting, before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:24",
+      "he": "וְיִסַּב כַּהֲנָא יָת אִמְּרָא דַאֲשָׁמָא וְיָת לֻגָּא דְמִשְׁחָא וִירִים יָתְהוֹן כַּהֲנָא אֲרָמָא קֳדָם יְיָ:",
+      "en": "The kohein shall take the guilt-offering sheep and the log of oil and the kohein shall wave [lift] them [up] as a wave-offering [an uplifted offering] before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:25",
+      "he": "וְיִכּוֹס יָת אִמְּרָא דַאֲשָׁמָא וְיִסַּב כַּהֲנָא מִדְּמָא דַאֲשָׁמָא וְיִתֵּן עַל רוּם אוּדְנָא דְמִדַּכֵּי דְּיַמִּינָא וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא:",
+      "en": "He shall slaughter the guilt-offering lamb. The kohein shall take some blood of the guilt-offering and put it on the middle ridge [upper part] of the right ear of the person undergoing purification, and on the thumb of his right hand and the big toe of his right foot.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:26",
+      "he": "וּמִן מִשְׁחָא יְרִיק כַּהֲנָא עַל יְדָא דְכַהֲנָא דִּשְׂמָאלָא:",
+      "en": "The kohein shall pour some of the oil onto the koheins left palm.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:27",
+      "he": "וְיַדִּי כַהֲנָא בְּאֶצְבְּעֵיהּ דְּיַמִּינָא מִן מִשְׁחָא דִּי עַל יְדֵיהּ דִּשְׂמָאלָא שְׁבַע זִמְנִין קֳדָם יְיָ:",
+      "en": "The kohein shall sprinkle, with his right finger, some of the oil that is on his left palm, seven times before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:28",
+      "he": "וְיִתֵּן כַּהֲנָא מִן מִשְׁחָא דִּי עַל יְדֵיהּ עַל רוּם אוּדְנָא דְמִדַּכֵּי דְּיַמִּינָא וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא וְעַל אִלְיוֹן רַגְלֵיהּ דְיַמִּינָא עַל אֲתַר דְּמָא דַאֲשָׁמָא:",
+      "en": "The kohein shall put some of the oil that is on his palm, on the middle ridge [upper part] of the right ear of the person undergoing purification, and on the thumb of his right hand and on the big toe of his right foot, on the place of the blood of the guilt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:29",
+      "he": "וּדְיִשְׁתָּאַר מִן מִשְׁחָא דִּי עַל יְדָא דְכַהֲנָא יִתֵּן עַל רֵישָׁא דְמִדַּכֵּי לְכַפָּרָא עֲלוֹהִי קֳדָם יְיָ:",
+      "en": "What remains of the oil that is on the palm of the kohein, he shall put on the head of the person undergoing purification, to achieve his atonement before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:30",
+      "he": "וְיַעְבֵּד יָת חַד מִן שַׁפְנִינַיָּא אוֹ מִן בְּנֵי יוֹנָה מִדִּי תַדְבֵּק יְדֵיהּ:",
+      "en": "He shall do (offer) one of the turtledoves or of the young pigeons, from that which his means suffice,",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:31",
+      "he": "יָת דִּי תַדְבֵּק יְדֵיהּ יָת חַד חַטָּאתָא וְיָת חַד עֲלָתָא עַל מִנְחָתָא וִיכַפֵּר כַּהֲנָא עַל דְּמִדַּכֵּי קֳדָם יְיָ:",
+      "en": "that for which his means are sufficient, one for a sin-offering, and the other for a burnt-offering with the meal-offering. The kohein will atone for the person undergoing purification before Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:32",
+      "he": "דָּא אוֹרַיְתָא דִּי בֵיהּ מַכְתַּשׁ סְגִירוּ דִּי לָא תַדְבֵּק יְדֵיהּ בְּדָכוּתֵיהּ:",
+      "en": "This is the law of whoever has the skin-eruption of tzoraas [’confinement’] whose means are not sufficient in his purification.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:33",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה וְעִם אַהֲרֹן לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe and to Aharon, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:34",
+      "he": "אֲרֵי תֵעֲלוּן לְאַרְעָא דִכְנַעַן דִּי אֲנָא יָהֵב לְכוֹן לְאַחֲסָנָא וְאֶתֵּן מַכְתַּשׁ סְגִירוּ בְּבֵית אַרְעָא אַחֲסְנְתְּכוֹן:",
+      "en": "When you will come into the land of Canaan that I will give to you for a possession, and I shall put the eruption of tzoraas [’confinement’] in the house of the land of your possession.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:35",
+      "he": "וְיֵיתֵי דְּדִילֵיהּ בֵּיתָא וִיחַוִּי לְכַהֲנָא לְמֵימָר כְּמַכְתָּשָׁא אִתְחֲזִי לִי בְּבֵיתָא:",
+      "en": "Whoevers house it is, shall come and tell to the kohein, saying, Something like an eruption has appeared to me in the house.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:36",
+      "he": "וִיפַקֵּד כַּהֲנָא וִיפַנּוּן יָת בֵּיתָא עַד לָא יֵעוֹל כַּהֲנָא לְמֶחֱזֵי יָת מַכְתָּשָׁא וְלָא יִסְתָּאַב כָּל דִּי בְּבֵיתָא וּבָתַר כֵּן יֵעוֹל כַּהֲנָא לְמֶחֱזֵי יָת בֵּיתָא:",
+      "en": "The kohein shall command, and they shall empty the house [of its contents] before the kohein will come to see the eruption so everything in the house shall not become impure. Afterwards, the kohein shall come to see the house.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:37",
+      "he": "וְיֶחֱזֵי יָת מַכְתָּשָׁא וְהָא מַכְתָּשָׁא בְּכָתְלֵי בֵיתָא פַּחֲתִין יַרְקָן אוֹ סַמְקָן וּמֶחֱזֵיהוֹן מַכִּיךְ מִן כָּתְלָא:",
+      "en": "He shall see the eruption and behold! The eruption is in the walls of the house; impressions, of greenest green or of reddest red [green or red] and they appear to be lower than the [surface of] the wall.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:38",
+      "he": "וְיִפּוֹק כַּהֲנָא מִן בֵּיתָא לִתְרַע בֵּיתָא וְיַסְגַּר יָת בֵּיתָא שִׁבְעָא יוֹמִין:",
+      "en": "The kohein shall go out of the house to the entrance of the house, and place the house under quarantine for seven days.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:39",
+      "he": "וִיתוּב כַּהֲנָא בְּיוֹמָא שְׁבִיעָאָה וְיֶחֱזֵי וְהָא אוֹסִיף מַכְתָּשָׁא בְּכָתְלֵי בֵיתָא:",
+      "en": "The kohein shall return on the seventh day and shall see; and behold! the eruption has spread [increased] in the walls of the house.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:40",
+      "he": "וִיפַקֵּד כַּהֲנָא וִישַׁלְּפוּן יָת אַבְנַיָּא דִּי בְהוֹן מַכְתָּשָׁא וְיִרְמוּן יָתְהוֹן לְמִבָּרָא לְקַרְתָּא לַאֲתַר מְסָאָב:",
+      "en": "The kohein shall command and they shall remove the stones in which there is the eruption and cast them away, beyond the city to an impure place.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:41",
+      "he": "וְיָת בֵּיתָא יְקַלְּפוּן מִגָּיו סְחוֹר סְחוֹר וְיִרְמוּן יָת עַפְרָא דִּי קַלִּיפוּ לְמִבָּרָא לְקַרְתָּא לַאֲתַר מְסָאָב:",
+      "en": "He shall scrape the house from the inside, all around, and they shall throw away the earth that they scraped, beyond the city, to an impure place.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:42",
+      "he": "וְיִסְּבוּן אַבְנַיָּא אָחֳרָנִין וְיַעֲלוּן לַאֲתַר אַבְנַיָּא וַעֲפַר אָחֳרָן יִסַּב וִישׁוּעַ יָת בֵּיתָא:",
+      "en": "They shall take other stones, and they shall bring them to replace the stones, and he shall take other earth and plaster the house.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:43",
+      "he": "וְאִם יְתוּב מַכְתָּשָׁא וְיִסְגֵּי בְּבֵיתָא בָּתַר דְּשַׁלִּיפוּ יָת אַבְנַיָּא וּבָתַר דְקַלִּיפוּ יָת בֵּיתָא וּבָתַר דְּאִתְּשָׁע:",
+      "en": "If the eruption returns and sprouts in the house after the stones were removed, and after the house was scraped, and after it was plastered,",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:44",
+      "he": "וְיֵיעוֹל כַּהֲנָא וְיֶחֱזֵי וְהָא אוֹסֵף מַכְתָּשָׁא בְּבֵיתָא סְגִירוּת מְחַסְרָא הִיא בְּבֵיתָא מְסָאָב הוּא:",
+      "en": "the kohein shall come and see; and behold! the eruption has spread [increased] in the house; prickly tzoraas [’confinement’ of loss] is in the house, it is impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:45",
+      "he": "וִיתָרַע יָת בֵּיתָא יָת אַבְנוֹהִי וְיָת אָעוֹהִי וְיָת כָּל עֲפַר בֵּיתָא וְיַפֵּק לְמִבָּרָא לְקַרְתָּא לַאֲתַר מְסָאָב:",
+      "en": "He shall dismantle the house; its stones and its wood and all the earth of the house. He shall take it out beyond the city, to an impure place.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:46",
+      "he": "וּדְיֵיעוֹל לְבֵיתָא כָּל יוֹמִין דְּיַסְגַּר יָתֵיהּ יְהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Whoever will come inside the house [during] all the days of its confinement, shall be impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:47",
+      "he": "וּדְיִשְׁכּוּב בְּבֵיתָא יְצַבַּע יָת לְבוּשׁוֹהִי וּדְיֵיכוּל בְּבֵיתָא יְצַבַּע יָת לְבוּשׁוֹהִי:",
+      "en": "Whoever will lie down inside the house shall wash his garments. Whoever will eat inside the house shall wash his garments.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:48",
+      "he": "וְאִם מֵעַל יֵיעוֹל כַּהֲנָא וְיֶחֱזֵי וְהָא לָא אוֹסֵף מַכְתָּשָׁא בְּבֵיתָא בָּתַר דְּאִתְּשַׁע יָת בֵּיתָא וִידַכֵּי כַהֲנָא יָת בֵּיתָא אֲרֵי אִתַּסִּי מַכְתָּשָׁא:",
+      "en": "If the kohein shall come and see; and behold! the eruption did not spread [increase] in the house after the house was plastered, the kohein shall pronounce the house [to be] pure, for the eruption has been healed.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:49",
+      "he": "וְיִסַּב לְדַכָּאָה יָת בֵּיתָא תַּרְתֵּין צִפְּרִין וְאָעָא דְאַרְזָא וּצְבַע זְהוֹרִי וְאֵזוֹבָא:",
+      "en": "He shall take, to purify the house, two birds, cedar wood, crimson [colored] thread and hyssop.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:50",
+      "he": "וְיִכּוֹס יָת צִפֲּרָא חֲדָא לְמַאן דַּחֲסַף עַל מֵי מַבּוּעַ:",
+      "en": "He shall slaughter one bird in an earthenware vessel, over running water.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:51",
+      "he": "וְיִסַּב יָת אָעָא דְאַרְזָא וְיָת אֵזוֹבָא וְיָת צְבַע זְהוֹרִי וְיָת צִפֲּרָא חַיְתָא וְיִטְבּוֹל יָתְהוֹן בִּדְמָא דְּצִפֲּרָא דִנְכִיסָא וּבְמֵי מַבּוּעַ וְיַדִּי לְבֵיתָא שְׁבַע זִמְנִין:",
+      "en": "He shall take the cedar wood, the hyssop, the crimson [colored] thread and the live bird and immerse them in the blood of the slaughtered bird and in the running water, and sprinkle the house seven times.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:52",
+      "he": "וִידַכֵּי יָת בֵּיתָא בִּדְמָא דְּצִפֲּרָא וּבְמֵי מַבּוּעַ וּבְצִפֲּרָא חַיְתָא וּבְאָעָא דְאַרְזָא וּבְאֵזוֹבָא וּבִצְבַע זְהוֹרִי:",
+      "en": "He shall purify the house with the blood of the bird, and with the running water, and with the live bird, the cedar wood, the hyssop and the crimson [colored] thread.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:53",
+      "he": "וִישַׁלַּח יָת צִפֲּרָא חַיְתָא לְמִבָּרָא לְקַרְתָּא לְאַפֵּי חַקְלָא וִיכַפַּר עַל בֵּיתָא וְיִדְכֵּי:",
+      "en": "He shall send the living bird, beyond the city into the open field, and atone for the house and it shall be purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:54",
+      "he": "דָּא אוֹרַיְתָא לְכָל מַכְתַּשׁ סְגִירוּתָא וּלְנִתְקָא:",
+      "en": "This is the law for all the eruptions of tzoraas [’confinement’] and for the nesek.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:55",
+      "he": "וְלִסְגִירוּת לְבוּשָׁא וּלְבֵיתָא:",
+      "en": "For tzoraas [’confinement’] of the garment and of the house.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:56",
+      "he": "וּלְעַמְקָא וּלְעַדְיָא וּלְבַהֲרָא:",
+      "en": "For the spot [deeply] white as wool, for the spot that is nearly as white and for the spot white as snow.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:57",
+      "he": "לְאַלָּפָא בְּיוֹמָא מְסָאָבָא וּבְיוֹמָא דַכְיָא דָּא אוֹרַיְתָא דִּסְגִירוּתָא:",
+      "en": "To teach [the law] of the day of becoming impure and of the day of becoming pure; this is the law of tzoraas [’confinement’].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה וְעִם אַהֲרֹן לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe and to Aharon, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:2",
+      "he": "מַלִּילוּ עִם בְּנֵי יִשְׂרָאֵל וְתֵימְרוּן לְהוֹן גְּבַר גְּבַר אֲרֵי יְהֵי דָּאִיב מִבִּשְׂרֵיהּ דּוֹבֵיהּ מְסָאָב הוּא:",
+      "en": "Speak to Bnei Yisroel and say to them; should [discharge] flow from the body of any man, [because of] his discharge, he is impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:3",
+      "he": "וְדָא תְּהֵי סוֹבְתֵיהּ בְּדוֹבֵיהּ רָר בִּשְׂרֵיהּ יָת דּוֹבֵיהּ אוֹ חָתִים בִּשְׂרֵיהּ מִדּוֹבֵיהּ סוֹבְתֵיהּ הִיא:",
+      "en": "This is the law of his impurity, when his discharge flows; His flesh drips [with] his discharge or his flesh is stopped up by his discharge, it causes him to become impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:4",
+      "he": "כָּל מִשְׁכְּבָא דִּי יִשְׁכּוּב עֲלוֹהִי דּוֹבָנָא יְהֵי מְסָאָב וְכָל מָנָא דְיֵיתֵב עֲלוֹהִי יְהֵי מְסָאָב:",
+      "en": "Every bed [Anything that is used specifically for sleeping], upon which will lie a zov [a person from whom a discharge flows,] shall become impure. Every vessel upon which he sits, shall become impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:5",
+      "he": "וּגְבַר דִּי יִקְרַב בּמִשְׁכְּבֵיהּ יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "A person who touches his bed shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:6",
+      "he": "וּדְיֵיתֵב עַל מָנָא דְּיֵיתֵב עֲלוֹהִי דּוֹבָנָא יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Whoever sits on the vessel that was sat upon by a zov shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:7",
+      "he": "וּדְיִקְרַב בִּבְסַר דּוֹבָנָא יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Whoever touches the flesh of a zov shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:8",
+      "he": "וַאֲרֵי יֵרוֹק דּוֹבָנָא בְּדַכְיָא וִיצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "If the zov spits on a ritually clean person, he shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:9",
+      "he": "וְכָל מֶרְכְּבָא דִּי יִרְכּוּב עֲלוֹהִי דּוֹבָנָא יְהֵי מְסָאָב:",
+      "en": "Anything that is used for riding upon which a zov will ride shall become impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:10",
+      "he": "וְכָל דְּיִקְרַב בְּכֹל דִּי יְהֵי תְחוֹתוֹהִי יְהֵי מְסָאָב עַד רַמְשָׁא וּדְיִטּוֹל יָתְהוֹן יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Anyone who touches anything which is beneath him shall be impure until the evening. and whoever carries them shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:11",
+      "he": "וְכֹל דִּי יִקְרַב בֵּיהּ דּוֹבָנָא וִידוֹהִי לָא שְׁטַף בְּמַיָּא וִיצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "If a zov touches anyone and his hands were not rinsed in water, he shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:12",
+      "he": "וּמַאן דַּחֲסַף דִּי יִקְרַב בֵּיהּ דּוֹבָנָא יִתָּבַר וְכָל מַאן דְּאָע יִשְׁתַּטַּף בְּמַיָּא:",
+      "en": "An earthenware vessel which the zov will touch shall be broken. Any wooden vessel shall be rinsed in water.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:13",
+      "he": "וַאֲרֵי יִדְכֵּי דּוֹבָנָא מִדּוֹבֵיהּ וְיִמְנֵי לֵיהּ שִׁבְעַת יוֹמִין לְדָכוּתֵיהּ וִיצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בִשְׂרֵיהּ בְּמֵי מַבּוּעַ וְיִדְכֵּי:",
+      "en": "When a zov will become ritually clean, from his discharge-impurity, he shall count for himself seven days for his purification and wash his garments, and bathe in running water, and he will be purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:14",
+      "he": "וּבְיוֹמָא תְמִינָאָה יִסַּב לֵיהּ תַּרְתֵּין שַׁפְנִינִין אוֹ תְרֵין בְּנֵי יוֹנָה וְיֵיתֵי לָקֳדָם יְיָ לִתְרַע מַשְׁכַּן זִמְנָא וְיִתְּנִנּוּן לְכַהֲנָא:",
+      "en": "On the eighth day he shall take for himself two turtledoves or two young pigeons and come before Adonoy, to the entrance of the Tent of Meeting and give them to the kohein.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:15",
+      "he": "וְיַעְבֵּד יָתְהוֹן כַּהֲנָא חַד חַטָּאתָא וְחַד עֲלָתָא וִיכַפֵּר עֲלוֹהִי כַּהֲנָא קֳדָם יְיָ מִדּוֹבֵיהּ:",
+      "en": "The kohein shall do (offer) them, one as a sin-offering and the [other] one as a burnt-offering. The kohein will atone for him before Adonoy, from his discharge-impurity.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:16",
+      "he": "וּגְבַר אֲרֵי תִפּוֹק מִנֵּיהּ שִׁכְבַת זַרְעָא וְיַסְחֵי בְמַיָּא יָת כָּל בִּשְׂרֵיהּ וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "A man, if semen issues from him, he shall bathe his entire body in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:17",
+      "he": "וְכָל לְבוּשׁ וְכָל מְשַׁךְ דִּי יְהֵי עֲלוֹהִי שִׁכְבַת זַרְעָא וְיִצְטַבַּע בְּמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Any garment and any leather object upon which there is semen shall be washed in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:18",
+      "he": "וְאִתְּתָא דִּי יִשְׁכּוּב גְּבַר יָתַהּ שִׁכְבַת זַרְעָא וְיַסְחוּן בְּמַיָּא וְיִסְאֲבוּן עַד רַמְשָׁא:",
+      "en": "A woman, with whom a man will lie conjugally; they shall bathe in water, and are impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:19",
+      "he": "וְאִתְּתָא אֲרֵי תְהֵי דָיְבָא דָּם יְהֵי דוֹבַהּ בְּבִשְׂרַהּ שִׁבְעָא יוֹמִין תְּהֵי בְרִיחוּקַהּ וְכָל דְּיִקְרַב בַּהּ יְהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "When a woman has a discharge [and] the discharge will be blood in her body, for seven days she will be in [the state of] her menstrual impurity [’separation’]. Anyone who touches her will be impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:20",
+      "he": "וְכֹל דִּי תִשְׁכּוּב עֲלוֹהִי בְּרִחוּקַהּ יְהֵי מְסָאָב וְכֹל דִּי תֵיתֵב עֲלוֹהִי יְהֵי מְסָאָב:",
+      "en": "Everything that she sleeps on, during her menstrual impurity [’separation’], will become impure and everything that she sits on will be impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:21",
+      "he": "וְכָל דְּיִקְרַב בְּמִשְׁכְּבַהּ יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Anyone who touches what she slept on, shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:22",
+      "he": "וְכָל דְּיִקְרַב בְּכָל מָנָא דִּי תֵיתֵב עֲלוֹהִי יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Anyone who touches any vessel that she sits on, shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:23",
+      "he": "וְאִם עַל מִשְׁכְּבָא הוּא אוֹ עַל מָנָא דִּי הִא יָתְבָא עֲלוֹהִי בְּמִקְרְבֵיהּ בֵּיהּ יְהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "If he is on the bed or on the vessel that she is sitting on, when he touches it, he shall be impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:24",
+      "he": "וְאִם מִשְׁכַּב יִשְׁכּוּב גְּבַר יָתַהּ וּתְהֵי רִחוּקַהּ עֲלוֹהִי וִיהֵי מְסָאָב שִׁבְעַת יוֹמִין וְכָל מִשְׁכְּבָא דִּי יִשְׁכּוּב עֲלוֹהִי יְהֵי מְסָאָב:",
+      "en": "If a man will lie conjugally with her, her menstrual impurity [’separation’] will be on him and he is impure for seven days. Anything used for sleeping—if he should sleep on it—it will be impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:25",
+      "he": "וְאִתְּתָא אֲרֵי יְדוּב דּוֹב דְּמַהּ יוֹמִין סַגִּיאִין בְּלָא עִדַּן רִחוּקַהּ אוֹ אֲרֵי תְדוּב עַל רִחוּקַהּ כָּל יוֹמֵי דּוֹב סוֹבְתַהּ כְּיוֹמֵיהּ רִחוּקַהּ תְּהֵי מְסָאֳבָא הִיא:",
+      "en": "When a woman discharges her blood-flow, many days outside her menstrual cycle [period of ‘separation’], or if it flows after her menstrual cycle [’separation’], all the days of her discharge-impurity shall be as her days of menstrual impurity [’separation’]; she is impure.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:26",
+      "he": "כָּל מִשְׁכְּבָא דִּי תִשְׁכּוּב עֲלוֹהִי כָּל יוֹמֵי דוֹבַהּ כְּמִשְׁכַּב רִחוּקַהּ יְהֵי לַהּ וְכָל מָנָא דִּי תֵתֵב עֲלוֹהִי מְסָאָב יְהֵי כְּסוֹאֲבַת רִחוּקַהּ:",
+      "en": "Anything used for sleeping upon which she will lie [on] any of her discharge-impurity-days, as the bed of her menstrual impurity [’separation’] it shall be to her. Every vessel upon which she sits will be impure, just as [is] her menstrual-impurity [the impurity of her ‘separation’].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:27",
+      "he": "וְכָל דְּיִקְרַב בְּהוֹן יְהֵי מְסָאָב וִיצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא:",
+      "en": "Anyone that touches them will be impure and he shall wash his garments and bathe in water and is impure until the evening.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:28",
+      "he": "וְאִם דְּכִיאַת מִדּוֹבַהּ וְתִמְנֵי לַהּ שִׁבְעַת יוֹמִין וּבָתַר כֵּן תִּדְכֵּי:",
+      "en": "When she has become pure from her discharge-impurity, she shall count seven days for herself and afterwards she becomes purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:29",
+      "he": "וּבְיוֹמָא תְמִינָאָה תִּסַּב לַהּ תַּרְתֵּין שַׁפְנִינִין אוֹ תְּרֵין בְּנֵי יוֹנָה וְתַיְתִי יָתְהוֹן לְוָת כַּהֲנָא לִתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "On the eighth day she shall take for herself, two turtledoves or two young pigeons and she shall bring them to the kohein, to the entrance of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:30",
+      "he": "וְיַעְבֵּד כַּהֲנָא יָת חַד חַטָּאתָא וְיָת חַד עֲלָתָא וִיכַפֵּר עֲלַהּ כַּהֲנָא קֳדָם יְיָ מִדּוֹב סוֹבְתַהּ:",
+      "en": "The kohein shall do (offer) one as a sin-offering and the [other] one as a burnt-offering. The kohein will atone for her before Adonoy from her discharge-impurity.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:31",
+      "he": "וְתַפְרְשׁוּן יָת בְּנֵי יִשְׂרָאֵל מִסּוֹאֲבַתְהוֹן וְלָא יְמוּתוּן בְּסוֹאֲבַתְהוֹן בְּסָאָבְהוֹן יָת מַשְׁכְּנִי דִּי בֵינֵיהוֹן:",
+      "en": "You shall separate Bnei Yisroel from their impurities and they will not die because of their impurities through their defilement of My dwelling in their midst.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:32",
+      "he": "דָּא אוֹרַיְתָא דְּדוֹבְנָא וְדִי תִפּוֹק מִנֵּיהּ שִׁכְבַת זַרְעָא לְאִסְתָּאָבָא בַהּ:",
+      "en": "This is the law of the zov and of him from whom semen issues to become impure through it.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:33",
+      "he": "וְלִדְסָאוּבְתָּא בְּרִיחוּקַהּ וְלִדְדָאִיב יָת דּוֹבֵיהּ לִדְכַר וּלְנֻקְבָּא וְלִגְבַר דִּי יִשְׁכּוּב עִם מְסָאָבָא:",
+      "en": "For the menstruant [woman who is impure] during her period of separation and for one who has a discharge for a male and for a female; and for the man that will lie conjugally with an impure woman.",
+      "fr": ""
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "name": "Be'houkotaï",
+  "range": "Leviticus 26:3-27:34",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Leviticus 26:3",
+      "he": "אִם בִּקְיָמַי תְּהָכוּן וְיָת פִּקּוֹדַי תִּטְּרוּן וְתַעְבְּדוּן יָתְהוֹן:",
+      "en": "If you follow My statutes and keep My commandments and you will fulfill them,",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:4",
+      "he": "וְאֶתֵּן מַטְרֵיכוֹן בְּעִדָּנְהוֹן וְתִתֵּן אַרְעָא עֲלַלְתָּא וְאִילַן חַקְלָא יִתֵּן אִבֵּיהּ:",
+      "en": "I will provide your rains in their proper time. The earth shall give forth its produce and the tree of the field shall give forth its produce.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:5",
+      "he": "וִיעָרַע לְכוֹן דְּיָשָׁא יָת קְטָפָא וּקְטָפָא יְעָרַע לְאַפּוֹקֵי בַר זַרְעָא וְתֵיכְלוּן לַחְמְכוֹן לְמִשְׂבַּע וְתֵיתְבוּן לְרָחְצָן בְּאַרְעֲכוֹן:",
+      "en": "[Because of the abundant produce] threshing will overtake the grape harvest and the grape harvest overtake the [time to] plant, and you will eat your bread to satiation and you will live securely in your land.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:6",
+      "he": "וְאֶתֵּן שְׁלָמָא בְּאַרְעָא וְתִשְׁרוּן וְלֵית דְּמָנִיד וֶאֱבַטֵּל חַיְתָא בִשְׁתָּא מִן אַרְעָא וּדְקָטְלִין בְּחַרְבָּא לָא יְעִדּוּן בְּאַרְעֲכוֹן:",
+      "en": "I will grant peace in the land; you will lie down (sleep) [rest] without disturbance (fear). I will banish [nullify] evil beasts from the land, and no [people who kill with a] sword shall pass through your land.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:7",
+      "he": "וְתִרְדְּפוּן יָת בַּעֲלֵי דְבָבֵיכוֹן וְיִפְּלוּן קֳדָמֵיכוֹן לְחַרְבָּא:",
+      "en": "You will pursue your enemies and they will fall before you by the sword.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:8",
+      "he": "וְיִרְדְּפוּן מִנְּכוֹן חַמְשָׁא מְאָה וּמְאָה מִנְּכוֹן לְרִבּוֹתָא יֵעִירְקוּן וְיִפְּלוּן בַּעֲלֵי דְבָבֵיכוֹן קֳדָמֵיכוֹן לְחַרְבָּא:",
+      "en": "Five of you will pursue one hundred and one hundred of you will pursue ten thousand, and your enemies will fall before you by the sword.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:9",
+      "he": "וְאֶתְפְּנִי בְמֵימְרִי לְאוֹטָבָא לְכוֹן וְאַפֵּשׁ יָתְכוֹן וְאַסְגֵּי יָתְכוֹן וַאֲקֵם יָת קְיָמִי עִמְּכוֹן:",
+      "en": "I will turn [with My Word to do good] to you and make you fruitful and multiply you, and establish My covenant with you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:10",
+      "he": "וְתֵיכְלוּן עַתִּיקָא דְּעַתִּיק וְעַתִּיקָא מִן קֳדָם חֲדַתָּא תְּפַנּוּן:",
+      "en": "You will eat the old [store] long kept and the old [store] you will have to clear out because of the new.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:11",
+      "he": "וְאֶתֵּן מַשְׁכְּנִּי בֵּינֵיכוֹן וְלָא יְרַחֵק מֵימְרִי יָתְכוֹן:",
+      "en": "I will set My Sanctuary among you and My spirit [Word] will not loathe (reject) you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:12",
+      "he": "וְאַשְׁרֵי שְׁכִינְתִּי בֵּינֵיכוֹן וְאֶהֱוֵי לְכוֹן לֶאֱלָהּ וְאַתּוּן תְּהוֹן קֳדָמַי לְעָם:",
+      "en": "I will walk [rest My Shechina] among you and I will be a God for you, and you will be My [before Me for a] people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:13",
+      "he": "אֲנָא יְיָ אֱלָהָכוֹן דִּי אַפֵּקִית יָתְכוֹן מֵאַרְעָא דְמִצְרַיִם מִלְּמֶהֱוֵי לְהוֹן עַבְדִּין וְתַבָּרִית נִיר עַמְמַיָּא מִנְּכוֹן וְדַבָּרִית יָתְכוֹן לְחֵרוּתָא:",
+      "en": "I am Adonoy your God who brought you out of the land of Egypt from where you were slaves, and I broke the bars of your yoke [of the peoples from you] and led you forth standing upright [to freedom].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:14",
+      "he": "וְאִם לָא תְקַבְּלוּן לְמֵימְרִי וְלָא תַעְבְּדוּן יָת כָּל פִּקּוּדַיָּא הָאִלֵּין:",
+      "en": "And if you will not listen to Me [accept My Word] and you will not fulfill all of these commandments.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:15",
+      "he": "וְאִם בִּקְיָמַי תְּקוֹצוּן וְאִם יָת דִּינַי תְּרַחֵק נַפְשְׁכוֹן בְּדִיל דְּלָא לְמֶעְבַּד יָת כָּל פִּקּוֹדַי לְאַשְׁנָיוּתְכוֹן יָת קְיָמִי:",
+      "en": "If you despise My statutes and your souls loathe [reject] My laws so as not to fulfill all My commandments, thereby breaking [changing] My convenant.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:16",
+      "he": "אַף אֲנָא אֶעְבַּד דָּא לְכוֹן וְאַסְעַר עֲלֵיכוֹן בַּהֶלְתָּא יָת שַׁחֶפְתָּא וְיָת קַדַּחְתָּא מְחַשְּׁכָן עַיְנִין וּמַפְּחַן נְפָשׁ וְתִזְרְעוּן לְרֵיקָנוּן זַרְעֲכוֹן וְיֵיכְלֻנֵּיהּ בַּעֲלֵי דְבָבֵיכוֹן:",
+      "en": "Then I will do the same with you. I will impose terror upon you, [which causes] swelling and fever that consume [darken] the eyes and fill the soul with grief. You will plant [your seeds] in vain because your enemies will consume [your crops.]",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:17",
+      "he": "וְאֶתֵּן רוּגְזִי בְּכוֹן וְתִתַּבְּרוּן קֳדָם בַּעֲלֵי דְבָבֵיכוֹן וְיִרְדּוּן בְּכוֹן סַנְאֵכוֹן וְתֵעִירְקוּן וְלֵית דְּרָדִיף יָתְכוֹן:",
+      "en": "I will set my face [anger] against you and you will be defeated [smitten] before your enemies; your foes will rule over you and you will flee [even] when no one is pursuing you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:18",
+      "he": "וְאִם עַד אִלֵּין לָא תְקַבְּלוּן לְמֵימְרִי וְאוֹסֵף לְמִרְדֵּי יָתכוֹן שְׁבַע עַל חוֹבֵיכוֹן:",
+      "en": "If after these [catastrophes] you still do not listen to Me [accept My Word], then I will increase your punishment sevenfold, as your sins.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:19",
+      "he": "וְאֶתְבַּר יָת יְקַר תָּקְפְּכוֹן וְאֶתֵּן יָת שְׁמַיָּא דִי עִלָּוֵיכוֹן תַּקִּיפִין כְּפַרְזְלָא מִלַּאֲחָתָא מִטְרָא וְאַרְעָא דִתְחוֹתֵיכוֹן חֲסִינָא כִנְחָשָׁא מִלְּמֶעְבַּד פֵּירִין:",
+      "en": "I will break the pride [glory] of your power. I will make your [the] heavens [which are above you] like [as strong as] iron [to bring no rain down] and your [the] land [which is beneath you] like [as powerful as] copper [producing no fruit].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:20",
+      "he": "וִיסוּפוּן לְרֵיקָנוּ חֵילֵיכוֹן וְלָא תִתֵּן אַרְעֲכוֹן יָת עֲלַלְתַּהּ וְאִילַן אַרְעָא לָא יִתֵּן אִבֵּיהּ:",
+      "en": "Your strength will be exhausted in vain. Your land will not yield its produce and the tree[s] of the land will not give forth its produce.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:21",
+      "he": "וְאִם תְּהָכוּן קֳדָמַי בְּקַשְׁיוּ וְלָא תֵיבוּן לְקַבָּלָא לְמֵימְרִי וְאוֹסֵף לֶאֱתָאָה עֲלֵיכוֹן מָחָא שְׁבַע כְּחוֹבֵיכוֹן:",
+      "en": "If you walk contrary to [before] Me and have no desire to listen to Me [accept My Word], I will increase [to bring] the blows upon you sevenfold, as your sins.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:22",
+      "he": "וֶאֱגָרֵי בְכוֹן יָת חֵוַת בָּרָא וּתְתַכֵּל יָתְכוֹן וּתְשֵׁיצֵי יָת בְּעִירְכוֹן וְתַזְעֵר יָתְכוֹן וִיצַדְיָן אוֹרְחָתְכוֹן:",
+      "en": "I will send [incite] among you wild animals of the field and they will make you bereft of children, destroy your cattle, reduce your [population] and make your roads into wasteland.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:23",
+      "he": "וְאִם בְּאִלֵּין לָא תִתְרְדוּן לְמֵימְרִי וּתְהָכוּן קֳדָמַי בְּקַשְׁיוּ:",
+      "en": "If after these [catastrophes] you have not been disciplined [to listen] to Me [My Word], and walk contrary to [before] Me,",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:24",
+      "he": "וְאֵהַךְ אַף אֲנָא עִמְּכוֹן בְּקַשְׁיוּ וְאַלְקֵי יָתְכוֹן אַף אֲנָא שְׁבַע עַל חוֹבֵיכוֹן:",
+      "en": "[Then] I, too, will walk contrary to you; and I shall also smite you seven fold, for your sins.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:25",
+      "he": "וְאַיְתִי עֲלֵיכוֹן דְּקָטְלִין בְּחַרְבָּא וְיִתְפָּרְעוּן מִנְּכוֹן פֻּרְעֲנוּתָא עַל דַּעֲבַרְתּוּן עַל פִּתְגָּמֵי אוֹרַיְתָא וְתִתְכַּנְּשׁוּן לְקִרְוֵיכוֹן וֶאֱגָרֵי מוֹתָנָא בֵּינֵיכוֹן וְתִתְמַסְּרוּן בִּידָא דְסָנְאָה:",
+      "en": "I will bring [people who kill with a sword] an avenging sword upon you avenging the covenant [and they will avenge from you a vengeance for transgressing the words of the Torah] You will be huddled [in your cities]. I will send [incite] pestilence among you and you will be given into the hand of the enemy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:26",
+      "he": "בִּדְאִתְּבַר לְכוֹן סָעִיד מֵיכְלָא וְיָפְיָן עֲסַר נְשִׁין לַחְמְכוֹן בְּתַנּוּרָא חַד וִיתִיבוּן לַחְמְכוֹן בְּמַתְקְלָא וְתוֹכְלוּן וְלָא תִשְׂבְּעוּן:",
+      "en": "When I break the staff of your bread [food], ten women will bake your bread in one oven and they will return your bread by weight. You will eat but you will not be satiated.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:27",
+      "he": "וְאִם בְּדָא לָא תְקַבְּלוּן לְמֵימְרִי וּתְהָכוּן קֳדָמַי בְּקַשְׁיוּ:",
+      "en": "If [in spite] of this you [still] will not listen to Me [accept My Word], and you will walk contrary to [before] Me,",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:28",
+      "he": "וְאֵהַךְ עִמְּכוֹן בִּתְקוֹף רְגָז וְאִרְדֵּי יָתְכוֹן אַף אֲנָא שְׁבַע עַל חוֹבֵיכוֹן:",
+      "en": "I will walk contrary to you in fury, and indeed I too shall punish you sevenfold, for your sins.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:29",
+      "he": "וְתֵיכְלוּן בְּשַׂר בְּנֵיכוֹן וּבְשַׁר בְּנָתֵיכוֹן תֵּיכְלוּן:",
+      "en": "You will eat the flesh of your sons and you will eat the flesh of your daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:30",
+      "he": "וֶאֱשֵׁיצֵי יָת בָּמָתֵיכוֹן וֶאֱקַצֵּץ יָת חֲנִיסְנְסֵיכוֹן וְאֶתֵּן יָת פִּגְרֵיכוֹן עַל פִּגּוּר טַעֲוָתְכוֹן וִירַחֵק מֵימְרִי יָתְכוֹן:",
+      "en": "I will destroy your high places and I will smash your sun images. I will set your corpses upon the carcasses (remains) of your [false] idols, and My soul [word] will loathe [reject] you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:31",
+      "he": "וְאֶתֵּן יָת קִרְוֵיכוֹן צָדָא וְאֶצְדֵּי יָת מַקְדְּשֵׁיכוֹן וְלָא אֲקַבֵּל בְּרַעֲוָא קֻרְבַּן כְּנִשָּׁתְכוֹן:",
+      "en": "I will turn your cities into ruins and bring your Sanctuaries into desolation. I will no longer scent (accept favorably) the fragrance of your offerings [the offering of your gatherings].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:32",
+      "he": "וְאֶצְדֵּי אֲנָא יָת אַרְעָא וִיצָרְיוּן עֲלַהּ בַּעֲלֵי דְבָבֵיכוֹן דְּיָתְבוּן בַּהּ:",
+      "en": "I will make the land [so] desolate that your enemies who live on it will be astonished.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:33",
+      "he": "וְיָתְכוֹן אֲבַדַּר בֵּינֵי עַמְמַיָּא וֶאֱגָרֵי בַתְרֵיכוֹן דְּקָטְלִין בְּחַרְבָּא וּתְהֵי אַרְעֲכוֹן צָדְיָא וְקִרְוֵיכוֹן יְהוֹן חָרְבָּא:",
+      "en": "I will scatter you among the nations and unsheath [incite people who kill with] the sword after you. Your land will be desolate and your cities will be in ruins.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:34",
+      "he": "בְּכֵן תַּרְעֵי אַרְעָא יָת שְׁמִטָּהָא כֹּל יוֹמִין דִּי צְדִיאַת וְאַתּוּן בְּאַרַע בַּעֲלֵי דְבָבֵיכוֹן בְּכֵן תַּשְׁמֵט אַרְעָא וְתַרְעֵי יָת שְׁמִטָּהָא:",
+      "en": "The land will then be appeased for its Shabbosos [rests] [during] all the days of its desolation while you are in the land of your enemies. Then the land will rest and be appeased for its Shabbosos [rests].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:35",
+      "he": "כָּל יוֹמִין דִּי צְדִיאַת תַּשְׁמֵט יָת דִּי לָא שְׁמֵטַת בִּשְׁמִטֵּיכוֹן כַּד הֲוֵיתוּן יָתְבִין עֲלַהּ:",
+      "en": "All the days that it lies desolate it shall have its rest—the rest it did not have on your Shabbosos [rests] when you were living upon it.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:36",
+      "he": "וּדְיִשְׁתַּאֲרוּן בְּכוֹן וְאָעֵל תַּבְרָא בְּלִבְּהוֹן בְּאַרְעֲתָא דְּסַנְאֵיהוֹן וְיִרְדּוֹף יָתְהוֹן קַל טַרְפָּא דְשַׁקִּיף וְיֵעַרְקוּן כְּמֵעִירוֹק מִן קֳדָם דְּקָטְלִין בְּחַרְבָּא וְיִפְּלוּן וְלֵית דְּרָדִיף:",
+      "en": "To those who survive among you, I will send timidity [brokenness] into their hearts [as they live] in the lands of their enemies. The sound of a blown leaf [beating] will put them to flight and they will flee as though fleeing from [before people who kill with] a sword; and they will fall with no one chasing them.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:37",
+      "he": "וְיִתַּקְלוּן גְּבַר בְּאָחוּהִי כְּמִקָּדָם דְקָטְלִין בְּחַרְבָּא וְרָדִיף לָיִת וְלָא תְהֵי לְכוֹן תְּקוּמָה קֳדָם בַּעֲלֵי דְבָבֵיכוֹן:",
+      "en": "They will stumble over one other as though before [people who kill with] a sword when there is no pursuer, and you will have no power to stand upright before your enemies.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:38",
+      "he": "וְתֵבְדוּן בֵּינֵי עַמְמַיָּא וּתְגַמַּר יָתְכוֹן אֲרַע בַּעֲלֵי דְבָבֵיכוֹן:",
+      "en": "You will be lost among the nations and the land of your enemies will consume you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:39",
+      "he": "וּדְיִשְׁתָּאֲרוּן בְּכוֹן יִתִּמְסוּן בְּחוֹבֵיהוֹן בְּאַרְעֲתָא בַּעֲלֵי דְבָבֵיכוֹן וְאַף בְּחוֹבֵי אֲבָהַתְהוֹן בִּישַׁיָּא דַּאֲחִידִין בִּידֵיהוֹן יִתִּמְסוּן:",
+      "en": "Those of you who survive will rot away [melt] in their iniquity in the land of your enemies, and also due to the iniquities of their [evil] ancestors which are [still] with them [they hold in their hands], [they] will they rot away [melt].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:40",
+      "he": "וִיוַדּוּן יָת חוֹבֵיהוֹן וְיָת חוֹבֵי אֲבָהַתְהוֹן בְּשִׁקְרְהוֹן דְּשַׁקָּרוּ קֳדָמָי וְאַף דִּי הַלִּיכוּ קֳדָמַי בְּקַשְׁיוּ:",
+      "en": "They will [then] confess their iniquities and the iniquities of their ancestors in the unfaithfulness [dishonesty] with which they were unfaithful [dishonest] to [before] Me, and also for walking contrary to [before] Me.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:41",
+      "he": "אַף אֲנָא אֱהַךְ עִמְּהוֹן בְּקַשְׁיוּ וְאָעֵיל יָתְהוֹן בְּאַרַע בַּעֲלֵי דְבָבֵיהוֹן אוֹ בְכֵן יִתָּבַר לִבְּהוֹן טַפְשָׁא וּבְכֵן יִרְעוּן יָת חוֹבֵיהוֹן:",
+      "en": "I, too, will go contrary to them and bring them into the land of their enemies. Or perhaps then will be humbled [broken] their uncircumcised (unyielding) [unwise] heart and then their iniquities will be appeased (forgiven).",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:42",
+      "he": "וְדָכִירְנָא יָת קְיָמִי דְעִם יַעֲקוֹב וְאַף יָת קְיָמִי דְעִם יִצְחָק וְאַף יָת קְיָמִי דְעִם אַבְרָהָם אֲנָא דָכִיר וְאַרְעָא אֲנָא דָכִיר:",
+      "en": "I will [then] remember My covenant with Yaakov and also My covenant with Yitzchok and also My covenant with Avrohom, I will remember and I will remember the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:43",
+      "he": "וְאַרְעָא תִתְרְטֵשׁ מִנְּהוֹן וְתַרְעֵי יָת שְׁמִטָּהָא בְּדִצְדִיאַת מִנְּהוֹן וְאִנּוּן יִרְעוּן יָת חוֹבֵיהוֹן לְוָטִין חֳלַף בִּרְכָן אַיְתִי עֲלֵיהוֹן בְּדִיל דִּבְדִינַי קָצוּ וְיָת קְיָמַי רְחֵקַת נַפְשְׁהוֹן:",
+      "en": "The land, being bereft of them, will be appeased for its Shabbosos [rests], during the time of its desolation from them and their iniquities will then be appeased (forgiven) [I will bring upon them curses instead of blessings] since what certainly caused [this] is that they despised My laws and their soul loathed (rejected) My statutes.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:44",
+      "he": "וְאַף בְּרַם דָּא בְּמֵהֱוֵיהוֹן בְּאַרַע בַּעֲלֵי דְבָבֵיהוֹן לָא אַרְטֵשִׁנּוּן וְלָא אַרְחֵקִנּוּן לְשֵׁיצָיוּתְהוֹן לְאַשְׁנָאָה קְיָמִי עִמְּהוֹן אֲרֵי אֲנָא יְיָ אֱלָהֲהוֹן:",
+      "en": "All this not withstanding, even when they are in the land of their enemies I will not despise [abandon] them and I will not loathe [reject] them to annihilate them, to break [change] My covenant with them, for I am Adonoy, their God.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:45",
+      "he": "וְדָכִירְנָא לְהוֹן קְיַם קַדְמָאֵי דִּי אַפֵּקִית יָתְהוֹן מֵאַרְעָא דְמִצְרַיִם לְעֵינֵי עַמְמַיָּא לְמֵהֱוֵי לְהוֹן לֵאלָהָא אֲנָא יְיָ:",
+      "en": "I shall remember for them the covenant of their ancestors whom I brought out of the land of Egypt in sight of the nations to be a God for them, I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 26:46",
+      "he": "אִלֵּין קְיָמַיָּא וְדִינַיָּא וְאוֹרָיָתָא דִּי יְהַב יְיָ בֵּין מֵימְרֵיהּ וּבֵין בְּנֵי יִשְׂרָאֵל בְּטוּרָא דְסִינַי בִּידָא דְמשֶׁה:",
+      "en": "These are the statutes, the laws and the teachings that Adonoy set between Himself [His Word] and between Bnei Yisroel, on Mount Sinai, through the hand of Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying;",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:2",
+      "he": "מַלֵּיל עִם בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן גְּבַר אֲרֵי יַפְרֵשׁ נְדַר בְּפֻרְסַן נַפְשָׁתָא קֳדָם יְיָ:",
+      "en": "Speak to Bnei Yisroel and say to them; when a person [orally] expresses a vow pledging valuation of souls, to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:3",
+      "he": "וִיהֵי פֻרְסָנֵיהּ דְּכוּרָא מִבַּר עֶסְרִין שְׁנִין וְעַד בַּר שִׁתִּין שְׁנִין וִיהֵי פֻרְסָנֵיהּ חַמְשִׁין סִלְעִין דִּכְסַף בְּסִלְעֵי קוּדְשָׁא:",
+      "en": "The valuation for a male shall be, from twenty years of age to sixty years of age your valuation shall be fifty holy silver shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:4",
+      "he": "וְאִם נְקוּבְתָא הִיא וִיהֵי פֻרְסָנֵיהּ תְּלָתִין סִלְעִין:",
+      "en": "If it be a female, the valuation shall be thirty shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:5",
+      "he": "וְאִם מִבַּר חֲמֵשׁ שְׁנִין וְעַד בַּר עֶסְרִין שְׁנִין וִיהֵי פֻרְסָנֵיהּ דְּכוּרָא עֶסְרִין סִלְעִין וְלִנְקוּבְתָּא עֲסַר סִלְעִין:",
+      "en": "If from five years of age to twenty years of age the valuation for a male shall be twenty shekalim [selaim], and for a female, ten shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:6",
+      "he": "וְאִם מִבַּר יַרְחָא וְעַד בַּר חֲמֵשׁ שְׁנִין וִיהֵי פֻרְסָנֵיהּ דְּכוּרָא חֲמֵשׁ סִלְעִין דִּכְסָף וְלִנְקוּבְתָא פֻרְסָנַהּ תְּלַת סִלְעִין דִּכְסָף:",
+      "en": "If from one month of age to five years of age the valuation of a male shall be five silver shekalim [selaim] and the valuation for a female is three silver shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:7",
+      "he": "וְאִם מִבַּר שִׁתִּין שְׁנִין וּלְעֵלָּא אִם דְּכוּרָא וִיהֵי פֻרְסָנֵיהּ חֲמֵשׁ עֶסְרֵי סִלְעִין וְלִנְקוּבְתָא עֲסַר סִלְעִין:",
+      "en": "If from sixty and above, if he is a male the valuation shall be fifteen shekalim [selaim] and for a female, ten shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:8",
+      "he": "וְאִם מִסְכֵּן הוּא מִפֻּרְסָנֵּיהּ וִיקִימִנֵּיהּ קֳדָם כַּהֲנָא וְיִפְרוֹס יָתֵיהּ כַּהֲנָא עַל מֵימַר דִּי תַדְבֵּק יְדָא דְנוֹדֵרָא יִפְרְסִנֵּיהּ כַּהֲנָא:",
+      "en": "If he is [too] poor to pay the valuation he shall set him[self] [=he shall be presented] before the kohein, and the kohein will determine his valuation. According to the means of the one who vowed the kohein will determine his valuation.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:9",
+      "he": "וְאִם בְּעִירָא דִּי יְקָרְבוּן מִנַּהּ קֻרְבָּנָא קֳדָם יְיָ כֹּל דִּי יִתֵּן מִנֵּיהּ קֳדָם יְיָ יְהֵי קוּדְשָׁא:",
+      "en": "If [it is] an animal which can be brought as an offering to [before] Adonoy, any of it that he will give to [before] Adonoy shall become sacred.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:10",
+      "he": "לָא יְחַלְּפִנֵּיהּ וְלָא יְעִבַּר יָתֵיהּ טַב בְּבִישׁ אוֹ בִישׁ בְּטָב וְאִם חַלָּפָא יְחַלֵּף בְּעִירָא בִּבְעִירָא וִיהֵי הוּא וְחִלּוּפֵיהּ יְהֵי קַדִּישׁ:",
+      "en": "He shall not exchange it [with anothers animal] and he shall not change it [with his own animal] whether it be a good one for a worse one [or] a bad one for a better one. If he did exchange one animal for another animal, then both it and its replacement shall be sacred.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:11",
+      "he": "וְאִם כָּל בְּעִירָא מְסָאָבָא דִּי לָא יְקָרְבוּן מִנַּהּ קֻרְבָּנָא קֳדָם יְיָ וִיקִים יָת בְּעִירָא קֳדָם כַּהֲנָא:",
+      "en": "If it is any unclean (blemished) animal which cannot be offered to [before] Adonoy, he shall present the animal to the kohein.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:12",
+      "he": "וְיִפְרוֹס כַּהֲנָא יָתַהּ בֵּין טַב וּבֵין בִּישׁ כְּפֻרְסָנָא דְכַהֲנָא כֵּן יְהֵי:",
+      "en": "The kohein shall determine its value whether it is good or bad as the kohein determines its value for you, so shall it be.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:13",
+      "he": "וְאִם מִפְרַק יִפְרְקֻנַּהּ וְיוֹסֵף חֻמְשֵׁיהּ עַל פֻּרְסָנֵיהּ:",
+      "en": "If he will indeed redeem it he shall add on one fifth to its valuation.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:14",
+      "he": "וּגְבַר אֲרֵי יַקְדֵּשׁ יָת בֵּיתֵיהּ קוּדְשָׁא קֳדָם יְיָ וְיִפְרְסִנֵּיהּ כַּהֲנָא בֵּין טַב וּבֵין בִּישׁ כְּמָא דִּי יִפְרוֹס יָתֵיהּ כַּהֲנָא כֵּן יְקוּם:",
+      "en": "If a man will consecrate his house as being sacred to [before] Adonoy, the kohein shall determine its value, whether it is good or bad; as the kohein determines its value, so shall it be established.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:15",
+      "he": "וְאִם דְּאַקְדֵּשׁ יִפְרוֹק יָת בֵּיתֵיהּ וְיוֹסֵף חֹמֶשׁ כְּסַף פֻּרְסָנֵיהּ עֲלוֹהִי וִיהֵי לֵיהּ:",
+      "en": "If he who consecrated [his house] wishes to redeem his house, he shall add one fifth to its valuation money in addition to [the valuation], and [then] it belongs to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:16",
+      "he": "וְאִם מֵחֲקַל אַחֲסַנְתֵּיהּ יַקְדִּישׁ גְּבַר קָדָם יְיָ וִיהֵי פֻרְסָנֵיהּ לְפוּם זַרְעֵיהּ בַּר זְרַע כּוּר שְׂעוֹרִין בְּחַמְשִׁין סִלְעִין דִּכְסָף:",
+      "en": "If from his ancestral field a man will consecrate to [before] Adonoy its valuation shall be according to the measure of its seed; [at the rate of] one chomer [kor] of barley seed per fifty silver shekalim [selaim].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:17",
+      "he": "אִם מִשַּׁתָּא דְיוֹבֵלָא יַקְדֵּשׁ חַקְלֵיהּ כְּפֻרְסָנֵיהּ יְקוּם:",
+      "en": "If immediately after the jubilee year he consecrates his field it shall be established according to its vaulation.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:18",
+      "he": "וְאִם בָּתַר יוֹבֵלָא יַקְדֵּשׁ חַקְלֵיהּ וִיחַשֵּׁב לֵיהּ כַּהֲנָא יָת כַּסְפָּא עַל מֵימַר שְׁנַיָּא דְּאִשְׁתָּאָרָן עַד שַׁתָּא דְיוֹבֵלָא וְיִתִּמְנַע מִפֻּרְסָנֵיהּ:",
+      "en": "If after the jubilee he consecrates his field, then the kohein shall calculate the money [due] according to the remaining years until the jubilee year, and its valuation should be reduced accordingly.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:19",
+      "he": "וְאִם מִפְרַק יִפְרוֹק יָת חַקְלָא דְּאַקְדֵּשׁ יָתֵיהּ וְיוֹסֵף חֹמֶשׁ כְּסַף פֻּרְסָנֵיהּ עֲלוֹהִי וִיקוּם לֵיהּ:",
+      "en": "If he will [indeed] redeem the field, he who consecrated it, shall add one fifth to its monetary valuation, and it is then established as his.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:20",
+      "he": "וְאִם לָא יִפְרוֹק יָת חַקְלָא וְאִם זַבִּין יָת חַקְלָא לִגְבַר אָחֳרָן לָא יִתְפָּרָק עוֹד",
+      "en": "If he does not redeem the field and if he sells the field to another person, it shall not longer be redeemable.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:21",
+      "he": "וִיהֵי חַקְלָא בְּמִפְּקֵיהּ בְּיוֹבֵלָא קוּדְשָׁא קֳדָם יְיָ כַּחֲקַל חֶרְמָא לְכַהֲנָא תְּהֵי אַחֲסַנְתֵּיהּ:",
+      "en": "When the field is then released by the jubilee it becomes sacred to [before] Adonoy, just as a field that was consecrated, it shall belong to the kohein, [as] his possession.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:22",
+      "he": "וְאִם יָת חֲקַל זְבִינוֹהִי דִּי לָא מֵחֲקַל אַחֲסַנְתֵּיהּ יַקְדֵּשׁ קֳדָם יְיָ:",
+      "en": "If it is a field that he purchased, that is not his ancestral field, [that] he consecrates to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:23",
+      "he": "וִיחַשֶּׁב לֵיהּ כַּהֲנָא יָת מִנְיַן פֻּרְסָנֵּיהּ עַד שַׁתָּא דְיוֹבֵלָא וְיִתֵּן יָת פֻּרְסָנֵיהּ בְּיוֹמָא הַהוּא קוּדְשָׁא קֳדָם יְיָ:",
+      "en": "The kohein will calculate for him the amount of its valuation until the jubilee year, and on that day he shall give its valuation as something sacred to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:24",
+      "he": "בְּשַׁתָּא דְיוֹבֵלָא יְתוּב חַקְלָא לְדִזְבָּנֵיהּ מִנֵּיהּ לְדְדִילֵיהּ אַחֲסָנַת אַרְעָא:",
+      "en": "In the jubilee year the field shall revert to him from whom it was purchased; to him whose ancestral land it is.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:25",
+      "he": "וְכָל פֻּרְסָנֵיהּ יְהֵי בְּסִלְעֵי קוּדְשָׁא עֶסְרִין מָעִין יְהֵי סִלְעָא:",
+      "en": "All of your valuations shall be in holy shekalim [selaim]; the shekel [sela] shall be twenty geirah [ma’in].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:26",
+      "he": "בְּרַם בּוּכְרָא דִּי יִתְבַּכַּר קֳדָם יְיָ בִּבְעִירָא לָא יַקְדֵּשׁ גְּבַר יָתֵיהּ אִם תּוֹר אִם אִמַּר דַּיְיָ הוּא:",
+      "en": "However, a firstling [animal] that is born first shall belong to [before] Adonoy [as a sacrifice] from among the domestic animals; a man shall not consecrate it [for any other purpose] whether it is an ox or a lamb, it belongs to Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:27",
+      "he": "וְאִם בִּבְעִירָא מְסָאָבָא וְיִפְרוֹק בְּפֻרְסָנֵיהּ וְיוֹסֵף חֻמְשֵׁיהּ עֲלוֹהִי וְאִם לָא יִתְפָּרַק וְיִזְדַּבַּן בְּפֻרְסָנֵיהּ:",
+      "en": "If it is of an unclean animal, he shall redeem it based on the valuation, and add a fifth to [that amount]. If it is not redeemed, it shall be sold according to the valuation.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:28",
+      "he": "בְּרַם כָּל חֶרְמָא דִּי יַחֲרֵם גְּבַר קֳדָם יְיָ מִכָּל דִּי לֵיהּ מֵאֲנָשָׁא וּבְעִירָא וּמֵחֲקַל אַחֲסַנְתֵּיהּ לָא יִזְדַּבַּן וְלָא יִתְפָּרָק כָּל חֶרְמָא קֹדֶשׁ קוּדְשִׁין הוּא קֳדָם יְיָ:",
+      "en": "However, any dedication that a man will dedicate to [before] Adonoy from any of his belongings be it people (slave), or animal, or of the field of his ancestral land, [none of these] can be sold or redeemed. Everything that is dedicated is most holy, unto [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:29",
+      "he": "כָּל חֶרְמָא דִּי יִתַּחְרַם מִן אֱנָשָׁא לָא יִתְפָּרָק אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "Any dedication that a man will dedicate, regarding a man [due to be put to death] cannot be redeemed, he shall surely be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:30",
+      "he": "וְכָל מַעְשְׂרָא דְאַרְעָא מִזַּרְעָא דְאַרְעָא מִפֵּרֵי אִילָנָא דַּיְיָ הוּא קוּדְשָׁא קֳדָם יְיָ:",
+      "en": "All tithings of the land; whether of the seeds [crops] of the land or of the fruit of the tree, belongs to Adonoy, it is sacred to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:31",
+      "he": "וְאִם מִפְרַק יִפְרוֹק גְּבַר מִמַּעַשְׂרֵיהּ חֻמְשֵׁיהּ יוֹסֵף עֲלוֹהִי:",
+      "en": "If a man wishes to redeem of his tithe, he shall add a fifth to [the amount].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:32",
+      "he": "וְכָל מַעֲשַׂר תּוֹרִין וְעָן כֹּל דְּיֵעִבַּר תְּחוֹת חֻטְרָא עֲשִׂירָאָה יְהֵי קַדִּישׁ קֳדָם יְיָ:",
+      "en": "All tithes of cattle and sheep, anything that passes under the rod, the tenth one shall be sacred to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:33",
+      "he": "לָא יְבַקַּר בֵּין טַב לְבִישׁ וְלָא יְחַלְּפִנֵּיהּ וְאִם חַלָּפָא יְחַלְּפִנֵּיהּ וִיהֵי הוּא וְחִלּוּפֵיהּ יְהֵי קוּדְשָׁא לָא יִתְפָּרָק:",
+      "en": "He shall not make a distinction between better or worse [animals] and he shall not exchange it. If he exchanges one for another, then [both] it and its replacement shall be sacred and it cannot be redeemed.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 27:34",
+      "he": "אִלֵּין פִּקּוֹדַיָּא דִּי פַקִּיד יְיָ יָת משֶׁה לְוָת בְּנֵי יִשְׂרָאֵל בְּטוּרָא דְּסִינָי:",
+      "en": "These are the commandments which Adonoy commanded Moshe for Bnei Yisroel on Mount Sinai. Chazak",
+      "fr": ""
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "name": "A'harei Mot",
+  "range": "Leviticus 16:1-18:30",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Leviticus 16:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בָּתַר דְּמִיתוּ תְּרֵין בְּנֵי אַהֲרֹן בְּקָרוֹבֵיהוֹן אֶשָּׁתָא נוּכְרֵיתָא קֳדָם יְיָ וּמִיתוּ:",
+      "en": "And Adonoy spoke to Moshe after the death of two sons of Aharon, who brought an [unauthorized] offering [strange fire] before Adonoy and they died.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:2",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה מַלֵּל עִם אַהֲרֹן אָחוּךְ וְלָא יְהֵי עָלֵל בְּכָל עִדָּן לְקוּדְשָׁא מִגָּיו לְפָרֻכְתָּא לָקֳדָם כַּפֻּרְתָּא דִּי עַל אֲרוֹנָא וְלָא יְמוּת אֲרֵי בַּעֲנָנָא אֲנָא מִתְגְּלִי עַל בֵּית כַּפֻּרְתָּא:",
+      "en": "Adonoy spoke to Moshe: Speak to your brother Aharon that he not come at all times into the Holy [Sanctuary] that is inside of the Curtain, before the Ark-cover that is on the Ark so that he not die, for in a cloud I shall appear [become revealed] on the [House of the] Ark-cover.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:3",
+      "he": "בְּדָא יְהֵי עָלֵל אַהֲרֹן לְקוּדְשָׁא בְּתוֹר בַּר תּוֹרֵי לְחַטָּאתָא וּדְכַר לַעֲלָתָא:",
+      "en": "With this shall Aharon come into the Holy [Sanctuary]; with a young bullock, for a sin-offering and a ram, for a burnt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:4",
+      "he": "כִּתּוּנָא דְבוּצָא קוּדְשָׁא יִלְבָּשׁ וּמִכְנְסִין דְּבוּץ יְהוֹן עַל בִּסְרֵיהּ וּבְהֶמְיָנָא דְבוּצָא יֵסַר וּבְמִצְנֶפְתָּא דְבוּצָא יָחֵת בְּרֵישֵׁיהּ לְבוּשֵׁי קוּדְשָׁא אִנּוּן וְיַסְחֵי בְמַיָּא יָת בִּסְרֵיהּ וְיַלְבְּשִׁנּוּן:",
+      "en": "He shall don a sanctified, linen tunic and linen pants shall be on his body. He shall gird himself with a linen sash and place a linen turban on his head. These are sacred garments; he shall bathe his body in water and clothe himself in them.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:5",
+      "he": "וּמִין כְּנִשְׁתָּא דִּבְנֵי יִשְׂרָאֵל יִסַּב תְּרֵין צְפִירֵי עִזִּין לְחַטָּאתָא וּדְכַר חַד לַעֲלָתָא:",
+      "en": "He shall take, from the congregation of Israel two he-goats for sin-offerings and one ram for a burnt-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:6",
+      "he": "וִיקָרֵב אַהֲרֹן יָת תּוֹרָא דְחַטָּאתָא דִּי לֵיהּ וִיכַפֵּר עֲלוֹהִי וְעַל אֱנַשׁ בֵּיתֵיהּ:",
+      "en": "Aharon shall bring the sin-offering bullock which is his and atone on his own behalf and on behalf of his household.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:7",
+      "he": "וְיִסַּב יָת תְּרֵין צְפִירִין וִיקִים יָתְהוֹן קֳדָם יְיָ בִּתְרַע מַשְׁכַּן זִמְנָא:",
+      "en": "He shall take the two he-goats and stand them before Adonoy, at the entrance of the Tent of Meeting.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:8",
+      "he": "וְיִתֵּן אַהֲרֹן עַל תְּרֵין צְפִירִין עַדְבִין עַדְבָא חַד לִשְׁמָא דַיְיָ וְעַדְבָא חַד לַעֲזָאזֵל:",
+      "en": "Aharon shall put lots on the two he-goats; one lot [marked] for [the Name of] Adonoy and one lot [marked] for Azazel.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:9",
+      "he": "וִיקָרֵב אַהֲרֹן יָת צְפִירָא דִּי סְלִיק עֲלוֹהִי עַדְבָא לִשְׁמָא דַיְיָ וְיַעְבִּדִנֵיהּ חַטָּאתָא:",
+      "en": "Aharon shall bring the goat upon which the lot [marked] for [the Name of] Adonoy came up and do (offer) it as a sin-offering.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:10",
+      "he": "וּצְפִירָא דִּי סְלִיק עֲלוֹהִי עַדְבָא לַעֲזָאזֵל יִתָּקַם כַּד חַי קֳדָם יְיָ לְכַפָּרָא עֲלוֹהִי לְשַׁלַּח יָתֵיהּ לַעֲזָאזֵל לְמַדְבְּרָא:",
+      "en": "The goat upon which came up the lot [marked] for Azazel shall be placed, alive, before Adonoy, to achieve atonement with it to send it to Azazel, in the desert.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:11",
+      "he": "וִיקָרֵב אַהֲרֹן יָת תּוֹרָא דְחַטָּאתָא דִּי לֵיהּ וִיכַפֵּר עֲלוֹהִי וְעַל אֱנַשׁ בֵּיתֵיהּ וְיִכּוֹס יָת תּוֹרָא דְחַטָּאתָא דִּי לֵיהּ:",
+      "en": "Aharon shall bring the sin-offering-bullock which is his and atone on his behalf and on behalf of his household, and he shall slaughter his sin-offering-bullock.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:12",
+      "he": "וְיִסַּב מְלֵי מַחְתִּיתָא גּוּמְרִין דְּאֶשָּׁא מֵעִלַּוֵי מַדְבְּחָא מִן קֳדָם יְיָ וּמְלֵי חָפְנוֹהִי קְטוֹרֶת בּוּסְמִין דַּקִּיקִין וְיָעֵל מִגָּיו לְפָרֻכְתָּא:",
+      "en": "He shall take a full hand-shovel of fiery coals from atop the altar, which is before Adonoy and full handfuls of finely-ground incense and he shall bring [them] inside of the curtain.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:13",
+      "he": "וְיִתֵּן יָת קְטוֹרֶת בּוּסְמַיָּא עַל אֶשָּׁתָא לָקֳדָם יְיָ וְחָפֵי עֲנָנָא קְטָרְתָּא יָת כַּפֻּרְתָּא דִּי עַל סַהֲדוּתָא וְלָא יְמוּת:",
+      "en": "He shall put the incense [spices] on the fire before Adonoy and the cloud of incense will cover the Ark-cover that is on the [tablets of] Testimony, that he not die.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:14",
+      "he": "וְיִסַּב מִדְּמָא דְתוֹרָא וְיַדִּי בְאֶצְבְּעֵיהּ עַל אַפֵּי כַּפֻּרְתָּא קִדּוּמָא וְלָקֳדָם כַּפֻּרְתָּא יַדִּי שְׁבַע זִמְנִין מִן דְּמָא בְּאֶצְבְּעֵיהּ:",
+      "en": "He shall take some of the bullocks blood and he shall sprinkle with his finger, above the surface of the Ark-cover on its eastern part; and before the Ark-cover, he shall sprinkle, some blood, with his finger, seven times.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:15",
+      "he": "וְיִכּוֹס יָת צְפִירָא דְחַטָּאתָא דִּי לְעַמָּא וְיָעֵל יָת דְּמֵיהּ לְמִגָּיו לְפָרֻכְתָּא וְיַעְבֵּד לִדְמֵיהּ כְּמָא דִי עֲבַד לִדְמָא דְתוֹרָא וְיַדִּי יָתֵיהּ עַל כַּפֻּרְתָּא וְלָקֳדָם כַּפֻּרְתָּא:",
+      "en": "He shall slaughter the he-goat sin-offering that belongs to the people, and he shall bring its blood inside of the Curtain. He shall do [with] its blood just as he did with the bullocks blood and he shall sprinkle it on the Ark-cover and before of the Ark-cover.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:16",
+      "he": "וִיכַפֵּר עַל קוּדְשָׁא מִסּוֹאֲבַת בְּנֵי יִשְׂרָאֵל וּמִמֶּרְדֵּיהוֹן לְכָל חֲטָאֵיהוֹן וְכֵן יַעְבֵּד לְמַשְׁכַּן זִמְנָא דְּשָׁרֵי עִמְּהוֹן בְּגוֹ סוֹאֲבָתְהוֹן:",
+      "en": "He will atone for the Sanctuary, from the impurities of Bnei Yisroel and from their rebellious sins for all their transgressions. He shall do likewise for the Tent of Meeting, that dwells with them in the midst of their impurity.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:17",
+      "he": "וְכָל אֱנַשׁ לָא יְהֵי בְּמַשְׁכַּן זִמְנָא בְּמֵעֲלֵיהּ לְכַפָּרָא בְקוּדְשָׁא עַד מִפְּקֵיהּ וִיכַפֵּר עֲלוֹהִי וְעַל אֱנַשׁ בֵּיתֵיהּ וְעַל כָּל קְהָלָא דְיִשְׂרָאֵל:",
+      "en": "No man shall be present in the Tent of Meeting when he comes in to atone for the Holy [Sanctuary] until he leaves. He shall atone on his behalf and on behalf of his household and on behalf of the entire assembly of Israel.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:18",
+      "he": "וְיִפּוֹק לְמַדְבְּחָא דִּי קֳדָם יְיָ וִיכַפֵּר עֲלוֹהִי וְיִסַּב מִדְּמָא דְתוֹרָא וּמִדְּמָא דִצְפִירָא וְיִתֵּן עַל קַרְנַת מַדְבְּחָא סְחוֹר סְחוֹר:",
+      "en": "He shall go out to the altar that is before Adonoy and atone on it. He shall take some of the bullocks blood and some of the he-goats blood and put it atop the corners of the altar, all around.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:19",
+      "he": "וְיַדֵּי עֲלוֹהִי מִן דְּמָא בְּאֶצְבְּעֵיהּ שְׁבַע זִמְנִין וִידַכִּנֵּיהּ וִיקַדְּשִׁנֵּיהּ מִסּוֹאֲבַת בְּנֵי יִשְׂרָאֵל:",
+      "en": "He shall sprinkle on it from the blood that is on his finger seven times and purify it and sanctify it from the impurities of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:20",
+      "he": "וִישֵׁצֵי מִלְּכַפָּרָא עַל קוּדְשָׁא וְעַל מַשְׁכַּן זִמְנָא וְעַל מַדְבְּחָא וִיקָרֵב יָת צְפִירָא חַיָּא:",
+      "en": "When he finishes atoning for the Holy [Sanctuary] and [for] the Tent of Meeting and [for] the altar he shall bring the live he-goat.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:21",
+      "he": "וְיִסְמוֹךְ אַהֲרֹן יָת תַּרְתֵּין יְדוֹהִי עַל רֵישׁ צְפִירָא חַיָּא וְיִוַדֵּי עֲלוֹהִי יָת כָּל עֲוָיַת בְּנֵי יִשְׂרָאֵל וְיָת כָּל מֶרְדֵּיהוֹן לְכָל חֲטָאֵיהוֹן וְיִתֵּן יָתְהוֹן עַל רֵישׁ צְפִירָא וִישַׁלַּח בְּיַד גְּבַר דִּזְמִין לִמְהַךְ לְמַדְבְּרָא:",
+      "en": "Aharon shall lay his two hands on the head of the live he-goat and confess on it all the iniquities of Bnei Yisroel and all their rebellious transgressions for all their sins, and put them on the head of the goat and send it away with the man [so] designated, to [go to] the desert.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:22",
+      "he": "וְיִטּוֹל צְפִירָא עֲלוֹהִי יָת כָּל חוֹבֵיהוֹן לְאַרְעָא דְלָא יָתְבָא וִישַׁלַּח יָת צְפִירָא בְּמַדְבְּרָא:",
+      "en": "The goat shall carry upon itself all of their iniquities to a desolate [an uninhabited] land, and [the man shall] send the goat into the desert.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:23",
+      "he": "וְיֵיעוֹל אַהֲרֹן לְמַשְׁכַּן זִמְנָא וְיַשְׁלַח יָת לְבוּשֵׁי בוּצָא דִּי לְבַשׁ בְּמֵעֲלֵיהּ לְקוּדְשָׁא וְיַצְנְעִנּוּן תַּמָּן:",
+      "en": "Aharon will [then] come into the Tent of Meeting and remove the linen garments that he wore when he came into the Holy [Sanctuary] and place [hide] them there.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:24",
+      "he": "וְיַסְחֵי יָת בִּסְרֵיהּ בְּמַיָּא בַּאֲתַר קַדִּישׁ וְיִלְבַּשׁ יָת לְבוּשׁוֹהִי וְיִפּוֹק וְיַעְבֵּד יָת עֲלָתֵיהּ וְיָת עֲלַת עַמָּא וִיכַפַּר עֲלוֹהִי וְעַל עַמָּא:",
+      "en": "He shall wash his flesh in water in a sacred place and don his garments. He shall go out and do (offer) his burnt-offering and the peoples burnt-offering and atone on his behalf and on behalf of the people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:25",
+      "he": "וְיָת תַּרְבָּא דְחַטָּאתָא יַסֵּק לְמַדְבְּחָא:",
+      "en": "The fat of the sin-offering, he shall burn on the altar.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:26",
+      "he": "וּדְמוֹבִיל יָת צְפִירָא לַעֲזָאזֵל יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי יָת בִּסְרֵיהּ בְּמַיָּא וּבָתַר כֵּן יֵיעוֹל לְמַשְׁרִיתָא:",
+      "en": "He who sends [brings] the goat to Azazel shall wash his garments, and bathe his body in water, and afterwards he shall come into the encampment.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:27",
+      "he": "וְיָת תּוֹרָא דְחַטָּאתָא וְיָת צְפִירָא דְחַטָּאתָא דִּי אִתָּעַל מִדִּמְהוֹן לְכַפָּרָא בְקוּדְשָׁא יִתַּפְּקוּן לְמִבָּרָא לְמַשְׁרִיתָא וְיוֹקְדוּן בְּנוּרָא יָת מַשְׁכֵּיהוֹן וְיָת בִּסְרְהוֹן וְיָת אָכְלֵיהוֹן:",
+      "en": "The sin-offering-bullock and the sin-offering-goat whose blood was brought to achieve atonement in the Holy [Sanctuary], he shall have removed beyond the encampment. They shall burn in fire their skins, their flesh and their waste [that are in their intestines].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:28",
+      "he": "וּדְמוֹקִיד יָתְהוֹן יְצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי יָת בִּסְרֵיהּ בְּמַיָּא וּבָתַר כֵּן יֵיעוֹל לְמַשְׁרִיתָא:",
+      "en": "He who burns them shall wash his garments and bathe his body in water and afterwards he shall come into the encampment.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:29",
+      "he": "וּתְהֵי לְכוֹן לִקְיַם עָלָם בְּיַרְחָא שְׁבִיעָאָה בְּעַשְׂרָא לְיַרְחָא תְּעַנּוּן יָת נַפְשָׁתֵיכוֹן וְכָל עִבִידָא לָא תַעְבְּדוּן יַצִּיבָא וְגִיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן:",
+      "en": "It shall be for an everlasting statute for you; in the seventh month, on the tenth of the month, you shall afflict yourselves and not do any work, the native-born [settled one] and the proselyte residing [that converts] among you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:30",
+      "he": "אֲרֵי בְיוֹמָא הָדֵין יְכַפֵּר עֲלֵיכוֹן לְדַכָּאָה יָתְכוֹן מִכֹּל חוֹבֵיכוֹן קֳדָם יְיָ תִּדְכּוּן:",
+      "en": "For on this day He will make atonement for you, to purify you from all your sins, before Adonoy, you will be purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:31",
+      "he": "שְׁבַת שְׁבָתָא הִיא לְכוֹן וּתְעַנּוּן יָת נַפְשָׁתֵיכוֹן קְיַם עֲלָם:",
+      "en": "It is a Shabbos of Shabbosos to you and you must afflict yourselves; it is an everlasting statute.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:32",
+      "he": "וִיכַפַּר כַּהֲנָא דִּי רַבִּי יָתֵיהּ וְדִי יְקָרֵב יָת קֻרְבָּנֵיהּ לְשַׁמָּשָׁא תְּחוֹת אֲבוּהִי וְיִלְבַּשׁ יָת לְבוּשֵׁי בוּצָא לְבוּשֵׁי קוּדְשָׁא:",
+      "en": "The kohein will atone—he who himself will be anointed [inaugurated to greatness] and who will be initiated—[offer his sacrifice] to serve in his fathers stead and dress in the linen garments, the sacred garments.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:33",
+      "he": "וִיכַפַּר עַל מִקְדַּשׁ קוּדְשָׁא וְעַל מַשְׁכַּן זִמְנָא וְעַל מַדְבְּחָא יְכַפַּר וְעַל כַּהֲנַיָּא וְעַל כָּל עַמָּא דִקְהָלָא יְכַפַּר:",
+      "en": "He will atone for the Holy [Sanctuary]; and for the Tent of Meeting and for the altar, he will atone; for the kohanim and for the entire people of the congregation, he will atone.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:34",
+      "he": "וּתְהֵי דָא לְכוֹן לִקְיַם עָלָם לְכַפָּרָא עַל בְּנֵי יִשְׂרָאֵל מִכָּל חוֹבֵיהוֹן חֲדָא בְּשַׁתָּא וַעֲבַד כְּמָא דִי פַקֵּיד יְיָ יָת משֶׁה:",
+      "en": "This shall be for you as an everlasting statute, to achieve atonement for Bnei Yisroel from all their sins, once a year. He did as Adonoy commanded Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:2",
+      "he": "מַלֵּל עִם אַהֲרֹן וְעִם בְּנוֹהִי וְעִם כָּל בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן דֵּין פִּתְגָּמָא דִּי פַקִּיד יְיָ לְמֵימָר:",
+      "en": "Speak to Aharon and to his sons and to all Bnei Yisroel and say to them; this is the edict that Adonoy commanded, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:3",
+      "he": "גְּבַר גְּבַר מִבֵּית יִשְׂרָאֵל דִּי יִכּוֹס תּוֹר אוֹ אִמַּר אוֹ עִזָּא בְּמַשְׁרִיתָא אוֹ דִּי יִכּוֹס מִבָּרָא לְמַשְׁרִיתָא:",
+      "en": "Each and every person of the House of Israel who will slaughter an ox, lamb, or goat within the encampment or who will slaughter [it] beyond the encampment.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:4",
+      "he": "וְלִתְרַע מַשְׁכַּן זִמְנָא לָא אַיְתֵיהּ לְקָרָבָא קֻרְבָּנָא קֳדָם יְיָ קֳדָם מַשְׁכְּנָא דַיְיָ דְּמָא יִתְחַשַּׁב לְגַבְרָא הַהוּא דְּמָא אֲשַׁד וְיִשְׁתֵּיצֵי אֲנָשָׁא הַהוּא מִגּוֹ עַמֵּיהּ:",
+      "en": "And to the entrance of the Tent of Meeting he did not bring it so that it may be brought as an offering to [before] Adonoy, before the Mishkan of Adonoy; it shall be considered for that person as blood, he has spilled blood, and that person shall be cut off from among his people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:5",
+      "he": "בְּדִיל דִּי יַיְתוּן בְּנֵי יִשְׂרָאֵל יָת דִּבְחֵיהוֹן דִּי אִנּוּן דָּבְחִין עַל אַפֵּי חַקְלָא וְיַיְתֻנּוּן לָקֳדָם יְיָ לִתְרַע מַשְׁכַּן זִמְנָא לְוָת כַּהֲנָא וְיִכְּסוּן נִכְסַת קוּדְשִׁין קֳדָם יְיָ יָתְהוֹן:",
+      "en": "So that Bnei Yisroel shall bring their sacrifices that they [would] slaughter on the field, and [instead] they shall bring them to [before] Adonoy to the entrance of the Tent of Meeting, to the kohein, and slaughter them as peace[sacred]-offerings to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:6",
+      "he": "וְיִזְרוֹק כַּהֲנָא יָת דְּמָא עַל מַדְבְּחָא דַיְיָ בִּתְרַע מַשְׁכַּן זִמְנָא וְיַסֵּק תַּרְבָּא לְאִתְקַבָּלָא בְרַעֲוָא קֳדָם יְיָ:",
+      "en": "The kohein shall sprinkle the blood on the altar of Adonoy at the entrance of the Tent of Meeting and burn the fat as a pleasing fragrance to [to be accepted with favor before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:7",
+      "he": "וְלָא יִדְבְּחוּן עוֹד יָת דִּבְחֵיהוֹן לַשֵּׁדִין דִּי אִנּוּן טָעָן בַּתְרֵיהוֹן קְיַם עָלָם תְּהֵי דָא לְהוֹן לְדָרֵיהוֹן:",
+      "en": "They shall no longer slaughter their sacrifices to the demons after which they go astray. This shall be an everlasting statute for them, for their descendants.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:8",
+      "he": "וּלְהוֹן תֵּימַר גְּבַר גְּבַר מִבֵּית יִשְׂרָאֵל וּמִן גִּיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן דִּי יַסֵּק עֲלָתָא אוֹ נִכְסַת קוּדְשַׁיָּא:",
+      "en": "To them you shall say: each and every person of the House of Israel and from the proselyte who will reside [convert] among them, who will bring a burnt-offering or sacrifice [sacred-offering],",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:9",
+      "he": "וְלִתְרַע מַשְׁכַּן זִמְנָא לָא אַיְתִנֵּיהּ לְמֶעְבַּד יָתֵיהּ קֳדָם יְיָ וְיִשְׁתֵּיצֵי אֲנָשָׁא הַהוּא מֵעַמֵּיהּ:",
+      "en": "and to the entrance of the Tent of Meeting he does not bring it, that it be offered to [before] Adonoy; that person shall be cut off from his people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:10",
+      "he": "וּגְבַר גְּבַר מִבֵּית יִשְׂרָאֵל וּמִן גִּיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן דִּי יֵיכוּל כָּל דְּמָא וְאֶתֵּן רוּגְזִי בַּאֲנָשָׁא דְּיֵכוּל יָת דְּמָא וֶאֱשֵׁיצֵי יָתֵיהּ מִגּוֹ עַמֵּיהּ:",
+      "en": "Each and every person of the House of Israel and from the proselyte who resides [converts] among them who will eat any blood; I shall direct my anger on the soul of him [person] who eats the blood and I will cut it off from among its people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:11",
+      "he": "אֲרֵי נְפַשׁ בִּסְרָא בִּדְמָא הִיא וַאֲנָא יְהָבִתֵּיהּ לְכוֹן עַל מַדְבְּחָא לְכַפָּרָא עַל נַפְשָׁתֵיכוֹן אֲרֵי דְמָא הוּא עַל נַפְשָׁא מְכַפֵּר:",
+      "en": "For [the] soul of the body is in the blood and I have given it to you [to be placed] on the altar to achieve atonement for your souls, for it is the blood that will achieve atonement for the soul.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:12",
+      "he": "עַל כֵּן אֲמָרִית לִבְנֵי יִשְׂרָאֵל כָּל אֱנַשׁ מִנְּכוֹן לָא יֵיכוּל דְּמָא וְגִיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן לָא יֵיכוּל דְּמָא:",
+      "en": "Therefore, I have said to Bnei Yisroel: Every soul [person] among you shall not eat blood. The proselyte residing [that converts] among you shall not eat blood.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:13",
+      "he": "וּגְבַר גְּבַר מִן בְּנֵי יִשְׂרָאֵל וּמִין גִּיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן דִּי יְצוּד צֵידָא חַיְתָא אוֹ עוֹפָא דִּי מִתְאֲכֵל וְיֵישׁוֹד יָת דְּמֵיהּ וִיכַסִּנֵּיהּ בְּעַפְרָא:",
+      "en": "Each and every person of the House of Israel and from the proselyte residing [that converts] among them who will ensnare [the catch] any wild animal or fowl that is permitted to be eaten, he shall spill its blood and cover it with earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:14",
+      "he": "אֲרֵי נְפַשׁ כָּל בִּסְרָא דְּמֵיהּ בְּנַפְשֵׁיהּ הוּא וַאֲמָרִית לִבְנֵי יִשְׂרָאֵל דַּם כָּל בִּסְרָא לָא תֵיכְלוּן אֲרֵי נְפַשׁ כָּל בִּסְרָא דְּמֵיהּ הִיא כָּל דְּיֵכְלִנֵּיהּ יִשְׁתֵּיצֵי:",
+      "en": "For [as to] the life of all flesh, its blood is its life, and I have said to Bnei Yisroel: The blood of any flesh, you should not eat, for, the life of all flesh is its blood. Whoever eats of it, shall be cut off.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:15",
+      "he": "וְכָל אֱנַשׁ דִּי יֵיכוּל נְבִילָא וּתְבִירָא בְּיַצִּיבָא וּבְגִיּוֹרָא וִיצַבַּע לְבוּשׁוֹהִי וְיַסְחֵי בְמַיָּא וִיהֵי מְסָאָב עַד רַמְשָׁא וְיִדְכֵּי:",
+      "en": "Anybody that will eat an improperly slaughtered animal or an animal with a fatal defect among the native-born [settled one] and the proselyte, shall wash his clothing and bathe in water and is impure until the evening, and [then] becomes purified.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:16",
+      "he": "וְאִם לָא יְצַבַּע וּבִסְרֵיהּ לָא יַסְחֵי וִיקַבֵּל חוֹבֵיהּ:",
+      "en": "If he does not wash [his clothes] and does not bathe his flesh, he bears [the burden of] his iniquity.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:2",
+      "he": "מַלֵּל עִם בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן אֲנָא יְיָ אֱלָהָכוֹן:",
+      "en": "Speak to Bnei Yisroel and say to them I am Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:3",
+      "he": "כְּעוֹבָדֵי עַמָּא דְאַרְעָא דְמִצְרַיִם דִּי יְתֶבְתּוּן בַּהּ לָא תַעְבְּדוּן וּכְעוֹבָדֵי עַמָּא דְאַרְעָא דִכְנַעַן דִּי אֲנָא מָעֵל יָתְכוֹן תַּמָּן לָא תַעְבְּדוּן וּבְנִימוֹסֵיהוֹן לָא תְהָכוּן:",
+      "en": "After the practice of the [people of the] Land of Egypt in which you have lived, you shall not do, and the practice of the [people of the] Land of Canaan, to which I am bringing you, you shall not do and you shall not follow their statutes [customs].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:4",
+      "he": "יָת דִּינַי תַּעְבְּדוּן וְיָת קְיָמַי תִּטְּרוּן לְהַלָּכָא בְּהוֹן אֲנָא יְיָ אֱלָהָכוֹן:",
+      "en": "You shall fulfill My laws and you shall keep My statutes to follow them, I am Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:5",
+      "he": "וְתִטְּרוּן יָת קְיָמַי וְיָת דִּינַי דִּי יַעְבֵּד יָתְהוֹן אֲנָשָׁא וְיֵחֵי בְהוֹן לְחַיֵּי עָלְמָא אֲנָא יְיָ:",
+      "en": "You shall keep My statutes and My laws which if a man obeys he shall live through them [in the World to Come]; I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:6",
+      "he": "גְּבַר גְּבַר לְכָל קָרִיב בִּסְרֵיהּ לָא תִקְרְבוּן לְגַלָּאָה עֶרְיָא אֲנָא יְיָ:",
+      "en": "Each and every person—to any of his close kin—You shall not approach to uncover [their] nakedness, I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:7",
+      "he": "עֶרְיַת אֲבוּךְ וְעֶרְיַת אִמָּךְ לָא תְגַלֵּי אִמָּךְ הִיא לָא תְגַלֵּי עֶרְיְתַהּ:",
+      "en": "The nakedness of your father and the nakedness of your mother you shall not uncover; she is your mother, you shall not uncover her nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:8",
+      "he": "עֶרְיַת אִתַּת אָבוּךְ לָא תְגַלֵּי עֶרְיַת אֲבוּךְ הִיא:",
+      "en": "The nakedness of your fathers wife you shall not uncover; it is your fathers nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:9",
+      "he": "עֶרְיַת אֲחָתָךְ בַּת אֲבוּךְ אוֹ בַת אִמָּךְ דִּילִידָא מִן אֲבוּךְ מִן אִתַּת אָחֳרִי אוֹ מִן אִמָּךְ לִגְבַר אָחֳרָן לָא תְגַלֵּי עֶרְיַתְהֶן:",
+      "en": "The nakedness of your sister [whether she is] your fathers daughter or your mothers daughter; whether she is born in the house [to your father from another woman], or she is born outside [to your mother from another man], you shall not uncover their nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:10",
+      "he": "עֶרְיַת בַּת בְּרָךְ אוֹ בַת בְּרַתָּךְ לָא תְגַלֵּי עֶרְיַתְהֵן אֲרֵי עֶרְיְתָךְ אִנּוּן:",
+      "en": "The nakedness of your sons daughter or your daughters daughter; you shall not uncover their nakedness, for their nakedness is your own.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:11",
+      "he": "עֶרְיַת בַּת אִתַּת אֲבוּךְ דִּילִידָא מִן אֲבוּךְ אֲחָתָךְ הִיא לָא תְגַלֵּי עֶרְיְתַהּ:",
+      "en": "The nakedness of the daughter of your fathers wife who is born to your father; she is your sister, you shall not uncover her nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:12",
+      "he": "עֶרְיַת אֲחַת אֲבוּךְ לָא תְגַלֵּי קָרִיבַת אֲבוּךְ הִיא:",
+      "en": "The nakedness of your fathers sister you shall not uncover; she is your fathers kin.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:13",
+      "he": "עֶרְיַת אֲחַת אִמָּךְ לָא תְגַלֵּי אֲרֵי קָרִיבַת אִמָּךְ הִיא:",
+      "en": "The nakedness of your mothers sister you shall not uncover, for she is your mothers kin.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:14",
+      "he": "עֶרְיַת אַח אֲבוּךְ לָא תְגַלֵּי לְאִתְּתֵיהּ לָא תִקְרַב אִתַּת אַח אֲבוּךְ הִיא:",
+      "en": "The nakedness of your fathers brother you shall not uncover. You shall not approach his wife, she is your aunt [the wife of your father’s brother].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:15",
+      "he": "עֶרְיַת כַּלְּתָךְ לָא תְגַלֵּי אִתַּת בְּרָךְ הִיא לָא תְגַלֵּי עֶרְיְתַהּ:",
+      "en": "The nakedness of your daughter-in-law you shall not uncover; she is your sons wife, you shall not uncover her nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:16",
+      "he": "עֶרְיַת אִתַּת אֲחוּךְ לָא תְגַלֵּי עֶרְיַת אֲחוּךְ הִיא:",
+      "en": "The nakedness of your brothers wife you shall not uncover; it is your brothers nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:17",
+      "he": "עֶרְיַת אִתְּתָא וּבְרַתַּהּ לָא תְגַלֵּי יָת בַּת בְּרַהּ וְיָת בַּת בְּרַתַּהּ לָא תִסַּב לְגַלָּאָה עֶרְיְתַהּ קָרִיבָן אִנּוּן עֵצַת חִטְאִין הִיא:",
+      "en": "The nakedness of a woman and her daughter you shall not uncover. The daughter of her son and the daughter of her daughter you shall not take to uncover her nakedness, they are kin; it is lewdness [a sinful plan].",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:18",
+      "he": "וְאִתְּתָא עִם אֲחָתַהּ לָא תִסָּב לְעָקָאָה לְגַלָּאָה עֶרְיְתַהּ עֲלַהּ בְּחַיָּיהָא:",
+      "en": "You shall not take a woman and her sister to vex [her] to uncover her nakedness with the other, in her lifetime.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:19",
+      "he": "וּלְאִתְּתָא בְּרִחוּק סוֹבְתַהּ לָא תִקְרַב לְגַלָּאָה עֶרְיְתַהּ:",
+      "en": "To a woman while in her menstrual impurity [the state of her impure ‘separation’], you shall not approach to uncover her nakedness.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:20",
+      "he": "וּבְאִתַּת חַבְרָךְ לָא תִתֵּן שְׁכֻבְתָּךְ לְזַרְעָא לְאִסְתָּאָבָא בַהּ:",
+      "en": "With your friends wife you shall not lie carnally, to defile yourself through her.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:21",
+      "he": "וּמִבְּנָיךְ לָא תִתֵּן לְאַעְבָּרָא לְמוֹלֶךְ וְלָא תַחֵל יָת שְׁמָא דֶאֱלָהָךְ אֲנָא יְיָ:",
+      "en": "You shall not hand over any of your children to be passed through [the worship of] Molech and you shall not defile the Name of your God, I am Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:22",
+      "he": "וְעִם דְּכוּרָא לָא תִשְׁכּוּב מִשְׁכְּבֵי אִתְּתָא תּוֹעֶבְתָּא הִיא:",
+      "en": "You shall not lie with a male [conjugally] as one lies with a woman; it is an abomination.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:23",
+      "he": "וּבְכָל בְּעִירָא לָא תִתֵּן שְׁכֻבְתָּךְ לְאִסְתָּאָבָא בַהּ וְאִתְּתָא לָא תְקוּם קֳדָם בְּעִירָא לְמִשְׁלַט בַּהּ תִּבְלָא הוּא:",
+      "en": "Together with any animal you shall not lie [conjugally] to defile yourself with it. A woman shall not stand before an animal to copulate with it [control her]; it is defilement.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:24",
+      "he": "לָא תִסְתַּאֲבוּן בְּכָל אִלֵּין אֲרֵי בְכָל אִלֵּין אִסְתָּאָבוּ עַמְמַיָּא דִּי אֲנָא מַגְלֵי מִן קֳדָמֵיכוֹן:",
+      "en": "Do not defile yourselves in any one of these [ways], for in all of these [ways] the nations have become defiled [those] that I am driving away [exiling] from before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:25",
+      "he": "וְאִסְתָּאָבַת אַרְעָא וְאַסְעָרִית חוֹבַהּ עֲלַהּ וְרוֹקֵינַת אַרְעָא יָת יָתְבָהָא:",
+      "en": "The land became defiled and I judged its iniquities upon it and the land expelled its inhabitants.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:26",
+      "he": "וְתִטְּרוּן אַתּוּן יָת קְיָמַי וְיָת דִּינַי וְלָא תַעְבְּדוּן מִכֹּל תּוֹעֶבְתָּא הָאִלֵּין יַצִּיבָא וְגִיּוֹרָא דְּיִתְגַּיְּרוּן בֵּינֵיכוֹן:",
+      "en": "You shall adhere to My statutes and to My laws and not do any of these abominations [both] the native born [settled one] and the proselyte who resides [converts] among you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:27",
+      "he": "אֲרֵי יָת כָּל תּוֹעֶבְתָּא הָאִלֵּין עֲבָדוּ אֱנָשֵׁי אַרְעָא דִּי קֳדָמֵיכוֹן וְאִסְתָּאָבַת אַרְעָא:",
+      "en": "For all of these abominations were done by the people of the land who came before you and the land became defiled.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:28",
+      "he": "וְלָא תְרוֹקֵן אַרְעָא יָתְכוֹן בְּסָאֳבֵיכוֹן יָתַהּ כְּמָא דְרוֹקֵינַת יָת עַמְמַיָּא דִּי קֳדָמֵיכוֹן:",
+      "en": "[So that] the land not expel you when you defile it as it expelled the nation [nations] before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:29",
+      "he": "אֲרֵי כָּל דִּי יַעְבֵּד מִכֹּל תּוֹעֶבְתָּא הָאִלֵּין וְיִשְׁתֵּיצוּן נַפְשָׁתָא דִיַעְבְּדוּן מִגּוֹ עַמְּהוֹן:",
+      "en": "For anyone who will do any of these abominations, their souls shall be cut off, those who do these things, from among their people.",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:30",
+      "he": "וְתִטְּרוּן יָת מַטְּרַת מֵימְרִי בְּדִיל דְּלָא לְמֶעְבַּד מִנִּימוֹסֵי תוֹעֶבְתָּא דְּאִתְעֲבָדָא קֳדָמֵיכוֹן וְלָא תִסְתַּאֲבוּן בְּהוֹן אֲנָא יְיָ אֱלָהָכוֹן:",
+      "en": "You shall keep my watch [the watch of My Word] that you shall not do any of the abominable customs that were done before you and you will not defile yourselves through them. I am Adonoy, your God.",
+      "fr": ""
+    }
+  ]
+}

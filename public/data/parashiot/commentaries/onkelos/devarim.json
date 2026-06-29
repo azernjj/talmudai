@@ -1,0 +1,637 @@
+{
+  "name": "Devarim",
+  "range": "Deuteronomy 1:1-3:22",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Deuteronomy 1:1",
+      "he": "אִלֵּין פִּתְגָּמַיָּא דִּי מַלִּיל משֶׁה עִם כָּל יִשְׂרָאֵל בְּעִבְרָא דְּיַרְדְּנָא אוֹכַח יָתְהוֹן עַל דְּחָבוּ בְמַדְבְּרָא וְעַל דְּאַרְגִּיזוּ בְמֵישְׁרָא לָקֳבֵל יַם סוּף בְּפָארָן דְּאִתַּפָּלוּ עַל מַנָּא וּבַחֲצֵרוֹת דְּאַרְגִּיזוּ עַל בִּשְׂרָא וְעַל דַּעֲבָדוּ עֵגַל דִּדְהָב:",
+      "en": "These are the words that Moshe addressed to all of Yisroel across the Yardein; [as he had] [reproved them for they had sinned] in the wilderness—[and provoked (Hashem) to anger] on the Arava plain facing [the Sea of] Suf; [and as he had] between Poron [where they scorned the mon] and Tofel and Lovon [where they provoked to anger regarding meat] and Chatzeiros and Di Zohov [because they made the Golden Calf].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:2",
+      "he": "מַהֲלַךְ חַד עֲשַׂר יוֹמִין מֵחֹרֵב אֹרַח טוּרָא דְשֵׂעִיר עַד רְקַם גֵּיאָה:",
+      "en": "[A journey of] eleven days [traveling time] from Choreiv by the Mount Seir road, to Kadeish Barnei’a [Rekam Geyah].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:3",
+      "he": "וַהֲוָה בְּאַרְבְּעִין שְׁנִין בְּחַד עֲשַׂר יַרְחָא בְּחַד לְיַרְחָא מַלִּיל משֶׁה עִם בְּנֵי יִשְׂרָאֵל כְּכֹל דִּי פַקִּיד יְיָ יָתֵיהּ לְוָתְהוֹן:",
+      "en": "[Beginning] in the fortieth year, in the eleventh month, on the first of the month, Moshe addressed Bnei Yisroel with every detail that Adonoy had commanded him [to say] to them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:4",
+      "he": "בָּתַר דִּמְחָא יָת סִיחוֹן מַלְכָּא דֶאֱמֹרָאָה דְּיָתֵב בְּחֶשְׁבּוֹן וְיָת עוֹג מַלְכָּא דְמַתְנָן דְּיָתֵב בְּעַשְׁתָּרֹת בְּאֶדְרֶעִי:",
+      "en": "After he had smitten Sichon, King of the Emorites, who was living in Cheshbon; and Og, King of the Boshon [Masnan], who was living in Ashtoros, in Edrei.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:5",
+      "he": "בְּעִבְרָא דְּיַרְדְּנָא בְּאַרְעָא דְמוֹאָב שָׁרִי משֶׁה פָּרֵשׁ יָת אוּלְפַן אוֹרַיְתָא הָדָא לְמֵימָר:",
+      "en": "Across the Yardein in the land of Moav, Moshe began to elucidate [the teachings of] this Torah as follows:",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:6",
+      "he": "יְיָ אֱלָהָנָא מַלִּיל עִמָּנָא בְּחֹרֵב לְמֵימָר סַגִּי לְכוֹן דִּיתֶבְתּוּן בְּטוּרָא הָדֵין:",
+      "en": "Adonoy, our God, addressed us at Choreiv, saying, ‘‘Enough of your living at this mountain!",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:7",
+      "he": "אִתְפְּנוּ וְטוּלוּ לְכוֹן וְעוּלוּ לְטוּרָא דֶאֱמֹרָאָה וּלְכָל מָגִירוֹהִי בְּמֵישְׁרַיָּא בְטוּרָא וּבִשְׁפֶלְתָּא וּבִדְרוֹמָא וּבִסְפַר יַמָּא אַרְעָא דִכְנַעֲנָאָה וְלִבְנָן עַד נַהֲרָא רַבָּא נַהֲרָא פְרָת:",
+      "en": "Turn and travel for yourselves and arrive at the Emorite hill [region] and at all its neighbors [habitable places]—on the plain, on the mountain, and in the lowland, and in the Negev, and on the seacoast; the land of the Canaanites and the Lebanon, up to the great river, the Euphrates River.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:8",
+      "he": "חֲזֵי דִּיהָבִית קֳדָמֵיכוֹן יָת אַרְעָא עוּלוּ וְאַחֲסִינוּ יָת אַרְעָא דִּי קַיַּם יְיָ לַאֲבָהָתְכוֹן לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לְמִתַּן לְהוֹן וְלִבְנֵיהוֹן בַּתְרֵיהוֹן:",
+      "en": "See, I have set the land before you; come and inherit the land that Adonoy swore to your forefathers, to Avrohom, to Yitzchok, and to Yaakov, to give them and their descendants after them.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:9",
+      "he": "וַאֲמָרִית לְכוֹן בְּעִדָּנָא הַהִיא לְמֵימָר לֵית אֲנָא יָכִיל בִּלְחוֹדִי לְסוֹבָרָא יָתְכוֹן:",
+      "en": "I said to you at that time saying, ‘‘I cannot carry [bear] you by myself.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:10",
+      "he": "יְיָ אֱלָהָכוֹן אַסְגֵּי יָתְכוֹן וְהָא אִיתֵיכוֹן יוֹמָא דֵין כְּכוֹכְבֵי שְׁמַיָּא לְמִסְגֵּי:",
+      "en": "Adonoy, your God, has multiplied you, and you are today as numerous the stars in the sky.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:11",
+      "he": "יְיָ אֱלָהָא דַאֲבָהָתְכוֹן יוֹסֵף עֲלֵיכוֹן כְּוָתְכוֹן אֲלַף זִמְנִין וִיבָרֵךְ יָתְכוֹן כְּמָא דִי מַלִּיל לְכוֹן:",
+      "en": "Adonoy, God of your forefathers, will add to you one thousandfold, and will bless you as He spoke about you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:12",
+      "he": "אֶכְדֵּין אֵסוֹבַר בִּלְחוֹדִי טָרְחֲכוֹן וְעִסְקֵיכוֹן וְדִינְכוֹן:",
+      "en": "How can I carry [bear] alone your troublesomeness, your burdensomeness [business], and your contentiousness [judgments]?",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:13",
+      "he": "הָבוּ לְכוֹן גֻּבְרִין חַכִּימִין וְסוּכְלְתָנוּן וּמַדְּעָן לְשִׁבְטֵיכוֹן וֶאֱמַנִּנּוּן רֵישִׁין עֲלֵיכוֹן:",
+      "en": "Provide yourselves men, wise and understanding and renowned to your tribes, and I will designate them your leaders [appoint them to be chiefs over you].’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:14",
+      "he": "וַאֲתֶבְתּוּן יָתִי וַאֲמַרְתּוּן תַּקִּין פִּתְגָּמָא דִּי מַלֶּלְתָּא לְמֶעְבָּד:",
+      "en": "You replied to me and said, ‘‘[It is a] good thing [right] that you said to do.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:15",
+      "he": "וּדְבָרִית יָת רֵישֵׁי שִׁבְטֵיכוֹן גֻּבְרִין חַכִּימִין וּמַדְּעָן וּמַנֵּתִי יָתְהוֹן רֵישִׁין עֲלֵיכוֹן רַבָּנֵי אַלְפִין וְרַבָּנֵי מָאֲוָתָא וְרַבָּנֵי חַמְשִׁין וְרַבָּנֵי עִשּׂוֹרְיָתָא וְסָרְכִין לְשִׁבְטֵיכוֹן:",
+      "en": "I took the leaders of your tribes, men wise and renowned, and designated [appointed] them leaders over you: masters of thousands and masters of hundreds, and masters of fifties and masters of tens, and court officers for your tribes.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:16",
+      "he": "וּפַקֵּדִית יָת דַּיָנֵיכוֹן בְּעִדָּנָא הַהִיא לְמֵימָר שְׁמָעוּ בֵּין אֲחֵיכוֹן וּתְדוּנוּן קוּשְׁטָא בֵּין גַּבְרָא וּבֵין אֲחוּהִי וּבֵין גִּיּוֹרֵיהּ:",
+      "en": "I commanded your judges at that time, to say, ‘‘Listen between your brothers and you are to judge right between a man and his brother and between his complainant.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:17",
+      "he": "לָא תִשְׁתְּמוֹדְעוּן אַפִּין בְּדִינָא מִלֵּי זְעֵרָא כְרַבָּא תִּשְׁמְעוּן לָא תִדְחֲלוּן מִן קֳדָם גַּבְרָא אֲרֵי דִינָא דַּיְיָ הוּא וּפִתְגָּמָא דִּי יִקְשֵׁי מִנְּכוֹן תְּקָרְבוּן לְוָתִי וְאֶשְׁמְעִנֵּיהּ:",
+      "en": "Do not show favor in judgement; [words] small and great alike will you hear out; do not fear any man; for justice belongs to God. And the matter that will be too difficult for you, present to me and I will hear it.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:18",
+      "he": "וּפַקֵּדִית יָתְכוֹן בְּעִדָּנָא הַהִיא יָת כָּל פִּתְגָּמַיָּא דִּי תַעְבְּדוּן:",
+      "en": "I commanded you at that time all the things that you are to do.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:19",
+      "he": "וּנְטַלְנָא מֵחֹרֵב וְהַלִּיכְנָא יָת כָּל מַדְבְּרָא רַבָּא וּדְחִילָא הַהוּא דִּי חֲזֵיתוּן אֹרַח טוּרָא דֶאֱמֹרָאָה כְּמָא דִי פַקִּיד יְיָ אֱלָהָנָא יָתָנָא וַאֲתֵינָא עַד רְקַם גֵּיאָה:",
+      "en": "We traveled from Choreiv and walked the entire great wilderness, that awesome one that you saw, in the direction of the Emorite hill [region] as Adonoy, our God, commanded us; and we arrived at Kadeish Barnei’a [Rekam Geyah].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:20",
+      "he": "וַאֲמָרִית לְכוֹן אֲתֵיתוּן עַד טוּרָא דֶאֱמֹרָאָה דַּיְיָ אֱלָהָנָא יָהֵב לָנָא:",
+      "en": "I said to you, ‘‘You have arrived at the Emorite hill [region] that Adonoy, our God, is giving us.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:21",
+      "he": "חֲזֵי יְהַב יְיָ אֱלָהָךְ קֳדָמָךְ יָת אַרְעָא סַק אַחֲסַן כְּמָא דִי מַלִּיל יְיָ אֱלָהָא דַאֲבָהָתָךְ לָךְ לָא תִדְחַל וְלָא תִתְּבָר:",
+      "en": "See! Adonoy, our God, has set the land before you. Go up, inherit [it] as promised by Adonoy, the God of your forefathers, about you; do not fear and do not tremble.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:22",
+      "he": "וּקְרֶבְתּוּן לְוָתִי כֻּלְּכוֹן וַאֲמַרְתּוּן נִשְׁלַח גֻּבְרִין קֳדָמָנָא וִיאַלֲלוּן לָנָא יָת אַרְעָא וִיתִיבוּן יָתָנָא פִּתְגָּמָא יָת אָרְחָא דִּי נִסֵּק בַּהּ וְיָת קִרְוַיָּא דִּי נֵעוֹל לְהֵן:",
+      "en": "You approached me, all of you, and said, ‘‘Let us send men ahead of us to spy out the land for us, and let them bring back word to us: the route we are to go up on and the cities we will be coming to.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:23",
+      "he": "וּשְׁפַר בְּעֵינַי פִּתְגָּמָא וּדְבָרִית מִנְּכוֹן תְּרֵין עֲשַׂר גֻּבְרִין גַּבְרָא חַד לְשִׁבְטָא:",
+      "en": "The idea pleased me, so I took from you twelve men, one man per tribe.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:24",
+      "he": "וְאִתְפְּנִיּוּ וּסְלִיקוּ לְטוּרָא וַאֲתוֹ עַד נַחֲלָא דְּאֶתְכָּלָא וְאַלִּילוּ יָתַהּ:",
+      "en": "They turned and went uphill and arrived at Wadi Eshkol, and they spied it out.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:25",
+      "he": "וּנְסִיבוּ בִידֵיהוֹן מֵאִבָּא דְאַרְעָא וַאֲחִיתוּ לָנָא וַאֲתִיבוּ יָתָנָא פִּתְגָּמָא וַאֲמָרוּ טָבָא אַרְעָא דַיְיָ אֱלָהָנָא יָהֵב לָנָא:",
+      "en": "They took in their hand some fruit of the land and brought [it] down to us. They brought back word to us and said, ‘‘Good is the land that Adonoy, our God, is giving us.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:26",
+      "he": "וְלָא אֲבִיתוּן לְמִסַּק וְסָרֶבְתּוּן עַל מֵימְרָא דַיְיָ אֱלָהָכוֹן:",
+      "en": "But you were unwilling to go up, and you defied [were rebellious against the word of] Adonoy, your God.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:27",
+      "he": "וְאִתְרַעַמְתּוּן בְּמַשְׁכְּנֵיכוֹן וַאֲמַרְתּוּן בִּדְסָנֵי יְיָ יָתָנָא אַפְּקָנָא מֵאַרְעָא דְמִצְרָיִם לְמִמְסַר יָתָנָא בִּידָא דֶאֱמֹרָאָה לְשֵׁצָיוּתָנָא:",
+      "en": "You grumbled in your tents and said, ‘‘Because of Adonoy’s hatred of us, He took us out of the land of Egypt to put us in the hand of the Emorite to destroy us.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:28",
+      "he": "לְאָן אֲנַחְנָא סָלְקִין אֲחָנָא תְבָרוּ יָת לִבָּנָא לְמֵימַר עַם סַגִּי וְתַקִּיף מִנָּנָא קִרְוִין רַבְרְבָן וּכְרִיכָן עַד צֵית שְׁמַיָּא וְאַף בְּנֵי גִבָּרָאֵי חֲזֵינָא תַמָּן:",
+      "en": "Where are we going up to? Our brothers have shattered our hopes [broken our hearts] by saying, ‘A people greater and more powerful than we, cities great and fortified sky-high, and also descendants of the Anakim [giants]—did we see there.’’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:29",
+      "he": "וַאֲמָרִית לְכוֹן לָא תִתָּבְרוּן וְלָא תִדְחֲלוּן מִנְּהוֹן:",
+      "en": "I said to you, ‘‘Do not crumble [be broken (hearted)] and do not fear them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:30",
+      "he": "יְיָ אֱלָהֲכוֹן דִּמְדַבַּר קֳדָמֵיכוֹן הוּא יְגִיחַ לְכוֹן כְּכֹל דִּי עֲבַד עִמְּכוֹן בְּמִצְרַיִם לְעֵינֵיכוֹן:",
+      "en": "Adonoy, your God, who goes before you [leads you], He will wage war for you, as in everything that He did with you in Egypt before your eyes;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:31",
+      "he": "וּבְמַדְבְּרָא דִּי חֲזֵיתָא דִּי סוֹבְרָךְ יְיָ אֱלָהָךְ כְּמָא דִי מְסוֹבַר גְּבַר יָת בְּרֵיהּ בְּכָל אָרְחָא דִּי הַלֶּכְתּוּן עַד מֵיתֵיכוֹן עַד אַתְרָא הָדֵין:",
+      "en": "and in the wilderness, as you have seen, (where) Adonoy, your God, carried you the way a man carries his son all along the road you went until you arrived at this place.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:32",
+      "he": "וּבְפִתְגָּמָא הָדֵין לֵיתֵיכוֹן מְהֵימְנִין בְּמֵימְרָא דַיְיָ אֱלָהֲכוֹן:",
+      "en": "Yet in this matter, you do not trust [the word of] Adonoy, your God,",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:33",
+      "he": "דִּי מְדַבֵּר קֳדָמֵיכוֹן בְּאָרְחָא לְאַתְקְנָאָה לְכוֹן אֲתַר בֵּית מֵישְׁרִי לְאַשְׁרָיוּתְכוֹן בְּעַמּוּדָא דְאֶשָּׁתָא בְּלֵילְיָא לְאַחֲזָיוּתְכוֹן בְּאָרְחָא דִּי תְהָכוּן בַּהּ וּבְעַמּוּדָא דַעֲנָנָא בִּימָמָא:",
+      "en": "Who has been going ahead of you [leading you] on the road to seek [prepare] for you a place to encamp; with the [pillar of] fire at night to show you the way for you to go on, and with the [pillar of] cloud by day.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:34",
+      "he": "וּשְׁמִיעַ קֳדָם יְיָ יָת קַל פִּתְגָּמֵיכוֹן וּרְגֵז וְקַיַּם לְמֵימָר:",
+      "en": "[Before] Adonoy [was] heard the intent of your words and angrily swore, to say:",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:35",
+      "he": "אִם יֶחֱזֵי גְבַר בְּגֻבְרַיָּא הָאִלֵּין דָּרָא בִישָׁא הָדֵין יָת אַרְעָא טַבְתָא דִּי קַיֵּמִית לְמִתַּן לַאֲבָהָתְכוֹן:",
+      "en": "‘‘That [no] man will see—of these men, this wicked generation—the good land that I swore to give to your forefathers.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:36",
+      "he": "אֶלָּהֵן כָּלֵב בַּר יְפֻנֶּה הוּא יֶחֱזִנַּהּ וְלֵיהּ אֶתֵּן יָת אַרְעָא דִּי דְרַךְ בַּהּ וְלִבְנוֹהִי חֲלַף דִּי אַשְׁלִים בָּתַר דַּחַלְתָּא דַיְיָ:",
+      "en": "Except for Koleiv ben Yefuneh, who will see it, and to whom I will give the land that he trod upon and to his sons, because he perfected himself [was complete] in fear of Adonoy.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:37",
+      "he": "אַף עֲלַי הֲוָה רְגַז מִן קֳדָם יְיָ בְּדִילְכוֹן לְמֵימָר אַף אַתְּ לָא תֵעוֹל תַּמָּן:",
+      "en": "Also at [against] me was Adonoy angry because of you, to say, ‘‘You, too, will not arrive there.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:38",
+      "he": "יְהוֹשֻׁעַ בַּר נוּן דְּקָאֵם קֳדָמָךְ הוּא יֵעוֹל תַּמָּן יָתֵיהּ תַּקֵּף אֲרֵי הוּא יַחְסְנִנַּהּ לְיִשְׂרָאֵל:",
+      "en": "Yehoshua son of Nun, who attends you, he will arrive there. Encourage him, for he will apportion it to Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:39",
+      "he": "וְטַפְלְכוֹן דִּי אֲמַרְתּוּן לְבִזָּא יְהוֹן וּבְנֵיכוֹן דִּי לָא יְדָעוּ יוֹמָא דֵין טַב וּבִישׁ אִנּוּן יַעֲלוּן לְתַמָּן וּלְהוֹן אֶתְּנִנַּהּ וְאִנּוּן יֵירְתֻנַּהּ:",
+      "en": "As to your infants, about whom you said, ‘They will become spoils,’ and your children who cannot distinguish today good from evil, they will arrive there; and to them will I give it and they will inherit it.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:40",
+      "he": "וְאַתּוּן אִתְפְּנִיּוּ לְכוֹן וְטוּלוּ לְמַדְבְּרָא אֹרַח יַמָּא דְסוּף:",
+      "en": "As for you, turn yourselves [around], and travel into the wilderness by the Yam Suf road.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:41",
+      "he": "וַאֲתֶבְתּוּן וַאֲמַרְתּוּן לִי חַבְנָא קֳדָם יְיָ אֲנַחְנָא נִסַּק וּנְגִיחַ בֵּיהּ קְרָב כְּכֹל דִּי פַקְּדָנָא יְיָ אֱלָהָנָא וְזָרֶזְתּוּן גְּבַר יָת מָנֵי קְרָבֵיהּ וְשָׁרֵיתוּן לְמִסַּק לְטוּרָא:",
+      "en": "You replied and said to me, ‘‘We have sinned to [before] Adonoy. We will go up and wage war in [fulfillment of] all that Adonoy, our God commanded us.’’ And each of you girded his weapons [of war], and you got ready [began] to go up the mountain.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:42",
+      "he": "וַאֲמַר יְיָ לִי אֱמַר לְהוֹן לָא תִסְּקוּן וְלָא תְגִיחוּן קְרָב אֲרֵי לֵית שְׁכִנְתִּי שָׁרְיָא בֵינֵיכוֹן וְלָא תִּתָּבְרוּן קֳדָם בַּעֲלֵי דְבָבֵיכוֹן:",
+      "en": "Adonoy said to me, ‘‘Say to them, ‘Do not go up and do not wage war, for I am not [My Shechinah does not dwell] in your midst; so that you will not be shattered by your enemies.’’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:43",
+      "he": "וּמַלֵּלִית עִמְּכוֹן וְלָא קַבֶּלְתּוּן וְסָרֶבְתּוּן עַל גְּזֵרַת מֵימְרָא דַיְיָ וְאַרְשַׁעְתּוּן וּסְלֶקְתּוּן לְטוּרָא:",
+      "en": "I told you, but you did not obey. You defied [the decree of the word of] Adonoy, and deliberately went up the hill.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:44",
+      "he": "וּנְפַק אֱמֹרָאָה דְּיָתֵב בְּטוּרָא הַהוּא לְקַדָּמוּתְכוֹן וּרְדָפוּ יָתְכוֹן כְּמָא דִי נַתְּזָן דַּבַּרְיָתָא וּטְרָדוּ יָתְכוֹן בְּשֵׂעִיר עַד חָרְמָה:",
+      "en": "The Emorites came out—those who live in those hills—toward you, and chased you as the bees do [are dispersed]; and they crushed you in Se’ir till Chorma.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:45",
+      "he": "וְתַבְתּוּן וּבְכִיתוּן קֳדָם יְיָ וְלָא קַבִּיל יְיָ צְלוֹתְכוֹן וְלָא אַצֵּית לְמִלֵּיכוֹן:",
+      "en": "You returned and wept before Adonoy, but Adonoy did not accept your prayer; He paid no attention to you [did not hearken to your words].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 1:46",
+      "he": "וִיתֶבְתּוּן בִּרְקָם יוֹמִין סַגִּיאִין כְּיוֹמַיָּא דִּי יְתֶבְתּוּן:",
+      "en": "You lived in Kodeish [Rekam] many years, like the years you lived [elsewhere].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:1",
+      "he": "וְאִתְפְּנֵינָא וּנְטַלְנָא לְמַדְבְּרָא אֹרַח יַמָּא דְסוּף כְּמָא דִי מַלִּיל יְיָ עִמִּי וְאַקֵּפְנָא יָת טוּרָא דְשֵׂעִיר יוֹמִין סַגִּיאִין:",
+      "en": "We turned and traveled into the wilderness by way of the Reed Sea [route] as Adonoy had told me, and we circled Mount Seir a long time.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:2",
+      "he": "וַאֲמַר יְיָ לִי לְמֵימָר:",
+      "en": "Adonoy said to me to say,",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:3",
+      "he": "סַגִּי לְכוֹן דְּאַקֶּפְתּוּן יָת טוּרָא הָדֵין אִתְפְּנִיּוּ לְכוֹן צִפּוּנָא:",
+      "en": "‘‘Enough of you circling this mountain! Turn yourselves northward.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:4",
+      "he": "וְיָת עַמָּא פַּקֵּד לְמֵימַר אַתּוּן עָבְרִין בִּתְחוּם אֲחוּכוֹן בְּנֵי עֵשָׂו דְּיָתְבִין בְּשֵׂעִיר וְיִדְחֲלוּן מִנְּכוֹן וְתִסְתַּמְּרוּן לַחֲדָא:",
+      "en": "And command the people as follows, ‘‘You are crossing into the border of your brothers, the descendants of Eisov who live in Seir. They will be afraid of you, so you must be extrememly cautious.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:5",
+      "he": "לָא תִתְגָּרוּן בְּהוֹן אֲרֵי לָא אֶתֵּן לְכוֹן מֵאַרְעֲהוֹן עַד מִדְרַךְ פַּרְסַת רִגְלָא אֲרֵי יְרֻתָּא לְעֵשָׂו יְהָבִית יָת טוּרָא דְשֵׂעִיר:",
+      "en": "Do not incite them. For I will not give you of their land as much as a footstep, because for Eisov’s inheritance have I designated Mount Seir.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:6",
+      "he": "עִבוּרָא תִזְבְּנוּן מִנְּהוֹן בְּכַסְפָּא וְתֵיכְלוּן וְאַף מַיָּא תִּכְרוּן מִנְּהוֹן בְּכַסְפָּא וְתִשְׁתּוּן:",
+      "en": "Food are you to buy from them with money and eat [it]; also water are you to purchase from them with money and drink [it.]",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:7",
+      "he": "אֲרֵי יְיָ אֱלָהָךְ בֵּרְכָךְ בְּכָל עֹבַד יְדָךְ סַפֶּק לָךְ צָרְכָּךְ בְּמֵהֱכָךְ לְמַדְבְּרָא רַבָּא הָדֵין דְּנַן אַרְבְּעִין שְׁנִין מֵימְרָא דַיְיָ אֱלָהָךְ בְּסַעֲדָּךְ לָא מְנַעְתָּא מִדָּעַם:",
+      "en": "For Adonoy, your God, has blessed you in all your handiwork; He has been intimately concerned with your [given you sufficient for your needs for] traversing this great wilderness. It is now forty years [that] [the word of] Adonoy, your God, is accompanying you [has aided you]; you have lacked nothing.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:8",
+      "he": "וַעֲבַרְנָא מִקֳּדָם אֲחוּנָא בְנֵי עֵשָׂו דְּיָתְבִין בְּשֵׂעִיר מֵאֹרַח מֵישְׁרָא מֵאֵילַת וּמֵעֶצְיוֹן גָּבֶר וְאִתְפְּנֵינָא וַעֲבַרְנָא אֹרַח מַדְבְּרָא דְמוֹאָב:",
+      "en": "We passed over from our brothers, the descendants of Eisov, who live in Seir, from the Arava road, from Eilas and from Etzyon-Gover. We turned and passed over by way of the wilderness of Moav.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:9",
+      "he": "וַאֲמַר יְיָ לִי לָא תְצוּר עַל מוֹאָבָאֵי וְלָא תִתְגָּרֵי לְמֶעְבַּד עִמְּהוֹן קְרָב אֲרֵי לָא אֶתֵּן לָךְ מֵאַרְעֵיהּ יְרֻתָּא אֲרֵי לִבְנֵי לוֹט יְהָבִית יָת לְחָיָת יְרֻתָּא:",
+      "en": "Adonoy said to me, ‘‘Do not besiege Moav and do not intimidate them with [to make] war [with them]. For I will not give you [any] of his land as inheritance, for to Lot’s descendants have I given Or [Lechoyas] as inheritance.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:10",
+      "he": "אֵימְתָנֵי מִלְּקַדְמִין יְתִיבוּ בַהּ עַם רַב וְסַגִּי וְתַקִּיף כְּגִבָּרַיָּא:",
+      "en": "The Eimim originally lived there—a people great and numerous and powerful like the Anokim [giants].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:11",
+      "he": "גִּבָּרָאֵי מִתְחַשְּׁבִין אַף אִנּוּן כְּגִבָּרָאֵי וּמוֹאָבָאֵי יִקְרַן לְהוֹן אֵימְתָנֵי:",
+      "en": "They, too, were considered Refaim [giants] like the Anokim [giants]; the Moabites called them Eimim.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:12",
+      "he": "וּבְשֵׂעִיר יְתִיבוּ חֹרָאֵי מִלְּקַדְמִין וּבְנֵי עֵשָׂו תָּרֵכֻנּוּן וְשֵׁצָיֻנּוּן מִקָּדָמֵיהוֹן וִיתִיבוּ בְּאַתְרֵיהוֹן כְּמָא דִי עֲבַד יִשְׂרָאֵל לְאַרְעָא יְרֻתָּתֵיהּ דִּיהַב יְיָ לְהוֹן:",
+      "en": "And in Seir lived the Chorim originally, but the descendants of Eisov inherited them and drove them out [to make room] for themselves and settled in their stead [places], as Yisroel will have done to the land of its inheritance that Adonoy has given them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:13",
+      "he": "כְּעַן קוּמוּ וְעִבָרוּ לְכוֹן יָת נַחֲלָא דְזָרֶד וַעֲבַרְנָא יָת נַחֲלָא דְזָרֶד:",
+      "en": "Now, arise and cross for yourselves Wadi Zered.’’ And we crossed Wadi Zered.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:14",
+      "he": "וְיוֹמַיָּא דִּי הַלֶּכְנָא מֵרְקַם גֵּיאָה עַד דִּי עֲבַרְנָא יָת נַחֲלָא דְזֶרֶד תְּלָתִין וְתַמְנֵי שְׁנִין עַד דְּסַף כָּל דָּרָא גֻּבְרֵי מְגִיחֵי קְרָבָא מִגּוֹ מַשְׁרִיתָא כְּמָא דִי קַיִּים יְיָ לְהוֹן:",
+      "en": "The time that [it took] us to go from Kadeish Barnei’a [Rekam Geyah] until we crossed Wadi Zered was thirty-eight years, until the end of the entire generation, the men of war, from within the camp, as Adonoy had sworn about them.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:15",
+      "he": "וְאַף מָחָא מִן קֳדָם יְיָ הֲוַת בְּהוֹן לְשֵׁצָיוּתְהוֹן מִגּוֹ מַשְׁרִיתָא עַד דִּשְׁלִימוּ:",
+      "en": "[From before] Adonoy’s plague, too, attacked them to rout [destroy] them from within the camp, until their end.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:16",
+      "he": "וַהֲוָה כַּד שְׁלִימוּ כָּל גֻּבְרֵי מְגִיחֵי קְרָבָא לִמְמַת מִגּוֹ עַמָּא:",
+      "en": "When they had finished—all the men of war—to die out from among the people;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:17",
+      "he": "וּמַלִּיל יְיָ עִמִּי לְמֵימָר:",
+      "en": "Adonoy addressed me, to say,",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:18",
+      "he": "אַתְּ עָבֵר יוֹמָא דֵין יָת תְּחוּם מוֹאָב יָת לְחָיָת:",
+      "en": "‘‘You are today crossing the border of Moav—at ‘Or [Lechoyas].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:19",
+      "he": "וְתִקְרַב לָקֳבֵל בְּנֵי עַמּוֹן לָא תְצוּר עֲלֵיהוֹן וְלָא תִתְגָּרֵי לְמֶעְבַּד עִמְּהוֹן קְרָב אֲרֵי לָא אֶתֵּן מֵאַרְעָא בְנֵי עַמּוֹן לָךְ יְרֻתָּא אֲרֵי לִבְנֵי לוֹט יְהָבִתַּהּ יְרֻתָּא:",
+      "en": "When you approach [the area] facing the descendants of Ammon, do not besiege [make war with] them and do not intimidate them, for I will not give you of the land of the descendants of Ammon an inheritance, because to the descendants of Lot have I given it as an inheritance.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:20",
+      "he": "אַרְעָא גִבָּרַיָּא מִתְחַשְּׁבָא אַף הִיא גִּבָּרָאֵי יָתִיבוּ בַהּ מִלְּקַדְמִין וְעַמּוֹנָאֵי קְרַן לְהוֹן חֻשְׁבָּנֵי:",
+      "en": "It, too, is considered a land of giants; giants having lived in it originally—the Ammonites called them Zamzumim [Chushbani].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:21",
+      "he": "עַם רַב וְסַגִּי וְתַקִּיף כְּגִבָּרַיָּא וְשֵׁצִנּוּן יְיָ מִקֳּדָמֵיהוֹן וְתָרֵכֻנּוּן וִיתִיבוּ בְאַתְרֵיהוֹן:",
+      "en": "A people great and numerous and powerful like the Anokim [giants]. Adonoy destroyed them from before them, and they drove them out and settled in their stead [place].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:22",
+      "he": "כְּמָא דִי עֲבַד לִבְנֵי עֵשָׂו דְּיָתְבִין בְּשֵׂעִיר דִּי שֵׁצֵי יָת חוֹרָאֵי מִקֳּדָמֵיהוֹן וְתָרֵכֻנּוּן וִיתִיבוּ בְאַתְרֵיהוֹן עַד יוֹמָא הָדֵין:",
+      "en": "As He had done to the descendants of Eisov living in Seir, from before whom He destroyed the Chori, and they drove them out and settled in their stead [places] until today.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:23",
+      "he": "וְעַוָּאֵי דְּיָתְבִין בִּדְפִיחַ עַד עַזָּה קַפּוּטְקָאֵי דִּנְפָקוּ מִקַּפּוּטְקַיָּא שֵׁצֻנּוּן וִיתִיבוּ בְאַתְרֵיהוֹן:",
+      "en": "And the Avim who had been living in Chatzeirim [Defiach] till Azah—Caftorim [Kaputka’ites] who had left Caftor [Kaputkayah] destroyed them and settled in their stead [place].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:24",
+      "he": "קוּמוּ טוּלוּ וְעִבָרוּ יָת נַחֲלָא דְאַרְנֹן חֲזֵי דִמְסָרִית בִּידָךְ יָת סִיחוֹן מַלְכָּא דְחֶשְׁבּוֹן אֱמֹרָאָה וְיָת אַרְעֵיהּ שָׁרֵי לְתָרָכוּתֵיהּ וְאִתְגָּרֵי לְמֶעְבַּד עִמֵּיהּ קְרָבָא:",
+      "en": "Arise to travel, and cross Wadi Arnon. See, I have put into your hand Sichon, King of Cheshbon, the Emorite and his land—begin inheriting [it] by intimidating him with [waging] war [with him].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:25",
+      "he": "יוֹמָא הָדֵין אֱשָׁרֵי לְמִתַּן זֻעְתָּךְ וְדַחַלְתָּךְ עַל אַפֵּי עַמְמַיָּא דִּי תְחוֹת כָּל שְׁמַיָּא דִּי יִשְׁמְעוּן שִׁמְעָךְ וִיזוּעוּן וְיִדְחֲלוּן מִן קֳדָמָךְ:",
+      "en": "Today I begin to place fear of you and awe of you upon the peoples under the whole heaven, so that they will hear your reputation and will shiver and tremble before you.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:26",
+      "he": "וּשְׁלָחִית אִזְגַּדִּין מִמַּדְבְּרָא דִקְדֵמוֹת לְוָת סִיחוֹן מַלְכָּא דְחֶשְׁבּוֹן פִּתְגָּמֵי שְׁלָמָא לְמֵימָר:",
+      "en": "I sent emissaries from the wilderness of Kedeimos to Sichon, King of Cheshbon, with the following peaceful statement:",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:27",
+      "he": "אֵעִבַּר בְּאַרְעָךְ בְּאָרְחָא בְּאָרְחָא אֵזֵל לָא אֶסְטֵי יַמִּינָא וּשְׂמָאלָא:",
+      "en": "‘‘Let me pass through your land. I will travel only on the highway, I will not deviate right or left.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:28",
+      "he": "עִבוּרָא בְכַסְפָּא תְּזַבֶּן לִי וְאֵיכוּל וּמַיָּא בְּכַסְפָּא תִּתֶּן לִי וְאֶשְׁתֵּי לְחוֹד אֵעִבַר בְּרַגְלָי:",
+      "en": "Food for money sell me so I can eat, and water for money sell me so I can drink—just let me cross on foot.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:29",
+      "he": "כְּמָא דִי עֲבָדוּ לִי בְּנֵי עֵשָׂו דְּיָתְבִין בְּשֵׂעִיר וּמוֹאָבָאֵי דְּיָתְבִין בִּלְחָיָת עַד דְּאֵעִבַר יָת יַרְדְּנָא לְאַרְעָא דַּיְיָ אֱלָהָנָא יָהֵב לָנָא:",
+      "en": "As the descendants of Eisov did for me who live in Seir and the Moavites who live in Or [Lechoyas]; until I will have crossed the Yardein into the land that Adonoy, our God, is giving us.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:30",
+      "he": "וְלָא אָבֵי סִיחֹן מַלְכָּא דְחֶשְׁבּוֹן לְמִשְׁבְּקָנָא לְמֶעְבַּר בִּתְחוּמֵיהּ אֲרֵי אַקְשֵׁי יְיָ אֱלָהָךְ יָת רוּחֵיהּ וְתַקִּיף יָת לִבֵּיהּ בְּדִיל לְמִמְסְרֵיהּ בִּידָךְ כְּיוֹמָא הָדֵין:",
+      "en": "But Sichon, King of Cheshbon, was not willing to let us traverse it [would not permit us to pass through his borders], because Adonoy, your God, had hardened his spirit and emboldened his mind in order to put him in your hand this day.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:31",
+      "he": "וַאֲמַר יְיָ לִי חֲזֵי שָׁרֵיתִי לְמִמְסַר קֳדָמָךְ יָת סִיחֹן וְיָת אַרְעֵיהּ שְׁרֵי לְתָרָכוּתֵיהּ לְמֵירַת יָת אַרְעֵיהּ:",
+      "en": "Adonoy said to me, ‘‘See, I have begun defeating before you Sichon and his land. Begin inheriting—to inherit his land.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:32",
+      "he": "וּנְפַק סִיחֹן לְקַדָּמוּתָנָא הוּא וְכָל עַמֵּיהּ לַאֲגָחָא קְרָבָא לְיָהַץ:",
+      "en": "And Sichon went out toward us, he and his entire people, to wage war in Yahatz.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:33",
+      "he": "וּמָסְרֵיהּ יְיָ אֱלָהָנָא קֳדָמָנָא וּמְחֵנָא יָתֵיהּ וְיָת בְּנוֹהִי וְיָת כָּל עַמֵּיהּ:",
+      "en": "Adonoy, our God, defeated [delivered] him before us, and we smote him and his sons and his entire people.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:34",
+      "he": "וּכְבַשְׁנָא יָת כָּל קִרְווֹהִי בְּעִדָּנָא הַהִיא וְגַמַּרְנָא יָת כָּל קִרְוֵי גֻבְרַיָּא וּנְשַׁיָּא וְטַפְלָא לָא אַשְׁאַרְנָא מְשֵׁזֵב:",
+      "en": "We conquered all his cities at that time and annihilated every city’s men, woman, and children; we left no survivor.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:35",
+      "he": "לְחוֹד בְּעִירָא בַּזָּנָא לָנָא וַעֲדִי קִרְוַיָּא דִּי כְבַשְׁנָא:",
+      "en": "Only the animals we plundered for ourselves, and the booty of the cities that we conquered.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:36",
+      "he": "מֵעֲרֹעֵר דִּי עַל כֵּיף נַחֲלָא דְאַרְנֹן וְקַרְתָּא דִי בְנַחֲלָא וְעַד גִּלְעָד לָא הֲוַת קַרְתָּא דִּי תְקֵפַת מִנָּנָא יָת כֹּלָּא מְסַר יְיָ אֱלָהָנָא קֳדָמָנָא:",
+      "en": "From Aroer, which is on the bank of Wadi Arnon—and the city that is in the wadi—up to Gilad, there was no city that was stronger than we. All of it did Adonoy, our God, defeat before us.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 2:37",
+      "he": "לְחוֹד לְאַרְעָא בְנֵי עַמּוֹן לָא קָרֶבְתָּא כָּל כֵּיף נַחֲלָא יוּבְקָא וְקִרְוֵי טוּרָא וְכֹל דִּי פַקִּיד יְיָ אֱלָהָנָא:",
+      "en": "Only the land of the descendants of Ammon did you not attack—all along [the shore of] Wadi Yabok and the hill cities—everything Adonoy, our God, commanded.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:1",
+      "he": "וְאִתְפְּנֵינָא וּסְלֶקְנָא אֹרַח דְּמַתְנָן וּנְפַק עוֹג מַלְכָּא דְּמַתְנָן לְקַדָּמוּתָנָא הוּא וְכָל עַמֵּיהּ לַאֲגָחָא קְרָבָא אֶדְרֶעִי:",
+      "en": "We turned and went up the Boshon [Masnan] road. Og, King of the Boshon [Masnan], went out toward us, he and his entire people, to [wage] war in Edrei.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:2",
+      "he": "וַאֲמַר יְיָ לִי לָא תִדְחַל יָתֵיהּ אֲרֵי בִידָךְ מְסָרִית יָתֵיהּ וְיָת כָּל עַמֵּיהּ וְיָת אַרְעֵיהּ וְתַעְבֶּד לֵיהּ כְּמָא דִי עֲבַדְתָּא לְסִיחֹן מַלְכָּא דֶאֱמֹרָאָה דִּי יָתֵב בְּחֶשְׁבּוֹן:",
+      "en": "Adonoy said to me, ‘‘Do not fear him, for I have put him in your hand, with all his people and his land, and you will do to him as you did to Sichon, King of the Emorites who was living in Cheshbon.’’",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:3",
+      "he": "וּמְסַר יְיָ אֱלָהָנָא בִּידָנָא אַף יָת עוֹג מַלְכָּא דְמַתְנָן וְיָת כָּל עַמֵּיהּ וּמְחִנּוֹהִי עַד דְּלָא אִשְׁתָּאַר לֵיהּ מְשֵׁזֵב:",
+      "en": "Adonoy, our God, put into our hand also Og, King of the Boshon, and his entire people; and we smote him without leaving him a survivor.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:4",
+      "he": "וּכְבַשְׁנָא יָת כָּל קִרְווֹהִי בְּעִדָּנָא הַהִיא לָא הֲוַת קַרְתָּא דִּי לָא נְסִבְנָא מִנְּהוֹן שִׁתִּין קִרְוִין כָּל בֵּית פָּלָךְ טְרָכוֹנָא מַלְכְּוָתָא דְעוֹג בְּמַתְנָן:",
+      "en": "We conquered all his cities at that time; there was no city that we did not take from them—sixty cities, the entire province of Argov [Tarchona], the kingdom of Og in the Boshon.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:5",
+      "he": "כָּל אִלֵּין קִרְוִין כְּרִיכָן מַקְּפָן שׁוּר רָם דִּילְהֶן דָּשִׁין וְעַבְּרִין בַּר מִקִּרְוֵי פַּצְחַיָּא סַגִּי לַחֲדָא:",
+      "en": "All of these were fortified cities with high walls, gates and bolts; besides very many unwalled cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:6",
+      "he": "וְגַמַּרְנָא יָתְהוֹן כְּמָא דִי עֲבַדְנָא לְסִיחֹן מַלְכָּא דְחֶשְׁבּוֹן גַּמַּר כָּל קִרְוֵי גֻבְרַיָּא נְשַׁיָּא וְטַפְלָא:",
+      "en": "We annihilated them as we had done to Sichon, King of Cheshbon, annihilating every city’s men, women, and children.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:7",
+      "he": "וְכָל בְּעִירָא וַעֲדִי קִרְוַיָּא בַּזָּנָא לָנָא:",
+      "en": "And all the animals and the booty of the cities we plundered for ourselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:8",
+      "he": "וּנְסִבְנָא בְּעִדָּנָא הַהִיא יָת אַרְעָא מִיָּדָא תְּרֵין מַלְכֵי אֱמֹרָאָה דִּי בְּעִבְרָא דְיַרְדְּנָא מִנַּחֲלָא דְאַרְנֹן עַד טוּרָא דְחֶרְמוֹן:",
+      "en": "At that time we took the land from the possession of the two Emorite kings who were on the other side of the Yardein, from Wadi Arnon to Mount Chermon.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:9",
+      "he": "צִידֹנָאֵי קְרָאן לְחֶרְמוֹן סִרְיֹן וֶאֱמֹרָאֵי קְרָאן לֵיהּ טוּר תַּלְגָּא:",
+      "en": "The Tzidonites call Chermon Siryon, and the Emorites call it Sneer [Mount Snow].",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:10",
+      "he": "כֹּל קִרְוֵי מֵישְׁרָא וְכָל גִּלְעָד וְכָל דְּמַתְנָן עַד סַלְכָה וְאֶדְרֶעִי קִרְוֵי מַלְכְּוָתָא דְעוֹג בְּמַתְנָן:",
+      "en": "All the cities of the plain and entire Gilod and the entire Boshon [Masnan] to Salcho and Edre’i; cities of Og’s kingdom in the Boshon.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:11",
+      "he": "אֲרֵי לְחוֹד עוֹג מַלְכָּא דְמַתְנָן אִשְׁתָּאַר מִשְּׁאָר גִּבָּרַיָּא הָא עַרְסֵיהּ עַרְסָא דְפַרְזְלָא הֲלָא הִיא בְּרַבַּת בְּנֵי עַמּוֹן תְּשַׁע אַמִּין אָרְכַּהּ וְאַרְבַּע אַמִּין פְּתָיַהּ בְּאַמַת מְלַךְ:",
+      "en": "For only Og, King of the Boshon, survived from the remainder of the giants. Look, his bed—an iron bed—isn’t it in Rabbas of the descendants of Ammon: nine amohs its length and four amohs its width, in a man’s [king’s] amoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:12",
+      "he": "וְיָת אַרְעָא הָדָא יְרִיתְנָא בְּעִדָּנָא הַהִיא מֵעֲרֹעֵר דִּי עַל נַחֲלָא דְאַרְנֹן וּפַלְגּוּת טוּרָא דְגִלְעָד וְקִרְווֹהִי יְהָבִית לְשִׁבְטָא דִרְאוּבֵן וּלְשִׁבְטָא דְגָד:",
+      "en": "And this land we inherited at that time. From Aro’er which is on Wadi Arnon and half of the Gilod hills and its cities—I gave to the Reuvenites and the Gaddites.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:13",
+      "he": "וּשְׁאָר גִּלְעָד וְכָל דְּמַתְנָן מַלְכְּוָתָא דְעוֹג יְהָבִית לְפַלְגוּת שִׁבְטָא דִמְנַשֶּׁה כֹּל בֵּית פָּלַךְ טְרָכוֹנָא לְכָל מַתְנָן הַהוּא מִתְקְרֵי אַרְעָא גִבָּרַיָּא:",
+      "en": "And the rest of the Gilod and all of the Boshon [Masnan], the kingdom of Og, I gave to half the tribe of Menashe. The entire Argov [Tarchona] province throughout the Boshon [Masnan], that is called the land of the giants.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:14",
+      "he": "יָאִיר בַּר מְנַשֶּׁה נְסִיב יָת כָּל בֵּית פָּלַךְ טְרָכוֹנָא עַד תְּחוּם גְּשׁוּרָאָה וְאַפְקֵירוֹס וּקְרָא יָתְהוֹן עַל שְׁמֵיהּ יָת מַתְנָן כַּפְרָנֵי יָאִיר עַד יוֹמָא הָדֵין:",
+      "en": "Yair son of Menashe took all of the Argov [Tarchona] province until the border of the Geshurites and the Ma’achasites [Apekorsites]; and he named them for himself—the Boshon [Masnan]—the cities of Chavos Yair until this day.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:15",
+      "he": "וּלְמָכִיר יְהָבִית יָת גִּלְעָד:",
+      "en": "And to Mochir I gave the Gilod.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:16",
+      "he": "וּלְשִׁבְטָא דִרְאוּבֵן וּלְשִׁבְטָא דְגָד יְהָבִית מִן גִּלְעָד וְעַד נַחֲלָא דְאַרְנֹן גּוֹ נַחֲלָא וּתְחוּם וְעַד יוּבְקָא דְנַחֲלָא תְּחוּם בְּנֵי עַמּוֹן:",
+      "en": "And to the Reuvenites and to the Gaddites I gave from the Gilod to Wadi Arnon, within the wadi and the border, until Yabok, the wadi at the border of the descendants of Ammon;",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:17",
+      "he": "וּמֵישְׁרָא וְיַרְדְּנָא וּתְחוּמֵיהּ מִגֵּנוֹסַר וְעַד יַמָּא דְמֵישְׁרָא יַמָּא דְמִלְחָא תְּחוֹת מַשְׁפַּךְ מְרָמָתָא מַדִינְחָא:",
+      "en": "and the Arava and the Yardein and the border; from Kinneres [Ginosar] until Arava Lake, the salt lake, beneath the slopes of the crest to the east.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:18",
+      "he": "וּפַקֵּדִית יָתְכוֹן בְּעִדָּנָא הַהִיא לְמֵימָר יְיָ אֱלָהֲכוֹן יְהַב לְכוֹן יָת אַרְעָא הָדָא לְמֵירְתַהּ מְזָרְזִין תַּעְבְּרוּן קֳדָם אֲחֵיכוֹן בְּנֵי יִשְׂרָאֵל כָּל מְזָרְזֵי חֵילָא:",
+      "en": "I commanded you at the time, saying, ‘‘Adonoy, your God, has given you this land to inherit it. Cross over in the forefront [well armed], ahead of your brothers the Bnei Yisroel, all valorous [armed] soldiers.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:19",
+      "he": "לְחוֹד נְשֵׁיכוֹן וְטַפְלְכוֹן וּבְעִירְכוֹן יְדַעְנָא אֲרֵי בְעִיר סַגִּי לְכוֹן יֵתְבוּן בְּקִרְוֵיכוֹן דִּי יְהָבִית לְכוֹן:",
+      "en": "But your wives and your children and your cattle—I know you own much cattle—will live in your cities, which I have given you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:20",
+      "he": "עַד דִּי יְנִיחַ יְיָ לַאֲחֵיכוֹן כְּוָתְכוֹן וְיֵרְתוּן אַף אִנּוּן יָת אַרְעָא דַּיְיָ אֱלָהֲכוֹן יָהֵב לְהוֹן בְּעִבְרָא דְיַרְדְּנָא וּתְתוּבוּן גְּבַר לִירֻתְּתֵיהּ דִּי יְהָבִית לְכוֹן:",
+      "en": "Until Adonoy grants your brothers [peace] like you, and they too inherit the land that Adonoy, your God, is giving them across the Yardein. Then will you return each of you to his inheritance that I have given you.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:21",
+      "he": "וְיָת יְהוֹשׁוּעַ פַּקֵּדִית בְּעִדָּנָא הַהִיא לְמֵימָר עֵינָיךְ חֲזָאָה יָת כָּל דִּי עֲבַד יְיָ אֱלָהֲכוֹן לִתְרֵין מַלְכַיָּא הָאִלֵּין כֵּן יַעְבֵּד יְיָ לְכָל מַלְכְּוָתָא דִּי אַתְּ עָבֵר לְתַמָּן:",
+      "en": "And Yehoshua I commanded at that time, to say, ‘‘Your eyes will be seeing that everything Adonoy, your God, did to these two kings, so will Adonoy do to all the kingdoms that your are crossing into.",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 3:22",
+      "he": "לָא תִדְחֲלוּן מִנְּהוֹן אֲרֵי יְיָ אֱלָהֲכוֹן מֵימְרֵיהּ יְגִיחַ לְכוֹן:",
+      "en": "Do not fear them, for Adonoy, your God, is the One Who [His word] is waging war for you.’’",
+      "fr": ""
+    }
+  ]
+}

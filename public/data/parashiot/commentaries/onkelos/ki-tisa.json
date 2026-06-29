@@ -1,0 +1,841 @@
+{
+  "name": "Ki Tisa",
+  "range": "Exodus 30:11-34:35",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Exodus 30:11",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:12",
+      "he": "אֲרֵי תְקַבֵּל יָת חֻשְׁבַּן בְּנֵי יִשְׂרָאֵל לְמִנְיָנֵיהוֹן וְיִתְּנוּן גְּבַר פֻּרְקַן נַפְשֵׁיהּ קֳדָם יְיָ כַּד תִּמְנֵי יָתְהוֹן וְלָא יְהֵי בְהוֹן מוֹתָא כַּד תִּמְנֵי יָתְהוֹן:",
+      "en": "“When you take the count of the B’nei Yisrael to determine their numbers, each man shall give an atonement pledge [a redemption] for his soul to [before] Adonoy, when you count them. Thus there will be no plague among them when you count them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:13",
+      "he": "דֵּין יִתְּנוּן כָּל דְּעָבַר עַל מִנְיָנַיָּא פַּלְגּוּת סִלְעָא בְּסִלְעֵי קוּדְשָׁא עֶסְרִין מָעִין סִלְעָא פַּלְגּוּת סִלְעָא אַפְרָשׁוּתָא קֳדָם יְיָ:",
+      "en": "Everyone passing by to be counted must give this—half a shekel [sela] based on the shekel [sela] of the Holy [Sanctuary,] where a shekel [sela] is twenty geirah [ma’in]. Half of such a shekel [sela] must be given as a terumah-offering to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:14",
+      "he": "כֹּל דְּעָבַר עַל מִנְיָנַיָּא מִבַּר עֶסְרִין שְׁנִין וּלְעֵלָּא יִתֵּן אַפְרָשׁוּתָא קֳדָם יְיָ:",
+      "en": "Everyone passing by to be counted, from [age] twenty years and older, must give a terumah-offering to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:15",
+      "he": "דְּעַתִּיר לָא יַסְגֵּי וּדְמִסְכֵּן לָא יַזְעֵר מִפַּלְגּוּת סִלְעָא לְמִתַּן יָת אַפְרָשׁוּתָא קֳדָם יְיָ לְכַפָּרָא עַל נַפְשָׁתֵיכוֹן:",
+      "en": "The rich shall not give more, and the poor shall not give less than half a shekel [sela], when giving this terumah-offering to [before] Adonoy to atone for your souls.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:16",
+      "he": "וְתִסַּב יָת כְּסַף כִּפּוּרַיָּא מִן בְּנֵי יִשְׂרָאֵל וְתִתֵּן יָתֵיהּ עַל פָּלְחַן מַשְׁכַּן זִמְנָא וִיהֵי לִבְנֵי יִשְׂרָאֵל לְדָכְרָנָא קֳדָם יְיָ לְכַפָּרָא עַל נַפְשָׁתֵיכוֹן:",
+      "en": "Take this atonement money from the B’nei Yisrael and donate it for the work of the Tent of Meeting. It will be a remembrance for the B’nei Yisrael before Adonoy to atone for your souls.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:17",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:18",
+      "he": "וְתַעְבֵּד כִּיּוֹרָא דִנְחָשָׁא וּבְסִיסֵיהּ נְחָשָׁא לְקִדּוּשׁ וְתִתֵּן יָתֵיהּ בֵּין מַשְׁכַּן זִמְנָא וּבֵין מַדְבְּחָא וְתִתֵּן תַּמָּן מַיָּא:",
+      "en": "“Make a copper wash basin and its copper base for washing [sanctification]; and place it between the Tent of Meeting and the Altar, and put water in it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:19",
+      "he": "וִיקַדְּשׁוּן אַהֲרֹן וּבְנוֹהִי מִנֵּיהּ יָת יְדֵיהוֹן וְיָת רַגְלֵיהוֹן:",
+      "en": "Aharon and his sons will wash from it [sanctify] their hands and their feet [from it].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:20",
+      "he": "בְּמֵיעַלְהוֹן לְמַשְׁכַּן זִמְנָא יְקַדְּשׁוּן מַיָּא וְלָא יְמוּתוּן אוֹ בְמִקְרָבְהוֹן לְמַדְבְּחָא לְשַׁמָּשָׁא לְאַסָּקָא קֻרְבָּנָא קֳדָם יְיָ:",
+      "en": "Before entering the Tent of Meeting they must wash [sanctify] with water and they will not die, or whenever they approach the Altar for Divine service, or to burn a fire-offering to [sacrifice before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:21",
+      "he": "וִיקַדְּשׁוּן יְדֵיהוֹן וְרַגְלֵיהוֹן וְלָא יְמוּתוּן וּתְהֵי לְהוֹן קְיָם עָלָם לֵיהּ וְלִבְנוֹהִי לְדָרֵיהוֹן:",
+      "en": "They must wash [sanctify] their hands and their feet and they will not die. This is a perpetual statute for them, for him [Aharon] and his descendants for all their generations.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:22",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe saying.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:23",
+      "he": "וְאַתְּ סַב לָךְ בּוּסְמִין רֵישָׁא מֵירָא דַכְיָא מַתְקַל חֲמֵשׁ מְאָה וְקִנְּמָן בֶּשֶׂם פַּלְגּוּתֵיהּ מַתְקַל מָאתָן וְחַמְשִׁין וּקְנֵה בוּסְמָא מַתְקַל מָאתָן וְחַמְשִׁין:",
+      "en": "“You shall take the finest spices, [the weight of] five hundred [shekels] of pure myrrh, half portions of fragrant cinnamon, [consisting of] [the weight of] two hundred and fifty [shekels] each, and [the weight of] two hundred and fifty [shekels] of calamus spices.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:24",
+      "he": "וּקְצִיעֲתָא מַתְקַל חֲמֵשׁ מְאָה בְּסִלְעֵי קוּדְשָׁא וּמְשַׁח זֵיתָא מְלֵא הִינָא:",
+      "en": "[Also take] [the weight of] five hundred [shekels] of cassia based on the shekel [sela] value of the Holy [Sanctuary], and a [full] hin of olive oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:25",
+      "he": "וְתַעְבֵּד יָתֵיהּ מְשַׁח רְבוּת קוּדְשָׁא בּוֹסֶם מְבַסָּם עוֹבַד בּוּסְמָנוּ מְשַׁח רְבוּת קוּדְשָׁא יְהֵא:",
+      "en": "Make it into sacred anointing oil, a blend made by a [perfume] blender. It shall be a sacred anointing oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:26",
+      "he": "וּתְרַבִּי בֵיהּ יָת מַשְׁכַּן זִמְנָא וְיָת אֲרוֹנָא דְסַהֲדוּתָא:",
+      "en": "Anoint with it the Tent of Meeting, and the Ark of the Testimony,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:27",
+      "he": "וְיָת פָּתוֹרָא וְיָת כָּל מָנוֹהִי וְיָת מְנַרְתָּא וְיָת מָנָהָא וְיָת מַדְבְּחָא דִקְטֹרֶת בּוּסְמַיָּא:",
+      "en": "And the Table and all its vessels, and the Menorah and its vessels, and the [Spice] Incense Altar,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:28",
+      "he": "וְיָת מַדְבַּח דַּעֲלָתָא וְיָת כָּל מָנוֹהִי וְיָת כִּיּוֹרָא וְיָת בְּסִיסֵיהּ:",
+      "en": "And the Burnt-offering Altar and all its vessels, and the wash basin and its base.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:29",
+      "he": "וּתְקַדֵּשׁ יָתְהוֹן וִיהוֹן קֹדֶשׁ קוּדְשַׁיָּא כָּל דְּיִקְרַב בְּהוֹן יִתְקַדָּשׁ:",
+      "en": "Sanctify them and they will become holy of holies. Anything that touches them will become holy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:30",
+      "he": "וְיָת אַהֲרֹן וְיָת בְּנוֹהִי תְּרַבִּי וּתְקַדֵּשׁ יָתְהוֹן לְשַׁמָּשָׁא קֳדָמַי:",
+      "en": "You shall also anoint Aharon and his sons, and sanctify them to serve [before] Me as kohanim.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:31",
+      "he": "וְעִם בְּנֵי יִשְׂרָאֵל תְּמַלֵּל לְמֵימָר מְשַׁח רְבוּת קוּדְשָׁא יְהֵי דֵין קֳדָמַי לְדָרֵיכוֹן:",
+      "en": "Speak to the B’nei Yisrael, saying: “This shall be sacred anointing oil to [before] Me for all your generations.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:32",
+      "he": "עַל בִּסְרָא דַאֲנָשָׁא לָא יִתְנַסַּךְ וּבִדְמוּתֵיהּ לָא תַעְבְּדוּן כְּוָתֵיהּ קוּדְשָׁא הוּא קוּדְשָׁא יְהֵי לְכוֹן:",
+      "en": "It must not be poured on the flesh of any man, and its formula [likeness] must not be duplicated. It is sacred. It must be sacred to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:33",
+      "he": "גְּבַר דִּי יְבַסַּם דִּכְוָתֵיהּ וְדִי יִתֵּן מִנֵּיהּ עַל חִלּוֹנָי וְיִשְׁתֵּצֵי מֵעַמֵּיהּ:",
+      "en": "If a person compounds a similar formula, or if he places from it upon an unauthorized person, he shall be cut off [spiritually] from his people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:34",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה סַב לָךְ בּוּסְמִין נְטוֹפָא וְטוּפְרָא וְחֶלְבְּנֵתָא בּוּסְמִין וּלְבוּנְתָא דָכִיתָא מַתְקַל בְּמַתְקַל יְהֵי:",
+      "en": "Adonoy said to Moshe, Take for yourself spices, stacte, onycha and galbanum, spices and pure frankincense. They shall be of equal weight.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:35",
+      "he": "וְתַעְבֵּד יָתַהּ קְטֹרֶת בּוּסְמִין בּוֹסֶם עוֹבַד בּוּסְמָנוּ מְעָרַב דְּכֵי קוּדְשָׁא:",
+      "en": "Make it into incense [spice], a blend blended by a blender, thoroughly blended, pure and holy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:36",
+      "he": "וְתִשְׁחוֹק מִנַּהּ וְתַדִּיק וְתִתֵּן מִנַּהּ קֳדָם סַהֲדוּתָא בְּמַשְׁכַּן זִמְנָא דִּי אֱזַמֵּן מֵימְרִי לָךְ תַּמָּן קֹדֶשׁ קוּדְשִׁין תְּהֵי לְכוֹן:",
+      "en": "Pulverize some of it very finely and place it before the [Ark of] Testimony in the Tent of Meeting, where I will meet [prepare My Word] with you. It shall be holy of holies to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:37",
+      "he": "וּקְטֹרֶת בּוּסְמִין דִּי תַעְבֵּד בִּדְמוּתָהּ לָא תַעְבְּדוּן לְכוֹן קוּדְשָׁא תְּהֵי לָךְ קֳדָם יְיָ:",
+      "en": "The incense [spice] you are making, its formula [likeness] must not be duplicated for you[r use]. It shall be sacred to you for [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 30:38",
+      "he": "גְּבַר דְיַעְבֵּד דִּכְוָתַהּ לַאֲרָחָא בַהּ וְיִשְׁתֵּצֵי מֵעַמֵּיהּ:",
+      "en": "A person who duplicates this formula to enjoy its fragrance, shall be cut off [spiritually] from his people.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:2",
+      "he": "חֲזֵי דְרַבֵּיתִי בְשׁוּם בְּצַלְאֵל בַּר אוּרִי בַר חוּר לְשִׁבְטָא דִיהוּדָה:",
+      "en": "“I have called [exalted] by name [designated] Betzalel, son of Uri son of Chur, of the tribe of Yehudah.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:3",
+      "he": "וְאַשְׁלֵמִית עִמֵּיהּ רוּחַ מִן קֳדָם יְיָ בְּחָכְמְתָא וּבְסוּכְלְתָנוּ וּבְמַדַּע וּבְכָל עִבִידָא:",
+      "en": "I have filled him with Divine spirit [from before Elohim], with wisdom, with understanding, with knowledge, and with [the skill to perform] all types of crafting,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:4",
+      "he": "לְאַלָּפָא אוּמַנְוָן לְמֶעְבַּד בְּדַהֲבָא וּבְכַסְפָּא וּבִנְחָשָׁא:",
+      "en": "to devise plans [teach craftsmanship] to work in gold, in silver, and in copper,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:5",
+      "he": "וּבְאָמָנוּת אֶבֶן טָבָא לְאַשְׁלָמָא וּבְנַגָּרוּת אָעָא לְמֶעְבַּד בְּכָל עִבִידָא:",
+      "en": "to cut [precious] stones for setting, to carve wood, and to work in all types of crafting.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:6",
+      "he": "וַאֲנָא הָא יְהָבִית עִמֵּיהּ יָת אָהֳלִיאָב בַּר אֲחִיסָמָךְ לְשִׁבְטָא דְדָן וּבְלִבָּא כָל חַכִּימֵי לִבָּא יְהָבִית חָכְמְתָא וְיַעְבְּדוּן יָת כָל דִי פַקֵדִתָּךְ:",
+      "en": "And behold, I have appointed [to serve] with him, Oholiav, son of Achisamach of the tribe of Don. In the heart of every wise-hearted person I have placed wisdom, so they can make all that I have commanded:",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:7",
+      "he": "יָת מַשְׁכַּן זִמְנָא וְיָת אֲרוֹנָא לְסַהֲדוּתָא וְיָת כַּפֻּרְתָּא דִי עֲלוֹהִי וְיָת כָּל מָנֵי מַשְׁכְּנָא:",
+      "en": "the Tent of Meeting, the Ark for the Testimony, the [Ark] Cover that is to be placed on it, and all the vessels [furniture] of the Tent:",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:8",
+      "he": "וְיָת פָּתוֹרָא וְיָת מָנוֹהִי וְיָת מְנַרְתָּא דָכִיתָא וְיָת כָּל מָנָהָא וְיָת מַדְבְּחָא דִקְטוֹרֶת בּוּסְמַיָא:",
+      "en": "the Table and its vessels, The pure [gold] Menorah, and all its vessels, and the [Spice] Incense Altar,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:9",
+      "he": "וְיָת מַדְבְּחָא דַעֲלָתָא וְיָת כָּל מָנוֹהִי וְיָת כִּיוֹרָא וְיָת בְּסִיסֵיהּ:",
+      "en": "the Burnt—offering Altar, and all its vessels, the Wash Basin and its base.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:10",
+      "he": "וְיָת לְבוּשֵׁי שִׁמוּשָׁא וְיָת לְבוּשֵׁי קוּדְשָׁא לְאַהֲרֹן כַּהֲנָא וְיָת לְבוּשֵׁי בְנוֹהִי לְשַׁמָּשָׁא:",
+      "en": "[They shall also make] garments [coverings] of crochet-work [service], as well as the sacred garments for Aharon, the kohein, and the garments for his sons to serve [as kohanim,]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:11",
+      "he": "וְיָת מִשְׁחָא דִרְבוּתָא וְיָת קְטֹרֶת בּוּסְמַיָּא לְקוּדְשָׁא כְּכֹל דִּי פַקֵּדְתָּךְ יַעְבְּדוּן:",
+      "en": "[Also] the anointing oil, and the incense of spices for the Holy [Sanctuary,] according to all that I have commanded you,” they shall make.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:12",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה לְמֵימָר:",
+      "en": "Adonoy said to Moshe, saying,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:13",
+      "he": "וְאַתְּ מַלֵּל עִם בְּנֵי יִשְׂרָאֵל לְמֵימַר בְּרַם יָת יוֹמֵי שַׁבַּיָּא דִּי לִי תִּטְּרוּן אֲרֵי אַת הִיא בֵּין מֵימְרִי וּבֵינֵיכוֹן לְדָרֵיכוֹן לְמִדַּע אֲרֵי אֲנָא יְיָ מְקַדִּשְׁכוֹן:",
+      "en": "And you speak to the B’nei Yisrael, saying, You must still preserve My Shabbos [days], for it is a sign between Me [My Word] and yourselves for your generations to know that I Adonoy am making you holy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:14",
+      "he": "וְתִטְּרוּן יָת שַׁבְּתָא אֲרֵי קוּדְשָׁא הִיא לְכוֹן מְחַלְּלִנַּהּ אִתְקְטָלָא יִתְקְטֵל אֲרֵי כָּל דְּיַעְבֶּד בַּהּ עִבִידָא וְיִשְׁתֵּצֵי אֲנָשָׁא הַהוּא מִגּוֹ עַמֵּיהּ:",
+      "en": "You shall [therefore] preserve the Shabbos for it is sacred to you. Anyone who profanes it shall be put to death, for whoever does work on it [Shabbos] shall be cut off [spiritually] from the midst of his people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:15",
+      "he": "שִׁתָּא יוֹמִין יִתְעֲבֵד עִבִידָא וּבְיוֹמָא שְׁבִיעָאָה שְׁבַת שַׁבְּתָא קוּדְשָׁא קֳדָם יְיָ כָּל דְּיַעְבֵּד עִבִדְתָּא בְּיוֹמָא דְשַׁבְּתָא אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "You may do work on [the] six days [of the week] but the seventh day is a Shabbos of complete rest, it is sacred to [before] Adonoy. Whoever does work on the day of Shabbos shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:16",
+      "he": "וְיִטְּרוּן בְּנֵי יִשְׂרָאֵל יָת שַׁבְּתָא לְמֶעְבַּד יָת שַׁבְּתָא לְדָרֵיהוֹן קְיַם עָלָם:",
+      "en": "The B’nei Yisrael shall preserve the Shabbos, to maintain the Shabbos for their generations, as an everlasting covenant.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:17",
+      "he": "בֵּין מֵימְרִי וּבֵין בְּנֵי יִשְׂרָאֵל אָת הִיא לְעָלָם אֲרֵי שִׁתָּא יוֹמִין עֲבַד יְיָ יָת שְׁמַיָּא וְיָת אַרְעָא וּבְיוֹמָא שְׁבִיעָאָה שְׁבַת וְנָח:",
+      "en": "Between Me [My Word] and between the B’nei Yisrael it is an everlasting sign; for in six days Adonoy made the heavens and the earth, and on the seventh day, He abstained from work and He rested.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 31:18",
+      "he": "וִיהַב לְמשֶׁה כַּד שֵׁיצֵי לְמַלָּלָא עִמֵּיהּ בְּטוּרָא דְסִינַי תְּרֵין לוּחֵי סַהֲדוּתָא לוּחֵי אַבְנָא כְּתִיבִין בְּאֶצְבְּעָא דַיְיָ:",
+      "en": "And He [Adonoy] gave to Moshe—when He finished speaking with him on Mount Sinai—two Tablets of the Testimony. They were stone tablets, written with God’s finger.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:1",
+      "he": "וַחֲזָא עַמָּא אֲרֵי אוֹחַר משֶׁה לְמֵחַת מִן טוּרָא וְאִתְכְּנֵשׁ עַמָּא עַל אַהֲרֹן וַאֲמָרוּ לֵיהּ קוּם עֲבֵד לָנָא דַחֲלָן דִּיְהָכוּן קֳדָמָנָא אֲרֵי דֵין משֶׁה גַבְרָא דִּי אַסְּקָנָא מֵאַרְעָא דְמִצְרַיִם לָא יְדַעְנָא מָה הֲוָה לֵיהּ:",
+      "en": "[When] the people saw that Moshe was late in coming down from the mountain, they gathered against Aharon, and said to him, “Arise, make us gods that will lead us, for this Moshe, the man who brought us up from the land of Egypt, we do not know what happened to him.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:2",
+      "he": "וַאֲמַר לְהוֹן אַהֲרֹן פְּרִיקוּ קָדָשֵׁי דְדַהֲבָא דִּי בְּאוּדְנֵי נְשֵׁיכוֹן בְּנֵיכוֹן וּבְנָתֵיכוֹן וְאַיְתִיּוּ לְוָתִי:",
+      "en": "Aharon said to them, “Remove the golden rings which are on the ears of your wives, your sons, and your daughters and bring them to me.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:3",
+      "he": "וְאִתְפְּרִיקוּ כָּל עַמָּא יָת קָדָשֵׁי דְדַהֲבָא דִּי בְאוּדְנֵיהוֹן וְאַיְתִיּוּ לְאַהֲרֹן:",
+      "en": "All the people removed the golden rings which were on their ears, and brought them to Aharon.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:4",
+      "he": "וּנְסִיב מִידֵיהוֹן וְצַר יָתֵיהּ בְּזִיפָא וְעָבְדֵיהּ עֵגֶל מַתְּכָא וַאֲמָרוּ אִלֵּין דַּחַלְתָּךְ יִשְׂרָאֵל דִּי אַסְּקוּךְ מֵאַרְעָא דְמִצְרָיִם:",
+      "en": "He took them from their hands, and formed it with [a goldsmith’s] engraving tool, and made it into a molten calf. They [then] said, “These, Yisrael, are your gods who brought you up from the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:5",
+      "he": "וַחֲזָא אַהֲרֹן וּבְנָא מַדְבְּחָא קֳדָמוֹהִי וּקְרָא אַהֲרֹן וַאֲמַר חַגָּא קֳדָם יְיָ מְחָר:",
+      "en": "[When] Aharon saw [this], he built an altar before it. Aharon then called out and said: “Tomorrow will be a festival to [before] Adonoy.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:6",
+      "he": "וְאַקְדִּימוּ בְּיוֹמָא דְבַתְרוֹהִי וְאַסִּיקוּ עֲלָוָן וְקָרִיבוּ נִכְסִין וְאַסְחַר עַמָּא לְמֵיכַל וּלְמִשְׁתֵּי וְקָמוּ לְחַיָּכָא:",
+      "en": "They arose early the next morning, and offered burnt-offerings and brought peace-offerings. The people then sat down [reclined] to eat and drink, and got up to amuse themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:7",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה אִזֵל חוּת אֲרֵי חַבִּיל עַמָּךְ דִּי אַסֶּקְתָּא מֵאַרְעָא דְמִצְרָיִם:",
+      "en": "Adonoy spoke to Moshe, “Go down, for your people have become corrupt—those whom you brought up out of the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:8",
+      "he": "סָטוּ בִּפְרִיעַ מִן אוֹרְחָא דִּי פַקֶּדְתִּנּוּן עֲבָדוּ לְהוֹן עֵגַל מַתְּכָא וּסְגִידוּ לֵיהּ וְדַבָּחוּ לֵיהּ וַאֲמָרוּ אִלֵּין דַּחַלְתָּךְ יִשְׂרָאֵל דִּי אַסְּקוּךְ מֵאַרְעָא דְמִצְרָיִם:",
+      "en": "They have departed quickly from the way that I commanded them, they have made for themselves a molten calf. They have prostrated themselves to it and offered sacrifices to it, and have said, ‘These, Yisrael, are your gods who brought you up out of the land of Egypt.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:9",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה גְּלֵי קֳדָמַי עַמָּא הָדֵין וְהָא עַמָּא קְשֵׁי קְדַל הוּא:",
+      "en": "Adonoy said to Moshe, “I have seen [observed] this people [are revealed before Me], and behold they are a stiff-necked people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:10",
+      "he": "וּכְעַן הַנַּח בָּעוּתָךְ מִן קֳדָמַי וְיִתְקֵף רוּגְזִי בְהוֹן וְאֵישֵׁיצִנּוּן וְאֶעְבֵּד יָתָךְ לְעַם סַגִּי:",
+      "en": "Now leave Me alone [leave your prayer from before Me] and My wrath will blaze against them and destroy them. I will then make you into a great nation.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:11",
+      "he": "וְצַלִּי משֶׁה קֳדָם יְיָ אֱלָהֵיהּ וַאֲמַר לְמָא יְיָ יִתְקֵף רוּגְזָךְ בְּעַמָּךְ דִּי אַפֶּקְתָּא מֵאַרְעָא דְמִצְרַיִם בְּחֵיל רַב וּבִידָא תַקִּיפָא:",
+      "en": "Moshe implored [prayed] before the Presence of Adonoy, his God, and he said, “Adonoy! Why should Your wrath blaze against Your people whom You brought out from the land of Egypt with great power and with a mighty hand?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:12",
+      "he": "לְמָא יֵימְרוּן מִצְרָאֵי לְמֵימַר בְּבִישְׁתָּא אַפֶּקְתִּנּוּן לְקַטָּלָא יָתְהוֹן בֵּינֵי טוּרַיָּא וּלְשֵׁיצָיוּתְהוֹן מֵעַל אַפֵּי אַרְעָא תּוּב מִתְּקוֹף רוּגְזָךְ וְאָתֵיב מִן בִּישְׁתָּא דְּמֶלֶּלְתָּא לְמֶעְבַּד לְעַמָּךְ:",
+      "en": "Why should Egypt be able to say, ‘He brought them out with evil intent, to kill them in [between] the mountains, and to annihilate them from the face of the earth?’ Turn from [withdraw] Your blazing wrath, and reconsider the [intent of doing] evil to Your people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:13",
+      "he": "אִדְכַּר לְאַבְרָהָם לְיִצְחָק וּלְיִשְׂרָאֵל עַבְדָּיךְ דִּי קַיֶּמְתָּא לְהוֹן בְּמֵימְרָךְ וּמַלֶּלְתָּא עִמְּהוֹן אַסְגֵּי יָת בְּנֵיכוֹן כְּכוֹכְבֵי שְׁמַיָּא וְכָל אַרְעָא הָדָא דִּי אֲמָרִית אֶתֵּן לִבְנֵיכוֹן וְיַחְסְנוּן לַעֲלָם:",
+      "en": "Remember Avraham, Yitzchok and Yisrael, Your servants, to whom You swore by Your Self [Word], and said to them, ‘I will make your descendants as numerous as the stars of the heaven; and all this land of which I have spoken, I will give to your descendants, and they will inherit it forever.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:14",
+      "he": "וְתַב יְיָ מִן בִּישְׁתָא דִּי מַלֵּיל לְמֶעְבַּד לְעַמֵּיהּ:",
+      "en": "Adonoy reconsidered the [intent of doing] evil that He had said He would do to His people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:15",
+      "he": "וְאִתְפְּנֵי וּנְחַת משֶׁה מִן טוּרָא וּתְרֵין לוּחֵי סַהֲדוּתָא בִּידֵיהּ לוּחֵי כְּתִיבִין מִתְּרֵין עִבְרֵיהוֹן מִכָּא וּמִכָּא אִנּוּן כְּתִיבִין:",
+      "en": "Moshe turned and went down from the mountain with the two Tablets of the Testimony in his hand. They were tablets written on both sides, the writing was [visible] from either side.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:16",
+      "he": "וְלוּחַיָּא עוֹבָדָא דַיְיָ אִנּוּן וּכְתָבָא כְּתָבָא דַיְיָ הוּא מְפָרַשׁ עַל לוּחַיָּא:",
+      "en": "The Tablets were the work of God, and the writing was the writing of God, engraved upon the Tablets.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:17",
+      "he": "וּשְׁמַע יְהוֹשֻׁעַ יָת קַל עַמָּא כַּד מְיַבְּבִין וַאֲמַר לְמשֶׁה קַל קְרָבָא בְּמַשְׁרִיתָא:",
+      "en": "Yehoshua heard the voice of the people rejoicing, and he said to Moshe, “There is a sound of battle in the camp.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:18",
+      "he": "וַאֲמַר לָא קַל גִּבָּרִין דְּנַצְחִין בִּקְרָבָא וְאַף לָא קַל חַלָּשִׁין דְּמִתַּבְּרִין קַל דִּמְחַיְּכִין אֲנָא שְׁמָע:",
+      "en": "But he [Moshe] said, “It is not the sound of strength [song of victory] [the mighty who are victorious in war], nor is it the sound of weakness [song of defeat] [the weak who are broken]. It is a sound of song [the rejoicers] that I hear.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:19",
+      "he": "וַהֲוָה כַּד קָרִיב לְמַשְׁרִיתָא וַחֲזָא יָת עֶגְלָא וְחִנְגִּין וּתְקֵיף רוּגְזָא דְמשֶׁה וּרְמָא מִידוֹהִי יָת לוּחַיָּא וְתַבַּר יָתְהוֹן בְּשִׁפּוֹלֵי טוּרָא:",
+      "en": "As he [Moshe] approached the camp, he saw the calf and the dancing. Moshe’s anger blazed, and he threw down the Tablets that were in his hands and smashed them beneath [at the bottom of] the mountain.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:20",
+      "he": "וּנְסֵיב יָת עֶגְלָא דִי עֲבָדוּ וְאוֹקֵד בְּנוּרָא וְשַׁף עַד דַּהֲוָה דַקִּיק וּזְרָא עַל אַפֵּי מַיָּא וְאַשְׁקֵי יָת בְּנֵי יִשְׂרָאֵל:",
+      "en": "He took the calf that they had made, and burned it in fire, and ground it into fine powder. He then scattered it on the water, and made the B’nei Yisrael drink it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:21",
+      "he": "וַאֲמַר משֶׁה לְאַהֲרֹן מָה עֲבַד לָךְ עַמָּא הָדֵין אֲרֵי אַיְתֵיתָא עֲלוֹהִי חוֹבָא רַבָּא:",
+      "en": "Moshe then said to Aharon, “What did this people do to you that you brought upon them such a great sin?”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:22",
+      "he": "וַאֲמַר אַהֲרֹן לָא יִתְקֵף רוּגְזָא דְרִבּוֹנִי אַתְּ יְדַעַתְּ יָת עַמָּא אֲרֵי בְּבִישׁ הוּא:",
+      "en": "Aharon said, “Let not the wrath of my master blaze. You know that the people are set on evil.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:23",
+      "he": "וַאֲמָרוּ לִי עִבֵיד לָנָא דַּחֲלַן דִּי יְהָכָן קֳדָמָנָא אֲרֵי דֵין משֶׁה גַּבְרָא דִּי אַסְּקָנָא מֵאַרְעָא דְמִצְרַיִם לָא יְדַעְנָא מַה הֲוָה לֵיהּ:",
+      "en": "They said to me, ‘Make gods for us that will lead us for this Moshe, the man who brought us up from the land of Egypt, we do not know what happened to him.’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:24",
+      "he": "וַאֲמָרִית לְהוֹן לְמָן דַּהֲבָא פָּרִיקוּ וִיהָבוּ לִי וּרְמִיתֵיהּ בְּנוּרָא וּנְפַק עֶגְלָא הָדֵין:",
+      "en": "I said to them, ‘Who has gold?’ They removed [their gold] and gave it to me. I threw it into the fire, and this calf emerged.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:25",
+      "he": "וַחֲזָא משֶׁה יָת עַמָּא אֲרֵי בְטִיל הוּא אֲרֵי בָטֵילִנּוּן אַהֲרֹן לַאֲסָבוּתְהוֹן שׁוּם בִּישׁ לְדָרֵיהוֹן:",
+      "en": "Moshe saw [the bad traits of] the people for they were [now] exposed [rejected]; for Aharon had allowed them to be exposed [nullified them], and now they would be disgraced among their adversaries [to make them take a bad name for themselves for their generations].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:26",
+      "he": "וְקָם משֶׁה בִּתְרַע מַשְׁרִיתָא וַאֲמַר מָן דַּחֲלַיָּא דַיְיָ יֵיתוּן לְוָתִי וְאִתְכַּנָּשׁוּ לְוָתֵיהּ כָּל בְּנֵי לֵוִי:",
+      "en": "Moshe stood at the entrance of the camp and said, “Whoever is for [fears] Adonoy, [come] to me.” All the sons of Leivi gathered to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:27",
+      "he": "וַאֲמַר לְהוֹן כִּדְנַן אֲמַר יְיָ אֱלָהָא דְיִשְׂרָאֵל שַׁוּוּ גְבַר חַרְבֵּיהּ עַל יַרְכֵּיהּ עִבַרוּ וְתוּבוּ מִתְּרַע לִתְרַע בְּמַשְׁרִיתָא וּקְטוּלוּ גְבַר יָת אָחוּהִי וּגְבַר יָת חַבְרֵיהּ וֶאֱנַשׁ יָת קָרִיבֵיהּ:",
+      "en": "He said to them, “This is what Adonoy, God of Yisrael has said, ‘Let each man put his sword on his hip and pass through from gate to gate in the camp. Let each man kill [even] his brother, each man his friend, each man his relative.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:28",
+      "he": "וַעֲבָדוּ בְנֵי לֵוִי כְּפִתְגָּמָא דְמשֶׁה וּנְפַל מִן עַמָּא בְּיוֹמָא הַהוּא כִּתְלָתָא אַלְפִין גַּבְרָא:",
+      "en": "The sons of Leivi did as Moshe said. On that day those that fell from among the people, numbered approximately three thousand men.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:29",
+      "he": "וַאֲמַר משֶׁה קָרִיבוּ יֶדְכוֹן קֻרְבָּנָא יוֹמָא דֵין קֳדָם יְיָ אֲרֵי גְּבַר בִּבְרֵיהּ וּבְאָחוּהִי וּלְאַיְתָאָה עֲלֵיכוֹן יוֹמָא דֵין בִּרְכָן:",
+      "en": "Moshe said, “Consecrate yourselves [Your hands have offered a sacrifice] today to [before] Adonoy—for each man killed [even] his son and brothers—that He may bestow a blessing upon you today.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:30",
+      "he": "וַהֲוָה בְּיוֹמָא דְבַתְרוֹהִי וַאֲמַר משֶׁה לְעַמָּא אַתּוּן חַבְתּוּן חוֹבָא רַבָּא וּכְעַן אֶסַּק קֳדָם יְיָ מָאִים אֲכַפֵּר עַל חוֹבֵיכוֹן:",
+      "en": "The next day Moshe said to the people, “You have committed a great sin. Now I will go up to [before] Adonoy, perhaps I will gain atonement for your sin.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:31",
+      "he": "וְתַב משֶׁה לִקֳדָם יְיָ וַאֲמָר בְּבָעוּ חַב עַמָּא הָדֵין חוֹבָא רַבָּא וַעֲבָדוּ לְהוֹן דַּחֲלַן דִּדְהָב:",
+      "en": "Moshe returned to [before] Adonoy and said, “I beseech You! This people have committed a great sin and have made a god of gold.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:32",
+      "he": "וּכְעַן אִם שַׁבְקַת לְחוֹבֵיהוֹן וְאִם לָא מְחֵנִי כְעַן מִסִּפְרָךְ דִּי כְתַבְתָּא:",
+      "en": "Now if You would bear [forgive] their sin, and if not, blot me out from Your book that You have written.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:33",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה מָן דִּי חַב קֳדָמַי אֶמְחִנֵּיהּ מִסִפְרִי:",
+      "en": "Adonoy said to Moshe, “Those who have sinned against [before] Me, I will blot out from My book.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:34",
+      "he": "וּכְעַן אִזֵּיל דַּבַּר יָת עַמָּא לַאֲתַר דִּי מַלֵּלִית לָךְ הָא מַלְאָכִי יְהַךְ קֳדָמָךְ וּבְיוֹם אַסְעָרוּתִי וְאַסְעַר עֲלֵיהוֹן חוֹבֵיהוֹן:",
+      "en": "And now, go, lead the people to [the place] of which I have spoken to you. Behold, My angel will go before you. However on the day when I take account of them, I will take their sin into account.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 32:35",
+      "he": "וּמְחָא יְיָ יָת עַמָּא עַל דִּי אִשְׁתַּעְבָּדוּ לְעֶגְלָא דִּי עֲבַד אַהֲרֹן:",
+      "en": "Adonoy then struck the people with a plague because they had made [worshiped] the calf that Aharon made.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה אִזֵּיל סַק מִכָּא אַתְּ וְעַמָּא דְּאַסֶּקְתָּא מֵאַרְעָא דְמִצְרַיִם לְאַרְעָא דִּי קַיֵּמִית לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לְמֵימַר לִבְנָיךְ אֶתְּנִנַּהּ:",
+      "en": "Adonoy spoke to Moshe, “Leave, go up from this [place]—you and the people you brought up from the land of Egypt—to the land of which I swore to Avraham, to Yitzchok and to Yaakov, saying, ‘To your descendants I will give it.’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:2",
+      "he": "וְאֶשְׁלַח קֳדָמָךְ מַלְאָכָא וְאֵתָרֵךְ יָת כְּנַעֲנָאֵי אֱמוֹרָאֵי וְחִתָּאֵי וּפְרִזָּאֵי חִוָּאֵי וִיבוּסָאֵי:",
+      "en": "I will send an angel before you, and I will drive out the Canaanites, the Emorites, the Chitites, the Perizites, the Chivites, and the Yevusites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:3",
+      "he": "לְאַרְעָא עַבְדָּא חֲלָב וּדְבָשׁ אֲרֵי לָא אֲסַלֵּק שְׁכִנְתִּי מִבֵּינָךְ אֲרֵי עַם קְשֵׁי קְדַל אַתְּ דִּילְמָא אֲשֵׁיצִנָּךְ בְּאָרְחָא:",
+      "en": "[You will then] enter a land flowing with [producing] milk and honey. [I am sending an angel] for I [My Shechina] will not go up among you, for you are a stiff-necked people and I may destroy you along the way.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:4",
+      "he": "וּשְׁמַע עַמָּא יָת פִּתְגָּמָא בִישָׁא הָדֵין וְאִתְאַבָּלוּ וְלָא שַׁוִּיוּ גְּבַר תִּקּוּן זֵינֵיהּ עֲלוֹהִי:",
+      "en": "When the people heard this bad news they mourned and no man wore his ornaments [crowns].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:5",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה אֵימַר לִבְנֵי יִשְׂרָאֵל אַתּוּן עַם קְשֵׁי קְדַל שָׁעָה חֲדָא אֲסַלֵּק שְׁכִנְתִּי מִבֵּינָךְ וְאֵשֵׁצִנָּךְ וּכְעַן אַעְדִי תִּקּוּן זֵינָךְ מִנָּךְ וּגְּלֵי קֳדָמַי מָה אַעְבֵּד לָךְ:",
+      "en": "Adonoy said to Moshe, “Say to the B’nei Yisrael, ‘You are a stiff-necked people. Were I [My Shechina] to go up among you for one moment, I would destroy you. Now remove your ornaments and I know [it will be revealed before Me] what to do with you.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:6",
+      "he": "וְאַעְדִּיאוּ בְנֵי יִשְׂרָאֵל יָת תִּקּוּן זֵינֵיהוֹן מִטּוּרָא דְחוֹרֵב:",
+      "en": "The B’nei Yisrael took off their ornaments that they had [worn] at Mount Chorev.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:7",
+      "he": "וּמשֶׁה נְסִיב יָת מַשְׁכְּנָא וּפַרְסֵיהּ לֵיהּ מִבָּרָא לְמַשְׁרִיתָא אַרְחֵיק מִן מַשְׁרִיתָא וְקָרֵי לֵיהּ מַשְׁכַּן בֵּית אוּלְפָנָא וִיהֵי כָּל דְּתָבַע אוּלְפַן מִן קֳדָם יְיָ נְפַק לְמַשְׁכַּן בֵּית אוּלְפָנָא מִבָּרָא לְמַשְׁרִיתָא:",
+      "en": "Moshe would take the tent and set it up outside the camp, a distance from the camp, and he called it [the] Tent of Meeting [the house of Instruction]. Everyone who sought [instruction from before] Adonoy, would go out to the Tent of Meeting [the house of Instruction] that was outside the camp.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:8",
+      "he": "וַהֲוָה כַּד נְפַק משֶׁה לְמַשְׁכְּנָא קַיְּמִין כָּל עַמָּא וּמִתְעַתְּדִין גְּבַר בִּתְרַע מַשְׁכְּנָא וּמִסְתַּכְּלִין אֲחוֹרֵי משֶׁה עַד דְּעָלֵל לְמַשְׁכְּנָא:",
+      "en": "Whenever Moshe went out to the tent, all the people would rise, and each person would stand at the entrance of his tent; and they would gaze after Moshe, until he had gone into the tent.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:9",
+      "he": "וַהֲוָה כַּד עָלֵל משֶׁה לְמַשְׁכְּנָא נָחִית עַמּוּדָא דַּעֲנָנָא וְקָאֵם בִּתְרַע מַשְׁכְּנָא וּמִתְמַלֵּל עִם משֶׁה:",
+      "en": "When Moshe had gone into the tent, the Pillar of Cloud would descend and stand at the entrance of the tent, and [Adonoy] would speak to [Himself with] Moshe.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:10",
+      "he": "וַחֲזָן כָּל עַמָּא יָת עַמּוּדָא דַעֲנָנָא קָאֵם בִּתְרַע מַשְׁכְּנָא וְקַיְּמִין כָּל עַמָּא וְסָגְדִין גְּבַר בִּתְרַע מַשְׁכְּנֵיהּ:",
+      "en": "When all the people saw the Pillar of Cloud, standing at the entrance of the tent; all the people rose and prostrated themselves, each man at the entrance of his tent.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:11",
+      "he": "וּמִתְמַלֵּל יְיָ עִם משֶׁה מַמְלַל עִם מַמְלַל כְּמָא דִּמְמַלֵּל גְּבַר עִם חַבְרֵיהּ וְתָב לְמַשְׁרִיתָא וּמְשׁוּמְשָׁנֵיהּ יְהוֹשֻׁעַ בַּר נוּן עוּלֵימָא לָא עֲדֵי מִגּוֹ מַשְׁכְּנָא:",
+      "en": "Adonoy spoke to [Himself with] Moshe face to face [word to word], just as a man speaks to his friend. and [Moshe then] would return to the camp, but his youthful attendant, Yehoshua, son of Nun, did not leave the tent.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:12",
+      "he": "וַאֲמַר משֶׁה קֳדָם יְיָ חֲזֵי דְאַתְּ אָמַר לִי אַסֵּיק יָת עַמָּא הָדֵין וְאַתְּ לָא הוֹדַעְתַּנִי יָת דִּי תִשְׁלַח עִמִּי וְאַתְּ אָמַרְתְּ רַבִּיתָךְ בְּשׁוּם וְאַף אַשְׁכַּחְתָּא רַחֲמִין קֳדָמָי:",
+      "en": "Moshe said to [before] Adonoy, “Behold, You say to me, ‘Lead this people up [to the land of Canaan],’ but You did not let me know whom You would send with me. You [also] said, ‘I know [exalted] you by name and you have also found favor in My eyes [before Me].’",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:13",
+      "he": "וּכְעַן אִם כְּעַן אַשְׁכָּחִית רַחֲמִין קֳדָמָךְ הוֹדַעְנִי כְעַן יָת אוֹרַח טוּבָךְ וְאִדַּע רַחֲמָךְ בְּדִיל דְּאַשְׁכַּח רַחֲמִין קֳדָמָךְ וּגְלֵי קָדָמָךְ אֲרֵי עַמָּךְ עַמָּא הָדֵין:",
+      "en": "Now, please, if I have [now] found favor in Your eyes [before You], please [now] let me know Your [the way of Your goodness] way, so that I will know You [Your love], that I may find favor in Your eyes [before You]; and [also] consider [it will be revealed before You] that this nation is [indeed] Your people.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:14",
+      "he": "וַאֲמַר שְׁכִנְתִּי תְהַךְ וְאָנִיחַ לָךְ:",
+      "en": "He [God] said, “My Presence [Shechina] will go [with you] and I will accede to you[r request].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:15",
+      "he": "וַאֲמַר קֳדָמוֹהִי אִם לֵית שְׁכִנְתָּךְ מְהַלְּכָא בֵינָנָא לָא תַסְקִינָנָא מִכָּא:",
+      "en": "And he [Moshe] said to [before] Him, “If Your Presence [Shechina] does not go [with us] do not make us leave from this [place].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:16",
+      "he": "וּבַמֶּה יִתְיַדַּע הָכָא אֲרֵי אַשְׁכָּחִית רַחֲמִין קֳדָמָךְ אֲנָא וְעַמָּךְ הֲלָא בְּמֵהַךְ שְׁכִנְתָּךְ עִמָּנָא וְיִתְעַבְּדַן לָנָא פְרִישָׁן לִי וּלְעַמָּךְ מְשַׁנֵּי מִכָּל עַמָּא דִּי עַל אַפֵּי אַרְעָא:",
+      "en": "And how will it be known [here]. that I have found favor in Your eyes [before You]—I and Your people—only if You [Your Shechina] go with us, so that we will be distinguished [wonders will be done for us]—I and Your people—[that they will be distinct] from every [other] people on the face of the earth.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:17",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה אַף יָת פִּתְגָּמָא הָדֵין דִּי מַלֶּלְתָּא אֶעְבֵּד אֲרֵי אַשְׁכַּחְתָּא רַחֲמִין קֳדָמַי וְרַבִּיתָךְ בְּשׁוּם:",
+      "en": "Adonoy said to Moshe, “I will also do this thing that you have spoken, for you have found favor in My eyes [before Me], and I know [exalted] you by name.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:18",
+      "he": "וַאֲמָר אַחֲזֵינִי כְעַן יָת יְקָרָךְ:",
+      "en": "He [Moshe] then said, “Please [Now] grant me a vision of Your Glory.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:19",
+      "he": "וַאֲמַר אֲנָא אַעְבַּר כָּל טוּבִי עַל אַפָּיךְ וְאֶקְרֵי בִשְׁמָא דַיְיָ קֳדָמָךְ וְאֵחוֹן לְמָן דְּאֵחוֹן וְאֵרַחֵם עַל מָן דְאֵרַחֵם:",
+      "en": "He [God] said, “I will cause all My goodness to pass before your presence, and will proclaim the Name, Adonoy, in your presence. I will be gracious to whom I will be gracious, and I will be compassionate to whom I will be compassionate.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:20",
+      "he": "וַאֲמַר לָא תִיכוּל לְמֶחֱזֵי יָת אַפֵּי שְׁכִנְתִּי אֲרֵי לָא יֶחֱזִינַנִי אֱנָשָׁא וְיִתְקַיָּם:",
+      "en": "And He said, “You cannot see [the] My Presence [of the Shechina], for no man can see My Presence and live.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:21",
+      "he": "וַאֲמַר יְיָ הָא אָתַר מַתְקַן קֳדָמַי וְתִתְעַתַּד עַל טִנָּרָא:",
+      "en": "And Adonoy said, “Behold there is a place with [prepared before] Me, and you shall set yourself on the rock.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:22",
+      "he": "וִיהֵי בְּמֵעֲבַר יְקָרִי וְאֵשַׁוִּינָךְ בִּמְעָרַת טִנָּרָא וְאָגֵין בְּמֵימְרִי עֲלָךְ עַד דְּאֶעֱבַר:",
+      "en": "When My Glory passes by, I will put you in a cleft [cave] of the rock, and I will cover [shelter] you with My Hand [Word] until I pass by.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 33:23",
+      "he": "וְאַעְדֵּי יָת דִּבְרַת יְקָרִי וְתֶחֱזֵי יָת דְּבַתְרָי וְדִקֳדָמַי לָא יִתְחֲזוּן:",
+      "en": "Then I will remove [the guidance of] My Hand [Glory], and you will see My Back [that which is behind Me], but My Face [that which is before Me] shall not be seen.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:1",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה פְּסָל לָךְ תְּרֵין לוּחֵי אַבְנַיָּא כְּקַדְמָאֵי וְאֶכְתּוֹב עַל לוּחַיָּא יָת פִּתְגָּמַיָּא דִי הֲווֹ עַל לוּחַיָּא קַדְמָאֵי דִּי תְבַרְתָּא:",
+      "en": "Adonoy said to Moshe, “Carve out two stone tablets for yourself just like the first ones. And I will write upon these tablets the words which were on the first Tablets that you broke.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:2",
+      "he": "וֶהֱוֵי זַמִּין לְצַפְרָא וְתִסַּק בְּצַפְרָא לְטוּרָא דְסִינַי וְתִתְעַתַּד קֳדָמַי תַּמָּן עַל רֵישׁ טוּרָא:",
+      "en": "Be ready for the morning, and in the morning go up to Mount Sinai and stand there before Me on the top of the mountain.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:3",
+      "he": "וֶאֱנַשׁ לָא יִסַּק עִמָּךְ וְאַף אֱנַשׁ לָא יִתְחֲזֵי בְּכָל טוּרָא אַף עֲנָא וְתוֹרֵי לָא יִרְעוּן לָקֳבֵל טוּרָא הַהוּא:",
+      "en": "No man shall go up with you, nor shall any man be seen on the entire mountain; even the sheep and cattle shall not graze before that mountain.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:4",
+      "he": "וּפְסַל תְּרֵין לוּחֵי אַבְנַיָּא כְּקַדְמָאֵי וְאַקְדֵּם משֶׁה בְצַפְרָא וּסְלֵק לְטוּרָא דְסִינַי כְּמָא דְפַקֵּד יְיָ יָתֵיהּ וּנְסֵב בִּידֵיהּ תְּרֵין לוּחֵי אַבְנַיָּא:",
+      "en": "He [Moshe] carved out two stone tablets just like the first ones. Moshe rose early in the morning, and went up to Mount Sinai, as Adonoy had commanded him; and he took the two stone tablets in his hand.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:5",
+      "he": "וְאִתְגְּלִי יְיָ בַּעֲנָנָא וְאִתְעַתַּד עִמֵּיהּ תַּמָּן וּקְרָא בִשְׁמָא דַּיְיָ:",
+      "en": "Adonoy descended [became revealed] in a cloud and it stood with him there; and he [Moshe] called out [invoked] the Name, Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:6",
+      "he": "וְאַעְבַּר יְיָ שְׁכִנְתֵּיהּ עַל אַפּוֹהִי וּקְרָא יְיָ יְיָ אֱלָהָא רַחֲמָנָא וְחַנָּנָא מַרְחִיק רְגַז וּמַסְגֵּי לְמֶעְבַּד טַבְוָן וּקְשׁוֹט:",
+      "en": "Adonoy [made his Shechina pass] passed before him, and proclaimed: “Adonoy, Adonoy, Almighty, merciful and gracious, slow to [distancing] anger, and [making] abounding in kindness [goodness] and truth [abound].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:7",
+      "he": "נָטַר טִיבוּ לְאַלְפֵי דָרִין שָׁבֵק לַעֲוָיָן וְלִמְרוֹד וּלְחוֹבִין סָלַח לִדְתַיְבִין לְאוֹרַיְתֵיהּ וְלִדְלָא תַיְבִין לָא מְזַכֵּי מַסְעַר חוֹבֵי אֲבָהָן עַל בְּנִין וְעַל בְּנֵי בְנִין מָרָדִין עַל דַּר תְּלִיתָי וְעַל דַר רְבִיעָי:",
+      "en": "He preserves kindness for thousands [of generations], bearing [forgiving] iniquity, transgression [rebellion] and sin. He clears [acquits the penitent] [forgives those who return to his Torah] and he does not clear [acquit the impenitent], visiting the iniquity of the fathers upon the children, and [rebellious] children’s children, [even] upon the third and fourth [generation].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:8",
+      "he": "וְאוֹחִי משֶׁה וּכְרַע עַל אַרְעָא וּסְגִיד:",
+      "en": "Moshe hastened, bowed to the ground, and prostrated himself,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:9",
+      "he": "וַאֲמַר אִם כְּעַן אַשְׁכָּחִית רַחֲמִין קֳדָמָךְ יְיָ תְּהַךְ כְּעַן שְׁכִנְתָּא דַיְיָ בֵּינָנָא אֲרֵי עַם קְשֵׁי קְדַל הוּא וְתִשְׁבּוֹק לְחוֹבָנָא וְלַחֲטָאָנָא וְתַחְסְנָנָא:",
+      "en": "and said, “If I have found favor in Your eyes [before You] my Master, let [the Shechina of] my Master go among us; although it is a stiff-necked people, pardon our iniquity and our sins, and take us as Your own possession.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:10",
+      "he": "וַאֲמַר הָא אֲנָא גְּזַר קְיַם קֳדָם כָּל עַמָּךְ אַעֲבֵּיד פְּרִישָׁן דִּי לָא אִתְבְּרִיאוּ בְּכָל אַרְעָא וּבְכָל עַמְמַיָּא וְיֶחֱזֵי כָל עַמָּא דִּי אַתְּ בֵּינֵיהוֹן יָת עוֹבָדָא דַיְיָ אֲרֵי דָחֵל הוּא דִּי אֲנָא עָבֵד עִמָּךְ:",
+      "en": "And He said, “I hereby make a covenant; before all your people I will perform wonders such as have not been created in all the earth or for any nation; and all the people in whose midst you are, will see how awesome is the deed of Adonoy which I will perform for you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:11",
+      "he": "טָר לָךְ יָת דִּי אֲנָא מְפַקְדָּךְ יוֹמָא דֵין הָא אֲנָא מְתָרֵךְ מִן קֳדָמָךְ יָת אֱמוֹרָאֵי וּכְנַעֲנָאֵי וְחִתָּאֵי וּפְרִזָּאֵי וְחִוָּאֵי וִיבוּסָאֵי:",
+      "en": "Preserve for your own sake that which I command you today. I am driving out [from] before you the Emorites, the Canaanites, the Chitites, the Perizites, the Chivities, and the Yevusites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:12",
+      "he": "אִסְתַּמַּר לָךְ דִּילְמָא תִגְזַר קְיַם לְיָתֵב אַרְעָא דִּי אַתְּ עָלֵל עֲלַהּ דִּילְמָא יְהֵי לְתַקְלָא בֵּינָךְ:",
+      "en": "For your own sake, be careful not to make a covenant with the people who live in the land to which you are coming, lest it be a trap in your midst.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:13",
+      "he": "אֲרֵי יָת אֲגוֹרֵיהוֹן תְּתַרְעוּן וְיָת קָמַתְהוֹן תְּתַבְּרוּן וְיָת אֲשֵׁרֵיהוֹן תְּקַצְּצוּן:",
+      "en": "Rather you must shatter their altars, break down their monuments, and cut down their asherah-trees.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:14",
+      "he": "אֲרֵי לָא תִסְגּוֹד לְטַעֲוַת עַמְמַיָּא אֲרֵי יְיָ קַנָּא שְׁמֵיהּ אֵל קַנָּא הוּא:",
+      "en": "For you must not prostrate yourselves to another god [false gods of the peoples], because Adonoy—Jealous is His Name—He is a Jealous Almighty [God].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:15",
+      "he": "דִּילְמָא תִגְזַר קְיַם לְיָתֵב אַרְעָא וְיִטְעוּן בָּתַר טַעֲוַתְהוֹן וְיִדְבְּחוּן לְטַעֲוַתְהוֹן וְיִקְרוּן לָךְ וְתֵיכוּל מִדִּבְחֵיהוֹן:",
+      "en": "[Take care] not to make a covenant with the people who live in the land, and go astray after their [false] gods [religions], and sacrifice to their [false] gods, [for he] will then call you and you will eat of his sacrifice.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:16",
+      "he": "וְתִסַּב מִבְּנַתְהוֹן לִבְנָיךְ וְיִטְעַיַּן בְּנַתְהוֹן בָּתַר טַעֲוַתְהוֹן וְיִטְעַיַּן יָת בְּנָיךְ בָּתַר טַעֲוַתְהוֹן:",
+      "en": "You will [then] accept his daughters [as wives] for your sons. His daughters will stray after their [false] gods, and they will lead your sons to stray after their [false] gods.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:17",
+      "he": "דַּחֲלַן דְּמַתְכָא לָא תַעְבֵּד לָךְ:",
+      "en": "You must not make molten gods for yourselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:18",
+      "he": "יָת חַגָּא דְפַטִּירַיָּא תִּטַּר שִׁבְעָא יוֹמִין תֵּיכוּל פַּטִּירָא כְּמָא דִי פַקֵּדְתָּךְ לִזְמַן יַרְחָא דְאַבִּיבָא אֲרֵי בְּיַרְחָא דְאַבִּיבָא נְפַקְתָּא מִמִּצְרָיִם:",
+      "en": "Preserve the Festival of Matzos. Eat matzos for seven days as I commanded you, at the appointed time in the month of ripening [grain]; for in the month of ripening [grain] you went out of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:19",
+      "he": "כָּל פָּתַח וַלְדָּא דִּילִי וְכָל בְּעִירָךְ דִּכְרִין תַּקְדֵּשׁ בְּכוֹר תּוֹר וְאִימָר:",
+      "en": "All that opens the womb [the first-born] is Mine, and of all your livestock that is male [you shall sanctify], that open [the womb] [the first-born] both cattle and sheep.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:20",
+      "he": "וּבוּכְרָא דַחֲמָרָא תִּפְרוֹק בְּאִימְרָא וְאִם לָא תִפְרוֹק וְתַנְקְפֵיהּ כָּל בּוּכְרָא דִבְנָיךְ תִּפְרוֹק וְלָא יִתְחֲזוּן קֳדָמַי רֵיקָנִין:",
+      "en": "The [first-born] donkey that opens the womb shall be redeemed with a sheep, and if it is not redeemed, you must break its neck. [You must] redeem all first-born of your sons, and you must not appear before Me empty-handed.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:21",
+      "he": "שִׁתָּא יוֹמִין תִּפְלָח וּבְיוֹמָא שְׁבִיעָאָה תְּנוּחַ בִּזְרוֹעָא וּבַחֲצָדָא תְּנוּחַ:",
+      "en": "Six days you shall work but on the Seventh day you must cease; you must cease plowing [sowing] and harvesting.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:22",
+      "he": "וְחַגָּא דְשָׁבוּעַיָּא תַּעְבֵּד לָךְ בִּכּוּרֵי חֲצַד חִטִּין וְחַגָּא דִּכְנָשָׁא בְּמִפְקָא דְּשַׁתָּא:",
+      "en": "Make the Festival of Shavuos, [with bringing] the first crops of the wheat harvest; [also] the Festival of the Harvest at the turn of the year.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:23",
+      "he": "תְּלַת זִמְנִין בְּשַׁתָּא יִתְחֲזוּן כָּל דְּכוּרָיךְ קֳדָם רִבּוֹן עָלְמָא יְיָ אֱלָהָא דְיִשְׂרָאֵל:",
+      "en": "Three times a year all your males shall appear before the Presence of the Master [of the world], Adonoy, God of Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:24",
+      "he": "אֲרֵי אֲתָרֵךְ עַמְמִין מִן קֳדָמָךְ וְאַפְתֵּי יָת תְּחוּמָךְ וְלָא יַחְמֵד אֱנַשׁ יָת אַרְעָךְ בְּמִסְקָךְ לְאִתְחַזָּאָה קֳדָם יְיָ אֱלָהָךְ תְּלַת זִמְנִין בְּשַׁתָּא:",
+      "en": "For I will drive out the nations before you, and I will expand your boundaries; and no man will covet your land when you go up to appear before Adonoy, your God, three times a year.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:25",
+      "he": "לָא תִכּוֹס עַל חֲמִיעַ דַּם פִּסְחִי וְלָא יְבִתוּן לְצַפְרָא בַּר מִמַּדְבְּחָא תַּרְבֵּי נִכְסַת חַגָּא דְפִסְחָא:",
+      "en": "Do not slaughter [the Pesach-offering to offer] the blood of My sacrifice [Pesach-offering] while there is chometz; and do not allow to remain overnight until morning [off the Altar] any [fats] of the offering of the Pesach Festival.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:26",
+      "he": "רֵישׁ בִּכּוּרֵי אַרְעָךְ תַּיְתֵי לְבֵית מַקְדְּשָׁא דַּיְיָ אֱלָהָךְ לָא תֵיכְלוּן בְּשַׂר בַּחֲלָב:",
+      "en": "The first fruits of your land, you shall bring to the House [of the Sanctuary] of Adonoy, your God. You must not cook a kid in its mother’s milk [eat meat with milk].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:27",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה כְּתַב לָךְ יָת פִּתְגָּמַיָּא הָאִלֵּין אֲרֵי עַל מֵימַר פִּתְגָּמַיָּא הָאִלֵּין גְּזָרִית עִמָּךְ קְיַם וְעִם יִשְׂרָאֵל:",
+      "en": "Adonoy said to Moshe, “Write these words down for yourself, for with [regarding the expression of] these words I have made a covenant with you and with [the B’nei] Yisrael.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:28",
+      "he": "וַהֲוָה תַמָּן קֳדָם יְיָ אַרְבְּעִין יְמָמִין וְאַרְבְּעִין לֵילָוָן לַחְמָא לָא אֲכַל וּמַיָּא לָא שְׁתֵי וּכְתַב עַל לוּחַיָּא יָת פִּתְגָּמֵי קְיָמָא עַשְׂרָא פִּתְגָּמִין:",
+      "en": "He [Moshe] remained there with [before] Adonoy for forty days and forty nights. He did not eat bread nor drink water, and He wrote on the tablets the words of the covenant, the Ten Words [commandments.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:29",
+      "he": "וַהֲוָה כַּד נְחַת משֶׁה מִטּוּרָא דְסִינַי וּתְרֵין לוּחֵי סַהֲדוּתָא בִּידָא דְמשֶׁה בְּמֵחֲתֵיהּ מִן טוּרָא וּמשֶׁה לָא יְדַע אֲרֵי סְגֵי זִיו יְקָרָא דְאַפּוֹהִי בְּמַלָּלוּתֵיהּ עִמֵּיהּ:",
+      "en": "And when Moshe came down from Mount Sinai, and the two Tablets of the Testimony were in Moshe’s hand when he came down from the Mountain. Moshe did not know that the skin [splendor of the glory] of his face had become radiant [increased] when He [God] spoke to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:30",
+      "he": "וַחֲזָא אַהֲרֹן וְכָל בְּנֵי יִשְׂרָאֵל יָת משֶׁה וְהָא סְגֵי זִיו יְקָרָא דְאַפּוֹהִי וּדְחִילוּ מִלְּאִתְקְרָבָא לְוָתֵיהּ:",
+      "en": "When Aharon and all the B’nei Yisrael saw Moshe, and beheld that the skin [splendor of the glory] of his face had become radiant [increased], they were afraid to come close to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:31",
+      "he": "וּקְרָא לְהוֹן משֶׁה וְתָבוּ לְוָתֵיהּ אַהֲרֹן וְכָל רַבְרְבַיָּא בִּכְנִשְׁתָּא וּמַלֵּל משֶׁה עִמְּהוֹן:",
+      "en": "Moshe called to them and they returned to him—Aharon and all the leaders of the congregation—and Moshe spoke to them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:32",
+      "he": "וּבָתַר כֵּן אִתְקְרִיבוּ כָּל בְּנֵי יִשְׂרָאֵל וּפַקֵּדִנּוּן יָת כָּל דִּי מַלֵּל יְיָ עִמֵּיהּ בְּטוּרָא דְסִינָי:",
+      "en": "After that, all the B’nei Yisrael came close [to him] and he commanded them [regarding] all that Adonoy had spoken with him on Mount Sinai.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:33",
+      "he": "וְשֵׁיצֵי משֶׁה מִלְמַלָּלָא עִמְּהוֹן וִיהַב עַל אַפּוֹהִי בֵּית אַפֵּי:",
+      "en": "When Moshe finished speaking with them, he placed a [face] cover[ing] over his face.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:34",
+      "he": "וְכַד עָלֵל משֶׁה לָקֳדָם יְיָ לְמַלָּלָא עִמֵּיהּ אַעְדִּי יָת בֵּית אַפּוֹהִי עַד מִפְּקֵיהּ וְנָפֵק וּמְמַלֵּל עִם בְּנֵי יִשְׂרָאֵל יָת דִי מִתְפַּקָּד:",
+      "en": "[But] when Moshe came before Adonoy, to speak to Him; he removed the [face] cover[ing] until he was ready to leave. and he would then go out and speak to the B’nei Yisrael, [telling them] what he had been commanded.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 34:35",
+      "he": "וַחֲזָן בְּנֵי יִשְׂרָאֵל יָת אַפֵּי משֶׁה אֲרֵי סְגֵי זִיו יְקָרָא דְאַפֵּי משֶׁה וַאֲתֵב משֶׁה יָת בֵּית אַפֵּי עַל אַפּוֹהִי עַד דְּעָלֵל לְמַלָּלָא עִמֵּיהּ:",
+      "en": "The B’nei Yisrael saw Moshe’s face, that the skin [splendor of the glory] of Moshe’s face had become radiant [increased], and Moshe replaced the [face] cover[ing] over his face until he would come in to speak to Him [Adonoy].",
+      "fr": ""
+    }
+  ]
+}

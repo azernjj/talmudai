@@ -1,0 +1,715 @@
+{
+  "name": "Mishpatim",
+  "range": "Exodus 21:1-24:18",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Exodus 21:1",
+      "he": "וְאִלֵין דִינַיָא דִי תַסְדַר קֳדָמֵיהוֹן:",
+      "en": "And these are the laws that you shall set before them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:2",
+      "he": "אֲרֵי תִזְבַּן עַבְדָא בַר יִשְׂרָאֵל שִׁתְּ שְׁנִין יִפְלָח וּבַשְׁבִיעֵתָא יִפּוֹק לְבַר חוֹרִין מַגָן:",
+      "en": "If you buy a Hebrew slave [who is a son of a Hebrew], he shall serve [you] for six years, but in the seventh [year] he is to go out free, for naught [without liability].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:3",
+      "he": "אִם בִּלְחוֹדוֹהִי יֵיעוֹל בִּלְחוֹדוֹהִי יִפּוֹק אִם בְּעֵל אִתְּתָא הוּא וְתִפּוֹק אִתְּתֵהּ עִמֵהּ:",
+      "en": "If he came by himself [unmarried], he shall go out by himself. If he was married, his wife shall go out with him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:4",
+      "he": "אִם רִבּוֹנֵהּ יִתֶּן לֵהּ אִתְּתָא וּתְלִיד לֵהּ בְּנִין אוֹ בְנָן אִתְּתָא וּבְנָהָא תְּהֵי לְרִבּוֹנָהָא וְהוּא יִפּוֹק בִּלְחוֹדוֹהִי:",
+      "en": "If his master should give him a wife, and she bears him sons or daughters, then the woman and her children belong to her master, and he shall go out by himself.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:5",
+      "he": "וְאִם מֵימַר יֵימַר עַבְדָא רָחֵימְנָא יָת רִבּוֹנִי יָת אִתְּתִי וְיָת בְּנָי לָא אֶפּוֹק לְבַר חוֹרִין:",
+      "en": "If the slave explicitly says, “I have come to love my master, my wife and my children, I do not want to go out free.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:6",
+      "he": "וִיקָרְבִנֵהּ רִבּוֹנֵהּ לִקֳדָם דַיָנַיָא וִיקָרְבִנֵהּ לְוָת דָשָׁא אוֹ לְוָת (נ\"א דִילְוָת) מְזֻזְתָּא וְיַרְצַע רִבּוֹנֵהּ יָת אוּדְנֵהּ בְּמַרְצְעָא וִיהֵי לֵהּ עֲבַד פָּלַח לְעָלָם:",
+      "en": "His master must bring him to [before] the judges. He must then bring him next to the door, or to the doorpost, and his master shall pierce his ear with an awl. He then serves his master [will be a working servant for him,] forever.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:7",
+      "he": "וַאֲרֵי יְזַבֵּן גְבַר יָת בְּרַתֵּהּ לְאַמְהוּ לָא תִפּוֹק כְּמַפְקָנוּת עַבְדַיָא:",
+      "en": "If a man sells his daughter to be a maidservant, she shall not go out [free] in the manner of male slaves.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:8",
+      "he": "אִם בִּישָׁא בְּעֵינֵי רִבּוֹנַהּ דִיקַיְמַהּ לֵהּ וְיִפְרְקִנַהּ לִגְבַר אָחֳרָן לֵית לֵהּ רְשׁוּ לְזַבּוֹנַהּ בְּמִשְׁלְטֵהּ בַהּ:",
+      "en": "If she is displeasing to her master, who had not designated [for otherwise he would have designated] her as his wife, he must allow her to be redeemed. He has no power [right] to sell her to an alien people [another man] for he has dealt deceitfully with [controlled] her.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:9",
+      "he": "וְאִם לִבְרֵהּ יְקַיְמִנַהּ כְּהִלְכַת בְּנַת יִשְׂרָאֵל יַעְבֵּד לַהּ:",
+      "en": "If he has designated her as a wife for his son, he must grant her exactly the same rights as daughters [of Yisrael].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:10",
+      "he": "אִם אָחֳרַנְתָּא יִסַב לֵהּ זִיוּנַהּ כְּסוּתַהּ וְעוֹנָתַהּ לָא יִמְנָע:",
+      "en": "If he takes himself another [wife], her sustenance, her clothing and her conjugal rights he must not diminish.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:11",
+      "he": "וְאִם תְּלָת אִלֵין לָא יַעְבֵּד לַהּ וְתִפּוֹק מַגָן בְּלָא כְסַף:",
+      "en": "If he does not do these three things to her, she goes out free with no repayment of money.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:12",
+      "he": "דְיִמְחֵי לֶאֱנַשׁ וְיִקְטְלִנֵהּ אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "If one strikes a man and he [the victim] dies, he shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:13",
+      "he": "וּדְלָא כְמַן לֵהּ וּמִן קֳדָם יְיָ אִתִּמְסַר לִידֵהּ וֶאֱשַׁוִי לָךְ אֲתַר דִי יֵעִרוֹק לְתַמָן:",
+      "en": "But if he did not lie in wait [to ambush him] but [from before] God [he was] brought it to his hand, then I will designate for you a place, to which he can flee [and find refuge].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:14",
+      "he": "וַאֲרֵי יַרְשַׁע גְבַר עַל חַבְרֵהּ לְמִקְטְלֵהּ בִנְכִילוּ מִן מַדְבְּחִי תִּדְבְּרִנֵהּ לִמְמָת:",
+      "en": "But if a man plots against his neighbor to kill him intentionally, you may [even] take him from My altar to put him to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:15",
+      "he": "וּדְיִמְחֵי אֲבוּהִי וְאִמֵהּ אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "Whoever strikes his father or his mother shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:16",
+      "he": "וְדִיִגְנוּב נַפְשָׁא מִן בְּנֵי יִשְׂרָאֵל וִיזַבְּנִנֵהּ וְיִשְׁתְּכַח בִּידֵהּ אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "Whoever steals [kidnaps] a man [person from B’nei Yisrael] and sells him, if he is found in his hand, he shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:17",
+      "he": "וְדִיְלוּט אֲבוּהִי וְאִמֵהּ אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "Whoever curses his father or his mother shall be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:18",
+      "he": "וַאֲרֵי יִנְצוּן גֻבְרִין וְיִמְחֵי גְבַר יָת חַבְרֵהּ בְּאַבְנָא אוֹ בְכוּרְמֵיזָא וְלָא יְמוּת וְיִפּוֹל לְבוּטְלָן:",
+      "en": "When men quarrel and one man hits his fellow with a stone or with [his] fist; and he [the victim] does not die but becomes bedridden [falls to idleness],",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:19",
+      "he": "אִם יְקוּם וִיהַלִיךְ בְּבָרָא עַל בּוּרְיֵהּ וִיהֵי זַכָּאָה מָחְיָא לְחוֹד בּוּטְלָנֵהּ יִתֵּן וַאֲגַר אַסְיָא יְשַׁלֵם:",
+      "en": "If he gets up and is able to walk on the outside on his own power, the one who struck him shall be acquitted. Still he must pay for his loss of work, and must pay for his complete cure [the doctor’s fee].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:20",
+      "he": "וַאֲרֵי יִמְחֵי גְבַר יָת עַבְדֵהּ אוֹ יָת אַמְתֵהּ בְּשָׁלְטָן וִימוּת תְּחוֹת יְדֵהּ אִתְדָנָא יִתְּדָן:",
+      "en": "If a man strikes his male or female slave with a rod [power], and [the slave] dies under his hand, [the death] must be avenged [judged].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:21",
+      "he": "בְּרַם אִם יוֹמָא אוֹ תְרֵין יוֹמִין יִתְקַיָם לָא יִתְּדָן אֲרֵי כַסְפֵּהּ הוּא:",
+      "en": "However if he [the slave] survives for a day or two, [his death] is not avenged [judged], for he [the slave] is his [master’s] property.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:22",
+      "he": "וַאֲרֵי יִנְצוּן גֻבְרִין וְיִמְחוּן אִתְּתָא מַעַדְיָא וְיִפְּקוּן וַלְדָהָא וְלָא יְהֵי מוֹתָא אִתְגְבָאָה יִתְגְבֵי כְּמָא דִי יְשַׁוִי עֲלוֹהִי בַּעֲלַהּ דְאִתְּתָא וְיִתֵּן עַל מֵימַר דַיָנַיָא:",
+      "en": "If men will fight and they strike a pregnant woman, causing her to miscarry, but there is no fatal injury [to the woman], he [the guilty one] is to be punished with a [monetary] penalty when the husband demands compensation. He shall pay as determined by the judges.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:23",
+      "he": "וְאִם מוֹתָא יְהֵא וְתִתֵּן נַפְשָׁא חֳלָף נַפְשָׁא:",
+      "en": "However if there is a fatal injury, you shall give [up] a life for a life.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:24",
+      "he": "עֵינָא חֳלָף עֵינָא שִׁנָא חֳלָף שִׁנָא יְדָא חֳלָף יְדָא רַגְלָא חֳלָף רַגְלָא:",
+      "en": "[Compensation of] an eye for an eye, [of] a tooth for a tooth, [of] a hand for a hand, [of] a foot for a foot.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:25",
+      "he": "כְּוָאָה חֳלָף כְּוָאָה פִּדְעָא חֳלָף פִּדְעָא מַשְׁקוֹפֵי חֳלָף מַשְׁקוֹפֵי:",
+      "en": "[Compensation of] a burn for a burn, [of] a wound for a wound, [of] a bruise [beating] for a bruise [beating].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:26",
+      "he": "וַאֲרֵי יִמְחֵי גְבַר יָת עֵינָא דְעַבְדֵהּ אוֹ יָת עֵינָא דְאַמְתֵהּ וִיחַבְּלִנַהּ לְבַר חוֹרִין יִפְטְרִנֵהּ חֳלָף עֵינֵהּ:",
+      "en": "If a man strikes the eye of his slave, or the eye of his female slave, and destroys [blinds] it, he shall set him [the slave] free as compensation for the eye.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:27",
+      "he": "וְאִם שִׁנָא דְעַבְדֵהּ אוֹ שִׁנָא דְאַמְתֵהּ יַפֵּל לְבַר חוֹרִין יִפְטְרִנֵהּ חֳלָף שִׁנֵהּ:",
+      "en": "If [he knocks out] the tooth of his slave, or knocks out the tooth of his female slave, he shall set him [the slave] free as compensation for the tooth.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:28",
+      "he": "וַאֲרֵי יַגַח תּוֹרָא יָת גַבְרָא אוֹ יָת אִתְּתָא וִימוּת אִתְרְגָמָא יִתְרְגֵם תּוֹרָא וְלָא יִתְאָכֵל יָת בִּסְרֵהּ וּמָרֵהּ דְתוֹרָא יְהֵי זַכָּאָה:",
+      "en": "If an ox gores a man or woman and the victim dies, the ox shall be stoned [to death], and its flesh may not be eaten. The owner of the ox shall go unpunished.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:29",
+      "he": "וְאִם תּוֹר נַגַח הוּא מֵאִתְּמַלֵי וּמִדְקַמוֹהִי וְיִתַּסְהֵד בְּמָרֵהּ וְלָא נַטְרֵהּ וְיִקְטוֹל גַבְרָא אוֹ אִתְּתָא תּוֹרָא יִתְרְגֵם וְאַף מָרֵהּ יִתְקְטֵל:",
+      "en": "But if the ox had gored yesterday and the day before, and a warning was given to its owner, but he had not taken proper precautions to guard it, and kills a man or a woman, the ox must be stoned, and the owner also shall die [by Divine decree].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:30",
+      "he": "אִם מָמוֹן יְשַׁווּן עֲלוֹהִי וְיִתֵּן פּוּרְקַן נַפְשֵׁהּ כְּכֹל דִי יְשַׁווּן עֲלוֹהִי:",
+      "en": "When an atonement fine shall be imposed on him, he must give for the redemption of his soul whatever sum is imposed on him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:31",
+      "he": "אוֹ לְבַר יִשְׂרָאֵל יַגַח תּוֹרָא אוֹ לְבַת יִשְׂרָאֵל יַגָח כְּדִינָא הָדֵין יִתְעֲבֵד לֵהּ:",
+      "en": "Whether it is a son [a minor lad] [of Yisrael] that is gored [by the ox] or a daughter [a minor girl] [of Yisrael] that it gored, this law shall apply to it.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:32",
+      "he": "אִם לְעַבְדָא יַגַח תּוֹרָא אוֹ לְאַמְתָא כְּסַף תְּלָתִין סִלְעִין יִתֵּן לְרִבּוֹנֵהּ וְתוֹרָא יִתְרְגֵם:",
+      "en": "If the ox gored a male or female slave, he must give thirty silver shekalim [selaim] to their master, and the ox must be stoned.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:33",
+      "he": "וַאֲרֵי יִפְתַּח גְבַר גוֹב אוֹ אֲרֵי יִכְרֶה גְבַר גוֹב וְלָא יְכַסִנֵהּ וְיִפֵּל תַּמָן תּוֹרָא אוֹ חֲמָרָא:",
+      "en": "If a man uncovers a pit, or if a man digs a pit, and does not cover it, and an ox or a donkey falls into it;",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:34",
+      "he": "מָרֵי דְגֻבָּא יְשַׁלֵם כַּסְפָּא יָתִיב לְמָרוֹהִי וּמֵיתָא יְהֵי דִילֵהּ:",
+      "en": "The owner of the pit must pay. He must compensate its owner with money, and the dead [animal] remains his [its original owner’s] possesion.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:35",
+      "he": "וַאֲרֵי יִגוֹף תּוֹר דִגְבַר יָת תּוֹרָא דְחַבְרֵהּ וִימוּת וִיזַבְּנוּן יָת תּוֹרָא חַיָא וִיפַלְגוּן יָת כַּסְפֵּהּ וְאַף יָת דְמֵי מֵיתָא יְפַלְגוּן:",
+      "en": "If a man’s ox injures his neighbor’s ox and it dies, they shall sell the live ox and divide the money received for it. They shall also divide [the value of] the dead animal.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:36",
+      "he": "אוֹ אִתְיְדַע אֲרֵי תוֹר נַגַח הוּא מֵאִתְּמַלֵי וּמִדְקַמוֹהִי וְלָא נָטְרֵהּ מָרֵהּ שַׁלָמָא יְשַׁלֵם תּוֹרָא חֲלַף תּוֹרָא וּמֵיתָא יְהֵא דִילֵהּ:",
+      "en": "If it was known that it was a goring ox from yesterday and the day before, but he had not taken proper precaution to guard it, then he must pay full compensation, an ox for an ox. The dead [animal] remains in the possession [of its owner].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:37",
+      "he": "אֲרֵי יִגְנוּב גְבַר תּוֹר אוֹ אִמָר וְיִכְּסִנֵהּ אוֹ יְזַבְּנִנֵהּ חַמְשָׁא תוֹרִין יְשַׁלֵם חָלָף תּוֹרָא וְאַרְבַּע עָנָא חֳלָף אִמְרָא:",
+      "en": "If a man steals an ox or a sheep, and then slaughters or sells it, he must pay five oxen for each ox, and four sheep for each sheep.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:1",
+      "he": "אִם בְּמַחְתַּרְתָּא יִשְׁתְּכַח גַנָבָא וְיִתְמְחֵי וִימוּת לֵית לֵהּ דָם:",
+      "en": "If the thief is found [caught] while breaking in, and is struck and killed, there is no liability for his blood.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:2",
+      "he": "אִם עֵינָא דְסָהֲדַיָא נְפָלַת עֲלוֹהִי דְמָא לֵהּ שַׁלָמָא יְשַׁלֵם אִם לֵית לֵהּ וְיִזְדַבַּן בִּגְנֻבְתֵּהּ:",
+      "en": "If the sun shone on him [eyes of witnesses fell upon him], there is liability for his blood. He must make full restitution. If he does not have [the means to do so], he shall be sold [as a slave to pay] for his theft.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:3",
+      "he": "אִם אִשְׁתְּכָחָא יִשְׁתְּכַח בִּידֵהּ גְנֻבְתָּא מִתּוֹר עַד חֲמַר עַד אִמַר כַּד אִנוּן חַיִין עַל חַד תְּרֵין יְשַׁלֵם:",
+      "en": "If the stolen article is found in his hand [possession], whether it is an ox, donkey or sheep [that is alive], he must pay two live animals.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:4",
+      "he": "אֲרֵי יֹאכִיל גְבַר חֲקַל אוֹ כְרָם וִישַׁלַח יָת בְּעִירֵהּ וְיֵיכוּל בַּחֲקַל אָחֳרָן שְׁפַר חַקְלֵהּ וּשְׁפַר כַּרְמֵהּ יְשַׁלֵם:",
+      "en": "If he damages a field or vineyard with his animal—he lets his livestock loose, and [or] it feeds in another’s field—from his [own] prime field and prime vineyard he must compensate [the owner].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:5",
+      "he": "אֲרֵי תִתַּפַּק נוּר וְיַשְׁכַּח כּוּבִין וְיֵיכוּל גְדִישִׁין אוֹ קֳמָא אוֹ חַקְלָא שַׁלָמָא יְשַׁלֵם דְאַדְלֵק יָת דְלֶקְתָּא:",
+      "en": "If a fire goes out of control and finds [catches on] thorns, and then consumes bound or standing grain or a field, full restitution must be made by the one who started the fire.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:6",
+      "he": "אֲרֵי יִתֵּן גְבַר לְחַבְרֵהּ כְּסַף אוֹ מָנִין לְמִטַר וְיִתְגַנְבוּן מִבֵּית גַבְרָא אִם יִשְׁתְּכַח גַנָבָא יְשַׁלֵם עַל חַד תְּרֵין:",
+      "en": "If a man gives his neighbor money or articles to safeguard and they are stolen from the house of the [watch]man, if the thief is found, he must pay double.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:7",
+      "he": "אִם לָא יִשְׁתְּכַח גַנָבָא וְיִתְקָרֵב מָרֵי דְבֵיתָא לִקֳדָם דַיָנַיָא אִם לָא אוֹשִׁיט יְדֵהּ בְּמָא דִמְסַר לֵהּ חַבְרֵהּ:",
+      "en": "If the thief is not found, the owner of the house [the watchman] must come before the judges [Beis Din], [to swear] that he did not lay a hand on his neighbor’s possessions [for his personal use] [that which his neighbor handed over to him].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:8",
+      "he": "עַל כָּל פִּתְגַם דְחוֹב עַל תּוֹר עַל חֲמַר עַל אִמָר עַל כְּסוּ עַל כָּל אֲבֶדְתָּא דִי יֵימַר אֲרֵי הוּא דֵין לִקֳדָם דַיָנַיָא יֵיעוֹל דִין תַּרְוֵיהוֹן דִי יְחַיְבוּן דַיָנַיָא יְשַׁלֵם עַל חַד תְּרֵין לְחַבְרֵהּ:",
+      "en": "In every question of dishonesty whether it involves an ox, a donkey, a sheep, a garment, or anything that was [allegedly] lost of which [a witness] says, “This is it!” the claims of both parties must be brought to [before] the judges. The one whom the judges find guilty, must pay double restitution to his neighbor.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:9",
+      "he": "אֲרֵי יִתֵּן גְבַר לְחַבְרֵהּ חֲמַר אוֹ תוֹר אוֹ אִמָר וְכָל בְּעִירָא לְמִטָר וּמִית אוֹ אִתְּבַר אוֹ אִשְׁתְּבִי לֵית דְחָזֵי:",
+      "en": "If a man gives his neighbor, a donkey, an ox, a sheep, or any animal for safeguarding; and it dies, or is injured, or is captured, and there is no eyewitness,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:10",
+      "he": "מוֹמָתָא דַיְיָ תְּהֵי בֵּין תַּרְוֵיהוֹן אִם לָא אוֹשִׁיט יְדֵהּ בְּמָא דִמְסַר לֵהּ חַבְרֵהּ וִיקַבֵּל מָרֵהּ מִנֵהּ מוֹמָתָא וְלָא יְשַׁלֵם:",
+      "en": "an oath to Adonoy shall be between them, that he [the watcher] did not lay his hand on his neighbor’s possession [for his personal use] [that which his neighbor handed over to him]. The owner must accept it [the oath], and [the watcher] need not make restitution.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:11",
+      "he": "וְאִם אִתְגְנָבָא יִתְגְנֵב מֵעִמֵהּ יְשַׁלֵם לְמָרוֹהִי:",
+      "en": "But if it was indeed stolen from him, he must make restitution to its owner.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:12",
+      "he": "אִם אִתְּבָרָא יִתְּבַר יַיְתִי סַהֲדִין דִתְבִירָא לָא יְשַׁלֵם:",
+      "en": "If it was torn apart [killed by wild beasts], he [the watcher] must provide witnesses [that is was torn apart]. He then need not pay for that which was torn apart.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:13",
+      "he": "וַאֲרֵי יִשְׁאַל גְבַר מִן חַבְרֵהּ וְיִתְּבַר אוֹ מִית מָרֵהּ לֵית עִמֵהּ שַׁלָמָא יְשַׁלֵם:",
+      "en": "If a man borrows something from his neighbor, and it becomes broken or dies; if the owner is not [involved] with him, he [the borrower] must make full restitution.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:14",
+      "he": "אִם מָרֵהּ עִמֵהּ לָא יְשַׁלֵם אִם אֲגִירָא הוּא עַל בְּאַגְרֵהּ:",
+      "en": "If the owner is [involved] with him, then he [the borrower] need not make restitution. If it was hired, it [the ox] comes in its rental price.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:15",
+      "he": "וַאֲרֵי יְשַׁדֵל גְבַר בְתֻלְתָּא דִּי לָא מְאַרְסָא וְיִשְׁכּוּב עִמַהּ קַיָמָא יְקַיְמִנַהּ לֵהּ לְאִנְתּוּ:",
+      "en": "If a man seduces a virgin who is not betrothed, and lies with her; he must give the dowry to acquire [establish] her as his wife.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:16",
+      "he": "אִם מִצְבָּא לָא יִצְבֵּי אֲבוּהָא לְמִתְּנַהּ לֵהּ כַּסְפָּא יִתְקוֹל כְּמוֹהֲרֵי בְּתֻלְתָּא:",
+      "en": "If her father utterly refuses to give her to him, he must give [the father] the weight of silver equal to the dowry usually given to virgins.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:17",
+      "he": "חָרָשָׁא לָא תָחֵי:",
+      "en": "You shall not allow a witch to live.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:18",
+      "he": "כָּל דְיִשְׁכּוּב עִם בְּעִירָא אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "Whoever lies with an animal must be put to death.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:19",
+      "he": "דְדַבַּח לְטַעְוַת עַמְמַיָא יִתְקְטֵל אֶלָהֵן לִשְׁמָא דַיְיָ בִּלְחוֹדוֹהִי:",
+      "en": "Whoever slaughters to a god [false gods of the peoples] must be condemned [to die]. [Sacrifices may be offered] to [the Name of] Adonoy alone.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:20",
+      "he": "וְגִיוֹרָא לָא תוֹנוּן וְלָא תְעִיקוּן לֵהּ אֲרֵי דַיָרִין הֱוֵיתוּן בְּאַרְעָא דְמִצְרָיִם:",
+      "en": "You must not abuse or oppress a stranger, for you were strangers in the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:21",
+      "he": "כָּל אַרְמְלָא וְיִתָּם לָא תְעַנוּן:",
+      "en": "You must not mistreat any widow or orphan.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:22",
+      "he": "אִם עַנָאָה תְעַנֵי יָתֵהּ אֲרֵי אִם מִקְבַל יִקְבֵל קֳדָמַי קַבָּלָא אֱקַבֵּל קְבִלְתֵּהּ:",
+      "en": "If you do mistreat him [them], when he cries out to [before] Me, I will indeed hear [obey] his cry.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:23",
+      "he": "וְיִתְקֵף רוּגְזִי וְאֶקְטוֹל יָתְכוֹן בְּחַרְבָּא וִיהֶוְיָן נְשֵׁיכוֹן אַרְמְלִין וּבְנֵיכוֹן יַתְמִין:",
+      "en": "Then I will cause My anger to flare, and I will kill you by the sword. Your wives will become widows and your children will be orphans.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:24",
+      "he": "אִם כַּסְפָּא תּוֹזֵף בְּעַמִי לְעַנְיָא דִי עִמָךְ לָא תְהֵי לֵהּ כְּרַשְׁיָא לָא תְשַׁוּוֹן עֲלוֹהִי חִבּוּלְיָא:",
+      "en": "When you lend money to My people, to the poor person who is with [among] you, do not act toward him as a [demanding] creditor. Do not place the burden of interest [an injury] upon him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:25",
+      "he": "אִם מַשְׁכּוֹנָא תִסַב כְּסוּתָא דְחַבְרָךְ עַד מֵעַל שִׁמְשָׁא תְּתִיבִנֵהּ לֵהּ:",
+      "en": "If you take your neighbor’s garment as security, you must return it to him till sunset;",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:26",
+      "he": "אֲרֵי הִיא כְסוּתֵהּ בִּלְחוֹדַהּ הִיא תוֹתְבֵהּ לְמַשְׁכֵּיהּ בְּמָא יִשְׁכּוּב וִיהֵי אֲרֵי יִקְבֵל קֳדָמַי וֶאֱקַבֵּל קְבִלְתֵּהּ אֲרֵי חַנָנָא אֲנָא:",
+      "en": "For this alone is his covering, the garment [to cover] his skin. With what shall he lie down [to sleep]? If it happens that he cries out to [before] Me, I will hear [obey] [his cry] for I am gracious.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:27",
+      "he": "דַיָנָא לָא תְקִיל וְרַבָּא בְעַמָךְ לָא תְלוּט:",
+      "en": "Do not curse judges. Do not curse a leader of your people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:28",
+      "he": "בִּכּוּרָךְ וְדִמְעָךְ לָא תְאַחֵר בּוּכְרָא דִבְנָיךְ תַּפְרֵשׁ קֳדָמָי:",
+      "en": "[Your offering of] the fullness [of your newly ripened produce] and of your terumah-offering’s you must not delay. The first-born of your sons, you shall give to [separate before] Me.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:29",
+      "he": "כֵּן תַּעְבֵּד לְתוֹרָךְ לְעָנָךְ שִׁבְעָא יוֹמִין יְהֵי עִם אִמֵהּ בְּיוֹמָא תְמִינָאָה תִּפְרְשִׁנֵהּ קֳדָמָי:",
+      "en": "You must do likewise with your oxen and with your sheep. Seven days it shall remain with its mother. On the eighth day you must give it to [separate it before] Me.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:30",
+      "he": "וֶאֱנָשִׁין קַדִישִׁין תְּהוֹן קֳדָמָי וּבְשַׂר תְּלִישׁ מִן חֵיוָא חַיְתָא לָא תֵיכְלוּן לְכַלְבָּא תִּרְמוּן יָתֵהּ:",
+      "en": "You shall be men of holiness to [before] Me, and you must not eat flesh that was torn off in the field [from a living animal]. Throw it to the dog.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:1",
+      "he": "לָא תְקַבֵּל שְׁמַע דִשְׁקָר לָא תְשַׁוִי יְדָךְ עִם חַיָבָא לְמֶהֱוֵי לֵהּ סָהִיד שְׁקָר:",
+      "en": "Do not accept a false report. Do not join hands with a wicked man to be a corrupt [false] witness [for him].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:2",
+      "he": "לָא תְהֵי בָּתַר סַגִיאִין לְאַבְאָשָׁא וְלָא תִתְמְנַע מִלְאַלָפָא מָא דִבְעֵינָךְ עַל דִינָא בָּתַר סַגִיאֵי שְׁלַם דִינָא:",
+      "en": "Do not follow the majority to do evil. Do not respond with your opinion in a dispute [merely] to lean [toward one side] [(Do not) refrain from teaching what is proper in your eyes regarding a judgment]. It must be decided by the majority.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:3",
+      "he": "וְעַל מִסְכֵּינָא לָא תְרַחֵם בְּדִינֵהּ:",
+      "en": "Do not show favor [even] to the poor in his dispute [judgment].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:4",
+      "he": "אֲרֵי תִפְגַע תּוֹרָא דְסָנְאָךְ אוֹ חֲמָרֵהּ דְטָעֵי אָתָבָא תְּתִיבִנֵהּ לֵהּ:",
+      "en": "If you come across your enemy’s ox or his donkey going astray, bring it back to him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:5",
+      "he": "אֲרֵי תֶחֱזֵי חֲמָרָא דְסָנְאָךְ רְבִיעַ תְּחוֹת טוֹעֲנֵיהּ וְתִתִּמְנַע מִלְמִשְׁבַּק לֵהּ מִשְׁבַּק תִּשְׁבּוֹק מָא דִבְלִבָּךְ עֲלוֹהִי וּתְפָרֵק עִמֵהּ:",
+      "en": "If you see the donkey of your enemy lying under its burden, and you might not want to help him [stop yourself from abandoning him], [but you should] [[you should]] make every effort to help him [abandon what is in you heart against him and unload with him] .",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:6",
+      "he": "לָא תַצְלֵי דִין מִסְכֵּינָךְ בְּדִינֵהּ:",
+      "en": "Do not bend justice [even] for your needy in his dispute.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:7",
+      "he": "מִפִּתְגָמָא דְשִׁקְרָא הֱוֵי רָחִיק וְדִזְכֵי וְדִי נְפַק (דְכֵי) מִן דִינָא לָא תִקְטוֹל אֲרֵי לָא אֱזַכֵּי חַיָבָא:",
+      "en": "Keep far away from anything false. Do not kill an [one who is] innocent [or one who goes out innocent from judgment] righteous man, for I will not acquit a wicked person.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:8",
+      "he": "וְשׁוֹחֲדָא לָא תְקַבֵּל אֲרֵי שׁוֹחֲדָא מְעַוֵר עֵינֵי חַכִּימִין וּמְקַלְקֵל פִּתְגָמִין תְּרִיצִין:",
+      "en": "Do not accept bribery, for bribery blinds the clear-sighted [eyes of the wise], and perverts the words of justice.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:9",
+      "he": "וְגִיוֹרָא לָא תְעִיקוּן וְאַתּוּן יְדַעְתּוּן יָת נַפְשָׁא דְגִיוֹרָא אֲרֵי דַיָרִין הֲוֵיתוּן בְּאַרְעָא דְמִצְרָיִם:",
+      "en": "Do not oppress a stranger. You [should] know the soul [feelings] of the stranger, for you were strangers in the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:10",
+      "he": "וְשִׁית שְׁנִין תִּזְרַע יָת אַרְעָךְ וְתִכְנוֹשׁ יָת עֲלַלְתַּהּ:",
+      "en": "You may sow your land for six years, and gather its crops.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:11",
+      "he": "וּשְׁבִעֵתָא תַּשְׁמְטִנַהּ וְתַרְטְשִׁנַהּ וְיֵיכְלוּן מִסְכְּנֵי עַמָךְ וּשְׁאָרְהוֹן תֵּיכוּל חֵיוַת בָּרָא כֵּן תַּעְבֵּד לְכַרְמָךְ לְזֵיתָךְ:",
+      "en": "But on the seventh [year] you must let it rest, and abandon it [by not eating its produce], and let the needy among your people eat it. What they leave over, the beasts of the field can eat. Do the same with your vineyard and your olive [trees].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:12",
+      "he": "שִׁתָּא יוֹמִין תַּעְבֵּד עוֹבָדָיךְ וּבְיוֹמָא שְׁבִיעָאָה תָּנוּחַ בְּדִיל דִינוּחַ תּוֹרָךְ וְחַמָרָךְ וְיִשְּׁקוֹט בַּר אַמְתָךְ וְגִיוֹרָא:",
+      "en": "You may do your work six days, but on the seventh day you must cease; so that your ox and your donkey may rest, and the son of your female slave may be refreshed, and [also] the stranger.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:13",
+      "he": "וּבְכֹל דִי אֲמָרִית לְכוֹן תִּסְתַּמְרוּן וְשׁוּם טַעֲוַת עַמְמַיָא לָא תִדְכְּרוּן לָא יִשְׁתְּמַע עַל פּוּמְכוֹן:",
+      "en": "Preserve everything that I have said to you. Do not mention the name of other [false] gods [of the peoples]. You must not cause it to be heard through your mouth.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:14",
+      "he": "תְּלַת זִמְנִין תֵּחוֹג קֳדָמַי בְּשַׁתָּא:",
+      "en": "Three times a year you are to celebrate with [before] Me.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:15",
+      "he": "יָת חַגָא דְפַטִירַיָא תִּטַר שִׁבְעָא יוֹמִין תֵּיכוּל פַּטִירָא כְּמָא דִפַקֵידִתָּךְ לִזְמַן יַרְחָא דַאֲבִיבָא אֲרֵי בֵהּ נְפַקְתָּ מִמִצְרָיִם וְלָא יִתְחֲזוּן קֳדָמַי רֵיקָנוּן:",
+      "en": "You must keep the festival of Matzos. You must eat matzos for seven days, as I have commanded you. [This festival must be celebrated] at the appointed time, during the month when the grain is ripened, for in it [at this time] you went out of Egypt. Do not appear before My Presence [Me] empty-handed.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:16",
+      "he": "וְחַגָא דַחֲצָדָא בִּכּוּרֵי עוֹבָדָיךְ דִי תִזְרַע בְּחַקְלָא וְחַגָא דִכְנָשָׁא בְּמִפְּקָא דְשַׁתָּא בְּמִכְנְשָׁךְ יָת עוֹבָדָיךְ מִן חַקְלָא:",
+      "en": "[You must also keep] the Festival of Harvest, [with bringing bikurim] the first fruits of your labor, which you planted in the field; [also] the Festival of Ingathering, at the close of the year, when you gather in [the fruits of] your labor from the field.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:17",
+      "he": "תְּלַת זִמְנִין בְּשַׁתָּא יִתְחֲזוּן כָּל דְכוּרָךְ קֳדָם רִבּוֹן עָלְמָא יְיָ:",
+      "en": "Three times a year, every male among you must appear before the Presence of the Master [of the world], Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:18",
+      "he": "לָא תִכּוֹס עַל חֲמִיעַ דַם פִּסְחִי וְלָא יְבִיתוּן בַּר מִן מַדְבְּחָא תַּרְבֵּי נִכְסַת חַגָא עַד צַפְרָא:",
+      "en": "You must not sacrifice—while chometz is present—My [Pesach] sacrifice. You must not allow to remain overnight [off the Altar]—the fat[s] of My [the] festival-offering—until morning.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:19",
+      "he": "רֵישׁ בִּכּוּרֵי אַרְעָךְ תַּיְתִי לְבֵית מִקְדְשָׁא דַיְיָ אֱלָהָךְ לָא תֵיכְלוּן בְּשַׂר בַּחֲלָב:",
+      "en": "The beginning of the first fruits of your land must be brought to the House of [the Sanctuary of] Adonoy, your God. You must not cook a young animal in the milk of its mother [eat meat with milk].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:20",
+      "he": "הָא אֲנָא שָׁלַח מַלְאָכָא קֳדָמָךְ לְמִטְרָךְ בְּאָרְחָא וּלְאָעֳלוּתָךְ לְאַתְרָא דִאַתְקֵנִית:",
+      "en": "Behold, I will send an angel before you, to guard you on the way, and to bring you to the place that I have prepared.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:21",
+      "he": "אִסְתַּמַּר מִן קֳדָמוֹהִי וְקַבֵּל לְמֵימְרֵהּ לָא תְסָרֵב לְקִבְלֵהּ אֲרֵי לָא יִשְׁבּוֹק לְחוֹבֵיכוֹן אֲרֵי בִשְׁמִי מֵימְרֵהּ:",
+      "en": "Be careful in his presence and heed [obey] his voice [word]. Do not rebel against him; for he cannot bear [pardon] your transgression, as [in] My Name is in him [his word].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:22",
+      "he": "אֲרֵי אִם קַבָּלָא תְקַבֵּל לְמֵימְרֵהּ וְתַעְבֵּד כֹּל דֶאֱמַלֵל וְאֶסְנֵי יָת סָנְאָךְ וְאָעִיק לְדִמְעִיקִין לָךְ:",
+      "en": "But if you truly listen to [obey] his voice [word], and do all that I speak, then I will be an enemy to your enemies, and attack those who attack you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:23",
+      "he": "אֲרֵי יְהַךְ מַלְאָכִי קֳדָמָךְ וְיָעֵלִנָךְ לְוָת אֱמוֹרָאֵי וְחִתָּאֵי וּפְרִיזָאֵי וּכְנַעֲנָאֵי חִוָאֵי וִיבוּסָאֵי וֶאֱשֵׁצִנוּן:",
+      "en": "My messenger will go before you, and will bring you into [the land of] the Emorites, the Chittites, the Perizzites, the Canaanites, Chivites, and the Yevusites, and I will then annihilate them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:24",
+      "he": "לָא תִסְגוּד לְטַעֲוָתְהוֹן וְלָא תִפְלְחִנוּן וְלָא תַעְבֵּד כְּעוֹבָדֵיהוֹן אֲרֵי פַגָרָא תְּפַגְרִנוּן וְתַבָּרָא תְתַבַּר קָמָתְהוֹן:",
+      "en": "You must not prostrate yourself to their [false] gods, nor serve [sacrifice to] them. You must not adopt their customs. You must totally destroy [their idols] and completely break down their monuments.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:25",
+      "he": "וְתִפְלְחוּן קֳדָם יְיָ אֱלָהֲכוֹן וִיבָרֵךְ יָת מֵיכְלָךְ וְיָת מִשְׁתְּיָךְ וְאַעְדִי מַרְעִין בִּישִׁין מִבֵּינָךְ:",
+      "en": "You must serve [before] Adonoy, your God, and He will bless your bread [food] and your water [drink]. I will eliminate [bad] sickness from your midst.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:26",
+      "he": "לָא תְהֵי מְתַכְּלָא וְעַקְרָא בְּאַרְעָךְ יָת מִנְיַן יוֹמָיךְ אַשְׁלִים:",
+      "en": "No woman will suffer miscarriage or remain childless in your land. I will cause the number of your days to be full.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:27",
+      "he": "יָת אֵימְתִי אֲשַׁלַח קֳדָמָךְ וְאִיתְבַּר (נ\"א וֶאֱשַׁגֵשׁ) יָת כָּל עַמָא דְאַתְּ אָתֵי לַאֲגָחָא בְּהוֹן וְאֶמְסַר יָת כָּל בַּעֲלֵי דְבָבָךְ קֳדָמָךְ מְחַזְרֵי קְדָל:",
+      "en": "I will send My dread ahead of you, and I will bring panic to all the people among whom you will come [to fight against]. I will make all your enemies turn their backs to [before] you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:28",
+      "he": "וְאֶשְׁלַח יָת עֲרָעִיתָא קֳדָמָךְ וּתְתָרֵךְ יָת חִוָאֵי יָת כְּנַעֲנָאֵי וְיָת חִתָּאֵי מִן קֳדָמָךְ:",
+      "en": "I will send [deadly] hornets ahead of you, and they will drive out the Chivites, the Canaanites, and the Chittites from before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:29",
+      "he": "לָא אֱתָרֵכִנוּן מִן קֳדָמָךְ בְּשַׁתָּא חֲדָא דִילְמָא תְהֵי אַרְעָא צַדְיָא וְתִסְגֵי עֲלָךְ חֵיוַת בָּרָא:",
+      "en": "I will not drive them out in a single year, lest the land become desolate, and the beasts of the field multiply against you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:30",
+      "he": "זְעֵיר זְעֵיר אֱתָרֵכִנוּן מִן קֳדָמָךְ עַד דְתִסְגֵי וְתַחְסֵן יָת אַרְעָא:",
+      "en": "Little by little I will drive them from before you, until you have increased and occupy the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:31",
+      "he": "וֶאֱשַׁוֵי יָת תְּחוּמָךְ מִיַמָא דְסוּף וְעַד יַמָא דִפְלִשְׁתָּאֵי וּמִמַדְבְּרָא עַד פְּרָת אֲרֵי אֶמְסַר בִּידֵיכוֹן יָת יָתְבֵי אַרְעָא וּתְתָרֵכִנוּן מִן קֳדָמָךְ:",
+      "en": "I will set your borders from the Reed Sea to the Philistine Sea, and from the desert to the [Euphrates] river, for I will deliver into your hands all the inhabitants of the land, and you will drive them away before you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:32",
+      "he": "לָא תִגְזַר לְהוֹן וּלְטַעֲוָתְהוֹן קְיָם:",
+      "en": "Do not make a pact with them or with their [false] gods.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:33",
+      "he": "לָא יֵתְבוּן בְּאַרְעָךְ דִילְמָא יְחַיְבוּן יָתָךְ קֳדָמָי אֲרֵי תִפְלַח יָת טַעֲוָתְהוֹן אֲרֵי יְהוֹן לָךְ לְתַקְלָא:",
+      "en": "Do not allow them to live in your land, since they may cause you to sin to [before] Me; that you [might] worship their [false] gods, and this would be a [fatal] trap to you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:1",
+      "he": "וּלְמשֶׁה אֲמַר סַק לִקֳדָם יְיָ אַתְּ וְאַהֲרֹן נָדָב וַאֲבִיהוּא וְשִׁבְעִין מִסָבֵי יִשְׂרָאֵל וְתִסְגְדוּן מֵרָחִיק:",
+      "en": "He [God] had said to Moshe, ‘Go up to [the Presence of] [before] Adonoy, you, Aharon, Nadav, Avihu, and seventy of the elders of [the B’nei] Yisrael, and prostrate yourselves at a distance.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:2",
+      "he": "וְיִתְקְרֵב משֶׁה בִלְחוֹדוֹהִי לִקֳדָם יְיָ וְאִנוּן לָא יִתְקָרְבוּן וְעַמָא לָא יִסְקוּן עִמֵהּ:",
+      "en": "Moshe alone shall approach [the Presence of] [before] Adonoy, but they must not approach, and the people must not go up with him.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:3",
+      "he": "וַאֲתָא משֶׁה וְאִשְׁתָּעִי לְעַמָא יָת כָּל פִּתְגָמַיָא דַיְיָ וְיָת כָּל דִינַיָא וַאֲתֵיב כָּל עַמָא קָלָא חַד וַאֲמָרוּ כָּל פִּתְגָמַיָא דִי מַלִיל יְיָ נַעְבֵּד:",
+      "en": "Moshe came and told the people all the words of Adonoy, and all the laws. The people responded with one voice and said, “All the words that Adonoy has spoken, we will do.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:4",
+      "he": "וּכְתַב משֶׁה יָת כָּל פִּתְגָמַיָא דַיְיָ וְאַקְדֵם בְּצַפְרָא וּבְנָא מַדְבְּחָא בְּשִׁפּוֹלֵי טוּרָא וְתַרְתָּא עֶשְׂרֵי קָמָן לִתְרֵי עֲסַר שִׁבְטַיָא דְיִשְׂרָאֵל:",
+      "en": "Moshe wrote down all the words of Adonoy. He arose early in the morning, and built an altar beneath [at the foot of] the mountain, and [also] twelve monuments [pillars] for the twelve tribes of [the B’nei] Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:5",
+      "he": "וּשְׁלַח יָת בּוּכְרֵי בְּנֵי יִשְׂרָאֵל וְאַסִיקוּ עֲלָוָן וְקָרִיבוּ נִכְסַת קוּדְשִׁין קֳדָם יְיָ תּוֹרִין:",
+      "en": "He sent the youths [first-born] of B’nei Yisrael and they offered burnt-offerings, and sacrificed oxen as peace-offerings to [before] Adonoy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:6",
+      "he": "וּנְסִיב משֶׁה פַּלְגוּת דְמָא וְשַׁוִי בְּמִזְרְקַיָא וּפַלְגוּת דְמָא זְרַק עַל מַדְבְּחָא:",
+      "en": "Moshe took half the blood and put it in the basins, and [the other] half the blood he sprinkled on the altar.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:7",
+      "he": "וּנְסִיב סִפְרָא דִקְיָמָא וּקְרָא קֳדָם עַמָא וַאֲמָרוּ כֹּל דִי מַלִיל יְיָ נַעְבֵּד וּנְקַבֵּל:",
+      "en": "He then took the Book of the Covenant, and read it in the ears of [before] the people. They said, “All that Adonoy has spoken, we will do and we will listen [obey].”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:8",
+      "he": "וּנְסִיב משֶׁה יָת דְמָא וּזְרַק עַל מַדְבְּחָא לְכַפָּרָא עַל עַמָא וַאֲמַר הָא דֵין דָם קְיָמָא דִגְזַר יְיָ עִמְכוֹן עַל כָּל פִּתְגָמַיָא הָאִלֵין:",
+      "en": "Moshe then took the blood and cast it on the [Altar to atone on behalf of the] people, and he said, “Behold, this is the blood of the covenant which Adonoy has made with you regarding all these words.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:9",
+      "he": "וּסְלֵיק משֶׁה וְאַהֲרֹן נָדָב וַאֲבִיהוּא וְשִׁבְעִין מִסָבֵי יִשְׂרָאֵל",
+      "en": "Moshe and Aharon then went up along with Nadav and Avihu, and seventy of the elders of [the B’nei] Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:10",
+      "he": "וַחֲזוֹ יָת יְקַר אֱלָהָא דְיִשְׂרָאֵל וּתְחוֹת כָּרְסָא יְקָרֵהּ כְּעוֹבַד אֶבֶן טָבָא וּכְמֶחֱזֵי שְׁמַיָא לְבָרִירוּ:",
+      "en": "They saw [a vision of] the [Glory of the] God of Yisrael, and under His feet [the throne of His Glory] [there was something] like a brickwork of sapphire [precious stone], and it was like the essence [image] of heaven in purity.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:11",
+      "he": "וּלְרַבְרְבֵי בְּנֵי יִשְׂרָאֵל לָא הֲוָה נִזְקָא וַחֲזוֹ יָת יְקָרָא דַיְיָ וַהֲווֹ חָדָן בְּקָרְבָּנֵיהוֹן דְאִתְקַבָּלוּ בְּרַעֲוָא כְּאִלוּ אָכְלִין וְשָׁתָן:",
+      "en": "But against the nobility of the B’nei Yisrael, He [God] did not send His hand [there was no damage]. They envisioned [saw the Glory of] God, and they [rejoiced in their sacrifices which were accepted graciously as if they] ate and drank.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:12",
+      "he": "וַאֲמַר יְיָ לְמשֶׁה סַק לִקֳדָמַי לְטוּרָא וֶהֱוֵי תַמָן וְאֶתֵּן לָךְ יָת לוּחֵי אַבְנָא וְאוֹרַיְתָא וְתַפְקֶדְתָּא דִכְתָבִית לְאַלוּפֵיהוֹן:",
+      "en": "Adonoy then said to Moshe, “Come up to [before] Me to the mountain and remain there. I will give you the tablets of stone, the Torah and the commandment, which I have written [in order] to teach them.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:13",
+      "he": "וְקָם משֶׁה וִיהוֹשֻׁעַ מְשֻׁמְשָׁנֵהּ וּסְלֵיק משֶׁה לְטוּרָא דְאִתְגְלִי עֲלוֹהִי יְקָרָא דַיְיָ:",
+      "en": "Moshe and Yehoshua, his attendant, set out, but [only] Moshe went up to the mountain [upon which the Glory] of God [was revealed].",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:14",
+      "he": "וּלְסָבַיָא אֲמַר אוֹרִיכוּ לָנָא הָכָא עַד דִנְתוּב לְוָתְכוֹן וְהָא אַהֲרֹן וְחוּר עִמְכוֹן מָן דְאִית לֵהּ דִינָא יִתְקְרֵב לִקֳדָמֵיהוֹן:",
+      "en": "He [Moshe] said to the elders, “Wait here for us until we return to you, and Aharon and Chur will be with you. Whoever has a claim can approach [before] them.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:15",
+      "he": "וּסְלֵק משֶׁה לְטוּרָא וַחֲפָא עֲנָנָא יָת טוּרָא:",
+      "en": "Moshe went up to the mountain, and the cloud covered the mountain.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:16",
+      "he": "וּשְׁרָא יְקָרָא דַיְיָ עַל טוּרָא דְסִינַי וַחֲפָהִי עֲנָנָא שִׁתָּא יוֹמִין וּקְרָא לְמשֶׁה בְּיוֹמָא שְׁבִיעָאָה מִגוֹ עֲנָנָא:",
+      "en": "The glory of Adonoy rested on Mount Sinai, and the cloud covered it for six days. On the seventh day, He called to Moshe from the midst of the cloud.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:17",
+      "he": "וְחֵיזוּ יְקָרָא דַיְיָ כְּחֵיזוּ אֶשָׁא אָכְלָא בְּרֵישׁ טוּרָא לְעֵינֵי בְּנֵי יִשְׂרָאֵל:",
+      "en": "The appearance of Adonoy’s glory was like [the appearance of] a consuming flame at the top to the mountain; before the eyes of the B’nei Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:18",
+      "he": "וְעַל משֶׁה בְּגוֹ עֲנָנָא וּסְלֵיק לְטוּרָא וַהֲוָה משֶׁה בְּטוּרָא אַרְבְּעִין יְמָמִין וְאַרְבְּעִין לֵילָוָן:",
+      "en": "And Moshe came into the midst of the cloud. and went up into the mountain. Moshe remained on the mountain for forty days and forty nights.",
+      "fr": ""
+    }
+  ]
+}

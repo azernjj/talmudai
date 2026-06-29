@@ -1,0 +1,799 @@
+{
+  "name": "Massei",
+  "range": "Numbers 33:1-36:13",
+  "commentary": "Onkelos",
+  "verses": [
+    {
+      "ref": "Numbers 33:1",
+      "he": "אִלֵּין מַטְּלָנֵי בְנֵי יִשְׂרָאֵל דִּי נְפָקוּ מֵאַרְעָא דְמִצְרַיִם לְחֵילֵיהוֹן בִּידָא דְמשֶׁה וְאַהֲרֹן:",
+      "en": "These are the journeys of Bnei Yisroel who went out of Egypt in organized groups under the leadership of Moshe and Aharon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:2",
+      "he": "וּכְתַב משֶׁה יָת מַפְּקָנֵיהוֹן לְמַטְּלָנֵיהוֹן עַל מֵימְרָא דַיְיָ וְאִלֵּין מַטְּלָנֵיהוֹן לְמַפְּקָנֵיהוֹן:",
+      "en": "Moshe recorded their departures for their journeys according to Adonoy’s command; these were the departure for their journeys.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:3",
+      "he": "וּנְטָלוּ מְרַעְמְסֵס בְּיַרְחָא קַדְמָאָה בְּחַמְשָׁא עַשְׂרָא יוֹמָא לְיַרְחָא קַדְמָאָה מִבָּתַר יוֹמָא דְפִּסְחָא נְפָקוּ בְנֵי יִשְׂרָאֵל בְּרֵישׁ גְּלֵי לְעֵינֵי כָּל מִצְרָאֵי:",
+      "en": "They journeyed from Ra’meses in the first month—on the fifteenth day of the first month—on the day after the [Korban] Pesach, Bnei Yisroel left triumphantly [publicly] before the eyes of all Egyptians.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:4",
+      "he": "וּמִצְרָאֵי מְקַבְּרִין יָת דִּי קְטַל יְיָ בְּהוֹן כָּל בּוּכְרָא וּבְטַעֲוַתְהוֹן עֲבַד יְיָ דִּינִין:",
+      "en": "Egypt was burying that which Adonoy had struck among them—all their firstborn—and on their idols [abominations] Adonoy had inflicted punishments.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:5",
+      "he": "וּנְטָלוּ בְנֵי יִשְׂרָאֵל מֵרַעְמְסֵס וּשְׁרוֹ בְּסֻכֹּת:",
+      "en": "Bnei Yisroel journeyed from Ra’meses and camped in Succos.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:6",
+      "he": "וּנְטָלוּ מִסֻּכֹּת וּשְׁרוֹ בְאֵתָם דִּי בִּסְטַר מַדְבְּרָא:",
+      "en": "They journeyed from Succos and camped in Eisom which is on the edge of the wilderness.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:7",
+      "he": "וּנְטָלוּ מֵאֵתָם וְתָב עַל פּוּם חִירָתָא דִּי קֳדָם בְּעֵל צְפוֹן וּשְׁרוֹ קֳדָם מִגְדֹּל:",
+      "en": "They journeyed from Eisom and turned back to Pi Hachiros facing Ba’al Tzefon, and they camped by Migdol.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:8",
+      "he": "וּנְטָלוּ מִן פּוּם חִירָתָא וַעֲבָרוּ בְּגוֹ יַמָּא לְמַדְבְּרָא וַאֲזָלוּ מַהֲלַךְ תְּלָתָא יוֹמִין בְּמַדְבְּרָא דְאֵתָם וּשְׁרוֹ בְּמָרָה:",
+      "en": "They journeyed from before [Pi] Hachiros and crossed amidst the sea toward the wilderness. They traveled for three days in the wilderness of Eisom, and camped in Moroh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:9",
+      "he": "וּנְטָלוּ מִמָּרָה וַאֲתוֹ לְאֵילִם וּבְאֵילִם תְּרֵי עֲשַׂר מַבּוּעִין דְּמַיִּן וְשַׁבְעִין דִּקְלִין וּשְׁרוֹ תַמָּן:",
+      "en": "They journeyed from Moroh and came to Eilim. In Eilim were twelve springs of water and seventy palm trees, and they camped there.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:10",
+      "he": "וּנְטָלוּ מֵאֵילִם וּשְׁרוֹ עַל יַמָּא דְסוּף:",
+      "en": "They journeyed from Eilim and camped by the Sea of Reeds.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:11",
+      "he": "וּנְטָלוּ מִיַּמָּא דְסוּף וּשְׁרוֹ בְּמַדְבְּרָא דְסִין:",
+      "en": "They journeyed from the Sea of Reeds and camped in the wilderness of Sin.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:12",
+      "he": "וּנְטָלוּ מִמַּדְבְּרָא דְסִין וּשְׁרוֹ בְּדָפְקָה:",
+      "en": "They journeyed from the wilderness of Sin and camped in Dofkoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:13",
+      "he": "וּנְטָלוּ מִדָּפְקָה וּשְׁרוֹ בְּאָלוּשׁ:",
+      "en": "They journeyed from Dofkoh and camped in Alush.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:14",
+      "he": "וּנְטָלוּ מֵאָלוּשׁ וּשְׁרוֹ בִּרְפִידִם וְלָא הֲוָה תַמָּן מַיָּא לְעַמָּא לְמִשְׁתֵּי:",
+      "en": "They journeyed from Alush and camped in Refidim, [but] there was no water there for the people to drink.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:15",
+      "he": "וּנְטָלוּ מֵרְפִידִם וּשְׁרוֹ בְּמַדְבְּרָא דְסִינָי:",
+      "en": "They journeyed from Refidim and camped in the wilderness of Sinai.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:16",
+      "he": "וּנְטָלוּ מִמַּדְבְּרָא דְסִינָי וּשְׁרוֹ בְּקִבְרֵי דִמְשַׁאֲלֵי:",
+      "en": "They journeyed from the wilderness of Sinai and camped in Kivros Hata’avoh [Graves of the Demanders].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:17",
+      "he": "וּנְטָלוּ מִקִּבְרֵי דִמְשַׁאֲלֵי וּשְׁרוֹ בַּחֲצֵרֹת:",
+      "en": "They journeyed from Kivros Hata’avoh [Graves of the Demanders] and camped in Chatzeiros.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:18",
+      "he": "וּנְטָלוּ מֵחֲצֵרֹת וּשְׁרוֹ בְּרִתְמָה:",
+      "en": "They journeyed from Chatzeiros and camped in Rismoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:19",
+      "he": "וּנְטָלוּ מֵרִתְמָה וּשְׁרוֹ בְּרִמֹּן פָּרֶץ:",
+      "en": "They journeyed from Rismoh and camped in Rimon Peretz.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:20",
+      "he": "וּנְטָלוּ מֵרִמֹּן פָּרֶץ וּשְׁרוֹ בְּלִבְנָה:",
+      "en": "They journeyed from Rimon Peretz and camped in Livnoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:21",
+      "he": "וּנְטָלוּ מִלִּבְנָה וּשְׁרוֹ בְּרִסָּה:",
+      "en": "They journeyed from Livnoh and camped in Risoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:22",
+      "he": "וּנְטָלוּ מֵרִסָּה וּשְׁרוֹ בִּקְהֵלָתָה:",
+      "en": "They journeyed from Risoh and camped in Keheilosoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:23",
+      "he": "וּנְטָלוּ מִקְהֵלָתָה וּשְׁרוֹ בְּטוּרָא דְשָׁפֶר:",
+      "en": "They journeyed from Keheilosoh and camped in Har Shefer.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:24",
+      "he": "וּנְטָלוּ מִטּוּרָא דְשָׁפֶר וּשְׁרוֹ בַּחֲרָדָה:",
+      "en": "They journeyed from Har Shefer and camped in Charodoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:25",
+      "he": "וּנְטָלוּ מֵחֲרָדָה וּשְׁרוֹ בְּמַקְהֵלוֹת:",
+      "en": "They journeyed from Charodoh and camped in Makheilos.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:26",
+      "he": "וּנְטָלוּ מִמַּקְהֵלוֹת וּשְׁרוֹ בְּתָחַת:",
+      "en": "They journeyed from Makheilos and camped in Tochas.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:27",
+      "he": "וּנְטָלוּ מִתָּחַת וּשְׁרוֹ בְּתָרַח:",
+      "en": "They journeyed from Tochas and camped in Torach.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:28",
+      "he": "וּנְטָלוּ מִתָּרַח וּשְׁרוֹ בְּמִתְקָה:",
+      "en": "They journeyed from Torach and camped in Miskoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:29",
+      "he": "וּנְטָלוּ מִמִּתְקָה וּשְׁרוֹ בְּחַשְׁמֹנָה:",
+      "en": "They journeyed from Miskoh and camped in Chashmonoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:30",
+      "he": "וּנְטָלוּ מֵחַשְׁמֹנָה וּשְׁרוֹ בְּמֹסֵרוֹת:",
+      "en": "They journeyed from Chashmonoh and camped in Moseiros.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:31",
+      "he": "וּנְטָלוּ מִמֹּסֵרוֹת וּשְׁרוֹ בִּבְנֵי יַעֲקָן:",
+      "en": "They journeyed from Moseiros and camped in Bnei Ya’akon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:32",
+      "he": "וּנְטָלוּ מִבְּנֵי יַעֲקָן וּשְׁרוֹ בְּחֹר הַגִּדְגָּד:",
+      "en": "They journeyed from Bnei Ya’akon and camped in Chor Hagidgod.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:33",
+      "he": "וּנְטָלוּ מֵחֹר הַגִּדְגָּד וּשְׁרוֹ בְּיָטְבָתָה:",
+      "en": "They journeyed from Chor Hagidgod and camped in Yotvosoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:34",
+      "he": "וּנְטָלוּ מִיָּטְבָתָה וּשְׁרוֹ בְּעַבְרוֹנָה:",
+      "en": "They journeyed from Yotvosoh and camped in Avronoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:35",
+      "he": "וּנְטָלוּ מֵעַבְרוֹנָה וּשְׁרוֹ בְּעֶצְיוֹן גָּבֶר:",
+      "en": "They journeyed from Avronoh and camped in Etzyon Gover.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:36",
+      "he": "וּנְטָלוּ מֵעֶצְיוֹן גָּבֶר וּשְׁרוֹ בְּמַדְבְּרָא דְצִן הִיא רְקָם:",
+      "en": "They journeyed from Etzyon Gover and camped in the wilderness of Sin, which is Kodeish [Rekom].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:37",
+      "he": "וּנְטָלוּ מֵרְקָם וּשְׁרוֹ בְּהוֹר טוּרָא בִּסְיָפֵי אַרְעָא דֶאֱדוֹם:",
+      "en": "They journeyed from Kodeish [Rekom] and camped in Hor Hohor, at the edge of the land of Edom.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:38",
+      "he": "וּסְלֵק אַהֲרֹן כַּהֲנָא לְהוֹר טוּרָא עַל מֵימְרָא דַיְיָ וּמִית תַּמָּן בִּשְׁנַת אַרְבְּעִין לְמֵפַּק בְּנֵי יִשְׂרָאֵל מֵאַרְעָא דְמִצְרַיִם בְּיַרְחָא חֲמִשָּׁאָה בְּחַד לְיַרְחָא:",
+      "en": "Then Aharon the kohein ascended Hor Hohor by the word of Adonoy and died there; in the fortieth year of Bnei Yisroel’s exodus from Egypt, on the first day of the fifth month.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:39",
+      "he": "וְאַהֲרֹן בַּר מְאָה וְעַשְׂרִין וּתְלַת שְׁנִין כַּד מִית בְּהוֹר טוּרָא:",
+      "en": "Aharon was 123 years old at his death on Hor Hohor.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:40",
+      "he": "וּשְׁמַע כְּנַעֲנָאָה מַלְכָּא דַעֲרָד וְהוּא יָתֵב בִּדְרוֹמָא בְּאַרְעָא דִכְנָעַן בְּמֵיתֵי בְּנֵי יִשְׂרָאֵל:",
+      "en": "The Canaanite, the king of Arod heard that Bnei Yisroel were approaching—he dwelt in the south of the land of Canaan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:41",
+      "he": "וּנְטָלוּ מֵהוֹר טוּרָא וּשְׁרוֹ בְּצַלְמוֹנָה:",
+      "en": "They journeyed from Hor Hohor and camped in Tzalmonoh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:42",
+      "he": "וּנְטָלוּ מִצַּלְמוֹנָה וּשְׁרוֹ בְּפוּנֹן:",
+      "en": "They journeyed from Tzalmonoh and camped in Punon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:43",
+      "he": "וּנְטָלוּ מִפּוּנֹן וּשְׁרוֹ בְּאֹבוֹת:",
+      "en": "They journeyed from Punon and camped in Ovos.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:44",
+      "he": "וּנְטָלוּ מֵאֹבוֹת וּשְׁרוֹ בִּמְגִזַּת עֲבָרָאֵי בִּתְחוּם מוֹאָב:",
+      "en": "They journeyed from Ovos and camped at the ruins of Avorim on Moav’s border.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:45",
+      "he": "וּנְטָלוּ מִמְּגִזָּתָא וּשְׁרוֹ בְּדִיבוֹן גָד:",
+      "en": "They journeyed from the ruins and camped in Divon Gad.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:46",
+      "he": "וּנְטָלוּ מִדִּיבוֹן גָּד וּשְׁרוֹ בְּעַלְמוֹן דִּבְלָתָיְמָה:",
+      "en": "They journeyed from Divon Gad and camped in Almon Divlasayim.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:47",
+      "he": "וּנְטָלוּ מֵעַלְמוֹן דִבְלָתָימָה וּשְׁרוֹ בְּטוּרֵי דַעֲבָרָאֵי דִּקֳדָם נְבוֹ:",
+      "en": "They journeyed from Almon Divlasayim and camped in the Avorim Mountains before Nevo.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:48",
+      "he": "וּנְטָלוּ מִטּוּרֵי דַעֲבָרָאֵי וּשְׁרוֹ בְּמֵישְׁרַיָּא דְמוֹאָב עַל יַרְדְּנָא דִירֵחוֹ:",
+      "en": "They journeyed from the Avorim Mountains and camped in the plains of Moav along the Yardein near Yereicho.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:49",
+      "he": "וּשְׁרוֹ עַל יַרְדְּנָא מִבֵּית יְשִׁימוֹת עַד מֵישַׁר שִׁטִּין בְּמֵישְׁרַיָּא דְמוֹאָב:",
+      "en": "They camped along the Yardein, from Beis Yeshimos until Aveil Hasheetim, in the plains of Moav.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:50",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בְּמֵישְׁרַיָּא דְמוֹאָב עַל יַרְדְּנָא דִירֵחוֹ לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe in the plains of Moav along the Yardein [near] Yereicho, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:51",
+      "he": "מַלֵּל עִם בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן אֲרֵי אַתּוּן עָבְרִין יָת יַרְדְּנָא לְאַרְעָא דִכְנָעַן:",
+      "en": "“Speak to Bnei Yisroel and say to them: ‘When you cross the Yardein to the land of Canaan,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:52",
+      "he": "וּתְתָרְכוּן יָת כָּל יָתְבֵי אַרְעָא מִן קֳדָמֵיכוֹן וְתֵבְדוּן יָת כָּל בֵּית סִגְדַּתְהוֹן וְיָת כָּל צַלְמֵי מַתְּכַתְהוֹן תֵּבְדוּן וְיָת כָּל בָּמַתְהוֹן תְּשֵׁצוּן:",
+      "en": "you must drive out all of the inhabitants of the land before you. You must destroy all their carved stones, and demolish all their cast metal idols and tear down all their altars.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:53",
+      "he": "וּתְתָרְכוּן יָת יָתְבֵי אַרְעָא וְתֵיתְבוּן בַּהּ אֲרֵי לְכוֹן יְהָבִית יָת אַרְעָא לְמֵירַת יָתָהּ:",
+      "en": "Drive out [the inhabitants of] the land and settle in it, because I have given this land to you to possess.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:54",
+      "he": "וְתַחְסְנוּן יָת אַרְעָא בְעַדְבָא לְזַרְעֲיַתְכוֹן לְסַגִּיאֵי תַּסְגּוּן יָת אַחֲסַנְתְּהוֹן וְלִזְעִירֵי תַּזְעִירוּן יָת אַחֲסַנְתְּהוֹן לִדְיִפּוֹק לֵיהּ תַּמָּן עַדְבָא דִּי לֵיהּ יְהֵי לְשִׁבְטֵי אֲבָהַתְכוֹן תַּחְסְנוּן:",
+      "en": "You shall give the land as an inheritance to your families by means of a lottery; to the large [family] you shall increase its portion, to the small [family] you shall decrease its portion. To whomever the lottery [system] ordains, it shall be his; according to your paternal tribes shall you inherit.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:55",
+      "he": "וְאִם לָא תְתָרְכוּן יָת יָתְבֵי אַרְעָא מִן קֳדָמֵיכוֹן וִיהֵי דִּי תַשְׁאֲרוּן מִנְּהוֹן לְסִיעַן נָטְלַן זְיַן לָקִבְלֵיכוֹן וּלְמַשִּׁרְיַן מַקְפַּנְכוֹן וִיעִיקוּן לְכוֹן עַל אַרְעָא דִּי אַתּוּן יָתְבִין בַּהּ:",
+      "en": "But if you do not drive out the inhabitants of the land before you, those whom you will leave over will be spikes in your eyes and thorns in your sides [armed groups coming against you and battalions surrounding you], and they will persecute you upon the land in which you settle.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:56",
+      "he": "וִיהֵי כְּמָא דִי חֲשָׁבִית לְמֶעְבַּד לְהוֹן אַעֲבֵּד לְכוֹן:",
+      "en": "And it shall be that what I had intended to do to them I will do to you.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:2",
+      "he": "פַּקֵּד יָת בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן אֲרֵי אַתּוּן עָלִין לְאַרְעָא דִכְנָעַן דָּא אַרְעָא דִּי תִתְפְּלֵג לְכוֹן בְּאַחֲסָנָא אַרְעָא דִכְנַעַן לִתְחוּמָהָא:",
+      "en": "“Instruct Bnei Yisroel and say to them: ‘When you come to the land of Canaan, this is the land which will fall to [divided for] you as hereditary property, the land of Canaan according to its borders.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:3",
+      "he": "וִיהֵי לְכוֹן רוּחַ דָּרוֹמָא מִמַּדְבְּרָא דְצִן עַל תְּחוּמֵי אֱדוֹם וִיהֵי לְכוֹן תְּחוּם דָּרוֹמָא מִסְּיָפֵי יַמָּא דְמִלְחָא קִדּוּמָא:",
+      "en": "Your southern flank shall be from the Tzin wilderness along [the land of] [the borders of] Edom; the southern border shall be from the edge of the Salt Sea to the east.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:4",
+      "he": "וְיַסְחַר לְכוֹן תְּחוּמָא מִדְּרוֹמָא לְמַסְקָנָא דְעַקְרַבִּים וִיעִבַר לְצִן וִיהוֹן מַפְּקָנוֹהִי מִדְּרוֹמָא לִרְקַם גֵּיאָה וְיִפּוֹק לַחֲצַר אַדָּר וִיעִבַר לְעַצְמוֹן:",
+      "en": "The border then turns south of Maaleh [the heights of] Akrabim passing toward Tzin; and its outskirts shall be south of Kadeish Barne’a [Rekam Geyoh], and then it shall extend to Chatzar Adar and continue toward Atzmon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:5",
+      "he": "וְיַסְחַר תְּחוּמָא מֵעַצְמוֹן לְנַחֲלָא דְמִצְרָיִם וִיהוֹן מַפְּקָנוֹהִי לְיַמָּא:",
+      "en": "The border turns from Atzmon toward the Egyptian Estuary and its outskirts shall reach the sea.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:6",
+      "he": "וּתְחוּם מַעַרְבָא וִיהֵי לְכוֹן יַמָּא רַבָּא וּתְחוּמֵיהּ דֵּין יְהֵי לְכוֹן תְּחוּם מַעֲרְבָא:",
+      "en": "As for the western border; it shall be the border of the Great Sea, this shall be your western border.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:7",
+      "he": "וְדֵין יְהֵי לְכוֹן תְּחוּם צִפּוּנָא מִן יַמָּא רַבָּא תְּכַוְּנוּן לְכוֹן לְהֹר טוּרָא:",
+      "en": "This shall be your northern border; from the Great Sea turn yourselves to Hor Hahar.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:8",
+      "he": "מֵהוֹר טוּרָא תְּכַוְּנוּן לִמְטֵי חֲמָת וִיהוֹן מַפְּקָנוֹהִי דִתְחוּמָא לִצְדָד:",
+      "en": "From Hor Hahar turn to [direct yourselves toward] Levo Chamas and the outskirts of the border shall be toward Tzedad.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:9",
+      "he": "וְיִפּוֹק תְּחוּמָא לְזִפְרוֹן וִיהוֹן מַפְּקָנוֹהִי לַחֲצַר עֵינָן דֵּין יְהֵי לְכוֹן תְּחוּם צִפּוּנָא:",
+      "en": "The border shall then extend toward Zifron, and its outskirts shall be at Chatzar Einan; this shall be your northern border.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:10",
+      "he": "וּתְכַוְּנוּן לְכוֹן לִתְחוּם קִדּוּמָא מֵחֲצַר עֵינָן לִשְׁפָם:",
+      "en": "You shall turn yourselves toward the eastern border from Chatzar Einan to Shefam.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:11",
+      "he": "וְיֵחוֹת תְּחוּמָא מִשְּׁפָם לְרִבְלָה מִמַּדְנַח לָעָיִן וְיֵחוֹת תְּחוּמָא וְיִמְטֵי עַל כֵּיף יַם גִנֵסַר קִדּוּמָא:",
+      "en": "The border shall then descend from Shefam to Rivlah to the east of Ayin; the border shall descend and contact the bank of the eastern shore of the Kineres Sea [of Ginesar].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:12",
+      "he": "וְיֵחוֹת תְּחוּמָא לְיַרְדְּנָא וִיהוֹן מַפְּקָנוֹהִי לְיַמָּא דְמִלְחָא דָּא תְהֵי לְכוֹן אַרְעָא לִתְחוּמָהָא סְחוֹר סְחוֹר:",
+      "en": "The border shall then descend along the Yardein and its outskirts shall be the Salt (Dead) Sea. This should be your land according to its borders all around.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:13",
+      "he": "וּפַקִּיד משֶׁה יָת בְּנֵי יִשְׂרָאֵל לְמֵימָר דָּא אַרְעָא דִּי תִתְחַסְנוּן יָתַהּ בְּעַדְבָא דִּי פַּקִּיד יְיָ לְמִתַּן לְתִשְׁעַת שִׁבְטִין וּפַלְגּוּת שִׁבְטָא:",
+      "en": "Moshe instructed Bnei Yisroel, saying: “This is the land which you must distribute as hereditary property by means of a lottery, which Adonoy has commanded to give to the nine and one half tribes.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:14",
+      "he": "אֲרֵי קַבִּילוּ שִׁבְטָא דִבְנֵי רְאוּבֵן לְבֵית אֲבָהַתְהוֹן וְשִׁבְטָא דִבְנֵי גָד לְבֵית אֲבָהַתְהוֹן וּפַלְגּוּת שִׁבְטָא דִמְנַשֶּׁה קַבִּילוּ אַחֲסַנְתְּהוֹן:",
+      "en": "Because the tribe of Reuvein’s descendants, the tribe of Gad’s descendants, and half of the tribe of Menashe have already taken their hereditary property.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:15",
+      "he": "תְּרֵין שִׁבְטִין וּפַלְגּוּת שִׁבְטָא קַבִּילוּ אַחֲסַנְתְּהוֹן מֵעִבְרָא לְיַרְדְּנָא דִירֵחוֹ קִדּוּמָא מַדִּינְחָא:",
+      "en": "These two and one half tribes have taken their hereditary property on this side of the Yardein near Yereicho, to the east, toward the sunrise.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:16",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:17",
+      "he": "אִלֵּין שְׁמָהַת גֻּבְרַיָּא דִּי יַחְסְנוּן לְכוֹן יָת אַרְעָא אֶלְעָזָר כַּהֲנָא וִיהוֹשֻׁעַ בַּר נוּן:",
+      "en": "“These are the names of the men who shall inherit the land for you: Elozor the kohein and Yehoshua son of Nun,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:18",
+      "he": "וְרַבָּא חַד רַבָּא חַד מִשִּׁבְטָא תִּסְּבוּן לְאַחֲסָנָא יָת אַרְעָא:",
+      "en": "And one leader from each tribe you shall take, to help inherit the land.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:19",
+      "he": "וְאִלֵּין שְׁמָהַת גֻּבְרַיָּא לְשִׁבְטָא דִיהוּדָה כָּלֵב בַּר יְפֻנֶּה:",
+      "en": "These are the names of the men: for the tribe of Yehudah, Kaleiv son of Yefuneh.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:20",
+      "he": "וּלְשִׁבְטָא דִּבְנֵי שִׁמְעוֹן שְׁמוּאֵל בַּר עַמִיהוּד:",
+      "en": "For the tribe of Shimon, Shmuel, son of Amihud.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:21",
+      "he": "לְשִׁבְטָא דְבִנְיָמִן אֱלִידָד בַּר כִּסְלוֹן:",
+      "en": "For the tribe of Binyamin, Elidad, son of Kislon.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:22",
+      "he": "וּלְשִׁבְטָא דִבְנֵי דָן רַבָּא בֻּקִּי בַּר יָגְלִי:",
+      "en": "The leader for the tribe of Don, Buki, son of Yogli.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:23",
+      "he": "לִבְנֵי יוֹסֵף לְשִׁבְטָא דִבְנֵי מְנַשֶּׁה רַבָּא חַנִּיאֵל בַּר אֵפֹד:",
+      "en": "For Yoseif’s children, the leader for the tribe of Menashe, Chaniel, son of Eifod.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:24",
+      "he": "וּלְשִׁבְטָא דִבְנֵי אֶפְרַיִם רַבָּא קְמוּאֵל בַּר שִׁפְטָן:",
+      "en": "The leader for the tribe of Ephraim, Kemuel, son of Shiftan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:25",
+      "he": "וּלְשִׁבְטָא דִבְנֵי זְבוּלֻן רַבָּא אֱלִיצָפָן בַּר פַּרְנָךְ:",
+      "en": "The leader for the tribe of Zevulun, Elitzafan, son of Parnach.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:26",
+      "he": "וּלְשִׁבְטָא דִבְנֵי יִשָּׂשכָר רַבָּא פַּלְטִיאֵל בַּר עַזָּן:",
+      "en": "The leader for the tribe of Yissachar, Paltiel, son of Azan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:27",
+      "he": "וּלְשִׁבְטָא דִבְנֵי אָשֵׁר רַבָּא אֲחִיהוּד בַּר שְׁלֹּמִי:",
+      "en": "The leader for the tribe of Asher, Achihud, son of Shlomi.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:28",
+      "he": "וּלְשִׁבְטָא דִבְנֵי נַפְתָּלִי רַבָּא פְּדַהְאֵל בַּר עַמִּיהוּד:",
+      "en": "The leader for the tribe of Naftali, Pedah’eil, son of Amihud.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:29",
+      "he": "אִלֵּין דִּי פַּקִּיד יְיָ לְאַחֲסָנָא יָת בְּנֵי יִשְׂרָאֵל בְּאַרְעָא דִכְנָעַן:",
+      "en": "These are the ones whom Adonoy commanded to apportion the inheritance to Bnei Yisroel, in the land of Canaan.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:1",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה בְּמֵישְׁרַיָּא דְמוֹאָב עַל יַרְדְּנָא דִירֵחוֹ לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe in the plains of Moav by the Yardein near Yereicho, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:2",
+      "he": "פַּקֵּד יָת בְּנֵי יִשְׂרָאֵל וְיִתְּנוּן לְלֵוָאֵי מֵאַחֲסָנַת אַחוּדַתְהוֹן קִרְוִין לְמִתָּב וְרֶוַח לְקִרְוַיָּא סַחֲרָנֵיהוֹן תִּתְּנוּן לְלֵוָאֵי:",
+      "en": "“Instruct Bnei Yisroel and have them give to the Levites from their hereditary possession, cities in which to settle; and open space for the cities all around you shall give to the Levites.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:3",
+      "he": "וִיהוֹן קִרְוַיָּא לְהוֹן לְמִתָּב וְרַוְחֵיהוֹן יְהוֹן לִבְעִירְהוֹן וּלְקִנְיָנֵיהוֹן וּלְכָל חֵיוַתְהוֹן:",
+      "en": "These cities shall be theirs for dwelling, and their open space shall be for their animals, their property and all of their necessities to live.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:4",
+      "he": "וּרְוָחֵי קִרְוַיָּא דִּי תִתְּנוּן לְלֵוָאֵי מִכּוֹתֵל קַרְתָּא וּלְבָרָא אֲלַף אַמִּין סְחוֹר סְחוֹר:",
+      "en": "The open space for the cities that you shall give the Levites [shall extend] from the walls of the city and outward a thousand amo¯s all around.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:5",
+      "he": "וְתִמְשְׁחוּן מִבָּרָא לְקַרְתָּא יָת רוּחַ קִדּוּמָא תְּרֵין אַלְפִין בְּאַמִּין וְיָת רוּחַ דְּרוֹמָא תְּרֵין אַלְפִין בְּאַמִּין וְיָת רוּחַ מַעַרְבָא תְּרֵין אַלְפִין בְּאַמִּין וְיָת רוּחַ צִפּוּנָא תְּרֵין אַלְפִין בְּאַמִּין וְקַרְתָּא בִמְצִיעָא דֵּין יְהֵי לְהוֹן רְוָחֵי קִרְוַיָּא:",
+      "en": "You shall measure from outside the city two thousand amo¯s on the eastern side, two thousand amo¯s on the southern side, two thousand amo¯s on the western side, and two thousand amo¯s on the northern side; with the city in the center. This shall be the open spaces for the cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:6",
+      "he": "וְיָת קִרְוַיָּא דִּי תִתְּנוּן לְלֵוָאֵי יָת שִׁית קִרְוֵי שֵׁזָבוּתָא דִּי תִתְּנוּן לְמֵעֲרַק תַּמָּן קָטוֹלָא וַעֲלֵיהוֹן תִּתְּנוּן אַרְבְּעִין וְתַרְתֵּין קִרְוִין:",
+      "en": "Along with the cities that you shall give the Levites shall be the six refuge cities which you shall provide [as places] for a murderer to flee; and in addition to them, you shall provide forty-two cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:7",
+      "he": "כָּל קִרְוַיָּא דִּי תִתְּנוּן לְלֵוָאֵי אַרְבְּעִין וְתַמְנֵי קִרְוִין יָתְהֶן וְיָת רְוָחֵיהֶן:",
+      "en": "The total number of cities that you shall give to the Levites is forty eight cities, with their open spaces.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:8",
+      "he": "וְקִרְוַיָּא דִּי תִתְּנוּן מֵאֲחוּדַת בְּנֵי יִשְׂרָאֵל מִן סַגִּיאֵי תַּסְגּוּן וּמִן זְעִירֵי תַּזְעִירוּן גְּבַר כְּפוּם אַחֲסַנְתֵּיהּ דִּי יַחְסְנוּן יִתֵּן מִקִּרְווֹהִי לְלֵוָאֵי:",
+      "en": "The cities that you shall give, [shall be] from the possession of Bnei Yisroel; take more from a larger [holding], and less from a smaller [holding], each person, according to his inheritance, shall give of his cities to the Levites.”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:9",
+      "he": "וּמַלִּיל יְיָ עִם משֶׁה לְמֵימָר:",
+      "en": "Adonoy spoke to Moshe, saying:",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:10",
+      "he": "מַלֵּל עִם בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן אֲרֵי אַתּוּן עָבְרִין יָת יַרְדְּנָא לְאַרְעָא דִכְנָעַן:",
+      "en": "“Speak to Bnei Yisroel and say to them: ‘When you cross the Yardein into the land of Canaan,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:11",
+      "he": "וּתְזַמְּנוּן לְכוֹן קִרְוִין קִרְוֵי שֵׁזָבוּתָא יֶהֶוְיַן לְכוֹן וְיֵעֲרוֹק לְתַמָּן קָטוֹלָא דְּיִקְטוֹל נַפְשָׁא בְּשָׁלוּ:",
+      "en": "you shall provide cities for yourselves, which shall serve as refuge cities for you, so that a murderer can flee there, one who accidentally killed a person.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:12",
+      "he": "וִיהוֹן לְכוֹן קִרְוַיָּא לְשֵׁזָבָא מִגָּאֵל דְּמָא וְלָא יְמוּת קָטוֹלָא עַד דְּיֵקוּם קֳדָם כְּנִשְׁתָּא לְדִינָא:",
+      "en": "These cities shall serve you as a refuge from the [blood] avenger, so that the murderer will not die until he stands in judgment before the congregation.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:13",
+      "he": "וְקִרְוַיָּא דִּי תִתְּנוּן שִׁית קִרְוֵי שֵׁזָבוּתָא יֶהֶוְיַן לְכוֹן:",
+      "en": "The cities that you shall give, will serve you as six refuge cities.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:14",
+      "he": "יָת תְּלַת קִרְוַיָּא תִּתְּנוּן מֵעִבְרָא לְיַרְדְּנָא וְיָת תְּלַת קִרְוַיָּא תִּתְּנוּן בְּאַרְעָא דִכְנָעַן קִרְוֵי שֵׁזָבוּתָא יֶהֶוְיָן:",
+      "en": "Three cities on this side of the Yardein, and the [other] three cities you shall give in the land of Canaan. They shall be cities of refuge.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:15",
+      "he": "לִבְנֵי יִשְׂרָאֵל וּלְגִיּוֹרָא וּלְתוֹתָבָיָא דְבֵינֵיכוֹן יֶהֶוְיַן שִׁית קִרְוַיָּא הָאִלֵּין לְשֵׁזָבָא לְמֵעֲרוֹק לְתַמָּן כָּל דְּיִקְטוֹל נַפְשָׁא בְּשָׁלוּ:",
+      "en": "For Bnei Yisroel, the proselyte, and resident among them, shall these six cities be a refuge, to flee there anyone who accidentally kills a person.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:16",
+      "he": "וְאִם בְּמָאן דְפַרְזְלָא מְחָהִי וְקָטְלֵיהּ קָטוֹלָא הוּא אִתְקְטָלָא יִתְקְטֵל קָטוֹלָא:",
+      "en": "But if he struck him with an iron instrument and he died, then he is a murderer; the murderer must be executed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:17",
+      "he": "וְאִם בְּאַבְנָא דְּמִתְנָסְבָא בִידָא דְּהִיא כְמִסַּת דִּי יְמוּת בַּהּ מְחָהִי וְקָטְלֵיהּ קָטוֹלָא הוּא אִתְקְטָלָא יִתְקְטֵל קָטוֹלָא:",
+      "en": "Or if with a stone that can be held [taken] in the hand and which can [has the ability to] kill he strikes him, and he died, he is a murderer; the murderer must be executed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:18",
+      "he": "אוֹ בְּמָאן דְּעָא דְּמִתְנַסֵב בִּידָא דְּהִיא כְמִסַּת דִּי יְמוּת בֵּיהּ מְחָהִי וְקָטְלֵיהּ קָטוֹלָא הוּא אִתְקְטָלָא יִתְקְטַל קָטוֹלָא:",
+      "en": "Or if with a wooden implement [that can be held] [taken] in the hand and which can [has the ability to] cause death he strikes him, and he died, he is a murderer; the murderer must be executed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:19",
+      "he": "גָּאֵל דְּמָא הוּא יִקְטוֹל יָת קָטוֹלָא כַּד אִתְחַיַּב לֵיהּ מִן דִּינָא הוּא יִקְטְלִנֵּיהּ:",
+      "en": "The blood avenger shall kill the murderer, wherever he meets him [when he has been proven guilty by law] he may kill him.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:20",
+      "he": "וְאִם בְּסַנְאָה דְּחָהִי אוֹ רְמָא עֲלוֹהִי בְכַמְנָא וְקָטְלֵיהּ:",
+      "en": "If he pushes [his victim] out of hatred or throws at him deliberately, and he died,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:21",
+      "he": "אוֹ בִדְבָבוּ מְחָהִי בִידֵיהּ וְקָטְלֵיהּ אִתְקְטָלָא יִתְקְטֵל מַחֲיָא קָטוֹלָא הוּא גָּאֵל דְּמָא יִקְטוֹל יָת קָטוֹלָא כַּד אִתְחַיַּב לֵיהּ מִן דִּינָא:",
+      "en": "or if in enmity, he struck him with his hand and he died, the assailant must be executed; he is a murderer. The blood avenger may kill the murderer wherever he meets him.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:22",
+      "he": "וְאִם בִּתְכֵף בְּלָא דְבָבוּ דְּחָהִי אוֹ רְמָא עֲלוֹהִי כָּל מָאן בְּלָא כְמַן לֵיהּ:",
+      "en": "But if suddenly, without enmity, he pushed him or threw any object at him not deliberately,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:23",
+      "he": "אוֹ בְכָל אַבְנָא דְּהִיא כְמִסַּת דִּי יְמוּת בַּהּ בְּלָא חָזֵי וּרְמָא עֲלוֹהִי וְקָטְלֵיהּ וְהוּא לָא סָנֵי לֵיהּ וְלָא תָבַע בִּישְׁתֵּיהּ:",
+      "en": "Or (even) with a stone which can [has the ability to] kill, without seeing [the victim], he threw it down on him and he died, but he was not his enemy and did not seek his harm.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:24",
+      "he": "וִידוּנוּן כְּנִשְׁתָּא בֵּין מַחֲיָא וּבֵין גָּאֵל דְּמָא עַל דִּינַיָּא הָאִלֵּין:",
+      "en": "Then the congregation shall judge between the assailant and the blood avenger, abiding by these laws.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:25",
+      "he": "וִישֵׁזְבוּן כְּנִשְׁתָּא יָת קָטוֹלָא מִיַּד גָּאֵל דְּמָא וִיתִיבוּן יָתֵיהּ כְּנִשְׁתָּא לְקִרְיַת שֵׁזָבוּתֵיהּ דִּי עֲרַק לְתַמָּן וִיתֵב בַּהּ עַד דִּימוּת כַּהֲנָא רַבָּא דִּי רַבִּי יָתֵיהּ בִּמְשַׁח קוּדְשָׁא:",
+      "en": "The congregation shall protect the murderer from the blood avenger, and return him to his refuge city where he had fled, and he must remain there until the death of the Kohein Gadol who was anointed with the sacred oil.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:26",
+      "he": "וְאִם מִפַּק יִפּוֹק קָטוֹלָא יָת תְּחוּם קִרְיַת שֵׁזָבוּתֵיהּ דִּי עֲרַק לְתַמָּן:",
+      "en": "But if the murderer goes outside of the border of his refuge city where he had fled,",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:27",
+      "he": "וְיַשְׁכַּח יָתֵיהּ גָּאֵל דְּמָא מִבָּרָא לִתְחוּם קִרְיַת שֵׁזָבוּתֵיהּ וְיִקְטוֹל גָּאֵל דְּמָא יָת קָטוֹלָא לֵית לֵיהּ דְּמָא:",
+      "en": "and the blood avenger finds him outside the border of his refuge city, and the blood avenger kills the murderer, he has no blood.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:28",
+      "he": "אֲרֵי בְקִרְיַת שֵׁזָבוּתֵיהּ יִתֵּב עַד דִּימוּת כַּהֲנָא רַבָּא וּבָתַר דִּימוּת כַּהֲנָא רַבָּא יְתוּב קָטוֹלָא לַאֲרַע אַחֲסַנְתֵּיהּ:",
+      "en": "For he (the killer) must remain in his refuge city until the death of the Kohein Gadol. After the death of the Kohein Gadol the murderer may return to the land of his possession.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:29",
+      "he": "וִיהוֹן אִלֵּין לְכוֹן לִגְזֵרַת דִּין לְדָרֵיכוֹן בְּכָל מוֹתְבָנֵיכוֹן:",
+      "en": "These [rules] shall be for you the law of justice for all your descendants in all your dwelling places.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:30",
+      "he": "כָּל דְּיִקְטוֹל נַפְשָׁא לְפוּם סַהֲדִין יִקְטוֹל יָת קָטוֹלָא וְסָהִיד חַד לָא יַסְהֵד בֶּאֱנָשׁ לְמִקְטָל:",
+      "en": "If anyone kills a person, only upon the testimony of witnesses shall the murderer be killed. But one witness may not testify against a person, in a case of capital punishment.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:31",
+      "he": "וְלָא תְקַבְּלוּן מָמוֹן עַל אֱנַשׁ קָטוֹל דִּי הוּא חַיָּב לְמִקְטָל אֲרֵי אִתְקְטָלָא יִתְקְטֵל:",
+      "en": "And do not accept atonement [monetary] compensation for the life of a murderer who is wicked to incur the death penalty, for he must be executed.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:32",
+      "he": "וְלָא תְקַבְּלוּן מָמוֹן לְמֵעֲרוֹק לְקִרְיַת שֵׁזָבוּתֵיהּ לְמִתּוּב לְמִתַּב בְּאַרְעָא עַד דִּימוּת כַּהֲנָא:",
+      "en": "And do not accept atonement compensation for one who has fled to his refuge city, to allow him to return to live in the land, before the death of the Kohein (Gadol).",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:33",
+      "he": "וְלָא תְחַיְּבוּן יָת אַרְעָא דִּי אַתּוּן בַּהּ אֲרֵי דְמָא הוּא מְחַיַּב יָת אַרְעָא וּלְאַרְעָא לָא מִתְכַּפֵּר עַל דַּם זַכַּאי דְּאִתָּשַׁד בַּהּ אֶלָּהֵן בְּדַם אַשְׁדֵּיהּ:",
+      "en": "Do not pollute [incur guilt on] the land in which you live, for, the blood pollutes the land, and for the land there can be no atonement for the [innocent] blood that was spilled in it, except through the blood of the one who spilled it.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:34",
+      "he": "וְלָא תְסָאֲבוּן יָת אַרְעָא דִּי אַתּוּן יָתְבִין בַּהּ דִּי שְׁכִינְתִּי שָׁרְיָא בְּגַוָּהּ אֲרֵי אֲנָא יְיָ דִּשְׁכִנְתִּי שָׁרְיָא בְּגוֹ בְּנֵי יִשְׂרָאֵל:",
+      "en": "You must not defile the land in which you live, wherein I [My Shechinah] reside[s], for, I, Adonoy, [whose Shechinah] dwell[s] among Bnei Yisroel.’”",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:1",
+      "he": "וְקָרִיבוּ רֵישֵׁי אֲבָהָתָא לְזַרְעִית בְּנֵי גִּלְעָד בַּר מָכִיר בַּר מְנַשֶּׁה מִזַּרְעֲיַת בְּנֵי יוֹסֵף וּמַלִּילוּ קֳדָם משֶׁה וְקֳדָם רַבְרְבַיָּא רֵישֵׁי אֲבָהָתָא לִבְנֵי יִשְׂרָאֵל:",
+      "en": "The paternal leaders approached—for the children of Gilad, son of Machir, son of Menashe, of the families of Yoseif’s sons—and they spoke before Moshe and the leaders who were the paternal heads of Bnei Yisroel.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:2",
+      "he": "וַאֲמָרוּ יָת רִבּוֹנִי פַּקִּיד יְיָ לְמִתַּן יָת אַרְעָא בְּאַחֲסָנָא בְּעַדְבָא לִבְנֵי יִשְׂרָאֵל וְרִבּוֹנִי אִתְפַּקַּד בְּמֵמְרָא דַיְיָ לְמִתַּן יָת אַחֲסָנַת צְלָפְחָד אָחוּנָא לִבְנָתֵיהּ:",
+      "en": "They said: “Adonoy commanded our master to give the land as an inheritance, through the casting of lots, to Bnei Yisroel, and our master was commanded by [the word of] Adonoy to give the inheritance of our brother Tzelofchad to his daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:3",
+      "he": "וִיהֶוְיַן לְחַד מִבְּנֵי שִׁבְטַיָּא דִבְנֵי יִשְׂרָאֵל לִנְשִׁין וְתִתְמְנַע אַחֲסַנְתְּהוֹן מֵאַחֲסָנַת אֲבְהָתָנָא וְתִתּוֹסַף עַל אַחֲסָנַת שִׁבְטַיָּא דִּי יֶהֶוְיָן לְהוֹן וּמֵעֲדַב אַחֲסַנְתָּא יִתִּמְנָע:",
+      "en": "But if they marry a member of another tribe of Bnei Yisroel, their inheritance will be diminished [subtracted] from our father’s inheritance, and it will be added to the inheritance of the tribe into which they will marry, and from the lot of our inheritance it will be subtracted.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:4",
+      "he": "וְאִם יְהֵי יוֹבְלָא לִבְנֵי יִשְׂרָאֵל וְתִתּוֹסַף אַחֲסַנְתְּהוֹן עַל אַחֲסָנַת שִׁבְטָא דִּי תְהֶוְיַן לְהוֹן וּמֵאַחֲסָנַת שִׁבְטָא דַאֲבְהָתָנָא יִתִּמְנַע אַחֲסַנְתְּהֶן:",
+      "en": "And even when the yoveil occurs for Bnei Yisroel, their inheritance will be added to the inheritance of the tribe into which they will marry, and from the inheritance of our fathers’ tribe, their inheritance will be subtracted.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:5",
+      "he": "וּפַקִּיד משֶׁה יָת בְּנֵי יִשְׂרָאֵל עַל מֵימְרָא דַיְיָ לְמֵימָר יָאוּת שִׁבְטָא דִבְנֵי יוֹסֵף מְמַלְּלִין:",
+      "en": "Moshe instructed Bnei Yisroel according to command of Adony, saying: “Correctly are the descendants of Yoseif’s tribe speaking.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:6",
+      "he": "דֵּין פִּתְגָּמָא דִּי פַקִּיד יְיָ לִבְנַת צְלָפְחָד לְמֵימַר לִדְתַקִּין בְּעֵינֵיהוֹן תְּהֶוְיַן לִנְשִׁין בְּרַם לְזַרְעִית שִׁבְטָא דַאֲבוּהֶן תְּהֶוְיַן לִנְשִׁין:",
+      "en": "This is the word that Adonoy has commanded regarding Tzelofchad’s daughters: ‘Let them marry whom they think best, as long as they marry within their tribe of their father.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:7",
+      "he": "וְלָא תַסְחַר אַחֲסָנָא לִבְנֵי יִשְׂרָאֵל מִשִּׁבְטָא לְשִׁבְטָא אֲרֵי גְבַר בְּאַחֲסָנַת שִׁבְטָא דַאֲבָהָתוֹהִי יִדַּבְּקוּן בְּנֵי יִשְׂרָאֵל:",
+      "en": "Thereby, there will be no transfer of inheritance of Bnei Yisroel from tribe to tribe but each person to the inheritance of his father’s tribe, shall Bnei Yisroel remain attached.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:8",
+      "he": "וְכָל בְּרַתָּא יָרְתַת אַחֲסָנָא מִשִּׁבְטַיָּא דִּבְנֵי יִשְׂרָאֵל לְחַד מִזַּרְעִית שִׁבְטָא דַאֲבוּהָא תְּהֵי לְאִנְתּוּ בְּדִיל דִּי יֵרְתוּן בְּנֵי יִשְׂרָאֵל גְּבַר אַחֲסָנַת אֲבָהָתוֹהִי:",
+      "en": "Every daughter who inherits property among the tribes of Bnei Yisroel to a member of her father’s tribe shall she marry, so that each one of Bnei Yisroel will inherit the property of his fathers.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:9",
+      "he": "וְלָא תַסְחַר אַחֲסָנָא מִשִּׁבְטָא לְשִׁבְטָא אוֹחֲרָנָא אֲרֵי גְבַר בְּאַחֲסַנְתֵּיהּ יִדְּבְּקוּן שִׁבְטַיָּא דִּבְנֵי יִשְׂרָאֵל:",
+      "en": "And no inheritance will be transferred from one tribe to another tribe; for, through every man with his own inheritance, will the tribes of Bnei Yisroel be attached.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:10",
+      "he": "כְּמָא דִי פַּקִּיד יְיָ יָת משֶׁה כֵּן עֲבָדוּ בְּנַת צְלָפְחָד:",
+      "en": "Exactly as Adonoy commanded Moshe, so did Tzelofchad’s daughters.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:11",
+      "he": "וַהֲוָאָה מַחְלָה תִרְצָה וְחָגְלָה וּמִלְכָּה וְנֹעָה בְּנַת צְלָפְחָד לִבְנֵי אֲחֵי אֲבוּהֶן לִנְשִׁין:",
+      "en": "And they were—Machlah, Sirtzah, Choglah, Milkah and No’ah, the daughters of Tzelofchad—wives to their cousins [the sons of their father’s brothers].",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:12",
+      "he": "מִזַרְעֲיַת בְּנֵי מְנַשֶּׁה בַר יוֹסֵף הֲוָאָה לִנְשִׁין וַהֲוַת אַחֲסַנְתְּהֶן עַל שִׁבְטָא זַרְעִית אַבוּהֶן:",
+      "en": "From the families of Menashe, son of Yoseif, they married, and their inheritance remained with the tribe of their father’s family.",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:13",
+      "he": "אִלֵּין פִּקּוֹדַיָּא וְדִינַיָּא דִּי פַקִּיד יְיָ בִּידָא דְמשֶׁה לְוָת בְּנֵי יִשְׂרָאֵל בְּמֵישְׁרַיָּא דְמוֹאָב עַל יַרְדְּנָא דִירֵחוֹ:",
+      "en": "These are the commandments and the laws that Adonoy commanded Bnei Yisroel through Moshe, in the plains of Moav at the Yardein near Yereicho. Chazak",
+      "fr": ""
+    }
+  ]
+}
