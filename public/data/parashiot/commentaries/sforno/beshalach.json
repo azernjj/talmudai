@@ -1,0 +1,703 @@
+{
+  "name": "Beshalach",
+  "range": "Exodus 13:17-17:16",
+  "commentary": "Sforno",
+  "verses": [
+    {
+      "ref": "Exodus 13:17",
+      "he": "וַיְהִי בְּשַׁלַּח וְלֹא נָחָם אֱלֹהִים דֶּרֶךְ אֶרֶץ פְּלִשְׁתִּים. אַף עַל פִּי שֶׁהַכַּוָּנָה הָאֱלֹהִית הָיְתָה לְהוֹלִיךְ אֶת יִשְׂרָאֵל לְהַר סִינַי לְקַבֵּל הַתּוֹרָה וּמִשָּׁם לְאֶרֶץ יִשְׂרָאֵל, כְּאָמְרוֹ (שמות ו:ז-ח) \"וְלָקַחְתִּי אֶתְכֶם לִי לְעָם וְהֵבֵאתִי אֶתְכֶם אֶל הָאָרֶץ\", מִכָּל מָקוֹם הַכַּוָּנָה עַתָּה הָיְתָה לְהוֹלִיכָם לְיָם סוּף אֲשֶׁר לֹא הָיָה דֶּרֶךְ לְאֶחָד מֵאֵלֶּה, וְזֶה לְהַטְבִּיעַ שָׁם אֶת פַּרְעֹה וְחֵילוֹ, עַל דֶּרֶךְ (שופטים ד:ז) \"וּמָשַׁכְתִּי אֵלֶיךָ אֶל נַחַל קִישׁוֹן אֶת סִיסְרָא\". וְהִנֵּה הַדֶּרֶךְ הַיָּשָׁר וְהַקָּצָר לָלֶכֶת מִמִּצְרַיִם לְיָם סוּף הָיָה דֶּרֶךְ אֶרֶץ פְּלִשְׁתִּים, אָמַר שֶׁהָאֵל יִתְבָּרַךְ לֹא רָצָה לַנְחוֹתָם בְּאוֹתוֹ הַדֶּרֶךְ. כִּי קָרוֹב הוּא. מִפְּנֵי שֶׁהָיָה אוֹתוֹ הַדֶּרֶךְ וְסוֹפוֹ קָרוֹב לְמִצְרַיִם, וְיִרְבּוּ עוֹבְרֵי דֶרֶךְ שָׁם וּמַגִּידִים מִשָּׁם לְמִצְרַיִם וּמִמִּצְרַיִם לְשָׁם: וְהִנֵּה בִּרְאוֹתָם מִלְחָמָה. בְּשָׁמְעָם שֶׁיָּכִין פַּרְעֹה אֶת עַצְמוֹ לִרְדּוֹף אַחֲרֵיהֶם עִם כָּל חֵילוֹ, יִנָּחֵם הָעָם בְּלִי סָפֵק מִיִּרְאַת מִלְחַמְתָּם וְיָשׁוּבוּ לְמִצְרַיִם, וּלְפִיכָךְ הֱסִבָּם אֶל דֶּרֶךְ לֹא עָבַר בָּהּ אִישׁ.",
+      "en": "ויהי בשלח...ולא נחם אלוקים דרך ארץ פלשתים, even though it had been G’d’s plan to lead the Israelites to Mount Sinai to receive the Torah there, and only from there to the land of Israel, as He stated Himself in Exodus 6,7-8 :”I will take you as My people, and I will bring you to the land, etc.,” at this point, G’d’s plan was to lead them to the Sea of Reeds, which was neither the route to the land of the Philistines, nor the route that led to Mount Sinai. [we must remember that Moses had stood at Chorev=Mt Sinai at the burning bush and he did not have to cross the sea to do this. Ed.] The major reason for this was to bring about the drowning of Pharaoh and his army in the sea. [it is important to always remember that due to man’s free will, G’d cannot deal with man in the way He deals with inert objects or even animals, none of which could oppose Him. G’d needs to create a scenario which gives man a chance to delude himself, thus bringing him to act in a manner enabling G’d to insure that His design will be carried out. Ed.] An example of G’d acting in this manner is described in Judges 4,7 where G’d Himself speaks about how He “dragged” Sisera and his army and 900 armoured vehicles across the river Kishon to face Barak. The simplest route to get to the Sea of Reeds was by traversing the land of the Philistines. דרך ארץ פלשתים, G’d did not want them to travel this route כי קרוב הוא because this route was too close to Egypt, afforded too easy a way to return to Egypt. Also, seeing it was a much traveled route, too many travelers would be able to report to Pharaoh about the Israelites and also too many Egyptians could keep the Israelites informed of what transpired in their country. If the Israelites would have to face combat בראותם מלחמה, when they would hear that the Egyptians were mobilizing for war preparatory to chasing after the Israelites, the latter would no doubt return to Egypt out of fear of being killed. This is why G’d decided to lead them on a route not frequented by travelers at all.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 13:18",
+      "he": "דֶּרֶךְ הַמִּדְבָּר יַם סוּף. שֶׁיֵּלְכוּ לְיַם סוּף דֶּרֶךְ הַמִּדְבָּר, כִּי בְּאוֹתוֹ הַדֶּרֶךְ לֹא יָבֹאוּ מַגִּידִים מִמִּצְרַיִם וְלֹא יֵדְעוּ בִּרְדִיפַת פַּרְעֹה עַד שֶׁהִשִּׂיג אוֹתָם, כְּאָמְרוֹ \"וַיִּשְׂאוּ בְנֵי יִשְׂרָאֵל אֶת עֵינֵיהֶם, וְהִנֵּה מִצְרַיִם וְכוּ'\" (שמות יד:י). וְלֹא הָיָה אָז לָהֶם תַּקָּנָה בְּשׁוּבָם, כִּי לֹא יְקַבְּלֵם פַּרְעֹה וְחֵילוֹ. וַחֲמֻשִׁים עָלוּ. וְכָל זֶה הֻצְרַךְ לַעֲשׂוֹת אַף עַל פִּי שֶׁהָיוּ מְזֻיָּנִים, כִּי עִם כָּל כְּלֵי זַיְנָם לֹא הָיָה לָהֶם אֹמֶץ לֵב לְהִלָּחֵם בְּמִצְרַיִם וּלְהִמָּלֵט, כִּי לֹא נִסּוּ בְּאֵלֶּה.",
+      "en": "דרך המדבר ים סוף, that they should march to the Sea of Reeds via the desert. On that route they would neither encounter travelers headed in the direction of Egypt, nor would they encounter travelers who had come from Egypt who could report that Pharaoh was going to chase them, until Pharaoh would actually catch up with them by which time a “voluntary” return to Egypt and slavery would not be of any advantage to them anymore, as their surrender would not then be acceptable to Pharaoh. וחמושים עלו, although they had left Egypt fully armed. They did not have the courage to face the Egyptians in combat in spite of their being armed. They felt too inexperienced to face trained warriors.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 13:19",
+      "he": "וַיִּקַּח מֹשֶׁה אֶת עַצְמוֹת יוֹסֵף עִמּוֹ. בִּהְיוֹתוֹ אָז נְשִׂיא הַדּוֹר. כִּי הַשְׁבֵּעַ הִשְׁבִּיעַ אֶת בְּנֵי יִשְׂרָאֵל. וְהִנֵּה חִיּוּב הַדּוֹר מוּטָל עַל נְשִׂיאוֹ.",
+      "en": "ויקח משה את עצמות יוסף עמו, seeing that he was now the leader of the nation it was up to him to make good on the oath Joseph השבע השביע את בני ישראל, any obligation undertaken communally must be honoured by the leader of that community when the time and opportunity presents itself to discharge that obligation.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 13:20",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 13:21",
+      "he": "וַה' הוֹלֵךְ לִפְנֵיהֶם. מֵאָז שֶׁהָיוּ בְּסֻכּוֹת שֶׁהוּא חוּץ לִגְבוּל מִצְרַיִם וְנִכְנְסוּ לַמִּדְבָּר.",
+      "en": "וה' הולך לפניהם, from the time the Israelites had reached Sukkot, at the border of Egypt, just beyond, G’d’s presence had manifested itself the moment they entered the desert.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 13:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:1",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:2",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:3",
+      "he": "סָגַר עֲלֵיהֶם הַמִּדְבָּר. בַּעַל צְפוֹן סָגַר אֶת הַמִּדְבָּר עֲלֵיהֶם.",
+      "en": "סגר עליהם המדבר. A reference to the Egyptian deity Baal Tzefon whom Pharaoh credited with this accomplish- ment of halting the Israelites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:5",
+      "he": "כִּי בָרַח הָעָם. שֶׁלֹּא הָלְכוּ בַּמִּדְבָּר עַל קַו יָשָׁר, כְּמוֹ שֶׁיָּעֲדוּ בְּאָמְרָם \"דֶּרֶךְ שְׁלֹשֶׁת יָמִים נֵלֵךְ בַּמִּדְבָּר\" (שמות ח:כג), אֲבָל חָזְרוּ לַאֲחוֹרֵיהֶם כְּבוֹרְחִים בִּלְתִּי יוֹדְעִים הַדֶּרֶךְ: וַיֵּהָפֵךְ לְבַב פַּרְעֹה. כִּי חָשַׁב שֶׁהָיָה בַּעַל צְפוֹן יָכוֹל נֶגֶד הָאֵל יִתְבָּרַךְ. מַה זֹּאת עָשִׂינוּ כִּי שִׁלַּחְנוּ. וְלֹא דָּרַשְׁנוּ אֶת בַּעַל צְפוֹן שֶׁהָיָה עוֹזֵר לָנוּ, וְלֹא הָיִינוּ מֻכְרָחִים לְשַׁלֵּחַ.",
+      "en": "כי ברח העם, they had not marched straight into the desert as they had maintained they would. In 8,23 all they had asked for was to be allowed to march into the desert a distance of three days’ journey. They had now departed from their planned route so that this could be interpreted as an attempt to flee. The new route made no sense, showing they did not know where they were headed, just as one would expect of a fugitive. ויהפך לבב פרעה, Pharaoh had concluded that the Baal Tzefon was an equal to G’d and could frustrate His designs. מה זאת עשינו כי שלחנו, what (a foolish thing) have we done in dismissing the Israelites, etc.! We should have consulted Baal Tzefon who would have helped us so that we would have had no need to let the Israelites depart.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:6",
+      "he": "וְאֶת עַמּוֹ לָקַח עִמּוֹ. מִבְחַר פָּרָשָׁיו וְחֵילוֹ:",
+      "en": "ואת עמו לקח עמו, the choicest of his cavalry and chariots.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:7",
+      "he": "וְכֹל רֶכֶב מִצְרָיִם. הֶהָמוֹנִיִּים. וְשָׁלִישִׁם עַל כֻּלּוֹ. גַּם עַל הֶהָמוֹן שֶׁלֹּא הָיוּ בִּכְלַל עַמּוֹ וְחֵילוֹ הִפְקִיד שָׁלִישִׁים מְלֻמְּדֵי מִלְחָמָה, כִּי אָמְנָם כָּל תֹּקֶף הַצָּבָא תָּלוּי בְּשַׂר הַצָּבָא וְחָכְמָתוֹ וְתַחְבּוּלוֹתָיו.",
+      "en": "וכל רכב מצרים, the chariots of average quality of which there were many. ושלישים על כלו, Pharaoh appointed experienced officers even for the chariots of this second cadre. שלישים are officers who have battle experience to their credit. The aggressive ability of any army depends on its officer corps and the intelligence of the generals to devise schemes and battle plans which will lead to victory.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:8",
+      "he": "וּבְנֵי יִשְׂרָאֵל יוֹצְאִים בְּיָד רָמָה. כְּעִנְיַן \"יָדֵינוּ רָמָה\" (דברים לב:כז), הָיוּ מִתְאַמְּצִים לְנַצֵּחַ אֶת פַּרְעֹה וְחֵילוֹ, שֶׁלֹּא הָיוּ רַבִּים בְּמִסְפָּר כְּמוֹתָם. וּבָזֶה הוֹדִיעַ שֶׁלֹּא הָיוּ יוֹדְעִין עִנְיַן הַמִּלְחָמָה, כִּי אָמְנָם הָיָה רָאוּי לְיָרֵא מֵאוֹתָם הַמְעַטִּים מְלֻמְּדֵי מִלְחָמָה יוֹתֵר מִמָּה שֶׁהָיָה רָאוּי לְיָרֵא מִכָּל הֲמוֹן מִצְרַיִם הַנּוֹסֵעַ אַחֲרֵיהֶם אַחַר כָּךְ.",
+      "en": "ובני ישראל יוצאים ביד רמה, the meaning of the word רמה here is similar to the meaning of the same word in Deuteronomy 32,27 ידינו רמה, where it means: “our own hand has prevailed.” At the time of their departure they had been confident of their ability to defeat Pharaoh and his military machine as they were much stronger in numbers. The verse teaches that they were relying on their numbers instead of considering their total lack of experience in the art of war. They would have had every reason to fear the numerically inferior Egyptians who had all this experience going for them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:9",
+      "he": "וַיִּרְדְּפוּ מִצְרַיִם אַחֲרֵיהֶם. אַחֲרֵי הַיּוֹצְאִים בְּיָד רָמָה.",
+      "en": "וירדפו מצרים, after the ones who had departed with such high regard for their superiority.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:10",
+      "he": "וּפַרְעֹה הִקְרִיב. אֶת חֵיל הֶהָמוֹן שֶׁל כָּל רֶכֶב מִצְרָיִם:",
+      "en": "ופרעה הקריב, he had brought the entire Egyptian army right up close to the Israelites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:11",
+      "he": "לְקַחְתָּנוּ לָמוּת בַּמִּדְבָּר. כִּי אֲפִלּוּ לֹא יִתְגָּר בָּנוּ מִלְחָמָה פַּרְעֹה וְחֵילוֹ, הִנֵּה בְּעָמְדָם לְפָנֵינוּ לִשְׁמֹר אֶת דֶּרֶךְ כָּל מִחְיָה, נָמוּת בַּמִּדְבָּר בָּרָעָב וּבַצָּמָא וּבְעֵירֹם וּבְחֹסֶר כֹּל.",
+      "en": "לקחתנו למות במדבר, even if Pharaoh and his army will not provoke a battle the mere fact that they block our path will result in our death in the desert from thirst and starvation.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:13",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:15",
+      "he": "מַה תִּצְעַק אֵלָי. כִּי אָמְנָם הוּא הָיָה בִּכְלַל \"וַיִּצְעֲקוּ בְנֵי יִשְׂרָאֵל אֶל ה'\" (שמות יד:י), אַמְנָם צְעָקַת מֹשֶׁה לֹא הָיְתָה מִיִּרְאַת פַּרְעֹה וְחֵילוֹ, כִּי כְבָר הִגִּיד לְיִשְׂרָאֵל אֶת מַפֶּלֶת הַמִּצְרִים וּמִיתָתָם כְּאָמְרוֹ \"לֹא תֹסִיפוּ לִרְאֹתָם עוֹד עַד עוֹלָם, ה' יִלָּחֵם לָכֶם\" (שמות יד:יג-יד). אֲבָל הָיְתָה צַעֲקָתוֹ עַל שָׂרֵי יִשְׂרָאֵל שֶׁהֶעֱזוּ פְנֵיהֶם בְּאָמְרָם \"הַמִבְּלִי אֵין קְבָרִים\" (שמות יד:יא), וְחָשַׁב בִּשְׁבִיל זֶה שֶׁלֹּא יִשְׁמְעוּ לוֹ לְהִכָּנֵס בַּיָּם. לְפִיכָךְ אָמַר לוֹ מַה תִּצְעַק אֵלָי בָּזֶה, כִּי אָמְנָם אַתָּה חוֹשֵׁד בִּכְשֵׁרִים. דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיִסָּעוּ. וְלֹא יַמְרוּ אֶת פִּיךָ:",
+      "en": "מה תצעק אלי?; G’d’s question seems at first glance redundant, seeing that Moses’ outcry could have been perceived as part of the nation’s outcry in verse 10, i.e. ויצעקו בני ישראל וגו'.However, Moses’ outcry had nothing to do with being afraid of the pursuing Egyptians. He had already predicted the downfall and death of Pharaoh and his army as being so decisive that Egypt as a world power would never again pose a serious threat to the Jews. (verse 13-14) He had also told the people that G’d would do the fighting for them and that all they had to do was to remain silent. Moses’ outcry was one of concern with the rebellious attitude of the people who not only were afraid, something that could be forgiven, but who had dared to be sarcastic in their hour of danger, ridiculing Moses’ leadership to the point where he was afraid that they would refuse to enter the sea when told to. G’d told Moses that he had no right to assume such a thing, that in fact he was suspecting innocent people of lack of faith. דבר אל בני ישראל ויסעו, G’d is challenging Moses to issue the order to move forward, assuring him that he will see immediately that the people will respond positively.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:16",
+      "he": "הָרֵם אֶת מַטְּךָ. אֶל הָרוּחַ קָדִים שֶׁיָּשִׂים הַיָּם לְחָרָבָה: וּנְטֵה אֶת יָדְךָ עַל הַיָּם. שֶׁיֵּחָצוּ הַמַּיִם הֵנָּה וָהֵנָּה, כָּעִנְיָן בְּאֵלִיָּהוּ (מלכים ב ב:ח).",
+      "en": "הרם את מטך, in the direction of the east wind so that it will cause the sea bed to dry out. ונטה את ידך על הים, so that the waters will split to the two opposite sides of the shore, similar to what the prophet Elijah would do in Kings II 2,8.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:18",
+      "he": "וְיָדְעוּ מִצְרַיִם. הַנִּשְׁאָרִים בְּמִצְרַיִם וְיָשׁוּבוּ אֵלַי, כִּי לֹא אֶחְפֹּץ בְּמוֹת הַמֵּת.",
+      "en": "וידעו מצרים, the Egyptians who had remained at home, mostly the women and children and the aged, and they would practice penitence, seeing G’d is not interested in the sinner’s death but in his rehabilitation.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:19",
+      "he": "הַהוֹלֵךְ לִפְנֵי מַחֲנֵה יִשְׂרָאֵל. בְּעַמּוּד הָאֵש. וַיֵּלֶךְ מֵאַחֲרֵיהֶם. לְהַתִּיךְ אוֹתָם תְּהוֹמוֹת שֶׁקָּפְאוּ בְּלֵב יָם לִפְנֵי יִשְׂרָאֵל בְּעָבְרָם, כְּדֵי לַהֲפוֹךְ קַרְקַע הַיָּם לְטִיט כַּאֲשֶׁר יַעַבְרוּ מִצְרַיִם אַחֲרֵיהֶם, כִּי לֹא הָיָה צָרִיךְ אָז שֶׁיֵּלֵךְ עַמּוּד הֶעָנָן לִפְנֵי יִשְׂרָאֵל לַנְחוֹתָם הַדֶּרֶךְ, כִּי הַדֶּרֶךְ שֶׁנַּעֲשָׂה בִּבְקִיעַת הַיָּם הָיָה מַנְהִיגָם. וַיַּעֲמֹד מֵאַחֲרֵיהֶם. מֵאַחֲרֵי יִשְׂרָאֵל וּמֵאַחֲרֵי עַמּוּד הָאֵשׁ:",
+      "en": "ההולך לפני מחנה, in the column of fire. וילך מאחריהם, in order to (melt) dissolve the very chunks of water which had frozen in order to enable the Israelites to cross on a dry seabed, and to turn the seabed into a slimy mass which would spell doom for the Egyptians. At this juncture there was no need for the pillar of cloud to be at the head of the marching Israelites. The dry path in the water was their guide ויעמד מאחריהם. behind the Israelites and behind the column of fire.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:20",
+      "he": "וַיָּבֹא. הַמַּלְאָךְ בֵּין מַחֲנֵה מִצְרַיִם וּבֵין מַחֲנֵה יִשְׂרָאֵל, לְהַנְהִיג אֶת שְׁנֵי הָעַמּוּדִים. וַיְהִי הֶעָנָן וְהַחֹשֶׁךְ. חֹשֶׁךְ הַלַּיְלָה הָיָה יַחְדָּיו עִם הֶעָנָן מֵאֲחֹרֵיהֶם שֶׁל יִשְׂרָאֵל וְשֶׁל עַמּוּד הָאֵשׁ. וַיָּאֶר אֶת הַלָּיְלָה. הַמַּלְאָךְ בְּעַמּוּד הָאֵשׁ, כִּי בוֹ הֵסִיר חֹשֶׁךְ הַלַּיְלָה וְלֹא הָיָה שָׁם עָנָן מַפְסִיק בֵּינָם לָאֵשׁ הַמֵּאִיר, כְּמוֹ שֶׁהָיָה לְצַד מִצְרַיִם. וְלֹא קָרַב זֶה אֶל זֶה. כִּי הַהוֹלְכִים בַּחֹשֶׁךְ הוֹלְכִים לְאַט בְּהֶכְרֵחַ, כִּי לֹא יָדְעוּ בַּמֶּה יִכָּשֵׁלוּ.",
+      "en": "ויבא (המלאך) בין מחנה מצרים ובין ישראל; in order to guide the two pillars. ויהי הענן והחשך, the darkness of night together with the cloud was positioned behind Israel and the column of fire. ויאר את הלילה, and the angel illuminated the night by means of the column of fire. By removing the darkness in that spot and forward only, the pillar of cloud still shielded the Israelites from being seen by the Egyptians. ולא קרב זה אל זה כל הלילה. This was because the Egyptians who had previously had the advantage of speed over the Israelites who traveled only on foot, now were slowed down by having to move in darkness.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:21",
+      "he": "וַיָּשֶׂם אֶת הַיָּם לֶחָרָבָה. רוּחַ הַקָּדִים הִקְפִּיא טִיט קַרְקַע הַיָּם. וַיִּבָּקְעוּ הַמָּיִם. בִּנְטִיַּת יַד מֹשֶׁה עַל הַיָּם בְּמִצְוַת בּוֹרְאוֹ:",
+      "en": "וישם את הים לחרבה, the east wind had frozen the mud on the bottom of the sea. ויבקעו המים, when Moses inclined his hand at G’d’s command.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:22",
+      "he": "הָלְכוּ בַּיַּבָּשָׁה. כִּי קָפְאוּ תְּהוֹמוֹת בְּרוּחַ הַקָּדִים, וְעָבְרוּ עַל הַטִּיט הַנִּקְפָּא.",
+      "en": "הלכו ביבשה, seeing the deep parts under the sea had all become frozen from the east wind so that the Israelites were crossing on frozen mud.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:23",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:24",
+      "he": "וַיַּשְׁקֵף ה' אֶל מַחֲנֵה מִצְרַיִם בְּעַמּוּד אֵשׁ וְעָנָן. שְׁנֵי הָעַמּוּדִים שֶׁהָיוּ מְהַלְּכִים בָּאֶמְצַע הַמֶּרְחָק אֲשֶׁר בֵּין מַחֲנֵה מִצְרַיִם וּבֵין מַחֲנֵה יִשְׂרָאֵל, הִקְרִיבָם לְצַד מַחֲנֵה מִצְרַיִם. וַיָּהָם. בְּמִינֵי חֳלָאִים, כְּעִנְיָן בַּפְּלִשְׁתִּים \"וַתְּהִי יַד ה' בָּעִיר מְהוּמָה גְּדוֹלָה מְאֹד, וַיַּךְ אֶת אַנְשֵׁי הָעִיר מִקָּטֹן וְעַד גָּדוֹל, וַיִּשָּׂתְרוּ לָהֶם עֳפָלִים\" (שמואל א ה:ט). וְאוֹתָם מִינֵי חֳלָאִים הֵם \"מַדְוֵי מִצְרַיִם הָרָעִים\" (דברים ז:טו), וְהִיא \"הַיָּד הַגְּדוֹלָה אֲשֶׁר עָשָׂה ה' בְּמִצְרַיִם\" (שמות יד:לא) שֶׁרָאוּ יִשְׂרָאֵל וַיִּירָאוּ, כְּאָמְרוֹ \"אֲשֶׁר יָגֹרְתָּ מִפָּנֶיהָם\" (דברים כח:ס). אָמְנָם פְּרָטֵי הַמַּכּוֹת שֶׁהִזְכִּירָה הַתּוֹרָה לֹא הָיָה בָּהֶם שׁוּם חֹלִי זוּלָתִי הַשְּׁחִין, וְהִנֵּה הַתּוֹרָה הִזְכִּירָה \"שְׁחִין מִצְרַיִם\" (דברים כח:כז) וְהִזְכִּירָה גַּם כֵּן \"מַדְוֵי מִצְרַיִם\".",
+      "en": "וישקף ה' אל מחנה מצרים בעמוד אש וענן, the two pillars which were moving halfway between the Egyptians and the Israelites, He now brought much closer to the Egyptian camp. ויהם, by means of a variety of diseases, similar to what G’d did to the Philistines who had captured the Holy Ark in Samuel I 5,9 where these afflictions, especially painful hemorrhoids are detailed. These afflictions are referred to in the Torah as מדוי מצרים הרעים, the terrible sicknesses of Egypt (Deut. 7,15). This was part of the היד הגדולה אשר עשה ה' במצרים, “the great hand which G’d employed against Egypt.” (verse 31 our chapter). In Deuteronomy 28,60 Moses recalls that the Israelites dreaded these illnesses. However, during the 10 plagues the details of which have been listed by the Torah, we find only a single such affliction infecting the bodies of the people seriously, i.e the 6th plague, שחין. The Torah refers separately to שחין מצרים and to מדוי מצרים.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:25",
+      "he": "וַיָּסַר אֵת אוֹפַן. בְּעַמּוּד הָאֵשׁ: בִּכְבֵדוּת. מִכֹּחַ הַטִּיט. כִּי ה' נִלְחָם לָהֶם. וּבְנוּסֵנוּ לֹא יִלָּחֵם בָּנוּ עוֹד.",
+      "en": "ויסר את אופן, by means of the column of fire. בכבדות, due to the heavy mud in which they were sunk. כי ה' נלחם להם, they were hoping that once G’d saw them fleeing He would desist from fighting them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:26",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:27",
+      "he": "לְאֵיתָנוֹ. בְּשׂוֹא גַּלָּיו אֶל דֶּרֶךְ הַבְּקִיעָה, שֶׁלֹּא עָשָׂה כֵן מֵאָז שֶׁנִּבְקַע. וּמִצְרַיִם נָסִים לִקְרָאתוֹ. שֶׁמִּתְּחִלַּת אַשְׁמוֹרֶת הַבֹּקֶר יַד ה' הָיְתָה בָם לְהֻמָּם, וְאָז אָמְרוּ אָנוּסָה וְנָסוּ עַד פְּנוֹת הַבֹּקֶר דֶּרֶךְ הַבְּקִיעָה. וּבְעֵת פְּנוֹת בֹּקֶר שָׁב הַיָּם לְאֵיתָנוֹ לָשֵׂאת גַּלָּיו בִּמְקוֹם הַבְּקִיעָה, אֲשֶׁר הִגִּיעוּ שָׁם מִצְרַיִם בְּאוֹתָהּ שָׁעָה, וְנִמְצְאוּ נָסִים לִקְרַאת הַיָּם. וַיְנַעֵר ה' אֶת מִצְרַיִם. הַמֶּלֶךְ וְעַמּוֹ, נִעֵר אוֹתָם מֵעַל הַמֶּרְכָּבוֹת אֶל קַרְקַע הַיָּם, כְּמוֹ \"חָצְנִי נִעַרְתִּי\" (נחמיה ה:יג), \"הִתְנַעֲרִי מֵעָפָר\" (ישעיהו נב:ב).",
+      "en": "לאיתנו, the waves returning into the trough created by the waters having been split. ומצרים נסים לקראתו, since the morning watch of the day the hand of G’d had been actively deployed against them to confuse them. That is when they first articulated the decision to flee. (verse 28) They kept fleeing along the trough created by the splitting of the waters until morning. At that time the waters began to reverse themselves meeting the Egyptians who were now near the wrong end of this trough, head on. וינער ה' את מצרים, G’d tossed Egypt, King and all from all the chariots to the bottom of the sea. The verb נער occurs in the same sense as here in Nechemyah 5,13 חצני נערתי, “I shook out my garment.” We also find this term used in this sense in Isaiah 52,2: התנערי מעפר, “arise and shake off the dust!”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:28",
+      "he": "וַיָּשֻׁבוּ הַמַּיִם. בְּרִבּוֹת הַגַּלִּים אֶל מְקוֹם הַבְּקִיעָה. וַיְכַסּוּ אֶת הָרֶכֶב. אַחַר שֶׁנִּנְעֲרוּ מֵעֲלֵיהֶם הָעָם אֲשֶׁר בָּם. וְאֶת הַפָּרָשִׁים. רוֹכְבֵי הַסּוּסִים. לְכֹל חֵיל פַּרְעֹה הַבָּאִים אַחֲרֵיהֶם. הֲמוֹן כָּל רֶכֶב מִצְרַיִם וְרוֹכְבֵיהֶם שֶׁבָּאוּ אַחַר הַפָּרָשִׁים לַמִּלְחָמָה.",
+      "en": "וישובו המים in great waves to the newly created trough, ויכסו את הרכב, after having shaken off the riders who had been driving these chariots. ואת הפרשים, the riders of the cavalry. לכל חיל פרעה הבאים אחריהם, the main body of chariots, foot- soldiers, etc, all who were not the elite but who had taken part in this war.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:29",
+      "he": "וּבְנֵי יִשְׂרָאֵל הָלְכוּ בַיַּבָּשָׁה. בְּעוֹד שֶׁמִּצְרַיִם הָיוּ טוֹבְעִים בַּיָּם, כִּי לֹא שָׁב לְאֵיתָנוֹ בְּאוֹתוֹ הַקָּצֶה שֶׁהָיוּ שָׁם יִשְׂרָאֵל.",
+      "en": "ובני ישראל הלכו ביבשה, all the while the Egyptians experienced all these problems and were drowning, the Israelites had been walking trough the sea as if it were dry land. The areas still being traversed by Israelites were not affected by the sea reverting to its originals state.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:30",
+      "he": "וַיּוֹשַׁע ה' בַּיּוֹם הַהוּא אֶת יִשְׂרָאֵל. בְּמִיתַת הַמִּסְתּוֹלְלִים בָּם לְשַׁעְבְּדָם נִשְׁאֲרוּ הֵם בְּנֵי חוֹרִין, כִּי עַד עֵת מוֹתָם הָיוּ יִשְׂרָאֵל כַּעֲבָדִים בּוֹרְחִים.",
+      "en": "ויושע ה' ביום ההוא את ישראל, by the death of those who had cruelly abused them. Those who had previously been in bondage to the Egyptians were now free. Until the Egyptians died they had been comparable to slaves running away from their masters.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 14:31",
+      "he": "הַיָּד הַגְּדוֹלָה אֲשֶׁר עָשָׂה ה' בְּמִצְרַיִם. מַדְוֵי מִצְרַיִם הָרָעִים שֶׁלָּקוּ בָם עַל הַיָּם (דברים ז:טו). וַיִּירְאוּ הָעָם. כְּאָמְרוֹ (דברים כח:ס) \"אֲשֶׁר יָגֹרְתָּ מִפְּנֵיהֶם\":",
+      "en": "היד הגדולה אשר עשה ה' במצרים; a reference to the מדוי מצרים in Deuteronomy 7,15 which described afflictions suffered by the Egyptians while at the Sea of Reeds. וייראו העם, describing a feeling of immediate fear as in Deuteronomy 28,60 אשר יגורת מפניהם, “of which you were very much afraid.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:1",
+      "he": "אָז יָשִׁיר. הִסְכִּים שֶׁיָּשִׁיר. כִּי גָאֹה גָּאָה. לוֹ לְבַדּוֹ הַגֵאוּת לְיַחֵס אֵלָיו עַל הַטּוֹב הַנִּמְצָא, וְלֹא לְפַרְעֹה \"הַתַּנִּין הַגָּדוֹל אֲשֶׁר אָמַר לִי יְאֹרִי וַאֲנִי עֲשִׂיתָנִי\" (יחזקאל כט:ג). סוּס וְרֹכְבוֹ רָמָה בַיָּם. סוּס פַּרְעֹה וְרֹכְבוֹ, כְּאָמְרוֹ (תהלים קלו:טו) \"וְנִעֵר פַּרְעֹה וְחֵילוֹ בְיַם סוּף\":",
+      "en": "אז ישיר, he agreed to sing this song. כי גאה גאה, He alone is entitled to feel this sense of superiority seeing He is the source of all goodness in the universe. This is in contrast to Pharaoh who boasts about having created the Nile as the source of Egypt’s affluence, (Ezekiel 29.3) a totally spurious claim. סוס ורוכבו רמה בים, a reference to Pharaoh and his horse. Compare Psalms 136,15 ונער פרעה וחילו בים, “He tossed Pharaoh and his armed might into the Sea.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:2",
+      "he": "עָזִּי וְזִמְרָת יָהּ. עֻזּוֹ וְזִמְרָתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא רָמָה בַיָּם אֶת סוּס וְרֹכְבוֹ, כִּי בָּזֶה הֶרְאָה עֻזּוֹ שֶׁהוּא מֶלֶךְ עַל כָּל מְלָכִים, וְשֶׁרָאוּי שֶׁיְּהַלְלוּהוּ הַנּוֹשָׁעִים בְּקוֹל זִמְרָה, שְׂמֵחִים לִהְיוֹת לַעֲבָדִים לְמֶלֶךְ עוֹלָם. וַיְהִי לִי לִישׁוּעָה. וְהוּא אֲשֶׁר רָמָה אֶת הָאוֹיֵב בַּיָּם הָיָה לִי לִישׁוּעָה, כְּאָמְרוֹ (ישעיהו סו:יד) \"וְנוֹדְעָה יַד ה' אֶת עֲבָדָיו, וְזָעַם אֶת אוֹיְבָיו\". זֶה אֵלִי. הוּא הַנִּצְחִי וְהַקַּדְמוֹן אֶצְלִי, אֲשֶׁר בְּהֶכְרֵחַ יַעֲלוּ כָּל סִבּוֹת הַנִּפְסָדִים אֵלָיו, וּמִמֶּנּוּ תִּהְיֶה נִצְחִיּוּת הִתְמַדָּתָם. וְאַנְוֵהוּ. אֶעֱשֶׂה נָוֶה לְשִׁכְנוֹ בְּתוֹכֵנוּ, וּבוֹ אֶתְפַּלֵּל אֵלָיו בִּלְבַד וְאֶעֱבוֹד כָּרָאוּי לְמֵטִיב וּמֵרִיעַ, כְּאָמְרוֹ (ישעיהו מד:יז) \"וַיִּתְפַּלֵּל אֵלָיו וַיֹּאמַר הַצִּילֵנִי כִּי אֵלִי אָתָּה\", כִּי אָמְנָם הָעֲבוֹדָה וְהַתְּפִלָּה מְכֻוָּנִים לִמְצֹא חֵן. אֱלֹהֵי אָבִי. אֱלֹהֵי יַעֲקֹב שֶׁהוֹדִיעַ בְּאָמְרוֹ \"אֵל אֱלֹהֵי יִשְׂרָאֵל\" (בראשית לג:כ), שֶׁהוּא נוֹרָא בְּגָדְלוֹ וּבְהַשְׁגָּחָתוֹ, שֶׁהֵם מִדַּת הָרַחֲמִים וּמִדַּת הַדִּין. וַאֲרוֹמְמֶנְהוּ. בְּהִשְׁתַּחֲוָיָה וְהַכְנָעָה, וּבְהוֹדִיעַ לַכֹּל שֶׁהַתַּכְלִית הַמְכֻוָּן לַעֲשׂוֹת רְצוֹנוֹ הוּא הַטּוֹב מִכָּל הַתַּכְלִיּוֹת, בִּהְיוֹתוֹ מְרוֹמָם עַל כָּל בְּרָכָה וּתְהִלָּה, כְּעִנְיַן \"לַמְּדֵנִי לַעֲשׂוֹת רְצוֹנֶךָ כִּי אַתָּה אֱלוֹהָי\" (תהלים קמג:י):",
+      "en": "עזי וזמרת י-ה, It is G’d’s glory that He flung Pharaoh’s might into the Sea. By doing this He demonstrated that He is the King of kings, and that it is appropriate that those who have been saved by Him praise Him in poem and song. They should demonstrate their joy at having been elevated to being servants of the true master, the King of the universe. ויהי לי לישועה, my salvation consisted in the fact that He flung the enemy into the Sea. (compare Isaiah 66,14 “The power of the Lord will be revealed on behalf of His servants; but He shall rage against His foes.”) זה א-לי, He is the eternal original Being as far as I am concerned. He invented or called into existence all perishable phenomena. Any and all phenomena which will endure have been enabled to do so only by His will. ואנוהו, I will erect a suitable residence for Him in our midst. Within that residence I shall pray to Him exclusively and I will serve Him as is befitting to the One Who bestows both goodness and punishes the derelict. (compare Isaiah 44,17. ויתפלל אליו ויאמר הצילני נא כי א-לי אתה, “He prayed to Him, saying: ‘save me for You are my G’d.’”) Both prayer and service (sacrifices, etc.) have as their purpose to find favour in the eyes of the Lord. אלוקי אבי, a reference to the “G’d of Yaakov” who had spoken of א-ל אלוקי ישראל, in Genesis 33,20. Yaakov had meant that G’d is great in His awesomeness, His supervision of the individual fates of His creatures. He had named G’d thus to indicate that G’d combines within Himself both the attribute of love and the attribute of Justice. וארוממנהו, I elevate Him by my prostrating myself and humbling myself before Him, as well as by making it known that the purpose of everyone of my endeavours in this life to carry out His will to the best of my ability, consistent with the intellectual faculties granted to me. I acknowledge that His will is always superior and ultimately of the most benefit to His creatures. This is why in the final analysis He is beyond even our best efforts to praise Him and exalt Him. (Nechemyah 9,6).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:3",
+      "he": "ה' אִישׁ מִלְחָמָה, ה' שְׁמוֹ. אַף עַל פִּי שֶׁהוּא אִישׁ מִלְחָמָה וּמַכְרִית הָרְשָׁעִים בְּמִדַּת הַדִּין, מִכָּל מָקוֹם ה' שְׁמוֹ בְּמִדַּת רַחֲמִים, כִּי בָּזֶה הוּא נוֹתֵן הֲוָיָה וּמְצִיאוּת לְעוֹלָמוֹ, בִּהְיוֹתוֹ מְכַלֶּה קוֹצִים מִן הַכֶּרֶם שֶׁהֵם מַחֲרִיבֵי עוֹלָם.",
+      "en": "ה' איש מלחמה, ה' שמו, even though He at times appears as the איש מלחמה, the “Man” of war who destroys His foes by invoking the attribute of Justice, He is yet predominantly Hashem, the G’d Who practices mercy. It is this attribute of His which is responsible for the continued existence of all His creatures. When He destroys His foes, He is in effect removing weeds from the garden in order to enable the useful plants to survive and develop. The wicked are like the thorns and thistles in a vineyard.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:4",
+      "he": "מַרְכְּבוֹת פַּרְעֹה וְכוּ'. אַחַר שֶׁסִּפְּרוּ אָבְדַן סוּס וְרֹכְבוֹ, שֶׁהוּא פַּרְעֹה וְסוּסוֹ, וְנָתְנוּ עָלָיו הוֹדָאָה לָאֵל יִתְבָּרַךְ, סִפְּרוּ מִלְחַמְתּוֹ בְּחֵיל פַּרְעֹה וּמִבְחַר שָׁלִישָׁיו, שֶׁהֵם הָיוּ עִקַּר כָּל הַצָּבָא:",
+      "en": "מרכבות פרעה וחילו, after giving thanks to G’d for the destruction of Pharaoh and his horse, Moses refers to G’d’s fight against the army and his elite corps of officers which constituted the backbone of his army.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:5",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:6",
+      "he": "יְמִינְךָ ה' נֶאְדָּרִי בַּכֹּחַ. לֹא יְמִין חֵיל פַּרְעֹה וּמִבְחַר שָׁלִישָׁיו הַבּוֹטְחִים בִּזְרוֹעַ בָּשָׂר. וְזֹאת הִיא הוֹדָאָה שֶׁנָּתְנוּ לָאֵל יִתְבָּרַךְ עַל מִלְחַמְתּוֹ זֹאת הַשֵּׁנִית: יְמִינְךָ ה' תִּרְעַץ אוֹיֵב. יְהִי רָצוֹן שֶׁיִּהְיֶה כֵּן לֶעָתִיד שֶׁתִּרְעַץ כָּל אוֹיֵב לְיִשְׂרָאֵל, כְּעִנְיָן \"כֵּן יֹאבְדוּ כָּל אוֹיְבֶיךָ ה'\" (שופטים ה:לא).",
+      "en": "ימינך ה' נאדרי בכח, Moses emphasises that it is not the mighty military machine of Pharaoh which glorifies in power but the right hand of the Lord; (this was already the second “war” against the Egyptians G’d conducted, i.e. a separate war against part of the power of Egypt). The first time Moses mentioned G’d’s ימין this is a grateful acknowledgment of G’d’s war against Pharaoh; the repetition of the words 'ימינך ה are a prayer for G’d to manifest this power against evil again at the time of the final redemption, may it come about soon in our days. We find a similar repetition in Devorah’s song of thanksgiving for Barak’s victory against Siserah in Judges 5,31.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:8",
+      "he": "וּבְרוּחַ אַפְּךָ נֶעֶרְמוּ מַיִם. עַתָּה סִפֵּר הַמִּלְחָמָה הַגְּדוֹלָה שֶׁנִּלְחַם הָאֵל יִתְבָּרַךְ בַּהֲמוֹן מִצְרַיִם, וְאָמַר הִנֵּה בְּרוּחַ אַפְּךָ נִבְקַע הַיָּם וְנַעֲשׂוּ הַמַּיִם כַּעֲרֵמָה וְכַנֵּד. וְקָפְאוּ תְהוֹמוֹת, בְּקַרְקַע הַיָּם בְּאֹפֶן שֶׁיָּכְלוּ יִשְׂרָאֵל לַעֲבוֹר.",
+      "en": "וברוח אפיך נערמו מים, now Moses speaks of the third war G’d conducted against the multitudes of Egypt; (not the elite) Moses recapitulates the phenomena faced by the Egyptian hordes when the waters which had previously been normal became like towers of frozen water in the midst of the sea.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:9",
+      "he": "וְכַאֲשֶׁר אָמַר אוֹיֵב אֶרְדֹּף. אַחֲרֵיהֶם בַּיָּם. אַשִּׂיג אֲחַלֵּק שָׁלָל. וְהֵם הָיוּ הֲמוֹן כָּל רֶכֶב מִצְרַיִם שֶׁלֹּא בָּאוּ אֶלָּא לִגְזֹל מְמוֹנָם שֶׁל יִשְׂרָאֵל:",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:10",
+      "he": "נָשַׁפְתָּ בְרוּחֲךָ. בְּאוֹתוֹ הָרוּחַ עַצְמוֹ שֶׁהִקְפִּיא קַרְקַע הַיָּם וְנַעֲשָׂה דֶּרֶךְ לַעֲבוֹר גְּאוּלִים, נָשַׁפְתָּ לְכַסּוֹת הָרוֹדְפִים וּלְאַבְּדָם. אַדִּירִים. שָׂרִים וְרָאשֵׁי עָם צָלְלוּ כַּעוֹפֶרֶת בְּמַּיִם. וּמֵהֶם הָיוּ הַשָּׁלִישִׁם עַל כֻּלּוֹ שֶׁמִּנָּה פַּרְעֹה עַל כָּל רֶכֶב מִצְרַיִם (שמות יד:ז).",
+      "en": "נשפת ברוחך, You used the very same wind You had used to dry out the sea bed after splitting it to now turn against the pursuers and to turned into overwhelming and turbulent waters. אדירים, not a reference to the waters but to the men who had been considered mighty, invincible, etc. [I suppose the unusual exegesis is based on the dividing tone sign tipcha under the word במים, which indicates that it belongs to the preceding words. Ed.] The people to whom Moses refers are the ones who had been described in 14,7 as שלישים על כולו.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:11",
+      "he": "מִי כָמֹכָה בָּאֵלִים. נָתַן שֶׁבַח לָאֵל יִתְבָּרַךְ עַל מִלְחַמְתּוֹ הַשְּׁלִישִׁית נֶגֶד הֲמוֹן רֶכֶב מִצְרַיִם, וְאָמַר: מִי כָמוֹךָ בַּחֲזָקִים, שֶׁיּוּכַל לְשַׁנּוֹת טֶבַע הַנִּמְצָאִים הַבִּלְתִּי נִפְסָדִים בְּטִבְעָם. נֶאְדָּר בַּקֹּדֶשׁ. הִנֵּה הַקָּדוֹשׁ בַּמֻּחְלָט הוּא הַבִּלְתִּי נִפְסָד כְּלָל, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סנהדרין צב.) מֵתִים שֶׁעָתִיד הַקָּדוֹשׁ בָּרוּךְ הוּא לְהַחֲיוֹת אֵינָם חוֹזְרִין לַעֲפָרָם, שֶׁנֶּאֱמַר (ישעיהו ד:ג) \"הַנִּשְׁאָר בִּירוּשָׁלַיִם קָדוֹשׁ יֵאָמֵר לוֹ\" מַה קָּדוֹשׁ לְעוֹלָם קַיָּם וכו'. אָמַר, שֶׁאֵין כְּמוֹ הָאֵל יִתְבָּרַךְ נוֹדָע לְאַדִּיר וּמֶלֶךְ עַל כָּל אֱלֹהִים קְדוֹשִׁים וְנִצְחִיִּים, וּלְפִיכָךְ לוֹ לְבַדּוֹ יָאוֹת לְשַׁנּוֹת טֶבַע כָּל נִמְצָא בִּלְתִּי נִפְסָד, כִּי נִצְחִיּוּת כָּל נִצְחִי לֹא יִהְיֶה זוּלָתִי מֵאִתּוֹ יִתְבָּרַךְ. נוֹרָא תְהִלֹּת. וּמִי שֶׁיָּדַע גֹּדֶל תְּהִלּוֹתָיו יִירָאֵהוּ בִּשְׁבִילוֹ, לֹא בִּשְׁבִיל יִרְאַת עֹנֶשׁ שֶׁיָּבֹא מֵאִתּוֹ. עוֹשֵׂה פֶלֶא. עוֹשֶׂה מַה שֶׁיִּפָּלֵא מִן הַטֶּבַע לַעֲשׂוֹת בְּשׁוּם אֹפֶן, כְּגוֹן עַמּוּד הֶעָנָן וְעַמּוּד הָאֵשׁ.",
+      "en": "מי כמוכה בא-לים; Moses praised the Lord for His third war, the one against the Egyptian cavalry of the second quality. G’d’s incomparable stature consists in His ability to change the nature of phenomena in the universe which had previously been considered as indestructible, inviolate, impervious to any attempt by man to influence their nature in any way. נאדר בקודש, that which is קודש, holy, is by definition something indestructible. This is what our sages meant (Sanhedrin 92) when they stated that the righteous people who will be resurrected in the future will never again return to their dust. They based this on Isaiah 4,3 הנשאר בציון והנותר בירושלים........ קרוש יאמר להם, “and those who remain in Zion and are left in Jerusalem, all who are inscribed for life in Jerusalem, shall be called holy.” The Talmud concludes: “what is the meaning of the word נאדר used here by Moses? There is none such as the Lord Who is known to be eternal, King over even all other holy beings, the ones that are also of an enduring nature, not mortal or subject to decay. This is the reason why there is no one else who is entitled to be worshipped, exalted, obeyed, etc. Anything that is infinite had its origin in the Lord, Who is not only infinite but also eternal. נורא תהלות, anyone aware of the marvelous attributes of His cannot fail but recite these praises in awe, not because he is afraid of being punished but because the very nature of G’d inspires awe and reverence. עושה פלא. He accomplishes marvelous, supernatural results, such as the type of pillar of cloud and pillar of fire which were tailored to fit the needs of the Jewish people at that time.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:13",
+      "he": "נָחִיתָ בְחַסְדְּךָ עַם זוּ גָּאָלְתָּ. מֵעֵת שֶׁגְּאַלְתָּם, וְזֶה כְּשֶׁהוֹצֵאתָם חוּץ לִגְבוּל מִצְרַיִם וּבָאוּ לְסֻכּוֹת, הִתְחַלְתָּ לְנַחוֹתָם הַדֶּרֶךְ, כַּאֲמָרוֹ (שמות יג:כ-כא) \"וַיִּסְעוּ מִסֻּכֹּת וַה' הֹלֵךְ לִפְנֵיהֶם\". נָהַלְתָּ בְעָזְּךָ. נָהַלְתָּ לְאִטָּם בַּיַּבָּשָׁה בְּתוֹךְ הַיָּם, כְּאָמְרוֹ (ישעיהו סג:יג) \"מוֹלִיכָם בַּתְּהֹמוֹת, כַּסּוּס בַּמִּדְבָּר לֹא יִכָּשֵׁלוּ\". אֶל נְוֵה קָדְשֶׁךָ. בְּדֶרֶךְ נָכוֹן לָלֶכֶת אֶל נְוֵה קָדְשֶׁךָ, לְקַדְּשָׁם שָׁם לַעֲבוֹדָתֶךָ.",
+      "en": "נחית בחסדך עם זו גאלת, ever since You redeemed them and took over their leadership at the boundary of Egypt at Sukkot, as we know from 13,20-21. נהלת בעזך, You guided them across the dry seabed in a leisurely fashion. (compare Isaiah 63,13 “Who led them through the depths so that they did not stumble-- as a horse in a desert.”) אל נוה קדשך, on the proper way in order to arrive at a place where they will sanctify Your holy Name.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:15",
+      "he": "אָז נִבְהֲלוּ אַלּוּפֵי אֱדוֹם אֵילֵי מוֹאָב. כְּשֶׁרָאוּ אֵלּוּ הַנִּסִּים, אַף עַל פִּי שֶׁיָּדְעוּ שֶׁלֹּא עֲלֵיהֶם יַעֲלֶה יִשְׂרָאֵל לַמִּלְחָמָה, מִכָּל מָקוֹם נִבְהֲלוּ לִרְאוֹת. יֹאחֲזֵמוֹ רָעַד. יְהִי רָצוֹן שֶׁיֹּאחֲזֵמוֹ רָעַד וְלֹא יִתְקוֹמְמוּ עָלֵינוּ. נָמֹגוּ כֹּל יוֹשְׁבֵי כְנָעַן. הִנֵּה יוֹשְׁבֵי כְנַעַן בְּשָׁמְעָם כָּל אֵלֶּה נָמֹגוּ בְּלִי סָפֵק, כִּי יָדְעוּ שֶׁעֲלֵיהֶם עָלוּ לְגָרְשָׁם, כַּאֲמָרוֹ (יהושע ב:יא) \"וַנִּשְׁמַע וַיִּמַּס לְבָבֵנוּ וְכוּ'\".",
+      "en": "אז נבהלו אלופי אדום, אילי מואב, when they saw all these miracles; even though they knew that Israel would not make war against them. They were still frightened by the mere spectacle even if it was not directed at them. יאחזמו רעד, they were gripped by fear praying that the Israelites would never rise to attack them. נמוגו כל יושבי כנען, there can be no question that the hearts of all the inhabitants of the land of Canaan melted at the manifestation of these miracles as they knew that the Israelites were marching in order to drive them out of their land. Rachav testifies even 40 years later when their worst fears had not yet been realised, that the population of Canaan had completely lost confidence in the outcome of a confrontation with Israel (Joshua 2,11).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:16",
+      "he": "תִּפֹּל עֲלֵיהֶם אֵימָתָה וָפַחַד בִּגְדֹל זְרוֹעֲךָ. יְהִי רָצוֹן שֶׁתִּפֹּל עֲלֵיהֶם אֵימָתָה וָפַחַד, בְּאֹפֶן שֶׁיָּנוּסוּ מִפָּנֵינוּ מִיִּרְאַת זְרוֹעֲךָ, כְּעִנְיַן \"אָנוּסָה מִפְּנֵי בְּנֵי יִשְׂרָאֵל, כִּי ה' נִלְחָם\" (שמות יד:כה). יִדְּמוּ כָאָבֶן עַד יַעֲבֹר עַמְּךָ ה'. וְכֵן יְהִי רָצוֹן שֶׁלֹּא יִתְקוֹמְמוּ נֶגְדֵּנוּ כַּאֲשֶׁר נַעֲלֶה לְהִלָּחֵם בָּם, עַד אַחַר שֶׁנַּעֲבֹר הַנְּהָרוֹת וְהֵם אַרְנוֹן וְהַיַּרְדֵּן, כִּי אָמְנָם בְּמַעֲבַר הַנְּהָרוֹת תִּקְשֶׁה כָּל מִלְחָמָה וְנִצְטָרֵךְ לְנֵס גָּדוֹל אֲשֶׁר אוּלַי לֹא נִהְיֶה רְאוּיִים לוֹ.",
+      "en": "תפול עליהם אימתה ופחד בגדול זרועך, may it be Your will that fear will overcome them in a manner which will make them flee because they are afraid of Your arm. Moses refers to what the Torah described in 14,25 when the Egyptians announced that they would flee as they realised that G’d was fighting on behalf of Israel. ידמו כאבן עד יעבור עמך הן, may it also be Your will that they will not launch an attack against us until we have crossed the rivers still in front of us, i.e. the Arnon and the Jordan, seeing that the battles are always more difficult at river crossings, and we would need greater miracles in order to become victorious. We might not be deserving of such miracles.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:17",
+      "he": "תְּבִיאֵמוֹ וְתִטָּעֵמוֹ. שֶׁלֹּא יִגְלוּ מִמֶּנָּה: בְּהַר נַחֲלָתְךָ. בְּהַר הַבַּיִת שֶׁנֶּאֱמַר עָלָיו \"בְּהַר ה' יֵרָאֶה\" (בראשית כב:יד). מָכוֹן לְשִׁבְתְּךָ פָּעַלְתָּ ה'. כְּאָמְרוֹ (תהלים קלב:יד) \"פֹּה אֵשֵׁב כִּי אִוִּתִיהָ\". מִקְדָּש ה' כּוֹנְנוּ יָדֶיךָ. כַּאֲמָרוֹ \"וְעָשׂוּ לִי מִקְדָּשׁ\" (שמות כה:ח), כְּכָל אֲשֶׁר אֲנִי מַרְאֶה אוֹתָךְ (שמות כה:ט). וְכֵן דָּוִד אָמַר \"הַכֹּל בִּכְתָב, מִיַּד ה' עָלַי הִשְׂכִּיל\" (דברי הימים א כח:יט), בְּכָל מְלַאכוֹת הַתַּבְנִית.",
+      "en": "תביאמו ותטעמו, in a manner that will ensure that they will never be exiled from there. בהר נחלתך, on the Temple Mount, of which it has been said in Genesis 22,14 בהר ה' יראה, “on the Mountain of the Lord He manifests Himself.” 'מכון לשבתך פעלת ה, similar to what David, quoting G’d, said in Psalms 132,14 פה אשב כי אויתיה, “here I shall dwell for I have yearned for it.” מקדש ה' כוננו ידיך, a veiled reference to the sanctuary which G’d would instruct the Jewish people to build for His Presence in Exodus 25,8-9. [G’d’s stating the sizes, furnishings, and materials this Sanctuary would be made of makes it equivalent to He Himself having constructed it. Ed.] Also David, in Chronicles I 28,19 spoke about his having received the details of the blueprint of the Temple to be built by his son Solomon from G’d, proving that G’d Himself considered this as His permanent residence on earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:18",
+      "he": "ה' יִמְלֹךְ לְעֹלָם וָעֶד. יְהִי רָצוֹן שֶׁהוּא לְבַדּוֹ יִמְלֹךְ לְעֹלָם וָעֶד, וְאֵין עִמּוֹ אֵל נֵכָר.",
+      "en": "ה' ימלוך לעולם ועד, this too is a prayer by Moses who expresses the hope that G’d, exclusively, will reign forever, and that He will not have to share power with anyone else claiming divine authority on earth.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:19",
+      "he": "כִּי בָא סוּס פַּרְעֹה. וְזֶה שֶׁאָמַרְנוּ אָז יָשִׁיר הָיָה כַּאֲשֶׁר בָּא סוּס פַּרְעֹה בְּרִכְבּוֹ וּפָרָשָׁיו בַּיָּם, וְהָאֵל יִתְבָּרַךְ הִטְבִּיעָם בְּעוֹד שֶׁבְּנֵי יִשְׂרָאֵל הָיוּ הוֹלְכִים בַּיַּבָּשָׁה בְּתוֹךְ הַיָּם, בְּטֶרֶם יָצְאוּ הִתְחִילוּ לָשִׁיר.",
+      "en": "כי בא סוס פרעה, the opening words of this song,אז ישיר משה had been inspired by the spectacle of Pharaoh with his chariot, his horses and its riders drowning in the sea at the time when the Israelites, by contrast, were taking their time walking through the same sea on dry ground. ביבשה בתוך הים, they began the song of thanksgiving even before all had emerged from the sea to the shore.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:20",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:23",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:24",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:25",
+      "he": "וְשָׁם נִסָּהוּ. אִם יְקַבֵּל הַחֹק וְהַמִּשְׁפָּט אֲשֶׁר שָׂם לוֹ, וְלֹא יַחֲזֹר לְסוּרוֹ, וְזֶה הַנִּסָּיוֹן הָיָה כִּי אָמְנָם אָמַר לְיִשְׂרָאֵל.",
+      "en": "ושם נסהו, to find out if they would be willing to accept statutes (laws not given to our intelligence to understand,) as well as social legislation and they would not ignore it when they were not in a state of crisis as now when they needed water through a miracle.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:26",
+      "he": "אִם שָׁמוֹעַ תִּשְׁמַע לְקוֹל ה' אֱלֹהֶיךָ. לְקַבֵּל עָלָיו אוֹתוֹ חֹק שֶׁשָּׂם לְךָ, וּמִכָּאן וָאֵילָךְ הַיָּשָׁר בְּעֵינָיו תַּעֲשֶׂה וְהַאֲזַנְתָּ כוּ', אָז תִּמָּלֵט מִכָּל מַדְוֵי מִצְרַיִם. אֲבָל אִם תְּקַבֵּל עָלֶיךָ עַתָּה וְאַחַר תִּבְגּוֹד, יָשִׂים עָלֶיךָ כָּהֵנָּה וְכָהֵנָּה בְּלִי סָפֵק. וְזֶה הָיָה כְּעִנְיַן אֲמָרָם זִכְרוֹנָם לִבְרָכָה: \"גֵּר הַבָּא לְהִתְגַּיֵּר אוֹמְרִים לוֹ הֱוֵי יוֹדֵעַ שֶׁעַד שֶׁלֹּא בָאתָ לְמִדָּה זוֹ אָכַלְתָּ חֵלֶב אֵינְךָ עָנוּשׁ כָּרֵת, חִלַּלְתָּ שַׁבָּת אֵינְךָ חַיָּב סְקִילָה, וְעַכְשָׁו אָכַלְתָּ חֵלֶב אַתָּה עָנוּשׁ כָּרֵת וְכוּ'\" (יבמות מז.). כִּי אֲנִי ה' רֹפְאֶךָ. וְהַטַּעַם שֶׁאִם תְּקַבֵּל וְאַחַר כָּךְ תִּבְגּוֹד תִּהְיֶה נֶעֱנָשׁ, הוּא כִּי אָמְנָם כָּל מִצְוֹתַי הֵם לְרַפֹּאת אֶת נַפְשְׁךָ מֵחָלְיֵי הַתַּאֲווֹת וְהַדֵּעוֹת הַנִּפְסָדוֹת, לְמַעַן תִּהְיֶה קָדוֹשׁ לֵאלֹהֶיךָ, כְּאָמְרוֹ \"וָאַבְדִּל אֶתְכֶם מִן הָעַמִּים לִהְיוֹת לִי\" (ויקרא כ:כו), וְאִם תִּבְגּוֹד, תֶּחֱלֶה וְתִתְחַלֵּל הַנֶּפֶשׁ, וְרָאוּי שֶׁיֵּעָנֵשׁ מִי שֶׁיְּחַלֵּל אֶת קֹדֶשׁ ה' אֲשֶׁר אָהֵב.",
+      "en": "אם שמוע תשמע לקול ה' אלוקיך, to accept the statutes which would follow as a way of life, not merely as emergency regulation in the desert, and if from now on they would הישר בעיניו תעשה והאזנת למצותיו, וגו, carefully observe G’d’s commandments endeavouring to live according to their understanding of what is pleasing to Him, then they would be permanently spared any of the afflictions that G’d had brought upon the Egyptians. The implication was that betraying G’d’s trust would have painful consequences. The entire experience is a reminder of the manner in which the Rabbis relate to a potential convert to Judaism. One does not present Judaism in rosy attractive colours so as to encourage him to convert, but on the contrary, one apprises him first and foremost of the עול המצות, “the yoke of the commandments,” telling him of all the things he would have to forego by joining the Jewish people, i.e. the Jewish religion. Moreover, one advises him that whereas up until now he was able to eat certain foods, such as chelev, not only would he no longer be able to eat these foods, but violation of the commandment would carry the penalty of karet, loss of entitlement to his afterlife, etc. Only after he has duly absorbed this information does one proceed with teaching him the intricacies of Judaism. What happened at Marah was preparatory to accepting Judaism at Mount Sinai. If the people had not gone through this process it is doubtful that they would have said נעשה ונשמע, “we will do, now let us learn G’d’s Torah,” when the time came for this a few weeks later. כי אני ה' רופאך, the point of all this is that once you have accepted the statutes and then fail to honour your commitment you will be subject to punishment by G’d. These punishments will be in the nature of being self-inflicted as all of G’d’s commandments are designed to make your life on earth and beyond a healthy life. Failure to honour your commitment will expose you to all the negative influences which abound on earth. I have shown you that I can cure harmful waters, waters which humans cannot drink. This is only a sample of what My commandments and observing them can do for you. We, today, do not know what kind of wood or tree G’d told Moses to throw into these waters. The Torah deliberately did not reveal this information. Even if all the trees in the world would be the kind that G’d told Moses to throw into the water, and even if we would throw all this wood into only a minute quantity of water the result would be nil. On the other hand, if, by the grace of G’d, one throws even a minute quantity of such wood into even an entire ocean, the waters of the ocean would suddenly become drinking water. [my addition. Ed.] Leviticus 20,26 states clearly that G’d separates the Jewish people from the surrounding nations. Failure to honour commitments results in “disease,” i.e. the defilement of one’s soul. As a result, such a person deserves his punishment.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 15:27",
+      "he": "וּבְאֵילִם שְׁתֵּים עֶשְׂרֵה עֵינֹת מַיִם. וְעִם כָּל זֶה.",
+      "en": "שתים עשרה עינות מים, in spite of this, the people moved on from there.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:1",
+      "he": "וַיִּסְעוּ מֵאֵילִם. אֶל מִדְבַּר סִין. כְּעִנְיַן \"לֶכְתֵּךְ אַחֲרַי בַּמִּדְבָּר\" (ירמיהו ב:ב).",
+      "en": "ויסעו מאלים...אל מדבר סין, this is what Jeremiah had in mind when he spoke of G’d remembering fondly how Israel had followed Him into the inhospitable desert (Jeremiah 2,2).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:2",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:3",
+      "he": "מִי יִתֵּן מוּתֵנוּ. בְּשִׁבְתֵּנוּ עַל סִיר הַבָּשָׂר. אִם הָיָה הָאֵל יִתְבָּרַךְ חָפֵץ לַהֲמִיתֵנוּ, הָיָה טוֹב לָנוּ שֶׁיְּמִיתֵנוּ שָׁם בְּעוֹדֵנוּ שְׂבֵעִים, כְּעִנְיָן \"טוֹבִים הָיוּ חַלְלֵי חֶרֶב מֵחַלְלֵי רָעָב\" (איכה ד:ט).",
+      "en": "מי יתן מותנו...בשבתנו על סיר הבשר, they did not want to die. What they said was that if it had been G’d’s plan all along to let them die, why had He not arranged for them to die while they were still satiated from their last meal? A similar thought is expressed in Lamentations 4,9טובים היו חללי חרב מחללי רעב, “the ones killed by the sword were better off than the ones who died from hunger.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:4",
+      "he": "מַמְטִיר לָכֶם לֶחֶם. מָזוֹן: לְמַעַן אֲנַסֶּנּוּ הֲיֵלֵךְ בְּתוֹרָתִי. כְּשֶׁיִּהְיֶה מִתְפַּרְנֵס שֶׁלֹּא בְּצַעַר, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה לֹא נִתְּנָה תּוֹרָה אֶלָּא לְאוֹכְלֵי הַמָּן.",
+      "en": "והכינו את אשר יביאו והיה משנה, not literally: “bread,” but מזון, “food.” למען אנסנו הילך בתורתי, if when receiving their food without effort they will take care to keep My commandments, seeing they will then not have any excuses not to. This idea has been formulated in the classic statement by our sages in the Mechilta, section ויסע chapter 2 “the Torah, as an instrument of profound study, has been given only to the generation who ate the manna.” [no other generation had so little to distract it from devoting time to Torah study. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:5",
+      "he": "וְהֵכִינוּ אֵת אֲשֶׁר יָבִיאוּ וְהָיָה מִשְׁנֶה. גַּם אַחַר הַהֲכָנָה יִהְיֶה מִשְׁנֶה, כִּי לֹא יֶחְסַר בַּבִּשּׁוּל. וְאָמַר וְהֵכִינוּ לְעוֹרֵר שֶׁיִּזְדָּרְזוּ לְעַנֵּג שַׁבָּת בְּמַטְעַמִּים, וְשֶׁכָּל זְרִיזוּתָם בָּזֶה יִהְיֶה מֵעֶרֶב שַׁבָּת.",
+      "en": "והכינו את אשר, even after having prepared the food from the raw manna it will still be twice the quantity it had been on the previous days. It will not shrink in the course of preparation. The reason G’d speaks of והכינו, “they will prepare it,” is to encourage the people to prepare for the Sabbath by observing it with delicacies, especially tasty food. They should concentrate on all this on the Sabbath eve.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:6",
+      "he": "עֶרֶב וִידַעְתֶּם. יְהִי רָצוֹן שֶׁמָּה שֶׁאָמַר לִי שֶׁיִּתֵּן לָכֶם מָזוֹן, יִהְיֶה בְּאֹפֶן זֶה שֶׁיִּתֵּן לָכֶם בָּעֶרֶב צָרְכֵי הָעֶרֶב, בְּעִנְיָן שֶׁתֵּדְעוּ שֶׁהָאֵל יִתְבָּרַךְ הוֹצִיא אֶתְכֶם לְגַמְרֵי מֵאֶרֶץ מִצְרַיִם, כִּי יוֹצִיאֲכֶם גַּם מִמִּנְהָגֶיהָ, שֶׁהֱיִיתֶם יוֹשְׁבִים שָׁם עַל סִיר הַבָּשָׂר, בִּלְתִי זְמַן סְעוּדָה קְבוּעָה כִּבְהֵמוֹת, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה בִּתְחִלָּה הָיוּ יִשְׂרָאֵל כְּתַרְנְגוֹלִים הַמְנַקְּרִים בָּאַשְׁפָּה, עַד שֶׁבָּא מֹשֶׁה וְקָבַע לָהֶם זְמַן סְעוּדָה.",
+      "en": "ערב וידעתם, may it be G’d’s will that what He said about giving you food will be such that in the evening you will receive enough for that evening so that you will all know that He has taken you out of Egypt, totally and irrevocably. You have also exited from the political leaders of that country. True, you had been sitting near the fleshpots there, but you had never been given enough time to enjoy any of the meat in these pots. You had been treated like animals which have no fixed times when they eat. This is the meaning of the passage in Yuma 75 in which we are told that at the beginning of your history (of the enslavement) you were like hens that are only able to hastily pick at the kernels given them as food. They even had to look for it in the refuse heaps. Only after Moses, their redeemer, took over their affairs did they begin to enjoy regular meals at regular times.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:7",
+      "he": "וּבֹקֶר. יִהְיֶה לָכֶם לֶחֶם הַבֹּקֶר. וּרְאִיתֶם אֶת כְּבוֹד ה'. וְכֵן יְהִי רָצוֹן שֶׁתִּרְאוּ אֶת כְּבוֹד ה' שֶׁיָּבֹא לְהַגְבִּיל הַזְּמַנִּים, לְמַעַן תֵּדְעוּ שֶׁתְּלוּנוֹתֵיכֶם הֵם עָלָיו וְהוּא יִהְיֶה הַנִּרְאֶה לְהָסִירָם מֵעָלָיו.",
+      "en": "ובוקר, in the morning you will have bread, 'וראיתם את כבוד ה, and may it be G’d’s will that you will see Hashem’s glory when He will set limits to various times of the day, so that you will know that your complaints addressed to Aaron and myself should really have been addressed to Him, seeing it is He who will remove the cause of these complaints.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:8",
+      "he": "וַיֹּאמֶר מֹשֶׁה בְּתֵת ה' לָכֶם. אָמַר מֹשֶׁה: מַה שֶּׁהִתְפַּלַּלְנוּ שֶׁיִּתֵּן ה' לָכֶם הַמָּזוֹן בָּעֶרֶב, בְּעִנְיָן שֶׁתֵּדְעוּ שֶׁהָאֵל יִתְבָּרַךְ הוֹצִיא אֶתְכֶם, רְצוֹנֵנוּ שֶׁיִּתֵּן לָכֶם בָּעֶרֶב בָּשָׂר לֶאֱכֹל, וְלֹא לִשְׂבֹּעַ כְּמִנְהַג הַמִּצְרִים אֲשֶׁר אֵין לִפְנֵיהֶם בִּלְתִּי אִם גְּוִיָּתָם, וְשֶׁבַּבֹּקֶר יִתֵּן לָכֶם לֶחֶם בִּלְבַד לִשְׂבֹּעַ, שֶׁיִּהְיֶה מַסְפִּיק דֵּי שָׂבְעֲכֶם: בִּשְׁמֹעַ ה' אֶת תְּלוּנוֹתֵיכֶם. וּמַה שֶׁהִתְפַּלַּלְנוּ שֶׁתִּרְאוּ אֶת כְּבוֹד ה', רְצוֹנֵנוּ שֶׁיִּתֵּן לָכֶם אֵלֶּה בְּעִנְיָן שֶׁיֵּרָאֶה לָכֶם שֶׁתְּלוּנוֹתֵיכֶם הֵם עָלָיו, וְשֶׁהוּא שָׁמַע אֶת תְּלוּנוֹתֵיכֶם.",
+      "en": "ויאמר משה בתת ה' לכם, Moses said: as far as your prayer to G’d to give you food in the evening in a way which makes it plain that that G’d took you out of Egypt and not we, is that we had in mind בערב בשר לאכול, He will give you meat to eat in the evening; to eat, but not to satiate yourself on; unlike the Egyptians who are only concerned with the cravings of their bodies; therefore only בבקר לשובע only in the morning will G’d give you bread to satiate your body’s requirements. As to our having prayed that G’d would show you His glory, this referred to His answering your complaints. בשמוע ה' את תלונותיכם, concerning our prayer that you will be able to see the glory of Hashem our intention was that you will realise from His reaction that your complaints were not addressed to us, or should not have been addressed to us, but to Him. Moreover, by providing, He has demonstrated that He has heard your complaints.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:9",
+      "he": "אֱמֹר אֶל כָּל עֲדַת. כֵּיוָן שֶׁיָּדַע שֶׁנִּתְקַבְּלָה תְּפִלָּתוֹ, כְּעִנְיַן רַבִּי חֲנִינָא כְּשֶׁהָיָה מִתְפַּלֵּל עַל הַחוֹלִים (ברכות לד), אוֹ יוֹתֵר מִזֶּה: קִרְבוּ לִפְנֵי ה'. הַהוֹלֵךְ לִפְנֵיהֶם בְּעַמּוּד עָנָן:",
+      "en": "אמור אל כל עדת, seeing that Moses knew that their prayer had been accepted, as in the case of Rabbi Chanina who claimed that while praying for the sick he could feel if G’d responded positively.(Berachot 34). 'קרבו לפני ה, “come close to the proximity of Hashem,” Moses referred to the pillar of cloud which traveled in front of the Israelites and represented the presence of G’d.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:10",
+      "he": "וַיִּפְנוּ אֶל הַמִּדְבָּר. כִּי דֶּרֶךְ הַמִּדְבָּר הָיָה הֶעָנָן מְהַלֵּךְ בְּנָסְעָם.",
+      "en": "ויפנו אל המדבר, seeing that the direction of that pillar was toward the desert, the direction in which the people had been marching.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:11",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:13",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:14",
+      "he": "וְהִנֵּה עַל פְּנֵי הַמִּדְבָּר דַּק. דָּבָר שֶׁהַגַּרְגִּיר שֶׁלּוֹ הָיָה דַּק, כַּאֲמָרוֹ (במדבר יא:ז) \"כִּזְרַע גַּד הוּא\". דַּק כַּכְּפֹר. גַּם בְּהַנָּחָתוֹ הָיָה דַק, שֶׁלֹּא הָיָה מֻנָּח גַּרְגִּיר עַל גַּרְגִּיר.",
+      "en": "והנה על פני המדבר, kernels in the shape and texture of very fine crystals as described in Numbers 11,7 כזרע גז הוא, similar to the seeds of Gad.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:16",
+      "he": "זֶה הַדָּבָר אֲשֶׁר צִוָּה ה'. בְּאָמְרוֹ \"וּבַבֹּקֶר תִּשְׂבְּעוּ לֶחֶם\": לִקְטוּ מִמֶּנּוּ. כָּל אֶחָד כִּרְצוֹנוֹ, אֶחָד הַמַּרְבֶּה וְאֶחָד הַמַּמְעִיט: אִישׁ לְפִי אָכְלוֹ עֹמֶר לַגֻּלְגֹּלֶת מִסְפַּר נַפְשֹׁתֵיכֶם אִישׁ לַאֲשֶׁר בְּאָהֳלוֹ תִּקָּחוּ. כִּי בְכָל עִנְיָן שֶׁתִּלְקְטוּ, הֵן שֶׁתַּרְבּוּ לִלְקֹט וְהֵן שֶׁתַּמְעִיטוּ, יִהְיֶה זֶה עַל כָּל פָּנִים שֶׁיִּהְיֶה הַנִּלְקָט מָזוֹן לְכָל אֶחָד כְּפִי אָכְלוֹ, שֶׁיַּשְׂבִּיעַ אֶת הָרָגִיל לֶאֱכֹל הַרְבֵּה, וְלֹא יִתֵּן מָזוֹן יוֹתֵר מֵהָרָאוּי לְמִי שֶׁהוּא רָגִיל לֶאֱכֹל מְעַט. וְשֶׁמָּה שֶׁיִּלָּקֵט, הֵן עַל יְדֵי הַמַּרְבֶּה לִלְקֹט הֵן עַל יְדֵי הַמַּמְעִיט, יְהִי עֹמֶר לַגֻּלְגֹּלֶת, לֹא פָחוֹת וְלֹא יוֹתֵר. וְשֶׁמִּי שֶׁיִּלְקֹט בְּעַד כָּל בְּנֵי בֵיתוֹ יִלְקֹט עֹמֶר לְכָל אֶחָד כְּמִסְפַּר כָּל הַנְּפָשׁוֹת אֲשֶׁר בְּאָהֳלוֹ.",
+      "en": "'זה הדבר אשר צוה ה, and in the morning you will eat bread (food) to satisfy yourselves. (compare verse 12) לקטו ממנו, everyone to his heart’s desire. Some would take more, others less but איש לפי אכלו עומר לגלגלת, מספר נפשותיכם איש לאשר באהלו תקחו, it would not matter how much they would collect, for when they would measure it they would find that each one had exactly one omer per family member in his tent. Every Israelite would receive (ultimately) an equal share of the heavenly food G’d would provide. It would satisfy him in accordance with the amount of food he was used to consume regularly. If someone was in the habit of eating relatively little, he would not now be able to change his eating habits and gorge himself. On the other hand, if someone was a glutton, receiving heavenly food would not require him to downsize his appetite.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:19",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:20",
+      "he": "וַיִּקְצֹף עֲלֵיהֶם מֹשֶׁה. כִּי אָמְנָם לֹא קָרָה זֶה מִפְּנֵי הֱיוֹתוֹ יוֹתֵר מִכְּדֵי שָׂבְעָם, אֲבָל הוֹתִירוּהוּ לְכַתְּחִלָּה לְנַסּוֹת.",
+      "en": "ויקצף עליהם משה, the reason that Moses was angry was that the leftover manna was not the result of it being more than the people could eat, but because it represented an attempt by the people to find out if what they had been warned of would really happen.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:21",
+      "he": "בַּבֹּקֶר בַּבֹּקֶר. בְּכָל בֹּקֶר, כְּמוֹ \"כְּדַבְּרָהּ אֶל יוֹסֵף יוֹם יוֹם\" (בראשית לט:י), וְכֵן \"בַּבֹּקֶר בַּבֹּקֶר בְּהֵיטִיבוֹ אֶת הַנֵּרוֹת\" (שמות ל:ז). וְחַם הַשֶּׁמֶשׁ וְנָמָס. לְפִיכָךְ הָיוּ מְלַקְּטִים בַּבֹּקֶר כְּדֵי שֶׁלֹּא יִמַּס בְּחֹם הַשָּׁמֶשׁ.",
+      "en": "בבקר בבקר, each morning; the syntax is similar to that in Genesis 39,10 where the words כדברה אל יוסף יום יום mean: “when she spoke to him (thus) each and every day.” We also have a similar line in Exodus 30,7 when the Torah speaks about the daily procedure of cleaning the candelabra, writing בבקר בבקר בהיטיבו את הנרות, “every morning when he would clean out the lamps, etc.” וחם השמש ונמס, this was the reason that the people would gather it up early in the morning so that it did not yet have a chance to melt from the heat.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:23",
+      "he": "אֵת אֲשֶׁר תֹּאפוּ. הַחֵלֶק מִמֶּנּוּ שֶׁאַתֶּם חֲפֵצִים לֶאֱפוֹת בַּתַּנּוּר, כְּעִנְיַן \"וְעָשׂוּ אוֹתוֹ עֻגוֹת\" (במדבר יא:ח). אֵפוּ. עַתָּה מֵעֶרֶב שַׁבָּת. וְאֵת אֲשֶׁר תְּבַשֵּׁלוּ. כְּעִנְיַן \"וּבִשְּׁלוּ בַפָּרוּר\" (במדבר יא:ח). בַּשֵּׁלוּ. עַתָּה:",
+      "en": "את אשר תאפו, the portion of each day’s ration which they would bake in an oven. The subject has been referred to again in Numbers 11,8 as ועשו אותו עוגות “they would make it into cakes.” אפו!, now, on the Sabbath eve. ואת אשר תבשלו, and the portion of it which you want to prepare boiled, parallel to what is described in the corresponding chapter in Numbers as ובשלו בפרד, “they boiled it in a pot.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:24",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:25",
+      "he": "אִכְלֻהוּ הַיּוֹם. לְעִתִּים מְזֻמָּנִים מִזֶּה הַיּוֹם: כִּי שַׁבָּת הַיּוֹם לַה'. כִּי כָל זֶה הַיּוֹם שַׁבָּת לַה', וּבְכָלּוֹ מֻתָּר לֶאֱכוֹל אֶת הַמָּן הַנּוֹתָר מֵעֶרֶב שַׁבָּת, וְלֹא יִהְיֶה מֻתָּר זֶה לְאַחַר הַשַּׁבָּת. הַיּוֹם לֹא תִמְצָאֻהוּ. בְּכָל יוֹם שַׁבָּת כְּמוֹ שֶׁהוּא הַיּוֹם, לֹא תִמְצָאֻהוּ.",
+      "en": "אכלוהו היום, at fixed times, from this date onward. 'כי שבת היום לה, this entire day is a Sabbath in honour of G’d. It was permitted to eat any manna left over from Friday on the entire Sabbath. However, if any was left over after the Sabbath it could not be eaten anymore. היום לא תמצאוהו, on the entire Sabbath you will not find any manna on the ground anywhere just as you did not on this Sabbath.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:26",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:27",
+      "he": "יָצְאוּ מִן הָעָם. מִן הַמַּחֲנֶה אֶל מָקוֹם רָחוֹק, חוֹשְׁבִים לִמְצֹא מִמֶּנּוּ שָׁם, כִּי לֹא נֶאֶמְנָה אֵת אֵל רוּחָם. לִלְקוֹט. וְזֶה הָיָה חִלּוּל שַׁבָּת בְּלִי סָפֵק אִם הָיוּ מְלַקְּטִים הַדָּבָר מִמְּקוֹם גִּדּוּלוֹ, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (שבת קז, ב) הַאֵי מָאן דְּתָלַשׁ כְּשׁוּתָא מֵהַזְמֵי וְהַיְנִי חַיָּב מִשּׁוּם תּוֹלֵשׁ:",
+      "en": "יצאו מן העם, from their camp to the area where during the week the manna had been falling. These people thought that they would find some manna, possibly outside the usual parameter. This was a demonstration of lack of faith in the word of G’d. ללקוט, this would have been an outright desecration of the Sabbath. Even carrying their containers was a desecration of the Sabbath. The Talmud Shabbat 107 states that even something only peripherally attached to the ground, i.e. something which had not actually had grown in the earth, had roots, is nonetheless considered halachically as if it had been uprooted from the soil.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:28",
+      "he": "עַד אָנָה מֵאַנְתֶּם לִשְׁמוֹר. הִנֵּה הַחֵטְא בִּשְׁמִירָה נַעֲשָׂה בֵּין כֻּלְּכֶם, כִּי אַתָּה אַף עַל פִּי שֶׁלֹּא יָצָאתָ עִמָּהֶם לִלְקוֹט, גָּרַמְתָּ שֶׁיֵּצְאוּ, שֶׁלֹּא לִמַּדְתָּ אוֹתָם הִלְכוֹת שַׁבָּת וְעִנְיָנָן, רַק אָמַרְתָּ \"שֵׁשֶׁת יָמִים תִּלְקְטֻהוּ\" וְלֹא שִׁבְעַת יָמִים, וּבָזֶה מָרוּ אֶת פִּיךָ, וְאָמַרְתָּ \"וּבַיּוֹם הַשְּׁבִיעִי שַׁבָּת לֹא יִהְיֶה בוֹ\" וְהֵם לֹא הֶאֱמִינוּ לִדְבָרֶךָ. אֲבָל לֹא לִמַּדְתָּם מִצְוֹתַי, שֶׁבִּכְלַל מְלָאכָה תִּהְיֶה לְקִיטַת הַמָּן שֶׁחַיָּב בָּהּ הַלּוֹקֵט מִשּׁוּם תּוֹלֵשׁ, וַהֲבָאָתוֹ מֵרְשׁוּת לִרְשׁוּת שֶׁהִיא מִכְּלַל הַמְּלָאכוֹת גַּם כֵּן. וְתוֹרֹתָי. עִנְיַן הַשַּׁבָּת וְטַעֲמוֹ וּמַתַּן שְׂכָרוֹ וְעָנְשׁוֹ, אֲשֶׁר כָּל יוֹדְעֵיהֶם יִזָּהֲרוּ לִשְׁבּוֹת בְּשַׁבָּת בְּלִי סָפֵק.",
+      "en": "עד אנה מאנתם לשמור, the rebuke included Moses; although Moses, of course, had not gone out to look for manna on the Sabbbath, who is held co-responsible for the people going out as he had withheld information concerning the Sabbath given to him already at the beginning of the week. During the intervening days Moses should have used the time to teach the people the laws concerning the Sabbath. Moses’ specific error is recorded by the Torah in verse 26 when he told the people “you will gather it for six days and on the seventh day there will not be any.” He had not told the people that they must not go out looking for it. The people did not so much rebel against G’d as against the instructions they had received from Moses, when they did not believe him, assuming that he merely did not want them to waste their time looking for something that was not there. Moses should have taught the people that even gathering up manna was considered a forbidden activity on the Sabbath, that the one doing this was considered as if he had harvested it, cut it, on the Sabbath. Not only that, he would also become guilty for transporting it from the public domain to the private domain, another one of the 39 categories of activities on the Sabbath which are disallowed. ותורותי, the general tenor of Sabbath observance and the reward and punishment associated with proper Sabbath observance.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:29",
+      "he": "רְאוּ. הִתְבּוֹנְנוּ. כִּי ה' נָתַן לָכֶם הַשַּׁבָּת. וְאֵין זוֹ מִצְוָה בִּלְבַד, אֲבָל הִיא מַתָּנָה שֶׁלֹּא נִתְּנָה לְזוּלָתָם, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (שבת י:) מַתָּנָה טוֹבָה יֵשׁ לִי בְּבֵית גְּנָזַי וְשַׁבָּת שְׁמָהּ, וַאֲנִי מְבַקֵּשׁ לִיתְּנָהּ לְיִשְׂרָאֵל. וְכֵן סִדְּרוּ בַּתְּפִלָּה \"וְלֹא נְתַתּוֹ לְגוֹיֵי הָאֲרָצוֹת וְכוּ' עֲרֵלִים\", כְּאָמְרוֹ (שמות לא:טז) \"וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל אֶת הַשַּׁבָּת, לַעֲשׂוֹת אֶת הַשַּׁבָּת לְדֹרֹתָם\", וְהוּא שֶׁיַּשִּׂיגוּ יוֹם שֶׁכֻּלּוֹ שַׁבָּת.",
+      "en": "ראו!, “try and understand!” כי ה' נתן לכם השבת, the Sabbath regulations are not merely prohibitions, etc, but first and foremost the Sabbath is a gift from G’d to you, a gift for you exclusively, something G’d did not give to any other nation. The Talmud Shabbat 10 phrases it thus: “I have a precious gift in my treasure chamber, its name is “Sabbath.” I want to give it to the people of Israel.” Based on this concept of what the Sabbath is all about, the sages who formulated the Sabbath morning prayer, עמידה, emphasised that “You did not give it to the nations of the world, in fact they are not even allowed, being uncircumcised, to partake in the מנוחה, “the constructive rest, which is so characteristic of the Sabbath.” This is also echoed in Exodus 31,16 ושמרו בני ישרל את השבת לעשות את השבת לדוררותם. “The Children of Israel are to observe the Sabbath to constructively make of it the Sabbath throughout their generations.” The implication is that proper observance of the Sabbath, its concept, will ensure that we will be around throughout the generations, will partake in the redemption.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:30",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:31",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:32",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:33",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:34",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:35",
+      "he": "אָכְלוּ אֶת הַמָּן. תְּמוּרַת לֶחֶם חִטִּים וְזוּלָתוֹ, כְּאָמְרָם (במדבר יא:ו) \"בִּלְתִּי אֶל הַמָּן עֵינֵינוּ\". עַד בֹּאָם אֶל אֶרֶץ נוֹשָׁבֶת. אֶל אֶרֶץ סִיחוֹן וְעוֹג, כִּי שָׁם אָכְלוּ גַּם מִלֶּחֶם הָאָרֶץ. אֶת הַמָּן אָכְלוּ עַד בֹּאָם אֶל קְצֵה אֶרֶץ כְּנָעַן. וְעִם לֶחֶם הָאָרֶץ אָכְלוּ מָן אַחַר בּוֹאָם אֶל אֶרֶץ סִיחוֹן וְעוֹג עַד שֶׁעָבְרוּ אֶת הַיַּרְדֵּן, כַּאֲמָרוֹ (יהושע ה:יא-יב) \"וַיֹּאכְלוּ מֵעֲבוּר הָאָרֶץ מִמָּחֳרַת הַפֶּסַח וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת\".",
+      "en": "אכלו את המן, in lieu of bread made from wheat or other cereals. The Israelites themselves testified to this in Numbers 11,6 when they said (complainingly) בלתי אל המן עינינו, “all we have to look at is the manna.” עד בואם אל ארץ נושבת, inhabited countries, i.e. the lands conquered from Sichon and Og on the east bank of the Jordan river. Once they had taken over these lands they also ate regular bread. [a period of possibly six months before they crossed the Jordan. Ed.] את המן אכלו עד בואם אל קצה ארץ כנען, the word את, meaning “with, in addition,” alludes to the fact that they no longer ate manna exclusively. We find further confirmation of this in Joshua 5,11-12 ויאכלו מעבור הארץ ממחרת הפסח...וישבות המן ממחרת, “they ate from the produce of the land, etc.,…the manna stopped on the morrow after the Passover.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 16:36",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:1",
+      "he": "לִשְׁתּוֹת הָעָם. לִשְׁתִיַּת הָעָם, כְּמוֹ \"לְשֶׁבֶת אַבְרָם\" (בראשית טז:ג).",
+      "en": "לשתות העם, that the people could drink. The unusual construction is similar to Genesis 16,3 לשבת אברהם.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:2",
+      "he": "מַה תְּרִיבוּן עִמָּדִי. הֲלֹא יְדַעְתֶּם שֶׁאֲנִי מְצֻוֶּה וְעוֹשֶׂה? מַה תְּנַסּוּן אֶת ה'. וְאִם רִיבְכֶם עִמִּי הוּא כְּדֵי לְנַסּוֹת הַמְשַׁלֵּחַ, מַה תְּנַסּוּן לְרַע לָכֶם, כִּי זֶה הַנִּסָּיוֹן רַב הַסַּכָּנָה, שֶׁאִם יִקְצֹף יַרְאֶה פָּעֳלוֹ לְהַשְׁחִיתְכֶם, וִיהִי הַנִּסָּיוֹן רַע לָכֶם, כַּאֲמָרוֹ \"בְּחָנוּנִי גַּם רָאוּ פָעֳלִי\" (תהלים צה:ט), רְצוֹנוֹ לוֹמַר לְרַע לָהֶם.",
+      "en": "מה תריבון עמדי?; do you not know that I do not act arbitrarily but only carry out G’d’s orders? 'מה תנסון את ה?; if you really quarrel with me, this is equivalent to your quarrelling and testing the One whose agent I am. You are only endangering your own lives if you quarrel with G’d! If He becomes angry He will consider that He has to destroy you, seeing that He had demonstrated His power to you in deeds. We find Moses repeating this thought in Psalms 95,9 אשר נסוני אבותיכם בחנוני גן ראו פעלי, “when your fathers put Me to the test, tried Me, though they had seen My deeds.” [when someone who had never had a manifestation of G’d’s power “tests” Him, this is far less serious than when the Jewish people who had ample proof of G’d’s power would do the same. Ed]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:3",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:5",
+      "he": "עֲבֹר לִפְנֵי הָעָם. וּתְכַל תְּלוּנוֹתָם, בִּרְאוֹתָם שֶׁאַתָּה מִשְׁתַּדֵּל לְהַמְצִיא צָרְכָּם: וּמַטְּךָ אֲשֶׁר הִכִּיתָ בּוֹ אֶת הַיְאֹר. וּבְהַכָּאתוֹ נִלְאוּ מִצְרַיִם לִשְׁתּוֹת, עַתָּה יַעֲשֶׂה הַהֵפֶךְ: וְהָלָכְתָּ. מִן הַמַּחֲנֶה אֶל הַצּוּר.",
+      "en": "עבור לפני העם, and their complaints will cease when they see that you are making an effort to provide their needs. ומטך אשר הכית בו את היאור, your staff with which you had smitten the river so that the Egyptians had given up looking for water to drink, will now perform the opposite function and provide you with drinking water. והלכת. from the camp to the rock.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:6",
+      "he": "וְהִכִּיתָ בַצּוּר וְשָׁתָה הָעָם. וּבָזֶה יַכִּירוּ שֶׁאֵין פֹּעַל הַמַּטֶּה טִבְעִי לוֹ, כִּי הַטִּבְעִי יַעֲשֶׂה לְעוֹלָם עַל עִנְיָן אֶחָד. אַמְנָם פָּעֳל֔וֹ בְּמִצְוַת פּוֹעֵל רְצוֹנִי, הַפּוֹעֵל פְּעוּלוֹת הֲפָכִיּוֹת.",
+      "en": "והכית בצור ושתה העם, this will teach them that the staff is not an instrument which performs certain functions naturally, being unable to change its functions. It will show you that the staff is an instrument carrying out the will of its owner. This is why it can be used to perform opposing functions on different occasions.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:8",
+      "he": "וַיָּבֹא עֲמָלֵק. לְקוֹל מְרִיבָה וְצִמָּאוֹן, כְּאָמְרוֹ \"וְאַתָּה עָיֵף וְיָגֵעַ\" (דברים כה:יח), כְּעִנְיַן \"לֹא מַיִם עָיֵף תַּשְׁקֶה\" (איוב כב:ז), וּכְעִנְיַן \"בְּאֶרֶץ עֲיֵפָה\" (ישעיהו לב:ב).",
+      "en": "ויבא עמלק, at the sound of the people’s being frustrated with thirst. This is what Moses meant when he recalled the incident 40 years later in Deuteronomy 25,18 describing the Israelites’ state of mind at the time as ואתה עיף ויגע, “you were tired and worn out.” We find the expression עיף linked to water also in Job 22,7 לא מים עייף תשקה, “You do not give the thirsty water to drink.” (Eliphaz accusing Job) We also find the word applied to earth itself in Isaiah 32,2 בארץ עיפה, “in a languishing land.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:9",
+      "he": "וּמַטֵּה הָאֱלֹהִים בְּיָדִי. לְהַרְאוֹת לָעָם בּוֹ אֶת זְמַן תְּפִלָּתוֹ, כְּדֵי שֶׁיְּכַוְּנוּ לִבָּם וְיִתְפַּלְלוּ עִמּוֹ, כְּעִנְיַן הַמְּנִיפִים בְּסוּדָרִים בְּאֲלֶכְסַנְדְּרִיָּה שֶׁל מִצְרַיִם (סוכה נא:).",
+      "en": "ומטה האלוקים בידי, to show the people at what time he would be praying in order that they too would coordinate the time they offered their own prayers with that of Moses. The importance of this harmonising of prayers is demonstrated when the Talmud tells us that in the large synagogue of Alexandria they waved flags so that the people who could not hear the cantor could pray in harmony with him, nonetheless. (Sukkah 51).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:10",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:11",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:13",
+      "he": "אֶת עֲמָלֵק וְאֶת עַמּוֹ. הַמְקֻבָּץ מֵעַם אַחֵר לְהִלָּחֵם.",
+      "en": "את עמלק ואת עמו, fellow travelers from other nations who had joined Amalek in his attack against the Israelites.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:14",
+      "he": "כְּתֹב זֹאת זִכָּרוֹן בַּסֵּפֶר. פָּרָשַׁת זָכוֹר (דברים כה:יז-יט). וְשִׂים בְּאָזְנֵי יְהוֹשֻׁעַ. וְשִׂים אֵיזֶה זִכָּרוֹן בְּאָזְנֵי יְהוֹשֻׁעַ, וְזֶה עָשָׂה מֹשֶׁה בְּבִנְיַן הַמִּזְבֵּחַ וּבִתְפִלָּתוֹ אָז, וּבְמַה שֶּׁאָמַר \"כִּי יָד עַל כֵּס יָהּ\": מָחֹה אֶמְחֶה אֶת זֵכֶר עֲמָלֵק. שֶׁאַחֲרִים גַּם אֶת בְּהֶמְתָּם, כְּאָמְרוֹ (שמואל א טו:ג) \"וְהַחֲרַמְתֶּם אֶת כָּל אֲשֶׁר לוֹ מִשּׁוֹר עַד שֶׂה וְכוּ'\".",
+      "en": "כתוב זאת זכרון בספר, a reference to the portion in Deuteronomy 25,17-19. ושים באזני יהושע, make sure that Joshua remembers all this. Moses carried out this command by building the altar and offering up the prayer declaring G’d as his flag. מחה אמחה את זכר עמלק, not only the people but even their livestock. We know this from the instructions given by the prophet Samuel to King Sha-ul in Samuel 15,3 where the king is ordered to destroy utterly all the possessions of Amalek.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:15",
+      "he": "וַיִּקְרָא שְׁמוֹ. קָרָא שְׁמוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא בִּתְפִלָּתוֹ, כְּעִנְיַן \"קָרָאתִי שִׁמְךָ ה'\" (איכה ג:נה). ה' נִסִּי. ה' יִהְיֶה רוֹמְמוּתִי, כְּמוֹ \"נָתַתָּה לִּירֵאֶיךָ נֵּס לְהִתְנוֹסֵס\" (תהלים ס:ו), כְּלוֹמַר ה' הוּא יִהְיֶה מַעֲלָתִי וְרוֹמְמוּתִי עַל כָּל מִתְקוֹמֵם, כְּעִנְיַן \"וּבְשִׁמְךָ נָבוּס קָמֵינוּ\" (תהלים מד:ו), וּכְעִנְיַן \"וּבִשְׁמִי תָּרוּם קַרְנוֹ\" (תהלים פט:כה).",
+      "en": "ויקרא שמו, he called the name of G’d in his prayer ה' ניסי. The matter is similar to the prophet Jeremiah saying in Lamentations 3,25: קראתי שמך ה'. Surely, there was nothing new in Jeremiah knowing the name of G’d. The point is that he addressed this attribute of G’d in that prayer. Moses addressed the attribute of G’d as the flag-bearer in Israel’s wars. ה' נסי, “G’d is my exaltation.” The meaning is similar to Psalms 60,6 נתת ליראיך נס להתנוסס מפני קשט סלה, “You have given a banner to them that fear You, to raise themselves to its height before the might of wisdom.” In other words, the psalmist says that G’d will lend him the strength to cope with anyone trying to attack him and to overcome him. The same thought is expressed in Psalms 44,6 בשמך נבוס קמינו, “with the help of Your name we will vanquish those who rise up against us.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 17:16",
+      "he": "וַיֹּאמֶר כִּי יָד עַל כֵּס יָהּ. אָמַר טַעַם תְּפִלָּתִי זֶה הוּא, מִפְּנֵי שֶׁהָאֵל יִתְבָּרַךְ נִשְׁבַּע שֶׁתִּהְיֶה לוֹ מִלְחָמָה בַּעֲמָלֵק מִדֹּר דֹּר, וְחַיָּבִים אָנוּ לְהִלָּחֵם מִלְחַמְתּוֹ בְּכָל דּוֹר וָדוֹר, כְּאָמְרָם: \"שָׁלֹשׁ מִצְווֹת נִצְטַוּוּ יִשְׂרָאֵל בִּכְנִיסָתָן לָאָרֶץ, לְהַעֲמִיד לָהֶם מֶלֶךְ וּלְהַכְרִית זַרְעוֹ שֶׁל עֲמָלֵק, וְלִבְנוֹת בֵּית הַמִּקְדָּשׁ\" (סנהדרין כ:), וְלָכֵן הִתְפַּלַּלְתִּי שֶׁיִּהְיֶה הוּא נִסִּי וְרוֹמְמוּתִי עַל הָאוֹיֵב.",
+      "en": "ויאמר כי יד על כס י-ה, Moses explains the reason and purpose of his prayer being the fact that G’d Himself had sworn an oath to remain at war with Amalek from generation to generation. If G’d is at war with that nation, we as G’d’s representative on earth, must certainly also be at war with that nation. It is what our sages referred to when they said that three commandments cannot be fulfilled until the Jewish people are securely settled in the land of Israel, 1) appointment of a king; 2) destroying the last vestiges of Amalek; 3) the building of a permanent Temple. Moses therefore had prayed for the time when these three hallmarks of Jewish history could be attained. (Sanhedrin 20)",
+      "fr": ""
+    }
+  ]
+}

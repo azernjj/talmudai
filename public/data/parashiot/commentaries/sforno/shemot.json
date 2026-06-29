@@ -1,0 +1,751 @@
+{
+  "name": "Shemot",
+  "range": "Exodus 1:1-6:1",
+  "commentary": "Sforno",
+  "verses": [
+    {
+      "ref": "Exodus 1:1",
+      "he": "וְאֵלֶּה שְׁמוֹת. אֵלֶּה הַנִּזְכָּרִים בְּכָאן הָיוּ רְאוּיִים לְהִוָּדַע בְּשֵׁם, כִּי כָּל אֶחָד מֵהֶם רָאוּי לִהְיוֹת נֶחְשָׁב אִישׁ עַל שְׁמוֹ הַמּוֹרֶה עַל צוּרָתוֹ הָאִישִׁיִּית. וְאֵלֶּה כָּל יְמֵי חַיֵּיהֶם הָיוּ לִמְאוֹרוֹת, וְלֹא יָצָא הַדּוֹר לְתַרְבּוּת רָעָה. אָמְנָם אַחֲרֵי מוֹתָם לֹא הָיוּ הַצַּדִּיקִים שֶׁבִּבְנֵיהֶם כָּל כָּךְ חֲשׁוּבִים בְּעֵינֵי אֱלֹהִים וְאָדָם.",
+      "en": "אלה, the ones mentioned here were deserving to be mentioned with their names. The reason is that each one of them possessed sufficient individuality to give meaning to his name. They were all of them an inspiration to their children as not one of them abandoned his family tradition. However, after the death of that generation even the relatively righteous ones among them did not rate so highly in the eyes of G’d or man so that the Torah deemed it necessary to tell us their names.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:2",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:3",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:5",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:6",
+      "he": "וְכָל הַדּוֹר הַהוּא. כָּל שִׁבְעִים נֶפֶשׁ, שֶׁלֹּא בָא הַדּוֹר לְקִלְקוּל גָּמוּר כָּל יְמֵיהֶם:",
+      "en": "וכל הדור ההוא, all of these 70 souls. None of the members of this group of migrants had assimilated to the Egyptian culture during their lifetime.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:7",
+      "he": "פָּרוּ וַיִּשְׁרְצוּ. וְאַחַר שֶׁמֵּתוּ כָּל שִׁבְעִים נֶפֶשׁ נָטוּ לְדַרְכֵי שְׁרָצִים, שֶׁרָצִים לִבְאֵר שַׁחַת, וּבְכֵן.",
+      "en": "פרו וישרצו, after the last of the original 70 migrants had died, their whole lifestyle became more like that of creeping insects, creatures headed for destruction. This is why when ויקם מלך חדש על מצרים אשר לא ידע את יוסף, although there can be no question that in the annals of Egyptian history the 80 year reign of Joseph and his legislation saving Egypt from the famine was duly recorded, as well as how he legislated that the whole land would belong to Pharaoh and the farmers would become his tenants, it did not occur to anyone to associate the Hebrews of his time with the family of Joseph who had been so highly esteemed. The idea that the present day Hebrews deserved special consideration on account of their illustrious forbears did not occur to anyone observing the way these Hebrews behaved at that time.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:8",
+      "he": "וַיָּקָם מֶלֶךְ חָדָשׁ עַל מִצְרָיִם וְכוּ'. אַף עַל פִּי שֶׁהָיָה זִכָּרוֹן מִמֶּנּוּ בְּדִבְרֵי הַיָּמִים לַמְּלָכִים בְּלִי סָפֵק, בִּפְרָט בְּעִנְיַן הַחִדּוּשׁ אֲשֶׁר שָׂם לְחֹק, לֹא עָלְתָה עַל לֵב הַמֶּלֶךְ הֶחָדָשׁ אֶפְשָׁרוּת הֱיוֹתוֹ מִזֶּה הָעָם, וְשֶׁהָיָה עִם זֶה רָאוּי לָשֵׂאת פָּנִים לְעַמּוֹ בַּעֲבוּרוֹ.",
+      "en": "A NEW KING AROSE OVER EGYPT, ETC. Even though there was certainly a recording of this in the royal chronicles, specifically with respect to the new legislation that he enacted, the possibility did not occur to the new king of his being from this people, or that it would be appropriate to accord recognition to his people on his account.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:9",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:10",
+      "he": "הָבָה נִתְחַכְּמָה לוֹ. לָבֹא עָלָיו בַּעֲקִיפִין: וְעָלָה מִן הָאָרֶץ. מֵעַצְמוֹ, מִבְּלִי שֶׁנְּגָרְשֵׁם בְּכֹחַ בִּלְתִּי סִבָּה מְבוֹאֶרֶת, לָתֵת אוֹתָנוּ לְשִׁמְצָה בְּקָמֵינוּ. וְזֶה נַעֲשֶׂה \"פֶּן יִרְבֶּה, וְהָיָה כִּי תִקְרֶאנָה מִלְחָמָה\", כִּי תִקְרֶאנָה רָעוֹת וְצָרוֹת שֶׁל אֵיזוֹ מִלְחָמָה, כְּמוֹ \"וַתִּכַל דָּוִד\" (שמואל ב יג:לט), נֶפֶשׁ דָּוִד. וְנוֹסַף גַּם הוּא עַל שׂוֹנְאֵינוּ. כִּי בִּהְיוֹתָם נִבְדָּלִים מִמֶּנּוּ בַּמִּילָה וּבַלָּשׁוֹן וּבַדֵּעוֹת הָעִבְרִים, בְּאֹפֶן שֶׁלֹּא יָכְלוּ הַמִּצְרִים לֶאֱכֹל אֶת הָעִבְרִים לֶחֶם (בראשית מג:לב), הֵם לָנוּ לְאוֹיְבִים בְּלִי סָפֵק, וִיגַלּוּ שִׂנְאָתָם אָז בְּעֵת צָרוֹת הַמִּלְחָמָה.",
+      "en": "הבה נתחכמה לו, let us not confront them frontally but let us outflank them. ועלה מן הארץ, of their own volition, without our having to expel them. If we do not have adequate reason to expel them we would become pariahs among our neighbours. If we were to do that, פן ירבה והיה כי תקראנה מלחמה, so that no additional problems would beset us, such as a war (compare Samuel II 13,39 ותכל דוד המלך, the king pined away), These words should be understood as a parenthesis. ונוסף גם הוא על שונאינו, at such a time they may display their hatred of us seeing that they have remained culturally incompatible with us both in practicing circumcision of their males, language, and in such practices as the way they eat meat only after the blood has been removed, etc. (compare Genesis 43,32). Let us therefore induce them to leave our country before it comes to this. In order to achieve this end,",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:11",
+      "he": "לְמַעַן עַנּוֹתוֹ. כְּדֵי שֶׁיַּסְכִּימוּ לָצֵאת אֶל אֶרֶץ אַחֶרֶת. וַיִּבֶן עָרֵי מִסְכְּנוֹת. וְהֵם קִבְּלוּ עֲלֵיהֶם לְמַס לִבְנוֹת אֶת הֶעָרִים.",
+      "en": "למען ענותו, so that as an alternative they will agree to emigrate from our land. ויבן ערי מסכנות, they volunteered to accept as a form of taxation to build these storage cities for Pharaoh to prove their loyalty to Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:13",
+      "he": "וַיַּעֲבִידוּ. כְּשֶׁרָאוּ אוֹתָם מְבַזִּים עַצְמָם לִפְעֻלָּה פְּחוּתָה, שָׂמוּ אוֹתָם לַעֲבָדִים, וְזֶה כִּי כְּפִי מַה שֶׁהָיוּ מוֹסִיפִים חֲטָאַת עַל חֲטָאַת כֵּן אָבְדָה עֲצָתָם, וְיָצְאוּ מֵרָעָה לְרָעָה.",
+      "en": "ויעבידו, once the Egyptians observed how the Israelites debased themselves by performing menial labour they decided to enslave them. They did this by heaping sin upon sin, thereby defeating their plan and they went from bad to worse.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:14",
+      "he": "וַיְמָרְרוּ אֶת חַיֵּיהֶם. כַּאֲשֶׁר הוֹסִיפוּ לַחֲטֹא בְּדֵעוֹת וּבְמַעֲשִׂים, כְּמוֹ שֶׁהֵעִיד הַנָּבִיא בְּאָמְרוֹ (יחזקאל כ:ח) \"וַיַּמְרוּ בִי וְלֹא אָבוּ לִשְׁמֹעַ אֵלַי, אִישׁ שִׁקּוּצֵי עֵינֵיהֶם לֹא הִשְׁלִיכוּ, וְאֶת גִּלּוּלֵי מִצְרַיִם לֹא עָזָבוּ, וָאֹמַר לִשְׁפֹּךְ חֲמָתִי עֲלֵיהֶם, לְכַלּוֹת אַפִּי בָּהֶם בְּתוֹךְ אֶרֶץ מִצְרָיִם\". וְכֵן הָיְתָה יַד צָרֵיהֶם עֲלֵיהֶם הָלוֹךְ וְקָשֶׁה.",
+      "en": "וימררו את חייהם, they ruined their own lives not only by improper deeds, but also by succumbing to alien philosophies. This is described in Ezekiel 20,8 “and they rebelled against Me and did not want to listen to Me. No Man!- the idols of their eyes they did not cast out and the idols of Egypt, they did not forsake.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:15",
+      "he": "לַמְיַלְּדוֹת הָעִבְרִיּוֹת. לְאוֹתָן שֶׁהָיוּ בְּעִיר מִצְרַיִם, כִּי אָמְנָם בְּעַם כָּל כָּךְ רַב לֹא הָיוּ שְׁתֵּי מְיַלְּדוֹת בִּלְבָד. אֲבָל אַחַר שֶׁבָּגְדוּ בַמֶּלֶךְ מְיַלְּדוֹת מִצְרַיִם, אַחַר שֶׁדִּבֵּר לָהֶן הַמֶּלֶךְ בְּעַצְמוֹ, לֹא שָׂם לִבּוֹ לִבְטוֹחַ בִּמְיַלְּדוֹת שְׁאָר מְקוֹמוֹת.",
+      "en": "למילדות העבריות, to the midwives resident in the capital. It was obviously impossible for such a large number of people residing in so many different parts of Egypt, to all be serviced by only two midwives. However, after the midwives in the capital, though Egyptian, betrayed the instructions by their king and explained to their king why they had done so, the king did not bother to rely on midwives anywhere else either, and the scheme was abandoned.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:18",
+      "he": "מַדּוּעַ עֲשִׂיתֶן. שֶׁבְּגַדְתֶּן בִּי, כִּי הִנֵּה כְּשֶׁצִּוִּיתִי לֹא מֵאַנְתֶּם לַעֲשׂוֹת מִצְוֹתִי, וּבָטַחְתִּי בָכֶן שֶׁתָּמִיתוּ הַיְלָדִים, וְתוֹחַלְתִּי נִכְזְבָה. וַתְּחַיֶּיןָ אֶת הַיְלָדִים. וְלֹא דַי שֶׁלֹּא עֲשִׂיתֶן מִצְוָתִי לַהֲמִיתָן, כִּי גַם נְתַתֶּם עֵצוֹת לְהַחֲיוֹתָם.",
+      "en": "מדוע עשיתם, “why did you betray my trust?” After all, when I gave you these instructions you did not refuse the task, making me believe that you would indeed cause the death of these boy babies. “My trust has been betrayed.” ותחיינה את הילדים, not only did you not kill these babies, but you were actively involved in ensuring their survival!",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:19",
+      "he": "כִּי חָיוֹת הֵנָּה. בְּקִיאוֹת בִּמְלֶאכֶת הַמְיַלֶּדֶת, וְאִם נֶחְפֹּץ לַעֲשׂוֹת דָּבָר אוֹ לְדַבֵּר שֶׁלֹּא כַהֹגֶן, תִּהְיֶינָה מַרְגִּישׁוֹת בַּדָּבָר וְלֹא תִקְרֶאנָה עוֹד אוֹתָנוּ לְיַלֵּד, וְלַמֶּלֶךְ אֵין שָׁוֶה לְהָמִית אֶחָד אוֹ שְׁנַיִם בִּלְבָד.",
+      "en": "כי חיות הנה, they themselves are expert in the art of midwifery. If we were to attempt to do anything contrary to accepted practice or even to speak to them in a suspicious manner they would notice this immediately and would not ask any of us again to assist when they were due to give birth. They argued that it is not worth the king’s while to have only a few babies killed.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:20",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 1:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:1",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:2",
+      "he": "כִּי טוֹב הוּא. יָפֶה, כְּמוֹ \"כִּי טֹבֹת הֵנָּה\" (בראשית ו:ב). רָאֲתָהוּ יָפֶה יוֹתֵר מִמָּה שֶׁהָיָה מֻרְגָּל, וְחָשְׁבָה שֶׁזֶּה הָיָה לְתַכְלִית מְכֻוָּן מֵאֵת יוֹצְרוֹ, כִּי אָמְנָם יֹפִי הַתַּבְנִית יוֹרֶה עַל טוּב מֶזֶג הַחֹמֶר וּשְׁלֵמוּת הַכֹּחַ הַמְצַיֵּר.",
+      "en": "כי טוב הוא, The word טוב may be understood as meaning the same as “handsome, beautiful,” the same meaning as in Genesis 6,2 כי טובות הנה, “that they were beautiful.” The word describes something unusually handsome, beautiful. Yocheved thought that this was an omen, a sign from the Creator, telling her that a beautiful exterior encloses an equally beautiful personality.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:3",
+      "he": "וַתָּשֶׂם בַּסּוּף. מָקוֹם שֶׁלֹּא יִרְאוּ אוֹתָהּ עוֹבְרֵי דֶרֶךְ כְּשֶׁהָיְתָה מַנִּיחָה שָׁם אֶת הַתֵּבָה, וְעִם זֶה בָּחֲרָה בִּמְקוֹם הַסּוּף, לַהֲפֹךְ גְּזֵרַת הַשְׁלָכָתוֹ בַּיְאוֹר לַעֲמִידָתוֹ בַּסּוּף עַל שְׂפַת הַיְאוֹר:",
+      "en": "ותשם בסוף, a place where the people passing would not see her deposit the basket; in spite of this, the reason why she chose the reeds was that she thought the decree of babies having to be thrown into the river had been fulfilled by placing him within the river’s domain.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:4",
+      "he": "לְדֵעָה מַה יֵּעָשֶׂה לוֹ. שֶׁחָשְׁבָה שֶׁיִּקָּחֶהוּ אֵיזֶה מִצְרִי כִּשְׁאָר אֲסוּפִים, כִּי רַבִּים אֲסוּפִים הָיוּ בְּמִצְרַיִם בְּלִי סָפֵק, כִּי מָלְאָה הָאָרֶץ זִמָּה, כְּמוֹ שֶׁהֵעִיד הַנָּבִיא בְּאָמְרוֹ \"וְזִרְמַת סוּסִים זִרְמָתָם\" (יחזקאל כג:כ).",
+      "en": "לדעת מה יעשה לו. She thought that some Egyptian would pick up the baby as a foundling. There were no doubt many such illegitimate babies in Egypt who had been abandoned by their unwed mothers. The prophet Ezekiel 23,20 speaks about the sexual licentiousness in Egypt that would make such incidents nothing out of the ordinary.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:5",
+      "he": "לִרְחֹץ עַל הַיְאוֹר. בַּחֶדֶר שֶׁל מֶלֶךְ שֶׁהָיָה סָמוּךְ לַיְאוֹר וּמַבִּיט בּוֹ. כִּי אָמְנָם כְּבוֹדָהּ בַּת מֶלֶךְ פְּנִימָה, בְּלִי סָפֵק לֹא יָצְאָה אֶל הַיְאוֹר. וְנַעֲרוֹתֶיהָ הוֹלְכוֹת. לָכֵן לֹא שָׁלְחָה אַחַת מֵהֶן, שֶׁלֹּא הָיוּ אָז שָׁם עִמָּהּ. וַתִּשְׁלַח אֶת אֲמָתָהּ. הָאָמָה הַמְשָׁרֶתֶת אוֹתָהּ אָז לִרְחוֹץ. וְכָל זֶה בִּרְצוֹן אֱלֹהִי שֶׁלֹּא תִשְׁלַח אַחַת מֵהַנְּעָרוֹת הַחֲשׁוּבוֹת וְתִסְמוֹךְ עָלֶיהָ, וְאוּלַי תִּבְחַר לְהַשְׁלִיכוֹ אֶל הַיְאוֹר:",
+      "en": "לרחוץ על היאור. She had a view of the river, her room in the palace bordering on the embankment. No doubt, royal etiquette would not permit an Egyptian princess to actually bathe in the river. [the author was alerted by the preposition על instead of ב, “in,” in front of the word יאור. Ed.] ונערותיה הולכות, this is the reason why she did not command one of them to bring the basket to her as they were not with her at that time. ותשלח את אמתה, the servant who was attending her at the time when she bathed herself. All of this happened at the instigation of G’d so that she would not dispatch one of her regular attendants as she might mistakenly place her trust in them and such an attendant would throw the baby in the river.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:6",
+      "he": "וַתִּפְתַּח וַתִּרְאֵהוּ. וַתֵּרֶא אוֹתוֹ כִּי טוֹב הוּא וְיָפֶה מְאֹד. אֶת הַיֶּלֶד וְהִנֵּה נַעַר בֹּכֶה. וְרָאֲתָה שֶׁעִם הֱיוֹתוֹ יֶלֶד הָיָה נַעַר בּוֹכֶה, וְזֶה כִּי הַוָּלָד מֵעֵת הוֹלְדוֹ עַד הֱיוֹתוֹ שָׁלֵם בְּגִדּוּל יִקָּרֵא יֶלֶד, כְּעִנְיַן \"הַיְלָדִים אֲשֶׁר גָּדְלוּ אִתּוֹ\" (מלכים א יב:י) הָאָמוּר בִּרְחַבְעָם, וְכֵן \"יְלָדִים אֲשֶׁר אֵין בָּהֶם כָּל מוּם\" (דניאל א:ד) הָאָמוּר בְּדָנִיֵּאל וַחֲבֵרָיו. וּמֵעֵת הֱיוֹתוֹ מִתְנַעֵר וּמִתְנוֹעֵעַ בִּתְנוּעוֹת בִּלְתִּי שְׁלֵמוֹת לְהַשִּׂיג תַּכְלִית יִקָּרֵא נַעַר. וּמִזֶּה יִקָּרֵא כָּל מְשָׁרֵת נַעַר, כִּי אָמְנָם רֹב תְּנוּעוֹתָיו בִּלְתִּי שְׁלֵמוֹת כְּפִי הַצָּרִיךְ לְהַשִּׂיג הַתַּכְלִית הַמְכֻוָּן מֵאֲדוֹנָיו. אָמַר, אִם כֵּן, שֶׁרָאֲתָה שֶׁעִם הֱיוֹתוֹ יֶלֶד נוֹלָד מִקָּרוֹב הִנֵּה הָיָה נַעַר בּוֹכֶה, מִתְנַעֵר בִּתְנוּעָה נִפְלָאָה כְּבֶן גִּילוֹ. וַתַּחְמֹל עָלָיו. שֶׁיְּהֵא וָלָד נָאֶה וּמוּכָן לִשְׁלֵמוּת כָּזֶה נִזְרָק לַיְאוֹר. וַתֹּאמֶר מִיַּלְדֵי הָעִבְרִים זֶה. אֵין זֶה אֲסוּפִי, נוֹלָד מִזְּנוּת, בְּאֹפֶן שֶׁיִּהְיֶה מוּכָן לִבְגֹד, כְּאָמְרוֹ (ישעיהו נז:ד) \"יִלְדֵי פֶשַׁע זֶרַע שָׁקֶר\":",
+      "en": "ותפתח, she then saw that this was an exceptionally beautiful baby. את הילד, בוכה, she noticed that though his size was that of an infant, when he cried he sounded like a far older child, a lad. Actually, from birth until maturity a child is still called ילד. The best proof of this is found in Kings I 12,10 where the advisors of Rechavam, the son of king Solomon who ascended the throne after him, is described as listening to his youthful advisors who are called הילדים אשר גדלו עמו “the children who had grown up with him.” [Rechavam was 41 years of age at the time. Ed.] Also in Daniel 1,4 youngsters at least in their teens are referred to as ילדים. The term נער is applied to someone who no longer enjoys the perfection of early youth. According to our author perfect co-ordination of one’s limbs results in one’s making wrong moves on occasion. The reason why servants are referred to as נער is that they frequently are inept in their movements to the annoyance of their masters. The daughter of Pharaoh recognised in this baby that though this child had only recently been born it already showed signs of physical maturity as she could hear by the manner in which it cried. נער בוכה, awakening, shaking himself like a child of this age. ותחמול עליו, seeing that he was such a beautiful baby, far too perfect a creature to simply throw into the river. ותאמר מילדי העברים זה, this is not an illegitimate baby, abandoned by its mother. Such a baby, when it grew up was likely to become a criminal, as we know from Isaiah 57,4 ילדי פשע זרע שקר, “children born in sin, offspring of treachery.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:7",
+      "he": "מֵינֶקֶת מִן הָעִבְרִיּוֹת. שֶׁיִּהְיֶה הֶחָלָב יוֹתֵר נָאוֹת לְמִזְגּוֹ: וְתֵינִק לָךְ. לַעֲמוֹד לְפָנַיִךְ, מֵאַחַר שֶׁלְּפִי יָפְיוֹ וְהַכְנוֹתָיו לִפְנֵי מְלָכִים יִתְיַצָּב (משלי כב:כט).",
+      "en": "מינקת מן העבריות, whose milk would be more compatible to its constitution. ותיניק לך, so he will be capable to stand in your presence (not to make you ashamed of him) seeing that his beauty is such that he can take his place with royalty.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:8",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:9",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:10",
+      "he": "וַתִּקְרָא שְׁמוֹ מֹשֶׁה. מְמַלֵּט וּמוֹשֶׁה אֶת אֲחֵרִים מִצָּרָה. וַתֹּאמֶר כִּי מִן הַמַּיִם מְשִׁיתִהוּ. הַטַּעַם שֶׁקְּרָאתִיו מֹשֶׁה לְהוֹרוֹת שֶׁיְּמַלֵּט אֶת אֲחֵרִים הוּא, כִּי אָמְנָם מְשִׁיתִהוּ מִן הַמַּיִם אַחַר שֶׁהָיָה מוּטָל בְּתוֹכָם, וְזֶה לֹא הָיָה כִּי אִם בִּגְזֵרַת עִירִין (דניאל ד:יד) כְּדֵי שֶׁיְּמַלֵּט הוּא אֶת אֲחֵרִים.",
+      "en": "ותקרא שמו משה, someone who will save others by pulling them out of their calamity. ותאמר כי מן המים משיתהו, the reason why I called him thus is so that he in turn would rescue others from their problems, just as I have pulled him out of the water (in which he would have drowned.) She considered the find as decreed by a higher power (compare Daniel, 4,14) Moses was saved only so that in his life he would become the instrument of saving others.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:11",
+      "he": "וַיַּרְא בְּסִבְלֹתָם. נָתַן לִבּוֹ לִרְאוֹת בָּעֳנִי אֶחָיו: וַיַּרְא אִישׁ מִצְרִי מַכֶּה אִישׁ עִבְרִי מֵאֶחָיו. וּמִצַּד הָאַחֲוָה הִתְעוֹרֵר לְהִנָּקֵם:",
+      "en": "וירא בסבלותם. He made it his concern to take a benevolent interest in the afflictions suffered by his brethren. וירא איש מצרי מכה איש עברי מאחיו. He was aroused to avenge his death because of this feeling of brotherliness to the victim.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:13",
+      "he": "וַיֹּאמֶר לָרָשָׁע. מִפְּנֵי הֱיוֹת כָּל אֶחָד מֵהֶם אָחִיו, לֹא הִתְעוֹרֵר לְהִנָּקֵם, אֲבָל הוֹכִיחַ בְּמִישׁוֹר.",
+      "en": "ויאמר לרשע, seeing that each one of them was one of his brethren he did not act as avenger but intervened with words rebuking the aggressor.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:14",
+      "he": "הַלְהָרְגֵנִי אַתָּה אֹמֵר. אַתָּה מְעוֹרֵר מִדָּנִים לְהָרְגֵנִי: וַיִּירָא מֹשֶׁה. וּבְכֵן נִשְׁמַר לְנַפְשׁוֹ וּבָרַח: וַיֹּאמַר אָכֵן נוֹדַע הַדָּבָר. כְּשֶׁאָמַר זֶה הַמּוֹסֵר אֶת דְּבָרָיו אֵלֶּה בִּפְנֵי רַבִּים, וְלָכֵן לֹא הָרַג אֶת הַמּוֹסֵר, מִבְּלִי אֵין תּוֹעֶלֶת בַּהֲרִיגָתוֹ אַחַר שֶׁכְּבָר מָסַר.",
+      "en": "הלהרגני אתה אומר? Are you stirring up a quarrel to get me killed? ויירא משה, as a result Moses became careful and fled. ויאמר אכן נודע הדבר, when the snitch said these words to him, in the presence of others, he did not kill him seeing there would be no point in doing this, seeing he had already reported what Moses had done to the authorities.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:15",
+      "he": "וַיֵּשֶׁב בְּאֶרֶץ מִדְיָן. בָּחַר לָשֶׁבֶת אֵיזֶה זְמַן בְּאֶרֶץ מִדְיָן. וַיֵּשֶׁב עַל הַבְּאֵר. וּבְעָבְרוֹ בְּאֶרֶץ קָרָה לוֹ שֶׁיָּשַׁב סָמוּךְ לְאֵיזֶה בְּאֵר, כְּמוֹ \"וַיִּפְגַּע בַּמָּקוֹם\" (בראשית כח:יא) בְּאֵיזֶה מָקוֹם, כַּמְבוֹאָר לְמַעְלָה.",
+      "en": ". וישב בארץ מדין. He had decided to remain for a while in that country. וישב על הבאר. While Moses was traveling through the land of Midian it happened once that he settled near a certain (well known) well. The construction here is similar to Genesis 28,11) which describes Yaakov as encountering a certain place, also described with the preposition ה i.e. המקום instead of simply מקום, to show that the site had been known already.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:17",
+      "he": "וַיָּקָם מֹשֶׁה וַיּוֹשִׁעָן. בִּהְיוֹת שְׁנֵי בַּעֲלֵי הָרִיב נָכְרִים, לֹא הִתְעוֹרֵר לְהִנָּקֵם, גַּם לֹא הִקְפִּיד לְיַשֵּׁר אָרְחוֹתָם בְּתוֹכָחוֹת מוּסָר, רַק קָם לְהוֹשִׁיעַ אֶת הָעֲשׁוּקִים מִיַּד עוֹשְׁקֵיהֶם.",
+      "en": "ויקם משה ויושיען, seeing that both parties to this argument were non-Jewish, Moses did not intervene by avenging the wronged party but only made sure that he would redress the injustice done to the innocent party.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:19",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:20",
+      "he": "לָמָּה זֶּה עֲזַבְתֶּן. מֵאַחַר שֶׁהוּא אוֹרֵחַ וְאִישׁ חֶסֶד, הָיָה לָכֵן לִגְמֹל עִמּוֹ חֶסֶד הַכְנָסַת אוֹרְחִים.",
+      "en": "למה זה עזבתן?, since he is a guest, and a person who has demonstrated kindness you should at least have reciprocated by showing him a measure of hospitality.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:21",
+      "he": "לָשֶׁבֶת אֶת הָאִישׁ. לִרְעוֹת אֶת צֹאנוֹ, כְּמוֹ \"שְׁבָה עִמָּדִי\" (בראשית כט:יט).",
+      "en": "לשבת את האיש, to tend his flocks, a similar construction to Lavan inviting Yaakov to stay with him in Genesis 29,19.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:22",
+      "he": "גֵּר הָיִיתִי בְּאֶרֶץ נָכְרִיָּה. גֵּר בְּאֶרֶץ שֶׁאֵינָהּ אֶרֶץ מוֹלַדְתִּי.",
+      "en": "גר הייתי בארץ נכריה. A stranger in a land which is not my birthplace.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:23",
+      "he": "בַיָּמִים הָרַבִּים הָהֵם. מִיּוֹם שֶׁבָּרַח מֹשֶׁה מִמִּצְרַיִם בְּיַלְדוּתוֹ עַד שֶׁנּוֹלַד גֵּרְשֹׁם, שֶׁהָיָה מֹשֶׁה אָז קָרוֹב לְבֶן שְׁמוֹנִים שָׁנָה, שֶׁהֲרֵי אֱלִיעֶזֶר נוֹלַד בַּדֶּרֶךְ בְּלֶכְתּוֹ בִּשְׁלִיחוּת הָאֵל יִתְבָּרַךְ לְמִצְרַיִם, וְאָז הָיָה בֶּן שְׁמוֹנִים שָׁנָה. וַיָּמׇת מֶלֶךְ מִצְרַיִם. אוֹתוֹ הַמֶּלֶךְ שֶׁהָיָה רוֹדֵף אֶת מֹשֶׁה, וּלְכֵן קָרָא שֵׁם בְּנוֹ אַחַר כָּךְ אֱלִיעֶזֶר, כִּי אָז יָדַע הֱיוֹתוֹ נִמְלָט וְנִצּוֹל מֵחֶרֶב פַּרְעֹה. וַיִּזְעָקוּ. זָעֲקוּ מִכְּאֵב לֵב עַל עֲבוֹדָתָם, כְּעִנְיַן \"הֵילִילִי שַׁעַר, זַעֲקִי עִיר\" (ישעיהו יד:לא). וַתַּעַל שַׁוְעָתָם אֶל הָאֱלֹהִים מִן הָעֲבוֹדָה. לֹא בִּשְׁבִיל תְּשׁוּבָתָם וּתְפִלָּתָם, אֲבָל כִּמְקַנֵּא עַל אַכְזָרִיּוּת הַמַּעֲבִידִים, כְּאָמְרוֹ \"וְגַם רָאִיתִי אֶת הַלַּחַץ\" (שמות ג:ט).",
+      "en": "בימים הרבים ההם, from the day Moses had fled from Egypt in his youth until Gershom had been born when he was close to 80 years of age. We are assuming that Eliezer was not much younger, and we know that he was only born when Moses was already on his way back to Egypt. We know that that Moses was 80 years of age t that time. וימת מלך מצרים, the same Pharaoh who had been pursuing Moses wanting to execute him. This is why he called his second son Eliezer, as then he realised that he had finally been saved by G’d from the sword of Pharaoh. ויזעקו, they cried out of frustration about their miserable fate and their enslavement. A similar expression for venting such feelings of frustration occurs in Isaiah 14,31הלילי שער זעקי העיר, “Howl, o gate! Cry out, o city!” ותעל שועתם אל האלוקים מן העובדה. G’d’s response was not due to their repenting and praying, but He simply was angry over the excessive cruelty with which the Egyptians treated the Jewish people This is why He added (when He spoke to Moses in 3,9) וגם ראיתי את הלחץ אשר מצרים לוחצים אותם, “and I have also seen the pressure that the Egyptians keep imposing on them. [perhaps the reason why our author does not consider the Jews’ repentance and prayer being a factor is the fact that the attribute with which G’d responded was still the attribute of Justice, אלוקים and not the attribute Hashem as he explained to Moses in 3,9 Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:24",
+      "he": "וַיִּשְׁמַע אֱלֹהִים אֶת נַאֲקָתָם. וּתְפִלַּת קְצָתָם שֶׁהִתְפַּלְּלוּ אָז מִצַּדִּיקֵי הַדּוֹר, כְּאָמְרוֹ (דברים כו:ז) \"וַנִּצְעַק אֶל ה', וַיִּשְׁמַע קוֹלֵנוּ\". וַיִּזְכֹּר אֱלֹהִים אֶת בְּרִיתוֹ. שֶׁאָמַר \"וַהֲקִימֹתִי אֶת בְּרִיתִי בֵּינִי וּבֵינֶךָ, וּבֵין זַרְעֲךָ אַחֲרֶיךָ, לִהְיוֹת לְךָ לֵאלֹהִים וּלְזַרְעֲךָ אַחֲרֶיךָ\" (בראשית יז:ז), וְזֶה יֵעָשֶׂה בְּכָל קָרְאֵנוּ אֵלָיו, כְּמוֹ שֶׁהֵעִיד אַחַר כָּךְ בְּאָמְרוֹ \"וְגַם אֲנִי שָׁמַעְתִּי אֶת נַאֲקַת בְּנֵי יִשְׂרָאֵל וְכוּ' וָאֶזְכֹּר אֶת בְּרִיתִי\" (שמות ו:ה).",
+      "en": "וישמע אלוקים את נאקתם, a reference to the prayer of a few of them, [as Moses recalls in Numbers 20,16 ונצעק אל ה', i.e. the prayer by the righteous few. Seeing that Moses speaks in the plural and he had not been in Egypt at the time, he must have paraphrased why the few righteous people of the time had done at the time before G’d’s response came. Ed.] ויזכר אלוקים את בריתו, for He had said: in Genesis 17,7: “I will maintain My covenant between Me and you and between your descendants after you to be (remain) your G’d also for your descendants after you.” This promise remains valid whatever may happen to us, as pointed out in Exodus 6,5 וגם אני שמעתי את נאקת בני ישראל ..ואזכור את בריתי, “and I have also heard the groanings of the Children of Israel…. And I remembered My covenant.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 2:25",
+      "he": "וַיַּרְא אֱלֹהִים אֶת בְּנֵי יִשְׂרָאֵל. הִשְׁגִּיחַ עֲלֵיהֶם וְלֹא הִסְתִּיר עוֹד פָּנָיו מֵהֶם, כְּעִנְיַן \"כִּי רָאִיתִי אֶת עַמִּי, כִּי בָאָה צַעֲקָתוֹ אֵלָי\" (שמואל א ט:טז), כְּמוֹ שֶׁהֵעִיד אַחַר כָּךְ בְּאָמְרוֹ \"רָאֹה רָאִיתִי אֶת עֳנִי עַמִּי אֲשֶׁר בְּמִצְרָיִם\" (שמות ג:ז). וַיֵּדַע אֱלֹהִים. יָדַע נִגְעֵי לְבָבָם וְשֶׁהָיְתָה תְּפִלָּתָם וְצַעֲקָתָם בְּכָל לֵב, כְּמוֹ שֶׁסִּפֵּר אַחַר כָּךְ בְּאָמְרוֹ (שמות ג:ז) \"כִּי יָדַעְתִּי אֶת מַכְאֹבָיו\", עַל הֵפֶךְ (תהלים עח:לו-לז) \"וַיְפַתּוּהוּ בְּפִיהֶם וְלִבָּם לֹא נָכוֹן עִמּוֹ\".",
+      "en": "וירא אלוקים את בני ישראל, He now took a personal interest in their fate and no longer hid His countenance from them. This is perceived as similar to Samuel I 9,16: כי ראיתי את עמי, כי באה צעקתו אלי, “for I have seen My people, for its outcry has come to Me.” G’d Himself said this later in 3,7 ראה ראיתי את עני אשר במצרים, “for I have seen My people, the suffering they are in Egypt.” וידע אלוקים, and that the prayer and outcry were totally genuine. This is why He Himself speaks later of כי ידעתיו את מכאוביו “for I am aware of its pains.” This was in contrast with Psalms 78,36-37 where the Jewish people were described as paying only lip-service to their G’d and continued to be disloyal to heir covenant with G’d.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:1",
+      "he": "וַיָּבֹא אֶל הַר הָאֱלֹהִים חֹרֵבָה. הוּא לְבַדּוֹ לְהִתְבּוֹדֵד וּלְהִתְפַּלֵּל, עַל דֶּרֶךְ \"וַיָּבֹא עַד חֶבְרוֹן\" (במדבר יג:כב).",
+      "en": "ויבא אל הר האלוקים חורבה. Moses, all by himself; he wanted to pray and meditate there in complete isolation and concentration. The phrase is similar to Numbers 13,22 ויבא עד חברון, where we find that one of the spies, Calev, reportedly, came to Chevron. [the sudden singular ויבא instead of ויבואו, there prompted the sages to say that Calev went to pray at the graves of the patriarchs. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:2",
+      "he": "וַיֵּרָא מַלְאַךְ ה' אֵלָיו. בְּמַרְאֵה הַנְּבוּאָה, כִּי אָמְנָם כַּאֲשֶׁר יִגָּלוּ הַמַּלְאָכִים בִּדְמוּת אֲנָשִׁים בִּלְתִּי נְבוּאָה, כְּעִנְיַן לְאַבְרָהָם וּלְלוֹט וּלְבִלְעָם וּלְזוּלָתָם, לֹא יֹאמַר עֲלֵיהֶם וַיֵּרָא, אֲבָל יֹאמַר עֲלֵיהֶם וַיַּרְא, כְּמוֹ \"וַיַּרְא וְהִנֵּה שְׁלֹשָׁה אֲנָשִׁים\" (בראשית יח:ב), \"וַיַּרְא לוֹט\" (בראשית יט:א), \"וַיַּרְא אֶת מַלְאַךְ ה' נִצָּב בַּדֶּרֶךְ\" (במדבר כב:לא). וַיַּרְא וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ. דּוֹלֵק, וְזֶה דֶּרֶךְ חִידַת הַנְּבוּאָה, שֶׁהָיָה הַמַּלְאָךְ בְּתוֹךְ הַסְּנֶה, וְהָאֵשׁ בּוֹעֶרֶת בַּסְּנֶה סָבִיב הַמַּלְאָךְ, לְהוֹרוֹת שֶׁבִּהְיוֹת צַדִּיקֵי יִשְׂרָאֵל, שֶׁהֵם מַלְאֲכֵי ה', בְּתוֹךְ הַסְּנֶה שֶׁל עַם מִצְרַיִם, שֶׁהָיוּ לָהֶם סַרְבִּים וְסַלּוֹנִים, הַסְּנֶה יִבְעַר בָּאֵשׁ בְּצָרַת עֶשֶׂר מַכּוֹת, אֲבָל לֹא יִכְלוּ בְּאוֹתָן הַצָּרוֹת, כְּמוֹ שֶׁהוֹרָה בְּאָמְרוֹ \"וְהַסְּנֶה אֵינֶנּוּ אֻכָּל\", שֶׁהָיָה בִּלְתִּי כָּלֶה בָּאֵשׁ הַמְּלַהֵט בּוֹ. כִּי לֹא הָיְתָה נְבוּאַת מֹשֶׁה רַבֵּינוּ עָלָיו הַשָּׁלוֹם אָז כְּמוֹ שֶׁהָיְתָה אַחַר כָּךְ, כְּמוֹ שֶׁהֵעִיד בְּאָמְרוֹ \"כִּי יָרֵא מֵהַבִּיט אֶל הָאֱלֹהִים\", עַל הֵפֶךְ \"וּתְמוּנַת ה' יַבִּיט\" (במדבר יב:ח). אֲבָל מִיּוֹם מַתַּן תּוֹרָה וָאֵילָךְ, שֶׁנִּגְלָה אָז לְכָל יִשְׂרָאֵל פָּנִים בְּפָנִים וְהֵם לֹא סָבְלוּ זֶה, כְּאָמְרָם \"לֹא אֹסִף עוֹד לִשְׁמֹעַ אֶת קוֹל ה' וְכוּ'\" (דברים ה:כב), וְהוּא לְבַדּוֹ נִשְׁאַר בְּאוֹתָהּ מַדְרֵגָה, כְּמוֹ שֶׁאָמַר \"שׁוּבוּ לָכֶם וְאַתָּה פֹּה עֲמֹד עִמָּדִי\" (דברים ה:כז-כח), וּכְאָמְרוֹ \"וַיַּעֲמֹד הָעָם מֵרָחֹק וּמֹשֶׁה נִגַּשׁ\" (שמות כ:יח), הָיְתָה נְבוּאַת מֹשֶׁה רַבֵּינוּ פָּנִים בְּפָנִים וּמַרְאֶה וְלֹא בְחִידוֹת.",
+      "en": "וירא מלאך ה' אליו, in a prophetic vision. When angels appear to humans in human garb this is not considered a prophetic vision, i.e. it is something of a lower order of Divine manifestation. Divine communications to Avraham, Lot, Bileam, and others like them are not described as וירא, vayeyrah, “it appeared.” However, the recipient is described as וירא, “he saw,” i.e. he is described only in his active role, not his role as receptacle of G’d’s communication. Examples of the latter kind of communication occur in Genesis 18,2 as well as in Genesis 19,1 and in Numbers 22,31. וירא והנה הסנה בוער באש, it kept burning; This phenomenon indicated the prophetic nature of the experience. Unless the angel had been within the bush, this could not have happened as something natural. The fire Moses saw burning enveloped the angel. The implied message was that the righteous members of the Jewish people, who are themselves angels of G’d, i.e. His messengers on earth, and who are surrounded by the Egyptian nation who treated them as burning thistles or less, would themselves become subject to this fire when enduring the ten plagues, but would remain unharmed by all those plagues. This is what Moses was taught when he saw והסנה איננו אוכל. it was not consumed by the flames which kept burning. The level of Moses’ prophecy at that time was not yet at the level it would be later on. The very fact that the Torah describes Moses as being even afraid to look at the spectacle before his eyes is proof of this (compare verse 6). From the day the Torah was given, as the Torah testifies in Numbers 12,8 ותמונת ה' יביט, G’d extended the power of Moses’ prophetic visions so that He shows him a visual image of G’d. The entire Jewish people had had a brief revelation of G’d’s glory at Mont Sinai only. Their power of endurance was so limited even at that time that the Torah reports them as saying that they could not even endure hearing the voice of the Lord, not to speak of enduring a visual image. Only Moses was able to retain the level of prophecy which the entire nation experienced during the revelation at Mount Sinai. This is the meaning of Deuteronomy 5,27-28 שובו לכם לאהליכם ואתה פה עמוד עמדי, “you (pl.) go back to your tents, and you (sing.) remain standing here beside Me.” This is also borne out by Exodus 20,18 ויעמוד העם מרחוק, “the people stood at a distance,” followed by ומשה נגש, “whereas Moses approached.” (to the cloud within which the glory of G’d was enveloped). Moses’ level of prophecy from that time on remained on the level known as פנים אל פנים, “face to face,” i.e. direct, not indirect. G’d told Miriam and Aaron there that He does not speak to Moses in riddles but by showing him a visual image (Numbers 12,8)",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:3",
+      "he": "אָסוּרָה נָּא וְאֶרְאֶה. אֶתְבּוֹנֵן וְאֶרְאֶה, מַדּוּעַ לֹא יִבְעַר הַסְּנֶה. לָמָּה לֹא יִכְלוּ הַמִּצְרִים בְּרֹב מַכּוֹתָם, כְּעִנְיַן \"וְדָלְקוּ בָהֶם וַאֲכָלוּם\" (עובדיה א:יח).",
+      "en": "אסורה נא ואראה; I will try and understand the phenomenon by looking at it more closely. מדוע לא יבער הסנה. Why the Egyptians do not perish from the many plagues they have to endure. The normal reaction to burning is that the object afire is consumed by the fire, as mentioned in Ovadiah 18.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:4",
+      "he": "וַיַּרְא ה' כִּי סָר לִרְאוֹת. לְהִתְבּוֹנֵן בַּדָּבָר. וַיִּקְרָא אֵלָיו אֱלֹהִים. לְהוֹדִיעוֹ, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה \"בָּא לְטַהֵר מְסַיְּעִין אוֹתוֹ\", כְּעִנְיַן \"וּמֹשֶׁה עָלָה אֶל הָאֱלֹהִים וַיִּקְרָא אֵלָיו ה' מִן הָהָר\" (שמות יט:ג).",
+      "en": "וירא ה' כי סר לראות, When G’d saw that Moses took a deeper interest in the phenomenon, ויקרא אליו אלוקים, to explain the phenomenon to him, in accordance with the well known principle ofהבא לטהר מסיין אותו, “when someone wants to purify something impure one extends a helping hand to him “ A well known example of this is Exodus 19,3 where we find that as soon as Moses ascended the mountain G’d descended toward him.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:5",
+      "he": "שַׁל נְעָלֶיךָ. אֲפִלּוּ בַּמָּקוֹם שֶׁאַתָּה בּוֹ עַתָּה.",
+      "en": "של נעליך, even on the spot you are standing on now.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:7",
+      "he": "רָאֹה רָאִיתִי אֶת עֳנִי עַמִּי. צַדִּיקֵי הַדּוֹר הַנֶּאֱנָחִים וְהַנֶּאֱנָקִים עַל עֲוֹנוֹת הַדּוֹר וְעַל עֲנִיִּים וּמִתְפַּלְלִים, וּכְנֶגְדָּם נִגְלָה מַלְאַךְ ה' תּוֹךְ הַסְּנֶה. וְטַעַם רָאֹה רָאִיתִי, אָמְנָם רָאִיתִי. וְזֶה טַעַם הַמָּקוֹר בְּכָל מָקוֹם כְּשֶׁיּוּשַׂם לְכֶפֶל, כְּמוֹ \"עָלֹה נַעֲלֶה\", \"יָכֹל נוּכַל\" (במדבר יג:ל), כִּי עִנְיָנוֹ כְּטַעַם אָמְנָם לְהוֹרוֹת שֶׁהָאֱמֶת כָּךְ הוּא, אַף עַל פִּי שֶׁיִּטְעֹן הַטּוֹעֵן וְיֹאמַר הֵפֶךְ זֶה, כְּעִנְיַן \"יָדַעְתִּי בְנִי יָדַעְתִּי\" (בראשית מח:יט). כְּלוֹמַר, אַף עַל פִּי שֶׁרָאִיתִי אֶת עֳנִי עַמִּי אֲשֶׁר בְּמִצְרַיִם, כְּמוֹ שֶׁהוֹרָה הֱיוֹת הַמַּלְאָךְ בְּתוֹךְ הַסְּנֶה, וְאַף עַל פִּי שֶׁעַל צָרֵיהֶם אָשִׁיב יָדִי כְּמוֹ שֶׁהוֹרָה הָאֵשׁ בַּסְּנֶה, מִכָּל מָקוֹם לֹא יִסּוֹפוּ הַמִּצְרִים הַצָּרִים אוֹתָם בְּכָל מַכּוֹת שֶׁאֶשְׁלַח בָּם, כְּמוֹ שֶׁהוֹרָה עִנְיַן \"וְהַסְּנֶה אֵינֶנּוּ אֻכָּל\", כִּי אָמְנָם אֵין הַכַּוָּנָה בַּמַּכּוֹת שֶׁאָבִיא עֲלֵיהֶם לְהַכְרִיתָם וּלְהוֹשִׁיב יִשְׂרָאֵל בִּמְקוֹמָם, אֲבָל לְהַצִּיל יִשְׂרָאֵל מִיָּדָם וּלְהוֹשִׁיבָם בְּמָקוֹם אַחֵר.",
+      "en": "ראה ראיתי את עני עמי, “I have indeed seen the plight of My people.” A reference to the righteous ones among them who groaned and sighed over the sins of their generation and their resulting plight, praying. In response to the prayer of these righteous people the angel answered out of the burning bush. The meaning of the words ראה ראיתי is “indeed I have seen, taken notice.” This construction is normal wherever the Torah employs a dual, duplicate construction. The reason for the duplication is as if to contradict someone who denies that G’d has seen what goes on. It is as if saying: ‘in spite of anything you think or say, I insist that you are wrong and I am right.” It is similar to Yaakov negating Joseph’s trying go correct the position of his hands when he was blessing Ephrayim and Menashe. At that time Yaakov simply said: “I know my son, I know.” (Genesis 48,19) The angel confirmed to Moses that in spite of G’d being aware of the Israelite’s problems and the fact that He was going to inflict numerous plagues on the Egyptians, the latter would not simply collapse in spite of all the plagues. My intention with the plagues is not to destroy the Egyptians and to leave the Israelites in their place, on their land, but I want to save the Israelites and to take them out of Egypt in order to settle them elsewhere.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:8",
+      "he": "וְזֶה טַעַם וָאֵרֵד לְהַצִּילוֹ וּלְהַעֲלוֹתוֹ מִן הָאָרֶץ הַהִיא אֶל אֶרֶץ. כְּלוֹמַר נִגְלֵיתִי בַּמַּרְאֶה זוֹ לְהַצִּילוֹ וּלְהַעֲלוֹתוֹ, לֹא לְהַכְרִית הַמִּצְרִים: זָבַת חָלָב וּדְבָשׁ. רַבַּת הַמִּקְנֶה וְרַבַּת הַמָּזוֹן, עָרֵב וּמוֹעִיל, כְּאָמְרוֹ \"אֱכָל־בְּנִי דְבַשׁ כִּי־טוֹב, וְנֹפֶת מָתוֹק\" (משלי כד:יג).",
+      "en": "וארד להצילו...ולהעלותו מן הארץ ההיא אל ארץ, I revealed Myself to you in this manifestation only to acquaint you with the fact that I will save the Israelite nation and lead them out of Egypt, not in order to destroy Egypt. זבת חלב ודבש, a land with much livestock and abundant food of good quality and of nourishing properties (honey). These terms are used in this sense in Proverbs 24,13 אכול בני דבש כי טוב ונפת מתוק. “My son, eat honey for it is good, and the honeycomb for it is sweet on your palate.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:9",
+      "he": "וְעַתָּה. וּבִהְיוֹת זֶה כֻּלּוֹ אֱמֶת, וְזֶה טַעַם וְעַתָּה בְּכָל מָקוֹם. אָמַר: וּבִהְיוֹת זֶה אֱמֶת, שֶׁיָּדַעְתִּי אֶת מַכְאוֹבָיו וְנִגְעֵי לְבָבוֹ. הִנֵּה צַעֲקַת בְּנֵי יִשְׂרָאֵל בָּאָה אֵלָי. שֶׁקִּבַּלְתִּי תְּפִלָּתָם, מֵאַחַר שֶׁקְּרָאוּנִי בֶּאֱמֶת, לֹא עַל דֶּרֶךְ \"וַיְפַתּוּהוּ בְּפִיהֶם\" (תהלים עח:לו). וְגַם רָאִיתִי אֶת הַלַּחַץ. וּמִצַּד רֹב הַלַּחַץ רָאוּי לַעֲנוֹשׁ אֶת הַלּוֹחֲצִים, כְּעִנְיַן \"וְקֶצֶף גָּדוֹל אֲנִי קוֹצֵף עַל הַגּוֹיִם הַשַּׁאֲנַנִּים אֲשֶׁר אֲנִי קָצַפְתִּי מְעָט וְהֵם עָזְרוּ לְרָעָה\" (זכריה א:טו).",
+      "en": "ועתה, seeing that all this is true. This is the meaning of the word ועתה wherever it appears. G’d said: in view of the fact that the Israelites’ complaints are justified, that they are entitled to complain, and I am aware of their pain, etc., הנה צעקת בני ישראל באה אלי, I have accepted their prayer after they truly called on Me, [aware that I could help them. Ed.] They did not merely mouth these prayers to give themselves the illusion of having vented their frustrations (compare Psalms 27,36). וגם ראיתי את הלחץ, in view of the excessive pressure brought to bear on them, the ones applying the pressure deserve to be punished. We find a similar construction in Zecharyah 1,15:וקצף גדול אני קוצף על הגוים השאננים אשר אני קצפתי מעט והם עזרו לרעה, “and I am very angry with those nations that are at ease; for I was only angry a little; but they overdid the punishment.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:10",
+      "he": "וְעַתָּה. לְכָה וְאֶשְׁלָחֲךָ אֲלֵיהֶם, לְהַתְרוֹת בָּהֶם בְּטֶרֶם שֶׁאֶעֱנִישֵׁם:",
+      "en": "ועתה לכה ואשלחך, to them, to warn them before I have to resort to punishing them.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:11",
+      "he": "מִי אָנֹכִי כִּי אֵלֵךְ. אֵיךְ יַחְשֹׁב אֶת הַתְרָאָתִי: וְכִי אוֹצִיא אֶת בְּנֵי יִשְׂרָאֵל. שֶׁאֶזְכֶּה לְהוֹצִיא אֶת בְּנֵי יִשְׂרָאֵל שֶׁהֵם עַתָּה בִּלְתִּי רְאוּיִים לְכָךְ:",
+      "en": "מי אנכי כי אלך?, how will my warning be effective? וכי אוציא את בני ישראל, that I will have the merit to take out the Jewish people who are at this time not deserving of this?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:12",
+      "he": "כִּי אֶהְיֶה עִמָּךְ וְזֶה לְּךָ הָאוֹת. שֶׁתִּגְזֹר אֹמֶר וְיָקֻם לָךְ (איוב כב:כח) בְּכָל אֲשֶׁר תִּפְנֶה שָׁם, וּבָזֶה יַכִּירוּ הַכֹּל שֶׁשְּׁלַחְתִּיךָ וְיַחֲשִׁיבוּ אוֹתְךָ וְאֶת דְּבָרֶיךָ, כְּעִנְיָן \"גַּם הָאִיש מֹשֶׁה גָּדוֹל מְאֹד בְּאֶרֶץ מִצְרָיִם\" (שמות יא:ג). בְּהוֹצִיאֲךָ אֶת הָעָם מִמִּצְרַיִם תַּעַבְדוּן אֶת הָאֱלֹהִים עַל הָהָר הַזֶּה. אַף עַל פִּי שֶׁאֵינָם רְאוּיִים, הֵם מוּכָנִים לַעֲבוֹד אֶת הָאֱלֹהִים עַל הָהָר הַזֶּה בְּהוֹצִיאֲךָ אוֹתָם מִבֵּין הַפּוֹשְׁעִים.",
+      "en": "כי אהיה עמך וזה לך האות, that you will not only issue decrees but will carry them out successfully wherever you turn. Your very success will convince everyone that I must be the One who has sent you. They will therefore take you and your words very seriously. We find that this did indeed come true in Exodus 11,3 והאיש משה גדול מאד בכל ארץ מצרים, “the man Moses was very great in the whole land of Egypt.” בהוציאך את העם ממצרים תעבדון את האלוקים על ההר הזה.. even though they are not worthy of redemption at this time, but they are worthy of serving the Lord at this mountain when you take them out from among these professional sinners.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:13",
+      "he": "וְאָמְרוּ לִי מַה שְּׁמוֹ. הִנֵּה הַשֵּׁם יוֹרֶה עַל הַצּוּרָה הָאִישִׁיִּת, וְהַצּוּרָה הִיא סִבָּה עַצְמִיִּת לִפְעֻלָּה הַמְיֻחֶדֶת לָאִישׁ. יֹאמְרוּ אִם כֵּן בְּאֵיזֶה פֹעַל נִמְשָׁךְ מִמֶּנּוּ, שֶׁבּוֹ יִקָּרֵא בְּשֵׁם מִי שֶׁשְּׁלָחֲךָ לְהוֹצִיאֵנוּ.",
+      "en": "\"ואמרו לי \"מה שמו?, a name describes the individual features of a person, Being, or what makes him distinctive. The people could therefore be expected to ask Moses in what manner this G’d whose messenger he claimed to be had distinguished Himself as being special, different from other gods.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:14",
+      "he": "אֶהְיֶה אֲשֶׁר אֶהְיֶה. הַהֹוֶה תָּמִיד עַל עִנְיָן אֶחָד מִצַּד עַצְמוֹ, וּמִזֶּה יִתְחַיֵּב שֶׁיֹּאהַב הַמְּצִיאוּת וְיִשְׂנָא כָּל הֶפְסֵד מִנֶּגֶד לַמְּצִיאוּת, כְּאָמְרוֹ \"כִּי לֹא אֶחְפֹּץ בְּמוֹת הַמֵּת\" (יחזקאל יח:לב). וּמִזֶּה יִתְחַיֵּב שֶׁיֹּאהַב מִשְׁפָּט וּצְדָקָה, אֲשֶׁר תַּכְלִיתָם מְצִיאוּת, וְיִשְׂנָא הָעָוֶל וְהָאַכְזָרִיּוּת, הַמַּטִּים עֲקַלְקְלוֹת אֶל הֶעְדֵּר וְהֶפְסֵד, וּבָזֶה שָׂנֵא חָמָס וְאַכְזָרִיּוּת הַמִּצְרִים נֶגְדְּכֶם:",
+      "en": "אהיה אשר אהיה. I am an independent existence, not subject to influences by other phenomena or even caused by them. Seeing that this is so it follows that I love existing, and beings that exist. As a corollary to this love of Mine for existence, it follows that I deeply resent anything or anyone who tries to terminate such an existing being from continuing to do so. The prophet Ezekiel 18,32 phrased this thought as “for I do not desire the death of him that dies.” From this it follows that I must love righteousness and justice the objective of both virtues being the continued existence of all who deserve it. At the same time, it follows that I must hate injustice and cruelty as these vices are apt to terminate the existence of the victims of these vices. Clearly, then, this G’d must hate the violence and cruelty perpetrated on you by the Egyptians.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:15",
+      "he": "וַיֹּאמֶר עוֹד אֱלֹהִים אֶל מֹשֶׁה כֹּה תֹאמַר אֶל בְּנֵי יִשְׂרָאֵל. לְחַכְמֵי הַדּוֹר: ה' אֱלֹהֵי אֲבוֹתֵיכֶם. מִצַּד פְּעֻלָּתוֹ הַמְיֻחֶדֶת לוֹ, אֲשֶׁר יוֹרֶה עָלֶיהָ הַשֵּׁם הַמְיֻחָד, וּמִצַּד הֱיוֹתוֹ אֱלֹהֵי אֲבוֹתֵיכֶם, שֶׁכָּרַת עִמָּם בְּרִית לָהֶם וּלְזַרְעָם. זֶה שְּׁמִי לְעֹלָם. הַשֵּׁם הַמְיוּחָד, וְזֶה הַשֵּׁם הַקּוֹדֵם הַמּוֹרֶה קַדְמוּתִי, מְצִיאוּתִי קַדְמוּתִי וְנִצְחִיּוּתִי, הוּא זִכְרִי לְדוֹר דּוֹר, הוּא מַה שֶּׁהִשִּׂיגוּ כָּל חַכְמֵי הַדּוֹרוֹת, חֲדָשִׁים גַּם יְשָׁנִים, שֶׁיֵּשׁ בְּהֶכְרֵחַ נִמְצָא קַדְמוֹן נִצְחִי בִּלְתִּי מִשְׁתַּנֶּה.",
+      "en": "ויאמר עוד אלוקים אל משה כה תאמר אל בני ישראל, the Beney Yisrael that G’d refers to here are the elders of the people. (according to Rashi the people at large would not understand such thoughts.) ה' אלוקיכם, this is also the G’d of your patriarchs in addition to being the G’d possessing these virtues just mentioned. He had concluded a covenant with your patriarchs including all their offspring, so that this is part of My definition (name) זה שמי לעולם, forever as well as the name He already was known by previously before this additional attribute through the covenant with the patriarchs. זכרי לדור ודור, this is what wise men have figured out for themselves already since time immemorial that there must be a prime Cause, an eternal Being, not subject to change, i.e, to aging, weakening.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:16",
+      "he": "פָּקֹד פָּקַדְתִּי אֶתְכֶם. מִצַּד הֱיוֹתְכֶם זַרְעָם. וְאֶת הֶעָשׂוּי לָכֶם בְּמִצְרָיִם. מִצַּד הֱיוֹתִי שׂוֹנֵא הָאַכְזָרִיּוּת וְהֶחָמָס.",
+      "en": "פקד פקדתי אתכם, seeing that you are their descendants. ואת העשוי לכם במצרים, seeing that I hate violence and cruelty.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:18",
+      "he": "וְשָׁמְעוּ לְקֹלֶךָ. בְּכָל אֲשֶׁר תְּצַוֵּם: אֱלֹהֵי הָעִבְרִים. אֱלֹהֵי הַמַּחֲזִיקִים בְּדֵעוֹת עֵבֶר. נִקְרָה עָלֵינוּ. בְּעֵת שֶׁלֹּא הָיִינוּ מִתְכַּוְּנִים לִנְבוּאָה, וְלֹא מְבַקְשִׁים דָּבָר מִלְּפָנָיו, רַק לְהַפְקַת רְצוֹנוֹ צִוָּה שֶׁנִּזְבַּח.",
+      "en": "ושמעו לקולך, in all that you will command them. אלוקי העבריים, the G’d of those who follow the teachings of Ever. (grandson of Shem) נקרה עלינו, at a time when we had not expected any divine prophecy, and had not asked anything of Him. He commanded us to bring offerings to satisfy His own will, not ours. [the author justifies the use of the root קרה which describes things which happen without one knowing the cause for these happenings. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:19",
+      "he": "כִּי לֹא יִתֵּן אֶתְכֶם מֶלֶךְ מִצְרַיִם לַהֲלֹךְ. לֹא יַסְכִּים לַעֲשׂוֹת זֶה בִּרְצוֹנוֹ, לְבַקָּשָׁתִי. וְלֹא בְּיָד חֲזָקָה. וַאֲנִי אֶעֱשֶׂה שֶׁלֹּא יִתֵּן אֶתְכֶם לַהֲלוֹךְ כַּאֲשֶׁר תֶּחֱזַק יָדִי עָלָיו, כִּי בְּסוּר הַמַּכּוֹת אֲחַזֵּק לִבּוֹ שֶׁלֹּא יִירָא שֶׁאוֹסִיף לְהַכּוֹתוֹ:",
+      "en": "כי לא יתן אתכם מלך מצרים להלוך. He will not agree to do this from his own free volition at My request. ולא ביד חזקה, I will see to it that he will not even allow you to depart as a result of the plagues I shall inflict on Egypt. I will arrange that as soon as a plague has ceased he will change his mind in order to give Me a chance to inflict further plagues on him as chastisement.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:20",
+      "he": "וְהִכֵּיתִי אֶת מִצְרַיִם בְּכֹל נִפְלְאוֹתָי. בְּאֹפֶן שֶׁיִּפָּלֵא עֲלֵיהֶן כָּל שׁוֹמֵעַ, וְרַבִּים יִרְאוּ וְיִירָאוּ, אוּלַי יָשׁוּבוּ קְצָתָם.",
+      "en": "והכיתי את מצרים בכל נפלאותי, in a manner which will make everyone who hears about these plagues sit up and take notice. Many of those who will hear about this will perhaps repent and abandon idolatry. [the author does not view the plagues as a punishment but as G’d’s educational tool. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 3:22",
+      "he": "וְנִצַּלְתֶּם אֶת מִצְרָיִם. אַף עַל פִּי שֶׁתְּקַבְּלוּ הַכֹּל מֵהֶם דֶּרֶךְ הַשְׁאֵלָה, וְתִהְיוּ חַיָּבִים לְהַחֲזִיר, הִנֵּה תִּקְנוּ אַחַר כָּךְ אֶת הַכֹּל בַּדִּין, בְּרָדְפָם אַחֲרֵיכֶם לְהִלָּחֵם בָּכֶם וְלִשְׁלֹל אֶת שְׁלַלְכֶם. כִּי אָמְנָם כַּאֲשֶׁר מֵתוּ בְּאוֹתָהּ הַמִּלְחָמָה, כִּי ה' נִלְחָם, הָיָה בַּדִּין מִדָּה כְּנֶגֶד מִדָּה כָּל שְׁלַל הָרוֹדְפִים לַנִּרְדָּפִים, כַּמִּנְהָג בְּכָל מִלְחָמָה.",
+      "en": "ונצלתם את מצרים. Even though all that they will give you will be on loan and you will be obligated to return these items. The status of these “borrowed” articles underwent a legal change when these same Egyptians turned into pursuers of the departing Israelites with intent to kill them. From that moment on what had previously been on loan now became legitimate booty of war. Not only that, but the previous owners had died in a war fought against them by G’d Himself when the pursuers had become the pursued, something which happens in many wars.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:1",
+      "he": "וְהֵן לֹא יַאֲמִינוּ לִי וְלֹא יִשְׁמְעוּ בְּקוֹלִי. אַחַר שֶׁיִּרְאוּ שֶׁלֹּא יִתֵּן אוֹתָם מֶלֶךְ מִצְרַיִם לַהֲלוֹךְ. כִּי יֹאמְרוּ לֹא נִרְאָה אֵלֶיךָ ה', כִּי הוּא אָמַר וַיֶּהִי.",
+      "en": "והן לא יאמינו לי ולא ישמעו בקולי, once the people will see that Pharaoh will refuse to let them go, they will lose faith in me and will not listen to my promises. 'כי יאמרו לא נראה אליך ה, for they know that when G’d says something it will be so. They will not be able to account for my failure except by claiming that I am an impostor.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:2",
+      "he": "מַה זֶּה בְּיָדֶךָ. הִנֵּה הַמַּטֶּה הוּא דָּבָר שֶׁאֵין בּוֹ רוּחַ חַיִּים, וְהַיָּד הִיא דָּבָר שֶׁיֵּשׁ בּוֹ רוּחַ חַיִּים, וַאֲנִי אָמִית וַאֲחַיֶּה, כִּי אָמִית הַיָּד בַּצָּרַעַת, וְאֶתֵּן רוּחַ חַיִּים בַּמַּטֶּה הַמֵּת:",
+      "en": "מה זה בידך?, here is a staff which is an inert object, and the hand which is something very much alive. I will demonstrate that I can kill that which is alive and bring to life that which is dead. I will make your hand useless and your staff will suddenly come alive.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:3",
+      "he": "וַיָּנָס מֹשֶׁה מִפָּנָיו. כִּי אָמְנָם הָיָה אָז נָחָש גָּמוּר וְרוֹדֵף. אֲבָל תַּנִּינֵי הַחַרְטֻמִּים בְּלַהֲטֵיהֶם לֹא הָיְתָה בָּהֶם תְּנוּעָה, עִם הֱיוֹתָם עַל תְּמוּנַת תַּנִּינִים. כִּי אָמְנָם הַכְּשָׁפִים לֹא יַמְצִיאוּ נִמְצָא טִבְעִי בֶּאֱמֶת, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סנהדרין סז:) הָאֱלֹהִים אֲפִילוּ כְּגַמְלָא לָא מָצוּ בָּרוֹ. וּלְפִיכָךְ אָמַר \"וְהַמַּטֶּה אֲשֶׁר נֶהְפַּךְ לְנָחָשׁ\" (שמות ז:טו), וְלֹא אָמַר לְתַנִּין.",
+      "en": "וינס משה מפניו, for the staff had become a real snake and had assumed a threatening posture. This was totally different from the “snakes” produced by Pharaoh’s magicians that were unable to move. They only looked like the real thing, but were totally harmless. None of these sorcerers can produce something that is really alive, i.e. becomes part of nature. Our sages in Sanhedrin 67 commented on this phenomenon by saying: “not only can the sorcerers not produce small creatures, they cannot even produce big creatures such as a camel” This is why in the case of Moses, the Torah speaks of “the staff which had turned into a נחש, serpent,” whereas when the sorcerers’ work is described the Torah speaks of תנין. [at that point Aaron’s staff also turned into a תנין, not נחש, as G’d was not yet ready to demonstrate the superior magic Moses was capable of. Only when Aaron’s staff swallowed the “taninim” of the sorcerers was that point brought home to Pharaoh.]",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:5",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:8",
+      "he": "וְהֶאֱמִינוּ לְקוֹל הָאוֹת הָאַחֲרוֹן. כִּי יוֹתֵר רָחוֹק אֵצֶל הַטֶּבַע לְרַפֹּאת אֶת הַצָּרַעַת הָעַזָּה כַּשֶּׁלֶג, אֲשֶׁר הִיא כְּמוֹ מָוֶת לְאוֹתוֹ אֵבֶר אֲשֶׁר הִיא בּוֹ בְּלִי סָפֵק.",
+      "en": "והאמינו לקול האות האחרון, from a medical science point of view the ability to heal tzoraat was a far greater miracle as it meant bringing back to life a limb which had already died ולקחת ממימי היאור, seeing that water is a basic liquid, one of the four basic raw materials earth is constructed of, converting this into blood without adding any additional ingredient to it was a most remarkable miracle.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:9",
+      "he": "וְלָקַחְתָּ מִמֵּימֵי הַיְאֹר. כִּי הֱיוֹת הַפָּשׁוּט נֶהְפָּךְ כֻּלּוֹ לְמוּרְכָּב בִּלְתִּי אֶמְצָעִי, לֹא יִצֻּיַּר כְּלָל.",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:10",
+      "he": "לֹא אִישׁ דְּבָרִים אָנֹכִי. בִּלְתִּי מֻרְגָּל בִּמְלֶאכֶת לָשׁוֹן לְמוּדִים וְסִדְרָהּ לְדַבֵּר לִפְנֵי הַמֶּלֶךְ. גַּם מִתְּמוֹל. בִּהְיוֹתִי גָר בְּאֶרֶץ נָכְרִיָּה: גַּם מִשִּׁלְשֹׁם. בִּהְיוֹתִי בְּבֵית פַּרְעֹה. גַּם מֵאָז דַּבֶּרְךָ אֶל עַבְדֶּךָ. אַף עַל פִּי שֶׁהָיְתָה נַפְשִׁי הַדִּבְרִית אָז בְּאוֹר פְּנֵי הַמֶּלֶךְ, לֹא קָנְתָה לְשׁוֹן לִמּוּדִים. כִּי כְבַד פֶּה וּכְבַד לָשׁוֹן אָנֹכִי. וְזֶה קָרָה לִי, כִּי בִּהְיוֹת כְּלֵי הַדִּבּוּר שֶׁלִּי בִּלְתִּי מוּכָנִים, לְפִיכָךְ לֹא פָּנָה לִבִּי לָדַעַת לָעוּת אֶת יָעֵף דָּבָר (ישעיהו נ:ד).",
+      "en": "לא איש דברים אנכי; I am not experienced in knowing how to address people in authority, such as kings. גם מתמול, גם משלשום, neither when I was a stranger in a foreign land, nor when I grew up in Pharaoh’s palace, nor since You have spoken to me and I have responded. כי כבד פה וכבד לשון אנכי, the reason why I do not possess this facility is because the physical tools with which to express my thoughts are defective. I have therefore never even made the effort to develop this facility (compare Isaiah 50,4) לדעת לעות את יעף דבר, “to know how to speak timely words to the weary.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:11",
+      "he": "מִי שָׂם פֶּה לָאָדָם. מִי נָתַן הַהֲכָנוֹת הַטִּבְעִיּוֹת בְּכֹחַ טֶבַע הָאָדָם:",
+      "en": "מי שם פה לאדם?, Who provided the natural infrastructure for nature to be able to provide the body’s equipment?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:12",
+      "he": "וְאָנֹכִי אֶהְיֶה עִם פִּיךָ. לְהָכִין כְּלִי הַדִּבּוּר. וְהוֹרֵיתִיךָ. לְשׁוֹן לִמּוּדִים.",
+      "en": "ואנכי אהיה עם פיך. To enable you to make full use of man’s tools to deliver words by mouth. והוריתיך, I will also teach you how to effectively address people of Pharaoh’s standing.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:13",
+      "he": "שְׁלַח נָא בְּיַד תִּשְׁלָח. בְּיַד מִי שֶׁיִּהְיֶה שָׁלִיחַ מוּכָן לַעֲשׂוֹת שְׁלִיחוּתְךָ, וְלֹא אִישׁ כָּמוֹנִי שֶׁיִּצְטָרֵךְ שֶׁתִּהְיֶה עִם פִּי וְתוֹרֵנִי בְּאֹפֶן שֶׁאַתָּה תִּהְיֶה הַמְדַבֵּר.",
+      "en": "שלח נא ביד תשלח. Use someone who is already naturally gifted for such an assignment, instead of someone like me whom You first have to train for the task, so that in effect You would do the talking.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:14",
+      "he": "הֲלֹא אַהֲרֹן אָחִיךָ הַלֵּוִי. אִם הָיְתָה הַכַּוָּנָה לִשְׁלֹחַ אִישׁ מוּכָן לְדַבֵּר, הֲלֹא אַהֲרֹן אָחִיךָ שֶׁהוּא לֵוִי, בַּעַל חָכְמָה בְּלִי סָפֵק כְּכָל אֶחָיו הַלְוִיִּם: יָדַעְתִּי כִּי דַבֵּר יְדַבֵּר הוּא. שֵׁמֵעַצְמוֹ הוּא בַּעַל לָשׁוֹן לְמוּדִים: וְגַם הִנֵּה הוּא יוֹצֵא לִקְרָאתֶךָ וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. וְאַף עַל פִּי שֶׁהוּא יוֹצֵא לִקְרָאתְךָ לְכַבֶּדְךָ מִפְּנֵי מַעֲלָתְךָ עָלָיו, יִשְׂמַח בְּלִי סָפֵק וְיִהְיֶה לְךָ לְמֵלִיץ בְּלֵב שָׁלֵם.",
+      "en": "הלא אהרן אחיך? If it had been My intention to appoint someone naturally suited for the task, there is your brother Aaron, the Levite, undoubtedly a wise man as are all his brothers the Levites. כי ידעתיו כי דבר ידבר הוא, for I am well aware that he is an excellent speaker without needing training, וגם הנה הוא יוצא לקראתך וראך ושמח בלבו, and although he is on the way to meet you out of respect for you and your elevation to an even higher status than his own, he will undoubtedly be happy to serve as your interpreter full-heartedly.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:15",
+      "he": "וְשַׂמְתָּ אֶת הַדְּבָרִים בְּפִיו וְכוּ'. אַף עַל פִּי שֶׁתָּשִׂים אֶת הַדְּבָרִים בְּפִיו, לֹא יַסְפִּיק זֶה, אֲבָל יִצְטָרֵךְ שֶׁאֶהְיֶה אָנֹכִי עִם פִּיכֶם, בְּאֹפֶן שֶׁיִּכָּנְסוּ דִּבְרֵיכֶם בְּלֵב פַּרְעֹה, וְלֹא יִתְקוֹמֵם עֲלֵיכֶם וְלֹא יְגָרֵשׁ אֶתְכֶם מֵעִם פָּנָיו.",
+      "en": "ושמת את הדברים בפיו ואנכי אהיה עם פיך ועם פיהו, even though I could put all these words in his mouth this is not sufficient; it is necessary that I personally, assist both you and him to make sure that Pharaoh will absorb the words with his heart. Otherwise, he might deal with you from a position of autocratic arrogance and simply expel you from his presence.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:16",
+      "he": "לֵאלֹהִים. שֶׁיַּעֲשֶׂה נִפְלָאוֹת בְּמִצְוֹתֶיךָ.",
+      "en": "לאלוהים, so that he will perform miracles at your behest.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:17",
+      "he": "וְאֶת הַמַּטֶּה הַזֶּה. וְאַף עַל פִּי שֶׁאֵינוֹ מִמִּין עֵץ חָשׁוּב, הִנֵּה קִדַּשְׁתִּיו לִהְיוֹת לְךָ לְאוֹת. תִּקַּח בְּיָדֶךָ. לְשֵׁבֶט מוֹשֵׁל, שֶׁמִּנִּיתִיךָ לְשַׁנּוֹת אֶת הַטֶּבַע בְּמִצְוָתְךָ. אֲשֶׁר תַּעֲשֶׂה בּוֹ אֶת הָאוֹתוֹת. שֶׁתְּצַוֶּה לַטֶּבַע בְּמִצְוֹתַי, מִצַּד מַה שֶׁמִּנִּיתִיךָ לָזֶה.",
+      "en": "ואת המטה הזה, even though this staff is not made from a particularly valuable type of wood I have sanctified it to serve as a sign for you. תקח בידך, as a symbol of authority to demonstrate that I have appointed you to change the rules of nature at your command. אשר תעשה בו את האותות, which you will command nature at My command, seeing that you have been appointed by Me for this task.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:18",
+      "he": "אֵלְכָה נָּא וְאָשׁוּבָה. בֵּין כָּךְ יִהְיוּ אִשְׁתִּי וּבָנַי אֶצְלְךָ. לֵךְ לְשָׁלוֹם. כִּי כֵן אֶעֱשֶׂה.",
+      "en": "אלכה נא ואשובה, in the interval I will leave my wife and children in your care. לך לשלום, go ahead without worry, I will do what you asked.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:19",
+      "he": "כִּי מֵתוּ כָּל הָאֲנָשִׁים. הַמֶּלֶךְ וַעֲבָדָיו אֲשֶׁר בִּקְשׁוּ לְהָרְגְךָ, כַּאֲשֶׁר בֵּאַר לְמַעְלָה (שמות ב:כג) בְּאָמְרֹו \"וַיָּמָת מֶלֶךְ מִצְרָיִם\".",
+      "en": "כי מתו כל האנשים , both the king and his servants who tried to kill you. We explained this already in connection with 2,23 when Pharaoh’s death was reported.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:20",
+      "he": "וַיַּרְכִּיבֵם עַל הַחֲמֹר. לְהוֹלִיכָם מִן הַמִּדְבָּר לְמִדְיָן וּלְבֵית חָמִיו. וַיָּשָׁב אַרְצָה מִצְרָיִם. הוּא לְבַדּוֹ אַחַר שִׁלּוּחֵיהֶם:",
+      "en": "וירכיבם על החמור, to let them travel from the desert where Moses tended the sheep to Midian, i.e. to her father’s home. וישב ארצה מצרים, while Moses went on his way back to the land of Egypt.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:21",
+      "he": "בְּלֶכְתְּךָ לָשׁוּב מִצְרַיְמָה. בְּכָל פַּעַם שֶׁאֶשְׁלָחֲךָ מֵאָהֳלְךָ שֶׁיִּהְיֶה חוּץ לְעִיר מִצְרַיִם, כְּאָמְרוֹ (שמות ט:כט) \"כְּצֵאתִי אֶת הָעִיר אֶפְרֹשׂ כַּפַּי\", וַאֲצַוְּךָ שֶׁתָּשׁוּב לְמִצְרַיִם לְדַבֵּר אֶל פַּרְעֹה. רְאֵה כָּל הַמּוֹפְתִים אֲשֶׁר שַׂמְתִּי בְיָדֶךָ. עַיֵּן בְּכָל פַּעַם בְּכָל הַמּוֹפְתִים שֶׁיִּהְיוּ אָז מוּשָׂמִים בְּיָדְךָ, לַעֲשׂוֹתָם עַל הָאֹפֶן וְהַסֵּדֶר אֲשֶׁר אֲצַוְּךָ. וַעֲשִׂיתָם לִפְנֵי פַרְעֹה. אָז תַּצְלִיחַ לַעֲשׂוֹתָם לִפְנֵי פַרְעֹה כְּשֶׁלֹּא תְשַׁנֶּה. כִּי כְשֶׁיֶּחֱטָא הָאָדָם בְּמִצְוֹת בּוֹרְאוֹ בְּחָסֵר וּבְיָתֵר, יְקַלְקֵל הַכַּוָּנָה וְהִיא לֹא תִּצְלַח, כְּמוֹ שֶׁהָיָה הָעִנְיָן בְּמֵי מְרִיבָה. וְכֵן צִוָּה בְּקִיּוּם הַמִּצְוֹת (דברים ד:ב) \"לֹא תֹסִפוּ וְלֹא תִגְרְעוּ\". וַאֲנִי אֲחַזֵּק אֶת לִבּוֹ. כִּי בִּהְיוֹתוֹ בִּלְתִּי יָכוֹל לִסְבֹּל הַמַּכּוֹת, הָיָה מְשַׁלֵּחַ אֶת הָעָם בְּלִי סָפֵק, לֹא מִפְּנֵי שֶׁיִּכָּנַע לָאֵל יִתְבָּרַךְ לַעֲשׂוֹת רְצוֹנוֹ, וְלָזֶה חִזֵּק אֶת לִבּוֹ שֶׁיִּתְאַמֵּץ לִסְבֹּל הַמַּכּוֹת וּלְבִלְתִּי שַׁלְּחָם.",
+      "en": "בלכתך לשוב מצרימה, every time I tell you to leave your tent which is outside the boundary of the Egyptian capital, etc., do precisely what I command you. The nature of the capital, with all its abominations prevented prayer offered in that city to G’d to become effective, as we know from 9,29 where Moses explains this to Pharaoh. G’d says: “I will command you from time to time to enter the capital in order to speak to Pharaoh.” ראה כל המופתים אשר שמתי בידך, pay careful attention each time you go to Pharaoh when you will be equipped with the power to perform all the miracles which I have placed at your disposal. You must perform these in exactly the manner I have instructed you. ועשיתם לפני פרעה, you will be successful in this only if you proceed exactly in the manner in which I instruct you, and in the presence of Pharaoh. When a creature sins against his Creator by doing either less or more than instructed to do, he will fail in what he set out to do. This rule did not only apply to Moses and Aaron when they set out to perform miracles, but it is a general rule applicable to all of G’d’s commandments, and this is why the Torah spelled this out in Deuteronomy 4,2 writing “do not add or subtract from all the commandments which I have commanded you.” ואני אחזק את לבו, for if he could not endure the plagues he would let the Israelites go, not because he was finally humbling himself before the Lord and do His will, but only in order to get relief from the plagues. This was not a good enough reason to grant him relief; therefore G’d reinforced his natural obstinacy.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:22",
+      "he": "בְּנִי בְכֹרִי יִשְׂרָאֵל. אַף עַל פִּי שֶׁלְּקֵץ הַיָּמִין אֶהְפֹּךְ אֶל הָעַמִּים שָׂפָה בְרוּרָה, לִקְרֹא כֻלָּם בְּשֵׁם ה', וּלְעָבְדוֹ שְׁכֶם אֶחָד (צפניה ג:ט), מִכָּל מָקוֹם יֵחָשֵׁב יִשְׂרָאֵל אֶצְלִי נִכְבָּד מִכֻּלָּם, בַּאֲשֶׁר הוּא בְּנִי, עוֹבֵד כְּמוֹ בֵן מֵאַהֲבָה, לֹא כְעֶבֶד מֵאַהֲבַת שָׂכָר וְיִרְאַת עֹנֶשׁ. וּמִצַּד מַה שֶּׁהוּא בְּכוֹרִי, רִאשׁוֹן לַעֲבוֹדָתִי, בִּתְעוֹת כָּל הָאֻמּוֹת מֵעָלַי, כַּאֲמָרוֹ \"כִּי כָל הָעַמִּים יֵלְכוּ אִישׁ בְּשֵׁם אֱלֹהָיו, וַאֲנַחְנוּ נֵלֵךְ בְּשֵׁם ה' אֱלֹהֵינוּ לְעוֹלָם וָעֶד וְכוּ'\" (מיכה ד:ה).",
+      "en": "בני בכורי ישראל, even though when it comes to the period known as קץ הימים, the end of the days of this planet, G’d will cause the kind of upheaval which will result in all the nations calling G’d by His chosen name and they will all serve Him without reservations, (Tzefaniah 3,9) even then Israel will still be special inasmuch as it is “My son.” I relate to Israel as a father relates to his son, not as a master relates to his servant, even the most benign of masters. A servant’s loyalty or “love” for his master is based on his expectations of reward, or his fear of punishment, not so a son’s loyalty and love. An additional reason for My preference for Israel is the fact that it is My firstborn son, i.e. it is the first nation to accept My position as Creator, King, Master in this universe. At a time when all the other nations were still following their misguided theologies, only the Jewish people proclaimed Me exclusively as their G’d and lawgiver. (compare Micah 4,5).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:23",
+      "he": "הִנֵּה אָנֹכִי הֹרֵג אֶת בִּנְךָ בְּכֹרֶךָ. כְּפִי הַמִּשְׁפָּט הָאֱלֹהִי שֶׁהוּא מִדָּה כְּנֶגֶד מִדָּה, כַּאֲמָרוֹ \"וּכְאֹרַח אִישׁ יַמְצִאֶנּוּ\" (איוב לד:יא). כִּי אָמְנָם מַכַּת בְּכוֹרוֹת לְבַדָּהּ הָיְתָה לְמִשְׁפָּט עֹנֶשׁ לְפַרְעֹה מִכָּל הַמַּכּוֹת, אֲבָל שְׁאָר הַמַּכּוֹת הָיוּ לְאוֹת וּלְמוֹפֵת לְמַעַן יָשׁוּבוּ, כִּי לֹא יַחְפֹּץ בְּמוֹת הַמֵּת, כִּי לֹא נָעַל בִּפְנֵיהֶם דַּרְכֵי הַתְּשׁוּבָה אֲמִתִּית כְּלָל, לוּ חָכְמוּ לָשׁוּב אֶל הָאֵל יִתְבָּרַךְ מֵאַהֲבַת טוּבוֹ וְיִרְאַת גָּדְלוֹ, שֶׁהִיא הַתְּשׁוּבָה הַמַּגַּעַת עַד כִּסֵּא הַכָּבוֹד, אֲשֶׁר הִיא הַמַּצֶּלֶת וְנוֹתֶנֶת חֵן בְּעֵינֵי אֱלֹהִים, כַּאֲמָרָם זִכְרוֹנָם לִבְרָכָה (יומא פו:) \"עֲוֹנוֹת נֶחְשָׁבִים לוֹ כִּזְכֻיּוֹת\", אוֹ לְפָחוֹת לָשׁוּב כַּעֲבָדִים מִיִּרְאַת מַה שֶּׁיּוּכַל לְהַעֲנִישׁ. אֲבָל מַכַּת בְּכוֹרוֹת וּטְבִיעַת פַּרְעֹה וְחֵילוֹ בַּיָּם הָיוּ שְׁפָטִים אֱלֹהִיִּים לְקַיֵּם מִדָּה כְּנֶגֶד מִדָּה.",
+      "en": "הנה אנכי הורג את בנך בכורכך, even though when it comes to the period known as קץ הימים, the end of the days of this planet, G’d will cause the kind of upheaval which will result in all the nations calling G’d by His chosen name and they will all serve Him without reservations, (Tzefaniah 3,9) even then Israel will still be special inasmuch as it is “My son.” I relate to Israel as a father relates to his son, not as a master relates to his servant, even the most benign of masters. A servant’s loyalty or “love” for his master is based on his expectations of reward, or his fear of punishment, not so a son’s loyalty and love. An additional reason for My preference for Israel is the fact that it is My firstborn son, i.e. it is the first nation to accept My position as Creator, King, Master in this universe. At a time when all the other nations were still following their misguided theologies, only the Jewish people proclaimed Me exclusively as their G’d and lawgiver. (compare Micah 4,5).",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:24",
+      "he": "וַיְהִי בַדֶּרֶךְ בַּמָּלוֹן. בְּלֶכְתּוֹ מִן הַמִּדְבָּר לְמִדְיָן עִם אִשְׁתּוֹ וּבָנָיו. וְסִפֵּר זֶה אַחַר שֶׁהִשְׁלִים כָּל מִצְוֹת הָאֵל יִתְבָּרַךְ אֵלָיו בִּדְבַר הַשְּׁלִיחוּת. וַיִּפְגְּשֵׁהוּ ה'. קָרָה יוֹם מִילַת בְּנוֹ, אֲשֶׁר בּוֹ תִּשְׁרֶה שְׁכִינָה לַעֲמוֹד בַּבְּרִית, כְּעִנְיַן \"נִמּוֹלוּ אִתּוֹ וַיֵּרָא אֵלָיו ה'\" (בראשית יז:כג-כו, יח:א). וְאוּלַי זֹאת הִיא סִבַּת הַמִּנְהָג לְהָכִין כִּסֵּא כָּבוֹד בִּמְקוֹם הַמִּילָה. וַיְבַקֵּשׁ הֲמִיתוֹ. מַלְאָךְ הַמְמֻנֶּה עַל זֶה בִּקֵּשׁ לַהֲרֹג אֶת מֹשֶׁה בִּשְׁבִיל שֶׁנִּתְרַשֵּׁל.",
+      "en": "ויהי בדרך במלון, when he was on the way from the desert to Midian with his wife and children. The Torah tells of this incident after concluding the report of how G’d appointed Moses as the leader of the Jewish people. ויפגשהו ה', the 8th day on which he should have circumcised his son occurred [the word is derived from פגש, occurred, happened. Ed.] When the baby is circumcised the presence of the Lord, שכינה is perceived as being present waiting to induct the new member of the Jewish faith. Perhaps this is even the source of the practice to place a chair for the prophet Elijah at the circumcision ceremony. When the time passed without Eliezer being circumcised, the Shechinah or the angel in charge of circumcision was ready to kill Moses for having been so remiss in fulfilling this commandment.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:25",
+      "he": "וַתֹּאמֶר כִּי חֲתַן דָּמִים אַתָּה לִי. עָשִׂיתִי זֶה כִּי אַתָּה כְּשֶׁנְּשָׂאתַנִי וְהָיִיתָ חָתָן לִי הִתְנֵיתָ עִמִּי שֶׁנָּמוּל אֶת בָּנֵינוּ וְנוֹצִיא מֵהֶם דַּם בְּרִית, וְכָל זֶה אָמְרָה לְזַכּוֹת מֹשֶׁה לִפְנֵי הַמְבַקֵּשׁ לַהֲמִית.",
+      "en": "ותאמר כי חתן דמים אתה לי. I have done this seeing that when I became married to you and you were my bridegroom you stipulated that our sons would have to be circumcised and that we would extract a certain amount of blood as the mark of the covenant with G’d. Tzipporah said all this to the angel who wanted to kill her husband in his defence i.e. the angel must know that there was no deliberate negligence in performing the rite of circumcision.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:26",
+      "he": "וַיִּרֶף מִמֶּנּוּ. אֲבָל לֹא הִנִּיחוֹ לְגַמְרֵי. אָז אָמְרָה חֲתַן דָּמִים לַמּוּלֹת. כְּשֶׁהָיִיתָ חָתָן אָמַרְתָּ שֶׁנּוֹצִיא דָּמִים בִּשְׁתֵּי מִילוֹת, שֶׁהֵן כְּרִיתַת הַמִּילָה וְהַפְּרִיעָה:",
+      "en": "וירף ממנו, he released him partially, but not totally, as until the second part of the circumcision, the פריעה, the uncovering of the corona, had been performed the ritual is considered incomplete, and not valid. אז אמרה חתן דמים למולות, when you were a bridegroom you said that the circumcision involves the removal of some blood during two stages of the circumcision, first the cutting off of the foreskin, then the severing of membrane over the corona.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:27",
+      "he": "לֵךְ לִקְרַאת מֹשֶׁה הַמִּדְבָּרָה. כְּתַלְמִיד מַקְבִּיל פְּנֵי הָרַב, כַּאֲמָרוֹ וְאַתָּה תִּהְיֶה לּוֹ לֵאלֹהִים: וַיִּפְגְּשֵׁהוּ בְּהַר הָאֱלֹהִים. בְּשׁוּבוֹ מִמִּדְיָן לָלֶכֶת לְמִצְרַיִם: וַיִּשַּׁק לוֹ. כִּמְנַשֵּׁק דָּבָר קָדוֹשׁ, כְּעִנְיַן \"וַיִּשָּׁקֵהוּ, וַיֹּאמֶר הֲלוֹא כִּי מְשָׁחֲךָ ה' עַל נַחֲלָתוֹ לְנָגִיד\" (שמואל א י:א).",
+      "en": "לך לקראת משה המדברה, like a student who walks some distance to welcome his teacher even before he arrives in town. The student is what we call the “reception committee.” Aaron being a student of Moses although he was his senior has been confirmed already in verse 16 when G’d told Moses concerning his brother: “you will be his prophet, i.e. mentor.” ויפגשהו בהר האלוקים. while Moses was already on his way back to Midian from his encounter at the burning bush, at the mountain of the Lord, all set to go to Egypt. וישק לו, as one kisses a sacred object. We find the term used in this sense in Samuel I 10,1 וישקהו, ויאמר הלא כי משחך ה' על נחלתו לנגיד, ”he kissed him and said: ‘the Lord herewith anoints you ruler over His own people.”",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:28",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:29",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:30",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 4:31",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:1",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:2",
+      "he": "לֹא יָדַעְתִּי אֶת ה'. לֹא יָדַעְתִּי שׁוּם נִמְצָא מְהַוֶּה אַחַר אֲפִיסוּת מֻחְלָט. וְגַם אֶת יִשְׂרָאֵל לֹא אֲשַׁלֵּחַ. וְגַם שֶׁיִּתְאַמֵּת מְצִיאוּת זֶה הַנִּמְצָא, לֹא בִּשְׁבִיל זֶה אֲשַׁלַּח אֶת יִשְׂרָאֵל.",
+      "en": "'לא ידעתי את ה; I have never heard of any Being which created something tangible out of an absolute nothing. וגם את ישראל לא אשלח, even if it could be proved that this Being you speak about does in fact exist, I will not release the Israelites on account of that new found wisdom.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:3",
+      "he": "אֱלֹהֵי הָעִבְרִים. עַל שֶׁאָמַרְתָּ \"מִי הוּא זֶה\", הִנֵּה הוּא אֱלֹהֵי הָעִבְרִים הַמְפֹרָסְמִים הַמַּחֲזִיקִים בְּדֵעוֹת עֵבֶר. וְעַל מַה שֶּׁאָמַרְתָּ שֶׁאַף גַּם זֹאת לֹא תְשַׁלַּח, הִנֵּה מַה טּוֹב שֶׁתִּשְׁמַע בְּקוֹלוֹ פֶּן יִפְגָּעֵנוּ, אוֹתָנוּ וְאוֹתָךְ.",
+      "en": "אלוקי העברים, concerning your statement that you never heard of such a Being, He is the G’d of the Hebrews, the ones who cleave to the religious teachings of עבר, the grandson of Shem, son of Noach. Concerning your statement that you will not release the Israelites, you would do well to listen to His instructions פן יפגענו, as He would punish both us and you.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:5",
+      "he": "הֵן רַבִּים עַתָּה עַם הָאָרֶץ. כִּי הַמַּשְׂכִּילִים לֹא יִפְנוּ אֶל דִּבְרֵיכֶם.",
+      "en": "הן רבים עתה עם הארץ, the really smart Hebrews would not listen to your words.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:8",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:9",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:10",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:11",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:12",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:13",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:16",
+      "he": "וְהִנֵּה עֲבָדֶיךָ מֻכִּים וְחָטָאת עַמֶּךָ. וְהִנֵּה אֲנַחְנוּ הַמֻּכִּים, וְאַנְשֵׁי הַחֲטָאת הַמַּכִּים כֻּלָּנוּ עַמֶּךָ, וְרָאוּי לְךָ לְהַקְפִּיד עַל שְׁתֵּי אֵלֶּה.",
+      "en": "והנה עבדיך מוכים וחטאת עמך, we are the ones who are being beaten and the sinful people beating us are all we who are members of your people. It is up to you to take note of this and to intervene.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:17",
+      "he": "נִרְפִּים אַתֶּם נִרְפִּים. אַתֶּם הַנִּרְפִּים וַעֲצֵלִים מִתְרַפִּים אַתֶּם בִּמְלַאכְתְּכֶם, לְפִיכָךְ הִכְבַּדְתִּי עֲלֵיכֶם לְזָרְזְכֶם: עַל כֵּן אַתֶּם אֹמְרִים נֵלְכָה נִזְבְּחָה. מִזֶּה הִתְבָּאֵר שֶׁאַתֶּם נִרְפִּים, שֶׁאֵין לַחְשׁוֹב שֶׁתֹּאמְרוּ נִזְבְּחָה אֶלָּא כְּדֵי לְהִתְרַפּוֹת מִן הַמְּלָאכָה.",
+      "en": "נרפים אתם נרפים, you are the ones who are lazy and delinquent in carrying out your duties. This is why I decided to make things harder so that you will be more energetic in performing your duties. על כן אתם אומרים נלכה נזבחה, the fact that you dream about such things shows that you are lazy. This pretext of “we want to offer meat offerings” is clear evidence that you want to simply take a holiday.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:19",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:20",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:22",
+      "he": "לָמָּה זֶּה שְׁלַחְתָּנִי. אִם הָיוּ רְאוּיִים לָזֶה הַפֻּרְעָנוּת, לָמָּה גִּלְגַּלְתָּ אוֹתוֹ עַל יָדִי:",
+      "en": "למה זה שלחתני?, if they were guilty of suffering such problems why did You make me the one to be the immediate cause of it?",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 5:23",
+      "he": "וְהַצֵּל לֹא הִצַּלְתָּ. אֶת שׁוֹטְרֵי יִשְׂרָאֵל הַמֻּכִּים.",
+      "en": "והצל לא הצלת, the overseers of the Israelites who are being beaten for showing empathy with the people.",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 6:1",
+      "he": "עַתָּה תִרְאֶה. עַתָּה שֶׁרָאִיתָ בְּפֶשַׁע פַּרְעֹה הַמִּתְאַמֵּץ לְהַחֲזִיק בְּיִשְׂרָאֵל בְּשֵׁבֶט עֶבְרָתוֹ, תִּרְאֶה כִּי בְּיָד חֲזָקָה יְשַׁלְּחֵם, שֶׁיִּתְאַמֵּץ מֵעוֹצֶר רָעָה וְיָגוֹן לְשַׁלְּחָם בְּכָל כֹּחוֹ. וּבְיָד חֲזָקָה יְגָרְשֵׁם מֵאַרְצוֹ. וּכְנֶגֶד מַה שֶׁהֵפִיץ עַתָּה אֶת יִשְׂרָאֵל בְּכָל אֶרֶץ מִצְרַיִם, יִתְאַמֵּץ לְגָרְשָׁם מֵאַרְצוֹ שֶׁלֹּא יִשָּׁאֵר בְּכֻלָּהּ אֲפִילּוּ אֶחָד מֵהֶם:",
+      "en": ". עתה תראה, now that you have seen yourself the sin of Pharaoh who has the nerve to hold on to the Israelites with the authority of his office, you will see that he will not only release them voluntarily, but ביד חזקה ישלחם, not only will he release them, but he will be forced to get rid of them post haste due to the problems he will have while they are still in his country. וביד חזקה יגרשם מראצו, in contrast with his keeping the Israelites enslaved in his country at this time, he will eventually be forced to expel them by force so that not a single one of them will remain behind.",
+      "fr": ""
+    }
+  ]
+}

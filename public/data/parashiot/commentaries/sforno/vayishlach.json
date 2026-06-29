@@ -1,0 +1,925 @@
+{
+  "name": "Vayishlach",
+  "range": "Genesis 32:4-36:43",
+  "commentary": "Sforno",
+  "verses": [
+    {
+      "ref": "Genesis 32:4",
+      "he": "וַיִּשְׁלַח יַעֲקֹב מַלְאָכִים. לְדֵעָה מַה בְּלֵב אָחִיו לָדַעַת מַה יַּעֲשֶׂה לוֹ: אַרְצָה שֵׂעִיר שְׂדֵה אֱדוֹם. אֶל גְּלִיל שֵׂעִיר, לְאוֹתוֹ הַחֵלֶק מִמֶּנּוּ שֶׁהָיָה דָּר שָׁם אֱדוֹם, כִּי אָז לֹא כָּבַשׁ עֲדַיִן אֶת כָּל הַחוֹרִי יוֹשְׁבֵי הָאָרֶץ (בראשית לו:ח).",
+      "en": "וישלח יעקב מלאכים, in order to find out Esau’s state of mind concerning him. ארצה שעיר שדה אדום, to the region of Seir where he lived. At that time he had not yet conquered the whole Chori, the inhabitants of that land. (compare 36,8)",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:5",
+      "he": "וָאֵחַר עַד עָתָּה. לְפִיכָךְ לֹא בָּאתִי לְהִשְׁתַּחֲוֹת לְךָ עַד עָתָּה.",
+      "en": "ואחר עד עתה. This is why I did not come to pay my respects to you until now.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:6",
+      "he": "לִמְצֹא חֵן בְּעֵינֶיךָ. כִּי אֵין סָפֵק אֶצְלִי שֶׁתִּשְׂמַח עַל הֱיוֹת לִי עֹשֶׁר וְכָבוֹד, וְאֶמְצָא חֵן בְּעֵינֶיךָ כְּשֶׁאֲבַשֶּׂרְךָ בָּזֶה.",
+      "en": "למצוא חן בעיניך, for I have no doubt that you will be happy to see that I have become wealthy and the fact that I tell you the good news will please you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:7",
+      "he": "וְגַם הוֹלֵךְ לִקְרָאתְךָ. לֹא בִּלְבַד רָאִינוּ שֶׁלֹּא הָיְתָה בְּעֵינָיו כָּל בְּשׂוֹרָה מוּצֵאת כַּאֲשֶׁר הִגַּדְנוּ אֶת עָשְׁרְךָ, אֲבָל גַּם הוֹלֵךְ לִקְרָאתְךָ עִם אַרְבַּע מֵאוֹת אִישׁ, וְאֵין זֶה אֶלָּא לְהִלָּחֵם, כְּעִנְיָן \"וַיֵּצֵא אֱדוֹם לִקְרָאתוֹ בְּעַם כָּבֵד\" (במדבר כ:כ).",
+      "en": "וגם הולך לקראתך, not only have we seen him, but he did not react with satisfaction when we told him about your wealth. But, אגם הולך לקראתך עם ארבע מאות איש, he also marches toward you with 400 men in order to attack you. The expression לקראת meaning to approach with hostile intent is repeated in Numbers 20,20 when again Edom (Esau) is threatening the Israelites.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:8",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:9",
+      "he": "וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה. כִּי בְּעוֹד שֶׁיִּעַט אֶל הַשָּׁלָל הָרִאשׁוֹן יִמָּלֵט הַשֵּׁנִי בִּכְלֵי מִלְחָמָה אוֹ שֶׁיִּבְרַח:",
+      "en": "והיה המחנה הנשאר לפלטה, while he will be busy gorging himself on the loot captured in the first camp the second camp will be able to make good its escape, or will have prepared itself for battle.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:10",
+      "he": "אֱלֹהֵי אָבִי אַבְרָהָם. הִקְדִּים בְּסֵדֶר שִׁבְחֵי הַמָּקוֹם וַחֲסָדָיו, וּבְהַזְכִּיר זְכוּת אָבוֹת, כְּסֵדֶר אַנְשֵׁי כְּנֶסֶת הַגְּדוֹלָה בִּתְחִלַּת שְׁמוֹנֶה עֶשְׂרֵה בְּרָכוֹת.",
+      "en": "אלוקי אבי אברהם, Yaakov first listed the praises of the Lord, acknowledging His deeds of loving kindness, before coming to the point of pleading for His help in his hour of need. When the sages of the Great Assembly formulated our daily prayers they followed the example set by Yaakov here in devoting the first three benedictions to praising the Lord and acknowledging both His power and His Holiness, before launching into listing our requests from Him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:11",
+      "he": "קָטֹנְתִּי מִכֹּל הַחֲסָדִים. לֹא הָיִיתִי רָאוּי לְכָל אוֹתָם הַחֲסָדִים: וּמִכָּל הָאֱמֶת. הַטּוֹב שֶׁעָשִׂיתָ עִמָּדִי בִּזְכוּת אֲבוֹתַי, וּבְאוֹתוֹ הַדֶּרֶךְ שֶׁעָשִׂיתָ עִמָּדִי לִפְנִים מִשּׁוּרַת הַדִּין, אֲנִי מְבַקֵּשׁ שֶׁתַּצִּילֵנִי, כְּעִנְיַן אָמְרוֹ \"כְּגֹדֶל חַסְדֶּךָ וְכַאֲשֶׁר נָשָׂאתָ לָעָם הַזֶּה\" (במדבר יד:יט):",
+      "en": "קטונתי מכל החסדים, I was not worthy of all the acts of kindness I have experienced at Your hands. ומכל האמת, the good You did for me on account of the merit of my father and grandfather. Seeing that You have already seen fit to treat me well beyond my deserts, I beg of You to continue to do so. Our regular prayers reflect this sentiment when we use the expression כגודל חסדך, “in accordance with the greatness of Your kindness.” Moses used this expression in Numbers 14,19 when praying for forgiveness of the people after the debacle with the spies.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:12",
+      "he": "וְהִכַּנִי אֵם עַל בָּנִים. יַכֶּה אוֹתִי בָּזֶה שֶׁיַּהֲרֹג אֵם עַל בָּנִים, גַּם שֶׁאוּכַל אֲנִי לְהִמָּלֵט מִיָּדוֹ:",
+      "en": "Mother and children alike. Literally, “he will strike me, mother with sons” — i.e. he would deal Yaakov a devastating blow by killing his family, even if he himself escaped.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:13",
+      "he": "וְאַתָּה אָמַרְתָּ הֵיטֵב אֵיטִיב עִמָּךְ. וְאִם יִקְרֶה זֶה יִהְיֶה הֵפֶךְ מַה שֶּׁאָמַרְתָּ לְהֵיטִיב עִמִּי, אִם אֶרְאֶה בְּאָבְדַן מוֹלַדְתִּי. וְשַׂמְתִּי אֶת זַרְעֲךָ. וְהִנֵּה הֵפֶךְ זֶה גַּם כֵּן יִהְיֶה אִם יַכְרִית זַרְעִי, וְרָאוּי שֶׁתַּעֲשֶׂה עִמָּם בַּעֲבוּר כְּבוֹד שְׁמֶךָ לְקַיֵּם הַבְטָחָתְךָ, אַף עַל פִּי שֶׁאֵינִי רָאוּי לָהּ, כְּעִנְיַן \"אִם עֲוֹנֵינוּ עָנוּ בָנוּ ה' עֲשֵׂה לְמַעַן שְׁמֶךָ\" (ירמיהו יד:ז).",
+      "en": "ואתה אמרת היטב איטיב עמך, if what I am afraid of were to happen this would be the reverse of Your promise to me. How can I watch the destruction of my family? ושמתי את זרעך, even if only my children will be killed this will be the opposite of what You promised. It behooves You to let them survive for the sake of Your great name, even if I myself do not deserve to survive. We use this kind of argument in our prayers when we say (based on Jeremiah 14,7) אם עונינו ענו בנו עשה למען שמך, “if our sins testify against us, (save us) for the sake of Your name!”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:17",
+      "he": "עֵדֶר עֵדֶר לְבַדּוֹ. כְּדֵי שֶׁיִּרְאֶה שֶׁיֵּשׁ בְּכָל מִין מִנְיָן זְכָרִים וּנְקֵבוֹת כְּפִי הָרָאוּי לִמְלֶאכֶת הַמִּקְנֶה, שֶׁיּוּכַל לִפְרוֹת וְלִרְבּוֹת, כְּאָמְרוֹ \"קַח נָא אֶת בִּרְכָתִי\" (בראשית לג:יא), שֶׁהָיְתָה מִנְחָה מוּכֶנֶת לִבְרָכָה שֶׁהִיא תּוֹסֶפֶת טוֹבָה. וְרֶוַח תָּשִׂימוּ בֵּין עֵדֶר וּבֵין עֵדֶר. שֶׁלֹּא יִקְפְּצוּ הַבְּהֵמוֹת מֵעֵדֶר לְעֵדֶר וְיִתְעָרְבוּ, וְלֹא יָבִין הָרוֹאֶה חָכְמַת הַמִּנְחָה וּבִרְכָתָהּ.",
+      "en": "עדר עדר לבדו. In order for Esau to realise that each species of animals had the appropriate number of males with it to ensure that these herds would continue to develop without hindrance. This is what he meant when he urged Esau קח נא את ברכתי, “please accept my blessing” (33,11) He meant that his gift was designed to be an ongoing blessing for his brother. וריוח תשימו בין עדר לעדר, to prevent the animals form one herd to jump into the adjoining herd, so that anyone seeing this gift would not appreciate its quality and scope.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:19",
+      "he": "וְאָמַרְתָּ לְעַבְדְּךָ לְיַעֲקֹב. צִוָּה שֶׁלֹּא יִרְאֶה הַשָּׁלִיחַ אֶת עַצְמוֹ כְּמַכִּיר אֶת עֵשָׂו וְשָׁלוּחַ אֵלָיו, פֶּן יַחְשֹׁב עֵשָׂו שֶׁיָּדַע אָחִיו שֶׁהוּא הָלַךְ לִקְרָאתוֹ וְשָׁלַח לוֹ דּוֹרוֹן מֵחֲמַת יִרְאָה, אֲבָל יִרְאֶה הַשָּׁלִיחַ אֶת עַצְמוֹ כְּמוֹ שָׁלוּחַ לְשֵׂעִיר וּכְבִלְתִּי מַכִּיר אֶת עֵשָׂו.",
+      "en": "ואמרת: \"לעבדך ליעקב\". He instructed his shepherds not to give the impression that they knew Esau was on the way in their direction and that they had been sent to him. The phrasing Yaakov instructed his messengers to use was meant to give the impression that Yaakov had no knowledge that Esau was marching toward him with hostile intentions. The messenger should give the impression that he had been sent by Yaakov to Seir where Esau lived, with a gift for him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:20",
+      "he": "כַּדָּבָר הַזֶּה תְּדַבְּרוּן אֶל עֵשָׂו. לְכָל אֶחָד צִוָּה מַה יָּשִׁיב לְעֵשָׂו, וְיוֹדִיעַ שֶׁהוּא עִם שְׁאָר כָּל הָעֲדָרִים, וְהֵם כֻּלָּם שֶׁל יַעֲקֹב מִנְחָה לְעֵשָׂו אָחִיו הַגָּדוֹל:",
+      "en": "כדבר הזה תדברון אל עשו, he instructed each one what to reply to Esau’s enquiry. He should simply mention that he belonged to the other herds following him, all of them being Yaakov’s a gift for his older brother Esau.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:21",
+      "he": "וַאֲמַרְתֶּם גַּם הִנֵּה עַבְדְּךָ יַעֲקֹב אַחֲרֵינוּ. צִוָּה שֶׁכָּל אֶחָד מֵהֶם יֹאמַר זֶה הַדִּבּוּר מִלְּבַד הַדִּבּוּר הַמְיֻחָד לוֹ, כְּדֵי שֶׁיִּמְצָא עֵשָׂו דִּבְרֵי כֻלָּם מְכֻוָּנִים בָּזֶה שֶׁהָיָה יַעֲקֹב הוֹלֵךְ אַחֲרֵיהֶם לְשֵׂעִיר לְהַקְבִּיל פְּנֵי אָחִיו. כִּי אָמַר אֲכַפְּרָה פָנָיו בַּמִּנְחָה. וְאֵלֶּה הַדְּבָרִים שָׂם בְּפִי עֲבָדָיו, כְּדֵי שֶׁיְּמַעֵט רָגְזוֹ שֶׁל עֵשָׂו בְּדִבּוּר הַהַכְנָעָה עִם הַמִּנְחָה. אֶרְאֶה פָנָיו. דֶּרֶךְ הַבִּקּוּר הָרָאוּי לְשָׂרִים, כְּעִנְיַן \"יֵרָאֶה כָל זְכוּרְךָ אֶת פְּנֵי הָאָדוֹן\" (שמות כג:יז), \"וְלֹא יֵרָאוּ פָנַי רֵיקָם\". וְכֵן אָמַר לְעֵשָׂו אַחַר כָּךְ \"כִּי עַל כֵּן רָאִיתִי פָנֶיךָ כִּרְאוֹת פְּנֵי אֱלֹהִים\" (בראשית לג:י), כִּי הַמִּנְהָג לִפְקוֹד אֶת הַשָּׂרִים בְּמִנְחָה עִם רְאִיַּת פְּנֵיהֶם.",
+      "en": "ואמרתם גם הנה עבדך יעקב אחרינו, he told each of them to reply with the same words in addition to the words that each one had been instructed to answer individually. The purpose behind these detailed instructions was to convince Esau that Yaakov was indeed not far behind on his way to Seir the destination of these gifts which he had sent ahead of him. כי אמר אכפרה פניו במנחה, these were the words he had instructed the shepherds leading the gift to say, in order to soften Esau’s attitude by Yaakov assuming a somewhat servile attitude prior to their coming face to face with one another. אראה פניו, an expression denoting the “paying of a visit,” as we know from Exodus 34,23 where the Jewish people is instructed to visit the Temple three times annually with the same formula, i.e. יראה כל זכורך...ולא יראו פני ריקם, “every male of you is to visit Me; when they pay this visit they shall not come empty-handed.” Yaakov himself confirmed the meaning of the formula אראה פניך when he said to Esau in 33,10 על כן ראיתי פניך כראות פני אלוקים, “inasmuch as visiting you is akin to visiting the presence of G’d.” It was an accepted custom for a visitor to highly placed persons to arrive bearing gifts.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:22",
+      "he": "וַתַּעֲבוֹר הַמִּנְחָה עַל פָּנָיו. לִרְאוֹת שֶׁתִּהְיֶה עַל סֵדֶר רָאוּי לְתַכְלִית הַמְכֻוָּן מֵאִתּוֹ.",
+      "en": "ותעבור המנחה על פניו, Yaakov rehearsed the proceedings in order to satisfy himself that it would accomplish to give the impression he had meant for it to convey.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:23",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:24",
+      "he": "וַיַּעֲבֵר אֶת אֲשֶׁר לוֹ. צִוָּה לְכֻלָּם שֶׁיַּקְדִּימוּ לָלֶכֶת לְפָנָיו לְהָלְאָה מִן הַנַּחַל, כְּמוֹ \"וַיַּעֲבֹר אֶת הַכּוּשִׁי\" (שמואל ב יח:כג).",
+      "en": "ויעבר את אשר לו, he ordered all of them to precede him in crossing the river; we have a similar construction in Samuel II 18,23 ויעבור את הכושי, “he passed the Cushite.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:25",
+      "he": "וַיִּוָּתֵר יַעֲקֹב לְבַדּוֹ. אַחֲרוֹן לְכֻלָּם לִנְסֹעַ מִן הַמַּחֲנֶה, כְּדֵי לְהַדְרִיךְ אֶת כָּל עַמּוֹ שֶׁיֵּלְכוּ עִם כָּל קִנְיָנוֹ וְלֹא יִשָּׁאֵר דָּבָר בַּמַּחֲנֶה: וַיֵּאָבֵק אִישׁ עִמּוֹ. הָיָה זֶה פֹּעַל מַלְאָךְ בְּמִצְוַת בּוֹרְאוֹ בְּלִי סָפֵק, עַל דֶּרֶךְ \"יְרֵה וַיּוֹר\" (מלכים ב יג:יז), שֶׁיִּהְיֶה נוֹשַׁע בַּה' יַעֲקֹב וְזַרְעוֹ, אַף עַל פִּי שֶׁיִּהְיֶה עִם הֶזֵּק בְּמָמוֹן שֶׁהוּא הַיְקוּם אֲשֶׁר בְּרַגְלֵיהֶם, וְעִם זֶה תִּהְיֶה הַתְּשׁוּעָה בַּסּוֹף עִם בְּרָכָה.",
+      "en": "ויותר יעקב לבדו, he was the last one to leave from the camp as he was busy directing all his family and servants and chattels to cross the fording so that nothing would be left behind. ויאבק איש עמו, this was the work of an angel at the instigation of G’d (that is why he is called איש). The description is parallel to Kings II 13,17 It is immaterial whether the instrument of the salvation is a merely symbolic one such as the arrows described in the Book of Kings which Elisha instructed King Yoash to shoot in the direction of the far away Kingdom of Aram. Salvation occurs at the end of a period of ups and downs, and though Yaakov/Israel suffered many reverses in his struggle with Esau, (in the historical global struggle between the two philosophies) in the end Yaakov triumphs. [freely translated as the author is ambiguous to my mind. Ed.] The blessing given by the angel here to Yaakov at the end of the struggle, at daybreak, symbolises the synopsis of Jewish history.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:26",
+      "he": "לֹא יָכוֹל לוֹ. לְרֹב דְּבֵקוּתוֹ תָּמִיד בָּאֵל יִתְבָּרַךְ בְּמַחֲשָׁבָה וּבְדִבּוּר: וַיִּגַּע. הוֹדִיעוֹ הַחֵטְא הֶעָתִיד בְּמַדְרִיכֵי עַמּוֹ, וּבְדַאֲגָתוֹ בָּזֶה פָּסַק הַדִּבּוּר, וַתֵּקַע כַּף יְרֵכוֹ בְּהֵאָבְקוֹ:",
+      "en": "לא יכול לו, seeing that most of Yaakov’s striving was oriented toward G’d and heavenly concerns. Both his thinking and his conversation had G’d and His will as its focus. ויגע he informed him that in the future, i.e. כף ירכו, many of his offspring would become guilty of sins against G’d. While this troubled Yaakov he momentarily digressed from his concentration on G’d so that the angel could inflict an injury upon him during his lapse of concentration.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:27",
+      "he": "לֹא אֲשַׁלֵּחֲךָ. שֶׁגְּדוֹלִים צַדִּיקִים יוֹתֵר מִמַּלְאֲכֵי הַשָּׁרֵת (סנהדרין צב:).",
+      "en": "לא אשלחך, this utterance by Yaakov confirms what the sages tell us that the righteous are greater than the ministering angels (Sanhedrin 92).",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:28",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:29",
+      "he": "לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ. לְקֵץ הַיָּמִין שֶׁתִּהְיֶה קַיָּם אַחַר אָבְדַן הָאֻמּוֹת, וּבְכֵן יִהְיֶה כְּבָר מְקֻיָּם בְּךָ עִנְיַן יַעֲקֹב, הַמּוֹרֶה קַיָּם בַּסּוֹף, וְלָכֵן לֹא יִפּוֹל עָלֶיךָ אָז עוֹד שֵׁם יַעֲקֹב לְהוֹרוֹת שֶׁתִּהְיֶה בֶּעָקֵב וּבְסוֹף כָּל הָאֻמּוֹת. כִּי אִם יִשְׂרָאֵל כִּי שָׂרִיתָ. אֲבָל יִקְרְאוּ לְךָ בְּשֵׁם יִשְׂרָאֵל בִּלְבָד, לְהוֹרוֹת שֶׁאָז כְּבָר שָׂרִיתָ עִם אֱלֹהִים כּוּ', כְּעִנְיַן (ישעיהו כד:כא) \"יִפְקֹד ה' עַל צְבָא הַמָּרוֹם בַּמָּרוֹם וְעַל מַלְכֵי הָאֲדָמָה עַל הָאֲדָמָה\":",
+      "en": "לא יעקב יאמר עוד שמך, a reference to the end of days when Israel will have survived the destruction of the gentile nations When that time comes no one ever will again use the name Yaakov for the Jewish people [and the stigma that used to be associated with that name. Ed.] The very word יעקב already contained within this message that the bearer of this name will triumph at the end. Once he has triumphed there is no more point in having a name which alludes to something which will be realised only in the future. The future will then have arrived! כי אם ישראל כי שרית, they will only refer to as “Israel.” This new name is to confirm that שרית עם אלוקים ועם אנשים, this is analogous to Isaiah 24,21 יפקוד ה' על צבא המרום במרום ועל מלכי האדמה על האדמה, “in that day the Lord will punish the host of heaven in heaven and the kings of the earth on earth.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:30",
+      "he": "הַגִּידָה נָּא שְׁמֶךָ. הַמּוֹרֶה עַל צוּרָתְךָ וְעַל הַפֹּעַל הַנִּמְשָׁךְ מִמֶּנּוּ, כְּדֵי שֶׁאֶתְבּוֹנֵן עַל מָה קַמְתָּ לְשָׂטָן, וְאָשׁוּב בִּתְשׁוּבָה וְאֶתְפַּלֵּל. לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי. כִּי הַצּוּרָה הָאִישִׁית לָנוּ הִיא מַדְרֵגַת הַשְׂכָּלָתֵנוּ אֲשֶׁר לֹא תְבֹאַר בְּשׁוּם דִּבּוּר, כְּאָמְרוֹ (שופטים יג:יח) \"וְהוּא פֶלִאי\", וְהַפֹּעַל שֶׁלָּהּ הוּא כְּפִי הָרָצוֹן הָאֱלֹהִי.",
+      "en": "הגידה נא שמך, which would describe your essence, your function, and how you would go about performing same. This would enable me to understand why you attacked me in the first place. I would then be able to do penitence for my sin, something I cannot do as long as I do not know what precisely my sin consists of. ?למה זה תשאל לשמי, our (angels) format does not in any way correspond and shed light on the level of our intelligence which cannot be explained in terms of language used by human beings. The angel confronting Manoach in Judges 13,18 summed this up in the single word: “פלאי,” it is concealed, [because it would only be misunderstood if put into words. Ed.] The angel’s activity reflects G’d’s will at the time. [Clearly, this implies that most angels perform their tasks ad hoc. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:31",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:32",
+      "he": "וַיִּזְרַח לוֹ הַשֶּׁמֶשׁ וְכוּ'. אַחַר שֶׁעָבַר אֶת פְּנוּאֵל בִּצְלִיעָה, זָרַח הַשֶּׁמֶשׁ וְנִרְפָּא, כַּאֲשֶׁר יִהְיֶה לֶעָתִיד לָבֹא, כְּאָמְרוֹ \"וְזָרְחָה לָכֶם יִרְאֵי שְׁמִי שֶׁמֶשׁ צְדָקָה וּמַרְפֵּא\" (מלאכי ג:כ).",
+      "en": "The sun shone upon him. This verse must be inverted — after he passed Penuel, still limping, the sun shone and healed him. Similarly, in the time to come the “sun” of the redemption will shine and heal the righteous.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 32:33",
+      "he": "עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל. כְּדֵי שֶׁיִּהְיֶה הַהֶיזֵק אֲשֶׁר הוּרַע בִּנְגִיעַת כַּף הַיָּרֵךְ, הֶיזֵק בְּדָבָר בִּלְתִּי נֶחְשָׁב אֶצְלֵנוּ.",
+      "en": "על כן לא יאכלו בני ישראל, in order to ensure that the damage inflicted to Yaakov’s offspring as predicted by the angel should be kept to a minimum as long as they remind themselves of the symbolic meaning of that injury suffered by Yaakov during his nocturnal encounter with this angel. [I believe that even commentators who concentrate on the plain meaning of the text, such the ones whose commentaries I am translating in these volumes, feel free to treat the text allegorically when the narrative of the Torah itself appears pointless unless we understand it in historical terms, offering moral and ethical teachings and warnings of long term significance. Ed.] Alternatively, the moral lesson is that just as the gid hanashe is totally devoid of taste, does not appeal to the palate, so that consuming it would not provide the sinner with any kind of gratification, we are taught not to second-guess G’d’s legislation by treating this commandment as not important.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:1",
+      "he": "וְעִמּוֹ אַרְבַּע מֵאוֹת אִישׁ. שֶׁלֹּא הִתְכַּפְּרוּ פָּנָיו בַּמִּנְחָה.",
+      "en": "ועמו ארבע מרות איש. To tell us that he had not been appeased even by the substantial gift Yaakov had sent him.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:2",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:3",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:4",
+      "he": "וַיָּרָץ עֵשָׂו. נֶהְפַּךְ לִבּוֹ כְּמוֹ רֶגַע בְּהַכְנָעוֹתָיו שֶׁל יַעֲקֹב, כְּעִנְיָנֵנוּ בַּגָּלוּת עִם בְּנֵי עֵשָׂו הָאוֹמֵר בְּגָבְהוֹ \"מִי יוֹרִידֵנוּ אָרֶץ\", וְהוֹרָה שֶׁנִּהְיֶה נִמְלָטִים מִיַּד חֶרֶב גַּאֲוָתוֹ בְּהַכְנָעָה וּמִנְחָה, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (תענית כ.) שֶׁאֲחִיָּהוּ הַשִּׁילוֹנִי קִלֵּל אֶת יִשְׂרָאֵל בְּקָנֶה הַנִּכְנָע לְכָל הָרוּחוֹת (מלכים א יד:טו). הֵן לוּ עָשׂוּ כֵן בִּרְיוֹנֵי בַּיִת שֵׁנִי, לֹא הָיָה נֶחֱרַב בֵּית מִקְדָּשֵׁנוּ, כְּמוֹ שֶׁהֵעִיד רַבִּי יוֹחָנָן בֶּן זַכַּאי בְּאָמְרוֹ (גיטין נו.) \"בִּרְיוֹנֵי דְבָן לָא שָׁבְקִינָן\".",
+      "en": "וירץ עשו, his attitude changed suddenly when he realised to what extent Yaakov had humbled himself before him. It is of great concern to us seeing that we live among the descendants of Esau, people who are arrogant, consider themselves invincible. Yaakov’s conduct vis a vis Esau teaches that the only way to escape the sword of Esau is through self degradation and gifts. This corresponds to what our sages taught us (Taanit 20) that the curses of the prophet Achiyah Hashiloni were more beneficial to the Jewish people than the blessing showered upon them by Bileam. Achiyah had cursed the Jewish people describing them as a reed which bends in all directions, a reference to someone demeaning himself rather than facing up to adversaries. (Kings I 14,15) If the Jewish people during the period of the second Temple had taken his advice to heart, the Temple would not have been destroyed. Rabbi Yochanan ben Zakkai testified to this when he said “if not for the militant extremists the Romans would not have destroyed the Temple.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:5",
+      "he": "מִי אֵלֶּה לָּךְ. שָׁאַל אִם הֵם בָּנָיו אוֹ עֲבָדָיו וּבְנֵי בֵיתוֹ.",
+      "en": "Who are these to you. Are they your children or your servants?.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:8",
+      "he": "מִי לְךָ כָּל הַמַּחֲנֶה? הַמַּחֲנֶה שֶׁאָמַר אֵלַי \"מִנְחָה הִיא שְׁלוּחָה לַאדֹנִי\" (בראשית לב:יט), מִי הוּא אֶצְלְךָ? אִם הוּא לְמִנְחַת כָּבוֹד אוֹ לְמִנְחַת חֶסֶד שֶׁחָשַׁבְתָּ שֶׁאֶצְטָרֵךְ?",
+      "en": "Who are these to you. Are they your children or your servants?",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:9",
+      "he": "יֶשׁ לִי רָב. וְאֵינִי צָרִיךְ: אָחִי, יְהִי לְךָ אֲשֶׁר לָךְ. שֶׁבִּהְיוֹתְךָ אָחִי לֹא תִצְטָרֵךְ לְכַבְּדֵנִי בְּמִנְחָה.",
+      "en": "יש לי רב, I most certainly do not need this gift. אחי, יהי לך אשר לך. Seeing that you are my brother you certainly do not have to put yourself out so much in order for me to make you welcome.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:10",
+      "he": "כִּרְאוֹת פְּנֵי אֱלֹהִים. כְּמִנְהָג בִּפְקוֹד אֶת הַשָּׂרִים, כְּאָמְרוֹ \"וְלֹא יֵרָאוּ פָנַי רֵיקָם\" (שמות כג:טו). וַתִּרְצֵנִי. שֶׁקִּבַּלְתַּנִי בְּסֵבֶר פָּנִים יָפוֹת, כְּעִנְיַן \"הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ\" (מלאכי א:ח), וּמִצַּד זֶה גַּם כֵּן רָאוּי שֶׁאֲקַדֵּם פָּנֶיךָ בַּמִּנְחָה.",
+      "en": "כראות פני אלוקים, as is the custom when one is granted an audience by the people in high office. The Torah already commanded that when appearing in Jerusalem three times a year, the Israelite fulfilling this commandment must not appear before G’d empty-handed. (Exodus 23,15) ותרצני, in order that you will receive me with goodwill. We have a similar construction in Maleachi 1,8 הירצך או הישא פניך?, This consideration also warrants my sending you a lavish gift.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:11",
+      "he": "וַיִּפְצַר בּוֹ. כְּדֵי שֶׁיְּקַבֵּל, כִּי הַשֹּׁחַד יְעַוֵּר וְיִקַּח, וְהַהֵפֶךְ בֶּאֱלִישָׁע כְּאָמוּר \"וַיִּפְצַר בּוֹ לָקַחַת וַיְמָאֵן\" (מלכים ב ה:טז).",
+      "en": "ויפצר בו, in order for him to accept the gift. Yaakov was aware that bribes sway people’s minds; in this case he used the bribe to blind Esau’s judgment. We encounter the very opposite with the prophet Elisha in Kings II 5,16 where he is urged to accept a well deserved gift and refuses, so that Naaman will know that a true servant of the Lord does not accept a reward for someone else’s accomplishment, i.e. G’d having cured Naaman from his leprosy.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:12",
+      "he": "נִסְעָה וְנֵלֵכָה. לְשֵׂעִיר, כְּמוֹ שֶׁהוֹרוּ נוֹשְׂאֵי הַמִּנְחָה בְּאָמְרָם גַּם הִנֵּה עַבְדְּךָ יַעֲקֹב אַחֲרֵינוּ:",
+      "en": "נסעה ונלכה, to Seir, Esau’s home. This was in line with what Yaakov’s messengers had told Esau as being their destination.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:13",
+      "he": "כִּי הַיְלָדִים רַכִּים. כִּי עָלַי מֻטָּל דְּבַר הַיְלָדִים רַכִּים וְהַצֹּאן וְהַבָּקָר עָלוֹת: וּדְפָקוּם. לִכְבוֹדְךָ שֶׁלֹּא לְעַכֶּבְךָ בַּדֶּרֶךְ.",
+      "en": "כי הילדים רכים, for it is my task to take care both of the children of tender age and of the sheep and other animals which are sensitive to overexertion. ודפקום, in your honour, not to delay you.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:18",
+      "he": "וַיָּבֹא יַעֲקֹב שָׁלֵם עִיר שְׁכֶם. תֵּכֶף שֶׁהִגִּיעַ בְּשָׁלוֹם בְּאֶרֶץ כְּנַעַן, כְּמוֹ שֶׁאָמַר (בראשית כח:כא) \"וְשַׁבְתִּי בְשָׁלוֹם\", לֹא הִמְתִּין שֶׁיִּהְיֶה בְּבֵית אָבִיו. בְּבֹאוֹ מִפַּדַּן אֲרָם. בְּעוֹד שֶׁהָיָה בַּדֶּרֶךְ לָלֶכֶת לְבֵית אָבִיו, אַף עַל פִּי שֶׁעֲדַיִן לֹא הִגִּיעַ שָׁם, הִתְחִיל לְקַיֵּם נִדְרוֹ וּבָנָה מִזְבֵּחַ כְּאָמְרוֹ \"וְהָיָה ה' לִי לֵאלֹהִים\".",
+      "en": "ויבא יעקב שלם עיר שכם, he reached the land of Israel unharmed. This was the fulfillment of the condition he had set in his vow in 28,21 ושבתי בשלום אל בית אבי, “and I will return in peace to the house of my father.” He did not wait until he had physically returned to the house of his father. בבאו מפדן ארם, while he was still on the way to his father’s house. He began to fulfill the terms of his vow by building an altar This was in accordance with his promises והיה ה' לי לאלוקים. (the last words of his vow).",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:19",
+      "he": "וַיִּקֶן אֶת חֶלְקַת הַשָּׂדֶה וַיַּצֶּב שָׁם מִזְבֵּחַ. כְּאָמְרוֹ \"אֵיךְ נָשִׁיר אֶת שִׁיר ה' כּוּ'\" (תהלים קלז:ד):",
+      "en": "ויקן את חלקת השדה, ויצב שם מזבח. A reminder of Psalms 137,4 “how can we sing the Lord’s songs on alien soil?”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 33:20",
+      "he": "וַיִּקְרָא לוֹ אֵל אֱלֹהֵי יִשְׂרָאֵל. קָרָא לוֹ בִּתְפִלָּתוֹ אֶת הָאֵל יִתְבָּרַךְ לֵאלֹהִים, כְּמוֹ שֶׁנִּרְאֶה בְּאָמְרוֹ \"וְהָיָה ה' לִי לֵאלֹהִים\" (בראשית כח:כא), וְזֶה כְּשֶׁיִּהְיֶה הוּא יִשְׂרָאֵל, שֶׁלֹּא יוּכְלוּ אוּמּוֹת הָעוֹלָם לְהַעֲבִירוֹ עַל דַּעְתּוֹ וְעַל דַּעַת קוֹנוֹ, כְּמוֹ שֶׁהִזְכִּיר בְּנִדְרוֹ לְמַעְלָה (בראשית כח:כ-כב).",
+      "en": "ויקרא לו א-ל אלו-הי ישראל. When he prayed he referred to G’d as the G’d Who is the אלו-הי ישראל, corresponding to his vow that והיה ה' לי לאלו-הים, “G’d the merciful will be accepted by me as the G’d of Justice.” This standard of being judged by the attribute of Justice commenced only at the time when Yaakov had qualified for this level of righteousness having been given the additional name of Yisrael.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:1",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:2",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:3",
+      "he": "וַתִּדְבַּק נַפְשׁוֹ. עַל הֵפֶךְ בְּאַמְנוֹן לְתָמָר אַחַר שֶׁשָּׁכַב אוֹתָהּ (שמואל ב יג:יד-טז). בְּדִינָה בַּת יַעֲקֹב. בִּשְׁבִיל שֶׁהָיְתָה בַּת יַעֲקֹב הַנִּכְבָּד בְּעֵינֵי הָאֻמּוֹת, כְּאָמְרוֹ אַחַר כָּךְ כִּי חָפֵץ בְּבַת יַעֲקֹב.",
+      "en": "ותדבק נפשו, this was the opposite of Amnon having raped Tamar whose infatuation with her turned to disgust the moment he had satisfied his biological urge. (Samuel II 13,14-16) בדינה בת יעקב, because she was the daughter of the widely respected Yaakov, someone of an international reputation. The Torah confirms this once more later in verse 19 when it describes Shechem as desiring the “daughter of Yaakov.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:5",
+      "he": "וְהֶחֱרִישׁ יַעֲקֹב עַד בֹּאָם. הֶחֱרִישׁ מִלָּצֵאת לָרִיב עַד שֶׁיָּבֹאוּ בָּנָיו וְיֵדְעוּ הַדָּבָר וְיִשְׁמְרוּ עַצְמָם מֵאַנְשֵׁי רִיבָם:",
+      "en": "והחריש יעקב עד בואם, he refrained from starting a quarrel until his sons would have been informed of what happened so that they could be on their guard against their adversaries.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:6",
+      "he": "וַיֵּצֵא חֲמוֹר. כְּשֶׁרָאָה שֶׁהֶחֱרִישׁ, וְדָאַג פֶּן יַחְרֹשׁ עָלָיו רָעָה.",
+      "en": "ויצא חמור, when he noticed that Yaakov’s reaction had been silence he began to worry about reprisals.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:7",
+      "he": "וַיִּתְעַצְּבוּ הָאֲנָשִׁים וַיִּחַר. הִנֵּה הָעִצָּבוֹן הָיָה עַל כִּי נְבָלָה עָשָׂה בְּיִשְׂרָאֵל, שֶׁהָיָה בִּזָּיוֹן אֵצֶל יִשְׂרָאֵל אַף עַל פִּי שֶׁאֵצֶל הַכְּנַעֲנִים לֹא הָיָה כֵּן, וּבִשְׁבִיל שֶׁהָיָה בִּלְתִּי מֻרְגָּל אָז לֶאֱנֹס אֶת בְּתוּלוֹת גְּדוֹלֵי הַדּוֹר, כְּאָמְרוֹ וְכֵן לֹא יֵעָשֶׂה, לְפִיכָךְ חָרָה לָהֶם עַל שֶׁנַּעֲשְׂתָה כָּזֹאת נֶגְדָּם.",
+      "en": "ויתיצבו האנשים ויחר, the sadness and sorrow described by the Torah as the brothers’ reaction pertained to the despicable deed that had been perpetrated against a member of Yisrael’s family. This was in spite of the fact that whereas Jews do not rape unmarried virgins, gentiles are known to be guilty of this. Seeing that even in gentile circles it was taboo to rape the daughters of prominent citizens, the Torah adds the words וכן לא יעשה, that such a thing was totally unacceptable. Their anger, ויחר, therefore was turned against the perpetrators and against those who had condoned the act.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:8",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:9",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:10",
+      "he": "וּסְחָרוּהָ. עִם הֱיוֹת הַסְּחוֹרָה אָז בִּלְתִּי מֻתֶּרֶת לְגֵרִים, כְּאָמְרָם (בבא בתרא כא:): \"בַּר מָתָא אַבַּר מָתָא אַחֲרִיתִי מָצֵי מְעַכֵּב:\"",
+      "en": "וסחרוה,. Event though normally, newcomers were not allowed to engage in the kind of commerce or artisanship which would compete with that practiced by the local inhabitants. We have this principle in Baba Batra 21, where it is spelled out as the right of the local inhabitant who feels economically threatened by competition from a new immigrant. He is accorded the right to lodge a complaint against the newcomer practicing his trade in his town. [an ancient form of the policy of “closed shop.” Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:11",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:12",
+      "he": "הַרְבּוּ עָלַי מְאֹד. כְּמֵשִׁיב לָכֶם אָשָׁם עַל מַה שֶׁחָטָאתִי לָכֶם.",
+      "en": "הרבה עלי מאד, as a penance he would be prepared to pay over and above the customary amount of a dowry.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:13",
+      "he": "בְּמִרְמָה. שֶׁאָלוּ שֶׁיִּמּוֹלוּ בְּחָשְׁבָם שֶׁלֹּא יְקַבְּלוּ עֲלֵיהֶם אוֹ שֶׁלֹּא יוּכְלוּ לְפַתּוֹת אַנְשֵׁי עִירָם לָזֶה: וַיְדַבֵּרוּ אֲשֶׁר טִמֵּא. הֵשִׁיבוּ שֶׁמִּינֵי הַנְּדִיבוּת שֶׁאָמְרוּ שְׁכֶם וְאָבִיו לַעֲשׂוֹת, לֹא הָיוּ רְאוּיִים עַתָּה אַחֲרֵי שֶׁטִּמֵּא, כְּדֶרֶךְ אֶתְנַן זוֹנָה.",
+      "en": "במרמה, they demanded that the people circumcise themselves expecting them to refuse. Alternatively, they thought that Shechem and Chamor, although prepared themselves to circumcise themselves, would not be able to convince the townsfolk to follow their example. וידברו, אשר טמא; they said that the kind of ipso facto voluntary circumcision which Shechem and his father were willing to perform on themselves was not relevant after Shechem had already defiled their sister. They considered this as in the category of אתנן זונה, offering the price paid to a whore as a sacrifice on G’d’s altar.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:14",
+      "he": "כִּי חֶרְפָּה הִיא לָנוּ. שֶׁיִּהְיֶה נִרְאֶה שֶׁאֵין אִישׁ הָגוּן בֵּין הַמּוּלִים לְהִתְחַתֵּן עִמּוֹ:",
+      "en": "כי חרפה היא לנו, it would appear that none of the circumcised men among us were fit to marry our sister.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:17",
+      "he": "וְלָקַחְנוּ אֶת בִּתֵּנוּ. אַף עַל פִּי שֶׁהִיא עַתָּה בְּבֵיתְכֶם, נִקַּח אוֹתָהּ מֵעִמָּכֶם: וְהָלָכְנוּ. עִם כָּל עָשְׁרֵנוּ שֶׁלֹּא תֵּהָנוּ בּוֹ.",
+      "en": "ולקחנו את בתנו, even though she is at this point in time locked up in your house we will liberate her from you. והלכנו, with all our wealth which you would otherwise benefit from.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:19",
+      "he": "וְהוּא נִכְבָּד. וְאַף עַל פִּי כֵן לֹא אֵחַר לַעֲשׂוֹת, כִּי חָפֵץ בְּבַת יַעֲקֹב:",
+      "en": "והוא נכבד, in spite of his high reputation he did not hesitate to agree to circumcise himself, because he had taken such a liking to the daughter of Yaakov.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:20",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:21",
+      "he": "שְׁלֵמִים הֵם אִתָּנוּ. בְּשָׁלוֹם הֵם אִתָּנוּ וְאֵין בְּלִבָּם לִתְבּוֹעַ עֶלְבּוֹנָם.",
+      "en": "שלמים הם אתנו, they are of a totally peaceful disposition towards us. They do not intend to revenge themselves for the indignity their family has suffered.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:23",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:24",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:25",
+      "he": "וַיַּהַרְגוּ כָּל זָכָר. שֶׁלֹּא מָלוּ אֶלָּא עַל תִּקְוָה לְהַשִּׂיג מִקְנֵיהֶם וְקִנְיָנָם, כְּדִבְרֵי חֲמוֹר וּשְׁכֶם.",
+      "en": "ויהרגו כל זכר, these men had not circumcised themselves in order to become Jews and embrace monotheism but only in order to lay their hands on the vast possessions of the family of Yaakov, as their leaders Chamor and Shechem had promised them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:26",
+      "he": "וְאֶת חֲמוֹר וְאֶת שְׁכֶם בְּנוֹ הָרְגוּ. שֶׁבִּקְשׁוּם וּמְצָאוּם.",
+      "en": "ואת חמור ואת שכם בנו הרגו, they went looking for them and found them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:27",
+      "he": "הָעִיר אֲשֶׁר טִמְּאוּ. כִּי לוּלֵי הָיָה כְּבָר דָּבָר כָּזֶה בִּלְתִּי נִמְאָס אֶצְלָם, לֹא הָיָה שְׁכֶם עוֹשֶׂה כֵּן. אָמְנָם הָיָה זֶה גְּמוּל מֻרְגָּל אֶצְלָם, שֶׁלָּקְחוּ רָאשֵׁי הָעִיר בְּנוֹת הָעָם בִּלְתִּי רְשׁוּת לְנָשִׁים אוֹ לְפִילַגְשִׁים, עַל דֶּרֶךְ (בראשית ו:ב) \"וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ\".",
+      "en": "העיר אשר טמאו, unless according to the mores of Shechem (city) such behaviour was no longer considered despicable, Schechem would not have done what he did. He felt sure he could get away with it, as his townspeople would not object. However raping virgins was commonplace in Shechem already. They behaved in the manner described in Genesis 6,2 “they took women for themselves from wherever they chose.” [the punishment for this type of violence had been the deluge. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:28",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:29",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:30",
+      "he": "לְהַבְאִישֵׁנִי. שֶׁיֹּאמְרוּ שֶׁשִּׁקַּרְנוּ בֶּאֱמוּנָתֵנוּ אַחַר שֶׁנִּמּוֹלוּ:",
+      "en": "להבאישני, the local population would accuse us of having gone back on our agreement after the people of Shechem had circumcised themselves.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 34:31",
+      "he": "הַכְזוֹנָה. שֶׁאֵין רָאוּי לִתְבֹּעַ עֶלְבּוֹנָהּ, יַעֲשֶׂה עַם הָאָרֶץ אֶת אֲחוֹתֵנוּ? שֶׁאֵינָהּ זוֹנָה וְרָאוּי לִתְבֹּעַ עֶלְבּוֹנָהּ, וְשֶׁהִיא אָחוֹת לָנוּ וְרָאוּי לָנוּ לִתְבֹּעַ עֶלְבּוֹנָהּ. וְהִנֵּה כְּשֶׁיִּתְבּוֹנֵן יוֹשֵׁב הָאָרֶץ בְּאֵלֶּה, אֵין רָאוּי שֶׁיִּתְקוֹמֵם.",
+      "en": "?הכזונה, only a harlot does not have anyone standing up in her defense, avenging violence done to her. יעשה, “shall the people who you are afraid of rising up against us be allowed to get away with such conduct? את אחותנו, who was not a harlot. It is incumbent upon us to avenge her disgrace. Once the inhabitants of the region will understand this they will have no reason to attack us.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:1",
+      "he": "וְשֶׁב שָׁם. לְכַוֵּן דַּעְתְּךָ קֹדֶם שֶׁתִּבְנֶה הַמִּזְבֵּחַ, כְּעִנְיַן אָמְרָם זִכְרוֹנָם לִבְרָכָה: חֲסִידִים הָרִאשׁוֹנִים הָיוּ שׁוֹהִים שָׁעָה אַחַת וּמִתְפַּלְּלִים כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם (ברכות ל:). וַעֲשֵׂה שָׁם מִזְבֵּחַ לָאֵל הַנִּרְאֶה אֵלֶיךָ בְּבָרְחֲךָ. לָתֵת הוֹדָאָה עַל שֶׁקִּיֵּם לְךָ הַהַבְטָחָה שֶׁעָשָׂה שָׁם, כְּעִנְיַן אָמְרָם (ברכות נד.) מְבָרֵךְ \"בָּרוּךְ שֶׁעָשָׂה לִי נֵס בַּמָּקוֹם הַזֶּה\".",
+      "en": "ושב שם. An invitation to prepare himself mentally and spiritually before beginning to build the altar that he had in mind to erect. This corresponds to what our sages have described as being the manner in which they prepared for prayer and subsequently unwound before pursuing mundane activities. According to Berachot 30 they spent an hour “gearing up” before commencing their prayers and then spent an hour unwinding before going about the business of earning their daily bread. ועשה שם מזבח לא-ל הנראה אליך בברחך, in order to give thanks to G’d Who has kept His promise which He gave you on that occasion. We have a long standing tradition that when one passes a location where one had once experienced G’d’s help in a clearly supernatural format one is to recite a special benediction giving thanks to G’d for having done so, even though the event may have taken place a long time ago. (Berachot 54).",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:2",
+      "he": "הָסִירוּ אֶת אֱלֹהֵי הַנֵּכָר. שֶׁלְּקַחְתֶּם מִשְּׁכֶם, אַף עַל פִּי שֶׁבִּטְלוּ אוֹתָם עוֹבְדֵיהֶם כְּמוֹ נְשֵׁי שְׁכֶם, כְּאָמְרָם \"גּוֹי מְבַטֵּל עֲבוֹדָה זָרָה בְּעַל כָּרְחוֹ\" (עבודה זרה מג., נב.), וְלָכֵן הֵם מֻתָּרִים בַּהֲנָאָה, מִכָּל מָקוֹם הָסִירוּ אוֹתָם מִקִּרְבְּכֶם עַתָּה בְּלֶכְתֵּנוּ לְבֵית אֵל, כְּדֵי שֶׁתִּרְחַק מִלִּבְּכֶם כָּל מַחֲשֶׁבֶת עֲבוֹדָה זָרָה:",
+      "en": "הסירו את אלוהי הנכר, which you have taken from Shechem. Even though the adherents of these idols had already disowned them, (the surviving females of the city of Shechem), and we know from Avodah Zarah 43, and 52 that such items are subsequently permitted to Jews, Yaakov commanded his household to get rid of them before proceeding to Bet El. He wanted all his people to mentally completely dissociate themselves from anything connected wit items formerly used in idolatrous pursuits.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:3",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:4",
+      "he": "וַיִּטְמֹן אוֹתָם יַעֲקֹב. וְלֹא אִבְּדָם מִפְּנֵי שֶׁהָיוּ כְּבָר מְבֻטָּלִים וּמֻתָּרִין בַּהֲנָאָה.",
+      "en": "ויטמון אותם יעקב, he buried them instead of destroying them. Seeing that they no longer had the halachic status of being idolatrous artifacts they did not need to be destroyed",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:5",
+      "he": "וַיִּסָּעוּ וַיְהִי חִתַּת אֱלֹהִים. כִּי בְּנָסְעָם מִשְּׁכֶם שֶׁהָיְתָה עִיר מִבְצָר, הָיְתָה סַכָּנָה שֶׁיִּתְקוֹמְמוּ הַסְּבִיבוֹת עֲלֵיהֶם בַּדֶּרֶךְ, וְלָכֵן הֻצְרַךְ אָז שֶׁתִּהְיֶה חִתַּת אֱלֹהִים עֲלֵיהֶם.",
+      "en": "They began their journey. As long as they were behind the walls of Shechem they were safe, but now they were in need of the “terror of Elokim”.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:7",
+      "he": "וַיִּקְרָא לַמָּקוֹם. לְאוֹתוֹ מָלוֹן אוֹרְחִים שֶׁלָּן בּוֹ בְּלֶכְתּוֹ לְחָרָן, כְּאָמְרוֹ \"וַיִּפְגַּע בַּמָּקוֹם\" (בראשית כח:יא). אֵל בֵּית אֵל. מִקְדָּשׁוֹ שֶׁל בֵּית אֵל.",
+      "en": "ויקרא למקום, to this inn for wayfarers where he had spent the night on his way from home some 34 years ago when the Torah had referred to it as ויפגע במקום (28,11) א-ל בית א-ל, “the sanctuary of Bet El.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:8",
+      "he": "אַלּוֹן בָּכוּת. וְזֶה הִפְסִיק הַגָּלוּת הַשְּׁכִינָה, כְּאָמְרָם רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה שֶׁאֵין הַשְּׁכִינָה שׁוֹרָה מִתּוֹךְ עַצְבוּת (שבת ל:).",
+      "en": "אלון בכות. Mourning results in the withdrawal of the Divine Presence as we know from Shabbat 30. Until Yaakov had passed this tree after mourning Deborah the Divine Presence did not return and accompany him. [He was deprived of such a Presence during all the 22 years that he was mourning for his son Joseph, thinking him dead. Ed.].",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:9",
+      "he": "וַיֵּרָא אֱלֹהִים. אַחַר עֲבוֹר הַבֶּכִי. אֶל יַעֲקֹב עוֹד. כְּמוֹ שֶׁנִּרְאָה אֵלָיו שָׁם בְּלֶכְתּוֹ לְחָרָן, כְּאָמְרוֹ הַנִּרְאֶה אֵלֶיךָ בְּבָרְחֲךָ: בְּבֹאוֹ מִפַּדַּן אֲרָם. אֲבָל בְּפַדַּן אֲרָם לֹא נִגְלָה אֵלָיו, אַף עַל פִּי שֶׁדִּבֵּר עִמּוֹ עַל יְדֵי מַלְאָךְ, כְּאָמְרוֹ \"וַיֹּאמֶר אֵלַי מַלְאַךְ הָאֱלֹהִים בַּחֲלוֹם\" (בראשית לא:יא):",
+      "en": "וירא אלוקים, after the mourning had concluded. The Torah, in retrospect, by using this formulation, tells us that the dream Yaakov had had when in flight, on the way to Charan, had in fact not been merely a dream but a vision. בבאו מפדן ארם. G’d only appeared to him after leaving Lavan. While he was in Lavan’s city he did not rate such visions. The fact that G’d had spoken to him by means of an intermediary, an angel even while still in Padan Aram, is not to be confused with the level of a vision described as “G’d appeared to him.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:10",
+      "he": "שִׁמְךָ יַעֲקֹב. אֲנִי מְקַיֵּם לְךָ עַתָּה זֶה הַשֵּׁם, שֶׁתִּהְיֶה קַיָּם אַתָּה לְבַדְּךָ בְּעָקֵב וּבְסוֹף כִּלְיוֹן כָּל שְׁאָר הָאֻמּוֹת, כְּאָמְרוֹ (ירמיהו מו:כח) \"כִּי אֶעֱשֶׂה כָלָה בְּכָל הַגּוֹיִם וְאוֹתְךָ לֹא אֶעֱשֶׂה כָלָה\": לֹא יִקָּרֵא שִׁמְךָ עוֹד יַעֲקֹב. וְכַאֲשֶׁר יִתְקַיֵּם עִנְיַן שֵׁם יַעֲקֹב שֶׁתִּשָּׁאֵר בַּסּוֹף אַתָּה לְבַדְּךָ, כְּאָמְרוֹ \"הֶן עָם לְבָדָד יִשְׁכֹּן\" (במדבר כג:ט), אָז לֹא יִהְיֶה עִנְיָן עוֹד לְשֵׁם יַעֲקֹב. כִּי אִם יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ. שֶׁתִּשְׂתָּרֵר עַל כָּל פְּלִיטֵי הָאֻמּוֹת, כְּאָמְרוֹ \"וְקַרְקַר כָּל בְּנֵי שֵׁת\" (במדבר כד:יז). וַיִּקְרָא אֶת שְׁמוֹ יִשְׂרָאֵל. בֵּרַךְ אוֹתוֹ שֶׁיַּתְחִיל קְצָת עִנְיַן שֵׁם יִשְׂרָאֵל מֵעַכְשָׁיו, שֶׁיּוּכַל נֶגֶד הַמִּתְקוֹמְמִים עָלָיו גַּם בְּאֶרֶץ לֹא לוֹ, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סנהדרין עו): \"כָּל מָקוֹם שֶׁהָלְכוּ נַעֲשׂוּ שָׂרִים לַאֲדוֹנֵיהֶם\".",
+      "en": "שמך יעקב, at this time I make your name Yaakov an eternal name, i.e. after all the other nations will have perished you alone will remain. This will give a positive meaning to the word עקב, “heel,” meaning something that will survive all that precedes it. Compare Jeremiah 46,28 כי אעשה כלה בכל הגוים ואותך לא אעשה כלה, “when I shall put an end to all the nations, I will not put an end to you. לא יקרא עוד שמך יעקב, when the time will come when Yaakov will be the only surviving nation on earth as Bileam said in Numbers 25,9 הן עם לבדד ישכון, “this is a nation which will dwell in solitary splendour,” there will no longer be any significance to the name Yaakov. [as there are no others to relate its meaning to. Ed.] כי אם ישראל יהיה שמך, seeing that you will rule, תשתרר over the remnants of all the nations that have ceased to exist as such. This also corresponds to the previous prophecy of Bileam in Numbers 24,17 וקרקר כל בני שת, “he (Yaakov) will smash all the foundation of the sons of Seth (mankind.) ויקרא את שמו ישראל, He blessed him in that the predictions which were meant for the end of time, were beginning to be implemented already from that time on, and not only while Yaakov was on holy soil in the land of Canaan, but even when he would be outside (as in Egypt). From this time on no one who would attack Yaakov and his family would meet with success. This was the meaning of what our sages said in Sanhedrin 76 that ”wherever Yaakov and his family walked on they became princes over their masters,” and this is what the prophet Jeremiah bewailed in Lamentations 1,1 as what the Jewish people lost as a result of the destruction of the Temple.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:11",
+      "he": "אֲנִי אֵל שַׁדַּי. בִּשְׁמִי אֲנִי נִשְׁבָּע, כְּעִנְיַן \"וְאָמַרְתִּי חַי אָנֹכִי לְעוֹלָם\" (דברים לב:מ), וּבָזֶה בִּלְבַד מָצָאנוּ שְׁבוּעַת הָאֵל יִתְבָּרַךְ לְיַעֲקֹב. פְּרֵה וּרְבֵה. וְלֹא תִדְאַג שֶׁיִּכְלֶה זַרְעֲךָ בְּיַד גּוֹיִם, גַּם כְּשֶׁיִּהְיֶה הַזֶּרַע בִּלְתִּי הָגוּן. לְפִיכָךְ לֹא תֶחְדַּל מִלִּפְרוֹת וְלִרְבּוֹת, עַל הֵפֶךְ עֲצַת רַבִּי יִשְׁמָעֵאל, כְּאָמְרוֹ: \"מִיּוֹם שֶׁפָּשְׁטָה מַלְכוּת הָרְשָׁעָה דִּין הוּא שֶׁנִּגְזוֹר עַל עַצְמֵינוּ שֶׁלֹּא לִשָּׂא אִשָּׁה וּלְהוֹלִיד בָּנִים, וְנִמְצָא זַרְעוֹ שֶׁל אַבְרָהָם [אָבִינוּ] כָּלֶה מֵאֵלָיו\". וְזֶה כִּי בִּהְיוֹתִי אֵל שַׁדַּי, בִּלְתִּי צָרִיךְ לְנוֹשֵׂא מוּכָן, אֶעֱשֶׂה מַה שֶּׁאָמַרְתִּי עַל כָּל פָּנִים גַּם בִּלְתִּי נוֹשֵׂא מוּכָן. וּמְלָכִים מֵחֲלָצֶיךָ יֵצֵאוּ. אֲנָשִׁים הֲגוּנִים לַמַּלְכוּת וְלֹא תִצְטָרֵךְ לָתֵת עָלֶיךָ אִישׁ נָכְרִי, כְּעִנְיַן בְּמַלְכֵי אֱדוֹם (בראשית לו:לו-לז), שַׂמְלָה מִמַּשְׂרֵקָה, שָׁאוּל מֵרְחוֹבוֹת הַנָּהָר וְזוּלָתָם:",
+      "en": "אני א-ל שדי, I swear by My own name when I swear an oath. One such example is found in Deut. 32,40 ואמרתי חי אנכי לעולם, “as I have said, I, the One Who lives forever.” G’d’s oaths to Yaakov were always by the attribute Shadday. Be fruitful and increase. Do not be afraid that your offspring will be destroyed, even if they are imperfect, because the name “Almighty Shakkai” indicates that I keep My word even to the unworthy. ומלכים מחלציך יצאו. This blessing means that the Jewish people would always possess persons who are fit to occupy the throne, as opposed to the Edomites who, as we know from 36,36-37, had to rely repeatedly on outsiders to become their kings.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:12",
+      "he": "וּלְזַרְעֲךָ אַחֲרֶיךָ אֶתֵּן אֶת הָאָרֶץ. לְקֵץ הַיָּמִין אֶתֵּן אֶת לְזַרְעֲךָ כָּל כַּדּוּר הָאָרֶץ, לֹא אֶרֶץ יִשְׂרָאֵל בִּלְבַד, כְּאָמְרוֹ (בראשית כח:יד) \"וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה\", וּכְאָמְרוֹ (במדבר כד:יז) \"וְקַרְקַר כָּל בְּנֵי שֵׁת\".",
+      "en": "ולזרעך אחריך אתן את הארץ, in due course, at the end of time, I will give your descendants the entire globe, not only the land of Israel. This was the real meaning of 28,14 “you will spread out to the west to the east and to the north and to the south.” This is also what Bileam prophesied when he said in Numbers 24,17 that Yaakov would uproot all the descendants of Seth, i.e. all of mankind.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:13",
+      "he": "בַּמָּקוֹם אֲשֶׁר דִּבֶּר אִתּוֹ. בְּצֵאתוֹ לָלֶכֶת לְחָרָן, בְּאוֹתוֹ הַמָּלוֹן הָיָה הַדִּבּוּר שָׁם. וַיֵּרָא אֱלֹהִים וְשָׁם נִסְתַּלֵּק, וּלְפִיכָךְ הִצִּיב מַצֵּבָה בְּאוֹתוֹ הַמָּקוֹם בְּעַצְמוֹ.",
+      "en": "במקום אשר אתו, when he was on his way to Charan (34 years earlier) at that same inn. There G’d appeared to him (verse 9) and there G’d’s Presence departed from him. This is why he erected a monument at that very site.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:14",
+      "he": "וַיַּסֵּךְ עָלֶיהָ נֶסֶךְ. וְהִשְׁלִים נִדְרוֹ שֶׁנָּדַר בְּאָמְרוֹ \"וְהָאֶבֶן הַזֹּאת אֲשֶׁר שַׂמְתִּי מַצֵּבָה יִהְיֶה בֵּית אֱלֹהִים\" (בראשית כח:כב). כִּי בָּזֶה הֵכִין אֶת הַמָּקוֹם שֶׁרָאוּי שֶׁיְּקִימֶנָּה שָׁם, כְּעִנְיַן דָּוִד בְּהֵרָאוֹת אֵלָיו הַמַּלְאָךְ בְּגֹרֶן אֲרַוְנָה הַיְבוּסִי:",
+      "en": "ויסך עליו נסך, he poured a libation of wine on it. Thereby he completed paying his vow in which he had vowed to make out of the stone which had served as his pillow a monument, meaning “a house of G’d.” (28,22). By anointing this monument he had, so to speak, laid the foundation of the house of G’d to be built there in the future. What he did here was similar to what David did in his time when he prepared the foundation for the Temple his son Solomon was to build after his death in accordance with what the angel had told him at the threshing ground of Arona the Jebusite.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:17",
+      "he": "אַל תִּירְאִי. שֶׁיִּהְיֶה הַיֶּלֶד נְקֵבָה מִפְּנֵי שֶׁהַחֲבָלִים מְרֻבִּים, כְּאָמְרָם רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה (נדה לא.) חֶבְלֵי נְקֵבָה מְרֻבִּים מִשֶּׁל זָכָר. כִּי גַם זֶה לָךְ בֵּן. אַף עַל פִּי שֶׁחֶבְלָיו מְרֻבִּים גַּם הוּא זָכָר:",
+      "en": "אל תראי, do not be afraid that the infant about to be born will be a girl although your pains are so great that there is reason for suspecting this. The Talmud in Niddah 31 claims that the birth pangs associated with the birth of female children are greater than those associated with the birth of male children. כי גם זה לך בן, even though you are experiencing all these pains, the child is a male.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:19",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:20",
+      "he": "מַצֵּבָה עַל קְבוּרָתָהּ. מִפְּנֵי שֶׁהַקֶּבֶר עַל אֵם הַדֶּרֶךְ, וְיֵשׁ לָחוּשׁ לְחִטּוּטֵי קְבָרִי.",
+      "en": "מצבה על קבורתה, this was for protection against the grave being damaged or exhumed by people doing this for nefarious purposes, as it was located at the crossroads where there is a lot of traffic. [I presume it could not be in a field as Yaakov would not violate private property to bury his dead. Ed.]",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:22",
+      "he": "וַיִּשְׁמַע יִשְׂרָאֵל וַיִּהְיוּ בְנֵי יַעֲקֹב שְׁנֵים עָשָׂר. אַף עַל פִּי שֶׁשָּׁמַע, לֹא הִפִּילוֹ מִמִּנְיַן בָּנָיו, כִּי לֹא הָיָה סָפֵק אֶצְלוֹ שֶׁעָשָׂה תְּשׁוּבָה לְאַלְתַּר, וְלֹא נֶעְדַּר מִמִּנְיַן בְּנֵי יַעֲקֹב הָעֲתִידִים לְהִתְקַיֵּם בְּעָקֵב וּבְסוֹף כָּל הָאוּמּוֹת.",
+      "en": "And Yisrael heard. Nevertheless, he did not cease to count Reuvein among his sons because he had no doubt that he repented immediately.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:23",
+      "he": "בְּכוֹר יַעֲקֹב רְאוּבֵן. שֶׁלֹּא נָפַל מִן הַבְּכוֹרָה בְּדִינֵי שָׁמַיִם מִפְּנֵי הַתְּשׁוּבָה הַמַּגַּעַת עַד כִּסֵּא הַכָּבוֹד, וְלֹא נָפַל מִמֶּנָּה אֲפִלּוּ בָּעוֹלָם הַזֶּה עַד שֶׁהִפִּילוֹ יַעֲקֹב אָבִיו בְּדִינֵי אָדָם, כְּעִנְיַן כָּל מִי שֶׁהָיָה חַיָּב נִדּוּי שֶׁלֹּא הָיָה מְנֻדֶּה עַד שֶׁיְּנַדֵּהוּ חָכָם בַּדּוֹר, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (מועד קטן טז.) מְנָלַן דִּמְשַׁמְּתִינָן דִּכְתִיב \"אוֹרוּ מֵרוֹז\" (שופטים ה:כג), דְּהָכִי סָבַר גַּבְרָא רַבָּא פְּלַנְיָא דִּכְתִיב \"אָמַר מַלְאַךְ ה'\", וְכֵן הוֹרוּ הָאַחֲרוֹנִים:",
+      "en": "בכור יעקב ראובן, as far as Heaven was concerned Reuven did not suffer consequences because he had repented forthwith. He also did not suffer really in this world, i.e. on earth, until on his deathbed Yaakov punished him by depriving him of the material benefits enjoyed by the first born in that he inherits an extra share of his father’s estate. This punishment was withheld in accordance with the principle that anyone guilty of being ostracised by the community is not actually ostracised until the leading sage of the generation declares him to be so. (Moed Katan 16) This is based on Judges 5,23 where Devorah, the ruling judge of Israel, curses the inhabitants of a certain place called מרוז who had failed to answer her call to arms against the army of Siserah, general of Yavin, King of the Canaanites who had been oppressing the Israelites. The מלאך ה' she quotes in that verse is the leader of the generation, herself in this instance.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:24",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:25",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:26",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:27",
+      "he": "אֲשֶׁר גָּר שָׁם אַבְרָהָם וְיִצְחָק. כִּי אָמְנָם זִכְרוֹן חַסְדֵי הַצַּדִּיקִים בְּאֶרֶץ מְגוּרֵיהֶם מֵטִיב לִבְנֵיהֶם שֵׁם טוֹב וְאַהֲבַת חֶסֶד בְּעֵינֵי יוֹשְׁבֵי הָאָרֶץ, הֵפֶךְ הָרְשָׁעִים שֶׁנֶּאֱמַר בָּהֶם (ישעיהו יד:כא) \"הָכִינוּ לְבָנָיו מַטְבֵּחַ בַּעֲוֹן אֲבוֹתָם בַּל יָקוּמוּ וְיִירְשׁוּ אָרֶץ\":",
+      "en": "Where Avraham and Yitzchok lived. Righteous forebears stand a person in good stead among his neighbors.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:28",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 35:29",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:1",
+      "he": "אֵלֶּה תוֹלְדוֹת. עִנְיָנָיו וּמִקְרָיו, כְּעִנְיַן \"מַה יֵּלֶד יוֹם\" (משלי כז:א). עֵשָׂו הוּא אֱדוֹם. לְעוֹלָם נִבְהָל לְהוֹן תַּאֲווֹתָיו הַנִּפְסָדוֹת, כְּמוֹ שֶׁעָשָׂה בְּיוֹם שֶׁנִּקְרָא אָדוֹם, שֶׁבִּהְיוֹתוֹ עָיֵף בַּעֲסָקָיו הָרָעִים לֹא הִכִּיר הָעֲדָשִׁים לְהַזְכִּירָם בִּשְׁמָם (בראשית כה:ל).",
+      "en": "ואלה תולדות, a reference to developments in the clan started by Esau, both in people, possessions and political influence. The word תולדות in this context is analogous to “מה ילד היום,” “what the day brings.” (Proverbs 27,1) עשו הוא אדום, someone always addicted to realise all his material desires, satiate his lust. [the author interprets this as the justification for the Torah repeating this information which we had been given in already 25,30. Ed.] The overpowering desire of Esau for what attracted his eye was demonstrated when he could not remember the name “lentils” when he was tired, demanding to be given from “this red, red stuff.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:2",
+      "he": "אֶת אָהֳלִיבָמָה בַּת עֲנָה. הִיא הָיְתָה מִבְּנֵי שֵׂעִיר הַחוֹרִי, וְעַל יָדָהּ הָלַךְ עֵשָׂו לְאֶרֶץ שֵׂעִיר, כְּאָמְרוֹ וַיֵּשֶׁב עֵשָׂו בְּהַר שֵׂעִיר, וּבָנָיו אַחֲרָיו הִשְׁמִידוּ אֶת הַחוֹרִי, כְּאָמְרוֹ \"כַּאֲשֶׁר עָשָׂה לִבְנֵי עֵשָׂו הַיּוֹשְׁבִים בְּשֵׂעִיר אֲשֶׁר הִשְׁמִיד אֶת הַחוֹרִי מִפְּנֵיהֶם\" (דברים ב:יב), וְלָזֶה חָזַר וְאָמַר וְאֵלֶּה תּוֹלְדוֹת עֵשָׂו אֲבִי אֱדוֹם בְּהַר שֵׂעִיר. וּמָנָה הָאַלּוּפִים כִּי בָנָיו אַחֲרָיו הָיוּ שֶׁכָּבְשׁוּ, וְנַעֲשֵׂית תִּמְנַע פִּילֶגֶשׁ, וְנַעֲשׂוּ תּוֹלְדוֹת עֵשָׂו אַלּוּפִים.",
+      "en": "ואת אהליבמה בת ענה. She was a member of the tribe of the Chori. She became Esau’s entry card to the whole region of Mount Seir. This is why the Torah reports already in verse 8 that Esau now settled in Mount Seir. His own children and grandchildren subsequently wiped out all the other members of that tribe that had not intermarried with his descendants. This is the reason why the Torah repeats in verse 9 ואלה תולדות עשו אבי אדום בהר שעיר, to inform us obliquely that in the interval Esau had conquered all these people and that Timna became his son’s concubine. Esau’s descendants now became אלופים, “great chiefs.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:3",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:4",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:5",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:6",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:7",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:8",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:9",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:10",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:11",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:12",
+      "he": "וְתִמְנַע הָיְתָה פִילֶגֶשׁ. שֶׁהָיָה אֱלִיפַז מֵהַכּוֹבְשִׁים אֶת הָאָרֶץ, וְלָקַח אֶת תִּמְנַע אֲחוֹת הָאַלּוּפִים, וְכָבַשׁ אוֹתָהּ לְפִילֶגֶשׁ.",
+      "en": "ותמנע היתה פלגש, Eliphaz was one of the conquerors of that land and Timna a sister of the אלופים of the original inhabitants of the region fell to him as a conquest and became his concubine.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:13",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:14",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:15",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:16",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:17",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:18",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:19",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:20",
+      "he": "אֵלֶּה בְנֵי שֵׂעִיר הַחֹרִי. הִזְכִּיר בְּשֵׁם הַגִּבּוֹרִים שֶׁהָיוּ אָז אַנְשֵׁי הַשֵּׁם, לְהוֹדִיעַ שֶׁאַף עַל פִּי כֵן הִשְׁמִידוּם בְּנֵי עֵשָׂו בִּרְצוֹן הָאֵל יִתְבָּרַךְ, כְּאָמְרוֹ \"כַּאֲשֶׁר עָשָׂה לִבְנֵי עֵשָׂו הַיּוֹשְׁבִים בְּשֵׂעִיר וְכוּ'\" (דברים ב:כב):",
+      "en": "אלה בני שעיר החורי, the reason the Torah lists the outstanding people of that region is to show that Esau overpowered them in spite of their prowess. Obviously, this must have been G’d’s will, as the Torah testifies in Deuteronomy 2,22 כאשר עשה לבני עשו היושבים בשעיר, “as He did on behalf of the sons of Esau who are now living in Seir.”",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:21",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:22",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:23",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:24",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:25",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:26",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:27",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:28",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:29",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:30",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:31",
+      "he": "וְאֵלֶּה הַמְּלָכִים. הוֹדִיעַ שֶׁהֻצְרְכוּ לְהַמְלִיךְ אֲנָשִׁים נָכְרִים מִבְּלִי אֵין בֵּינֵיהֶם רָאוּי לִמְלוֹךְ, וְשֶׁאֵין מַעֲמִידִים מֶלֶךְ בֶּן מֶלֶךְ. לִפְנֵי מְלׇךְ מֶלֶךְ. קוֹדֶם שֶׁיִּמְלוֹךְ מֹשֶׁה עֲלֵיהֶם בְּמִצְוַת הָאֵל יִתְבָּרַךְ, כְּאָמְרוֹ \"וַיְצַוֵּם אֶל בְּנֵי יִשְׂרָאֵל\" (שמות ו:כג), עַל דֶּרֶךְ \"וְצִוְּךָ לְנָגִיד\" (שמואל א כה:ל). אָמְנָם כְּשֶׁמֶּלֶךְ מָלַךְ, חָדְלָה מַלְכוּת עֵשָׂו וְהָיוּ לוֹ אַלּוּפִים, כְּעִנְיַן \"וּלְאֹם מִלְאֹם יֶאֱמָץ\" (בראשית כה:כג).",
+      "en": "ואלה המלכים, the Torah informs us that the Edomites had to appoint outsiders, members of other tribes, as their kings, seeing that they did not find a suitable personage for such a task among their own. Not only that, but none of the kings whom they did appoint raised a son fit to take over the position of king from his father. Before any king reigned. Before Moshe reigned over them.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:32",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:33",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:34",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:35",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:36",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:37",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:38",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:39",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:40",
+      "he": "וְאֵלֶּה שְׁמוֹת אַלּוּפֵי עֵשָׂו... לִמְקֹמֹתָם בִּשְׁמֹתָם. שֶׁלֹּא הָיוּ חֲשׁוּבִים לְהִקָּרֵא בִּשְׁמָם, רַק עַל שֵׁם מְקוֹמָם.",
+      "en": "ואלה שמות אלופי עשו, the significance of the additional words למקומותם בשמותם may be that they were not distinguished enough to be recorded by their individual names, but only in association with the location where they practiced their authority.",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:41",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:42",
+      "he": "",
+      "en": "",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 36:43",
+      "he": "",
+      "en": "",
+      "fr": ""
+    }
+  ]
+}
