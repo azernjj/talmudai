@@ -4,6 +4,7 @@ import { escapeHtml } from './utils.js'
 let shulchanSectionsCache = null
 let currentShulchanSection = null
 let currentShulchanSiman = null
+let currentShulchanCommentary = null
 let commentaryCache = {}
 
 const commentaries = [
@@ -16,8 +17,10 @@ const commentaries = [
 
 async function getShulchanSections() {
   if (shulchanSectionsCache) return shulchanSectionsCache
+
   const res = await fetch('/data/shulchan-arukh/index.json')
   if (!res.ok) throw new Error('Index Choul’han Aroukh introuvable')
+
   shulchanSectionsCache = await res.json()
   return shulchanSectionsCache
 }
@@ -48,9 +51,36 @@ function mergeFrench(section, frSection) {
         ...siman,
         seifim: (siman.seifim || []).map(seif => {
           const frSeif = frBySeif.get(seif.seif)
+
           return {
             ...seif,
             fr: frSeif?.fr || seif.fr || ''
+          }
+        })
+      }
+    })
+  }
+}
+
+function mergeFrenchCommentary(commentary, frCommentary) {
+  if (!frCommentary?.simanim) return commentary
+
+  const frBySiman = new Map((frCommentary.simanim || []).map(s => [s.siman, s]))
+
+  return {
+    ...commentary,
+    simanim: (commentary.simanim || []).map(siman => {
+      const frSiman = frBySiman.get(siman.siman)
+      const frById = new Map((frSiman?.items || []).map(item => [item.id, item]))
+
+      return {
+        ...siman,
+        items: (siman.items || []).map(item => {
+          const frItem = frById.get(item.id)
+
+          return {
+            ...item,
+            fr: frItem?.fr || item.fr || ''
           }
         })
       }
@@ -89,6 +119,7 @@ export async function renderShulchanLibrary() {
 export async function openShulchanArukh() {
   state.currentMode = 'shulchan'
   state.currentParasha = null
+  currentShulchanCommentary = null
 
   document.querySelector('#dafTitle').textContent = '📜 Choul’han Aroukh'
   document.querySelector('#dafNav').innerHTML = ''
@@ -120,6 +151,7 @@ export async function openShulchanArukh() {
 export async function loadShulchanSection(file) {
   state.currentMode = 'shulchan'
   state.currentParasha = null
+  currentShulchanCommentary = null
   commentaryCache = {}
 
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la section...</div>'
@@ -139,6 +171,7 @@ export async function loadShulchanSection(file) {
     renderSimanSelector(data)
 
     const firstSiman = (data.simanim || []).find(s => (s.seifim || []).length)
+
     if (firstSiman) {
       renderSiman(data, firstSiman)
     } else {
@@ -183,19 +216,27 @@ function renderSimanSelector(section) {
     state.currentLang = 'fr'
     localStorage.setItem('talmudLang', state.currentLang)
     renderSimanSelector(section)
+
     if (currentShulchanSiman) renderSiman(section, currentShulchanSiman)
+    if (currentShulchanCommentary) renderShulchanCommentary(currentShulchanCommentary)
   })
 
   document.querySelector('#saEnBtn')?.addEventListener('click', () => {
     state.currentLang = 'en'
     localStorage.setItem('talmudLang', state.currentLang)
     renderSimanSelector(section)
+
     if (currentShulchanSiman) renderSiman(section, currentShulchanSiman)
+    if (currentShulchanCommentary) renderShulchanCommentary(currentShulchanCommentary)
   })
 
   document.querySelector('#simanSelect')?.addEventListener('change', e => {
     const siman = simanim.find(s => String(s.siman) === e.target.value)
-    if (siman) renderSiman(section, siman)
+
+    if (siman) {
+      currentShulchanCommentary = null
+      renderSiman(section, siman)
+    }
   })
 }
 
@@ -238,11 +279,12 @@ function renderCommentaryButtons() {
   document.querySelector('#commentBox').innerHTML = `
     <div class="commentActions shulchanCommentActions">
       ${commentaries.map(c => `
-        <button class="saCommentaryBtn" data-commentary="${escapeHtml(c.slug)}">
+        <button class="saCommentaryBtn ${currentShulchanCommentary === c.slug ? 'activeLang' : ''}" data-commentary="${escapeHtml(c.slug)}">
           ${escapeHtml(c.title)}
         </button>
       `).join('')}
     </div>
+
     <div id="saCommentaryBox" class="saCommentaryBox">
       Choisis un commentaire du Choul’han Aroukh.
     </div>
@@ -256,14 +298,26 @@ function renderCommentaryButtons() {
 async function loadCommentary(slug) {
   if (commentaryCache[slug]) return commentaryCache[slug]
 
-  const res = await fetch(`/data/shulchan-arukh/commentaries/${slug}/orach-chaim.json`)
-  if (!res.ok) throw new Error('Commentaire introuvable')
+  const rawRes = await fetch(`/data/shulchan-arukh/commentaries/${slug}/orach-chaim.json`)
+  if (!rawRes.ok) throw new Error('Commentaire introuvable')
 
-  commentaryCache[slug] = await res.json()
-  return commentaryCache[slug]
+  const rawData = await rawRes.json()
+
+  let frData = null
+  try {
+    const frRes = await fetch(`/data/shulchan-arukh/commentaries/${slug}/orach-chaim.fr.json`)
+    if (frRes.ok) frData = await frRes.json()
+  } catch {}
+
+  const merged = mergeFrenchCommentary(rawData, frData)
+  commentaryCache[slug] = merged
+
+  return merged
 }
 
 async function renderShulchanCommentary(slug) {
+  currentShulchanCommentary = slug
+
   const box = document.querySelector('#saCommentaryBox') || document.querySelector('#commentBox')
 
   if (!currentShulchanSiman) {
@@ -278,19 +332,24 @@ async function renderShulchanCommentary(slug) {
     const siman = (data.simanim || []).find(s => s.siman === currentShulchanSiman.siman)
     const title = data.title || slug
 
+    renderCommentaryButtons()
+
+    const targetBox = document.querySelector('#saCommentaryBox') || document.querySelector('#commentBox')
+
     if (!siman?.items?.length) {
-      box.innerHTML = `${escapeHtml(title)} non disponible pour ce siman.`
+      targetBox.innerHTML = `${escapeHtml(title)} non disponible pour ce siman.`
       return
     }
 
-    box.innerHTML = `
+    targetBox.innerHTML = `
       <h3>${escapeHtml(title)} — Siman ${currentShulchanSiman.siman}</h3>
+
       ${siman.items.map(item => `
         <div class="rashiItem">
           <p class="he">${item.he || ''}</p>
           <p>${escapeHtml(
             state.currentLang === 'fr'
-              ? (item.fr || item.en || 'Traduction française du commentaire en préparation.')
+              ? (item.fr || 'Traduction française du commentaire en préparation.')
               : (item.en || 'English translation unavailable.')
           )}</p>
         </div>
