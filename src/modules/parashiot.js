@@ -1,9 +1,20 @@
 import { state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
+let currentParashaFile = null
+let currentParashaCommentary = null
+let parashaCommentaryCache = {}
+
+const mikraotCommentaries = [
+  { slug: 'rashi', title: 'Rachi' },
+  { slug: 'onkelos', title: 'Onkelos' }
+]
+
 export async function openParashiot() {
   state.currentMode = 'parasha'
   state.currentParasha = null
+  currentParashaFile = null
+  currentParashaCommentary = null
 
   document.querySelector('#dafTitle').textContent = '📖 Parachiot'
   document.querySelector('#dafNav').innerHTML = ''
@@ -51,6 +62,10 @@ export async function openParashiot() {
 }
 
 export async function loadParasha(file) {
+  currentParashaFile = file
+  currentParashaCommentary = null
+  parashaCommentaryCache = {}
+
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement de la paracha...</div>'
 
   try {
@@ -114,7 +129,8 @@ export async function loadParasha(file) {
         <button id="backParashiotBtn">← Liste des parachiot</button>
       </div>
     `
-    document.querySelector('#commentBox').innerHTML = 'Clique sur le bouton Rachi pour afficher les commentaires.'
+
+    renderParashaCommentaryButtons()
 
     document.querySelector('#segments').innerHTML = `
       <article class="segment parashaFull">
@@ -140,11 +156,39 @@ export async function loadParasha(file) {
   }
 }
 
+function renderParashaCommentaryButtons() {
+  document.querySelector('#commentBox').innerHTML = `
+    <div class="commentActions parashaCommentActions">
+      ${mikraotCommentaries.map(c => `
+        <button class="parashaCommentaryBtn ${currentParashaCommentary === c.slug ? 'activeLang' : ''}" data-commentary="${escapeHtml(c.slug)}">
+          ${escapeHtml(c.title)}
+        </button>
+      `).join('')}
+    </div>
+
+    <div id="parashaCommentaryBox" class="saCommentaryBox">
+      Choisis un commentaire : Rachi ou Onkelos.
+    </div>
+  `
+
+  document.querySelectorAll('.parashaCommentaryBtn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const slug = btn.dataset.commentary
+      if (slug === 'rashi') renderParashaRashi()
+      if (slug === 'onkelos') renderParashaOnkelos()
+    })
+  })
+}
+
 export function renderParashaRashi() {
+  currentParashaCommentary = 'rashi'
+  renderParashaCommentaryButtons()
+
+  const box = document.querySelector('#parashaCommentaryBox') || document.querySelector('#commentBox')
   const data = state.currentParasha
 
   if (!data?.verses) {
-    document.querySelector('#commentBox').innerHTML = 'Choisis d’abord une paracha.'
+    box.innerHTML = 'Choisis d’abord une paracha.'
     return
   }
 
@@ -165,8 +209,57 @@ export function renderParashaRashi() {
       </section>
     `).join('')
 
-  document.querySelector('#commentBox').innerHTML =
-    html || 'Rachi non disponible pour cette paracha.'
+  box.innerHTML = html || 'Rachi non disponible pour cette paracha.'
+}
+
+async function loadParashaCommentary(slug) {
+  if (!currentParashaFile) return null
+  if (parashaCommentaryCache[slug]) return parashaCommentaryCache[slug]
+
+  const res = await fetch(`/data/parashiot/commentaries/${slug}/${currentParashaFile}`)
+  if (!res.ok) return null
+
+  const data = await res.json()
+  parashaCommentaryCache[slug] = data
+  return data
+}
+
+export async function renderParashaOnkelos() {
+  currentParashaCommentary = 'onkelos'
+  renderParashaCommentaryButtons()
+
+  const box = document.querySelector('#parashaCommentaryBox') || document.querySelector('#commentBox')
+  box.innerHTML = '<div class="empty">Chargement de Onkelos...</div>'
+
+  try {
+    const data = await loadParashaCommentary('onkelos')
+
+    if (!data?.verses?.length) {
+      box.innerHTML = 'Onkelos non disponible pour cette paracha.'
+      return
+    }
+
+    box.innerHTML = `
+      <h3>Onkelos — ${escapeHtml(data.name || '')}</h3>
+
+      ${data.verses.map(v => `
+        <section class="rashiBlock">
+          <h3>${escapeHtml(v.ref)}</h3>
+
+          <div class="rashiItem">
+            <p class="he">${v.he || ''}</p>
+            <p>${escapeHtml(
+              state.currentLang === 'fr'
+                ? (v.fr || v.en || 'Traduction française de Onkelos en préparation.')
+                : (v.en || 'English translation unavailable.')
+            )}</p>
+          </div>
+        </section>
+      `).join('')}
+    `
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
+  }
 }
 
 export function initParashiotEvents() {
