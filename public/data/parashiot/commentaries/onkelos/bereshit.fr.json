@@ -1,0 +1,592 @@
+{
+  "name": "Bereshit",
+  "range": "Genesis 1:1-6:8",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/bereshit.json",
+  "verses": [
+    {
+      "ref": "Genesis 1:1",
+      "fr": "Au commencement, Elohim créa les cieux et la terre."
+    },
+    {
+      "ref": "Genesis 1:2",
+      "fr": "La terre était informe et désolée, et (il y avait) des ténèbres [s'étendaient] à la surface de l'abîme. Le souffle d'Elohim [d'avant] planait [soufflait] au-dessus de la surface de l'eau."
+    },
+    {
+      "ref": "Genesis 1:3",
+      "fr": "Elohim a dit : Que la lumière soit. et la lumière fut."
+    },
+    {
+      "ref": "Genesis 1:4",
+      "fr": "Elohim vit que la lumière était bonne, et Elohim sépara la lumière des ténèbres."
+    },
+    {
+      "ref": "Genesis 1:5",
+      "fr": "Elohim a appelé la lumière jour et les ténèbres Il a appelé nuit. C'est devenu le soir et c'est devenu le matin, un jour."
+    },
+    {
+      "ref": "Genesis 1:6",
+      "fr": "Elohim dit : Qu'il y ait un dais au milieu des eaux, et qu'il divise les eaux en eaux."
+    },
+    {
+      "ref": "Genesis 1:7",
+      "fr": "Elohim fit le dais et sépara les eaux qui étaient au-dessous du dais des eaux qui étaient au-dessus du dais, et il en fut ainsi."
+    },
+    {
+      "ref": "Genesis 1:8",
+      "fr": "Elohim a appelé le ciel la canopée. Le deuxième jour, le soir est devenu le matin."
+    },
+    {
+      "ref": "Genesis 1:9",
+      "fr": "Elohim dit : Que les eaux sous les cieux soient rassemblées en un seul endroit, et que la sécheresse soit visible. C'était ainsi."
+    },
+    {
+      "ref": "Genesis 1:10",
+      "fr": "Elohim appela la sécheresse, la terre et l'accumulation des eaux, Il appela les mers, et Elohim vit que c'était bon."
+    },
+    {
+      "ref": "Genesis 1:11",
+      "fr": "Elohim dit : Que la terre fasse germer de l'herbe, des herbes produisant des graines, des arbres fruitiers portant des fruits de leur espèce, avec leur graine en eux, sur la terre. Et c’était ainsi."
+    },
+    {
+      "ref": "Genesis 1:12",
+      "fr": "La terre a produit de l'herbe, des herbes produisant des graines de leur espèce, et des arbres portant des fruits contenant des graines de leur espèce ; et Elohim vit que c'était bien."
+    },
+    {
+      "ref": "Genesis 1:13",
+      "fr": "Il y eut un soir et un matin, le troisième jour."
+    },
+    {
+      "ref": "Genesis 1:14",
+      "fr": "Elohim dit : Qu'il y ait des lumières dans la voûte du ciel pour diviser le jour et la nuit, et elles serviront de signes pour les saisons, [et pour compter] (pour) les jours et (pour) les années [avec elles]."
+    },
+    {
+      "ref": "Genesis 1:15",
+      "fr": "Ils serviront de luminaires dans la voûte du ciel pour éclairer la terre. Et c’était ainsi."
+    },
+    {
+      "ref": "Genesis 1:16",
+      "fr": "Elohim a créé les deux grandes lumières, la grande lumière pour gouverner le jour, et la petite lumière pour gouverner la nuit, et les étoiles"
+    },
+    {
+      "ref": "Genesis 1:17",
+      "fr": "Elohim les plaça dans la voûte du ciel pour éclairer la terre,"
+    },
+    {
+      "ref": "Genesis 1:18",
+      "fr": "régner sur le jour et la nuit, et diviser entre la lumière et les ténèbres ; et Elohim vit que c'était bien."
+    },
+    {
+      "ref": "Genesis 1:19",
+      "fr": "Ce fut le soir et le matin, le quatrième jour."
+    },
+    {
+      "ref": "Genesis 1:20",
+      "fr": "Elohim dit : Que les eaux regorgent d'une multitude de créatures vivantes, et que les oiseaux volent au-dessus de la terre, dans la voûte ouverte du ciel."
+    },
+    {
+      "ref": "Genesis 1:21",
+      "fr": "Et ainsi Elohim créa les grandes baleines, et tous les êtres vivants qui rampent, dont les eaux regorgent, de leur espèce, et tous les oiseaux ailés de leur espèce ; et Elohim vit que c'était bien."
+    },
+    {
+      "ref": "Genesis 1:22",
+      "fr": "Elohim les bénit en disant : Soyez féconds et multipliez-vous, remplissez les eaux des mers et laissez les oiseaux se multiplier sur la terre."
+    },
+    {
+      "ref": "Genesis 1:23",
+      "fr": "Il y eut un soir et un matin, le cinquième jour."
+    },
+    {
+      "ref": "Genesis 1:24",
+      "fr": "Elohim dit : Que la terre produise des êtres vivants, chacun selon son espèce, des animaux [des pâturages], des reptiles et des bêtes terrestres, chacun selon son espèce. Et c’était ainsi."
+    },
+    {
+      "ref": "Genesis 1:25",
+      "fr": "Et ainsi Elohim créa les bêtes de la terre, chacune de son espèce, les animaux [des pâturages] chacune de son espèce, et tout ce qui rampe sur la terre, chacune de son espèce, et Elohim vit que c'était bon."
+    },
+    {
+      "ref": "Genesis 1:26",
+      "fr": "Elohim dit : Faisons l'homme à notre image, comme notre ressemblance, et qu'il domine les poissons de la mer, les oiseaux du ciel, les animaux, toute la terre et tout ce qui rampe sur la terre."
+    },
+    {
+      "ref": "Genesis 1:27",
+      "fr": "Et ainsi Elohim créa l'homme à son image. Sous la forme d'Elohim, Il l'a créé, mâle et femelle, Il les a créés."
+    },
+    {
+      "ref": "Genesis 1:28",
+      "fr": "Elohim les bénit, et Elohim leur dit : Soyez féconds et multipliez-vous, remplissez la terre et soumettez-la, et dominez les poissons de la mer, les oiseaux du ciel et tout ce qui se meut sur la terre."
+    },
+    {
+      "ref": "Genesis 1:29",
+      "fr": "Elohim dit : Voici, je vous ai donné toutes les herbes qui portent des graines et qui sont à la surface de la terre, et tous les arbres qui ont des fruits qui donnent des graines ; pour vous, ce sera pour vous nourrir."
+    },
+    {
+      "ref": "Genesis 1:30",
+      "fr": "Et pour tout animal de la terre, pour tout oiseau du ciel, et pour tout ce qui rampe sur la terre, en qui il y a un esprit vivant, toutes les herbes végétales seront [leur] nourriture. Et c’était ainsi."
+    },
+    {
+      "ref": "Genesis 1:31",
+      "fr": "Elohim vit tout ce qu'Il avait fait, et voici, c'était très bon [complètement préparé]. Ce fut le soir et le matin, le sixième jour."
+    },
+    {
+      "ref": "Genesis 2:1",
+      "fr": "Les cieux et la terre furent achevés, ainsi que toutes leurs conglomérats."
+    },
+    {
+      "ref": "Genesis 2:2",
+      "fr": "Elohim a achevé le septième jour son œuvre qu'il avait faite, et il s'est abstenu le septième jour de toute son œuvre qu'il avait faite."
+    },
+    {
+      "ref": "Genesis 2:3",
+      "fr": "Elohim a béni le septième jour et l'a sanctifié, car il s'est abstenu de toute son œuvre pour laquelle Elohim avait créé."
+    },
+    {
+      "ref": "Genesis 2:4",
+      "fr": "C'est l'histoire des cieux et de la terre lorsqu'ils furent créés, le jour où Adonoy Elohim fit la terre et le ciel."
+    },
+    {
+      "ref": "Genesis 2:5",
+      "fr": "Toutes les plantes des champs n'étaient pas encore sur la terre, et toute la végétation herbacée des champs n'avait pas encore germé, car Adonoy Elohim n'avait pas fait tomber la pluie sur la terre, et il n'y avait [encore] personne pour cultiver la terre."
+    },
+    {
+      "ref": "Genesis 2:6",
+      "fr": "Une brume s’éleva de la terre et arrosa toute la surface du sol."
+    },
+    {
+      "ref": "Genesis 2:7",
+      "fr": "Adonoy Elohim forma alors l'homme, poussière du sol, et Il souffla dans ses narines le souffle de vie. Et ainsi l’homme est devenu une âme vivante [parlante]."
+    },
+    {
+      "ref": "Genesis 2:8",
+      "fr": "Adonoy Elohim planta un jardin en Eden, à l'est, et il y plaça l'homme qu'il avait formé."
+    },
+    {
+      "ref": "Genesis 2:9",
+      "fr": "Adonoy Elohim a fait pousser du sol tous les arbres agréables à regarder et bons pour la nourriture ; l'Arbre de Vie au milieu du Jardin, et l'Arbre (de) [dont le fruit s'il est mangé donne] la Connaissance [de ce qui est] bien et mal."
+    },
+    {
+      "ref": "Genesis 2:10",
+      "fr": "Une rivière sortait de l'Eden pour arroser le Jardin, et de là elle se séparait et devenait quatre sources."
+    },
+    {
+      "ref": "Genesis 2:11",
+      "fr": "Le nom du premier est Pishon, qui entoure tout le pays de Chavilah, où se trouve l'or."
+    },
+    {
+      "ref": "Genesis 2:12",
+      "fr": "L'or de ce pays est bon. On y trouve également des pierres de bdellium et d'onyx."
+    },
+    {
+      "ref": "Genesis 2:13",
+      "fr": "Le nom de la deuxième rivière est Gichon. Il entoure tout le pays de Koush."
+    },
+    {
+      "ref": "Genesis 2:14",
+      "fr": "Le nom du troisième fleuve est Chidekel [Diglas], qui coule à l'est d'Ashur. Le quatrième fleuve est P’ras."
+    },
+    {
+      "ref": "Genesis 2:15",
+      "fr": "Adonoy Elohim prit l'homme et le plaça dans le jardin d'Eden pour le travailler et le conserver."
+    },
+    {
+      "ref": "Genesis 2:16",
+      "fr": "Adonoy Elohim ordonna à l'homme, disant : Tu peux certainement manger de tous les arbres du jardin."
+    },
+    {
+      "ref": "Genesis 2:17",
+      "fr": "Mais de l'Arbre [dont le fruit, s'il est mangé, donne] la connaissance du bien et du mal, vous n'en mangerez pas, car le jour où vous en mangerez, vous mourrez certainement."
+    },
+    {
+      "ref": "Genesis 2:18",
+      "fr": "Adonoy Elohim a dit : Il n'est pas bon que l'homme soit seul. Je lui ferai une aide."
+    },
+    {
+      "ref": "Genesis 2:19",
+      "fr": "Adonoy Elohim forma à partir de la terre toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena à l'homme pour voir comment il les appellerait. Quel que soit le nom que l'homme a donné à [chaque] être vivant, tel est son nom."
+    },
+    {
+      "ref": "Genesis 2:20",
+      "fr": "L'homme donna des noms à chaque animal, aux oiseaux du ciel et à toutes les bêtes des champs, mais l'homme ne trouva pas d'aide pour lui-même."
+    },
+    {
+      "ref": "Genesis 2:21",
+      "fr": "Adonoy Elohim a fait tomber l'homme dans l'inconscience et il s'est endormi. Il prit une de ses côtes et la referma sur de la chair à la place."
+    },
+    {
+      "ref": "Genesis 2:22",
+      "fr": "Adonoy Elohim a transformé la côte qu'Il a prise de l'homme en une femme, et Il l'a amenée à l'homme."
+    },
+    {
+      "ref": "Genesis 2:23",
+      "fr": "L'homme dit : Ceci est enfin l'os de mes os et la chair de ma chair. Celle-ci sera appelée Femme, car c'est à l'Homme qu'elle a été prise."
+    },
+    {
+      "ref": "Genesis 2:24",
+      "fr": "C'est pourquoi l'homme quittera [la maison où] son ​​père et sa mère [dorment], et s'attachera à sa femme, et ils deviendront une seule chair."
+    },
+    {
+      "ref": "Genesis 2:25",
+      "fr": "Tous deux étaient nus, l'homme et sa femme, et ils n'avaient pas honte."
+    },
+    {
+      "ref": "Genesis 3:1",
+      "fr": "Le serpent était plus rusé que n'importe quelle bête des champs créée par Adonoy Elohim ; et il dit à la femme : Elohim a-t-il même [vraiment] dit que tu ne devrais pas manger de tous les arbres du jardin ?"
+    },
+    {
+      "ref": "Genesis 3:2",
+      "fr": "La femme dit au serpent : Nous pouvons manger des fruits des arbres du jardin."
+    },
+    {
+      "ref": "Genesis 3:3",
+      "fr": "Mais du fruit de l'arbre qui est au milieu du jardin, Elohim dit : Tu n'en mangeras pas et tu n'y toucheras pas, de peur de mourir."
+    },
+    {
+      "ref": "Genesis 3:4",
+      "fr": "Le serpent dit à la femme : Tu ne mourras certainement pas."
+    },
+    {
+      "ref": "Genesis 3:5",
+      "fr": "Car [il est révélé devant] Elohim (sait) que le jour où vous en mangerez, vos yeux s'ouvriront et vous deviendrez comme des dieux [grands], connaissant ce qui est bien et ce qui est mal."
+    },
+    {
+      "ref": "Genesis 3:6",
+      "fr": "La femme vit que l'arbre était bon à manger, qu'il était tentant pour les yeux et que l'arbre était attrayant comme moyen d'acquérir la sagesse. Elle prit du fruit et en mangea, et elle le donna aussi à son mari avec elle, et il mangea."
+    },
+    {
+      "ref": "Genesis 3:7",
+      "fr": "Les yeux de tous deux s’ouvrirent et ils se rendirent compte qu’ils étaient nus. Ils cousaient ensemble des feuilles de figuier et se confectionnaient des pagnes."
+    },
+    {
+      "ref": "Genesis 3:8",
+      "fr": "Ils entendirent la voix de [la Parole d'] Adonoy Elohim se déplaçant dans le Jardin au gré de la brise [le soir] du jour. L'homme et sa femme se cachèrent de [la présence d'] Adonoy Elohim parmi les arbres du Jardin."
+    },
+    {
+      "ref": "Genesis 3:9",
+      "fr": "Adonoy Elohim appela l'homme et Il dit : Où es-tu ?"
+    },
+    {
+      "ref": "Genesis 3:10",
+      "fr": "Il dit : J'ai entendu ta voix [la voix de ta Parole] dans le jardin, et j'ai eu peur parce que j'étais nu, alors je me suis caché."
+    },
+    {
+      "ref": "Genesis 3:11",
+      "fr": "Et il dit : Qui t'a dit que tu étais nu ? De l'arbre dont je t'ai défendu de manger, en as-tu mangé ?"
+    },
+    {
+      "ref": "Genesis 3:12",
+      "fr": "L'homme dit : La femme que tu as donnée pour être avec moi, elle m'a donné de l'arbre et j'en ai mangé."
+    },
+    {
+      "ref": "Genesis 3:13",
+      "fr": "Adonoy Elohim dit à la femme : Qu'as-tu fait ? Elle dit : Le serpent m'a trompée et j'ai mangé."
+    },
+    {
+      "ref": "Genesis 3:14",
+      "fr": "Adonoy Elohim dit au serpent : Parce que tu as fait cela, tu seras maudit entre tous les animaux et bêtes des champs. Sur ton ventre tu ramperas. Et tu mangeras de la poussière tous les jours de ta vie."
+    },
+    {
+      "ref": "Genesis 3:15",
+      "fr": "Je mettrai de l'inimitié entre toi et la femme, et entre ta postérité et sa postérité. Il vous frappera à la tête, et vous le frapperez au talon. [Il se souviendra de vous, de ce que vous lui avez fait depuis le début, et vous l'attendrez à la fin]."
+    },
+    {
+      "ref": "Genesis 3:16",
+      "fr": "Il dit à la femme : J'augmenterai grandement ton chagrin et ta grossesse. Vous donnerez naissance à des enfants dans la douleur. Votre désir sera pour votre mari et il vous dominera."
+    },
+    {
+      "ref": "Genesis 3:17",
+      "fr": "Il dit à l'homme : Parce que tu as écouté ta femme et que tu as mangé de l'arbre que je t'avais commandé, en disant : N'en mange pas ; le sol sera maudit à cause de toi. Dans le chagrin [Avec peine] tu en mangeras tous les jours de ta vie."
+    },
+    {
+      "ref": "Genesis 3:18",
+      "fr": "Il fera pousser pour vous des épines et des chardons ; et tu mangeras les herbes des champs."
+    },
+    {
+      "ref": "Genesis 3:19",
+      "fr": "C'est à la sueur de ton visage que tu mangeras du pain, jusqu'à ce que tu retournes à la terre, car c'est de là que tu as été tiré. Car tu es poussière et tu retourneras à la poussière."
+    },
+    {
+      "ref": "Genesis 3:20",
+      "fr": "L’homme appela sa femme Chavah, [Ève] parce qu’elle était devenue la mère de tous les vivants."
+    },
+    {
+      "ref": "Genesis 3:21",
+      "fr": "Et Adonoy Elohim confectionna pour Adam et sa femme des manteaux de cuir [des vêtements d'honneur sur la peau de leur chair] et Il les vêtit."
+    },
+    {
+      "ref": "Genesis 3:22",
+      "fr": "Adonoy Elohim dit : Voici, l'homme est devenu comme l'un de nous [unique. C'est à lui] de savoir [ce qui est] le bien et [ce qui est] le mal. Maintenant, il faut l'empêcher de tendre la main et de prendre de l'Arbre de Vie, d'en manger et de vivre éternellement."
+    },
+    {
+      "ref": "Genesis 3:23",
+      "fr": "[C'est pourquoi] Adonoy Elohim l'envoya hors du jardin d'Eden, pour cultiver le sol d'où il avait été tiré [créé]."
+    },
+    {
+      "ref": "Genesis 3:24",
+      "fr": "Il bannit l'homme [du Jardin] et à l'est du [devant] le Jardin d'Eden Il plaça les Chérubins et la flamme de l'épée tournante, pour garder le chemin de l'Arbre de Vie."
+    },
+    {
+      "ref": "Genesis 4:1",
+      "fr": "L'homme connaissait sa femme, Chavah. Elle a conçu et elle a donné naissance à Kayin, et elle a dit : J'ai obtenu un homme avec [l'aide d'] Adonoy."
+    },
+    {
+      "ref": "Genesis 4:2",
+      "fr": "Elle a donné naissance à nouveau à son frère Hevel. Hevel est devenu berger, mais Kayin était un travailleur de la terre."
+    },
+    {
+      "ref": "Genesis 4:3",
+      "fr": "Au fil du temps, Kayin apporta quelques fruits de la terre en offrande à Adonoy."
+    },
+    {
+      "ref": "Genesis 4:4",
+      "fr": "Hevel fit aussi venir des premiers-nés de son troupeau les meilleurs de ceux-ci. [Il y avait une faveur devant Adonoy] Adonoy a tenu compte de Hevel et de son offrande."
+    },
+    {
+      "ref": "Genesis 4:5",
+      "fr": "Mais il n’a prêté aucune attention à Kayin et à son offrande [il n’y a eu aucune faveur]. Kayin est devenu très en colère et déprimé."
+    },
+    {
+      "ref": "Genesis 4:6",
+      "fr": "Adonoy dit à Kayin : Pourquoi es-tu en colère ? Pourquoi es-tu déprimé ?"
+    },
+    {
+      "ref": "Genesis 4:7",
+      "fr": "N'est-ce pas le cas : si vous améliorez [vos actions], il y a le pardon [pour vous], mais si vous n'améliorez pas [vos actions], le péché repose au début [votre péché sera gardé pour le Jour du Jugement]. Son désir est vers vous, mais vous pouvez le dominer. [Car à l’avenir, cela vous sera exigé si vous ne vous repentez pas. Et si vous vous repentez, il y a le pardon.]"
+    },
+    {
+      "ref": "Genesis 4:8",
+      "fr": "Kayin a dit [quelque chose] à son frère Hevel, et il est arrivé alors qu'ils étaient sur le terrain, que Kayin s'est soulevé contre son frère Hevel et l'a tué."
+    },
+    {
+      "ref": "Genesis 4:9",
+      "fr": "Adonoy dit alors à Kayin : Où est ton frère, Hevel ? [Kayin] a dit : Je ne sais pas, suis-je le gardien de mon frère ?"
+    },
+    {
+      "ref": "Genesis 4:10",
+      "fr": "Il a dit [à Kayin] : Qu'as-tu fait ? La voix du sang de ton frère [le sang des descendants qui devaient provenir de ton frère] crie vers Moi depuis le sol."
+    },
+    {
+      "ref": "Genesis 4:11",
+      "fr": "Maintenant tu es maudit du sol qui a dû ouvrir la bouche pour accepter le sang de ton frère de ta main."
+    },
+    {
+      "ref": "Genesis 4:12",
+      "fr": "Lorsque vous travaillerez la terre, elle ne vous donnera plus de sa force. Vous serez instable et errant sur la terre."
+    },
+    {
+      "ref": "Genesis 4:13",
+      "fr": "Kayin dit à Adonoy : Mon péché est trop grand à supporter."
+    },
+    {
+      "ref": "Genesis 4:14",
+      "fr": "Voici, aujourd'hui tu m'as banni de la surface de la terre, et devant ta face je dois être caché [devant toi il est impossible d'être caché]. Je dois être instable et errant sur la terre ; celui qui me trouvera me tuera."
+    },
+    {
+      "ref": "Genesis 4:15",
+      "fr": "Adonoy lui dit : Par conséquent, quiconque tue Kayin, [après sept générations] la vengeance sera prise sept fois sur lui [Kayin]. Adonoy a placé une marque sur Kayin, afin que quiconque le trouverait ne le tue pas."
+    },
+    {
+      "ref": "Genesis 4:16",
+      "fr": "Kayin est sorti de la Présence d'Adonoy et s'est installé au pays de Nod [au pays de l'exil et de l'errance], à l'est d'Eden [qui a été fait pour lui avant le Jardin d'Eden]."
+    },
+    {
+      "ref": "Genesis 4:17",
+      "fr": "Kayin connaissait sa femme, elle a conçu et donné naissance à Chanoch. [Kayin] construisait une ville et il a donné à la ville le nom de son fils Chanoch."
+    },
+    {
+      "ref": "Genesis 4:18",
+      "fr": "De Chanoch est né Irad. Irad eut un fils Mechuyael, Mechuyael eut un fils Mesushael et Mesushael eut un fils Lemech."
+    },
+    {
+      "ref": "Genesis 4:19",
+      "fr": "Lemech épousa deux femmes, la première s'appelait Ada et la seconde s'appelait Tsillah."
+    },
+    {
+      "ref": "Genesis 4:20",
+      "fr": "Ada a donné naissance à Yaval. Il était le père [maître] de ceux qui vivent sous des tentes et élèvent du bétail."
+    },
+    {
+      "ref": "Genesis 4:21",
+      "fr": "Le nom de son frère était Yuval. Il était le père [maître] de tous ceux qui manient [jouent] de la harpe et [qui connaissent le chant du luth et de la] flûte."
+    },
+    {
+      "ref": "Genesis 4:22",
+      "fr": "Tzillah a également donné naissance à Tuval Kayin, qui affûtait tout ce qui coupe le cuivre et le fer [qui était le maître de tous ceux qui connaissent le métier du cuivre et du fer]. La sœur de Tuval Kayin était Naamah."
+    },
+    {
+      "ref": "Genesis 4:23",
+      "fr": "Lémech dit à ses femmes : Ada et Tsillah, écoutez ma voix, les femmes de Lémec écoutent mon discours ; ai-je tué un homme par ma propre blessure et un enfant par ma propre blessure ? [Je n'ai pas tué un homme pour que je porte le péché à cause de lui, et je n'ai même pas blessé un enfant pour que ma postérité soit retranchée à cause de lui]."
+    },
+    {
+      "ref": "Genesis 4:24",
+      "fr": "Si Kayin est vengé sept fois [si le châtiment de Kayin est suspendu pendant sept générations], alors pour Lemech, son fils, ce sera soixante-dix-sept fois [pour soixante-dix-sept générations]."
+    },
+    {
+      "ref": "Genesis 4:25",
+      "fr": "Adam connut de nouveau sa femme, et elle enfanta un fils qu'elle nomma Sheis, parce qu'Elohim m'a accordé une autre descendance à la place de Hevel, car Kayin l'avait tué."
+    },
+    {
+      "ref": "Genesis 4:26",
+      "fr": "Sheis naquit aussi un fils, qu'il nomma Enosh. Alors les hommes ont commencé à appeler [les idoles] [les hommes ont arrêté de prier] du nom d'Adonoy."
+    },
+    {
+      "ref": "Genesis 5:1",
+      "fr": "C'est le livre des générations de l'homme. Le jour où Elohim a créé l'homme. Il l'a créé à l'image d'Elohim."
+    },
+    {
+      "ref": "Genesis 5:2",
+      "fr": "Mâle et femelle, Il les a créés. Il les a bénis et les a nommés homme [Adam] le jour où ils ont été créés."
+    },
+    {
+      "ref": "Genesis 5:3",
+      "fr": "Adam vécut cent trente ans, et il eut un fils à son image, comme à son image, et il le nomma Sheis."
+    },
+    {
+      "ref": "Genesis 5:4",
+      "fr": "Les jours d'Adam après qu'il eut Sheis furent de huit cents ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:5",
+      "fr": "Tous les jours qu'Adam vécut furent de neuf cent trente ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:6",
+      "fr": "Sheis vécut cent cinq ans et eut un fils, Enosh."
+    },
+    {
+      "ref": "Genesis 5:7",
+      "fr": "Après qu'il eut Enosh, Sheis vécut huit cent sept ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:8",
+      "fr": "Tous les jours de Sheis furent de neuf cent douze ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:9",
+      "fr": "Enosh vécut quatre-vingt-dix ans et eut un fils, Keinan."
+    },
+    {
+      "ref": "Genesis 5:10",
+      "fr": "Après avoir eu Keinan, Enosh vécut huit cent quinze ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:11",
+      "fr": "Tous les jours d'Enosh furent de neuf cent cinq ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:12",
+      "fr": "Keinan vécut soixante-dix ans et eut un fils, Mahalaleil."
+    },
+    {
+      "ref": "Genesis 5:13",
+      "fr": "Après avoir eu Mahalaleil, Keinan vécut huit cent quarante ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:14",
+      "fr": "Tous les jours de Keinan durent neuf cent dix ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:15",
+      "fr": "Mahalaleil vécut soixante-cinq ans et eut un fils, Yered."
+    },
+    {
+      "ref": "Genesis 5:16",
+      "fr": "Après avoir eu Yered, Mahalaleil vécut huit cent trente ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:17",
+      "fr": "Tous les jours de Mahalaleil furent de huit cent quatre-vingt-quinze ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:18",
+      "fr": "Yered vécut cent soixante-deux ans et eut un fils, Chanoch."
+    },
+    {
+      "ref": "Genesis 5:19",
+      "fr": "Après avoir eu Chanoch, Yered vécut huit cents ans et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:20",
+      "fr": "Tous les jours de Yered furent de neuf cent soixante-deux ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:21",
+      "fr": "Chanoch vécut soixante-cinq ans et eut un fils, Mesushelach."
+    },
+    {
+      "ref": "Genesis 5:22",
+      "fr": "Chanoch marcha avec [la crainte d'] Elohim, après avoir eu Mesushelach, [pendant] trois cents ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:23",
+      "fr": "Tous les jours de Chanoch furent de trois cent soixante-cinq ans."
+    },
+    {
+      "ref": "Genesis 5:24",
+      "fr": "Chanoch marchait avec [la peur d'] Elohim, et il n'était plus [là] car Elohim l'a pris [l'a mis à mort]."
+    },
+    {
+      "ref": "Genesis 5:25",
+      "fr": "Mesushelach vécut cent quatre-vingt-sept ans et il eut un fils Lémech."
+    },
+    {
+      "ref": "Genesis 5:26",
+      "fr": "Après avoir eu Lemech, Mesushelach vécut sept cent quatre-vingt-deux ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:27",
+      "fr": "Tous les jours de Mesushelach furent neuf cent soixante-neuf, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:28",
+      "fr": "Lémec vécut cent quatre-vingt-deux ans et eut un fils."
+    },
+    {
+      "ref": "Genesis 5:29",
+      "fr": "Il nomma son fils Noach, en disant : Celui-ci nous apportera du repos de notre travail et de l'angoisse [labeur] de nos mains, du sol qu'Adonoy a maudit."
+    },
+    {
+      "ref": "Genesis 5:30",
+      "fr": "Après qu'il eut Noé, Lémec vécut cinq cent quatre-vingt-quinze ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 5:31",
+      "fr": "Tous les jours de Lémec furent de sept cent soixante-dix-sept ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 5:32",
+      "fr": "Noach avait cinq cents ans et Noach engendra Sheim, Cham et Yafes."
+    },
+    {
+      "ref": "Genesis 6:1",
+      "fr": "Lorsque les hommes commencèrent à se multiplier sur la surface de la terre, des filles leur naquirent."
+    },
+    {
+      "ref": "Genesis 6:2",
+      "fr": "Les fils des princes virent que les filles des hommes étaient belles et ils prirent pour épouse celle qu'ils voulaient."
+    },
+    {
+      "ref": "Genesis 6:3",
+      "fr": "Adonoy a dit : Mon esprit ne continuera pas à juger l'homme pour toujours [cette génération mauvaise n'existera pas devant moi pour toujours], puisqu'il n'est que chair [puisqu'ils sont chair et leurs actions sont mauvaises]. Ses jours seront de cent vingt ans [je leur donnerai un délai de cent vingt ans pour qu'ils se repentent]."
+    },
+    {
+      "ref": "Genesis 6:4",
+      "fr": "Il y avait des géants sur la terre à cette époque, et aussi plus tard, lorsque les fils des princes allèrent vers les filles des hommes et leur enfantèrent des enfants. C’étaient les plus puissants qui aient jamais existé. [Ils étaient] des hommes de renom."
+    },
+    {
+      "ref": "Genesis 6:5",
+      "fr": "Adonoy vit que la méchanceté de l’homme avait augmenté sur la terre et que chaque inclination de son cœur n’était que pour le mal, tout au long du jour."
+    },
+    {
+      "ref": "Genesis 6:6",
+      "fr": "Adonoy fut consolé [regretta dans Sa Parole] d'avoir créé l'homme sur la terre, et Il fut attristé dans Son cœur [et Il dit avec Sa parole de briser leurs forces conformément à Sa Volonté]."
+    },
+    {
+      "ref": "Genesis 6:7",
+      "fr": "Adonoy dit : J'effacerai de la surface de la terre l'humanité que j'ai créée, depuis l'homme jusqu'aux bêtes, jusqu'aux reptiles et aux oiseaux du ciel, car je regrette [par ma parole] de les avoir créés."
+    },
+    {
+      "ref": "Genesis 6:8",
+      "fr": "Mais Noé trouva grâce aux yeux d'Adonoy."
+    }
+  ]
+}

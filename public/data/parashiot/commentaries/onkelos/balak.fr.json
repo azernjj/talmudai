@@ -1,0 +1,424 @@
+{
+  "name": "Balak",
+  "range": "Numbers 22:2-25:9",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/balak.json",
+  "verses": [
+    {
+      "ref": "Numbers 22:2",
+      "fr": "Et Balak, fils de Tsipor, vit tout ce qu'Israël avait fait à l'Émoréen."
+    },
+    {
+      "ref": "Numbers 22:3",
+      "fr": "Et Moav fut terrifié par le peuple [d'Israël] à cause de son grand nombre, et ainsi, Moav détesta les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 22:4",
+      "fr": "Moav dit aux anciens de Madian : « Maintenant, cette assemblée va lécher tout ce qui nous entoure, comme le bœuf lape les herbes des champs. » Balak, fils de Tsipor, était alors roi de Moav."
+    },
+    {
+      "ref": "Numbers 22:5",
+      "fr": "Il envoya des émissaires à Bil'am, fils de Beor, à Pesor, qui est près du fleuve [Péras], le pays de son peuple, pour l'appeler et lui dire : « Voici, une nation est sortie d'Égypte, voici, elle a couvert [obscurci le soleil de] la surface de la terre, et elle est située en face de moi."
+    },
+    {
+      "ref": "Numbers 22:6",
+      "fr": "Et maintenant, s'il te plaît, viens et maudis cette nation pour moi, car elle est trop puissante pour moi, peut-être que cela nous permettra de lui faire la guerre et de la bannir du pays ; car je sais que celui que vous bénissez est béni, et que celui que vous maudissez est maudit."
+    },
+    {
+      "ref": "Numbers 22:7",
+      "fr": "Et les anciens de Moav et de Madian s'en allèrent avec des charmes magiques à la main ; ils sont venus à Bil'am et lui ont transmis le message de Balak."
+    },
+    {
+      "ref": "Numbers 22:8",
+      "fr": "Il leur répondit : « Passez cette nuit ici et je vous répondrai ensuite selon ce qu'Adonoy me dira. » Et les dignitaires de Moav restèrent avec Bil'am."
+    },
+    {
+      "ref": "Numbers 22:9",
+      "fr": "La parole de Dieu apparut à [devant] Bil'am et dit : « Qui sont ces hommes avec toi ?"
+    },
+    {
+      "ref": "Numbers 22:10",
+      "fr": "Bil'am répondit à Dieu : « Balak, fils de Tzipor, roi de Moav, me les a envoyés [en disant] :"
+    },
+    {
+      "ref": "Numbers 22:11",
+      "fr": "« Voici, le peuple sorti d’Égypte a couvert [obscurci le soleil de] la surface de la terre ; viens maintenant et maudis-le pour moi afin que je puisse lui faire la guerre et le bannir."
+    },
+    {
+      "ref": "Numbers 22:12",
+      "fr": "Dieu dit à Bil'am : \" Ne pars pas avec eux ! Tu ne maudiras pas le peuple, car il est béni. \""
+    },
+    {
+      "ref": "Numbers 22:13",
+      "fr": "Bil'am se leva le matin et dit aux dignitaires de Balak : « Retournez dans votre pays, car Adonoy refuse [ce n'est pas la volonté d'Hachem] de me permettre de vous accompagner. »"
+    },
+    {
+      "ref": "Numbers 22:14",
+      "fr": "Les dignitaires de Moav se levèrent et vinrent vers Balak et lui dirent : « Bilam refuse de nous accompagner. »"
+    },
+    {
+      "ref": "Numbers 22:15",
+      "fr": "Balak persista et envoya des dignitaires en plus grand nombre et de rang plus élevé que ceux-là."
+    },
+    {
+      "ref": "Numbers 22:16",
+      "fr": "Ils s'approchèrent de Bil'am et lui dirent : « Voici un message de Balak, le fils Tzipor : « S'il te plaît, ne refuse pas de venir vers moi."
+    },
+    {
+      "ref": "Numbers 22:17",
+      "fr": "Car je t’honorerai grandement et tout ce que tu me diras, je le ferai, si seulement tu voulais bien venir maudire ce peuple pour moi.’ »"
+    },
+    {
+      "ref": "Numbers 22:18",
+      "fr": "Bil'am répondit et dit aux serviteurs de Balak : « Même si Balak me donnait suffisamment d'argent et d'or pour remplir sa maison, je ne peux pas [avoir aucune permission] transgresser la parole d'Adonoy mon Dieu, en faisant quelque chose de petit ou de grand."
+    },
+    {
+      "ref": "Numbers 22:19",
+      "fr": "Maintenant, vous aussi, s’il vous plaît, restez ici toute la nuit, et je saurai ce qu’Adonoy me dira de plus."
+    },
+    {
+      "ref": "Numbers 22:20",
+      "fr": "La parole de Dieu apparut à Bilam cette nuit-là et lui dit : « Si les hommes sont venus t'appeler, lève-toi et pars avec eux ; cependant, tout ce que je te dirai, tu le feras. »"
+    },
+    {
+      "ref": "Numbers 22:21",
+      "fr": "Bil'am se leva le matin, sella [prépara] son ​​âne et partit avec les dignitaires moavites."
+    },
+    {
+      "ref": "Numbers 22:22",
+      "fr": "Dieu se mit en colère parce qu'il partait, et un ange d'Adonoy se plaça sur le chemin pour le contrecarrer, alors qu'il montait sur son âne accompagné de ses deux serviteurs."
+    },
+    {
+      "ref": "Numbers 22:23",
+      "fr": "L'âne aperçut l'ange d'Adonoy qui se tenait sur le chemin, l'épée nue à la main ; l'âne s'écarta du chemin et entra dans les champs ; Bil'am frappa l'âne pour le remettre en route."
+    },
+    {
+      "ref": "Numbers 22:24",
+      "fr": "Mais l'ange d'Adonoy se tenait dans un chemin étroit au milieu des vignes [à un endroit] avec une barrière de chaque côté."
+    },
+    {
+      "ref": "Numbers 22:25",
+      "fr": "Lorsque l'âne vit l'ange d'Adonoy, elle fut pressée contre le mur et pressa le pied de Bil'am contre le mur ; et il la frappa encore plus."
+    },
+    {
+      "ref": "Numbers 22:26",
+      "fr": "L’ange d’Adonoy passa plus loin et se tint dans un endroit étroit, où il n’y avait pas de place pour tourner [ni] à droite ni à gauche."
+    },
+    {
+      "ref": "Numbers 22:27",
+      "fr": "Lorsque l'âne aperçut l'ange d'Adonoy, il se accroupit sous Bil'am ; Bil'am [la colère a été provoquée] s'est mis en colère et a frappé l'âne avec le bâton."
+    },
+    {
+      "ref": "Numbers 22:28",
+      "fr": "Adonoy ouvrit la gueule de l'âne et elle dit à Bil'am : « Que t'ai-je fait, pour que tu me frappes ces trois fois ?"
+    },
+    {
+      "ref": "Numbers 22:29",
+      "fr": "Bil'am dit à l'âne : « Parce que tu m'as ridiculisé, si j'avais une épée à la main, je te tuerais maintenant. »"
+    },
+    {
+      "ref": "Numbers 22:30",
+      "fr": "L'âne répondit à Bil'am : \"Ne suis-je pas le même âne que tu as monté toute ta vie [depuis que je suis devenu tien] jusqu'à ce jour ? Est-ce que j'ai déjà eu l'habitude de te faire ça ?\" Et il a répondu : « Non »."
+    },
+    {
+      "ref": "Numbers 22:31",
+      "fr": "Adonoy fit alors voir à Bil'am, et il observa l'ange d'Adonoy se tenant sur le chemin, son épée dégainée à la main. Il baissa la tête et se prosterna sur le visage."
+    },
+    {
+      "ref": "Numbers 22:32",
+      "fr": "L'ange d'Adonoy lui dit : \"Pourquoi as-tu frappé ton âne ces trois fois ? Voici, je suis sorti pour te gêner, parce que ta voie est [il m'est clair que tu désires suivre un chemin] contraire à moi."
+    },
+    {
+      "ref": "Numbers 22:33",
+      "fr": "Et quand l'âne m'a vu, il s'est détourné trois fois ; si elle ne s'était pas détournée devant moi comme [elle l'a fait] maintenant, je t'aurais sûrement tué et elle, je la laisserais vivre."
+    },
+    {
+      "ref": "Numbers 22:34",
+      "fr": "Bil'am dit à l'ange d'Adonoy : « J'ai péché parce que je ne savais pas que tu te tenais sur le chemin devant moi ; maintenant donc, si c'est mal à tes yeux, je reviendrai. »"
+    },
+    {
+      "ref": "Numbers 22:35",
+      "fr": "L'ange d'Adonoy dit à Bil'am : « Va avec les hommes, mais tu ne diras que la parole que je te dirai. » Bil'am continua alors à aller avec les dignitaires de Balak."
+    },
+    {
+      "ref": "Numbers 22:36",
+      "fr": "Lorsque Balak apprit que Bilam arrivait, il sortit à sa rencontre dans la ville de Moav, qui est à la frontière de l'Arnon, à l'extrême limite de la frontière."
+    },
+    {
+      "ref": "Numbers 22:37",
+      "fr": "Balak dit à Bil'am : \" N'ai-je pas envoyé autant de [dignitaires] pour vous inviter ? Pourquoi n'êtes-vous pas venu vers moi ? Suis-je vraiment [pouvez-vous honnêtement dire que je suis] incapable de vous honorer ? \""
+    },
+    {
+      "ref": "Numbers 22:38",
+      "fr": "Bil'am répondit à Balak : \"Maintenant que je suis venu vers toi, ai-je le pouvoir de dire quelque chose ? Je ne prononcerai que la parole que Dieu met dans ma bouche.\""
+    },
+    {
+      "ref": "Numbers 22:39",
+      "fr": "Bil'am partit avec Balak et ils arrivèrent à Kiryas Chutzos [la ville de son territoire]."
+    },
+    {
+      "ref": "Numbers 22:40",
+      "fr": "Balak tua du bétail et des moutons et il en envoya à Bilam et aux dignitaires qui étaient avec lui."
+    },
+    {
+      "ref": "Numbers 22:41",
+      "fr": "Le matin, Balak prit Bil'am et le conduisit à Bamos Ba'al [le haut lieu de son idole] ; de là, il aperçut une partie du peuple."
+    },
+    {
+      "ref": "Numbers 23:1",
+      "fr": "Bil'am dit à Balak : « Construis-moi ici sept autels et prépare-moi sept taureaux et sept béliers. »"
+    },
+    {
+      "ref": "Numbers 23:2",
+      "fr": "Balak a fait ce que Bil’am avait demandé. Balak et Bil'am sacrifièrent alors en holocauste un bœuf et un bélier sur chaque autel."
+    },
+    {
+      "ref": "Numbers 23:3",
+      "fr": "Bil'am dit à Balak : \" Tenez-vous à côté de votre holocauste et je m'en irai. Peut-être [un mot d'avant] Adonoy m'apparaîtra, et tout ce qu'il me montrera, je vous le dirai. \" Et il est parti seul."
+    },
+    {
+      "ref": "Numbers 23:4",
+      "fr": "[Un mot d'avant] Dieu apparut par hasard à Bil'am, et il lui dit : « J'ai dressé les sept autels et j'ai offert [en holocauste] un bœuf et un bélier sur l'autel."
+    },
+    {
+      "ref": "Numbers 23:5",
+      "fr": "Adonoy a mis un message dans la bouche de Bil'am et Il a dit : « Retourne à Balak et dis-lui ce qui suit. »"
+    },
+    {
+      "ref": "Numbers 23:6",
+      "fr": "Lorsqu'il revint, Balak se tenait toujours à côté de son holocauste, avec tous les dignitaires de Moav."
+    },
+    {
+      "ref": "Numbers 23:7",
+      "fr": "Bil'am expose sa parabole et dit : « D'Aram Balak, roi de Moav, m'a fait sortir des montagnes de l'est [en disant] : 'Viens, maudis Yaakov pour moi ; va, invoque la colère contre Yisroel.'"
+    },
+    {
+      "ref": "Numbers 23:8",
+      "fr": "Comment puis-je maudire, alors que Dieu n’a pas maudit ? Quelle colère divine puis-je provoquer si Adonoy n'a pas été en colère ?"
+    },
+    {
+      "ref": "Numbers 23:9",
+      "fr": "Car je le regarde depuis les sommets des montagnes, je le regarde depuis les collines ; voir! Un peuple qui habitera seul [et est destiné à habiter le monde] et ne sera pas compté parmi les nations [ne sera pas jugé pour l'anéantissement]."
+    },
+    {
+      "ref": "Numbers 23:10",
+      "fr": "Qui peut compter la poussière de [la maison de] Yaakov [dont il est dit : ils se multiplieront comme la poussière de la terre] ou compter la postérité d'Israël [ou de l'un des quatre camps d'Israël] ? Que mon âme meure de la mort du juste, et que ma fin soit comme la sienne."
+    },
+    {
+      "ref": "Numbers 23:11",
+      "fr": "Balak dit à Bil'am : \" Que m'as-tu fait ? Je t'ai emmené pour maudire mes ennemis mais tu les as en fait bénis ! \""
+    },
+    {
+      "ref": "Numbers 23:12",
+      "fr": "Bil'am répondit et dit : « Je dois prendre soin de ne dire que ce qu'Adonoy me dit. »"
+    },
+    {
+      "ref": "Numbers 23:13",
+      "fr": "Balak lui dit alors : \" Viens avec moi dans un autre endroit d'où tu les verras. Mais tu n'en verras qu'une partie, sans les voir tous, et de là tu les maudiras pour moi. \""
+    },
+    {
+      "ref": "Numbers 23:14",
+      "fr": "Il l'emmena [Bil'am] au champ de Tsofim, au sommet de la montagne ; il bâtit sept autels et offrit en holocauste un taureau et un bélier sur chaque autel."
+    },
+    {
+      "ref": "Numbers 23:15",
+      "fr": "Il dit alors à Balak : « Tiens-toi ici à côté de ton holocauste, et je serai appelé ici par hasard [je continuerai là]. »"
+    },
+    {
+      "ref": "Numbers 23:16",
+      "fr": "[Un mot d'avant] Adonoy est apparu par hasard à Bil'am et a mis le mot dans sa bouche ; Il dit : « Retournez à Balak et dites ce qui suit. »"
+    },
+    {
+      "ref": "Numbers 23:17",
+      "fr": "À son retour, il (Balak) se tenait toujours à côté de son holocauste accompagné des dignitaires moavites ; Balak a demandé : « Qu’a dit Adonoy ?"
+    },
+    {
+      "ref": "Numbers 23:18",
+      "fr": "Bil'am expose sa parabole et dit : « Lève-toi, Balak, et écoute, écoute-moi attentivement [ma parole], fils de Tzipor."
+    },
+    {
+      "ref": "Numbers 23:19",
+      "fr": "Dieu n’est pas comme l’homme pour agir faussement, et il n’est pas non plus mortel pour changer d’avis. [La parole de Dieu n’est pas comme celle de l’homme qui parle avec tromperie. Ce n’est pas non plus celui de l’humanité qui décrète puis change d’avis] Le dirait-il et ne le ferait-il pas ? Ou parler et ne pas l'accomplir [Il dit et fait, et Sa parole dure] ?"
+    },
+    {
+      "ref": "Numbers 23:20",
+      "fr": "Voici, il m'a été commandé de bénir, et [quand] Il a béni, je ne peux pas revenir sur cela [détourner ma bénédiction de lui]."
+    },
+    {
+      "ref": "Numbers 23:21",
+      "fr": "[Voici,] On ne voit pas de malfaiteurs [il n'y a pas d'adorateurs d'idoles] dans [la maison de] Yaakov ; et Il n'a vu aucune transgression [et il n'y a pas non plus d'œuvre de menteurs] en Yisroel ; [la parole d'] Adonoy, son Dieu, est avec lui, et il a l'amitié du roi [et la Chechinah de leur roi est parmi eux]."
+    },
+    {
+      "ref": "Numbers 23:22",
+      "fr": "Dieu qui les a fait sortir d'Egypte leur a montré sa grande force [par sa puissance et sa grandeur]."
+    },
+    {
+      "ref": "Numbers 23:23",
+      "fr": "Car, il n'y a pas de sorcellerie en [les sorciers ne souhaitent aucun bien venir dans la maison de] Yaakov, ni de pouvoirs occultes contre [ni de grandeur pour la maison de] Yisroel ; au temps voulu, on dira à Yaakov et à Yisroel : « Qu'a fait Dieu ?"
+    },
+    {
+      "ref": "Numbers 23:24",
+      "fr": "Voici, un peuple qui se lève comme un jeune lion et qui s'élève comme un lion ; il ne se couche pas [n'habite pas dans son pays] jusqu'à ce qu'il dévore sa proie [tue la proie] et boive le sang de sa proie [hérite de la richesse des nations]."
+    },
+    {
+      "ref": "Numbers 23:25",
+      "fr": "Balak dit à Bil'am : « Ne les maudis pas non plus, ne les bénis pas non plus. »"
+    },
+    {
+      "ref": "Numbers 23:26",
+      "fr": "Bil'am répondit à Balak et dit : « Ne vous ai-je pas dit que tout ce qu'Adonoy me dit, je le ferai. »"
+    },
+    {
+      "ref": "Numbers 23:27",
+      "fr": "Balak dit alors à Bil’am : « Viens, je t’emmènerai ailleurs, peut-être que Dieu le jugera bon [ce sera la volonté d’Hachem] et tu les maudiras pour moi, à partir de là. »"
+    },
+    {
+      "ref": "Numbers 23:28",
+      "fr": "Balak emmena Bil'am au sommet de Pe'or qui surplombe le Yeshimon."
+    },
+    {
+      "ref": "Numbers 23:29",
+      "fr": "Bil'am dit à Balak : « Construis-moi ici sept autels et prépare-moi sept taureaux et sept béliers. »"
+    },
+    {
+      "ref": "Numbers 23:30",
+      "fr": "Balak fit ce que Bilam avait dit, et il offrit en holocauste un taureau et un bélier sur chaque autel."
+    },
+    {
+      "ref": "Numbers 24:1",
+      "fr": "Quand Bil'am vit qu'il était favorable à Adonoy de bénir Yisroel, il ne s'approcha pas, comme à chaque fois, de la sorcellerie ; mais il tourna sa face vers le désert."
+    },
+    {
+      "ref": "Numbers 24:2",
+      "fr": "Bil'am leva les yeux et vit Israël campé selon ses tribus, et l'esprit de Dieu reposait sur lui [prophétie devant Hachem]."
+    },
+    {
+      "ref": "Numbers 24:3",
+      "fr": "Il exposa sa parabole et dit : « C'est la déclaration de Bil'am, le fils de Be'or ; c'est la déclaration de l'homme à l'œil ouvert [qui voit bien]."
+    },
+    {
+      "ref": "Numbers 24:4",
+      "fr": "C'est la déclaration de celui qui entend [d'avant] la parole de Dieu, qui voit la vision [d'avant] du Tout-Puissant ; tombé, les yeux ouverts [cela lui apparaît]."
+    },
+    {
+      "ref": "Numbers 24:5",
+      "fr": "Comme tes tentes [terre] sont belles, Yaakov, tes demeures, Yisroel."
+    },
+    {
+      "ref": "Numbers 24:6",
+      "fr": "Ils s'étendent comme des ruisseaux, comme des jardins au bord de la rivière [coulant comme des jardins irrigués près de Peras], comme les aloès qu'Adonoy a plantés ; comme des cèdres [debout] au bord de l’eau."
+    },
+    {
+      "ref": "Numbers 24:7",
+      "fr": "L'eau coulera de ses seaux, et sa semence coulera en abondance [le roi oint grandira et régnera sur de nombreuses nations] ; son roi sera plus grand qu'Agag et sa monarchie sera élevée."
+    },
+    {
+      "ref": "Numbers 24:8",
+      "fr": "Dieu qui l'a fait sortir d'Egypte lui a montré sa grande force [la puissance et la grandeur lui appartiennent] ; Il consumera ses nations ennemies, brisant leurs os et trempera ses flèches [dans leur sang] [Bnei Yisroel mangera de la richesse des nations – leurs ennemis, et jouira du butin de leurs rois, et habitera leur pays]."
+    },
+    {
+      "ref": "Numbers 24:9",
+      "fr": "Il s'accroupit et se couche [se repose et demeure avec puissance] comme un lion, et, étant un lion, qui oserait le réveiller ? [Aucun royaume ne peut lui faire peur.] Ceux qui vous bénissent sont bénis, et ceux qui vous maudissent sont maudits."
+    },
+    {
+      "ref": "Numbers 24:10",
+      "fr": "Balak devint furieux contre Bil'am et frappa dans ses mains ; Balak dit alors à Bil'am : « Je t'ai appelé pour maudire mes ennemis, mais tu les as bénis ces trois fois."
+    },
+    {
+      "ref": "Numbers 24:11",
+      "fr": "Maintenant, dépêchez-vous de rentrer chez vous ! J'ai dit que je vous honorerais extrêmement, mais Adonoy vous a retenu de l'honneur."
+    },
+    {
+      "ref": "Numbers 24:12",
+      "fr": "Bil'am dit à Balak : « Même à tes émissaires que tu m'as envoyés, j'ai dit :"
+    },
+    {
+      "ref": "Numbers 24:13",
+      "fr": "« Même si Balak me donnait sa maison pleine d’argent et d’or, je ne peux pas transgresser la parole d’Adonoy en faisant le bien ou le mal [de] ma propre [volonté] ; » je dirai seulement ce que déclare Adonoy."
+    },
+    {
+      "ref": "Numbers 24:14",
+      "fr": "Et maintenant que je retourne vers mon peuple, viens, je te conseillerai [ce que tu dois faire et je te montrerai] ce que ce peuple fera à ton peuple à la fin des jours."
+    },
+    {
+      "ref": "Numbers 24:15",
+      "fr": "Il exposa sa parabole et dit : « C’est la déclaration de Bil’am, fils de Beor, la déclaration de l’homme à l’œil ouvert [qui voit bien]."
+    },
+    {
+      "ref": "Numbers 24:16",
+      "fr": "C'est la déclaration de quelqu'un qui entend les paroles de Dieu et connaît les pensées du Très-Exalté ; qui voit la vision du Tout-Puissant ; tombé, les yeux ouverts [et cela lui est apparent]."
+    },
+    {
+      "ref": "Numbers 24:17",
+      "fr": "Je le vois mais pas maintenant, je le perçois mais pas dans un avenir proche ; une étoile [roi] est sortie de Yaakov, et un bâton s'est levé [le Machia'h sera magnifié par] d'Israël, qui brisera les coins [tuera les dirigeants] de Moav et empalera tous les fils de Sheis [régnera sur l'humanité]."
+    },
+    {
+      "ref": "Numbers 24:18",
+      "fr": "Edom sera la possession et Séir deviendra la possession de ses ennemis ; mais Yisroel triomphera [réussira dans son entreprise]."
+    },
+    {
+      "ref": "Numbers 24:19",
+      "fr": "Un dirigeant viendra de [la maison de] Yaakov, qui anéantira les survivants de la ville."
+    },
+    {
+      "ref": "Numbers 24:20",
+      "fr": "Lorsque Bil’am vit Amalek, il raconta sa parabole et dit : « Amalek fut le premier parmi les nations [à combattre Yisroel], et sa fin sera une destruction totale. »"
+    },
+    {
+      "ref": "Numbers 24:21",
+      "fr": "[Quand] il vit les Keinites [Shalmites], il exposa sa parabole et dit : « Quelle est la puissance de ta demeure, et place dans une falaise ton nid [ta demeure dans une ville fortifiée]."
+    },
+    {
+      "ref": "Numbers 24:22",
+      "fr": "Car si Kayin doit être déraciné [les Shalmites doivent être détruits], jusqu’où Ashur vous emmènera-t-il captif ?"
+    },
+    {
+      "ref": "Numbers 24:23",
+      "fr": "Il a présenté sa parabole et a dit : \" Hélas ! Qui peut survivre à la dévastation de Dieu ? [Malheur à ces méchants qui vivent quand Hachem fait cela.]"
+    },
+    {
+      "ref": "Numbers 24:24",
+      "fr": "Des navires de guerre viendront de Kittim [des groupes demanderont de l’aide à Rome] et détruiront Ashur, et causeront des souffrances à ceux de l’autre côté [réduiront en esclavage ceux au-delà de Peras], mais eux aussi seront perdus pour l’éternité."
+    },
+    {
+      "ref": "Numbers 24:25",
+      "fr": "Bil'am se leva, partit et rentra chez lui ; et Balak aussi continua son chemin."
+    },
+    {
+      "ref": "Numbers 25:1",
+      "fr": "Israël s'est installé à Shittim et le peuple [d'Israël] a commencé à se livrer à la promiscuité avec les filles de Moav."
+    },
+    {
+      "ref": "Numbers 25:2",
+      "fr": "Elles [les filles de Moav] invitèrent le peuple [d'Israël] à leurs sacrifices idolâtres [abominations] ; et le peuple mangeait et se prosternait devant ses dieux [abominations]."
+    },
+    {
+      "ref": "Numbers 25:3",
+      "fr": "Yisroel s’est uni à Ba’al Pe’or ; et la colère d'Adony s'enflamma contre Yisroel."
+    },
+    {
+      "ref": "Numbers 25:4",
+      "fr": "Adonoy dit à Moshe : « Prenez tous les dirigeants du peuple et pendez-les, [jugez et exécutez les coupables par la mort] devant Adonoy, face au soleil ; faisant ainsi disparaître la rage d'Adony contre Yisroel. »"
+    },
+    {
+      "ref": "Numbers 25:5",
+      "fr": "Moshe dit aux juges d’Israël : « Chacun de vous doit exécuter ses hommes qui étaient unis à Ba’al Pe’or. »"
+    },
+    {
+      "ref": "Numbers 25:6",
+      "fr": "Et voici, un homme vint du milieu des Bnei Yisroel et amena la femme madianite à ses frères, sous les yeux de Moshe et sous les yeux de toute la congrégation d'Israël, qui pleuraient à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 25:7",
+      "fr": "Lorsqu'il vit Pin'has, fils d'Élazar et petit-fils d'Aharon le Cohéin, il se leva du milieu de la communauté et prit une lance à la main."
+    },
+    {
+      "ref": "Numbers 25:8",
+      "fr": "Il suivit l'homme israélite dans la chambre intérieure de la tente et les transperça tous les deux, l'homme israélite et la femme jusqu'au ventre, et la plaie cessa d'affliger les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 25:9",
+      "fr": "Ceux qui moururent de la peste étaient au nombre de vingt-quatre mille."
+    }
+  ]
+}

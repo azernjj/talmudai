@@ -1,0 +1,496 @@
+{
+  "name": "Ki Tavo",
+  "range": "Deuteronomy 26:1-29:8",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/ki-tavo.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 26:1",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:2",
+      "fr": "Il s'agit du plus grand choix de chaque catégorie. [le mot ראשית n'est pas compris comme « premier ». Ed] Nous trouvons le terme ראשית utilisé dans ce sens dans Amos 6,6 וראשית שמנים ימשחו, « ils s'oignent des meilleures huiles ». Au verset 1 du même chapitre, nous lisons נקובי ראשית הגויים, « ceux connus comme les meilleurs des nations. » Ces fruits « les plus choisis » sont les sept types de produits pour lesquels la Terre d’Israël est célèbre, et c’est pourquoi il nous a été commandé déjà dans Exode 23,19 d’en offrir des échantillons dans le Temple. Le don connu sous le nom de ביכורים n'est pas littéralement le premier produit mûr de chacune de ces sept espèces, mais celui qui pousse sur le meilleur sol dont dispose l'agriculteur, de sorte qu'il est vraiment aussi son choix. Les sept catégories de produits ont été énumérées dans Deut. 8,8-9."
+    },
+    {
+      "ref": "Deuteronomy 26:3",
+      "fr": "Même si le prêtre d'une génération particulière n'est pas remarquable en sagesse, vous ne devez donc pas le traiter avec moins de respect que sa position ne le justifie. C'est pourquoi la Torah a ajouté les mots apparemment superflus לה' אלוקיך, mots habituellement utilisés uniquement pour s'adresser à des hommes d'un calibre exceptionnel tels que les rois et les prophètes. [Si je comprends bien, l'auteur affirme que seules les personnes de haut rang doivent se voir implicitement rappeler qu'il existe une autorité supérieure à elles-mêmes. D'où l'ajout des mots לה' אלוקיך après le mot הגדתי. NDLR] En tout cas, l’idée est que voyant que le prêtre reçoit les bikkurim de la part de D.ieu, c’est comme si l’agent de D.ieu était adressé par le titre réservé à son Maître. הגדתי היום, équivalent à « J’ai reconnu publiquement les grandes œuvres du Seigneur aujourd’hui. » Nous trouvons une formulation similaire dans Samuel II 19,7 lorsque Yoav accuse David d'avoir insulté tous ses ministres et généraux en s'affligeant de la mort de son fils rebelle au lieu d'apprécier la loyauté de ses partisans qui lui avaient sauvé la vie dans des circonstances des plus difficiles. Les mots ici sont : כי הגדת היום כי אין לך שרים ועבדים, « (par votre chagrin excessif) vous avez clairement indiqué que vous ne considérez pas avoir de fidèles disciples. » כי באתי אל הארץ, que je suis venu d'un autre pays dans ce pays אשר נשבע ה' לאבותינו לתת לנו, comme lorsque D.ieu avait dit dans Genèse 17,8 « Je vous ai donné ce pays, ainsi qu'à vos descendants après toi. Voyant que D.ieu avait alors prêté ce serment, je me considère bien qu'apparemment comme un étranger, un étranger, comme si j'étais un résident permanent grâce à Son don, et c'est pourquoi j'ai apporté ces fruits de choix qu'il incombe à quiconque a reçu la terre soit en cadeau, soit même en tant que locataire, de les présenter au véritable propriétaire de la terre en reconnaissance de Ses largesses. (4) QUE ADONAI A JURÉ À NOS PÈRES DE NOUS AFFECTER. Comme il est dit (Gen. 17 :8) : « Je vous ai donné, ainsi qu'à votre postérité à venir. » C'est pourquoi moi, l'étranger, venu dans le pays comme résident par don [divin], j'ai apporté les prémices à Celui qui a donné le pays en don ou en métayage."
+    },
+    {
+      "ref": "Deuteronomy 26:4",
+      "fr": "והניחו לפני מזבח ה' אלוקיך, pour faire comprendre par ce geste que ces fruits ne sont pas réellement destinés au prêtre, mais sont un présent à D.ieu, qui, à son tour, les donne au prêtre comme il le fait avec les autres offrandes qui lui sont apportées."
+    },
+    {
+      "ref": "Deuteronomy 26:5",
+      "fr": "ארמי אובד אבי, mon père, c'est-à-dire Yaakov, qui fut pendant un certain temps un homme perdu et errant sans maison propre, n'était pas à l'époque en mesure d'établir une nation méritant ou apte à hériter de cette terre."
+    },
+    {
+      "ref": "Deuteronomy 26:6",
+      "fr": "ויענונו ויתנו עלינו עבודה קשה, étant donné qu'une fois que le peuple juif était devenu une nation, il n'était pas légalement capable de recevoir des cadeaux car les cadeaux offerts aux esclaves appartiennent automatiquement au maître de l'esclave."
+    },
+    {
+      "ref": "Deuteronomy 26:7",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:8",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:9",
+      "fr": "ויתן לנו את הארץ הזאת, après avoir quitté l'Égypte en tant qu'hommes libres, nous n'avions aucune partie du pays où nous installer, et Il nous a donné ce pays qui est un pays supérieur où coulent le lait et le miel."
+    },
+    {
+      "ref": "Deuteronomy 26:10",
+      "fr": "ועתה, après avoir pris pleinement conscience de la grandeur et de l'étendue de Ta bonté aimante démontrée par la façon dont Tu nous as rendus aptes à prendre possession de la terre et à nous emmener vers la liberté d'une manière nous permettant d'accepter un don qui sera légalement le nôtre, et Tu nous as donné une telle terre de choix, הנה הבאתי את ראשית פרי האדמה אשר נתת לי ה', je présente par la présente, en signe de ma gratitude, un don du meilleur fruit de cette terre que le Seigneur m'a donné. (2) J'AI APPORTÉ LES PREMIERS FRUITS DU SOL QUE TU M'AS DONNÉ, ADONAI. J'ai apporté les meilleurs fruits de ce pays que tu m'as donné, pour en rendre grâce à ton nom."
+    },
+    {
+      "ref": "Deuteronomy 26:11",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:12",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:13",
+      "fr": "En fait, à cause de nos péchés et de ceux de nos pères, le privilège d'accomplir le service du Temple a été retiré au premier-né, qui autrement aurait également été le bénéficiaire de toutes les dîmes. Ezéchiel 20,26 y fait référence lorsqu'il écrit : ואטמא אותם במתנותם, בהעביר כל פטר רחם , « et je les ai souillés par leurs propres dons, en faisant mourir chaque premier-né » ; le prophète appelle cette ligne le ווידוי מעשר, la confession représentée par le fait que la dîme ne peut pas rester dans le foyer mais doit être donnée aux Lévites qui ont supplanté le prêtre de la famille, le premier-né du fait de leur participation au péché du veau d'or. (Maasser Sheyni 5,10) וגם נתתיו ללוי, la signification du mot גם dans notre contexte est la même que celle des mots אף על פי, \"même ainsi\". Nous trouvons également le mot גם utilisé comme אף על פי dans Ruth 1,12 lorsque Naomi explique à ses belles-filles que même si elle se mariait immédiatement, elle ne serait pas en mesure de produire des fils qui pourraient devenir les maris de ses belles-filles et ainsi garder vivants par procuration les noms de leurs maris décédés (mariage symbolique par lévirat). Nous devons donc comprendre la déclaration du fermier comme signifiant : \"J'avoue que mon péché était grand, de sorte qu'en conséquence je suis obligé de détruire ou d'enlever toutes les choses sacrées de ma maison même si, personnellement, j'ai rempli mes devoirs en donnant ces dîmes au Lévite et à ses compagnons sur Ton ordre. Ayant fait cela, je prie pour que Tu baisses les yeux avec bienveillance. Étant donné que normalement le mot השקפה est utilisé dans l'Écriture comme négatif \"regarder en bas pour confirmer quelque chose\", le Le fermier a dû ajouter qu'il veut dire qu'il a mérité un השקפה bienveillant comme exprimé par l'appel וברך את עמך את ישראל, \"et bénis ton peuple, Israël, etc.\""
+    },
+    {
+      "ref": "Deuteronomy 26:14",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 26:15",
+      "fr": "וברך את עמך...ואת האדמה אשר נתתה לי, de la même manière que tu as juré à nos ancêtres, quand tu leur as juré : « Je vous ferai sortir de la pauvreté d'Égypte dans un vaste et bon pays, etc. (Exode 3,17)"
+    },
+    {
+      "ref": "Deuteronomy 26:16",
+      "fr": "היום הזה, que tu as conclu une alliance avec lui. L’« alliance » comprenait l’engagement d’Israël à respecter les statuts de D.ieu comme quelque chose qui garantirait leur bien-être, ce qu’Il ​​n’avait fait pour aucune autre nation. Bien sûr, vous devez adopter ces lois de tout votre cœur, sans réserves mentales ni doutes quant à leur authenticité. Votre seule motivation doit être d’accomplir sa volonté. ובכל נפשך, vous ne devez pas vous laisser distraire, distraire, par les mauvaises pulsions, c'est-à-dire les tentations, parce que vous êtes si ferme dans la croyance en la supériorité du Législateur."
+    },
+    {
+      "ref": "Deuteronomy 26:17",
+      "fr": "À cet égard, את ה' האמרת היום, lorsque tu as accepté de devenir partie à ce serment sacré, qui met en péril toute bonté physique sur terre au cas où tu profanerais ce serment האמרת, ce faisant, tu as élevé l'image du Seigneur, qui, par conséquent, sera encore plus honoré à tes yeux qu'avant d'entrer dans ce alliance réciproque avec Lui. Vous avez ainsi démontré qu’il est plus important pour vous de faire sa volonté que de profiter des plaisirs éphémères de cette vie. להיות לך לאלוקים, qu'Il sera le plus exalté de tous les phénomènes et pouvoirs désincarnés ; vous êtes conscient que tout ce qui se passe dans votre vie est le résultat de Son destin et de son histoire, dans votre cas, sans recourir à des députés, des agents, ou à des intermédiaires qui exécutent Ses commandements. Étant donné qu'il en est ainsi, il serait inconcevable que, dans vos rites religieux, vous vous tourniez, ne serait-ce que comme auxiliaire, vers un autre phénomène prétendant être son agent. Vous vous inclinez et vous humiliez uniquement devant Lui, directement. Bien sûr, pour essayer d'imiter Ses caractéristiques dans la mesure où Il a jugé bon de vous les révéler. ולשמוע בקולו, comme il convient à ses serviteurs."
+    },
+    {
+      "ref": "Deuteronomy 26:18",
+      "fr": "וה' האמירך היום, en concluant une alliance avec vous, une distinction qu'Il n'a accordée à aucune autre nation. להיות לו לעם סגולה, afin qu'Il réalise avec vous ce qu'Il espérait réaliser avec l'humanité lorsqu'Il créa l'homme, en disant : \" faisons l'homme à notre image, etc. (Genèse 1,26). ולשמור כל מצותיו, Il vous accorda une distinction supplémentaire en vous ayant choisi pour observer tous ses commandements ; en comparaison, les autres nations n'ont pas été jugées assez importantes à ses yeux pour justifier ces commandements. La preuve est la déclaration de nos sages que si un gentil décide d'observer volontairement la législation du sabbat comme un acte religieux, il est coupable de mort, car depuis le premier péché, l'homme était condamné à travailler à la sueur de son front pour gagner sa vie, et seul le peuple juif a été relevé de ce décret un jour de la semaine, c'est-à-dire le jour de la semaine. Sabbat. (comparer Sanhédrin 58) Toutes les autres nations n’ont reçu que sept commandements à observer."
+    },
+    {
+      "ref": "Deuteronomy 26:19",
+      "fr": "ולתתך עליון על כל הגוים, dans votre capacité à comprendre le sens de la vie sur terre et à l'enseigner. C’est le sens d’Exode 19,6 « vous serez pour moi un royaume de prêtres et une nation sainte ». לתהלה ולשם ולתפארת, pour le Tout-Puissant, selon Isaïe 49,3 « Israël, toi en qui je me glorifie. » ולהיותך עם קדוש, et vous êtes une nation sainte et éternelle. כאשר דבר, quand Il dit à l'époque dans Exode 20 « vous serez pour moi un royaume de prêtres et une nation sainte »."
+    },
+    {
+      "ref": "Deuteronomy 27:1",
+      "fr": "En fait, D.ieu avait coopté les anciens en voyant que c'étaient eux qui se tiendraient au mont Garizim et au mont Eyval, et non Moïse."
+    },
+    {
+      "ref": "Deuteronomy 27:2",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:3",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:4",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:5",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:6",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:7",
+      "fr": "ושמחת לפני ה' אלוקיך, sur le privilège de conclure une alliance avec D.ieu au mont Garizim et au mont Eyval."
+    },
+    {
+      "ref": "Deuteronomy 27:8",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:9",
+      "fr": "En conséquence, Moïse a coopté les prêtres pour les mettre en garde sur l'importance d'étudier la Torah en profondeur. C’était parce que leur devoir premier était d’enseigner la Torah au peuple. [Le service dans le Temple n’occupait que quelques jours par an du temps de chaque prêtre. Ed.] (comparez Deut. 33,10 יורו משפטיך ליעקב, « ils enseigneront tes lois à Yaakov. ») הסכת, illustre les concepts pour toi dans ton esprit, comme dans Amos 5,26 את סכות מלככם, \"Ils ont même nommé l'idole\" image \".\""
+    },
+    {
+      "ref": "Deuteronomy 27:10",
+      "fr": "Bien sûr, vous écouterez le Seigneur votre D.ieu parce que vous portez dans votre esprit une image si vivante de vos devoirs."
+    },
+    {
+      "ref": "Deuteronomy 27:11",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:12",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:13",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:14",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:15",
+      "fr": "En réalité, tous les « maudits » mentionnés ici avaient d'abord été entonnés comme une bénédiction pour toutes les personnes s'abstenant de se rendre coupables des péchés mentionnés ici. (comparer Sotah 32) C'est aussi la raison pour laquelle la Torah commence le paragraphe par les mots אלה יעמדו לברך את העם, \"ce sont les gens qui prennent position pour bénir le peuple\". La principale raison de ces lignes est de maudire les pécheurs qui violent ces commandements, afin qu'eux seuls portent le fardeau de leur culpabilité, le peuple dans son ensemble ne partageant pas cette responsabilité. La raison en est que les pécheurs mentionnés étaient pour la plupart les dirigeants du peuple, de sorte que les Israélites ordinaires n’avaient pas le pouvoir de protester contre les agissements de leurs dirigeants. Cette pensée a été clairement exprimée par Ezéchiel 22,6-7 « chacun des princes d'Israël au milieu d'eux utilisait sa force pour faire couler le sang, etc., etc. » Dans ce même chapitre, le prophète a spécifiquement distingué la plupart des (12) péchés énumérés dans notre paragraphe ici. Ces obscénités ont toutes été commises à Jérusalem ; cependant, cela ne signifie pas que tous les habitants de la ville étaient coupables de ces iniquités, ce sont surtout les membres haut placés de la société qui en étaient coupables. Lorsqu’on évoque les péchés de la population dans son ensemble, ces péchés sont généralement attribués à la ville dans laquelle ces péchés ont été commis. Comparez le verset 8 dans ce chapitre d’Ézéchiel. [la référence à la « ville » comme lieu où tout cela s'est produit se trouve au verset 3 de ce chapitre. Éd.]"
+    },
+    {
+      "ref": "Deuteronomy 27:16",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:17",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:18",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:19",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:20",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:21",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:22",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:23",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:24",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 27:25",
+      "fr": "לוקח שוחד להכות, comme dans le cas de Doeg l'Édomite (Samuel I, chapitre 22), dont l'accusation visait à lui gagner les faveurs du roi. Comparez également le chapitre 23 sur les Ziphites. Le récit est un type d’intérêt mentionné dans notre verset."
+    },
+    {
+      "ref": "Deuteronomy 27:26",
+      "fr": "אשר לא יקים את דברי התורה הזאת לעשות אותם, qui n'observe ni n'admet qu'ils valent tous la peine d'être observés. mais qui, dans son arrogance, considère qu'un commandement ou un commandement de la Torah ne vaut pas la peine d'être observé. Dans le Talmud, une telle personne est considérée comme « hérétique parce qu’elle rejette un seul des commandements de D.ieu »."
+    },
+    {
+      "ref": "Deuteronomy 28:1",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:2",
+      "fr": "ובאו עליך כל הברכות האלה והשיגוך. Ils vous rattraperont même si vous n’avez même pas fait l’effort de les « rattraper ». En réalité, tout cela se produira lorsque vous ferez de la poursuite de la Torah votre effort principal, reléguant les activités laïques à quelque chose de subordonné. En reconnaissance de votre style de vie approuvé, les bénédictions que D.ieu vous accorde ne peuvent évidemment pas être décrites comme quelque chose que vous poursuiviez activement. Les bénédictions mentionnées par Moïse ici étaient celles qui étaient en évidence pendant la période du premier Temple pendant la partie de cette période où le peuple juif observait les commandements de la Torah, jusqu'au verset 9 יקימך ה' לו לעם קדוש, une condition qui fut remplie au début de la période du Second Temple comme décrit par Shimon Hatzaddik dans Yuma 21 qui a rapporté la manifestation de miracles dans le Second Temple comme preuve de l'accomplissement de cette prophétie par Moïse."
+    },
+    {
+      "ref": "Deuteronomy 28:3",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:4",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:5",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:6",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:7",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:8",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:9",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:10",
+      "fr": "וראו כל עמי הארץ, comme nos sages nous l'ont dit dans le folio 69 de Yuma à propos d'Alexandre le Grand se prosternant devant ce grand prêtre."
+    },
+    {
+      "ref": "Deuteronomy 28:11",
+      "fr": "והותירך ה' לטובה, ce qui signifie que votre succès sera manifestement plus grand et plus visible que celui des autres nations."
+    },
+    {
+      "ref": "Deuteronomy 28:12",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:13",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:14",
+      "fr": "Moïse conclut les bénédictions applicables à la période du Second Temple en avertissant ולא תסור מכל הדברים אשר אנכי מצוה אתכם היום ימין או שמאל, ce qui signifie que le peuple ne doit pas introduire de changements dans les commandements de la Torah, et surtout ne pas apporter de changements à la législation sociale, משפטים. Ils ne doivent pas non plus introduire de variations dans l’observance de certains commandements qui faisaient partie de la culture des nations qui vivaient au pays de Canaan et qui étaient bien enracinés dans toute la région. Ceci est particulièrement interdit si, en adoptant des habitudes qui, bien que sans rapport avec l'idolâtrie et sans signification religieuse, vous les adoptez afin de montrer ainsi un certain respect pour la culture des membres de ces tribus résidant encore parmi vous. Selon la Torah, cela constituerait ללכת אחרי אלוהים אחרים לעבדם, que vous êtes sur la voie d’adopter des pratiques idolâtres, voire même d’adorer ces idoles. Cependant, les avertissements jusqu'au verset 36, c'est-à-dire יולך ה' אותך ואת מלכך, font référence à des périodes du Second Temple, la période des Séleucides jusqu'à ce que les Hasmonéens commencent leur soulèvement pour débarrasser le pays des Néo-Grecs. Finalement, Aristobule, roi de la dynastie hasmonéenne, fut exilé par les Romains à Rome sur ordre de Pompée. À partir de cet incident jusqu'au verset 63 ונסחתם, Moïse fait référence à la période de la destruction du Second Temple par les Romains. Ce qui suit sont des avertissements concernant notre exil actuel."
+    },
+    {
+      "ref": "Deuteronomy 28:15",
+      "fr": "אם לא תשמע בקול ה' אלוקיך לשמור לעשות את כל מצותיו וחקותיו אשר אנכי מצוך היום, avec ces mots Moïse introduit ses avertissements, ceux qui sont parallèles au chapitre 26 du Lévitique, mais qui semblent bien plus dévastateurs. Israël est décrit comme « en régression », ayant, avec l’aide de la législation de la Torah, été le pionnier des pays civilisés. Chaque fois que la Torah parle du peuple juif abandonnant les lois de la Torah, l’intention n’est pas de nous faire penser qu’il a glissé dans l’anarchie, mais pire encore, qu’il a glissé en adoptant les lois des cultures et civilisations dominantes. De toute évidence, c’est un affront encore plus grand envers D.ieu le Législateur que le simple fait d’être passif et de ne pas appliquer la loi de la Torah. La législation sociale impliquant les dîmes a été largement ignorée, ce qui a conduit de grands érudits comme Hillel et le grand prêtre Yochanan à décréter des moyens légalistes pour contourner la législation afin que les gens ne soient pas coupables de violation de lois sociales fondamentales telles que l'annulation des dettes en souffrance à la fin de l'année de Sh'mittah. Les rabbins, dans un certain nombre de cas, furent contraints de préserver l’esprit de la loi, parfois aux dépens de ce que l’on peut appeler « la lettre de la loi ». L’interruption de l’examen par le prêtre d’une femme soupçonnée d’infidélité conjugale, Sotah, en est un exemple, les rabbins estimant que lorsque l’infidélité était devenue la norme plutôt que l’exception, il ne suffirait pas d’exiger un miracle de D.ieu chaque fois qu’une telle situation se présentait. De plus, il y avait de fortes chances que la vie sexuelle du mari ne soit pas si exempte de défauts qu’il puisse pointer du doigt sa femme. (Comparez Shviit,1,3, Maasser Sheyni 5,15, Sotah 46,48,49) D'autres pratiques, telles que le renvoi des différends aux juges païens de la nation (Grecs ou Romains) occupant Israël à l'époque, rendaient presque impossible pour le pouvoir judiciaire juif, même lorsqu'il entendait présider la loi de la Torah, d'être un instrument juridique efficace. Toutes ces conditions sont devenues une prophétie auto-réalisatrice dans le déclin du peuple juif en tant que nation sainte et ont conduit à la destruction de Jérusalem et à la fin de l’indépendance juive sur une terre qui lui était propre."
+    },
+    {
+      "ref": "Deuteronomy 28:16",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:17",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:18",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:19",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:20",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:21",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:22",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:23",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:24",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:25",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:26",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:27",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:28",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:29",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:30",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:31",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:32",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:33",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:34",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:35",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:36",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:37",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:38",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:39",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:40",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:41",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:42",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:43",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:44",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:45",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:46",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:47",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:48",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:49",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:50",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:51",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:52",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:53",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:54",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:55",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:56",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:57",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:58",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:59",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:60",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:61",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:62",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:63",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:64",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:65",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:66",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:67",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 28:68",
+      "fr": "Par exemple, vous commencerez à fabriquer ou à fabriquer à la main toutes sortes de biens qui manquent au pays d'accueil afin d'assurer votre bien-être économique, mais bien sûr, personne n'achètera ces produits pour des raisons antisémites, car ils ne veulent pas que vous preniez pied dans leur pays."
+    },
+    {
+      "ref": "Deuteronomy 28:69",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:1",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:2",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:3",
+      "fr": "ולא נתן ה' לכם לב לדעת, même s'il avait essayé, au moyen de ses enseignements et de ses miracles, de donner au peuple un cœur connaisseur, comme nous le savons dans Exode 10,20ולמען תספר.....וידעתם כי אני ה', « et afin que vous le disiez… et que vous sachiez que je suis le Seigneur », la leçon n'avait pas été prise en raison de votre querelle accablante."
+    },
+    {
+      "ref": "Deuteronomy 29:4",
+      "fr": "ואולך אתכם, cependant, maintenant que vous avez vu l'immensité de Son amour pour vous et qu'Il vous a amené à prendre possession des terres de Sichon et d'Og, afin que vous puissiez subvenir à vos besoins par vos propres efforts, le moment est venu où vous posséderez enfin la sagacité nécessaire, un cœur bien informé."
+    },
+    {
+      "ref": "Deuteronomy 29:5",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:6",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:7",
+      "fr": ""
+    },
+    {
+      "ref": "Deuteronomy 29:8",
+      "fr": "ושמרתם את דברי הברית הזאת, celui que vous accepterez au Mont Garizim et au Mont Eyval. למען תשכילו את כל אשר תעשון, afin que vous réussissiez à la fois dans votre vie sur terre dans toutes vos entreprises, ainsi que dans la réalisation de votre objectif de vivre éternellement dans le monde au-delà de la mort physique."
+    }
+  ]
+}

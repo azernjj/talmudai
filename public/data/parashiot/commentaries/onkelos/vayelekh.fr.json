@@ -1,0 +1,128 @@
+{
+  "name": "Vayelekh",
+  "range": "Deuteronomy 31:1-31:30",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayelekh.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 31:1",
+      "fr": "Moshe y est allé et a adressé ces déclarations à tout Israël."
+    },
+    {
+      "ref": "Deuteronomy 31:2",
+      "fr": "Il leur dit : « J’ai 120 ans aujourd’hui, je ne peux plus sortir ni revenir ; car Adonoy m'a dit : \"Tu ne traverseras pas ce Yardein.\""
+    },
+    {
+      "ref": "Deuteronomy 31:3",
+      "fr": "Adonoy, ton Dieu, Il [Sa parole] traverse devant toi, Il détruira ces nations devant toi et tu en hériteras. Yehoshua, il traverse devant toi comme Adonoy l'a dit."
+    },
+    {
+      "ref": "Deuteronomy 31:4",
+      "fr": "Et Adonoy leur fera ce qu'il a fait à Sichon et à Og, rois des Émoréens, et à leur pays ; qu'Il a détruit."
+    },
+    {
+      "ref": "Deuteronomy 31:5",
+      "fr": "Adonoy les vaincra [les délivrera] devant toi, et tu leur feras selon la mitsva que je t'ai commandée."
+    },
+    {
+      "ref": "Deuteronomy 31:6",
+      "fr": "Soyez courageux et audacieux, ne craignez pas et ne tremblez pas devant eux ; car Adonoy, ton Dieu, c’est Lui qui marche avec toi, il ne t’affaiblira pas et ne t’abandonnera pas.’’"
+    },
+    {
+      "ref": "Deuteronomy 31:7",
+      "fr": "Moshe appela Yehoshua et lui dit sous le regard de tout Israël : « Sois courageux et audacieux, car tu entreras avec ce peuple dans le pays qu'Adonoy a juré à leurs ancêtres de leur donner, et tu le leur partageras."
+    },
+    {
+      "ref": "Deuteronomy 31:8",
+      "fr": "Et Adonoy est Celui Qui vous précède, Il [Sa parole] sera avec vous [votre soutien], ne vous affaiblira pas et ne vous abandonnera pas [distancier] ; n'ayez pas peur et ne tremblez pas."
+    },
+    {
+      "ref": "Deuteronomy 31:9",
+      "fr": "Moché écrivit cette Torah et il la remit aux cohanim, descendants de Lévi, qui portent l'arche de l'alliance d'Adonoy ; et à tous les anciens d'Israël."
+    },
+    {
+      "ref": "Deuteronomy 31:10",
+      "fr": "Moshe leur ordonna en disant : Après sept années écoulées, le jour saint de l'année Sh'mittah, pendant la fête de Souccot ;"
+    },
+    {
+      "ref": "Deuteronomy 31:11",
+      "fr": "Lorsque tout Israël sera vu en présence d'Adonoy, votre Dieu, à l'endroit qu'Il aura choisi, vous lirez cette Torah face à tout Israël pour qu'il l'entende."
+    },
+    {
+      "ref": "Deuteronomy 31:12",
+      "fr": "Rassemblez le peuple, les hommes, les femmes, les enfants, et votre converti qui est dans vos villes ; afin qu'ils entendent et qu'ils apprennent à craindre [devant] Adonoy, votre Dieu, et ils veilleront à accomplir toutes les déclarations de cette Torah."
+    },
+    {
+      "ref": "Deuteronomy 31:13",
+      "fr": "Et leurs enfants qui n'ont pas compris entendront et apprendront à craindre Adonoy, ton Dieu, pendant toutes les années que tu vis sur la terre dont tu traverses là le Yardein pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 31:14",
+      "fr": "Adonoy dit à Moshe : « Regarde ! Votre heure approche pour mourir. Appelez Yehoshua et présentez-vous à Ohel Moed et je l’exhorterai.’’ Moshe partit avec Yehoshua et ils se présentèrent à Ohel Moed."
+    },
+    {
+      "ref": "Deuteronomy 31:15",
+      "fr": "Adonoy s'est révélé dans l'Ohel dans une colonne de nuée ; la colonne de nuée resta à l'entrée de l'Ohel."
+    },
+    {
+      "ref": "Deuteronomy 31:16",
+      "fr": "Adonoy dit à Moshe : « Tu es sur le point de mourir, et ce peuple se lèvera et s'égarera après les dieux des [peuples] étrangers [idoles étrangères] du pays où ils vont là-bas parmi eux, et ils abandonneront [la peur de] moi et rompront mon alliance que j'ai conclue avec eux."
+    },
+    {
+      "ref": "Deuteronomy 31:17",
+      "fr": "Et je me mettrai en colère contre eux ce jour-là et je les abandonnerai [éloignerai] et je leur cacherai ma face [Shechinah] et ils seront consumés [méprisés] et beaucoup de maux et de troubles leur arriveront ; et ils diront ce jour-là : « Regardez ! Parce que [la Shekhinah de] mon Dieu n’est pas en moi, ces maux m’ont arrivé.’’"
+    },
+    {
+      "ref": "Deuteronomy 31:18",
+      "fr": "Et je cacherai sûrement ma face [enlever d'eux ma Chekhinah] ce jour-là, à cause de toute la méchanceté qu'ils ont commise, parce qu'ils se sont tournés vers d'autres dieux [idoles d'autres nations]."
+    },
+    {
+      "ref": "Deuteronomy 31:19",
+      "fr": "Et maintenant, écrivez pour vous ce chant [louange] et enseignez-le aux Bnei Yisroel pour qu'ils le mettent dans leur bouche ; afin que ce chant [louange] soit pour moi un témoin contre Bnei Yisroel."
+    },
+    {
+      "ref": "Deuteronomy 31:20",
+      "fr": "Car je les amènerai au pays que j'ai juré à leurs ancêtres, où coulent le lait et le miel, et ils mangeront, seront rassasiés et deviendront gras ; et ils se tourneront vers d'autres dieux [idoles d'autres nations] et les serviront et ils se mettront en colère [devant] Moi et rompront Mon alliance."
+    },
+    {
+      "ref": "Deuteronomy 31:21",
+      "fr": "Si beaucoup de maux et de troubles leur arrivaient, ce chant [de louange] [reviendrait et] servirait [devant Moi] de témoignage devant eux comme témoin - car il ne sera jamais oublié des lèvres de leur progéniture - car Je connais [il est révélé devant Moi] leur impulsion qu'ils gratifient aujourd'hui avant que Je les amène au pays que J'ai juré."
+    },
+    {
+      "ref": "Deuteronomy 31:22",
+      "fr": "Moshe a écrit cette chanson [louange] ce jour-là et il l'a enseignée à Bnei Yisroel."
+    },
+    {
+      "ref": "Deuteronomy 31:23",
+      "fr": "Il ordonna à Yehoshua, fils de Noun, et lui dit : « Sois courageux et audacieux, car tu amèneras Bnei Yisroel dans le pays que je leur ai juré, et je serai avec toi. »"
+    },
+    {
+      "ref": "Deuteronomy 31:24",
+      "fr": "Quand Moché eut fini d'écrire les déclarations de cette Torah dans un livre, jusqu'à ce qu'elles soient complètes,"
+    },
+    {
+      "ref": "Deuteronomy 31:25",
+      "fr": "Moshe ordonna aux Lévites, porteurs de l’arche d’alliance d’Adonoy, de dire :"
+    },
+    {
+      "ref": "Deuteronomy 31:26",
+      "fr": "« Prends ce livre de la Torah et place-le sur le côté de l’arche d’Adonoy, l’alliance de ton Dieu ; et il sera là comme témoin contre vous."
+    },
+    {
+      "ref": "Deuteronomy 31:27",
+      "fr": "Car je connais ta rébellion, ton entêtement. Regarder! même si je vis avec vous aujourd'hui, vous avez été des défieurs [rebelles] avec [avant] Adonoy, sûrement après ma mort."
+    },
+    {
+      "ref": "Deuteronomy 31:28",
+      "fr": "Rassemblez devant moi tous les juges de vos tribus et vos exécuteurs, et je déclarerai [devant moi] ces déclarations, et j'invoquerai contre eux comme témoins le ciel et la terre,"
+    },
+    {
+      "ref": "Deuteronomy 31:29",
+      "fr": "Car je sais qu'après ma mort, vous vous dépraverez et vous vous écarterez de la voie que je vous ai commandée ; et du mal vous arrivera à la fin des temps, lorsque vous ferez ce qui est mauvais aux yeux d'Adonoy pour le contrarier avec vos actions."
+    },
+    {
+      "ref": "Deuteronomy 31:30",
+      "fr": "Moshe a parlé devant [devant] toute l'assemblée d'Israël les déclarations de cette chanson, jusqu'à ce qu'elles soient complètes."
+    }
+  ]
+}

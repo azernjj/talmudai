@@ -1,0 +1,372 @@
+{
+  "name": "Shemini",
+  "range": "Leviticus 9:1-11:47",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/shemini.json",
+  "verses": [
+    {
+      "ref": "Leviticus 9:1",
+      "fr": "Et ce fut le huitième jour que Moïse appela Aaron, ses fils et les anciens d'Israël."
+    },
+    {
+      "ref": "Leviticus 9:2",
+      "fr": "Il dit à Aaron : Prends pour toi un jeune veau pour le sacrifice d'expiation et un bélier pour l'holocauste, sans défaut, et amène-les devant Adonoï."
+    },
+    {
+      "ref": "Leviticus 9:3",
+      "fr": "Tu parleras à Bnei Yisroel, en disant : prends un bouc pour le sacrifice d'expiation, et un veau et un agneau, tous deux âgés d'un an, sans défaut, pour l'holocauste."
+    },
+    {
+      "ref": "Leviticus 9:4",
+      "fr": "un bœuf et un bélier en offrande de paix [sacrée], à sacrifier devant Adonoy et une offrande de gâteau pétrie d'huile, car aujourd'hui [la gloire d'] Adonoy vous apparaîtra [se révélera] à vous."
+    },
+    {
+      "ref": "Leviticus 9:5",
+      "fr": "Ils prirent ce que Moshe avait commandé, devant la Tente du Rendez-vous ; Et toute l'assemblée s'approcha et se tint devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 9:6",
+      "fr": "Moshe dit : C'est ce qu'Adonoy t'a ordonné de faire : et la gloire d'Adonoy t'apparaîtra [se révélera] à toi."
+    },
+    {
+      "ref": "Leviticus 9:7",
+      "fr": "Moshe dit à Aharon : Approche-toi de l'autel et accomplis [les services de] ton sacrifice pour le péché et ton holocauste et expie pour toi et pour le peuple ; et accomplissez [le service] des offrandes du peuple et expiez en leur faveur, tout comme Adonoy l'a ordonné."
+    },
+    {
+      "ref": "Leviticus 9:8",
+      "fr": "Aaron s'approcha de l'autel et égorgea le veau qu'il avait en sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 9:9",
+      "fr": "Les fils d'Aharon lui apportèrent le sang et il trempa son doigt dans le sang et le mit sur les coins de l'autel et il versa le sang [restant] dans la base de l'autel."
+    },
+    {
+      "ref": "Leviticus 9:10",
+      "fr": "Il brûla sur l'autel la graisse, les rognons et le lobe du foie provenant du sacrifice pour le péché, comme Adonoï l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Leviticus 9:11",
+      "fr": "La chair et la peau, il les brûla dans un feu au-delà du campement."
+    },
+    {
+      "ref": "Leviticus 9:12",
+      "fr": "Il égorgea l'holocauste ; Les fils d'Aharon lui présentèrent le sang, et il en répandit tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 9:13",
+      "fr": "Ils lui présentèrent l'holocauste avec les membres coupés et la tête, et il les brûla sur l'autel."
+    },
+    {
+      "ref": "Leviticus 9:14",
+      "fr": "Il lava les entrailles et les pieds et les brûla sur l'holocauste, sur l'autel."
+    },
+    {
+      "ref": "Leviticus 9:15",
+      "fr": "Il apporta l'offrande du peuple ; il prit le bouc du peuple pour le sacrifice d'expiation, il l'égorgea et l'offrit en sacrifice d'expiation [expié de son sang], de la même manière que le premier."
+    },
+    {
+      "ref": "Leviticus 9:16",
+      "fr": "Il apporta l'holocauste et le fit selon la règle."
+    },
+    {
+      "ref": "Leviticus 9:17",
+      "fr": "Il apporta l'offrande de repas ; il en remplit sa paume et la brûla sur l'autel, sans compter l'holocauste [qui était apporté] le matin."
+    },
+    {
+      "ref": "Leviticus 9:18",
+      "fr": "Il égorgea le bœuf et le bélier, offrandes de paix [sacrées] du peuple ; Les fils d'Aharon lui présentèrent le sang et il en répandit tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 9:19",
+      "fr": "Les graisses du bœuf et du bélier ; la grosse queue, la [graisse] qui recouvre [les entrailles], les reins et le lobe du foie."
+    },
+    {
+      "ref": "Leviticus 9:20",
+      "fr": "Ils mirent la graisse sur les poitrines et il brûla les graisses sur l'autel."
+    },
+    {
+      "ref": "Leviticus 9:21",
+      "fr": "Aharon agita les seins et la cuisse droite [comme] une offrande agitée [une offrande élevée] devant Adonoy, tout comme Moshe l'avait ordonné."
+    },
+    {
+      "ref": "Leviticus 9:22",
+      "fr": "Aaron leva les mains vers le peuple et les bénit. Il descendit [de l'autel où il] avait offert le sacrifice d'expiation, l'holocauste et l'offrande de paix."
+    },
+    {
+      "ref": "Leviticus 9:23",
+      "fr": "Et Moshe et Aharon entrèrent dans la tente d'assignation, puis ils sortirent et bénirent le peuple, et la gloire d'Adonoy apparut à tout le peuple."
+    },
+    {
+      "ref": "Leviticus 9:24",
+      "fr": "Un feu sortit de devant Adonoy et consuma ce qui était sur l'autel ; l'holocauste et les graisses. Tout le peuple vit, et ils élevèrent la voix en louange, et tombèrent la face contre terre."
+    },
+    {
+      "ref": "Leviticus 10:1",
+      "fr": "Nodov et Avihu, fils d'Aharon, prirent chacun son brasier, y mirent du feu, puis y déposèrent de l'encens et ils apportèrent devant Adonoy un feu étranger, qu'il ne leur avait pas commandé."
+    },
+    {
+      "ref": "Leviticus 10:2",
+      "fr": "Un feu sortit de devant Adonoy et les consuma, et ils moururent en présence d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 10:3",
+      "fr": "Moshe dit à Aharon. C'est comme Adonoy a parlé, disant : par ceux qui sont près de moi, je serai sanctifié, et en présence de tout le peuple je serai glorifié, et Aharon se tut."
+    },
+    {
+      "ref": "Leviticus 10:4",
+      "fr": "Moshe appela Mishael et Elzafan, fils d'Uziel, [le frère du père de] l'oncle d'Aharon, et leur dit : Approchez-vous et portez vos frères depuis la présence du Sanctuaire jusqu'au-delà du campement."
+    },
+    {
+      "ref": "Leviticus 10:5",
+      "fr": "Ils se sont approchés et les ont portés dans leurs tuniques au-delà du camp, au moment même où Moshe parlait."
+    },
+    {
+      "ref": "Leviticus 10:6",
+      "fr": "Moché dit à Aaron, à Elozor et à Isomor, ses fils : Ne laisse pas pousser tes cheveux et ne déchire pas tes vêtements, afin que tu ne meures pas et que tu ne provoques pas la colère [Divine] sur toute l'assemblée ; vos frères, toute la maison d'Israël pleurera sur l'incendie qu'Adonoy a allumé."
+    },
+    {
+      "ref": "Leviticus 10:7",
+      "fr": "Vous ne sortirez pas de l’entrée de la tente d’assignation, de peur de mourir ; car l'huile d'onction de [l'inauguration à la grandeur d'] Adonoy est sur vous et ils ont fait ce que Moshe avait dit."
+    },
+    {
+      "ref": "Leviticus 10:8",
+      "fr": "Adonoy parla à Aaron et dit :"
+    },
+    {
+      "ref": "Leviticus 10:9",
+      "fr": "Ne buvez pas de vin ni aucune autre boisson intoxicante, vous et vos fils avec vous, lorsque vous entrerez dans la tente d'assignation et vous ne mourrez pas ; c'est une loi éternelle pour vos générations."
+    },
+    {
+      "ref": "Leviticus 10:10",
+      "fr": "[Afin que vous puissiez] faire la distinction entre ce qui est sacré et ce qui est mondain, entre ce qui est impur et ce qui est pur."
+    },
+    {
+      "ref": "Leviticus 10:11",
+      "fr": "[Et afin que vous puissiez] enseigner à Bnei Yisroel tous les statuts qu'Adonoy leur a dit, par l'intermédiaire de Moshe."
+    },
+    {
+      "ref": "Leviticus 10:12",
+      "fr": "Moshe parla à Aharon et à Elozor et Isomor, ses fils survivants ; Prenez l'offrande de repas qui reste de l'offrande par le feu [offrandes] d'Adonoy et mangez-la [comme] des matzos [matzoh] [sans levain] à côté de l'autel, car c'est le saint des saints [= très saint]."
+    },
+    {
+      "ref": "Leviticus 10:13",
+      "fr": "Vous le mangerez dans un lieu sacré, car c'est votre part et la part de vos fils des sacrifices par le feu [offrandes] d'Adonoy, car ainsi m'a-t-il été commandé."
+    },
+    {
+      "ref": "Leviticus 10:14",
+      "fr": "Vous mangerez la poitrine de l'offrande agitée et la cuisse qui est la portion séparée dans un lieu pur (sans souillure), vous et vos fils et filles avec vous, car comme votre part et comme la part de vos fils, elles sont données sur les sacrifices des offrandes de paix [sacrées] de Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 10:15",
+      "fr": "Ils apporteront la cuisse qui est la partie séparée et la poitrine qui est l'offrande agitée, par-dessus les graisses de l'offrande par le feu, pour les agiter comme une offrande agitée devant Adonoy. Ce sera pour toi et pour tes fils avec toi une loi éternelle, comme Adonoï l'a ordonné."
+    },
+    {
+      "ref": "Leviticus 10:16",
+      "fr": "Concernant le bouc du sacrifice pour le péché ; Moshe a fait une enquête détaillée et voici ! Il a été brûlé. Il se mit en colère contre Elozor et Isomor, les derniers fils d'Aharon, en disant :"
+    },
+    {
+      "ref": "Leviticus 10:17",
+      "fr": "Pourquoi n'avez-vous pas mangé le sacrifice d'expiation dans un lieu sacré, car c'est le saint des saints [=très saint], et il vous l'a donné pour porter l'iniquité de l'assemblée, pour les expier devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 10:18",
+      "fr": "Voici, son sang n'a pas été introduit dans le Sanctuaire, vous auriez certainement dû le manger dans un lieu saint comme je l'ai ordonné."
+    },
+    {
+      "ref": "Leviticus 10:19",
+      "fr": "Aharon parla [en réponse] à Moché : Voici, aujourd'hui, ils ont apporté leurs offrandes pour le péché et leurs holocaustes devant Adonoy et alors une telle [tragédie] m'est arrivée. Si j'avais mangé le sacrifice pour le péché aujourd'hui, cela aurait-il été bon aux yeux d'Adonoy ?"
+    },
+    {
+      "ref": "Leviticus 10:20",
+      "fr": "Moshe a entendu, et c'était bon [agréable] à ses yeux."
+    },
+    {
+      "ref": "Leviticus 11:1",
+      "fr": "Et Adonoy parla à Moché et à Aaron, leur disant :"
+    },
+    {
+      "ref": "Leviticus 11:2",
+      "fr": "Parle à Bnei Yisroel, et dis : Ce sont là les êtres vivants que vous pourrez manger parmi tous les animaux qui sont sur la terre."
+    },
+    {
+      "ref": "Leviticus 11:3",
+      "fr": "Tous ceux qui ont le sabot fendu, et qui [les sabots] sont [complètement] fendus et qui [aussi] rumine [apporte de la nourriture dissoute] parmi les animaux, vous pouvez le manger."
+    },
+    {
+      "ref": "Leviticus 11:4",
+      "fr": "Mais vous ne pouvez pas manger ceux-là en particulier de ceux qui ruminent [nourriture dissoute] et qui ont les sabots fendus : le chameau, car il rumine [nourriture dissoute] mais n'a pas le sabot fendu, il vous sera impur."
+    },
+    {
+      "ref": "Leviticus 11:5",
+      "fr": "Le lapin [sauteur], car il rumine [nourriture dissoute] mais n'a pas le sabot fendu, il vous est impur."
+    },
+    {
+      "ref": "Leviticus 11:6",
+      "fr": "Le lièvre, car il rumine [nourriture dissoute] mais il n'a pas le sabot fourchu, il vous est impur."
+    },
+    {
+      "ref": "Leviticus 11:7",
+      "fr": "Le cochon, car bien qu'il ait les sabots fourchus et que ses sabots soient [complètement] fendus, et qu'il ne rumine pas [la nourriture dissoute], il est impur pour vous."
+    },
+    {
+      "ref": "Leviticus 11:8",
+      "fr": "Vous ne mangerez pas de leur chair et vous ne pourrez pas toucher à leurs cadavres ; ils sont impurs pour vous."
+    },
+    {
+      "ref": "Leviticus 11:9",
+      "fr": "Vous pourrez manger de tout ce qui est dans l'eau ; tous ceux qui ont des nageoires et des écailles dans les eaux, dans les océans et dans les rivières ; vous pouvez les manger."
+    },
+    {
+      "ref": "Leviticus 11:10",
+      "fr": "Tous ceux qui n'ont pas de nageoires ni d'écailles [qui sont] dans les océans et les rivières ; de toute créature qui rampe dans l'eau et de toute créature vivante qui se trouve dans l'eau ; ils vous répugnent."
+    },
+    {
+      "ref": "Leviticus 11:11",
+      "fr": "Ils vous répugneront, vous ne mangerez pas de leur chair et leurs cadavres vous répugneront."
+    },
+    {
+      "ref": "Leviticus 11:12",
+      "fr": "Tout ce qui n'a pas de nageoires ni d'écailles dans l'eau vous répugne."
+    },
+    {
+      "ref": "Leviticus 11:13",
+      "fr": "Ceux-là, vous les considérerez comme répugnants parmi les oiseaux ; ils ne peuvent pas être mangés ; ils sont repoussants : l'aigle, le pygargue à queue blanche et le gypaète barbu."
+    },
+    {
+      "ref": "Leviticus 11:14",
+      "fr": "Le faucon et le vautour [déchirant], selon son espèce."
+    },
+    {
+      "ref": "Leviticus 11:15",
+      "fr": "Chaque corbeau, à son espèce."
+    },
+    {
+      "ref": "Leviticus 11:16",
+      "fr": "L'autruche, la chouette, la mouette et l'épervier, à son espèce."
+    },
+    {
+      "ref": "Leviticus 11:17",
+      "fr": "La chouette chevêche, le cormoran [tiroir à poissons] et le hibou grand-duc."
+    },
+    {
+      "ref": "Leviticus 11:18",
+      "fr": "Le hibou d'Amérique, le pélican et le vautour charognard."
+    },
+    {
+      "ref": "Leviticus 11:19",
+      "fr": "La cigogne [blanche] et le héron, à son espèce. La huppe fasciée et la chauve-souris."
+    },
+    {
+      "ref": "Leviticus 11:20",
+      "fr": "Tous les insectes ailés qui marchent sur quatre [pattes] vous répugnent."
+    },
+    {
+      "ref": "Leviticus 11:21",
+      "fr": "Cependant, vous pourrez manger de tous les insectes volants qui marchent à quatre pattes, ceux qui ont les genoux dépassant leurs jambes pour qu'ils sautent à terre avec eux."
+    },
+    {
+      "ref": "Leviticus 11:22",
+      "fr": "C'est d'eux que vous pourrez manger ; le criquet, à son espèce le criquet solo, à son espèce, la sauterelle, à son espèce et la sauterelle chogov, à son espèce."
+    },
+    {
+      "ref": "Leviticus 11:23",
+      "fr": "Tous les insectes volants qui ont quatre pattes vous répugnent."
+    },
+    {
+      "ref": "Leviticus 11:24",
+      "fr": "Quant à ceux-là, [les animaux], vous pouvez être rendus impurs ; tous ceux qui toucheront leurs cadavres seront impurs jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:25",
+      "fr": "Quiconque transporte leurs carcasses ; il lavera ses vêtements et sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:26",
+      "fr": "Ainsi, tout animal qui a les sabots fendus, mais dont les sabots ne sont pas [complètement] fendus et qui ne rumine pas [nourriture dissoute], ils vous seront impurs ; tous ceux qui les toucheront deviendront impurs."
+    },
+    {
+      "ref": "Leviticus 11:27",
+      "fr": "Tous les animaux qui marchent sur leurs pattes, parmi tous les êtres vivants qui marchent sur quatre pattes, vous seront impurs. Tous ceux qui toucheront leurs cadavres seront impurs jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:28",
+      "fr": "Celui qui portera leurs cadavres lavera ses vêtements et sera impur jusqu'au soir ; ils sont impurs pour vous."
+    },
+    {
+      "ref": "Leviticus 11:29",
+      "fr": "Ceux-ci vous seront impurs parmi tous les animaux rampants qui rampent sur la terre ; la belette, la souris et le crapaud, à son espèce."
+    },
+    {
+      "ref": "Leviticus 11:30",
+      "fr": "Le hérisson, le caméléon, le lézard, la limace et la taupe."
+    },
+    {
+      "ref": "Leviticus 11:31",
+      "fr": "Ceux-ci vous seront impurs parmi tous les reptiles. Celui qui les touchera morts sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:32",
+      "fr": "Tout, partout où une partie d'entre eux tombera lorsqu'ils seront morts, deviendra impur, comme un vase de bois, ou un vêtement, ou une peau, ou un sac. Tout vase avec lequel on travaille sera mis dans l'eau et restera impur jusqu'au soir, puis il deviendra pur."
+    },
+    {
+      "ref": "Leviticus 11:33",
+      "fr": "Tout vase de terre dans lequel tombera une partie d'entre eux, tout ce qui s'y trouve deviendra impur, et vous le briserez."
+    },
+    {
+      "ref": "Leviticus 11:34",
+      "fr": "De tous les aliments mangés sur lesquels de l'eau vient, seront impurs. Toute boisson bue dans un vase sera impure."
+    },
+    {
+      "ref": "Leviticus 11:35",
+      "fr": "Tout ce sur quoi tombera une partie de leurs cadavres sera impur, même un four et un foyer seront brisés, ils sont impurs et ils seront impurs pour vous."
+    },
+    {
+      "ref": "Leviticus 11:36",
+      "fr": "Cependant, une source et une fosse, un lieu de collecte d'eau, seront purs. [Mais] ce qui touche leurs cadavres sera impur."
+    },
+    {
+      "ref": "Leviticus 11:37",
+      "fr": "Si une partie de leurs carcasses tombe sur une graine qui sera plantée, elle reste [rituellement] propre."
+    },
+    {
+      "ref": "Leviticus 11:38",
+      "fr": "Si de l'eau a été mise une fois sur des graines et qu'une partie de leurs carcasses tombe dessus, elles seront impures pour vous."
+    },
+    {
+      "ref": "Leviticus 11:39",
+      "fr": "Si un animal meurt [parmi ceux] qui sont autorisés à manger, quiconque touchera sa carcasse sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:40",
+      "fr": "Celui qui mangera de son cadavre lavera ses vêtements et sera impur jusqu'au soir. Celui qui portera son cadavre lavera ses vêtements et sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 11:41",
+      "fr": "Toute créature rampante qui rampe sur le sol est répugnante et ne peut être mangée."
+    },
+    {
+      "ref": "Leviticus 11:42",
+      "fr": "Tout ce qui rampe sur le ventre et tout ce qui marche sur quatre [jambes] ou tout ce qui a plusieurs pieds ; concernant toutes les créatures rampantes qui rampent sur le sol ; vous ne pouvez pas les manger, car ils sont répugnants."
+    },
+    {
+      "ref": "Leviticus 11:43",
+      "fr": "Ne vous rendez pas répugnant en mangeant des animaux rampants et ne vous rendez pas impurs avec eux, car vous deviendrez impurs à cause d'eux."
+    },
+    {
+      "ref": "Leviticus 11:44",
+      "fr": "Car je suis Adonoy, votre Dieu ; vous vous sanctifierez et vous deviendrez saints, car je suis saint et vous ne vous rendrez pas impurs avec aucun reptile qui rampe sur le sol."
+    },
+    {
+      "ref": "Leviticus 11:45",
+      "fr": "Car je suis Adonoy, qui t'ai fait monter du pays d'Égypte pour être ton Dieu. Vous serez saint, car je suis saint."
+    },
+    {
+      "ref": "Leviticus 11:46",
+      "fr": "Telle est la loi concernant les animaux et les oiseaux et tous les êtres vivants qui pullulent dans les eaux et tous les êtres qui rampent sur la terre."
+    },
+    {
+      "ref": "Leviticus 11:47",
+      "fr": "Pour faire la distinction entre ce qui est impur et ce qui est pur, entre les êtres vivants qui peuvent être mangés et entre les êtres vivants qui ne peuvent pas être mangés."
+    }
+  ]
+}

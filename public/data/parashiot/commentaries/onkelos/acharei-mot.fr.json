@@ -1,0 +1,328 @@
+{
+  "name": "A'harei Mot",
+  "range": "Leviticus 16:1-18:30",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/acharei-mot.json",
+  "verses": [
+    {
+      "ref": "Leviticus 16:1",
+      "fr": "Et Adonoy parla à Moshe après la mort de deux fils d'Aharon, qui apportèrent une offrande [non autorisée] [feu étranger] devant Adonoy et ils moururent."
+    },
+    {
+      "ref": "Leviticus 16:2",
+      "fr": "Adonoy parla à Moshe : Parle à ton frère Aharon pour qu'il n'entre pas à tout moment dans le Saint [Sanctuaire] qui est à l'intérieur du Rideau, devant le couvercle de l'Arche qui est sur l'Arche afin qu'il ne meure pas, car dans un nuage j'apparaîtrai [deviens révélé] sur le [Maison du] couvercle de l'Arche."
+    },
+    {
+      "ref": "Leviticus 16:3",
+      "fr": "Avec cela, Aharon entrera dans le Saint [Sanctuaire] ; avec un jeune taureau, pour le sacrifice d'expiation, et un bélier, pour l'holocauste."
+    },
+    {
+      "ref": "Leviticus 16:4",
+      "fr": "Il revêtira une tunique de lin sanctifiée et un pantalon de lin sera sur son corps. Il se ceindra d'une ceinture en lin et mettra sur sa tête un turban en lin. Ce sont des vêtements sacrés ; il baignera son corps dans l'eau et s'en vêtira."
+    },
+    {
+      "ref": "Leviticus 16:5",
+      "fr": "Il prendra de l'assemblée d'Israël deux boucs pour le sacrifice d'expiation et un bélier pour l'holocauste."
+    },
+    {
+      "ref": "Leviticus 16:6",
+      "fr": "Aaron apportera le taureau d'expiation qui lui appartient et fera l'expiation pour lui et pour sa maison."
+    },
+    {
+      "ref": "Leviticus 16:7",
+      "fr": "Il prendra les deux boucs et les placera devant Adonoy, à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 16:8",
+      "fr": "Aaron tirera au sort les deux boucs ; un lot [marqué] pour [le nom de] Adonoy et un lot [marqué] pour Azazel."
+    },
+    {
+      "ref": "Leviticus 16:9",
+      "fr": "Aharon amènera le bouc sur lequel est monté le sort [marqué] pour [le nom d'] Adonoy et le fera (l'offrira) en sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 16:10",
+      "fr": "Le bouc sur lequel est venu le sort [marqué] pour Azazel sera placé, vivant, devant Adonoy, pour faire l'expiation avec lui et l'envoyer à Azazel, dans le désert."
+    },
+    {
+      "ref": "Leviticus 16:11",
+      "fr": "Aaron apportera le taureau du sacrifice pour le péché qui est à lui et fera l'expiation pour lui et pour sa maison, et il égorgera son taureau pour le sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 16:12",
+      "fr": "Il prendra une pleine pelle de charbons ardents du haut de l'autel qui est devant Adonoy et des poignées pleines d'encens finement moulu et il les apportera à l'intérieur du rideau."
+    },
+    {
+      "ref": "Leviticus 16:13",
+      "fr": "Il mettra l'encens [épices] sur le feu devant Adonoy et le nuage d'encens couvrira le couvercle de l'arche qui est sur les [tablettes du] témoignage, afin qu'il ne meure pas."
+    },
+    {
+      "ref": "Leviticus 16:14",
+      "fr": "Il prendra du sang des taureaux et il l'aspergera avec son doigt sur la surface du couvercle de l'arche, à l'est ; et devant le couvercle de l'arche, il aspergera sept fois du sang avec son doigt."
+    },
+    {
+      "ref": "Leviticus 16:15",
+      "fr": "Il égorgera le bouc en sacrifice pour le péché qui appartient au peuple, et il apportera son sang à l'intérieur du rideau. Il fera avec son sang comme il a fait avec le sang des taureaux et il en aspergera le couvercle de l'arche et devant le couvercle de l'arche."
+    },
+    {
+      "ref": "Leviticus 16:16",
+      "fr": "Il expiera pour le Sanctuaire, des impuretés des Bnei Yisroel et de leurs péchés rebelles pour toutes leurs transgressions. Il fera de même pour la tente d'assignation, qui demeure avec eux au milieu de leur impureté."
+    },
+    {
+      "ref": "Leviticus 16:17",
+      "fr": "Personne ne sera présent dans la Tente d'assignation lorsqu'il entrera pour expier le Saint [Sanctuaire] jusqu'à son départ. Il fera l'expiation pour lui et pour sa maison et pour toute l'assemblée d'Israël."
+    },
+    {
+      "ref": "Leviticus 16:18",
+      "fr": "Il sortira à l'autel qui est devant Adonoy et fera l'expiation là-dessus. Il prendra du sang des taureaux et du sang des boucs et il le mettra aux coins de l'autel, tout autour."
+    },
+    {
+      "ref": "Leviticus 16:19",
+      "fr": "Il l'aspergera sept fois du sang qui est sur son doigt, le purifiera et le sanctifiera des impuretés de Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 16:20",
+      "fr": "Quand il aura fini d'expier pour le Saint [Sanctuaire] et [pour] la Tente d'assignation et [pour] l'autel, il amènera le bouc vivant."
+    },
+    {
+      "ref": "Leviticus 16:21",
+      "fr": "Aharon posera ses deux mains sur la tête du bouc vivant et confessera dessus toutes les iniquités des Bnei Yisroel et toutes leurs transgressions rebelles pour tous leurs péchés, et les mettra sur la tête du bouc et l'enverra avec l'homme [ainsi] désigné, pour [aller] au désert."
+    },
+    {
+      "ref": "Leviticus 16:22",
+      "fr": "Le bouc emportera sur lui toutes leurs iniquités dans un pays désolé [inhabité], et [l'homme] enverra le bouc dans le désert."
+    },
+    {
+      "ref": "Leviticus 16:23",
+      "fr": "Aharon entrera alors dans la Tente d'assignation et enlèvera les vêtements de lin qu'il portait lorsqu'il est entré dans le Saint [Sanctuaire] et les y placera [cachera]."
+    },
+    {
+      "ref": "Leviticus 16:24",
+      "fr": "Il lavera sa chair dans l'eau dans un lieu sacré et revêtira ses vêtements. Il sortira et offrira son holocauste et celui du peuple, et il fera l'expiation pour lui et pour le peuple."
+    },
+    {
+      "ref": "Leviticus 16:25",
+      "fr": "Il brûlera la graisse du sacrifice pour le péché sur l'autel."
+    },
+    {
+      "ref": "Leviticus 16:26",
+      "fr": "Celui qui envoie [apporte] le bouc à Azazel lavera ses vêtements et baignera son corps dans l'eau, puis il entrera dans le camp."
+    },
+    {
+      "ref": "Leviticus 16:27",
+      "fr": "Le taureau d'offrande pour le péché et le bouc d'offrande pour le péché dont le sang a été apporté pour accomplir l'expiation dans le Saint [Sanctuaire], il les fera sortir du camp. Ils brûleront au feu leurs peaux, leur chair et leurs excréments [qui sont dans leurs intestins]."
+    },
+    {
+      "ref": "Leviticus 16:28",
+      "fr": "Celui qui les brûlera lavera ses vêtements et baignera son corps dans l'eau, puis il entrera dans le camp."
+    },
+    {
+      "ref": "Leviticus 16:29",
+      "fr": "Ce sera pour vous une loi éternelle ; le septième mois, le dixième jour du mois, vous vous affligerez et ne ferez aucun travail, ni l'indigène ni le prosélyte résidant parmi vous."
+    },
+    {
+      "ref": "Leviticus 16:30",
+      "fr": "Car ce jour-là, Il fera l'expiation pour vous, pour vous purifier de tous vos péchés, devant Adonoy, vous serez purifiés."
+    },
+    {
+      "ref": "Leviticus 16:31",
+      "fr": "C'est un Chabbat de Chabbosos pour vous et vous devez vous affliger ; c'est une loi éternelle."
+    },
+    {
+      "ref": "Leviticus 16:32",
+      "fr": "Le kohein expiera – celui qui sera lui-même oint [inauguré à la grandeur] et qui sera initié – [offrira son sacrifice] pour servir à la place de son père et revêtir les vêtements de lin, les vêtements sacrés."
+    },
+    {
+      "ref": "Leviticus 16:33",
+      "fr": "Il expiera pour le Saint [Sanctuaire] ; et pour la tente d'assignation et pour l'autel, il fera l'expiation ; il fera l'expiation pour les cohanim et pour tout le peuple de l'assemblée."
+    },
+    {
+      "ref": "Leviticus 16:34",
+      "fr": "Ceci sera pour vous comme une loi éternelle, pour que les Bnei Yisroel accomplissent l'expiation de tous leurs péchés, une fois par an. Il fit ce qu'Adonoy avait ordonné à Moché."
+    },
+    {
+      "ref": "Leviticus 17:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 17:2",
+      "fr": "Parle à Aaron et à ses fils et à tous les Bnei Yisroel et dis-leur : c'est l'édit qu'Adonoy commanda, disant :"
+    },
+    {
+      "ref": "Leviticus 17:3",
+      "fr": "Toute personne de la maison d'Israël qui égorgera un bœuf, un agneau ou une chèvre dans le camp ou qui l'égorgera au-delà du camp."
+    },
+    {
+      "ref": "Leviticus 17:4",
+      "fr": "Et il ne l'a pas amené à l'entrée de la Tente d'assignation pour qu'il soit présenté en offrande à Adonoy, devant le Mishkan d'Adonoy ; cela sera considéré pour lui comme du sang, il a versé du sang, et cet homme sera retranché du milieu de son peuple."
+    },
+    {
+      "ref": "Leviticus 17:5",
+      "fr": "Ainsi, les Bnei Yisroel apporteront leurs sacrifices qu'ils [voudraient] égorger sur le champ, et [à la place] ils les amèneront [devant] Adonoy à l'entrée de la tente d'assignation, au kohein, et les égorgeront comme offrandes de paix [sacrées] à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 17:6",
+      "fr": "Le kohein aspergera le sang sur l'autel d'Adonoy à l'entrée de la Tente d'assignation et brûlera la graisse comme un parfum agréable pour [pour être accepté avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 17:7",
+      "fr": "Ils ne sacrifieront plus aux démons, après quoi ils s'égarent. Ce sera pour eux, pour leurs descendants, une loi éternelle."
+    },
+    {
+      "ref": "Leviticus 17:8",
+      "fr": "Tu leur diras : chaque personne de la maison d'Israël et parmi les prosélytes qui résideront [converti] parmi eux, qui apporteront un holocauste ou un sacrifice [offrande sacrée],"
+    },
+    {
+      "ref": "Leviticus 17:9",
+      "fr": "et il ne l'apporte pas à l'entrée de la tente d'assignation pour qu'il soit offert à Adonoy ; cette personne sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 17:10",
+      "fr": "Chaque personne de la maison d'Israël et parmi les prosélytes qui résident [convertis] parmi eux et qui mangeraient du sang ; Je dirigerai ma colère contre l'âme de celui qui mange le sang et je le retrancherai du milieu de son peuple."
+    },
+    {
+      "ref": "Leviticus 17:11",
+      "fr": "Car [l'] âme du corps est dans le sang et je vous l'ai donnée [pour qu'elle soit placée] sur l'autel afin d'accomplir l'expiation pour vos âmes, car c'est le sang qui accomplira l'expiation pour l'âme."
+    },
+    {
+      "ref": "Leviticus 17:12",
+      "fr": "C'est pourquoi j'ai dit à Bnei Yisroel : Toute personne parmi vous ne mangera pas de sang. Le prosélyte résidant parmi vous ne mangera pas de sang."
+    },
+    {
+      "ref": "Leviticus 17:13",
+      "fr": "Chaque personne de la maison d'Israël et parmi les prosélytes résidant [qui se convertit] parmi eux qui prendront au piège [la capture] tout animal sauvage ou volaille dont il est permis de manger, il en versera le sang et le couvrira de terre."
+    },
+    {
+      "ref": "Leviticus 17:14",
+      "fr": "Car [quant à] la vie de toute chair, son sang est sa vie, et j'ai dit à Bnei Yisroel : Vous ne devez pas manger le sang de toute chair, car la vie de toute chair est son sang. Celui qui en mangera sera retranché."
+    },
+    {
+      "ref": "Leviticus 17:15",
+      "fr": "Quiconque mangera un animal mal abattu ou un animal présentant un défaut mortel parmi les autochtones et les prosélytes, devra laver ses vêtements et se baigner dans l'eau et sera impur jusqu'au soir, et [ensuite] sera purifié."
+    },
+    {
+      "ref": "Leviticus 17:16",
+      "fr": "S'il ne lave pas [ses vêtements] et ne baigne pas sa chair, il porte [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Leviticus 18:1",
+      "fr": "Adonoy a parlé à Moshe, disant."
+    },
+    {
+      "ref": "Leviticus 18:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur que je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 18:3",
+      "fr": "Vous ne ferez pas la pratique du [peuple du] pays d'Égypte dans lequel vous avez vécu, et vous ne ferez pas la pratique du [peuple du] pays de Canaan, où je vous amène, et vous ne suivrez pas leurs statuts [coutumes]."
+    },
+    {
+      "ref": "Leviticus 18:4",
+      "fr": "Vous respecterez mes lois et vous observerez mes statuts pour les suivre, je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 18:5",
+      "fr": "Vous garderez Mes statuts et Mes lois ; si un homme les obéit, il vivra par elles [dans le monde à venir] ; Je m'appelle Adonoy."
+    },
+    {
+      "ref": "Leviticus 18:6",
+      "fr": "Chaque personne, jusqu'à l'un de ses proches, tu ne t'approcheras pas pour découvrir [leur] nudité, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 18:7",
+      "fr": "Tu ne découvriras pas la nudité de ton père ni la nudité de ta mère ; c'est ta mère, tu ne découvriras pas sa nudité."
+    },
+    {
+      "ref": "Leviticus 18:8",
+      "fr": "Vous ne découvrirez pas la nudité de la femme de votre père ; c'est la nudité de ton père."
+    },
+    {
+      "ref": "Leviticus 18:9",
+      "fr": "La nudité de votre sœur [qu'elle soit] la fille de votre père ou la fille de votre mère ; Qu'elle soit née dans la maison [à votre père d'une autre femme], ou qu'elle soit née dehors [à votre mère d'un autre homme], vous ne découvrirez pas leur nudité."
+    },
+    {
+      "ref": "Leviticus 18:10",
+      "fr": "La nudité de la fille de votre fils ou de la fille de votre fille ; tu ne découvriras pas leur nudité, car leur nudité est la tienne."
+    },
+    {
+      "ref": "Leviticus 18:11",
+      "fr": "La nudité de la fille de la femme de ton père, qui est née de ton père ; c'est ta sœur, tu ne découvriras pas sa nudité."
+    },
+    {
+      "ref": "Leviticus 18:12",
+      "fr": "Vous ne découvrirez pas la nudité de la sœur de votre père ; elle est la parente de ton père."
+    },
+    {
+      "ref": "Leviticus 18:13",
+      "fr": "Vous ne découvrirez pas la nudité de la sœur de votre mère, car elle est la parente de votre mère."
+    },
+    {
+      "ref": "Leviticus 18:14",
+      "fr": "Tu ne découvriras pas la nudité du frère de ton père. Tu n’approcheras pas sa femme, c’est ta tante [la femme du frère de ton père]."
+    },
+    {
+      "ref": "Leviticus 18:15",
+      "fr": "Tu ne découvriras pas la nudité de ta belle-fille ; c'est la femme de ton fils, tu ne découvriras pas sa nudité."
+    },
+    {
+      "ref": "Leviticus 18:16",
+      "fr": "Tu ne découvriras pas la nudité de la femme de ton frère ; c'est la nudité de ton frère."
+    },
+    {
+      "ref": "Leviticus 18:17",
+      "fr": "Vous ne découvrirez pas la nudité d'une femme et de sa fille. Tu ne prendras pas la fille de son fils et la fille de sa fille pour découvrir sa nudité, elles sont parentes ; c'est de la lubricité [un plan pécheur]."
+    },
+    {
+      "ref": "Leviticus 18:18",
+      "fr": "Vous ne prendrez pas une femme et sa sœur pour la contrarier et découvrir sa nudité avec l'autre, de son vivant."
+    },
+    {
+      "ref": "Leviticus 18:19",
+      "fr": "Vous ne devez pas vous approcher d’une femme pendant son impureté menstruelle [l’état de sa « séparation » impure] pour découvrir sa nudité."
+    },
+    {
+      "ref": "Leviticus 18:20",
+      "fr": "Avec la femme de votre ami, vous ne mentirez pas charnellement pour vous souiller à travers elle."
+    },
+    {
+      "ref": "Leviticus 18:21",
+      "fr": "Tu ne livreras aucun de tes enfants au culte de Molech et tu ne souilleras pas le nom de ton Dieu, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 18:22",
+      "fr": "Vous ne coucherez pas avec un homme [conjugalement] comme on couche avec une femme ; c'est une abomination."
+    },
+    {
+      "ref": "Leviticus 18:23",
+      "fr": "Vous ne mentirez pas avec un animal pour vous souiller avec lui. Une femme ne doit pas se tenir devant un animal pour copuler avec lui [la contrôler] ; c'est une souillure."
+    },
+    {
+      "ref": "Leviticus 18:24",
+      "fr": "Ne vous souillez pas par aucune de ces [voies], car dans toutes ces [voies] les nations se sont souillées [ceux] que je chasse [exiler] devant vous."
+    },
+    {
+      "ref": "Leviticus 18:25",
+      "fr": "Le pays s'est souillé et j'ai jugé sur lui ses iniquités et le pays a expulsé ses habitants."
+    },
+    {
+      "ref": "Leviticus 18:26",
+      "fr": "Vous devez adhérer à mes statuts et à mes lois et ne commettre aucune de ces abominations [à la fois] le natif [installé] et le prosélyte qui réside [se convertit] parmi vous."
+    },
+    {
+      "ref": "Leviticus 18:27",
+      "fr": "Car toutes ces abominations ont été commises par les habitants du pays qui vous ont précédé, et le pays a été souillé."
+    },
+    {
+      "ref": "Leviticus 18:28",
+      "fr": "[Afin que] le pays ne vous expulse pas lorsque vous le souillez, comme il a expulsé la nation [les nations] avant vous."
+    },
+    {
+      "ref": "Leviticus 18:29",
+      "fr": "Car quiconque commettra l’une de ces abominations, son âme sera retranchée du milieu de son peuple, ceux qui commettent ces choses."
+    },
+    {
+      "ref": "Leviticus 18:30",
+      "fr": "Vous garderez Ma garde [la garde de Ma Parole] afin que vous ne commettiez aucune des coutumes abominables qui ont été pratiquées avant vous et que vous ne vous souillerez pas par elles. Je suis Adonoy, votre Dieu."
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "name": "Vaet'hanan",
+  "range": "Deuteronomy 3:23-7:11",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vaetchanan.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 3:23",
+      "fr": "J'ai supplié [prié] Adonoy à ce moment-là, en disant :"
+    },
+    {
+      "ref": "Deuteronomy 3:24",
+      "fr": "« Adonoy, El lui, tu as commencé à montrer à ton serviteur ta grandeur et ta main puissante, qu'il n'y a pas de pouvoir dans [Tu es Dieu, dont la Chechinah est dans] le ciel [au-dessus] ou [Souverain] sur terre et que [il n'y a personne qui] puisse accomplir Tes actes et Tes actes de puissance."
+    },
+    {
+      "ref": "Deuteronomy 3:25",
+      "fr": "S’il vous plaît, permettez-moi de traverser et de voir le bon pays qui se trouve de l’autre côté du Yardein, cette bonne montagne et le Liban [Beis Hamikdosh].’’"
+    },
+    {
+      "ref": "Deuteronomy 3:26",
+      "fr": "[D'avant] Adonoy s'est mis en colère contre moi à cause de ta faute et ne m'a pas écouté ; Adonoy m'a dit : « Assez pour toi ! Ne continuez plus à me parler de cette affaire."
+    },
+    {
+      "ref": "Deuteronomy 3:27",
+      "fr": "Montez au sommet du Pisgah et regardez autour de vous : à l'ouest, au nord, au sud et à l'est ; voyez de vos propres yeux ; car vous ne traverserez pas ce Yardein."
+    },
+    {
+      "ref": "Deuteronomy 3:28",
+      "fr": "Et commande à Yehoshua, et encourage-le et encourage-le, car il traversera à la tête de ce peuple et il leur partagera le pays que tu verras."
+    },
+    {
+      "ref": "Deuteronomy 3:29",
+      "fr": "Nous vivions [habitions] dans la vallée face à Beis Peor."
+    },
+    {
+      "ref": "Deuteronomy 4:1",
+      "fr": "Et maintenant Yisroel, écoute les statuts et les lois que je t'enseigne à observer, afin que tu vives, que tu entres et que tu possèdes le pays que te donne Adonoï, le Dieu de tes pères."
+    },
+    {
+      "ref": "Deuteronomy 4:2",
+      "fr": "N’ajoutez rien aux choses que je vous commande, et n’en retranchez pas ; pour garder les commandements d'Adonoy, ton Dieu, que je te prescris."
+    },
+    {
+      "ref": "Deuteronomy 4:3",
+      "fr": "Vos yeux ont été témoins de ce qu'Adonoy a fait à l'égard de Ba'al Peor, à savoir que tous les hommes qui suivaient Ba'al Peor, Adonoy, votre Dieu, l'ont détruit de l'intérieur de vous."
+    },
+    {
+      "ref": "Deuteronomy 4:4",
+      "fr": "Mais vous qui vous accrochez à Adonoy, votre Dieu, vous êtes tous vivants aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 4:5",
+      "fr": "Voyez, je vous ai enseigné des statuts et des lois, comme Adonoy, mon Dieu, m'a ordonné de les observer dans le pays dont vous venez là pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 4:6",
+      "fr": "Vous les préserverez et vous les accomplirez, car cela [montre] votre sagesse et votre intelligence devant les nations, qui entendront toutes ces lois et diront : « Le seul peuple sage et intelligent est cette grande nation. »"
+    },
+    {
+      "ref": "Deuteronomy 4:7",
+      "fr": "Car quelle est une grande nation qui ait Dieu près d'elle [pour recevoir ses prières en temps de tribulation] comme [l'est] Adonoy, notre Dieu, chaque fois que nous appelons à [prier devant] Lui ?"
+    },
+    {
+      "ref": "Deuteronomy 4:8",
+      "fr": "Et quelle est une grande nation qui a des statuts et des lois justes, comme toute cette Torah que je vous présente aujourd’hui ?"
+    },
+    {
+      "ref": "Deuteronomy 4:9",
+      "fr": "Prenez garde à vous-même et protégez extrêmement votre vie, de peur que vous n'oubliiez les paroles dont vos yeux ont été témoins et qu'elles ne soient éloignées de votre esprit, tous les jours de votre vie ; vous les ferez connaître à vos enfants et à vos petits-enfants."
+    },
+    {
+      "ref": "Deuteronomy 4:10",
+      "fr": "Le jour où tu t’es tenu devant Adonoï, ton Dieu, à Choreiv, quand Adonoï m’a dit : « Rassemble le peuple devant moi, et je leur ferai entendre mes déclarations, afin qu’ils apprennent à me craindre pendant toutes les années qu’ils vivront dans le pays et qu’ils instruiront leurs fils. »"
+    },
+    {
+      "ref": "Deuteronomy 4:11",
+      "fr": "Vous vous êtes approchés et vous vous êtes tenus sous [au pied de] la montagne, tandis que la montagne brûlait de feu jusqu'au cœur [hauteur] des cieux : ténèbres, nuages ​​et nuages ​​épais."
+    },
+    {
+      "ref": "Deuteronomy 4:12",
+      "fr": "Adonoy t'a parlé du milieu du feu ; vous entendiez le son de la parole, ne voyant aucune image, uniquement du son."
+    },
+    {
+      "ref": "Deuteronomy 4:13",
+      "fr": "Il vous a parlé de son alliance, qu'il vous a ordonné de respecter – les dix déclarations – et il les a écrites sur deux tables de pierre."
+    },
+    {
+      "ref": "Deuteronomy 4:14",
+      "fr": "Adonoy m'a alors ordonné de vous enseigner des statuts et des lois, afin que vous les mettiez en pratique dans le pays dont vous traversez là-bas pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 4:15",
+      "fr": "Soyez extrêmement prudent pour votre vie, car vous n'avez vu aucune image le jour où Adonoy s'est adressé à vous à Choreiv depuis l'intérieur du feu."
+    },
+    {
+      "ref": "Deuteronomy 4:16",
+      "fr": "De peur que vous ne vous fassiez de manière destructive une statue à l’image d’une forme quelconque, la représentation d’un homme ou d’une femme ;"
+    },
+    {
+      "ref": "Deuteronomy 4:17",
+      "fr": "[ou] la représentation de tout animal qui se trouve sur terre ; [ou] la représentation de tout oiseau ailé qui vole dans [l'air de l'étendue du] ciel ;"
+    },
+    {
+      "ref": "Deuteronomy 4:18",
+      "fr": "[ou] la représentation de tout ce qui rampe sur le sol ; [ou] la représentation de tout poisson qui se trouve dans l'eau sous la terre."
+    },
+    {
+      "ref": "Deuteronomy 4:19",
+      "fr": "Ou de peur que vous ne leviez les yeux vers le ciel et ne voyiez le soleil, ou la lune, ou les étoiles, toute l'armée des cieux, et que vous ne vous incliniez devant eux et que vous ne les adoriez, quand Adonoy, votre Dieu, les aura mis à la disposition de tous les peuples qui sont sous tout le ciel."
+    },
+    {
+      "ref": "Deuteronomy 4:20",
+      "fr": "Mais Adonoy vous a pris [pour lui] [vous a attiré à son service] quand il vous a fait sortir du creuset de fer, d'Egypte, pour être pour lui un peuple-territoire comme aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 4:21",
+      "fr": "Cependant Adonoy s'est mis en colère contre moi à cause de vos déclarations, et il a juré que je ne traverserais pas le Yardein et que je n'entrerais pas dans le bon pays qu'Adonoy, votre Dieu, vous donne comme territoire."
+    },
+    {
+      "ref": "Deuteronomy 4:22",
+      "fr": "Car je dois mourir dans ce pays, je ne traverse pas le Yardein ; mais vous traversez, et vous hériterez de ce bon pays."
+    },
+    {
+      "ref": "Deuteronomy 4:23",
+      "fr": "Prenez garde à vous-mêmes, de peur que vous n'oubliiez l'alliance d'Adonoy, votre Dieu, qu'il a conclue avec vous, et que vous ne vous fassiez une statue, une image de quelque chose, que Adonoy, votre Dieu, vous a commandé."
+    },
+    {
+      "ref": "Deuteronomy 4:24",
+      "fr": "Car Adonoy, ton Dieu, [Sa parole] est un feu dévorant, un Tout-Puissant jaloux."
+    },
+    {
+      "ref": "Deuteronomy 4:25",
+      "fr": "Lorsque vous aurez des enfants et des petits-enfants et que vous aurez vieilli dans le pays ; et tu seras corrompu et tu feras une statue, une image de n'importe quoi, et tu feras ce qui est mal aux yeux d'Adonoy, ton Dieu, pour irriter [devant] Lui."
+    },
+    {
+      "ref": "Deuteronomy 4:26",
+      "fr": "J'apporte aujourd'hui à témoin contre vous le ciel et la terre, que vous serez complètement et rapidement expulsés du pays, que vous traversez là le Yardein pour hériter ; vous n'en vivrez pas longtemps, mais vous serez complètement détruit."
+    },
+    {
+      "ref": "Deuteronomy 4:27",
+      "fr": "Adonoy vous dispersera parmi les peuples, et vous resterez peu nombreux parmi les nations vers lesquelles Adonoy vous mènera."
+    },
+    {
+      "ref": "Deuteronomy 4:28",
+      "fr": "Là, vous servirez [une nation qui sert] des dieux créés par l'homme, faits de bois et de pierre, qui ne voient pas, n'entendent pas, ne mangent pas et ne sentent pas."
+    },
+    {
+      "ref": "Deuteronomy 4:29",
+      "fr": "De là, tu chercheras [la peur] d'Adonoy, ton Dieu, et tu le trouveras, quand tu le chercheras de tout ton cœur et de tout ton être."
+    },
+    {
+      "ref": "Deuteronomy 4:30",
+      "fr": "Quand tu seras en détresse et que toutes ces choses t’arriveront, à la fin des temps, tu retourneras à [la peur d’] Adonoy, ton Dieu, et tu lui obéiras [sa parole]."
+    },
+    {
+      "ref": "Deuteronomy 4:31",
+      "fr": "Car Adonoy, votre Dieu, est un Tout-Puissant miséricordieux ; Il ne vous abandonnera pas et ne vous détruira pas ; Il n'oubliera pas non plus l'alliance qu'il leur a jurée avec vos pères."
+    },
+    {
+      "ref": "Deuteronomy 4:32",
+      "fr": "Renseignez-vous maintenant sur les premières années qui vous ont précédé, depuis le jour où Dieu a créé Adam sur terre et d'un bout à l'autre du ciel : est-il déjà arrivé quelque chose de comparable à ce grand événement, ou quelqu'un a-t-il déjà entendu parler d'une telle chose ?"
+    },
+    {
+      "ref": "Deuteronomy 4:33",
+      "fr": "Est-ce que quelqu'un a [déjà] entendu [la parole de] la voix de Dieu parlant à l'intérieur du feu alors que vous l'avez entendu et avez survécu ?"
+    },
+    {
+      "ref": "Deuteronomy 4:34",
+      "fr": "Ou [les miracles qu'Il a accomplis pour être révélés], est-ce qu'un dieu est jamais venu miraculeusement et s'est emparé d'une nation du sein d'une nation par des épreuves, avec des signes et des prodiges, et par la guerre, et avec une main forte et avec un bras étendu, et avec de grandes démonstrations ? entièrement comme Adonoy, votre Dieu, l'a fait pour vous en Égypte, sous vos yeux ?"
+    },
+    {
+      "ref": "Deuteronomy 4:35",
+      "fr": "Il vous a été montré que vous pourriez savoir qu'Adonoy, Il est le Dieu ; il n'y a pas de [pouvoir] autre que Lui."
+    },
+    {
+      "ref": "Deuteronomy 4:36",
+      "fr": "Du ciel, il vous a fait entendre [la parole de] sa voix pour vous enseigner, et sur la terre, il vous a montré son grand feu, et vous avez entendu ses paroles se former dans le feu."
+    },
+    {
+      "ref": "Deuteronomy 4:37",
+      "fr": "Parce qu'il a aimé vos ancêtres, il a choisi sa descendance après lui ; et il vous a fait sortir d'Egypte avec sa grande force devant lui."
+    },
+    {
+      "ref": "Deuteronomy 4:38",
+      "fr": "Pour chasser devant toi des nations plus grandes et plus fortes que toi ; pour vous y introduire [et] pour vous donner leur pays comme territoire, comme aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 4:39",
+      "fr": "Vous saurez aujourd'hui et restaurerez votre perception qu'Adonoy est le Dieu [dont la Shechinah est] dans les cieux en haut et [le souverain] sur terre en bas ; there is no other."
+    },
+    {
+      "ref": "Deuteronomy 4:40",
+      "fr": "Tu garderas ses statuts et ses commandements que je te prescris aujourd'hui, afin que tu sois heureux, ainsi que tes enfants après toi, et que tu vives longtemps sur le pays qu'Adonoy, ton Dieu, te donne pour toujours."
+    },
+    {
+      "ref": "Deuteronomy 4:41",
+      "fr": "Alors Moshe réserva trois villes à travers le Yardein, là où le soleil se lève,"
+    },
+    {
+      "ref": "Deuteronomy 4:42",
+      "fr": "pour qu'un meurtrier puisse s'enfuir, qui a assassiné son prochain sans intention, et qui n'avait pas été son ennemi hier [ni] avant-hier. Il doit fuir vers l'une de ces villes pour survivre :"
+    },
+    {
+      "ref": "Deuteronomy 4:43",
+      "fr": "Betzer dans le désert dans les plaines [de la tribu] des Reuvénites, Romos dans le Gil'od [de la tribu] des Gaddites, et Golon dans le Boshon [de la tribu] des Menashiens."
+    },
+    {
+      "ref": "Deuteronomy 4:44",
+      "fr": "Et c'est la Torah que Moshe a mise [en ordre] devant Bnei Yisroel."
+    },
+    {
+      "ref": "Deuteronomy 4:45",
+      "fr": "Ce sont les témoignages, les statuts et les lois que Moshe adressa aux Bnei Yisroel à leur sortie d'Egypte."
+    },
+    {
+      "ref": "Deuteronomy 4:46",
+      "fr": "De l'autre côté du Yardein, dans la vallée qui fait face à Beis Peor, au pays de Sichon, roi des Émoréens, qui habitait à Cheshbon, que Moshe et Bnei Yisrael battirent à leur sortie d'Égypte."
+    },
+    {
+      "ref": "Deuteronomy 4:47",
+      "fr": "Ils héritèrent de son pays et du pays d'Og, roi du Boshon [Masnan], les deux rois émoréens qui se trouvaient de l'autre côté du Yardein, là où le soleil se lève."
+    },
+    {
+      "ref": "Deuteronomy 4:48",
+      "fr": "Depuis Aroer, qui est au bord du torrent Arnon, jusqu'au mont Sion, qui est Chermon."
+    },
+    {
+      "ref": "Deuteronomy 4:49",
+      "fr": "Et toute l'Arava à travers le Yardein à l'est, jusqu'au lac Arava, sous les pentes du Pisgah."
+    },
+    {
+      "ref": "Deuteronomy 5:1",
+      "fr": "Moshe appela tout Israël et leur dit : « Écoutez, Yisroel, les statuts et les lois que je raconte en votre présence aujourd'hui, car vous devez les étudier et veiller à les accomplir."
+    },
+    {
+      "ref": "Deuteronomy 5:2",
+      "fr": "Adonoy, notre Dieu, a conclu une alliance avec nous à Choreiv."
+    },
+    {
+      "ref": "Deuteronomy 5:3",
+      "fr": "Ce n'est pas [seulement] avec nos pères qu'Adonoy a conclu cette alliance, mais avec nous, nous qui sommes ici aujourd'hui, nous tous vivants."
+    },
+    {
+      "ref": "Deuteronomy 5:4",
+      "fr": "Face à face, Adonoy vous a parlé du milieu du feu, sur la montagne."
+    },
+    {
+      "ref": "Deuteronomy 5:5",
+      "fr": "Je me tenais alors entre [la parole d’] Adonoy et toi, pour te dire la parole d’Adonoy, parce que tu avais peur [devant] le feu et que tu n’es pas monté sur la montagne, en disant :"
+    },
+    {
+      "ref": "Deuteronomy 5:6",
+      "fr": "« Je suis Adonoy, ton Dieu, qui t'ai fait sortir du pays d'Égypte, la maison de l'esclavage."
+    },
+    {
+      "ref": "Deuteronomy 5:7",
+      "fr": "Vous n'aurez pas d'autres dieux dans Ma Présence [sauf Moi]."
+    },
+    {
+      "ref": "Deuteronomy 5:8",
+      "fr": "Ne vous faites pas de statue d'une représentation quelconque qui se trouve dans les cieux en haut, ou sur la terre en bas, ou dans les eaux sous la terre."
+    },
+    {
+      "ref": "Deuteronomy 5:9",
+      "fr": "Ne vous inclinez pas devant eux et ne les servez pas, car Je suis Adonoy, votre Dieu, Tout-Puissant jaloux, qui impute le péché des parents aux enfants [rebelles] et à la troisième génération et à la quatrième génération de Mes ennemis, [quand les enfants continuent à pécher à la manière de leurs pères,]"
+    },
+    {
+      "ref": "Deuteronomy 5:10",
+      "fr": "et il fait preuve de bonté pendant des milliers [de générations] envers ceux qui m'aiment et envers ceux qui gardent mes commandements."
+    },
+    {
+      "ref": "Deuteronomy 5:11",
+      "fr": "Ne jure pas en utilisant le Nom d'Adonoy, ton Dieu, en vain ; car Adonoy ne tiendra pas innocent quiconque jure par Son Nom en vain [dans un mensonge]."
+    },
+    {
+      "ref": "Deuteronomy 5:12",
+      "fr": "Préservez le jour du Chabbat pour le sanctifier, comme Adonoy, votre Dieu, vous l'a ordonné."
+    },
+    {
+      "ref": "Deuteronomy 5:13",
+      "fr": "Pendant six jours tu travailleras et accompliras tout ton travail,"
+    },
+    {
+      "ref": "Deuteronomy 5:14",
+      "fr": "mais le septième jour, Chabbath pour Adonoï, ton Dieu, ne fais aucun travail, toi, ton fils et ta fille, ton esclave et ta servante, ton bœuf, ton âne et tous tes animaux, et le non-Juif qui habite dans tes villes, afin que ton esclave et ta servante se reposent comme toi."
+    },
+    {
+      "ref": "Deuteronomy 5:15",
+      "fr": "Souviens-toi que tu étais esclave au pays d'Égypte, et qu'Adonoy, ton Dieu, t'en a fait sortir à main forte et à bras étendu. C'est pourquoi Adonoy, votre Dieu, vous a ordonné de célébrer le jour du Chabbat."
+    },
+    {
+      "ref": "Deuteronomy 5:16",
+      "fr": "Honore ton père et ta mère comme Adonoy, ton Dieu, te l'a ordonné ; afin que vous viviez longtemps et que vous ayez du bien sur la terre qu'Adonoy, votre Dieu, vous donne."
+    },
+    {
+      "ref": "Deuteronomy 5:17",
+      "fr": "Ne tuez pas [une personne]. Do not commit adultery. Et ne kidnappez pas. Et ne témoigne pas en vain contre ton prochain."
+    },
+    {
+      "ref": "Deuteronomy 5:18",
+      "fr": "Et ne convoite pas la femme de ton prochain. Et ne convoite pas la maison de ton prochain, ni son champ, ni son esclave, ni sa servante, ni son bœuf, ni son âne, ni rien de ce qui appartient à ton prochain."
+    },
+    {
+      "ref": "Deuteronomy 5:19",
+      "fr": "Ces paroles, Adonoy les adressa à toute votre assemblée sur la montagne, du milieu du feu, de la nuée et de la nuée épaisse, d'une voix grande et sans cesse. Il les écrivit sur deux tables de pierre et me les donna."
+    },
+    {
+      "ref": "Deuteronomy 5:20",
+      "fr": "Lorsque vous avez entendu la voix dans les ténèbres, alors que la montagne brûlait de feu, vous vous êtes approchés de moi, tous les chefs de vos tribus et vos anciens."
+    },
+    {
+      "ref": "Deuteronomy 5:21",
+      "fr": "Vous avez dit : « Regardez ! Adonoy, notre Dieu, nous a montré sa gloire et sa grandeur, et sa voix [de sa parole] que nous avons entendue du sein du feu ; aujourd'hui, nous avons vu que Dieu peut s'adresser à l'homme et qu'il survivra."
+    },
+    {
+      "ref": "Deuteronomy 5:22",
+      "fr": "Maintenant, pourquoi devrions-nous mourir alors que ce grand feu va nous consumer ? Si nous continuons à entendre la [parole de Sa] voix d’Adonoy, notre Dieu, nous mourrons plus longtemps."
+    },
+    {
+      "ref": "Deuteronomy 5:23",
+      "fr": "Car qui de toute chair a entendu comme nous la voix de la [parole du] Dieu vivant parlant du sein du feu, et a survécu ?"
+    },
+    {
+      "ref": "Deuteronomy 5:24",
+      "fr": "Approchez-vous de vous-même et écoutez tout ce que dit Adonoy, notre Dieu ; et tu nous diras tout ce qu'Adonoy, notre Dieu, te dira et nous l'accepterons et l'accomplirons."
+    },
+    {
+      "ref": "Deuteronomy 5:25",
+      "fr": "[Avant] Adonoy [était] entendu l'intention de vos paroles lorsque vous me parliez ; et Adonoy m'a dit : « [Devant moi] j'ai entendu l'intention des paroles de ce peuple qu'ils vous ont dites – tout ce qu'ils ont dit est excellent [correct]."
+    },
+    {
+      "ref": "Deuteronomy 5:26",
+      "fr": "Je souhaite qu'ils conservent leur attitude actuelle de Me craindre et de toujours préserver tous Mes commandements ; afin qu'eux et leurs enfants en bénéficient pour toujours."
+    },
+    {
+      "ref": "Deuteronomy 5:27",
+      "fr": "Allez leur dire : « Retournez vous-mêmes à vos tentes. »"
+    },
+    {
+      "ref": "Deuteronomy 5:28",
+      "fr": "Mais toi, reste ici avec [devant] Moi, et je te dirai toutes les mitsvoh, et les statuts et les lois que tu leur enseigneras ; et ils les accompliront dans le pays que je leur donne en héritage.’’"
+    },
+    {
+      "ref": "Deuteronomy 5:29",
+      "fr": "Vous veillerez à accomplir ce qu'Adonoy, votre Dieu, vous a commandé ; ne déviez pas à droite ou à gauche."
+    },
+    {
+      "ref": "Deuteronomy 5:30",
+      "fr": "Vous ferez tout le chemin que vous a ordonné Adonoy, votre Dieu ; afin que vous viviez et jouissiez du bien, et que vous viviez longtemps dans le pays dont vous héritez."
+    },
+    {
+      "ref": "Deuteronomy 6:1",
+      "fr": "Telle est la mitsva, les statuts et les lois qu'Adonoy, votre Dieu, vous a ordonné de vous apprendre à accomplir dans le pays dont vous traversez là-bas pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 6:2",
+      "fr": "Afin que vous craigniez Adonoy, votre Dieu, pour garder toutes ses prescriptions et tous ses commandements que je vous prescris, à vous, à votre fils et à votre petit-fils, tous les jours de votre vie, et afin que vous viviez longtemps."
+    },
+    {
+      "ref": "Deuteronomy 6:3",
+      "fr": "Tu feras attention, Yisroel, et tu veilleras à accomplir, afin que tu profites et que tu te multiplies excessivement, comme Adonoy, le Dieu de tes ancêtres, a parlé de toi : une terre où coulent le lait et le miel."
+    },
+    {
+      "ref": "Deuteronomy 6:4",
+      "fr": "Écoute, Yisroel ! Adonoy est notre Dieu, Adonoy en est un."
+    },
+    {
+      "ref": "Deuteronomy 6:5",
+      "fr": "Vous devez aimer Adonoy, votre Dieu, de tout votre cœur, de toute votre âme et de tous vos biens."
+    },
+    {
+      "ref": "Deuteronomy 6:6",
+      "fr": "Et ces paroles que je vous commande aujourd’hui seront sur votre cœur."
+    },
+    {
+      "ref": "Deuteronomy 6:7",
+      "fr": "Vous devez les enseigner à vos enfants et vous devez en discuter lorsque vous êtes assis à la maison, lorsque vous voyagez sur la route, lorsque vous vous couchez et lorsque vous vous levez."
+    },
+    {
+      "ref": "Deuteronomy 6:8",
+      "fr": "Vous devez les attacher en guise de signe sur votre bras et ils doivent être des totafos [téfilines] entre vos yeux."
+    },
+    {
+      "ref": "Deuteronomy 6:9",
+      "fr": "Tu les écriras sur les poteaux de ta maison et sur tes poteaux de porte."
+    },
+    {
+      "ref": "Deuteronomy 6:10",
+      "fr": "Quand Adonoï, ton Dieu, t'aura amené dans le pays qu'il a juré à tes ancêtres, à Avrohom, à Itschok et à Yaakov, de te donner : de grandes et bonnes villes que tu n'as pas bâties."
+    },
+    {
+      "ref": "Deuteronomy 6:11",
+      "fr": "Et des maisons pleines de toute générosité que vous n'avez pas remplies, et des citernes creusées que vous n'avez pas creusées, des vignes et des oliviers que vous n'avez pas plantés ; et tu mangeras et tu seras rassasié."
+    },
+    {
+      "ref": "Deuteronomy 6:12",
+      "fr": "Prenez garde à vous-même, de peur que vous n'oubliiez Adonoï, qui vous a fait sortir du pays d'Égypte, de la maison de servitude."
+    },
+    {
+      "ref": "Deuteronomy 6:13",
+      "fr": "Craignez Adonoy, votre Dieu, et servez-le, et jure par son nom."
+    },
+    {
+      "ref": "Deuteronomy 6:14",
+      "fr": "Ne suivez pas d'autres dieux [idoles des nations], parmi les dieux [idoles] des peuples qui vous entourent."
+    },
+    {
+      "ref": "Deuteronomy 6:15",
+      "fr": "Car Adonoy, votre Dieu, est un Tout-Puissant jaloux, [sa Shekhinah est] au-dedans de vous ; De peur que la colère d'Adonoy, ton Dieu, ne s'excite contre toi et qu'il ne te détruise de la surface du pays."
+    },
+    {
+      "ref": "Deuteronomy 6:16",
+      "fr": "Ne testez pas Adonoy, votre Dieu, comme vous l'avez testé à Massoh."
+    },
+    {
+      "ref": "Deuteronomy 6:17",
+      "fr": "Gardez soigneusement les commandements d'Adonoy, votre Dieu, et ses témoignages et ses statuts qu'il vous a prescrits."
+    },
+    {
+      "ref": "Deuteronomy 6:18",
+      "fr": "Faites ce qui est juste et ce qui est bon aux yeux d'Adonoy, afin que vous en profitiez, que vous arriviez et que vous héritiez du bon pays qu'Adonoy a juré à vos ancêtres."
+    },
+    {
+      "ref": "Deuteronomy 6:19",
+      "fr": "Pour écraser tous vos ennemis devant vous, comme l'a déclaré Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 6:20",
+      "fr": "Quand ton fils te demandera demain en disant : « Quels sont les témoignages, les statues et les lois que Adonoy, notre Dieu, t'a prescrits ?"
+    },
+    {
+      "ref": "Deuteronomy 6:21",
+      "fr": "Tu diras à ton fils : « Nous étions esclaves de Pharaon en Égypte, et Adonoï nous a fait sortir d'Égypte à main forte."
+    },
+    {
+      "ref": "Deuteronomy 6:22",
+      "fr": "Et Adonoy a placé des signes et des prodiges [qui étaient] grands et nuisibles sur l'Égypte, sur Pharaon et sur toute sa maison, sous nos yeux."
+    },
+    {
+      "ref": "Deuteronomy 6:23",
+      "fr": "Et il nous a fait sortir de là pour nous y faire entrer et nous donner le pays qu'il avait juré à nos ancêtres."
+    },
+    {
+      "ref": "Deuteronomy 6:24",
+      "fr": "Adonoy nous a ordonné d'observer tous ces statuts pour [montrer que nous] craignons Adonoy, notre Dieu ; pour nous bénéficier à jamais, pour nous maintenir en vie comme aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 6:25",
+      "fr": "Et ce sera à notre honneur [mérite] si nous prenons soin d’accomplir toute cette mitsva devant Adonoy, notre Dieu, comme Il nous l’a ordonné."
+    },
+    {
+      "ref": "Deuteronomy 7:1",
+      "fr": "Quand Adonoï, votre Dieu, vous fera entrer dans le pays dont vous venez hériter, il chassera devant vous de nombreuses nations : les Chittites, les Guirgashites et les Émoréens, les Cananéens et les Perizites, les Chivites et les Yevusites, sept nations plus nombreuses et plus puissantes que vous."
+    },
+    {
+      "ref": "Deuteronomy 7:2",
+      "fr": "Adonoy, ton Dieu, les vaincra devant toi, et tu les frapperas. Vous devez sûrement les anéantir. Ne concluez pas de traité avec eux et ne leur accordez pas de faveur."
+    },
+    {
+      "ref": "Deuteronomy 7:3",
+      "fr": "Ne les épousez pas ; ne donne pas ta fille à son fils, et ne prends pas sa fille pour ton fils."
+    },
+    {
+      "ref": "Deuteronomy 7:4",
+      "fr": "Car il détournera votre fils de Moi [Mon service] et ils serviront d'autres dieux [idoles des nations] ; et la colère d’Adonoy s’excitera contre toi et il te détruira rapidement."
+    },
+    {
+      "ref": "Deuteronomy 7:5",
+      "fr": "Tu leur feras plutôt ceci : raser leurs autels et briser leurs monuments, abattre leurs arbres de culte et brûler leurs statues [idoles] au feu."
+    },
+    {
+      "ref": "Deuteronomy 7:6",
+      "fr": "Car vous êtes un peuple saint pour Adonoy, votre Dieu ; Adonoy, ton Dieu, t'a choisi pour être pour Lui un peuple précieux parmi tous les peuples qui sont sur la face de la terre."
+    },
+    {
+      "ref": "Deuteronomy 7:7",
+      "fr": "Ce n’est pas à cause de la multitude de ta population au-delà de tous les peuples qu’Adonoy t’a désiré et t’a choisi ; car tu es le moindre de tous les peuples."
+    },
+    {
+      "ref": "Deuteronomy 7:8",
+      "fr": "C'est plutôt par amour pour vous d'Adonoy et parce qu'il a tenu le serment qu'il avait juré à vos ancêtres qu'Adonoy vous a fait sortir d'une main forte et vous a racheté de la maison de servitude, de la main du Pharaon, roi d'Égypte."
+    },
+    {
+      "ref": "Deuteronomy 7:9",
+      "fr": "Vous saurez qu'Adonoy, votre Dieu, est le Dieu, le Tout-Puissant de confiance, qui garde l'alliance et la bonté pour ceux qui l'aiment et pour ceux qui gardent ses commandements, pendant mille générations."
+    },
+    {
+      "ref": "Deuteronomy 7:10",
+      "fr": "Et Il paie Son ennemi [pour le bien qu'ils ont fait avant Lui] en face [au cours de sa vie] pour le détruire. Il ne tarde pas à faire le bien pour ses ennemis, il les paie en face, pendant leur vie."
+    },
+    {
+      "ref": "Deuteronomy 7:11",
+      "fr": "Vous devez garder les commandements, les statuts et les lois que je vous commande aujourd'hui d'observer."
+    }
+  ]
+}

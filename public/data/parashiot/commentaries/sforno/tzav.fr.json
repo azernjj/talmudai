@@ -1,0 +1,396 @@
+{
+  "name": "Tsav",
+  "range": "Leviticus 6:1-8:36",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/tzav.json",
+  "verses": [
+    {
+      "ref": "Leviticus 6:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:2",
+      "fr": "צו את אהרן זאת תורת העולה, après que la Torah nous ait informés de la plupart des sacrifices et de la manière dont ils devaient être offerts, la Torah fait désormais référence à la « Torah » spécifique relative à chacun de ces holocaustes volontaires. Nous avons déjà souligné que les différentes personnes qui ressentent le besoin d'offrir ce sacrifice sont motivées par des considérations très différentes. La variété des offrandes sacrificielles prévues par la Torah correspond à peu près à la variété des personnalités humaines et des considérations motivant leurs actions. La Torah mentionne comme caractéristique saillante de l'holocauste, עולה, que l'animal entier est offert sur l'autel pour ריח ניחוח, « parfum odorant », bien que seule une petite partie s'enflamme. C'est cette petite partie qui est véritablement le sacrifice appelé עולה. D'autres parties de ce sacrifice (animal) [qui ont brûlé en cendres à cause de la chaleur mais n'ont pas pris feu. Éd. ] sont déposés אצל המזבח, à côté de l'autel après s'être transformés en cendres. Ces parties sont appelées דשן, contenant un certain degré d’humidité qui donne au feu une chance de couver à l’intérieur. Ceci est signifié par les mots אשר תאכל אותם האש את העולה, une partie, lorsqu'elle est complètement transformée en cendres, est retirée du camp tandis que le prêtre qui la porte porte des vêtements d'un rang inférieur. Même si ces cendres ne sont que cela, des cendres, l'endroit où elles sont envoyées ne peut pas être n'importe quel dépotoir mais doit être un site décrit par la Torah comme טהור, rituellement pur. [Un ingrédient important de cette « Torah », (appelez-la symbolisme si vous voulez) de l'Olah est le מוקד, le centre brûlant de l'autel. On ne retrouve pas l'expression à propos des autres sacrifices. Peut-être que cela symbolise la « montée » du עולה vers le ciel. Éd.]"
+    },
+    {
+      "ref": "Leviticus 6:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:7",
+      "fr": "לפני המזבח, maintenant la Torah explique la « Torah » de l'offrande de cadeaux, מנחה, expliquant que tout cela doit être apporté לפני המזבח « devant l'autel » par opposition à l'Olah qui a été apportée sur le מוקד de l'autel. Tous les sacrifices sont apportés directement et exclusivement à D.ieu. Les parts allouées aux prêtres ne sont pas attribuées par les propriétaires du sacrifice, mais doivent être considérées comme D.ieu invitant les prêtres à être des invités à sa table, dans le langage talmudique comme משלחן גבוה קא זכו, « ils bénéficient d'une table dans les régions célestes ». L’offrande d’un prêtre finit entièrement sur l’autel, contrairement à l’offrande des Israélites ordinaires dont seule une poignée arrive à l’autel, le reste étant mangé par les prêtres."
+    },
+    {
+      "ref": "Leviticus 6:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:18",
+      "fr": "maintenant la « Torah » du sacrifice pour le péché, חטאת, est mentionnée. Si l'offrande pour le péché est destinée à expier un péché grave, son sang doit être offert à l'intérieur du sanctuaire, et aucune offrande n'est réservée aux prêtres pour qu'ils la mangent. Les parties normalement consommées par les prêtres seront également brûlées."
+    },
+    {
+      "ref": "Leviticus 6:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 6:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:2",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:7",
+      "fr": "il y a un dénominateur commun entre le chatat et le sacrifice asham. Alors que le premier expie les péchés commis par inadvertance pour lesquels la pénalité karet serait en place si le péché avait été commis délibérément, l'asham, bien que n'expiétant pas ce type de péché, a une place similaire dans la pyramide des offrandes, étant donné que le péché qu'il expie implique un comportement négligent vis-à-vis des choses saintes, ce à quoi il faut être plus prudent que d'habitude. Symboliquement parlant, c'est-à-dire en ce qui concerne leur « Torah », ils ont beaucoup en commun, תורה אחת."
+    },
+    {
+      "ref": "Leviticus 7:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:11",
+      "fr": "וזאת תורת זבח השלמים, on nous dit ici que bien que le dénominateur commun entre ces offrandes soit qu'elles partagent le titre sh'lamim dans la mesure où ces offrandes sont classées dans le Talmud comme קדשים קלים, \"choses saintes d'un degré mineur de sainteté\", il existe des différences, des nuances entre un type de ce type de קדשים קלים et d'autres types. Par exemple, s'il s'agit d'actions de grâces, les offrandes d'animaux sont accompagnées de pains, dont certains sont au levain. Certes, la raison sous-jacente de la nécessité d'offrir des remerciements est ce que nos sages appellent le שאור שבעיסה, « l'élément de l'ego dans la « pâte », » la personnalité humaine aspirante, en étant constituée principalement de pains sans levain, cet élément devient subordonné. [il faut se rappeler qu'en principe, aucune autre offre composée de produits de boulangerie ne peut être levée. L'auteur estime que si une personne se trouve dans une situation dangereuse inattendue nécessitant un miracle pour la sauver, cela indique que si sa conduite avait été irréprochable, elle n'aurait pas d'abord été exposée à ce danger. Au niveau national plutôt qu’individuel, l’histoire de Pourim est une illustration de ce que veut dire l’auteur. Ed.] L’une des raisons pour lesquelles la Torah exige autant de miches de pain individuelles dans le cadre du sacrifice de Todah est de permettre au plus grand nombre de personnes possible de prendre conscience que quelqu’un a été miraculeusement sauvé. La période pendant laquelle ces pains peuvent être consommés est la même que celle pendant laquelle les choses saintes d’ordre supérieur peuvent être consommées, c’est-à-dire seulement un jour et une nuit, contrairement aux sh’lamim ordinaires qui peuvent être consommés deux jours et une nuit."
+    },
+    {
+      "ref": "Leviticus 7:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:15",
+      "fr": "Je viens d’expliquer que le sh’lamim ordinaire peut être consommé pendant deux jours et une nuit."
+    },
+    {
+      "ref": "Leviticus 7:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:19",
+      "fr": "Même si ces offrandes sont d'un niveau inférieur de sainteté, si la viande entre en contact avec une impureté rituelle, elle doit être brûlée, et quiconque en mange est coupable de la même peine de karet que s'il avait mangé de la viande sacrificielle d'un niveau supérieur de sainteté qui avait été rituellement souillée."
+    },
+    {
+      "ref": "Leviticus 7:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:24",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:27",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:29",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:30",
+      "fr": "'ידיו תביאנה את אישי ה, voyant que le reste de l'animal appartient aux propriétaires qui avaient apporté l'offrande, le propriétaire et le prêtre officiant en son nom, présentent ce « signe » à D.ieu, cette action symbolique indiquant que fondamentalement toute l'offrande est à D.ieu même si seule la graisse de la poitrine est offerte sur l'autel, la poitrine elle-même appartenant à D.ieu. le curé. La principale raison de ce « signe de la main » est à cause de ce coffre, pour signaler qu’en réalité, il appartient également à D.ieu. Il n’était pas nécessaire d’agiter la graisse, puisque nous savons tous que la graisse de chaque animal sacrificiel appartient toujours à D.ieu via l’autel sur lequel elle est brûlée."
+    },
+    {
+      "ref": "Leviticus 7:31",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:32",
+      "fr": "ואת שוק הימין תתנו תרומה לכהן, de la partie qui appartient aux propriétaires ; on peut ici considérer le prêtre comme semblable au ministre du roi qui, lorsqu'il vient offrir un cadeau au roi, accepte un cadeau plus petit destiné au serviteur du roi afin d'obtenir une audience auprès du roi par la personne qui porte le cadeau le plus important."
+    },
+    {
+      "ref": "Leviticus 7:33",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:34",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:35",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:36",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:37",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 7:38",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:2",
+      "fr": "ואת פר החטאת ואת שני האילים, le taureau comme offrande pour le péché est mentionné en premier, conformément à la déclaration de nos sages selon laquelle chaque fois qu'une offrande pour le péché et un holocauste doivent être apportés, l'offrande pour le péché est apportée en premier. (Pessachim 59) La raison est simple ; Comment la personne offrant l’holocauste pourrait-elle s’attendre à ce qu’elle soit la bienvenue aux yeux de D.ieu s’elle exigeait toujours l’expiation d’un péché afin d’être dans les bonnes grâces de D.ieu ? David paraphrase cela dans les Psaumes 40,7 עולה וחטאת לא שאלת : « Vous ne demandez pas d'holocauste ni de sacrifice pour le péché. » Ce taureau est devenu une « offrande pour le péché » après avoir été oint, une procédure similaire à l’onction du Souverain Sacrificateur pour sa fonction. Cependant, dans ce cas, le sang de ce sacrifice pour le péché n'a pas été introduit dans le sanctuaire, étant donné que le péché d'Aaron et de ses fils n'avait pas été d'une gravité telle qu'il nécessiterait cette procédure supplémentaire. Les erreurs graves du Souverain Sacrificateur sont celles répertoriées dans Lévitique 4,3 ou 4,13 par la Cour Suprême. De telles erreurs exigent que le sang de leurs sacrifices pour le péché soit apporté dans le sanctuaire lui-même. Nous avons expliqué tout cela à l'endroit approprié au chapitre 16. La raison pour laquelle la Torah traite d'abord de l'holocauste avant de traiter des offrandes de consécration, est qu'il y avait un élément de péché, c'est-à-dire le besoin de pardon en relation avec l'holocauste, comme le montre clairement la remarque finale de la Torah ונרצה לו לכפר עליו, \"et cela deviendra acceptable\". pour qu'il expie pour lui. (1,4). La raison pour laquelle la Torah traite d’abord de l’holocauste avant de traiter des offrandes de consécration, est qu’il y avait un élément de péché, c’est-à-dire le besoin de pardon en relation avec l’holocauste, comme le montre clairement la remarque finale de la Torah ונרצה לו לכפר עליו, « et il lui deviendra acceptable d’expier pour lui ». (1,4) alors que dans toutes les autres offrandes שלמים, le prêtre reçoit la cuisse droite, dans le cas de l'offrande שלמים obligatoire du Nazir à la fin de son mandat, le prêtre a reçu à la fois la cuisse droite et la jambe antérieure, זרוע. Quant au bélier de l'offrande de consécration שלמים, même la cuisse est offerte sur l'autel. Lorsqu'un non-prêtre offre un שלמים, d'une manière générale, il fera don de la cuisse avec le bas de la jambe au prêtre qui entre dans le domaine sacré hors des limites du propriétaire du sacrifice. Le Nazir fait également don du יד, c'est-à-dire la patte antérieure, remettant symboliquement au prêtre le travail de ses mains, qui jusqu'à la fin de la période de son vœu en tant que Nazir avait été entièrement dédié à D.ieu. En revanche, les rites des offrandes de consécration exigeaient que l'offrande elle-même soit une offrande préparatoire permettant au prêtre d'entrer désormais dans les domaines sacrés du Temple. Pour symboliser cela, la cuisse était présentée sur l'autel."
+    },
+    {
+      "ref": "Leviticus 8:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:24",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:27",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:29",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:30",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:31",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:32",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:33",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:34",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 8:35",
+      "fr": "יומם ולילה, car les rideaux (tapis) n'étaient jamais démontés, comme nous l'avons expliqué dans Exode 40,18."
+    },
+    {
+      "ref": "Leviticus 8:36",
+      "fr": ""
+    }
+  ]
+}

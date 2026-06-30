@@ -1,0 +1,644 @@
+{
+  "name": "Bamidbar",
+  "range": "Numbers 1:1-4:20",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/bamidbar.json",
+  "verses": [
+    {
+      "ref": "Numbers 1:1",
+      "fr": "Et Adonoy parla à Moshe dans le désert du Sinaï, dans la tente d'assignation, le premier [jour] du deuxième mois, la deuxième année de leur exode du pays d'Égypte, disant :"
+    },
+    {
+      "ref": "Numbers 1:2",
+      "fr": "Faites le décompte [la somme] de toute la congrégation des Bnei Yisroel, selon leurs familles, jusqu'à la maison de leurs pères, en comptant les noms de tous les hommes individuellement."
+    },
+    {
+      "ref": "Numbers 1:3",
+      "fr": "À partir de l'âge de vingt ans, vous les compterez selon leurs divisions, vous et Aharon, tous ceux qui entreront dans l'armée d'Israël."
+    },
+    {
+      "ref": "Numbers 1:4",
+      "fr": "Avec toi, il y aura un homme pour chaque tribu, chaque homme sera le chef de la maison de ses pères."
+    },
+    {
+      "ref": "Numbers 1:5",
+      "fr": "Tels sont les noms des hommes qui se tiendront à vos côtés. Pour [la tribu de] Reuven, Elitzur, fils de Shdeiur."
+    },
+    {
+      "ref": "Numbers 1:6",
+      "fr": "Pour [la tribu de] Shimon, Shlumiel, fils de Tzurishadai."
+    },
+    {
+      "ref": "Numbers 1:7",
+      "fr": "Pour [la tribu de] Juda, Nachshon, fils d'Aminadav."
+    },
+    {
+      "ref": "Numbers 1:8",
+      "fr": "Pour [la tribu de] Yissacar, Nesanel, fils de Tzu'ar."
+    },
+    {
+      "ref": "Numbers 1:9",
+      "fr": "Pour [la tribu de] Zevulun, Eliav, fils de Cheilon."
+    },
+    {
+      "ref": "Numbers 1:10",
+      "fr": "Pour les fils de Yossif, pour la tribu d'Éphraïm, Élishama, fils d'Amihud. Pour [la tribu de] Menasheh, Gamliel, fils de Pedahtzur."
+    },
+    {
+      "ref": "Numbers 1:11",
+      "fr": "Pour [la tribu de] Binyamin, Avidan, fils de Gid’oni."
+    },
+    {
+      "ref": "Numbers 1:12",
+      "fr": "Pour [la tribu de] Don, Achiezer, fils d'Amishadaï."
+    },
+    {
+      "ref": "Numbers 1:13",
+      "fr": "Pour la tribu d'Aser, Pagi'el, fils d'Ochran."
+    },
+    {
+      "ref": "Numbers 1:14",
+      "fr": "Pour [la tribu de] Gad, Elyasaf, fils de De'uel."
+    },
+    {
+      "ref": "Numbers 1:15",
+      "fr": "Pour [la tribu de] Naftali, Achira, fils d'Einan."
+    },
+    {
+      "ref": "Numbers 1:16",
+      "fr": "Ce sont là les appelés de l’assemblée, les chefs des tribus de leurs pères ; ils sont les chefs de milliers d’Israël."
+    },
+    {
+      "ref": "Numbers 1:17",
+      "fr": "Moché et Aharon prirent ces hommes désignés nommément."
+    },
+    {
+      "ref": "Numbers 1:18",
+      "fr": "Ils rassemblèrent toute la congrégation le premier [jour] du deuxième mois et ils furent enregistrés par ascendance familiale selon la maison de leurs pères. selon le nombre de noms, chaque homme âgé de vingt ans et plus ; individuellement."
+    },
+    {
+      "ref": "Numbers 1:19",
+      "fr": "Tout comme Adonoy l’a ordonné à Moshe. Il les a comptés dans le désert du Sinaï."
+    },
+    {
+      "ref": "Numbers 1:20",
+      "fr": "Tels étaient les fils de Reuven, premier-né d'Israël, leurs naissances selon leurs familles, selon la maison de leurs pères. en comptant les noms de tous les mâles âgés de vingt ans et au-dessus, tous ceux qui entrent dans l'armée."
+    },
+    {
+      "ref": "Numbers 1:21",
+      "fr": "Leur nombre, pour la tribu de Reuven, était de quarante-six mille cinq cents."
+    },
+    {
+      "ref": "Numbers 1:22",
+      "fr": "Pour les fils de Shimon, leurs naissances selon leurs familles, selon la maison de leurs pères, ses dénombrements selon le nombre des noms individuels, pour tous les mâles âgés de vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:23",
+      "fr": "Leur nombre, pour la tribu de Shimon, était de cinquante-neuf mille trois cents."
+    },
+    {
+      "ref": "Numbers 1:24",
+      "fr": "Pour les fils de Gad, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms. À partir de vingt ans, tous ceux qui entrent dans l'armée."
+    },
+    {
+      "ref": "Numbers 1:25",
+      "fr": "Leur nombre, pour la tribu de Gad, était de quarante-cinq mille six cent cinquante."
+    },
+    {
+      "ref": "Numbers 1:26",
+      "fr": "Pour les fils de Juda, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms. À partir de vingt ans, tous ceux qui entrent dans l'armée."
+    },
+    {
+      "ref": "Numbers 1:27",
+      "fr": "Leur nombre, pour la tribu de Juda, était de soixante-quatorze mille six cents."
+    },
+    {
+      "ref": "Numbers 1:28",
+      "fr": "Pour les fils d'Yissacar, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms. À partir de vingt ans, tous ceux qui entrent dans l'armée."
+    },
+    {
+      "ref": "Numbers 1:29",
+      "fr": "Leur nombre, pour la tribu d'Yissacar, était de cinquante-quatre mille quatre cents."
+    },
+    {
+      "ref": "Numbers 1:30",
+      "fr": "Pour les fils de Zevulun, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:31",
+      "fr": "Leur nombre, pour la tribu de Zevulun, était de cinquante-sept mille quatre cents."
+    },
+    {
+      "ref": "Numbers 1:32",
+      "fr": "Pour les fils de Yossif ; Pour les fils d'Éphraïm, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:33",
+      "fr": "Leur nombre, pour la tribu d'Éphraïm, était de quarante mille cinq cents."
+    },
+    {
+      "ref": "Numbers 1:34",
+      "fr": "Pour les fils de Ménaché, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:35",
+      "fr": "Leur nombre, pour la tribu de Ménaché, était de trente-deux mille deux cents."
+    },
+    {
+      "ref": "Numbers 1:36",
+      "fr": "Pour les fils de Binyamin, leurs naissances selon leurs familles selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent dans l'armée."
+    },
+    {
+      "ref": "Numbers 1:37",
+      "fr": "Leur nombre pour la tribu de Binyamin était de trente-cinq mille quatre cents."
+    },
+    {
+      "ref": "Numbers 1:38",
+      "fr": "Pour les fils de Don, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:39",
+      "fr": "Leur nombre, pour la tribu de Don, était de soixante-deux mille sept cents."
+    },
+    {
+      "ref": "Numbers 1:40",
+      "fr": "Pour les fils d'Aser, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:41",
+      "fr": "Leur nombre, pour la tribu d'Aser, était de quarante et un mille cinq cents."
+    },
+    {
+      "ref": "Numbers 1:42",
+      "fr": "Fils de Naftali, leurs naissances selon leurs familles, selon la maison de leurs pères, en comptant les noms depuis vingt ans et au-dessus, tous ceux qui sortirent pour l'armée."
+    },
+    {
+      "ref": "Numbers 1:43",
+      "fr": "Leur nombre, pour la tribu de Naftali, était de cinquante-trois mille quatre cents."
+    },
+    {
+      "ref": "Numbers 1:44",
+      "fr": "Tels sont les chiffres qui furent comptés par Moché, Aharon et les chefs d'Israël, [soit] douze hommes, chacun étant le chef de la maison de ses pères."
+    },
+    {
+      "ref": "Numbers 1:45",
+      "fr": "Tous les dénombrements des Bnei Yisroel, selon les maisons de leurs pères, depuis vingt ans et au-dessus, tous ceux qui sont sortis dans l'armée d'Israël,"
+    },
+    {
+      "ref": "Numbers 1:46",
+      "fr": "Leur nombre total était de six cent trois mille cinq cent cinquante."
+    },
+    {
+      "ref": "Numbers 1:47",
+      "fr": "Les Lévites, selon la tribu de leurs pères, n'étaient pas comptés parmi eux."
+    },
+    {
+      "ref": "Numbers 1:48",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 1:49",
+      "fr": "Cependant, vous ne compterez pas la tribu de Lévi et vous ne compterez pas [accepter] leur nombre parmi les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 1:50",
+      "fr": "Vous nommerez des Lévites pour surveiller le Michkon du Témoignage, tous ses ustensiles et tout ce qui lui appartient. Ils porteront le Mishkon et tous ses ustensiles, et ils l'administreront, et ils camperont autour du Mishkon."
+    },
+    {
+      "ref": "Numbers 1:51",
+      "fr": "Lorsque le Mishkon doit être déplacé, les Lévites le démonteront, et lorsque le Mishkon doit reposer [en un seul endroit], les Lévites le érigeront, et l'étranger qui s'approchera mourra."
+    },
+    {
+      "ref": "Numbers 1:52",
+      "fr": "Les Bnei Yisroel camperont, chacun dans son camp et chacun sous sa bannière, selon leurs divisions."
+    },
+    {
+      "ref": "Numbers 1:53",
+      "fr": "Les Lévites camperont autour du Mishkon du Témoignage, afin qu'il n'y ait pas de colère contre la congrégation de Bnei Yisroel, et les Lévites veilleront à préserver le Mishkon du Témoignage."
+    },
+    {
+      "ref": "Numbers 1:54",
+      "fr": "Bnei Yisroel fit selon tout ce qu'Adonoy avait ordonné à Moshe ; ils l'ont fait [exactement]."
+    },
+    {
+      "ref": "Numbers 2:1",
+      "fr": "Adonoy parla à Moshe et à Aharon, disant :"
+    },
+    {
+      "ref": "Numbers 2:2",
+      "fr": "Chacun sous sa propre bannière, avec les insignes des maisons de leurs pères, camperont les Bnei Yisroel, à distance autour de la tente d'assignation qu'ils camperont."
+    },
+    {
+      "ref": "Numbers 2:3",
+      "fr": "Ceux dont le camp est au premier rang, à l'est se trouve le camp de la bannière de Juda, selon leurs divisions, et le chef des fils de Juda est Nachshon, fils d'Aminadav."
+    },
+    {
+      "ref": "Numbers 2:4",
+      "fr": "Sa division et leur nombre sont soixante-quatorze mille six cents."
+    },
+    {
+      "ref": "Numbers 2:5",
+      "fr": "Ceux qui campent avec [près] de lui le sont ; la tribu d'Yissacar, et le chef des fils d'Yissacar est Nesanel, fils de Tzu'ar."
+    },
+    {
+      "ref": "Numbers 2:6",
+      "fr": "Sa division et ses chiffres sont cinquante-quatre mille quatre cents."
+    },
+    {
+      "ref": "Numbers 2:7",
+      "fr": "La tribu de Zevulun, et le chef des fils de Zevulun est Eliav, fils de Cheilon."
+    },
+    {
+      "ref": "Numbers 2:8",
+      "fr": "Sa division et ses chiffres sont cinquante-sept mille quatre cents."
+    },
+    {
+      "ref": "Numbers 2:9",
+      "fr": "Le nombre total du campement de Juda est de cent quatre-vingt-six mille quatre cents, selon leurs divisions, [et] ils voyagent [en] première [position]."
+    },
+    {
+      "ref": "Numbers 2:10",
+      "fr": "La bannière du camp de Reuven est du côté sud, selon leurs divisions, et le chef des fils de Reuven est Elitzur, fils de Shdeiur."
+    },
+    {
+      "ref": "Numbers 2:11",
+      "fr": "Ses divisions et ses effectifs sont de quarante-six mille cinq cents."
+    },
+    {
+      "ref": "Numbers 2:12",
+      "fr": "Ceux qui campent avec lui le sont ; la tribu de Shimon, et le chef de la tribu de Shimon est Shlumiel, fils de Tzurishadaï."
+    },
+    {
+      "ref": "Numbers 2:13",
+      "fr": "Sa division et leurs effectifs sont de cinquante-neuf mille trois cents ;"
+    },
+    {
+      "ref": "Numbers 2:14",
+      "fr": "La tribu de Gad, et le chef des fils de Gad est Elyasaf, fils de Réuel."
+    },
+    {
+      "ref": "Numbers 2:15",
+      "fr": "Sa division et leur nombre sont quarante-cinq mille six cent cinquante."
+    },
+    {
+      "ref": "Numbers 2:16",
+      "fr": "Le nombre total du campement de Reuven est de cent cinquante et un mille quatre cent cinquante, selon leur division, et ils voyagent [dans la] deuxième [position]."
+    },
+    {
+      "ref": "Numbers 2:17",
+      "fr": "La Tente d'assignation circulera avec le camp des Lévites au centre des [autres] camps, de même qu'ils camperont, ainsi ils circuleront, chacun à sa place selon leurs [diverses] bannières."
+    },
+    {
+      "ref": "Numbers 2:18",
+      "fr": "La bannière du camp d'Éphraïm, selon leurs divisions, est du côté occidental, et le chef des fils d'Éphraïm est Élishama, fils d'Amihud."
+    },
+    {
+      "ref": "Numbers 2:19",
+      "fr": "Sa division et leur nombre sont quarante mille cinq cents."
+    },
+    {
+      "ref": "Numbers 2:20",
+      "fr": "Avec [près] de lui se trouvent ; la tribu de Menashe, et le chef des fils de Menashe est Gamliel, fils de Pedahtzur."
+    },
+    {
+      "ref": "Numbers 2:21",
+      "fr": "Sa division et leur nombre sont trente-deux mille deux cents."
+    },
+    {
+      "ref": "Numbers 2:22",
+      "fr": "La tribu de Binyamin, et le chef des fils de Binyamin est Avidan, fils de Gid'oni."
+    },
+    {
+      "ref": "Numbers 2:23",
+      "fr": "Sa division et leur nombre sont trente-cinq mille quatre cents."
+    },
+    {
+      "ref": "Numbers 2:24",
+      "fr": "Le nombre total du camp d'Éphraïm est de cent huit mille cent cents, selon leurs divisions, et ils voyagent [en] troisième [position]."
+    },
+    {
+      "ref": "Numbers 2:25",
+      "fr": "La bannière du camp de Don était au nord, selon leurs divisions, et le chef des fils de Don était Achiézer, fils d'Amishadaï."
+    },
+    {
+      "ref": "Numbers 2:26",
+      "fr": "Sa division et leur nombre sont soixante-deux mille sept cents."
+    },
+    {
+      "ref": "Numbers 2:27",
+      "fr": "Ceux qui campent avec lui le sont ; la tribu d'Aser, et le chef des fils d'Aser est Pagi'el, fils d'Ochran."
+    },
+    {
+      "ref": "Numbers 2:28",
+      "fr": "Ses divisions et leurs nombres sont de quarante et un mille cinq cents."
+    },
+    {
+      "ref": "Numbers 2:29",
+      "fr": "La tribu de Naftali, et le chef des fils de Naftali est Achira, fils d'Einan."
+    },
+    {
+      "ref": "Numbers 2:30",
+      "fr": "Ses divisions et leurs nombres sont de cinquante-trois mille quatre cents."
+    },
+    {
+      "ref": "Numbers 2:31",
+      "fr": "Le nombre total du campement de Don est de cent cinquante-sept mille six cents et ils voyagent [en] dernière [position] selon leurs [diverses] bannières."
+    },
+    {
+      "ref": "Numbers 2:32",
+      "fr": "Tels sont les chiffres des Bnei Yisroel selon les maisons de leurs pères. Le nombre total des camps, selon leurs divisions, est de six cent trois mille cinq cent cinquante."
+    },
+    {
+      "ref": "Numbers 2:33",
+      "fr": "Les Lévites n’étaient pas comptés parmi les Bnei Yisroel comme Adonoy l’avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 2:34",
+      "fr": "Bnei Yisroel fit tout ce qu'Adonoy ordonna à Moshe, ils campèrent donc selon leurs [diverses] bannières et ainsi ils voyageèrent, chacun avec sa famille selon la maison de ses pères."
+    },
+    {
+      "ref": "Numbers 3:1",
+      "fr": "Ce sont là les descendants d'Aharon et de Moché le jour où Adonoï parla à Moché sur le mont Sinaï."
+    },
+    {
+      "ref": "Numbers 3:2",
+      "fr": "Tels sont les noms des fils d’Aharon ; le premier-né, Nadav, et Avihu, Elazar et Isamar."
+    },
+    {
+      "ref": "Numbers 3:3",
+      "fr": "Tels sont les noms des fils d’Aharon, les cohanim oints, dont les mains sont occupées à apporter des offrandes pour servir [Dieu]."
+    },
+    {
+      "ref": "Numbers 3:4",
+      "fr": "Nadav et Avihu moururent en présence d'Adonoy, lorsqu'ils offrirent une étrange offrande par le feu devant Adonoy, dans le désert du Sinaï, et ils n'eurent pas de fils. [Cependant] Elazar et Isamar servaient en présence de leur père Aharon."
+    },
+    {
+      "ref": "Numbers 3:5",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 3:6",
+      "fr": "Approchez la tribu de Lévi et placez-la devant Aharon le Kohein, et ils le serviront."
+    },
+    {
+      "ref": "Numbers 3:7",
+      "fr": "Ils veilleront à préserver sa tutelle et la tutelle de toute la congrégation devant la Tente d'assignation, pour servir au service du Mishkon."
+    },
+    {
+      "ref": "Numbers 3:8",
+      "fr": "Ils garderont tous les ustensiles de la Tente d'assignation et la garde de Bnei Yisroel pour servir au service du Mishkon."
+    },
+    {
+      "ref": "Numbers 3:9",
+      "fr": "Tu placeras les Lévites sous la garde d'Aharon et de ses fils ; ils lui sont présentés [et donnés] de [parmi] Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 3:10",
+      "fr": "Tu nommeras Aharon et ses fils et ils garderont leur sacerdoce, et tout étranger (non kohein) qui s'approchera sera mis à mort."
+    },
+    {
+      "ref": "Numbers 3:11",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 3:12",
+      "fr": "Voir! J'ai pris les Lévites parmi les Bnei Yisroel au lieu de tous les premiers-nés qui ont ouvert le ventre, parmi les Bnei Yisroel, et [c'est pourquoi] les Lévites seront à moi [servir devant moi]."
+    },
+    {
+      "ref": "Numbers 3:13",
+      "fr": "Car tous les premiers-nés sont à moi, puisque le jour où j'ai frappé tous les premiers-nés au pays d'Égypte, je me suis sanctifié devant moi tous les premiers-nés des Bnei Yisroel, depuis l'homme jusqu'à la bête ; ils seront à moi, je suis Adonoy."
+    },
+    {
+      "ref": "Numbers 3:14",
+      "fr": "Adonoy parla à Moshe dans le désert du Sinaï, disant :"
+    },
+    {
+      "ref": "Numbers 3:15",
+      "fr": "Comptez les fils de Lévi selon les maisons de leurs pères, selon leurs familles. Tous les mâles à partir de l'âge d'un mois, vous les compterez."
+    },
+    {
+      "ref": "Numbers 3:16",
+      "fr": "Moché les compta selon la parole d'Adonoy, comme il lui avait été ordonné."
+    },
+    {
+      "ref": "Numbers 3:17",
+      "fr": "Ce sont là les fils de Lévi, selon leurs noms : Guershon, Kehos et Merori."
+    },
+    {
+      "ref": "Numbers 3:18",
+      "fr": "Tels sont les noms des fils de Guershon, selon leurs familles ; Livni et Shim'i."
+    },
+    {
+      "ref": "Numbers 3:19",
+      "fr": "Les fils de Kehos, selon leurs familles : Amram, Yitzhar Chevron et Uziel."
+    },
+    {
+      "ref": "Numbers 3:20",
+      "fr": "Les fils de Merori, selon leurs familles, étaient : Machli et Mushi. Ce sont là les familles de Lévi, selon les maisons de leurs pères."
+    },
+    {
+      "ref": "Numbers 3:21",
+      "fr": "De Guershon, la famille de Livni et la famille de Shim’i. Ce sont là les familles des Guershonites."
+    },
+    {
+      "ref": "Numbers 3:22",
+      "fr": "Leurs nombres, en comptant chaque mâle âgé d'un mois et plus ; leur nombre est de sept mille cinq cents."
+    },
+    {
+      "ref": "Numbers 3:23",
+      "fr": "Les familles des Guershonites camperont derrière Mishkon, du côté occidental."
+    },
+    {
+      "ref": "Numbers 3:24",
+      "fr": "Le chef de la maison des Guershonites est Elyasaf, fils de Laël."
+    },
+    {
+      "ref": "Numbers 3:25",
+      "fr": "La tutelle des fils de Guershon dans la tente d'assignation [était] ; le Mishkon et la Tente, sa couverture et le rideau pour l'entrée de la Tente d'assignation,"
+    },
+    {
+      "ref": "Numbers 3:26",
+      "fr": "Les rideaux suspendus de la cour et le rideau à l'entrée de la cour qui entoure le Mishkon et l'autel, et ses cordes, pour tous les travaux impliquant ces choses [son service]."
+    },
+    {
+      "ref": "Numbers 3:27",
+      "fr": "De Kehos, il y avait la famille d'Amram, la famille de Itshar, la famille de Chevron et la famille d'Uziel, ce sont les familles des Kehosites."
+    },
+    {
+      "ref": "Numbers 3:28",
+      "fr": "Le nombre de chaque mâle âgé d'un mois et au-dessus est de huit mille six cents. [Ils étaient] les gardiens des vases sacrés."
+    },
+    {
+      "ref": "Numbers 3:29",
+      "fr": "Les familles des enfants de Kehos camperont au sud du Mishkon."
+    },
+    {
+      "ref": "Numbers 3:30",
+      "fr": "Le chef de la maison des familles des Kehosites était Elitzafan, fils d'Uziel."
+    },
+    {
+      "ref": "Numbers 3:31",
+      "fr": "Leur tutelle est l'Arche, la Table, la Menorah, les Autels et les ustensiles sacrés avec lesquels ils servent. Et le Rideau, et tout le travail impliquant ces choses."
+    },
+    {
+      "ref": "Numbers 3:32",
+      "fr": "Le chef des dirigeants de Lévi sera Elazar, fils d'Aharon, le kohein [qui est] chargé de la nomination des gardiens pour sauvegarder le saint [Sanctuaire]."
+    },
+    {
+      "ref": "Numbers 3:33",
+      "fr": "De Merori, était la famille de Machli et la famille et Mushi ; ce sont les familles des Merorites."
+    },
+    {
+      "ref": "Numbers 3:34",
+      "fr": "Leur nombre, en comptant chaque mâle âgé d'un mois et au-dessus, est de six mille deux cents."
+    },
+    {
+      "ref": "Numbers 3:35",
+      "fr": "Le chef de la maison des familles des Merorites est Tzuriel, fils d'Avichaïl, ils camperont au nord du Mishkon."
+    },
+    {
+      "ref": "Numbers 3:36",
+      "fr": "La tâche assignée à la tutelle des fils de Merori sera les poutres du Mishkon, ses barres, ses piliers et ses socles ; tous ses ustensiles, et tout le travail impliquant ces choses [son service]."
+    },
+    {
+      "ref": "Numbers 3:37",
+      "fr": "Egalement les piliers de la cour environnante et leurs socles, piquets et cordes."
+    },
+    {
+      "ref": "Numbers 3:38",
+      "fr": "Ceux qui campaient devant Mishkon, à l'avant-garde, devant la tente d'assignation, à l'orient, sont ceux-là : Moshe, Aharon et ses fils, gardiens de la tutelle du sanctuaire, assureront la garde au nom de Bnei Yisroel. Tout étranger (non-kohein) qui s'approchera sera mis à mort."
+    },
+    {
+      "ref": "Numbers 3:39",
+      "fr": "Le nombre de tous les Lévites que Moché et Aaron comptèrent sur la parole d'Adonoy, selon leurs familles ; tous les mâles âgés d'un mois et au-dessus étaient vingt-deux mille."
+    },
+    {
+      "ref": "Numbers 3:40",
+      "fr": "Adonoy dit à Moché : Compte tous les premiers-nés mâles de Bnei Yisroel à partir de l'âge d'un mois et prends le nombre de leurs noms."
+    },
+    {
+      "ref": "Numbers 3:41",
+      "fr": "Vous prendrez les Lévites pour [devant] moi, moi [qui suis] Adonoy, à la place de chaque premier-né de Bnei Yisroel ; et les animaux des Lévites au lieu de tout premier-né parmi les animaux de Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 3:42",
+      "fr": "Moshe comptait comme Adonoy le lui avait ordonné, chaque premier-né de Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 3:43",
+      "fr": "Tout premier-né mâle, en comptant les noms âgés d'un mois et au-dessus, selon leur nombre, était de vingt-deux mille deux cent soixante-treize."
+    },
+    {
+      "ref": "Numbers 3:44",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 3:45",
+      "fr": "Prends les Lévites à la place de tous les premiers-nés de Bnei Yisroel, et les animaux des Lévites à la place de leurs animaux, et les Lévites [serviront devant moi] seront à moi, je suis Adonoy."
+    },
+    {
+      "ref": "Numbers 3:46",
+      "fr": "Et le rachat des deux cent soixante-treize qui dépassent le nombre des Lévites, d'entre les premiers-nés de Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 3:47",
+      "fr": "Vous prendrez cinq shekolim chacun pour chaque individu ; vous le prendrez en shekolim saint, à raison de vingt guéras pour chaque shekel."
+    },
+    {
+      "ref": "Numbers 3:48",
+      "fr": "Vous donnerez l'argent à Aaron et à ses fils en guise de rachat pour ceux dont le nombre est supérieur à celui des Lévites."
+    },
+    {
+      "ref": "Numbers 3:49",
+      "fr": "Moshe a pris l'argent du rachat de ceux dont le nombre dépassait celui de ceux qui avaient été rachetés par l'intermédiaire des Lévites."
+    },
+    {
+      "ref": "Numbers 3:50",
+      "fr": "Du premier-né des Bnei Yisroel, il prit l'argent. Mille trois cent soixante-cinq, en shekel sacré."
+    },
+    {
+      "ref": "Numbers 3:51",
+      "fr": "Moshe donna l'argent de ceux qui avaient été rachetés à Aharon et à ses fils selon la parole d'Adonoy, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 4:1",
+      "fr": "Adonoy parla à Moshe et à Aharon, disant :"
+    },
+    {
+      "ref": "Numbers 4:2",
+      "fr": "Faites le décompte des fils de Kehos, parmi les fils de Lévi, selon leurs familles, selon les maisons de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:3",
+      "fr": "De trente ans et plus jusqu'à cinquante ans, tous ceux qui entrent dans la division pour accomplir le service dans la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 4:4",
+      "fr": "C'est le service des fils de Kehos dans la Tente d'assignation, le Saint des Saints."
+    },
+    {
+      "ref": "Numbers 4:5",
+      "fr": "Aaron et ses fils entreront au moment où le camp est sur le point de partir, ils enlèveront le rideau et ils couvriront l'arche du témoignage."
+    },
+    {
+      "ref": "Numbers 4:6",
+      "fr": "Ils placeront dessus une couverture de peau de tachash [multicolore] et étendront dessus un tissu de laine entièrement bleu, et mettront ses poteaux [de transport] [en place]."
+    },
+    {
+      "ref": "Numbers 4:7",
+      "fr": "Sur la table de présentation [table du pain de présentation], ils étendront un drap de laine bleu et placeront dessus les moules, les cuillères, les tiges et les supports de couverture, et le pain continu sera dessus [continuellement]."
+    },
+    {
+      "ref": "Numbers 4:8",
+      "fr": "Ils étendront sur eux un tissu de fil cramoisi et le couvriront d'une couverture de peau de tachash [multicolore] et mettront ses poteaux [de transport] [en place]."
+    },
+    {
+      "ref": "Numbers 4:9",
+      "fr": "Ils prendront un drap de laine bleue et couvriront la Ménora qui éclaire et ses lampes, ses pinces et ses pelles et tous ses récipients à huile ; ceux avec lesquels vous utilisez pour effectuer son service."
+    },
+    {
+      "ref": "Numbers 4:10",
+      "fr": "Ils le mettront ainsi que tous ses ustensiles dans la couverture du cuir tatach [multicolore] et le placeront sur le cadre de transport."
+    },
+    {
+      "ref": "Numbers 4:11",
+      "fr": "Au sommet de l'autel d'or, ils étendront un drap de laine bleue et le couvriront d'une couverture de peau tachash [multicolore] et mettront ses barres [de transport] en place."
+    },
+    {
+      "ref": "Numbers 4:12",
+      "fr": "Ils prendront tous les ustensiles de service avec lesquels ils servent dans le sanctuaire et les mettront dans un drap de laine bleu, et ils les couvriront d'une couverture de peau tachash [multicolore] et la placeront sur le cadre de transport."
+    },
+    {
+      "ref": "Numbers 4:13",
+      "fr": "Ils enlèveront les cendres de l'autel et étendront dessus un drap de pourpre."
+    },
+    {
+      "ref": "Numbers 4:14",
+      "fr": "Ils y mettront tous les ustensiles dont ils se servent pour le service, ceux qui sont utilisés sur le dessus de l'autel ; les braseros, fourchettes, pelles et arroseurs, tous les ustensiles de l'Autel. Ils étendront dessus une couverture de peau tachash [multicolore] et mettront ses poteaux [de transport] en place."
+    },
+    {
+      "ref": "Numbers 4:15",
+      "fr": "Aharon et ses fils achèveront la couverture du sanctuaire et de tous les ustensiles sacrés chaque fois que le camp est sur le point de voyager, et après cela, les fils de Kehos viendront porter [ces objets], et ils ne toucheront pas les [objets] saints et ils ne mourront pas. Voilà ce que les fils de Kehos doivent emporter pour la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Numbers 4:16",
+      "fr": "L'huile pour l'illumination, l'encens des épices, l'offrande continue [quotidienne] et l'huile d'onction sont confiées à Élazar, fils d'Aharon le Kohein ; la charge de tout Mishkon et de tout son contenu dans le sanctuaire, ainsi que de ses ustensiles."
+    },
+    {
+      "ref": "Numbers 4:17",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Numbers 4:18",
+      "fr": "Ne retranchez pas la tribu des familles des Kehosites parmi les Lévites."
+    },
+    {
+      "ref": "Numbers 4:19",
+      "fr": "C'est ce que vous devez faire pour eux, afin qu'ils vivent et ne meurent pas lorsqu'ils s'approcheront du Saint des Saints ; Aaron et ses fils viendront [d'abord] et les nommeront chacun individuellement, pour [accomplir] son ​​propre service et porter sa propre charge."
+    },
+    {
+      "ref": "Numbers 4:20",
+      "fr": "Ils n'entreront pas pour voir quand le saint est [les ustensiles sont] recouverts et [ils ne mourront pas]."
+    }
+  ]
+}

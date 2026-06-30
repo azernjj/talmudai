@@ -1,0 +1,680 @@
+{
+  "name": "Pin'has",
+  "range": "Numbers 25:10-30:1",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/pinchas.json",
+  "verses": [
+    {
+      "ref": "Numbers 25:10",
+      "fr": "Adonoy a parlé à Moshe en disant."
+    },
+    {
+      "ref": "Numbers 25:11",
+      "fr": "« Pinchas, fils d'Elozor, [et petit-fils] d'Aharon le kohein, a détourné ma colère des Bnei Yisroel par sa vengeance contre moi parmi eux, de sorte que je n'ai pas détruit les Bnei Yisroel dans ma vengeance."
+    },
+    {
+      "ref": "Numbers 25:12",
+      "fr": "Dis-lui donc que je lui donne mon alliance de paix."
+    },
+    {
+      "ref": "Numbers 25:13",
+      "fr": "Ce sera pour lui et ses descendants après lui une alliance de kehunah éternelle parce qu'il a été zélé pour [devant] son ​​Dieu et a fait l'expiation pour Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 25:14",
+      "fr": "Le nom de l'Israélite tué, qui fut tué avec la femme madianite, était Zimri, fils de Salu, chef d'une maison paternelle de Shimon."
+    },
+    {
+      "ref": "Numbers 25:15",
+      "fr": "Le nom de la femme madianite tuée était Kozbi, fille de Tzur, le chef national d'une maison paternelle à Madian."
+    },
+    {
+      "ref": "Numbers 25:16",
+      "fr": "Adonoy a parlé à Moshe en disant :"
+    },
+    {
+      "ref": "Numbers 25:17",
+      "fr": "\"Contraquez les Madianites et tuez-les,"
+    },
+    {
+      "ref": "Numbers 25:18",
+      "fr": "car ils vous ont irrité par leurs ruses dans l'affaire de Pe'or et dans l'affaire de Kozbi, fille d'un prince madianite, leur sœur, qui a été tuée le jour de la plaie qui a résulté de Pe'or."
+    },
+    {
+      "ref": "Numbers 26:1",
+      "fr": "C'était après la peste. Adonoy parla à Moshe et Elozor, fils d'Aharon le kohein, en disant :"
+    },
+    {
+      "ref": "Numbers 26:2",
+      "fr": "«[Faites le compte] de toute la communauté de Bnei Yisroel âgée de vingt ans et plus, selon leur maison paternelle, tous ceux qui sont aptes au service dans l'armée d'Israël.»"
+    },
+    {
+      "ref": "Numbers 26:3",
+      "fr": "Moshe et Elozor le kohein leur parlèrent [pour les compter] dans les plaines de Moav, près du Yardein près de Yereicho, en disant :"
+    },
+    {
+      "ref": "Numbers 26:4",
+      "fr": "\"[Comptez ceux] âgés de vingt ans et plus, comme Adonoy l'a ordonné à Moshe et Bnei Yisroel qui avaient quitté l'Égypte.\""
+    },
+    {
+      "ref": "Numbers 26:5",
+      "fr": "Reuvein, [était] le premier-né d’Israël ; les descendants de Reuvein sont : la famille Chanochite de Chanoch, la famille Paluite de Palu,"
+    },
+    {
+      "ref": "Numbers 26:6",
+      "fr": "la famille Chetzronite de Chetzron et la famille Karmite de Karmi."
+    },
+    {
+      "ref": "Numbers 26:7",
+      "fr": "Ce sont là les familles de Reuvein, au nombre de quarante-trois mille sept cent trente."
+    },
+    {
+      "ref": "Numbers 26:8",
+      "fr": "Le fils de Palu était Eliav."
+    },
+    {
+      "ref": "Numbers 26:9",
+      "fr": "Les fils d'Eliav étaient Nemueil, Dasan et Aviram. Il s'agit de Dasan et Aviram, les chefs communaux, qui ont incité contre Moshe et Aharon dans l'assemblée de Korach lorsqu'ils ont incité contre Adonoy."
+    },
+    {
+      "ref": "Numbers 26:10",
+      "fr": "La terre ouvrit la bouche et les engloutit ainsi que Korach lorsque cette assemblée mourut ; quand le feu consuma les deux cent cinquante hommes ; ils sont devenus un symbole."
+    },
+    {
+      "ref": "Numbers 26:11",
+      "fr": "Mais les fils de Korach ne moururent pas."
+    },
+    {
+      "ref": "Numbers 26:12",
+      "fr": "Les descendants de Shimon, selon leurs familles, sont: la famille Nemuélite de Nemuel, la famille Yaminite de Yamin, la famille Yachinite de Yachin,"
+    },
+    {
+      "ref": "Numbers 26:13",
+      "fr": "la famille Zarchite de Zérach, [et] la famille Shaulite de Shaul."
+    },
+    {
+      "ref": "Numbers 26:14",
+      "fr": "Ce sont là les familles de Shimon : vingt-deux mille deux cents."
+    },
+    {
+      "ref": "Numbers 26:15",
+      "fr": "Les descendants de Gad par familles sont : la famille Tséfonite de Tséfon, la famille Chagite de Chagi, la famille Shunite de Shuni,"
+    },
+    {
+      "ref": "Numbers 26:16",
+      "fr": "la famille Oznite d'Ozni, la famille Eirite d'Eiri,"
+    },
+    {
+      "ref": "Numbers 26:17",
+      "fr": "la famille Arodite d'Arod et la famille Areilite d'Areili."
+    },
+    {
+      "ref": "Numbers 26:18",
+      "fr": "Ce sont là les familles des descendants de Gad, au nombre de quarante mille cinq cents."
+    },
+    {
+      "ref": "Numbers 26:19",
+      "fr": "Les fils de Juda sont Eir et Onan ; Eir et Onan moururent au pays de Canaan."
+    },
+    {
+      "ref": "Numbers 26:20",
+      "fr": "Les descendants de Yehouda, selon leurs familles, sont : la famille Sheilanite de Sheila, la famille Partzite de Peretz, la famille Zarchite de Zerach."
+    },
+    {
+      "ref": "Numbers 26:21",
+      "fr": "Les descendants de Peretz étaient : la famille Chetzronite de Chetzron et la famille Chamulite de Chamul."
+    },
+    {
+      "ref": "Numbers 26:22",
+      "fr": "Ce sont là les familles de Juda, au nombre de soixante-seize mille cinq cents."
+    },
+    {
+      "ref": "Numbers 26:23",
+      "fr": "Les descendants d'Yissachar, par familles, sont : la famille Tolaite de Tola, la famille Punite de Puva,"
+    },
+    {
+      "ref": "Numbers 26:24",
+      "fr": "la famille Yashuvite de Yashuv et la famille Shimronite de Shimron."
+    },
+    {
+      "ref": "Numbers 26:25",
+      "fr": "Ce sont là les familles d’Yissacar, au nombre de soixante-quatre mille trois cents."
+    },
+    {
+      "ref": "Numbers 26:26",
+      "fr": "Les descendants de Zevulun, selon leurs familles, sont : la famille sardite de Sered, la famille Eilonite d'Eilon, [et] la famille Yachle'eilite de Yachle'eil."
+    },
+    {
+      "ref": "Numbers 26:27",
+      "fr": "Ce sont là les familles de Zevulun, au nombre de soixante mille cinq cents."
+    },
+    {
+      "ref": "Numbers 26:28",
+      "fr": "Les descendants de Yossif, par familles, sont : Ménaché et Éphraïm."
+    },
+    {
+      "ref": "Numbers 26:29",
+      "fr": "Les descendants de Menashe sont : La famille Machirite de Machir ; Le fils de Machir était Gil'ad, la famille Gil'adite de Gil'ad."
+    },
+    {
+      "ref": "Numbers 26:30",
+      "fr": "Les descendants de Gil'ad sont : la famille I'ezérite de I'ezer, la famille Chelkite de Cheilek,"
+    },
+    {
+      "ref": "Numbers 26:31",
+      "fr": "la famille Asrieilite d'Asrieil, la famille Shechemite de Sichem,"
+    },
+    {
+      "ref": "Numbers 26:32",
+      "fr": "la famille Shemidaite de Shemida et la famille Chefrite de Cheifer."
+    },
+    {
+      "ref": "Numbers 26:33",
+      "fr": "Tzelofchad, fils de Cheifer, n'avait pas de fils, seulement des filles ; Les noms des filles de Tzelofchad étaient Machlah, No'ah, Choglah, Milkah et Sirtzah."
+    },
+    {
+      "ref": "Numbers 26:34",
+      "fr": "Ce sont là les familles de Ménaché, au nombre de cinquante-deux mille sept cents."
+    },
+    {
+      "ref": "Numbers 26:35",
+      "fr": "Les descendants d'Éphraïm, par familles, sont : la famille Shusalchite de Shuselach, la famille Bachrite de Becher et la famille Tachanite de Tachan."
+    },
+    {
+      "ref": "Numbers 26:36",
+      "fr": "Voici les fils de Shuselach : la famille des Eiranites d'Eiran."
+    },
+    {
+      "ref": "Numbers 26:37",
+      "fr": "Ce sont là les familles des descendants d’Éphraïm, au nombre de trente-deux mille cinq cents ; Ce sont là les descendants de Yossif, selon leurs familles."
+    },
+    {
+      "ref": "Numbers 26:38",
+      "fr": "Les descendants de Binyamin, par familles, étaient: la famille Balite de Béla, la famille Ashbélite d'Ashbeil, la famille Achiramite d'Achiram,"
+    },
+    {
+      "ref": "Numbers 26:39",
+      "fr": "la famille Shufamite de Shfufam et la famille Chufamite de Chufam."
+    },
+    {
+      "ref": "Numbers 26:40",
+      "fr": "Les fils de Béla furent Ard et Naaman, la famille Ardite et la famille Naamite de Naaman."
+    },
+    {
+      "ref": "Numbers 26:41",
+      "fr": "Tels sont les descendants de Binyamin, selon leurs familles, au nombre de quarante-cinq mille six cents."
+    },
+    {
+      "ref": "Numbers 26:42",
+      "fr": "Voici les descendants de Don, selon leurs familles : la famille Shuchamite de Shucham, ce sont les familles de Don."
+    },
+    {
+      "ref": "Numbers 26:43",
+      "fr": "Toutes les familles Shuchamites étaient au nombre de soixante-quatre mille quatre cents."
+    },
+    {
+      "ref": "Numbers 26:44",
+      "fr": "Les descendants d'Aser, par familles, sont : la famille Yimnite de Yimnah, la famille Yishvite de Yishvi, [et] la famille Bri'ite de Briah."
+    },
+    {
+      "ref": "Numbers 26:45",
+      "fr": "Les descendants de Briah sont : La famille Chevronite de Chever, la famille Malkieilite de Malkieil."
+    },
+    {
+      "ref": "Numbers 26:46",
+      "fr": "Le nom de la fille d’Aser était Serach."
+    },
+    {
+      "ref": "Numbers 26:47",
+      "fr": "Ce sont là les familles d'Aser, au nombre de cinquante-trois mille quatre cents."
+    },
+    {
+      "ref": "Numbers 26:48",
+      "fr": "Les descendants de Naftali par familles sont : la famille Yachtze'eilite de Yachtze'eil, la famille Gunite de Guni,"
+    },
+    {
+      "ref": "Numbers 26:49",
+      "fr": "la famille Yitzrite de Yeitzer et la famille Shileimite de Shileim."
+    },
+    {
+      "ref": "Numbers 26:50",
+      "fr": "Ce sont là les familles de Nafatli, au nombre de quarante-cinq mille quatre cents."
+    },
+    {
+      "ref": "Numbers 26:51",
+      "fr": "Le nombre total des Bnei Yisroel était de six cent un mille sept cent trente."
+    },
+    {
+      "ref": "Numbers 26:52",
+      "fr": "Adonoy a parlé à Moshe en disant."
+    },
+    {
+      "ref": "Numbers 26:53",
+      "fr": "« Le pays sera partagé entre eux, en héritage, selon le nombre des noms."
+    },
+    {
+      "ref": "Numbers 26:54",
+      "fr": "Aux grandes [tribus], augmentez leur héritage, et aux petits, diminuez leur héritage ; chacun, selon son nombre, recevra son héritage."
+    },
+    {
+      "ref": "Numbers 26:55",
+      "fr": "Ce n'est que par tirage au sort que la terre devrait être divisée, selon les noms des tribus de leurs pères, s'ils en héritaient."
+    },
+    {
+      "ref": "Numbers 26:56",
+      "fr": "Leur héritage devrait être partagé par la parole de la loterie, selon qu'ils seront nombreux ou peu nombreux."
+    },
+    {
+      "ref": "Numbers 26:57",
+      "fr": "Voici les Lévites dénombrés par familles : la famille Guershonite de Guershon, la famille Kehosite de Kehos, [et] la famille Merorite de Merori."
+    },
+    {
+      "ref": "Numbers 26:58",
+      "fr": "Voici les familles de Lévi : la famille Livnite, la famille Chevronite, la famille Machlite, la famille Mushite et la famille Korchite ; Le fils de Kehos était Amram."
+    },
+    {
+      "ref": "Numbers 26:59",
+      "fr": "Le nom de la femme d’Amram était Yocheved, fille de Lévi, que [sa mère] enfanta à Lévi en Égypte. Elle enfanta Amram, Aharon, Moshe et leur sœur Miriam."
+    },
+    {
+      "ref": "Numbers 26:60",
+      "fr": "A Haron naquirent Nadav et Avihu, Elozor et Isamar."
+    },
+    {
+      "ref": "Numbers 26:61",
+      "fr": "Nadav et Avihu sont morts lorsqu'ils ont offert un feu interdit devant Adonoy."
+    },
+    {
+      "ref": "Numbers 26:62",
+      "fr": "Ils étaient au nombre de vingt-trois mille, tous mâles âgés d'un mois et plus. Ils ne furent pas comptés parmi les Bnei Yisroel, car aucun héritage ne leur fut donné parmi les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 26:63",
+      "fr": "Ceci est le recensement de Moshe et Elozor le kohein qui dénombra les Bnei Yisroel dans les plaines de Moav, à Yardein Yereicho."
+    },
+    {
+      "ref": "Numbers 26:64",
+      "fr": "Parmi ce [recensement], il n'y avait aucun homme qui avait été inclus dans le recensement de Moshe et d'Aharon le Kohein, qui avait dénombré Bnei Yisroel dans le désert du Sinaï,"
+    },
+    {
+      "ref": "Numbers 26:65",
+      "fr": "parce qu'Adonoy leur avait dit qu'ils mourraient dans le désert. Il ne restait plus personne à l'exception de Kaleiv, fils de Yefuneh, et de Yehoshua, fils de Noun."
+    },
+    {
+      "ref": "Numbers 27:1",
+      "fr": "Et elles s'approchèrent : les filles de Tzelofchad, fils de Cheifer, fils de Gil'ad, fils de Makir, fils de Menashe, des familles de Menashe, fils de Yossif. Les noms de ses filles étaient : Machlah, No'ah, Choglah, Milkah et Sirtzah."
+    },
+    {
+      "ref": "Numbers 27:2",
+      "fr": "Ils se tinrent devant Moshe et devant Elozor le kohein, et devant les princes et toute la communauté à l'entrée de la Tente du Rendez-vous, disant :"
+    },
+    {
+      "ref": "Numbers 27:3",
+      "fr": "« Notre père est mort dans le désert, mais il ne faisait pas partie du groupe qui s'est uni contre Adonoï, en compagnie de Korach, mais il est mort à cause de son propre péché sans laisser de fils."
+    },
+    {
+      "ref": "Numbers 27:4",
+      "fr": "Pourquoi le nom de notre père devrait-il être omis [retenu] de sa famille parce qu'il n'avait pas de fils ? Donne-nous une possession [de terre] parmi les frères de notre père."
+    },
+    {
+      "ref": "Numbers 27:5",
+      "fr": "Moshe porta leur cas devant Adonoy."
+    },
+    {
+      "ref": "Numbers 27:6",
+      "fr": "Adonoy a parlé à Moshe en disant :"
+    },
+    {
+      "ref": "Numbers 27:7",
+      "fr": "« Les filles de Tzelofchad parlent avec justice, leur donnent une part héréditaire de terres parmi les frères de leur père et leur transfèrent l'héritage de leur père."
+    },
+    {
+      "ref": "Numbers 27:8",
+      "fr": "Parlez à Bnei Yisroel et dites-leur que si un homme meurt et n'a pas de fils, ses biens héréditaires seront transférés à sa fille."
+    },
+    {
+      "ref": "Numbers 27:9",
+      "fr": "S'il n'a pas de fille, vous donnerez ses biens héréditaires à ses frères."
+    },
+    {
+      "ref": "Numbers 27:10",
+      "fr": "S’il n’a pas de frères, vous donnerez ses biens héréditaires aux frères de son père."
+    },
+    {
+      "ref": "Numbers 27:11",
+      "fr": "Si son père n'avait pas de frères, vous confierez ses biens héréditaires à son parent le plus proche dans sa famille qui en héritera ensuite. Cela restera une loi décrétée pour les Bnei Yisroel, comme Adonoy l’avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 27:12",
+      "fr": "Adonoy dit à Moshe : « Monte cette montagne d'Avarim et regarde le pays que j'ai donné à Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 27:13",
+      "fr": "[Après] que tu l'auras vu, toi aussi tu seras rassemblé auprès de ton peuple, tout comme ton frère Aaron a été rassemblé."
+    },
+    {
+      "ref": "Numbers 27:14",
+      "fr": "Parce que vous avez désobéi à mes paroles dans le désert de Tzin, lorsque la communauté se disputait, [vous deviez] me sanctifier par l'eau, sous leurs yeux. C'étaient les eaux de la dispute à Kadeish [Rekam], dans le désert de Tzin."
+    },
+    {
+      "ref": "Numbers 27:15",
+      "fr": "Moshe parla à Adonoy et dit :"
+    },
+    {
+      "ref": "Numbers 27:16",
+      "fr": "« Qu'Adonoy, le Dieu des esprits, établisse un homme à la tête de la communauté,"
+    },
+    {
+      "ref": "Numbers 27:17",
+      "fr": "qui sortira devant eux, et qui reviendra devant eux, et qui les fera sortir et les amènera, afin que la communauté d'Adonoy ne soit pas comme des brebis qui n'ont pas de berger."
+    },
+    {
+      "ref": "Numbers 27:18",
+      "fr": "Adonoy dit à Moshe : « Prends avec toi Yehoshua, fils de Noun, un homme en qui il y a un esprit [de prophétie], et impose-lui les mains."
+    },
+    {
+      "ref": "Numbers 27:19",
+      "fr": "Placez-le devant Elozor le Kohein et devant toute la communauté, et commandez-lui sous leurs yeux."
+    },
+    {
+      "ref": "Numbers 27:20",
+      "fr": "Accordez-lui un peu de votre rayonnement, afin que toute la communauté de Bnei Yisroel l'entende."
+    },
+    {
+      "ref": "Numbers 27:21",
+      "fr": "Il se tiendra devant Elozor le kohein et lui demandera le jugement de l'Urim devant Adonoy. Par sa parole, ils sortiront et [par sa parole ils entreront], lui, tous les Bnei Yisroel avec lui, et toute la communauté."
+    },
+    {
+      "ref": "Numbers 27:22",
+      "fr": "Moshe fit ce qu'Adonoy lui avait ordonné. Il prit Yehoshua et le présenta à Elozor le kohein et à toute la communauté."
+    },
+    {
+      "ref": "Numbers 27:23",
+      "fr": "Il lui imposa les mains et lui ordonna, tout comme Adonoy l'avait ordonné par l'intermédiaire de Moshe."
+    },
+    {
+      "ref": "Numbers 28:1",
+      "fr": "Adonoy a parlé à Moshe en disant :"
+    },
+    {
+      "ref": "Numbers 28:2",
+      "fr": "« Commandez à Bnei Yisroel et dites-leur : « Mon offrande, ma nourriture [préparée pour] mes feux, un arôme agréable [à accepter volontiers] pour moi, vous serez vigilants pour m'offrir [devant] moi à l'heure prescrite »."
+    },
+    {
+      "ref": "Numbers 28:3",
+      "fr": "Dis-leur : « Voici l'holocauste que vous offrirez à Adonoï : des agneaux d'un an sans défaut, deux par jour, en holocauste constant (quotidien)."
+    },
+    {
+      "ref": "Numbers 28:4",
+      "fr": "Offrez un agneau le matin et offrez le deuxième agneau l'après-midi."
+    },
+    {
+      "ref": "Numbers 28:5",
+      "fr": "Et un dixième de eiphah [trois se'in] de farine fine, en offrande, pétrie avec de l'huile battue, d'une mesure d'un quart de hin."
+    },
+    {
+      "ref": "Numbers 28:6",
+      "fr": "[Il s'agit] d'un holocauste constant (quotidien), comme celui offert sur le mont Sinaï, d'une odeur agréable [à accepter volontiers], un sacrifice par le feu à [devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 28:7",
+      "fr": "Sa libation [sera] d'un quart de hin pour un agneau, dans le Saint [Sanctuaire], vous verserez une libation enivrante [de vin vieux] à [devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 28:8",
+      "fr": "Offrez le deuxième agneau l'après-midi, avec la même offrande du matin avec sa libation, vous l'offrirez, une offrande par le feu d'une agréable odeur [acceptée volontiers] à [devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 28:9",
+      "fr": "Le jour du Chabbat, l'offrande sera de deux agneaux d'un an sans défaut, et de deux dixièmes de fleur de farine en offrande, pétries avec de l'huile d'olive, et sa libation."
+    },
+    {
+      "ref": "Numbers 28:10",
+      "fr": "Il s'agit de l'holocauste du Chabbat, en plus de l'holocauste constant (quotidien) et de sa libation."
+    },
+    {
+      "ref": "Numbers 28:11",
+      "fr": "Au début de tes mois, tu offriras en holocauste à Adonoï deux jeunes taureaux, un bélier et sept agneaux d'un an, tous sans défaut."
+    },
+    {
+      "ref": "Numbers 28:12",
+      "fr": "Et trois dixièmes de fine farine, en offrande de gâteau, pétries avec de l'huile d'olive, pour chaque taureau, et deux dixièmes de fine farine, en offrande de gâteau, pétries avec de l'huile d'olive, pour un bélier."
+    },
+    {
+      "ref": "Numbers 28:13",
+      "fr": "Et un dixième [d'eiphah] de fine farine comme offrande de gâteau, mélangée à l'huile [d'olive] pour chaque agneau. Un holocauste d'agréable odeur, une offrande par le feu [acceptée volontairement] à [devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 28:14",
+      "fr": "Leurs libations seront d'un demi-hin pour un taureau, d'un tiers de hin pour le bélier et d'un quart de hin pour l'agneau, de vin. Ceci est l'holocauste de chaque [Rosh] Chodesh [nouvelle lune], lors de son renouvellement tout au long de [donc tous] les mois [nouveaux mois] de l'année."
+    },
+    {
+      "ref": "Numbers 28:15",
+      "fr": "Et [vous apporterez également] un bouc en sacrifice d'expiation à Adonoy, en plus de l'holocauste constant (quotidien) qui sera fait et de sa libation."
+    },
+    {
+      "ref": "Numbers 28:16",
+      "fr": "Le premier mois, le quatorzième jour du mois, apportez une offrande de Pessa'h à Adonoy."
+    },
+    {
+      "ref": "Numbers 28:17",
+      "fr": "Le quinzième jour de ce mois est une fête, les matzohs seront mangées pendant sept jours."
+    },
+    {
+      "ref": "Numbers 28:18",
+      "fr": "Le premier jour sera une fête sacrée, vous ne devez accomplir aucun travail important."
+    },
+    {
+      "ref": "Numbers 28:19",
+      "fr": "Tu apporteras un holocauste à [devant] Adonoy [composé de] deux jeunes taureaux, un bélier et sept agneaux d'un an. Ils seront [tous] sans défaut."
+    },
+    {
+      "ref": "Numbers 28:20",
+      "fr": "Leur offrande sera de fine farine pétrie avec de l'huile d'olive, trois dixièmes d'épipha pour chaque taureau, deux dixièmes d'épipha pour le bélier,"
+    },
+    {
+      "ref": "Numbers 28:21",
+      "fr": "et un dixième [d'eiphah] [ainsi] pour chacune des sept brebis."
+    },
+    {
+      "ref": "Numbers 28:22",
+      "fr": "[Tu devras aussi apporter] un bouc en sacrifice pour le péché, pour faire l'expiation pour toi,"
+    },
+    {
+      "ref": "Numbers 28:23",
+      "fr": "En plus de l'holocauste du matin, qui est offert comme holocauste constant (quotidien), vous ferez ceci."
+    },
+    {
+      "ref": "Numbers 28:24",
+      "fr": "Comme ceux-là, vous préparerez quotidiennement pendant sept jours de la nourriture comme une offrande par le feu d'une odeur agréable [acceptée volontairement] à [devant] Adonoy, (elle sera offerte) en plus de l'holocauste constant (quotidien) et de sa libation."
+    },
+    {
+      "ref": "Numbers 28:25",
+      "fr": "Le septième jour sera pour vous une fête sacrée, pendant laquelle vous ne ferez aucun travail important."
+    },
+    {
+      "ref": "Numbers 28:26",
+      "fr": "Le jour des prémices, lorsque vous apporterez une nouvelle offrande de repas à Adonoy lors de votre fête des semaines, il y aura une fête sacrée pour vous où vous ne ferez aucun travail important."
+    },
+    {
+      "ref": "Numbers 28:27",
+      "fr": "Vous ferez un holocauste d'une agréable odeur [accepté volontairement] à [devant] Adonoy [composé de] deux jeunes taureaux, un bélier, [et] sept agneaux d'un an."
+    },
+    {
+      "ref": "Numbers 28:28",
+      "fr": "Leur offrande sera composée de fine farine pétrie avec de l'huile d'olive, trois dixièmes d'épipha pour chaque taureau, deux dixièmes d'épipha pour un bélier,"
+    },
+    {
+      "ref": "Numbers 28:29",
+      "fr": "et un dixième [d'eiphah] pour chacun des sept agneaux."
+    },
+    {
+      "ref": "Numbers 28:30",
+      "fr": "[Tu devras aussi amener] un bouc pour faire l'expiation pour toi,"
+    },
+    {
+      "ref": "Numbers 28:31",
+      "fr": "en plus d'apporter l'holocauste constant (quotidien) et son offrande de repas. [Les sacrifices] seront sans défaut — ainsi que leurs libations."
+    },
+    {
+      "ref": "Numbers 29:1",
+      "fr": "Le premier jour du septième mois sera pour vous une fête sacrée pendant laquelle vous ne ferez aucun travail important. Ce sera un jour où l’on sonnera de la corne de bélier [des lamentations pour toi]."
+    },
+    {
+      "ref": "Numbers 29:2",
+      "fr": "Tu apporteras un holocauste d'une agréable odeur [accepté volontiers] à [devant] Adonoy, [composé de] un jeune taureau, un bélier et sept agneaux d'un an, [tous] sans défaut."
+    },
+    {
+      "ref": "Numbers 29:3",
+      "fr": "Leur offrande sera de fine farine pétrie avec de l'huile d'olive, trois dixièmes d'épipha pour le taureau, deux dixièmes d'épipha pour un bélier,"
+    },
+    {
+      "ref": "Numbers 29:4",
+      "fr": "et un dixième [d'eiphah] pour chacun des sept agneaux."
+    },
+    {
+      "ref": "Numbers 29:5",
+      "fr": "[Vous devriez également apporter] un bouc en sacrifice d'expiation pour faire l'expiation pour vous."
+    },
+    {
+      "ref": "Numbers 29:6",
+      "fr": "Outre l'holocauste [Rosh] Chodesh et son offrande de repas, et l'holocauste constant (quotidien) et son offrande de repas et libations obligatoires [qui leur conviennent], pour un arôme agréable [accepté volontairement], une offrande par le feu à [devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 29:7",
+      "fr": "Le dixième jour de ce septième mois, vous aurez une fête sacrée, pendant laquelle vous jeûnerez et ne ferez aucun travail."
+    },
+    {
+      "ref": "Numbers 29:8",
+      "fr": "Vous apporterez un holocauste [devant] Adonoy, d'une agréable odeur [accepté volontiers], [composé de] un jeune taureau, un bélier et sept agneaux d'un an. Ils seront [tous] sans défaut."
+    },
+    {
+      "ref": "Numbers 29:9",
+      "fr": "Leur offrande sera de fine farine pétrie avec de l'huile d'olive, trois dixièmes d'épipha pour le taureau, deux dixièmes d'épipha pour un bélier,"
+    },
+    {
+      "ref": "Numbers 29:10",
+      "fr": "et un dixième [d'eiphah] pour chacun des sept agneaux."
+    },
+    {
+      "ref": "Numbers 29:11",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, outre le sacrifice d'expiation pour le péché, et l'holocauste constant (quotidien) et son offrande de gâteau, et leurs libations."
+    },
+    {
+      "ref": "Numbers 29:12",
+      "fr": "Le quinzième jour du septième mois sera pour vous une fête sacrée, pendant laquelle vous ne ferez aucun travail important. Tu célébreras une fête devant Adonoy"
+    },
+    {
+      "ref": "Numbers 29:13",
+      "fr": "Tu apporteras un holocauste, un sacrifice par le feu d'agréable odeur [accepté volontairement] à [devant] Adonoy, [composé de] treize jeunes taureaux, deux béliers et quatorze agneaux d'un an. Ils seront [tous] sans défaut."
+    },
+    {
+      "ref": "Numbers 29:14",
+      "fr": "Leur offrande sera composée de fine farine pétrie avec de l'huile d'olive, de trois dixièmes d'épipha par taureau pour chacun des treize taureaux, de deux dixièmes d'épipha par bélier pour chacun des deux béliers."
+    },
+    {
+      "ref": "Numbers 29:15",
+      "fr": "et un dixième [d'eiphah] pour l'agneau pour chacun des quatorze agneaux."
+    },
+    {
+      "ref": "Numbers 29:16",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:17",
+      "fr": "Le deuxième jour, tu amèneras douze jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:18",
+      "fr": "avec leurs offrandes de repas et leurs libitions pour les taureaux, les béliers et les agneaux, en nombre requis."
+    },
+    {
+      "ref": "Numbers 29:19",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et leurs libations."
+    },
+    {
+      "ref": "Numbers 29:20",
+      "fr": "Le troisième jour, tu amèneras onze jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:21",
+      "fr": "avec leurs offrandes de repas et leurs libations pour les taureaux, les béliers et les agneaux, en nombre requis."
+    },
+    {
+      "ref": "Numbers 29:22",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:23",
+      "fr": "Le quatrième jour, tu apporteras dix jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:24",
+      "fr": "avec leurs offrandes de repas et leurs libations pour les taureaux, les béliers et les agneaux, en nombre requis."
+    },
+    {
+      "ref": "Numbers 29:25",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:26",
+      "fr": "Le cinquième jour, tu amèneras neuf jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:27",
+      "fr": "avec leurs offrandes de repas et leurs libations pour les taureaux, les béliers et les agneaux, en nombre requis."
+    },
+    {
+      "ref": "Numbers 29:28",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:29",
+      "fr": "Le sixième jour, tu apporteras huit jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:30",
+      "fr": "avec leurs offrandes de repas et leurs libations pour les taureaux, les béliers et les agneaux. du nombre requis."
+    },
+    {
+      "ref": "Numbers 29:31",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et ses libations."
+    },
+    {
+      "ref": "Numbers 29:32",
+      "fr": "Le septième jour, tu apporteras sept jeunes taureaux, deux béliers et quatorze agneaux d'un an, tous sans défaut,"
+    },
+    {
+      "ref": "Numbers 29:33",
+      "fr": "avec leurs offrandes de repas et leurs libations pour les taureaux, les béliers et les agneaux. du nombre requis."
+    },
+    {
+      "ref": "Numbers 29:34",
+      "fr": "[Vous apporterez également] un bouc en sacrifice pour le péché, en plus [d'apporter] l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:35",
+      "fr": "Le huitième jour sera pour vous un [jour de] restriction [d'assemblée], pendant lequel vous ne ferez aucun travail important."
+    },
+    {
+      "ref": "Numbers 29:36",
+      "fr": "Tu apporteras à [devant] Adonoy un holocauste, un sacrifice par le feu d'agréable odeur, [constitué de] un jeune taureau, un bélier et sept agneaux d'un an, [tous] sans défaut ;"
+    },
+    {
+      "ref": "Numbers 29:37",
+      "fr": "[avec] leurs offrandes de repas et leurs libations pour le taureau, le bélier et les agneaux. du nombre requis."
+    },
+    {
+      "ref": "Numbers 29:38",
+      "fr": "Et un bouc en sacrifice pour le péché, en plus de l'holocauste constant (quotidien) avec son offrande de repas et sa libation."
+    },
+    {
+      "ref": "Numbers 29:39",
+      "fr": "Vous les ferez à Adonoï lors de vos fêtes, outre vos vœux et vos dédicaces, vos holocaustes et vos offrandes de repas, vos libations et vos offrandes de paix."
+    },
+    {
+      "ref": "Numbers 30:1",
+      "fr": "Moshe dit à Bnei Yisroel tout ce qu'Adonoy lui avait commandé."
+    }
+  ]
+}

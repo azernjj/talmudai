@@ -1,0 +1,564 @@
+{
+  "name": "Ki Tisa",
+  "range": "Exodus 30:11-34:35",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/ki-tisa.json",
+  "verses": [
+    {
+      "ref": "Exodus 30:11",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Exodus 30:12",
+      "fr": "\"Quand vous ferez le décompte des B'nei Yisrael pour déterminer leur nombre, chaque homme donnera un gage d'expiation [une rédemption] pour son âme à [devant] Adonoy, lorsque vous les compterez. Ainsi, il n'y aura pas de fléau parmi eux lorsque vous les compterez."
+    },
+    {
+      "ref": "Exodus 30:13",
+      "fr": "Tous ceux qui passent par là pour être comptés doivent donner ceci : un demi-shekel [sela] basé sur le shekel [sela] du Saint [Sanctuaire], où un shekel [sela] équivaut à vingt guirah [ma'in]. La moitié d'un tel shekel [sela] doit être donnée en offrande de terumah à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 30:14",
+      "fr": "Pour être compté, tous ceux qui passent par là, à partir de vingt ans et plus, doivent faire une offrande de terumah à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 30:15",
+      "fr": "Les riches ne donneront pas plus, et les pauvres ne donneront pas moins d'un demi-shekel [sela], lorsqu'ils feront cette offrande de terumah à [devant] Adonoy pour expier vos âmes."
+    },
+    {
+      "ref": "Exodus 30:16",
+      "fr": "Prenez cet argent d’expiation auprès des B’nei Yisrael et donnez-le pour le travail de la Tente de Rencontre. Ce sera un souvenir pour les B’nei Yisrael devant Adonoy pour expier vos âmes."
+    },
+    {
+      "ref": "Exodus 30:17",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Exodus 30:18",
+      "fr": "« Faites un lavabo en cuivre et son fond en cuivre pour le lavage [sanctification] ; placez-le entre la tente d'assignation et l'autel, et mettez-y de l'eau."
+    },
+    {
+      "ref": "Exodus 30:19",
+      "fr": "Aaron et ses fils s'en laveront [sanctifieront] leurs mains et leurs pieds."
+    },
+    {
+      "ref": "Exodus 30:20",
+      "fr": "Avant d'entrer dans la Tente d'assignation, ils doivent se laver [sanctifier] avec de l'eau et ils ne mourront pas, ni chaque fois qu'ils s'approcheront de l'autel pour le service divin, ou pour brûler une offrande par le feu à [sacrifier devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 30:21",
+      "fr": "Ils doivent se laver [sanctifier] leurs mains et leurs pieds et ils ne mourront pas. C'est une loi perpétuelle pour eux, pour lui [Aharon] et pour ses descendants, pour toutes leurs générations. »"
+    },
+    {
+      "ref": "Exodus 30:22",
+      "fr": "Adonoy a parlé à Moshe en disant."
+    },
+    {
+      "ref": "Exodus 30:23",
+      "fr": "« Vous prendrez les épices les plus fines, [le poids de] cinq cents [shekels] de myrrhe pure, des demi-portions de cannelle odorante, [consistant en] [le poids de] deux cent cinquante [shekels] chacune, et [le poids de] deux cent cinquante [shekels] d'épices de calamus."
+    },
+    {
+      "ref": "Exodus 30:24",
+      "fr": "[Prenez également] [le poids de] cinq cents [shekels] de casse, basé sur la valeur du shekel [sela] du Saint [Sanctuaire], et un [plein] hin d'huile d'olive."
+    },
+    {
+      "ref": "Exodus 30:25",
+      "fr": "Faites-en une huile d'onction sacrée, un mélange réalisé par un mélangeur [de parfum]. Ce sera une huile d’onction sacrée."
+    },
+    {
+      "ref": "Exodus 30:26",
+      "fr": "Oins-en la tente d'assignation et l'arche du témoignage,"
+    },
+    {
+      "ref": "Exodus 30:27",
+      "fr": "Et la table et tous ses ustensiles, et la Ménorah et ses ustensiles, et l'autel des parfums [aux épices],"
+    },
+    {
+      "ref": "Exodus 30:28",
+      "fr": "Et l'autel des holocaustes et tous ses ustensiles, et le lavabo et son socle."
+    },
+    {
+      "ref": "Exodus 30:29",
+      "fr": "Sanctifiez-les et ils deviendront des saints parmi les saints. Tout ce qui les touche deviendra saint."
+    },
+    {
+      "ref": "Exodus 30:30",
+      "fr": "Tu oindras aussi Aaron et ses fils, et tu les sanctifieras pour qu'ils me servent de cohanim."
+    },
+    {
+      "ref": "Exodus 30:31",
+      "fr": "Parlez aux B’nei Yisrael et dites : « Ceci sera pour Moi une huile d’onction sacrée pour toutes vos générations."
+    },
+    {
+      "ref": "Exodus 30:32",
+      "fr": "Il ne doit pas être versé sur la chair d'aucun homme, et sa formule [ressemblance] ne doit pas être reproduite. C'est sacré. Cela doit être sacré pour vous."
+    },
+    {
+      "ref": "Exodus 30:33",
+      "fr": "Si une personne compose une formule similaire, ou si elle la place sur une personne non autorisée, elle sera retranchée [spirituellement] de son peuple."
+    },
+    {
+      "ref": "Exodus 30:34",
+      "fr": "Adonoy dit à Moshe : Prends pour toi des épices, du stacte, de l'onycha et du galbanum, des épices et de l'encens pur. Ils auront le même poids."
+    },
+    {
+      "ref": "Exodus 30:35",
+      "fr": "Faites-en de l'encens [épice], un mélange mélangé par un mélangeur, soigneusement mélangé, pur et saint."
+    },
+    {
+      "ref": "Exodus 30:36",
+      "fr": "Pulvérisez-en un peu très finement et placez-le devant [l'Arche du] témoignage dans la tente d'assignation, où je vous rencontrerai [préparerai ma parole]. Ce sera pour vous le saint des saints."
+    },
+    {
+      "ref": "Exodus 30:37",
+      "fr": "L'encens [épice] que vous fabriquez, sa formule [ressemblance] ne doit pas être dupliquée pour votre [r utilisation]. Cela vous sera sacré pour [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 30:38",
+      "fr": "Celui qui reproduit cette formule pour en apprécier le parfum sera retranché [spirituellement] de son peuple. »"
+    },
+    {
+      "ref": "Exodus 31:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Exodus 31:2",
+      "fr": "« J'ai appelé [exalté] par son nom [désigné] Betzalel, fils d'Uri, fils de Chur, de la tribu de Juda."
+    },
+    {
+      "ref": "Exodus 31:3",
+      "fr": "Je l'ai rempli d'esprit divin [d'avant Elohim], de sagesse, d'intelligence, de connaissance et de [l'habileté d'accomplir] toutes sortes d'ouvrages,"
+    },
+    {
+      "ref": "Exodus 31:4",
+      "fr": "concevoir des plans [enseigner l'artisanat] pour travailler l'or, l'argent et le cuivre,"
+    },
+    {
+      "ref": "Exodus 31:5",
+      "fr": "tailler des pierres [précieuses] pour les enchâsser, tailler du bois et travailler dans toutes sortes d'artisanat."
+    },
+    {
+      "ref": "Exodus 31:6",
+      "fr": "Et voici, j'ai désigné pour servir avec lui Oholiav, fils d'Achisamach, de la tribu de Don. Dans le cœur de chaque homme sage, j’ai placé la sagesse, afin qu’il puisse faire tout ce que j’ai commandé :"
+    },
+    {
+      "ref": "Exodus 31:7",
+      "fr": "la tente d'assignation, l'arche du témoignage, le couvercle qui sera placé dessus, et tous les ustensiles de la tente :"
+    },
+    {
+      "ref": "Exodus 31:8",
+      "fr": "la Table et ses ustensiles, la Menorah pure [en or] et tous ses ustensiles, et l'autel des encens [aux épices],"
+    },
+    {
+      "ref": "Exodus 31:9",
+      "fr": "l'autel des offrandes brûlées et tous ses ustensiles, le lavabo et sa base."
+    },
+    {
+      "ref": "Exodus 31:10",
+      "fr": "[Ils confectionneront également] des vêtements [couvertures] en crochet [service], ainsi que les vêtements sacrés pour Aharon, le kohein, et les vêtements pour que ses fils servent [comme kohanim,]"
+    },
+    {
+      "ref": "Exodus 31:11",
+      "fr": "[Aussi] l'huile d'onction et les parfums d'aromates pour le Saint [Sanctuaire], selon tout ce que je vous ai commandé », ils prépareront."
+    },
+    {
+      "ref": "Exodus 31:12",
+      "fr": "Adonoy dit à Moshe, en disant :"
+    },
+    {
+      "ref": "Exodus 31:13",
+      "fr": "Et vous parlez aux B'nei Yisrael, en disant : Vous devez encore préserver Mes Chabbat [jours], car c'est un signe entre Moi [Ma Parole] et vous pour que vos générations sachent que Moi Adonoï vous sanctifie."
+    },
+    {
+      "ref": "Exodus 31:14",
+      "fr": "Vous devez [donc] préserver le Chabbath car il vous est sacré. Quiconque le profane sera mis à mort, car quiconque y travaille [Chabbat] sera retranché [spirituellement] du milieu de son peuple."
+    },
+    {
+      "ref": "Exodus 31:15",
+      "fr": "Vous pouvez travailler [les] six jours [de la semaine] mais le septième jour est un Chabbath de repos complet, il est sacré pour [devant] Adonoy. Quiconque travaille le jour du Chabbat sera mis à mort."
+    },
+    {
+      "ref": "Exodus 31:16",
+      "fr": "Les B’nei Yisrael préserveront le Chabbat, pour maintenir le Chabbat pour leurs générations, comme une alliance éternelle."
+    },
+    {
+      "ref": "Exodus 31:17",
+      "fr": "Entre Moi [Ma Parole] et entre les B’nei Yisrael, c’est un signe éternel ; car en six jours Adonoy a fait les cieux et la terre, et le septième jour, il s'est abstenu de travailler et il s'est reposé."
+    },
+    {
+      "ref": "Exodus 31:18",
+      "fr": "Et Il [Adonoy] donna à Moshe – lorsqu’Il ​​eut fini de parler avec lui sur le Mont Sinaï – deux Tablettes du Témoignage. C’étaient des tablettes de pierre, écrites du doigt de Dieu."
+    },
+    {
+      "ref": "Exodus 32:1",
+      "fr": "[Quand] le peuple vit que Moshe tardait à descendre de la montagne, ils se rassemblèrent contre Aharon et lui dirent : « Lève-toi, fais de nous des dieux qui nous guideront, car ce Moshe, l'homme qui nous a fait monter du pays d'Égypte, nous ne savons pas ce qui lui est arrivé."
+    },
+    {
+      "ref": "Exodus 32:2",
+      "fr": "Aaron leur dit : « Enlevez les anneaux d'or qui sont aux oreilles de vos femmes, de vos fils et de vos filles et apportez-les-moi. »"
+    },
+    {
+      "ref": "Exodus 32:3",
+      "fr": "Tout le peuple ôta les anneaux d'or qui étaient à ses oreilles et les apporta à Aaron."
+    },
+    {
+      "ref": "Exodus 32:4",
+      "fr": "Il les prit de leurs mains, les façonna avec un outil à graver [d'orfèvre] et en fit un veau en fusion. Ils dirent alors : « Ceux-ci, Israël, sont tes dieux qui t'ont fait monter du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 32:5",
+      "fr": "[Quand] Aharon vit [cela], il bâtit un autel devant. Aharon a alors appelé et a dit : « Demain sera une fête pour [avant] Adonoy. »"
+    },
+    {
+      "ref": "Exodus 32:6",
+      "fr": "Ils se levèrent de bon matin le lendemain matin, offrèrent des holocaustes et apportèrent des offrandes de paix. Les gens s'asseyaient alors pour manger et boire, et se levaient pour s'amuser."
+    },
+    {
+      "ref": "Exodus 32:7",
+      "fr": "Adonoy dit à Moché : « Descends, car ton peuple est corrompu, ceux que tu as fait sortir du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 32:8",
+      "fr": "Ils se sont écartés rapidement de la voie que je leur avais ordonnée, ils se sont fait un veau en fusion. Ils se sont prosternés devant elle et lui ont offert des sacrifices, et ont dit : « Ceux-ci, Israël, sont tes dieux qui t'ont fait monter du pays d'Égypte. »"
+    },
+    {
+      "ref": "Exodus 32:9",
+      "fr": "Adonoy dit à Moshe : « J'ai vu [observé] ce peuple [se révèle devant Moi], et voici, c'est un peuple au cou raide."
+    },
+    {
+      "ref": "Exodus 32:10",
+      "fr": "Maintenant, laisse-moi tranquille [laisse ta prière devant moi] et ma colère s'enflammera contre eux et les détruira. I will then make you into a great nation.”"
+    },
+    {
+      "ref": "Exodus 32:11",
+      "fr": "Moshe implorait [priait] devant la présence d'Adonoy, son Dieu, et il dit : \" Adonoy ! Pourquoi ta colère s'enflammerait-elle contre ton peuple que tu as fait sortir du pays d'Égypte avec une grande puissance et une main puissante ?"
+    },
+    {
+      "ref": "Exodus 32:12",
+      "fr": "Pourquoi l’Égypte pourrait-elle dire : « Il les a fait sortir avec de mauvaises intentions, pour les tuer [entre] les montagnes et les anéantir de la surface de la terre ? » Détournez-vous de votre colère ardente et reconsidérez l’intention de faire du mal à votre peuple."
+    },
+    {
+      "ref": "Exodus 32:13",
+      "fr": "Souviens-toi d'Abraham, d'Itschok et d'Israël, tes serviteurs, à qui tu as juré par toi-même [Parole], et leur as dit : « Je rendrai ta descendance aussi nombreuse que les étoiles du ciel ; et tout ce pays dont j'ai parlé, je le donnerai à vos descendants, et ils en posséderont pour toujours.'»"
+    },
+    {
+      "ref": "Exodus 32:14",
+      "fr": "Adonoy a reconsidéré [l'intention de faire] le mal qu'Il avait dit qu'Il ferait à Son peuple."
+    },
+    {
+      "ref": "Exodus 32:15",
+      "fr": "Moshe se tourna et descendit de la montagne avec les deux tablettes du témoignage à la main. C'étaient des tablettes écrites des deux côtés, l'écriture était [visible] des deux côtés."
+    },
+    {
+      "ref": "Exodus 32:16",
+      "fr": "Les Tablettes étaient l’œuvre de Dieu, et l’écriture était l’écriture de Dieu, gravée sur les Tablettes."
+    },
+    {
+      "ref": "Exodus 32:17",
+      "fr": "Yehoshua entendit la voix du peuple se réjouir et il dit à Moshe : « Il y a un bruit de bataille dans le camp. »"
+    },
+    {
+      "ref": "Exodus 32:18",
+      "fr": "Mais il [Moshe] a dit : \" Ce n'est pas le son de la force [chant de victoire] [les puissants qui sont victorieux dans la guerre], ce n'est pas non plus le son de la faiblesse [chant de la défaite] [les faibles qui sont brisés]. C'est un son de chant [les réjouisseurs] que j'entends. \""
+    },
+    {
+      "ref": "Exodus 32:19",
+      "fr": "Alors qu'il [Moshe] s'approchait du camp, il vit le veau et la danse. La colère de Moshe s’enflamma et il jeta les tablettes qu’il avait dans les mains et les brisa au pied de la montagne."
+    },
+    {
+      "ref": "Exodus 32:20",
+      "fr": "Il prit le veau qu'ils avaient fait, le brûla au feu et le réduisit en poudre fine. Il le répandit ensuite sur l’eau et le fit boire aux B’nei Yisrael."
+    },
+    {
+      "ref": "Exodus 32:21",
+      "fr": "Moshe dit alors à Aaron : « Que t'a fait ce peuple pour que tu leur fasses commettre un si grand péché ?"
+    },
+    {
+      "ref": "Exodus 32:22",
+      "fr": "Aharon dit : \" Que la colère de mon maître ne s'enflamme pas. Tu sais que les gens sont tournés vers le mal."
+    },
+    {
+      "ref": "Exodus 32:23",
+      "fr": "Ils m'ont dit : \"Faites-nous des dieux qui nous guideront. Car ce Moshe, l'homme qui nous a fait monter du pays d'Égypte, nous ne savons pas ce qui lui est arrivé.\""
+    },
+    {
+      "ref": "Exodus 32:24",
+      "fr": "Je leur ai dit : « Qui a de l’or ? » Ils ont pris [leur or] et me l’ont donné. Je l’ai jeté au feu et ce veau est sorti."
+    },
+    {
+      "ref": "Exodus 32:25",
+      "fr": "Moshe a vu [les mauvais traits des] gens car ils étaient [maintenant] exposés [rejetés] ; car Aharon les avait laissés être exposés [les avait annulés], et maintenant ils seraient déshonorés parmi leurs adversaires [pour leur faire prendre une mauvaise réputation pour leurs générations]."
+    },
+    {
+      "ref": "Exodus 32:26",
+      "fr": "Moshe se tenait à l'entrée du camp et dit : « Quiconque craint Adonoy, [viens] à moi. » Tous les fils de Levivi se rassemblèrent auprès de lui."
+    },
+    {
+      "ref": "Exodus 32:27",
+      "fr": "Il leur dit : \"Voici ce qu'a dit Adonoï, le Dieu d'Israël : \" Que chacun mette son épée sur sa hanche et passe de porte en porte dans le camp. Que chacun tue [même] son ​​frère, chacun son ami, chacun son parent."
+    },
+    {
+      "ref": "Exodus 32:28",
+      "fr": "Les fils de Leivi firent ce que Moshe avait dit. Ce jour-là, ceux qui tombèrent du milieu du peuple étaient au nombre d'environ trois mille hommes."
+    },
+    {
+      "ref": "Exodus 32:29",
+      "fr": "Moshe a dit : « Consacrez-vous [vos mains ont offert un sacrifice] aujourd'hui à [devant] Adonoy – car chaque homme a tué [même] son ​​fils et ses frères – afin qu'il vous accorde une bénédiction aujourd'hui."
+    },
+    {
+      "ref": "Exodus 32:30",
+      "fr": "Le lendemain, Moshe dit au peuple : \" Vous avez commis un grand péché. Maintenant, je vais monter devant Adonoy, peut-être que j'obtiendrai l'expiation pour votre péché. \""
+    },
+    {
+      "ref": "Exodus 32:31",
+      "fr": "Moshe retourna vers Adonoy et dit : \" Je t'en supplie ! Ce peuple a commis un grand péché et s'est fait un dieu en or. \""
+    },
+    {
+      "ref": "Exodus 32:32",
+      "fr": "Maintenant, si tu veux pardonner leur péché, sinon, efface-moi de ton livre que tu as écrit."
+    },
+    {
+      "ref": "Exodus 32:33",
+      "fr": "Adonoy dit à Moshe : « Ceux qui ont péché contre [avant] moi, je les effacerai de mon livre."
+    },
+    {
+      "ref": "Exodus 32:34",
+      "fr": "Et maintenant, va, conduis le peuple vers le lieu dont je t'ai parlé. Voici, mon ange marchera devant toi. Mais le jour où je tiendrai compte d’eux, je tiendrai compte de leur péché."
+    },
+    {
+      "ref": "Exodus 32:35",
+      "fr": "Adonoï frappa alors le peuple d'une peste parce qu'ils avaient fabriqué [adoré] le veau qu'Aharon avait fabriqué."
+    },
+    {
+      "ref": "Exodus 33:1",
+      "fr": "Adonoy dit à Moshe : « Pars, monte de ce [lieu], toi et le peuple que tu as fait monter du pays d'Égypte, vers le pays dont j'ai juré à Avraham, à Itschok et à Yaakov, en disant : « Je le donnerai à ta descendance. »"
+    },
+    {
+      "ref": "Exodus 33:2",
+      "fr": "J'enverrai un ange devant toi, et je chasserai les Cananéens, les Émoréens, les Chitites, les Perizites, les Chivites et les Yevusites."
+    },
+    {
+      "ref": "Exodus 33:3",
+      "fr": "[Vous entrerez alors] dans un pays où coulent [produisant] du lait et du miel. [J'envoie un ange] car Moi [Ma Shekhina] ne monterai pas parmi vous, car vous êtes un peuple au cou raide et je pourrais vous détruire en cours de route."
+    },
+    {
+      "ref": "Exodus 33:4",
+      "fr": "Quand les gens apprirent cette mauvaise nouvelle, ils pleurèrent et aucun homme ne porta ses ornements [couronnes]."
+    },
+    {
+      "ref": "Exodus 33:5",
+      "fr": "Adonoy dit à Moshe : \"Dis aux B'nei Yisrael : 'Vous êtes un peuple au cou raide. Si je [ma Shechina] montais parmi vous un instant, je vous détruirais. Maintenant, enlevez vos ornements et je sais [cela sera révélé devant moi] quoi faire de vous.'\""
+    },
+    {
+      "ref": "Exodus 33:6",
+      "fr": "Les B’nei Yisrael ont enlevé leurs ornements qu’ils avaient [portés] au mont Chorev."
+    },
+    {
+      "ref": "Exodus 33:7",
+      "fr": "Moshe prenait la tente et l'installait à l'extérieur du camp, à une certaine distance du camp, et il l'appelait [la] Tente de Rencontre [la maison d'Instruction]. Tous ceux qui cherchaient [l'instruction d'avant] Adonoy sortaient à la tente d'assignation [la maison d'instruction] qui était à l'extérieur du camp."
+    },
+    {
+      "ref": "Exodus 33:8",
+      "fr": "Chaque fois que Moshe sortait vers la tente, tout le monde se levait et chacun se tenait à l'entrée de sa tente ; et ils regardaient Moshe jusqu'à ce qu'il soit entré dans la tente."
+    },
+    {
+      "ref": "Exodus 33:9",
+      "fr": "Quand Moshe était entré dans la tente, la Colonne de Nuée descendait et se tenait à l'entrée de la tente, et [Adonoy] parlait à [Lui-même avec] Moshe."
+    },
+    {
+      "ref": "Exodus 33:10",
+      "fr": "Quand tout le peuple vit la Colonne de Nuée, debout à l’entrée de la tente ; tout le peuple se leva et se prosterna, chacun à l'entrée de sa tente."
+    },
+    {
+      "ref": "Exodus 33:11",
+      "fr": "Adonoy s'est adressé à [lui-même avec] Moshe face à face [mot à mot], tout comme un homme parle à son ami. et [Moshe] retournait alors au camp, mais son jeune serviteur, Yehoshua, fils de Noun, ne quittait pas la tente."
+    },
+    {
+      "ref": "Exodus 33:12",
+      "fr": "Moshe dit à Adonoy : \" Voici, tu me dis : \" Conduis ce peuple [au pays de Canaan] \", mais tu ne m'as pas fait savoir qui tu enverrais avec moi. Tu as dit aussi : \" Je te connais [exalté] par ton nom et tu as aussi trouvé grâce à mes yeux [devant moi]. \""
+    },
+    {
+      "ref": "Exodus 33:13",
+      "fr": "Maintenant, s'il te plaît, si j'ai [maintenant] trouvé grâce à tes yeux [devant toi], s'il te plaît [maintenant] fais-moi connaître ta [la voie de ta bonté], afin que je te connaisse [ton amour], et que je puisse trouver grâce à tes yeux [devant toi] ; et [aussi] considère [il sera révélé devant toi] que cette nation est [en effet] ton peuple."
+    },
+    {
+      "ref": "Exodus 33:14",
+      "fr": "Il [Dieu] a dit : « Ma Présence [Shechina] ira [avec vous] et j'accéderai à votre [demande] »."
+    },
+    {
+      "ref": "Exodus 33:15",
+      "fr": "Et il [Moshe] dit [devant] Lui : « Si Ta Présence [Shechina] ne vient pas [avec nous], ne nous fais pas quitter cet [endroit]."
+    },
+    {
+      "ref": "Exodus 33:16",
+      "fr": "Et comment cela sera-t-il connu [ici]. que j'ai trouvé grâce à Tes yeux [devant Toi] - moi et ton peuple - seulement si Tu [Votre Shekhina] allez avec nous, afin que nous soyons distingués [des merveilles seront faites pour nous] - Moi et Votre peuple - [qu'ils seront distincts] de tous les [autres] peuples sur la face de la terre."
+    },
+    {
+      "ref": "Exodus 33:17",
+      "fr": "Adonoy dit à Moshe : « Je ferai aussi ce que tu as dit, car tu as trouvé grâce à Mes yeux [devant Moi], et je te connais [exalté] par ton nom. »"
+    },
+    {
+      "ref": "Exodus 33:18",
+      "fr": "Il [Moshe] a alors dit : « S'il te plaît, accorde-moi [maintenant] une vision de Ta Gloire. »"
+    },
+    {
+      "ref": "Exodus 33:19",
+      "fr": "Il [Dieu] dit : \"Je ferai passer toute ma bonté devant ta présence, et je proclamerai le Nom, Adonoy, en ta présence. Je ferai grâce à qui je ferai grâce, et je serai compatissant envers qui j'aurai compassion."
+    },
+    {
+      "ref": "Exodus 33:20",
+      "fr": "Et Il dit : « Vous ne pouvez pas voir [la] Présence [de la Shechina], car aucun homme ne peut voir Ma Présence et vivre. »"
+    },
+    {
+      "ref": "Exodus 33:21",
+      "fr": "Et Adonoy dit : « Voici, il y a un endroit avec moi [préparé devant], et tu t'asseoiras sur le rocher."
+    },
+    {
+      "ref": "Exodus 33:22",
+      "fr": "Quand Ma Gloire passera, Je te mettrai dans une fente [grotte] du rocher, et Je te couvrirai [à l'abri] de Ma Main [Parole] jusqu'à ce que Je passe."
+    },
+    {
+      "ref": "Exodus 33:23",
+      "fr": "Alors J'enlèverai [la direction de] Ma Main [Gloire], et vous verrez Mon Dos [ce qui est derrière Moi], mais Ma Face [ce qui est devant Moi] ne sera pas vue."
+    },
+    {
+      "ref": "Exodus 34:1",
+      "fr": "Adonoy dit à Moshe : \" Taille-toi deux tablettes de pierre comme les premières. Et j'écrirai sur ces tablettes les mots qui étaient sur les premières tablettes que tu as brisées. \""
+    },
+    {
+      "ref": "Exodus 34:2",
+      "fr": "Soyez prêt pour le matin, et le matin, montez au mont Sinaï et tenez-vous là devant Moi, au sommet de la montagne."
+    },
+    {
+      "ref": "Exodus 34:3",
+      "fr": "Personne ne montera avec toi, et personne ne sera vu sur toute la montagne ; même les moutons et le bétail ne paîtront pas devant cette montagne."
+    },
+    {
+      "ref": "Exodus 34:4",
+      "fr": "Il [Moshe] a sculpté deux tablettes de pierre, tout comme les premières. Moshe se leva de bon matin et monta au mont Sinaï, comme Adonoy le lui avait ordonné ; et il prit les deux tablettes de pierre dans sa main."
+    },
+    {
+      "ref": "Exodus 34:5",
+      "fr": "Adonoy descendit [se révéla] dans une nuée et elle se tenait là avec lui ; et il [Moshe] cria [invoqua] le Nom, Adonoy."
+    },
+    {
+      "ref": "Exodus 34:6",
+      "fr": "Adonoy [fait passer sa Chechina] passa devant lui et proclama : « Adonoy, Adonoy, Tout-Puissant, miséricordieux et miséricordieux, lent à [distancier] la colère, et [faisant] abondant en bonté [bonté] et en vérité [abondent]."
+    },
+    {
+      "ref": "Exodus 34:7",
+      "fr": "Il préserve la bonté pour des milliers [de générations], supportant [pardonnant] l'iniquité, la transgression [la rébellion] et le péché. Il innocente [acquitte le pénitent] [pardonne à ceux qui reviennent à sa Torah] et il n’acquitte pas [acquitte les impénitents], punissant l’iniquité des pères sur les enfants et les enfants des enfants [rebelles], [même] sur la troisième et la quatrième [génération]."
+    },
+    {
+      "ref": "Exodus 34:8",
+      "fr": "Moshe se hâta, s'inclina jusqu'à terre et se prosterna,"
+    },
+    {
+      "ref": "Exodus 34:9",
+      "fr": "et dit : « Si j'ai trouvé grâce à Tes yeux [devant Toi] mon Maître, que [la Chechina de] mon Maître vienne parmi nous ; bien que ce soit un peuple au cou raide, pardonne notre iniquité et nos péchés, et prends-nous comme Ta propriété. »"
+    },
+    {
+      "ref": "Exodus 34:10",
+      "fr": "Et Il dit : « Par la présente, je conclus une alliance ; devant tout ton peuple, j’accomplirai des prodiges tels qu’il n’en a été créé sur toute la terre ni pour aucune nation ; et tout le peuple au milieu duquel vous êtes verra combien est redoutable l’œuvre d’Adonoy que j’accomplirai pour vous."
+    },
+    {
+      "ref": "Exodus 34:11",
+      "fr": "Préservez pour votre propre bien ce que je vous commande aujourd'hui. Je chasse devant vous les Émoréens, les Cananéens, les Chitites, les Perizites, les Chivities et les Yevusites."
+    },
+    {
+      "ref": "Exodus 34:12",
+      "fr": "Pour votre propre bien, veillez à ne pas conclure d'alliance avec les habitants du pays où vous allez, de peur que ce ne soit un piège au milieu de vous."
+    },
+    {
+      "ref": "Exodus 34:13",
+      "fr": "Au contraire, vous devez briser leurs autels, démolir leurs monuments et abattre leurs arbres d'ashéra."
+    },
+    {
+      "ref": "Exodus 34:14",
+      "fr": "Car vous ne devez pas vous prosterner devant un autre dieu [faux dieux des peuples], car Adonoy — jaloux est son nom — c'est un [Dieu] jaloux Tout-Puissant."
+    },
+    {
+      "ref": "Exodus 34:15",
+      "fr": "[Prenez garde] de ne pas conclure d'alliance avec les gens qui habitent dans le pays, de ne pas s'égarer après leurs [faux] dieux [religions] et de sacrifier à leurs [faux] dieux, [car il] vous appellera alors et vous mangerez de son sacrifice."
+    },
+    {
+      "ref": "Exodus 34:16",
+      "fr": "Vous accepterez alors ses filles pour vos fils. Ses filles s'égareront après leurs [faux] dieux, et elles entraîneront vos fils à s'égarer après leurs [faux] dieux."
+    },
+    {
+      "ref": "Exodus 34:17",
+      "fr": "Vous ne devez pas vous créer des dieux en fusion."
+    },
+    {
+      "ref": "Exodus 34:18",
+      "fr": "Préserver le Festival des Matzos. Mangez des matzos pendant sept jours, comme je vous l'ai ordonné, au moment fixé du mois de maturation [du grain] ; car au mois de la maturation du grain, tu es sorti d'Egypte."
+    },
+    {
+      "ref": "Exodus 34:19",
+      "fr": "Tout ce qui ouvre le ventre [le premier-né] est à moi, et de tout votre bétail mâle [vous sanctifierez], celui qui ouvre [le ventre] [le premier-né], tant les bovins que les moutons."
+    },
+    {
+      "ref": "Exodus 34:20",
+      "fr": "L'âne [premier-né] qui ouvre le ventre sera racheté avec une brebis, et s'il n'est pas racheté, vous lui briserez le cou. [Vous devez] racheter tous les premiers-nés de vos fils, et vous ne devez pas vous présenter devant Moi les mains vides."
+    },
+    {
+      "ref": "Exodus 34:21",
+      "fr": "Tu travailleras pendant six jours, mais le septième jour tu devras cesser ; vous devez cesser de labourer [semer] et de récolter."
+    },
+    {
+      "ref": "Exodus 34:22",
+      "fr": "Faites la fête de Shavuos, [en apportant] les premières récoltes de la récolte du blé ; [aussi] la Fête de la Récolte au début de l'année."
+    },
+    {
+      "ref": "Exodus 34:23",
+      "fr": "Trois fois par an, tous vos mâles se présenteront devant la présence du Maître [du monde], Adonoy, Dieu d'Israël."
+    },
+    {
+      "ref": "Exodus 34:24",
+      "fr": "Car je chasserai les nations devant toi, et j'élargirai tes frontières ; et personne ne convoitera votre pays lorsque vous monterez vous présenter devant Adonoy, votre Dieu, trois fois l'an."
+    },
+    {
+      "ref": "Exodus 34:25",
+      "fr": "N'égorgez pas [l'offrande de Pessa'h] le sang de mon sacrifice [l'offrande de Pessa'h] pendant qu'il y a du hametz ; et ne laissez pas passer la nuit jusqu'au matin [sur l'autel] aucune [graisse] de l'offrande de la fête de Pessa'h."
+    },
+    {
+      "ref": "Exodus 34:26",
+      "fr": "Tu apporteras les prémices de ton pays à la Maison [du Sanctuaire] d'Adonoy, ton Dieu. Il ne faut pas faire cuire un chevreau dans le lait de sa mère [manger de la viande avec du lait]."
+    },
+    {
+      "ref": "Exodus 34:27",
+      "fr": "Adonoy dit à Moshe : « Écris ces paroles pour toi, car avec [concernant l'expression de] ces paroles, j'ai conclu une alliance avec toi et avec [les B'nei] Yisrael. »"
+    },
+    {
+      "ref": "Exodus 34:28",
+      "fr": "Il [Moshe] resta là avec [avant] Adonoy pendant quarante jours et quarante nuits. Il ne mangeait pas de pain ni ne buvait d'eau, et il écrivit sur les tablettes les paroles de l'alliance, les dix paroles [commandements]."
+    },
+    {
+      "ref": "Exodus 34:29",
+      "fr": "Et quand Moshe descendit du Mont Sinaï, les deux Tablettes du Témoignage étaient dans la main de Moshe quand il descendit de la Montagne. Moshe ne savait pas que la peau [splendeur de la gloire] de son visage était devenue radieuse [augmentée] quand Il [Dieu] lui parlait."
+    },
+    {
+      "ref": "Exodus 34:30",
+      "fr": "Quand Aharon et tous les B'nei Yisrael virent Moshe et virent que la peau [splendeur de la gloire] de son visage était devenue radieuse [augmentée], ils eurent peur de s'approcher de lui."
+    },
+    {
+      "ref": "Exodus 34:31",
+      "fr": "Moché les appela et ils revinrent vers lui – Aharon et tous les chefs de la congrégation – et Moché leur parla."
+    },
+    {
+      "ref": "Exodus 34:32",
+      "fr": "Après cela, tous les B'nei Yisrael s'approchèrent [de lui] et il leur commanda [concernant] tout ce qu'Adonoy lui avait dit sur le mont Sinaï."
+    },
+    {
+      "ref": "Exodus 34:33",
+      "fr": "Lorsque Moshe eut fini de parler avec eux, il plaça un couvre-visage sur son visage."
+    },
+    {
+      "ref": "Exodus 34:34",
+      "fr": "[Mais] quand Moshe est venu devant Adonoy pour lui parler ; il a enlevé le [visage] couvrant[ing] jusqu'à ce qu'il soit prêt à partir. et il sortait alors et parlait aux B'nei Yisrael, [leur disant] ce qui lui avait été commandé."
+    },
+    {
+      "ref": "Exodus 34:35",
+      "fr": "Les B'nei Yisrael ont vu le visage de Moshe, que la peau [splendeur de la gloire] du visage de Moshe était devenue radieuse [augmentée], et Moshe a remplacé le [visage] couvrant son visage jusqu'à ce qu'il vienne lui parler [Adonoy]."
+    }
+  ]
+}

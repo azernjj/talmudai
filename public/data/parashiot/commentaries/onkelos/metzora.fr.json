@@ -1,0 +1,368 @@
+{
+  "name": "Metsora",
+  "range": "Leviticus 14:1-15:33",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/metzora.json",
+  "verses": [
+    {
+      "ref": "Leviticus 14:1",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 14:2",
+      "fr": "Telle sera la loi concernant la personne en tsoraas ['confinement'] le jour de sa purification, elle sera amenée au kohein."
+    },
+    {
+      "ref": "Leviticus 14:3",
+      "fr": "Le kohein sortira au-delà du campement. Le kohein verra ; et voilà ! l’éruption cutanée du tzoraas [’confinement’] a guéri chez la personne atteinte du tzoraas [’confinement’]."
+    },
+    {
+      "ref": "Leviticus 14:4",
+      "fr": "Le kohein ordonnera de prendre pour la personne en cours de purification deux oiseaux vivants et purs [casher], du bois de cèdre, du fil cramoisi [coloré] et de l'hysope."
+    },
+    {
+      "ref": "Leviticus 14:5",
+      "fr": "Le kohein ordonnera d'abattre l'unique oiseau dans un récipient en terre cuite, au-dessus de l'eau courante."
+    },
+    {
+      "ref": "Leviticus 14:6",
+      "fr": "[Quant à] l'oiseau vivant, il le prendra ; et le bois de cèdre, le fil cramoisi et l'hysope et plonge-les ainsi que l'oiseau vivant dans le sang de l'oiseau abattu, sur l'eau courante."
+    },
+    {
+      "ref": "Leviticus 14:7",
+      "fr": "Il aspergera sept fois la personne qui subit la purification de la tsoraas ['confinement'] et la purifiera ; et envoyez l'oiseau vivant en plein champ."
+    },
+    {
+      "ref": "Leviticus 14:8",
+      "fr": "Celui qui se purifie lavera ses vêtements, rasera tous ses cheveux, et se lavera dans l'eau, et il sera purifié. Après [cela], il pourra entrer dans le camp. Il doit rester hors de sa tente pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 14:9",
+      "fr": "Le septième jour, il rasera tous ses cheveux, sa tête, sa barbe et ses sourcils ; il rasera tous ses cheveux. Il lavera ses vêtements, baignera son corps dans l'eau et se purifiera."
+    },
+    {
+      "ref": "Leviticus 14:10",
+      "fr": "Le huitième jour, il prendra en offrande de gâteau deux agneaux sans défaut et une brebis d'un an sans défaut, et trois dixièmes de fine farine pétrie avec de l'huile et un log d'huile."
+    },
+    {
+      "ref": "Leviticus 14:11",
+      "fr": "Le kohein effectuant la purification placera l'homme subissant la purification et les objets [susmentionnés] devant Adonoy, à l'entrée de la Tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 14:12",
+      "fr": "Le kohein prendra un agneau et l'apportera en offrande de délit, et (avec) le rondin d'huile et les agitera [lèvera] comme une offrande agitée [une offrande élevée] devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:13",
+      "fr": "Il égorgera l'agneau dans le lieu où il égorge le sacrifice pour le péché et l'holocauste, dans le lieu sacré ; car, tout comme le sacrifice pour le péché, c'est le sacrifice pour le délit ; il appartient au kohein, il est très saint."
+    },
+    {
+      "ref": "Leviticus 14:14",
+      "fr": "Le kohein prendra du sang du sacrifice de culpabilité et le kohein le mettra sur la crête médiane [partie supérieure] de l'oreille droite de la personne à purifier, ainsi que sur le pouce de sa main droite et sur le gros orteil de son pied droit."
+    },
+    {
+      "ref": "Leviticus 14:15",
+      "fr": "Le kohein prendra de l'huile du journal et la versera sur la paume gauche du kohein."
+    },
+    {
+      "ref": "Leviticus 14:16",
+      "fr": "Le kohein plongera son doigt droit dans un peu de l'huile qui est sur sa paume gauche et il aspergera un peu de l'huile avec son doigt sept fois devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:17",
+      "fr": "Avec l'huile qui reste sur sa paume, on appliquera le kohein sur la crête médiane [partie supérieure] de l'oreille droite de la personne à purifier, sur le pouce de sa main droite et sur le gros orteil de son pied droit ; sur le sang du sacrifice de culpabilité."
+    },
+    {
+      "ref": "Leviticus 14:18",
+      "fr": "Tout ce qui reste d'huile sur la paume du kohein, il le mettra sur la tête de celui qui se purifie. Le kohein l'expiera devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:19",
+      "fr": "Le kohein fera (offrira) le sacrifice pour le péché et expiera pour la personne en cours de purification de son impureté, puis il égorgera l'holocauste."
+    },
+    {
+      "ref": "Leviticus 14:20",
+      "fr": "Le kohein élèvera l'holocauste et l'offrande de gâteau sur l'autel et le kohein fera l'expiation pour lui et il sera purifié."
+    },
+    {
+      "ref": "Leviticus 14:21",
+      "fr": "S'il est pauvre et que ses moyens ne suffisent pas, il prendra un agneau en sacrifice de culpabilité, en offrande agitée pour expier pour lui, et un dixième de fine farine pétrie à l'huile, en offrande de gâteau et une bûche d'huile."
+    },
+    {
+      "ref": "Leviticus 14:22",
+      "fr": "Et deux tourterelles ou deux jeunes pigeons comme ses moyens suffisent. L’un sera pour le sacrifice d’expiation et l’autre pour l’holocauste."
+    },
+    {
+      "ref": "Leviticus 14:23",
+      "fr": "Il les amènera le huitième jour de sa purification, au kohein, à l'entrée de la tente d'assignation, devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:24",
+      "fr": "Le kohein prendra le mouton pour le sacrifice de culpabilité et le rondin d'huile et le kohein les agitera [les soulèvera] comme une offrande agitée [une offrande élevée] devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:25",
+      "fr": "Il égorgera l'agneau du sacrifice de culpabilité. Le kohein prendra du sang du sacrifice de culpabilité et le mettra sur la crête médiane [partie supérieure] de l'oreille droite de la personne qui subit la purification, ainsi que sur le pouce de sa main droite et le gros orteil de son pied droit."
+    },
+    {
+      "ref": "Leviticus 14:26",
+      "fr": "Le kohein versera un peu d’huile sur la paume gauche du kohein."
+    },
+    {
+      "ref": "Leviticus 14:27",
+      "fr": "Le kohein aspergera, avec son doigt droit, de l'huile qui est sur sa paume gauche, sept fois devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:28",
+      "fr": "Le kohein mettra un peu de l'huile qui est sur sa paume, sur la crête médiane [partie supérieure] de l'oreille droite de la personne qui subit la purification, et sur le pouce de sa main droite et sur le gros orteil de son pied droit, à l'endroit où se trouve le sang du sacrifice de culpabilité."
+    },
+    {
+      "ref": "Leviticus 14:29",
+      "fr": "Ce qui reste de l'huile qui est sur la paume du kohein, il le mettra sur la tête de celui qui se purifie, pour accomplir son expiation devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:30",
+      "fr": "Il fera (offrira) une des tourterelles ou des jeunes pigeons, parmi ceux dont ses moyens lui suffisent,"
+    },
+    {
+      "ref": "Leviticus 14:31",
+      "fr": "ce pour quoi ses moyens suffisent, l'un pour le sacrifice d'expiation, et l'autre pour l'holocauste avec l'offrande de repas. Le kohein expiera la personne en cours de purification devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 14:32",
+      "fr": "C’est la loi de quiconque souffre d’une éruption cutanée de tzoraas [’confinement’] et dont les moyens ne suffisent pas à sa purification."
+    },
+    {
+      "ref": "Leviticus 14:33",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Leviticus 14:34",
+      "fr": "Quand vous entrerez dans le pays de Canaan que je vous donnerai en possession, et je mettrai l'éruption de tsoraas ['confinement'] dans la maison du pays que vous possédez."
+    },
+    {
+      "ref": "Leviticus 14:35",
+      "fr": "Celui qui est dans la maison viendra le dire au kohein, en disant : Quelque chose comme une éruption m'est apparu dans la maison."
+    },
+    {
+      "ref": "Leviticus 14:36",
+      "fr": "Le kohein ordonnera, et ils videront la maison [de son contenu] avant que le kohein ne vienne voir l'éruption afin que tout dans la maison ne devienne pas impur. Ensuite, le kohein viendra voir la maison."
+    },
+    {
+      "ref": "Leviticus 14:37",
+      "fr": "Il verra l’éruption et voilà ! L'éruption est dans les murs de la maison ; impressions, du vert le plus vert ou du rouge le plus rouge [vert ou rouge] et elles semblent être plus basses que la [surface du] mur."
+    },
+    {
+      "ref": "Leviticus 14:38",
+      "fr": "Le kohein sortira de la maison jusqu'à l'entrée de la maison et mettra la maison en quarantaine pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 14:39",
+      "fr": "Le kohein reviendra le septième jour et verra ; et voilà ! l'éruption s'est étendue [augmentée] dans les murs de la maison."
+    },
+    {
+      "ref": "Leviticus 14:40",
+      "fr": "Le kohein ordonnera et ils enlèveront les pierres dans lesquelles il y a l'éruption et les jetteront au-delà de la ville vers un endroit impur."
+    },
+    {
+      "ref": "Leviticus 14:41",
+      "fr": "Il grattera la maison de l'intérieur, tout autour, et ils jetteront la terre qu'ils ont grattée, au-delà de la ville, dans un lieu impur."
+    },
+    {
+      "ref": "Leviticus 14:42",
+      "fr": "Ils prendront d'autres pierres, et ils les apporteront pour remplacer les pierres, et il prendra d'autres terres et enduitra la maison."
+    },
+    {
+      "ref": "Leviticus 14:43",
+      "fr": "Si l'éruption revient et germe dans la maison après que les pierres ont été enlevées, et après que la maison a été grattée et après qu'elle a été enduite,"
+    },
+    {
+      "ref": "Leviticus 14:44",
+      "fr": "le kohein viendra voir ; et voilà ! l'éruption s'est étendue [augmentée] dans la maison ; le tzoraas épineux ['confinement' de perte] est dans la maison, il est impur."
+    },
+    {
+      "ref": "Leviticus 14:45",
+      "fr": "Il démolira la maison ; ses pierres et son bois et toute la terre de la maison. Il l'emmènera hors de la ville, dans un lieu impur."
+    },
+    {
+      "ref": "Leviticus 14:46",
+      "fr": "Quiconque entrera dans la maison [pendant] tous les jours de sa détention sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 14:47",
+      "fr": "Celui qui se couchera à l'intérieur de la maison lavera ses vêtements. Celui qui mangera à l'intérieur de la maison lavera ses vêtements."
+    },
+    {
+      "ref": "Leviticus 14:48",
+      "fr": "Si le kohein vient voir ; et voilà ! l'éruption ne s'est pas propagée [a augmenté] dans la maison après que la maison ait été enduite, le kohein déclarera la maison [être] pure, car l'éruption a été guérie."
+    },
+    {
+      "ref": "Leviticus 14:49",
+      "fr": "Il prendra, pour purifier la maison, deux oiseaux, du bois de cèdre, du fil cramoisi et de l'hysope."
+    },
+    {
+      "ref": "Leviticus 14:50",
+      "fr": "Il égorgera un oiseau dans un vase en terre cuite, au-dessus de l'eau courante."
+    },
+    {
+      "ref": "Leviticus 14:51",
+      "fr": "Il prendra le bois de cèdre, l'hysope, le fil cramoisi et l'oiseau vivant, il les plongera dans le sang de l'oiseau abattu et dans l'eau courante, et il aspergera la maison sept fois."
+    },
+    {
+      "ref": "Leviticus 14:52",
+      "fr": "Il purifiera la maison avec le sang de l'oiseau et avec l'eau courante, et avec l'oiseau vivant, le bois de cèdre, l'hysope et le fil cramoisi."
+    },
+    {
+      "ref": "Leviticus 14:53",
+      "fr": "Il enverra l'oiseau vivant au-delà de la ville dans les champs, et il fera l'expiation pour la maison et elle sera purifiée."
+    },
+    {
+      "ref": "Leviticus 14:54",
+      "fr": "C’est la loi pour toutes les éruptions de tzoraas [’confinement’] et pour le nesek."
+    },
+    {
+      "ref": "Leviticus 14:55",
+      "fr": "Pour les tzoraas ['confinement'] du vêtement et de la maison."
+    },
+    {
+      "ref": "Leviticus 14:56",
+      "fr": "Pour la tache [profondément] blanche comme la laine, pour la tache qui est presque aussi blanche et pour la tache blanche comme la neige."
+    },
+    {
+      "ref": "Leviticus 14:57",
+      "fr": "Pour enseigner [la loi] du jour où l'on devient impur et du jour où l'on devient pur ; c’est la loi du tzoraas [’confinement’]."
+    },
+    {
+      "ref": "Leviticus 15:1",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Leviticus 15:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : Si [un écoulement] sort du corps d'un homme, [à cause de] son ​​écoulement, il est impur."
+    },
+    {
+      "ref": "Leviticus 15:3",
+      "fr": "C'est la loi de son impureté, quand son écoulement coule ; Sa chair dégouline [avec] ses sécrétions ou sa chair est bouchée par ses sécrétions, cela le rend impur."
+    },
+    {
+      "ref": "Leviticus 15:4",
+      "fr": "Tout lit [tout ce qui est utilisé spécifiquement pour dormir], sur lequel reposera un zov [une personne dont découle un écoulement,] deviendra impur. Tout vase sur lequel il est assis deviendra impur."
+    },
+    {
+      "ref": "Leviticus 15:5",
+      "fr": "Celui qui touche son lit doit laver ses vêtements et se baigner dans l'eau et reste impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:6",
+      "fr": "Celui qui s'assiéra sur le bateau sur lequel était assis un zov lavera ses vêtements et se baignera dans l'eau et restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:7",
+      "fr": "Celui qui touche la chair d'un zov doit laver ses vêtements et se baigner dans l'eau et reste impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:8",
+      "fr": "Si le zov crache sur une personne rituellement pure, il lavera ses vêtements et se baignera dans l'eau et restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:9",
+      "fr": "Tout ce qui sert à monter un zov deviendra impur."
+    },
+    {
+      "ref": "Leviticus 15:10",
+      "fr": "Quiconque touche quelque chose qui est en dessous de lui sera impur jusqu'au soir. et quiconque les portera lavera ses vêtements et se lavera dans l'eau et sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:11",
+      "fr": "Si un zov touche quelqu'un et que ses mains n'ont pas été rincées à l'eau, il lavera ses vêtements et se baignera dans l'eau et restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:12",
+      "fr": "Un vase en terre cuite que le zov touchera sera brisé. Tout récipient en bois doit être rincé à l'eau."
+    },
+    {
+      "ref": "Leviticus 15:13",
+      "fr": "Lorsqu'un zov sera rituellement pur de son écoulement d'impureté, il comptera pour lui-même sept jours pour sa purification, lavera ses vêtements et se baignera dans l'eau courante, et il sera purifié."
+    },
+    {
+      "ref": "Leviticus 15:14",
+      "fr": "Le huitième jour, il prendra deux tourterelles ou deux jeunes pigeons et se présentera devant Adonoy, à l'entrée de la tente d'assignation, et les donnera au kohéin."
+    },
+    {
+      "ref": "Leviticus 15:15",
+      "fr": "Le kohein les fera (les offrira), l'un en sacrifice pour le péché et l'autre en holocauste. Le kohein l'expiera devant Adonoy, de son impureté de décharge."
+    },
+    {
+      "ref": "Leviticus 15:16",
+      "fr": "Si un homme sort de la semence, il baignera tout son corps dans l'eau et il restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:17",
+      "fr": "Tout vêtement et tout objet en cuir sur lequel il y a du sperme seront lavés à l'eau et seront impurs jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:18",
+      "fr": "Une femme avec qui un homme couchera conjugalement ; ils se baigneront dans l'eau et seront impurs jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:19",
+      "fr": "Lorsqu’une femme a un écoulement [et] l’écoulement sera du sang dans son corps, pendant sept jours elle sera dans [l’état de] son ​​impureté menstruelle [’séparation’]. Quiconque la touchera sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:20",
+      "fr": "Tout ce sur quoi elle dort, pendant son impureté menstruelle ['séparation'], deviendra impur et tout ce sur quoi elle s'assoit sera impur."
+    },
+    {
+      "ref": "Leviticus 15:21",
+      "fr": "Quiconque touche ce sur quoi elle a dormi devra laver ses vêtements et se baigner dans l'eau et sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:22",
+      "fr": "Quiconque touchera un vase sur lequel elle est assise devra laver ses vêtements et se baigner dans l'eau et sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:23",
+      "fr": "S'il est sur le lit ou sur le vase sur lequel elle est assise, lorsqu'il le touchera, il sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:24",
+      "fr": "Si un homme couche avec elle, son impureté menstruelle ['séparation'] retombera sur lui et il restera impur pendant sept jours. Tout ce qui sert à dormir – s’il doit dormir dessus – sera impur."
+    },
+    {
+      "ref": "Leviticus 15:25",
+      "fr": "Lorsqu'une femme évacue son sang plusieurs jours en dehors de son cycle menstruel [période de « séparation »], ou si son flux sanguin coule après son cycle menstruel [« séparation »], tous les jours de son écoulement d'impureté seront comme ses jours d'impureté menstruelle ['séparation'] ; elle est impure."
+    },
+    {
+      "ref": "Leviticus 15:26",
+      "fr": "Tout ce qui est utilisé pour dormir sur lequel elle se couchera [pendant] l'un de ses jours d'impureté de décharge, comme le lit de son impureté menstruelle ['séparation'], ce sera pour elle. Tout récipient sur lequel elle s'assiéra sera impur, tout comme [l'est] son ​​impureté menstruelle [l'impureté de sa « séparation »]."
+    },
+    {
+      "ref": "Leviticus 15:27",
+      "fr": "Quiconque les touchera sera impur et devra laver ses vêtements et se baigner dans l'eau et restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Leviticus 15:28",
+      "fr": "Lorsqu'elle sera devenue pure de son écoulement-impureté, elle comptera sept jours pour elle-même et ensuite elle sera purifiée."
+    },
+    {
+      "ref": "Leviticus 15:29",
+      "fr": "Le huitième jour, elle prendra pour elle deux tourterelles ou deux jeunes pigeons et elle les amènera au kohein, à l'entrée de la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Leviticus 15:30",
+      "fr": "Le kohein fera (offrira) l'un en sacrifice pour le péché et l'autre en holocauste. Le kohein l'expiera devant Adonoy de son impureté de décharge."
+    },
+    {
+      "ref": "Leviticus 15:31",
+      "fr": "Tu sépareras les Bnei Yisroel de leurs impuretés et ils ne mourront pas à cause de leurs impuretés par la souillure de Ma demeure au milieu d'eux."
+    },
+    {
+      "ref": "Leviticus 15:32",
+      "fr": "C'est la loi du zov et de celui dont le sperme sort pour devenir impur à travers lui."
+    },
+    {
+      "ref": "Leviticus 15:33",
+      "fr": "Pour la menstruation [femme impure] pendant sa période de séparation et pour celle qui a un écoulement pour un mâle et pour une femelle ; et pour l'homme qui couchera conjugalement avec une femme impure."
+    }
+  ]
+}

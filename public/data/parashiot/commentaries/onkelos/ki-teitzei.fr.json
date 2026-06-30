@@ -1,0 +1,448 @@
+{
+  "name": "Ki Teitsei",
+  "range": "Deuteronomy 21:10-25:19",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/ki-teitzei.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 21:10",
+      "fr": "Si vous partez en guerre contre vos ennemis, et qu'Adonoy, votre Dieu, les mette entre vos mains, et que vous leur fassiez des prisonniers,"
+    },
+    {
+      "ref": "Deuteronomy 21:11",
+      "fr": "Et vous voyez parmi les prisonniers une femme magnifiquement formée ; si vous la désirez, vous pouvez la prendre pour épouse."
+    },
+    {
+      "ref": "Deuteronomy 21:12",
+      "fr": "Vous l'amènerez chez vous et elle se rasera la tête et laissera pousser ses ongles."
+    },
+    {
+      "ref": "Deuteronomy 21:13",
+      "fr": "Elle se débarrassera de son vêtement de prisonnière, et elle restera dans votre maison et pleurera son père et sa mère pendant un mois ; et ensuite tu pourras venir vers elle et consommer avec elle, et elle deviendra ta femme."
+    },
+    {
+      "ref": "Deuteronomy 21:14",
+      "fr": "Mais il arrivera que si vous ne la désirez pas, vous l'enverrez gratuitement, mais pour la vendre, vous ne pourrez pas la vendre pour de l'argent ; vous ne pouvez pas l'exploiter puisque vous l'avez opprimée."
+    },
+    {
+      "ref": "Deuteronomy 21:15",
+      "fr": "Si un homme a deux femmes, l’une aimée et l’autre haïe, et qu’elles lui donnent des fils, l’aimée et l’haïe, et le fils premier-né sera celui de l’haï."
+    },
+    {
+      "ref": "Deuteronomy 21:16",
+      "fr": "Quand le jour viendra où il léguera à ses fils ce qu’il possède, il ne pourra pas préférer le fils de la personne aimée au fils de la personne haïe, le premier-né."
+    },
+    {
+      "ref": "Deuteronomy 21:17",
+      "fr": "Il doit plutôt reconnaître [séparer] le fils premier-né de celui qui est haï, pour lui donner le double de tout ce qu'il possède ; car il est le premier de sa puissance, il a le droit de primogéniture."
+    },
+    {
+      "ref": "Deuteronomy 21:18",
+      "fr": "Si un homme a un fils capricieux et rebelle qui n’obéit pas aux paroles de son père et à celles de sa mère ; bien qu'ils le châtient [enseignent]; il ne les écoute pas."
+    },
+    {
+      "ref": "Deuteronomy 21:19",
+      "fr": "Son père et sa mère le saisiront et l'emmèneront devant les juges de sa ville et devant le tribunal de son lieu."
+    },
+    {
+      "ref": "Deuteronomy 21:20",
+      "fr": "Ils diront aux juges de sa ville : « Notre fils est rebelle et rebelle, il n’obéit pas à nos paroles, il est gourmand et ivre de vin. »"
+    },
+    {
+      "ref": "Deuteronomy 21:21",
+      "fr": "Et tous les hommes de sa ville le lapideront jusqu'à ce qu'il meure, et tu élimineras les méchants au milieu de toi ; et que tout Israël entende et ait peur."
+    },
+    {
+      "ref": "Deuteronomy 21:22",
+      "fr": "Si un homme est coupable d'un crime passible de la peine capitale et est exécuté ; tu le pendras [crucifiera] à un arbre [sur un crucifix]."
+    },
+    {
+      "ref": "Deuteronomy 21:23",
+      "fr": "Ne laissez pas son cadavre toute la nuit sur l'arbre [crucifix], mais vous devez sûrement l'enterrer ce jour-là, car un cadavre pendu est un affront à Dieu [car il a été crucifié parce qu'il a péché devant Hachem] ; Ne souillez donc pas le pays qu'Adonoy, votre Dieu, vous donne pour territoire."
+    },
+    {
+      "ref": "Deuteronomy 22:1",
+      "fr": "Tu ne peux pas voir le bœuf ou la brebis de ton frère perdus et te cacher d'eux ; tu dois sûrement les rendre à ton frère."
+    },
+    {
+      "ref": "Deuteronomy 22:2",
+      "fr": "Mais si ton frère n'est pas près de toi ou si tu ne le connais pas, rassemble-le dans ta maison et laisse-le rester avec toi jusqu'à ce que ton frère le cherche, et tu devras alors le lui rendre."
+    },
+    {
+      "ref": "Deuteronomy 22:3",
+      "fr": "Et tu feras de même pour son âne, et tu feras de même pour son vêtement, et tu feras de même pour tout objet perdu de ton frère, perdu chez lui et que tu trouveras. Vous ne pouvez pas [avoir aucune permission de] vous cacher."
+    },
+    {
+      "ref": "Deuteronomy 22:4",
+      "fr": "Ne regarde pas l’âne de ton frère ou son bœuf s’effondrer sur le chemin et ignore-les. Vous devez sûrement en parler avec lui."
+    },
+    {
+      "ref": "Deuteronomy 22:5",
+      "fr": "Les vêtements [armes] d'un homme ne peuvent pas être sur une femme et un homme ne peut pas non plus porter [se parer de] vêtements [parures] de femme ; car tous ceux qui font ces [choses] sont en abomination à Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 22:6",
+      "fr": "Si vous rencontrez par hasard un nid d'oiseau devant vous sur la route, dans un arbre ou sur le sol, [avec] des oisillons ou des œufs, et que la mère est assise sur les oisillons ou sur les œufs ; n'emmenez pas la mère avec sa progéniture."
+    },
+    {
+      "ref": "Deuteronomy 22:7",
+      "fr": "Vous devez certainement renvoyer la mère et prendre pour vous la progéniture, afin que vous en profitiez et que vous viviez longtemps."
+    },
+    {
+      "ref": "Deuteronomy 22:8",
+      "fr": "Lorsque vous construisez une nouvelle maison, vous devez faire une clôture pour votre toit ; et ne mettez pas de sang [mort] [responsabilité] dans votre maison, car celui qui tomberait pourrait en tomber."
+    },
+    {
+      "ref": "Deuteronomy 22:9",
+      "fr": "Ne plantez pas dans votre vigne des espèces mélangées, de peur que l'expansion ne devienne désagréable [impure] — la graine que vous plantez — et le produit de la vigne."
+    },
+    {
+      "ref": "Deuteronomy 22:10",
+      "fr": "Vous ne pouvez pas labourer ensemble avec un bœuf et avec un âne."
+    },
+    {
+      "ref": "Deuteronomy 22:11",
+      "fr": "N'enfilez pas un mélange de fils, de laine et de lin [combinés] ensemble."
+    },
+    {
+      "ref": "Deuteronomy 22:12",
+      "fr": "Fabriquez-vous des fils pendants aux quatre coins de votre vêtement que vous recouvrez."
+    },
+    {
+      "ref": "Deuteronomy 22:13",
+      "fr": "Si un homme épouse une femme, qu’il a des relations avec elle et qu’il la déteste."
+    },
+    {
+      "ref": "Deuteronomy 22:14",
+      "fr": "Puis il la réprimande avec des calomnies [des propos diffamatoires] et allègue une diffamation à son sujet, et il affirme : « J’ai épousé cette femme et j’ai eu des relations intimes avec elle, et je n’ai trouvé aucun signe de sa virginité. »"
+    },
+    {
+      "ref": "Deuteronomy 22:15",
+      "fr": "Le père et la mère de la jeune fille prendront et prouveront la virginité de la jeune fille devant les juges de la ville à la porte du tribunal de ce lieu."
+    },
+    {
+      "ref": "Deuteronomy 22:16",
+      "fr": "Le père de la jeune fille devrait affirmer aux juges : « Ma fille, j’ai épousé cet homme en tant qu’épouse et il la déteste."
+    },
+    {
+      "ref": "Deuteronomy 22:17",
+      "fr": "Regarder! Il a promulgué des paroles calomnieuses, affirmant : « Je n’ai pas trouvé de signes de virginité de votre fille. » Mais ceci est [la preuve de] la virginité de ma fille. » Et qu’ils étendent le tissu devant les juges de la ville."
+    },
+    {
+      "ref": "Deuteronomy 22:18",
+      "fr": "Les juges de cette ville prendront cet homme et le châtieront."
+    },
+    {
+      "ref": "Deuteronomy 22:19",
+      "fr": "Et ils lui imposeront une amende de cent shekels d’argent et les donneront au père de la jeune fille, parce qu’il a diffamé une vierge d’Israël ; et elle restera sa femme, il ne pourra pas [n'a pas la permission] divorcer d'elle toute sa vie."
+    },
+    {
+      "ref": "Deuteronomy 22:20",
+      "fr": "Cependant, si l'allégation est vraie ; aucun signe de virginité de la jeune fille n’a été trouvé."
+    },
+    {
+      "ref": "Deuteronomy 22:21",
+      "fr": "Ils emmèneront la jeune fille à l'entrée de la maison de son père et les habitants de sa ville la lapideront à mort, parce qu'elle a commis un acte honteux contre Yisroel en se comportant de manière légère dans la maison de son père ; et tu élimineras le mal qui est en toi."
+    },
+    {
+      "ref": "Deuteronomy 22:22",
+      "fr": "Si un homme est trouvé en train d'avoir des relations sexuelles avec une femme qui est l'épouse d'un homme, tous deux mourront, l'homme qui a eu des relations sexuelles avec la femme et la femme, et vous éliminerez le méchant d'Israël."
+    },
+    {
+      "ref": "Deuteronomy 22:23",
+      "fr": "S'il y a une jeune fille vierge mariée à un homme, et qu'un homme la rencontre dans la ville et ait des relations sexuelles avec elle,"
+    },
+    {
+      "ref": "Deuteronomy 22:24",
+      "fr": "Tu les amèneras tous deux devant le tribunal de cette ville et tu les lapideras à mort, la jeune fille pour ne pas avoir crié dans la ville et l'homme pour avoir opprimé la femme de son pair ; et tu élimineras le mal qui est en toi."
+    },
+    {
+      "ref": "Deuteronomy 22:25",
+      "fr": "Mais si, dans les champs, l'homme rencontre la jeune fille mariée, et qu'il la tient dans ses bras et a des relations sexuelles avec elle ; alors il mourra, seulement l'homme qui a eu des relations sexuelles avec elle."
+    },
+    {
+      "ref": "Deuteronomy 22:26",
+      "fr": "Mais vous ne ferez rien à la fille, la fille n'a aucune responsabilité en matière de mort ; car, tout comme si un homme se dressait contre son pair et le tuait, telle est la situation."
+    },
+    {
+      "ref": "Deuteronomy 22:27",
+      "fr": "Car il l'a rencontrée sur le terrain ; » la jeune fille mariée a crié, mais il n'y avait personne pour la secourir."
+    },
+    {
+      "ref": "Deuteronomy 22:28",
+      "fr": "Si un homme rencontre une jeune fille vierge qui n'était pas mariée, s'il la saisit et a des relations sexuelles avec elle ; et ils sont découverts."
+    },
+    {
+      "ref": "Deuteronomy 22:29",
+      "fr": "L’homme qui aura eu des relations sexuelles avec elle devra donner au père de la jeune fille cinquante pièces d’argent [shekels] ; et elle sera sa femme, puisqu'il l'a opprimée ; il ne peut pas [n'a pas la permission de] divorcer d'elle toute sa vie."
+    },
+    {
+      "ref": "Deuteronomy 23:1",
+      "fr": "Un homme ne peut pas épouser la femme de son père, ni dévoiler le bord du vêtement de son père."
+    },
+    {
+      "ref": "Deuteronomy 23:2",
+      "fr": "On ne peut pas [être « purifié » pour] entrer – avec les organes génitaux blessés ou écrasés ou avec une entaille provoquant un déversement – ​​dans la communauté d’Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 23:3",
+      "fr": "Un vil-né ne peut pas [être « purifié » pour] entrer dans la communauté d’Adonoy, même sa dixième génération ne peut pas [le « purifier »] entrer dans la communauté d’Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 23:4",
+      "fr": "[Ni] un Ammonite ni un Moavite ne peuvent [être « purifiés » pour] entrer dans la communauté d’Adonoy ; même leur dixième génération pourrait ne pas [être « purifiée » pour] entrer dans la communauté d’Adonoy pour toujours."
+    },
+    {
+      "ref": "Deuteronomy 23:5",
+      "fr": "C'est parce qu'on ne t'a pas accueilli avec du pain et de l'eau en chemin, à ta sortie d'Egypte ; et parce qu'il a engagé contre toi Bilam, fils de Beor, de Pesor, à Aram Naharayim [sur la rivière Peras] pour te maudire."
+    },
+    {
+      "ref": "Deuteronomy 23:6",
+      "fr": "Adonoy, ton Dieu, n'a pas voulu écouter Bilam, et Adonoy, ton Dieu, a transformé pour toi la malédiction en bénédiction, parce qu'Adonoy, ton Dieu, t'aimait."
+    },
+    {
+      "ref": "Deuteronomy 23:7",
+      "fr": "Ne recherchez pas leur paix et leur bénéfice toute votre vie pour toujours."
+    },
+    {
+      "ref": "Deuteronomy 23:8",
+      "fr": "Ne méprise pas l'Édomite, car il est ton frère ; ne méprise pas l'Égyptien, car tu étais étranger dans son pays."
+    },
+    {
+      "ref": "Deuteronomy 23:9",
+      "fr": "Les enfants qui leur naîtront, à la troisième génération, seront [être « purifiés » pour] entrer dans la communauté d’Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 23:10",
+      "fr": "Lorsque vous sortez camper contre vos ennemis, prenez des précautions contre tout mal."
+    },
+    {
+      "ref": "Deuteronomy 23:11",
+      "fr": "S'il y a un homme parmi vous qui n'est pas intact [à cause d'] un incident nocturne ; il doit sortir du camp, il ne peut pas entrer au milieu du camp."
+    },
+    {
+      "ref": "Deuteronomy 23:12",
+      "fr": "À l'approche du coucher du soleil, il doit s'immerger dans l'eau ; et après le coucher du soleil, il pourra entrer au milieu du camp."
+    },
+    {
+      "ref": "Deuteronomy 23:13",
+      "fr": "Ayez un endroit désigné [préparé] à l'extérieur du camp, et vous y sortirez pour excréter."
+    },
+    {
+      "ref": "Deuteronomy 23:14",
+      "fr": "Et vous devez avoir une cheville en plus de vos armes ; lorsque vous avez besoin de vous asseoir pour excréter, creusez avec, puis utilisez-le à nouveau pour couvrir vos excréments."
+    },
+    {
+      "ref": "Deuteronomy 23:15",
+      "fr": "Car Adonoy, votre Dieu, [Sa Chechinah] se déplace dans votre camp pour vous sauver et vaincre vos ennemis devant vous, votre camp doit donc être saint ; qu'Il ne voie pas en vous des objets honteux [offensants], de peur qu'Il [Sa parole] ne se détourne de vous [de votre bénéfice]."
+    },
+    {
+      "ref": "Deuteronomy 23:16",
+      "fr": "Ne livrez pas à son maître un esclave [étranger] qui s'est échappé de son maître."
+    },
+    {
+      "ref": "Deuteronomy 23:17",
+      "fr": "Avec vous, il vivra parmi vous, dans le lieu qu'il choisira, dans l'une de vos villes, partout où cela lui sera bon ; ne le tourmente pas."
+    },
+    {
+      "ref": "Deuteronomy 23:18",
+      "fr": "Il ne doit pas y avoir de [femme] prostituée parmi les filles d'Israël [à un homme esclave] ; et il n'y aura pas d'homme prostitué parmi les fils d'Israël [pour une servante]."
+    },
+    {
+      "ref": "Deuteronomy 23:19",
+      "fr": "N'apporte pas à la maison d'Adonoï, ton Dieu, un salaire de prostituée ni le paiement d'un chien, en accomplissement d'un vœu ; parce que [éloigné d’] Adonoy, les abominations de ton Dieu sont même les deux."
+    },
+    {
+      "ref": "Deuteronomy 23:20",
+      "fr": "Tu ne dois pas payer d'usure à ton frère, ni d'usure pour l'argent, ni pour la nourriture ; l'usure sur toute question où elle est payée."
+    },
+    {
+      "ref": "Deuteronomy 23:21",
+      "fr": "Tu peux payer de l'usure à l'étranger, mais tu ne paieras pas d'usure à ton frère ; afin qu'Adonoy, ton Dieu, te bénisse dans tout ton commerce sur le pays dont tu viens là hériter."
+    },
+    {
+      "ref": "Deuteronomy 23:22",
+      "fr": "Si vous faites un vœu à Adonoy, votre Dieu, ne tardez pas à l'accomplir ; car Adonoy, votre Dieu, vous l'exigera sûrement, et vous serez en faute."
+    },
+    {
+      "ref": "Deuteronomy 23:23",
+      "fr": "Mais si vous renoncez à faire ce vœu, aucune faute ne vous sera reprochée."
+    },
+    {
+      "ref": "Deuteronomy 23:24",
+      "fr": "Gardez ce que vous avez articulé ; et accomplissez tout ce que vous avez promis ; à [devant] Adonoy, ton Dieu, volontairement, quoi que tu dises de ta bouche."
+    },
+    {
+      "ref": "Deuteronomy 23:25",
+      "fr": "Lorsque vous [êtes engagés pour] entrer dans la vigne de votre prochain, vous pourrez manger des raisins à votre guise, à votre satisfaction ; mais vous ne pouvez pas le placer dans votre conteneur."
+    },
+    {
+      "ref": "Deuteronomy 23:26",
+      "fr": "Lorsque vous [êtes engagé pour] entrer dans les épis de blé debout de votre camarade, vous pouvez couper les tiges à la main, mais ne levez pas la faucille sur les épis de blé debout de votre camarade."
+    },
+    {
+      "ref": "Deuteronomy 24:1",
+      "fr": "Si un homme épouse une femme et consomme avec elle ; si elle ne trouve pas grâce à ses yeux parce qu'il a trouvé en elle quelque chose de lubrique [pécheur], il devra rédiger pour elle un acte de séparation, le mettre entre ses mains et la renvoyer de chez lui."
+    },
+    {
+      "ref": "Deuteronomy 24:2",
+      "fr": "Si elle quitte sa maison et s'en va et devient [épouse] d'un autre homme."
+    },
+    {
+      "ref": "Deuteronomy 24:3",
+      "fr": "Si son dernier mari la hait et rédige pour elle un acte de séparation, le lui remet entre les mains et la renvoie de sa maison, ou si meurt ce dernier homme, qui l'avait prise pour femme ;"
+    },
+    {
+      "ref": "Deuteronomy 24:4",
+      "fr": "Son premier mari qui a divorcé d'elle ne peut pas [n'a pas la permission de] la remarier pour devenir sa femme après qu'elle ait été souillée, car c'est une abomination devant Adonoy ; et tu ne rendras pas responsable le pays qu'Adonoy, ton Dieu, te donne comme territoire."
+    },
+    {
+      "ref": "Deuteronomy 24:5",
+      "fr": "Lorsqu'un homme épouse une nouvelle épouse, il ne doit pas être mobilisé dans l'armée, celle-ci ne doit en aucun cas s'imposer sur lui ; il sera libre de rentrer chez lui pendant un an et il fera la joie de la femme qu'il a épousée."
+    },
+    {
+      "ref": "Deuteronomy 24:6",
+      "fr": "Il ne peut pas obtenir en garantie un mortier ou un pilon, car il prend la vie en garantie [car c'est avec eux que se fait la subsistance de toutes les âmes]."
+    },
+    {
+      "ref": "Deuteronomy 24:7",
+      "fr": "Si un homme est appréhendé après avoir enlevé une personne à ses frères, aux descendants d'Israël, et qu'il l'a exploité et vendu; ce ravisseur doit être mis à mort et vous éliminerez le mal qui est en vous."
+    },
+    {
+      "ref": "Deuteronomy 24:8",
+      "fr": "Prenez des précautions en cas de lèpre, soyez extrêmement prudent et faites conformément à tout ce que les cohanim les Lévites vous instruiront ; comme je leur ai ordonné, assurez-vous de le faire."
+    },
+    {
+      "ref": "Deuteronomy 24:9",
+      "fr": "Souviens-toi de ce qu'Adonoï, ton Dieu, a fait à Marie, pendant que tu sortais d'Egypte."
+    },
+    {
+      "ref": "Deuteronomy 24:10",
+      "fr": "Si vous devenez créancier de votre prochain pour un montant quelconque de dette, n'entrez pas dans sa maison pour prendre son gage [garantie]."
+    },
+    {
+      "ref": "Deuteronomy 24:11",
+      "fr": "Tenez-vous dehors, et l'homme à qui vous réclamez vous apportera dehors le gage."
+    },
+    {
+      "ref": "Deuteronomy 24:12",
+      "fr": "Et s'il est pauvre, ne vous reposez pas avec son gage [en votre possession]."
+    },
+    {
+      "ref": "Deuteronomy 24:13",
+      "fr": "Reviens, rends-lui le gage au coucher du soleil, et il dormira avec son vêtement et te bénira ; et cela sera à votre honneur devant Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 24:14",
+      "fr": "Ne volez pas le salarié pauvre ou indigent ; de vos frères ou de vos convertis qui sont dans votre pays et dans vos villes."
+    },
+    {
+      "ref": "Deuteronomy 24:15",
+      "fr": "Ce jour-là, donne son salaire et que le soleil ne se couche pas dessus, car il est un homme pauvre et il risque sa vie pour cela ; [afin] qu'il ne se plainne pas de toi [devant] Adonoy, et tu auras un péché."
+    },
+    {
+      "ref": "Deuteronomy 24:16",
+      "fr": "Les pères ne seront pas exécutés par [la bouche des] fils, et les fils ne seront pas exécutés par [la bouche des] pères ; chacun sera exécuté pour son péché."
+    },
+    {
+      "ref": "Deuteronomy 24:17",
+      "fr": "Ne vous montrez pas sournois dans le jugement du prosélyte ou de l'orphelin ; et vous ne pouvez pas obtenir en garantie un vêtement de veuve."
+    },
+    {
+      "ref": "Deuteronomy 24:18",
+      "fr": "Souviens-toi que tu étais esclave en Égypte, et qu'Adonoy, ton Dieu, t'en a racheté ; c'est pourquoi je vous ordonne de faire cette chose."
+    },
+    {
+      "ref": "Deuteronomy 24:19",
+      "fr": "Lorsque vous moissonnez votre moisson dans votre champ, et que vous oubliez une gerbe dans le champ, vous ne pouvez pas revenir la prendre ; qu'il en soit ainsi pour le prosélyte, pour l'orphelin et pour la veuve ; afin qu'Adonoy, votre Dieu, vous bénisse dans tous vos efforts."
+    },
+    {
+      "ref": "Deuteronomy 24:20",
+      "fr": "Lorsque vous récolterez votre olivier, vous ne pourrez pas lui ôter sa gloire derrière vous. qu'il en soit ainsi pour le prosélyte, pour l'orphelin et pour la veuve."
+    },
+    {
+      "ref": "Deuteronomy 24:21",
+      "fr": "Lorsque vous vendangez votre vigne, vous ne pouvez pas récolter des vignes pygmées derrière vous ; qu'il en soit ainsi pour le prosélyte, pour l'orphelin et pour la veuve."
+    },
+    {
+      "ref": "Deuteronomy 24:22",
+      "fr": "Rappelez-vous que vous étiez esclave au pays d’Égypte ; c'est pourquoi je vous ordonne de faire cette chose."
+    },
+    {
+      "ref": "Deuteronomy 25:1",
+      "fr": "Si une querelle [un procès] survient entre les hommes et qu'ils la portent au tribunal et qu'ils les jugent et déterminent qui est juste et condamnent le méchant."
+    },
+    {
+      "ref": "Deuteronomy 25:2",
+      "fr": "Si le méchant mérite d'être fouetté, le juge l'inclinera et le fera fouetter devant lui d'une quantité correspondant à son crime, avec le numéro à proximité."
+    },
+    {
+      "ref": "Deuteronomy 25:3",
+      "fr": "Il a quarante ans pour le faire fouetter, il ne peut pas ajouter ; de peur qu'il ne le fouette en plus pour cela, une grande flagellation, lorsque ton frère sera méprisé devant toi."
+    },
+    {
+      "ref": "Deuteronomy 25:4",
+      "fr": "Vous ne pouvez pas museler un bœuf pendant qu'il bat."
+    },
+    {
+      "ref": "Deuteronomy 25:5",
+      "fr": "Si des frères habitent ensemble et que l'un d'eux décède sans avoir de fils, que la femme du défunt ne se marie pas hors de la famille avec un étranger ; son beau-frère consommera avec elle, l'épousant ainsi pour être sa femme et accomplira un lévirat avec elle."
+    },
+    {
+      "ref": "Deuteronomy 25:6",
+      "fr": "Il sera établi que le premier-né, lorsqu'elle sera capable d'avoir des enfants, sera établi à la place de son frère décédé, afin que son nom ne soit pas effacé d'Israël."
+    },
+    {
+      "ref": "Deuteronomy 25:7",
+      "fr": "Mais si l’homme ne veut pas épouser sa belle-sœur ; sa belle-sœur devra monter au portail [du tribunal], [devant] les juges, et dire : « Mon beau-frère refuse [n'accepte pas] d'établir pour son frère un nom en Yisroel ; il ne veut pas contracter un mariage par lévirat avec moi."
+    },
+    {
+      "ref": "Deuteronomy 25:8",
+      "fr": "Les juges de sa ville l'appelleront et s'entretiendront avec lui. Il se lèvera et dira : « Je ne veux pas l’épouser. »"
+    },
+    {
+      "ref": "Deuteronomy 25:9",
+      "fr": "Et sa belle-sœur s'approchera de lui, sous les yeux des juges, et elle ôtera sa chaussure de son pied, et crachera devant lui ; et elle dira à haute voix : « Ceci est fait à l’homme qui ne fondera pas la famille de son frère. »"
+    },
+    {
+      "ref": "Deuteronomy 25:10",
+      "fr": "Et elle aura pour titre Yisroel, la maison de la cession de la chaussure."
+    },
+    {
+      "ref": "Deuteronomy 25:11",
+      "fr": "Si des hommes se disputent, un homme et son frère, et que la femme de l'un d'entre eux s'approche pour sauver son mari de son agresseur, et qu'elle étend la main et saisit ses parties génitales [le lieu de sa honte],"
+    },
+    {
+      "ref": "Deuteronomy 25:12",
+      "fr": "Tu lui couperas la main ; you are not to have compassion."
+    },
+    {
+      "ref": "Deuteronomy 25:13",
+      "fr": "Vous ne devez pas avoir pour vous dans votre sac des pierres de poids variées, grandes et petites."
+    },
+    {
+      "ref": "Deuteronomy 25:14",
+      "fr": "Vous n'aurez pas dans votre maison des mesures variables, grandes et petites."
+    },
+    {
+      "ref": "Deuteronomy 25:15",
+      "fr": "Vous aurez un poids parfaitement précis et juste, vous devez avoir des mesures entières et honnêtes ; afin que vous viviez longtemps sur le pays qu'Adonoy, votre Dieu, vous donne."
+    },
+    {
+      "ref": "Deuteronomy 25:16",
+      "fr": "Parce que [éloigné d’avant] Adonoy, l’abomination de votre Dieu, ce sont tous ceux qui font ces [choses] ; tous ceux qui commettent le mensonge."
+    },
+    {
+      "ref": "Deuteronomy 25:17",
+      "fr": "Souvenez-vous de ce qu'Amalek vous a fait subir alors que vous sortiez d'Egypte."
+    },
+    {
+      "ref": "Deuteronomy 25:18",
+      "fr": "Quand ils vous ont par hasard [dépassé] en route, vous avez abattu [tué] votre appendice - tous les faibles derrière vous - et vous étiez épuisé et fatigué, et ils n'avaient aucune crainte [devant] Dieu."
+    },
+    {
+      "ref": "Deuteronomy 25:19",
+      "fr": "Quand Adonoy, votre Dieu, vous aura donné du repos contre tous vos ennemis alentour, dans le pays qu'Adonoy, votre Dieu, vous donne en héritage, vous effacerez de dessous le ciel le souvenir [mâles] d'Amalek ; N'oubliez pas."
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "name": "Noa'h",
+  "range": "Genesis 6:9-11:32",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/noach.json",
+  "verses": [
+    {
+      "ref": "Genesis 6:9",
+      "fr": "Ce sont les descendants de Noé. Noé était un homme juste, sans défaut dans ses générations ; Noé marchait avec [la peur] d'Elohim."
+    },
+    {
+      "ref": "Genesis 6:10",
+      "fr": "Noach engendra trois fils, Sheim, Cham et Yafes."
+    },
+    {
+      "ref": "Genesis 6:11",
+      "fr": "La terre était corrompue devant Elohim, et la terre était remplie de crimes violents."
+    },
+    {
+      "ref": "Genesis 6:12",
+      "fr": "Elohim vit la terre et vit qu'elle était corrompue, car toute chair [de l'homme] avait corrompu son chemin sur la terre."
+    },
+    {
+      "ref": "Genesis 6:13",
+      "fr": "Elohim dit à Noé : La fin de toute chair est venue devant Moi. Car la terre est remplie de crimes violents à cause d’eux [leurs mauvaises actions], et c’est pourquoi je les détruirai avec la terre."
+    },
+    {
+      "ref": "Genesis 6:14",
+      "fr": "Fabrique-toi une arche en bois de cèdre. Transformez l'arche en compartiments et calfeutrez l'intérieur et l'extérieur avec du goudron."
+    },
+    {
+      "ref": "Genesis 6:15",
+      "fr": "C'est ainsi que vous devriez procéder ; La longueur de l'arche sera de trois cents pouces, sa largeur de cinquante pouces et sa hauteur de trente pouces."
+    },
+    {
+      "ref": "Genesis 6:16",
+      "fr": "Faites une lucarne [lumière] pour l'arche, et terminez-la jusqu'à un amoh au sommet. Placez l'ouverture de l'arche sur le côté. Faites un pont inférieur, un deuxième et un troisième pont."
+    },
+    {
+      "ref": "Genesis 6:17",
+      "fr": "Voici, je fais venir les eaux du déluge sur la terre, pour détruire toute chair en laquelle il y a un souffle de vie, de dessous les cieux. Tout ce qui est sur la terre périra."
+    },
+    {
+      "ref": "Genesis 6:18",
+      "fr": "J'ai établi mon alliance avec toi. Tu entreras dans l'arche, toi, tes fils, ta femme et les femmes de tes fils, avec toi."
+    },
+    {
+      "ref": "Genesis 6:19",
+      "fr": "De tous les êtres vivants, de toute chair, vous en apporterez deux de chaque dans l'arche, pour les garder en vie avec vous. Ils seront mâles et femelles."
+    },
+    {
+      "ref": "Genesis 6:20",
+      "fr": "Des oiseaux de leur espèce, des animaux de leur espèce, de chaque reptile de la terre de son espèce, deux de chaque viendront à vous pour être gardés en vie."
+    },
+    {
+      "ref": "Genesis 6:21",
+      "fr": "Tu prendras pour toi de tous les aliments qu'on mange, et tu les rassembleras pour toi, et ce sera une nourriture pour toi et pour eux."
+    },
+    {
+      "ref": "Genesis 6:22",
+      "fr": "Noach l’a fait. All that he was commanded by Elohim, he did."
+    },
+    {
+      "ref": "Genesis 7:1",
+      "fr": "Adonoï dit à Noé : Entre dans l'arche, toi et ta maison, car j'ai vu que tu es juste devant moi, dans cette génération."
+    },
+    {
+      "ref": "Genesis 7:2",
+      "fr": "De chaque animal [rituellement] pur, prends pour toi sept couples, un mâle et sa compagne [femelle]. De tout animal qui n'est pas pur, [prenez] deux, le mâle et sa compagne [femelle]."
+    },
+    {
+      "ref": "Genesis 7:3",
+      "fr": "Parmi les oiseaux du ciel, prenez sept couples, mâle et femelle ; pour garder les semences vivantes sur la surface de la terre."
+    },
+    {
+      "ref": "Genesis 7:4",
+      "fr": "Parce que dans sept jours encore [à la fin d'un autre], je ferai pleuvoir [je ferai tomber la pluie] sur la terre [et il pleuvra] quarante jours et quarante nuits, et j'effacerai de la surface de la terre toute substance vivante que j'ai créée."
+    },
+    {
+      "ref": "Genesis 7:5",
+      "fr": "Noé fit tout ce qu'Adonoy lui ordonnait."
+    },
+    {
+      "ref": "Genesis 7:6",
+      "fr": "Noach avait six cents ans lorsque les eaux du déluge tombèrent sur la terre."
+    },
+    {
+      "ref": "Genesis 7:7",
+      "fr": "Noé entra avec ses fils, sa femme et les femmes de ses fils dans l'arche, à cause des eaux du déluge."
+    },
+    {
+      "ref": "Genesis 7:8",
+      "fr": "Des animaux [rituellement] purs et des animaux qui ne le sont pas [rituellement] purs, des oiseaux et de tout ce qui rampe sur la terre."
+    },
+    {
+      "ref": "Genesis 7:9",
+      "fr": "Deux par deux, ils arrivèrent vers Noé dans l'arche, mâle et femelle, comme Elohim l'avait ordonné à Noé."
+    },
+    {
+      "ref": "Genesis 7:10",
+      "fr": "Sept jours [complets] s'étaient écoulés, et les eaux du déluge étaient sur la terre."
+    },
+    {
+      "ref": "Genesis 7:11",
+      "fr": "L'an six cents de la vie de Noé, le deuxième mois, le dix-septième jour du mois, ce jour-là, toutes les sources du grand abîme jaillirent, et les écluses des cieux s'ouvrirent."
+    },
+    {
+      "ref": "Genesis 7:12",
+      "fr": "Il y eut de la pluie sur la terre quarante jours et quarante nuits."
+    },
+    {
+      "ref": "Genesis 7:13",
+      "fr": "Ce jour-là, Noé arriva avec Sheim, Cham et Yafès, les fils de Noé. La femme de Noé et les trois femmes de ses fils, avec eux, dans l’arche."
+    },
+    {
+      "ref": "Genesis 7:14",
+      "fr": "Eux, ainsi que toute bête de son espèce, et tout animal de son espèce, et tout ce qui rampe sur la terre, de son espèce ; et toute créature volante de son espèce, chaque oiseau, toute créature ailée [toute personne qui vole]."
+    },
+    {
+      "ref": "Genesis 7:15",
+      "fr": "Ils arrivèrent à l'arche avec Noé, deux par deux, de toute la chair en laquelle il y avait un souffle de vie."
+    },
+    {
+      "ref": "Genesis 7:16",
+      "fr": "Ceux qui sont venus étaient des hommes et des femmes, de toute chair, ils sont venus, comme Elohim le lui avait ordonné. Adonoy l'a alors [de manière protectrice] enfermé dans [l'arche.] [Adonoy l'a protégé.]"
+    },
+    {
+      "ref": "Genesis 7:17",
+      "fr": "Il y eut un déluge sur la terre pendant quarante jours. Les eaux grandissaient et soulevaient l'arche, et elle s'élevait au-dessus de la terre."
+    },
+    {
+      "ref": "Genesis 7:18",
+      "fr": "Les eaux étaient puissantes et augmentaient considérablement sur la terre, et l'arche se déplaçait à la surface des eaux."
+    },
+    {
+      "ref": "Genesis 7:19",
+      "fr": "Les eaux étaient très puissantes sur la terre et couvraient toutes les hautes montagnes qui étaient sous tous les cieux."
+    },
+    {
+      "ref": "Genesis 7:20",
+      "fr": "À quinze amohs au-dessus d'elles [les montagnes] les eaux prédominaient et couvraient les montagnes."
+    },
+    {
+      "ref": "Genesis 7:21",
+      "fr": "Toute chair qui se déplaçait sur la terre périssait ; les oiseaux, les animaux, les bêtes et toutes les créatures rampantes qui rampent sur la terre et tout homme."
+    },
+    {
+      "ref": "Genesis 7:22",
+      "fr": "Tout ce qui respire l'esprit de vie, tout ce qui se trouve sur la terre ferme, est mort."
+    },
+    {
+      "ref": "Genesis 7:23",
+      "fr": "[Il] a anéanti tout être qui se trouvait à la surface du sol ; de l'homme aux animaux, aux créatures rampantes et aux oiseaux du ciel. Ils ont été effacés de la terre. Seuls Noé et ceux qui étaient avec lui dans l’arche ont survécu."
+    },
+    {
+      "ref": "Genesis 7:24",
+      "fr": "Les eaux furent puissantes sur la terre pendant cent cinquante jours."
+    },
+    {
+      "ref": "Genesis 8:1",
+      "fr": "Elohim se souvint de Noé, de toutes les bêtes et de tous les animaux qui étaient avec lui dans l'arche. Elohim fit souffler un vent sur la terre et l'eau se calma."
+    },
+    {
+      "ref": "Genesis 8:2",
+      "fr": "Les sources de l'abîme étaient fermées, ainsi que les fenêtres des cieux, et l'averse tombant des cieux fut retenue."
+    },
+    {
+      "ref": "Genesis 8:3",
+      "fr": "L'eau s'éloignait continuellement de la terre, et les eaux diminuaient au bout de cent cinquante jours."
+    },
+    {
+      "ref": "Genesis 8:4",
+      "fr": "L'arche reposa le septième mois, le dix-septième jour du mois, sur les montagnes d'Ararat [Kardu]."
+    },
+    {
+      "ref": "Genesis 8:5",
+      "fr": "Les eaux continuèrent à diminuer jusqu'au dixième mois. Le dixième [mois], le premier du mois, les sommets des montagnes devinrent visibles."
+    },
+    {
+      "ref": "Genesis 8:6",
+      "fr": "Au bout de quarante jours, Noé ouvrit la fenêtre de l'arche qu'il avait faite."
+    },
+    {
+      "ref": "Genesis 8:7",
+      "fr": "Il envoya le corbeau, et il sortit, allant et venant jusqu'à ce que l'eau de la terre sèche."
+    },
+    {
+      "ref": "Genesis 8:8",
+      "fr": "Il envoya alors la colombe voir si l'eau avait disparu de la surface du sol."
+    },
+    {
+      "ref": "Genesis 8:9",
+      "fr": "La colombe n'a trouvé aucun endroit où reposer son pied. Elle revint vers lui dans l'arche, car l'eau était à la surface de toute la terre. Il étendit la main, la prit et l'amena vers lui, dans l'arche."
+    },
+    {
+      "ref": "Genesis 8:10",
+      "fr": "Il attendit encore sept jours et renvoya de nouveau la colombe hors de l'arche."
+    },
+    {
+      "ref": "Genesis 8:11",
+      "fr": "La colombe vint vers lui vers le soir, et voici, dans sa bouche il y avait une feuille d'olivier arrachée. Noé sut alors que l’eau s’était retirée de la terre."
+    },
+    {
+      "ref": "Genesis 8:12",
+      "fr": "Il attendit encore sept jours et envoya la colombe ; cela ne lui est plus revenu."
+    },
+    {
+      "ref": "Genesis 8:13",
+      "fr": "C'était l'année six cent un, le premier [mois], le premier du mois, que l'eau sur la terre [commença] à sécher. Noach enleva la couverture de l'arche. Il regarda et vit que la surface du sol était sèche."
+    },
+    {
+      "ref": "Genesis 8:14",
+      "fr": "Le deuxième mois, le vingt-septième jour du mois, la terre était [complètement] sèche."
+    },
+    {
+      "ref": "Genesis 8:15",
+      "fr": "Elohim parla à Noé, disant :"
+    },
+    {
+      "ref": "Genesis 8:16",
+      "fr": "Sortez de l'arche, vous et votre femme, vos fils et les femmes de vos fils avec vous."
+    },
+    {
+      "ref": "Genesis 8:17",
+      "fr": "Tous les êtres vivants qui sont avec vous, de toute chair, y compris les oiseaux, les animaux, et tous les reptiles qui rampent sur la terre, qu'ils s'en aillent avec vous. Qu'ils se répandent sur la terre, qu'ils soient féconds et qu'ils se multiplient sur la terre."
+    },
+    {
+      "ref": "Genesis 8:18",
+      "fr": "Noé quitta l'arche avec ses fils, sa femme et les femmes de ses fils."
+    },
+    {
+      "ref": "Genesis 8:19",
+      "fr": "Tous les êtres vivants, tous les reptiles, tous les oiseaux, tout ce qui rampe sur la terre quittèrent l'arche selon leurs familles."
+    },
+    {
+      "ref": "Genesis 8:20",
+      "fr": "Noé construisit un autel à [devant] Adonoy, et prit de tout animal [rituellement] pur et de tout oiseau [rituellement] pur, et il fit monter des holocaustes sur l'autel."
+    },
+    {
+      "ref": "Genesis 8:21",
+      "fr": "Adonoy sentit le parfum agréable, [Adonoy accepta son offrande avec faveur] et Adonoy dit dans Son cœur [avec sa Parole] : Je ne maudirai plus jamais la terre à cause [des péchés de] l'homme, car l'inclination du cœur de l'homme est mauvaise depuis [le temps de] sa jeunesse. Je ne frapperai plus jamais tout être vivant comme je l'ai fait."
+    },
+    {
+      "ref": "Genesis 8:22",
+      "fr": "Tant que la terre existera, le temps des semailles et des récoltes, le froid et la chaleur, l'été et l'hiver, le jour et la nuit, ne seront jamais suspendus."
+    },
+    {
+      "ref": "Genesis 9:1",
+      "fr": "Elohim a béni Noé et ses fils. Il leur dit : Soyez féconds, multipliez-vous et remplissez la terre."
+    },
+    {
+      "ref": "Genesis 9:2",
+      "fr": "Votre crainte et votre terreur seront sur toutes les bêtes sauvages de la terre et sur tous les oiseaux des cieux. Tout ce qui rampe sur la terre et tous les poissons de la mer sont livrés entre vos mains."
+    },
+    {
+      "ref": "Genesis 9:3",
+      "fr": "Toute créature mobile qui vit sera à vous pour votre nourriture ; comme la végétation verte [que j'ai donnée auparavant], je vous ai [maintenant] tout donné [pour la nourriture]."
+    },
+    {
+      "ref": "Genesis 9:4",
+      "fr": "Cependant, vous ne mangerez pas de chair avec son sang."
+    },
+    {
+      "ref": "Genesis 9:5",
+      "fr": "Cependant, du sang de vos âmes, je demanderai compte ; je l'exigerai de la main de chaque bête. De la main de l’homme, même de la main du frère de l’homme, [de la main de l’homme qui verse le sang de son frère] j’exigerai compte de l’âme de l’homme."
+    },
+    {
+      "ref": "Genesis 9:6",
+      "fr": "Celui qui verse le sang de l'homme, à travers l'homme, son sang sera versé, [par des témoins selon la parole des juges son sang sera versé,] car à l'image d'Elohim, Il a fait l'homme."
+    },
+    {
+      "ref": "Genesis 9:7",
+      "fr": "Et maintenant, soyez féconds et multipliez-vous, répandez-vous sur toute la terre et multipliez-vous sur elle."
+    },
+    {
+      "ref": "Genesis 9:8",
+      "fr": "Elohim dit à Noé et à ses fils avec lui, en disant :"
+    },
+    {
+      "ref": "Genesis 9:9",
+      "fr": "Voici, je fais une alliance avec toi et avec ta postérité après toi."
+    },
+    {
+      "ref": "Genesis 9:10",
+      "fr": "Et avec tous les êtres vivants qui sont avec vous, avec les oiseaux, les animaux et toutes les bêtes de la terre avec vous, tous ceux qui sont sortis de l'arche, y compris tous les êtres vivants de la terre."
+    },
+    {
+      "ref": "Genesis 9:11",
+      "fr": "Je garderai mon alliance avec vous, afin que plus jamais toute chair ne soit exterminée par les eaux du déluge, et que les eaux du déluge ne détruiront plus jamais la terre."
+    },
+    {
+      "ref": "Genesis 9:12",
+      "fr": "Elohim dit : Ceci est le signe de l'alliance que je promets entre moi [ma Parole] et vous, et entre tout être vivant qui est avec vous, pour les générations de tous les temps."
+    },
+    {
+      "ref": "Genesis 9:13",
+      "fr": "J'ai placé mon arc [de pluie] dans les nuages, et ce sera un signe de l'alliance entre moi [ma Parole] et la terre."
+    },
+    {
+      "ref": "Genesis 9:14",
+      "fr": "Au moment où j'amènerai des nuages ​​sur la terre, l'arc [de pluie] sera visible dans les nuages."
+    },
+    {
+      "ref": "Genesis 9:15",
+      "fr": "Je me souviendrai de mon alliance qui est entre moi [ma Parole] et vous, et entre chaque âme vivante en toute chair, selon laquelle plus jamais les eaux ne détruiront toute chair."
+    },
+    {
+      "ref": "Genesis 9:16",
+      "fr": "L'arc [de l'arc-en-ciel] sera dans les nuages, et je le verrai pour me souvenir de l'alliance éternelle entre [la Parole d'] Elohim et entre chaque âme vivante qui est dans toute chair qui est sur la terre."
+    },
+    {
+      "ref": "Genesis 9:17",
+      "fr": "Elohim dit à Noé : Ceci est le signe de l'alliance que j'ai établie entre moi [ma Parole] et entre toute chair qui est sur la terre."
+    },
+    {
+      "ref": "Genesis 9:18",
+      "fr": "Les fils de Noach qui sortirent de l'arche furent Sheim, Yafès et Cham ; Cham était le père de Canaan."
+    },
+    {
+      "ref": "Genesis 9:19",
+      "fr": "Ces trois-là étaient les fils de Noé, et c'est à partir d'eux que le monde entier s'est développé."
+    },
+    {
+      "ref": "Genesis 9:20",
+      "fr": "Noé commença à être un homme de la terre [un homme qui travaillait la terre] et il planta une vigne."
+    },
+    {
+      "ref": "Genesis 9:21",
+      "fr": "Il but du vin et était ivre. Il se découvrit alors dans sa tente."
+    },
+    {
+      "ref": "Genesis 9:22",
+      "fr": "Cham, le père de Canaan, vit la nudité de son père et le raconta à ses frères [qui étaient] dehors [sur la place du marché]."
+    },
+    {
+      "ref": "Genesis 9:23",
+      "fr": "Sheim et Yafes prirent le manteau, le placèrent sur leurs épaules et marchèrent à reculons, couvrant la nudité de leur père. Ils se détournèrent de lui et ne virent pas la nudité de leur père."
+    },
+    {
+      "ref": "Genesis 9:24",
+      "fr": "Noé s'est réveillé de son vin [sommeil induit] et il a réalisé ce que lui avait fait son plus jeune fils."
+    },
+    {
+      "ref": "Genesis 9:25",
+      "fr": "Il dit : Maudit soit Canaan. Il sera l'esclave des esclaves pour ses frères."
+    },
+    {
+      "ref": "Genesis 9:26",
+      "fr": "Il dit alors : Béni soit Adonoy, Dieu de Sheim ; que Canaan soit son esclave."
+    },
+    {
+      "ref": "Genesis 9:27",
+      "fr": "Elohim agrandira Yefes, mais Il [Sa Shechina] habitera dans les tentes de Sheim, et Canaan sera leur esclave."
+    },
+    {
+      "ref": "Genesis 9:28",
+      "fr": "Après le déluge, Noé vécut trois cent cinquante ans."
+    },
+    {
+      "ref": "Genesis 9:29",
+      "fr": "La durée totale de la vie de Noé fut de neuf cent cinquante ans, et il mourut."
+    },
+    {
+      "ref": "Genesis 10:1",
+      "fr": "Ce sont les histoires des fils de Noé, Sheim, Cham et Yafes. Des enfants leur sont nés après le déluge."
+    },
+    {
+      "ref": "Genesis 10:2",
+      "fr": "Les fils de Yafès furent : Gomer, Magog, Modaï, Yavan, Tuval, Méschec et Tiras."
+    },
+    {
+      "ref": "Genesis 10:3",
+      "fr": "Les fils de Gomer furent : Ashkénaz, Riphas et Togarma."
+    },
+    {
+      "ref": "Genesis 10:4",
+      "fr": "Les fils de Yavan étaient : Élisha, Tarsis, Kittim et Dodanim."
+    },
+    {
+      "ref": "Genesis 10:5",
+      "fr": "De là, les nations furent séparées en îles, [mis à part] dans leurs propres pays, chacune dans sa langue, selon leurs familles dans leurs nations."
+    },
+    {
+      "ref": "Genesis 10:6",
+      "fr": "Les fils de Cham furent : Cush, Mitzraim, Put et Canaan."
+    },
+    {
+      "ref": "Genesis 10:7",
+      "fr": "Les fils de Cush étaient : Seva, Chavilah, Savtah, Raamah et Savtecha. Les fils de Ramah étaient : Sheva et Dedan."
+    },
+    {
+      "ref": "Genesis 10:8",
+      "fr": "Cush a produit [un fils] Nimrod. Il commença à être [puissant et] puissant sur terre."
+    },
+    {
+      "ref": "Genesis 10:9",
+      "fr": "Il était un puissant chasseur [puissant et puissant] avant Adonoy. Il est donc dit : Comme Nimrod, un puissant chasseur [puissant et puissant] avant Adonoy."
+    },
+    {
+      "ref": "Genesis 10:10",
+      "fr": "Le début de son royaume fut Babylone, Erech, Akad et Kalneh au pays de Shinar [Babylone]."
+    },
+    {
+      "ref": "Genesis 10:11",
+      "fr": "Assur quitta ce pays et bâtit [Les Assyriens quittèrent ce pays et bâtirent] Ninive, Rechovos Iyr et Kalach."
+    },
+    {
+      "ref": "Genesis 10:12",
+      "fr": "[Il construisit également] Resen entre Ninive et Kalach. C'était la grande ville."
+    },
+    {
+      "ref": "Genesis 10:13",
+      "fr": "Mitsraim a produit [les nations suivantes] : Ludim, Anamim, Lehavim et les Naftukim."
+    },
+    {
+      "ref": "Genesis 10:14",
+      "fr": "[Aussi] les Pasrusim et les Kasluchim ; de qui sont venus les Plishtim et les Kaphtorim [Kaputkim]."
+    },
+    {
+      "ref": "Genesis 10:15",
+      "fr": "Canaan eut pour premier-né Sidon et Cheis."
+    },
+    {
+      "ref": "Genesis 10:16",
+      "fr": "[Et] les Yévusites, les Amoréens, les Guirgashites,"
+    },
+    {
+      "ref": "Genesis 10:17",
+      "fr": "Le Chivite, l'Arkite, le Sinite [Antosite],"
+    },
+    {
+      "ref": "Genesis 10:18",
+      "fr": "L'Arvadite, le Tzemarite et le Chamasite. Plus tard, les familles des Cananéens se développèrent davantage."
+    },
+    {
+      "ref": "Genesis 10:19",
+      "fr": "Les frontières des Cananéens s'étendaient de Sidon vers Guérar jusqu'à Gaza, vers Sedom, Amora, Adma et Tsévoyim, jusqu'à Lasha."
+    },
+    {
+      "ref": "Genesis 10:20",
+      "fr": "Ce sont là les fils de Cham, selon leurs familles et leurs langues, selon leurs pays et selon leurs nations."
+    },
+    {
+      "ref": "Genesis 10:21",
+      "fr": "Des fils sont également nés de Sheim, père des Enfants de l'Autre Côté. Il était le frère de Yefes, l'aîné."
+    },
+    {
+      "ref": "Genesis 10:22",
+      "fr": "Les fils de Schim furent : Élam, Assur, Arpacschad, Lud et Aram."
+    },
+    {
+      "ref": "Genesis 10:23",
+      "fr": "Les fils d'Aram furent : Uz, Chul, Geser et Mash."
+    },
+    {
+      "ref": "Genesis 10:24",
+      "fr": "Arpacchshad engendra Shelach, et Shelach engendra Eiver."
+    },
+    {
+      "ref": "Genesis 10:25",
+      "fr": "Deux fils naquirent à Eiver, le nom de l'un d'eux était Peleg, car de son temps les habitants de la terre étaient dispersés, et le nom de son frère était Yaktan."
+    },
+    {
+      "ref": "Genesis 10:26",
+      "fr": "Yaktan a produit Almodad, Shelef, Chatzarmaves et Yerach,"
+    },
+    {
+      "ref": "Genesis 10:27",
+      "fr": "[aussi] Hadoram, Uval et Diklah,"
+    },
+    {
+      "ref": "Genesis 10:28",
+      "fr": "[aussi] Oval, Avimaeil et Sheva,"
+    },
+    {
+      "ref": "Genesis 10:29",
+      "fr": "[aussi] Ophir, Chavilah et Yovav. Tous ceux-là étaient fils de Yaktan."
+    },
+    {
+      "ref": "Genesis 10:30",
+      "fr": "Leur demeure s'étendait de Meisha vers Séphor, la montagne orientale."
+    },
+    {
+      "ref": "Genesis 10:31",
+      "fr": "Ce sont là les fils de Scheim, selon leurs familles et leurs langues, selon leurs pays et selon leurs nations."
+    },
+    {
+      "ref": "Genesis 10:32",
+      "fr": "Ce sont là les familles des fils de Noé, selon leurs descendants et selon leurs nations. C'est d'eux que furent séparées les nations sur la terre après le déluge."
+    },
+    {
+      "ref": "Genesis 11:1",
+      "fr": "La terre entière avait une seule langue et des mots conformes."
+    },
+    {
+      "ref": "Genesis 11:2",
+      "fr": "Lorsqu'ils partirent de l'est, [au début] ils trouvèrent une vallée au pays de Shinar [Babylone] et ils s'y installèrent."
+    },
+    {
+      "ref": "Genesis 11:3",
+      "fr": "Ils se dirent les uns aux autres : Venez, façonnons [jetons] des briques et cuisons-les soigneusement [au feu]. Ils disposaient alors de briques pour servir de pierre et d’argile pour mortier."
+    },
+    {
+      "ref": "Genesis 11:4",
+      "fr": "Alors ils dirent : Venez, nous nous bâtirons une ville et une tour dont le sommet atteindra le ciel. Ainsi nous nous ferons un nom, afin que nous ne soyons pas dispersés sur toute la surface de la terre."
+    },
+    {
+      "ref": "Genesis 11:5",
+      "fr": "Adonoy descendit pour voir [Adonoy s'est révélé afin de les punir à cause de la construction de] la ville et de la tour que les fils de l'homme ont bâties."
+    },
+    {
+      "ref": "Genesis 11:6",
+      "fr": "Adonoy dit : Voici, ils sont un seul peuple, ayant tous une seule langue, et ceci est leur première entreprise. Maintenant, rien ne leur sera-t-il inaccessible, [pour faire] tout ce qu'ils ont envie de faire ?"
+    },
+    {
+      "ref": "Genesis 11:7",
+      "fr": "Venez, descendons [soyons révélés] et mélangeons leur langage, afin qu'ils ne comprennent pas le langage des autres."
+    },
+    {
+      "ref": "Genesis 11:8",
+      "fr": "Adonoï les dispersa de là sur toute la surface de la terre, et ils cessèrent de construire la ville."
+    },
+    {
+      "ref": "Genesis 11:9",
+      "fr": "C'est pourquoi il lui donna le nom de Bavel, car c'était le lieu où Adonoy mélangeait la langue de toute la terre ; et de là Adonoy les dispersa sur toute la surface de la terre."
+    },
+    {
+      "ref": "Genesis 11:10",
+      "fr": "Ce sont les histoires de Sheim. Sheim avait cent ans, et il eut Arpacschad deux ans après le déluge."
+    },
+    {
+      "ref": "Genesis 11:11",
+      "fr": "Sheim vécut cinq cents ans après avoir eu Arpacshad, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:12",
+      "fr": "Arpacschad vécut trente-cinq ans et eut Shelach."
+    },
+    {
+      "ref": "Genesis 11:13",
+      "fr": "Arpacshad vécut, après avoir eu Schélach, quatre cent trois ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:14",
+      "fr": "Shelach vécut trente ans et eut Eiver."
+    },
+    {
+      "ref": "Genesis 11:15",
+      "fr": "Après avoir eu Eiver, Shelach vécut quatre cent trois ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:16",
+      "fr": "Eiver vécut trente-quatre ans et eut Peleg."
+    },
+    {
+      "ref": "Genesis 11:17",
+      "fr": "Après avoir eu Peleg, Eiver vécut quatre cent trente ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:18",
+      "fr": "Peleg vécut trente ans et eut Réou."
+    },
+    {
+      "ref": "Genesis 11:19",
+      "fr": "Après qu'il eut Réou, Peleg vécut deux cent neuf ans et engendra des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:20",
+      "fr": "Réou vécut trente-deux ans et eut Serug."
+    },
+    {
+      "ref": "Genesis 11:21",
+      "fr": "Après qu'il eut Sérug, Réou vécut deux cent sept ans et engendra des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:22",
+      "fr": "Serug vécut trente ans et eut Nachor."
+    },
+    {
+      "ref": "Genesis 11:23",
+      "fr": "Après avoir eu Nachor, Serug vécut deux cents ans et engendra des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:24",
+      "fr": "Nachor vécut vingt-neuf ans et eut Terach."
+    },
+    {
+      "ref": "Genesis 11:25",
+      "fr": "Après qu'il eut Terach, Nachor vécut cent dix-neuf ans, et il eut des fils et des filles."
+    },
+    {
+      "ref": "Genesis 11:26",
+      "fr": "Terach vécut soixante-dix ans et eut Avram, Nachor et Haran."
+    },
+    {
+      "ref": "Genesis 11:27",
+      "fr": "Ce sont les histoires de Terach. Terach engendra Avram, Nachor et Haran. Haran a produit Lot."
+    },
+    {
+      "ref": "Genesis 11:28",
+      "fr": "Haran mourut du vivant de son père Terach, dans son pays natal à Ur Kasdim."
+    },
+    {
+      "ref": "Genesis 11:29",
+      "fr": "Avram et Nachor se sont mariés. Le nom de la femme d'Avram était Saraï, et le nom de la femme de Nachor était Milkah, la fille de Haran [qui était] le père de Milkah et Yiskah."
+    },
+    {
+      "ref": "Genesis 11:30",
+      "fr": "Saraï était stérile, elle n'avait pas d'enfant."
+    },
+    {
+      "ref": "Genesis 11:31",
+      "fr": "Terach prit son fils Avram, et Lot, fils de Haran, son petit-fils, et Saraï, sa bru, la femme de son fils Avram. Avec eux, ils quittèrent Ur Kasdim pour se rendre au pays de Canaan. [Quand] ils sont arrivés à Charan [cependant], ils s'y sont installés."
+    },
+    {
+      "ref": "Genesis 11:32",
+      "fr": "La durée de vie de Terach fut de deux cent cinq ans. Terach est mort à Charan."
+    }
+  ]
+}

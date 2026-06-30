@@ -1,0 +1,592 @@
+{
+  "name": "Miketz",
+  "range": "Genesis 41:1-44:17",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/miketz.json",
+  "verses": [
+    {
+      "ref": "Genesis 41:1",
+      "fr": "Ce fut au bout de deux années entières que Pharaon fit un songe, et voici, il se tenait au bord du fleuve."
+    },
+    {
+      "ref": "Genesis 41:2",
+      "fr": "Voici, de la rivière sortaient sept vaches, belles et bien charnues, et elles paissaient dans les roseaux."
+    },
+    {
+      "ref": "Genesis 41:3",
+      "fr": "Et voici, sept autres vaches sortirent après elles du fleuve, de mauvaise mine et de chair maigre, et elles se tinrent à côté des vaches qui étaient déjà au bord du fleuve."
+    },
+    {
+      "ref": "Genesis 41:4",
+      "fr": "Ils mangèrent les sept vaches belles et en bonne santé, et Pharaon se réveilla."
+    },
+    {
+      "ref": "Genesis 41:5",
+      "fr": "Il s'endormit et fit un deuxième rêve. Voici, sept épis [blé] poussaient sur une seule tige, sains et bons."
+    },
+    {
+      "ref": "Genesis 41:6",
+      "fr": "Et voici, sept épis maigres et brûlés par le vent d'orient poussèrent après eux."
+    },
+    {
+      "ref": "Genesis 41:7",
+      "fr": "Les sept oreilles maigres [frappées] ont avalé les sept oreilles saines et pleines. Pharaon se réveilla et voici, c'était un rêve."
+    },
+    {
+      "ref": "Genesis 41:8",
+      "fr": "Le matin, il était agité [son esprit était battu]. Il envoya et convoqua tous les sorciers d'Egypte et tous ses sages. Pharaon leur raconta son rêve, mais personne ne put l'interpréter pour Pharaon."
+    },
+    {
+      "ref": "Genesis 41:9",
+      "fr": "Le majordome s'adressa à Pharaon en disant : Je me souviens de mes péchés aujourd'hui :"
+    },
+    {
+      "ref": "Genesis 41:10",
+      "fr": "Pharaon était irrité contre ses serviteurs, et il m'a placé sous garde dans la maison du bourreau en chef ; me and the chief baker."
+    },
+    {
+      "ref": "Genesis 41:11",
+      "fr": "Nous avons fait un rêve la même nuit, lui et moi, chacun selon l'interprétation de son rêve, avons-nous rêvé."
+    },
+    {
+      "ref": "Genesis 41:12",
+      "fr": "Il y avait avec nous un garçon, un Hébreu, esclave du chef des massacreurs. Nous lui avons parlé [de nos rêves], et il a interprété nos rêves, il a interprété le rêve de chaque homme en conséquence."
+    },
+    {
+      "ref": "Genesis 41:13",
+      "fr": "Il arriva que tel qu'il l'avait interprété pour nous, cela se produisit ainsi ; il m'a rétabli dans ma position, et il l'a pendu."
+    },
+    {
+      "ref": "Genesis 41:14",
+      "fr": "Pharaon a envoyé et convoqué Yossif. Ils l'ont fait sortir précipitamment du cachot [prison], mais [Yoseif d'abord] s'est rasé [lui a coupé les cheveux] et a changé ses vêtements. Et puis je suis arrivé chez Pharaon."
+    },
+    {
+      "ref": "Genesis 41:15",
+      "fr": "Pharaon dit à Yoseif : J'ai fait un rêve et il n'y a personne pour l'interpréter. J'ai entendu dire de toi que tu entends un rêve pour l'interpréter."
+    },
+    {
+      "ref": "Genesis 41:16",
+      "fr": "Yoseif répondit à Pharaon en disant : Pas moi. [d'après ma sagesse mais d'avant] Dieu répondra [il y aura une réponse] à la paix de Pharaon."
+    },
+    {
+      "ref": "Genesis 41:17",
+      "fr": "Pharaon dit à Yossif : Dans mon rêve, je me tenais au bord de la rivière."
+    },
+    {
+      "ref": "Genesis 41:18",
+      "fr": "Voici que de la rivière sortaient sept vaches, bien charnues et belles, et elles paissaient dans les roseaux."
+    },
+    {
+      "ref": "Genesis 41:19",
+      "fr": "Et voici, sept autres vaches sortirent après elles, pauvres, très mauvaises et de chair maigre. Je n’ai jamais vu dans tout le pays d’Égypte des [vaches] aussi mauvaises."
+    },
+    {
+      "ref": "Genesis 41:20",
+      "fr": "Les vaches maigres et de mauvaise mine ont mangé les sept premières vaches, qui étaient les plus saines."
+    },
+    {
+      "ref": "Genesis 41:21",
+      "fr": "Ils sont entrés à l'intérieur d'eux, mais on ne pouvait pas reconnaître qu'ils étaient entrés à l'intérieur, [parce que] leur apparence était aussi mauvaise qu'avant. Puis je me suis réveillé."
+    },
+    {
+      "ref": "Genesis 41:22",
+      "fr": "Puis j'ai vu dans mon rêve que sept épis [de maïs], sains et bons, poussaient sur une seule tige."
+    },
+    {
+      "ref": "Genesis 41:23",
+      "fr": "Et voici, sept épis ratatinés, maigres et brûlés par le vent d'est, poussèrent après eux."
+    },
+    {
+      "ref": "Genesis 41:24",
+      "fr": "Les oreilles fines [frappées] engloutirent les sept bonnes oreilles. J'ai dit cela aux sorciers, mais aucun d'eux n'a pu me dire [sa signification]."
+    },
+    {
+      "ref": "Genesis 41:25",
+      "fr": "Yoseif dit à Pharaon : le rêve de Pharaon en est un. Ce que Dieu est sur le point de faire, il l’a dit à Pharaon."
+    },
+    {
+      "ref": "Genesis 41:26",
+      "fr": "Les sept bonnes vaches représentent sept années, et les sept bonnes épis représentent sept années ; c'est un rêve."
+    },
+    {
+      "ref": "Genesis 41:27",
+      "fr": "Les sept vaches maigres et mauvaises qui montèrent après elles représentent sept années, et les sept oreilles vides [frappées] par le vent d'est, roussies [battues], représentent l'arrivée de sept années de famine."
+    },
+    {
+      "ref": "Genesis 41:28",
+      "fr": "C'est la parole que j'ai dite à Pharaon ; ce que Dieu est sur le point de faire, il l’a révélé à Pharaon."
+    },
+    {
+      "ref": "Genesis 41:29",
+      "fr": "Voici, sept années viennent, pendant lesquelles il y aura une grande abondance dans tout le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 41:30",
+      "fr": "Sept années de famine surgiront après eux, et toute l'abondance sera oubliée au pays d'Égypte. La famine dévastera le pays."
+    },
+    {
+      "ref": "Genesis 41:31",
+      "fr": "On ne connaîtra pas non plus l'abondance du pays, à cause de la famine qui s'ensuivra, car elle sera très grave."
+    },
+    {
+      "ref": "Genesis 41:32",
+      "fr": "Quant au rêve répété deux fois à Pharaon, c'est parce que la chose est prête devant Dieu, et que Dieu se dépêche de l'accomplir."
+    },
+    {
+      "ref": "Genesis 41:33",
+      "fr": "Maintenant, Pharaon devrait chercher un homme intelligent et sage et lui confier la responsabilité du pays d’Égypte."
+    },
+    {
+      "ref": "Genesis 41:34",
+      "fr": "Voici ce que Pharaon doit faire : établir des fonctionnaires [des hommes fidèles] sur le pays et préparer le pays d'Égypte pendant les sept années d'abondance."
+    },
+    {
+      "ref": "Genesis 41:35",
+      "fr": "Qu'ils rassemblent toute la nourriture [grain] pendant ces bonnes années qui viennent, et qu'ils emmagasinent le grain sous la main [juridiction] de Pharaon. Que la nourriture [les céréales] soit [conservée] dans les villes et qu'elles la gardent."
+    },
+    {
+      "ref": "Genesis 41:36",
+      "fr": "La nourriture [le grain] sera gardée [en réserve] pour le pays, pendant les sept années de famine ; qui sera au pays d'Egypte. Que les gens du pays ne soient pas exterminés par la famine."
+    },
+    {
+      "ref": "Genesis 41:37",
+      "fr": "Ce [plan] était bon aux yeux de Pharaon et aux yeux de tous ses serviteurs."
+    },
+    {
+      "ref": "Genesis 41:38",
+      "fr": "Pharaon dit à ses serviteurs : Peut-on trouver un homme comme celui-ci, un homme qui a en lui l'esprit de Dieu [l'esprit de prophétie venant de devant Dieu] ?"
+    },
+    {
+      "ref": "Genesis 41:39",
+      "fr": "Pharaon dit à Yossif : Après qu'Elohim t'ait informé de tout cela, il n'y a personne d'aussi compréhensif et sage que toi."
+    },
+    {
+      "ref": "Genesis 41:40",
+      "fr": "Tu seras [établi] sur ma maison, et par ta parole tout mon peuple sera nourri. Ce n'est que par [la vertu du] trône [de ce royaume] que je serai plus grand [plus honoré] que toi."
+    },
+    {
+      "ref": "Genesis 41:41",
+      "fr": "Pharaon dit à Yossif : Voici, je t'ai établi à la tête de tout le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 41:42",
+      "fr": "Pharaon ôta alors son anneau de la main et le plaça sur la main de Yossif. Il l'habilla de vêtements de lin et lui passa une chaîne d'or autour du cou."
+    },
+    {
+      "ref": "Genesis 41:43",
+      "fr": "Il le fit monter [Yoseif] dans sa voiture de deuxième rang, et ils proclamèrent devant lui Avreich [« Ceci est l'associé du roi »]. Il le plaça ainsi sur tout le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 41:44",
+      "fr": "Pharaon dit alors à Yossif : Je suis Pharaon, mais sans toi [votre permission], personne ne lèvera [ne prendra] sa main [pour porter une épée] ni son pied [pour monter sur un cheval] dans tout le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 41:45",
+      "fr": "Pharaon donna à Yossif le nom de Tzafnas Paneiach [l'homme à qui les choses cachées sont révélées], et il lui donna comme épouse Osnas, la fille de Poti Phera, prêtre [chef] d'On. Yossif partit alors à travers le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 41:46",
+      "fr": "Yossif avait trente ans lorsqu'il se présenta devant Pharaon, roi d'Égypte. Yossif quitta la présence de Pharaon et traversa tout le pays d’Égypte."
+    },
+    {
+      "ref": "Genesis 41:47",
+      "fr": "La terre a produit [Les habitants du pays emmagasinés] pendant les sept années d'abondance par poignées [du grain pour les magasins]."
+    },
+    {
+      "ref": "Genesis 41:48",
+      "fr": "Il rassembla toute la nourriture [céréales] des sept années [qui avaient été produites] dans le pays d'Égypte, et il plaça la nourriture [céréales] dans les villes. La nourriture [les céréales] des champs entourant chaque ville était placée dans [la ville]."
+    },
+    {
+      "ref": "Genesis 41:49",
+      "fr": "Yossif a amassé du grain comme le sable de la mer – en grande abondance, jusqu'à ce qu'ils renoncent à le compter, parce qu'il n'y avait plus de chiffres."
+    },
+    {
+      "ref": "Genesis 41:50",
+      "fr": "Deux fils sont nés de Yoseif avant que les années de famine n'arrivent. Ils lui naquirent d'Osnas, fille de Poti Phera, prêtre [chef] d'On."
+    },
+    {
+      "ref": "Genesis 41:51",
+      "fr": "Yossif nomma le premier-né Menasheh, car Dieu m'a fait oublier tous mes malheurs et tout ce qui était dans la maison de mon père."
+    },
+    {
+      "ref": "Genesis 41:52",
+      "fr": "Il nomma le second Éphraïm, Parce qu'Elohim m'a rendu fécond au pays de ma souffrance [servitude]."
+    },
+    {
+      "ref": "Genesis 41:53",
+      "fr": "Les sept années d'abondance [étaient accomplies], [les bonnes années] qui étaient au pays d'Égypte touchèrent à leur fin."
+    },
+    {
+      "ref": "Genesis 41:54",
+      "fr": "Les sept années de famine commencèrent à arriver, comme Yoseif l'avait dit. Il y avait famine dans tous les pays, mais dans tout le pays d'Egypte il y avait du pain."
+    },
+    {
+      "ref": "Genesis 41:55",
+      "fr": "Lorsque tout le pays d’Égypte fut affamé, le peuple cria au Pharaon pour obtenir du pain. Pharaon dit à toute l'Égypte [aux Égyptiens] : Allez vers Yossif. Quoi qu'il vous dise, faites-le."
+    },
+    {
+      "ref": "Genesis 41:56",
+      "fr": "La famine s’étendit sur toute la surface du pays. Yossif ouvrit tout ce qui contenait du grain et vendit du grain aux Égyptiens. La famine devint grave au pays d’Égypte."
+    },
+    {
+      "ref": "Genesis 41:57",
+      "fr": "Tous les [pays] [habitants] du pays sont venus en Égypte pour acheter du [céréale] à Yossif, car la famine était grave dans tout le pays."
+    },
+    {
+      "ref": "Genesis 42:1",
+      "fr": "Yaakov vit que de la nourriture [des céréales] était vendue en Égypte. Yaakov dit à ses fils : Pourquoi voudriez-vous que tout le monde vous regarde ?"
+    },
+    {
+      "ref": "Genesis 42:2",
+      "fr": "Il dit : Voici, j'ai entendu dire qu'il y a de la nourriture [des céréales] à vendre en Égypte. Descendez là-bas et achetez-en pour nous, afin que nous vivions et ne mourions pas."
+    },
+    {
+      "ref": "Genesis 42:3",
+      "fr": "Les dix frères de Yossif descendirent acheter du grain en Égypte."
+    },
+    {
+      "ref": "Genesis 42:4",
+      "fr": "Mais Binyamin, le frère de Yossif, Yaakov ne l'envoya pas avec ses frères, car il [Yaakov] dit : Le malheur [la mort] pourrait lui arriver."
+    },
+    {
+      "ref": "Genesis 42:5",
+      "fr": "Les fils d'Israël vinrent acheter du grain parmi ceux qui venaient, car il y avait famine au pays de Canaan."
+    },
+    {
+      "ref": "Genesis 42:6",
+      "fr": "Yossif était le souverain du pays ; c'était lui qui vendait du grain à tous les gens du pays. Les frères de Yossif vinrent et se prosternèrent devant lui, le visage contre terre."
+    },
+    {
+      "ref": "Genesis 42:7",
+      "fr": "Yossif a vu ses frères et il les a reconnus, mais il s'est comporté comme un étranger [il a réfléchi à ce qu'il devait leur dire]. Il leur parla durement et leur dit : D'où venez-vous ? Ils dirent : Du pays de Canaan pour acheter de la nourriture [des céréales]."
+    },
+    {
+      "ref": "Genesis 42:8",
+      "fr": "Yoseif a reconnu ses frères, mais eux ne l'ont pas reconnu."
+    },
+    {
+      "ref": "Genesis 42:9",
+      "fr": "Yoseif se souvint des rêves qu'il avait faits à leur sujet et leur dit : Vous êtes des espions. Vous êtes venus voir où le terrain est exposé [la partie défectueuse du terrain]."
+    },
+    {
+      "ref": "Genesis 42:10",
+      "fr": "Ils lui dirent : Non mon maître. Tes serviteurs sont venus acheter de la nourriture [des céréales]."
+    },
+    {
+      "ref": "Genesis 42:11",
+      "fr": "Nous sommes tous les fils d'un seul homme. Nous sommes des [hommes] honnêtes. Vos serviteurs n'ont jamais été des espions."
+    },
+    {
+      "ref": "Genesis 42:12",
+      "fr": "Il leur dit : Non, vous êtes venus voir où le terrain est exposé [la partie défectueuse du terrain]."
+    },
+    {
+      "ref": "Genesis 42:13",
+      "fr": "Ils dirent : Tes serviteurs sont douze frères, fils d'un seul homme au pays de Canaan. Voici, le plus jeune est aujourd'hui avec notre père, et il n'y en a plus un."
+    },
+    {
+      "ref": "Genesis 42:14",
+      "fr": "Yossif leur dit : C'est exactement ce que je vous ai dit, en disant : vous êtes des espions."
+    },
+    {
+      "ref": "Genesis 42:15",
+      "fr": "Vous serez testé de cette manière. Par la vie de Pharaon, tu ne sortiras pas d’ici à moins que ton plus jeune frère ne vienne ici."
+    },
+    {
+      "ref": "Genesis 42:16",
+      "fr": "Envoyez l'un de vous et laissez-le amener votre frère. Vous resterez enfermés et vos paroles seront testées pour savoir si [vous dites] la vérité avec vous. Sinon, par la vie de Pharaon, vous êtes des espions."
+    },
+    {
+      "ref": "Genesis 42:17",
+      "fr": "Il les mit alors ensemble en prison pendant trois jours."
+    },
+    {
+      "ref": "Genesis 42:18",
+      "fr": "Yossif leur dit le troisième jour : Faites ceci et vivez. [Devant Dieu] Je crains Dieu."
+    },
+    {
+      "ref": "Genesis 42:19",
+      "fr": "Si vous êtes honnêtes, un de vos frères sera emprisonné dans votre lieu de garde, et vous [les autres] allez apporter de la nourriture à vos familles affamées."
+    },
+    {
+      "ref": "Genesis 42:20",
+      "fr": "Amenez-moi votre plus jeune frère, afin que vos paroles soient vérifiées et que vous ne mourriez pas. Ils ont décidé de le faire."
+    },
+    {
+      "ref": "Genesis 42:21",
+      "fr": "Ils se dirent : En vérité, nous sommes coupables à l'égard de notre frère. Nous avons vu l'angoisse de son âme lorsqu'il nous a supplié et nous ne l'avons pas écouté [lui obéir]. C'est pourquoi ce problème s'est abattu sur nous."
+    },
+    {
+      "ref": "Genesis 42:22",
+      "fr": "Reuvein leur répondit : Ne vous ai-je pas dit ceci : Ne péchez pas contre l'enfant, mais vous n'avez pas écouté [obéi] ; et maintenant son sang est vengé."
+    },
+    {
+      "ref": "Genesis 42:23",
+      "fr": "Ils ne savaient pas que Yossif écoutait [comprenait], car l'interprète était entre eux."
+    },
+    {
+      "ref": "Genesis 42:24",
+      "fr": "Il s'est détourné d'eux et a pleuré. Il revint vers eux et leur parla. Il leur prit Shimon et le fit lier sous leurs yeux."
+    },
+    {
+      "ref": "Genesis 42:25",
+      "fr": "Yossif donna des ordres : leurs vaisseaux furent remplis de blé, et l'argent de chacun fut remis dans son sac ; et on leur donna des provisions pour le voyage. C'est ce qu'il a fait pour eux."
+    },
+    {
+      "ref": "Genesis 42:26",
+      "fr": "Ils déposèrent leurs achats de blé sur leurs ânes et partirent de là."
+    },
+    {
+      "ref": "Genesis 42:27",
+      "fr": "Celui-ci ouvrit son sac pour nourrir son âne où ils passèrent la nuit, et il vit son argent, car voici, il était dans l'ouverture de son sac."
+    },
+    {
+      "ref": "Genesis 42:28",
+      "fr": "» dit-il à ses frères. Mon argent a été restitué et voici, il est également dans mon sac. [La compréhension de leurs] Leurs cœurs les quittèrent et ils tremblèrent, se disant les uns aux autres : Qu'est-ce que Dieu nous a fait ?"
+    },
+    {
+      "ref": "Genesis 42:29",
+      "fr": "Ils arrivèrent chez leur père Yaakov, au pays de Canaan, et ils lui racontèrent tout ce qui leur était arrivé, en disant :"
+    },
+    {
+      "ref": "Genesis 42:30",
+      "fr": "L'homme, le maître du pays, nous parlait durement ; et nous considérait comme des espions du pays."
+    },
+    {
+      "ref": "Genesis 42:31",
+      "fr": "Nous lui avons dit : Nous sommes des gens honnêtes, nous n'avons jamais été des espions."
+    },
+    {
+      "ref": "Genesis 42:32",
+      "fr": "Nous sommes douze frères, fils de notre [même] père. L'un n'est plus, et le plus jeune est aujourd'hui avec notre père au pays de Canaan."
+    },
+    {
+      "ref": "Genesis 42:33",
+      "fr": "L'homme, le maître du pays, nous dit : C'est ainsi que je saurai que vous êtes honnêtes. Laissez-moi un de vos frères, prenez de la nourriture pour vos familles affamées et partez."
+    },
+    {
+      "ref": "Genesis 42:34",
+      "fr": "Amenez-moi votre plus jeune frère, et je saurai alors que vous n'êtes pas des espions, mais que vous êtes d'honnêtes hommes. Je te rendrai ton frère, et tu feras à nouveau du commerce dans le pays."
+    },
+    {
+      "ref": "Genesis 42:35",
+      "fr": "Ils vidaient leurs sacs, et voici, le paquet d’argent de chacun était dans son sac. Ils virent leurs liasses d'argent, eux et leur père, et ils eurent peur."
+    },
+    {
+      "ref": "Genesis 42:36",
+      "fr": "Yaakov, leur père, leur dit : Vous m'avez privé d'enfants ; Yoseif n'est plus [pas ici], Shimon n'est plus, et vous prendriez Binyamin : Tout cela m'est arrivé."
+    },
+    {
+      "ref": "Genesis 42:37",
+      "fr": "Reuvein parla à son père en disant : Mettez à mort mes deux fils si je ne vous le ramène pas [Binyamin]. Remettez-le entre mes mains et je vous le rendrai."
+    },
+    {
+      "ref": "Genesis 42:38",
+      "fr": "Il [Yaakov] dit : Mon fils ne descendra pas avec toi ; car son frère est mort, et lui seul reste. Si le malheur [la mort] lui arrive sur le chemin que vous partez, vous ramènerez ma tête blanche dans la tombe avec tristesse."
+    },
+    {
+      "ref": "Genesis 43:1",
+      "fr": "La famine était grave dans le pays."
+    },
+    {
+      "ref": "Genesis 43:2",
+      "fr": "Quand ils eurent fini de manger [entièrement consommé] la nourriture [céréales] qu'ils avaient rapportée d'Egypte, leur père leur dit : Retournez et achetez-nous un peu de nourriture [céréales] pour nous."
+    },
+    {
+      "ref": "Genesis 43:3",
+      "fr": "Juda lui parla et dit : Cet homme nous a avertis à plusieurs reprises, en disant : Tu ferais mieux de ne pas voir ma face, à moins que ton frère ne soit avec toi."
+    },
+    {
+      "ref": "Genesis 43:4",
+      "fr": "Si tu envoies notre frère avec nous, nous descendrons et nous achèterons de la nourriture pour toi."
+    },
+    {
+      "ref": "Genesis 43:5",
+      "fr": "Mais si vous ne l’envoyez pas, nous ne descendrons pas ; car l'homme nous a dit : Vous feriez mieux de ne pas voir ma face, à moins que votre frère ne soit avec vous."
+    },
+    {
+      "ref": "Genesis 43:6",
+      "fr": "Yisrael dit : Pourquoi m'as-tu fait tant de mal, en disant à cet homme que tu avais un autre frère ?"
+    },
+    {
+      "ref": "Genesis 43:7",
+      "fr": "Ils dirent : L'homme nous a posé des questions à plusieurs reprises sur nous-mêmes et sur notre famille, en disant : Votre père est-il toujours en vie ? As-tu un frère ? Nous lui avons dit selon ses paroles. Aurions-nous pu savoir qu'il dirait : Faites tomber votre frère ?"
+    },
+    {
+      "ref": "Genesis 43:8",
+      "fr": "Juda dit à son père : Israël : Envoie le garçon avec moi, et nous nous lèverons et partirons ; vivons et ne mourons pas, nous, vous et nos enfants."
+    },
+    {
+      "ref": "Genesis 43:9",
+      "fr": "Je serai sa sécurité. Vous le réclamerez de ma main. Si je ne vous l'amène pas et ne le mets pas devant vous, j'aurai péché envers vous pour toujours."
+    },
+    {
+      "ref": "Genesis 43:10",
+      "fr": "Si nous n’avions pas hésité jusqu’à présent, nous aurions pu faire l’aller-retour deux fois."
+    },
+    {
+      "ref": "Genesis 43:11",
+      "fr": "Israël, leur père, leur dit : Si oui, voici ce que vous devez faire : prenez dans vos vases les meilleurs fruits du pays, et apportez en offrande à cet homme un peu de baume, un peu de miel, de la gomme, du labdanum, des pistaches et des amandes."
+    },
+    {
+      "ref": "Genesis 43:12",
+      "fr": "Prenez le double de l'argent entre vos mains ; et l'argent qui a été restitué à l'ouverture de vos sacs vous sera restitué par vos propres mains. C'était peut-être un oubli."
+    },
+    {
+      "ref": "Genesis 43:13",
+      "fr": "Prends ton frère, lève-toi et reviens vers l'homme."
+    },
+    {
+      "ref": "Genesis 43:14",
+      "fr": "Que le Tout-Puissant, Shaddai, vous accorde la compassion en présence de cet homme, afin qu'il vous libère votre autre frère ainsi que Binyamin. Si j'ai été privé de mes enfants, je le serai."
+    },
+    {
+      "ref": "Genesis 43:15",
+      "fr": "Les hommes ont pris cette offrande, et ils ont pris le double de l’argent dans leurs mains, et [ils ont pris] Binyamin. Ils se levèrent et descendirent en Égypte, et se tinrent devant Yossif."
+    },
+    {
+      "ref": "Genesis 43:16",
+      "fr": "Quand Yossif vit Binyamin avec eux, il dit au responsable de sa maison : Amenez ces hommes à la maison. Abattez un animal et préparez-le, car ces hommes dîneront avec moi à midi [le repas du matin]."
+    },
+    {
+      "ref": "Genesis 43:17",
+      "fr": "L'homme fit ce que Yossif avait dit, et il amena les hommes à la maison de Yossif."
+    },
+    {
+      "ref": "Genesis 43:18",
+      "fr": "Les hommes eurent peur parce qu'ils avaient été amenés à la maison de Yossif et ils dirent : C'est à cause de l'argent qui avait été rendu auparavant dans nos sacs que nous sommes amenés [ici] ; afin qu'il puisse se retourner contre nous [agir comme un seigneur sur] et s'en prendre à nous [diffamer], et nous prendre [acquérir] pour esclaves avec [et prendre] nos ânes."
+    },
+    {
+      "ref": "Genesis 43:19",
+      "fr": "Ils se sont approchés de l’homme qui s’occupait de la maison de Yossif et lui ont parlé à l’entrée de la maison."
+    },
+    {
+      "ref": "Genesis 43:20",
+      "fr": "Ils dirent : S'il vous plaît, mon maître, nous sommes descendus la première fois pour acheter de la nourriture [des céréales]."
+    },
+    {
+      "ref": "Genesis 43:21",
+      "fr": "Quand nous sommes arrivés à l’auberge et que nous avons ouvert nos sacs, voici, l’argent de chacun était dans l’ouverture de son sac. C’était notre propre argent dans tout son poids. Nous l'avons ramené dans notre main."
+    },
+    {
+      "ref": "Genesis 43:22",
+      "fr": "Nous avons [également] apporté d’autres fonds pour acheter de la nourriture [des céréales]. Nous ne savons pas qui a mis l'argent dans nos sacs."
+    },
+    {
+      "ref": "Genesis 43:23",
+      "fr": "Il [l'homme] dit : La paix soit avec vous, ne craignez pas. Votre Dieu, et le Dieu de vos pères, vous a offert un cadeau caché dans vos sacs. Votre argent est venu à moi. Il leur fit ensuite sortir Shimon."
+    },
+    {
+      "ref": "Genesis 43:24",
+      "fr": "L'homme amena les hommes dans la maison de Yossif. Il leur donna de l'eau et ils se lavèrent les pieds. Il faisait donner de la nourriture à leurs ânes."
+    },
+    {
+      "ref": "Genesis 43:25",
+      "fr": "Ils préparèrent leur offrande [pour être prêt] quand Yossif arrivait à midi [au repas du matin], car ils avaient entendu dire qu'ils y mangeraient."
+    },
+    {
+      "ref": "Genesis 43:26",
+      "fr": "Yossif vint à la maison et ils lui apportèrent dans la maison l'offrande qu'ils avaient à la main. Ils se prosternèrent devant lui à terre."
+    },
+    {
+      "ref": "Genesis 43:27",
+      "fr": "Il s'enquit de leur bien-être et dit : Votre vieux père, celui dont vous avez parlé, est-il en paix ? Est-il toujours en vie ?"
+    },
+    {
+      "ref": "Genesis 43:28",
+      "fr": "Ils dirent : Ton serviteur, notre père est en paix. Il est toujours en vie. Ils inclinèrent la tête et se prosternèrent."
+    },
+    {
+      "ref": "Genesis 43:29",
+      "fr": "Il leva les yeux et vit son frère Binyamin, le fils de sa mère, et dit : Est-ce votre plus jeune frère dont vous m'avez parlé ? Il [alors] dit : Elohim te fasse grâce [la grâce d'Elohim soit sur toi] mon fils."
+    },
+    {
+      "ref": "Genesis 43:30",
+      "fr": "Yoseif s'est dépêché [de sortir] parce que sa compassion était éveillée envers son frère et qu'il avait envie de pleurer. Il est entré dans [sa] chambre et y a pleuré."
+    },
+    {
+      "ref": "Genesis 43:31",
+      "fr": "Il s'est lavé le visage et est sorti. Il se ressaisit et dit : Servez du pain."
+    },
+    {
+      "ref": "Genesis 43:32",
+      "fr": "Ils lui ont réservé une place à part, et à eux à part, ainsi qu'aux Égyptiens qui mangeaient avec lui à part, car les Égyptiens ne pouvaient pas manger de nourriture avec les Hébreux, parce que cela était répugnant à l'animal que les Égyptiens adoraient, les Hébreux mangeaient."
+    },
+    {
+      "ref": "Genesis 43:33",
+      "fr": "Ils étaient assis devant lui, le premier-né selon son droit d'aînesse, et le plus jeune selon sa jeunesse. The men looked at each other in astonishment."
+    },
+    {
+      "ref": "Genesis 43:34",
+      "fr": "Il fit porter des portions de devant lui jusqu'à eux. Les portions de Binyomin étaient plus grandes que toutes les leurs – cinq fois plus. Ils burent avec lui et s'enivrèrent."
+    },
+    {
+      "ref": "Genesis 44:1",
+      "fr": "Il ordonna au chef de sa maison, en disant : Remplissez les sacs de chacun avec autant de nourriture [céréales] qu'ils peuvent transporter, et placez l'argent de chacun dans l'ouverture de son sac."
+    },
+    {
+      "ref": "Genesis 44:2",
+      "fr": "Et ma coupe, la coupe d'argent, mise dans l'ouverture du sac du plus jeune, avec l'argent pour ses achats de nourriture. Il a agi selon la parole prononcée par Yossif."
+    },
+    {
+      "ref": "Genesis 44:3",
+      "fr": "Avec la lumière du matin, les hommes partirent avec leurs ânes."
+    },
+    {
+      "ref": "Genesis 44:4",
+      "fr": "Ils venaient de quitter la ville, ils n'étaient pas allés loin, quand Yossif dit au responsable de sa maison : Lève-toi, poursuis les hommes, et quand tu les auras rattrapés, dis-leur : Pourquoi as-tu rendu le bien par le mal."
+    },
+    {
+      "ref": "Genesis 44:5",
+      "fr": "Eh bien, c'est [le gobelet] dans lequel boit mon maître. Il l'utilise pour la divination [enquêter]. Vous avez mal agi dans ce que vous avez fait."
+    },
+    {
+      "ref": "Genesis 44:6",
+      "fr": "Il les rattrapa et leur dit exactement ces mots."
+    },
+    {
+      "ref": "Genesis 44:7",
+      "fr": "Ils lui dirent : Pourquoi mon maître dit-il de telles paroles ? Ce serait dégradant pour vos serviteurs de faire [Que vos serviteurs soient épargnés de faire] une telle chose."
+    },
+    {
+      "ref": "Genesis 44:8",
+      "fr": "Voici l'argent que nous avons trouvé à l'ouverture de nos sacs, que nous vous avons rapporté du pays de Canaan. Comment aurions-nous donc pu voler de l’argent ou de l’or dans la maison de votre maître ?"
+    },
+    {
+      "ref": "Genesis 44:9",
+      "fr": "Celui de tes serviteurs chez qui on le trouvera mourra. Nous serons également les serviteurs de mon maître."
+    },
+    {
+      "ref": "Genesis 44:10",
+      "fr": "Et il dit : Tes paroles sont désormais également exactes. Celui chez qui on le trouvera sera mon esclave et vous serez innocent."
+    },
+    {
+      "ref": "Genesis 44:11",
+      "fr": "Ils se précipitèrent, et chacun posa son sac par terre, et chacun ouvrit son sac."
+    },
+    {
+      "ref": "Genesis 44:12",
+      "fr": "Il chercha, en commençant par le plus âgé et en terminant par le plus jeune. Le gobelet a été trouvé dans le sac de Binyomin."
+    },
+    {
+      "ref": "Genesis 44:13",
+      "fr": "Ils ont déchiré leurs vêtements [de chagrin]. Chacun chargea son âne et ils retournèrent à la ville."
+    },
+    {
+      "ref": "Genesis 44:14",
+      "fr": "Yehouda et ses frères arrivèrent chez Yossif. Il était toujours là et ils tombèrent à terre devant lui."
+    },
+    {
+      "ref": "Genesis 44:15",
+      "fr": "Yossif leur dit : Quelle est cette action que vous avez faite ? Ne savez-vous pas qu'un homme comme moi est un devin [enquêteur] expert ?"
+    },
+    {
+      "ref": "Genesis 44:16",
+      "fr": "Juda dit : Que dirons-nous à mon maître ? De quoi peut-on parler ? Comment pouvons-nous nous justifier ? [Dès avant] Dieu [l'iniquité de vos serviteurs] a [été] trouvé l'iniquité de vos serviteurs. Soyons esclaves de mon maître, nous et celui dans les mains duquel la coupe a été trouvée."
+    },
+    {
+      "ref": "Genesis 44:17",
+      "fr": "Il [Yoseif] leur dit [leur] : Ce serait dégradant pour moi de faire [Puis-je être épargné de faire] une telle chose. L'homme dans la main duquel la coupe a été trouvée sera mon esclave, et vous monterez en paix vers votre père."
+    }
+  ]
+}

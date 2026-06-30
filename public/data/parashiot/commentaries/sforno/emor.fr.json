@@ -1,0 +1,504 @@
+{
+  "name": "Emor",
+  "range": "Leviticus 21:1-24:23",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/emor.json",
+  "verses": [
+    {
+      "ref": "Leviticus 21:1",
+      "fr": "ויאמר ה' אל משה אמור אל הכהנים, ce qui a été écrit plus tôt afin qu'ils se comprennent et s'instruisent mutuellement sur les différentes catégories d'impuretés et de contaminations rituelles, y compris la différence entre les bêtes domestiques rituellement pures et les oiseaux, car ce sont les aspects qui préoccupent au premier chef les prêtres sur une base régulière, comme nous le lisons dans 10,10-11 ולהבדיל בין הקדש ובין החול, ובין הטמא ובין הטהור ולהורות, « et pour séparer les sacré du profane et du rituel impur, et entre le rituellement contaminé, et d’enseigner ces valeurs. ואמרת אליהם, que la nécessité de faire preuve de prudence en plus de ces catégories de rituellement pur et de ce qui ne l'est pas, également en ce qui concerne l'impureté conférée par le contact avec les morts ainsi que par la profanation de leur semence. לנפש לא יטמא בעמיו, aucun membre de la caste sacerdotale ne doit se souiller rituellement à travers des cadavres appartenant à sa nation., c'est-à-dire. e. tout défunt qui ne fait pas partie des sept membres de la famille pour lesquels il doit se contaminer rituellement pour organiser son enterrement, etc."
+    },
+    {
+      "ref": "Leviticus 21:2",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:4",
+      "fr": "לא יטמא בעל בעמיו להחלו, la raison pour laquelle un prêtre ne doit pas se souiller au contact des morts, sauf ceux de ses plus proches parents, est que le prêtre est également un בעל בעמיו, un membre distingué et haut placé de son peuple, c'est sa tâche de comprendre et d'enseigner ces lois comme nous le savons d'après Malachie 2,7 « car les lèvres du prêtre sont destinées à garder la connaissance, et la Torah et le peuple s'enquireront de cela par sa bouche. » Cela fait de lui une personne à traiter de la même manière qu’on traite une personne politiquement haut placée, un roi. Étant donné qu’il est censé être toujours prêt à servir le Roi des Rois, dans Son Temple, il n’est pas approprié pour une telle personne de profaner son statut, même temporairement, afin de participer aux rites funéraires des gens ordinaires. Selon nos sages du Sanhédrin 47, le but premier de l'enterrement et de l'éloge des morts est de leur rendre honneur. Cela entre en conflit avec l’honneur que les prêtres doivent accorder à D.ieu de manière continue. Cependant, la Torah exempte les prêtres de cette restriction pour l'enterrement et l'éloge des proches parents de cette règle. [Une partie de la dernière ligne est ma propre formulation, bien qu'elle corresponde aux pensées exprimées par l'auteur. Éd.]"
+    },
+    {
+      "ref": "Leviticus 21:5",
+      "fr": "לא יקרחו, même si j'ai permis aux prêtres de se souiller pour enterrer leurs proches et d'exprimer des rites de deuil, je ne leur ai pas permis d'exagérer de telles manifestations de deuil pour inclure la fabrication de taches chauves sur leur tête et de faire des incisions dans leur chair. Comme l'ont exprimé nos sages, « tout comme les versets précédents traitaient des morts, de même les versets devant nous traitent de l'honneur des morts. » (Torat Kohanim 1,3)"
+    },
+    {
+      "ref": "Leviticus 21:6",
+      "fr": "Cependant, même si tout ce qui précède était l'expression de la douleur causée par la perte de proches, le prêtre n'est pas autorisé à méconnaître la dignité que lui impose son statut de prêtre. Même si les prêtres ont sans aucun doute l’intention d’honorer D.ieu dans ce qu’ils font, lorsqu’ils ignorent les restrictions que leur statut leur impose, ils profanent indirectement le nom du Seigneur."
+    },
+    {
+      "ref": "Leviticus 21:7",
+      "fr": "כי קדוש הוא לאלוקיו, chaque membre de la tribu est par définition בעל בעמיו, un personnage particulièrement distingué parmi son peuple. S'il devait épouser une personne suffisamment coupable ou malheureuse pour appartenir aux catégories mentionnées dans ce verset, le mari n'aurait plus droit à la sainteté que son droit de naissance lui avait non seulement donné droit, mais qu'il attendait de lui."
+    },
+    {
+      "ref": "Leviticus 21:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:12",
+      "fr": "C'est vrai. Selon le rabbin Saadyah gaon, cela signifie avant tout rejoindre le cortège funéraire, ce qui nécessite de quitter l'enceinte sainte. ולא יחלל את מקדש אלוקיו, afin de ne pas profaner le Temple de son D.ieu, car les gens concluraient que rendre honneur aux morts est plus important que de rester dans la sphère de la présence immédiate de D.ieu, ce dont il jouit comme le privilège exceptionnel d'être exposé de manière continue."
+    },
+    {
+      "ref": "Leviticus 21:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:18",
+      "fr": "כי כל איש אשר בו מום לא יקרב, se lever et accomplir le service du Temple. Le principe nous est familier depuis qu'Esther fut consternée lorsque son oncle Mardochée apparut vêtu d'un sac dans la cour du Palais Royal (Esther 4,2)."
+    },
+    {
+      "ref": "Leviticus 21:19",
+      "fr": "שבר רגל, un exemple de défauts non causés par les corps des prêtres eux-mêmes."
+    },
+    {
+      "ref": "Leviticus 21:20",
+      "fr": "או גבן, (sourcil) un exemple d'imperfections causées par un manque d'humidité essentielle du corps."
+    },
+    {
+      "ref": "Leviticus 21:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 21:24",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:2",
+      "fr": "En revanche, ils ne devraient pas penser que les plus âgés d'entre eux peuvent traiter les sacrifices offerts par le peuple comme s'ils étaient de nature laïque en ce qui les concerne. Nous connaissons le principe évoqué ici par la Torah de Moed Katan 16 מנודה לתלמיד אינו מנודה לרב, « si quelque chose est légalement interdit à l’étudiant, cela ne signifie pas automatiquement qu’il l’est également à son professeur. » (bien que si la situation est inversée, ce qui est interdit au professeur est très certainement également interdit à l'élève. ולא יחללו את שם קדשי אשר הם מקדישים לי. Ils ne profaneront pas les choses que les Juifs ordinaires ont sanctifiées pour Moi, et qui maintenant porte mon saint nom."
+    },
+    {
+      "ref": "Leviticus 22:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:7",
+      "fr": "כי לחמו הוא, et il n'a pas besoin d'attendre son expiation avant de pouvoir manger ce qui est son régime habituel, לחמו. Nos sages dans Pessachim 35 ont déclaré que dès que le soleil se couche, le prêtre (qui s'est immergé rituellement après avoir contracté une impureté rituelle) peut manger de la t'rumah. [il ne peut pas encore manger de viandes sacrificielles qui sont d'un niveau de sainteté plus élevé avant le lendemain matin car celles-ci ne sont pas considérées comme son לחמו, son régime alimentaire régulier. Éd.]"
+    },
+    {
+      "ref": "Leviticus 22:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:9",
+      "fr": "אני ה' מקדשם, je les ai sanctifiés (les objets sanctifiés en tant que dons par les Israélites ordinaires). Il est donc approprié que les prêtres qui traitent ces objets sanctifiés avec dédain (comme s'ils étaient profanes) soient punis pour les avoir profanés."
+    },
+    {
+      "ref": "Leviticus 22:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:16",
+      "fr": "והשיאו אותם עון אשמה, eux-mêmes, lorsqu'ils ont déclaré les objets en question (par exemple t'rumah) comme sacrés, se rendent coupables au cas où ils entreraient en infraction et en feraient un usage profane. La Torah ne permet pas d'appliquer le principe הפה שאסר הוא הפה שהתיר, selon lequel, tout comme on peut déclarer quelque chose d'interdit, la même personne peut également le déclarer comme autorisé. (D'mai,6,11) La raison pour laquelle nous ne pouvons pas appliquer ce principe dans ce cas est אני ה' מקדשו, étant donné que D.ieu lui-même a élevé cet objet à un statut de sainteté, un simple mortel, même le donateur, ne peut pas supprimer une telle sainteté à sa propre discrétion."
+    },
+    {
+      "ref": "Leviticus 22:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:18",
+      "fr": "אשר יקריב קרבנו, après que la Torah se soit adressée aux prêtres, qui offrent les sacrifices sur l'autel ainsi que leur statut de sainteté, elle discute maintenant des règles s'appliquant aux offrandes elles-mêmes., disant que ce qui suit s'applique à לכל נדריהם ולכל נדבותם, même ces offrandes étaient des offrandes volontaires par opposition aux offrandes obligatoires, et j'aurais pu penser qu'une telle offrande, même celle d'un animal taché, serait acceptée avec gratitude par D.ieu, étant donné que l'individu en question n'était pas obligé d'offrir un quelconque sacrifice à ce moment-là, la Torah déclare catégoriquement que ce n'est pas le cas. L’auteur, citant Maléachi 1,5 comme preuve qu’on n’oserait pas offrir à un dirigeant humain un cadeau qui n’était pas parfait, et encore moins qu’on oserait le faire « pour » D.ieu, conclut qu’il a dû y avoir des gens à son époque coupables de se tromper sur ce qu’on attendait d’eux et d’offrir des animaux inférieurs en sacrifice."
+    },
+    {
+      "ref": "Leviticus 22:19",
+      "fr": "לרצונכם, comme un sacrifice qui vous conférera la bonne volonté de D.ieu, et non pour le trésor du Temple. En réalité, il doit être masculin et sans tache, car le Créateur est décrit comme ayant produit une œuvre parfaite, sans tache, lorsqu'il a créé l'univers. (Comparer Deutéronome 32,4)"
+    },
+    {
+      "ref": "Leviticus 22:20",
+      "fr": "כל אשר בו מום לא תקריבו כי לא לרצון יהיה לכם, tel qu'élaboré par Maleachi 1,8."
+    },
+    {
+      "ref": "Leviticus 22:21",
+      "fr": "Après que la Torah ait averti que l'holocauste, עולה, est d'un rang si élevé parmi ces objets sacrés, קדשי קדשים que seuls des animaux mâles sans défaut peuvent être utilisés pour de telles offrandes, et que cette exigence s'applique uniquement aux bovins et aux moutons ou chèvres, c'est-à-dire des conditions qui ne sont pas applicables aux offrandes d'oiseaux, (comparer Kidushin 16), elle continue avec ואיש כי יקריב 'זבח שלמים לה, pour nous informer que bien que ce type d'offrande de viande soit d'un rang sacré inférieur, קדשים קלים et la Torah n'insistent pas sur le fait qu'un tel animal doit être de sexe masculin, afin de conférer la bonne volonté de D.ieu au donneur, il doit encore être un animal parfait et sans tache de son espèce. Nous savons d'après Lévitique 3,1 que de telles offrandes sont également acceptables si une femelle est offerte. Le verset 22 explique qu’il n’est tout simplement pas acceptable d’offrir à D.ieu un animal imparfait en sacrifice. Une règle supplémentaire pour laquelle les animaux présentant des imperfections ne sont pas acceptables sont les mots ואשה לא תתנו מהם על המזבח לה'. La Torah nous informe par ces mots que même si le défaut de l'animal désigné comme sacrifice est apparu seulement après sa sanctification, les parties qui sont normalement brûlées sur l'autel, c'est-à-dire certaines parties grasses et les membranes sur les reins, car il n'est tout simplement pas acceptable que même si les parties destinées à l'autel sont sans défaut, tout ce qui, avant d'arriver à ce stade, avait un défaut disqualifiant disqualifie l'ensemble car il est considéré avec consternation par D.ieu."
+    },
+    {
+      "ref": "Leviticus 22:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:23",
+      "fr": "Bien sûr, même si de nombreux défauts peuvent être apparents, vous pouvez en faire don pour le trésor du Temple, même si le donateur pensait qu'en raison de ces défauts, ils seraient rejetés par le trésorier du Temple. La Torah fait la différence entre les dons destinés au trésor du Temple et les animaux destinés à l'autel. Alors que même des défauts mineurs empêchent un animal d'être offert sur l'autel, aucune restriction de ce type ne s'applique aux cadeaux connus sous le nom de נדבה. Cela est possible parce que les corps de ces animaux ne possèdent aucun caractère sacré, ce caractère sacré ne s'appliquant qu'à leur valeur, c'est-à-dire à l'argent tiré de la vente de ces animaux. Cela permet au corps donné d'être traité comme s'il n'avait jamais été sanctifié de quelque manière que ce soit."
+    },
+    {
+      "ref": "Leviticus 22:24",
+      "fr": "ומעוך וכתות, après que la Torah ait parlé du genre de défauts physiques qui n'ont de conséquence rituelle qu'en relation avec les animaux sacrificiels, et qui ne doivent en aucun cas être infligés à un tel animal une fois qu'il a été sanctifié, la Torah se tourne vers le genre de défauts internes qu'il ne faut pas causer même aux animaux qui n'ont jamais été sanctifiés, sont totalement laïcs dans leur utilisation."
+    },
+    {
+      "ref": "Leviticus 22:25",
+      "fr": "Même si les cadeaux pour le trésor du Temple sont acceptés de la part des païens, aucun animal imparfait ne doit être accepté comme tel. Même si l'animal a été taché à la suite d'une intervention chirurgicale délibérée, telle que sa castration, ce qui améliore généralement la valeur de l'animal ainsi castré, cela le disqualifie de son utilisation par le trésor du Temple, sans parler du sacrifice sur l'autel. Etant donné que les païens considèrent de tels animaux comme supérieurs, nous ne pourrions pas appliquer à de tels dons la critique formulée par Maléach 1,8 à laquelle nous avons déjà fait référence à deux reprises. On aurait donc pu penser que voir qu’il présente aux yeux du donateur un don supérieur à D.ieu serait acceptable ; la Torah voit d’un mauvais œil les animaux castrateurs qui ont été créés pour proliférer. La Torah décrit ces animaux castrés comme כי משחתם בהם מום, car leur corruption est en eux (pas seulement externe). En disqualifiant les animaux présentant des défauts pour l'autel, la Torah ne pensait pas seulement aux défauts visibles, qui ne sont après tout que des défauts externes, mais aussi aux défauts invisibles, ces derniers étant souvent plus graves."
+    },
+    {
+      "ref": "Leviticus 22:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:27",
+      "fr": "En outre, après que la Torah ait mentionné les divers animaux défectueux qui ne peuvent pas être offerts sur l'autel, elle mentionne maintenant un certain nombre de situations dans lesquelles même un spécimen parfaitement sain des animaux rituellement qualifiés peut également ne pas encore (ou plus) être adapté comme sacrifice sur l'autel. Tout comme nous avons appris que la valeur monétaire de l’animal n’est pas le seul critère concernant son acceptabilité pour l’autel, de même nous allons entendre maintenant qu’il existe encore d’autres considérations qui peuvent disqualifier un animal pour qu’il ne soit pas le bienvenu à D.ieu en tant qu’offrande. Si un animal n’a pas encore atteint le huitième jour de sa vie, il ne peut pas être utilisé comme sacrifice. Si le propriétaire dudit animal, ou le prêtre qui l'offre en son nom, a l'intention de le consommer ou une partie de celui-ci en dehors de l'enceinte sainte prévue à cet effet par la Torah, ou si ledit propriétaire envisage de le manger après le délai fixé par la Torah pour la consommation de cette viande sacrificielle, non seulement le sacrifice devient disqualifié, mais la sanction est extrêmement sévère. Les termes techniques pour de tels cations disqualifiants sont מחוסר זמן, trop jeune, ou אותו ואת בנו, si l'animal mère avait déjà été sacrifié le même jour, ou פיגול, si le donateur ou le prêtre avait prévu de s'écarter de la halakha régissant où et pendant combien de jours un tel animal pouvait être mangé après avoir été mangé. été abattu. L’intention connue sous le nom de חוץ לזמנו, d’en manger une partie au-delà du délai fixé par la Torah, entraîne même la peine du karet. Les délais sont précisés dans nos versets ici."
+    },
+    {
+      "ref": "Leviticus 22:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:29",
+      "fr": "לרצונכם תזבחו ביום ההוא יאכל, vos intentions au moment d'accomplir la procédure sacrificielle doivent être de le manger le même jour, (comparez Rachi), la raison de ces règles étant dans אני ה', étant donné que je suis parfait et que mon travail est parfait, je ne tolérerai pas écarts de votre part, soit en raccourcissant le délai, soit en l'allongeant. [Voyant que cette législation a déjà été traitée dans la Torah dans Lévitique 7,15-17, cela a peut-être incité l'auteur à se référer à l'explication de Rachi sur notre verset selon laquelle il s'agit du début du délai, c'est-à-dire du même jour, il ne faut pas attendre le deuxième jour pour commencer à en manger. NDLR]"
+    },
+    {
+      "ref": "Leviticus 22:30",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:31",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 22:32",
+      "fr": "ולא תחללו את שם קדשי, étant donné que vous, les prêtres de tous les peuples, êtes plus conscients que quiconque de la perfection de Mes œuvres, si vous ne prenez pas garde à ne pas dévier de Mes commandements, ce serait la plus grande profanation de Mon saint Nom. Le verset rappelle Ézéchiel 36,20 où le prophète déplore que les exilés qui viennent dans les pays d'accueil se comportent de telle manière que les dirigeants des pays d'accueil s'exclament avec consternation que ceux-ci ne peuvent sûrement pas imiter les voies de leur D.ieu ! ונקדשתי בתוך בני ישראל, de continuer à accomplir des miracles pour eux comme j'avais juré de le faire lorsque j'ai dit dans Exode 34,10 \"Je ferai des miracles en présence de toute ta nation comme preuve que אני ה' מקדשכם, Moi, le Seigneur te sanctifie.»"
+    },
+    {
+      "ref": "Leviticus 22:33",
+      "fr": "N'hésitez pas à nous contacter. Je voulais devenir votre leader immédiat, sans employer d'intermédiaires, tout comme je suis un leader immédiat pour les êtres désincarnés. Bien sûr, cela était basé sur le principe que vous marcheriez sur le chemin de Ma Sainteté, comme le mentionne Jérémie 10,2 « n'apprenez pas les voies des nations et ne vous laissez pas impressionner par les présages que vous croyez voir dans le ciel. » 'אני ה; Je n'ai pas changé et Je continuerai à accomplir des miracles comme Je l'ai fait autrefois, à moins que vous n'érigiez des barrières entre vous et Moi en ne marchant pas dans les chemins que Je vous ai assignés. Nous avons cette promesse énoncée dans Micha 7,15 « comme aux jours où tu sortiras d'Egypte, je ferai des miracles »."
+    },
+    {
+      "ref": "Leviticus 23:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:2",
+      "fr": "מועדי ה' אשר תקראו אותם מקראי קודש, après que la Torah ait parlé au sujet des offrandes d'animaux et des personnes qui les offrent dont le but est de garantir que la Shechinah repose dans/sur le peuple d'Israël. Comparez Exode 29,42 dans Exode 29,42. « un holocauste régulier de génération en génération, à l'entrée de la tente d'assignation devant l'Éternel. » La Torah parle des fêtes, jours où l'on s'abstient de s'abstenir de s'occuper des affaires profanes. Certains jours, il faut s'abstenir complètement de telles activités, d'autres seulement partiellement. Par exemple, le jour du sabbat ainsi que le jour des Expiations, il y a une cessation totale de tout ce qui est appelé מלאכה, travail, dans le sens d'une activité productive. Ces journées sont destinées à nous permettre de nous occuper exclusivement de la Torah et d’autres tâches sacrées. A cet effet la Torah écrit (Exode 20,9-10) « tu travailleras six jours et mèneras toutes tes activités, tandis que le septième jour est un sabbat de l'Éternel ton Dieu. » Ce jour-là, vos activités devraient concerner des questions spirituelles. Certains jours appelés saintes convocations sont soumis à une interdiction partielle de travailler, renonçant essentiellement au type d’activité liée au type de travail nécessaire pour gagner sa vie. La première est de profiter de ces jours. À propos de ces jours, nos sages ont inventé l’expression חציה לה' וחציה לכם, « moitié pour D.ieu et moitié pour vous ». (Pessachim 68) Il ne fait aucun doute que lorsque le peuple juif se comportera de cette manière, la Présence divine sera chez elle parmi lui. Assaph a exprimé cette pensée dans le Psaume 82,1 qui commence par les mots אלוקים נצב בעדת א-ל וגו', \"D.ieu se tient dans l'assemblée divine. Parmi les êtres divins, Il prononce le jugement.\" La signification du mot מקראי קודש lorsqu'il est appliqué aux jours que la Torah appelle מועדי ה' אשר תקראו אותם מקראי קודש est : « jours d'assemblées du peuple pour des entreprises sacrées ». Le mot מקרא fait référence à une assemblée, tout comme les mots שבת et חודש sont compris comme désignant des assemblées à la fois dans Isaïe 1,13 et Isaïe 4,5 אלה הם מועדי, « ce sont les dates fixées auxquelles je démontrerai mon plaisir en votre compagnie. » Si vous deviez traiter ces dates comme des jours ordinaires, des jours de la semaine, elles passeraient du statut de מקראי קודש à celui de מקראי חול, des assemblées consacrées exclusivement à la vie éphémère sur terre et aux plaisirs physiques que les gens veulent expérimenter dans cette vie. Ils ne seraient alors pas מועדי, « Mes temps fixés », mais se transformeraient en מועדיכם שנאה נפשי, « vos temps fixés, ceux que mon âme déteste ». (même chapitre dans Isaïe 1,14)"
+    },
+    {
+      "ref": "Leviticus 23:3",
+      "fr": "'שבת היא לה, Lui, le créateur de la lumière et des ténèbres, assigne ces jours dans toutes vos demeures, partout sur terre. La raison pour laquelle cela est expliqué est que nous aurions pu penser que, tout comme les jours et les nuits ne sont pas constants, étant respectivement plus longs en été qu'en hiver, de sorte que les heures du premier sabbat de l'histoire pourraient servir de modèle pour tous les sabbats futurs, et que les Juifs du monde entier devraient observer les 24 heures que les Juifs de la terre d'Israël observent comme leur sabbat. La Torah, en écrivant בכל מושבותיכם, indique que le début et la conclusion du sabbat dépendent des heures locales du jour et de la nuit, et non d'un lieu central. [par opposition à la détermination de l'heure mensuelle à laquelle commence la nouvelle lune, c'est-à-dire le nouveau mois, qui est liée à sa constellation astronomique dans le ciel au-dessus de Jérusalem, qui sert de « ligne de date » pour le peuple juif. NDLR]"
+    },
+    {
+      "ref": "Leviticus 23:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:5",
+      "fr": "'בין הערבים פסח לה; bien que le jour où la Pâque est sacrifiée soit le 14 Nissan, et non l'un des jours répertoriés comme מקרא קודש, la Torah s'y rapporte comme si c'était le cas, puisque ce sacrifice, signifiant l'Exode d'Egypte, la rédemption du peuple juif de l'esclavage, est à la base de toute la législation régissant le calendrier juif. Les sages ont le pouvoir de veiller à ce que la date du calendrier annuel que la Torah a légiférée pour que ce sacrifice soit offert coïncide avec le mois au cours duquel survient l'équinoxe de printemps, afin de garantir que nous ne violons pas le concept de היום אתם יוצאים בחודש האביב, « ce jour-là, tu es parti (Egypte) c’était au mois de printemps. Le concept de « printemps » et son message de résurrection de la nature qui avait hiberné pendant l'hiver est si fort qu'il fait partie du concept אלה מועדי ה'. (comparer Deutéronome 16,1)"
+    },
+    {
+      "ref": "Leviticus 23:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:8",
+      "fr": "והקרבתם אשה לה' שבעת ימים, l'offrande du moussaph pendant sept jours consécutifs vise à nous rappeler que les jours intermédiaires de cette fête ne sont pas totalement de nature laïque, bien que seuls le premier et le septième jour aient reçu le titre מקרא קודש. Toute la question du mussaph, offrandes communautaires supplémentaires, n'a pas été abordée en détail ici car c'est un sujet traité dans les Nombres lorsque cette législation apparaît en détail dans les chapitres 28-29. La raison pour laquelle, à propos du jour de l'An, la Torah mentionne l'offrande d'un אשה לה', est que ce jour est déjà qualifié pour une offrande de moussaph, car il s'agit non seulement du premier jour de la nouvelle année mais aussi du premier jour du mois de Tishrey. Dans Nombres 29,6, la Torah attire une fois de plus notre attention sur ce fait, [sans doute pour nous dire que le jour du Nouvel An ne remplace pas la signification de la date de la nouvelle lune. Ed.] Si vous deviez rétorquer que אשה ה' est également mentionné dans ce chapitre en relation avec le jour des Expiations, rappelez-vous que ce qui y est mentionné sont des holocaustes et des sacrifices pour le péché, à la fois au nom du Souverain Sacrificateur et du peuple, mais pas par chaque membre individuel du peuple comme le sont les sacrifices pour le péché en général, et non les offrandes de moussaph qui sont des offrandes communautaires obligatoires. La raison pour laquelle la Torah a énuméré le sabbat et la fête des matsot dans un seul paragraphe est que les deux ont été légiférés avant le don de la Torah au mont Sinaï. Chacun des autres festivals s'est vu attribuer un paragraphe qui lui est propre. La Torah commence sa référence à la fête des semaines en parlant du Omer et du décompte des sept semaines depuis la Pâque jusqu'à cette fête, sachant que la fête des semaines est également connue sous le nom de fête des récoltes, חג הקציר et nous remercions le Seigneur pour le שבועות חקות קציד, \"qui garde pour notre bénéfice les semaines fixées pour la récolte\". (Jérémie 5,24). La raison principale de ces fêtes est de nous offrir l'occasion d'exprimer notre gratitude dans la prière et dans les actes. Par exemple, un exemple est le moment fixé pour la fête au printemps, lorsque nous prions D.ieu pour le remercier de nous avoir donné notre liberté au moment de la sortie d’Égypte. Le Omer était une expression de gratitude pour la récolte d’orge, la première occasion d’accomplir une partie de la législation bikkurim, en présentant à D.ieu la première récolte mûre. Cette prière contient également une demande concernant l'avenir. Le décompte des 49 jours entre Pâque et la fête des semaines nous rappelle la nécessité d'offrir de telles prières quotidiennement. À l’occasion de la fête de Souccot, la fête de la récolte, nous remercions le Seigneur de nous avoir permis d’amener sous nos toits la plus grande récolte de l’année."
+    },
+    {
+      "ref": "Leviticus 23:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:14",
+      "fr": "En outre, l'interdiction de manger de la nouvelle récolte d'orge avant le 16 Nissan s'applique même lorsqu'il n'y a pas de Temple et qu'aucune offrande d'Omer ne peut être apportée à D.ieu."
+    },
+    {
+      "ref": "Leviticus 23:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:17",
+      "fr": "חמץ תאפינה, בכורים, l'Omer était la première orge mûrie; l'offrande mentionnée dans notre verset ici représentait les premières tiges mûres de la récolte de blé. C’est pourquoi la fête des semaines est également connue sous le nom de יום הבכורים, « le jour de l’offrande des premiers-nés ». (comparez Nombres 28,26 où cette מנחה חדשה, « nouvelle offrande de cadeau » est décrite). La traduction la plus appropriée serait « l’offrande de cadeaux consistant en la nouvelle récolte (de céréales) ». La raison pour laquelle la Torah a ajouté le mot לה', « pour le Seigneur », [après tout, toutes les offrandes sont exclusivement pour le Seigneur, alors pourquoi choisir celle-ci par son nom ? Ed.] est qu’après avoir d’abord présenté cette offrande à D.ieu, le peuple tout entier peut maintenant profiter de la nouvelle récolte de blé. Le verset de Jérémie 5,24 que nous avons cité plus tôt faisait référence au סכנה, période de « danger » à laquelle cette culture était exposée pendant sa croissance et pendant laquelle tant de choses auraient pu se produire qui auraient ruiné la récolte finale. Des prières de remerciement sont donc requises, exprimant notre gratitude car rien de ce qui nous inquiétait pendant ces nombreuses semaines ne s'est réellement produit. [le mot חקות dans ce verset peut signifier que les lois de la nature selon lesquelles la récolte mûrirait n'étaient pas perturbées par le mauvais temps et d'autres phénomènes climatiques qui auraient ruiné tous les efforts de l'agriculteur pendant la saison des labours et des semailles. Ed.] La Torah, à juste titre, a légiféré qu'en plus des deux pains cuits à partir du blé nouveau, qui ne se trouvaient pas sur l'autel, bien sûr, 2 moutons, etc., étaient également offerts comme expliqué en relation avec שלמי תודה, offrandes d'action de grâce dans Lévitique 7,13."
+    },
+    {
+      "ref": "Leviticus 23:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:21",
+      "fr": "Cependant, même si aucune forme d'offrande sacrificielle ne pouvait être offerte dans aucun des pays vers lesquels les Juifs ont finalement été exilés, la partie « comptage » de cette législation ne serait pas abandonnée pour cette raison."
+    },
+    {
+      "ref": "Leviticus 23:22",
+      "fr": "ובקצרכם, après avoir rendu grâce pour la récolte et son stockage réussi dans les granges, la Torah met en garde sur ce qui doit être fait pour garantir que le succès financier que représente cette récolte ne soit pas ruiné. C'est pourquoi il est ordonné à l'agriculteur de mettre de côté, ou tout simplement de ne pas récolter, les accessoires appelés לקט, שכחה, פאה, qui, selon les mots de nos sages dans Ketuvot 66, sont considérés comme מלח ממון חסר, ואמרי לה Oui. \"L'argent ne peut pas être salé (pour être mis en sécurité.)\" Certaines personnes, dans un jeu de mots, changent le mot חסר pour חסד, bonté de cœur, une sorte de charité\", suggérant que la seule façon de s'assurer que l'on ne perd pas son propre argent est de s'engager généreusement dans la distribution de la charité à ceux qui le méritent. La législation dans notre verset est alors cette assurance pour l'agriculteur de ne pas perdre sa récolte même après l'avoir déjà apportée dans la grange. אני ה' אלוקיכם, les nombreuses fonctions à facettes de D.ieu sont évoquées ici, c'est-à-dire que la supervision de D.ieu est nécessaire à toutes les étapes de la croissance de la récolte, ; glanages. Je traiterai de manière bénéfique ceux qui ont déjà démontré leur souci des autres en me conformant à la législation énoncée ici."
+    },
+    {
+      "ref": "Leviticus 23:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:24",
+      "fr": "זכרון תרועה, un souvenir de la t'ruah royale. Lorsqu’on jubile envers son roi, on utilise ces sons de trompettes ou de shofars pour démontrer une telle estime pour son roi. Comparez les Psaumes 81,2 הרניני לאלוקים עוזנו, הרנינו !, « suscitez la jubilation vers D.ieu, notre force, poussez un cri ! L’expression זכרון est une allusion au fait qu’à cette date D.ieu est assis sur le trône de justice, se souvenant des actes de chacun de ses sujets et les évaluant en tant que juge. C'est pourquoi le Talmud de Roch Hachana 8 nous appelle à réciter le verset 4 du chapitre des Psaumes mentionné ci-dessus qui dit תקעו בחודש שפר בכסא ליום חגנו, כי חוק לישראל הוא משפט לאלוקי יעקב, \"sonnez du cor à la nouvelle lune le jour où la lune est voilée, lors de notre jour de fête, car c'est un statut pour Israël, une décision du D.ieu de Yaakov.\" Ces jours-là, nous avons des raisons supplémentaires de nous réjouir du fait qu'Il est notre Roi, qui incline à la clémence, et qui nous trouvera probablement possédant suffisamment de mérite pour réussir cet examen de la façon dont nous avons mené notre vie au cours de l'année qui vient de s'achever. Isaïe exprime ces sentiments en se référant à D.ieu comme כי ה' שופטנו, ה' מחוקקנו, ה' מלכנו, « car l'Éternel est notre juge, l'Éternel est notre législateur, l'Éternel est notre roi » (Isaïe 33,22)."
+    },
+    {
+      "ref": "Leviticus 23:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:27",
+      "fr": "אך בעשור לחודש השביעי, même si tous les autres jours décrits dans ce chapitre comme מקראי קודש, il convient d'exprimer notre joie ces jours-là au moyen de nourriture et de boisson, comme nous le savons dans Néchemyah 8,10 où Ezra demande aux gens le jour de l'An אכלו משמנים ושתו ממתקים, « manger des aliments de choix et boire des boissons sucrées », le dixième de ce mois, le jour connu sous le nom de Yom Hakippourim, Jour des Expiations, est un jour consacré à la confession de nos péchés et un jour où une personne se confronte aux péchés dont elle s'est rendue coupable. Ce jour-là, il ne s’agit pas de se préoccuper d’autre chose que de la quête du pardon de D.ieu et de l’expiation de ses péchés. Au lieu de manger et de boire, l'ordre du jour a été mieux exprimé dans Isaïe 58,3 הן ביום צומכם תמצאו חפץ וכל עצביכם תנגושו, « parce que le jour de votre jeûne, vous veillez à vos affaires et vous opprimez vos ouvriers ! [Le prophète châtie sarcastiquement les gens qui, tout en jeûnant techniquement, s'attendent à ce que D.ieu écoute leurs demandes pendant qu'ils continuent dans leurs mauvaises voies, en ne faisant que suivre les mouvements de leur observance religieuse. Éd.]"
+    },
+    {
+      "ref": "Leviticus 23:28",
+      "fr": "Étant donné que la plupart des gens coupables de ne pas pratiquer le renoncement ne le font pas pour ennuyer D.ieu, mais parce qu'ils ne peuvent résister à l'attrait de la gratification qui leur fait signe, alors que la plupart des gens qui violent le commandement de ne pas travailler ce jour-là le font parce qu'ils veulent montrer leur indépendance à l'égard des préceptes de D.ieu, la punition du karet est prévue pour manger ou boire le jour des Expiations, tandis que la destruction de l'âme est prévue pour ceux qui violent délibérément l'interdiction de travail applicable. ce jour-là."
+    },
+    {
+      "ref": "Leviticus 23:29",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:30",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:31",
+      "fr": "בכל מושבותיכם, même si de nos jours il n'existe aucun moyen d'obtenir l'expiation au moyen de l'autel qui fait partie des commandements applicables à ce jour."
+    },
+    {
+      "ref": "Leviticus 23:32",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:33",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:34",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:35",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:36",
+      "fr": "C'est vrai. Le concept de עצירה est quelque chose à part du concept de שביתות. Cette dernière consiste à s'abstenir des activités profanes ordinaires, tandis que la première implique de consacrer un certain temps à accomplir des tâches saintes, à étudier la Torah, à s'engager dans la prière commune, etc. L'expression נעצר apparaît dans ce contexte dans Samuel I 21,8 ושם איש מעבדי שאול ביום ההוא נעצר לפני ה', \"et il y avait un homme, l'un des fonctionnaires de Saül, détenu devant le Seigneur, etc.\" Dans Yoel 1,14, nous trouvons le vers קדשו יום, עצרו עצרה, « célébrez un jeûne, proclamez une assemblée ! » Dans Rois II 10,20, nous trouvons que Yehu a proclamé une assemblée en l'honneur du Baal, [il voulait s'assurer qu'il pourrait tuer tous ceux qui adoreraient le Baal, ce qu'il a réussi à faire, éradiquant ce culte d'Israël. Ed.] L’invitation disait : קדשו עצרה לבעל, « proclamez une sainte assemblée pour le Baal ». C’est dans ce sens que la Torah désigne le lendemain du septième jour de la fête de Souccot comme Atzeret, une assemblée pour D.ieu, les pèlerins de la fête de Souccot à Jérusalem y étant détenus pendant un jour supplémentaire. La joie de ce jour-là devait être une joie inspirée et orientée par la Torah, semblable à celle où David dit dans les Psaumes 149,2 ישמח ישראל בעושיו : « Israël se réjouit en son Créateur ». Nous constatons que la description des dîners de famille organisés dans la maison des enfants de Job, ses sept fils et ses trois filles, à intervalles réguliers, de telles réunions festives avaient lieu. Le lendemain de la fin de ces festivités, leur père leur envoyait un message de se sanctifier et de se lever tôt le matin pour offrir des holocaustes pour expier la possibilité qu'ils aient pu être négligents et avoir commis un méfait qui aurait déplu à leur D.ieu. (Job 1,4-5) Le septième jour après la sortie d'Egypte, les Israélites prirent le temps de chanter un chant de remerciement à D.ieu pour leur délivrance finale des Egyptiens qui les poursuivaient. Par la suite, en commémoration de cette occasion, la Torah a décrété que ce jour deviendrait un עצרת, un jour consacré à la contemplation du grand miracle de cette première occasion. (Comparez Exode 15,1 et Deutéronome 16,8). Encore une fois, le cinquantième jour après l’Exode, lorsque les Israélites réunis dans une grande assemblée au Mont Sinaï passèrent la journée à contempler leur élévation au rang de peuple presque surnaturel, ce jour fut également observé par la suite comme un עצרת, bien que dans la Torah ce jour ne soit jamais mentionné comme tel. La raison pour laquelle la Torah elle-même ne fait pas référence à ce jour comme un עצרת pourrait être le fait que peu de temps après, tous les accomplissements de ce jour furent perdus et que le peuple juif reçut même l’ordre de se dépouiller des « bijoux » qu’il avait portés en commémoration de ce jour merveilleux. (Exode 33,6)"
+    },
+    {
+      "ref": "Leviticus 23:37",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:38",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:39",
+      "fr": "אך בחמשה עשר יום, après que la Torah ait discuté du sujet des fêtes en termes généraux, c'est-à-dire que leur dénominateur commun étant que ces jours sont appelés מקראי קודש au cours desquels des offrandes par le feu sur l'autel sont offertes sur l'autel en présence du Seigneur, la Torah continue 'אך בחמשה עשר יום וגו, en montrant que la fête de Souccot est différente de toutes les autres fêtes : 1) le huitième jour de cette fête est appelé comme nous le savons de וביום השמיני שבתון, que le huitième jour de cette séquence de jours doit être considéré comme un une sorte de sabbat. Un tel concept n'existe pas en tant que jour spécial dans la « semaine », ni lors de la fête des matsot, ni en relation avec les mois ou les années. Parmi tous ces éléments, seul le chiffre sept a une connotation de sainteté, et non le chiffre huit. 2) C'est la seule fête au cours de laquelle le Juif doit changer de maison, quitter sa maison habituelle, comme indiqué clairement dans le verset 42. 3) elle exige que chaque Juif prenne quatre plantes de catégories spécifiques et les agite dans les 6 directions de la terre. (comparez le verset 40)"
+    },
+    {
+      "ref": "Leviticus 23:40",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:41",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:42",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 23:43",
+      "fr": "אני ה' אלוקיכם, le sens de la déclaration, répétée encore et encore, est que la raison pour laquelle D.ieu nous demande ces actes symboliques est qu'en les accomplissant, nous nous assurons qu'Il ne détournera jamais de nous Ses yeux bienveillants."
+    },
+    {
+      "ref": "Leviticus 23:44",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:2",
+      "fr": "'צו את בני ישראל ויקחו אליך שמן וגו, après que l'huile qui avait été donnée avant la construction et l'érection du Tabernacle, D.ieu a ordonné que les Israélites pour toutes les générations futures fournissent cette huile comme contribution."
+    },
+    {
+      "ref": "Leviticus 24:3",
+      "fr": "יערוך אותו אהרן, même si la procédure d'allumage de la Menorah, ainsi que la présentation de l'offrande quotidienne d'encens pouvaient être effectuées par n'importe quel prêtre de la liste au cours des générations futures selon la tradition des sages (Sifrey Behaalotcha 60), cette procédure est liée à Aaron, étant donné que pendant tout le temps que les Juifs étaient dans le désert, les procédures impliquant le service du Temple étaient sur un « Jour des Expiations » parce que la Torah a lié la procédure à la ligne (17,2) « car je me manifesterai au-dessus du kapporet le jour et la colonne de feu sera visible la nuit », condition qui a pris fin lorsque le peuple juif s'est installé en terre d'Israël. Il s'ensuivait que les procédures qui se déroulaient à l'intérieur du sanctuaire seraient la prérogative exclusive du Grand Prêtre durant ces années. Ces procédures seraient effectuées à l'avenir par le Grand Prêtre le jour de l'Expiation."
+    },
+    {
+      "ref": "Leviticus 24:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:5",
+      "fr": "En fait, ce commandement ne s'appliquait probablement qu'après que le don initial de cette farine qui avait été apporté lors de la construction du Tabernacle ait été épuisé. Ce montant initial avait été inclus dans ce qui était mentionné dans Exode 39.33. [on se demande d'où venait toute la farine pendant ces années où les Juifs, dans le désert, étaient coupés de tout contact avec les nations environnantes, de sorte que même leur emplacement exact était inconnu. Éd.]"
+    },
+    {
+      "ref": "Leviticus 24:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:10",
+      "fr": "והוא בן איש מצרי, c'est pourquoi il a eu l'audace de maudire le tétragramme ; aucun des Israélites n’aurait manqué autant de respect."
+    },
+    {
+      "ref": "Leviticus 24:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:15",
+      "fr": "כי יקלל אלוקיו, et transgresse ainsi le commandement négatif אלוקים לא תקלל, (Exode 22,27) ונשא עונו, il devra porter le fardeau de son châtiment. En d’autres termes, il s’agit d’un problème entre lui et son Créateur, aucun tribunal humain n’étant impliqué, étant donné que le péché a été commis en privé et qu’il n’a pas maudit l’essence de D.ieu mais un ou plusieurs de ses attributs. Ce « le laisser à D.ieu » s’applique également lorsque le blasphémateur « n’a » maudit qu’un des attributs par lesquels D.ieu est connu."
+    },
+    {
+      "ref": "Leviticus 24:16",
+      "fr": "En réalité, la punition de quelqu'un maudissant le tétragramme n'est pas comparable à la punition de quelqu'un qui a « simplement » maudit l'un des attributs de D.ieu. L'individu décrit dans notre verset sera exécuté publiquement par lapidation, et tous ceux qui l'auront entendu commettre ce crime devront participer activement à l'exécution. כגר כאזרח, et le type de sanction appliquée au blasphémateur dans notre paragraphe n'était pas particulièrement sévère étant donné que le coupable avait été converti. Les Juifs de naissance et les convertis sont traités exactement de la même manière dans la législation relative au blasphème."
+    },
+    {
+      "ref": "Leviticus 24:17",
+      "fr": "ואיש כי יכה כל נפש אדם, étant donné que chez certaines nations, maudire la divinité est considéré comme un péché très mineur comme nous le savons d'Isaïe 8,21 והתקצף וקלל במלכו ובאלוהיו, \"et il fera rage contre son roi et sa divinité, etc.;\" nous savons par nos sages du Sanhédrin 60 que lorsqu’on entend un gentil blasphémer (même contre notre D.ieu), on n’a pas besoin de déchirer son vêtement en signe de deuil d’avoir été témoin d’un tel blasphème, car si ce n’était pas la halakha, nos vêtements seraient constitués d’innombrables lambeaux. En gardant cela à l’esprit, nous aurions pu supposer que la malédiction prononcée par le blasphémateur dans notre paragraphe aurait dû être considérée comme hors de propos. Cela est d’autant plus vrai que nous sommes tous conscients que blasphémer contre D.ieu ne Lui fait aucun mal, c’est un exercice de frustration de l’homme, et non quelque chose de nuisible à l’objet de son blasphème. La Torah explique que la raison pour laquelle ce blasphème est traité comme s’il s’agissait de quelque chose de substantiel, à D.ieu nous en préserve, doit être considérée dans un contexte différent. Nous savons, grâce à la législation de la Torah, que tout acte délibéré de désobéissance contre D.ieu est fondamentalement un acte d’insurrection, de mutinerie, et nous pourrions nous attendre à ce qu’il soit traité comme tel, c’est-à-dire comme équivalant à perdre la vie. Néanmoins, la Torah a démontré que certains péchés délibérés entraînent des punitions très différentes de celles d’autres. Fondamentalement, la Torah prévoit des sanctions financières, des châtiments corporels et la peine de mort. Cela prouve clairement que D.ieu considère les différents péchés comme différant par le degré d’insurrection, ou comme étant dus à différents degrés de provocation vécus par le pécheur. Tuer un être humain mérite fondamentalement la peine de mort, c'est-à-dire que rien de moins signifierait que la vie du tueur vaut plus que celle de sa victime. Quand quelqu'un tue un animal, ce n'est pas comparable, de sorte que la sanction est financière, restitution au propriétaire de ce qu'il a perdu. Lorsque quelqu'un cause un préjudice (délibérément), si le préjudice a été causé à un autre être humain, le coupable doit être puni de plein droit par une punition corporelle, à moins qu'il ne soit physiquement trop faible pour supporter une telle punition. Voyant qu’il est impossible d’imposer un équivalent exact au préjudice causé, les sages ont décidé de lui substituer une sanction financière. Il ne faut pas croire que le délinquant s'en sort à la légère, car la compensation financière comprend cinq catégories différentes de préjudices subis par la personne lésée, y compris même son orgueil blessé. (comparer Baba Kamma 83) Lorsque quelqu'un blesse un animal, la sanction financière est considérablement plus légère. Lorsqu’une personne cause un préjudice à un être humain, nous faisons également la distinction entre un être humain et un autre. S'il a blessé son père ou sa mère, il est coupable de la peine de mort, alors qu'une blessure de même gravité infligée à quelqu'un d'autre n'entraîne qu'une sanction financière ; lorsqu'il blesse un animal, il est évident que la sanction ne serait que financière. Maudire le père ou la mère n’est pas mentionné ici dans la Torah, car il s’agit d’une catégorie tout à fait différente, car cela ne peut pas être comparé au blasphème, paroles qui en elles-mêmes n’ont aucun effet, car que peut faire l’homme pour nuire à D.ieu ? Les parents peuvent être blessés par les malédictions de leurs enfants, mais pas nécessairement de manière visible. [Certaines formulations sont les miennes. Éd.]"
+    },
+    {
+      "ref": "Leviticus 24:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 24:22",
+      "fr": "כגר כאזרח יהיה, car moi, le Seigneur votre Dieu, je suis tout autant le Dieu du converti (comparer Job 34,19)."
+    },
+    {
+      "ref": "Leviticus 24:23",
+      "fr": "Bien sûr, ils ne l'ont pas lapidé par vengeance, ou parce qu'ils détestaient l'individu lapidé ; ils l’ont fait simplement pour accomplir le commandement de D.ieu."
+    }
+  ]
+}

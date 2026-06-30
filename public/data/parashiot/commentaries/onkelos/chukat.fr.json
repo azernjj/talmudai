@@ -1,0 +1,356 @@
+{
+  "name": "Houkat",
+  "range": "Numbers 19:1-22:1",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/chukat.json",
+  "verses": [
+    {
+      "ref": "Numbers 19:1",
+      "fr": "Adonoy a parlé à Moshe et Aharon, en disant."
+    },
+    {
+      "ref": "Numbers 19:2",
+      "fr": "C'est le statut de la Torah qu'Adonoy a commandé, en disant : Parlez à Bnei Yisroel pour qu'ils vous emmènent une vache rouge, parfaite, sans défaut, sur laquelle aucun joug n'a été imposé."
+    },
+    {
+      "ref": "Numbers 19:3",
+      "fr": "Donnez-le à Elozor le kohein ; il le sortira du camp, et quelqu'un l'égorgera en sa présence."
+    },
+    {
+      "ref": "Numbers 19:4",
+      "fr": "Elozor le kohéin prendra un peu de son sang avec son doigt et l'aspergera sept fois directement face à la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 19:5",
+      "fr": "Quelqu'un brûlera la vache en sa présence ; sa peau, sa chair, son sang et ses déchets (qui sont dans ses intestins) seront brûlés."
+    },
+    {
+      "ref": "Numbers 19:6",
+      "fr": "Le kohein prendra un morceau de bois de cèdre, d'hysope et de laine cramoisie et les jettera dans le feu de la vache."
+    },
+    {
+      "ref": "Numbers 19:7",
+      "fr": "Ensuite, le kohein lavera ses vêtements et baignera son corps dans l'eau, puis il pourra entrer dans le camp ; [cependant,] le kohein sera impur jusqu'au soir."
+    },
+    {
+      "ref": "Numbers 19:8",
+      "fr": "Aussi, celui qui le brûle doit laver ses vêtements et baigner son corps dans l'eau ; il restera impur jusqu'au soir."
+    },
+    {
+      "ref": "Numbers 19:9",
+      "fr": "Celui qui est rituellement pur rassemblera les cendres de la vache et les déposera hors du camp dans un endroit pur ; il restera un souvenir pour la communauté de Bnei Yisroel pour l'aspersion d'eau pour la purification."
+    },
+    {
+      "ref": "Numbers 19:10",
+      "fr": "Celui qui ramasse les cendres de la vache lavera ses vêtements et restera impur jusqu'au soir ; ce sera pour les Bnei Yisroel et pour le prosélyte qui vit parmi eux une loi éternelle."
+    },
+    {
+      "ref": "Numbers 19:11",
+      "fr": "Celui qui touche le cadavre d’une âme [humaine] deviendra impur pendant sept jours."
+    },
+    {
+      "ref": "Numbers 19:12",
+      "fr": "Il s'en purifiera le troisième jour et le septième jour, afin de devenir pur ; s'il ne se fait pas purifier [être aspergé] le troisième jour et le septième jour, il ne deviendra pas pur."
+    },
+    {
+      "ref": "Numbers 19:13",
+      "fr": "Quiconque touche le cadavre d'une âme [humaine], qui est morte et qui n'a pas été purifiée [est aspergé], souille le Mishkan d'Adonoy (s'il y entre), cette âme sera retranchée d'Ysroel ; parce que l'eau d'aspersion n'a pas été aspergée sur lui, il sera impur, ses restes d'impureté."
+    },
+    {
+      "ref": "Numbers 19:14",
+      "fr": "Telle est la loi [concernant] celui qui meurt sous une tente ; quiconque entrera dans la tente et tout ce qui s'y trouve sera impur pendant sept jours."
+    },
+    {
+      "ref": "Numbers 19:15",
+      "fr": "Tout ustensile ouvert [en faïence] sur lequel aucun couvercle n'est fixé sera impur."
+    },
+    {
+      "ref": "Numbers 19:16",
+      "fr": "Quiconque touchera, en plein champ, une personne tuée par l'épée, un cadavre, un os humain ou une tombe, sera impur pendant sept jours."
+    },
+    {
+      "ref": "Numbers 19:17",
+      "fr": "Ils prendront pour l'impur les cendres de l'holocauste de purification et il mettra sur eux de l'eau vive dans un vase."
+    },
+    {
+      "ref": "Numbers 19:18",
+      "fr": "Il prendra de l'hysope et la trempera dans l'eau ; [cela est fait par] une personne rituellement pure, elle en aspergera sur la tente, sur tous les ustensiles et les personnes qui s'y trouvaient, et sur quiconque aura touché l'os, la victime du meurtre, le cadavre ou la tombe."
+    },
+    {
+      "ref": "Numbers 19:19",
+      "fr": "La personne rituellement pure fera l'aspersion sur la personne impure le troisième jour et le septième jour ; il le purifiera le septième jour, lorsqu'il devra laver ses vêtements et se laver dans l'eau, puis il sera pur le soir."
+    },
+    {
+      "ref": "Numbers 19:20",
+      "fr": "Une personne qui est devenue rituellement impure [et entre dans le Sanctuaire] sans s'être purifiée [après avoir été aspergée], cette âme [personne] sera retranchée de la communauté ; car il a souillé le sanctuaire d'Adonoy, l'eau d'aspersion n'a pas été aspergée sur lui, il reste impur."
+    },
+    {
+      "ref": "Numbers 19:21",
+      "fr": "Ce sera le statut pour tous les temps ; one who sprinkles the sprinkling waters shall wash his garments, and one who touches the sprinkling waters shall remain unclean until the evening."
+    },
+    {
+      "ref": "Numbers 19:22",
+      "fr": "Tout ce que touche une personne impure deviendra impur ; et quiconque le touchera sera rituellement impur jusqu'au soir."
+    },
+    {
+      "ref": "Numbers 20:1",
+      "fr": "Toute la communauté de Bnei Yisroel arriva au désert de Tzin le premier mois. Le peuple s'installa à Kodeish [Rekom], et Miriam mourut et y fut enterrée."
+    },
+    {
+      "ref": "Numbers 20:2",
+      "fr": "Il n'y avait pas d'eau pour la communauté et ils se rassemblèrent contre Moshe et Aharon."
+    },
+    {
+      "ref": "Numbers 20:3",
+      "fr": "Les gens se disputèrent avec Moshe et dirent : « Si seulement nous étions morts de la mort de nos frères avant Adonoy."
+    },
+    {
+      "ref": "Numbers 20:4",
+      "fr": "Pourquoi avez-vous amené l’assemblée d’Adonoy dans ce désert pour que nous et nos troupeaux y mourions ?"
+    },
+    {
+      "ref": "Numbers 20:5",
+      "fr": "Pourquoi nous as-tu fait sortir d’Égypte et nous avoir amenés dans cet endroit terrible ? Ce n'est pas un endroit [propre] pour les semences, [ni pour] les figues, les raisins ou les grenades ; et il n'y a pas d'eau à boire !"
+    },
+    {
+      "ref": "Numbers 20:6",
+      "fr": "Moché et Aaron s'éloignèrent de l'assemblée jusqu'à l'entrée de la tente d'assignation et tombèrent la face contre terre ; la gloire d'Adonoy leur apparut."
+    },
+    {
+      "ref": "Numbers 20:7",
+      "fr": "Adonoy a parlé à Moshe, disant."
+    },
+    {
+      "ref": "Numbers 20:8",
+      "fr": "\"Prends le bâton et rassemble la communauté, toi et Aharon ton frère, et parle au rocher en leur présence pour qu'il donne son eau; tu feras alors sortir pour eux de l'eau du rocher, et tu donneras à boire à la communauté et à son bétail.\""
+    },
+    {
+      "ref": "Numbers 20:9",
+      "fr": "Moché prit le bâton devant Adonoy, comme Il le lui avait demandé."
+    },
+    {
+      "ref": "Numbers 20:10",
+      "fr": "Moché et Aharon rassemblèrent la communauté devant le rocher ; [Moshe] leur dit : \"Écoutez, vous les rebelles ! Pouvons-nous extraire de l'eau de ce rocher pour vous ?\""
+    },
+    {
+      "ref": "Numbers 20:11",
+      "fr": "Et Moshe leva la main et frappa deux fois le rocher avec son bâton ; l'eau coulait en abondance et la communauté et son bétail buvaient."
+    },
+    {
+      "ref": "Numbers 20:12",
+      "fr": "Adonoy dit à Moshe et Aharon : « Parce que vous n'avez pas cru en moi [ma parole] pour me sanctifier en présence de Bnei Yisroel ; c'est pourquoi vous n'amenerez pas cette congrégation dans le pays que je leur ai donné. »"
+    },
+    {
+      "ref": "Numbers 20:13",
+      "fr": "Ce sont les eaux de dispute avec lesquelles les Bnei Yisroel ont combattu [devant] Adonoy, et Il a été sanctifié par elles."
+    },
+    {
+      "ref": "Numbers 20:14",
+      "fr": "Moshe envoya des émissaires de Kodeish [Rekom] au roi d'Edom (en disant) : « C'est ce que déclare votre frère Yisroel ; vous connaissez toutes les difficultés que nous avons rencontrées."
+    },
+    {
+      "ref": "Numbers 20:15",
+      "fr": "Nos ancêtres sont descendus en Égypte et nous sommes restés longtemps en Égypte ; les Égyptiens nous ont maltraités, nous et nos ancêtres."
+    },
+    {
+      "ref": "Numbers 20:16",
+      "fr": "Alors nous avons crié [prié] à Adonoy, et il a entendu notre voix [accepte notre prière], il a envoyé un émissaire et nous a fait sortir d'Egypte ; nous sommes maintenant à Kodeish [Rekom], une ville située à la limite de votre frontière."
+    },
+    {
+      "ref": "Numbers 20:17",
+      "fr": "S'il vous plaît, laissez-nous traverser votre pays, nous ne traverserons aucun champ ni vigne, et nous ne boirons pas l'eau de puits ; nous suivrons la route du roi, nous ne nous détournerons ni à droite ni à gauche jusqu'à ce que nous ayons traversé votre territoire."
+    },
+    {
+      "ref": "Numbers 20:18",
+      "fr": "Édom répondit : « Tu ne passeras pas par moi (mon pays) [ma frontière], de peur que je ne sorte contre toi [pour te tuer] avec l'épée ! »"
+    },
+    {
+      "ref": "Numbers 20:19",
+      "fr": "Bnei Yisroel a déclaré : « Nous monterons par la route [goudronnée], et si nous ou notre bétail buvons votre eau, nous le paierons, ce n'est rien, nous voulons seulement [sans mauvaise intention] passer par là à pied."
+    },
+    {
+      "ref": "Numbers 20:20",
+      "fr": "Alors (Édom) répondit : « Ne passez pas par là ! » Edom est venu affronter [Bnei Yisroel] avec un nombre massif de personnes [une armée] et une main forte."
+    },
+    {
+      "ref": "Numbers 20:21",
+      "fr": "Edom refusa de permettre à Yisroel de traverser son territoire et Yisroel se détourna de lui."
+    },
+    {
+      "ref": "Numbers 20:22",
+      "fr": "Ils partirent de Kodeish, et toute la communauté des Bnei Yisroel vint au mont Hor."
+    },
+    {
+      "ref": "Numbers 20:23",
+      "fr": "Adonoï parla à Moché et à Aaron, sur la montagne de Hor, à la frontière du pays d'Édom, en disant :"
+    },
+    {
+      "ref": "Numbers 20:24",
+      "fr": "« Aharon va maintenant être rassemblé (mourir) auprès de son peuple, car il n'entrera pas dans le pays que j'ai donné à Bnei Yisroel, parce que vous avez défié ma parole aux eaux de la dispute."
+    },
+    {
+      "ref": "Numbers 20:25",
+      "fr": "Prends Aharon et son fils Elozor, et fais-les monter sur la montagne de Hor."
+    },
+    {
+      "ref": "Numbers 20:26",
+      "fr": "Enlève les vêtements d'Aharon et habille-en son fils Elozor. Aaron sera rassemblé et y mourra."
+    },
+    {
+      "ref": "Numbers 20:27",
+      "fr": "Moshe fit ce qu'Adonoy commandait ; et ils gravirent la montagne de Hor, en présence de toute la communauté."
+    },
+    {
+      "ref": "Numbers 20:28",
+      "fr": "Moshe ôta ensuite les vêtements d'Aharon et en habilla le fils d'Aharon, Elozor ; Aharon mourut là au sommet de la montagne, et Moché et Elozor descendirent de la montagne."
+    },
+    {
+      "ref": "Numbers 20:29",
+      "fr": "Toute la communauté vit qu’Aharon était mort ; et ils pleurèrent Aaron pendant trente jours, et toute la maison d'Israël."
+    },
+    {
+      "ref": "Numbers 21:1",
+      "fr": "Le roi cananéen d'Arad, qui vivait dans le sud, apprit qu'Israël était venu par la route des espions ; il a attaqué [a fait la guerre à] Yisroel, et il leur a pris un captif."
+    },
+    {
+      "ref": "Numbers 21:2",
+      "fr": "Yisroel a fait un vœu à [avant] Adonoy et a dit : « Si tu livres ce peuple entre mes mains, je consacrerai ses villes. »"
+    },
+    {
+      "ref": "Numbers 21:3",
+      "fr": "Adonoy entendit la voix [les prières] d'Israël, et Il livra les Cananéens (entre les mains d'Israël), et il (Yisroel) les détruisit et [consacra] leurs villes ; la région s'appelait Chormo."
+    },
+    {
+      "ref": "Numbers 21:4",
+      "fr": "Ils partirent ensuite du mont Hor par la route de la mer des Roseaux, pour faire le tour du pays d'Édom ; voyager était insupportable pour [l'âme du] peuple."
+    },
+    {
+      "ref": "Numbers 21:5",
+      "fr": "Le peuple s'est élevé contre [la parole de] Dieu et [ils ont combattu] Moshe : \"Pourquoi nous as-tu fait monter hors d'Egypte pour mourir dans le désert ? Il n'y a ni nourriture ni eau, et nous sommes dégoûtés de ce pain pourri [qui se mange simplement]\"."
+    },
+    {
+      "ref": "Numbers 21:6",
+      "fr": "Adonoï envoya contre le peuple des serpents dévoreurs, qui mordirent le peuple, et beaucoup d'habitants d'Israël moururent."
+    },
+    {
+      "ref": "Numbers 21:7",
+      "fr": "Les gens s'approchèrent de Moshe et lui dirent : « Nous avons péché en parlant [en nous plaignant devant] Adonoy et en [en combattant] contre vous ; priez [devant] Adonoy pour qu'il éloigne de nous les serpents. » Moshe a prié pour le peuple."
+    },
+    {
+      "ref": "Numbers 21:8",
+      "fr": "Adonoy dit à Moshe : « Fais-toi [l'image d'] un serpent dévorant et place-le sur une bannière ; et quiconque sera mordu le regardera et vivra. »"
+    },
+    {
+      "ref": "Numbers 21:9",
+      "fr": "Moshe a fabriqué un serpent de cuivre et l'a placé sur la bannière ; Chaque fois qu'un serpent mordait une personne, celle-ci regardait le serpent de cuivre et vivait."
+    },
+    {
+      "ref": "Numbers 21:10",
+      "fr": "Les Bnei Yisroel continuèrent leur voyage et campèrent à Ovos."
+    },
+    {
+      "ref": "Numbers 21:11",
+      "fr": "Ils partirent d'Ovos et campèrent dans les passages déserts du désert, face à Moav, à l'est du soleil."
+    },
+    {
+      "ref": "Numbers 21:12",
+      "fr": "Ils partirent de là et campèrent dans la vallée de Zered."
+    },
+    {
+      "ref": "Numbers 21:13",
+      "fr": "Ils partirent de là et campèrent en face d'Arnon, dans le désert, qui s'étend depuis la frontière des Émoréens ; Arnon étant la frontière Moav entre Moav et les Émoréens."
+    },
+    {
+      "ref": "Numbers 21:14",
+      "fr": "À ce sujet, il sera raconté dans le Livre des Guerres d'Adonoy : « Il donna aux Roseaux (Mer) et [la puissance aux] vallées de l'Arnon."
+    },
+    {
+      "ref": "Numbers 21:15",
+      "fr": "Et le déversement dans les vallées quand il se tourna pour habiter à Ar, puis s'appuya sur la frontière de Moav."
+    },
+    {
+      "ref": "Numbers 21:16",
+      "fr": "De là, au puits ; c’est le puits dont Adonoy dit à Moshe : « Rassemble le peuple et je lui donnerai de l’eau. »"
+    },
+    {
+      "ref": "Numbers 21:17",
+      "fr": "C’est alors qu’Israël a chanté ce chant [de louange] : « Lève-toi, eh bien, chante-le !"
+    },
+    {
+      "ref": "Numbers 21:18",
+      "fr": "Le puits creusé par les princes, que les nobles de la nation creusaient, par l'intermédiaire du législateur, avec leurs bâtons ; du désert, un cadeau [leur fut donné]."
+    },
+    {
+      "ref": "Numbers 21:19",
+      "fr": "Le don [qui leur était donné] (voyageait) jusqu'à la vallée, et de la vallée [s'élevait avec eux] vers les hauteurs."
+    },
+    {
+      "ref": "Numbers 21:20",
+      "fr": "Et depuis les hauteurs jusqu'à la vallée qui est dans le champ de Moav, au sommet du pic qui domine les déserts."
+    },
+    {
+      "ref": "Numbers 21:21",
+      "fr": "Yisroel envoya des émissaires à Sichon, roi des Émoréens, pour lui dire."
+    },
+    {
+      "ref": "Numbers 21:22",
+      "fr": "\"Laissez-moi traverser votre pays, nous ne nous détournerons pas dans les champs et les vignes, nous ne boirons pas l'eau des puits; nous suivrons la route du Roi jusqu'à ce que nous ayons traversé votre territoire.\""
+    },
+    {
+      "ref": "Numbers 21:23",
+      "fr": "Mais Sichon n'a pas permis à Yisroel de traverser son territoire ; Sichon rassembla tout son peuple et sortit contre Yisroel dans le désert ; il est venu à Yohatz et a attaqué [a fait la guerre à] Yisroel."
+    },
+    {
+      "ref": "Numbers 21:24",
+      "fr": "Yisroel le battit au fil de l'épée et prit possession de son pays ; depuis l'Arnon jusqu'au Yabok, jusqu'à la frontière d'Amon, car la frontière d'Amon était imprenable."
+    },
+    {
+      "ref": "Numbers 21:25",
+      "fr": "Yisroel a pris [capturé] toutes ces villes ; Yisroel s'est installé dans toutes les villes des Émoréens, à Cheshbon et dans toutes ses filles [villages]."
+    },
+    {
+      "ref": "Numbers 21:26",
+      "fr": "Car Cheshbon était alors une ville de Sichon, roi des Émoréens, et il avait fait la guerre au premier roi de Moav et lui avait pris tout son pays jusqu'à l'Arnon."
+    },
+    {
+      "ref": "Numbers 21:27",
+      "fr": "À ce sujet, les conteurs de la parabole disent : « Venez à Cheshbon, qu'elle soit bâtie et établie comme la ville de Sichon."
+    },
+    {
+      "ref": "Numbers 21:28",
+      "fr": "Car [un vent d'est aussi fort] qu'un feu sortait de Cheshbon, [fait la guerre comme] une flamme de la capitale de Sichon ; il a consumé [tuant la nation qui habitait] Ar [Lechoyas], de Moav, [tuant] les maîtres [prêtres qui servent dans la maison d'adoration des idoles] des hauteurs d'Arnon."
+    },
+    {
+      "ref": "Numbers 21:29",
+      "fr": "Malheur à toi, ô Moav, tu es détruit, peuple de [qui servent] Kemosh, il a rendu tes fils réfugiés, et tes filles captives, de Sichon, roi d'Emori."
+    },
+    {
+      "ref": "Numbers 21:30",
+      "fr": "Leur royaume fut déraciné depuis Cheshbon jusqu'à Divon [dont le règne est terminé] ; nous les avons désolés jusqu'à Nofach, près de Meidva."
+    },
+    {
+      "ref": "Numbers 21:31",
+      "fr": "Yisroel s'installa au pays des Émoréens."
+    },
+    {
+      "ref": "Numbers 21:32",
+      "fr": "Moché envoya des hommes pour espionner Yazer, et ils prirent les villages environnants et chassèrent les Émoréens qui s'y trouvaient."
+    },
+    {
+      "ref": "Numbers 21:33",
+      "fr": "Ils se tournèrent alors et se dirigèrent vers le Bashan [Masnon] ; et Og, roi du Basan [Masnon], sortit contre eux avec tout son peuple, pour faire la guerre à Edréï."
+    },
+    {
+      "ref": "Numbers 21:34",
+      "fr": "Adonoy dit à Moshe : « N'aie pas peur de lui, car je l'ai livré entre tes mains, ainsi que tout son peuple et son territoire ; fais-lui ce que tu as fait à Sichon, roi des Émoréens, qui habite à Cheshbon. »"
+    },
+    {
+      "ref": "Numbers 21:35",
+      "fr": "Et ils le tuèrent (Og), ses fils et tout son peuple, ne laissant aucun survivant ; et ils prirent possession de son pays."
+    },
+    {
+      "ref": "Numbers 22:1",
+      "fr": "Les Bnei Yisroel voyageaient et campaient dans les plaines occidentales de Moav, de l'autre côté du Yardein depuis Yereicho."
+    }
+  ]
+}

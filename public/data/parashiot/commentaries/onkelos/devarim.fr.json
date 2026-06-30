@@ -1,0 +1,428 @@
+{
+  "name": "Devarim",
+  "range": "Deuteronomy 1:1-3:22",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/devarim.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 1:1",
+      "fr": "Ce sont les paroles que Moshe adressa à tout Israël de l’autre côté du Yardein ; [comme il les avait] [réprimandés car ils avaient péché] dans le désert — [et provoqué (Hachem) à la colère] dans la plaine d'Arava face à [la mer de] Souf ; [et comme il l'avait fait] entre Poron [où ils ont méprisé le mon] et Tofel et Lovon [où ils ont provoqué la colère à propos de la viande] et Chatzeiros et Di Zohov [parce qu'ils ont fait le veau d'or]."
+    },
+    {
+      "ref": "Deuteronomy 1:2",
+      "fr": "[Un voyage de] onze jours [durée du voyage] depuis Choreiv par la route du mont Seir, jusqu'à Kadeish Barnei'a [Rekam Geyah]."
+    },
+    {
+      "ref": "Deuteronomy 1:3",
+      "fr": "[À partir de] la quarantième année, le onzième mois, le premier du mois, Moshe s'adressa à Bnei Yisroel avec tous les détails qu'Adonoy lui avait ordonné de leur dire."
+    },
+    {
+      "ref": "Deuteronomy 1:4",
+      "fr": "Après avoir frappé Sichon, roi des Émoréens, qui habitait à Cheshbon ; et Og, roi du Boshon [Masnan], qui vivait à Ashtoros, à Edrei."
+    },
+    {
+      "ref": "Deuteronomy 1:5",
+      "fr": "De l’autre côté du Yardein, au pays de Moav, Moshe commença à élucider [les enseignements de] cette Torah comme suit :"
+    },
+    {
+      "ref": "Deuteronomy 1:6",
+      "fr": "Adonoy, notre Dieu, nous a adressé la parole à Choreiv et nous a dit : « Assez de vivre sur cette montagne !"
+    },
+    {
+      "ref": "Deuteronomy 1:7",
+      "fr": "Tournez-vous et voyagez par vous-mêmes, et arrivez à la colline [région] d'Émoréenne et à tous ses voisins [lieux habitables], dans la plaine, dans la montagne, dans la plaine, dans le Néguev et sur le littoral ; le pays des Cananéens et le Liban, jusqu'au grand fleuve, l'Euphrate."
+    },
+    {
+      "ref": "Deuteronomy 1:8",
+      "fr": "Voyez, j'ai mis le pays devant vous ; venez et héritez du pays qu'Adonoï a juré à vos ancêtres, à Avrohom, à Itschok et à Yaakov, de leur donner ainsi qu'à leurs descendants après eux.''"
+    },
+    {
+      "ref": "Deuteronomy 1:9",
+      "fr": "Je vous ai dit à ce moment-là : « Je ne peux pas vous porter seul."
+    },
+    {
+      "ref": "Deuteronomy 1:10",
+      "fr": "Adonoy, ton Dieu, t'a multiplié, et tu es aujourd'hui aussi nombreux que les étoiles dans le ciel."
+    },
+    {
+      "ref": "Deuteronomy 1:11",
+      "fr": "Adonoy, le Dieu de vos ancêtres, vous ajoutera mille fois et vous bénira pendant qu'il parlera de vous."
+    },
+    {
+      "ref": "Deuteronomy 1:12",
+      "fr": "Comment puis-je supporter seul vos ennuis, vos lourdeurs [affaires] et vos querelles [jugements] ?"
+    },
+    {
+      "ref": "Deuteronomy 1:13",
+      "fr": "Donnez-vous des hommes sages, intelligents et réputés dans vos tribus, et je les désignerai comme vos chefs [nommerez-les pour être vos chefs].’’"
+    },
+    {
+      "ref": "Deuteronomy 1:14",
+      "fr": "Vous m’avez répondu : « [C’est] une bonne chose [bien] ce que vous avez dit de faire. »"
+    },
+    {
+      "ref": "Deuteronomy 1:15",
+      "fr": "J'ai pris les chefs de vos tribus, des hommes sages et renommés, et je les ai désignés comme chefs sur vous : maîtres de milliers et maîtres de centaines, et maîtres de cinquantaines et maîtres de dix, et officiers de justice pour vos tribus."
+    },
+    {
+      "ref": "Deuteronomy 1:16",
+      "fr": "J’ai alors ordonné à vos juges de dire : « Écoutez entre vos frères et vous jugerez juste entre un homme et son frère et entre son plaignant."
+    },
+    {
+      "ref": "Deuteronomy 1:17",
+      "fr": "Ne montrez pas de faveur dans le jugement ; [mots] petits et grands, vous les entendrez ; ne craignez personne ; car la justice appartient à Dieu. Et ce qui sera trop difficile pour vous, présentez-le-moi et je l’entendrai.’’"
+    },
+    {
+      "ref": "Deuteronomy 1:18",
+      "fr": "Je t'ai alors ordonné tout ce que tu dois faire."
+    },
+    {
+      "ref": "Deuteronomy 1:19",
+      "fr": "Nous sommes partis de Choreiv et avons parcouru tout le grand désert, ce désert impressionnant que vous avez vu, en direction de la colline [région] d'Émoréenne, comme Adonoy, notre Dieu, nous l'a ordonné ; et nous sommes arrivés à Kadeish Barnei'a [Rekam Geyah]."
+    },
+    {
+      "ref": "Deuteronomy 1:20",
+      "fr": "Je t'ai dit : « Vous êtes arrivés à la colline [région] émoréenne que nous donne Adonoy, notre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 1:21",
+      "fr": "Voir! Adonoy, notre Dieu, a mis le pays devant toi. Montez, héritez-en, comme l'a promis Adonoy, le Dieu de vos ancêtres, à votre sujet ; ne crains pas et ne tremble pas."
+    },
+    {
+      "ref": "Deuteronomy 1:22",
+      "fr": "Vous vous êtes tous approchés de moi et vous m'avez dit : « Envoyons des hommes devant nous pour explorer le pays pour nous, et qu'ils nous rapportent : la route que nous devons suivre et les villes où nous arriverons. »"
+    },
+    {
+      "ref": "Deuteronomy 1:23",
+      "fr": "L'idée m'a plu, alors je vous ai pris douze hommes, un homme par tribu."
+    },
+    {
+      "ref": "Deuteronomy 1:24",
+      "fr": "Ils firent demi-tour et montèrent et arrivèrent à Wadi Eshkol, et ils l'épièrent."
+    },
+    {
+      "ref": "Deuteronomy 1:25",
+      "fr": "Ils prirent dans leurs mains des fruits du pays et nous les apportèrent. Ils nous rapportèrent des nouvelles et dirent : « Le pays qu’Adonoy, notre Dieu, nous donne est bon. »"
+    },
+    {
+      "ref": "Deuteronomy 1:26",
+      "fr": "Mais vous n'avez pas voulu monter, et vous avez défié Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 1:27",
+      "fr": "Vous avez grogné dans vos tentes et avez dit : « À cause de la haine d'Adonoy à notre égard, il nous a fait sortir du pays d'Égypte pour nous mettre entre les mains des Émoréens afin de nous détruire."
+    },
+    {
+      "ref": "Deuteronomy 1:28",
+      "fr": "Où montons-nous ? Nos frères ont brisé nos espoirs [nous ont brisé le cœur] en disant : ‘Un peuple plus grand et plus puissant que nous, des villes grandes et fortifiées jusqu’au ciel, et aussi des descendants des Anakim [géants], avons-nous vu là-bas.’’’"
+    },
+    {
+      "ref": "Deuteronomy 1:29",
+      "fr": "Je vous ai dit : « Ne vous effondrez pas [ayez le cœur brisé] et ne les craignez pas."
+    },
+    {
+      "ref": "Deuteronomy 1:30",
+      "fr": "Adonoy, ton Dieu, qui marche devant toi [vous conduit], il fera la guerre pour vous, comme dans tout ce qu'il a fait avec vous en Égypte sous vos yeux ;"
+    },
+    {
+      "ref": "Deuteronomy 1:31",
+      "fr": "et dans le désert, comme vous l'avez vu, (où) Adonoy, votre Dieu, vous a porté comme un homme porte son fils tout au long du chemin que vous avez parcouru jusqu'à ce que vous arriviez à cet endroit."
+    },
+    {
+      "ref": "Deuteronomy 1:32",
+      "fr": "Pourtant, dans cette affaire, vous ne faites pas confiance à [la parole d'] Adonoy, votre Dieu,"
+    },
+    {
+      "ref": "Deuteronomy 1:33",
+      "fr": "Qui vous a précédé sur le chemin pour vous chercher un endroit où camper ; avec la colonne de feu la nuit pour vous montrer le chemin à suivre, et avec la colonne de nuée le jour."
+    },
+    {
+      "ref": "Deuteronomy 1:34",
+      "fr": "[Avant] Adonoy [a été] entendu l'intention de vos paroles et a juré avec colère de dire :"
+    },
+    {
+      "ref": "Deuteronomy 1:35",
+      "fr": "« Afin que [aucun] homme ne voie, parmi ces hommes, cette méchante génération, le bon pays que j’ai juré de donner à vos ancêtres."
+    },
+    {
+      "ref": "Deuteronomy 1:36",
+      "fr": "Sauf Koleiv ben Yefuneh, qui le verra, et à qui je donnerai le pays qu'il a foulé ainsi qu'à ses fils, parce qu'il s'est perfectionné [était complet] dans la crainte d'Adonoy.''"
+    },
+    {
+      "ref": "Deuteronomy 1:37",
+      "fr": "Adonoy était également en colère contre moi à cause de vous, pour dire : « Toi non plus, tu n’arriveras pas là-bas."
+    },
+    {
+      "ref": "Deuteronomy 1:38",
+      "fr": "Yehoshua, fils de Noun, qui est à ton service, y arrivera. Encouragez-le, car il le partagera entre Israël et Israël."
+    },
+    {
+      "ref": "Deuteronomy 1:39",
+      "fr": "Quant à vos enfants, dont vous avez dit : « Ils deviendront un butin », et vos enfants qui ne peuvent aujourd’hui distinguer le bien du mal, ils y arriveront ; et je le leur donnerai, et ils en hériteront."
+    },
+    {
+      "ref": "Deuteronomy 1:40",
+      "fr": "Quant à vous, faites demi-tour et partez dans le désert par la route de Yam Suf.''"
+    },
+    {
+      "ref": "Deuteronomy 1:41",
+      "fr": "Vous avez répondu et m'avez dit : « Nous avons péché envers Adonoy. Nous monterons et ferons la guerre dans [l’accomplissement de] tout ce qu’Adonoy, notre Dieu nous a commandé.’’ Et chacun de vous ceignit ses armes [de guerre], et vous vous prépariez [commenciez] à gravir la montagne."
+    },
+    {
+      "ref": "Deuteronomy 1:42",
+      "fr": "Adonoy m'a dit : « Dis-leur : Ne montez pas et ne faites pas la guerre, car je ne suis pas [ma Shekhina n'habite] au milieu de vous ; afin que vous ne soyez pas brisé par vos ennemis.’’’"
+    },
+    {
+      "ref": "Deuteronomy 1:43",
+      "fr": "Je te l'ai dit, mais tu n'as pas obéi. Vous avez défié [le décret de la parole d'] Adonoy et vous avez délibérément gravi la colline."
+    },
+    {
+      "ref": "Deuteronomy 1:44",
+      "fr": "Les Émoréens, ceux qui habitent ces collines, sont sortis vers vous et vous ont poursuivis comme font les abeilles ; et ils t'ont écrasé à Séir jusqu'à Chorma."
+    },
+    {
+      "ref": "Deuteronomy 1:45",
+      "fr": "Tu es revenu et tu as pleuré devant Adonoy, mais Adonoy n'a pas accepté ta prière ; Il ne vous a pas prêté attention [n'a pas écouté vos paroles]."
+    },
+    {
+      "ref": "Deuteronomy 1:46",
+      "fr": "Vous avez vécu à Kodeish [Rekam] de nombreuses années, comme les années où vous avez vécu [ailleurs]."
+    },
+    {
+      "ref": "Deuteronomy 2:1",
+      "fr": "Nous avons fait demi-tour et avons voyagé dans le désert en empruntant la [route] de la mer des Roseaux, comme Adonoy me l'avait dit, et nous avons fait longtemps le tour du mont Séir."
+    },
+    {
+      "ref": "Deuteronomy 2:2",
+      "fr": "Adonoy m'a dit de dire,"
+    },
+    {
+      "ref": "Deuteronomy 2:3",
+      "fr": "« Assez de faire le tour de cette montagne ! Tournez-vous vers le nord."
+    },
+    {
+      "ref": "Deuteronomy 2:4",
+      "fr": "Et commandez au peuple ce qui suit : « Vous franchissez la frontière de vos frères, les descendants d'Eisov qui habitent à Séir. Ils auront peur de vous, vous devez donc être extrêmement prudent."
+    },
+    {
+      "ref": "Deuteronomy 2:5",
+      "fr": "Ne les incitez pas. Car je ne vous donnerai pas même un pas de leur pays, car j'ai désigné le mont Séir comme héritage d'Eissov."
+    },
+    {
+      "ref": "Deuteronomy 2:6",
+      "fr": "Tu leur achèteras de la nourriture avec de l'argent et tu la mangeras ; tu leur achèteras aussi de l'eau avec de l'argent et tu la boiras."
+    },
+    {
+      "ref": "Deuteronomy 2:7",
+      "fr": "Car Adonoy, votre Dieu, vous a béni dans tout votre ouvrage ; Il s'est préoccupé intimement de votre [vous ayant donné suffisamment pour vos besoins] en traversant ce grand désert. Cela fait maintenant quarante ans [que] [la parole] d'Adonoy, votre Dieu, vous accompagne [vous a aidé] ; rien ne vous a manqué."
+    },
+    {
+      "ref": "Deuteronomy 2:8",
+      "fr": "Nous sommes passés de nos frères, descendants d'Eisov, qui habitent à Séir, de la route d'Arava, d'Eilas et d'Etzyon-Gover. Nous avons fait demi-tour et traversé le désert de Moav."
+    },
+    {
+      "ref": "Deuteronomy 2:9",
+      "fr": "Adonoy m'a dit : « N'assiégez pas Moav et ne les intimidez pas avec [pour faire] la guerre [avec eux]. Car je ne vous donnerai aucune partie de son pays en héritage, car j'ai donné Or [Lechoyas] en héritage aux descendants de Lot."
+    },
+    {
+      "ref": "Deuteronomy 2:10",
+      "fr": "C'est là qu'à l'origine vivaient les Eimim, un peuple grand, nombreux et puissant comme les Anokim [géants]."
+    },
+    {
+      "ref": "Deuteronomy 2:11",
+      "fr": "Eux aussi étaient considérés comme des Refaim [géants] comme les Anokim [géants] ; les Moabites les appelaient Eimim."
+    },
+    {
+      "ref": "Deuteronomy 2:12",
+      "fr": "Et à Séir vivaient les Chorim à l'origine, mais les descendants d'Eissov en héritèrent et les chassèrent [pour faire de la place] pour eux-mêmes et s'installèrent à leur place [places], comme Israël l'aura fait pour le pays de son héritage qu'Adonoy leur a donné."
+    },
+    {
+      "ref": "Deuteronomy 2:13",
+      "fr": "Maintenant, levez-vous et traversez Wadi Zered.’’ Et nous avons traversé Wadi Zered."
+    },
+    {
+      "ref": "Deuteronomy 2:14",
+      "fr": "Le temps qu'il nous a fallu pour aller de Kadeish Barnei'a [Rekam Geyah] jusqu'à ce que nous traversions Wadi Zered était de trente-huit ans, jusqu'à la fin de toute la génération, les hommes de guerre, de l'intérieur du camp, comme Adonoy l'avait juré à leur sujet."
+    },
+    {
+      "ref": "Deuteronomy 2:15",
+      "fr": "[Avant] la peste d'Adonoy les a également attaqués pour les mettre en déroute [les détruire] de l'intérieur du camp, jusqu'à leur fin."
+    },
+    {
+      "ref": "Deuteronomy 2:16",
+      "fr": "Quand ils eurent fini, tous les hommes de guerre, de disparaître du milieu du peuple ;"
+    },
+    {
+      "ref": "Deuteronomy 2:17",
+      "fr": "Adonoy s'est adressé à moi pour me dire :"
+    },
+    {
+      "ref": "Deuteronomy 2:18",
+      "fr": "« Vous traversez aujourd’hui la frontière de Moav – à ‘Or [Lechoyas]."
+    },
+    {
+      "ref": "Deuteronomy 2:19",
+      "fr": "Lorsque vous vous approcherez du pays des descendants d'Ammon, ne les assiégez pas et ne les intimidez pas, car je ne vous donnerai pas en héritage le pays des descendants d'Ammon, car je l'ai donné en héritage aux descendants de Lot."
+    },
+    {
+      "ref": "Deuteronomy 2:20",
+      "fr": "Elle aussi est considérée comme une terre de géants ; des géants y ayant vécu à l'origine — les Ammonites les appelaient Zamzumim [Chushbani]."
+    },
+    {
+      "ref": "Deuteronomy 2:21",
+      "fr": "Un peuple grand, nombreux et puissant comme les Anokim [géants]. Adonoy les détruisit devant eux, et ils les chassèrent et s'installèrent à leur place."
+    },
+    {
+      "ref": "Deuteronomy 2:22",
+      "fr": "Comme Il avait fait aux descendants d'Eisov vivant à Séir, dont Il avait détruit les Chori, et ils les ont chassés et se sont installés à leur place jusqu'à aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 2:23",
+      "fr": "Et les Avim qui vivaient à Chatzeirim [Defiach] jusqu'à Azah - Caftorim [Kaputka'ites] qui avaient quitté Caftor [Kaputkayah] les détruisirent et s'installèrent à leur place [lieu]."
+    },
+    {
+      "ref": "Deuteronomy 2:24",
+      "fr": "Levez-vous pour voyager et traversez le Wadi Arnon. Vois, j'ai mis entre tes mains Sichon, roi de Cheshbon, l'Émoréen et son pays. Commencez à en hériter en l'intimidant en lui faisant la guerre."
+    },
+    {
+      "ref": "Deuteronomy 2:25",
+      "fr": "Aujourd’hui, je commence à susciter la crainte et la crainte de toi parmi les peuples sous tout le ciel, afin qu’ils entendent ta réputation et frissonnent et tremblent devant toi.’’"
+    },
+    {
+      "ref": "Deuteronomy 2:26",
+      "fr": "J'ai envoyé des émissaires du désert de Kédéimos à Sichon, roi de Cheshbon, avec la déclaration pacifique suivante :"
+    },
+    {
+      "ref": "Deuteronomy 2:27",
+      "fr": "« Laisse-moi traverser ton pays. Je circulerai uniquement sur l'autoroute, je ne dévierai ni à droite ni à gauche."
+    },
+    {
+      "ref": "Deuteronomy 2:28",
+      "fr": "De la nourriture contre de l'argent, vendez-moi pour que je puisse manger, et de l'eau contre de l'argent, vendez-moi pour que je puisse boire – laissez-moi simplement traverser à pied."
+    },
+    {
+      "ref": "Deuteronomy 2:29",
+      "fr": "Comme l'ont fait les descendants d'Eissov pour moi qui vis à Séir et les Moavites qui vivent à Or [Lechoyas] ; jusqu’à ce que j’aie traversé le Yardein pour entrer dans le pays qu’Adonoy, notre Dieu, nous donne.’’"
+    },
+    {
+      "ref": "Deuteronomy 2:30",
+      "fr": "Mais Sichon, roi de Cheshbon, ne voulait pas que nous le traversions [ne nous permettrait pas de passer par ses frontières], car Adonoï, votre Dieu, avait endurci son esprit et enhardi son esprit afin de le remettre aujourd'hui entre vos mains."
+    },
+    {
+      "ref": "Deuteronomy 2:31",
+      "fr": "Adonoy m'a dit : « Vois, j'ai commencé à vaincre devant toi Sichon et son pays. Commencez à hériter, à hériter de sa terre.’’"
+    },
+    {
+      "ref": "Deuteronomy 2:32",
+      "fr": "Et Sichon sortit vers nous, lui et tout son peuple, pour faire la guerre à Yahatz."
+    },
+    {
+      "ref": "Deuteronomy 2:33",
+      "fr": "Adonoï, notre Dieu, l'a vaincu [délivré] devant nous, et nous l'avons frappé, ainsi que ses fils et tout son peuple."
+    },
+    {
+      "ref": "Deuteronomy 2:34",
+      "fr": "Nous avons alors conquis toutes ses villes et anéanti les hommes, les femmes et les enfants de chaque ville ; nous n'avons laissé aucun survivant."
+    },
+    {
+      "ref": "Deuteronomy 2:35",
+      "fr": "Seulement les animaux que nous avons pillés pour nous-mêmes et le butin des villes que nous avons conquises."
+    },
+    {
+      "ref": "Deuteronomy 2:36",
+      "fr": "Depuis Aroer, qui est au bord du torrent Arnon, et la ville qui est dans le torrent, jusqu'à Guilad, il n'y a pas eu de ville plus forte que nous. All of it did Adonoy, our God, defeat before us."
+    },
+    {
+      "ref": "Deuteronomy 2:37",
+      "fr": "Seulement, tu n'as pas attaqué le pays des descendants d'Ammon, tout le long du Wadi Yabok et des villes montagneuses, tout ce qu'Adonoy, notre Dieu, avait commandé."
+    },
+    {
+      "ref": "Deuteronomy 3:1",
+      "fr": "Nous avons fait demi-tour et remonté la route du Boshon [Masnan]. Og, roi du Boshon [Masnan], est sorti vers nous, lui et tout son peuple, pour [faire] la guerre à Edrei."
+    },
+    {
+      "ref": "Deuteronomy 3:2",
+      "fr": "Adonoï m'a dit : « Ne le crains pas, car je l'ai remis entre tes mains, avec tout son peuple et son pays, et tu le traiteras comme tu as traité Sichon, roi des Émoréens, qui habitait à Chesbon. »"
+    },
+    {
+      "ref": "Deuteronomy 3:3",
+      "fr": "Adonoy, notre Dieu, remets aussi entre nos mains Og, roi du Boshon, et tout son peuple ; et nous l'avons frappé sans lui laisser de survivant."
+    },
+    {
+      "ref": "Deuteronomy 3:4",
+      "fr": "Nous avons alors conquis toutes ses villes ; il n'y avait aucune ville que nous ne leur ayons prise : soixante villes, toute la province d'Argov [Tarchona], le royaume d'Og dans le Boshon."
+    },
+    {
+      "ref": "Deuteronomy 3:5",
+      "fr": "Toutes ces villes étaient fortifiées avec de hauts murs, des portes et des verrous ; en plus de très nombreuses villes non fortifiées."
+    },
+    {
+      "ref": "Deuteronomy 3:6",
+      "fr": "Nous les avons exterminés comme nous l’avions fait pour Sichon, roi de Cheshbon, exterminant les hommes, les femmes et les enfants de chaque ville."
+    },
+    {
+      "ref": "Deuteronomy 3:7",
+      "fr": "Et nous avons pillé tous les animaux et le butin des villes."
+    },
+    {
+      "ref": "Deuteronomy 3:8",
+      "fr": "À cette époque, nous avons pris le territoire des deux rois émoréens qui étaient de l'autre côté du Yardein, depuis le torrent Arnon jusqu'au mont Chermon."
+    },
+    {
+      "ref": "Deuteronomy 3:9",
+      "fr": "Les Tzidonites l'appellent Chermon Siryon, et les Émorites l'appellent Sneer [Mont Neige]."
+    },
+    {
+      "ref": "Deuteronomy 3:10",
+      "fr": "Toutes les villes de la plaine et tout Gilod et tout le Boshon [Masnan] jusqu'à Salcho et Edréï ; villes du royaume d’Og dans le Boshon."
+    },
+    {
+      "ref": "Deuteronomy 3:11",
+      "fr": "Car seul Og, roi du Boshon, a survécu du reste des géants. Regardez, son lit – un lit de fer – n’est-il pas dans les Rabbas des descendants d’Ammon : neuf amohs de longueur et quatre amohs de largeur, dans l’amoh d’un homme [du roi]."
+    },
+    {
+      "ref": "Deuteronomy 3:12",
+      "fr": "Et cette terre dont nous avons hérité à cette époque. Depuis Aro'er, qui est sur le torrent d'Arnon, et la moitié des collines de Gilod et ses villes, j'ai donné aux Reuvénites et aux Gaddites."
+    },
+    {
+      "ref": "Deuteronomy 3:13",
+      "fr": "Et le reste de Gilod et tout le Boshon [Masnan], le royaume d'Og, je l'ai donné à la moitié de la tribu de Menashe. Toute la province d'Argov [Tarchona] dans tout le Boshon [Masnan], appelé le pays des géants."
+    },
+    {
+      "ref": "Deuteronomy 3:14",
+      "fr": "Yaïr, fils de Ménaché, s'empara de toute la province d'Argov [Tarchona] jusqu'à la frontière des Geshurites et des Ma'achasites [Apekorsites] ; et il les nomma lui-même – les Boshon [Masnan] – les villes de Chavos Yair jusqu'à ce jour."
+    },
+    {
+      "ref": "Deuteronomy 3:15",
+      "fr": "Et à Mochir j'ai donné le Gilod."
+    },
+    {
+      "ref": "Deuteronomy 3:16",
+      "fr": "Et je donnai aux Reuvénites et aux Gaddites, depuis le Gilod jusqu'au torrent d'Arnon, à l'intérieur du torrent et de la frontière, jusqu'à Yabok, le torrent à la frontière des descendants d'Ammon ;"
+    },
+    {
+      "ref": "Deuteronomy 3:17",
+      "fr": "et l'Arava et le Yardein et la frontière ; de Kinneres [Ginosar] jusqu'au lac Arava, le lac salé, sous les pentes de la crête à l'est."
+    },
+    {
+      "ref": "Deuteronomy 3:18",
+      "fr": "Je vous ai alors donné cet ordre en disant : « Adonoy, votre Dieu, vous a donné ce pays pour en hériter. Passez en première ligne [bien armés], devant vos frères les Bnei Yisroel, tous de valeureux soldats [armés]."
+    },
+    {
+      "ref": "Deuteronomy 3:19",
+      "fr": "Mais vos femmes, vos enfants et votre bétail, je sais que vous possédez beaucoup de bétail, vivront dans vos villes que je vous ai données."
+    },
+    {
+      "ref": "Deuteronomy 3:20",
+      "fr": "Jusqu'à ce qu'Adonoy accorde la paix à vos frères comme vous, et qu'eux aussi héritent de la terre qu'Adonoy, votre Dieu, leur donne de l'autre côté du Yardein. Alors vous ramènerez chacun de vous à son héritage que je vous ai donné."
+    },
+    {
+      "ref": "Deuteronomy 3:21",
+      "fr": "Et à ce moment-là, j’ai ordonné à Yehoshua de dire : « Vos yeux verront que tout ce qu’Adonoy, votre Dieu, a fait à ces deux rois, Adonoy le fera également à tous les royaumes dans lesquels vous traversez."
+    },
+    {
+      "ref": "Deuteronomy 3:22",
+      "fr": "Ne les craignez pas, car Adonoy, votre Dieu, est Celui qui [Sa parole] fait la guerre pour vous.’’"
+    }
+  ]
+}

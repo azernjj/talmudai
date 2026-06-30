@@ -1,0 +1,496 @@
+{
+  "name": "Vayakhel",
+  "range": "Exodus 35:1-38:20",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayakhel.json",
+  "verses": [
+    {
+      "ref": "Exodus 35:1",
+      "fr": "Moshe rassembla toute la congrégation des B'nei Yisrael et leur dit : « Ce sont les paroles qu'Adonoy vous a ordonné de faire."
+    },
+    {
+      "ref": "Exodus 35:2",
+      "fr": "Le travail peut être fait six jours, mais le septième jour doit être saint pour vous, c'est un Chabbat des Chabbat devant Adonoy. Quiconque y travaillera sera mis à mort."
+    },
+    {
+      "ref": "Exodus 35:3",
+      "fr": "Vous ne devez pas allumer de feu dans toutes vos demeures le jour du Chabbath. »"
+    },
+    {
+      "ref": "Exodus 35:4",
+      "fr": "Moshe dit à toute la congrégation des B'nei Yisrael : « Voici la parole qu'Adonoy a ordonnée :"
+    },
+    {
+      "ref": "Exodus 35:5",
+      "fr": "Prenez parmi vous une offrande de thérouma pour [devant] Adonoy. Tout homme au cœur généreux apportera une offrande de théruma à [devant] Adonoy : de l'or, de l'argent et du cuivre,"
+    },
+    {
+      "ref": "Exodus 35:6",
+      "fr": "Et de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie, du fin lin et du poil de chèvre,"
+    },
+    {
+      "ref": "Exodus 35:7",
+      "fr": "et des peaux de béliers teintes en rouge, des peaux de tachash [multicolores] et du bois d'accacia,"
+    },
+    {
+      "ref": "Exodus 35:8",
+      "fr": "et de l'huile pour le luminaire, des aromates pour l'huile d'onction, et pour l'encens des aromates aromatiques,"
+    },
+    {
+      "ref": "Exodus 35:9",
+      "fr": "et des pierres d'onyx, et des pierres à enchâsser dans l'éphod et le pectoral."
+    },
+    {
+      "ref": "Exodus 35:10",
+      "fr": "Tous ceux d’entre vous qui sont sages de cœur viendront et feront tout ce qu’Adonoy a commandé."
+    },
+    {
+      "ref": "Exodus 35:11",
+      "fr": "Le Mishkon, sa tente et sa couverture, ses attaches, et ses planches, ses barres, ses piliers et ses socles."
+    },
+    {
+      "ref": "Exodus 35:12",
+      "fr": "L'arche et ses poteaux, sa couverture et la cloison."
+    },
+    {
+      "ref": "Exodus 35:13",
+      "fr": "La table et ses poteaux, et tous ses ustensiles, et les pains de présentation."
+    },
+    {
+      "ref": "Exodus 35:14",
+      "fr": "La menorah pour la lumière, et ses ustensiles, et ses lampes et l'huile pour la lumière."
+    },
+    {
+      "ref": "Exodus 35:15",
+      "fr": "L'autel des parfums [épices] et ses poteaux, et l'huile d'onction, et l'encens des épices aromatiques, et le paravent pour l'entrée, à l'entrée du mishkon."
+    },
+    {
+      "ref": "Exodus 35:16",
+      "fr": "L'autel des holocaustes, avec sa grille d'airain, ses barres et tous ses ustensiles, la cuve et son socle."
+    },
+    {
+      "ref": "Exodus 35:17",
+      "fr": "Les rideaux de l'enceinte, ses piliers et ses bases, et le paravent pour l'entrée de l'enceinte."
+    },
+    {
+      "ref": "Exodus 35:18",
+      "fr": "Les pieux du mishkon, et les pieux de l'enceinte et leurs cordes."
+    },
+    {
+      "ref": "Exodus 35:19",
+      "fr": "Les vêtements de couverture [de service] pour les objets sacrés [pour servir dans le sanctuaire], et les vêtements sacrés pour Aaron le Kohein, et les vêtements que ses fils devaient porter lorsqu'ils faisaient le service."
+    },
+    {
+      "ref": "Exodus 35:20",
+      "fr": "La congrégation entière des B’nei Yisrael quitta la présence de Moshe."
+    },
+    {
+      "ref": "Exodus 35:21",
+      "fr": "Tous ceux dont le cœur le soulevait venaient, et tous ceux dont l'esprit généreux l'inspirait [le remplissait] apporta une offrande de terumah à [devant] Adonoy, pour le travail de la tente d'assignation, et pour tout [ce qui était nécessaire pour] son ​​service, et pour les vêtements sacrés."
+    },
+    {
+      "ref": "Exodus 35:22",
+      "fr": "Et ils arrivèrent, des hommes et des femmes, tous ceux qui avaient un cœur généreux apportèrent des bracelets, des anneaux de nez, des bagues et des boucles, toutes sortes d'objets en or, et tous les hommes qui offraient une offrande agitée d'or à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 35:23",
+      "fr": "Tous ceux qui avaient avec lui de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [colorée], du fin lin, du poil de chèvre, des peaux de béliers teintes en rouge et des peaux de tachash [multicolores] les apportèrent."
+    },
+    {
+      "ref": "Exodus 35:24",
+      "fr": "Tous ceux qui prélevaient une offrande de térumah en argent ou en cuivre, l'apportaient à [devant] Adonoï ; et tous ceux qui avaient avec eux du bois d'acacia pour l'usage du service, l'apportèrent."
+    },
+    {
+      "ref": "Exodus 35:25",
+      "fr": "Et toute femme sage filait avec ses mains ; et ils apportèrent du filé de laine bleu verdâtre, de laine rouge foncé, de laine cramoisie et de fin lin."
+    },
+    {
+      "ref": "Exodus 35:26",
+      "fr": "Et toutes les femmes dont le cœur leur inspirait la sagesse, filèrent le poil de chèvre."
+    },
+    {
+      "ref": "Exodus 35:27",
+      "fr": "Et les chefs [des tribus] apportèrent des pierres d'onyx et des pierres à enchâsser dans l'éphod et le pectoral."
+    },
+    {
+      "ref": "Exodus 35:28",
+      "fr": "Et les aromates, et l'huile pour le luminaire, et l'huile d'onction, et l'encens des aromates."
+    },
+    {
+      "ref": "Exodus 35:29",
+      "fr": "Tous les hommes et toutes les femmes dont le cœur généreux les a inspirés à apporter quelque chose pour tout le travail qu'Adonoy avait ordonné d'accomplir par l'intermédiaire de Moshe [l'ont fait]. Les B’nei Yisrael ont apporté un cadeau de libre arbitre à [avant] Adonoy."
+    },
+    {
+      "ref": "Exodus 35:30",
+      "fr": "Moshe dit aux B'nei Yisrael : « Voyez, Adonoy a désigné [exalté] par son nom Betzalel, fils d'Uri, fils de Chur, de la tribu de Yehudah."
+    },
+    {
+      "ref": "Exodus 35:31",
+      "fr": "Et Il l'a doté de l'esprit divin [de la prophétie d'avant Adonoy], de la sagesse, de l'intelligence, de la connaissance et de [l'habileté d'accomplir] tous les types d'artisanat."
+    },
+    {
+      "ref": "Exodus 35:32",
+      "fr": "Et concevoir [des plans] [enseigner l'artisanat] avec ingéniosité, exécuter [ces plans] en or, en argent et en cuivre."
+    },
+    {
+      "ref": "Exodus 35:33",
+      "fr": "Et en maçonnerie [pour tailler les pierres précieuses] pour les sertissages, et en menuiserie, pour exécuter toutes sortes de travaux astucieux [d'artisanat]."
+    },
+    {
+      "ref": "Exodus 35:34",
+      "fr": "Et la capacité d'instruire, il l'a inculqué dans son cœur, lui (Betzalel) et Oholiov, le fils d'Achisomoch de la tribu de Dan."
+    },
+    {
+      "ref": "Exodus 35:35",
+      "fr": "Il les remplit de sagesse du cœur, pour exécuter toutes les tâches du graveur [charpentier], de l'artisan et du brodeur de laine bleu verdâtre, de laine rouge foncé, de laine pourpre [colorée], de lin fin, et les [les tâches de] tisserand, [aussi] celles d'ouvriers et de planificateurs [ceux qui enseignent l'artisanat]."
+    },
+    {
+      "ref": "Exodus 36:1",
+      "fr": "Et ils exécuteront - Betsalel et Oholiov - ainsi que tout homme sage qu'Adonoy avait doté de sagesse et de perspicacité pour savoir (comment) exécuter dans toutes les œuvres saintes - tout ce qu'Adonoy avait commandé."
+    },
+    {
+      "ref": "Exodus 36:2",
+      "fr": "Moshe appela Betzalel et Oholiov, ainsi que chaque homme au cœur sage qu'Adonoy avait doté de sagesse dans son cœur, tous ceux dont le cœur le poussait à s'approcher de la tâche – à l'exécuter."
+    },
+    {
+      "ref": "Exodus 36:3",
+      "fr": "Et ils prirent devant Moché toute l’offrande de terumah que les B’nei Yisrael avaient apportée pour les tâches de l’œuvre sainte, afin de l’exécuter. Et ils ont continué à apporter des cadeaux chaque matin."
+    },
+    {
+      "ref": "Exodus 36:4",
+      "fr": "Tous les sages sont venus, qui exécutaient toutes les tâches saintes, chacun sans exception de la tâche dans laquelle il était engagé."
+    },
+    {
+      "ref": "Exodus 36:5",
+      "fr": "Ils dirent ce qui suit à Moshe : les gens apportent trop – plus que ce qui est nécessaire pour les tâches qu'Adonoy a ordonné d'exécuter."
+    },
+    {
+      "ref": "Exodus 36:6",
+      "fr": "Moshe a ordonné – et ils ont proclamé dans tout le camp : « Qu’aucun homme ni femme n’apporte plus de matériel pour l’offrande sacrée. » Et les gens ont arrêté d'apporter."
+    },
+    {
+      "ref": "Exodus 36:7",
+      "fr": "Le matériel était suffisant pour tout le travail à faire, et il en restait une partie."
+    },
+    {
+      "ref": "Exodus 36:8",
+      "fr": "Tous les artisans dotés d'un esprit de sagesse ont confectionné le mishkon à partir de dix rideaux, (constitués de) fin lin retors, de laine bleu verdâtre, de laine rouge foncé et de laine pourpre [colorée], figures de chérubins, travail d'un artisan."
+    },
+    {
+      "ref": "Exodus 36:9",
+      "fr": "La longueur de chaque drap était de vingt-huit amohs et chaque drap mesurait quatre amohs de large. Tous les rideaux avaient la même mesure."
+    },
+    {
+      "ref": "Exodus 36:10",
+      "fr": "Il a assemblé (cousu) cinq de ces rideaux ensemble, et il a assemblé (cousu) les cinq autres rideaux."
+    },
+    {
+      "ref": "Exodus 36:11",
+      "fr": "Il fit des boucles de laine bleu verdâtre sur le bord du drapé qui se trouvait à l'extrémité (la plus intérieure) du (premier) groupe. Il fit de même sur le bord du drapé qui constituait l'extrémité la plus intérieure du deuxième groupe."
+    },
+    {
+      "ref": "Exodus 36:12",
+      "fr": "Il a fait cinquante boucles sur (le bord d') un drap et il a fait cinquante boucles sur le bord du drap qui était sur le deuxième groupe. Les boucles étaient opposées."
+    },
+    {
+      "ref": "Exodus 36:13",
+      "fr": "Il fabriqua cinquante agrafes dorées et assembla les rideaux (de chaque groupe) avec les agrafes. Le mishkon formait donc une seule unité."
+    },
+    {
+      "ref": "Exodus 36:14",
+      "fr": "Il fit des rideaux de poils de chèvre pour couvrir le mishkon. Il a réalisé onze de ces rideaux."
+    },
+    {
+      "ref": "Exodus 36:15",
+      "fr": "La longueur de chaque drap était de trente amohs et la largeur de chaque drap était de quatre amohs. Les onze rideaux étaient de même mesure."
+    },
+    {
+      "ref": "Exodus 36:16",
+      "fr": "Et il assembla cinq tentures à part, et six tentures à part."
+    },
+    {
+      "ref": "Exodus 36:17",
+      "fr": "Il a fait cinquante boucles sur le bord d'un drap qui était l'extrémité la plus intérieure du (premier) groupe et il a fait cinquante boucles sur le bord du drap qui était sur le deuxième groupe."
+    },
+    {
+      "ref": "Exodus 36:18",
+      "fr": "Il fabriqua cinquante attaches en cuivre pour relier la tente et en faire une seule."
+    },
+    {
+      "ref": "Exodus 36:19",
+      "fr": "Il fit une couverture pour la tente avec des peaux de béliers teintes en rouge, et une couverture de peaux de tachash [multicolores] par-dessus."
+    },
+    {
+      "ref": "Exodus 36:20",
+      "fr": "Il fit des planches pour le mishkon en bois d'acacia ; (ces planches) se tenaient debout (verticalement)."
+    },
+    {
+      "ref": "Exodus 36:21",
+      "fr": "Chaque planche mesurait dix amohs de long, et un amohs et demi correspondait à la largeur de chaque planche."
+    },
+    {
+      "ref": "Exodus 36:22",
+      "fr": "Chaque planche avait deux piquets (carrés), exactement parallèles les uns aux autres. De cette manière, il fit toutes les planches du mishkon."
+    },
+    {
+      "ref": "Exodus 36:23",
+      "fr": "Il fit ces planches pour le mishkon, vingt planches pour le côté sud."
+    },
+    {
+      "ref": "Exodus 36:24",
+      "fr": "Il fit quarante socles d'argent (et les plaça) sous les vingt planches. Il y avait deux douilles sous une planche (une) pour chacun des deux piquets, et deux douilles sous l'autre planche, (une) pour chacun des deux piquets."
+    },
+    {
+      "ref": "Exodus 36:25",
+      "fr": "Pour le deuxième mur du Mishkon, du côté nord, il fit vingt planches."
+    },
+    {
+      "ref": "Exodus 36:26",
+      "fr": "(Il fit) leurs quarante socles en argent, deux socles sous chaque planche, deux socles sous chaque planche."
+    },
+    {
+      "ref": "Exodus 36:27",
+      "fr": "Pour l’extrémité ouest du mishkon, il fit six planches."
+    },
+    {
+      "ref": "Exodus 36:28",
+      "fr": "Il fit deux planches pour les coins du mishkon à l'arrière [leurs extrémités]."
+    },
+    {
+      "ref": "Exodus 36:29",
+      "fr": "Ils étaient couplés ensemble en bas et ils étaient couplés uniformément en haut avec un anneau (carré). De cette manière, il fit les deux (planches) qui se trouvaient aux deux coins."
+    },
+    {
+      "ref": "Exodus 36:30",
+      "fr": "Il y avait huit planches et leurs socles en argent, soit un total de seize socles, deux socles, deux socles sous chaque planche."
+    },
+    {
+      "ref": "Exodus 36:31",
+      "fr": "Il fit des barres en bois d'acacia, cinq pour les planches d'un mur,"
+    },
+    {
+      "ref": "Exodus 36:32",
+      "fr": "et cinq barres pour les planches du deuxième mur du mishkon, et cinq barres pour les planches du mur ouest (arrière) du mishkon."
+    },
+    {
+      "ref": "Exodus 36:33",
+      "fr": "Il a fabriqué la barre du milieu (du centre) pour traverser les planches, [renforçant les planches] d'un bout à l'autre."
+    },
+    {
+      "ref": "Exodus 36:34",
+      "fr": "Il recouvrit les planches d'or et fit d'or leurs anneaux pour maintenir les barres. Il (aussi) recouvrit les lingots d'or."
+    },
+    {
+      "ref": "Exodus 36:35",
+      "fr": "Il fit les paroches (cloison) avec de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [colorée] et du fin lin retors, travail d'un artisan, avec des figures de Chérubins (tissées dedans)."
+    },
+    {
+      "ref": "Exodus 36:36",
+      "fr": "Il fit pour cela (les paroches) quatre piliers en bois d'acacia et il les couvrit d'or. Leurs crochets étaient aussi en or. Il leur fonda quatre bases d'argent."
+    },
+    {
+      "ref": "Exodus 36:37",
+      "fr": "Il fit un paravent pour l'entrée de la tente, en laine bleu verdâtre, en laine rouge foncé, en laine cramoisie et en fin lin retors. C'était le travail d'une brodeuse."
+    },
+    {
+      "ref": "Exodus 36:38",
+      "fr": "(Il fit) cinq piliers (pour maintenir le paravent), ainsi que leurs crochets et il recouvrit d'or leurs chapeaux et leurs bandes. Leurs cinq douilles (il en) cuivre."
+    },
+    {
+      "ref": "Exodus 37:1",
+      "fr": "Betsalel fit l'arche en bois d'acacia, longue de deux amohs et demi, large d'un amohs et demi et haute d'un amohs et demi."
+    },
+    {
+      "ref": "Exodus 37:2",
+      "fr": "Il l'a recouvert d'or pur de l'intérieur et de l'extérieur. Il lui fit un bord doré en forme de couronne autour (de son sommet)."
+    },
+    {
+      "ref": "Exodus 37:3",
+      "fr": "Il fondit quatre anneaux d’or aux quatre coins de l’arche, deux anneaux d’un côté et deux anneaux de l’autre côté."
+    },
+    {
+      "ref": "Exodus 37:4",
+      "fr": "Il fit deux barres en bois d'acacia et les couvrit d'or."
+    },
+    {
+      "ref": "Exodus 37:5",
+      "fr": "Il plaça les barres dans les anneaux sur les côtés de l'arche, afin que l'arche puisse être transportée avec elles."
+    },
+    {
+      "ref": "Exodus 37:6",
+      "fr": "Il fit un couvercle (pour l'arche) d'or pur, long de deux amohs et demi et large d'un amohs et demi."
+    },
+    {
+      "ref": "Exodus 37:7",
+      "fr": "Il fit deux chérubins d'or. Il les a martelés des deux extrémités du couvercle (de l'arche)."
+    },
+    {
+      "ref": "Exodus 37:8",
+      "fr": "Un Chérubin à une extrémité [côté], et un Chérubin à l'autre extrémité [côté]. À partir du (même morceau d'or que le) couvercle lui-même, il fit les chérubins sur ses deux extrémités [côtés]."
+    },
+    {
+      "ref": "Exodus 37:9",
+      "fr": "Les Chérubins avaient les ailes déployées vers le haut, abritant le couvercle avec leurs ailes, et ils se faisaient face, les visages des Chérubins étaient (inclinés) vers le couvercle."
+    },
+    {
+      "ref": "Exodus 37:10",
+      "fr": "Il fit une table en bois d'acacia, longue de deux amohs, large d'une amohs et haute d'une amohs et demie."
+    },
+    {
+      "ref": "Exodus 37:11",
+      "fr": "Il le recouvrit d'or pur et l'entoura d'un bord en forme de couronne."
+    },
+    {
+      "ref": "Exodus 37:12",
+      "fr": "Il fit un rebord de tefach [haut] autour (de la table), et il fit un rebord en forme de couronne d'or autour du rebord."
+    },
+    {
+      "ref": "Exodus 37:13",
+      "fr": "Il fondit pour elle (la table) quatre anneaux d'or, et il plaça les anneaux aux quatre coins qui sont sur ses quatre pieds."
+    },
+    {
+      "ref": "Exodus 37:14",
+      "fr": "Les anneaux étaient placés contre le rebord et servaient de logements (réceptacles) pour les poteaux permettant de porter la table."
+    },
+    {
+      "ref": "Exodus 37:15",
+      "fr": "Il fabriqua les barres en bois d'acacia et les recouvrit d'or pour porter la table."
+    },
+    {
+      "ref": "Exodus 37:16",
+      "fr": "Il fit en or pur les ustensiles qui étaient sur la table, ses plats (formes à pain), ses cuillères (bols à encens), ses supports et ses tubes demi-creux par lesquels ils (les pains) sont recouverts."
+    },
+    {
+      "ref": "Exodus 37:17",
+      "fr": "Il a fait la menorah (en) d'or pur. La menorah était fabriquée par martelage (sa forme à partir d'une pièce d'or solide). Sa base, son fût, ses coupes, ses boutons et ses fleurs étaient de lui (la même pièce d'or)."
+    },
+    {
+      "ref": "Exodus 37:18",
+      "fr": "Six branches s'étendaient sur ses côtés, trois branches de la menorah sur l'un de ses côtés et trois branches de la menorah sur le deuxième côté."
+    },
+    {
+      "ref": "Exodus 37:19",
+      "fr": "Trois coupes étaient gravées de motifs en amande, sur une branche avec un bouton et une fleur, et trois coupes étaient gravées de motifs en amande, sur une branche avec un bouton et une fleur. Il en était de même pour chacune des six branches qui s'étendaient à partir de la tige de la menorah."
+    },
+    {
+      "ref": "Exodus 37:20",
+      "fr": "La (tige de la) menorah avait quatre coupes, gravées de motifs en forme d'amande, avec leurs boutons et leurs fleurs."
+    },
+    {
+      "ref": "Exodus 37:21",
+      "fr": "Il y avait un bouton sous les deux branches qui en sortaient, et un (deuxième) bouton sous les (deuxièmes) deux branches qui en sortaient, et un (troisième) bouton sous les (troisièmes) deux branches qui en sortaient. (Cela était vrai) pour les six branches qui en sortaient (le fût de la menorah)."
+    },
+    {
+      "ref": "Exodus 37:22",
+      "fr": "Leurs boutons et leurs branches étaient faits de (la menorah) elle-même. Tout était fait d’une seule pièce d’or pur martelé."
+    },
+    {
+      "ref": "Exodus 37:23",
+      "fr": "Il fit sept lampes (pour la menorah), ainsi que ses pinces et ses cuillères (à cendres), en or pur."
+    },
+    {
+      "ref": "Exodus 37:24",
+      "fr": "Il le fit avec un kikar d'or pur, ainsi que tous ses ustensiles."
+    },
+    {
+      "ref": "Exodus 37:25",
+      "fr": "Il fit l'autel des parfums [aux épices] en bois d'acacia, long d'un amoh et large d'un amoh, il était carré et haut de deux amoh. Ses élévations en forme de corne étaient d'une seule pièce avec lui."
+    },
+    {
+      "ref": "Exodus 37:26",
+      "fr": "Il le couvrit d'or pur sur son sommet, ses murs tout autour et ses élévations en forme de corne. Il fit tout autour un bord en forme de couronne d'or."
+    },
+    {
+      "ref": "Exodus 37:27",
+      "fr": "Il lui fit deux anneaux d'or sous son rebord en forme de couronne, sur deux de ses coins, sur ses deux côtés opposés, pour loger les barres avec lesquelles on le porterait."
+    },
+    {
+      "ref": "Exodus 37:28",
+      "fr": "Il fabriqua les poteaux en bois d'acacia et les recouvrit d'or."
+    },
+    {
+      "ref": "Exodus 37:29",
+      "fr": "Il fabriqua l'huile d'onction sacrée et l'encens pur parfumé, selon le travail du parfumeur."
+    },
+    {
+      "ref": "Exodus 38:1",
+      "fr": "Il fit l'autel des holocaustes en bois d'acacia. Il mesurait cinq amohs de long et cinq amohs de large, il était carré et trois amohs de haut."
+    },
+    {
+      "ref": "Exodus 38:2",
+      "fr": "Il en réalisa les saillies aux quatre coins. Ses saillies en relief ne faisaient qu'une seule pièce avec lui, et il le recouvrit de cuivre."
+    },
+    {
+      "ref": "Exodus 38:3",
+      "fr": "Il fit tous les ustensiles de l'autel, ses pots, ses pelles, ses bassins, ses crochets à chair et ses brasiers. Il fabriqua tous ses récipients en cuivre."
+    },
+    {
+      "ref": "Exodus 38:4",
+      "fr": "Il fit pour l'autel une grille en filet de cuivre, dont le bord s'étendait vers le bas (de manière à ce que la grille atteigne) jusqu'au milieu de l'autel."
+    },
+    {
+      "ref": "Exodus 38:5",
+      "fr": "Il jeta quatre anneaux aux quatre coins [côtés] de la grille de cuivre pour loger les poteaux."
+    },
+    {
+      "ref": "Exodus 38:6",
+      "fr": "Il fabriqua les poteaux en bois d'acacia et les recouvrit de cuivre."
+    },
+    {
+      "ref": "Exodus 38:7",
+      "fr": "Il plaça les poteaux dans les anneaux qui se trouvaient sur les (deux) côtés de l'autel pour le transporter avec eux. Il en a fait une structure creuse construite à partir de planches."
+    },
+    {
+      "ref": "Exodus 38:8",
+      "fr": "Il fit le bassin en cuivre et son socle en cuivre, avec les miroirs des femmes rassemblées à l'entrée de la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Exodus 38:9",
+      "fr": "Il a fait l'enceinte (pour le mishkon). Du côté sud, les rideaux de l'enceinte étaient faits de fin lin retors, longs de cent amohs."
+    },
+    {
+      "ref": "Exodus 38:10",
+      "fr": "Il y avait vingt piliers et vingt socles de cuivre. Les crochets et les attaches des piliers étaient en argent."
+    },
+    {
+      "ref": "Exodus 38:11",
+      "fr": "Du côté nord, (sa longueur était) de cent amohs. Il y avait vingt piliers et vingt socles de cuivre. Les crochets et les attaches des piliers étaient en argent."
+    },
+    {
+      "ref": "Exodus 38:12",
+      "fr": "Du côté ouest, les rideaux étaient de cinquante amohs. Il y avait dix piliers et dix socles. Les crochets et les attaches des piliers étaient en argent."
+    },
+    {
+      "ref": "Exodus 38:13",
+      "fr": "(La largeur de l'enceinte) du côté est était de cinquante amohs."
+    },
+    {
+      "ref": "Exodus 38:14",
+      "fr": "Des rideaux longs de quinze amohs étaient sur un flanc (de l'entrée). Ils avaient trois piliers et trois socles."
+    },
+    {
+      "ref": "Exodus 38:15",
+      "fr": "L'autre flanc, de chaque côté de la porte de l'enceinte (il y avait aussi) des rideaux de quinze amohs de long. Eux aussi avaient trois piliers et trois socles."
+    },
+    {
+      "ref": "Exodus 38:16",
+      "fr": "Tous les rideaux autour de l’enceinte étaient faits de lin fin retors."
+    },
+    {
+      "ref": "Exodus 38:17",
+      "fr": "Les socles des colonnes étaient en cuivre, les crochets et les attaches des colonnes étaient en argent, et le revêtement de leurs sommets était en argent. Tous les piliers de l'enceinte avaient des bandes d'argent."
+    },
+    {
+      "ref": "Exodus 38:18",
+      "fr": "Le paravent à l'entrée de l'enceinte était l'œuvre d'un brodeur. Il était fait de laine bleu verdâtre, de laine rouge foncé, de laine pourpre [colorée] et de fin lin retors. Il mesurait vingt amohs de long et la hauteur en largeur était de cinq amohs, correspondant aux rideaux de l'enceinte."
+    },
+    {
+      "ref": "Exodus 38:19",
+      "fr": "(Le paravent) avait quatre piliers et quatre supports en cuivre, des crochets en argent, et leurs sommets et leurs bandes étaient recouverts d'argent."
+    },
+    {
+      "ref": "Exodus 38:20",
+      "fr": "Tous les pieux du mishkon et de l'enceinte environnante étaient en cuivre."
+    }
+  ]
+}

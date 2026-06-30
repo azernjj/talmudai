@@ -1,0 +1,412 @@
+{
+  "name": "Tetsaveh",
+  "range": "Exodus 27:20-30:10",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/tetzaveh.json",
+  "verses": [
+    {
+      "ref": "Exodus 27:20",
+      "fr": "Vous commanderez aux B'nei Yisrael et demandez-leur de vous apporter de l'huile d'olive claire, [fabriquée à partir d'olives qui ont été] broyées pour l'éclairage, afin que la lampe reste allumée constamment."
+    },
+    {
+      "ref": "Exodus 27:21",
+      "fr": "Dans la tente d'assignation, à l'extérieur des paroches, qui est devant le témoignage, Aharon et ses fils la disposeront [pour que la lampe brûle] du soir au matin devant Adonoy. C’est une loi éternelle pour leurs générations des B’nei Yisrael."
+    },
+    {
+      "ref": "Exodus 28:1",
+      "fr": "Et [maintenant, séparez-vous] et prenez avec vous votre frère Aharon, et ses fils avec lui, du milieu des B'nei Yisrael, pour qu'ils me servent [comme kohanim] : Aharon, Nadav, Avihu, Elazar et Isamar, les fils d'Aharon."
+    },
+    {
+      "ref": "Exodus 28:2",
+      "fr": "Fais des vêtements sacrés pour ton frère Aharon, pour l'honneur et la splendeur."
+    },
+    {
+      "ref": "Exodus 28:3",
+      "fr": "Parlez à tous ceux qui sont sages de cœur, que j'ai remplis de l'esprit de sagesse, et faites-leur confectionner les vêtements d'Aharon, afin de le sanctifier pour qu'il me serve [devant] moi [comme kohein]."
+    },
+    {
+      "ref": "Exodus 28:4",
+      "fr": "Voici les vêtements qu'ils feront : un pectoral, un éphod, une robe, un maillot de corps à carreaux, un turban et une ceinture. Fais-leur confectionner des vêtements sacrés pour ton frère Aaron et pour ses fils, afin qu'ils me servent [comme kohanim]."
+    },
+    {
+      "ref": "Exodus 28:5",
+      "fr": "Ils prendront l'or, la laine bleu verdâtre, la laine rouge foncé, la laine cramoisie et le fin lin retors."
+    },
+    {
+      "ref": "Exodus 28:6",
+      "fr": "Ils feront l'éifhod avec de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [de couleur] et du fin lin retors, ouvrage d'artisan."
+    },
+    {
+      "ref": "Exodus 28:7",
+      "fr": "Il devra avoir deux bretelles attachées, elles seront attachées à ses deux coins [côtés]."
+    },
+    {
+      "ref": "Exodus 28:8",
+      "fr": "La ceinture de l'éifod [qui le rehausse], qui est dessus, sera faite de la même manière [que l'éifhod] : elle sera tissée avec lui. [avec] de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie [colorée] et du fin lin retors."
+    },
+    {
+      "ref": "Exodus 28:9",
+      "fr": "Prenez deux pierres de shoham [onyx] et gravez dessus les noms des B'nei Yisrael."
+    },
+    {
+      "ref": "Exodus 28:10",
+      "fr": "Six de leurs noms sur la première pierre, et les six noms restants sur la deuxième pierre, dans l'ordre de leur naissance."
+    },
+    {
+      "ref": "Exodus 28:11",
+      "fr": "Le travail d'un graveur de pierres [précieuses] expérimenté, comme la gravure d'une chevalière [une bague] [écrit en écriture claire comme on grave une chevalière], vous graverez sur les deux pierres les noms des B'nei Yisrael. Tu les placeras dans des montures en or."
+    },
+    {
+      "ref": "Exodus 28:12",
+      "fr": "Placez les deux pierres sur les bretelles de l’éifhod comme pierres commémoratives pour les B’nei Yisrael. Aharon portera leurs noms devant Adonoy, sur ses deux épaules en souvenir."
+    },
+    {
+      "ref": "Exodus 28:13",
+      "fr": "Faire des sertissages en or,"
+    },
+    {
+      "ref": "Exodus 28:14",
+      "fr": "et deux chaînes d'or pur, tu en feras pour les extrémités un ouvrage tressé. et vous attacherez les chaînes tressées aux montures."
+    },
+    {
+      "ref": "Exodus 28:15",
+      "fr": "Faites un pectoral de jugement, œuvre d'artisan. Faites-le de la même manière que vous avez fait l'eiphod. Vous le ferez avec de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [de couleur] et du fin lin retors."
+    },
+    {
+      "ref": "Exodus 28:16",
+      "fr": "Ce sera un carré doublé, d'un empan dans sa longueur et d'un empan dans sa largeur."
+    },
+    {
+      "ref": "Exodus 28:17",
+      "fr": "Remplissez-le [les montures du pectoral] avec des plombages de pierres [montées]. Il y aura quatre rangées de pierres [précieuses] : [La première rangée :] Un odem [rubis], une pitda [topaze] et un barekes [émeraude], [seront placés sur] la première rangée [une]."
+    },
+    {
+      "ref": "Exodus 28:18",
+      "fr": "La deuxième rangée : nofech [anthrax], saphir et yahalom [diamant]."
+    },
+    {
+      "ref": "Exodus 28:19",
+      "fr": "La troisième rangée : leshem [opale], shevo [agate] et ahlomo [améthyste]."
+    },
+    {
+      "ref": "Exodus 28:20",
+      "fr": "La quatrième rangée : tarshish [chrysolite], shoham [onyx] et yoshfei [jaspe]. [Ces pierres] seront placées dans des montures en or dans leur intégralité."
+    },
+    {
+      "ref": "Exodus 28:21",
+      "fr": "Ces pierres porteront les noms des B'nei Yisrael, douze d'entre eux par leurs noms, le nom de chacun [écrit en écriture claire comme on grave une chevalière] gravé comme sur une chevalière [bague], représentant les douze tribus."
+    },
+    {
+      "ref": "Exodus 28:22",
+      "fr": "Tu feras pour le pectoral deux chaînes torsadées, tressées en or pur."
+    },
+    {
+      "ref": "Exodus 28:23",
+      "fr": "Tu feras deux anneaux d'or pour le pectoral, et tu placeras les deux anneaux aux deux coins [supérieurs] [côtés] du pectoral."
+    },
+    {
+      "ref": "Exodus 28:24",
+      "fr": "Placez [attachez] les deux chaînes tressées en or sur les deux anneaux, aux coins [côtés] du pectoral."
+    },
+    {
+      "ref": "Exodus 28:25",
+      "fr": "Tu placeras [attacher] les deux extrémités des deux chaînes tressées [qui sont sur ses deux côtés] aux deux montures, et tu les placeras sur les bretelles de l'éifod vers sa face."
+    },
+    {
+      "ref": "Exodus 28:26",
+      "fr": "Tu feras deux anneaux d'or et tu les placeras aux deux coins [inférieurs] [côtés] du pectoral, sur son bord qui est à l'intérieur de l'éifod."
+    },
+    {
+      "ref": "Exodus 28:27",
+      "fr": "Faites deux anneaux d'or et placez-les sur les deux bretelles de l'éifod, en bas, vers sa face, à l'endroit où ils sont joints, au-dessus de la ceinture de l'éifod."
+    },
+    {
+      "ref": "Exodus 28:28",
+      "fr": "Ils attacheront les anneaux [inférieurs] du pectoral aux anneaux [inférieurs] de l'éifod avec un cordon de laine bleu verdâtre, de sorte qu'il [le pectoral] reste contre la ceinture de l'éifod, afin que le pectoral ne bouge pas de l'éifod."
+    },
+    {
+      "ref": "Exodus 28:29",
+      "fr": "Aharon portera ainsi les noms des B'nei Yisrael sur la cuirasse du jugement, sur son cœur, lorsqu'il entrera dans le Saint [sanctuaire], comme un souvenir constant devant Adonoy."
+    },
+    {
+      "ref": "Exodus 28:30",
+      "fr": "Mettez dans le pectoral l'Urim et le Tumim, et ils seront sur le cœur d'Aharon lorsqu'il se présentera devant Adonoy. Aharon portera le jugement des B’nei Yisrael sur son cœur, toujours devant Adonoy."
+    },
+    {
+      "ref": "Exodus 28:31",
+      "fr": "Réalisez la robe de l'éifode entièrement en laine bleu verdâtre."
+    },
+    {
+      "ref": "Exodus 28:32",
+      "fr": "Son ouverture au sommet doit être tournée vers l'intérieur. Son ouverture aura une bordure tout autour, [cette bordure sera] en tissu tissé, comme il y en a autour de l'ouverture d'une armure, afin qu'elle ne soit pas déchirée."
+    },
+    {
+      "ref": "Exodus 28:33",
+      "fr": "Sur son ourlet [inférieur], tu feras des grenades en laine bleu verdâtre, en laine rouge foncé et en laine [colorée] pourpre — autour de son ourlet [inférieur]. Il y aura des cloches d'or entre eux, tout autour."
+    },
+    {
+      "ref": "Exodus 28:34",
+      "fr": "Une cloche d'or et une grenade, une cloche d'or et une grenade, sur l'ourlet [inférieur] de la robe tout autour."
+    },
+    {
+      "ref": "Exodus 28:35",
+      "fr": "Ce sera sur Aharon quand il accomplira le service [Divin]. Son bruit se fera entendre quand il entrera dans le Saint [sanctuaire] en présence d'Adonoy, et quand il en sortira, afin qu'il ne meure pas."
+    },
+    {
+      "ref": "Exodus 28:36",
+      "fr": "Tu feras un diadème d'or pur et tu graveras dessus, à la manière d'un sceau [bague] [écriture claire], « Saint à Adonoy »."
+    },
+    {
+      "ref": "Exodus 28:37",
+      "fr": "Fixez-le sur un cordon de laine bleu verdâtre, de manière à ce qu'il soit sur le turban. Ce sera près du devant du turban."
+    },
+    {
+      "ref": "Exodus 28:38",
+      "fr": "Il sera [porté] sur le front d'Aharon, et Aharon portera [expiera] l'iniquité des offrandes sacrées que les B'nei Yisrael consacrent pour tous leurs dons sacrés. Ce sera toujours sur son front de les rendre acceptables [les offrandes sacrées] devant Adonoy."
+    },
+    {
+      "ref": "Exodus 28:39",
+      "fr": "Réalisez le maillot de corps avec un travail à carreaux en lin fin. Fais le turban en fin lin. et la ceinture sera un ouvrage de brodeur."
+    },
+    {
+      "ref": "Exodus 28:40",
+      "fr": "Pour les fils d'Aharon, confectionnez des tuniques et des ceintures. Fabriquez-leur des chapeaux en forme de turban, pour l'honneur et la splendeur."
+    },
+    {
+      "ref": "Exodus 28:41",
+      "fr": "Habille ton frère Aaron avec [ces vêtements], et [habille-toi] aussi ses fils avec lui. [Ensuite] oignez-les, et installez-les [offrez leurs sacrifices], et consacrez-les pour qu'ils me servent [devant] Moi [comme kohanim]."
+    },
+    {
+      "ref": "Exodus 28:42",
+      "fr": "Fais-leur des pantalons de lin qui couvriront leur nudité et qui descendront de la taille jusqu'aux cuisses."
+    },
+    {
+      "ref": "Exodus 28:43",
+      "fr": "Ces [vêtements] doivent être portés par Aaron et ses fils chaque fois qu'ils entrent dans la Tente d'assignation ou s'approchent de l'autel pour servir dans le Saint [sanctuaire], afin qu'ils ne portent pas l'iniquité et ne meurent pas. C'est une loi perpétuelle pour lui et pour ses descendants après lui."
+    },
+    {
+      "ref": "Exodus 29:1",
+      "fr": "C'est ce que vous devez faire pour qu'ils les consacrent à Me servir [devant] Moi [comme kohanim]. Prends un jeune taureau et deux béliers sans défaut,"
+    },
+    {
+      "ref": "Exodus 29:2",
+      "fr": "[aussi] pains sans levain, pains sans levain pétris avec de l'huile [d'olive]. et des galettes sans levain ointes d'huile. Vous devez les préparer avec de la farine de blé fine."
+    },
+    {
+      "ref": "Exodus 29:3",
+      "fr": "Mettez-les dans un panier et apportez-les dans le panier avec le jeune taureau et les deux béliers."
+    },
+    {
+      "ref": "Exodus 29:4",
+      "fr": "Approchez Aaron et ses fils de l'entrée de la tente d'assignation et plongez-les dans l'eau."
+    },
+    {
+      "ref": "Exodus 29:5",
+      "fr": "Prenez les vêtements et habillez Aharon avec le maillot de corps, la robe de l'éifod, l'éifod, le pectoral, et ceignez-le avec la ceinture de l'éifod."
+    },
+    {
+      "ref": "Exodus 29:6",
+      "fr": "Mettez le turban sur sa tête et placez le diadème sacré sur le turban."
+    },
+    {
+      "ref": "Exodus 29:7",
+      "fr": "Prends l'huile d'onction, verse-la sur sa tête et oins-le."
+    },
+    {
+      "ref": "Exodus 29:8",
+      "fr": "Approchez ses fils et habillez-les de gilets."
+    },
+    {
+      "ref": "Exodus 29:9",
+      "fr": "Ceignez-les, Aaron et ses fils, de ceintures et attachez-leur des chapeaux semblables à des turbans, et le sacerdoce sera pour eux une loi éternelle. Ainsi tu installeras [offrir le sacrifice d’] Aharon et [le sacrifice de] ses fils."
+    },
+    {
+      "ref": "Exodus 29:10",
+      "fr": "Amenez le jeune taureau devant la tente d'assignation, et Aaron et ses fils poseront leurs mains sur la tête du jeune taureau."
+    },
+    {
+      "ref": "Exodus 29:11",
+      "fr": "Abattez le taureau devant Adonoy, à l'entrée de la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Exodus 29:12",
+      "fr": "Prenez du sang du taureau et mettez-le avec votre doigt sur les élévations en forme de corne de l'autel, et versez tout le sang [restant] au pied de l'autel."
+    },
+    {
+      "ref": "Exodus 29:13",
+      "fr": "Prenez toute la graisse qui recouvre les organes internes, le lobe qui est avec le foie, les deux rognons avec la graisse qui est dessus, et brûlez-les sur l'autel."
+    },
+    {
+      "ref": "Exodus 29:14",
+      "fr": "[Mais] la chair du taureau, sa peau et ses excréments, vous les brûlerez au feu hors du camp. C'est un sacrifice pour le péché."
+    },
+    {
+      "ref": "Exodus 29:15",
+      "fr": "Prenez le premier bélier et demandez à Aaron et à ses fils d'appuyer leurs mains sur la tête du bélier."
+    },
+    {
+      "ref": "Exodus 29:16",
+      "fr": "Abattez le bélier, prenez son sang et répandez-le autour de l'autel."
+    },
+    {
+      "ref": "Exodus 29:17",
+      "fr": "Coupez le bélier en morceaux [ses membres]. [Puis] lavez ses intestins et ses pattes et placez-les avec ses morceaux [membres] découpés et sa tête."
+    },
+    {
+      "ref": "Exodus 29:18",
+      "fr": "Brûlez tout le bélier sur l'autel, c'est un holocauste à [devant] Adonoy, un parfum agréable [à accepter avec faveur], un sacrifice par le feu à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 29:19",
+      "fr": "Prenez le deuxième bélier et demandez à Aaron et à ses fils d'appuyer leurs mains sur la tête du bélier."
+    },
+    {
+      "ref": "Exodus 29:20",
+      "fr": "Abattez le bélier, prélevez son sang, et mettez-le sur le bout de l'oreille droite d'Aharon, et sur le bout de l'oreille droite de ses fils, et sur le pouce de leur main droite, et sur le gros orteil de leur pied droit. Saupoudrez le sang [restant] tout autour de l'autel."
+    },
+    {
+      "ref": "Exodus 29:21",
+      "fr": "Prends du sang qui est sur l'autel et de l'huile d'onction et asperge-en sur Aaron et ses vêtements, ainsi que sur ses fils et leurs vêtements. Ainsi lui et ses vêtements seront consacrés, ainsi que ses fils et les vêtements de ses fils."
+    },
+    {
+      "ref": "Exodus 29:22",
+      "fr": "Prenez du bélier la graisse [intestinale], la large queue, la graisse qui recouvre les organes internes, le lobe du foie, les deux rognons et la graisse qui est sur eux, et l'épaule droite, car c'est un bélier pour l'offrande finale."
+    },
+    {
+      "ref": "Exodus 29:23",
+      "fr": "[Prenez aussi] une galette de pain, une miche de pain huilé et une galette de la corbeille de pains sans levain qui est devant Adonoy."
+    },
+    {
+      "ref": "Exodus 29:24",
+      "fr": "Mettez toutes ces choses dans les mains [ouvertes] d'Aharon et dans les mains [ouvertes] de ses fils, et vous les agiterez en offrande agitée devant Adonoy."
+    },
+    {
+      "ref": "Exodus 29:25",
+      "fr": "Ensuite, prenez [ces choses] de leurs mains et brûlez-les sur l'autel après l'holocauste, comme un parfum agréable [pour être accepté avec faveur] devant Adonoy. C'est une offrande par le feu à [sacrifier devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 29:26",
+      "fr": "Prenez le sein de l'offrande du bélier d'Aharon et agitez-le en offrande agitée à [devant] Adonoï. Alors ce sera votre part [de Moshe]."
+    },
+    {
+      "ref": "Exodus 29:27",
+      "fr": "Sanctifiez la poitrine de l'offrande agitée et l'épaule de l'offrande de terumah qui étaient [les] [parties] agitées et soulevées du bélier de l'offrande finale [offrande] [qui servait à installer] Aharon et ses fils."
+    },
+    {
+      "ref": "Exodus 29:28",
+      "fr": "Ce sera une loi pour Aaron et ses fils pour toujours. [Cette portion est prise] des B'nei Yisrael car c'est une offrande de terumah. Ce sera une offrande de teruma des B'nei Yisrael, prélevée sur leurs offrandes de paix. C'est leur offrande de terumah à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 29:29",
+      "fr": "Les vêtements sacrés d'Aharon appartiendront à son fils après lui, pour être élevés à travers eux et pour être installés [offrir leurs sacrifices] à travers eux."
+    },
+    {
+      "ref": "Exodus 29:30",
+      "fr": "Sept jours [consécutifs] seront portés par celui qui sert à sa place, l'un de ses fils, qui viendra dans la tente d'assignation pour servir dans le Saint [Sanctuaire]."
+    },
+    {
+      "ref": "Exodus 29:31",
+      "fr": "Prenez le [reste du] bélier de l'offrande finale et faites cuire sa chair dans un lieu sacré."
+    },
+    {
+      "ref": "Exodus 29:32",
+      "fr": "Aaron et ses fils mangeront la viande du bélier et le pain qui est dans la corbeille, à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Exodus 29:33",
+      "fr": "Ils doivent manger les choses par lesquelles l'expiation a été réalisée, les installer [offrir leurs sacrifices] et [ainsi] les sanctifier. Un étranger [un non-kohein] ne peut pas en manger car ils sont sacrés."
+    },
+    {
+      "ref": "Exodus 29:34",
+      "fr": "S'il reste de la viande de l'offrande d'offrande ou s'il reste du pain jusqu'au matin, vous brûlerez les restes au feu. Il ne faut pas en manger car c'est sacré."
+    },
+    {
+      "ref": "Exodus 29:35",
+      "fr": "Vous ferez ainsi envers Aaron et ses fils, selon tout ce que je vous ai commandé. Sept jours tu les installeras [offriras leurs sacrifices]."
+    },
+    {
+      "ref": "Exodus 29:36",
+      "fr": "Offrez chaque jour un taureau en sacrifice pour le péché, en guise d'expiation ; et en aspergeant [son sang] sur l'autel, vous le purifierez [l'élèverez] [l'autel.] Vous l'oindrez ensuite pour le sanctifier."
+    },
+    {
+      "ref": "Exodus 29:37",
+      "fr": "Pendant sept jours, vous ferez l'expiation pour l'autel et vous le sanctifierez et ainsi l'autel sera le Saint des Saints. Tout ce qui touche l'autel devient sacré."
+    },
+    {
+      "ref": "Exodus 29:38",
+      "fr": "Et voici ce que vous offrirez sur l'autel : deux agneaux d'un an chaque jour, continuellement."
+    },
+    {
+      "ref": "Exodus 29:39",
+      "fr": "Offrez un agneau le matin et offrez le deuxième agneau l'après-midi."
+    },
+    {
+      "ref": "Exodus 29:40",
+      "fr": "Et un dixième de farine fine mélangée à un quart de hin d'huile d'olive pressée, et une libation d'un quart de hin de vin pour le premier agneau."
+    },
+    {
+      "ref": "Exodus 29:41",
+      "fr": "Offrez le deuxième agneau l'après-midi. Comme offrande de repas du matin, avec sa libation, tu l'offriras, pour une odeur agréable [à accepter avec faveur], en offrande par le feu à [sacrifice devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 29:42",
+      "fr": "Ce sera un holocauste continu pour vos générations. [Il sera offert] à l'entrée de la tente d'assignation, devant Adonoy, où je me rencontrerai [préparerai ma parole] avec vous, pour vous parler là."
+    },
+    {
+      "ref": "Exodus 29:43",
+      "fr": "C’est là que Je rencontrerai [préparerai Ma Parole] avec les B’nei Yisrael, et ils [Je] serai sanctifié par Ma Gloire."
+    },
+    {
+      "ref": "Exodus 29:44",
+      "fr": "Je sanctifierai la tente d'assignation et l'autel, et je sanctifierai Aaron et ses fils pour qu'ils me servent de cohanim."
+    },
+    {
+      "ref": "Exodus 29:45",
+      "fr": "J'habiterai [repose ma Chechina] parmi les B'nei Yisrael, et je serai leur Dieu."
+    },
+    {
+      "ref": "Exodus 29:46",
+      "fr": "Ils sauront que Moi, Adonoy, je suis leur Dieu qui les ai fait sortir du pays d'Egypte pour habiter [repose Ma Chechina] parmi eux. Je suis Adonoy, leur Dieu."
+    },
+    {
+      "ref": "Exodus 30:1",
+      "fr": "Tu feras un autel [sur lequel] tu brûleras de l'encens [des épices]. Faites-le en bois d'acacia."
+    },
+    {
+      "ref": "Exodus 30:2",
+      "fr": "Il aura un amoh de long et un amoh de large, ce sera un carré et deux amoh de haut. Ses élévations en forme de corne seront d'une seule pièce avec lui."
+    },
+    {
+      "ref": "Exodus 30:3",
+      "fr": "Tu le couvriras d'or pur sur son dessus, ses murs tout autour et ses élévations en forme de corne, et tu feras un bord d'or en forme de couronne tout autour."
+    },
+    {
+      "ref": "Exodus 30:4",
+      "fr": "Fais-lui deux anneaux d'or sous son rebord en forme de couronne, à deux de ses coins. Réalisez-les sur ses deux côtés opposés. Ils abriteront les bâtons avec lesquels il est transporté."
+    },
+    {
+      "ref": "Exodus 30:5",
+      "fr": "Fabriquez les poteaux en bois d'acacia et recouvrez-les d'or."
+    },
+    {
+      "ref": "Exodus 30:6",
+      "fr": "Placez-le devant les parois qui sont près de l'Arche du Témoignage, devant la couverture qui est sur le Témoignage, là où je vous rencontrerai [préparerai Ma Parole] là-bas."
+    },
+    {
+      "ref": "Exodus 30:7",
+      "fr": "Aaron y brûlera de l'encens aromatisé. Chaque matin, quand il nettoiera les lampes, il les brûlera."
+    },
+    {
+      "ref": "Exodus 30:8",
+      "fr": "Et quand Aharon allumera les lampes l’après-midi, il les brûlera. C'est une offrande continuelle d'encens et d'épices devant Adonoy pour vous, des générations."
+    },
+    {
+      "ref": "Exodus 30:9",
+      "fr": "N'apportez pas d'encens [épices] étranges [non autorisés] ; ni holocaustes ni offrandes de repas. Vous n’y verserez pas d’offrande de libation."
+    },
+    {
+      "ref": "Exodus 30:10",
+      "fr": "Aharon fera l'expiation une fois par an sur ses élévations en forme de corne. Avec le sang du sacrifice d'expiation, il fera l'expiation une fois par an pour vos générations. C'est le Saint des Saints de [devant] Adonoy."
+    }
+  ]
+}

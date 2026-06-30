@@ -1,0 +1,536 @@
+{
+  "name": "Massei",
+  "range": "Numbers 33:1-36:13",
+  "commentary": "Ramban",
+  "source": "public/data/parashiot/commentaries/ramban/masei.json",
+  "verses": [
+    {
+      "ref": "Numbers 33:1",
+      "fr": "VOICI LES VOYAGES. Après la vengeance [exécutée] contre Madian, au sujet de laquelle le Saint, béni soit-Il, a dit à Moïse, tu seras ensuite rassemblé auprès de ton peuple, 1 ci-dessus, 31 : 2. et après que Moïse eut partagé le pays de Sihon et d'Og [aux tribus de Ruben, Gad et la moitié de la tribu de Menasheh] et qu'ils eurent construit les villes [précédemment] mentionnées,2Ibid., 32 : 34-38. il s'est mis en tête de noter [les différentes étapes des] voyages [dans le désert]. Ce faisant, son intention était d'informer [les générations futures] des bontés du Saint, béni soit-Il, envers elles, car même s'il leur avait décrété qu'ils devaient se déplacer et errer dans le désert, il ne faut pas penser qu'ils erraient et se déplaçaient continuellement d'un endroit à l'autre sans aucun repos ; car pendant toute cette longue [période] de temps, ils n'ont fait que quarante-deux voyages comme l'a écrit le rabbin - Rachi -, [citant] les paroles de Rabbi Moshe le Prédicateur.3Voir ci-dessus dans Seder Naso, Note 146. Et le Rabbin [Moshe ben Maimon] a ajouté dans le Moreh Nebuchim4Guide des Perplexes III, 50. Ramban utilise la traduction hébraïque de l’arabe d’Al Charizi [plutôt que celle d’Ibn Tibbon]. une autre [explication quant au] bénéfice [que nous tirons] de la connaissance [de ces étapes], disant : \" Il était très nécessaire de mentionner les [étapes des] voyages. Car [bien que] les miracles et les prodiges qui ont été accomplis aient été [reconnus comme] vrais par tous ceux qui les ont vus, dans les temps ultérieurs, ces événements seraient des ouï-dire, et ceux qui en entendraient parler [alors] pourraient les nier complètement. Maintenant parmi les plus grands miracles et prodiges [raconté] dans la Torah est la survie d'Israël dans le désert pendant quarante ans et la recherche de la manne chaque jour, bien que ces endroits [où ils sont restés] soient très éloignés des colonies cultivées et ne soient pas un habitat naturel pour les êtres humains, car ils ne sont pas un lieu de semence, ni de figues, ni de vignes, ni de grenades. 29:5. Toutes ces choses sont des signes d'événements de nature miraculeuse qui ont été vus par l'œil [humain]. Mais le Créateur, béni soit-Il, savait que ces merveilles seraient soumises au processus qui se produit pour [tous] les événements historiques – que ceux qui les entendent ne les croiraient pas ; et ils penseront [à propos de ces événements] que le séjour des Israélites dans le désert était [dans un endroit] proche de l'établissement cultivé, où les gens peuvent y vivre, comme les déserts dans lesquels vivent les Arabes aujourd'hui, ou [qu'ils sont restés dans] des endroits où il y avait des labours et des récoltes, ou où il y avait des herbes et des plantes propres à la consommation humaine, et qu'il y avait des puits d'eau dans ces endroits. C’est pourquoi, afin d’éloigner du cœur des gens toutes ces pensées et d’établir fermement [la vérité de] tous ces miracles, [il a enregistré] comme un mémorial [permanent] les [étapes de leurs] voyages [dans le désert], afin que les générations futures les voient et reconnaissent les grandes merveilles [impliquées] en gardant les gens en vie dans de tels endroits pendant quarante ans. Ce sont toutes ses paroles [c'est-à-dire les paroles de Rabbi Moshe ben Maimon]. Ainsi, noter [les étapes des] voyages était un commandement de D.ieu, soit pour les raisons mentionnées ci-dessus, soit pour d'autres raisons, [dans] un but dont le secret ne nous a pas été révélé. Car [l'expression] par le commandement de l'Éternel7Le verset 2. est lié à [le début de ce verset], Et Moïse a écrit,7Verset 2. contrairement à l'opinion de Rabbi Abraham ibn Ezra qui a écrit qu'elle est liée à selon leurs voyages,8Le verset 2 dit : Et Moïse a écrit leurs sorties selon leurs voyages par le commandement de l'Éternel. Ibn Ezra explique que la phrase par le commandement de l'Éternel est liée à selon leurs voyages, ce qui signifie que tous leurs voyages se sont déroulés par le commandement de D.ieu. Ramban s’oppose à cette explication parce que ce fait a déjà été exprimé ailleurs dans l’Écriture, et par conséquent il explique que l’expression fait référence au début du verset, Et Moïse a écrit, et l’intention est de dire que Moïse a écrit les différentes étapes des voyages par ordre de D.ieu, et non de son propre accord. car l'Écriture nous l'a déjà informé [fait, disant] : ils campèrent selon le commandement de l'Éternel, et ils partirent selon le commandement de l'Éternel.9Ci-dessus, 9:20."
+    },
+    {
+      "ref": "Numbers 33:2",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:3",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:4",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:5",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:6",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:7",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:8",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:9",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:10",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:11",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:12",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:13",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:14",
+      "fr": "IL EST PLACE À REPHIDIM, ET IL N'Y AVAIT PAS D'EAU À BOIRE POUR LES GENS. L'Écriture [ici] ne mentionne pas le miracle [qui s'est produit] avec l'eau de Marah,10Exode 15 :23-25. ni le miracle [quotidien] de la manne [qui a eu lieu] dans le désert de Sin.11Ibid., chapitre 16. Mais [il mentionne le don d'eau à Rephidim] parce que cet épisode à Rephidim était un événement important, puisqu'ils essayaient D.ieu [là-bas], et cet endroit était donc appelé Massah (Essai) et Meribah (Conflit),12Ibid., 17:7. où Il a été sanctifié en leur présence en faisant sortir pour eux de l'eau du rocher,13Ibid., verset 6. et c'est là qu'ils furent attaqués par les Amalécites.14Ibid., verset 8. C'est pourquoi Il [seulement] l'a décrit ici en bref, [en disant], et il n'y avait pas d'eau à boire pour le peuple, puisque c'était l'endroit qui était reconnu et connu par ce [fait]."
+    },
+    {
+      "ref": "Numbers 33:15",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:16",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:17",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:18",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:19",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:20",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:21",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:22",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:23",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:24",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:25",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:26",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:27",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:28",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:29",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:30",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:31",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:32",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:33",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:34",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:35",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:36",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:37",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:38",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:39",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:40",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:41",
+      "fr": "ET ILS ONT VOYAGER DU MONT HOR ET S'INSTALLENT À ZALMONAH. Ces lieux — Zalmonah et Punon15Verset 42 ici. — étaient par le chemin de la mer Rouge qui faisait le tour du pays d'Édom, et l'âme du peuple s'impatientait à cause du chemin,16Ci-dessus, 21:10. et ils [c'est pourquoi] parlèrent contre D.ieu et Moïse en chemin, et D.ieu envoya contre eux les serpents de feu pendant qu'ils voyageaient et lorsqu'ils se reposaient au camp. Alors Moïse fit le serpent d'airain, qu'ils portèrent sur un poteau18Ibid., verset 9. tout le long du chemin, et [le garda] lorsqu'ils campèrent à Zalmonah et à Punon, et il ne leur fut pas retiré jusqu'à ce qu'ils campèrent à Oboth.19Verset 43 ici. C'est pourquoi l'Écriture, en racontant cet épisode [des serpents de feu, ci-dessus au chapitre 21], ne mentionne pas le nom du lieu [d'où ils repartirent, c'est-à-dire Zalmonah et Punon] et dit [simplement] : Et les enfants d'Israël partirent et campèrent à Oboth, 20 ci-dessus, 21 : 10. sans dire « et ils partirent de tel et tel endroit et campèrent à Oboth », comme c'est le cas pour toutes les [autres étapes de leurs] voyages. C'est parce que l'affaire [du serpent d'airain] a continué tout au long de ce chemin — depuis le moment où ils ont voyagé depuis le mont Hor jusqu'à ce qu'ils aient campé à Oboth, et ils sont partis d'Oboth et ont campé à Ije-abarim.21Ibid., verset 11. — Verset 44 ici. De là, ils partirent et campèrent à Divon-gad, puis à Almon-diblathaïm, et [enfin] dans les montagnes d'Abarim,22Versets 45-47 ici. [tout cela] étant des lieux dans la vallée de Zered.23 Ci-dessus, 21:12."
+    },
+    {
+      "ref": "Numbers 33:42",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:43",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:44",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:45",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:46",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:47",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:48",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:49",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:50",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:51",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:52",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:53",
+      "fr": "ET VOUS CHASSEREZ LES HABITANTS DU PAYS ET Y HABITEZ ; Car je vous ai donné la terre pour la posséder. À mon avis, il s’agit d’un commandement positif24. Parmi les grands érudits qui énumèrent les 613 commandements individuels, Ramban fut le premier à mentionner ce commandement [de conquérir et de s’installer sur la Terre d’Israël, etc.] comme étant contraignant pour tous les temps. Dans ses notes sur le Sefer Hamitzvoth (Livre des Commandements) de Maïmonide, dans la section sur les commandements positifs « supplémentaires », n° 4, Ramban discute longuement de cette opinion. Ici, dans son commentaire sur la Torah, il le mentionne brièvement, en s'appuyant vraisemblablement sur son explication dans l'ouvrage cité ci-dessus. dans lequel Il leur commande d'habiter le Pays et d'en hériter, parce qu'Il le leur a donné et qu'ils ne doivent pas rejeter l'héritage de l'Éternel.25I Samuel 26 :19. Ainsi, si l’idée leur vient à l’esprit d’aller conquérir le pays de Shinar ou le pays d’Assyrie ou tout autre pays et de s’y installer, ils transgressent ainsi le commandement de D.ieu. Et ce que nos rabbins ont souligné, l'importance du commandement de s'établir en Terre d'Israël, et qu'il est interdit d'en sortir [sauf pour certaines raisons spécifiées], et [le fait] qu'ils considèrent une femme qui ne veut pas émigrer avec son mari pour vivre en Terre d'Israël comme une « [épouse] rebelle »,26 Kethuboth 110b : « S'il veut émigrer [en Terre d'Israël] et qu'elle refuse, elle peut être forcée de allez-y, et si elle refuse toujours, elle peut divorcer sans sa ketouba (contrat de mariage — voir Vol. II, pp. 385-386) et de même l'homme27 « Si elle veut émigrer [en Terre d'Israël] et qu'il refuse, il peut être forcé d'y aller, et s'il refuse toujours, il doit divorcer et lui donner la ketouba (ibid.). — la source de toutes ces déclarations est ici [dans ce verset] où ce commandement nous a été donné, car ce verset constitue un commandement positif.28 « Pour toutes les générations, chacun étant tenu de l'accomplir, même pendant l'exil » (Ramban dans ses notes sur les commandements positifs « supplémentaires » du Sefer Hamitzvoth de Maïmonide, n° 4). Ce commandement, Il le répète en de nombreux endroits, tels que : Entrez et possédez le pays.29Deutéronome 1 : 8. \"Et quand ils ont refusé de monter, il est écrit : mais vous vous êtes rebellés contre le commandement de l'Éternel votre D.ieu (ibid., verset 26 - Ramban sur Sefer Hamitzvoth, ibid.). Rachi, cependant, a expliqué : \"Et vous chasserez les habitants du pays - [si] vous le dépossédez de ses habitants, alors vous pourrez y habiter et y rester, mais sinon, vous ne pourrez pas y rester. ça. Mais notre interprétation [du verset] est la principale."
+    },
+    {
+      "ref": "Numbers 33:54",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 33:55",
+      "fr": "L'SIKIM' DANS VOS YEUX - \"'comme des épingles' qui vous piquent les yeux. Le [araméen] Targum [Onkelos] du mot hébreu yetheidoth30Exode 27 :19. (épingles) est sikim. 'V'LITZNINIM'. Les traducteurs ont interprété ce [mot] dans le sens de [l'expression] mesuchath (couvert par) des épines31Proverbes 15:19. Ils vous encerclent de telle sorte qu'ils vous enferment et vous emprisonnent et que vous ne puissiez ni sortir ni entrer. C’est la langue de Rachi. Or, il est [en effet] clair que sikim signifie « épines acérées » et est lié à [l'expression] : J'enlèverai « mesukatho » (sa haie) ;32 Ésaïe 5 : 5. Je « clôturerai » ton chemin avec des épines ;33 Osée 2 : 8. N'as-Tu pas « sachta » (fait une haie) autour de lui ?; 34 Job 1:10. et mets « sakin » sur ta gorge35Proverbes 23:2. — [toutes ces phrases faisant référence à] quelque chose de pointu, fait d'épine ou de fer. V'litzninim est également [un terme pour] une épine perçante36Ézéchiel 28 :24. lié à l'expression : et il retire même les « mitsinim » des épines) ; 37 Job 5 : 5. Les « tzinim » (épines) et les pièges sont sur le chemin des tortueux,38Proverbes 22 : 5. et [le mot tzinim dans ces deux versets] n'a pas la double lettre ['nonne', puisque le mot complet est tzninim, comme dans le verset devant nous]. Mais l’intention de [l’expression ici] « l’sikim » à vos yeux est : « vous égarer afin que vous ne voyiez ni ne compreniez », tout comme dans [l’expression], car le pot-de-vin « aveugle » ceux qui ont les yeux ouverts,39 Exode 23 : 8. Un pot-de-vin n’aveugle pas physiquement mais incite le destinataire à prendre une décision injuste. et comme, ni mettre une pierre d'achoppement devant « les aveugles »,40 Lévitique 19:14. De l’avis des rabbins, cela établit l’interdiction de donner des conseils trompeurs à une personne « aveugle » (sans méfiance) sur un certain sujet. Voir « Les Commandements », Vol. II, p. 277-278. selon l'avis de nos rabbins. Ainsi le verset dit qu'ils [les habitants du pays] vous « crèveront » les yeux en vous induisant en erreur, parce que vous ne percevrez ni ne comprendrez [le danger], et ils vous apprendront [à faire] toutes leurs abominations41Deutéronome 20 :18. et pour adorer leurs dieux, comme il a dit : Ils n'habiteront pas dans ton pays, de peur qu'ils ne te fassent pécher contre moi, car tu serviras leurs dieux.42 Exode 23 :33. Après avoir été des épines dans vos yeux et vous avoir incités à vous détourner de Moi, ils seront des piqûres dans vos côtés, vous causant souffrance et douleur, en vous pillant et en vous dépouillant. Et après cela, ils vous harcèleront,43Verset 55 ici. ce qui signifie qu'ils combattront contre vous et vous assiègeront, et je vous enverrai alors en exil, une captivité entière,44Amos 1:6. à leur place. Car ce que j'ai pensé leur faire45Verset 56. à cause de vous, c'est-à-dire les envoyer tous en exil hors du pays, afin que vous n'y laissiez plus aucun d'eux,46Ézéchiel 39 :28. mais vous n'avez pas écouté ma voix, c'est pourquoi je vous traiterai ainsi45Verset 56. et je ne laisserai aucun d'entre vous dans le pays. De la même manière, Josué a dit : Et ils seront pour vous un piège et un piège, un fouet dans vos côtés et une piqûre dans vos yeux, jusqu'à ce que vous périssiez de ce bon pays.47Josué 23 :13. Josué a dit un piège et un piège en référence aux erreurs dans lesquelles ils vous entraîneront, comme dans [l'expression], car tu serviras leurs dieux — car ils seront « un piège » pour toi ;42 Exode 23 :33. et un fléau dans vos côtés qui signifie qu'ils vous châtieront avec des shotim (fouets)48. Le mot hébreu ul'shoteit [dans Josué 23 :13, qui est habituellement traduit : comme un fléau], est compris ici par Ramban comme venant du nom shot (un fouet). afin qu'ils pillent, dépouillent et vous causent de grandes souffrances ; et des piqûres dans les yeux, cela fait référence à l'aveuglement de la perception du cœur, afin de vous induire davantage en erreur après leurs dieux ; jusqu'à ce que vous périssiez de ce bon pays, semblable à ce qui est dit, de peur que, voyant de leurs yeux, et entendant de leurs oreilles, et intelligent de leur cœur, ils ne reviennent et ne soient guéris.49 Ésaïe 6:10."
+    },
+    {
+      "ref": "Numbers 33:56",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:1",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:2",
+      "fr": "EL HA'ARETZ KENA'AN' (AU PAYS DE CANAAN). \" Ceci est comme [l'expression] : et la prophétie d'Oded le prophète,50II Chroniques 15 :8. Voir ci-dessus dans Seder Beha'alothcha, Note 284, pour la raison grammaticale pour laquelle le verset nécessite l'expression supplémentaire « une prophétie » après les mots initiaux et une prophétie. Ici aussi, le sens du verset est : dans le pays, le pays de Canaan. [qui doit être compris comme : \" et la prophétie, une prophétie d’Oded le prophète’]. Le sens [du verset ainsi] est : ‘dans le pays, le pays de Canaan.’ » C’est la langue de Rabbi Abraham ibn Ezra, et Rachi l’a également écrit.51 Cela ne se trouve pas ici dans nos textes de Rachi. Cependant, Ramban fait peut-être référence à Rachi dans Genèse 31 : 13, où cette interprétation est clairement implicite. Voir Vol. Moi, p. 382. Les érudits ont apporté un exemple similaire : [Je suis] ‘ha’E-il beith eil’52Genèse 31 :13. [ce qu'ils ont interprété comme signifiant : « Je suis D.ieu, qui est le D.ieu de Beth-el »]. Et j'en ai déjà expliqué le secret. L’interprétation correcte de [l’expression] el ha’aretz kena’an me semble être que le nom de ce pays est Canaan, comme Mitzraim (Égypte), et que le nom du pays est identique à celui du peuple. De même, les habitants de Canaan,53Exode 15:15. et ô Canaan, le pays des Philistins ! Je te détruirai même, afin qu'il n'y ait plus d'habitant.54 Sophonie 2:5. Ces deux versets indiquent clairement que Canaan n’est pas seulement le nom d’un peuple, mais aussi celui du pays. Ainsi l’expression ici el ha’aretz kena’an est, comme on dit, « ‘la’ ville Jérusalem » ; et « le » roi David ;55I Rois 1 : 1. et « l’homme » Gabriel.56Daniel 9 :21. — En d’autres termes, el ha’aretz kena’an ne signifie pas « au pays [du peuple] de Canaan » mais « au pays [appelé] Canaan ». Il n’y a donc aucun problème nécessitant l’interprétation ci-dessus de Rachi et Ibn Ezra. Voir ci-dessus dans Seder Beha’alothcha, note 284."
+    },
+    {
+      "ref": "Numbers 34:3",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:4",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:5",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:6",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:7",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:8",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:9",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:10",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:11",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:12",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:13",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:14",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:15",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:16",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:17",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:18",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:19",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:20",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:21",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:22",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:23",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:24",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:25",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:26",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:27",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:28",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 34:29",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:1",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:2",
+      "fr": "ET TERRAIN OUVERT — \"un espace [constitué d'] un terrain découvert à l'extérieur et autour de la ville, afin de rendre la ville agréable ; et ils [les Lévites] ne sont pas autorisés à y construire un bâtiment, ni à planter une vigne, ni à semer quoi que ce soit. 4. MILLE COUDÉES AUTOUR. Mais ensuite [au verset 5] il est dit [que cela devrait être] deux mille coudées ! Comment pouvons-nous expliquer cela ? Il leur assigna deux mille coudées autour [de la ville\". villes], dont l'intérieur [zone d'un rayon de] mille [coudées, comme mentionné dans le verset 4] devait être un espace libre [ouvert], et l'extérieur [zone de mille coudées] devait être réservé aux champs et aux vignes tout autour. C’est le langage de Rachi tiré des paroles de nos rabbins.57Sotah 27b. Ainsi, selon Rachi, deux mille coudées étaient assignées à chacun des quatre côtés entourant la ville lévite. Parmi ceux-ci, les milliers les plus intérieurs servaient d’espace ouvert, et les milliers les plus extérieurs étaient destinés aux champs et aux vignes. Ainsi les deux versets sont harmonisés. On notera cependant que Rachi n’a attribué aucune dimension à la ville proprement dite. Ce sera l’une des affirmations majeures de Ramban, dont découleront d’importantes conclusions (voir Note 59). L'interprétation correcte selon le sens ordinaire de l'Écriture semble être que l'Écriture [au verset 4] déclare qu'ils devraient attribuer comme espace ouvert mille coudées directement autour de la ville, ce qui signifie que [l'espace ouvert combiné des deux côtés de la ville] devrait avoir mille coudées de longueur, cinq cents de chaque côté, et de même [l'espace ouvert des deux côtés ensemble] de largeur, devrait être mille coudées, cinq cents coudées de chaque côté.58 Ainsi, là où Rachi a assigné deux mille coudées pour chacun des quatre côtés extérieurs à la ville (comme expliqué dans la note précédente), Ramban n'en alloue que cinq cents pour chaque côté, totalisant mille coudées sur les deux côtés opposés. Après cela, Il déclara [au verset 5] qu'ils devraient faire un carré [dont la dimension serait] de deux mille coudées sur deux mille coudées, et que la ville devrait être située au centre de la place. Il leur a donc ajouté [les dimensions — au verset 5] un espace ouvert ne faisant pas directement face à la ville, égal à la mesure directement en face de la ville, de sorte que vous trouviez qu'en laissant mille coudées comme espace ouvert autour de la ville comme Il l'a assigné au début [au verset 4], la ville, mille par mille coudées, sera dans [le centre de] la place.59 Ainsi, alors que Rachi n'a désigné aucune dimension pour la ville lévite proprement dite, Ramban lui en a attribué mille par mille. mille coudées. [Voir dans Erubin 56b où l'un des Amoraim, Abaye, propose en effet ces mesures pour la ville lévite, et cela pourrait bien être la source de l'interprétation de Ramban sur laquelle de nombreux érudits se sont interrogés.] En plaçant maintenant cette ville de forme carrée de mille sur mille au centre du plus grand carré extérieur de deux mille sur deux mille, certaines conclusions importantes s'ensuivent. Puisque, comme cela a été précisé précédemment, un migrash (espace ouvert) de cinq cents sur mille s'étend dans chaque direction directement face à la ville, il reste encore un espace de cinq cents sur cinq cents au-dessus et au-dessous de ces migrashim, près des coins de la place extérieure. Ces espaces restants, suggérera Ramban, devaient être réservés aux champs et aux vignobles. [Dans un dessin de la ville lévite dessiné par Ramban, trouvé dans mon commentaire en hébreu, p. 336, on remarquera un cercle englobant l'ensemble de ces quatre migrashim directement face à la ville jusqu'aux murs de la place extérieure. Le cercle réduit naturellement quelque peu l'espace réservé aux champs et aux vignes. J’ai basé cela sur la Guemara d’Erubin ibid., telle qu’interprétée par les commentateurs, en particulier la Ritba, afin de mettre les paroles de Ramban en accord avec le texte. Le concept général de Ramban concernant la ville des Lévites et ses environs tel que présenté ici, selon le sens ordinaire de l'Écriture, est clair.] Ainsi, la ville donnée aux Lévites avait la forme d'un carré. Sachez que le terme pei'ah [au verset 5] signifie « tout un côté » [c'est-à-dire toute la longueur de l'un des quatre côtés du carré extérieur, et pas simplement n'importe quel point le long de ce côté]. ville (voir Note 57), Ramban l'applique à toute la longueur de ce côté oriental le long de la ville [dont mille coudées étaient directement en face de la ville, et cinq cents étaient au-dessus et en dessous de la ville, comme expliqué]. De même l’expression, longue de cent coudées «lapei’ah ha’echath»61Exode 27:9. Voir aussi les versets 11 à 13 ibid. signifie « pour tout le côté » et donc aussi les expressions similaires mentionnées ici [en référence aux dimensions du Tabernacle]. Cela est également vrai du terme pei’ah à la fin du livre d’Ézéchiel62Ézéchiel chapitre 48. [en référence aux dimensions de la ville de Jérusalem et du Sanctuaire du futur]. De plus, si l’intention du verset avait été [comme l’a interprété Rachi] qu’ils devaient assigner deux mille coudées autour de la ville dans chaque direction, Il aurait dit : « Et vous mesurerez en dehors de la ville « l’pe’ath keidmah » (« jusqu’au » côté est – deux mille coudées), etc. ; » mais à la place Il dit [au verset 5] Et vous mesurerez en dehors de la ville 'eth' pe'ath keidmah, ce qui signifie « la mesure de ce [tout] côté » [c'est-à-dire toute la distance le long du côté oriental de la zone carrée extérieure, et aussi de chacun des autres côtés extérieurs, comme le verset continue]. Une telle figure plane à quatre côtés ayant tous ses côtés égaux [et tous ses angles, angles droits] est en effet une apparence agréablement appropriée pour les villes, non pas qu'elles devraient mesurer deux mille coudées autour de la ville dans toutes les directions [comme l'explique Rachi], éliminant ainsi les coins. Un cas similaire est l'expression : Il y aura dix-huit mille roseaux tout autour,63 Ibid., verset 35. ce qui signifie que la ville [de Jérusalem] mesurera sur ses quatre côtés ensemble dix-huit mille roseaux, puisqu'il [Ézéchiel] y a assigné pour chacun des quatre côtés quatre mille cinq cents [roseaux]. Or, il est exact de dire que les mille coudées qu'Il a assignées [au verset 4] comme espace ouvert directement autour de la ville ne doivent pas être plantées, et que les mille coudées qu'Il a ajoutées dans le deuxième verset sur chacun des côtés extérieurs [pas directement en face de la ville] doivent être utilisées pour les champs et les vignes, comme nos rabbins l'ont reçu par tradition. Mais le terme migrash (espace ouvert) dans le langage biblique s'applique aux deux, mais dans un cas [dans les coins reculés, pas directement en face de la ville] il peut être cultivé et semé, tandis que dans l'autre cas [dans le migrash faisant face directement à la ville] il ne peut être ni labouré ni semé.64 Deutéronome 21 : 4. C'est pourquoi l'Écriture les a séparés les uns des autres [en donnant deux commandements, au verset 4 et au verset 5, et en ne les commandant pas tous les deux ensemble].65 Avec cette interprétation, Ramban résout l'apparente contradiction entre le verset 4 qui parle du migrash comme étant constitué de mille coudées et le verset 5 qui lui attribue deux mille. La réponse de Ramban est que le terme migration s’applique à la fois aux espaces ouverts et aux terres à planter. Ainsi, le verset 4 s'adresse à cette migration qui était pour l'espace ouvert, tandis que le verset 5 parle du concept global de migration qui inclut à la fois les mille coudées d'espace ouvert directement en face de la ville, et les cinq cents coudées au-dessus et en dessous de la ville pour la plantation, qui totalisent au total deux mille coudées."
+    },
+    {
+      "ref": "Numbers 35:3",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:4",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:5",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:6",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:7",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:8",
+      "fr": "Parmi les nombreux, vous en prendrez beaucoup, et parmi quelques-uns, vous en prendrez peu. Ici aussi,66Voir 26 :54 où Ramban présente une explication similaire sur la répartition de l'ensemble du pays entre les douze tribus ; il applique désormais les mêmes principes à la manière dont les tribus contribuaient au nombre de villes données aux Lévites. de l'avis de nos rabbins, [le sens est que] des familles paternelles qui ont reçu une grande somme en héritage, ils devraient prendre beaucoup de [villes], comme Il l'a mentionné selon vos familles,67 Ci-dessus, 33:54. tandis que chaque tribu recevait exactement la même quantité de terre [et devait donc fournir un nombre égal de villes aux Lévites]. Et bien que vous trouviez dans le Livre de Josué que le nombre de villes qu'ils donnèrent aux Lévites n'était pas égal,68 Dans le chapitre 21 de Josué, où est donnée une liste de toutes ces villes, il est dit que tandis que la plupart des tribus donnèrent chacune quatre villes aux Lévites, la tribu de Juda en donna huit, Shimon une, la demi-tribu de Menasheh en Canaan deux et Nephtali trois [ce qui totalise trente-huit villes dans le pays de Canaan et dix à l'est du pays. le Jourdain]. La déclaration de Ramban selon laquelle « le nombre de villes qu’ils donnèrent aux Lévites n’était pas égal » est donc claire, comme le prouvent les cas de Juda, Shimon et Nephtali. selon le nombre de tribus, cela était dû à la valeur [différente] des villes particulières, puisque certaines étaient plus importantes que les autres, car la terre était divisée selon sa valeur.69 Baba Bathra 122a. Ainsi, les terres plus proches de Jérusalem étaient estimées plus précieuses que les terres plus éloignées, à la fois parce qu'elles étaient plus proches du sanctuaire et aussi plus éloignées de la frontière des nations (Rashbam, ibid.). La preuve en est que des [tribus de] Juda, Shimon et Benjamin, ils donnèrent treize villes [aux Lévites]70. Ainsi Juda en donna huit, Shimon une, Benjamin quatre, soit un total de treize villes. De même : Issacar et Asher en donnèrent chacun quatre, Nephtali trois, la demi-tribu de Menasheh deux, soit un total de treize villes. et des tribus d'Issacar, d'Aser, de Nephtali et de la demi-tribu de Menasheh, treize [villes furent également données],70 Ainsi Juda en donna huit, Shimon une, Benjamin quatre, soit un total de treize villes. De la même manière: Issacar et Asher en donnèrent chacun quatre, Nephthali trois, la demi-tribu de Menasheh deux, pour un total de treize villes. et pourtant ces [dernières tribus] étaient plus nombreuses que les premières en termes de population.71 Les chiffres utilisés ici sont ceux du recensement, au-dessus du chapitre 26. Juda (verset 22 ibid.), Shimon (verset 14) et Benjamin (verset 41) totalisaient 144 300 personnes. Issacar (verset 25), Asher (verset 47) et Nephtali (verset 50) totalisaient 163 100. La tribu complète de Menasheh (verset 34) comptait 52 700 personnes. En supposant que la demi-tribu de Menasheh mentionnée dans Josué était exactement la moitié [c'est-à-dire 26 350], nous avons un total pour ce dernier groupe mentionné de 189 450, ce qui est bien plus que les 144 300 du premier groupe. Et de la tribu d'Éphraïm, ils donnèrent quatre villes [aux Lévites],72Josué 21:20-22. et de la tribu de Dan quatre villes,73Ibid., versets 23-24. et pourtant les enfants de Dan étaient le double [de la population] des enfants d'Éphraïm.74 Les enfants d'Éphraïm totalisaient 32 500 (ci-dessus, 26 :37), tandis que Dan totalisait 64 400 (ibid., verset 43) ! Il faut donc dire que les villes n'étaient pas données en proportion de la population des tribus, mais selon la valeur estimative de la ville."
+    },
+    {
+      "ref": "Numbers 35:9",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:10",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:11",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:12",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:13",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:14",
+      "fr": "VOUS DONNEZ TROIS VILLES AU-DELÀ DU JORDANIE. « Et même si au pays de Canaan il y avait neuf tribus, et ici [à l'est du Jourdain] il n'y en avait que deux [et demi], l'Écriture leur a donné un nombre égal de villes de refuge, car en Galaad [à l'est du Jourdain] les meurtriers étaient nombreux, comme il est écrit : Galaad est une ville de méchants ; elle est couverte de traces de sang. »75 Osée 6 : 8. C’est le langage de Rachi, basé sur les paroles de nos rabbins.76Makkoth 10a. Or, même si les [villes de] refuge étaient réservées à ceux qui tuaient par erreur [et ces meurtriers de Galaad tuaient délibérément], ils tuaient par trahison et se faisaient passer pour s'ils l'avaient fait par erreur, et il était donc nécessaire d'augmenter [proportionnellement] le nombre de leurs villes de refuge, afin de pouvoir les accueillir tous, puisqu'on ne pouvait pas dire qui avait tué délibérément. Si tel est le cas, [nous devons dire que] le Saint, béni soit-Il, a ordonné cela à cause de l'avenir [puisqu'il savait que les meurtriers en Galaad seraient nombreux], semblable à ce qui est dit [des générations futures], et ce peuple se lèvera et s'égarera.77Deutéronome 31 :16. Ou peut-être que les rabbins diront que le climat du pays de Galaad était propice à la production de meurtriers depuis qu'il est devenu une nation.78Exode 9 :24. Mais je me demande ! Car de l'avis de nos Rabbins, de mémoire bénie,76Makkoth 10a. les [villes mentionnées dans le] verset qui dit, et en plus d'elles [c'est-à-dire, en dehors des six villes de refuge], vous donnerez [aux Lévites] quarante-deux villes, 79 ci-dessus, verset 6. étaient toutes commandées comme villes de refuge, et il y en avait donc trente-six dans le pays de Canaan, et six au-delà du Jourdain. le Jourdain pour compléter le total de quarante-deux — nous devons forcément comprendre le langage de Ramban en parlant de trente-six villes pour le pays de Canaan et six pour au-delà du Jourdain, car basé sur la théorie mentionnée ci-dessus dans le texte selon laquelle le facteur de valeur estimative a également été pris en considération, et par conséquent les sept villes du côté oriental du Jourdain ont été considérées comme six, laissant ainsi un total de trente-six pour le pays de Canaan. et ils offraient tous la protection, de l'avis de nos rabbins, de la mémoire bénie ! Ainsi, les villes de refuge sur tout le territoire d'Israël étaient [réparties] équitablement et également, car chacune des [douze] tribus recevait quatre villes de refuge. Il a également compté la tribu de Menasheh au pays de Canaan,81c'est-à-dire que dans Josué chapitre 21, verset 25, la demi-tribu de Menasheh au pays de Canaan est mentionnée parmi les neuf autres tribus comme donnant des villes aux Lévites, qui servaient de villes de refuge. En effet, comme le poursuit le texte, la plus grande partie de la tribu était là ; c'est pourquoi, bien que leur pays fût plus petit, le nombre de villes qu'ils donnèrent aux Lévites était égal à celui de leurs frères au-delà du Jourdain [chacun donnant deux villes]. Cela prouve que le facteur déterminant n'était pas le fait que les meurtriers étaient nombreux à Galaad et que, par conséquent, les deux tribus et demie au-delà du Jourdain reçurent une plus grande proportion de villes de refuge. parce que la majorité était là [ainsi, les neuf tribus du pays de Canaan ainsi que Menasheh reçurent trente-six villes de refuge, c'est-à-dire celles qui constituaient les villes des Lévites, plus les trois villes de refuge originales, soit un total de trente-neuf]. Peut-être dans [la proportion des] [six] villes désignées82Josué 20:9. L’expression fait référence aux six villes initialement désignées spécifiquement comme lieux de refuge. Selon les rabbins, ces six villes offraient une protection, que le meurtrier sache ou non qu'elles étaient des villes de refuge ; dans les quarante-deux autres villes, il n'était protégé que s'il savait qu'elles offraient une protection (Makkoth 10a). D.ieu augmenta [le nombre de ces villes] au-delà du Jourdain, en l'honneur de Moïse, de sorte qu'il en réserva la moitié [puisqu'il ne pouvait pas entrer dans le pays de Canaan], mais dans leur totalité [de quarante-huit villes] elles furent toutes divisées par mesure et selon proportion [chaque tribu recevant quatre villes]. Selon le sens simple de l'Écriture, il me semble que le pays du côté [est] du Jourdain était très vaste, car il contenait [le royaume des] deux grands rois amoréens [Sihon et Og], dont les vers parlent de la puissance en termes superlatifs, et [ce royaume devint] encore plus grand quand Ammon et Moab devinrent une [conquête pour Israël] légitime à travers eux [c'est-à-dire à travers Sihon et Og qui capturèrent les terres d'Ammon et de Moab, et à qui Israël les prit par la suite par le droit de conquête],83Chullin 60b. Israël n'était pas autorisé à combattre Ammon et Moab (voir Deutéronome 2 : 19). Mais comme une partie de leurs terres fut d'abord capturée par Sihon, cette injonction fut levée. tandis que les rois du pays de Canaan n'étaient que des rois de villes, et que chaque dirigeant d'une ville était appelé « roi », comme vous le voyez [d'après le verset] : le roi de Jérusalem, un ; le roi d'Hébron, un,84Josué 12:10. Voir aussi ibid., versets 9 et 16. bien qu’entre elles [ces deux villes] il y ait une distance de [seulement] une demi-journée de marche.85 Cette langue indique peut-être que Ramban a écrit cela sur la base de son expérience personnelle, ce qui indiquerait que ces parties de son commentaire ont été écrites [ou modifiées] alors qu’il vivait déjà en Terre d’Israël. Voir mon article sur cette question dans Hamayon, Tammuz, 5728. De même les Sages mentionnent86 Shemoth Rabbah 32 : 2. qu'entre Bethel et Aï il y a une distance de [seulement] quatre milles, et pourtant chacune de ces villes avait son propre roi.84Josué 12:10. Voir aussi ibid., versets 9 et 16. Il est possible que c'était la coutume dans ces générations d'appeler chaque dirigeant d'une ville « roi », ou peut-être [cela n'était que dans la Terre d'Israël] en l'honneur de la Terre d'Israël, comme l'expliquaient nos rabbins, de mémoire bénie.87 Bereshith Rabbah 85 : 16 : « Tout roi ou dirigeant qui n’aurait pas de siège de souveraineté sur la Terre d’Israël se considérerait comme sans valeur. » En tout cas, ils n’étaient pas rois de pays, mais seulement rois de villes particulières. Et ainsi il est écrit : [Et Adoni-bezek dit] : « Trois-vingt-dix rois, ayant les pouces et les gros orteils coupés, ramassèrent de la nourriture sous ma table. »88 Juges 1 : 7. Les soixante-dix rois soumis à Adoni-bezek n'étaient clairement pas des rois de pays, mais de petites régions locales. Ainsi, le pays du côté [est] du Jourdain était un très grand pays et nécessitait trois villes de refuge tout comme l'ensemble du pays d'Israël du côté [ouest] du Jourdain, et seules ces six villes offraient un refuge [aux meurtriers involontaires], et les quarante-deux villes [mis de côté] étaient pour les terres ouvertes des Lévites et non comme refuge.89 Ramban explique ici les versets « selon leur simple sens », et non selon l'opinion des rabbins : comme mentionné ci-dessus (à la note 82). Voir aussi mon commentaire en hébreu, p. 338, pour plus d’explications."
+    },
+    {
+      "ref": "Numbers 35:15",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:16",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:17",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:18",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:19",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:20",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:21",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:22",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:23",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:24",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:25",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:26",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:27",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:28",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:29",
+      "fr": "DANS TOUTES VOS HABITATIONS. \"Cela nous enseigne qu'un Sanhédrin90Dans notre Rachi : \"un petit Sanhédrin\", c'est-à-dire un tribunal de vingt-trois juges qui fonctionnaient dans chaque ville et avait pouvoir sur les affaires civiles et pénales. Le \"grand Sanhédrin\" était composé de soixante et onze juges et son siège était dans une chambre sur le Mont du Temple, attenante au Tribunal du Sanctuaire. peut fonctionner en dehors de la Terre [d'Israël] aussi longtemps que l'on exerce ses fonctions en Terre d'Israël. lui-même. » C’est la langue de Rachi. C’est en effet exact, car après la destruction [du Temple], le Sanhédrin ne peut plus fonctionner sur la Terre d’Israël ni à l’extérieur, tout comme nos rabbins l’ont dit dans le chapitre Arba Mithoth Beth Din :91 Littéralement : « Quatre sortes de peine de mort du tribunal ». — Le texte mentionné ici est dans le Sanhédrin 52b. \"Et tu viendras vers les prêtres les Lévites, et vers le juge qui sera en ces jours-là92Deutéronome 17 : 9. — quand il y a un prêtre [exécutant le service divin dans le sanctuaire], il y a [exécution du] jugement ; quand il n'y a pas de prêtre [au sanctuaire], il n'y a pas de jugement. \" Et nous avons été enseignés dans la Mechilta 93 : c'est-à-dire la Mechilta de Rabbi Shimon ben Yochai (sur Exode 21 : 14). Ce travail est mentionné par Rambam dans son Sefer Hamitzvoth, principe 14 (voir « Les Commandements », Vol. II, p. 424). \" D'où savons-nous que l'exécution judiciaire ne peut avoir lieu que pendant l'existence du Sanctuaire ? Parce qu'il est dit : De mon autel, tu le prendras, afin qu'il meure. 94 Exode 21 : 14. Si vous avez un autel, vous pouvez rendre la peine capitale, et sinon, vous ne pouvez pas le faire. \" Mais je n'ai trouvé nulle part à propos d'un commandement limité à la [durée de] l'existence du Sanctuaire que l'Écriture doive en dire à ce sujet, à travers vos générations et dans toutes vos habitations [comme elle le fait ici], car cette [expression] indique [le contraire, à savoir qu'elle est contraignante] même pendant l'exil, hors du Pays. Ainsi [il utilise cette expression] en relation avec [l'obligation de s'abstenir de travailler lors de la fête de Shavouoth,95Lévitique 23:21 : c'est une loi éternelle dans toutes vos habitations à travers vos générations. et en relation avec l'interdiction de [manger de] la nouvelle récolte [avant d'apporter le omer le seizième jour de Nisan],96Ibid., verset 14. Pour l'explication du mot omer, voir Vol. III, p. 368, note 243. afin de rendre [ces lois] obligatoires même en dehors de la Terre [d'Israël] et même aujourd'hui [lorsque le Temple est détruit], afin que nous ne puissions pas [penser que l'interdiction de manger de la nouvelle récolte dépend] de [l'offrande réelle du] omer, et [afin que nous ne devions pas faire dépendre le commandement de s'abstenir de travailler à Chavouoth] de l'offrande de la nouvelle offrande de repas97Ibid., verset 16. [ce jour-là]. De même [l'expression est utilisée à travers vos générations dans toutes vos habitations] en relation avec [l'interdiction de manger certaines] graisses98Ibid., 3:17. de sorte que nous ne devrions pas penser que cela dépend des offrandes.99 Voir l’accent mis par Ramban sur ce point dans le Vol. III, p. 85-88. [Et donc ici aussi, l'expression à travers vos générations dans toutes vos habitations indiquerait que l'exécution du jugement, y compris la peine de mort, s'applique à tout moment et ne dépend pas de l'existence du sanctuaire !] Peut-être que les rabbins ont interprété les mots [dans notre verset ici] : Et ces choses serviront de statut de jugement [comme se référant non pas aux affaires pénales mentionnées dans cette section, mais] à [la loi générale du] Sanhédrin mentionnée continuellement dans cette section, comme il est dit, [jusqu'à ce qu'il se présente] devant « l'assemblée » pour jugement ; générations, et même après la destruction [du Sanctuaire], « une congrégation qui juge » [c'est-à-dire un Sanhédrin ou un tribunal] afin de statuer sur les lois relatives aux amendes, aux vols, aux blessures corporelles et à toutes les questions monétaires, et pour traiter de la loi des quarante coups.102 Deutéronome 25 : 3. Toutes ces lois sont appliquées même après la destruction du Temple."
+    },
+    {
+      "ref": "Numbers 35:30",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:31",
+      "fr": "ET VOUS NE PRENDREZ AUCUNE RANÇON POUR LA VIE D'UN MEURTRIER, etc. L'interprétation correcte de [la répétition de la phrase vous ne prendrez aucune rançon dans les versets 31-32] qu'au début [c'est-à-dire dans le verset devant nous] Il nous a mis en garde contre [pardon] un meurtrier délibéré, [déclarant] : Et vous ne prendrez aucune rançon monétaire pour la vie d'un meurtrier, qui est coupable de mort, car il en toutes circonstances, il sera mis à mort et ne sera sauvé de la mort par aucun moyen, ni par l'exil, ni par les coups, ni par aucun autre châtiment. Et ensuite [au verset 32] Il a déclaré : Et vous n'accepterez aucune rançon pour lui permettre de fuir [de la ville de refuge] et de retourner vivre dans le pays, jusqu'à la mort du prêtre, et le verset fait ainsi référence à ceux qui sont susceptibles d'être exilés [pour meurtre involontaire] qu'Il avait [précédemment] mentionnés, qui sont le sujet principal de cette section. C'est ainsi comme s'il aurait dit : Et de même, vous n'accepterez aucune rançon d'un meurtrier [qui a tué sans le savoir] afin qu'il s'enfuie [de sa ville de refuge] et retourne vivre dans le pays, avant la mort du [Grand] Prêtre. Il n'était pas nécessaire de dire que nous ne devrions pas lui demander de rançon [pour le libérer] de sa fuite vers la ville de refuge, car celui qui tue quelqu'un sans le savoir a d'abord peur que le vengeur du sang ne le tue dans le feu de sa colère, ou [le tue] parce qu'il le soupçonne d'un meurtre délibéré [et donc il voudra toujours d'abord fuir vers la ville de refuge]. L'Écriture n'a donc pas besoin de parler de [ne pas prendre] de rançon pour le libérer complètement, mais parle seulement de [l'interdiction de prendre] une rançon après qu'il s'y soit enfui, pour lui permettre de retourner dans son pays, et pour qu'il n'ait pas à y rester [dans la ville de refuge] aussi longtemps que le [Grand] Prêtre est en vie. Car[il est probable qu'il désire le quitter, puisque] après s'être enfui [là] et avoir comparu [en jugement] devant l'assemblée pour le jugement100Ci-dessus, verset 12. et qu'il a été acquitté par eux [de l'accusation de meurtre délibéré], il n'aura plus peur du vengeur du sang, et ainsi il voudra rentrer chez lui avant le temps fixé [c'est-à-dire avant la mort du Grand Prêtre]. C'est pourquoi l'Écriture nous a mis en garde contre [accepter de lui une rançon ou un pot-de-vin pour] ce [but]. Ou [il se peut] qu'il y ait une lettre vav « manquante » dans le mot lashuv [dans le verset 32 — de sorte que c'est comme s'il disait v'lashuv] signifiant « ou demeurer ».103 Selon cette explication, le verset 32 implique deux interdictions distinctes : 1) ne pas prendre de rançon à un tueur involontaire pour ne pas se rendre dans une ville de refuge, et 2) ne pas prendre de rançon de sa part pour lui permettre d'en revenir avant sa mort. du Grand Prêtre (Aboab). Cependant, Ramban, comme il le déclare dans ses paroles finales, préfère la première interprétation mentionnée selon laquelle le verset 32 ​​n'implique qu'une seule interdiction, à savoir que nous ne devons pas accepter de rançon d'un meurtrier involontaire après qu'il s'est enfui vers la ville de refuge pour lui permettre de retourner dans son pays avant la mort du Grand Prêtre. Cette interprétation est apparemment à privilégier car elle ne nécessite pas l'introduction d'une lettre manquante dans le verset, comme mentionné dans le texte. Mais la première interprétation me paraît la bonne."
+    },
+    {
+      "ref": "Numbers 35:32",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 35:33",
+      "fr": "V'LO TACHANIPHU' (ET VOUS NE POLLUEREZ PAS) LA TERRE. Parce qu'Il avait dit au début : Et ces choses vous serviront de loi de jugement à travers vos générations dans toutes vos habitations,104Verset 29. signifiant que ces jugements s'appliquent également en dehors de la Terre [d'Israël], c'est pourquoi Il a mentionné des exigences supplémentaires s'appliquant aux habitants de la Terre [d'Israël], en l'honneur de la Présence Divine qui y est [particulièrement] présente, et Il nous a averti de ne pas la polluer et de ne pas la souiller.105Verset 34. Et le sens du terme hanuphah [mentionné ici, qui signifie littéralement : « flatterie » ou « pollution »] est celui qui est dit en référence aux imprécations : Tu feras beaucoup dans les champs, et tu récolteras peu ;106 Deutéronome 28 :38. Tu planteras des vignes et tu les tailleras, mais tu ne boiras pas de vin ;107Ibid., verset 39. Tu auras des oliviers sur toutes tes frontières, mais tu ne t'oindras pas d'huile ;108Ibid., verset 40. Tous tes arbres et les fruits de ta terre seront mis à nu par les sauterelles,109Ibid., verset 42. car toutes les expressions de 'Hanouphah indiquent de faire le contraire de ce qui est vu ou apparaît aux yeux. C'est le châtiment [qui viendra] sur le pays à cause de l'idolâtrie, de l'effusion de sang et de l'immoralité, tout comme il est dit : le pays ne sera-t-il pas « chanoph techenaph » (deviendra-t-il pollué) ? ; 110 Jérémie 3 : 1. la terre aussi « chanepha » (est polluée) sous les habitants ;111 Ésaïe 24 : 5. 'vatachniphi' (et tu as pollué) le pays par tes prostitutions.112Jérémie 3:2. Dans ces trois versets, la terre elle-même est décrite comme devenant « chanuphah (polluée) » à cause des péchés de ses habitants, ce qui signifie, selon Ramban, qu’elle fera le contraire de ce qui est sa nature, car elle sera plantée et cultivée mais ne produira pas de fruits. Et la signification du terme « souillure » [utilisé dans le verset suivant — Et tu ne « souilleras » pas la Terre] est que la Terre sera souillée de telle sorte que la Gloire de D.ieu n'y habitera pas s'il y a du sang innocent [versé] qui n'a pas été expié par le sang de celui qui l'a versé.113 Verset 36 ici. Ainsi les Rabbins ont dit dans le Sifre114 ​​: Sifre, Mas’ei 161. \"'V'lo tachaniphu' the Land - ceci est un avertissement contre les flatteurs.\" Car d’abord [aux versets 31-32] Il nous a mis en garde contre le fait d’accepter un pot-de-vin de la part des meurtriers, puis [au verset 33 ici] Il nous a mis en garde contre les flatter en raison de leur position élevée ou de leur pouvoir, ou de l’honneur de leur famille, même sans accepter un pot-de-vin, car si nous les flattons, nous amènerons ainsi le pays à « trahir » ses habitants [comme expliqué ci-dessus]."
+    },
+    {
+      "ref": "Numbers 35:34",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:1",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:2",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:3",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:4",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:5",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:6",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:7",
+      "fr": "V'LO THISOV NACHALAH' (AUCUN HÉRITAGE NE DOIT AUSSI) DES ENFANTS D'ISRAËL SE DÉPLACER DE TRIBU EN TRIBU. L'Écriture ne visait qu'à améliorer la situation à cette époque [c'est-à-dire pour les filles de Zelophehad qui avaient soulevé ce problème]. Car s'il y avait [alors] des femmes en Israël [déjà] mariées à [des hommes d'] une autre tribu, et qu'elles [les femmes] héritaient [d'une partie du pays] à ce moment-là, ou hériteraient plus tard si leurs frères ou leurs pères mouraient sans fils, leur héritage passerait nécessairement d'une tribu à une autre [car leurs maris, qui étaient d'une tribu différente, ou leurs fils, en hériteraient à leur mort], et qui peut redresser dans le temps ce qu'ils ont fait tordu !115Ecclésiaste 7:13. La Torah, en outre, n’a pas voulu ordonner que les fils ou les maris de ces femmes n’en héritent pas [s’ils n’étaient pas de la même tribu], car elle n’a pas jugé opportun d’abroger [dans ce cas] la loi [régulière] de l’héritage. De même, l'Écriture ne s'est pas préoccupée des événements qui se produiraient dans le futur ; car même si les filles qui ne possèdent pas d'héritage [avant de se marier] étaient autorisées à épouser [des hommes de] n'importe laquelle des tribus, il est néanmoins possible qu'à un moment ultérieur elles héritent de certains biens, si [tous] leurs frères meurent du vivant de leur père, et ainsi l'héritage de leur père, ou celui de leurs proches, leur serait transmis.116 En d'autres termes, sans l'opinion des rabbins sur le sens de l'Écriture, nous pourrions dire que cette interdiction est pour toujours, s'appliquant à des femmes telles que les filles de Zelophehad qui devaient se marier et qui possédaient déjà un héritage. Mais les femmes qui étaient déjà mariées à cette époque avec des hommes d'autres tribus et qui héritent maintenant [comme les filles de Zelophehad] [parce que leurs pères qui étaient parmi ceux qui ont quitté l'Égypte sont morts sans fils], et de même, les femmes qui sont susceptibles de se marier et peuvent encore hériter de leurs pères si elles meurent sans fils - avec toutes ces possibilités, l'Écriture n'a pas été concernée. Au lieu de cela, la loi de tous les temps s'appliquait spécifiquement aux femmes qui étaient sur le point de se marier et qui possédaient déjà un héritage de la tribu, tout comme les filles de Zelophehad. Tout cela, nous serions tentés de le dire. Mais selon l'opinion de nos rabbins etc. (voir texte) — (Kur Zahav, citant Aboab). Mais selon l'avis de nos Rabbins qui ont interprété :117Baba Bathra 117a. « Cette loi118 Littéralement : « cette chose », basée sur le verset 6 qui dit : « Voici la chose » que l’Éternel a ordonné concernant les filles de Zelophehad : qu’elles épousent des hommes de la tribu de leur père. ne s’applique qu’à cette génération particulière », il est possible. seulement pour cette génération particulière, il est alors possible de dire que l'Écriture s'est également préoccupée des possibilités mentionnées ci-dessus. Quant aux femmes qui étaient déjà mariées à des hommes d’autres tribus et qui héritent désormais, on peut dire qu’il n’y a pas eu dans cette génération d’autre cas semblable à celui des filles de Zelophehad, la preuve étant qu’aucune autre tribu ne s’est plainte. Et quant à l’autre possibilité, celle des femmes qui sont susceptibles de se marier et peuvent néanmoins hériter de leur père si elles meurent sans fils, nous répondons : D.ieu dans la main de qui, etc. (voir texte) — (Kur Zahav, au nom d'Aboab). qu'[à cette époque] il n'y avait pas de filles qui héritaient d'une part parmi tous ceux qui devaient entrer dans le pays [d'Israël], à l'exception des filles de Tselophhad, et par conséquent [nous ne trouvons pas que] elles [c'est-à-dire les autres femmes] ont interrogé [Moïse à ce sujet comme le faisaient les filles de Tselophhad]. L'Écriture ordonne donc que si quelqu'un meurt à partir de ce jour jusqu'à ce que le pays soit partagé entre leurs tribus et que sa fille en hérite, elle ne doit épouser aucune personne d'une autre tribu, afin que lorsque le pays sera divisé, cet homme ne vienne pas prendre un héritage parmi une autre tribu. Car la préoccupation [de la Torah] à leur sujet [c'est-à-dire concernant l'héritage séparé de chaque tribu] était plus grande au moment du partage du pays [qu'après], de sorte que les [différentes] tribus ne se mélangent pas les unes aux autres au moment de prendre leur héritage, alors qu'après leur héritage [séparé] sera déjà connu et elles ne s'en soucieront pas autant. Mais comme l'heure [exacte] du partage [du pays] n'était pas encore connue, Il imposa l'interdiction à toute cette génération. Et D.ieu dans la main duquel est l'âme de tout être vivant120Job 12 : 10. L’intention de Ramban est d’affirmer que Celui dans la main duquel est l’âme de tout être vivant savait que « jusqu’au partage du pays, aucun homme ne mourrait sans laisser un fils, afin que ses filles héritent de lui » (Aboab). Mais une telle assurance ne pourrait naturellement pas s’appliquer si l’on disait que l’interdiction s’applique à toutes les générations. n'avait pas à se soucier des événements futurs [qui pourraient dans certains cas entraîner le transfert d'un héritage particulier d'une tribu à une autre]. Cette explication est correcte selon le sens clair de l’Écriture, car [l’expression du verset 9] v’lo thisov nachalah n’est pas une raison [pour interdire le mariage d’une femme qui a déjà un héritage avec un homme d’une autre tribu] « afin que l’héritage ne soit pas déplacé [de tribu en tribu] », mais il y a deux commandements distincts [dans cette section]. Il a ordonné [d'abord, aux versets 6-8] que les femmes qui possèdent déjà un héritage [telles que les filles de Tselophhad, qui n'étaient pas mariées] ne se marient que dans la tribu de leur père, et ensuite [au verset 9] il a ordonné que [dans le cas de] celles qui sont déjà mariées [à des hommes d'autres tribus et n'ont pas d'héritage], ou [dans le cas de toutes ces femmes] qui obtiendront un héritage [plus tard] après avoir épousé un homme [d'un autre tribu], l'héritage ne passera pas d'une tribu à une autre tribu, mais ce seront leurs frères ou leurs parents qui en hériteront, et non leurs fils ou leurs maris. Ainsi, d'abord [aux versets 6-7] Il a ordonné [la loi] à l'égard des filles de Tselophad, et ensuite [au verset 8] à l'égard de chaque fille qui possède un héritage ; puis Il a dit à propos de tout Israël qu'un héritage ne passera pas d'une tribu à une autre tribu [comme indiqué dans le verset 9, ce qui signifie] que même dans le cas de femmes qui sont [déjà] mariées [à des hommes d'une autre tribu], ou de femmes [non mariées] à qui il a été ordonné [de ne pas épouser des hommes d'une autre tribu] et qui transgressent ce commandement, les hommes de leurs tribus [c'est-à-dire les frères des femmes ou d'autres parents] devraient en hériter, afin qu'ils soient étroitement liés. à l'héritage des tribus de leurs pères, et leur héritage ne doit pas leur être séparé, ni eux de l'héritage de leurs pères. And all these [restrictions] applied only to the generation which took possession of the Land, at the time that it was divided up. Il leur donna donc des conseils sur les femmes célibataires au sujet desquelles ils avaient demandé des renseignements, et Il prit également soin de celles qui étaient déjà mariées. Ainsi se complète le Livre des Recensements121. Tel est le nom donné par les Sages au quatrième livre de la Torah : « le Cinquième des Recensements » (Sotah 36b). [c'est-à-dire le Livre des Nombres] et les standards des hôtes ; Et à D.ieu, le D.ieu des armées, soient des louanges et des actions de grâces, par centaines, par milliers et par myriades. Et comme Il a fait pour nos ancêtres des actions grandes et redoutables,122Voir Deutéronome 10 :21. puisse-t-Il opérer rapidement de nos jours la fin des merveilles.123Daniel 12:6. Une référence à l'ère messianique. Qu'Il bâtisse la Maison, les chambres et la frontière devant les cellules.124 Ézéchiel 40 :12. And prepare there the thrones of the house of David,125Psalms 122:5. Cela peut aussi être une référence aux mystères de la Cabale. Voir à la fin de l’introduction de Ramban au livre de la Genèse : « Et Il montrera à ceux qui Lui plaisent les merveilles de Sa Torah » (Vol. I, p. 16). et que nos yeux le voient ! Et puisse-t-Il, dans sa miséricorde, nous purifier de tous [nos] [défauts] cachés et de toutes erreurs,126Voir ibid., 19 : 13. Et montre-nous des choses merveilleuses de Sa Torah !127Voir ibid., 119 :18. Amen. Qu'il en soit ainsi ! Fini et complété."
+    },
+    {
+      "ref": "Numbers 36:8",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:9",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:10",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:11",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:12",
+      "fr": ""
+    },
+    {
+      "ref": "Numbers 36:13",
+      "fr": ""
+    }
+  ]
+}

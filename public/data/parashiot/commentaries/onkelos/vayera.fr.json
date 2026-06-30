@@ -1,0 +1,596 @@
+{
+  "name": "Vayera",
+  "range": "Genesis 18:1-22:24",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayera.json",
+  "verses": [
+    {
+      "ref": "Genesis 18:1",
+      "fr": "Adonoy lui apparut dans les bosquets de Mamrei et il était assis à la porte de la tente dans la chaleur du jour."
+    },
+    {
+      "ref": "Genesis 18:2",
+      "fr": "Il leva les yeux et vit, et voici, trois hommes se tenaient devant lui. Il les vit, courut hors de la porte de la tente pour les saluer et se prosterna jusqu'à terre."
+    },
+    {
+      "ref": "Genesis 18:3",
+      "fr": "Il dit : Mon Maître, si j'ai trouvé grâce à Tes yeux [devant toi], s'il te plaît [maintenant] ne contourne pas ton serviteur."
+    },
+    {
+      "ref": "Genesis 18:4",
+      "fr": "Qu'on apporte un peu d'eau [Ils prendront un peu d'eau] et lavez-vous les pieds. Reposez-vous sous l'arbre."
+    },
+    {
+      "ref": "Genesis 18:5",
+      "fr": "J'aurai du pain et tu soutiendras ton cœur. Ensuite tu continueras ton chemin, puisque tu es passé à côté de ton serviteur. Ils ont dit : « Très bien, faites ce que vous avez dit."
+    },
+    {
+      "ref": "Genesis 18:6",
+      "fr": "Avraham s'est précipité vers la tente de Sarah et a dit : Dépêchez-vous ! [prendre] trois mesures de la farine la plus fine ; pétrissez-le et faites des petits pains."
+    },
+    {
+      "ref": "Genesis 18:7",
+      "fr": "Avraham courut vers le bétail et prit un veau tendre et de choix. Il l'a donné au garçon. et je me suis dépêché de le préparer."
+    },
+    {
+      "ref": "Genesis 18:8",
+      "fr": "Il prit du beurre, du lait et le veau qu'il avait préparé et le plaça devant eux. Il se tenait au-dessus d'eux [les servait] sous l'arbre, et ils mangèrent."
+    },
+    {
+      "ref": "Genesis 18:9",
+      "fr": "Ils lui dirent : Où est Sarah, ta femme ? Il a dit Ici, dans la tente."
+    },
+    {
+      "ref": "Genesis 18:10",
+      "fr": "Il a dit que je reviendrai vers toi l'année prochaine [à cette époque où tu seras en vie], et Sarah, ta femme aura un fils. Sarah écoutait à la porte de la tente, qui était derrière lui."
+    },
+    {
+      "ref": "Genesis 18:11",
+      "fr": "Avraham et Sarah étaient vieux, très âgés. Sarah n'avait plus la voie des femmes."
+    },
+    {
+      "ref": "Genesis 18:12",
+      "fr": "Sarah rit intérieurement en disant : Maintenant que je suis épuisée [vieille], aurai-je le plaisir [d'un fils] [de la jeunesse], mon maître étant [aussi] un vieil homme."
+    },
+    {
+      "ref": "Genesis 18:13",
+      "fr": "Adonoy dit à Avraham : Pourquoi Sarah a-t-elle ri en disant : Puis-je vraiment accoucher quand je serai vieille ?"
+    },
+    {
+      "ref": "Genesis 18:14",
+      "fr": "Y a-t-il quelque chose de trop éloigné [caché] de [avant] Adonoy ? Au temps fixé, je reviendrai vers toi, à cette époque de la vie [quand tu seras en vie], et Sara aura un fils."
+    },
+    {
+      "ref": "Genesis 18:15",
+      "fr": "Sarah a nié en disant : Je n'ai pas ri, car elle avait peur. Il a répondu : Ce n’est pas le cas, car [mais] vous avez ri."
+    },
+    {
+      "ref": "Genesis 18:16",
+      "fr": "Les hommes se levèrent de là où ils étaient et regardèrent Sédom. Avraham les accompagna pour les envoyer [les escorter] [sur leur chemin]."
+    },
+    {
+      "ref": "Genesis 18:17",
+      "fr": "Adonoy dit : Dois-je cacher à Avraham ce que je m'apprête à faire ?"
+    },
+    {
+      "ref": "Genesis 18:18",
+      "fr": "Avraham doit en effet devenir une nation grande et puissante, et à travers lui [et grâce à lui] seront bénies toutes les nations du monde."
+    },
+    {
+      "ref": "Genesis 18:19",
+      "fr": "Car je lui ai accordé une attention particulière parce qu'il commande à ses enfants [car je sais qu'il commandera à ses enfants] et à sa maison après lui, et ils garderont la voie d'Adonoy [les voies qui sont bonnes aux yeux d'Adonoy], en faisant la charité et la justice, afin qu'Adonoy fasse venir sur Avraham tout ce qu'il a dit de lui."
+    },
+    {
+      "ref": "Genesis 18:20",
+      "fr": "[Ainsi] Adonoy dit : Les lamentations concernant Sedom et Amorah sont si grandes, et leur péché est si grave."
+    },
+    {
+      "ref": "Genesis 18:21",
+      "fr": "Je vais descendre maintenant et voir [Je vais me révéler maintenant et juger], si leurs lamentations qui sont parvenues [devant] Moi sont révélatrices de leur conduite ; la destruction [viendra sur eux] [je les détruirai]. Sinon, je le saurai. [S’ils se repentent, je ne les punirai pas.]"
+    },
+    {
+      "ref": "Genesis 18:22",
+      "fr": "Les hommes se détournèrent de là où ils étaient et se dirigèrent vers Sedom. Avraham était toujours debout [servant avec prière] devant Adonoy."
+    },
+    {
+      "ref": "Genesis 18:23",
+      "fr": "Avraham s'avança et dit : Vas-tu [réellement] détruire les justes avec les méchants [dans la colère] ?"
+    },
+    {
+      "ref": "Genesis 18:24",
+      "fr": "Suppose qu'il y ait cinquante justes au milieu de la ville, vas-tu quand même la détruire [avec colère] et ne pas supporter cet endroit à cause des cinquante justes qui s'y trouvent ?"
+    },
+    {
+      "ref": "Genesis 18:25",
+      "fr": "Ce serait un sacrilège [Vos jugements sont vrais donc il est impossible] [de Vous attribuer] un tel acte, de tuer le juste avec le méchant, en traitant de la même manière les justes et les méchants. Ce serait un sacrilège de vous attribuer ceci [Vos jugements sont vrais] : Le juge de toute la terre ne rendra-t-il pas la justice ?"
+    },
+    {
+      "ref": "Genesis 18:26",
+      "fr": "Adonoy a dit : Si je trouve à Sedom cinquante justes dans la ville, je supporterai tout le pays à cause d'eux."
+    },
+    {
+      "ref": "Genesis 18:27",
+      "fr": "Avraham répondit et dit : Ici, j'ai commencé à parler à [devant] mon Maître, et je ne suis que poussière et cendre."
+    },
+    {
+      "ref": "Genesis 18:28",
+      "fr": "Mais s’il leur manque cinq des cinquante justes ? Détruiras-Tu toute la ville à cause de cinq ? Il dit : Je ne détruirai pas si j'en trouve quarante-cinq."
+    },
+    {
+      "ref": "Genesis 18:29",
+      "fr": "Il [Avraham] a continué à parler [devant] Lui et a dit : Supposons que [Peut-être] y en ait-il quarante ? Il dit : Je ne le ferai pas [infliger la destruction] à cause des quarante."
+    },
+    {
+      "ref": "Genesis 18:30",
+      "fr": "Il dit : Que mon Maître ne se montre pas en colère et je [continuerai] à parler. Supposons qu'on en trouve [peut-être] trente là-bas ? Il dit : Je ne le ferai pas [infliger la destruction] si j'en trouve trente là-bas."
+    },
+    {
+      "ref": "Genesis 18:31",
+      "fr": "Il dit : Ici, je souhaitais parler à [devant] mon Maître. Supposons qu'on en trouve [peut-être] vingt là-bas ? Il dit : Je ne détruirai pas à cause des vingt."
+    },
+    {
+      "ref": "Genesis 18:32",
+      "fr": "Il dit : Que mon Maître ne manifeste pas de colère [Qu'il n'y ait pas de colère devant mon Maître], et je parlerai encore une fois. Supposons qu'on en trouve [peut-être] dix là-bas ? Il dit : Je ne détruirai pas à cause des dix."
+    },
+    {
+      "ref": "Genesis 18:33",
+      "fr": "Adonoy est parti [La gloire d'Adonoy est montée] quand il a fini de parler à Avraham, et Avraham est retourné à sa place."
+    },
+    {
+      "ref": "Genesis 19:1",
+      "fr": "Les deux anges arrivèrent à Sédom le soir, tandis que Lot était assis à la porte de Sédom. Lot les vit, il se leva pour les saluer et s'inclina le visage contre terre."
+    },
+    {
+      "ref": "Genesis 19:2",
+      "fr": "Il dit : Voici [S'il vous plaît] maintenant, mes seigneurs, s'il vous plaît [maintenant] rendez-vous dans la maison de votre serviteur. Passez la nuit, lavez-vous les pieds, levez-vous tôt et continuez votre chemin. Ils ont dit : Non, nous passerons la nuit dans la rue."
+    },
+    {
+      "ref": "Genesis 19:3",
+      "fr": "Il les pressa vivement, et ils se tournèrent vers lui et vinrent chez lui. Il leur fit un festin et fit cuire des matzos [pour eux], et ils mangèrent."
+    },
+    {
+      "ref": "Genesis 19:4",
+      "fr": "Ils n'étaient pas encore couchés, que les hommes de la ville, les hommes de Sédom, encerclèrent la maison, jeunes et vieux, tout le peuple d'un bout à l'autre."
+    },
+    {
+      "ref": "Genesis 19:5",
+      "fr": "Ils appelèrent Lot et lui dirent : Où sont les hommes qui sont venus vers toi cette nuit ? Amenez-les-nous afin que nous puissions les connaître."
+    },
+    {
+      "ref": "Genesis 19:6",
+      "fr": "Lot sortit vers eux devant l'entrée et ferma la porte derrière lui."
+    },
+    {
+      "ref": "Genesis 19:7",
+      "fr": "Il dit : Mes frères, s'il vous plaît [maintenant], n'agissez pas méchamment."
+    },
+    {
+      "ref": "Genesis 19:8",
+      "fr": "Voir! J'ai deux filles qui n'ont jamais connu d'homme, je vous les amènerai et j'en ferai ce qu'il vous plaira ; seulement ne faites rien à ces hommes, puisqu'après tout, ils sont venus sous l'abri de mon toit."
+    },
+    {
+      "ref": "Genesis 19:9",
+      "fr": "Ils ont dit : Éloignez-vous du chemin ! Ils ont dit : Celui-ci est venu en tant qu'immigré, et maintenant il veut être juge. Nous allons désormais traiter pire avec vous qu'avec eux. Ils poussèrent Lot avec force et s'approchèrent pour briser la porte."
+    },
+    {
+      "ref": "Genesis 19:10",
+      "fr": "Les hommes étendirent leurs mains, attirèrent Lot vers eux, dans la maison, et fermèrent la porte."
+    },
+    {
+      "ref": "Genesis 19:11",
+      "fr": "Les hommes qui se trouvaient à l'entrée de la maison furent frappés de cécité, jeunes et vieux, au point qu'ils se lassèrent d'essayer de trouver l'entrée."
+    },
+    {
+      "ref": "Genesis 19:12",
+      "fr": "Les hommes dirent à Lot : Qui d'autre as-tu ici : un gendre, tes fils, tes filles ? Quiconque vous ait dans la ville, faites-le sortir de chez lui."
+    },
+    {
+      "ref": "Genesis 19:13",
+      "fr": "Nous allons détruire cet endroit, car les lamentations à leur sujet sont devenues grandes en présence d'Adonoy ; et Adonoy nous a envoyés pour le détruire."
+    },
+    {
+      "ref": "Genesis 19:14",
+      "fr": "Lot sortit et parla à ses gendres qui avaient épousé ses filles. Il leur dit : Levez-vous ! Sortez d'ici, car Adonoy va détruire la ville ! Il apparaît comme un comédien aux yeux de ses gendres."
+    },
+    {
+      "ref": "Genesis 19:15",
+      "fr": "À l’aube, les anges exhortèrent Lot en disant : Lève-toi ! Prends ta femme et tes deux filles qui sont ici [qui te sont trouvées fidèles], de peur que tu ne sois entraîné dans l'iniquité de la ville."
+    },
+    {
+      "ref": "Genesis 19:16",
+      "fr": "Il hésita et les hommes lui saisirent la main ainsi que celle de sa femme et de ses deux filles, car Adonoy avait pitié de lui. Ils le firent sortir et le placèrent hors de la ville."
+    },
+    {
+      "ref": "Genesis 19:17",
+      "fr": "Lorsqu'ils furent sortis [de la ville], il [l'ange] dit : Fuyez [Ayez pitié] pour votre vie ! Ne regardez pas en arrière ! Ne restez nulle part dans la vallée [plaine]. Évadez-vous vers la montagne, de peur d'être emporté."
+    },
+    {
+      "ref": "Genesis 19:18",
+      "fr": "Lot leur dit : S'il vous plaît, ne le faites pas, mon Maître. [S'il vous plaît, maintenant, mon Maître.]"
+    },
+    {
+      "ref": "Genesis 19:19",
+      "fr": "Voici, ton serviteur a trouvé grâce à tes yeux. Grande est ta bonté [bonté] que tu as faite envers moi, pour me garder en vie. Je ne peux pas m'échapper vers la montagne, de peur que le mal ne s'attache à moi et que je meure."
+    },
+    {
+      "ref": "Genesis 19:20",
+      "fr": "Voici, s'il vous plaît, cette ville est assez proche pour y fuir. C'est insignifiant. Laissez-moi m'évader là-bas ! C’est insignifiant et ma vie sera sauvée."
+    },
+    {
+      "ref": "Genesis 19:21",
+      "fr": "Il lui dit : Tu vois, je t'ai également réfléchi à ce sujet. Je ne renverserai pas la ville que vous avez mentionnée [pour laquelle vous avez imploré]."
+    },
+    {
+      "ref": "Genesis 19:22",
+      "fr": "Dépêchez-vous, fuyez là-bas, car je ne peux rien faire jusqu'à ce que vous y arriviez. La ville s'appelait donc Zoar."
+    },
+    {
+      "ref": "Genesis 19:23",
+      "fr": "Le soleil s'était levé sur la terre lorsque Lot arriva à Zoar."
+    },
+    {
+      "ref": "Genesis 19:24",
+      "fr": "Adonoy fit pleuvoir sur Sédom et Amorah, du soufre et du feu, depuis [avant] Adonoy, du ciel."
+    },
+    {
+      "ref": "Genesis 19:25",
+      "fr": "Il renversa ces villes, et toute la plaine, et tous ceux qui habitaient dans les villes et tout ce qui poussait sur le sol."
+    },
+    {
+      "ref": "Genesis 19:26",
+      "fr": "Sa femme [de Lot] regarda derrière lui ; et elle devint une statue de sel."
+    },
+    {
+      "ref": "Genesis 19:27",
+      "fr": "Avraham s'est levé tôt le matin [pour retourner] à l'endroit où il s'était tenu devant la présence d'Adonoy [à l'endroit où il avait servi en prière devant Adonoy]."
+    },
+    {
+      "ref": "Genesis 19:28",
+      "fr": "Il [Avraham] regarda Sedom et Amorah, et tout le pays de la plaine, et il vit la épaisse fumée s'élever de la terre comme la fumée d'une fournaise."
+    },
+    {
+      "ref": "Genesis 19:29",
+      "fr": "Quand Elohim détruisit les villes de la plaine ; Elohim se souvint d'Avraham, et Il envoya Lot hors du bouleversement lorsqu'Il renversa les villes dans lesquelles Lot avait vécu."
+    },
+    {
+      "ref": "Genesis 19:30",
+      "fr": "Lot monta de Tsoar et habita dans la montagne ; et ses deux filles l'accompagnèrent, car il craignait d'habiter à Tsoar. Il vivait dans une grotte, lui et ses deux filles."
+    },
+    {
+      "ref": "Genesis 19:31",
+      "fr": "L'aînée dit à la plus jeune : Notre père est vieux, et il n'y a plus aucun homme sur terre qui vienne chez nous de la manière normale."
+    },
+    {
+      "ref": "Genesis 19:32",
+      "fr": "Venez, exhortons notre père à boire du vin et à coucher avec lui ; afin que nous puissions donner vie aux postérités [des enfants] de notre père."
+    },
+    {
+      "ref": "Genesis 19:33",
+      "fr": "Ils ont conseillé du vin à leur père cette nuit-là ; et la fille aînée entra et coucha avec son père. Il ne s'est pas rendu compte qu'elle s'était couchée ou qu'elle s'était levée."
+    },
+    {
+      "ref": "Genesis 19:34",
+      "fr": "Le lendemain, l'aînée dit à la plus jeune : La nuit dernière, j'ai couché avec mon père. Insistons-lui du vin ce soir aussi, et va dormir avec lui afin que nous puissions donner vie à la semence de notre père."
+    },
+    {
+      "ref": "Genesis 19:35",
+      "fr": "Cette nuit-là aussi, ils exhortèrent leur père à boire du vin. La plus jeune monta et coucha avec lui, et il ne s'aperçut pas qu'elle se couchait ou se levait."
+    },
+    {
+      "ref": "Genesis 19:36",
+      "fr": "Les deux filles de Lot tombèrent enceintes de leur père."
+    },
+    {
+      "ref": "Genesis 19:37",
+      "fr": "La fille aînée donna naissance à un fils et elle l'appela Moav. Il est encore aujourd’hui l’ancêtre de la nation moabite."
+    },
+    {
+      "ref": "Genesis 19:38",
+      "fr": "La plus jeune fille a également donné naissance à un fils et elle l'a nommé Ben-Ami. Il est l'ancêtre du peuple d'Ammon jusqu'à ce jour."
+    },
+    {
+      "ref": "Genesis 20:1",
+      "fr": "Avraham a voyagé de là vers le pays du Néguev [sud], et il a vécu entre Kadeish [Rekem] et Shur [Chagar]. Il vécut quelque temps à Guérar."
+    },
+    {
+      "ref": "Genesis 20:2",
+      "fr": "Avraham a dit à propos de Sarah, sa femme : Elle est ma sœur. Avimélec, roi de Guérar, envoya des messagers et prit Sara."
+    },
+    {
+      "ref": "Genesis 20:3",
+      "fr": "Elohim vint vers Avimélec [la parole fut venue d'avant Elohim à Avimélec] dans un rêve la nuit, et lui dit : Voici, tu mourras à cause de la femme que tu as prise, car c'est une femme mariée [la femme d'un homme]."
+    },
+    {
+      "ref": "Genesis 20:4",
+      "fr": "Avimélec ne s'était pas approché d'elle. Il dit : Mon Maître, vas-tu aussi tuer une nation innocente ?"
+    },
+    {
+      "ref": "Genesis 20:5",
+      "fr": "Ne m'a-t-il pas dit : C'est ma sœur ? Et elle dit aussi : C'est mon frère. Avec un cœur innocent [droit] et des mains pures [justes], j'ai fait cela."
+    },
+    {
+      "ref": "Genesis 20:6",
+      "fr": "Elohim lui dit [La parole d'Elohim lui fut dite] dans un rêve, je sais aussi [il est également révélé devant moi] que tu as fait cela avec un cœur innocent [droit]. Je t'ai aussi empêché de pécher contre [devant] Moi. C'est pourquoi je ne t'ai pas donné la chance de la toucher."
+    },
+    {
+      "ref": "Genesis 20:7",
+      "fr": "Maintenant, rends la femme de cet homme, car c'est un prophète. Il priera pour vous et vous vivrez. Si vous ne la rendez pas, sachez que vous mourrez sûrement, vous et tout ce qui vous appartient."
+    },
+    {
+      "ref": "Genesis 20:8",
+      "fr": "Avimélec se leva de bon matin et appela tous ses serviteurs. Il prononça toutes ces paroles à leurs oreilles [devant eux], et les hommes furent très effrayés."
+    },
+    {
+      "ref": "Genesis 20:9",
+      "fr": "Avimélec appela Avraham et lui dit : Que nous as-tu fait ? Quel mal vous ai-je fait pour que vous ayez causé sur moi et sur mon royaume un si grand péché ? Des actes qui ne devraient pas être commis, vous m'avez fait."
+    },
+    {
+      "ref": "Genesis 20:10",
+      "fr": "Avimélec dit alors à Avraham : Qu'as-tu vu pour faire une telle chose ?"
+    },
+    {
+      "ref": "Genesis 20:11",
+      "fr": "Avraham a dit: Parce que j'ai dit [pensé] qu'il n'y a pas de crainte d'Elohim dans cet endroit, et ils me tueront [afin] de prendre ma femme."
+    },
+    {
+      "ref": "Genesis 20:12",
+      "fr": "En tout cas, c'est ma sœur, la fille de mon père, mais pas la fille de ma mère, et elle est devenue ma femme."
+    },
+    {
+      "ref": "Genesis 20:13",
+      "fr": "Quand Elohim m'a fait s'éloigner de la maison de mon père [Quand les nations s'égaraient après les œuvres de leurs mains, Elohim m'a amené près de Son culte depuis la maison de mon père], je lui ai dit : voici la bonté que tu feras pour moi. Partout où nous allons, dites de moi : Il est mon frère."
+    },
+    {
+      "ref": "Genesis 20:14",
+      "fr": "Avimélec prit des moutons, du bétail, des esclaves, hommes et femmes, et il les donna à Avraham. Il [aussi] lui rendit sa femme Sarah."
+    },
+    {
+      "ref": "Genesis 20:15",
+      "fr": "Avimélec dit : Voici, mon pays est devant toi. Vivez où bon vous semble."
+    },
+    {
+      "ref": "Genesis 20:16",
+      "fr": "Il dit à Sarah : Voici, j'ai donné à ton frère mille pièces d'argent. Ce sera pour vous un couvre-œil [en compensation] pour tous ceux qui sont avec vous, afin que vous puissiez faire face à tout le monde. [Ce sera pour toi un vêtement d'honneur, en échange de ce que je t'aurai envoyé chercher, et que je t'aurai pris, et que je t'aurai vu, ainsi que tout ce qui est avec toi. Et concernant tout ce que tu as dit, tu étais juste.]"
+    },
+    {
+      "ref": "Genesis 20:17",
+      "fr": "Avraham a prié [avant] Elohim, et Elohim a guéri Avimélec, sa femme et ses esclaves, et ils ont accouché [et ils ont été soulagés]."
+    },
+    {
+      "ref": "Genesis 20:18",
+      "fr": "Car Adonoï avait retenu tous les ventres de la maison d'Avimelech, selon la parole de Sarah, la femme d'Abraham."
+    },
+    {
+      "ref": "Genesis 21:1",
+      "fr": "Adonoy se souvint de Sarah comme Il l'avait dit, et Adonoy fit pour Sarah ce qu'Il avait dit."
+    },
+    {
+      "ref": "Genesis 21:2",
+      "fr": "Elle conçut et Sarah donna naissance au fils d'Avraham dans sa vieillesse, au moment désigné qu'Elohim avait déclaré."
+    },
+    {
+      "ref": "Genesis 21:3",
+      "fr": "Avraham nomma Yitzchok le fils qui lui était né et que Sarah lui avait donné."
+    },
+    {
+      "ref": "Genesis 21:4",
+      "fr": "Avraham circoncit son fils Itschok quand il avait huit jours, comme Elohim le lui avait ordonné."
+    },
+    {
+      "ref": "Genesis 21:5",
+      "fr": "Avraham avait cent ans lorsque son fils Yitzchok lui naquit."
+    },
+    {
+      "ref": "Genesis 21:6",
+      "fr": "Sarah dit : Elohim m'a fait rire [joie]. Tous ceux qui entendront riront [se réjouiront] avec moi."
+    },
+    {
+      "ref": "Genesis 21:7",
+      "fr": "Elle dit : Qui a dit à Avraham [qui est fidèle à ce qu'il a dit à Avraham et qui accomplit sa promesse], que Sarah allaiterait des enfants ? Car j'ai donné naissance à un fils dans sa vieillesse."
+    },
+    {
+      "ref": "Genesis 21:8",
+      "fr": "L'enfant grandit et fut sevré. Avraham organisa une grande fête le jour du sevrage d'Itschok."
+    },
+    {
+      "ref": "Genesis 21:9",
+      "fr": "Sarah vit que le fils d'Agar, l'Égyptienne, qu'elle avait donné à Avraham, se moquait."
+    },
+    {
+      "ref": "Genesis 21:10",
+      "fr": "Elle dit à Avraham : Chasse cette esclave et son fils, car le fils de cette esclave n'héritera pas avec mon fils, avec Itschok."
+    },
+    {
+      "ref": "Genesis 21:11",
+      "fr": "Cette chose était très mauvaise aux yeux d’Avraham, à cause de son fils."
+    },
+    {
+      "ref": "Genesis 21:12",
+      "fr": "Elohim dit à Avraham : Ne considère pas cela comme un mal à tes yeux à cause du garçon et de ta servante. Concernant tout ce que Sarah vous dit, écoutez sa voix [acceptez d'elle], car [seulement] par Yitzchok la semence sera considérée comme la vôtre."
+    },
+    {
+      "ref": "Genesis 21:13",
+      "fr": "[Mais] aussi le fils de la servante, je ferai une nation, car il est [de] ta postérité."
+    },
+    {
+      "ref": "Genesis 21:14",
+      "fr": "Avraham s'est levé tôt le matin. Il prit du pain et une outre d'eau et les donna à Agar. Il le plaça sur son épaule avec le garçon et la renvoya. Elle partit et se perdit dans le désert de Beer Sheva."
+    },
+    {
+      "ref": "Genesis 21:15",
+      "fr": "L'eau de la peau était épuisée et elle jeta le garçon sous l'un des buissons."
+    },
+    {
+      "ref": "Genesis 21:16",
+      "fr": "Elle est allée s'asseoir face à lui, à environ [la distance] de coups d'arc. Elle a dit : « Ne me laisse pas voir ce garçon mourir. Elle s'assit face à lui et pleura d'une voix forte."
+    },
+    {
+      "ref": "Genesis 21:17",
+      "fr": "Elohim entendit la voix du garçon [a été entendu devant Elohim]. Un ange de Dieu appela du ciel Agar et lui dit : Qu'as-tu, Agar ? N'ayez pas peur. Elohim a entendu la voix du garçon [a été entendue devant Elohim] à l'endroit où il se trouve."
+    },
+    {
+      "ref": "Genesis 21:18",
+      "fr": "Lève-toi et soulève le garçon. Gardez votre main ferme sur lui, car je ferai de lui une grande nation."
+    },
+    {
+      "ref": "Genesis 21:19",
+      "fr": "Elohim ouvrit [découvrit] ses yeux, et elle vit un puits d'eau. Elle alla remplir l'outre d'eau et donna à boire au garçon."
+    },
+    {
+      "ref": "Genesis 21:20",
+      "fr": "Elohim était avec le garçon [La Parole d'Elohim a soutenu le garçon] et il a grandi. Il s'est installé dans le désert, [où] il est devenu un archer expert."
+    },
+    {
+      "ref": "Genesis 21:21",
+      "fr": "Il vivait dans le désert de Paran, et sa mère lui prit une femme du pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 21:22",
+      "fr": "C'est à ce moment-là qu'Avimelech et Pichol, son général, parlèrent à Avraham, disant : Elohim est avec toi dans tout ce que tu fais [la Parole d'Elohim est ton soutien dans tout ce que tu fais]."
+    },
+    {
+      "ref": "Genesis 21:23",
+      "fr": "Maintenant, jure-moi ici, par [la Parole d] Elohim, que tu ne traiteras pas de mensonge envers moi, envers mon fils ou mon petit-fils. Le bien que je vous ai fait, faites-le à moi et au pays dans lequel vous avez vécu pendant un certain temps."
+    },
+    {
+      "ref": "Genesis 21:24",
+      "fr": "Avraham a dit, je jurerai."
+    },
+    {
+      "ref": "Genesis 21:25",
+      "fr": "Avraham a ensuite réprimandé Avimélec concernant le puits d’eau que les serviteurs d’Avimelech avaient pris de force."
+    },
+    {
+      "ref": "Genesis 21:26",
+      "fr": "Avimélec dit : Je ne sais pas qui a fait cette chose. Vous ne me l’avez jamais dit non plus, et je n’en ai rien entendu non plus jusqu’à aujourd’hui."
+    },
+    {
+      "ref": "Genesis 21:27",
+      "fr": "Avraham prit des moutons et du bétail et les donna à Avimélec. Tous deux ont conclu une alliance."
+    },
+    {
+      "ref": "Genesis 21:28",
+      "fr": "Avraham a séparé sept brebis."
+    },
+    {
+      "ref": "Genesis 21:29",
+      "fr": "Avimélec dit à Avraham. Quelle est la raison de ces sept brebis que tu as mises à part ?"
+    },
+    {
+      "ref": "Genesis 21:30",
+      "fr": "Il [Avraham] dit : Prends ces sept brebis de ma main afin que ce soit une preuve pour moi que j'ai creusé ce puits."
+    },
+    {
+      "ref": "Genesis 21:31",
+      "fr": "C'est pourquoi il appela cet endroit Beer Sheva, car les deux hommes y avaient prêté serment."
+    },
+    {
+      "ref": "Genesis 21:32",
+      "fr": "Ils ont conclu une alliance à Beer Sheva. Avimélec et Pichol, son général, se levèrent alors et retournèrent au pays des Philistins."
+    },
+    {
+      "ref": "Genesis 21:33",
+      "fr": "Avraham a planté un eishel [arbre] à Beer Sheva, et là il a proclamé [et là il a prié] le Nom Adonoy, Tout-Puissant de l'univers."
+    },
+    {
+      "ref": "Genesis 21:34",
+      "fr": "Avraham vécut plusieurs jours au pays des Philistins."
+    },
+    {
+      "ref": "Genesis 22:1",
+      "fr": "Après ces événements, Elohim testa Avraham et lui dit : Avraham ! et il [Avraham] dit : Me voici."
+    },
+    {
+      "ref": "Genesis 22:2",
+      "fr": "Il dit : S'il te plaît, prends [maintenant] ton fils, ton unique, que tu aimes – Yitzchok – et va au pays de Moriah [culte]. Offrez-le en holocauste sur l'une des montagnes que je vous désignerai."
+    },
+    {
+      "ref": "Genesis 22:3",
+      "fr": "Avraham se réveilla tôt le matin, sella son âne et emmena avec lui ses deux assistants, ainsi que son fils Yitzchok. Il fendit le bois de l'holocauste, se leva et se rendit au lieu que Dieu lui avait désigné."
+    },
+    {
+      "ref": "Genesis 22:4",
+      "fr": "Le troisième jour, Avraham leva les yeux et vit l'endroit de loin."
+    },
+    {
+      "ref": "Genesis 22:5",
+      "fr": "Avraham dit à ses assistants : Restez ici avec l'âne et moi et le garçon irons à cet endroit. Nous nous prosternerons [en adoration] et reviendrons vers toi."
+    },
+    {
+      "ref": "Genesis 22:6",
+      "fr": "Avraham prit le bois de l'holocauste et le plaça sur son fils Itschok. Dans sa main, il prit le feu et le couteau, et ils allèrent tous deux ensemble."
+    },
+    {
+      "ref": "Genesis 22:7",
+      "fr": "Yitzchok parla à Avraham, son père, et dit : Père, et il [Avraham] dit : Me voici, mon fils. Il dit : Voici le feu et le bois, mais où est l'agneau pour l'holocauste ?"
+    },
+    {
+      "ref": "Genesis 22:8",
+      "fr": "Avraham dit : Elohim montrera l'agneau [l'agneau est révélé devant Elohim] pour l'holocauste, mon fils. Et ils sont partis tous les deux ensemble."
+    },
+    {
+      "ref": "Genesis 22:9",
+      "fr": "Ils arrivèrent au lieu qu'Elohim lui avait désigné. Avraham y construisit l'autel et disposa le bois. Il attacha son fils Itschok et le plaça sur l'autel, au sommet du bois."
+    },
+    {
+      "ref": "Genesis 22:10",
+      "fr": "Avraham tendit la main et prit le couteau pour massacrer son fils."
+    },
+    {
+      "ref": "Genesis 22:11",
+      "fr": "Un ange d'Adonoy l'appela du ciel et lui dit : Avraham, Avraham ! et il dit : Me voici."
+    },
+    {
+      "ref": "Genesis 22:12",
+      "fr": "Il [Dieu] dit : Ne touchez pas le garçon et ne faites rien qui puisse lui faire du mal ; car maintenant je sais que tu es quelqu'un qui craint Elohim et qui ne m'a pas refusé ton fils, ton unique."
+    },
+    {
+      "ref": "Genesis 22:13",
+      "fr": "Avraham leva les yeux et aperçut un bélier après qu'il ait été attrapé par ses cornes dans le fourré. Avraham alla prendre le bélier et le sacrifia en holocauste à la place de son fils."
+    },
+    {
+      "ref": "Genesis 22:14",
+      "fr": "Avraham a donné le nom de cet endroit, Adonoy le verra ; comme on dit aujourd’hui : Sur la montagne d’Adonoy, on le verra. [Avraham a adoré et prié là-bas à cet endroit, et il a dit devant Adonoy : « Ici les générations adoreront ». C’est pourquoi, comme il est dit aujourd’hui : « Sur cette montagne, Avraham adora devant Adonoy ».]"
+    },
+    {
+      "ref": "Genesis 22:15",
+      "fr": "Un ange d'Adonoy appela Avraham, une seconde fois, du ciel."
+    },
+    {
+      "ref": "Genesis 22:16",
+      "fr": "Et il dit : J'ai juré par Moi-même [Ma Parole], déclare Adonoy, que c'est parce que tu as accompli cet acte et que tu n'as pas refusé ton fils unique."
+    },
+    {
+      "ref": "Genesis 22:17",
+      "fr": "Je te bénirai grandement et je rendrai ta descendance aussi nombreuse que les étoiles du ciel et comme le sable au bord de la mer. Vos descendants hériteront des portes [des villes] de leurs ennemis."
+    },
+    {
+      "ref": "Genesis 22:18",
+      "fr": "Par [À cause de] vos enfants, toutes les nations du monde seront bénies, parce que vous avez écouté Ma voix [Parole]."
+    },
+    {
+      "ref": "Genesis 22:19",
+      "fr": "Avraham retourna vers ses assistants, et ils se levèrent et partirent ensemble à Beer Sheva. Avraham habitait à Beer Sheva."
+    },
+    {
+      "ref": "Genesis 22:20",
+      "fr": "Après ces paroles, on rapporta à Avraham, disant : Voici, Milkah a aussi donné des enfants à Nachor, ton frère."
+    },
+    {
+      "ref": "Genesis 22:21",
+      "fr": "Utz, son premier-né, Buz son frère, et Kemueil, le père d'Aram."
+    },
+    {
+      "ref": "Genesis 22:22",
+      "fr": "[Aussi] Kesed, Chazo, Pildash, Yidlaf et Besueil."
+    },
+    {
+      "ref": "Genesis 22:23",
+      "fr": "Besueil engendra Rivkah. Milka enfanta ces huit-là à Nachor, le frère d'Abraham."
+    },
+    {
+      "ref": "Genesis 22:24",
+      "fr": "Sa concubine s’appelait Réouma. Elle a également donné naissance à Tevach, Gacham, Tachash et Ma'achoh."
+    }
+  ]
+}

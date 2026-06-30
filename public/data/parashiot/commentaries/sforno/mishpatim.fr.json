@@ -1,0 +1,480 @@
+{
+  "name": "Mishpatim",
+  "range": "Exodus 21:1-24:18",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/mishpatim.json",
+  "verses": [
+    {
+      "ref": "Exodus 21:1",
+      "fr": "ואלה המשפטים, dans le paragraphe précédent, la Torah parlait de l'interdiction de convoiter les biens appartenant à quelqu'un d'autre (20,13). Cela n’impliquait pas d’action ; contrairement à ואלה המשפטים, la Torah parle maintenant de lois régissant la nature concrète de « אשר לרעך », les choses tangibles appartenant à votre prochain. C'est vrai. Ce ne sont pas des commandements positifs et des commandements négatifs qui s’appliquent à chaque Juif, mais qui ne sont applicables que si l’occasion se présente. Les questions en discussion ne doivent être tranchées que si et quand de telles situations se produisent dans la vie d’une personne."
+    },
+    {
+      "ref": "Exodus 21:2",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:6",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:7",
+      "fr": "Je vous l'accorde. Il n’est pas approprié qu’un membre honnête de la société achète une jeune fille juive comme servante contre sa volonté. Une telle « vente » n’est acceptable que si la fille en question deviendra l’épouse de l’acheteur ou son fils une fois pubère. Le prix d'achat sera remis à son père comme nos sages l'ont stipulé dans Ketouvot 46."
+    },
+    {
+      "ref": "Exodus 21:8",
+      "fr": "אם רעה בעיני אדוניה, même si la procédure normale est celle que nous avons décrite au verset sept, son « maître » n'est pas obligé de l'épouser s'il la trouve incompatible, sinon il finirait par la haïr. Cependant, dans une telle situation, le père et le maître doivent coopérer pour la libérer de son obligation de servante. Il s'agit du père de la jeune fille en question qui l'avait déjà trahie en la « vendant » dans un premier temps. Nous savons que même les filles de Lavan étaient en colère contre ce qu’elles estimaient que leur père avait fait lorsqu’il les avait « vendues » en mariage. (comparer Genèse 31,15) La Torah décrit ici l’impression négative qu’elle fait sur n’importe lequel de ses pairs lorsqu’il observe un père juif vendre les services de sa fille pour autre chose que le mariage. Une fois qu'un employeur/futur mari a fait cela, aucun autre père juif n'est autorisé à vendre sa fille à un tel homme. [le mot נכרי ne fait pas référence à un non-juif, mais à un juif qui a agi contrairement aux mœurs juives. Éd.]"
+    },
+    {
+      "ref": "Exodus 21:9",
+      "fr": "כמשפט הבנות יעשה לה, son fils. [le fils de l’employeur s’il veut l’épouser. NDLR] Il devra fournir ces trois objets à son épouse même s'il ne l'a pas formellement fiancée ou achetée. [quelque chose que son père avait fait. Éd.]"
+    },
+    {
+      "ref": "Exodus 21:10",
+      "fr": "En fait, on n'a pas le droit d'épouser plus d'une femme à moins d'être en mesure de subvenir à leurs besoins sans réduire l'allocation de la première épouse. (Evamot 65)"
+    },
+    {
+      "ref": "Exodus 21:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:12",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:13",
+      "fr": "En fait, il ne s'agissait pas d'une mort causée intentionnellement par le tueur, mais nous savons qu'il existe un principe dans ce monde connu sous le nom de מגלגלין חובה על ידי חייב, \"Dieu arrange les choses pour que le coupable être puni sera puni par quelqu’un lui-même coupable d’autre chose. C'est ce à quoi Salomon fait référence dans Proverbes 16,4 וגם רשע ליום רעה, « même les méchants pour le jour du mal ». [à la question si tout a un but dans ce monde, quelle est la fonction des méchants ? Salomon répond que les méchants sont utilisés par D.ieu pour administrer le châtiment à ceux qui le méritent. Ed.] ושמתי לך מקום אשר ינוס, pour expier sa culpabilité en étant exilé de son domicile."
+    },
+    {
+      "ref": "Exodus 21:14",
+      "fr": "מעם מזבחי, même si à cette époque où aucune ville de refuge n'existait encore, tout le camp des Lévites, et pas seulement la zone immédiate de l'autel, servait de lieu de refuge. תקחנו למות, comme dans Jérémie 7,11 « considérez-vous ma maison comme un repaire de voleurs ?"
+    },
+    {
+      "ref": "Exodus 21:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:19",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:20",
+      "fr": "נקום ינקם, le sang de l'esclave. Le maître n'est certainement pas autorisé à administrer un coup aussi cruel, même s'il possède cet être humain. Il est autorisé à administrer des châtiments corporels comme nous le savons dans les Proverbes 29,19 בדברים לא יוסר עבד, « un esclave ne répond pas à un simple châtiment oral »."
+    },
+    {
+      "ref": "Exodus 21:21",
+      "fr": "כי כספו הוא, et c'est à lui de le discipliner. Parfois, l’insubordination d’un esclave continue jusqu’à ce que le maître soit obligé de lui administrer un coup violent. Nous avons lu à ce sujet dans Proverbes 17,11 ומלאך אכזרי ישלח בואך מרי יבקש רע, \"un homme méchant cherche à se rebeller; c'est pourquoi un messager cruel sera envoyé contre lui\"."
+    },
+    {
+      "ref": "Exodus 21:22",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:23",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:24",
+      "fr": "עין תחת עין; c'est ce que devrait être le jugement contre le délinquant, si l'on appliquait le principe de la peine adaptée au crime dans toute sa sévérité. Cependant, selon la tradition, seule une compensation financière est exigée, car nous ne pouvons pas mesurer avec précision comment appliquer littéralement le principe « œil pour œil »."
+    },
+    {
+      "ref": "Exodus 21:25",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:26",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:27",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:28",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:29",
+      "fr": "C'est vrai. Une référence au jugement du ciel qui sera exigé du coupable si nous ne pouvons le condamner faute de témoins."
+    },
+    {
+      "ref": "Exodus 21:30",
+      "fr": "אם כופר יושת עליו, si les témoins témoignent d'une manière qui permet au tribunal d'appliquer les lois sur l'indemnisation comme moyen d'expiation."
+    },
+    {
+      "ref": "Exodus 21:31",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:32",
+      "fr": "כסף שלושים שקלים, équivalent à la valeur monétaire fixée par la Torah à une femme dans la fleur de l'âge (entre 20 et 60 ans). La comparaison reflète la partie de la législation de la Torah qui doit être observée à la fois par les femmes juives et par les esclaves masculins gentils."
+    },
+    {
+      "ref": "Exodus 21:33",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:34",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:35",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:36",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 21:37",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:1",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:2",
+      "fr": "En réalité, si la Torah n’avait pas légiféré sur cette forme de remboursement de la dette en cas de vol, la plupart des pauvres de la nation deviendraient des voleurs, sachant qu’ils n’auraient à restituer qu’avec des liquidités. En raison d’une telle absence de législation, la civilisation se désintégrerait dans l’anarchie."
+    },
+    {
+      "ref": "Exodus 22:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:4",
+      "fr": "כי יבער איש שדה או כרם, au sein de sa propre propriété, (à l'origine) ובער בשדה אחר, même si l'animal s'était égaré dans le champ de quelqu'un d'autre sans l'encouragement de son propriétaire, מיטב שדהו En fait, la qualité de la restitution doit être constituée du meilleur du champ ou du vignoble, tant le phénomène d'errance des animaux pour se nourrir ailleurs est très répandu. [l'auteur explique l'apparente injustice du fait que la restitution vaut plus que le préjudice subi par la personne lésée. Éd.]"
+    },
+    {
+      "ref": "Exodus 22:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:6",
+      "fr": "כסף או כלים, exemples d’objets le plus souvent confiés à un voisin pour qu’il les garde en sécurité pendant l’absence du propriétaire de son domicile. Ceux-ci sont pris en charge sur une base réciproque, aucun frais n'étant facturé pour ce service."
+    },
+    {
+      "ref": "Exodus 22:7",
+      "fr": "En outre, si le syndic a fait quelque chose d'illégal avec l'objet qui lui a été confié pour la garde, il est responsable même des accidents survenus auxdits objets."
+    },
+    {
+      "ref": "Exodus 22:8",
+      "fr": "אשר יאמר כי הוא זה, également si l'accusé dit « c'est la vérité », ce qui implique que seule une partie de l'accusation est vraie. C’est ce qu’on appelle dans le langage talmudique מודה במקצת, un aveu partiel. Dans le cas contraire, le demandeur et le défendeur doivent prêter serment. Peu importe que l'objet du litige soit un prêt et s'il a été remboursé, ou un objet confié à la garde ; dans les deux cas, la demande est admise partiellement. En général, lorsque les juges condamnent le coupable, cela équivaut à une condamnation pour vol, et la peine est la restitution du double du montant en litige. Une fausse déclaration selon laquelle quelque chose a été volé équivaut à ce que la personne qui fait la réclamation soit considérée comme un voleur."
+    },
+    {
+      "ref": "Exodus 22:9",
+      "fr": "En général, dans des circonstances normales, les pauvres assument la garde de ces animaux contre paiement d'une redevance."
+    },
+    {
+      "ref": "Exodus 22:10",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:12",
+      "fr": "יביאהו עד, nous avons déjà expliqué que chaque fois que la Torah utilise le mot עד au singulier, cela signifie deux témoins acceptables par le tribunal. אם טרוף יטרף, par une bête sauvage ; il est probable que quelqu'un ait été témoin de l'événement, voyant qu'il devait y avoir d'autres bergers à proximité. Quel type de témoignage est attendu de ces témoins ? הטרפה, que la situation dans laquelle l'animal avait été mutilé ou mangé était le genre d'accident que le berger qui le gardait n'aurait pas pu être évité en faisant preuve de plus de prudence. לא ישלם, le berger n'a pas à effectuer de restitution. Si toutefois les prédateurs ont mangé l'animal en question en raison d'une surveillance insuffisante de la part du berger, celui-ci doit procéder à une restitution. (comparer Baba Metzia 93) En déterminant un combat raisonnable que le berger doit mener contre les prédateurs, Rachi citant la Mechilta dit qu'un loup solitaire n'est pas quelque chose contre lequel le berger est sans défense, pas plus que deux chiens. Bien entendu, les petits animaux et les rongeurs ne sont pas considérés comme une menace pour l’homme."
+    },
+    {
+      "ref": "Exodus 22:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:14",
+      "fr": "אם בעליו עמו, pendant que l'animal effectue le travail pour lequel il a été prêté. לא ישלם, l'emprunteur. La raison en est que dans la plupart des cas, l'animal a été prêté après que les deux parties se soient mises d'accord sur le type de travail pour lequel il serait utilisé. Son statut s'apparente donc à celui d'un cadeau, étant entendu qu'il sera restitué. Lorsqu'on fait ce genre de don, on ne dresse pas une liste de conditions relatives à l'usage précis dont peut être fait le don. Si une telle liste de conditions avait effectivement été établie, la nature de l'ensemble de la transaction aurait été annulée, elle ne serait plus du tout qualifiée de donation temporaire, mais le propriétaire resterait effectivement propriétaire, de sorte que le non-retour, même volontaire, ne constituerait pas un manquement donnant droit à une indemnisation de la part de « l'emprunteur ». La présence du propriétaire lors de tout accident survenu à l'animal prêté est considérée par la Torah comme la preuve qu'il n'a jamais renoncé à aucune partie de sa propriété et qu'il n'a donc droit à aucune indemnisation. On n’obtient aucune compensation pour la perte de ce qui nous appartient."
+    },
+    {
+      "ref": "Exodus 22:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:19",
+      "fr": "זובח לאלוהים, à toutes les divinités simultanément. Ceci est interdit même si l'adorateur inclut Hachem dans l'adresse à laquelle le sacrifice est offert. Autrement, la personne sera exécutée et l'offrande elle-même est interdite pour quelque usage que ce soit. Tout comme les fausses divinités doivent être totalement bannies, il en va de même pour ceux qui croient en elles. (comparer Deutéronome 7,26 ) לה' לבדו, à l'exclusion de tout partenaire possible."
+    },
+    {
+      "ref": "Exodus 22:20",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:21",
+      "fr": "לא תענון אם ענה תענה אותו; si, en opprimant un orphelin, votre intention était seulement de l'opprimer seul ; Si votre « oppression » avait pour but de le discipliner afin de finalement lui accorder de la bonté après qu'il ait répondu à vos réprimandes, votre discipline est considérée comme un acte de bonté. [l'auteur interprète le verset 22 commençant par le mot אם comme alternative, modérant ce qui a été écrit au verset 21. Ed.]"
+    },
+    {
+      "ref": "Exodus 22:22",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:23",
+      "fr": "Vous êtes prêt à le faire. J'aurai pitié de celui qui crie vers Moi en se plaignant du traitement dur et injuste qu'il doit endurer. La réaction de D.ieu face à un individu juif coupable d’un tel comportement sera similaire à Sa réaction face aux abus prolongés subis par les Israélites de la part des Égyptiens. Quiconque se rend coupable d'une telle oppression des orphelins ou des veuves entraînera ce genre de souffrance pour les membres de sa propre famille."
+    },
+    {
+      "ref": "Exodus 22:24",
+      "fr": "אם כסף תלוה, s'il s'agit d'un Israélite sur lequel la promesse selon laquelle « il n'y aura pas d'indigent parmi vous » n'a pas été tenue. (comparer Deutéronome 15,4) L'individu ayant besoin d'un prêt est celui qui a été soumis à une autre promesse (menace) écrite dans la Torah dans Deutéronome 15,11 כי לא יחדל אביון, \"il n'y aura jamais une absence totale de personnes démunies, etc.\" Lorsqu’une telle situation se présente, la victime aura besoin d’un prêt."
+    },
+    {
+      "ref": "Exodus 22:25",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 22:26",
+      "fr": "ושמעתי כי חנון אני, même si le débiteur ne peut pas Me plaindre de vous, puisqu'il vous doit le remboursement d'un prêt, s'il Me crie néanmoins en se plaignant de sa situation économique qui le fait être pratiquement nu, voyant que vous avez pris ses vêtements en garantie de son prêt en souffrance, Je lui donnerai une partie de ce que J'avais prévu de vous donner en reconnaissance de votre subvenance à ses besoins. Si on vous avait accordé plus de moyens financiers que ce dont vous aviez besoin, la seule raison était que vous puissiez utiliser votre excédent pour aider les nécessiteux. Bien sûr, Je montrerai donc Ma compassion envers tous ceux qui n'ont personne d'autre vers qui se tourner. Il est alors dans votre intérêt de démontrer votre compassion en lui rendant sa promesse lorsqu'il en a besoin. Si vous faites cela, vous vous assurerez que Je ne vous retirerai pas Ma compassion. Cela vous permettra à son tour d’accorder des prêts à d’autres personnes dans le besoin."
+    },
+    {
+      "ref": "Exodus 22:27",
+      "fr": "Bien sûr, même si vous pensez que le juge vous a jugé injustement, vous ne devez pas le maudire. La raison en est qu’aucun individu ne peut juger objectivement de sa propre culpabilité ou de son innocence. Le fait de maudire l'autorité légitime d'un pays, ses dirigeants officiels, aura souvent pour conséquence que l'ensemble de la population subira les retombées négatives de telles malédictions. Comparez ce que Salomon dit à ce sujet dans Proverbes 24,21 : « Craignez l'Éternel, mon fils, et le roi ; ne vous associez pas à ceux qui changent constamment. » [L'auteur semble lire dans le verset ci-dessus que la royauté héréditaire doit être obéie de préférence aux dirigeants élus qui ne sont élus que pour une période de temps limitée et peuvent être remplacés par la volonté du peuple même pendant leur mandat. Éd.]"
+    },
+    {
+      "ref": "Exodus 22:28",
+      "fr": "מלאתך, le soulèvement pour le prêtre de votre récolte de céréales. Le mot מלאה semble être emprunté à Genèse 41,22 où les bons épis de maïs du rêve de Pharaon sont décrits comme tels. En fait, le soulèvement parallèle de vos vendanges d'huile et de raisin. בכור בניך תתן לי, pour accomplir toutes sortes de devoirs sacrés. Cela inclut le service dans le Temple, l'enseignement de la Torah, quelque chose qui devint plus tard la principale occupation des prêtres, commentée par Maleachi 2,7 avec la ligne כי שפתי כהן ישמרו דעת והתורה יבקשו מפיהו, \"pour les lèvres d'un prêtre garde la connaissance, et les hommes recherchent les décisions de sa bouche, car il est un messager de l'Éternel des armées."
+    },
+    {
+      "ref": "Exodus 22:29",
+      "fr": "כן תעשה לשורך לצאנך, que tu Me donnes le premier-né qui n'est pas un fœtus prématurément avorté. Nos sages ont dit (Chabbat 135) qu'\"un bébé humain qui reste en vie pendant 30 jours est considéré comme viable, et non dans la catégorie des נפל, avorté prématurément. Dans le cas des animaux, la période parallèle est de huit jours\"."
+    },
+    {
+      "ref": "Exodus 22:30",
+      "fr": "ואנשי קודש תהיון לי, la manière dont vous prouverez que vous êtes tous des hommes ayant un objectif saint est que vous permettrez à vos premiers-nés de se consacrer à mon service et que vous remettrez les dîmes, etc., stipulées comme « Mes dons », [en matière de rituel spécifique, étant donné que chaque Juif doit servir Hachem. Ed.] Initialement, c'était la tâche du premier-né d'enseigner au peuple les détails de la loi et des rituels juifs. Quand ils feront cela, le résultat sera והתקדשתם והייתם קדושים, « vous vous sanctifierez et resterez saints » (Lévitique 20,7). ובשר בשדה טרפה, même le genre de treifah qui n'est ni rituellement impur ni ne confère aucune impureté. [si cela est interdit, נבלה, les animaux qui meurent pour d'autres causes que l'abattage rituel sont certainement interdits comme nourriture. Éd.]"
+    },
+    {
+      "ref": "Exodus 23:1",
+      "fr": "לא תשא...אל תשת ידך עם רשע. Signer avec de telles personnes sur le même document. Selon le Sanhédrin 23, les habitants de Jérusalem n'apposeraient leur signature sur aucun document à moins qu'ils ne se soient assurés de l'intégrité des cosignataires de ces documents. להיות עד חמס, être le seul signataire étant donné que la signature des méchants ne vaut rien. Le résultat pourrait être que le juge confisque l’argent de l’accusé sur la base d’un document ne comportant qu’une seule signature, ce qui est inadmissible selon la loi juive."
+    },
+    {
+      "ref": "Exodus 23:2",
+      "fr": "Il s'agit du vote décisif dans un procès impliquant la peine capitale. On ne peut pas déclarer quelqu'un coupable de la peine de mort sur la base d'un juge unique. Une majorité d’un équivaudrait à une condamnation par un juge unique. D'une part, lorsque vos collègues les autres juges vous demandent votre avis, d'autre part, ne vous laissez pas influencer par le fait que la majorité pense différemment de vous. En supposant que lors d'un procès, 10 des 23 juges avaient exprimé l'opinion que l'accusé était innocent tandis que onze avaient exprimé l'opinion que l'accusé était coupable, par exemple, si vous deviez voter à la majorité, il y aurait alors une majorité de 2 sur un total de 23 votants coupables, et cette décision aurait été prise par votre seul vote. Vous n’êtes pas autorisé à sauver votre conscience en votant avec la majorité, à moins que cela ne représente votre conviction absolue. Vous devez expliquer la raison de votre vote. À moins qu'il n'y ait une majorité de deux voix en faveur d'un coupable, personne ne peut être condamné à la peine de mort."
+    },
+    {
+      "ref": "Exodus 23:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:6",
+      "fr": "Il s'agit d'un exemple d'indulgence envers une catégorie de personnes et de dureté envers une autre. Lorsque des justiciables vous font face, vous ne devez pas tenir compte des différences de statut social. De plus, si l'un des justiciables est debout pendant la procédure tandis que l'autre est assis, il s'agit déjà d'une forme de discrimination inadmissible."
+    },
+    {
+      "ref": "Exodus 23:7",
+      "fr": "מדבר שקר תרחק, la Torah s'adresse au juge, lui disant de se tenir à l'écart de tout ce qui pourrait donner l'impression qu'il a affaire à quelque chose de corrompu. Nos sages développent ce point en avertissant que le juge doit être prudent dans toutes ses déclarations afin qu'un menteur ne puisse pas exploiter ses paroles à ses propres fins néfastes. (Avot 1,9)"
+    },
+    {
+      "ref": "Exodus 23:8",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:9",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:10",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:11",
+      "fr": "תשמטנה, une référence au sh'mittat kessaphim, l'abandon des dettes en souffrance à la fin de l'année agricole Sh'mittah. La législation est décrite plus en détail dans Deutéronome 15,2 . En fait, pendant l'année agricole sh'mittah, les pauvres partageront également toutes les récoltes. En fait, après que les pauvres ont pris ce qu'ils veulent, et תאכל חית השדה, les pauvres avaient le premier droit. Nous avons appris dans Taanit 20 qu'il ne faut pas donner aux chiens des aliments propres à la consommation humaine."
+    },
+    {
+      "ref": "Exodus 23:12",
+      "fr": "תשבות, vous devez même vous abstenir de faire des choses qui ne sont pas interdites sous le titre de מלאכה, le type d'activité associée à la construction du Tabernacle, si ces activités représentent un effort intense habituel en semaine. Le Chabbat 113 nous a enseigné que l’une des façons d’honorer le don du sabbat est de s’abstenir de s’engager dans des activités qui rappellent les jours de la semaine. Le Talmud fonde cela sur Ésaïe 58,13 qui définit l’observance appropriée du sabbat comme distincte de l’observance purement formelle du sabbat, avec ces mots : « si vous vous abstenez de piétiner le sabbat et de poursuivre vos affaires le jour de mon saint ; si vous appelez le sabbat « délice », le jour saint du Seigneur « honoré », et si vous l’honorez et ne suivez pas vos voies, ne vous occupez pas de vos affaires et ne faites pas de marchés, alors vous pouvez rechercher la faveur du Seigneur. » למען ינוח שורך וחמורך, grâce à votre observation du sabbat, vos bêtes de somme bénéficieront également du repos. En outre, en corollaire de votre propre observance du sabbat, votre personnel bénéficiera également d'un répit physique de ses tâches quotidiennes. La Torah décrit le contraste avec votre propre expérience lorsque vous étiez esclaves en Égypte, lorsque vous ne profitiez pas du repos pendant les vacances de votre maître. Nous en avons la preuve dans Exode 5,9 lorsque Pharaon ordonna une nouvelle intensification des travaux forcés effectués par les Israélites en réponse à leur demande de brèves vacances afin de vaquer à leurs obligations religieuses. Cela fait partie de l'aspect national du sabbat, souligné dans Deutéronome 5,14, par opposition à l'aspect universel de l'observance du sabbat souligné dans Exode 20,11."
+    },
+    {
+      "ref": "Exodus 23:13",
+      "fr": "En outre, les Israélites sont avertis non seulement de ne pas violer les commandements de D.ieu, mais aussi de construire des garde-fous pour garantir qu’ils ne violent pas ces commandements par inadvertance. Un excellent exemple de ceci est la prudence non seulement de ne pas adorer les idoles, mais même de ne pas mentionner leurs noms. Bien sûr, vous ne devez même pas être la cause des autres mentionnant les noms de ces idoles. S’ils mentionnent ces noms, cela ne doit pas être avec votre approbation."
+    },
+    {
+      "ref": "Exodus 23:14",
+      "fr": "תחוג לי, comme nous le trouvons dans les Psaumes 149,2 ישמח ישראל בעושיו, « le peuple d'Israël se réjouit en son Créateur ». Une telle joie lors des fêtes légiférées par D.ieu vient contrebalancer la joie manifestée à l’occasion de la fabrication du veau d’or, lorsque la Torah rapporte « quand il vit le veau et les gens danser, etc. ». (Exode 32,19)."
+    },
+    {
+      "ref": "Exodus 23:15",
+      "fr": "את חג המצות תשמור, le mot תשמור est entendu dans le même sens que שמור את חודש האביב ועשית פסח, « observez le mois du printemps pour préparer le Pâque. (Deut. 1,1.) למועד חודש האביב, une allusion subtile aux autorités pour s'assurer que les dates du calendrier données pour cette fête coïncident avec la saison du printemps. Cela peut être accompli par un jour supplémentaire certains mois, ou dans des situations plus drastiques par l'insertion d'un deuxième mois d'Adar."
+    },
+    {
+      "ref": "Exodus 23:16",
+      "fr": "בצאת השנה. Une fois toutes les récoltes rentrées."
+    },
+    {
+      "ref": "Exodus 23:17",
+      "fr": "שלש פעמים בשנה יראה, pour rendre grâce au Seigneur pour avoir atteint la liberté de l'esclavage, au printemps, en été et en automne. Toutes nos réalisations proviennent de Lui. אל פני האדון, apparaître en présence du אדון. Le terme אדון s’applique à quelqu’un qui contrôle des choses périssables, des mortels, etc. La Torah, en utilisant ce nom de D.ieu, nous rappelle qu’Il ​​est le maître des gens qui se présentent chacun comme un individu. Lorsqu’ils font une telle apparition devant le Seigneur, c’est comme si chacun rendait hommage devant son Maître. Ce \"Maître\" est simultanément le maître du sol qu'ils travaillent et qui leur assure leur subsistance, étant donné que D.ieu est enregistré comme כי לי כל הארץ כי גרים ותושבים אתם עמדי, \"toute la terre est à moi car vous êtes des étrangers ou, au mieux, des étrangers résidents avec Moi. (Lévitique 25,23). Au vu de ce qui précède, il convient clairement de Lui exprimer notre gratitude au cours des trois saisons susmentionnées. Par conséquent, (19) ראשית בכורי אדמתך, une référence au plus beau de nos fruits respectifs. Le mot ראשית est utilisé dans le sens de « les meilleurs », dans Amos 6,6 וראשית שמנים ימשחו, « ils s'oignent des meilleures huiles ». De même, Amos 6,1, נקובי ראשית הגויים, « vous, notables de la nation dirigeante ». Les produits éligibles à ce commandement sont les 7 répertoriés dans Bikkurim 1, Mishna 3"
+    },
+    {
+      "ref": "Exodus 23:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:19",
+      "fr": "Au lieu de cela, ne pratiquez pas ces procédures que les idolâtres croient susceptibles d'améliorer la productivité de la terre. Mais, au contraire, si vous voulez vraiment attirer la bénédiction de D.ieu sur vos efforts agricoles, vous offrirez à D.ieu un cadeau de la toute première et de la meilleure de vos récoltes respectives. (comparez avec Ézéchiel 44,30 וראשית בכורי כל, וכל תרומת כל,...להניח ברכה אל ביתך, « tous les prémices de choix de toute sorte, et tous les dons de toute sorte, de toutes vos contributions, ira aux prêtres, afin qu'une bénédiction repose sur votre maison."
+    },
+    {
+      "ref": "Exodus 23:20",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:21",
+      "fr": "השמר מפניו, pour ne pas offenser sa dignité. Le mot est utilisé dans un sens similaire à Josué 5,9 (l'ange parlant) « ôte ta chaussure de ton pied ! » ושמע בקולו, de suivre ses traces, l'inverse de ce que les Israélites avaient fait (comme le rapporte) dans Deutéronome 1,28 lorsqu'ils étaient prêts à écouter et à suivre les 10 espions qui avaient déclaré qu'il était impossible d'atteindre leur objectif, c'est-à-dire la conquête du pays de Canaan. En fait, si même un seul individu péchait, le châtiment inclurait ses compatriotes juifs. C’est précisément ce qui s’est produit lorsqu’Acan a volé le butin de Jéricho et que, parce que son péché avait été dissimulé, Israël a perdu la première bataille d’Aï. (Josué fait référence à cela comme un avertissement dans Josué 22,20. Il rappelle au peuple qu'Acan n'était pas le seul à être puni pour ce péché mais que D.ieu [vraisemblablement parce qu'Il avait investi Son ange d'une telle autorité. NDLR] a exprimé sa colère contre la nation entière.) כי שמי בקרבו, et il n'est pas en son pouvoir de pardonner les offenses contre Mon honneur."
+    },
+    {
+      "ref": "Exodus 23:22",
+      "fr": "כי אם שמוע תשמע בקולו...ואיבתי את אויביך, Ma relation avec vous ne sera alors pas protectrice, défensive, c'est-à-dire que j'ai besoin de vous protéger, mais agressive, en traitant vos ennemis comme Mes ennemis. C’est l’inverse de l’attitude de D.ieu envers Ninive dans Jonas 4,11 où D.ieu demandait à Jonas : « comment puis-je ne pas avoir de relation protectrice avec une ville de plus de 120 000 habitants ?"
+    },
+    {
+      "ref": "Exodus 23:23",
+      "fr": "כי ילך מלאכי לפניך, qui ne renoncera à aucun des péchés de tes ennemis. [l'ange, par définition, ne pardonnera pas, ne tolérera pas l'insubordination, mais cela ferait un boomerang sur le peuple juif à qui il ne montrera pas non plus de faveur particulière. Éd.]"
+    },
+    {
+      "ref": "Exodus 23:24",
+      "fr": "לא תשתחוה לאלוהיהם, ne faites pas ce que le roi Amatziah aurait fait après avoir conquis le pays de Séir. Il est rapporté dans Chroniques II 25,14 qu'après avoir vaincu les Edomites, il installa leurs divinités à Jérusalem, s'inclina devant eux et leur offrit des sacrifices. Il voulait peut-être apaiser leurs sentiments pour avoir vaincu les Édomites."
+    },
+    {
+      "ref": "Exodus 23:25",
+      "fr": "ועבדתם את ה' אלוקיכם, la manière dont vous démontrerez que vous le servez effectivement est de détruire toutes les idoles comme mentionné dans le verset précédent. En corollaire de la destruction de l'idolâtrie et de ses représentants, vous n'aurez pas à vous inquiéter que quiconque parmi vous essaie de convertir les Juifs à de telles religions étrangères et de les empêcher ainsi de Me servir. C'est vrai, de sorte qu'il se révèle nutritif au lieu d'être la source d'une variété de maladies intestinales. Il s'agit de maladies causées par un air pollué ou des conditions climatiques."
+    },
+    {
+      "ref": "Exodus 23:26",
+      "fr": "לא תהיה משכלה ועקרה, afin que vous ayez l'occasion d'instruire les enfants qui vous sont nés. את מספר ימיך אמלא, afin que vous viviez grâce à l'huile céleste dans la lampe de D.ieu. [Le phénomène physique perçu comme soutenant la vie une fois qu'elle existe est une certaine source inhérente d'humidité, décrite comme de l'huile céleste, car l'huile ne sèche pas d'elle-même. Habituellement, la vie est écourtée à cause de maladies causées par des causes externes qui ne sont pas dues à un épuisement de cette huile vitale. Lorsqu’une personne bénéficie d’une espérance de vie qui n’est pas écourtée par une maladie provoquée par des causes externes, elle vivra généralement assez longtemps pour transmettre ses objectifs de vie à ses enfants. C'est le sens de Deutéronome 4,9 והודעתם לבניך ולבני בניך, « tu les feras connaître à tes enfants et à tes petits-enfants ». Un exemple marquant d’une telle bénédiction était le fait que Lévi vécut assez longtemps pour transmettre son héritage à Kehot, son fils, et à Amram, son petit-fils. Ils sont chacun devenus des leaders de leur génération."
+    },
+    {
+      "ref": "Exodus 23:27",
+      "fr": "ונתתי את כל אויביך אליך עורף, ils te tourneront le dos par peur et par confusion, conformément à Ma promesse את אימתי אשלח לפניך Par exemple, la même chose s'est produite lorsque les Égyptiens étaient au fond de la mer lorsque les vagues ont commencé à s'écraser sur eux, et ils ont dit : « Je fuirai les Israélites car D.ieu combat pour eux. (Exode 14,25)"
+    },
+    {
+      "ref": "Exodus 23:28",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:29",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:30",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:31",
+      "fr": "כי אתן בידכם את יושבי הארץ וגרשתמו, l'affaire vous est remise, c'est-à-dire que vous devez l'exécuter. Vous ne devez pas faire preuve de retard excessif, de paresse. Nous lisons dans Josué 18,3 que Josué se plaignait auprès de son peuple de sa lenteur délibérée à accomplir la tâche consistant à se débarrasser de tous les Cananéens. (« Combien de temps allez-vous traîner les pieds pour prendre possession du pays que le Dieu de vos pères vous a donné ? » Josué s'adressant au peuple à une époque où 7 tribus n'avaient pas encore reçu de portions de terre.)."
+    },
+    {
+      "ref": "Exodus 23:32",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 23:33",
+      "fr": "Je t'en prie. Dans la région que vous avez conquise et dans laquelle vous avez élu domicile. Malheureusement, les Israélites ont ignoré cet avertissement de la Torah comme nous le savons dans les Juges 1,29 וישב הכנעני בקרבו בגזר, ainsi que dans les Juges 1,33 וישב בקרב הכנעני יושבי הארץ, [les Israélites vivaient dans des communautés mixtes, dans certaines ils étaient majoritaires, dans d'autres même seulement en minorité. Ed.] כי יהיה לך למוקש, leur présence même en tant qu'habitants de ce pays deviendra un piège pour vous, c'est-à-dire que vous commencerez à adorer leurs divinités."
+    },
+    {
+      "ref": "Exodus 24:1",
+      "fr": "ואל משה אמר עלה!, après qu'Il eut fini de lui dire כה תאמר אל בני ישראל אתם ראיתם en 20,18. À cette époque, Il avait expliqué aux gens qu’ils ne devaient pas essayer de « l’atteindre » par des intermédiaires, mais que tout ce qui était nécessaire était un autel en terre, associé à l’observance méticuleuse de Ses commandements tels qu’énoncés dans les Dix Commandements. Le verset nous dit que toutes ces choses furent expliquées à toute la nation. Cependant, ואל משה אמר, à Moïse lui-même, D.ieu avait dit qu'il devait monter sur la montagne tout comme il lui avait été ordonné de le faire déjà avant la révélation, lorsque D.ieu lui avait dit en 19,14 לך רד ועלית אתה ואהרן עמך."
+    },
+    {
+      "ref": "Exodus 24:2",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:3",
+      "fr": "'ויבא משה ויספר לעם את כל דברי ה, les choses que Moïse a racontées au peuple étaient celles rapportées dans la Torah entre 20,8 et le début du chapitre 21."
+    },
+    {
+      "ref": "Exodus 24:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:6",
+      "fr": "וחצי הדם זרק על המזבח, il a converti l'autel en l'intermédiaire, le messager de D.ieu ; pour la conclusion de l'alliance. La moitié du sang était répandue sur l'autel, l'autre moitié sur le peuple."
+    },
+    {
+      "ref": "Exodus 24:7",
+      "fr": "C'est vrai. Le livre dans lequel les paroles de D.ieu avaient été consignées ainsi que les lois sur lesquelles l’alliance avait été conclue. Il faut faire référence à ce livre au verset quatre de notre chapitre. Ensuite, Moïse a lu le contenu afin que les gens sachent à quoi ils s'étaient engagés. Ce n’est qu’en connaissant le contenu qu’ils seraient empêchés de violer les commandements par inadvertance. נעשה ונשמע, une référence à une action conçue pour garantir qu’ils puissent obéir aux directives de D.ieu sans penser à la récompense qui pourrait leur être réservée en agissant ainsi. Nous trouvons une construction similaire dans les Psaumes 103,20 עושי דברו לשמוע בקולו, « qui exécutent ses ordres, toujours obéissants à ses ordres »."
+    },
+    {
+      "ref": "Exodus 24:8",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:9",
+      "fr": "ויעל משה ואהרן, après avoir accompli les tâches qui lui avaient été confiées par D.ieu. disant aux gens ce qu'on lui avait dit en 20,18. Maintenant, il exécutait les instructions enregistrées au verset 1 de notre chapitre."
+    },
+    {
+      "ref": "Exodus 24:10",
+      "fr": "ותחת רגליו, sur la terre, le point le plus bas. Nous avons enregistré D.ieu décrivant la « terre » en ces termes dans Ésaïe 66,1 והארץ הדם רגליו, « la terre est mon marchepied ». כמעשה לבנת ספיר, une essence totalement transparente, dépourvue de couleurs et de contours permanents de sorte qu'elle est presque complètement abstraite, capable d'absorber à volonté les apports spirituels des domaines spirituels. Une description allégorique du נפש humain, « force vitale ». וכעצם השמים לטוהר, ils ont perçu que ce לבנת הספיר, « l'essence », est totalement indépendante de la matière première dont l'homme est fait ; tout comme ce que nous percevons comme l’essence du ciel dans le ciel est totalement dépourvu de matière tangible. C’est l’essence de ce que nous considérons comme les régions célestes, le « paradis », faute d’un meilleur mot. Il n’est pas connecté aux planètes physiques solides, etc., qui forment les « habitants » de ces domaines célestes. Le fait que le « ciel » n’ait aucune dimension physique donne l’impression qu’il s’agit de la dimension spirituelle du « Ciel » lui-même."
+    },
+    {
+      "ref": "Exodus 24:11",
+      "fr": "ואל אצילי בני ישראל לא שלח ידו, D.ieu, n'a pas tendu la main secourable pour permettre à ces nobles et anciens de leur accorder le niveau de statut prophétique alors qu'ils étaient inconscients de leurs cinq sens avec lesquels ils percevaient alors qu'ils étaient de simples êtres humains. Nous rencontrons un tel concept dans Ézéchiel 8,1 lorsque le prophète décrit une inspiration reçue avec les mots : ותפול עלי יד ה', « et là la « main » de D.ieu « tomba » sur moi. L'utilisation de cette phraséologie décrit la séparation des sens « normaux » utilisés pour la perception employée par le prophète, et sa transformation en une dimension supra terrestre. [Il est probablement impossible de vraiment « traduire » cette ligne dans la langue vernaculaire, quelle que soit la langue. Le point principal que notre auteur avance, contrairement à d’autres commentateurs, est que cette « main de D.ieu » n’est pas perçue par lui comme ayant un caractère rétributif, mais, au contraire, comme une main qui élève l’être humain à une dimension spirituellement supérieure. Dans notre contexte, la Torah dit que les « visions » réalisées par ces אצילי בני ישראל n’ont pas été davantage aidées par D.ieu. Ed.] Des exemples de personnes qui se dépouillent des sens humains, ou des vêtements humains, (une comparaison pour leurs sens ?) sont le roi Saül dans Samuel I 19,24 « alors lui aussi se déshabilla et lui aussi parla en extase devant Samuel, et il resta nu toute la journée et toute la nuit. C’est pourquoi les gens disent : « Saül est-il aussi parmi les prophètes ? En fait, ils ont réalisé une vision de leur concept de D.ieu semblable à une vision prophétique. Par la suite, ils ont préparé un repas de fête qu'ils ont consommé sans que leurs sens normaux aient été transformés en aucune manière ou temporairement neutralisés. Ils ont préparé ce repas de fête en se félicitant d'une dimension spirituelle supérieure qu'ils estimaient avoir atteinte."
+    },
+    {
+      "ref": "Exodus 24:12",
+      "fr": "עלה אלי ההרה, au sommet de la montagne. C'était après qu'il s'était déjà approché plus près que les gens qui l'accompagnaient, comme nous l'avons lu au verset 2, ונגש משה לבדו \"seul Moïse seul doit s'approcher plus près\". Néanmoins, à ce moment-là, il n’avait pas gravi le sommet de la montagne. C'est à cette occasion, alors qu'ils veillaient sur Moïse disparaissant dans la nuée formant un linceul autour de la montagne, que les « nobles » et les anciens eurent la vision que nous venons de décrire. C'est ce que signifiait le verset 17 avec les mots ומראה כבוד ה' כאש אוכלת בראש ההר, \"et la manifestation de la gloire du Seigneur était semblable à un feu dévorant au sommet de la montagne\". On retrouve cette formulation (ראש ההר) lors du don des Dix Commandements en 19,20. Sinon, restez-y pendant une période prolongée. La racine היה apparaît dans ce sens dans Deutéronome 10,5 ויהיו שם כאשר צוני, « ils sont restés là comme D.ieu me l'avait ordonné ». והתורה, « et la partie qui nécessite une étude approfondie », והמצוה, et la partie de la Torah qui nécessite principalement une action pour l'accomplir. אשר כתבתי, «que j'ai (le Seigneur) écrit». Sans le péché du veau d'or, la Torah entière aurait été remise au peuple juif (Moïse) sous la forme d'un document signé et scellé, tout comme les Tablettes des Dix Commandements. Moïse y a fait allusion lorsqu'il a décrit l'approche de D.ieu vers le mont Sinaï dans Deutéronome 33,2. ואתה מרבבות קודש מימינו אש דת למו, D.ieu était prêt à nous remettre toute la Torah mais le péché du veau d'or l'a empêché à cette fois-là. Au lieu de cela, Moïse a écrit la Torah sur ordre de D.ieu (dictée). Moïse a fait cela dans Deutéronome 34,27. En fait, Moïse n’a amené les Tablettes à la vue du peuple que pour les briser sous leurs yeux, afin qu’ils comprennent ce qu’ils avaient perdu en raison de leur déloyauté envers D.ieu. Cette démonstration de Moïse ayant brisé les tablettes avait pour but de pousser le peuple à la pénitence. להורותם, pour leur enseigner. Même si tout était disponible sous la forme d’un texte écrit, comme nous le savons de nos sages dans Taanit 9, « y a-t-il donc quelque chose qui n’ait été ni énoncé ni évoqué dans le texte de la Torah que Moïse nous a transmis ? Et le Talmud Gittin 60 ajoute que la plupart sont énoncées dans le texte écrit et que seule une partie relativement petite était réservée à ce que nous appelons la « Torah orale », les allusions dans la Torah qui nécessitent une étude approfondie et que la plupart des Israélites ordinaires ne les comprendraient pas s'ils n'étaient pas guidés par des érudits. Sachant cela, une déclaration des sages qui semble entrer en conflit avec la déclaration que nous avons citée de Gittin 60, et qui déclare que la majeure partie de la législation de la Torah est dérivée de la « Torah orale », n’est pas du tout en conflit avec cela. La première déclaration fait référence aux personnes qui étudient sous la direction d’un spécialiste de la Torah compétent."
+    },
+    {
+      "ref": "Exodus 24:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:14",
+      "fr": "ואל הזקנים אמר, quand il les quitta pour monter au sommet de la montagne comme D.ieu le lui avait ordonné au verset 12."
+    },
+    {
+      "ref": "Exodus 24:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 24:18",
+      "fr": "ויהי משה בהר, chaque fois que Moïse gravissait la montagne à partir de ce point, il y restait pendant une période de 40 jours et quarante nuits. Cette période correspond au temps qu’il faut à un ovule fécondé dans le ventre d’une femme pour atteindre un état critique permettant de le qualifier de fœtus. Le séjour de Moïse sur la montagne pendant de telles périodes a eu un effet similaire sur son progrès spirituel, l’élevant à des dimensions spirituelles plus élevées. La preuve réside dans le fait qu’en fin de compte, le visage de Moïse rayonnait tellement d’illumination spirituelle que le peuple fut effrayé par ce phénomène et que Moïse dut se voiler la tête. (Exode 34,29) Moïse était censé atteindre cette stature déjà à la fin de son premier séjour de 40 jours sur la montagne, mais le peuple fabriquant le veau d'or et l'adorant, fit échouer ce plan. D.ieu lui-même a dit à Moïse de descendre parce que son peuple était devenu corrompu (Exode 32,7). Selon notre tradition, le deuxième séjour de Moïse de quarante jours sur la montagne était une période pendant laquelle la colère de D.ieu contre le peuple ne s’était pas encore apaisée, de sorte qu’il ne pouvait pas être récompensé par la distinction que D.ieu avait en tête pour lui. Il n'atteignit cette distinction que lors de son troisième séjour sur la montagne lorsqu'il reçut également des instructions concernant la construction du Tabernacle puisqu'il lui fut demandé de placer la deuxième série de Tablettes dans l'Arche Sainte (Exode 25,21). Cela ne faisait pas référence à une arche dans laquelle placer le premier jeu de tablettes brisées. En fait, selon la tradition, étant donné que les lettres écrites par D.ieu sur la première série de Tablettes s'étaient « envolées », les restes de ces Tablettes qui furent finalement placées dans une autre arche ne sont pas appelés « Le témoignage », puisqu'elles ne contenaient plus aucun écrit à ce moment-là. (comparez Pesachim 87) À partir de 25,8 où D.ieu dit à Moïse qu'Il s'établira de manière permanente dans le Tabernacle à construire, les 2500 premières années de l'histoire de l'humanité où D.ieu était également accessible partout ont pris fin, et il y aurait une forme de culte centralisée dans le cadre de la religion juive. Au lieu que D.ieu ait permis l’érection d’autels partout où cela plaisait à l’homme, et sa venue à la rencontre de l’homme dans de tels sites (Exode 20,20), maintenant les rôles sont inversés et Il résidera dans Son palais sur terre, et quiconque souhaite Le prier efficacement devra le faire dans ce Temple. Il y aura des groupes de personnes chargés du service sacrificiel dans le Temple, les prêtres et les laïcs ne seront pas du tout autorisés à entrer dans le sanctuaire intérieur de ce Temple. Tel est en bref le message d’Exode 28,1 « et toi (Moïse) rapproche-toi (de Moi) ton frère Aaron ». En réalité, la tribu de Lévi n’avait encore été sélectionnée qu’après l’affaire du veau d’or. Moïse rappelle cet événement dans Deutéronome 10,8 et les événements qui y ont conduit. À la lumière de tout cela, le fait que Moïse ait passé 40 jours et nuits sur la montagne à chaque fois qu’il y montait est très significatif. Le stade auquel le visage de Moïse rayonnait ces rayons de lumière ne fut atteint qu’à la fin du troisième séjour de Moïse sur la montagne après qu’il eut reçu l’ordre d’ériger le Tabernacle. Après que la construction du Tabernacle ait été achevée, ainsi que la confection des vêtements sacerdotaux et l'onction d'encens et d'huile, Moïse révéla les étapes qui l'avaient précédé, disant au peuple qu'à la fin des quarante premiers jours sur les montagnes, il reçut la première série de tablettes. Tout retard dans l’exécution du calendrier initial de D.ieu pour ces événements n’était pas dû au fait que D.ieu avait retardé Son plan mais à la conduite du peuple dans l’intervalle qui l’avait forcé à réviser Son calendrier. Si l’épisode du veau d’or n’était pas intervenu, les deuxième et troisième séjours de Moïse sur la montagne auraient été totalement superflus. Les épisodes décrits en Exode 32,7, 33,12 et 34,1 jusqu'en 34 28-29 n'ont été provoqués que par les répercussions du péché du veau d'or."
+    }
+  ]
+}

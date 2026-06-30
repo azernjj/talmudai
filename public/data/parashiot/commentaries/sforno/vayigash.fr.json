@@ -1,0 +1,432 @@
+{
+  "name": "Vayigash",
+  "range": "Genesis 44:18-47:27",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/vayigash.json",
+  "verses": [
+    {
+      "ref": "Genesis 44:18",
+      "fr": "C'est vrai. C'est vrai. Après que vous ayez dit vous-même (verset 17) que vous ne voulez rien faire qui pervertirait la justice, ידבר נא עבדך, laissez-moi vous expliquer quelle injustice et quelle perversion de la justice résulteraient de la ligne de conduite que vous envisagez. ואל יחר אפך, et ne vous fâchez pas quand je vous dis que vous serez coupable de cette perversion de la justice involontairement. כי כמוך כפרעה, le fait que je vous adresse mes paroles ne doit pas être considéré comme personnel, car je vous les adresse en votre qualité de représentant de Pharaon lui-même."
+    },
+    {
+      "ref": "Genesis 44:19",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:20",
+      "fr": "ואביו אהבו, plus qu'il nous aime tous (n'importe lequel) d'entre nous réunis. C'est pourquoi il ne lui a pas permis de venir en Égypte la première fois que nous sommes venus ici pour acheter de la nourriture pour nos familles. La raison n’était pas que nous étions venus pour une mission d’espionnage, comme vous semblez l’avoir pensé."
+    },
+    {
+      "ref": "Genesis 44:21",
+      "fr": "C'est vrai. Il n’y avait donc aucune raison pour que son père s’inquiète du fait qu’il ne soit pas autorisé à rentrer chez lui."
+    },
+    {
+      "ref": "Genesis 44:22",
+      "fr": "לא יוכל הנער לעזוב את אביו, à partir du moment où il aura quitté son père, il regrettera son père et tombera malade ou mourra. De plus, bien sûr, son père mourra également sans aucun doute si le garçon le quitte."
+    },
+    {
+      "ref": "Genesis 44:23",
+      "fr": "Bien sûr, même si vous avez entendu nos véritables arguments contre notre arrivée ici, vous avez insisté, comme forme de punition, pour que nous l'amenions avec nous sous peine de ne pas recevoir de nourriture."
+    },
+    {
+      "ref": "Genesis 44:24",
+      "fr": "ונגד לו את דברי אדוני, même après avoir dit que tu insistais pour que nous l'amenions ici, notre père a toujours refusé de le laisser partir avec nous"
+    },
+    {
+      "ref": "Genesis 44:25",
+      "fr": "שובו שברו לנו; En raison de la gravité de la famine, nous avons forcé notre père à envoyer le garçon. Malgré la contrainte qu'il subissait, il nous a prévenus que si nous ne le ramenons pas, ce serait sa mort et qu'il irait dans sa tombe avec un profond chagrin."
+    },
+    {
+      "ref": "Genesis 44:26",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:27",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:28",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:29",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:30",
+      "fr": "Bien sûr, après qu'il nous ait prévenus, si quelque chose lui arrivait, cela ne serait plus considéré comme un accident mais nous serions blâmés d'avoir été avertis de ne pas l'emmener avec nous. Une considération similaire est mentionnée dans Isaïe 48,5 sous le titre de בטרם תבא השמעתיך פן תאמר עצבי עשם, « c'est pourquoi je vous ai dit longtemps à l'avance, j'ai annoncé les choses avant qu'elles n'arrivent, afin que vous ne disiez pas : « mon idole les a provoquées »."
+    },
+    {
+      "ref": "Genesis 44:31",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 44:32",
+      "fr": "En réalité, la raison pour laquelle il mourrait dès que le garçon ne reviendrait pas sans même demander ce qui lui est arrivé est parce que j'ai garanti le retour sain et sauf du garçon. Dès qu'il s'apercevrait que je ne l'avais pas ramené, il supposerait automatiquement que quelque chose de fatal lui était arrivé et que, à cause de cela, je n'avais pas pu tenir mon vœu."
+    },
+    {
+      "ref": "Genesis 44:33",
+      "fr": "ועתה ישב נא עבדך תחת הנער, c'est pourquoi je te supplie de me laisser être l'esclave à la place du garçon afin que je n'aie pas à rester un pécheur contre mon père pour le reste de ma vie."
+    },
+    {
+      "ref": "Genesis 44:34",
+      "fr": "כי איך אעלה, même si je sais qu'il sera peiné par mon échec à revenir, il vaut mieux pour moi ne pas avoir à le regarder dans son angoisse"
+    },
+    {
+      "ref": "Genesis 45:1",
+      "fr": "Malheureusement, il n'a pas eu à ce stade la patience de répondre aux préoccupations privées de toutes les personnes qui attendaient de recevoir une audience et faisaient déjà la queue dans cette maison."
+    },
+    {
+      "ref": "Genesis 45:2",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:3",
+      "fr": "En d'autres termes, \"comment a-t-il pu survivre à tant d'années d'inquiétude concernant mon sort ?\""
+    },
+    {
+      "ref": "Genesis 45:4",
+      "fr": "גשו נא אלי, pour que tous ceux qui m'entendent pleurer ne voient pas que c'est moi qui pleure. אשר מכרתם, celui que tu as vendu ! En évoquant cet épisode, vous vous rendrez compte que je ne peux être autre que votre frère Joseph, car qui d'autre est au courant de cela ? Les gens qui m’ont acheté comme esclave ne savaient pas que j’étais le frère des vendeurs."
+    },
+    {
+      "ref": "Genesis 45:5",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:6",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:7",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:8",
+      "fr": "Bien sûr, maintenant que vous avez vu le dessein de D.ieu comme un objectif qui n’aurait pas pu être atteint sans toutes les différentes étapes qui l’ont précédé, il n’est plus que raisonnable de supposer que les causes plus lointaines qui ont conduit à tout cela faisaient également partie du plan de D.ieu. לאב לפרעה, en tant que conseiller du roi. ולאדון לכל ביתו, responsable de tout le palais. ומושל בכל ארץ מצרים, et dirigeant absolu de tout le pays d'Égypte concernant les affaires nationales et internationales."
+    },
+    {
+      "ref": "Genesis 45:9",
+      "fr": "מהרו, afin qu'il ne s'inquiète plus et ne s'angoisse plus."
+    },
+    {
+      "ref": "Genesis 45:10",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:11",
+      "fr": "פן תורש, à cause de la pénurie de pâturages au pays de Canaan. (comparez 47,4 « il n’y a pas de pâturages pour nos troupeaux. »)"
+    },
+    {
+      "ref": "Genesis 45:12",
+      "fr": "ועיני אחי בנימין, qui ignorait que Joseph avait été vendu. כי פי המדבר אליכם, sans avoir besoin d'un interprète. A l'époque où j'avais été vendu, personne ne parlait notre langue à part notre famille. Les acheteurs étaient des Ismaélites et des Madianites, chacun ayant sa propre langue."
+    },
+    {
+      "ref": "Genesis 45:13",
+      "fr": "ומהרתם והורדתם את אבי הנה, afin de lui offrir la joie de voir tout cela de ses propres yeux."
+    },
+    {
+      "ref": "Genesis 45:14",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:15",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:16",
+      "fr": "C'était bien aux yeux de Pharaon. Il pensait que si la famille de Yoseif s’installait là-bas, il aurait davantage intérêt au bien-être du pays et s’acquitterait de ses fonctions avec plus de diligence."
+    },
+    {
+      "ref": "Genesis 45:17",
+      "fr": "D'accord, c'est ce que devrait être votre objectif d'emmener votre père et vos familles, etc."
+    },
+    {
+      "ref": "Genesis 45:18",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:19",
+      "fr": "D'accord, dites-leur que vous avez en fait reçu l'ordre de les amener ici en tant que résidents. Bien sûr, lorsque votre père verra les voitures toutes prêtes pour le transporter lui et sa famille en Égypte, il aura moins d'excuses pour s'opposer au voyage et aux bouleversements qu'implique le voyage. Nous savons que c’était un argument puissant puisque Yaakov, lorsqu’il a vu les voitures, aurait déclaré : « Je vais descendre voir mon fils. » (verset 27-28)."
+    },
+    {
+      "ref": "Genesis 45:20",
+      "fr": "D'autre part, ne tardez pas car les dommages causés à votre bétail deviendront plus importants. plus vous tardez."
+    },
+    {
+      "ref": "Genesis 45:21",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:22",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:23",
+      "fr": "ולאביו שלח כזאת, semblable aux cadeaux offerts à Binyamin. Il envoya en outre dix ânes et dix ânesses. En mode pluriel, la lettre ו indiquant qui d'autre est inclus apparaît à la fin [le dernier mot de la séquence. Ed.} Des exemples de telles constructions sont : .Exodus 1,2 יששכר זבולון ובנימין."
+    },
+    {
+      "ref": "Genesis 45:24",
+      "fr": "וישלח את אחיו, il leur donna la permission de partir, comme lorsque l'ange avait dit à Yaakov (après le match de lutte) שלחני כי עלה השחר, \"laisse-moi partir car l'aube s'est levée\". (32,27) et שלחוני ואלכה לאדוני \"laisse-moi partir, afin que je retourne vers mon seigneur\". (24h56)."
+    },
+    {
+      "ref": "Genesis 45:25",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 45:26",
+      "fr": "Et puis, il s'est évanoui. Son cœur s'est arrêté de battre brièvement, ce qui est courant lorsque les gens s'évanouissent. Cela s’est produit au moment où le nom de Joseph a été mentionné par les frères. C'est vrai. de sorte qu'il n'avait aucune chance de les croire. Par conséquent, ותחי רוח יעקב, une fois son esprit rétabli, il ne s'est plus jamais évanoui afin qu'il puisse les croire. C'était la joie soudaine qui avait été la cause de son évanouissement. L’esprit a l’habitude de se contracter quand on souffre d’inquiétude, etc., alors qu’il se dilate quand on éprouve de la joie, parfois même au-delà des limites de son corps, au point que celui-ci s’évanouit."
+    },
+    {
+      "ref": "Genesis 45:27",
+      "fr": "Ils lui ont dit tous les mots. Ils l'informèrent qu'il y aurait encore cinq années de famine, afin qu'il ne s'évanouisse pas d'une joie excessive. Finalement, il s'est remis de son évanouissement maintenant que la joie avait été tempérée par un élément inquiétant."
+    },
+    {
+      "ref": "Genesis 45:28",
+      "fr": "רב...אלכה ואראנה, j'irai le voir, mais je n'y resterai pas comme il l'a dit."
+    },
+    {
+      "ref": "Genesis 46:1",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:2",
+      "fr": "ויאמר אלוקים לישראל, ce qu'Il lui dit à ce moment-là était dû au fait que Yaakov était devenu Israël. Il devrait faire preuve de qualités de leadership car ses fils devraient faire face à des personnes qui les mettraient au défi."
+    },
+    {
+      "ref": "Genesis 46:3",
+      "fr": "Je suis… le Dieu de ton père. Je suis le Dieu qui a dit à ton père de ne pas aller en Égypte (26 :2), et pourtant je te dis d'y aller. Là, je ferai de toi une grande nation. Mais si tu restes ici, ta descendance se mariera avec les Cananéens. Cela n’arrivera pas en Égypte parce que la population ne mangera même pas avec les Hébreux ; voir 43:32"
+    },
+    {
+      "ref": "Genesis 46:4",
+      "fr": "C'est vrai. Non seulement je vous ferai sortir d’Egypte (dans un cercueil) pour être enterré en Terre Sainte, mais j’en ferai également sortir vos nombreux descendants dans un bon pays où coulent le lait et le miel (le pays de Cannan) comme nous le savons grâce à la promesse de D.ieu à Moïse dans Exode 3,8. ישית ידך על עיניך, vous n'aurez vous-même à vous soucier d'aucune de vos affaires pendant votre séjour en Égypte, puisque Joseph s'occupera de toutes les affaires banales liées à la vie quotidienne. En d’autres termes, vous pouvez garder les yeux fermés lorsqu’il s’agit de sujets banals."
+    },
+    {
+      "ref": "Genesis 46:5",
+      "fr": "וישאו בני ישראל, la raison pour laquelle les enfants de Yaakov sont mentionnés ici pour la première fois comme בני ישראל, « les enfants d'Israël, et non comme « les fils de Yaakov », est qu'à partir de ce moment, leur tâche était devenue double : accomplir ce en raison duquel leur père avait reçu son nom supplémentaire, son titre, « Israël ». Désormais, ils furent confrontés à des défis dans leur conduite vis-à-vis de D.ieu ainsi qu’à des défis dans leur conduite vis-à-vis de leur environnement. Cela résultait du fait qu’ils étaient devenus des étrangers dans un pays dans lequel ils n’étaient ni nés ni élevés. C'est vrai. Maintenant que Yaakov était en route vers sa destination finale de son vivant, qui ne serait pas suivie par davantage de souffrances, de déceptions et de bouleversements, il avait un avant-goût de ce qui est historiquement la destinée ultime de Yaakov telle que décrite par le prophète Jérémie 31,6 pour l'avenir glorieux du peuple juif. Le prophète le décrit comme רנו ליעקב שמחה, « crie de joie pour Yaakov »."
+    },
+    {
+      "ref": "Genesis 46:6",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:7",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:8",
+      "fr": "Ce sont les noms… Yaakov et ses fils. Bien que tous les soixante-dix fussent justes, seuls Yaakov et ses fils méritaient vraiment d’être mentionnés par leur nom."
+    },
+    {
+      "ref": "Genesis 46:9",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:10",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:11",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:12",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:13",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:14",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:15",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:16",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:17",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:18",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:19",
+      "fr": "בני רחל אשת יעקב, qui était la femme qu'il avait voulu épouser. Elle était également devenue la mère de Joseph et de Binyamin, la plus belle des tribus comme le mentionnent nos sages dans Sotah 36. Le texte y est : « Joseph à lui seul était assez digne d'avoir engendré 12 tribus tout comme son père Yaakov. » Les mêmes sages, au Shabbat 55, ont déclaré que Binyamin est mort uniquement parce que la mort avait été décrétée pour chaque membre de la race humaine. [non pas parce qu'il avait commis un péché personnel qui aurait expliqué sa perte de la vie éternelle. Éd.]"
+    },
+    {
+      "ref": "Genesis 46:20",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:21",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:22",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:23",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:24",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:25",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:26",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:27",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:28",
+      "fr": "להורות לפניו גושנה, afin de créer une clairière où un logement convenable pourrait être construit pour Yaakov et la famille."
+    },
+    {
+      "ref": "Genesis 46:29",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:30",
+      "fr": "En fait, j'ai été sauvé de toutes mes autres afflictions uniquement pour éprouver de nouveaux problèmes par la suite. Cette fois, je prie pour que tout problème supplémentaire me soit épargné pendant le reste de ma vie."
+    },
+    {
+      "ref": "Genesis 46:31",
+      "fr": "אעלה ואגידה, que votre vocation est l'élevage de moutons et de chèvres. Je ne demanderai pas à Pharaon de vous donner le pays de Goshen. La raison pour laquelle je ne demanderai pas cela est pour être sûr qu’il vous croira lorsque vous direz que vous élevez des moutons. c'est-à-dire qu'au fond, vous êtes des nomades. Si je devais mentionner le pays de Goshen, il penserait que vous demandez cela parce que c'est un bon pâturage."
+    },
+    {
+      "ref": "Genesis 46:32",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:33",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 46:34",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:1",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:2",
+      "fr": "ומקצה אחיו לקח, afin que Pharaon comprenne en conversant avec eux que leur vocation était d'être bergers, éleveurs de troupeaux et de bétail."
+    },
+    {
+      "ref": "Genesis 47:3",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:4",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:5",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:6",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:7",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:8",
+      "fr": "כמה ימי שני חחייך?, Pharaon était complètement étonné de l’âge de Yaakov, car les Égyptiens ne connaissaient aucun ingrédient permettant de prolonger la vie et les personnes de l’âge de Yaakov n’existaient tout simplement pas en Égypte."
+    },
+    {
+      "ref": "Genesis 47:9",
+      "fr": "מעט ורעים היו ימי שני חיי, concerning your question how many years I am old, I must confess that actually I am relatively young in years, and I have certainly not benefited from any life-extending drugs or herbs, on the contrary, I have experienced enough troubles to hasten my old age and my death. Les années pendant lesquelles une personne est aux prises avec des problèmes majeurs ne comptent même pas comme des « années de sa vie ». Mais si vous voulez savoir depuis combien d’années je séjourne sur cette planète, j’ai 130 ans. En fait, même si mes parents et mes grands-parents étaient également des « étrangers » dans le pays où ils ont passé leur vie ou la majeure partie de leur vie, ils jouissaient de ימי חיים, une existence relativement sans chagrin. Ma propre vie n’est en aucun cas une répétition de leurs expériences."
+    },
+    {
+      "ref": "Genesis 47:10",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:11",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:12",
+      "fr": "C'est vrai. Même si Joseph était en mesure d'attribuer des rations généreuses aux membres de sa famille, il ne leur montrait aucune préférence et les traitait en fonction des besoins, chaque famille selon le nombre d'âmes. Nos sages ont déclaré qu’à une époque où la population en général souffre de pénurie, même ceux qui en ont suffisamment doivent se limiter."
+    },
+    {
+      "ref": "Genesis 47:13",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:14",
+      "fr": "ויבא יוסף את הכסף ביתה פרעה, parce qu'il ne s'est pas permis de se récompenser de son propre chef sans recevoir sa compensation de Pharaon"
+    },
+    {
+      "ref": "Genesis 47:15",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:16",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:17",
+      "fr": "וינהלם בלחם, il les guida lentement, comme dans Isaïe 40,11 עלות ינהל. Il distribuait de la nourriture petit à petit. C'était à manger mais il ne fallait pas s'en gaver. C’est la bonne manière de se comporter en période de famine. Il y a un dicton selon lequel si l'on s'affame un peu pendant les périodes de famine, on évite de mourir d'une mort anormale. Les médecins confirment le contraire lorsqu'ils disent que si quelqu'un mange trop après avoir faim pendant un certain temps, il contracte une maladie potentiellement mortelle. בשנה ההיא, après que l'argent fut épuisé, la sixième année de la famine."
+    },
+    {
+      "ref": "Genesis 47:18",
+      "fr": "בשנה השנית, la deuxième année après que l'argent soit épuisé. C'était la septième année de famine. לא נכחד מאדוני, que nous possédons encore du bétail, כי אם תם הכסף ומקנה הבהמה."
+    },
+    {
+      "ref": "Genesis 47:19",
+      "fr": "למה נמות לעיניך?, même en supposant que l'argent et le bétail soient complètement épuisés, il n'est pas juste de nous laisser mourir parce que nous n'avons aucun moyen de payer"
+    },
+    {
+      "ref": "Genesis 47:20",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:21",
+      "fr": "העביר אותו לערים, il les a transférés afin qu'ils l'encouragent à garder le grain en sécurité."
+    },
+    {
+      "ref": "Genesis 47:22",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:23",
+      "fr": "Je vous ai acheté aujourd'hui. Puisqu'il les avait achetés ainsi que leurs terres, il devait les nourrir et leur fournir des semences, mais tous les produits lui appartiendraient. הא לכם זרע וזרעתם, voici des graines pour toi, travaille"
+    },
+    {
+      "ref": "Genesis 47:24",
+      "fr": "את האדמה, qui est à lui, והיה בתבואות Quand il s'agira des récoltes, qui sont à lui, ונתתם חמישית לפרעה, vous en remettrez un cinquième à Pharaon, car c'est ce que vous devrez lui payer en échange de ce qu'il a fait pour vous. וארבע הידות יהיה לכם לזרע השדה, y compris les semences qu'il doit vous fournir en tant que tout autre propriétaire d'un champ. ולאכלכם, et pour que vous mangiez, quelque chose qu'il est également tenu de fournir à ses esclaves. Considérant qu'il respectera sa part du marché, il a le droit de garder pour lui le cinquième restant."
+    },
+    {
+      "ref": "Genesis 47:25",
+      "fr": ""
+    },
+    {
+      "ref": "Genesis 47:26",
+      "fr": "En fait, Joseph a ancré cet arrangement dans une loi après avoir convaincu le peuple que cela ne représentait pas une nouvelle épreuve pour lui."
+    },
+    {
+      "ref": "Genesis 47:27",
+      "fr": ""
+    }
+  ]
+}

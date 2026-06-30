@@ -1,0 +1,320 @@
+{
+  "name": "Be'houkotaï",
+  "range": "Leviticus 26:3-27:34",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/bechukotai.json",
+  "verses": [
+    {
+      "ref": "Leviticus 26:3",
+      "fr": "Si vous suivez mes statuts et gardez mes commandements et si vous les accomplissez,"
+    },
+    {
+      "ref": "Leviticus 26:4",
+      "fr": "Je fournirai vos pluies en leur temps. La terre donnera ses produits et l'arbre des champs donnera ses produits."
+    },
+    {
+      "ref": "Leviticus 26:5",
+      "fr": "[À cause de l'abondance du produit] le battage prendra le pas sur la vendange et la vendange prendra le temps sur [le temps de] planter, et vous mangerez votre pain à satiété et vous vivrez en sécurité dans votre pays."
+    },
+    {
+      "ref": "Leviticus 26:6",
+      "fr": "J'accorderai la paix dans le pays ; vous vous allongerez (dormirez) [repos] sans perturbation (peur). Je bannirai du pays les bêtes maléfiques, et nul [celui qui tue avec] l'épée ne traversera votre pays."
+    },
+    {
+      "ref": "Leviticus 26:7",
+      "fr": "Vous poursuivrez vos ennemis et ils tomberont devant vous par l'épée."
+    },
+    {
+      "ref": "Leviticus 26:8",
+      "fr": "Cinq d'entre vous en poursuivront cent, et cent d'entre vous en poursuivront dix mille, et vos ennemis tomberont devant vous par l'épée."
+    },
+    {
+      "ref": "Leviticus 26:9",
+      "fr": "Je me tournerai vers vous [avec ma Parole pour vous faire du bien], je vous rendrai féconds, je vous multiplierai et j'établirai mon alliance avec vous."
+    },
+    {
+      "ref": "Leviticus 26:10",
+      "fr": "Vous mangerez l'ancien [magasin] gardé depuis longtemps et vous devrez vider l'ancien [magasin] à cause du nouveau."
+    },
+    {
+      "ref": "Leviticus 26:11",
+      "fr": "Je mettrai Mon Sanctuaire parmi vous et Mon esprit [Parole] ne vous détestera (ne vous rejettera pas)."
+    },
+    {
+      "ref": "Leviticus 26:12",
+      "fr": "Je marcherai [repose ma Shechina] parmi vous et je serai un Dieu pour vous, et vous serez mon [devant moi pour un] peuple."
+    },
+    {
+      "ref": "Leviticus 26:13",
+      "fr": "Je suis Adonoy, votre Dieu, qui vous ai fait sortir du pays d'Égypte d'où vous étiez esclaves, et j'ai brisé les liens de votre joug [des peuples loin de vous] et je vous ai fait sortir debout [vers la liberté]."
+    },
+    {
+      "ref": "Leviticus 26:14",
+      "fr": "Et si vous ne M’écoutez pas [acceptez Ma Parole] et que vous n’accomplissez pas tous ces commandements."
+    },
+    {
+      "ref": "Leviticus 26:15",
+      "fr": "Si vous méprisez Mes statuts et que vos âmes détestent [rejetent] Mes lois afin de ne pas accomplir tous Mes commandements, rompant ainsi [modifiant] Mon alliance."
+    },
+    {
+      "ref": "Leviticus 26:16",
+      "fr": "Ensuite, je ferai la même chose avec vous. Je vous imposerai la terreur, [qui cause] des gonflements et des fièvres qui consument [assombrissent] les yeux et remplissent l'âme de chagrin. Vous planterez [vos graines] en vain parce que vos ennemis consommeront [vos récoltes.]"
+    },
+    {
+      "ref": "Leviticus 26:17",
+      "fr": "Je tournerai ma face [colère] contre toi et tu seras vaincu [frappé] devant tes ennemis ; tes ennemis domineront sur toi et tu fuiras [même] quand personne ne te poursuit."
+    },
+    {
+      "ref": "Leviticus 26:18",
+      "fr": "Si après ces [catastrophes] vous ne M'écoutez toujours pas [acceptez Ma Parole], alors J'augmenterai votre châtiment sept fois plus, comme vos péchés."
+    },
+    {
+      "ref": "Leviticus 26:19",
+      "fr": "Je briserai l'orgueil [la gloire] de ta puissance. Je rendrai vos [les] cieux [qui sont au-dessus de vous] semblables à du fer [pour ne faire tomber aucune pluie] et votre [la] terre [qui est au-dessous de vous] semblable à [aussi puissant que] du cuivre [qui ne produit aucun fruit]."
+    },
+    {
+      "ref": "Leviticus 26:20",
+      "fr": "Vos forces seront épuisées en vain. Votre terre ne donnera pas ses produits et les arbres du pays ne donneront pas leurs produits."
+    },
+    {
+      "ref": "Leviticus 26:21",
+      "fr": "Si vous marchez contrairement à Moi et n'avez aucun désir de M'écouter [acceptez Ma Parole], J'augmenterai [pour vous apporter] sept fois plus de coups, comme vos péchés."
+    },
+    {
+      "ref": "Leviticus 26:22",
+      "fr": "J'enverrai parmi vous des animaux sauvages des champs et ils vous priveront d'enfants, détruiront votre bétail, réduiront votre [population] et transformeront vos routes en déserts."
+    },
+    {
+      "ref": "Leviticus 26:23",
+      "fr": "Si après ces [catastrophes] vous n'avez pas été disciplinés [à m'écouter] [Ma Parole] et à marcher contrairement à [devant] Moi,"
+    },
+    {
+      "ref": "Leviticus 26:24",
+      "fr": "[Alors] Moi aussi, je marcherai contre toi ; et je vous frapperai aussi sept fois plus, à cause de vos péchés."
+    },
+    {
+      "ref": "Leviticus 26:25",
+      "fr": "Je ferai venir sur vous [les gens qui tuent avec une épée] une épée vengeresse pour venger l'alliance [et ils se vengeront de vous pour avoir transgressé les paroles de la Torah] Vous serez blottis [dans vos villes]. J'enverrai parmi vous la peste et vous serez livrés entre les mains de l'ennemi."
+    },
+    {
+      "ref": "Leviticus 26:26",
+      "fr": "Quand je briserai le bâton de ton pain [nourriture], dix femmes cuiront ton pain dans un four et elles te rendront ton pain au poids. Vous mangerez mais vous ne serez pas rassasié."
+    },
+    {
+      "ref": "Leviticus 26:27",
+      "fr": "Si [malgré] cela vous ne m'écoutez pas [acceptez ma Parole] et que vous marchez contrairement à moi,"
+    },
+    {
+      "ref": "Leviticus 26:28",
+      "fr": "Je vous résisterai avec fureur, et moi aussi je vous punirai sept fois plus pour vos péchés."
+    },
+    {
+      "ref": "Leviticus 26:29",
+      "fr": "Vous mangerez la chair de vos fils et vous mangerez la chair de vos filles."
+    },
+    {
+      "ref": "Leviticus 26:30",
+      "fr": "Je détruirai vos hauts lieux et je briserai vos images solaires. Je déposerai vos cadavres sur les carcasses (restes) de vos [fausses] idoles, et mon âme [parole] vous détestera [rejetera] vous."
+    },
+    {
+      "ref": "Leviticus 26:31",
+      "fr": "Je transformerai vos villes en ruines et je réduirai vos sanctuaires en désolation. Je ne parfumerai plus (n'accepterai favorablement) le parfum de vos offrandes [l'offrande de vos assemblées]."
+    },
+    {
+      "ref": "Leviticus 26:32",
+      "fr": "Je rendrai le pays si désolé que vos ennemis qui y vivent en seront étonnés."
+    },
+    {
+      "ref": "Leviticus 26:33",
+      "fr": "Je vous disperserai parmi les nations et je dégainerai après vous l'épée. Votre pays sera désolé et vos villes seront en ruines."
+    },
+    {
+      "ref": "Leviticus 26:34",
+      "fr": "Le pays sera alors apaisé pour son Shabboso [repos] [pendant] tous les jours de sa désolation pendant que vous serez dans le pays de vos ennemis. Alors le pays se reposera et sera apaisé pour son Shabboso [repos]."
+    },
+    {
+      "ref": "Leviticus 26:35",
+      "fr": "Tous les jours où il reste désolé, il aura son repos – le repos qu'il n'a pas eu pendant votre Chabbat [repos] lorsque vous y viviez."
+    },
+    {
+      "ref": "Leviticus 26:36",
+      "fr": "À ceux qui survivent parmi vous, j'enverrai la timidité [le brisement] dans leur cœur [pendant qu'ils vivent] dans les pays de leurs ennemis. Le bruit d'une feuille soufflée [battement] les mettra en fuite et ils fuiront comme s'ils fuyaient [devant des gens qui tuent avec] une épée ; et ils tomberont sans que personne ne les poursuive."
+    },
+    {
+      "ref": "Leviticus 26:37",
+      "fr": "Ils se heurteront les uns aux autres comme devant [des gens qui tuent avec] l'épée, quand il n'y a personne pour les poursuivre, et vous n'aurez pas la force de vous tenir debout devant vos ennemis."
+    },
+    {
+      "ref": "Leviticus 26:38",
+      "fr": "Vous serez perdu parmi les nations et le pays de vos ennemis vous consumera."
+    },
+    {
+      "ref": "Leviticus 26:39",
+      "fr": "Ceux d'entre vous qui survivront pourriront [fondront] dans leur iniquité dans le pays de vos ennemis, et aussi à cause des iniquités de leurs [mauvais] ancêtres qui sont [encore] avec eux [qu'ils tiennent dans leurs mains], [ils] pourriront [fondront]."
+    },
+    {
+      "ref": "Leviticus 26:40",
+      "fr": "Ils confesseront alors leurs iniquités et les iniquités de leurs ancêtres dans l'infidélité [malhonnêteté] avec laquelle ils ont été infidèles [malhonnêtes] envers [devant] Moi, et aussi pour avoir marché [devant] Moi."
+    },
+    {
+      "ref": "Leviticus 26:41",
+      "fr": "Moi aussi, je leur résisterai et je les amènerai dans le pays de leurs ennemis. Ou peut-être qu'alors leur cœur incirconcis (inflexible) [imprudent] sera humilié [brisé] et alors leurs iniquités seront apaisées (pardonnées)."
+    },
+    {
+      "ref": "Leviticus 26:42",
+      "fr": "Je me souviendrai alors de mon alliance avec Yaakov et aussi de mon alliance avec Yitzchok et aussi de mon alliance avec Avrohom, je me souviendrai et je me souviendrai du pays."
+    },
+    {
+      "ref": "Leviticus 26:43",
+      "fr": "Le pays, étant privé d'eux, sera apaisé pour ses Shabbosos [repos], pendant le temps de sa désolation de leur part et leurs iniquités seront alors apaisées (pardonnées) [je ferai venir sur eux des malédictions au lieu de bénédictions] puisque ce qui a certainement causé [cela] est qu'ils ont méprisé Mes lois et que leur âme a détesté (rejeté) Mes statuts."
+    },
+    {
+      "ref": "Leviticus 26:44",
+      "fr": "Malgré tout cela, même lorsqu'ils sont dans le pays de leurs ennemis, je ne les mépriserai pas [les abandonnerai] et je ne les détesterai pas [les rejetterai] pour les anéantir, pour rompre [changer] mon alliance avec eux, car je suis Adonoy, leur Dieu."
+    },
+    {
+      "ref": "Leviticus 26:45",
+      "fr": "Je me souviendrai d'eux de l'alliance de leurs ancêtres, que j'ai fait sortir du pays d'Égypte, à la vue des nations, pour être leur Dieu. Je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 26:46",
+      "fr": "Ce sont les statuts, les lois et les enseignements qu'Adonoy a établis entre lui-même [sa Parole] et entre Bnei Yisroel, sur le mont Sinaï, par la main de Moshe."
+    },
+    {
+      "ref": "Leviticus 27:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 27:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : lorsqu'une personne exprime [oralement] un vœu s'engageant à valoriser les âmes, à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:3",
+      "fr": "L'estimation pour un homme sera de vingt ans à soixante ans, votre estimation sera de cinquante shekalim d'argent sacré [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:4",
+      "fr": "Si c'est une femme, l'évaluation sera de trente shekalim [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:5",
+      "fr": "Si de cinq à vingt ans, l'évaluation pour un homme sera de vingt shekalim [selaim], et pour une femme, de dix shekalim [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:6",
+      "fr": "Si entre l'âge d'un mois et cinq ans, la valeur d'un homme est de cinq shekalim d'argent [selaim] et la valeur d'une femme est de trois shekalim d'argent [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:7",
+      "fr": "S'il est âgé de soixante ans et plus, s'il s'agit d'un homme, l'évaluation sera de quinze shekalim [selaim] et pour une femme, de dix shekalim [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:8",
+      "fr": "S'il est [trop] pauvre pour payer l'évaluation, il se placera [= il sera présenté] devant le kohein, et le kohein déterminera son évaluation. Selon les moyens de celui qui a juré le kohein déterminera son évaluation."
+    },
+    {
+      "ref": "Leviticus 27:9",
+      "fr": "Si [c'est] un animal qui peut être apporté en offrande à [devant] Adonoy, tout ce qu'il donnera à [devant] Adonoy deviendra sacré."
+    },
+    {
+      "ref": "Leviticus 27:10",
+      "fr": "Il ne l'échangera pas [avec l'animal d'un autre] et il ne l'échangera pas [avec son propre animal], qu'il soit bon contre un pire [ou] mauvais contre un meilleur. S'il a échangé un animal contre un autre animal, alors celui-ci et son remplacement seront sacrés."
+    },
+    {
+      "ref": "Leviticus 27:11",
+      "fr": "S'il s'agit d'un animal impur (taché) qui ne peut être offert à [devant] Adonoy, il présentera l'animal au kohein."
+    },
+    {
+      "ref": "Leviticus 27:12",
+      "fr": "Le kohein déterminera sa valeur, s'il est bon ou mauvais, tout comme le kohein détermine sa valeur pour vous, ainsi en sera-t-il."
+    },
+    {
+      "ref": "Leviticus 27:13",
+      "fr": "S'il veut effectivement le racheter, il ajoutera un cinquième à son évaluation."
+    },
+    {
+      "ref": "Leviticus 27:14",
+      "fr": "Si un homme consacre sa maison comme étant sacrée à [avant] Adonoy, le kohein déterminera sa valeur, si elle est bonne ou mauvaise ; Comme le kohein détermine sa valeur, ainsi sera-t-il établi."
+    },
+    {
+      "ref": "Leviticus 27:15",
+      "fr": "Si celui qui a consacré [sa maison] veut racheter sa maison, il ajoutera un cinquième à son estimation en argent en plus de [l'évaluation], et [alors] elle lui appartiendra."
+    },
+    {
+      "ref": "Leviticus 27:16",
+      "fr": "Si un homme consacre son champ ancestral à [avant] Adonoy, son évaluation sera selon la mesure de sa semence ; [à raison de] un chomer [kor] de graine d'orge pour cinquante shekalim d'argent [selaim]."
+    },
+    {
+      "ref": "Leviticus 27:17",
+      "fr": "Si immédiatement après l'année jubilaire il consacre son champ, celui-ci sera établi selon sa valisation."
+    },
+    {
+      "ref": "Leviticus 27:18",
+      "fr": "Si après le jubilé il consacre son champ, alors le kohein calculera l'argent [du] en fonction des années restantes jusqu'à l'année du jubilé, et sa valeur devra être réduite en conséquence."
+    },
+    {
+      "ref": "Leviticus 27:19",
+      "fr": "S'il veut vraiment racheter le champ, celui qui l'a consacré ajoutera un cinquième à sa valeur monétaire, et il sera alors établi comme étant le sien."
+    },
+    {
+      "ref": "Leviticus 27:20",
+      "fr": "S'il ne rachète pas le champ et s'il le vend à une autre personne, il ne sera plus rachetable."
+    },
+    {
+      "ref": "Leviticus 27:21",
+      "fr": "Lorsque le champ est ensuite libéré par le jubilé, il devient sacré pour [avant] Adonoy, tout comme un champ qui a été consacré, il appartiendra au kohein, [comme] sa possession."
+    },
+    {
+      "ref": "Leviticus 27:22",
+      "fr": "Si c'est un champ qu'il a acheté, ce n'est pas son champ ancestral, [qu'il] consacre à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:23",
+      "fr": "Le kohein calculera pour lui le montant de son évaluation jusqu'à l'année du jubilé, et ce jour-là, il donnera son évaluation comme quelque chose de sacré à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:24",
+      "fr": "L'année du jubilé, le champ reviendra à celui à qui il a été acheté ; à celui dont c'est la terre ancestrale."
+    },
+    {
+      "ref": "Leviticus 27:25",
+      "fr": "Toutes vos évaluations seront en saint shekalim [selaim] ; le shekel [sela] sera de vingt geirah [ma'in]."
+    },
+    {
+      "ref": "Leviticus 27:26",
+      "fr": "Cependant, le premier-né [animal] né le premier appartiendra à [avant] Adonoy [en sacrifice] parmi les animaux domestiques ; on ne le consacrera pas [à d'autres fins], que ce soit un bœuf ou un agneau, il appartient à Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:27",
+      "fr": "S'il s'agit d'un animal impur, il le rachètera selon l'estimation, et ajoutera un cinquième à [ce montant]. S'il n'est pas racheté, il sera vendu selon l'évaluation."
+    },
+    {
+      "ref": "Leviticus 27:28",
+      "fr": "Cependant, toute dédicace qu'un homme consacrera à [avant] Adonoy à partir de l'un de ses biens, qu'il s'agisse d'une personne (esclave), d'un animal, ou du champ de sa terre ancestrale, [aucun de ceux-ci] ne peut être vendu ou racheté. Tout ce qui est dédié est très saint à [avant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:29",
+      "fr": "Toute dédicace qu'un homme consacrera à un homme [qui doit être mis à mort] ne peut être rachetée, il sera sûrement mis à mort."
+    },
+    {
+      "ref": "Leviticus 27:30",
+      "fr": "Toutes les dîmes du pays ; qu'il s'agisse des graines [des récoltes] de la terre ou des fruits de l'arbre, appartiennent à Adonoy, cela est sacré pour [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:31",
+      "fr": "Si un homme souhaite racheter sa dîme, il ajoutera un cinquième au [montant]."
+    },
+    {
+      "ref": "Leviticus 27:32",
+      "fr": "Toutes les dîmes de bétail et de mouton, tout ce qui passe sous la verge, le dixième sera consacré à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 27:33",
+      "fr": "Il ne fera pas de distinction entre les [animaux] meilleurs ou pires et il ne les échangera pas. S'il les échange l'un contre l'autre, alors celui-ci et celui qui le remplace seront sacrés et ne pourront être rachetés."
+    },
+    {
+      "ref": "Leviticus 27:34",
+      "fr": "Ce sont les commandements qu'Adonoy a ordonnés à Moshe pour Bnei Yisroel sur le mont Sinaï. Chazak"
+    }
+  ]
+}

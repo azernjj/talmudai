@@ -1,0 +1,712 @@
+{
+  "name": "Nasso",
+  "range": "Numbers 4:21-7:89",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/nasso.json",
+  "verses": [
+    {
+      "ref": "Numbers 4:21",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 4:22",
+      "fr": "Comptez également les fils de Guershon, selon les maisons de leurs pères, selon leurs familles."
+    },
+    {
+      "ref": "Numbers 4:23",
+      "fr": "Depuis trente ans et au-dessus, jusqu'à cinquante ans, vous les compterez ; tous ceux qui entrent dans la division pour servir dans la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Numbers 4:24",
+      "fr": "C'est le service des familles des Guershonites de servir et de porter."
+    },
+    {
+      "ref": "Numbers 4:25",
+      "fr": "Ils porteront les tapisseries du Mishkon et de la Tente d'assignation, sa couverture et la couverture de tachas qui est dessus, et le paravent pour l'entrée de la Tente d'assignation,"
+    },
+    {
+      "ref": "Numbers 4:26",
+      "fr": "les tentures du parvis, le paravent pour l'entrée de la porte du parvis qui sont au-dessus du Mishkon et de l'autel de tous côtés, leurs cordes et tous leurs ustensiles de service et tout ce qui leur sera donné, et ainsi ils serviront."
+    },
+    {
+      "ref": "Numbers 4:27",
+      "fr": "Tous les services des fils des Guershonites seront d'après l'instruction d'Aharon et de l'un de ses fils, pour tout ce qu'ils portent et pour tout leur service. Vous leur fixerez des rendez-vous déterminés pour tout ce qu'ils transportent."
+    },
+    {
+      "ref": "Numbers 4:28",
+      "fr": "Tel est le service des familles des fils des Guershonites dans la tente d'assignation. Leur tutelle est entre les mains d'Isamar, fils d'Aharon le Kohein."
+    },
+    {
+      "ref": "Numbers 4:29",
+      "fr": "Vous les compterez selon leurs familles et selon les maisons de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:30",
+      "fr": "Depuis trente ans et plus jusqu'à cinquante ans, vous les compterez ; tous ceux qui entrent dans la division pour servir dans la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 4:31",
+      "fr": "C'est ce qu'il leur est confié de porter selon toutes leurs fonctions dans la Tente d'assignation ; les poutres du Mishkon, ses barres, ses piliers et ses socles."
+    },
+    {
+      "ref": "Numbers 4:32",
+      "fr": "Les piliers autour de la cour, leurs socles, piquets et cordes ; avec tous leurs ustensiles et pour tout leur service ; et tu confieras nommément les ustensiles à ceux qui les porteront."
+    },
+    {
+      "ref": "Numbers 4:33",
+      "fr": "Tel est le service des familles des fils de Merori pour tout leur service dans la tente d'assignation, sous la direction d'Isamar, fils d'Aharon, le kohein."
+    },
+    {
+      "ref": "Numbers 4:34",
+      "fr": "Ils comptèrent Moché, Aaron et les chefs de l'assemblée, les fils des Kehosites selon leurs familles et selon la maison de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:35",
+      "fr": "Ceux-là, à partir de trente ans et au-dessus, jusqu'à cinquante ans ; tous ceux qui entrent dans la division pour servir dans la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Numbers 4:36",
+      "fr": "Leur nombre, selon leurs familles, était de deux mille sept cent cinquante."
+    },
+    {
+      "ref": "Numbers 4:37",
+      "fr": "Tels sont les nombres des familles des Kehosites de tous ceux qui servent dans la Tente d'assignation, que Moché et Aharon dénombrèrent selon la parole d'Adonoï, par l'intermédiaire de Moché."
+    },
+    {
+      "ref": "Numbers 4:38",
+      "fr": "Le dénombrement des fils de Guershon, selon leurs familles et selon les maisons de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:39",
+      "fr": "Ceux-là, à partir de trente ans et au-dessus, jusqu'à cinquante ans ; tous ceux qui entrent dans la division pour servir dans la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 4:40",
+      "fr": "Leurs effectifs, selon leurs familles, selon les maisons de leurs pères, étaient de deux mille six cent trente."
+    },
+    {
+      "ref": "Numbers 4:41",
+      "fr": "Tels sont les chiffres des familles des fils des Guershonites, de tous ceux qui servent dans la tente d'assignation, que Moché et Aaron dénombrèrent, selon la parole d'Adonoï."
+    },
+    {
+      "ref": "Numbers 4:42",
+      "fr": "Le nombre des familles des fils des Meroréens, selon leurs familles, selon les maisons de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:43",
+      "fr": "Ceux-là, à partir de trente ans et au-dessus, jusqu'à cinquante ans ; tous ceux qui entrent dans la division pour servir dans la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 4:44",
+      "fr": "Leur nombre était, selon leurs familles, de trois mille deux cents."
+    },
+    {
+      "ref": "Numbers 4:45",
+      "fr": "Tels sont les chiffres des familles des fils des Meroréens, que Moché et Aaron dénombrèrent, selon la parole d'Adonoï, par l'intermédiaire de Moché."
+    },
+    {
+      "ref": "Numbers 4:46",
+      "fr": "Le total des chiffres comptés par Moché, Aharon et les chefs de la congrégation [des] Lévites, selon leurs familles, selon la maison de leurs pères."
+    },
+    {
+      "ref": "Numbers 4:47",
+      "fr": "Ceux de trente ans et plus, jusqu'à cinquante ans ; tous ceux qui entrent pour effectuer le service de service et le service de portage dans la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 4:48",
+      "fr": "Leur nombre était de huit mille cinq cent quatre-vingts."
+    },
+    {
+      "ref": "Numbers 4:49",
+      "fr": "Selon la parole d'Adonoy, il les compta, par la main de Moshe, chacun selon son service et selon ce qu'il portait ; et ils furent comptés, comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 5:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 5:2",
+      "fr": "Ordonnez à Bnei Yisroel qu'ils doivent être expulsés du camp. toute personne ayant des tsora'as, et toute personne dont découle un écoulement [séminal] et toute personne qui a été souillé par un (départ) [les os de] l'âme [d'une personne]."
+    },
+    {
+      "ref": "Numbers 5:3",
+      "fr": "Que ce soit un homme ou une femme, tu les enverras. Vous les enverrez au-delà du camp, et ils ne souilleront pas leurs camps dans lesquels j'habite [ma Shekhina habite] parmi eux."
+    },
+    {
+      "ref": "Numbers 5:4",
+      "fr": "Les Bnei Yisroel le firent et les envoyèrent hors du camp ; tout comme Adonoy a parlé à Moshe, Bnei Yisroel a fait de même."
+    },
+    {
+      "ref": "Numbers 5:5",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 5:6",
+      "fr": "Parlez à Bnei Yisroel : Lorsqu'un homme ou une femme commet l'un des péchés contre l'homme, en agissant de manière perfide [mensongèrement auparavant] contre Adonoy, et cette personne est coupable."
+    },
+    {
+      "ref": "Numbers 5:7",
+      "fr": "Ils confesseront les péchés qu'ils ont commis et rendront le montant principal [de l'objet] de sa culpabilité, et ajouteront un cinquième à ce montant. Il la donnera alors à celui à qui il est redevable."
+    },
+    {
+      "ref": "Numbers 5:8",
+      "fr": "Mais si l'homme n'a pas de rédempteur (parent) à qui la dette peut être restituée, la dette restituée appartient alors à Adonoy, [puis] au kohein. C'est en plus le bélier du pardon avec lequel il [son péché] sera expié."
+    },
+    {
+      "ref": "Numbers 5:9",
+      "fr": "Tout cadeau de terumah de toutes les choses sacrées de Bnei Yisroel qu'ils apporteront au kohein lui appartiendra."
+    },
+    {
+      "ref": "Numbers 5:10",
+      "fr": "Un [dixième des] objets sacrés de l’homme lui appartiendra ; tout ce qu'un homme donne au kohein lui appartiendra."
+    },
+    {
+      "ref": "Numbers 5:11",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 5:12",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : Si la femme d’un homme s’égare et agit de manière perfide [mensonge] envers lui."
+    },
+    {
+      "ref": "Numbers 5:13",
+      "fr": "Et un homme a couché avec elle conjugalement, mais cela était caché [couvert] aux yeux de son mari et elle était cachée et s'est souillée et il n'y a aucun témoin contre elle, et elle n'a pas été saisie de force."
+    },
+    {
+      "ref": "Numbers 5:14",
+      "fr": "[Quand] un esprit de jalousie l'envahit et qu'il est jaloux de sa femme et qu'elle a été souillée, ou qu'un esprit de jalousie l'envahit et qu'il est jaloux de sa femme et qu'elle n'a pas été souillée,"
+    },
+    {
+      "ref": "Numbers 5:15",
+      "fr": "cet homme amènera sa femme au kohein et il lui apportera son offrande ; [qui est] un dixième d'épha [trois se'in] de farine d'orge; il ne versera pas d'huile dessus et il n'y mettra pas d'encens, car c'est une offrande de jalousie, une offrande de souvenir, en souvenir d'une iniquité."
+    },
+    {
+      "ref": "Numbers 5:16",
+      "fr": "Le kohein l'approchera et la placera devant Adonoy."
+    },
+    {
+      "ref": "Numbers 5:17",
+      "fr": "Le kohein prendra de l'eau sanctifiée [eau du lavabo en cuivre] dans un ustensile d'argile, et de la terre qui sera sur le sol [base] du Mishkon, le kohein prendra et mettra dans l'eau."
+    },
+    {
+      "ref": "Numbers 5:18",
+      "fr": "Le kohein placera la femme devant Adonoy, exposera ses cheveux et placera sur ses paumes [mains] l'offrande de souvenir ; c’est une offrande de jalousie et il y aura dans la main du kohein les eaux amères et mortelles."
+    },
+    {
+      "ref": "Numbers 5:19",
+      "fr": "Le kohein la fera prêter serment et dira à la femme : Si un homme n'a pas couché avec toi [conjugalement] et si tu ne t'es pas égarée au point d'être souillée alors que tu étais mariée avec [par quelqu'un d'autre que] ton mari, tu seras absous de ces eaux amères et mortelles."
+    },
+    {
+      "ref": "Numbers 5:20",
+      "fr": "[Mais] vous, si vous vous êtes égarée alors que vous étiez mariée à votre mari, et si vous avez été souillée, et si un homme a couché avec vous, [un homme] autre que votre mari."
+    },
+    {
+      "ref": "Numbers 5:21",
+      "fr": "Le kohein fera prêter serment à la femme par le serment de malédiction, et le kohein dira à la femme : « Adonoy fera de toi une malédiction et un serment parmi ton peuple, quand Adonoy fera s'effondrer ta cuisse et ton ventre enfler."
+    },
+    {
+      "ref": "Numbers 5:22",
+      "fr": "Cette eau amère et mortelle entrera dans votre abdomen pour gonfler [gonfler] l'abdomen et effondrer [tomber] la cuisse et la femme dira « Amein, Amein »."
+    },
+    {
+      "ref": "Numbers 5:23",
+      "fr": "Le kohein écrira toutes ces malédictions sur le rouleau et les dissoudra (l'écriture) dans les eaux amères."
+    },
+    {
+      "ref": "Numbers 5:24",
+      "fr": "Il fera boire à la femme les eaux amères et mortelles et les eaux mortelles entreront en elle pour devenir amères."
+    },
+    {
+      "ref": "Numbers 5:25",
+      "fr": "Le kohein prendra de la main de la femme l'offrande de jalousie et il agitera l'offrande devant Adonoy et l'apportera près de l'autel."
+    },
+    {
+      "ref": "Numbers 5:26",
+      "fr": "Le kohein prélèvera de l'offrande de repas sa commémoration et la brûlera sur [l'apportera à] l'autel, et après cela il fera boire l'eau à la femme."
+    },
+    {
+      "ref": "Numbers 5:27",
+      "fr": "Il lui fera boire de l'eau, et si elle s'est souillée et a trompé son mari, les eaux mortelles entreront en elle et deviendront amères, et son ventre enflera et sa cuisse s'affaissera, et la femme sera une malédiction parmi son peuple."
+    },
+    {
+      "ref": "Numbers 5:28",
+      "fr": "Mais si la femme n'a pas été souillée et qu'elle est pure, elle sera purifiée et elle enfantera une descendance."
+    },
+    {
+      "ref": "Numbers 5:29",
+      "fr": "C'est la loi des jalousies, lorsqu'une femme s'égare pendant son mariage avec son mari et se souille."
+    },
+    {
+      "ref": "Numbers 5:30",
+      "fr": "Si un homme est envahi par un esprit de jalousie et qu'il est jaloux de sa femme, alors il fera tenir la femme devant Adonoy, et le kohein lui appliquera toutes ces lois."
+    },
+    {
+      "ref": "Numbers 5:31",
+      "fr": "L'homme est purifié [innocent] du péché et cette femme portera [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Numbers 6:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 6:2",
+      "fr": "Parle aux Bnei Yisroel et dis-leur : Si un homme ou une femme fait un vœu, un vœu naziréen, pour se mettre à part pour [d'avant] Adonoy."
+    },
+    {
+      "ref": "Numbers 6:3",
+      "fr": "Il doit s'abstenir de vin nouveau ou vieux [enivrant]. Il ne boira pas de vinaigre de vin nouveau ni de vinaigre de vin vieux; il ne boira pas tout ce qui est trempé dans des raisins ; il ne mangera pas de raisins humides ou de raisins secs (raisins secs)."
+    },
+    {
+      "ref": "Numbers 6:4",
+      "fr": "Tant qu'il est nazir de tout ce qui est fait de la vigne, depuis les pépins jusqu'à la peau, il n'en mangera pas."
+    },
+    {
+      "ref": "Numbers 6:5",
+      "fr": "Tant que [tous les jours] il est sous son serment nazirite, un rasoir ne doit pas passer sur [pour toucher] sa tête. Jusqu'à ce qu'il achève ses jours de Nazir auprès d'Adonoy, il sera sacré, il laissera pousser les cheveux de sa tête."
+    },
+    {
+      "ref": "Numbers 6:6",
+      "fr": "Tous les jours où il sera Nazir auprès d'Adonoy, il n'aura aucun contact avec les morts."
+    },
+    {
+      "ref": "Numbers 6:7",
+      "fr": "Il ne se souillera pas pour son père, sa mère, son frère et sa sœur à leur mort. Car la couronne nazirite de son Dieu est sur sa tête."
+    },
+    {
+      "ref": "Numbers 6:8",
+      "fr": "Tous les jours de sa séparation, il est sacré pour Adonoy."
+    },
+    {
+      "ref": "Numbers 6:9",
+      "fr": "Si quelqu'un près de lui meurt subitement ou inopinément et fait souiller sa tête couronnée de nazirite, il se rasera la tête le jour de sa purification, il la rasera le septième jour."
+    },
+    {
+      "ref": "Numbers 6:10",
+      "fr": "Le huitième jour, il emmènera deux tourterelles ou deux jeunes pigeons au kohein, à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 6:11",
+      "fr": "Le kohein en préparera un pour le sacrifice d'expiation et un pour l'holocauste et expiera en son nom de son péché [de contact] avec une âme [partie], et il sanctifiera sa tête ce jour-là."
+    },
+    {
+      "ref": "Numbers 6:12",
+      "fr": "Il réservera à Adonoï ses jours naziréens, et il amènera une brebis de sa première année en sacrifice de culpabilité. Les premiers jours s'écouleront parce que sa couronne nazirite a été profanée."
+    },
+    {
+      "ref": "Numbers 6:13",
+      "fr": "Telle est la loi du Nazir : lorsque les jours de son statut de naziréen seront accomplis, il se présentera à l'entrée de la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 6:14",
+      "fr": "Il apportera son offrande à Adonoy ; une brebis sans défaut, la première année, en holocauste, et une brebis sans défaut, la première année, en sacrifice pour le péché, et un bélier sans défaut en sacrifice de paix."
+    },
+    {
+      "ref": "Numbers 6:15",
+      "fr": "Un panier de matzos de farine fine, des pains mélangés à de l'huile et des gaufrettes de matzoh tartinées d'huile et leurs offrandes de repas et libations."
+    },
+    {
+      "ref": "Numbers 6:16",
+      "fr": "Le kohein l'apportera devant Adonoy et fera le service de son sacrifice pour le péché et de son holocauste."
+    },
+    {
+      "ref": "Numbers 6:17",
+      "fr": "Il fera le bélier en offrande de paix [sacrifice sacré] pour Adonoy avec le panier de matzos, et le kohein fera le service de son offrande de repas et de sa libation."
+    },
+    {
+      "ref": "Numbers 6:18",
+      "fr": "Le Nazir rasera, à l'entrée de la Tente d'assignation, la couronne de cheveux nazirite sur sa tête, et il prendra les cheveux de la couronne nazirite sur sa tête et les mettra dans le feu qui est sous le [chaudron du] sacrifice de paix [sacré]."
+    },
+    {
+      "ref": "Numbers 6:19",
+      "fr": "Le kohein prendra la patte antérieure cuite du bélier, un pain de matsa du panier et une plaquette de matsa et les mettra sur les paumes [mains] du Nazir après qu'il aura rasé sa couronne de nazirite."
+    },
+    {
+      "ref": "Numbers 6:20",
+      "fr": "Le kohein les agitera comme une offrande agitée, devant Adonoy. Il est consacré au kohein en plus de la poitrine de l'offrande agitée et de la partie de cuisse séparée. Après cela, le Nazir pourra boire du vin."
+    },
+    {
+      "ref": "Numbers 6:21",
+      "fr": "C'est la loi du Nazir qui a fait un vœu - [c'est] son ​​offrande à Adonoy pour son vœu naziréen, en dehors de ce qu'il peut se permettre [lit. peut attacher à ses mains] pour apporter selon son vœu qu'il a fait. Ainsi devra-t-il accomplir en plus des lois de son nazirite [vœux.]"
+    },
+    {
+      "ref": "Numbers 6:22",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 6:23",
+      "fr": "Parle à Aaron et à ses fils, en disant : Voici comment vous bénirez les Bnei Yisroel, en leur disant :"
+    },
+    {
+      "ref": "Numbers 6:24",
+      "fr": "Qu'Adonoy vous bénisse et vous protège."
+    },
+    {
+      "ref": "Numbers 6:25",
+      "fr": "Puisse Adonoy faire briller son visage [Shechinah] sur vous et vous favoriser."
+    },
+    {
+      "ref": "Numbers 6:26",
+      "fr": "Puisse Adonoy lever sa face vers vous et vous accorder la paix."
+    },
+    {
+      "ref": "Numbers 6:27",
+      "fr": "Ils accorderont [la bénédiction de] mon nom à Bnei Yisroel, et je les bénirai."
+    },
+    {
+      "ref": "Numbers 7:1",
+      "fr": "Cela arriva, le jour où Moché finit d'ériger le Mishkon, et il l'oignit et le consacra ainsi que tous ses ustensiles, ainsi que l'autel et tous ses ustensiles, et il les oignit et les consacra."
+    },
+    {
+      "ref": "Numbers 7:2",
+      "fr": "Les chefs d’Israël amenèrent les chefs des maisons de leurs pères ; ils étaient les chefs des tribus, ils restaient là pendant le décompte."
+    },
+    {
+      "ref": "Numbers 7:3",
+      "fr": "Ils apportèrent leurs offrandes devant Adonoy ; six chariots couverts et douze bœufs ; un chariot pour chacun des deux chefs et un bœuf pour chaque individu, et ils les placèrent devant le Mishkon."
+    },
+    {
+      "ref": "Numbers 7:4",
+      "fr": "Adonoy dit à Moché :"
+    },
+    {
+      "ref": "Numbers 7:5",
+      "fr": "Prenez-en [l'offrande] et qu'elle soit utilisée pour le service de la Tente d'assignation. Donnez-les aux Lévites, chacun selon ses besoins."
+    },
+    {
+      "ref": "Numbers 7:6",
+      "fr": "Moshe prit les chariots et les bœufs et les donna aux Lévites."
+    },
+    {
+      "ref": "Numbers 7:7",
+      "fr": "Il donna aux fils de Guershon deux chariots et quatre bœufs, selon les besoins de leur travail."
+    },
+    {
+      "ref": "Numbers 7:8",
+      "fr": "Il donna quatre chariots et huit bœufs aux fils de Merori. Selon leur travail, ils étaient sous la garde d'Isamar, fils d'Aharon le Kohein."
+    },
+    {
+      "ref": "Numbers 7:9",
+      "fr": "Il n'en donna pas aux fils de Kehos parce que c'était à eux qu'appartenait l'œuvre sacrée, qu'ils devaient porter sur leurs épaules."
+    },
+    {
+      "ref": "Numbers 7:10",
+      "fr": "Les chefs apportèrent les [offrandes pour] la consécration de l'autel le jour où il fut oint. Les chefs déposèrent leur offrande devant l'autel."
+    },
+    {
+      "ref": "Numbers 7:11",
+      "fr": "Adonoy dit à Moshe : Un chef chaque jour, un chef chaque jour, ils présenteront leur offrande pour la dédicace de l'autel."
+    },
+    {
+      "ref": "Numbers 7:12",
+      "fr": "Celui qui apporta son offrande le premier jour était Nachshon, fils d'Aminadav, de la tribu de Juda."
+    },
+    {
+      "ref": "Numbers 7:13",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:14",
+      "fr": "Une cuillère de dix [shekolim] d'or, remplie d'encens [parfumé]."
+    },
+    {
+      "ref": "Numbers 7:15",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:16",
+      "fr": "[Et] un bouc, en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:17",
+      "fr": "Pour l'offrande de paix [sacrée], deux bœufs, cinq béliers, cinq chevreaux et cinq moutons d'un an. C'était l'offrande de Nachshon, fils d'Aminadav."
+    },
+    {
+      "ref": "Numbers 7:18",
+      "fr": "Le deuxième jour, [celui qui] avait amené [était] Nesanel, fils de Tzu'ar, chef d'Yissacar."
+    },
+    {
+      "ref": "Numbers 7:19",
+      "fr": "Il apporta son offrande, un plateau en argent, son poids était de cent trente [shekolim] ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:20",
+      "fr": "Une cuillère de dix pièces d'or [shekolim] remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:21",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:22",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:23",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande de Nesanel, fils de Tzu'ar."
+    },
+    {
+      "ref": "Numbers 7:24",
+      "fr": "Le troisième jour, le chef des fils de Zevulun, Eliav, fils de Cheilon."
+    },
+    {
+      "ref": "Numbers 7:25",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:26",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:27",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:28",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:29",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Eliav, fils de Cheilon."
+    },
+    {
+      "ref": "Numbers 7:30",
+      "fr": "Le quatrième jour, le chef des fils de Reuven, Elitzur, fils de Shdeiur."
+    },
+    {
+      "ref": "Numbers 7:31",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:32",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:33",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:34",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:35",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Elitzur, fils de Shdeiur."
+    },
+    {
+      "ref": "Numbers 7:36",
+      "fr": "Le cinquième jour, le chef des fils de Shimon, Shlumiel, fils de Tzurishadaï."
+    },
+    {
+      "ref": "Numbers 7:37",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:38",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:39",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:40",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:41",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande de Shlumiel, fils de Tzurishadai."
+    },
+    {
+      "ref": "Numbers 7:42",
+      "fr": "Le sixième jour, le chef des fils de Gad, Elyasaf, fils de Deu'el."
+    },
+    {
+      "ref": "Numbers 7:43",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:44",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:45",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:46",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:47",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Elyasaf, fils de Deu'el."
+    },
+    {
+      "ref": "Numbers 7:48",
+      "fr": "Le septième jour, le chef des fils d'Éphraïm, Élishama, fils d'Amihud."
+    },
+    {
+      "ref": "Numbers 7:49",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:50",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:51",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:52",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:53",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Elishamah, fils d'Amihud."
+    },
+    {
+      "ref": "Numbers 7:54",
+      "fr": "Le huitième jour, le chef des fils de Menashe, Gamliel, fils de Pedahtzur."
+    },
+    {
+      "ref": "Numbers 7:55",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:56",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:57",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:58",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:59",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était là l'offrande de Gamliel, fils de Pedahtzur."
+    },
+    {
+      "ref": "Numbers 7:60",
+      "fr": "Le neuvième jour, le chef des fils de Binyomin, Avidan, fils de Gidoni."
+    },
+    {
+      "ref": "Numbers 7:61",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:62",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:63",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:64",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:65",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Avidan, fils de Gidoni."
+    },
+    {
+      "ref": "Numbers 7:66",
+      "fr": "Le dixième jour, le chef des fils de Don, Achiézer, fils d'Amishadaï."
+    },
+    {
+      "ref": "Numbers 7:67",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:68",
+      "fr": "Une cuillère pesant dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:69",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:70",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:71",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Achiézer, fils d'Amishadaï."
+    },
+    {
+      "ref": "Numbers 7:72",
+      "fr": "Le onzième jour, le chef des fils d'Aser, Paguiel, fils d'Ochran."
+    },
+    {
+      "ref": "Numbers 7:73",
+      "fr": "Son offrande était un plateau d'argent, son poids était de cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:74",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:75",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:76",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:77",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande de Paguiel, fils d'Ochran."
+    },
+    {
+      "ref": "Numbers 7:78",
+      "fr": "Le douzième jour, le chef des fils de Naftali, Achira, fils d'Einon."
+    },
+    {
+      "ref": "Numbers 7:79",
+      "fr": "Son offrande était un plateau d'argent pesant cent trente shekolim ; un bol en argent [qui pesait] soixante-dix shekolim selon les poids du sanctuaire. Tous deux étaient remplis de fine farine pétrie avec de l'huile [d'olive], pour une offrande de gâteau."
+    },
+    {
+      "ref": "Numbers 7:80",
+      "fr": "Une cuillère de dix pièces d'or [shekolim], remplie d'encens."
+    },
+    {
+      "ref": "Numbers 7:81",
+      "fr": "Un jeune taureau, un bélier et un agneau d'un an pour l'holocauste."
+    },
+    {
+      "ref": "Numbers 7:82",
+      "fr": "[Et] un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:83",
+      "fr": "Pour le sacrifice de prospérités, deux bœufs, cinq béliers, cinq chevreaux et cinq agneaux d'un an. C'était l'offrande d'Achira, fils d'Einon."
+    },
+    {
+      "ref": "Numbers 7:84",
+      "fr": "Telle était la dédicace de l'autel le jour où il fut oint, donnée par les dirigeants d'Israël ; douze plateaux d'argent, douze bols d'argent et douze cuillères d'or."
+    },
+    {
+      "ref": "Numbers 7:85",
+      "fr": "Cent trente [shekolim était le poids de] chaque plateau d'argent et chaque bol pesait soixante-dix [shekolim]. Tous les ustensiles d'argent pesaient deux mille quatre cents [shekolim] selon les poids du sanctuaire."
+    },
+    {
+      "ref": "Numbers 7:86",
+      "fr": "Douze cuillères d'or remplies d'encens [parfumé] ; chaque cuillère pesait dix [shekolim] selon les poids du sanctuaire. Le total des cuillères en or est de cent vingt [shekolim]."
+    },
+    {
+      "ref": "Numbers 7:87",
+      "fr": "Le total des bœufs pour l'holocauste est de douze bœufs, douze béliers, douze agneaux d'un an et leurs offrandes, et douze boucs pour le sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 7:88",
+      "fr": "Le total des bœufs pour le sacrifice de paix [sacré] est de vingt-quatre bœufs, soixante béliers, soixante chevreaux et soixante agneaux d'un an. C'était la dédicace de l'autel après qu'il ait été oint."
+    },
+    {
+      "ref": "Numbers 7:89",
+      "fr": "Lorsque Moshe entrait dans la Tente de Rencontre pour parler avec Lui (Dieu), il entendait la Voix qui lui était parlée au-dessus du couvercle de l'Arche qui se trouve au sommet de l'Arche du Témoignage, entre les deux chérubins ; et il lui parla."
+    }
+  ]
+}

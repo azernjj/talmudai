@@ -1,0 +1,496 @@
+{
+  "name": "Ki Tavo",
+  "range": "Deuteronomy 26:1-29:8",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/ki-tavo.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 26:1",
+      "fr": "Quand vous arrivez dans le pays qu'Adonoy, votre Dieu, vous donne pour territoire, et que vous en héritez et que vous le colonisez ;"
+    },
+    {
+      "ref": "Deuteronomy 26:2",
+      "fr": "Tu prendras les premiers fruits du sol que tu rapporteras de ton pays et qu'Adonoy, ton Dieu, te donne, et tu le placeras dans un panier ; et va à l'endroit qu'Adonoy, ton Dieu, choisit pour y abriter sa Présence."
+    },
+    {
+      "ref": "Deuteronomy 26:3",
+      "fr": "Tu devras venir voir le kohein qui sera [de service] pendant ces jours-là et tu lui diras : « Je déclare aujourd'hui à [devant] Adonoy, ton Dieu, que je suis arrivé dans le pays qu'Adonoy a juré à nos ancêtres de nous donner."
+    },
+    {
+      "ref": "Deuteronomy 26:4",
+      "fr": "Le kohein prendra alors le panier de ta main et le placera devant l'autel d'Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 26:5",
+      "fr": "Et tu devras alors proclamer et dire devant Adonoy, ton Dieu : « [Lovon] l'Aramite [a voulu] détruire[ed] mon ancêtre, puis il est descendu en Égypte et y a séjourné avec une petite communauté [petite nation] ; et là il devint un grand peuple, puissant et nombreux."
+    },
+    {
+      "ref": "Deuteronomy 26:6",
+      "fr": "« Les Égyptiens nous ont maltraités et nous ont opprimés, et ils nous ont imposé de durs travaux."
+    },
+    {
+      "ref": "Deuteronomy 26:7",
+      "fr": "« Nous avons prié [devant] Adonoy, le Dieu de nos ancêtres, et Adonoy a accepté notre prière et a perçu [devant Lui] notre oppression, notre travail et la pression sur nous."
+    },
+    {
+      "ref": "Deuteronomy 26:8",
+      "fr": "« Et Adonoy nous a fait sortir d'Egypte avec une main puissante et un bras étendu, et avec de grands déploiements, et avec des signes et des prodiges."
+    },
+    {
+      "ref": "Deuteronomy 26:9",
+      "fr": "« Et Il nous a amenés à cet endroit, et Il nous a donné ce pays, un pays où coulent le lait et le miel."
+    },
+    {
+      "ref": "Deuteronomy 26:10",
+      "fr": "Et maintenant, voyez ! J’ai apporté les premiers fruits du sol que tu m’as donné Adonoy.’’ Et tu le déposeras ensuite devant Adonoy, ton Dieu, et tu te prosterneras devant Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 26:11",
+      "fr": "Vous vous réjouirez de tout le bien qu'Adonoy, votre Dieu, vous a donné, ainsi qu'aux membres de votre maison ; vous, le Lévi et le prosélyte au milieu de vous."
+    },
+    {
+      "ref": "Deuteronomy 26:12",
+      "fr": "Lorsque vous aurez fini de donner la dîme à toutes les dîmes de vos produits la troisième année, l'année de la dîme ; et tu as donné au Lévi, au prosélyte, à l'orphelin et à la veuve, afin qu'ils mangent à leur satisfaction dans tes portes ;"
+    },
+    {
+      "ref": "Deuteronomy 26:13",
+      "fr": "Tu déclareras devant Adonoy, ton Dieu : « J'ai dépouillé mon domaine des biens sacrés [dîme], et je l'ai également présenté au Lévi et aussi au prosélyte, à l'orphelin et à la veuve, entièrement selon ton ordre que tu m'as commandé ; Je n’ai transgressé aucun de tes commandements et je n’ai pas oublié."
+    },
+    {
+      "ref": "Deuteronomy 26:14",
+      "fr": "Je n'en ai pas mangé pendant mon deuil, je ne l'ai pas dévoré lors d'une souillure rituelle, et je ne l'ai pas non plus utilisé pour les morts ; J'ai écouté la voix [parole] d'Adonoy, mon Dieu ; J'ai accompli tout ce que Tu m'as commandé."
+    },
+    {
+      "ref": "Deuteronomy 26:15",
+      "fr": "Contemple, depuis ta résidence sacrée, depuis les cieux, et bénis ton peuple, Yisroel et le sol que tu nous as donné, comme tu l'as juré à nos ancêtres, une terre où coulent le lait et le miel."
+    },
+    {
+      "ref": "Deuteronomy 26:16",
+      "fr": "Aujourd'hui même, Adonoy, votre Dieu, vous commande d'observer ces statuts et ces lois ; vous les observerez et les exécuterez de tout votre cœur et de tout votre être."
+    },
+    {
+      "ref": "Deuteronomy 26:17",
+      "fr": "Adonoy, tu t'es distingué aujourd'hui pour être ton Dieu et suivre ses voies [qui lui conviennent] et garder ses statuts, ses commandements et ses lois, et lui obéir [accepter sa parole]."
+    },
+    {
+      "ref": "Deuteronomy 26:18",
+      "fr": "Et Adonoy vous a distingué aujourd'hui pour être pour Lui un peuple précieux comme Il vous l'a dit, et pour garder tous Ses commandements."
+    },
+    {
+      "ref": "Deuteronomy 26:19",
+      "fr": "Et pour vous placer supérieur à toutes les nations qu'il a créées, pour la louange, la renommée et la gloire, et afin que vous soyez un peuple sanctifié pour [devant] Adonoy, votre Dieu, comme il l'a dit."
+    },
+    {
+      "ref": "Deuteronomy 27:1",
+      "fr": "Moshe et les anciens d'Israël ont ordonné au peuple ce qui suit : « Observez tous les commandements que je vous donne aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 27:2",
+      "fr": "Le jour où vous traverserez le Yardein pour rejoindre le pays qu'Adonoy, votre Dieu, vous donne, érigerez de grosses pierres et enduisez-les de chaux."
+    },
+    {
+      "ref": "Deuteronomy 27:3",
+      "fr": "Vous devez y écrire toutes les déclarations de cette Torah lors de votre traversée ; afin que vous arriviez au pays qu'Adonoy, votre Dieu, vous donne, un pays où coulent le lait et le miel, comme vous l'a promis Adonoy, le Dieu de vos ancêtres."
+    },
+    {
+      "ref": "Deuteronomy 27:4",
+      "fr": "Dès que vous aurez franchi le Yardein, dressez ces pierres que je vous commande aujourd'hui, sur le mont Eival, et enduisez-les de badigeon."
+    },
+    {
+      "ref": "Deuteronomy 27:5",
+      "fr": "Construis-y un autel à [devant] Adonoy, ton Dieu ; un autel de pierres ; ne soulevez pas de fer dessus."
+    },
+    {
+      "ref": "Deuteronomy 27:6",
+      "fr": "Tu bâtiras avec des pierres entières l'autel d'Adonoy, ton Dieu ; et tu apporteras dessus des holocaustes à Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 27:7",
+      "fr": "Vous devez égorger les offrandes de paix [sacrées] et les manger là-bas ; et tu dois te réjouir en présence d'Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 27:8",
+      "fr": "Vous devez écrire sur les pierres toutes les déclarations de cette Torah, correctement expliquées."
+    },
+    {
+      "ref": "Deuteronomy 27:9",
+      "fr": "Moshe et les cohanim-Lévi'im se sont adressés à tout Israël pour dire : « Prends garde et accepte, Yisroel ! [En] ce jour, vous êtes devenus un peuple pour [devant] Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 27:10",
+      "fr": "Tu dois obéir [accepter la parole de] Adonoy, ton Dieu, et observer ses commandements et ses statuts que je te prescris aujourd'hui.''"
+    },
+    {
+      "ref": "Deuteronomy 27:11",
+      "fr": "Moshe ordonna au peuple ce jour-là de dire :"
+    },
+    {
+      "ref": "Deuteronomy 27:12",
+      "fr": "« Les personnes suivantes se lèveront pour bénir les gens sur le mont Garizim, lors de votre traversée du Yardein : Shimon et Levi et Yehudah, et Yisachar et Yoseif et Binyomin."
+    },
+    {
+      "ref": "Deuteronomy 27:13",
+      "fr": "Et les suivants représenteront la malédiction sur le mont Eival : Reuvein, Gad et Asher, et Zevulun, Don et Naftoli."
+    },
+    {
+      "ref": "Deuteronomy 27:14",
+      "fr": "Les Léviim doivent répondre et dire à haute voix à chaque homme d’Israël :"
+    },
+    {
+      "ref": "Deuteronomy 27:15",
+      "fr": "« Maudit soit l’homme qui fabrique une statue ou une image en fonte, [distancé devant] l’abomination d’Adonoy, l’ouvrage d’un artisan, et qui la place dans un [lieu] secret ; » le peuple tout entier répondra et dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:16",
+      "fr": "« Maudit soit quiconque insulte son père ou sa mère », et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:17",
+      "fr": "« Maudit soit celui qui écarte [change] les limites de son prochain ! » et le peuple tout entier dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:18",
+      "fr": "« Maudit soit quiconque égare les aveugles sur le chemin ! » et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:19",
+      "fr": "« Maudit soit quiconque déforme la justice en faveur d’un converti, d’un orphelin ou d’une veuve ! » et le peuple entier dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:20",
+      "fr": "« Maudit soit quiconque a des relations sexuelles avec la femme de son père, parce qu’il a exposé le coin du vêtement de son père » ; et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:21",
+      "fr": "«Maudit soit quiconque a des relations sexuelles avec un animal», et tout le peuple dira: Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:22",
+      "fr": "« Maudit soit quiconque a des relations sexuelles avec sa sœur, fille de son père ou fille de sa mère ! » et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:23",
+      "fr": "« Maudit soit quiconque a des relations sexuelles avec la belle-épouse de son père ! » Et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:24",
+      "fr": "« Maudit soit quiconque frappe son prochain en secret ! » et tout le peuple dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:25",
+      "fr": "« Maudit soit quiconque accepte un pot-de-vin pour tuer un innocent ! » et le peuple tout entier dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 27:26",
+      "fr": "« Maudit soit quiconque ne respecte pas les déclarations de cette Torah pour les accomplir ! » et le peuple tout entier dira : Amein."
+    },
+    {
+      "ref": "Deuteronomy 28:1",
+      "fr": "Lorsque vous écoutez et obéissez [acceptez la parole d’] Adonoy, votre Dieu, pour être sûr d’accomplir tous ses commandements que je vous commande aujourd’hui ; Adonoy, ton Dieu, te placera au-dessus de toutes les nations de la terre."
+    },
+    {
+      "ref": "Deuteronomy 28:2",
+      "fr": "Toutes ces bénédictions viendront sur vous et vous parviendront lorsque vous obéirez à Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 28:3",
+      "fr": "Béni sois-tu dans la ville, et béni sois-tu dans les champs."
+    },
+    {
+      "ref": "Deuteronomy 28:4",
+      "fr": "Béni soit le fruit [descendance] de ton ventre, et les produits [fruits] de ton sol, et la postérité de tes animaux, les produits de ton bétail et les troupeaux de tes brebis et de tes chèvres."
+    },
+    {
+      "ref": "Deuteronomy 28:5",
+      "fr": "Bénis seront votre corbeille [de fruits] et vos aliments solides."
+    },
+    {
+      "ref": "Deuteronomy 28:6",
+      "fr": "Vous serez béni à votre arrivée et béni à votre départ."
+    },
+    {
+      "ref": "Deuteronomy 28:7",
+      "fr": "Adonoy mettra devant toi frappés [brisés] tes ennemis qui s'élèvent contre toi ; Ils s'approcheront de toi par un seul chemin, mais ils fuiront loin de toi par sept chemins."
+    },
+    {
+      "ref": "Deuteronomy 28:8",
+      "fr": "Adonoy ordonnera sur vous la bénédiction dans vos magasins et dans tout votre commerce ; et il te bénira dans le pays qu'Adonoy, ton Dieu, te donne."
+    },
+    {
+      "ref": "Deuteronomy 28:9",
+      "fr": "Adonoy vous établira comme un peuple saint comme il vous l'a juré ; quand tu garderas les commandements d'Adonoy, ton Dieu, et que tu suivras ses voies [qui sont correctes devant lui]."
+    },
+    {
+      "ref": "Deuteronomy 28:10",
+      "fr": "Et tous les peuples de la terre verront que tu es appelé du nom d’Adonoy et ils te craindront."
+    },
+    {
+      "ref": "Deuteronomy 28:11",
+      "fr": "Adonoy vous donnera un surplus en guise de bénéfice dans les fruits [des fruits] de votre ventre, et les fruits de vos animaux, et les produits [des fruits] de votre sol ; sur le pays qu'Adonoy a juré à vos ancêtres de vous donner."
+    },
+    {
+      "ref": "Deuteronomy 28:12",
+      "fr": "Adonoy t'ouvrira Son bon entrepôt, le ciel, pour te donner à temps la pluie de ta terre et pour bénir tous tes efforts ; et vous prêterez à de nombreuses nations, mais vous n'emprunterez pas."
+    },
+    {
+      "ref": "Deuteronomy 28:13",
+      "fr": "Adonoy vous placera à la tête [pour être puissant], non à la queue [pour être faible] ; et tu seras uniquement en haut, tu ne seras pas en bas ; quand vous tiendrez compte des commandements d'Adonoy, votre Dieu, que je vous commande aujourd'hui de garder et d'exécuter."
+    },
+    {
+      "ref": "Deuteronomy 28:14",
+      "fr": "Et vous ne vous écartez pas de toutes les paroles que je vous commande aujourd'hui, à droite ou à gauche, de suivre d'autres dieux [idoles des nations] pour les servir."
+    },
+    {
+      "ref": "Deuteronomy 28:15",
+      "fr": "Si vous n'obéissez pas à Adonoy, votre Dieu, pour veiller à accomplir tous ses commandements et ses statuts que je vous prescris aujourd'hui ; alors toutes ces malédictions viendront sur toi et t'atteindront."
+    },
+    {
+      "ref": "Deuteronomy 28:16",
+      "fr": "Maudit sois-tu dans la ville et maudit sois-tu dans les champs."
+    },
+    {
+      "ref": "Deuteronomy 28:17",
+      "fr": "Maudit soit votre corbeille de fruits et maudits soient vos aliments solides."
+    },
+    {
+      "ref": "Deuteronomy 28:18",
+      "fr": "Maudits soient les fruits de votre ventre et les produits de votre sol, les veaux de votre bétail et les troupeaux de vos brebis et de vos chèvres."
+    },
+    {
+      "ref": "Deuteronomy 28:19",
+      "fr": "Maudit sois-tu à ton arrivée et maudit soit-tu à ton départ."
+    },
+    {
+      "ref": "Deuteronomy 28:20",
+      "fr": "Adonoy vous infligera la ruine, la panique et la frustration dans tous les efforts que vous entreprenez, jusqu'à ce que vous soyez détruit et jusqu'à ce que vous soyez rapidement expulsé à cause de la méchanceté de vos actes [dans] le fait que vous avez abandonné [la peur de] Moi."
+    },
+    {
+      "ref": "Deuteronomy 28:21",
+      "fr": "Adonoy vous attachera la peste jusqu'à ce qu'Il vous extermine du pays dont vous venez là pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 28:22",
+      "fr": "Adonoy vous frappera d'ampoules, de fièvre brûlante, de fièvre violente, de charchur, d'épée, de flétrissure due au vent et de jaunissement. et ils vous poursuivront jusqu'à votre anéantissement."
+    },
+    {
+      "ref": "Deuteronomy 28:23",
+      "fr": "Et les cieux au-dessus de ta tête seront [inflexibles] comme le cuivre [pour retenir la pluie] et la terre qui est au-dessous de toi, [aussi forte que] le fer [pour ne pas porter de fruit]."
+    },
+    {
+      "ref": "Deuteronomy 28:24",
+      "fr": "Adonoy transformera la pluie de ton pays en poussière et en terre ; du ciel il tombera sur vous jusqu'à ce que vous soyez détruits."
+    },
+    {
+      "ref": "Deuteronomy 28:25",
+      "fr": "Adonoy vous frappera [brisé] devant vos ennemis. Par un chemin tu sortiras vers eux et par sept chemins tu fuiras devant eux ; et tu feras frémir tous les royaumes de la terre."
+    },
+    {
+      "ref": "Deuteronomy 28:26",
+      "fr": "Ton cadavre sera [jeté pour] la nourriture de tous les oiseaux du ciel et des animaux de la terre ; sans personne pour [les] effrayer."
+    },
+    {
+      "ref": "Deuteronomy 28:27",
+      "fr": "Adonoy vous tourmentera de furoncles égyptiens, d'hémorroïdes et de furoncles courants et secs ; dont vous ne pourrez pas être guéri."
+    },
+    {
+      "ref": "Deuteronomy 28:28",
+      "fr": "Adonoy vous tourmentera de folie, de cécité et de confusion totale [dans votre cœur]."
+    },
+    {
+      "ref": "Deuteronomy 28:29",
+      "fr": "Vous tâtonnerez à midi comme un aveugle tâtonne dans les ténèbres, et vous ne réussirez pas dans vos voies ; vous ne serez que victime de disputes et volés tous les jours sans sauveur."
+    },
+    {
+      "ref": "Deuteronomy 28:30",
+      "fr": "Tu épouseras une femme et un autre homme couchera avec elle ; tu bâtiras une maison et tu n'y habiteras pas ; Tu planteras une vigne et tu ne rachèteras pas ses fruits."
+    },
+    {
+      "ref": "Deuteronomy 28:31",
+      "fr": "Ton bœuf sera abattu sous tes yeux, et tu n'en mangeras pas ; ton âne [sera] volé devant toi et ne te reviendra pas ; vos troupeaux seront livrés à vos ennemis, et vous n'aurez pas de sauveur."
+    },
+    {
+      "ref": "Deuteronomy 28:32",
+      "fr": "Vos fils et vos filles [seront] donnés à un autre peuple tandis que vos yeux les regardent et se lamentent sur eux tout le jour, et vous êtes impuissants."
+    },
+    {
+      "ref": "Deuteronomy 28:33",
+      "fr": "Le fruit de ton sol et tout ton travail seront mangés par un peuple que tu ne connais pas ; et vous serez tout simplement opprimés et écrasés tout le temps."
+    },
+    {
+      "ref": "Deuteronomy 28:34",
+      "fr": "Et vous deviendrez fous à cause des spectacles que vous verrez."
+    },
+    {
+      "ref": "Deuteronomy 28:35",
+      "fr": "Adonoy te frappera de gros furoncles aux genoux et aux jambes dont tu ne pourras pas guérir ; de la plante de votre pied jusqu'à votre crâne [cerveau]."
+    },
+    {
+      "ref": "Deuteronomy 28:36",
+      "fr": "Adonoy vous conduira [en exil], vous et votre roi, que vous établirez sur vous-même, vers une nation que ni vous ni vos parents n'avez connue ; et là vous servirez d'autres puissances [nations adorant des idoles] [de] bois et de pierre."
+    },
+    {
+      "ref": "Deuteronomy 28:37",
+      "fr": "Vous deviendrez un [objet de] stupéfaction, serez cité en exemple et deviendrez l'objet de commérages parmi tous les peuples vers lesquels Adonoy vous mènera."
+    },
+    {
+      "ref": "Deuteronomy 28:38",
+      "fr": "Vous emporterez beaucoup de semence dans les champs, et vous en récolterez peu, car les sauterelles les détruiront."
+    },
+    {
+      "ref": "Deuteronomy 28:39",
+      "fr": "Vous planterez des vignes et vous y travaillerez, mais vous ne boirez pas de vin et vous n'en stockerez pas, car les vers le dévoreront."
+    },
+    {
+      "ref": "Deuteronomy 28:40",
+      "fr": "Vous aurez des olives dans tout votre territoire, mais vous n'oindrez pas d'huile, car vos olives (arbres) seront jetées [gaspillées]."
+    },
+    {
+      "ref": "Deuteronomy 28:41",
+      "fr": "Vous enfanterez des fils et des filles, mais vous ne les aurez pas, car ils iront en captivité."
+    },
+    {
+      "ref": "Deuteronomy 28:42",
+      "fr": "Tous vos arbres et les fruits de votre sol la cigale vont appauvrir."
+    },
+    {
+      "ref": "Deuteronomy 28:43",
+      "fr": "Le non-Juif [étranger incirconcis] parmi vous s’élèvera de plus en plus haut au-dessus de vous, tandis que vous descendrez de plus en plus bas."
+    },
+    {
+      "ref": "Deuteronomy 28:44",
+      "fr": "Il vous prêtera mais vous ne lui prêterez pas ; il sera en tête [puissant], et tu seras en queue [faible]."
+    },
+    {
+      "ref": "Deuteronomy 28:45",
+      "fr": "Toutes ces malédictions viendront sur toi et te poursuivront et t'atteindront jusqu'à ce que tu sois détruit ; car vous n'avez pas obéi à Adonoy, votre Dieu, pour garder ses commandements et ses statuts qu'il vous a prescrits."
+    },
+    {
+      "ref": "Deuteronomy 28:46",
+      "fr": "Ils vous arriveront comme un signe et un prodige, ainsi qu'à votre descendance pour toujours."
+    },
+    {
+      "ref": "Deuteronomy 28:47",
+      "fr": "Puisque tu n'as pas servi [avant] Adonoy, ton Dieu, avec joie et bon cœur, dans une totale abondance."
+    },
+    {
+      "ref": "Deuteronomy 28:48",
+      "fr": "Vous servirez vos ennemis qu'Adonoy enverra contre vous, dans la faim, dans la soif, et dans la nudité, et dans le manque de tout ; et il mettra un joug de fer sur ton cou jusqu'à ce qu'il te fasse périr."
+    },
+    {
+      "ref": "Deuteronomy 28:49",
+      "fr": "Adonoy suscitera sur toi, du bout de la terre, comme l'aigle s'envole, une nation dont tu n'entendras pas la langue."
+    },
+    {
+      "ref": "Deuteronomy 28:50",
+      "fr": "Une nation au visage dur qui ne fera pas preuve de faveur envers les vieux et qui n’aura pas pitié des jeunes."
+    },
+    {
+      "ref": "Deuteronomy 28:51",
+      "fr": "Ils dévoreront la progéniture de tes animaux et les produits [fruits] de ton sol jusqu'à ce que tu sois détruit ; qui ne vous laissera ni blé, ni vin, ni huile, ni les veaux de votre bétail, ni les troupeaux de vos brebis et de vos chèvres, jusqu'à ce qu'ils vous aient enlevés."
+    },
+    {
+      "ref": "Deuteronomy 28:52",
+      "fr": "Ils vous feront souffrir dans toutes vos villes jusqu'à maîtriser vos remparts et murailles fortifiées sur lesquels vous comptez [pour être sauvé] dans tout votre pays ; ils vous feront souffrir dans toutes vos villes, dans tout le pays qu'Adonoy, votre Dieu, vous a donné."
+    },
+    {
+      "ref": "Deuteronomy 28:53",
+      "fr": "Tu mangeras la chair de ton ventre, la chair de tes fils et de tes filles qu'Adonoy, ton Dieu, t'a données ; dans le siège et dans la détresse que votre ennemi vous affligera."
+    },
+    {
+      "ref": "Deuteronomy 28:54",
+      "fr": "Le délicat d'entre vous et le exigeant, [même] il regardera de travers son frère et la femme de son sein [alliance] et le reste de ses fils qu'il laissera."
+    },
+    {
+      "ref": "Deuteronomy 28:55",
+      "fr": "De donner à l'un d'eux la chair de ses fils qu'il mange, de peur de ne pas tout laisser pour lui ; en état de siège et de détresse, votre ennemi vous affligera dans toutes vos villes."
+    },
+    {
+      "ref": "Deuteronomy 28:56",
+      "fr": "La douce femelle d'entre vous et la gâtée dont la plante du pied n'a jamais eu l'expérience de se tenir sur le sol par indulgence et par douceur ; son œil rebutera le mari de son sein [alliance], ainsi que son fils et sa fille."
+    },
+    {
+      "ref": "Deuteronomy 28:57",
+      "fr": "Et son enfant [petits enfants] qui sort d'entre ses jambes [d'elle], et ses enfants qu'elle met au monde, quand elle les mange, faute de tout, en secret ; en état de siège et de détresse, votre ennemi vous affligera dans vos villes."
+    },
+    {
+      "ref": "Deuteronomy 28:58",
+      "fr": "Si vous ne veillez pas à accomplir toutes les déclarations de cette Torah qui sont écrites dans ce livre, craignez le Nom respecté et redoutable d'Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 28:59",
+      "fr": "Adonoy vous frappera de coups prodigieux et de coups sur votre progéniture, des coups grands et fiables et des maladies nuisibles et fiables."
+    },
+    {
+      "ref": "Deuteronomy 28:60",
+      "fr": "Il vous ramènera toutes les maladies égyptiennes que vous redoutiez et elles s'accrocheront à vous."
+    },
+    {
+      "ref": "Deuteronomy 28:61",
+      "fr": "De plus, toute maladie et tout fléau qui n'est pas écrit dans le livre de cette Torah, Adonoy se soulèvera contre vous jusqu'à votre destruction."
+    },
+    {
+      "ref": "Deuteronomy 28:62",
+      "fr": "Vous resterez numériquement peu nombreux [une petite nation] au lieu d’être comme les étoiles dans le ciel, nombreux ; car tu n'as pas obéi [à la parole d'] Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 28:63",
+      "fr": "Il arrivera que, de même qu'Adonoy s'est réjoui de vous pour vous bénéficier et vous multiplier, de même Adonoy apportera de la joie aux autres à cause de vous pour vous éloigner et vous détruire ; et vous serez arrachés du pays dont vous venez là pour hériter."
+    },
+    {
+      "ref": "Deuteronomy 28:64",
+      "fr": "Adonoy te dispersera parmi tous les peuples depuis l'extrémité de la terre jusqu'à l'extrémité de la terre ; et vous y servirez [les nations qui servent] d'autres dieux [idoles] que ni vous ni vos ancêtres n'avez connus, du bois et de la pierre."
+    },
+    {
+      "ref": "Deuteronomy 28:65",
+      "fr": "Et parmi ces nations tu ne seras pas tranquille et il n'y aura pas de repos pour la plante de ton pied ; et Adonoy vous y donnera un cœur craintif, des yeux languissants et un esprit désillusionné."
+    },
+    {
+      "ref": "Deuteronomy 28:66",
+      "fr": "Votre vie sera suspendue devant vous, et vous aurez peur [peur] nuit et jour, et vous n'aurez aucune foi en votre vie."
+    },
+    {
+      "ref": "Deuteronomy 28:67",
+      "fr": "Le matin tu diras : « Que ce soit le soir », et le soir tu diras : « Que ce soit le matin », à cause de la peur [effroi] dans ton cœur que tu craindras [aurai peur] et à cause de la vue de tes yeux que tu verras."
+    },
+    {
+      "ref": "Deuteronomy 28:68",
+      "fr": "Adonoy vous renverra en Égypte sur des navires, par la route que je vous ai indiquée : « Vous ne la reverrez plus », et là vous tenterez de vous vendre [d'être vendus] à vos ennemis comme esclaves et comme servantes, mais personne n'achètera."
+    },
+    {
+      "ref": "Deuteronomy 28:69",
+      "fr": "Ce sont les déclarations de l'alliance qu'Adonoy ordonna à Moshe de ratifier avec Bnei Yisroel dans le pays de Moav, en plus de l'alliance qu'il avait conclue avec eux à Choreiv."
+    },
+    {
+      "ref": "Deuteronomy 29:1",
+      "fr": "Moshe appela tout Israël et leur dit : « Vous avez vu tout ce qu'Adonoy a fait pendant que vous surveilliez, au pays d'Égypte, Pharaon et tous ses serviteurs et tout son pays."
+    },
+    {
+      "ref": "Deuteronomy 29:2",
+      "fr": "Les grands miracles dont vous avez été témoins, ces grands signes et prodiges."
+    },
+    {
+      "ref": "Deuteronomy 29:3",
+      "fr": "Mais Adonoy ne vous a pas donné jusqu'à ce jour un esprit savant, des yeux pour voir et des oreilles pour entendre."
+    },
+    {
+      "ref": "Deuteronomy 29:4",
+      "fr": "Je t'ai conduit quarante ans dans le désert, tes vêtements ne se sont pas usés sur toi et tes chaussures ne se sont pas usées sur tes pieds."
+    },
+    {
+      "ref": "Deuteronomy 29:5",
+      "fr": "Tu n'as pas mangé de pain, ni de vin frais ni vieilli, afin que tu saches que moi, Adonoy, je suis ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 29:6",
+      "fr": "Puis, lorsque vous êtes arrivés à cet endroit, Sichon, roi de Cheshbon, et Og, roi de Boshon [Masnon], sont sortis vers nous pour faire la guerre et nous les avons frappés."
+    },
+    {
+      "ref": "Deuteronomy 29:7",
+      "fr": "Et nous avons pris leur pays et l'avons donné comme territoire à la [tribu des] Réuvénites et à la [tribu des] Gaddites, et à la moitié de la tribu des Menashiens."
+    },
+    {
+      "ref": "Deuteronomy 29:8",
+      "fr": "Vous devez garder les principes de cette alliance et les respecter, afin de réussir dans tout ce que vous entreprenez."
+    }
+  ]
+}

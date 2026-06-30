@@ -1,0 +1,328 @@
+{
+  "name": "A'harei Mot",
+  "range": "Leviticus 16:1-18:30",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/acharei-mot.json",
+  "verses": [
+    {
+      "ref": "Leviticus 16:1",
+      "fr": "וידבר ה' אל משה אחרי מות, normalement, l'expression וידבר dans la Langue Sainte n'est pas utilisée pour décrire des parties spécifiques du message verbal mais s'applique à l'ensemble du discours, caractérisant sa nature. C'est la raison pour laquelle on retrouve si souvent le mot לאמור, c'est-à-dire אמירה après l'introduction וידבר. C'est pourquoi le verset 2 continue avec ויאמר אליו דבר אל אהרן אחיך, Il lui dit : « dis à ton frère Aaron », sans changement de sujet entre les deux versets. Étant donné que l’essentiel du message, c’est-à-dire son lien avec la mort immédiatement précédente des deux fils d’Aaron, Nadav et Avihu, n’avait pas changé, il n’était pas nécessaire d’identifier à nouveau le locuteur, c’est-à-dire D.ieu, en ajoutant les mots ויאמר אליו, « Il lui dit », comme il est d’usage dans des constructions similaires dans la Torah. Cependant, selon une minorité de nos sages (Torat Cohanim 1,3) il y a eu deux adresses distinctes de D.ieu et il faudrait alors comprendre le verset comme suit : l’une concernait l’interdiction pour Aaron de ne pas entrer dans le sanctuaire à chaque fois qu’il en avait envie sinon il courtiserait la mort. La deuxième fois, c’était après la mort des fils d’Aaron ; Aaron ne devait entrer que sur ordre de D.ieu. L’avertissement était cette fois plus urgent, avertissant que la présence de D.ieu dans le sanctuaire serait visible de l’extérieur au moyen du nuage planant au-dessus du Tabernacle. À ce moment-là, la voix de D.ieu s’adressa à nouveau à Moïse, émettant des instructions concernant la conduite des prophètes et des grands prêtres dans les générations futures. Nous trouvons une référence à de tels sujets dans Samuel I 3,3-4 où Samuel est rapporté couché dans le sanctuaire du Seigneur lorsque D.ieu l'appela."
+    },
+    {
+      "ref": "Leviticus 16:2",
+      "fr": "CAR J'APPARAÎS DANS LA NUÉE dans cette génération pour parler à Moshe, mais dans d'autres générations pour appeler ceux qui étaient préparés à la prophétie, comme ce fut le cas avec Shmu'el, comme il est dit (I Sam. 3 :3-4) : « Shmu'el dormait dans le temple d'Adonaï, où se trouvait l'Arche de Dieu, et Adonaï appela Shmu'el."
+    },
+    {
+      "ref": "Leviticus 16:3",
+      "fr": "בזאת יבא...בפר בן בקר, en sanctifiant le taureau comme sacrifice pour le péché, et le bélier comme holocauste, et en revêtant les vêtements sacerdotaux appropriés, ceux en lin qui n'avaient aucun ajout décoratif et étaient constitués uniquement de lin blanc. D'une part, ce souverain sacrificateur ne devait pas entrer dans le sanctuaire avant que l'holocauste ait été sacrifié, mais il était autorisé à y entrer pour offrir l'encens dès que le sacrifice pour le péché avait été égorgé."
+    },
+    {
+      "ref": "Leviticus 16:4",
+      "fr": "בגדי קדש הם, lorsque les anges apparaissaient sous forme humaine aux prophètes, ils portaient ce genre de vêtements. C'est le sens de l'expression לבושי הבדים. (Ezéchiel 9,3 et Daniel 12,6-7)"
+    },
+    {
+      "ref": "Leviticus 16:5",
+      "fr": "שני שעירי עזים לחטאת, le premier pour expier les péchés commis par inadvertance dans l'enceinte sainte, et le second en ce qui concerne les péchés commis par le grand public qui, du fait de son état d'impureté rituelle, n'aurait pas été en mesure d'offrir ce sacrifice en son propre nom à ce moment-là. S'ils l'avaient fait alors qu'ils étaient dans un état d'impureté rituelle et s'ils étaient entrés dans l'enceinte sacrée, ils auraient conféré l'impureté rituelle à leur agent, le prêtre. [comme cela s'est produit avec le bouc émissaire qui conférait une impureté rituelle à l'homme qui le conduisait à sa mort. (verset 26). Cependant, dans ce cas, une telle impureté n’était pas conférée à un terrain sacré. Éd.]"
+    },
+    {
+      "ref": "Leviticus 16:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:8",
+      "fr": "En fait, l'utilisation de beaucoup de choses, surtout lorsqu'elles sont manipulées par l'un des intimes de D.ieu, dans ce cas par Aaron, sert à confirmer quelque chose que D.ieu veut comme nous le savons de Salomon dans Proverbes 16,33 בחיק יוטל את הגורל, ומה' כל Autrement dit, \"le sort est jeté sur le genou, mais le jugement de chacun dépend de D.ieu.\" [La personne crédule s'imaginant que tant que le sort n'a pas révélé ce qui était censé révéler le sort de l'individu n'a pas été déterminé, se trompe grossièrement. Le sort avait été décidé depuis longtemps au ciel. (Alshich). Éd.]"
+    },
+    {
+      "ref": "Leviticus 16:9",
+      "fr": "ועשהו חטאת, le sort détermine lequel des boucs mâles doit être le sacrifice d'expiation pour l'autel. Selon les mots de nos sages (Yuma 40) « c’est le sort qui détermine quelle est l’offrande pour le péché, et non son nom ». [l'appeler ainsi n'a aucun sens à moins d'être confirmé par le tirage au sort. Éd.]"
+    },
+    {
+      "ref": "Leviticus 16:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:11",
+      "fr": "En outre, nous avons déjà appris par tradition que les deux expiations mentionnées à propos d'Aaron se réfèrent personnellement à la confession récitée par Aaron, c'est pourquoi elles ont eu lieu avant l'abattage effectif du sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 16:12",
+      "fr": "ולקח מלא המחתה, dès que l'offrande pour le péché avait été sacrifiée et qu'il avait préalablement récité sa confession afin que ses péchés aient été effacés, il était maintenant prêt à faire face au « Roi » (D.ieu) qui le regarderait avec faveur. C’est ce que voulait dire le verset 2 avec la référence à la nuée par laquelle D.ieu se manifesterait. À ce stade, il était approprié de L'honorer en présentant l'encens, tout comme l'encens serait offert quotidiennement après la présentation de l'offrande commune quotidienne, תמיד le matin et le soir. (comparez Exode 29,42 עולת תמיד לדורותיכם פתח אהל מועד אשר אועד לכם שמה, « un holocauste régulier parmi vos générations à l'entrée de la Tente du Rendez-vous où je me manifeste pour vous."
+    },
+    {
+      "ref": "Leviticus 16:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:15",
+      "fr": "C'est vrai. Après qu’il ait fini d’offrir le sacrifice d’expiation pour sa propre expiation, les gens seraient également au niveau où ils pourraient faire face au « Roi ». La séquence décrite ici qui, à première vue, pourrait donner l'impression que le Grand Prêtre était plus préoccupé par sa propre expiation que par celle du peuple qu'il représentait, est confirmée par le prophète (Tzefaniah 2,1) dans les mots התקוששו וקושו, qui sont interprétés dans Sanhédrin 18 comme « veillez à votre propre intégrité avant de vous soucier de l'intégrité des autres »."
+    },
+    {
+      "ref": "Leviticus 16:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:23",
+      "fr": "והניחם שם, car il les avait offerts en présence de D.ieu afin qu'ils atteignent une sainteté supplémentaire, et il n'est pas approprié même pour le Souverain Sacrificateur de les porter après avoir accompli la tâche assignée. (selon Yuma 12, ces vêtements sont enterrés immédiatement ou autrement mis sous clé.)"
+    },
+    {
+      "ref": "Leviticus 16:24",
+      "fr": "ורחץ את בשרו, après avoir appuyé ses mains sur le bouc émissaire. En fait, c'était après qu'il eut obtenu pour la première fois son expiation personnelle, suivie de l'expiation au nom du peuple en général avec les deux offrandes pour le péché constituées des boucs. Même le « bouc émissaire » est mentionné ici comme un « sacrifice pour le péché », חטאת, alors que nous considérons qu’il avait déjà été mentionné comme tel au verset 5 où la Torah parle de שני שעירי עזים לחטאת, « deux boucs en sacrifice pour le péché ». Ces deux procédures devaient avoir lieu avant que l’holocauste ne soit offert au nom du peuple. Il s’agissait d’une procédure standard, c’est-à-dire que le sacrifice pour le péché précédait l’holocauste. Ce point a été souligné dans Pessachim 59. וכפר בעדו ובעד העם, l'expiation requise pour les pensées inappropriées qui devraient précéder les questions exigeant des mains « propres » (sans péché) et un cœur pur. Un tel état sans péché est atteint au moyen de l’holocauste."
+    },
+    {
+      "ref": "Leviticus 16:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:27",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:29",
+      "fr": "לחקת עולם, même si D.ieu avait prévu un Temple dans lequel accomplir le rituel appelé עבודה, le service sacrificiel, le Jour des Expiations, pour être pleinement efficace, exige également que chaque personne s'abstienne du type de travail interdit chaque sabbat, ainsi que qu'il s'abstienne de manger et de boire, c'est-à-dire עינוי."
+    },
+    {
+      "ref": "Leviticus 16:30",
+      "fr": "En ce qui concerne כי ביום הזה יכפר, la raison pour laquelle les autres facteurs mentionnés tout à l'heure sont requis en plus du service sacrificiel est que si toute la charge de l'expiation devait être placée sur les épaules du Souverain Sacrificateur, cela équivaudrait seulement à une « dégradation » de la gravité des péchés, ce qui est le sens du terme כיפור. L'individu doit se préparer mentalement à obtenir le pardon de son Créateur par ces mesures supplémentaires. לפני ה' תטהרו, le pardon absolu, la réhabilitation, ne peuvent se produire qu'en présence du Seigneur, ce qui à son tour ne peut être obtenu que par la confession personnelle de son péché et son engagement absolu de ne plus commettre de tels péchés dans des circonstances similaires. Le verset est introduit ici pour nous rappeler que seul le Seigneur lui-même est conscient de la sincérité de sa techouva, de son repentir."
+    },
+    {
+      "ref": "Leviticus 16:31",
+      "fr": "Afin de rendre ce point encore plus clair, la Torah a écrit concernant ce Jour des Expiations, שבת שבתון היא לכם, cela fait référence au caractère unique de ce jour. Un jour de sabbat est généralement honoré par de la nourriture et des boissons, tandis que l'abstention des indulgences physiques, c'est-à-dire un צום, jour de jeûne, vise à nous mettre dans les bonnes grâces de D.ieu. (Isaïe 58,3) Le message ici est formulé différemment mais est le même. Le renoncement du Juif ce jour-là aboutit à ce que le concept du sabbat soit observé à son plus haut potentiel. חקת עולם, même à une époque où il n'y a pas de Temple, et donc pas de service sacrificiel, le jour des Expiations ne perd pas sa fonction, et l'observance du sabbat, c'est-à-dire l'abstention du travail ainsi que le renoncement à soi consistant à jeûner pendant vingt-quatre heures restent en vigueur."
+    },
+    {
+      "ref": "Leviticus 16:32",
+      "fr": "ואשר ימלא את ידו...ולבש, également un prêtre portant les vêtements du Souverain Sacrificateur bien que n'ayant pas été oint de l'huile d'onction sainte peut être l'instrument de l'expiation du peuple. [Les conditions mentionnées dans notre verset ne sont pas comprises comme des exigences cumulatives et absolues. (comparez Rachi qui explique que l'huile d'onction sainte s'était déjà épuisée à l'époque du roi Yoshiyahu pendant le premier Temple, pour ne plus jamais être disponible. Néanmoins, même à l'époque du deuxième Temple, lorsque le cordon rouge est devenu blanc après le meurtre du bouc émissaire, il y avait un signe du ciel que le peuple avait été pardonné. NDLR.)"
+    },
+    {
+      "ref": "Leviticus 16:33",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 16:34",
+      "fr": "Il est clair que le jour lui-même a le pouvoir de conférer l'expiation même lorsqu'il n'y a ni Temple ni service du Temple. Selon les mots de nos sages (Yuma 86) « le repentir suspend l’imposition du châtiment et l’arrivée de la date du Jour des Expiations achève l’expiation »."
+    },
+    {
+      "ref": "Leviticus 17:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:2",
+      "fr": "זה הדבר, lorsque la Torah dit en 15,31 והזהרתם את בני ישראל מטומאתם, « vous devez avertir les Israélites de leur état de contamination rituelle », l'avertissement impliquait qu'ils devaient se séparer des influences spirituellement négatives représentées à la fois par le rituel contamination et par les démons."
+    },
+    {
+      "ref": "Leviticus 17:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:4",
+      "fr": "דם יחשב, comme si la relation de l'homme avec les animaux était ce qu'elle était avant le déluge lorsqu'il avait été interdit de tuer des animaux pour se nourrir."
+    },
+    {
+      "ref": "Leviticus 17:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:7",
+      "fr": "Il s'agissait de ne pas offrir de sacrifices aux démons même s'ils n'étaient en aucun cas assimilés à des divinités, mais étaient considérés uniquement comme des créatures pouvant être employées par leurs maîtres humains. Ils employaient même de tels démons pour faire des courses dans des pays lointains. Nous en avons documenté la preuve dans le cas de Joseph Shida [le démon nommé Joseph]. (Sanhédrin 59, comparer à Na'hmanide) et à propos du démon qui occupait une place importante dans la maison du Rav bar Rav Ashi (Chulin 105). Si de tels démons avaient été considérés comme des divinités, il est inconcevable que des personnes de la stature de Rav Ashi ou de Rav Pappa auraient eu une quelconque trace avec eux. Il est rapporté dans le Talmud que même si l’on sait peu de choses sur la manière dont ces démons ont été créés, on sait qu’ils mangent et boivent tout comme les êtres humains. Il convient en outre de mentionner que les sages, collectivement, ont qualifié le phénomène des démons de מזיקים, phénomène destructeur et nuisible. Ils se multiplient de la même manière que les humains et meurent régulièrement. Ils voient sans être vus eux-mêmes. Apparemment, bien qu’ils soient composés de matériau composite, leurs os sont extrêmement fins et transparents. L’auteur spécule que, tout comme les êtres humains ordinaires, en commun avec les animaux, possèdent une « force vitale intangible » נפש חיוני qui, étant donné qu’elle meurt avec le corps qu’elle habite, par opposition à l’נשמה humaine qui est un esprit intangible émanant des régions célestes, est fondamentalement de nature terrestre, ces démons sont « alimentés » par une telle force vitale. La raison pour laquelle nous constatons que la « force vitale » parfois appelée נפש est le fait qu’elle ne peut exister sans son partenaire tangible, celui qui se nourrit de nourriture et de boissons provenant de ce qui est disponible dans notre univers terrestre. Considérez le fait même que la Torah décrit « le sang comme la force vitale » (Deutéronome 12,23). Si quelqu’un devait sacrifier du sang à une telle créature, surtout étant donné qu’il est suffisamment puissant pour soutenir la vie de telles créatures, le sang sacrifié à de telles créatures équivaudrait à maintenir ces démons en vie. (comparer Maimonides, Moreh Nevuchim,3,46 sur le sujet). Cela constituerait une violation de la déclaration de Chulin 105. Il s’agit d’une conversation entre le « propriétaire » d’un démon, Mar bar Rav Ashi, selon laquelle le démon qui n’avait pas remboursé à temps un prêt au « propriétaire » affirmait que son pouvoir de collectionner des objets dans ce monde n’incluait pas des objets clairement définis et visibles. De ce Tossaphot Taanit 8 divrey hamatchil אלא בדבר conclut que si les phénomènes clairement définis et visibles dans ce monde étaient hors de portée des démons à moins qu'ils n'étaient définitivement sans propriétaire, les phénomènes qui ne sont pas visibles pour nous, les humains, appartenaient à la catégorie des phénomènes sur lesquels ces démons avaient un contrôle. Quoi qu'il en soit, lorsqu'il existe une situation où de nombreuses personnes trouvent de tels démons utiles et flexibles à leurs souhaits, les gens se livrent à leur offrir du sang afin de se faire aimer de ces créatures et de les amener à réaliser leurs souhaits. Les personnes offrant ces dons de sang en mangeaient également elles-mêmes, afin de partager davantage de points communs avec ces créatures. Certaines personnes mettaient même un point d’honneur à consommer le sang de ces « cadeaux » aux démons à proximité du Temple. Ils avaient l’impression que ces démons exécutaient leurs danses à proximité. Ils espéraient s’attirer les bonnes grâces de ces créatures en leur montrant ce genre de « respect ». Lorsque D.ieu a décidé de nous sanctifier et qu’Il ​​a séparé Son peuple de la dépendance à l’égard de tels démons et nous a appris à ne pas poursuivre de tels phénomènes finalement inutiles et à leur faire confiance, voyant que contrairement à une perception superficielle, ils sont en réalité des mazikim, des forces destructrices, comme les ont correctement décrits nos sages, Il a imposé une sévère pénalité aux personnes qui maintiennent des relations comme celles qu’ils entretenaient avec les démons. La pénalité du karet signifie la séparation de l’avenir éternel de son propre peuple. (verset 10) D.ieu imposait une pénalité similaire à la consommation de sang et à l'offre de cadeaux à ces démons comme celle qu'Il avait imposée à l'époque du Gan Eden lorsqu'il interdisait de manger de l'arbre de la connaissance sous peine de faire de l'homme un mortel, c'est-à-dire de perdre un aspect de son infinité sur cette terre. (Genèse 2,17). La Torah a justifié son interdiction et la sévérité de la peine en déclarant : « car l’âme (la force vitale intangible) de la chair est dans le sang ». C’est la façon dont la Torah fait référence à l’essence presque invisible de ces créatures. D’un côté, cette essence est appelée nefesh « force vitale », de l’autre elle est appelée sang, car une fois que le sang cesse de circuler dans les veines du corps qu’il nourrit, c’est la fin de l’existence du corps et de la force vitale de ces créatures. D.ieu ajouta (verset 11) ואני נתתיו לכם על המזבח לכפר, \"Je vous ai donné l'opportunité de présenter ce sang sur Mon autel afin de faciliter votre expiation pour votre force vitale. Le point que D.ieu fait valoir est que, contrairement à ces démons pour qui un tel sang est une partie essentielle de leur les nutriments qui leur permettent de rester en vie, Moi, le Seigneur, n'ai besoin de rien de tel pour Moi-même ; au contraire, Je vous ai donné, Mon peuple, la possibilité de rester en vie vous-mêmes en accomplissant l'expiation de vos péchés au moyen de sacrifices impliquant le sang de la vie de l'animal que vous offrez. Les sacrifices, pour avoir un sens comme expiation, doivent être dans une certaine relation de réciprocité avec le donateur, si le donateur s'était rendu coupable de perte de sa vie, uniquement de celle d'un autre. la vie, en l’occurrence le sang de l’animal sacrificiel, peut éventuellement réaliser ce genre d’expiation à la place du sang du pécheur lui-même. D’autres parties de l’animal sacrificiel brûlées sur l’autel correspondent de la même manière aux parties du corps du donateur qui s’étaient rendus coupables du péché pour lequel le donateur espère expier (comparer l’auteur sur Lévitique 1,2)."
+    },
+    {
+      "ref": "Leviticus 17:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 17:13",
+      "fr": "C'est vrai. Sachant que l’habitat principal de ces bêtes en liberté se trouve dans des régions désolées de la terre, des zones dans lesquelles les types de démons que nous avons mentionnés sont chez eux (comparez Isaïe 13,21 « là les autruches habiteront et là les satyres (démons) danseront »), la Torah interdit donc de laisser le sang de ces bêtes exposé et nous a ordonné de le recouvrir de terre afin d’éviter toute chance que ce sang soit utilisé pour nourrir les bêtes. démons. Il continue en disant :"
+    },
+    {
+      "ref": "Leviticus 17:14",
+      "fr": "כי נפש כל בשר דמו בנפשו הוא, « car la force vitale de toutes les créatures vivantes est son sang » [ou contenu dans son sang. Ed.] (une référence à la façon dont l'auteur a décrit une telle essence presque invisible dans le sang dans son commentaire sur le verset 7). בנפשו, y compris cette force vitale invisible qu'elle contient. C’est parce que le sang contient quelque chose de presque intangible. Étant donné que cet ingrédient est ce qui se rapproche le plus de tout ce qui est complètement intangible dans cet univers terrestre, c'est un nutriment idéal pour les démons et pour ceux qui fréquentent eux. La Torah dit : ואומר לבני ישראל, bien que j'aie permis aux païens de consommer ce sang, je l'ai déjà interdit aux enfants d'Israël dans Lévitique 7,26, étant donné que l'essence vitale des créatures vivantes y est contenue pendant que l'animal était vivant et qu'elle est susceptible de transférer certaines de ces caractéristiques animales aux personnes qui l'ingèrent comme nourriture. La Torah veut protéger le peuple juif contre l’absorption de tendances plus animales que celles que nous possédons déjà."
+    },
+    {
+      "ref": "Leviticus 17:15",
+      "fr": "וכל נפש אשר תאכל נבלה וטרפה, après que la Torah ait écrit sur l'interdiction de manger du sang, ce qui, si elle était autorisée, nous rapprocherait du cercle des démons, elle parle de l'interdiction de manger de la viande provenant d'animaux malades ou d'animaux morts pour des causes autres que l'abattage rituel. Une nation qui s’efforce d’attirer l’esprit saint vers elle ferait quelque chose de contre-productif si elle consommait de telles carcasses qui sont la base d’influences spirituellement négatives. Nous savons qu’il en est ainsi grâce à l’interdiction de la Torah d’essayer de tirer une inspiration spirituelle des morts ou de parties d’eux. (comparez Deutéronome 18,11 où la consultation de fantômes ou d'autres questions liées à la mort est spécifiquement interdite, et il nous est ordonné de ne pas tolérer les personnes qui pratiquent de tels cultes dans notre pays.)"
+    },
+    {
+      "ref": "Leviticus 17:16",
+      "fr": "C'est vrai. En fonction du degré de contamination spirituelle qu'il s'est infligé. Il existe bien sûr différents degrés de contamination spirituelle, et la punition sera adaptée à la gravité de la transgression."
+    },
+    {
+      "ref": "Leviticus 18:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:2",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:6",
+      "fr": "איש איש אל כל שאר בשרו לא תקרבו; la logique supposerait que la progéniture de parents génétiquement liés donnerait des êtres humains supérieurs, de même égalité, comme par exemple dans le cas d'Amram et de Yocheved, où l'union conjugale d'une tante et d'un neveu a produit trois êtres humains exceptionnels tels que Miriam, Aaron et Moïse. En effet, le Talmud Yevamot 62,63 fait l'éloge de celui qui épouse sa nièce en citant Isaïe 58,9 qui appelle une bénédiction spéciale du ciel sur une telle personne. [« Alors, quand vous appellerez, le Seigneur répondra, quand vous pleurerez, Il dira : ‘Me voici.’ »] Les considérations que je viens de mentionner ne sont valables que si les deux parties à une telle union conjugale sont motivées exclusivement par le désir d’accomplir la volonté de D.ieu telle qu’elles la perçoivent. Cependant, à vrai dire, cela ne se produit que dans de rares cas. La grande majorité des gens, lorsqu’ils choisissent leur partenaire, sont motivés par le désir de satisfaire leur libido. Comparez Psaumes 51,7 הן בעוון חוללתי ובחטא יחמתני אמי, \"En effet, je suis né dans l'iniquité; dans le péché, ma mère m'a conçu.\" Étant donné que des parents génétiquement proches, vivant généralement sous le même toit, offrent aux hommes et aux femmes de cette famille de nombreuses occasions de s'engager dans des relations sexuelles illégitimes, et non seulement ils trouvent cela agréable, mais ils ne considèrent pas du tout cela comme un péché, de tels couples ne seront pratiquement jamais destinés au mariage, mais simplement à l'indulgence physique mutuelle. En conséquence, autoriser des relations conjugales de nature incestueuse entraînerait une promiscuité sexuelle de grande ampleur. C'est pourquoi la Torah a écrit לגלות ערוה, dans la plupart des cas, la mise à nu de la chair, et en particulier des parties intimes, est la gratification physique souhaitée en premier lieu. C’est pourquoi la Torah, pour étouffer l’inceste dans l’œuf, s’adresse encore et encore à ce phénomène en utilisant l’expression לגלות ערוה, l’excitation procurée par le régal des yeux de la chair du sexe opposé. Lorsqu’elle énumère les degrés de parenté, la Torah part du point de vue de l’homme et, dans le cas de la femme, du point de vue de son mari. C’est pourquoi, dans l’ordre séquentiel, la Torah interdit d’abord la sœur du père qui est un lien de sang au premier degré avec son père. En revanche, la Torah autorise la fille d'un tel père qui est un parent du deuxième degré à participer au parti. La Torah interdit alors d’épouser son père, d’épouser son frère et d’épouser son oncle, même après le décès de leurs maris respectifs. Ceci en dépit du fait qu’aucun lien génétique n’existe entre les personnes interdites les unes aux autres en tant qu’homme et femme. La raison est simplement que la Torah les considère toutes du point de vue de leurs relations avec leur mari. Cela semble être la ligne directrice de toute législation relative à l’inceste."
+    },
+    {
+      "ref": "Leviticus 18:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:17",
+      "fr": "En fait, c'est une union sexuelle basée uniquement sur la luxure et l'intention pécheresse."
+    },
+    {
+      "ref": "Leviticus 18:18",
+      "fr": "לא תקח לצרור, la Torah signifie que sans l'hostilité compétitive qui résulterait de la compétition entre les deux sœurs pour l'amour du même homme, il n'y aurait pas eu de raison biologique ou génétique pour interdire une telle union. La preuve que telle est la motivation directrice de la Torah est le fait qu’après la mort d’une sœur, le mari survivant peut épouser la sœur survivante."
+    },
+    {
+      "ref": "Leviticus 18:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:21",
+      "fr": "En fait, la différence entre offrir des sacrifices au Moloch et à D.ieu respectivement est qu'à D.ieu seuls les animaux sont sacrifiés, tandis qu’à la divinité connue sous le nom de Moloch, les êtres humains, en particulier leur fils, sont sacrifiés. Cela indiquerait que l’adorateur du Moloch le considère comme plus puissant que D.ieu, car sinon pourquoi sacrifierait-il son bien le plus cher, son fils, à lui et non à D.ieu ? 'אני ה, je n'ai jamais changé depuis le moment où j'ai juré à Avraham \"d'être ton Dieu et pour ta semence après toi\". (Genèse 17,7). Voyant que D.ieu dans ce chapitre avait parlé de l'inceste, des questions liées à la semence humaine et de son intérêt à garder cette semence pure afin que l'esprit saint puisse descendre sur ces personnes, Il parla du Moloch dont les serviteurs avaient eu l'intention de s'assurer que leurs autres enfants seraient bénis avec toutes sortes de succès en reconnaissance d'avoir donné l'aîné à leur D.ieu. D.ieu a déclaré ici que faire quelque chose comme cela, loin d’être un moyen de sanctifier le nom de D.ieu, serait le moyen le plus puissant de profaner Son nom. De telles pratiques, loin d’attirer la présence bienveillante de D.ieu, la Chechinah, empêcheraient cette présence de D.ieu d’élire résidence parmi le peuple juif."
+    },
+    {
+      "ref": "Leviticus 18:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 18:24",
+      "fr": "אל תטמאו בכל אלה, même en étant simplement physiquement proche de ces membres incestueux du sexe opposé. כי בכל אלה נטמאו הגוים, pour la dépravation originelle des nations résidant en Canaan avant vous impliquait précisément cette contamination rituelle. Ils n'ont pas commencé par coucher avec des partenaires qui leur étaient interdits, mais seulement par les caresser."
+    },
+    {
+      "ref": "Leviticus 18:25",
+      "fr": "En fait, l'étape suivante a été que la terre a été contaminée par de véritables relations sexuelles incestueuses entre ces partenaires."
+    },
+    {
+      "ref": "Leviticus 18:26",
+      "fr": "ושמרתם אתם את חקותי, ne pas révéler la nudité, etc. ואת משפטי, en punissant les coupables. Bien sûr, en observant ces règles, vous ne deviendrez pas coupable de vous engager dans l'une de ces pratiques abominables."
+    },
+    {
+      "ref": "Leviticus 18:27",
+      "fr": "כי את כל התועבות האל עשו אנשי הארץ, car ces nations qui n'observaient pas ces règles des mœurs sexuelles incestueuses et qui ne punissaient pas ceux qui violaient ces règles, finirent par commettre elles-mêmes toutes ces abominations, passant d'un péché relativement mineur à des péchés plus graves ; la même chose vous arrivera si vous faites preuve de laxisme dans l'application de ces règles, me laissant seul le soin de punir les contrevenants. [Il est intéressant de noter que l’auteur prédit le résultat de permettre aux « adultes consentants » de choisir leur propre mode de vie. NDLR] C’est pourquoi je vous implore d’observer cette législation dans tous ses détails."
+    },
+    {
+      "ref": "Leviticus 18:28",
+      "fr": "ולא תקיא הארץ...כאשר קאה את הגוי, et en s'abstenant de ces abominations, le pays ne vous vomira pas éventuellement (pour d'autres péchés) de la même manière absolue dont les gens actuellement dans ce pays en sont dégorgés."
+    },
+    {
+      "ref": "Leviticus 18:29",
+      "fr": "La raison pour laquelle le pays vous rejettera si vous violez ne serait-ce qu'une partie de ces lois est que chacune d'entre elles constitue à Mes yeux une violation suffisamment grave, provoquant l'auteur délibéré sera puni de la peine de karet, séparation totale de l'avenir du peuple de la nation juive."
+    },
+    {
+      "ref": "Leviticus 18:30",
+      "fr": "ושמרתם את משמרתי לבלתי עשות מחקות התועבות, observez également la législation qui a le caractère d'une barrière de protection contre le péché majeur consistant à se livrer à des relations sexuelles réelles avec des partenaires interdits. Tout comme la législation régissant les lois menstruelles, la consommation d'aliments interdits, le fait de coucher avec une femme rituellement impure après l'accouchement, etc., ont toutes été entourées de ce que nos sages appellent un סיג, « clôture de protection », cette législation comporte également une telle clôture de protection qui ne doit pas être ignorée sauf à vos risques et périls. La considération primordiale est לא תטמאו בהם, « ne soyez pas contaminé spirituellement en ignorant ces lois »."
+    }
+  ]
+}

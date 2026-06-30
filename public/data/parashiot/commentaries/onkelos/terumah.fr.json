@@ -1,0 +1,392 @@
+{
+  "name": "Terouma",
+  "range": "Exodus 25:1-27:19",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/terumah.json",
+  "verses": [
+    {
+      "ref": "Exodus 25:1",
+      "fr": "Adonoy parla à Moshe en disant :"
+    },
+    {
+      "ref": "Exodus 25:2",
+      "fr": "Parlez aux B'nei Yisrael et demandez-leur de prendre pour moi une offrande de terumah. De tout homme dont le cœur le pousse à la générosité, vous recevrez mon offrande de terumah."
+    },
+    {
+      "ref": "Exodus 25:3",
+      "fr": "C'est ici l'offrande de teroumah que vous prendrez d'eux : de l'or, de l'argent et du cuivre."
+    },
+    {
+      "ref": "Exodus 25:4",
+      "fr": "Bleu verdâtre [laine], rouge foncé [laine], cramoisi [coloré] [laine], lin fin et chèvres [poils]."
+    },
+    {
+      "ref": "Exodus 25:5",
+      "fr": "Peaux de bélier [teintes en rouge], peaux de tachash [multicolores] et bois d'acacia."
+    },
+    {
+      "ref": "Exodus 25:6",
+      "fr": "Huile pour la lampe. Des épices pour l'huile d'onction et pour l'encens des épices aromatiques."
+    },
+    {
+      "ref": "Exodus 25:7",
+      "fr": "Pierres d'onyx et pierres de remplissage [à sertir] [dans] l'éifod et le pectoral."
+    },
+    {
+      "ref": "Exodus 25:8",
+      "fr": "Ils feront un sanctuaire pour [devant] Moi, et J'habiterai [alors] au milieu d'eux [reposerai Ma Chechina parmi eux]."
+    },
+    {
+      "ref": "Exodus 25:9",
+      "fr": "D'après tout ce que je vous montre, la forme du mishkon [tabernacle] et la forme de tous ses ustensiles, vous devez le faire ainsi."
+    },
+    {
+      "ref": "Exodus 25:10",
+      "fr": "Ils feront une arche en bois d'acacia, longue de deux amohs et demi, large d'un amohs et demi et haute d'un amohs et demi."
+    },
+    {
+      "ref": "Exodus 25:11",
+      "fr": "Couvre-le d'or pur : tu le couvriras intérieurement et extérieurement. Faites-lui un bord doré en forme de couronne autour de [son sommet]."
+    },
+    {
+      "ref": "Exodus 25:12",
+      "fr": "Fondez quatre anneaux d’or et placez-les aux quatre coins de l’arche, deux anneaux d’un côté et deux anneaux de l’autre côté."
+    },
+    {
+      "ref": "Exodus 25:13",
+      "fr": "Tu feras deux barres en bois d'acacia et tu les couvriras d'or."
+    },
+    {
+      "ref": "Exodus 25:14",
+      "fr": "Placez les poteaux dans les anneaux sur les côtés de l'arche, afin que l'arche puisse être transportée avec eux."
+    },
+    {
+      "ref": "Exodus 25:15",
+      "fr": "Dans les anneaux de l’arche doivent demeurer les poteaux. Ils ne doivent pas en être retirés."
+    },
+    {
+      "ref": "Exodus 25:16",
+      "fr": "Tu placeras ensuite dans l'arche le témoignage que je te donnerai."
+    },
+    {
+      "ref": "Exodus 25:17",
+      "fr": "Faites une couverture d'or pur [pour l'arche], longue de deux amohs et demi et large d'un amohs et demi."
+    },
+    {
+      "ref": "Exodus 25:18",
+      "fr": "Faites deux chérubins dorés. Vous devez les fabriquer en les martelant aux deux extrémités du couvercle [de l'arche]."
+    },
+    {
+      "ref": "Exodus 25:19",
+      "fr": "Faites un chérubin d'une extrémité [côté], et un chérubin de l'autre extrémité [côté]. Avec [la même pièce d'or que] le couvercle lui-même, tu feras les chérubins sur ses deux extrémités [côtés]."
+    },
+    {
+      "ref": "Exodus 25:20",
+      "fr": "Les chérubins étendront leurs ailes vers le haut, abritant le couvercle avec leurs ailes, et les chérubins se feront face. Leurs visages seront [inclinés] vers le couvercle."
+    },
+    {
+      "ref": "Exodus 25:21",
+      "fr": "Placez le couvercle sur l'arche et placez le témoignage dans l'arche que je vous donnerai."
+    },
+    {
+      "ref": "Exodus 25:22",
+      "fr": "J'y établirai [préparerai] mes rencontres [Parole] avec vous, et je vous parlerai du haut du couvercle, d'entre les chérubins qui sont sur l'arche du témoignage. Tout ce que je vous commanderai concernant les B’nei Yisrael."
+    },
+    {
+      "ref": "Exodus 25:23",
+      "fr": "Tu feras une table en bois d'acacia, sa longueur sera de deux amohs, sa largeur sera d'un amohs et sa hauteur sera d'un amohs et demi."
+    },
+    {
+      "ref": "Exodus 25:24",
+      "fr": "Recouvrez-le d'or pur et faites un bord en forme de couronne d'or autour."
+    },
+    {
+      "ref": "Exodus 25:25",
+      "fr": "Faites un rebord de tefach [haut] autour [de la table], et faites un rebord en forme de couronne d'or autour du rebord."
+    },
+    {
+      "ref": "Exodus 25:26",
+      "fr": "Tu feras quatre anneaux d'or [pour la table], et tu placeras les anneaux aux quatre coins qui sont sur ses pieds."
+    },
+    {
+      "ref": "Exodus 25:27",
+      "fr": "Les anneaux seront contre le rebord, et ils serviront de logements [réceptacles] pour les barres avec lesquelles porter la table."
+    },
+    {
+      "ref": "Exodus 25:28",
+      "fr": "Fabriquez les poteaux en bois d'acacia et recouvrez-les d'or. La table sera portée par eux."
+    },
+    {
+      "ref": "Exodus 25:29",
+      "fr": "Faites ses plats [formes à pain], ses cuillères, ses tubes demi-creux et ses supports, par lesquels ils [les pains] seront recouverts. Make them out of pure gold."
+    },
+    {
+      "ref": "Exodus 25:30",
+      "fr": "Vous placerez les pains de proposition sur la table, devant Moi à tout moment."
+    },
+    {
+      "ref": "Exodus 25:31",
+      "fr": "Tu feras une menorah [en] d'or pur. La menorah doit être fabriquée par martelage [sa forme à partir d'une pièce d'or solide]. Sa base, son fût, ses coupes, ses boutons et ses fleurs seront de lui [la même pièce d'or]."
+    },
+    {
+      "ref": "Exodus 25:32",
+      "fr": "Six branches s'étendront sur ses côtés, trois branches de la menorah sur l'un de ses côtés et trois branches de la menorah sur le deuxième côté."
+    },
+    {
+      "ref": "Exodus 25:33",
+      "fr": "Trois coupes, gravées de motifs en amande, sur une branche, d'un pommeau et d'une fleur. Et trois coupes gravées de motifs en amande, sur une branche, d'un pommeau et d'une fleur. Telle sera [la forme] de chacune des six branches qui s'étendent de [la tige de] la menorah."
+    },
+    {
+      "ref": "Exodus 25:34",
+      "fr": "Le [hampe de la] menorah aura quatre coupes, gravées en forme d'amande, avec leurs boutons et leurs fleurs."
+    },
+    {
+      "ref": "Exodus 25:35",
+      "fr": "[Il y aura] un bouton sous les deux branches qui en sortent. [Il devrait y avoir] un [second] bouton sous les [secondes] deux branches qui en partent. [Il devrait y avoir] un [troisième] bouton sous les [troisièmes] deux branches qui en partent. [Cela est vrai] pour les six branches qui s'étendent de [la tige de] la menorah."
+    },
+    {
+      "ref": "Exodus 25:36",
+      "fr": "Leurs boutons et leurs branches seront faits de [la menorah] elle-même. Tout cela sera fait d’un seul ouvrage martelé d’or pur."
+    },
+    {
+      "ref": "Exodus 25:37",
+      "fr": "Tu feras sept lampes [pour la menorah]. et ses lampes seront allumées de manière à briller vers elle [la lampe centrale]."
+    },
+    {
+      "ref": "Exodus 25:38",
+      "fr": "Ses pinces et ses pelles à cendres seront également en or pur."
+    },
+    {
+      "ref": "Exodus 25:39",
+      "fr": "Il sera fait d'un kikar d'or pur [avec] tous ces ustensiles."
+    },
+    {
+      "ref": "Exodus 25:40",
+      "fr": "Observez [bien] et faites-les comme le modèle qui vous sera montré sur la montagne."
+    },
+    {
+      "ref": "Exodus 26:1",
+      "fr": "Tu feras [alors] le mishkon (Tabernacle) avec dix rideaux, [constitués de] fin lin retors, bleu verdâtre, rouge foncé et cramoisi [coloré] [laine]. Des figures de chérubins, œuvre d'artisan, y seront tissées."
+    },
+    {
+      "ref": "Exodus 26:2",
+      "fr": "Chaque drap aura vingt-huit amohs de long et chaque drap aura quatre amohs de large. Tous les rideaux doivent avoir la même mesure."
+    },
+    {
+      "ref": "Exodus 26:3",
+      "fr": "Cinq de ces rideaux seront assemblés [cousus] ensemble et [les] cinq autres rideaux seront assemblés [cousus] ensemble."
+    },
+    {
+      "ref": "Exodus 26:4",
+      "fr": "Faites des boucles de [laine] bleu verdâtre sur le bord du drap qui se trouve à l'extrémité [la plus intérieure] du [premier] groupe. Faites de même sur le bord du champ qui se trouve à l'extrémité [la plus intérieure] du deuxième groupe."
+    },
+    {
+      "ref": "Exodus 26:5",
+      "fr": "Faites cinquante boucles sur le bord d'un drap, et cinquante boucles sur le bord du drap qui est sur le deuxième groupe. Les boucles doivent être face à face."
+    },
+    {
+      "ref": "Exodus 26:6",
+      "fr": "Faites cinquante agrafes en or et joignez les rideaux [de chaque groupe] avec les agrafes, afin que le mishkon soit un."
+    },
+    {
+      "ref": "Exodus 26:7",
+      "fr": "Faites des rideaux de poils de chèvre pour recouvrir le mishkon. Faites onze rideaux."
+    },
+    {
+      "ref": "Exodus 26:8",
+      "fr": "La longueur de chaque drap sera de trente amohs, et la largeur de chaque drap sera de quatre amohs. Les onze rideaux doivent avoir la même mesure."
+    },
+    {
+      "ref": "Exodus 26:9",
+      "fr": "Assemblez [cousez] ensemble cinq rideaux seuls, et [les autres] six rideaux seuls. Que le sixième drap pende devant l'entrée de la tente [mishkon]."
+    },
+    {
+      "ref": "Exodus 26:10",
+      "fr": "Faites cinquante boucles sur le bord d'un drap qui est à l'extrémité [la plus intérieure] du [premier] groupe, et cinquante boucles sur le bord du drap qui est sur le deuxième groupe."
+    },
+    {
+      "ref": "Exodus 26:11",
+      "fr": "Fabriquez cinquante fermoirs en cuivre. Introduisez les fermoirs dans les boucles et joignez la tente ensemble pour en faire une seule."
+    },
+    {
+      "ref": "Exodus 26:12",
+      "fr": "L'excédent qui se chevauche [de ce qui reste] [dans la largeur] des rideaux de la tente - la moitié du drap supplémentaire recouvrira l'arrière du mishkon."
+    },
+    {
+      "ref": "Exodus 26:13",
+      "fr": "L'amoh [supplémentaire] d'un côté et l'amoh [supplémentaire] de l'autre côté qui dépassent la longueur des rideaux de la tente chevaucheront les côtés du mishkon, des deux côtés, pour le couvrir."
+    },
+    {
+      "ref": "Exodus 26:14",
+      "fr": "Faites une couverture pour la tente avec des peaux de bélier teintes en rouge, et une couverture de peaux de tachash [multicolores] par-dessus."
+    },
+    {
+      "ref": "Exodus 26:15",
+      "fr": "Fabriquez les planches du mishkon en bois d'acacia ; [ces planches doivent] se tenir debout [verticalement]."
+    },
+    {
+      "ref": "Exodus 26:16",
+      "fr": "Chaque planche aura dix amohs de long, et un amohs et demi aura la largeur de chaque planche."
+    },
+    {
+      "ref": "Exodus 26:17",
+      "fr": "Chaque planche doit avoir deux piquets [carrés], exactement parallèles les uns aux autres. Ainsi feras-tu toutes les planches du mishkon."
+    },
+    {
+      "ref": "Exodus 26:18",
+      "fr": "Faites ces planches pour le mishkon, vingt planches pour le côté sud."
+    },
+    {
+      "ref": "Exodus 26:19",
+      "fr": "Fais quarante socles d'argent et place-les sous les vingt planches. Il y aura deux douilles sous une planche [une] pour chacun des deux piquets, et deux douilles sous l'autre planche, [une] pour chacun des deux piquets."
+    },
+    {
+      "ref": "Exodus 26:20",
+      "fr": "Pour le deuxième mur du Mishkon, du côté nord, [faire aussi] vingt planches."
+    },
+    {
+      "ref": "Exodus 26:21",
+      "fr": "[Faites] leurs quarante socles d'argent, deux socles sous chaque planche, deux socles sous chaque planche."
+    },
+    {
+      "ref": "Exodus 26:22",
+      "fr": "Pour l’extrémité ouest du mishkon, faites six planches."
+    },
+    {
+      "ref": "Exodus 26:23",
+      "fr": "Faites deux planches pour les coins du mishkon à l'arrière [leurs extrémités]."
+    },
+    {
+      "ref": "Exodus 26:24",
+      "fr": "Ils doivent être couplés ensemble en bas, et ils doivent également être couplés uniformément en haut avec un anneau [carré]. Il faut donc le faire avec les deux [planches] qui sont aux deux coins."
+    },
+    {
+      "ref": "Exodus 26:25",
+      "fr": "Il y aura donc huit planches, et leurs socles d'argent, soit au total seize socles, deux socles sous chaque planche, deux socles sous chaque planche."
+    },
+    {
+      "ref": "Exodus 26:26",
+      "fr": "Tu feras des barres en bois d'acacia, cinq pour les planches d'un mur,"
+    },
+    {
+      "ref": "Exodus 26:27",
+      "fr": "et cinq barres pour les planches du deuxième mur du mishkon. [Il y aura aussi] cinq barres pour les planches du mur ouest [arrière] du mishkon."
+    },
+    {
+      "ref": "Exodus 26:28",
+      "fr": "La barre du milieu [centre] traversera les planches, renforçant les planches d'un bout à l'autre."
+    },
+    {
+      "ref": "Exodus 26:29",
+      "fr": "Tu couvriras d'or les planches, et tu feras d'or leurs anneaux pour maintenir les barres. Tu recouvriras aussi les lingots d'or."
+    },
+    {
+      "ref": "Exodus 26:30",
+      "fr": "Vous érigerez le mishkon selon ses règles. Comme on vous l'a montré sur la montagne."
+    },
+    {
+      "ref": "Exodus 26:31",
+      "fr": "Tu feras une cloison avec de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [de couleur] et du fin lin retors. Ce sera l'ouvrage d'un artisan, avec des figures de chérubins [tissées dedans]."
+    },
+    {
+      "ref": "Exodus 26:32",
+      "fr": "Placez-les [les paroches] sur quatre piliers en bois d'acacia recouverts d'or. Leurs crochets seront [aussi] en or. Ces piliers seront placés sur quatre socles en argent."
+    },
+    {
+      "ref": "Exodus 26:33",
+      "fr": "Placez les paroches sous les fermoirs [qui maintenaient les rideaux ensemble]. Apportez dans l'espace à l'intérieur [derrière] les paroissiales, l'Arche du Témoignage, et les paroissiales se diviseront pour vous entre le Saint et le Saint des Saints."
+    },
+    {
+      "ref": "Exodus 26:34",
+      "fr": "Placez le couvercle sur l'Arche du Témoignage dans le Saint des Saints."
+    },
+    {
+      "ref": "Exodus 26:35",
+      "fr": "Placez la table à l'extérieur des paroches et la menorah en face de la table, vers le côté sud du mishkon. La table doit être placée du côté nord."
+    },
+    {
+      "ref": "Exodus 26:36",
+      "fr": "Tu feras un écran pour l'entrée de la tente. [Faites-le avec] de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie [de couleur] et du lin fin retors. Ce sera un travail de brodeuse."
+    },
+    {
+      "ref": "Exodus 26:37",
+      "fr": "Fabriquez cinq piliers en bois d'acacia pour le paravent. Couvre-les d'or, et leurs crochets seront en or. Coulez-leur cinq supports en cuivre [les piliers]."
+    },
+    {
+      "ref": "Exodus 27:1",
+      "fr": "Tu feras l'autel en bois d'acacia. Il aura cinq amohs de long et cinq amohs de large. L'autel sera carré et sa hauteur sera de trois amohs."
+    },
+    {
+      "ref": "Exodus 27:2",
+      "fr": "Faites ses saillies en relief sur ses quatre coins. Ses saillies seront d'une seule pièce avec lui, et tu le recouvriras [l'autel] d'airain."
+    },
+    {
+      "ref": "Exodus 27:3",
+      "fr": "Fabriquez ses pots pour retirer ses cendres, ses pelles, ses bassins, ses crochets à chair et ses braseros. Fabriquez tous ses récipients en cuivre."
+    },
+    {
+      "ref": "Exodus 27:4",
+      "fr": "Faites-lui une grille en filet de cuivre. Sur la grille, tu feras quatre anneaux de cuivre aux quatre coins."
+    },
+    {
+      "ref": "Exodus 27:5",
+      "fr": "Placez-le sous le bord de l'autel, en le prolongeant vers le bas, de manière à ce que la grille atteigne le milieu de l'autel."
+    },
+    {
+      "ref": "Exodus 27:6",
+      "fr": "Tu feras des poteaux pour l'autel, des poteaux en bois d'acacia, et tu les couvriras de cuivre."
+    },
+    {
+      "ref": "Exodus 27:7",
+      "fr": "Placez ses barres dans les anneaux, et les barres seront des deux côtés de l'autel lorsqu'il sera porté."
+    },
+    {
+      "ref": "Exodus 27:8",
+      "fr": "Il doit s'agir d'une structure creuse construite à partir de planches. On le fera comme cela vous a été montré sur la montagne."
+    },
+    {
+      "ref": "Exodus 27:9",
+      "fr": "Tu feras l'enceinte du mishkon. Du côté sud, il y aura des rideaux pour l'enceinte, en fin lin retors. Il aura cent amohs de long d'un côté."
+    },
+    {
+      "ref": "Exodus 27:10",
+      "fr": "Elle aura vingt piliers, et ils auront vingt socles de cuivre. Les crochets et les attaches des colonnes seront en argent."
+    },
+    {
+      "ref": "Exodus 27:11",
+      "fr": "Il en sera de même du côté nord. Les tentures auront cent amohs de longueur, avec vingt colonnes et vingt bases de cuivre. Les crochets et les attaches du pilier seront en argent."
+    },
+    {
+      "ref": "Exodus 27:12",
+      "fr": "Pour la largeur de l'enceinte, du côté ouest, il y aura des rideaux de cinquante amohs. Ils auront dix piliers et dix bases."
+    },
+    {
+      "ref": "Exodus 27:13",
+      "fr": "La largeur de l'enceinte du côté est sera de cinquante amohs."
+    },
+    {
+      "ref": "Exodus 27:14",
+      "fr": "Il y aura des rideaux de quinze amohs de long sur un flanc [de l'entrée]. Ils auront trois piliers et trois bases."
+    },
+    {
+      "ref": "Exodus 27:15",
+      "fr": "L'autre flanc aura [aussi] des rideaux de quinze amohs. Eux aussi auront trois piliers et trois bases."
+    },
+    {
+      "ref": "Exodus 27:16",
+      "fr": "L'entrée de l'enceinte devra être munie d'un écran de vingt amohs. [Il sera fait de] laine bleu verdâtre, de laine rouge foncé, de laine cramoisie [de couleur] et de fin lin retors. Ce sera un travail de brodeuse. Il [le paravent] aura quatre piliers et quatre bases."
+    },
+    {
+      "ref": "Exodus 27:17",
+      "fr": "Tous les piliers autour de l'enceinte auront des bandes d'argent, des crochets d'argent et des bases de cuivre."
+    },
+    {
+      "ref": "Exodus 27:18",
+      "fr": "La longueur de l'enceinte sera de cent amohs. La largeur sera de cinquante sur cinquante amohs. La hauteur [des piliers soutenant les rideaux] de fin lin retors sera de cinq amohs, et leurs bases seront [en] cuivre."
+    },
+    {
+      "ref": "Exodus 27:19",
+      "fr": "Tous les ustensiles du mishkon dans tout son service, tous ses pieux et tous les pieux de l'enceinte, seront en cuivre."
+    }
+  ]
+}

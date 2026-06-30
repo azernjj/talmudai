@@ -1,0 +1,512 @@
+{
+  "name": "Reeh",
+  "range": "Deuteronomy 11:26-16:17",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/reeh.json",
+  "verses": [
+    {
+      "ref": "Deuteronomy 11:26",
+      "fr": "Écoutez, je place devant vous aujourd'hui une bénédiction et une malédiction."
+    },
+    {
+      "ref": "Deuteronomy 11:27",
+      "fr": "La bénédiction : que vous preniez en compte [obéissez] les commandements d'Adonoy, votre Dieu, que je vous commande aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 11:28",
+      "fr": "Et la malédiction, si vous n'écoutez pas les commandements d'Adonoy, votre Dieu, et si vous vous écartez de la voie que je vous prescris aujourd'hui, pour suivre d'autres dieux [idoles des nations] que vous ne connaissiez pas."
+    },
+    {
+      "ref": "Deuteronomy 11:29",
+      "fr": "Quand Adonoy, ton Dieu, t'aura amené dans le pays dont tu vas hériter, tu placeras les bénisseurs sur le mont Garizim et les maudits sur le mont Eival."
+    },
+    {
+      "ref": "Deuteronomy 11:30",
+      "fr": "Ne sont-ils pas de l’autre côté du Yardein et bien au-delà, sur la route du coucher du soleil ? Au pays des Cananéens qui habitent dans la plaine de la Arava, en face de Gilgol, à côté de la plaine de Moreh."
+    },
+    {
+      "ref": "Deuteronomy 11:31",
+      "fr": "Car tu traverseras le Yardein pour venir hériter du pays qu'Adonoy, ton Dieu, te donne ; vous en hériterez et vous y habiterez."
+    },
+    {
+      "ref": "Deuteronomy 11:32",
+      "fr": "Vous veillerez à accomplir tous les statuts et les lois que je vous présente aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 12:1",
+      "fr": "Ce sont là les statuts et les lois que vous veillerez à observer dans le pays qu'Adonoy, le Dieu de vos ancêtres, a donné en héritage, pendant toutes les années que vous vivrez sur ce pays."
+    },
+    {
+      "ref": "Deuteronomy 12:2",
+      "fr": "Vous devez anéantir tous les lieux où adoraient les nations dont vous héritez, leurs dieux [idoles], sur les hautes montagnes et sur les collines, et sous tout arbre à feuilles persistantes."
+    },
+    {
+      "ref": "Deuteronomy 12:3",
+      "fr": "Vous briserez leurs autels, vous briserez leurs colonnes, vous brûlerez leurs ashéras au feu, et vous couperez les statues de leurs dieux [idoles] ; et tu effaceras leur nom de ce lieu."
+    },
+    {
+      "ref": "Deuteronomy 12:4",
+      "fr": "N'agissez pas ainsi devant Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 12:5",
+      "fr": "C'est plutôt à l'endroit qu'Adonoy, votre Dieu, choisit parmi toutes vos tribus pour y établir sa présence [que sa Shekhinah habite], [à la demeure de sa Shechinah] que vous chercherez sa présence et que vous y viendrez."
+    },
+    {
+      "ref": "Deuteronomy 12:6",
+      "fr": "Vous y apporterez vos holocaustes et vos offrandes sacrées, et vos dîmes et l'élévation de vos mains, et vos gages, et vos offrandes, et les premiers-nés de votre bétail et de vos menus."
+    },
+    {
+      "ref": "Deuteronomy 12:7",
+      "fr": "Vous y mangerez devant Adonoy, votre Dieu, et vous serez heureux du montant de votre travail, vous et les membres de vos maisons, comme Adonoy, votre Dieu, vous a béni."
+    },
+    {
+      "ref": "Deuteronomy 12:8",
+      "fr": "Vous ne pouvez pas faire tout ce que nous faisons ici aujourd'hui, chacun ce qui est droit à ses yeux [devant lui]."
+    },
+    {
+      "ref": "Deuteronomy 12:9",
+      "fr": "Car vous n'êtes pas encore parvenu à la paix [le lieu de tranquillité] et au territoire qu'Adonoy, votre Dieu, vous donne."
+    },
+    {
+      "ref": "Deuteronomy 12:10",
+      "fr": "Quand vous traverserez le Yardein et vous installerez dans le pays qu'Adonoy, votre Dieu, vous attribue, et qu'il vous aura accordé la paix contre tous vos ennemis alentour, et vous vivrez en sécurité."
+    },
+    {
+      "ref": "Deuteronomy 12:11",
+      "fr": "Que le lieu où Adonoy, ton Dieu, choisisse d'y placer sa présence [Shechinah], c'est là que tu apporteras tout ce que je te commande : tes holocaustes et tes offrandes sacrées, tes dîmes et tes offrandes de mains, et tes offrandes de choix que tu promets à [devant] Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 12:12",
+      "fr": "Vous vous réjouirez en présence d'Adonoï, votre Dieu, de vous, de vos fils et de vos filles, de vos esclaves et de vos esclaves, et du Lévite qui est dans vos villes, car il n'a ni part ni territoire avec vous."
+    },
+    {
+      "ref": "Deuteronomy 12:13",
+      "fr": "Prenez garde à ne pas offrir vos holocaustes partout où vous le jugez approprié."
+    },
+    {
+      "ref": "Deuteronomy 12:14",
+      "fr": "Uniquement dans le lieu qu'Adonoy choisira au sein d'une de vos tribus, vous serez là pour offrir vos holocaustes, et vous serez là pour faire tout ce que je vous commande."
+    },
+    {
+      "ref": "Deuteronomy 12:15",
+      "fr": "Sauf si votre appétit est plein, vous pouvez abattre et manger de la viande selon la bénédiction d'Adonoy, votre Dieu, qu'il vous a donnée dans toutes vos villes ; les impurs et les purs en mangeront comme la viande du cerf et de la gazelle."
+    },
+    {
+      "ref": "Deuteronomy 12:16",
+      "fr": "Cependant, vous ne pouvez pas manger le sang ; tu le répandras sur la terre comme de l'eau."
+    },
+    {
+      "ref": "Deuteronomy 12:17",
+      "fr": "Il ne vous est pas permis de manger dans vos villes la dîme de votre grain, de votre vin et de votre huile d'olive, et des premiers-nés de votre bétail et de vos troupeaux, et de tous vos gages que vous engagez, et de vos dons et de la séparation de vos mains]."
+    },
+    {
+      "ref": "Deuteronomy 12:18",
+      "fr": "C'est plutôt devant Adonoy, ton Dieu, que tu le mangeras, à l'endroit qu'Adonoy, ton Dieu, aura choisi, toi, ton fils et ta fille, ton esclave et ta servante, et le Lévite dans tes villes. et tu seras heureux en présence d'Adonoy, ton Dieu, avec la somme de ton travail."
+    },
+    {
+      "ref": "Deuteronomy 12:19",
+      "fr": "Prenez garde à vous, de peur que vous n'abandonniez le Lévite pendant toutes vos années dans votre pays."
+    },
+    {
+      "ref": "Deuteronomy 12:20",
+      "fr": "Quand Adonoy, ton Dieu, élargit ta frontière comme Il te l’a promis, et que tu dis : « Je voudrais manger de la viande » parce que tu as un appétit pour manger de la viande ; mangez de la viande dans toute la mesure de votre appétit."
+    },
+    {
+      "ref": "Deuteronomy 12:21",
+      "fr": "Lorsque le lieu qu'Adonoy, votre Dieu, choisit pour y établir sa présence [Shechinah] est éloigné de vous, vous pourrez abattre une partie de votre bétail ou de vos petits troupeaux qu'Adonoy vous a donnés, comme je vous l'ai ordonné ; et vous mangerez dans vos villes de tout votre appétit."
+    },
+    {
+      "ref": "Deuteronomy 12:22",
+      "fr": "Seulement, comme la viande du cher et de la gazelle peut être mangée, ainsi vous pouvez la manger ; ceux qui sont rituellement impurs et ceux qui sont purs peuvent en manger ensemble."
+    },
+    {
+      "ref": "Deuteronomy 12:23",
+      "fr": "Seulement, exercez la force de ne pas manger [afin de ne pas manger] le sang, car le sang est la vie ; et ne mange pas l'esprit avec la viande."
+    },
+    {
+      "ref": "Deuteronomy 12:24",
+      "fr": "Ne le mangez pas; tu le répandras sur la terre comme de l'eau."
+    },
+    {
+      "ref": "Deuteronomy 12:25",
+      "fr": "N'en mangez pas, afin que vous puissiez jouir de la bienfaisance, ainsi que vos enfants après vous, lorsque vous ferez ce qui est droit aux yeux d'Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 12:26",
+      "fr": "Cependant, vos offrandes sacrées [dîmes] que vous aurez et vos gages, vous devrez les apporter lorsque vous viendrez à l'endroit choisi par Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 12:27",
+      "fr": "Vous exécuterez vos holocaustes, la viande et le sang, sur l'autel d'Adonoy, votre Dieu ; et le sang de vos offrandes de paix [sacrées] sera versé sur l'autel d'Adonoy, votre Dieu, puis vous mangerez la viande."
+    },
+    {
+      "ref": "Deuteronomy 12:28",
+      "fr": "Conservez et observez [obéissez] à toutes ces paroles que je vous commande, afin que vous ayez toujours du bien, ainsi que vos enfants après vous, lorsque vous faites ce qui est bien et ce qui est droit [correct et convenable devant] aux yeux d'Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 12:29",
+      "fr": "Quand Adonoy, ton Dieu, aura éliminé avant toi les nations dont tu viens là hériter ; et vous en hériterez et vous habiterez dans leur pays ;"
+    },
+    {
+      "ref": "Deuteronomy 12:30",
+      "fr": "Prenez garde à vous-même, de peur que vous ne soyez déchirés avec eux, après qu'ils aient été anéantis devant vous, et de peur que vous ne vous enquériez de leurs dieux [idoles], en disant : « Comment ces nations ont-elles adoré leurs dieux, permettez-moi de le faire aussi."
+    },
+    {
+      "ref": "Deuteronomy 12:31",
+      "fr": "Ne fais pas cela à [devant] Adonoy, ton Dieu, car tout ce qui est abominé par [distancé devant] Dieu, ce qu'Il hait, ils l'ont fait pour leurs dieux [idoles] ; car même leurs fils et leurs filles brûlent dans le feu à leurs dieux [idoles]."
+    },
+    {
+      "ref": "Deuteronomy 13:1",
+      "fr": "Tout ce que je vous commande, veillez à l'accomplir ; n’y ajoutez ni n’en soustrayez pas."
+    },
+    {
+      "ref": "Deuteronomy 13:2",
+      "fr": "Si un prophète ou un rêveur se lève parmi vous et qu'il vous donne un présage ou un miracle,"
+    },
+    {
+      "ref": "Deuteronomy 13:3",
+      "fr": "Et le présage ou le miracle arrive – celui dont il vous a parlé – en disant : « Allons après d’autres dieux [idoles d’autres nations], que vous ne connaissez pas, et servons-les. »"
+    },
+    {
+      "ref": "Deuteronomy 13:4",
+      "fr": "N'écoutez pas [n'acceptez] pas les paroles de ce prophète ou de ce rêveur, car Adonoy, votre Dieu, vous teste pour savoir si vous aimez Adonoy, votre Dieu, de tout votre cœur et de tout votre être."
+    },
+    {
+      "ref": "Deuteronomy 13:5",
+      "fr": "Après [la crainte d'] Adonoy, votre Dieu, devez-vous aller, le craindre, garder ses commandements, écouter sa voix [accepter sa parole], le servir [devant] et vous attacher à [la crainte de] lui."
+    },
+    {
+      "ref": "Deuteronomy 13:6",
+      "fr": "Et ce prophète ou ce rêveur doit être exécuté, car il a proféré une invention au sujet d'Adonoy, votre Dieu, qui vous a fait sortir du pays d'Égypte et qui vous a racheté de la maison de servitude, pour vous égarer de la voie qu'Adonoy, votre Dieu, vous a ordonné de suivre, et vous éliminerez les méchants du milieu de vous."
+    },
+    {
+      "ref": "Deuteronomy 13:7",
+      "fr": "Si quelqu’un vous incite, votre frère – fils de votre mère – ou votre fils ou votre fille, ou la femme de votre sein [alliance], ou votre voisin qui est votre âme sœur, à dire clandestinement : « Allons servir d’autres dieux [idoles d’autres nations] » que vous n’avez jamais connus – ni vous ni vos ancêtres."
+    },
+    {
+      "ref": "Deuteronomy 13:8",
+      "fr": "Des dieux [idoles] des nations qui vous entourent, qui sont près de vous ou éloignées de vous, depuis les extrémités de la terre jusqu'aux extrémités de la terre,"
+    },
+    {
+      "ref": "Deuteronomy 13:9",
+      "fr": "Ne soyez pas favorable à lui et ne l'écoutez pas ; et ne le regardez pas avec compassion, et n'ayez pas pitié et ne le couvrez pas."
+    },
+    {
+      "ref": "Deuteronomy 13:10",
+      "fr": "Car vous devez sûrement l'exécuter. Que ta main le frappe d'abord pour l'exécuter, et ensuite la main de tout le peuple."
+    },
+    {
+      "ref": "Deuteronomy 13:11",
+      "fr": "Et tu le lapideras pour qu'il meure, car il a cherché à t'égarer de la crainte d'Adonoy, ton Dieu, qui t'a fait sortir du pays d'Égypte, de la maison de servitude."
+    },
+    {
+      "ref": "Deuteronomy 13:12",
+      "fr": "Et tout Israël entendra et craindra, et ils ne commettront pas une chose aussi mauvaise que celle-ci, en vous."
+    },
+    {
+      "ref": "Deuteronomy 13:13",
+      "fr": "Si tu entends dans une de tes villes qu'Adonoy, ton Dieu, te donne où t'établir, voici ce qui suit :"
+    },
+    {
+      "ref": "Deuteronomy 13:14",
+      "fr": "« Des hommes sans scrupules [méchants] sont sortis du milieu de vous, et ils ont trompé les habitants de leur ville en disant : « Allons servir d’autres dieux [idoles d’autres nations] » que vous ne connaissez pas."
+    },
+    {
+      "ref": "Deuteronomy 13:15",
+      "fr": "Vous devez enquêter, vous renseigner et interroger minutieusement ; et si en fait le rapport est vrai et exact, cette abomination a été commise parmi vous."
+    },
+    {
+      "ref": "Deuteronomy 13:16",
+      "fr": "Vous devez certainement frapper les habitants de cette ville par l'épée ; anéantissez-le, ainsi que tout ce qu'il contient, ainsi que son bétail, par l'épée."
+    },
+    {
+      "ref": "Deuteronomy 13:17",
+      "fr": "Et tu rassembleras tout son butin sur sa place, et tu brûleras au feu la ville et tout son butin – entièrement – ​​devant Adonoy, ton Dieu ; et ce sera une ruine pour toujours, il ne sera jamais reconstruit."
+    },
+    {
+      "ref": "Deuteronomy 13:18",
+      "fr": "Ne laissez rien du cherem s'accrocher à votre main ; afin qu'Adonoy retire sa fureur croissante et vous accorde miséricorde, et il sera miséricordieux envers vous et vous multipliera comme il l'a juré à vos ancêtres"
+    },
+    {
+      "ref": "Deuteronomy 13:19",
+      "fr": "Lorsque vous écouterez la voix [acceptez la parole] d'Adonoy, votre Dieu, pour garder tous ses commandements que je vous commande aujourd'hui, pour faire ce qui est juste [avant] aux yeux d'Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Deuteronomy 14:1",
+      "fr": "Vous êtes les fils d'Adonoy, votre Dieu ; ne vous lacérez pas et ne vous rendez pas chauve entre les yeux à cause d'un mort."
+    },
+    {
+      "ref": "Deuteronomy 14:2",
+      "fr": "Car vous êtes un peuple sacré pour Adonoy, votre Dieu, et Adonoy vous a choisi pour être pour Lui un peuple précieux parmi tous les peuples qui sont à la surface de la terre."
+    },
+    {
+      "ref": "Deuteronomy 14:3",
+      "fr": "Ne mangez aucune abomination."
+    },
+    {
+      "ref": "Deuteronomy 14:4",
+      "fr": "Voici les animaux que vous mangerez : le bovin, le mouton et la chèvre ;"
+    },
+    {
+      "ref": "Deuteronomy 14:5",
+      "fr": "La gazelle, le cerf et le daim ; et le bouquetin et l'adax ; et le bœuf sauvage et le mouton sauvage."
+    },
+    {
+      "ref": "Deuteronomy 14:6",
+      "fr": "Et tout animal dont la sole est fendue, dont le sabot est véritablement fendu en deux, régurgitant [sa] rumination au sein des animaux, vous pourrez le manger."
+    },
+    {
+      "ref": "Deuteronomy 14:7",
+      "fr": "Ceux-là, cependant, ne mangent pas des régurgitateurs de rumination et des sabots fendus : le dromadaire, le chameau, le lièvre et le daman ; car ce sont des régurgitateurs de rumination, mais ils n'ont pas de semelle fendue ; ils sont rituellement impurs pour vous."
+    },
+    {
+      "ref": "Deuteronomy 14:8",
+      "fr": "Le cochon aussi, parce qu'il a la semelle fendue, mais ne rumine pas ; c'est rituellement impur pour vous. Ne mangez pas de leur chair et n'entrez pas en contact avec leurs cadavres."
+    },
+    {
+      "ref": "Deuteronomy 14:9",
+      "fr": "C'est vous qui mangerez de tout ce qui est dans l'eau : vous pourrez manger de tout ce qui a des nageoires et des écailles."
+    },
+    {
+      "ref": "Deuteronomy 14:10",
+      "fr": "Et tout ce qui n’a pas de nageoires ni d’écailles ne se mange pas ; ils sont rituellement impurs pour vous."
+    },
+    {
+      "ref": "Deuteronomy 14:11",
+      "fr": "Vous pouvez manger n’importe quel oiseau pur."
+    },
+    {
+      "ref": "Deuteronomy 14:12",
+      "fr": "Et voici ce que vous ne pouvez pas manger : le vautour fauve et le gypaète barbu et le vautour noir ;"
+    },
+    {
+      "ref": "Deuteronomy 14:13",
+      "fr": "Le ra'ah et l'ayah, et le cerf-volant selon son espèce ;"
+    },
+    {
+      "ref": "Deuteronomy 14:14",
+      "fr": "Et chaque corbeau selon son espèce ;"
+    },
+    {
+      "ref": "Deuteronomy 14:15",
+      "fr": "Et le hibou grand-duc du désert, la crécerelle, la mouette et l'épervier selon son espèce ;"
+    },
+    {
+      "ref": "Deuteronomy 14:16",
+      "fr": "Le petit hibou noir, le hibou des marais et les tinshames ;"
+    },
+    {
+      "ref": "Deuteronomy 14:17",
+      "fr": "Et la chouette légère, le vautour percnoptère et le shalach ;"
+    },
+    {
+      "ref": "Deuteronomy 14:18",
+      "fr": "Et la cigogne, et le héron selon son espèce, et les duchifas, et la chauve-souris."
+    },
+    {
+      "ref": "Deuteronomy 14:19",
+      "fr": "Et toutes les créatures volantes et rampantes sont rituellement impures pour vous ; ils ne peuvent pas être mangés."
+    },
+    {
+      "ref": "Deuteronomy 14:20",
+      "fr": "Chaque oiseau rituellement pur que vous pouvez manger."
+    },
+    {
+      "ref": "Deuteronomy 14:21",
+      "fr": "Ne mangez aucune carcasse ; donnez-le à l'étranger [incirconcis] dans vos villes et il le mangera ou le vendra à un non-Juif [étranger], car vous êtes un peuple sanctifié pour Adonoy, votre Dieu ; ne faites pas cuire un chevreau dans le lait de sa mère [lait avec de la viande]."
+    },
+    {
+      "ref": "Deuteronomy 14:22",
+      "fr": "Vous devez sûrement donner la dîme à tous les produits de vos plantations, que votre champ produit chaque année."
+    },
+    {
+      "ref": "Deuteronomy 14:23",
+      "fr": "Vous mangerez en présence d'Adonoy, votre Dieu, à l'endroit qu'il choisira pour y loger sa présence [Shechinah], la dîme de votre blé, de votre vin et de votre huile d'olive, et les premiers-nés de votre bétail et de vos menus bétails ; afin que vous appreniez à craindre Adonoy, votre Dieu, pendant toutes ces années."
+    },
+    {
+      "ref": "Deuteronomy 14:24",
+      "fr": "Si le voyage vous dépasse ; si tu ne peux pas le porter parce que l'endroit est éloigné pour toi où Adonoy, ton Dieu, choisit d'y établir sa présence [Shechinah], car Adonoy, ton Dieu, t'a béni -"
+    },
+    {
+      "ref": "Deuteronomy 14:25",
+      "fr": "vous remplacerez les pièces. Tu regrouperas les pièces dans ta main et tu iras à l'endroit qu'Adonoy, ton Dieu, aura choisi."
+    },
+    {
+      "ref": "Deuteronomy 14:26",
+      "fr": "Vous dépenserez cet argent pour tout ce que vous désirez, pour le bétail, les moutons, le vin, les boissons enivrantes [vin frais et vieilli], et pour tout ce que vous voudrez ; et vous y mangerez en présence d'Adonoy, votre Dieu, et vous vous réjouirez, vous et les membres de votre maison."
+    },
+    {
+      "ref": "Deuteronomy 14:27",
+      "fr": "Et le Lévite qui est dans votre ville, vous ne devez pas l'abandonner ; puisqu'il n'a ni part ni héritage avec vous."
+    },
+    {
+      "ref": "Deuteronomy 14:28",
+      "fr": "Au bout de trois ans, séparez toutes les dîmes de vos produits de cette année-là et mettez-les de côté dans votre ville."
+    },
+    {
+      "ref": "Deuteronomy 14:29",
+      "fr": "Le Lévite viendra, car il n'a ni part ni héritage avec toi, et le prosélyte, l'orphelin et la veuve qui sont dans ta ville, qu'ils mangent à leur faim ; afin qu'Adonoy, votre Dieu, vous bénisse dans tous les efforts que vous entreprenez."
+    },
+    {
+      "ref": "Deuteronomy 15:1",
+      "fr": "Au bout de sept ans, vous devez faire la shemitah."
+    },
+    {
+      "ref": "Deuteronomy 15:2",
+      "fr": "Et voici la déclaration de la shemitah : suspendez la main de tout créancier de son prêt à son prochain ; il ne le réclamera pas à son voisin ou à son frère parce que cela a été proclamé shemitah à [avant] Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 15:3",
+      "fr": "Tu dois exiger un paiement de l'étranger, mais ce que tu as chez ton frère, ta main le rendra."
+    },
+    {
+      "ref": "Deuteronomy 15:4",
+      "fr": "Mettez fin à cela [la pauvreté], afin qu'il n'y ait personne de démuni parmi vous quand Adonoy vous bénira sûrement dans le pays qu'Adonoy, votre Dieu, vous donne comme territoire en héritage."
+    },
+    {
+      "ref": "Deuteronomy 15:5",
+      "fr": "Seulement si vous écoutez [écoutez] la voix [parole] d'Adonoy, votre Dieu, pour veiller à accomplir toute cette mitsva que je vous commande aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 15:6",
+      "fr": "Quand Adonoy, votre Dieu, vous bénira comme Il vous l'a dit, vous accorderez des prêts aux nations mais vous n'emprunterez pas ; et tu domineras de nombreuses nations, mais elles ne domineront pas sur toi."
+    },
+    {
+      "ref": "Deuteronomy 15:7",
+      "fr": "S'il y a parmi vous un indigent parmi l'un de vos frères, dans l'une de vos villes, dans le pays qu'Adonoy, votre Dieu, vous donne ; n'endurcissez pas votre cœur et ne fermez pas votre main sur votre frère indigent."
+    },
+    {
+      "ref": "Deuteronomy 15:8",
+      "fr": "Au contraire, vous devez certainement lui ouvrir généreusement la main, et vous devez certainement lui accorder un prêt pour couvrir les besoins [la mesure de ce] qui lui manque."
+    },
+    {
+      "ref": "Deuteronomy 15:9",
+      "fr": "Prenez garde à vous-même, de peur qu'il n'y ait une mauvaise pensée dans votre esprit, disant : « La septième année approche, l'année de la shemitah », et vous ne regarderez pas de travers votre frère démuni et vous ne lui donnerez pas ; et s'il crie à ton sujet à Adonoy, tu seras considéré comme un pécheur."
+    },
+    {
+      "ref": "Deuteronomy 15:10",
+      "fr": "Vous devez sûrement le lui donner, et ne pas laisser votre cœur se blesser lorsque vous le lui donnez ; car, en conséquence de cela, Adonoy, votre Dieu, vous bénira dans tout votre travail et dans tout votre commerce."
+    },
+    {
+      "ref": "Deuteronomy 15:11",
+      "fr": "Car les indigents ne cesseront pas d'exister dans le pays ; c'est pourquoi je te commande de dire : « Ouvre généreusement ta main à ton frère, à tes indigents et à ceux qui sont sans ressources dans ton pays. »"
+    },
+    {
+      "ref": "Deuteronomy 15:12",
+      "fr": "Si votre frère, juif ou juif, vous est vendu et qu'il vous sert six ans ; puis, la septième année, tu le renverras gratuitement de chez toi."
+    },
+    {
+      "ref": "Deuteronomy 15:13",
+      "fr": "Lorsque vous lui envoyez un homme libre de votre part, ne le renvoyez pas les mains vides."
+    },
+    {
+      "ref": "Deuteronomy 15:14",
+      "fr": "Vous devez certainement lui offrir une prime de départ de vos troupeaux, de votre aire de battage et de votre cave à vin, tout ce que Adonoy, votre Dieu, vous a béni, si vous lui donnez."
+    },
+    {
+      "ref": "Deuteronomy 15:15",
+      "fr": "Souviens-toi que tu étais esclave au pays d'Égypte et qu'Adonoy, ton Dieu, t'a racheté ; c'est pourquoi je vous commande cette affaire aujourd'hui."
+    },
+    {
+      "ref": "Deuteronomy 15:16",
+      "fr": "S'il te dit : « Je ne te quitte pas », parce qu'il t'aime, toi et les membres de ta maison, car il a du bien avec toi."
+    },
+    {
+      "ref": "Deuteronomy 15:17",
+      "fr": "Prenez le poinçon et passez-le dans son oreille et dans la porte, et il deviendra votre esclave perpétuel [serviteur du ministère]. Et fais de même avec ta servante."
+    },
+    {
+      "ref": "Deuteronomy 15:18",
+      "fr": "Que cela ne vous semble pas difficile lorsque vous lui envoyez un [homme] libre de votre part, car le double [deux pour un] du profit produit par le salarié a-t-il travaillé pour vous pendant six ans ; et Adonoy, ton Dieu, te bénira dans tout ce que tu feras."
+    },
+    {
+      "ref": "Deuteronomy 15:19",
+      "fr": "Tout premier-né de votre bétail et de vos troupeaux, un mâle, vous devez le consacrer à Adonoy, votre Dieu ; vous ne pourrez pas travailler avec votre bœuf premier-né, ni tondre le premier-né de vos troupeaux."
+    },
+    {
+      "ref": "Deuteronomy 15:20",
+      "fr": "Devant Adonoy, ton Dieu, tu devras en manger, chaque année, à l'endroit qu'Adonoy choisira, toi et [les membres de] votre maison."
+    },
+    {
+      "ref": "Deuteronomy 15:21",
+      "fr": "Et s'il a un défaut, s'il est infirme ou aveugle, ou s'il a un défaut grave, ne l'égorge pas à Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Deuteronomy 15:22",
+      "fr": "Dans vos villes, puissiez-vous en manger ; ce qui est rituellement impur et ce qui est pur ensemble, comme la [viande du] cerf et la gazelle."
+    },
+    {
+      "ref": "Deuteronomy 15:23",
+      "fr": "Seulement, ne mangez pas son sang ; renversez-le comme de l’eau sur le sol."
+    },
+    {
+      "ref": "Deuteronomy 16:1",
+      "fr": "Prenez garde au mois du printemps, où vous célébrerez Pessa'h pour [devant] Adonoy votre Dieu ; car au mois du printemps Adonoy, ton Dieu, t'a fait sortir d'Egypte [et a fait des miracles pour toi] pendant la nuit."
+    },
+    {
+      "ref": "Deuteronomy 16:2",
+      "fr": "Vous égorgerez l'offrande de Pessa'h à [devant] Adonoy, votre Dieu, des troupeaux de ruminants [jeunes agneaux] et du bétail [offrandes sacrées de bœufs] à l'endroit qu'Adonoy choisira pour y abriter sa présence [Shechinah]."
+    },
+    {
+      "ref": "Deuteronomy 16:3",
+      "fr": "Ne mangez pas de ‘hometz dessus ; pendant sept jours tu mangeras dessus des matzos, pain d'angoisse ; puisque tu as quitté le pays d'Égypte en toute hâte, de sorte que tu te souviens du jour de ta sortie du pays d'Égypte tous les jours de ta vie."
+    },
+    {
+      "ref": "Deuteronomy 16:4",
+      "fr": "Et aucun levain de votre part ne sera visible pendant sept jours sur toute la longueur de votre territoire ; et aucune de la chair que vous avez abattue vers le soir du premier jour ne restera pendant la nuit, jusqu'au matin."
+    },
+    {
+      "ref": "Deuteronomy 16:5",
+      "fr": "Il vous est interdit [de n'avoir aucune permission] d'égorger la Pessa'h dans aucune de vos villes qu'Adonoy, votre Dieu, vous donne."
+    },
+    {
+      "ref": "Deuteronomy 16:6",
+      "fr": "Uniquement à l'endroit qu'Adonoy, votre Dieu, choisit pour abriter Sa Présence [Shechinah], là vous massacrerez la Pessa'h vers l'après-midi, au coucher du soleil, au moment où vous quittiez l'Egypte."
+    },
+    {
+      "ref": "Deuteronomy 16:7",
+      "fr": "Tu le cuisineras et tu le mangeras dans le lieu qu'Adonoy, ton Dieu, choisira ; et vous pourrez partir le matin et vous rendre à votre résidence."
+    },
+    {
+      "ref": "Deuteronomy 16:8",
+      "fr": "Pendant six jours, tu mangeras des matzos, et le septième jour, c'est un jour de retrait [d'assemblée], à cause d'Adonoy, ton Dieu, ne fais pas de travail."
+    },
+    {
+      "ref": "Deuteronomy 16:9",
+      "fr": "Sept semaines comptent pour vous ; à partir du moment où la faucille commence à couper le grain sur pied, commencez à compter sept semaines."
+    },
+    {
+      "ref": "Deuteronomy 16:10",
+      "fr": "Vous devez célébrer la fête de Shovuos pour [devant] Adonoy, votre Dieu, dans la plénitude de votre don à mains ouvertes que vous pouvez offrir, comme Adonoy, votre Dieu, vous a béni."
+    },
+    {
+      "ref": "Deuteronomy 16:11",
+      "fr": "Tu dois te réjouir en présence d'Adonoy, ton Dieu, toi, et ton fils et ta fille, et ton esclave et ta servante, et le Lévite qui est dans ta ville, et le prosélyte, et l'orphelin et la veuve qui sont parmi toi, dans le lieu qu'Adonoy, ton Dieu, aura choisi pour y loger sa présence [Shechinah]."
+    },
+    {
+      "ref": "Deuteronomy 16:12",
+      "fr": "Rappelez-vous que vous étiez esclave en Égypte ; vous devez garder et célébrer ces statuts."
+    },
+    {
+      "ref": "Deuteronomy 16:13",
+      "fr": "La fête de Souccot célèbre pour vous sept jours, pendant lesquels vous récoltez votre aire de battage et votre pressoir."
+    },
+    {
+      "ref": "Deuteronomy 16:14",
+      "fr": "Vous vous réjouirez pendant votre fête, vous, votre fils et votre fille, votre esclave et votre esclave, le Lévite et le prosélyte, l'orphelin et la veuve qui sont dans votre ville."
+    },
+    {
+      "ref": "Deuteronomy 16:15",
+      "fr": "Pendant sept jours, vous serez en fête pour Adonoy, votre Dieu, à l'endroit choisi par Adonoy, car Adonoy, votre Dieu, vous bénira dans tous vos produits et dans tous vos efforts ; et vous expérimenterez une pure joie."
+    },
+    {
+      "ref": "Deuteronomy 16:16",
+      "fr": "Trois fois par an, tous vos mâles seront vus en présence d'Adonoy, votre Dieu, à l'endroit qu'il choisit, à la fête de Matzos, à la fête de Shovuos et à la fête de Souccot, et il ne se présentera pas les mains vides devant Adonoy."
+    },
+    {
+      "ref": "Deuteronomy 16:17",
+      "fr": "Chacun selon le don approprié à ses moyens, selon la bénédiction d'Adonoy, votre Dieu, qu'Il vous a donnée."
+    }
+  ]
+}

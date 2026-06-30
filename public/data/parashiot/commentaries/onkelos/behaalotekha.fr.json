@@ -1,0 +1,552 @@
+{
+  "name": "Beha'alotekha",
+  "range": "Numbers 8:1-12:16",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/behaalotekha.json",
+  "verses": [
+    {
+      "ref": "Numbers 8:1",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 8:2",
+      "fr": "Parle à Aaron et dis-lui : Lorsque vous allumez les lampes vers la face de la Menorah, les sept lampes projetteront leur lumière."
+    },
+    {
+      "ref": "Numbers 8:3",
+      "fr": "Aaron l'a fait ; vers la face de la Menorah, il alluma ses lampes, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 8:4",
+      "fr": "C'est ainsi que la Menorah a été fabriquée ; battu à partir de [un bloc d'] or, depuis sa base jusqu'à ses fleurs, il est battu [à partir d'un bloc solide], selon la vision qu'Adonoy a montrée à Moshe, alors il a fait la Menorah."
+    },
+    {
+      "ref": "Numbers 8:5",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 8:6",
+      "fr": "Prenez [approchez] les Lévites parmi les Bnei Yisroel et purifiez-les."
+    },
+    {
+      "ref": "Numbers 8:7",
+      "fr": "C'est ce que tu leur feras, pour les purifier ; aspergez-les avec les eaux du sacrifice pour le péché, et faites passer un rasoir sur tout leur corps, et ils laveront leurs vêtements et se purifieront."
+    },
+    {
+      "ref": "Numbers 8:8",
+      "fr": "Ils prendront un jeune taureau et son offrande de farine pétrie à l'huile, et tu prendras un deuxième jeune taureau en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 8:9",
+      "fr": "Tu feras approcher les Lévites, devant la Tente d'assignation, et tu rassembleras toute la congrégation des Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 8:10",
+      "fr": "Vous amènerez les Lévites devant Adonoy, et les Bnei Yisroel imposeront les mains sur les Lévites."
+    },
+    {
+      "ref": "Numbers 8:11",
+      "fr": "Aharon agitera les Lévites en offrande agitée devant Adonoy de Bnei Yisroel et ils seront [chargés] d'accomplir le culte d'Adonoy."
+    },
+    {
+      "ref": "Numbers 8:12",
+      "fr": "Les Lévites poseront leurs mains sur la tête des taureaux et feront l'un pour le sacrifice d'expiation et l'autre pour l'holocauste à Adonoï, pour expier les Lévites."
+    },
+    {
+      "ref": "Numbers 8:13",
+      "fr": "Tu placeras les Lévites devant Aaron et devant ses fils, et tu les élèveras en offrande agitée à Adonoï."
+    },
+    {
+      "ref": "Numbers 8:14",
+      "fr": "Vous séparerez les Lévites du milieu des Bnei Yisroel et les Lévites seront à moi [servir devant moi]."
+    },
+    {
+      "ref": "Numbers 8:15",
+      "fr": "Après cela, les Lévites viendront travailler dans la Tente d'assignation, et tu les purifieras, et tu les élèveras en offrande agitée."
+    },
+    {
+      "ref": "Numbers 8:16",
+      "fr": "Car ils ont été donnés [ont été séparés] ; ils Me sont donnés [ont été séparés] parmi les Bnei Yisroel à la place de ceux qui ouvrent le sein, - chaque premier-né des Bnei Yisroel - Je les ai pris pour Miens."
+    },
+    {
+      "ref": "Numbers 8:17",
+      "fr": "Car tout premier-né de Bnei Yisroel est à Moi, humain et animal ; le jour où j'ai tué tous les premiers-nés du pays d'Égypte, je les ai sanctifiés pour qu'ils soient à moi."
+    },
+    {
+      "ref": "Numbers 8:18",
+      "fr": "J'ai pris les Lévites à la place de tous les premiers-nés de Bnei Yisroel,"
+    },
+    {
+      "ref": "Numbers 8:19",
+      "fr": "et j'ai donné les Lévites en cadeau à Aaron et à ses fils parmi les Bnei Yisroel pour qu'ils accomplissent les devoirs des Bnei Yisroel dans la tente d'assignation et pour expier les Bnei Yisroel, afin qu'il n'y ait pas de fléau parmi les Bnei Yisroel lorsque les Bnei Yisroel s'approcheront du sanctuaire."
+    },
+    {
+      "ref": "Numbers 8:20",
+      "fr": "Moché, Aharon et toute la congrégation des Bnei Yisroel ont fait aux Lévites tout comme Adonoy l'a ordonné à Moshe concernant les Lévites, les Bnei Yisroel leur ont fait de même."
+    },
+    {
+      "ref": "Numbers 8:21",
+      "fr": "Les Lévites se purifièrent et lavèrent leurs vêtements, et Aharon les éleva en offrande agitée devant Adonoï ; et Aharon accomplit l'expiation en leur faveur, pour les purifier."
+    },
+    {
+      "ref": "Numbers 8:22",
+      "fr": "Ensuite, les Lévites vinrent accomplir leur devoir dans la Tente d'assignation, en présence d'Aharon et en présence de ses fils ; Tout comme Adonoï l'avait ordonné à Moché concernant les Lévites, ainsi ils leur firent."
+    },
+    {
+      "ref": "Numbers 8:23",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 8:24",
+      "fr": "Cela concerne les Lévites ; à partir de vingt-cinq ans, il entrera dans la division pour les fonctions de la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 8:25",
+      "fr": "A partir de cinquante ans, il se retirera du travail et ne travaillera plus."
+    },
+    {
+      "ref": "Numbers 8:26",
+      "fr": "Mais il servira avec ses frères dans la Tente d'assignation pour veiller, et il ne fera aucun service ; c'est ainsi que tu confieras aux Lévites leurs fonctions de garde."
+    },
+    {
+      "ref": "Numbers 9:1",
+      "fr": "Adonoy parla à Moshe dans le désert du Sinaï, la deuxième année de leur exode du pays d'Égypte, le premier mois, en disant :"
+    },
+    {
+      "ref": "Numbers 9:2",
+      "fr": "Les Bnei Yisroel effectueront l'offrande de Pessa'h en temps voulu."
+    },
+    {
+      "ref": "Numbers 9:3",
+      "fr": "Le quatorzième jour de ce mois, dans l'après-midi, vous l'accomplirez en temps voulu ; vous l'exécuterez selon tous ses statuts et selon toutes ses lois [qui lui conviennent]."
+    },
+    {
+      "ref": "Numbers 9:4",
+      "fr": "Moshe a parlé à Bnei Yisroel [leur disant] d'accomplir l'offrande de Pessa'h."
+    },
+    {
+      "ref": "Numbers 9:5",
+      "fr": "Ils firent l'offrande de Pessa'h le premier [mois] [à Nissan] le quatorzième jour du mois, dans l'après-midi, dans le désert du Sinaï ; Selon tout ce qu'Adonoy a ordonné à Moshe, Bnei Yisroel a fait de même."
+    },
+    {
+      "ref": "Numbers 9:6",
+      "fr": "Il y avait des hommes qui étaient impurs, ayant eu un contact avec un cadavre, et ils ne pouvaient pas accomplir l'offrande de Pessa'h ce jour-là, et ils se sont approchés devant Moché et devant Aharon ce jour-là."
+    },
+    {
+      "ref": "Numbers 9:7",
+      "fr": "Ces hommes lui dirent : « Nous sommes impurs, ayant été en contact avec un cadavre ; pourquoi serions-nous exclus et ne pourrions-nous pas apporter l’offrande d’Adonoy en temps voulu, parmi les Bnei Yisroel ? »"
+    },
+    {
+      "ref": "Numbers 9:8",
+      "fr": "Moshe leur dit : « Levez-vous [attendez] et j’écouterai ce qu’Adonoy vous ordonnera [concernant] vous. »"
+    },
+    {
+      "ref": "Numbers 9:9",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 9:10",
+      "fr": "Parlez à Bnei Yisroel et dites : Si quelqu'un est impur à cause d'un cadavre, ou s'il se trouve sur une route lointaine, que ce soit parmi vous ou pour vos descendants, il fera le sacrifice de Pessa'h pour Adonoy."
+    },
+    {
+      "ref": "Numbers 9:11",
+      "fr": "le deuxième mois, le quatorzième jour après-midi, il l'exécutera. Ils le mangeront avec des matzoh et des herbes amères."
+    },
+    {
+      "ref": "Numbers 9:12",
+      "fr": "Ils n'en laisseront rien jusqu'au matin et ils ne briseront aucun de ses os ; ils l'accompliront selon toutes les prescriptions du sacrifice de Pessa'h."
+    },
+    {
+      "ref": "Numbers 9:13",
+      "fr": "Celui qui est pur et qui n'était pas sur la route et qui s'est abstenu d'accomplir l'offrande de Pessa'h, cette âme sera retranchée de son peuple, car il n'a pas apporté l'offrande d'Adonoy en son temps ; cette personne portera son péché."
+    },
+    {
+      "ref": "Numbers 9:14",
+      "fr": "Si un prosélyte habite parmi vous et apporte l'offrande de Pessa'h à Adonoy ; il l'accomplira selon les statues de l'offrande de Pessa'h et selon ses lois ; il y aura le même statut pour vous ; [à la fois] pour le prosélyte et pour le citoyen né dans le pays."
+    },
+    {
+      "ref": "Numbers 9:15",
+      "fr": "Le jour où le Mishkon fut érigé, la Nuée recouvrit le Mishkon [qui servait] de Tente du Témoignage ; et le soir, il y eut au-dessus du Mishkon une apparence de feu, jusqu'au matin."
+    },
+    {
+      "ref": "Numbers 9:16",
+      "fr": "Il en a toujours été ainsi, le Nuage le recouvrait, et une apparence de feu, la nuit."
+    },
+    {
+      "ref": "Numbers 9:17",
+      "fr": "Chaque fois que la Nuée était levée de la Tente, les Bnei Yisroel voyageaient ensuite ; à l'endroit où la Nuée s'est arrêtée, c'est là que Bnei Yisroel campait."
+    },
+    {
+      "ref": "Numbers 9:18",
+      "fr": "Sur la parole d'Adonoy, les Bnei Yisroel ont-ils voyagé et sur la parole d'Adonoy, ont-ils campé ? Tous ces jours où la Nuée se reposait au-dessus du Mishkon, campaient-ils."
+    },
+    {
+      "ref": "Numbers 9:19",
+      "fr": "Lorsque la Nuée restait au-dessus du Mishkon pendant plusieurs jours, les Bnei Yisroel surveillaient [la parole d'] Adonoy et ils ne voyageaient pas."
+    },
+    {
+      "ref": "Numbers 9:20",
+      "fr": "Il arrivait parfois que la Nuée restait plusieurs jours au-dessus du Mishkon ; sur ordre d'Adonoy ils campèrent et sur ordre d'Adonoy ils voyageèrent."
+    },
+    {
+      "ref": "Numbers 9:21",
+      "fr": "Il arrivait parfois que la Nuée était [là] [mais] du soir au matin, puis la Nuée se levait le matin et ils partaient ; ou, [la Nuée était là] pendant un jour et une nuit et la Nuée s'est élevée, et ils ont voyagé."
+    },
+    {
+      "ref": "Numbers 9:22",
+      "fr": "Ou deux jours ou un mois ou un an [période de temps] pendant que la Nuée prolongeait son séjour au-dessus du Mishkon pour s'y reposer ; Les Bnei Yisroel sont restés campés et ils n’ont pas voyagé ; quand le temps se levait, ils voyageaient."
+    },
+    {
+      "ref": "Numbers 9:23",
+      "fr": "Sur l'ordre d'Adonoy ils campèrent et sur l'ordre de [la parole d'] Adonoy ils partirent ; ils gardaient la garde d'Adonoy sur ordre d'Adonoy, par l'intermédiaire de Moshe."
+    },
+    {
+      "ref": "Numbers 10:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 10:2",
+      "fr": "Fabrique-toi deux trompettes d'argent ; vous les fabriquerez, battus [d'un seul bloc], et vous les utiliserez pour convoquer l'assemblée et initier le départ des camps."
+    },
+    {
+      "ref": "Numbers 10:3",
+      "fr": "Lorsqu'on les soufflera, toute l'assemblée se présentera à vous à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 10:4",
+      "fr": "Mais s’ils frappent l’un d’eux, les chefs des milliers d’Israël se présenteront à vous."
+    },
+    {
+      "ref": "Numbers 10:5",
+      "fr": "Quand vous soufflez un teruah [un son de gémissement] ; les camps qui campent vers l'est partiront."
+    },
+    {
+      "ref": "Numbers 10:6",
+      "fr": "Si vous sonnez une seconde teruah, alors vous parcourrez les camps qui campent du côté sud. Ils sonneront du teruah pour leurs voyages."
+    },
+    {
+      "ref": "Numbers 10:7",
+      "fr": "Mais lorsque vous rassemblerez l'assemblée, vous sonnerez, mais pas de teruah."
+    },
+    {
+      "ref": "Numbers 10:8",
+      "fr": "Les fils d'Aharon, les cohanim, sonneront des trompettes. Ceci sera pour toi une loi éternelle, pour toute ta descendance."
+    },
+    {
+      "ref": "Numbers 10:9",
+      "fr": "Si la guerre éclate dans votre pays contre l'oppresseur qui vous opprime et que vous sonnez des teruahs [lamentez] avec les trompettes, et vous serez rappelés [votre souvenir viendra avec profit] devant Adonoy, votre Dieu, et vous serez délivrés de vos ennemis."
+    },
+    {
+      "ref": "Numbers 10:10",
+      "fr": "Lors de vos jours de joie, lors de vos fêtes et au début de vos mois, vous sonnerez des trompettes pour vos holocaustes et pour vos offrandes de paix ; et ce sera pour vous un souvenir devant votre Dieu, je suis Adonoy votre Dieu."
+    },
+    {
+      "ref": "Numbers 10:11",
+      "fr": "C'est la deuxième année, le vingtième jour du deuxième mois, que la Nuée s'est élevée au-dessus du Mishkon du Témoignage."
+    },
+    {
+      "ref": "Numbers 10:12",
+      "fr": "Les Bnei Yisroel ont voyagé pendant leur voyage depuis le désert du Sinaï, et la Nuée s'est arrêtée dans le désert de Paran."
+    },
+    {
+      "ref": "Numbers 10:13",
+      "fr": "C'était la première fois qu'ils voyageaient, sur ordre d'Adonoy, à travers Moshe."
+    },
+    {
+      "ref": "Numbers 10:14",
+      "fr": "Alors la bannière des fils du camp de Juda marchait en première ligne, selon leurs divisions ; Nachshon, fils d'Aminadav, était à la tête de ses divisions."
+    },
+    {
+      "ref": "Numbers 10:15",
+      "fr": "Le responsable de la division de la tribu des fils d'Yissacar était Nesanel, fils de Tzu'ar."
+    },
+    {
+      "ref": "Numbers 10:16",
+      "fr": "Eliav, fils de Cheilon, était chargé de la division de la tribu des fils de Zevulun."
+    },
+    {
+      "ref": "Numbers 10:17",
+      "fr": "[Puis] le Mishkon fut démantelé et les fils de Gershon partirent, avec les fils de Merori, ceux qui portaient le Mishkon."
+    },
+    {
+      "ref": "Numbers 10:18",
+      "fr": "[Puis] la bannière du camp de Reuven partit, selon leurs divisions. Le responsable de sa division [était] Elitzur, fils de Shdeiur."
+    },
+    {
+      "ref": "Numbers 10:19",
+      "fr": "Shlumiel, fils de Tzurishadai, était responsable de la division de la tribu des fils de Shimon."
+    },
+    {
+      "ref": "Numbers 10:20",
+      "fr": "Elyasaf, fils de De'uel, était chargé de la division de la tribu des fils de Gad."
+    },
+    {
+      "ref": "Numbers 10:21",
+      "fr": "[Puis] la famille Kehos a voyagé, les porteurs du sacré, et ils ont érigé le Mishkon au moment de leur arrivée."
+    },
+    {
+      "ref": "Numbers 10:22",
+      "fr": "[Puis] la bannière des fils du camp d’Éphraïm se déplaçait selon leurs divisions. Elishamah, fils d'Amihud, était chargé de sa division."
+    },
+    {
+      "ref": "Numbers 10:23",
+      "fr": "Gamliel, fils de Pedahtzur, était chargé de la division de la tribu des fils de Ménaché."
+    },
+    {
+      "ref": "Numbers 10:24",
+      "fr": "Avidan, fils de Gid'oni, était chargé de la division de la tribu des fils de Binyamin."
+    },
+    {
+      "ref": "Numbers 10:25",
+      "fr": "[Puis] la bannière des fils du camp de Don partit ; le rassembleur pour tous les camps, selon leurs divisions. Achiézer, fils d'Amishadaï, était chargé de sa division."
+    },
+    {
+      "ref": "Numbers 10:26",
+      "fr": "Le chef de la division de la tribu des fils d'Aser était Pagiel, fils d'Ochran."
+    },
+    {
+      "ref": "Numbers 10:27",
+      "fr": "Achira, fils d'Einan, était chargé de la division de la tribu des fils de Naftali."
+    },
+    {
+      "ref": "Numbers 10:28",
+      "fr": "Tels sont les voyages des Bnei Yisroel selon leurs divisions ; et ils ont voyagé."
+    },
+    {
+      "ref": "Numbers 10:29",
+      "fr": "Moshe dit à Chovav, fils de Reuel, le Madianite, beau-père de Moshe : « Nous nous rendons à l'endroit dont Adonoy a dit : 'Je te le donnerai', viens avec nous et nous te traiterons bien, car Adonoy a parlé d'apporter la bonne [fortune] à Israël."
+    },
+    {
+      "ref": "Numbers 10:30",
+      "fr": "Il lui dit : « Je n’irai pas, mais j’irai plutôt vers mon pays et vers mon lieu de naissance »."
+    },
+    {
+      "ref": "Numbers 10:31",
+      "fr": "Il lui dit : « S'il te plaît, ne nous abandonne pas, car, parce que tu connais notre campement dans le désert, et tu seras nos yeux [les grandes choses qui ont été faites pour nous, tu as vu de tes yeux]."
+    },
+    {
+      "ref": "Numbers 10:32",
+      "fr": "Il arrivera que lorsque vous partirez avec nous, ce sera que le bien même qu'Adonoy nous accordera, nous vous l'accorderons (le partagerons avec)."
+    },
+    {
+      "ref": "Numbers 10:33",
+      "fr": "Ils partirent de la montagne d'Adonoy [sur laquelle la gloire d'Hachem fut révélée] un voyage de trois jours, et l'Arche de l'Alliance d'Adonoy fit devant eux un voyage de trois jours, pour leur préparer un lieu où s'établir."
+    },
+    {
+      "ref": "Numbers 10:34",
+      "fr": "La nuée [de la gloire] d'Adonoy était au-dessus d'eux le jour lorsqu'ils quittaient le camp."
+    },
+    {
+      "ref": "Numbers 10:35",
+      "fr": "Chaque fois que l’Arche partait, Moshe disait : « Lève-toi, [révèle-toi] Adonoy, et que tes ennemis se dispersent, et que ceux qui te haïssent fuient devant toi. »"
+    },
+    {
+      "ref": "Numbers 10:36",
+      "fr": "Quand il se reposait, il disait : « Repose-toi, Adonoy, [habite dans ta gloire] parmi les myriades et les milliers d’Israël. »"
+    },
+    {
+      "ref": "Numbers 11:1",
+      "fr": "Les gens étaient comme des râleurs ; [c'était] méchant aux oreilles d'[avant] Adonoy. Adonoy a entendu [devant Hachem, cela a été révélé] et sa colère a éclaté et le feu [d'avant] Adonoy a brûlé parmi eux et a consumé [certains] des parias du camp."
+    },
+    {
+      "ref": "Numbers 11:2",
+      "fr": "Les gens ont crié à Moshe, et Moshe a prié Adonoy, et le feu s'est calmé."
+    },
+    {
+      "ref": "Numbers 11:3",
+      "fr": "Il donna à ce lieu le nom de Taveirah, car c'était là que brûlait parmi eux le feu d'Adonoy."
+    },
+    {
+      "ref": "Numbers 11:4",
+      "fr": "La collection [de nationalités] parmi eux commença à avoir de fortes envies [à faire des demandes], et les Bnei Yisroel se retournèrent et se mirent à pleurer ; et ils dirent : « Qui nous donnera de la viande ?"
+    },
+    {
+      "ref": "Numbers 11:5",
+      "fr": "Nous nous souvenons du poisson que nous mangions librement en Égypte ; les concombres, les pastèques, les poireaux, les oignons et l'ail."
+    },
+    {
+      "ref": "Numbers 11:6",
+      "fr": "Maintenant nos corps sont flétris, il n’y a plus rien du tout, sauf la manne sous nos yeux."
+    },
+    {
+      "ref": "Numbers 11:7",
+      "fr": "La manne ressemblait à une graine de coriandre et ressemble à l’apparence d’un cristal."
+    },
+    {
+      "ref": "Numbers 11:8",
+      "fr": "Les gens [simplement] se promenaient et ils le ramassaient et [s'ils le voulaient] ils le broyaient avec une meule ou [s'ils le voulaient] l'écrasaient dans des mortiers et le cuisaient dans des pots et en faisaient des gâteaux. Son goût ressemblait à celui d’un gâteau pétri avec de l’huile."
+    },
+    {
+      "ref": "Numbers 11:9",
+      "fr": "Quand la rosée descendait sur le camp, la nuit, la manne descendait dessus."
+    },
+    {
+      "ref": "Numbers 11:10",
+      "fr": "Moshe entendait les gens pleurer selon leurs familles, à la porte de la tente de chacun. La colère d’Adonoy fut grandement excitée et aux yeux de Moshe, c’était maléfique."
+    },
+    {
+      "ref": "Numbers 11:11",
+      "fr": "Moshe dit à Adonoy : « Pourquoi as-tu mal traité ton serviteur, et pourquoi n'ai-je pas trouvé grâce à tes yeux que tu me fasses porter le fardeau de tout le peuple ?"
+    },
+    {
+      "ref": "Numbers 11:12",
+      "fr": "Ai-je conçu [suis-je le père de] ce peuple tout entier ? l'ai-je mis au monde [sont-ils mes enfants] pour que tu me dises : porte-le [avec force] sur tes genoux comme une nourrice porte un enfant, vers le pays que tu as juré à leurs ancêtres ?"
+    },
+    {
+      "ref": "Numbers 11:13",
+      "fr": "D’où ai-je de la viande à donner à tout ce peuple à cause de quoi ils me crient en disant : « Donne-nous de la viande et nous mangerons. »"
+    },
+    {
+      "ref": "Numbers 11:14",
+      "fr": "Moi seul, je ne peux pas porter ce peuple tout entier, car il me pèse trop."
+    },
+    {
+      "ref": "Numbers 11:15",
+      "fr": "Si c'est ainsi que Tu me traites, tue-moi, s'il te plaît, si j'ai trouvé grâce à Tes yeux ; afin que je ne voie pas mon mal."
+    },
+    {
+      "ref": "Numbers 11:16",
+      "fr": "Adonoy dit à Moshe : « Rassemble devant Moi soixante-dix hommes, parmi les anciens d'Israël, [des hommes] que tu sais être les anciens du peuple et ses officiers, et tu les emmèneras à la Tente d'assignation, et ils se tiendront là avec toi."
+    },
+    {
+      "ref": "Numbers 11:17",
+      "fr": "Je descendrai [apparaîtrai] et je parlerai là avec vous, et j'augmenterai l'esprit qui est sur vous, et je le placerai sur eux, et ils porteront avec vous le fardeau du peuple afin que vous n'ayez pas à le porter seul."
+    },
+    {
+      "ref": "Numbers 11:18",
+      "fr": "Vous direz au peuple : préparez-vous pour le lendemain et mangez de la viande, car vous avez crié aux oreilles d'Adonoy, en disant : « Qui nous donnera de la viande, nous l'avons eue bonne en Égypte ? [maintenant] Adonoy te donne de la viande et tu mangeras."
+    },
+    {
+      "ref": "Numbers 11:19",
+      "fr": "Vous ne mangerez pas un jour, ni deux jours ; ni pendant cinq jours, ni pendant dix jours, ni pendant vingt jours."
+    },
+    {
+      "ref": "Numbers 11:20",
+      "fr": "Mais plutôt pendant un mois de jours, jusqu'à ce que cela sorte de vos narines [vous dégoûtera] et cela vous répugnera ; [C'est] parce que vous avez rejeté [la parole d'] Adonoy, qui [la Chechinah habite] est parmi vous, et vous avez crié devant Lui, disant : « Pourquoi sommes-nous sortis d'Egypte ?"
+    },
+    {
+      "ref": "Numbers 11:21",
+      "fr": "Moshe dit : « Je suis au nombre de six cent mille personnes à pied et tu dis que je leur donnerai de la viande pour qu'ils en mangent pendant un mois ?"
+    },
+    {
+      "ref": "Numbers 11:22",
+      "fr": "Les moutons et les bovins seront-ils abattus pour eux, est-ce que cela leur suffirait ? Si tous les poissons de la mer étaient ramassés pour eux, cela leur suffirait-il ?"
+    },
+    {
+      "ref": "Numbers 11:23",
+      "fr": "Adonoy dit à Moshe : \"La main [la parole] d'Adonoy peut-elle devenir courte [être retenue] ? Maintenant tu verras si Mes paroles te viendront à l'esprit ou non.\""
+    },
+    {
+      "ref": "Numbers 11:24",
+      "fr": "Moshe sortit et rapporta les paroles d'Adonoy au peuple. Il rassembla soixante-dix hommes parmi les anciens du peuple et les fit placer autour de la tente."
+    },
+    {
+      "ref": "Numbers 11:25",
+      "fr": "Adonoy descendit [apparut] dans une nuée et lui parla, et il magnifia l'esprit qui était sur lui et il le donna aux soixante-dix hommes, [qui étaient] les anciens. Lorsque l’esprit [de prophétie] s’est posé sur eux, ils ont prophétisé et ils n’ont pas cessé."
+    },
+    {
+      "ref": "Numbers 11:26",
+      "fr": "Deux personnes sont restées dans le camp ; le nom de l’un était Eldad et le second s’appelait Meidad. L'esprit [de prophétie] reposait sur eux ; ils étaient parmi les inscrits, et ils ne sortirent pas à la tente, et ils prophétisèrent dans le camp."
+    },
+    {
+      "ref": "Numbers 11:27",
+      "fr": "Le jeune courut le dire à Moshe et lui dit : « Eldad et Meidad prophétisent dans le camp. »"
+    },
+    {
+      "ref": "Numbers 11:28",
+      "fr": "Yehoshua, fils de Noun, répondit, [il était] le serviteur de Moshe, depuis sa jeunesse, et il dit : « Mon maître Moshe, détruis-les [attache-les] !"
+    },
+    {
+      "ref": "Numbers 11:29",
+      "fr": "Moshe lui dit : \"Es-tu vengeur de moi ? Serait-ce que tous les gens d'Adonoy étaient des prophètes, qu'Adonoy donnerait son Esprit sur eux.\""
+    },
+    {
+      "ref": "Numbers 11:30",
+      "fr": "Moïse entra dans le camp, lui et les anciens d'Israël."
+    },
+    {
+      "ref": "Numbers 11:31",
+      "fr": "Devant Adonoy, il y eut une rafale de vent qui fit voler des cailles de la mer et les étala sur le camp, à environ une journée de voyage d'un côté et à environ une journée de voyage de l'autre côté, autour du camp et à environ deux distances au-dessus de la surface du sol."
+    },
+    {
+      "ref": "Numbers 11:32",
+      "fr": "Le peuple se leva toute la journée, toute la nuit et toute la journée suivante, et ils rassemblèrent les cailles. Celui qui en avait ramassé le moins en rassemblait dix tas et ils les répartissaient autour du camp."
+    },
+    {
+      "ref": "Numbers 11:33",
+      "fr": "La viande était encore entre leurs dents avant qu'elle ne soit [même] finie, lorsque la colère d'Adonoy fut excitée contre le peuple, et Adonoy frappa le peuple d'un énorme coup."
+    },
+    {
+      "ref": "Numbers 11:34",
+      "fr": "Il donna à cet endroit le nom de Kivros Hataavoh [Tombes des demandeurs], car c'était là qu'on enterrait les gens qui avaient ces envies."
+    },
+    {
+      "ref": "Numbers 11:35",
+      "fr": "De Kivros Hataavoh, les gens se rendirent à Chatzeiros et restèrent à Chatzeiros."
+    },
+    {
+      "ref": "Numbers 12:1",
+      "fr": "Miriam et Aharon ont parlé de Moshe concernant la femme Koushite [belle] qu'il a épousée, car il a épousé [renvoyée] une femme Koushite [belle]."
+    },
+    {
+      "ref": "Numbers 12:2",
+      "fr": "Ils dirent : \"Est-ce seulement à Moché qu'Adonoy a parlé ? N'a-t-il pas aussi parlé avec nous ?\" et [on l'a entendu auparavant] Adonoy a entendu."
+    },
+    {
+      "ref": "Numbers 12:3",
+      "fr": "L’homme, Moshe [était] le plus humble, plus que toute autre personne sur la surface de la terre."
+    },
+    {
+      "ref": "Numbers 12:4",
+      "fr": "Adonoy dit tout à coup à Moché, Aharon et Miriam : « Sortez tous les trois à la Tente du Rendez-vous », et ils sortirent tous les trois."
+    },
+    {
+      "ref": "Numbers 12:5",
+      "fr": "Adonoy descendit [apparut] dans une colonne de nuée et se tint à l'entrée de la tente, et il appela Aaron et Miriam, et tous deux sortirent."
+    },
+    {
+      "ref": "Numbers 12:6",
+      "fr": "Il dit : \" S'il vous plaît, écoutez Mes paroles. S'il y a un prophète parmi vous, [Moi,] Adonoy, Je Me ferai connaître à lui dans une vision ; dans un rêve Je lui parlerai."
+    },
+    {
+      "ref": "Numbers 12:7",
+      "fr": "Ce n’est pas le cas de Mon serviteur Moshe ; dans toute Ma maison, on lui fait confiance."
+    },
+    {
+      "ref": "Numbers 12:8",
+      "fr": "Bouche [haut-parleur] à bouche [haut-parleur] Je lui parle [avec] lui, dans une vision et non par des énigmes ; he gazes at the [glorious] likeness of Adonoy; alors pourquoi n'as-tu pas peur de parler de Mon serviteur, de Moshe ?"
+    },
+    {
+      "ref": "Numbers 12:9",
+      "fr": "La colère d’Adonoy s’est enflammée contre eux et il est parti."
+    },
+    {
+      "ref": "Numbers 12:10",
+      "fr": "La nuée s’éloigna du sommet de la tente et voici ! Miriam fut affligée de tsora'as blanches comme neige ; Et Aharon se tourna vers Miriam et voici, elle était atteinte de tsora'as."
+    },
+    {
+      "ref": "Numbers 12:11",
+      "fr": "Aharon dit à Moshe : « Oh, mon maître, s'il te plaît, ne nous impute pas l'iniquité pour ce que nous avons bêtement fait et pour ce que nous avons transgressé."
+    },
+    {
+      "ref": "Numbers 12:12",
+      "fr": "S'il vous plaît, qu'elle ne soit pas comme les mortes [séparées du milieu de nous car elle est notre sœur] ; Que, puisqu’il est sorti du sein de sa mère, ce serait comme si la moitié de sa propre chair était consumée [priez maintenant pour cette chair morte qui est en elle, afin qu’elle soit guérie].”"
+    },
+    {
+      "ref": "Numbers 12:13",
+      "fr": "Moshe a crié [dans la prière] à Adonoy, en disant : « S'il te plaît, Dieu, s'il te plaît, guéris-la. »"
+    },
+    {
+      "ref": "Numbers 12:14",
+      "fr": "Adonoy dit à Moshe : \" Si son père lui crachait au visage [la châtiait fortement], n'aurait-elle pas honte pendant sept jours ? Elle sera enfermée pendant sept jours, au-delà du camp, et après cela, elle pourra le rejoindre à nouveau. \""
+    },
+    {
+      "ref": "Numbers 12:15",
+      "fr": "Miriam resta enfermée au-delà du camp pendant sept jours, et le peuple ne partit que lorsque Miriam fut amenée pour les rejoindre."
+    },
+    {
+      "ref": "Numbers 12:16",
+      "fr": "Après cela, les gens sont partis de Chatzeiros et ont campé dans le désert de Paran."
+    }
+  ]
+}

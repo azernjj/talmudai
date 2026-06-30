@@ -1,0 +1,512 @@
+{
+  "name": "Lekh Lekha",
+  "range": "Genesis 12:1-17:27",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/lekh-lekha.json",
+  "verses": [
+    {
+      "ref": "Genesis 12:1",
+      "fr": "Adonoy dit à Avram : Quitte ton pays, ton lieu de naissance et la maison de ton père, [et va] vers le pays que je te montrerai."
+    },
+    {
+      "ref": "Genesis 12:2",
+      "fr": "Je ferai de toi une grande nation, je te bénirai et je rendrai ton nom grand ; et tu seras une bénédiction [et tu seras béni]."
+    },
+    {
+      "ref": "Genesis 12:3",
+      "fr": "Je bénirai ceux qui te béniront, et celui qui te maudira, je le maudirai ; et par toi [et grâce à toi], seront bénies toutes les familles de la terre."
+    },
+    {
+      "ref": "Genesis 12:4",
+      "fr": "Avram partit comme Adonoï le lui avait dit, et Lot l'accompagna. Avram avait soixante-quinze ans lorsqu'il quitta Charan."
+    },
+    {
+      "ref": "Genesis 12:5",
+      "fr": "Avram prit sa femme Saraï, Lot, le fils de son frère, tous leurs biens qu'ils avaient acquis et les âmes [les gens] qu'ils avaient converties à Charan, et ils partirent pour le pays de Canaan. Ils arrivèrent au pays de Canaan."
+    },
+    {
+      "ref": "Genesis 12:6",
+      "fr": "Avram traversa le pays jusqu'à Sichem, jusqu'à la plaine de Moreh. Les Cananéens étaient alors dans le pays."
+    },
+    {
+      "ref": "Genesis 12:7",
+      "fr": "Adonoy apparut à Avram et dit : Je donnerai ce pays à vos descendants. Là, il bâtit un autel à Adonoy qui lui était apparu."
+    },
+    {
+      "ref": "Genesis 12:8",
+      "fr": "De là, il se dirigea vers la montagne qui était à l'est de Beis-Eil et dressa sa tente. Beis-Eil était à l'ouest et Aï à l'est. Là, il bâtit un autel à [devant] Adonoy, et il proclama le Nom, [et il pria au nom] Adonoy."
+    },
+    {
+      "ref": "Genesis 12:9",
+      "fr": "Avram voyagea régulièrement vers le sud."
+    },
+    {
+      "ref": "Genesis 12:10",
+      "fr": "Il y avait une famine dans le pays. Avram descendit en Égypte pour y vivre temporairement, car la famine régnait dans le pays."
+    },
+    {
+      "ref": "Genesis 12:11",
+      "fr": "Alors qu'il s'approchait et s'apprêtait à entrer en Égypte, il dit à sa femme Saraï : Voici, je comprends maintenant que tu es une femme de belle apparence."
+    },
+    {
+      "ref": "Genesis 12:12",
+      "fr": "Il arrivera que lorsque les Égyptiens vous verront, ils diront : Voici sa femme. Ils me tueront et te laisseront vivre."
+    },
+    {
+      "ref": "Genesis 12:13",
+      "fr": "S'il te plaît [Maintenant] dis [donc] que tu es ma sœur, afin que tout se passe bien pour moi à cause de toi, et que ma vie soit épargnée à cause de toi [par tes paroles]."
+    },
+    {
+      "ref": "Genesis 12:14",
+      "fr": "Et c'est quand Avram entra en Égypte que les Égyptiens aperçurent la femme, parce qu'elle était très belle."
+    },
+    {
+      "ref": "Genesis 12:15",
+      "fr": "Les fonctionnaires du Pharaon la virent et la louèrent auprès du Pharaon. La femme fut emmenée chez Pharaon."
+    },
+    {
+      "ref": "Genesis 12:16",
+      "fr": "Il a bien traité Avram pour elle. Il acquit ainsi des moutons, des bœufs, des ânes, des esclaves, des esclaves, des ânes et des chamelles."
+    },
+    {
+      "ref": "Genesis 12:17",
+      "fr": "Adonoï frappa Pharaon de graves plaies, ainsi que sa maison, à cause de Saraï, la femme d'Avram."
+    },
+    {
+      "ref": "Genesis 12:18",
+      "fr": "Pharaon appela Avram et lui dit : Qu'est-ce que tu m'as fait ? Pourquoi ne m'as-tu pas dit qu'elle était ta femme ?"
+    },
+    {
+      "ref": "Genesis 12:19",
+      "fr": "Pourquoi as-tu dit : C'est ma sœur, pour que je la prenne pour femme ? Maintenant, voici votre femme, prenez-la et partez."
+    },
+    {
+      "ref": "Genesis 12:20",
+      "fr": "Pharaon lui assigna des hommes qui l'accompagnèrent, lui et sa femme, et tout ce qui lui appartenait."
+    },
+    {
+      "ref": "Genesis 13:1",
+      "fr": "Avram monta d'Egypte ; lui, sa femme et tout ce qu'il possédait, avec Lot dans le sud."
+    },
+    {
+      "ref": "Genesis 13:2",
+      "fr": "Avram était très riche en bétail, en argent et en or."
+    },
+    {
+      "ref": "Genesis 13:3",
+      "fr": "Il poursuivit son voyage depuis le sud jusqu'à Beis-Eil, jusqu'à l'endroit où il avait initialement [installé] sa tente, entre Beis-Eil et Aï."
+    },
+    {
+      "ref": "Genesis 13:4",
+      "fr": "À l'emplacement de l'autel qu'il y fit d'abord ; et là Avram appela [pria] au nom d'Adonoy."
+    },
+    {
+      "ref": "Genesis 13:5",
+      "fr": "Lot qui accompagnait Avram avait aussi des moutons, du bétail et des tentes."
+    },
+    {
+      "ref": "Genesis 13:6",
+      "fr": "Le pays ne pouvait pas leur permettre d'habiter ensemble, car leur richesse était si grande qu'ils ne pouvaient pas habiter ensemble."
+    },
+    {
+      "ref": "Genesis 13:7",
+      "fr": "Il y eut une querelle entre les bergers des troupeaux d’Avram et les bergers des troupeaux de Lot. Les Cananéens et les Phéréziens vivaient alors dans le pays."
+    },
+    {
+      "ref": "Genesis 13:8",
+      "fr": "Avram dit à Lot : S'il te plaît [Maintenant], qu'il n'y ait pas de conflit entre moi et toi, ni entre mes bergers et les tiens, car nous sommes parents."
+    },
+    {
+      "ref": "Genesis 13:9",
+      "fr": "N'est-ce pas tout le pays qui est devant toi ? S'il vous plaît [Maintenant] séparez-vous de moi, si [vous allez] à gauche [nord], j'[irai] à droite [sud], et si [vous allez] à droite [sud], j'[irai] à gauche [nord]."
+    },
+    {
+      "ref": "Genesis 13:10",
+      "fr": "Lot leva les yeux et vit toute la plaine du Jourdain, qui était abondamment arrosée ; Avant qu'Adonoy ne détruisît Sédom et Amora, c'était comme le jardin d'Adonoy, comme le pays d'Égypte, en direction de Tsoar."
+    },
+    {
+      "ref": "Genesis 13:11",
+      "fr": "Lot s'est choisi toute la plaine du Jourdain ; Lot venait de l'Orient, et ils se séparèrent l'un de l'autre."
+    },
+    {
+      "ref": "Genesis 13:12",
+      "fr": "Avram vivait au pays de Canaan ; et Lot habita dans les villes de la plaine, dressant ses tentes jusqu'à Sedom."
+    },
+    {
+      "ref": "Genesis 13:13",
+      "fr": "Les habitants de Sédom étaient extrêmement méchants [avec leurs biens] et pécheurs [avec leurs corps] envers [avant] Adonoy."
+    },
+    {
+      "ref": "Genesis 13:14",
+      "fr": "Adonoy dit à Avram après que Lot se fut séparé de lui : Levez les yeux et regardez autour de vous, depuis l'endroit où vous êtes, vers le nord, vers le sud, vers l'est et vers l'ouest."
+    },
+    {
+      "ref": "Genesis 13:15",
+      "fr": "Pour tout le pays que tu vois, je le donne à toi et à ta descendance pour toujours."
+    },
+    {
+      "ref": "Genesis 13:16",
+      "fr": "Je rendrai ta descendance [nombreuse] comme la poussière de la terre ; de sorte que si un homme peut compter la poussière de la terre, alors vos descendants seront également dénombrables [tout comme il est impossible à un homme de compter la poussière de la terre, de même vos descendants ne seront pas dénombrables]."
+    },
+    {
+      "ref": "Genesis 13:17",
+      "fr": "Lève-toi, parcourt le pays dans toute sa longueur et sa largeur, car je te le donnerai."
+    },
+    {
+      "ref": "Genesis 13:18",
+      "fr": "Avram dressa sa tente, et il vint s'installer dans les plaines de Mamrei qui sont à Chevron, et il y construisit un autel à [devant] Adonoy."
+    },
+    {
+      "ref": "Genesis 14:1",
+      "fr": "Cela s'est produit aux jours d'Amraphel, roi de Shinar [Babylone], d'Aryoch, roi d'Elasar, de Kedorlaomer, roi d'Ailam, et de Tidal, roi de Goyim [roi des peuples]."
+    },
+    {
+      "ref": "Genesis 14:2",
+      "fr": "Ils firent la guerre à Béra, roi de Sédom, à Birsha, roi d'Amora, à Shinav, roi d'Adma, à Shemeiver, roi de Tsévoyim, et au roi de Béla, qui est Tsoar."
+    },
+    {
+      "ref": "Genesis 14:3",
+      "fr": "Tous ceux-ci se sont réunis [assemblés] dans la vallée de Siddim [la plaine des champs], qui est [maintenant] [le lieu de] la mer Salée."
+    },
+    {
+      "ref": "Genesis 14:4",
+      "fr": "[Pendant] douze ans, ils furent au service de Kedorlaomer, et pendant treize ans ils se révoltèrent."
+    },
+    {
+      "ref": "Genesis 14:5",
+      "fr": "La quatorzième année, Kedorlaomer se réunit avec les rois qui étaient avec lui et ils vainquirent les Rephaïm [les puissants] à Ashteros Karnayim, les Zuzim [les puissants] à Ham, les Aimim [ceux qui incitent à la peur] à Shaveh Kiryasayim,"
+    },
+    {
+      "ref": "Genesis 14:6",
+      "fr": "Et les Chorites dans leurs collines de Séir, jusqu'à Eil [la plaine de] Paran, qui touche au désert."
+    },
+    {
+      "ref": "Genesis 14:7",
+      "fr": "Ils rebroussèrent chemin et arrivèrent à Ein Mishpat [la plaine du compromis] qui est Kadeish [Rekem], et ils frappèrent tout le territoire d'Amaleik, ainsi que les Émoréens qui vivaient à Chazazon Tamar [Ein Gedi]."
+    },
+    {
+      "ref": "Genesis 14:8",
+      "fr": "Le roi de Sedom partit avec le roi d'Amorah, le roi d'Admah, le roi de Tzevoyim et le roi de Bela, qui est Zoar, et les engagea dans la bataille dans la vallée de Siddim [dans la plaine des champs]."
+    },
+    {
+      "ref": "Genesis 14:9",
+      "fr": "Contre Kedorlaomer, roi d'Eilam, Sidal, roi de Goyim [roi des peuples], Amraphel, roi de Shinar [Babylone], et Aryoch, roi d'Elasar ; [il y avait] quatre rois contre cinq."
+    },
+    {
+      "ref": "Genesis 14:10",
+      "fr": "La vallée de Siddim [la plaine des champs] était [remplie de] fosses à mortier [fosses d'où l'on tire le mortier] ; [et quand] les rois de Sedom et d'Amorah s'enfuirent, ils tombèrent là [dans les fosses], tandis que les autres s'enfuirent vers les montagnes."
+    },
+    {
+      "ref": "Genesis 14:11",
+      "fr": "Ils prirent [capturèrent] toutes les richesses de Sedom et Amorah et toutes leurs provisions et ils poursuivirent leur chemin."
+    },
+    {
+      "ref": "Genesis 14:12",
+      "fr": "Ils prirent [capturèrent] Lot et ses richesses. [Lot était] le neveu d’Avram. Puis ils repartirent. Il vivait à Sedom."
+    },
+    {
+      "ref": "Genesis 14:13",
+      "fr": "Celui qui s'était échappé vint le dire à Avram l'Ivri, qui habitait dans les plaines de Mamréi l'Émoréen, frère d'Eshkol et d'Aneir. Ils étaient les alliés d’Avram."
+    },
+    {
+      "ref": "Genesis 14:14",
+      "fr": "Quand Avram apprit que son parent avait été fait prisonnier, il arma ses serviteurs entraînés [garçons] qui étaient nés dans sa maison, trois cent dix-huit [hommes], et il les poursuivit jusqu'à Dan."
+    },
+    {
+      "ref": "Genesis 14:15",
+      "fr": "Il divisa [ses hommes] contre eux la nuit, lui et ses serviteurs, et il les attaqua. Il les poursuivit jusqu'à Chova, qui est à gauche [au nord] de Damas."
+    },
+    {
+      "ref": "Genesis 14:16",
+      "fr": "Il a ramené tous les biens. Il ramena également Lot, son parent [le fils de son frère], et ses biens, ainsi que les femmes et le peuple."
+    },
+    {
+      "ref": "Genesis 14:17",
+      "fr": "Le roi de Sédom sortit à sa rencontre après son retour de la défaite de Kedorlaomer et des rois qui étaient avec lui, dans la vallée de Shaveh qui est la vallée du roi [dans la plaine aride, qui est le lieu du champ de courses du roi]."
+    },
+    {
+      "ref": "Genesis 14:18",
+      "fr": "Malki Zedek, roi de Shaleim [Yerushalayim], apporta du pain et du vin. Il était un Kohein du Très-Haut Tout-Puissant."
+    },
+    {
+      "ref": "Genesis 14:19",
+      "fr": "Il le bénit et dit : Béni soit Avram le Très-Haut, Tout-Puissant Possesseur du ciel et de la terre."
+    },
+    {
+      "ref": "Genesis 14:20",
+      "fr": "Et béni soit le Très-Haut Tout-Puissant qui a livré vos ennemis entre vos mains. [Avram] lui a donné le dixième de tout."
+    },
+    {
+      "ref": "Genesis 14:21",
+      "fr": "Le roi de Sédom dit à Avram : Donne-moi le peuple et prends pour toi les biens."
+    },
+    {
+      "ref": "Genesis 14:22",
+      "fr": "Avram dit au roi de Sedom : J'ai levé la main [en prière] vers [devant] Adonoy [devant] le Très-Haut Tout-Puissant, possesseur du ciel et de la terre."
+    },
+    {
+      "ref": "Genesis 14:23",
+      "fr": "Ni un fil ni un lacet ! Et je ne prendrai rien de toi, donc tu ne pourras pas dire : J'ai enrichi Avram."
+    },
+    {
+      "ref": "Genesis 14:24",
+      "fr": "Je m'exclus ; seulement ce que les garçons ont mangé, et la part des hommes qui m'accompagnaient, Aneir, Eshkol et Mamrei, ils pourront prendre leur part."
+    },
+    {
+      "ref": "Genesis 15:1",
+      "fr": "Après ces événements, la parole d'Adonoy parvint à Avram dans une vision, disant : Ne crains pas Avram, je suis ton bouclier [Ma Parole est ta force], ta récompense est très grande."
+    },
+    {
+      "ref": "Genesis 15:2",
+      "fr": "Avram dit : Mon Maître, Dieu, que me donneras-Tu puisque je continue à être sans enfant et que le chef de ma maison [ce fournisseur qui est dans ma maison] est Eliézer de Damas."
+    },
+    {
+      "ref": "Genesis 15:3",
+      "fr": "Et Avram dit : Voici, tu ne m'as pas donné d'enfants, et donc un membre de ma maison sera mon héritier."
+    },
+    {
+      "ref": "Genesis 15:4",
+      "fr": "Soudain, la parole d'Adonoy lui vint, disant : Celui-là ne sera pas ton héritier ; seul celui qui sortira du sein de ton corps [un fils que tu engendreras] sera ton héritier."
+    },
+    {
+      "ref": "Genesis 15:5",
+      "fr": "Il l'emmena dehors et lui dit : Regarde vers le ciel et compte les étoiles si tu es capable de les compter. Il lui dit alors : Telle sera ta descendance."
+    },
+    {
+      "ref": "Genesis 15:6",
+      "fr": "Il crut en la Parole d'Adonoy, et il lui en rendit compte à juste titre."
+    },
+    {
+      "ref": "Genesis 15:7",
+      "fr": "Il lui dit : Je suis Adonoy qui t'ai fait sortir d'Ur Kasdim, pour te donner ce pays en héritage."
+    },
+    {
+      "ref": "Genesis 15:8",
+      "fr": "Et il dit : Mon Maître, Dieu, comment saurai-je que j'en hériterai ?"
+    },
+    {
+      "ref": "Genesis 15:9",
+      "fr": "Il lui dit : Apportez-moi [Sacrifice devant moi] trois génisses, trois boucs et trois béliers, une colombe et un jeune pigeon."
+    },
+    {
+      "ref": "Genesis 15:10",
+      "fr": "Il a amené [sacrifié] tout cela devant Lui ; il les divisa au milieu [en deux parties égales] et plaça chaque morceau en face de l'autre. L'oiseau, cependant, ne s'est pas divisé."
+    },
+    {
+      "ref": "Genesis 15:11",
+      "fr": "Des oiseaux de proie [vautours] descendirent sur les cadavres, mais Avram les chassa."
+    },
+    {
+      "ref": "Genesis 15:12",
+      "fr": "Alors que le soleil se couchait, un profond sommeil tomba sur Avram ; et voici, une crainte d’obscurité profonde s’abattit sur lui."
+    },
+    {
+      "ref": "Genesis 15:13",
+      "fr": "Et Il [Adonoy] dit à Avram : Sachez avec certitude que vos descendants seront des étrangers dans un pays qui n'est pas le leur. Ils les asserviront et les opprimeront pendant quatre cents ans."
+    },
+    {
+      "ref": "Genesis 15:14",
+      "fr": "Mais je jugerai aussi la nation qu’ils serviront ; ensuite ils repartiront avec de grandes richesses."
+    },
+    {
+      "ref": "Genesis 15:15",
+      "fr": "Vous rejoindrez vos pères en paix ; tu seras enterré dans une bonne vieillesse."
+    },
+    {
+      "ref": "Genesis 15:16",
+      "fr": "La quatrième génération reviendra ici, car le péché des Émoréens ne sera pas complet d'ici là [maintenant]."
+    },
+    {
+      "ref": "Genesis 15:17",
+      "fr": "Le soleil s'est couché et il est devenu très sombre ; et voici, un fourneau fumant et une torche enflammée étaient passés entre ces morceaux."
+    },
+    {
+      "ref": "Genesis 15:18",
+      "fr": "Ce jour-là, Adonoï fit une alliance avec Avram, en disant : J'ai donné ce pays à vos descendants, depuis le fleuve d'Égypte jusqu'au grand fleuve, l'Euphrate."
+    },
+    {
+      "ref": "Genesis 15:19",
+      "fr": "[Les terres des] Kénites [Shalmites], Kénizites, Kadmonites,"
+    },
+    {
+      "ref": "Genesis 15:20",
+      "fr": "Les Chittites, les Perizites, les Refa’im [les puissants],"
+    },
+    {
+      "ref": "Genesis 15:21",
+      "fr": "Les Émorites, les Cananéens, les Girgashites et les Yevusites."
+    },
+    {
+      "ref": "Genesis 16:1",
+      "fr": "Saraï, la femme d'Avram, ne lui avait pas donné d'enfants. Elle avait une servante égyptienne nommée Agar."
+    },
+    {
+      "ref": "Genesis 16:2",
+      "fr": "Saraï dit à Avram : Vois maintenant, Adonoy m'a empêché d'avoir des enfants ; Priez [maintenant], venez vers ma servante, peut-être que je serai édifié par elle. Avram écouta la voix de Saraï."
+    },
+    {
+      "ref": "Genesis 16:3",
+      "fr": "Saraï, la femme d'Avram, prit Agar l'Égyptienne, sa servante, au bout de dix ans qu'Avram avait vécu dans le pays de Canaan et la donna à Avram, son mari, pour être sa femme."
+    },
+    {
+      "ref": "Genesis 16:4",
+      "fr": "Il est venu voir Agar et elle a conçu. Lorsqu'elle réalisa qu'elle était enceinte, sa maîtresse devint méprisée à ses yeux."
+    },
+    {
+      "ref": "Genesis 16:5",
+      "fr": "Saraï dit à Avram : L'insulte contre moi est de ta faute [j'ai un jugement contre toi]. Je t'ai donné ma servante et quand elle a vu qu'elle avait conçu, j'ai été méprisé à ses yeux. Laisse Adonoy juger entre moi et toi."
+    },
+    {
+      "ref": "Genesis 16:6",
+      "fr": "Avram dit à Saraï : [Le sort de] ta servante est entre tes mains, fais d'elle comme bon te semble. Saraï la traita durement, et elle [Agar] s'enfuit loin d'elle."
+    },
+    {
+      "ref": "Genesis 16:7",
+      "fr": "Un ange d'Adonoy la trouva près d'une source d'eau dans le désert, à la source sur la route de Shur [Chagar]."
+    },
+    {
+      "ref": "Genesis 16:8",
+      "fr": "Et il dit : Agar, servante de Saraï, d'où viens-tu et où vas-tu ? Elle dit : Je fuis ma maîtresse, Saraï."
+    },
+    {
+      "ref": "Genesis 16:9",
+      "fr": "L'ange d'Adonoy lui dit : Retourne chez ta maîtresse et soumets-toi à elle."
+    },
+    {
+      "ref": "Genesis 16:10",
+      "fr": "L'ange d'Adonoy lui dit : Je multiplierai grandement ta descendance afin qu'elle ne puisse être comptée à cause de son grand nombre."
+    },
+    {
+      "ref": "Genesis 16:11",
+      "fr": "L'ange d'Adonoy lui dit : Voici, tu vas concevoir et tu enfanteras un fils. Tu l'appelleras Yishmaël, car Adonoy a entendu [accepté] ta prière."
+    },
+    {
+      "ref": "Genesis 16:12",
+      "fr": "Ce sera un homme sauvage et non civilisé [rebelle contre les gens]. Sa main [sera] contre tout le monde [Il aura besoin de tout le monde] et la main de tous sera contre lui [et la main de chacun aura besoin de lui] ; et il habitera en présence de tous ses frères."
+    },
+    {
+      "ref": "Genesis 16:13",
+      "fr": "Elle appela [Elle pria] du Nom Adonoy Qui lui avait parlé : [Elle dit] Tu es Tout-Puissant Qui voit [tout], car elle dit : Ai-je aussi vu ici [un vestige] après avoir vu ? [Ai-je aussi commencé à voir ici [un vestige] après qu'il m'ait été révélé ?]"
+    },
+    {
+      "ref": "Genesis 16:14",
+      "fr": "C'est pourquoi le puits s'appelait : Be'er Lachai Ro'i [le puits où un ange vivant est apparu] ; c'est entre Kadeish [Rekem] et Bared [Chagar]."
+    },
+    {
+      "ref": "Genesis 16:15",
+      "fr": "Agar enfanta un fils à Avram et Avram nomma son fils, qu'Agar lui enfanta, Yishmael."
+    },
+    {
+      "ref": "Genesis 16:16",
+      "fr": "Avram avait quatre-vingt-six ans quand Agar enfanta Yismaël à Avram."
+    },
+    {
+      "ref": "Genesis 17:1",
+      "fr": "Quand Avram eut quatre-vingt-dix-neuf ans, Adonoy apparut [se révéla] à Avram et lui dit : Je suis le Tout-Puissant Shaddaï, marche [adore] Moi et sois parfait."
+    },
+    {
+      "ref": "Genesis 17:2",
+      "fr": "Je donnerai mon alliance entre moi [ma Parole] et vous, et je multiplierai extrêmement votre [vos descendants]."
+    },
+    {
+      "ref": "Genesis 17:3",
+      "fr": "Avram tomba la face contre terre. Elohim lui parla et dit :"
+    },
+    {
+      "ref": "Genesis 17:4",
+      "fr": "Quant à Moi, voici Mon alliance avec vous ; tu seras le père d’une multitude de nations."
+    },
+    {
+      "ref": "Genesis 17:5",
+      "fr": "Ton nom ne sera plus appelé Avram, mais ton nom sera Avraham, car je t'ai établi père d'une multitude de nations."
+    },
+    {
+      "ref": "Genesis 17:6",
+      "fr": "Je vous rendrai extrêmement féconds et je ferai de vous des nations [assemblées] ; et des rois [qui gouvernent les nations] descendront de toi."
+    },
+    {
+      "ref": "Genesis 17:7",
+      "fr": "Je maintiendrai mon alliance entre moi [ma Parole] et vous, et entre vos descendants après vous à travers leurs générations, comme une alliance éternelle, pour être un Dieu pour vous et pour vos descendants après vous."
+    },
+    {
+      "ref": "Genesis 17:8",
+      "fr": "Je te donnerai, ainsi qu'à tes descendants après toi, le pays de ta résidence temporaire, tout le pays de Canaan, comme possession éternelle, et je serai pour eux un Dieu."
+    },
+    {
+      "ref": "Genesis 17:9",
+      "fr": "Elohim dit à Avraham : Et quant à toi, tu dois préserver mon alliance, toi et tes descendants après toi à travers leurs générations."
+    },
+    {
+      "ref": "Genesis 17:10",
+      "fr": "Ceci est mon alliance que vous devez préserver entre moi [ma Parole] et vous, et vos descendants après vous : tout mâle parmi vous sera circoncis."
+    },
+    {
+      "ref": "Genesis 17:11",
+      "fr": "Tu circonciras la chair de ton prépuce. Ceci sera le signe de l'alliance entre Moi [Ma Parole] et vous."
+    },
+    {
+      "ref": "Genesis 17:12",
+      "fr": "À l'âge de huit jours, tout mâle parmi vous sera circoncis, selon vos générations ; celui qui est né dans la maison ou celui qui a été acheté avec de l'argent à un étranger qui n'est pas votre descendant."
+    },
+    {
+      "ref": "Genesis 17:13",
+      "fr": "Il faudra circoncire vos esclaves nés dans votre maison, ainsi que ceux achetés avec votre argent. Ce sera Mon alliance dans votre chair comme une alliance éternelle."
+    },
+    {
+      "ref": "Genesis 17:14",
+      "fr": "Un mâle incirconcis qui ne circoncira pas son prépuce, cette âme [homme] sera retranchée de son peuple ; il a rompu [changé] mon alliance."
+    },
+    {
+      "ref": "Genesis 17:15",
+      "fr": "Et Elohim dit à Avraham [Quant à] Saraï, ta femme, ne l'appelle pas Saraï, car Sarah est son nom."
+    },
+    {
+      "ref": "Genesis 17:16",
+      "fr": "Je la bénirai et je te donnerai aussi un fils par elle. Je la bénirai, et elle sera [une mère] de nations [assemblées], des rois de peuples [qui gouvernent les nations] descendront d'elle."
+    },
+    {
+      "ref": "Genesis 17:17",
+      "fr": "Avraham tomba sur son visage et rit [se réjouit]. Il dit dans son cœur : Un homme de cent ans peut-il avoir des enfants ? Sara, âgée de quatre-vingt-dix ans, va-t-elle accoucher ?"
+    },
+    {
+      "ref": "Genesis 17:18",
+      "fr": "Et Avraham dit à Elohim : Qu'il soit accordé à Yishmael de vivre devant Toi."
+    },
+    {
+      "ref": "Genesis 17:19",
+      "fr": "Elohim dit : En effet, ta femme Sarah t'enfantera un fils, et tu l'appelleras Itschok. J'établirai mon alliance avec lui comme une alliance éternelle avec ses descendants après lui."
+    },
+    {
+      "ref": "Genesis 17:20",
+      "fr": "Et quant à Yishmaël, je t'ai entendu [j'ai accepté ta prière]. Je l'ai béni, je le rendrai fécond et je l'augmenterai extrêmement. Il deviendra le père de douze princes, et je ferai de lui une grande nation."
+    },
+    {
+      "ref": "Genesis 17:21",
+      "fr": "Mais j'établirai mon alliance avec Yitzchok, que Sarah t'enfantera à cette époque l'année prochaine."
+    },
+    {
+      "ref": "Genesis 17:22",
+      "fr": "Et quand Il eut fini de lui parler, [la Gloire d'] Elohim monta d'Avraham."
+    },
+    {
+      "ref": "Genesis 17:23",
+      "fr": "Avraham prit son fils Yishmaël et tous ceux qui étaient nés dans sa maison, et tout ce qu'il avait acheté avec son argent, tous les membres mâles de la maison d'Avraham, et il circoncit la chair de leur prépuce ce même jour-là, comme Elohim le lui avait dit."
+    },
+    {
+      "ref": "Genesis 17:24",
+      "fr": "Avraham avait quatre-vingt-dix-neuf ans lorsqu'il fut circoncis dans la chair de son prépuce."
+    },
+    {
+      "ref": "Genesis 17:25",
+      "fr": "Et son fils Yismaël avait treize ans lorsqu'il circoncit la chair de son prépuce."
+    },
+    {
+      "ref": "Genesis 17:26",
+      "fr": "Ce jour-là, Avraham et son fils Yismaël furent circoncis."
+    },
+    {
+      "ref": "Genesis 17:27",
+      "fr": "Tous les hommes de sa maison, ceux qui étaient nés dans sa maison et achetés avec de l'argent à un étranger, furent circoncis avec lui."
+    }
+  ]
+}

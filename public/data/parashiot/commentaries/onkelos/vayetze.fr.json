@@ -1,0 +1,600 @@
+{
+  "name": "Vayetze",
+  "range": "Genesis 28:10-32:3",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayetze.json",
+  "verses": [
+    {
+      "ref": "Genesis 28:10",
+      "fr": "Yaakov quitta Beer Sheva et se dirigea vers Charan."
+    },
+    {
+      "ref": "Genesis 28:11",
+      "fr": "Il arriva sur place et y passa la nuit car le soleil s'était couché. Il prit quelques-unes des pierres de cet endroit, les disposa autour de sa tête, et se coucha [pour dormir] à cet endroit."
+    },
+    {
+      "ref": "Genesis 28:12",
+      "fr": "Il rêva, et voici, une échelle était dressée sur la terre et son sommet atteignait le ciel ; et voici, des anges d'Elohim montaient et descendaient dessus."
+    },
+    {
+      "ref": "Genesis 28:13",
+      "fr": "Et voici, [la gloire de] Adonoy se tenait au-dessus de lui et dit : Je suis Adonoy, Dieu d'Avraham, ton père et Dieu d'Itschok. Le pays sur lequel tu reposes, je le donnerai à toi et à ta descendance."
+    },
+    {
+      "ref": "Genesis 28:14",
+      "fr": "Vos descendants seront [nombreux] comme la poussière de la terre. Tu t'étendras à l'ouest, à l'est, au nord et au sud. Par [à cause de] vous serez bénis par toutes les familles de la terre et par [à cause de] vos descendants."
+    },
+    {
+      "ref": "Genesis 28:15",
+      "fr": "Voici, je suis avec toi [Ma Parole est ton soutien], et je te garderai partout où tu iras, et je te ramènerai dans ce pays. Je ne t'abandonnerai pas jusqu'à ce que j'aie fait ce que j'ai dit pour toi."
+    },
+    {
+      "ref": "Genesis 28:16",
+      "fr": "Yaakov se réveilla de son sommeil et dit : En vérité, [la gloire d'] Adonoy est [habite] dans cet endroit, et je ne le savais pas [je ne l'aurais pas su]."
+    },
+    {
+      "ref": "Genesis 28:17",
+      "fr": "Il a eu peur et a dit : « Comme cet endroit est génial ! Ceci n'est autre que la maison d'Elohim [non pas un lieu régulier mais un lieu où c'est la volonté d'Elohim de recevoir des prières], et ceci est la porte du ciel [opposé]."
+    },
+    {
+      "ref": "Genesis 28:18",
+      "fr": "Yaakov se leva tôt le matin et prit la pierre qu'il avait placée sur sa tête ; Il l'érigea en monument et versa de l'huile sur son sommet."
+    },
+    {
+      "ref": "Genesis 28:19",
+      "fr": "Il nomma cet endroit Beis Eil, mais Luz était le nom original de la ville."
+    },
+    {
+      "ref": "Genesis 28:20",
+      "fr": "Yaakov a fait un vœu, disant : Si [la Parole d'] Elohim est avec moi [mon soutien] et me garde sur ce chemin que je vais, et me donne du pain à manger et des vêtements pour me vêtir ;"
+    },
+    {
+      "ref": "Genesis 28:21",
+      "fr": "Et si je retourne en paix à la maison de mon père, et que [la Parole d’] Adonoy soit mon Dieu ;"
+    },
+    {
+      "ref": "Genesis 28:22",
+      "fr": "[Alors] cette pierre que j'ai dressée [comme] monument deviendra une maison de Dieu [lieu où je l'adorerai devant Dieu], et de tout ce que tu me donneras, je te donnerai sûrement le dixième [devant] toi."
+    },
+    {
+      "ref": "Genesis 29:1",
+      "fr": "Yaakov leva alors les pieds et se dirigea vers le pays des peuples de l'Est."
+    },
+    {
+      "ref": "Genesis 29:2",
+      "fr": "Il regarda et vit un puits dans le champ ; et voici, il y avait trois troupeaux de moutons couchés à côté, car c'est de ce puits que les troupeaux sont abreuvés. Il y avait une grosse pierre au-dessus de l’embouchure du puits."
+    },
+    {
+      "ref": "Genesis 29:3",
+      "fr": "Quand tous les troupeaux se rassemblaient, [les bergers] roulaient la pierre de l’embouchure du puits et abreuvaient les moutons. Ils remettraient alors la pierre à sa place au-dessus de l'embouchure du puits."
+    },
+    {
+      "ref": "Genesis 29:4",
+      "fr": "Yaakov leur dit : Mes frères, d'où venez-vous ? Ils dirent : Nous sommes de Charan."
+    },
+    {
+      "ref": "Genesis 29:5",
+      "fr": "Il leur dit : Connaissez-vous Lavan, fils de Nachor ? Ils ont dit : Nous le connaissons."
+    },
+    {
+      "ref": "Genesis 29:6",
+      "fr": "Il leur dit : Est-ce qu'il va bien ? Ils dirent : Il va bien. Voici que Rochel, sa fille, arrive avec les moutons."
+    },
+    {
+      "ref": "Genesis 29:7",
+      "fr": "Il leur dit : La journée est encore longue, il n'est pas encore temps de rassembler les brebis, de les abreuver et d'aller les paître."
+    },
+    {
+      "ref": "Genesis 29:8",
+      "fr": "Ils dirent : Nous ne pouvons pas le faire avant que tous les troupeaux ne soient rassemblés et que les bergers n'aient roulé la pierre de l'embouchure du puits. Ensuite, nous pourrons abreuver les moutons."
+    },
+    {
+      "ref": "Genesis 29:9",
+      "fr": "Pendant qu'il leur parlait encore, Rochel arriva avec les moutons de son père, car elle était bergère."
+    },
+    {
+      "ref": "Genesis 29:10",
+      "fr": "Quand Yaakov aperçut Rochel, la fille de Lavan, le frère de sa mère, avec les moutons de Lavan, le frère de sa mère, il s'approcha et roula la pierre de l'embouchure du puits. Il a ensuite abreuvé les moutons de Lavan, le frère de sa mère."
+    },
+    {
+      "ref": "Genesis 29:11",
+      "fr": "Yaakov embrassa Rochel et pleura d'une voix forte."
+    },
+    {
+      "ref": "Genesis 29:12",
+      "fr": "Yaakov a dit à Rochel qu'il était un parent de son père [le fils de la sœur de son père], qu'il était le fils de Rivkah. Elle a couru et l'a dit à son père."
+    },
+    {
+      "ref": "Genesis 29:13",
+      "fr": "Lorsque Lavan apprit la nouvelle de Yaakov, le fils de sa sœur, il courut le saluer. Il l'embrassa, l'embrassa et l'amena chez lui. [Yaakov] a raconté à Lavan tout ce qui s'était passé."
+    },
+    {
+      "ref": "Genesis 29:14",
+      "fr": "Lavan lui dit : Néanmoins, tu es mon os [parent] et ma chair. [Yaakov] a vécu avec lui pendant un mois."
+    },
+    {
+      "ref": "Genesis 29:15",
+      "fr": "Lavan dit à Yaakov : Juste parce que tu es mon parent, dois-tu travailler pour moi sans salaire ? Dites-moi, [quel devrait] être votre salaire ?"
+    },
+    {
+      "ref": "Genesis 29:16",
+      "fr": "Lavan a eu deux filles. Le nom de l’aînée était Léa et le nom de la plus jeune était Rochel."
+    },
+    {
+      "ref": "Genesis 29:17",
+      "fr": "Les yeux de Léa étaient tendres [magnifiques]. Rochel était de belle forme et de belle apparence."
+    },
+    {
+      "ref": "Genesis 29:18",
+      "fr": "Yaakov aimait Rochel. et il dit : Je travaillerai pour toi sept ans pour Rochel, ta plus jeune fille."
+    },
+    {
+      "ref": "Genesis 29:19",
+      "fr": "Lavan dit : Mieux vaut que je te la donne plutôt que de la donner à un autre homme. [Rester] vivre avec moi."
+    },
+    {
+      "ref": "Genesis 29:20",
+      "fr": "Yaakov a travaillé sept ans pour Rochel, mais cela lui semblait quelques jours, tant il l'aimait."
+    },
+    {
+      "ref": "Genesis 29:21",
+      "fr": "Yaakov dit à Lavan : Donne-moi ma femme, car mon terme [de travail] est accompli ; et ainsi je consommerai le mariage avec elle."
+    },
+    {
+      "ref": "Genesis 29:22",
+      "fr": "Lavan a rassemblé toute la population locale et il a organisé un festin [de mariage]."
+    },
+    {
+      "ref": "Genesis 29:23",
+      "fr": "Le soir venu, il prit Léa, sa fille, et la lui amena [Yaakov]. Il a consommé le mariage avec elle."
+    },
+    {
+      "ref": "Genesis 29:24",
+      "fr": "Lavan lui donna Zilpa, sa servante, à Léa, sa fille, comme servante."
+    },
+    {
+      "ref": "Genesis 29:25",
+      "fr": "Quand ce fut le matin, voici, c'était Léa ! Il [Yaakov] dit à Lavan : Que m'as-tu fait ? N'ai-je pas travaillé avec toi pour Rochel ? Pourquoi m'as-tu trompé ?"
+    },
+    {
+      "ref": "Genesis 29:26",
+      "fr": "Lavan dit : On ne fait pas ainsi chez nous, de donner la plus jeune [fille en mariage] avant le premier-né."
+    },
+    {
+      "ref": "Genesis 29:27",
+      "fr": "Terminez la semaine [du mariage] pour celle-ci. Nous vous donnerons ensuite l'autre aussi, en échange du travail que vous ferez avec moi pendant encore sept ans."
+    },
+    {
+      "ref": "Genesis 29:28",
+      "fr": "Yaakov l'a fait, et il a terminé la semaine [de mariage] pour celle-ci [Leah]. Il [Lavan] lui donna alors Rochel, sa fille, comme épouse."
+    },
+    {
+      "ref": "Genesis 29:29",
+      "fr": "Lavan donna à sa fille Rochel sa servante Bilhah pour qu'elle soit sa servante."
+    },
+    {
+      "ref": "Genesis 29:30",
+      "fr": "Il [Yaakov] a également consommé son mariage avec Rochel. Il aimait Rochel plus que Leah, et il a également travaillé avec [Lavan] pendant encore sept ans."
+    },
+    {
+      "ref": "Genesis 29:31",
+      "fr": "Adonoy a vu que Léa était celle qui était détestée, et Il a ouvert son ventre [lui a permis de concevoir]. Rochel est resté stérile."
+    },
+    {
+      "ref": "Genesis 29:32",
+      "fr": "Léa conçut et donna naissance à un fils. Elle l'appela Reuvein, comme elle dit : Adonoy a vu mon affliction [a été révélée devant Adonoy] ; pour l'instant, mon mari m'aimera."
+    },
+    {
+      "ref": "Genesis 29:33",
+      "fr": "Elle conçut de nouveau et donna naissance à un fils. Elle dit : Depuis qu'Adonoy [on a] entendu [devant Adonoy] que j'étais celui qui est détesté, Il m'a aussi donné celui-ci, et elle l'a nommé Shimon."
+    },
+    {
+      "ref": "Genesis 29:34",
+      "fr": "Elle conçut de nouveau et donna naissance à un fils. Elle dit : Cette fois, mon mari s'attachera à moi, car je lui ai donné trois fils. Il l'a donc nommé Leivi."
+    },
+    {
+      "ref": "Genesis 29:35",
+      "fr": "Elle conçut de nouveau et donna naissance à un fils. Elle dit : Cette fois, je [donnerai] des louanges [devant] Adonoy. Elle l'appela donc Yehudah. Elle a alors arrêté d’accoucher."
+    },
+    {
+      "ref": "Genesis 30:1",
+      "fr": "Rochel vit qu'elle n'avait pas d'enfants avec Yaakov. Rochel devint jalouse de sa sœur et elle dit à Yaakov : Donne-moi des enfants ; sinon, je suis [considéré] mort."
+    },
+    {
+      "ref": "Genesis 30:2",
+      "fr": "Yaakov se mit très en colère contre Rochel et il dit : Suis-je à la place de Dieu ? [Tu me demandes ? N'est-ce pas devant Dieu que vous devriez demander ?] [C'est Lui] qui vous a refusé le fruit des entrailles."
+    },
+    {
+      "ref": "Genesis 30:3",
+      "fr": "Elle dit : Voici ma servante, Bilhah, consomme un mariage avec elle. Qu'elle enfante sur mes genoux [et je les élèverai], et moi aussi j'aurai un fils [qui sera bâti] par elle."
+    },
+    {
+      "ref": "Genesis 30:4",
+      "fr": "Elle lui donna Bilhah, sa servante, comme épouse et Yaakov consomma le mariage avec elle."
+    },
+    {
+      "ref": "Genesis 30:5",
+      "fr": "Bilhah conçut et enfanta un fils à Yaakov."
+    },
+    {
+      "ref": "Genesis 30:6",
+      "fr": "Rochel a dit, Elohim m'a jugé. Il a aussi entendu ma voix [a accepté ma prière] et m'a donné un fils. Elle l'a donc nommé Don."
+    },
+    {
+      "ref": "Genesis 30:7",
+      "fr": "Elle conçut de nouveau et Bilhah, la servante de Rochel, enfanta un deuxième fils à Yaakov."
+    },
+    {
+      "ref": "Genesis 30:8",
+      "fr": "Rochel a dit : Avec les liens d'Elohim, j'ai été uni à ma sœur, et j'ai aussi prévalu [Elohim a accepté ma demande, lorsque j'ai plaidé dans ma prière, j'ai souhaité que j'aie une progéniture comme ma sœur, cela m'a aussi été donné]. Elle l'appelait alors Naftali."
+    },
+    {
+      "ref": "Genesis 30:9",
+      "fr": "Leah réalisa qu'elle n'avait plus d'enfants. Elle prit alors Zilpa, sa servante, et la donna à Yaakov pour femme."
+    },
+    {
+      "ref": "Genesis 30:10",
+      "fr": "Zilpa, la servante de Léa, enfanta un fils à Yaakov."
+    },
+    {
+      "ref": "Genesis 30:11",
+      "fr": "Leah a déclaré : Un succès inattendu est arrivé et elle l'a nommé Gad."
+    },
+    {
+      "ref": "Genesis 30:12",
+      "fr": "Zilpa, la servante de Léa, donna à Yaakov un deuxième fils."
+    },
+    {
+      "ref": "Genesis 30:13",
+      "fr": "Leah a déclaré : « C'est une chance pour moi que mes filles [femmes] me considèrent comme chanceuse. [La louange est à moi, car les femmes me loueront désormais.] Elle l'a nommé Asher."
+    },
+    {
+      "ref": "Genesis 30:14",
+      "fr": "Reuvein s'y rendit au temps de la moisson du blé et trouva des fleurs de jasmin dans le champ. Il les a amenés à Léa, sa mère. Rochel dit à Leah : S'il te plaît, [maintenant] donne-moi quelques-unes des fleurs de jasmin de ton fils."
+    },
+    {
+      "ref": "Genesis 30:15",
+      "fr": "Elle [Léa] lui dit : Ne suffit-il pas que tu aies pris mon mari ? Voudriez-vous aussi prendre les fleurs de jasmin de mon fils ? Rochel a dit : Par conséquent, il sera avec vous ce soir en échange des fleurs de jasmin de votre fils."
+    },
+    {
+      "ref": "Genesis 30:16",
+      "fr": "Yaakov revint des champs le soir et Léa sortit à sa rencontre. Elle dit : Tu viendras vers moi, car je t'ai loué avec les fleurs de jasmin de mon fils, et il était avec elle la nuit."
+    },
+    {
+      "ref": "Genesis 30:17",
+      "fr": "Elohim a perçu [accepté] le [souhait] [la prière] de Léa. Elle conçut et enfanta [son] cinquième fils à Yaakov."
+    },
+    {
+      "ref": "Genesis 30:18",
+      "fr": "Léa dit : Elohim m'a donné ma récompense parce que j'ai donné ma servante à mon mari. Elle l'a nommé Yissachar."
+    },
+    {
+      "ref": "Genesis 30:19",
+      "fr": "Léa conçut de nouveau et enfanta à Yaakov un sixième fils."
+    },
+    {
+      "ref": "Genesis 30:20",
+      "fr": "Léa dit : Elohim m'a donné une belle part. Maintenant, mon mari fera sa [principale] maison avec moi, car je lui ai donné six fils. Elle l'a nommé Zevulun."
+    },
+    {
+      "ref": "Genesis 30:21",
+      "fr": "Ensuite, elle donna naissance à une fille et la nomma Deenah."
+    },
+    {
+      "ref": "Genesis 30:22",
+      "fr": "Elohim s'est souvenu de Rochel [Le souvenir de Rochel est venu devant Elohim, et Elohim a perçu son sort] [a accepté sa prière] et a ouvert son ventre [lui a permis de concevoir]."
+    },
+    {
+      "ref": "Genesis 30:23",
+      "fr": "Elle conçut et donna naissance à un fils. Elle dit : Elohim a enlevé ma honte."
+    },
+    {
+      "ref": "Genesis 30:24",
+      "fr": "Elle l'appela Yoseif, en disant : Qu'Adonoy m'ajoute un autre fils."
+    },
+    {
+      "ref": "Genesis 30:25",
+      "fr": "Quand Rochel eut donné naissance à Yossif, Yaakov dit à Lavan : Laisse-moi partir, et j'irai chez moi et dans ma patrie."
+    },
+    {
+      "ref": "Genesis 30:26",
+      "fr": "Donnez-moi [la permission de prendre] mes femmes et mes enfants, pour lesquels j'ai travaillé pour vous, et j'irai ; car tu connais mon travail que j'ai fait pour toi."
+    },
+    {
+      "ref": "Genesis 30:27",
+      "fr": "Lavan lui dit : Si [maintenant] j'ai trouvé grâce à tes yeux, j'ai deviné [déterminé] qu'Adonoy m'a béni à cause de toi."
+    },
+    {
+      "ref": "Genesis 30:28",
+      "fr": "Il dit : Fixe-moi ton salaire et je te le donnerai."
+    },
+    {
+      "ref": "Genesis 30:29",
+      "fr": "Il [Yaakov] lui dit : Tu sais comment j'ai travaillé pour toi et comment ton bétail était avec moi."
+    },
+    {
+      "ref": "Genesis 30:30",
+      "fr": "Car le peu que vous aviez avant que je vienne ici s'est accru et est devenu une multitude. Adonoy t'a béni avec ma venue [pour moi]. Maintenant, quand vais-je aussi faire quelque chose pour ma propre maison ?"
+    },
+    {
+      "ref": "Genesis 30:31",
+      "fr": "Il [Lavan] dit : Que dois-je te donner ? Yaakov dit : Ne me donne rien, si tu fais cela pour moi. Je continuerai à soigner votre troupeau et à le garder."
+    },
+    {
+      "ref": "Genesis 30:32",
+      "fr": "Aujourd'hui, je passerai par tous vos troupeaux. J'enlèverai d'eux tout agneau marqueté ou tacheté, tout agneau brun parmi les brebis, et tout bouc tacheté et marqueté. Ce [genre] sera mon salaire."
+    },
+    {
+      "ref": "Genesis 30:33",
+      "fr": "Ma justice témoignera pour moi à l'avenir lorsqu'elle sera devant vous concernant mon salaire. Toute chèvre qui n'est ni marquetée ni tachetée, et toute brebis qui n'est pas brune, seront volées [si elles sont] en ma possession."
+    },
+    {
+      "ref": "Genesis 30:34",
+      "fr": "Lavan dit : D'accord, que ce soit comme vous le dites."
+    },
+    {
+      "ref": "Genesis 30:35",
+      "fr": "Ce jour-là, il [Lavan] enleva les boucs bagués et tachetés, et toutes les chèvres marquetées et tachetées, toutes celles qui avaient du blanc en elles, et toutes les plus brunes parmi les brebis ; et il les donna à ses fils."
+    },
+    {
+      "ref": "Genesis 30:36",
+      "fr": "Il a mis un voyage de trois jours entre lui et Yaakov. Yaakov s'occupait des troupeaux restants de Lavan."
+    },
+    {
+      "ref": "Genesis 30:37",
+      "fr": "Yaakov prit des tiges de peuplier frais, de noisetier et de châtaignier, et y pela des rayures blanches en découvrant le blanc qui est dans les tiges."
+    },
+    {
+      "ref": "Genesis 30:38",
+      "fr": "Il enfonça [inséra] les tiges qu'il avait épluchées dans les conduits du [lieu des] abreuvoirs [l'endroit] où le troupeau [brebis] venait boire, face au troupeau [béliers] ; qu'ils devaient s'échauffer lorsqu'ils venaient boire."
+    },
+    {
+      "ref": "Genesis 30:39",
+      "fr": "Le troupeau [mouton] s'est chauffé [et s'est accouplé] devant les verges, et le troupeau [mouton] a donné naissance à une [progéniture annelée, mouchetée et tachetée]."
+    },
+    {
+      "ref": "Genesis 30:40",
+      "fr": "Yaakov sépara les agneaux. Il dirigea les faces [à la tête] du troupeau [les brebis] vers [tous] ceux qui sont annelés et tous ceux qui sont noirs ; [il l'a fait] avec les troupeaux de Lavan. Il forma ses propres troupeaux et ne les mélangea pas avec les troupeaux de Lavan."
+    },
+    {
+      "ref": "Genesis 30:41",
+      "fr": "Lorsque le troupeau [mouton] en production précoce était chauffé [pour s'accoupler], Yaakov plaçait les verges devant les yeux du troupeau [mouton] au niveau des conduits, afin qu'ils soient en chaleur parmi les verges."
+    },
+    {
+      "ref": "Genesis 30:42",
+      "fr": "Mais quand le troupeau [brebis] était en retard, il ne plaçait pas [les verges devant eux]. Ainsi, les tardives appartenaient à Lavan, et les précoces devenaient la possession de Yaakov."
+    },
+    {
+      "ref": "Genesis 30:43",
+      "fr": "L'homme est devenu extrêmement prospère. Il avait des troupeaux nombreux, des esclaves et des esclaves, des chameaux et des ânes."
+    },
+    {
+      "ref": "Genesis 31:1",
+      "fr": "Il [Yaakov] entendit les paroles des fils de Lavan [qui disaient] : Yaakov a pris tout ce qui appartenait à notre père. De ce qui appartenait à notre père, il a fait [acquis] toute cette richesse [ces possessions]."
+    },
+    {
+      "ref": "Genesis 31:2",
+      "fr": "Yaakov a vu [l'expression du] visage [l'attitude] de Lavan et ce n'était pas vers lui comme avant."
+    },
+    {
+      "ref": "Genesis 31:3",
+      "fr": "Adonoy dit à Yaakov : Retourne au pays de tes pères et à ton lieu de naissance, et je serai avec toi [Ma Parole sera ton soutien]."
+    },
+    {
+      "ref": "Genesis 31:4",
+      "fr": "Yaakov envoya et appela Rochel et Léa au champ, vers son troupeau."
+    },
+    {
+      "ref": "Genesis 31:5",
+      "fr": "Il leur dit : J'ai vu le visage de votre père ; ce n'est plus envers moi comme avant, mais le Dieu de mon père était avec moi [mon soutien]."
+    },
+    {
+      "ref": "Genesis 31:6",
+      "fr": "Tu sais que j'ai servi ton père de toutes mes forces."
+    },
+    {
+      "ref": "Genesis 31:7",
+      "fr": "Your father cheated me and changed my wage ten countings; mais Elohim ne l'a pas laissé me faire du mal."
+    },
+    {
+      "ref": "Genesis 31:8",
+      "fr": "S'il disait : Les mouchetés seront votre salaire, alors tout le troupeau [brebis] donnerait naissance à des mouchetés. S'il disait : Les bagués seront votre salaire, tout le troupeau [brebis] a donné naissance à des bagués."
+    },
+    {
+      "ref": "Genesis 31:9",
+      "fr": "Ainsi Dieu a délivré [séparé] le bétail de ton père et me l’a donné."
+    },
+    {
+      "ref": "Genesis 31:10",
+      "fr": "Au moment où le troupeau [mouton] était en chaleur [pour s'accoupler], j'ai levé les yeux et, dans un rêve, j'ai vu que les mâles [béliers] qui montaient sur le troupeau [mouton] étaient bagués, tachetés et rayés."
+    },
+    {
+      "ref": "Genesis 31:11",
+      "fr": "Un ange d'Elohim m'a dit dans un rêve : Yaakov, et j'ai dit : Me voici."
+    },
+    {
+      "ref": "Genesis 31:12",
+      "fr": "Il dit : Levez les yeux [maintenant] et voyez, tous les mâles [béliers] qui montent sur le troupeau [moutons] sont annelés, marquetés et rayés ; car j'ai vu tout ce que Lavan vous fait [est révélé devant moi]."
+    },
+    {
+      "ref": "Genesis 31:13",
+      "fr": "Je suis le Tout-Puissant d'Elohim qui t'est apparu à Beis Eil, où tu as oint un monument, où tu as fait un vœu devant Moi. Maintenant, lève-toi, quitte ce pays et retourne au pays de ta naissance."
+    },
+    {
+      "ref": "Genesis 31:14",
+      "fr": "Rochel et Léa répondirent et lui dirent : Avons-nous encore une part et un héritage dans la maison de notre père ?"
+    },
+    {
+      "ref": "Genesis 31:15",
+      "fr": "Ne sommes-nous pas considérés par lui comme des étrangers ? Car il nous a vendus et a complètement consommé notre argent."
+    },
+    {
+      "ref": "Genesis 31:16",
+      "fr": "Toute la richesse qu'Elohim a sauvée [séparée] de notre père appartient à nous et à nos enfants. Maintenant, tout ce que Dieu vous a dit, faites-le."
+    },
+    {
+      "ref": "Genesis 31:17",
+      "fr": "Yaakov se leva et éleva ses fils et ses femmes sur les chameaux."
+    },
+    {
+      "ref": "Genesis 31:18",
+      "fr": "Il emmena tout son bétail et tous ses biens qu'il avait acquis, qu'il avait achetés avec son propre bétail qu'il avait acquis à Padan Aram, [afin] de venir à Itschok, son père, au pays de Canaan."
+    },
+    {
+      "ref": "Genesis 31:19",
+      "fr": "Lavan [entre-temps] était allé tondre son troupeau [moutons], et Rochel a volé [caché] les idoles qui appartenaient à son père."
+    },
+    {
+      "ref": "Genesis 31:20",
+      "fr": "Yaakov a trompé Lavan, l'Araméen, en ne lui disant pas qu'il s'était enfui."
+    },
+    {
+      "ref": "Genesis 31:21",
+      "fr": "Il s'est enfui avec tout ce qu'il possédait. Il partit et traversa la rivière [P'ras], se dirigeant vers le mont Gilod."
+    },
+    {
+      "ref": "Genesis 31:22",
+      "fr": "Le troisième jour, on a dit à Lavan que Yaakov s'était enfui."
+    },
+    {
+      "ref": "Genesis 31:23",
+      "fr": "Il emmena ses frères [parents] avec lui et le poursuivit pendant sept jours. Il l'a dépassé au mont Gilod."
+    },
+    {
+      "ref": "Genesis 31:24",
+      "fr": "Elohim apparut [La Parole vint d'avant Elohim] à Lavan l'Araméen, dans un rêve cette nuit-là, et lui dit : Garde-toi, afin que tu ne parles ni en bien ni en mal à Yaakov."
+    },
+    {
+      "ref": "Genesis 31:25",
+      "fr": "Lavan a dépassé Yaakov. Yaakov avait dressé ses tentes sur la montagne, et Lavan et ses frères avaient campé sur la montagne de Gilod."
+    },
+    {
+      "ref": "Genesis 31:26",
+      "fr": "Lavan dit à Yaakov : Qu'as-tu fait ? Vous m'avez trompé et vous avez emmené mes filles comme des prisonnières de guerre."
+    },
+    {
+      "ref": "Genesis 31:27",
+      "fr": "Pourquoi as-tu fui [partir] si furtivement ? Vous m'avez volé [vous vous êtes caché] et vous ne me l'avez pas dit. Je t'aurais renvoyé avec joie et chant, avec tambour(s) et harpe(s)."
+    },
+    {
+      "ref": "Genesis 31:28",
+      "fr": "Vous ne m'avez pas laissé embrasser mes [petits]fils et mes filles. Maintenant, voyez à quel point vous avez agi bêtement."
+    },
+    {
+      "ref": "Genesis 31:29",
+      "fr": "J'ai le pouvoir de te faire du mal, mais le Dieu de ton père m'a parlé hier soir et m'a dit : Garde-toi de parler à Yaakov ni en bien ni en mal."
+    },
+    {
+      "ref": "Genesis 31:30",
+      "fr": "Maintenant, tu es parti pour la maison de ton père, mais pourquoi as-tu volé mes dieux ?"
+    },
+    {
+      "ref": "Genesis 31:31",
+      "fr": "Yaakov répondit et dit à Lavan : Parce que j'avais peur, car je t'ai dit que tu pourrais m'enlever de force tes filles."
+    },
+    {
+      "ref": "Genesis 31:32",
+      "fr": "Celui avec qui vous trouverez vos dieux ne vivra pas. En présence de nos frères, identifiez tout ce qui vous appartient et qui est ici avec moi et rapportez-le avec vous. Yaakov ne savait pas que Rochel les avait volés."
+    },
+    {
+      "ref": "Genesis 31:33",
+      "fr": "Lavan entra dans la tente de Yaakov, dans la tente de Léa et dans les tentes des deux servantes [concubines], mais il ne trouva rien. Il quitta la tente de Léa et entra dans la tente de Rochel."
+    },
+    {
+      "ref": "Genesis 31:34",
+      "fr": "Rochel avait pris les idoles, les avait placées sur le coussin de la selle du chameau et s'était assis dessus. Lavan a fouillé toute la tente et n'a rien trouvé."
+    },
+    {
+      "ref": "Genesis 31:35",
+      "fr": "Elle dit à son père : Qu'il n'y ait pas de colère aux yeux de mon maître parce que je ne peux pas me lever devant toi, car la voie des femmes est sur moi. Il chercha mais ne trouva pas les idoles."
+    },
+    {
+      "ref": "Genesis 31:36",
+      "fr": "Yaakov était en colère et il s'est disputé avec Lavan. Yaakov répondit et dit à Lavan : Quel est mon crime ? Quel péché ai-je commis pour que vous me poursuiviez avec tant d’acharnement ?"
+    },
+    {
+      "ref": "Genesis 31:37",
+      "fr": "Lorsque vous avez fouillé tous mes biens, qu’avez-vous trouvé de tous vos articles ménagers ? Placez-le ici en présence de mes frères et de vos frères, et qu'ils décident entre nous deux."
+    },
+    {
+      "ref": "Genesis 31:38",
+      "fr": "Pendant vingt ans que j'ai été avec vous, vos brebis et vos chèvres n'ont jamais avorté, et je n'ai mangé aucun bélier de vos troupeaux."
+    },
+    {
+      "ref": "Genesis 31:39",
+      "fr": "Je ne t'ai jamais apporté d'animal mutilé. J'en assumerai la responsabilité. Vous avez exigé de ma main une compensation, qu'on me vole un animal de jour ou qu'on me le vole de nuit. [Vous m'avez demandé une compensation pour ce qui manquait au total. Je gardais le jour et je gardais la nuit.]"
+    },
+    {
+      "ref": "Genesis 31:40",
+      "fr": "J'étais consumé par la chaleur brûlante le jour et par la glace [le givre tombait sur moi] la nuit. Mon sommeil a été retiré de mes yeux."
+    },
+    {
+      "ref": "Genesis 31:41",
+      "fr": "Depuis vingt ans que je suis dans ta maison, je t'ai servi quatorze ans pour tes deux filles, et six ans pour tes brebis, mais tu as changé dix fois mon salaire."
+    },
+    {
+      "ref": "Genesis 31:42",
+      "fr": "Si le Dieu de mon père, le Dieu d'Avraham et la peur d'Yitzchok n'avait pas été avec moi [mon soutien], vous m'auriez renvoyé les mains vides. Ma misère [labeur] et le travail [lassitude] de mes mains ont été vus par [révélé devant] Elohim, et Il vous a réprimandé hier soir."
+    },
+    {
+      "ref": "Genesis 31:43",
+      "fr": "Lavan répondit et dit à Yaakov : Les filles sont mes filles, et les fils sont mes fils, et ces troupeaux sont mes troupeaux. Tout ce que vous voyez est à moi. Que puis-je faire à celles-ci, à mes filles, aujourd’hui, ou à leurs enfants qu’elles sont nées ?"
+    },
+    {
+      "ref": "Genesis 31:44",
+      "fr": "Venez donc, faisons un pacte, moi et vous. Qu'il soit témoin entre moi et vous."
+    },
+    {
+      "ref": "Genesis 31:45",
+      "fr": "Yaakov a pris un rocher et l'a élevé comme monument."
+    },
+    {
+      "ref": "Genesis 31:46",
+      "fr": "Yaakov dit à ses frères : Rassemblez des pierres. Ils prirent des pierres et formèrent un monticule, et ils mangèrent sur le monticule."
+    },
+    {
+      "ref": "Genesis 31:47",
+      "fr": "Lavan l'appelait Yegar Sohadusa, mais Yaakov l'appelait Galeid."
+    },
+    {
+      "ref": "Genesis 31:48",
+      "fr": "Lavan dit : Ce monticule est le témoin entre moi et toi ce jour. Il l'appela donc Galeid."
+    },
+    {
+      "ref": "Genesis 31:49",
+      "fr": "Et [il l'a aussi appelé] Mitzpah [Tour de Garde] parce qu'il a dit : [La Parole d'] Adonoy veillera entre moi et vous, lorsque nous serons cachés l'un à la vue de l'autre."
+    },
+    {
+      "ref": "Genesis 31:50",
+      "fr": "Si vous affligez mes filles, ou si vous épousez d'autres femmes en plus de mes filles, il n'y aura peut-être aucun homme avec nous, mais voyez, [la Parole d'] Elohim est témoin entre moi et vous."
+    },
+    {
+      "ref": "Genesis 31:51",
+      "fr": "Lavan dit à Yaakov : Voici ce monticule, et voici ce monument que j'ai érigé entre moi et toi."
+    },
+    {
+      "ref": "Genesis 31:52",
+      "fr": "Ce monticule est témoin, et ce monument est témoin, que je ne passerai pas vers vous au-delà de ce monticule ; et vous ne devez pas passer vers moi au-delà de ce monticule et de ce monument à des fins nuisibles."
+    },
+    {
+      "ref": "Genesis 31:53",
+      "fr": "Le Dieu d'Avraham et le dieu de Nachor, le dieu de leurs pères jugeront entre nous. Yaakov ne jurait que par la peur de son père, Yitzchok [Celui que craignait Yitchok son père]."
+    },
+    {
+      "ref": "Genesis 31:54",
+      "fr": "Yaakov a abattu des animaux sur la montagne et a invité ses frères à manger du pain [un repas]. Ils mangèrent du pain et passèrent la nuit sur la montagne."
+    },
+    {
+      "ref": "Genesis 32:1",
+      "fr": "Lavan se leva tôt le matin. Il embrassa ses fils et ses filles et les bénit. Lavan partit et retourna chez lui."
+    },
+    {
+      "ref": "Genesis 32:2",
+      "fr": "Yaakov poursuivit son chemin et les anges d'Elohim vinrent à sa rencontre."
+    },
+    {
+      "ref": "Genesis 32:3",
+      "fr": "Yaakov les vit et dit : C'est ici le camp d'Elohim. [C'est un camp d'avant Elohim.] Il nomma cet endroit Machanayim."
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "name": "Vayakhel",
+  "range": "Exodus 35:1-38:20",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/vayakhel.json",
+  "verses": [
+    {
+      "ref": "Exodus 35:1",
+      "fr": "Il s'agit des choses dont je vous ai parlé plus tôt lorsque je vous ai ordonné quoi faire pendant la semaine, des choses que D.ieu m'avait dites lorsque j'étais sur le mont Sinaï."
+    },
+    {
+      "ref": "Exodus 35:2",
+      "fr": "וביום השביעי יהיה לכם קדש, et vous ne pouvez pas violer le sabbat même pour achever le Tabernacle plus tôt, bien que le travail sur le Tabernacle soit également une tâche sacrée."
+    },
+    {
+      "ref": "Exodus 35:3",
+      "fr": "לא תבערו אש, même si d'une manière générale, allumer un feu n'est pas une activité productive mais destructrice, étant donné qu'il est un ingrédient presque indispensable dans la plupart des activités, la Torah l'a interdit comme impropre au sabbat."
+    },
+    {
+      "ref": "Exodus 35:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:5",
+      "fr": "Par conséquent, vous choisirez parmi vous des hommes pour collecter les dons pour D.ieu. Cependant, les dons ne doivent pas être des contributions forcées. 'יביאה את תרומת ה, il apportera le don volontaire avec le terumat Hachem qui est obligatoire (le demi-shekel). Ce dernier est connu sous le nom de beka lagulgolet."
+    },
+    {
+      "ref": "Exodus 35:6",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:7",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:8",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:9",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:10",
+      "fr": "את המשכן את אהלו, les documents dont Moïse avait déjà parlé au peuple en 34,32."
+    },
+    {
+      "ref": "Exodus 35:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:12",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:14",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:19",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:20",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:21",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:22",
+      "fr": "ויבואו האנשים על הנשים, avec les femmes qui contribuaient volontairement. Les hommes accompagnaient les femmes pour leur indiquer qu'elles avaient leur approbation. וכל איש אשר הניף תנופת זהב, ainsi que les femmes qui avaient fait don de bijoux en or, ainsi que tous les hommes qui ont fait de telles offrandes en or. La Torah déclare simplement que les dons de différents matériaux n’étaient pas tous regroupés mais que tous les dons d’argent, quelle que soit leur origine, ainsi que tous les dons d’or, qu’ils soient faits par des hommes ou par des femmes, étaient regroupés en fonction de la matière première dont ils étaient constitués."
+    },
+    {
+      "ref": "Exodus 35:23",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:24",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:25",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:26",
+      "fr": "טוו את העזים, alors que la laine était encore sur les chèvres, selon Shabbat 99. La raison était de donner un éclat supplémentaire au fil filé à partir de ces cheveux. De nombreux matériaux subissent une diminution de leur apparence une fois séparés de leur habitat d'origine. Nous sommes tous conscients de ce phénomène avec le miel d’abeille. [L'auteur cite d'autres exemples de nature similaire se produisant avec des produits que je ne connais pas. Éd.]"
+    },
+    {
+      "ref": "Exodus 35:27",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:28",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:29",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:30",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:31",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:32",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:33",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:34",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 35:35",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:1",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:2",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:4",
+      "fr": "איש איש ממלאכתו, la Torah parle des différents types d'artisans des Israélites et de la volonté de chacun d'apporter ses compétences."
+    },
+    {
+      "ref": "Exodus 36:5",
+      "fr": "למלאכה אשר צוה ה' לעשות אותה. Les dons du peuple dépassaient ce qui était nécessaire pour accomplir les tâches spécifiques que D.ieu seul avait ordonné d’accomplir. G n’avait voulu ni ajouts ni omissions. Ceci est exprimé par les mots לעשות אותה בלבד, « accomplir uniquement cette tâche seul ». C'était différent des temples construits par Salomon et Hérode."
+    },
+    {
+      "ref": "Exodus 36:6",
+      "fr": "En revanche, il n'a pas proclamé qu'aucun don ne devait plus être apporté. Mais il a proclamé qu'aucun autre travail, tel que le filage, le tissage, etc., destiné aux matériaux utilisés dans la construction du Tabernacle ne devait être commencé. Il ne faut pas non plus apporter de bois qui avait été apporté aux dimensions correctes avec les parties sculptées. Comparez 35,24 qui discute de la nécessité de traiter à la fois les peaux et les arbres."
+    },
+    {
+      "ref": "Exodus 36:7",
+      "fr": "En fait, le travail effectué par les bénévoles pour toutes les sphères de l'artisanat et du savoir-faire requis était adapté aux besoins du projet en conséquence, pour chaque type de travail requis. לעשות אותה והותר, afin de terminer le travail, et plus encore. Les artisans n'ont pas dû lésiner sur quoi que ce soit, de peur de ne pas disposer de suffisamment de matériaux de la qualité requise pour exécuter le projet de la meilleure façon possible."
+    },
+    {
+      "ref": "Exodus 36:8",
+      "fr": "Parmi eux, les plus qualifiés d'entre eux ont construit le Tabernacle (composants), ce qui impliquait de tisser des formes de personnages dans le tissu afin qu'ils puissent être vus à la fois à l'extérieur et à l'intérieur. (comparez Yuma 72) Ces « rideaux » n'étaient pas épais comme l'était le rideau de séparation, פרכת. Cette partie répète tout ce qui a déjà été mentionné en relation avec les instructions de la Paracha Terumah. La raison pour laquelle la Torah a répété tout cela est pour nous informer que lors de l’exécution du projet, ils ont tout fait pour correspondre à la volonté de D.ieu et pour le mener à bien et le rendre fonctionnel comme D.ieu le souhaitait. הארון, voyant que l'Arche était le mobilier le plus distingué du Tabernacle, Betzalel, le maître artisan et architecte, a façonné cet objet personnellement. Les sages disent de Betzalel qu’il était capable d’utiliser les lettres de l’alphabet de la Langue Sainte d’une manière similaire à la manière dont D.ieu les avait utilisées lors de la création de l’univers. (comparer Berachot 55)"
+    },
+    {
+      "ref": "Exodus 36:9",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:10",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:12",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:14",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:19",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:20",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:21",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:22",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:23",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:24",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:25",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:26",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:27",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:28",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:29",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:30",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:31",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:32",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:33",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:34",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:35",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:36",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:37",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 36:38",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:1",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:2",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:6",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:7",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:8",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:9",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:10",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:12",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:14",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:19",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:20",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:21",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:22",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:23",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:24",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:25",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:26",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:27",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:28",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 37:29",
+      "fr": "ויעש את שמן המשחה קדש, il voulait qu'il dure infiniment (ne pas s'évaporer ou se désintégrer d'une autre manière). Nous avons déjà rencontré le sens du mot קדש dans ce sens dans Exode 30,31 קדש יהיה לכם ולדורותיכם, \"ce sera sacré pour vous car il durera à travers vos générations.\" ואת קטורת הסמים טהור; avec des épices dont tous les éléments étrangers ont été soigneusement retirés, c'est-à-dire טהור, « pur, sans mélange »."
+    },
+    {
+      "ref": "Exodus 38:1",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:2",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:3",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:4",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:5",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:6",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:7",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:8",
+      "fr": "במראות הצובאות, cela n'était pas inclus dans le נחושת התנופה, « du cuivre pour agiter », comme expliqué au verset 30 de ce chapitre dans la Parachat Pekudey. Le bassin en cuivre et son support sont mentionnés comme ayant été construits à partir de la quantité de cuivre représentant ces miroirs. Selon eux, s'approcher de ce domaine sacré avait pour but de montrer qu'ils voulaient entendre les paroles de D.ieu vivant. Le fait qu'il s'agisse d'une pratique acceptable est déjà documenté dans 33,7 והיה כל מבקש ה' יצא אל אהל מועד, « quiconque voulait chercher le Seigneur sortait à la Tente de Rencontre. » Les femmes qui avaient fait don de ces miroirs ont indiqué qu'elles avaient surmonté leur sentiment de vanité, qu'elles considéraient les bijoux et leur nécessité comme une faiblesse humaine. De plus, ils savaient que le temps où ces miroirs avaient eu une utilité constructive était révolu."
+    },
+    {
+      "ref": "Exodus 38:9",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:10",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:11",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:12",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:13",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:14",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:15",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:16",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:17",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:18",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:19",
+      "fr": ""
+    },
+    {
+      "ref": "Exodus 38:20",
+      "fr": ""
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "name": "Matot",
+  "range": "Numbers 30:2-32:42",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/matot.json",
+  "verses": [
+    {
+      "ref": "Numbers 30:2",
+      "fr": "Moshe s'adressa aux chefs tribaux de Bnei Yisroel en disant : « C'est la parole qu'Adonoy a ordonnée."
+    },
+    {
+      "ref": "Numbers 30:3",
+      "fr": "Si un homme fait un vœu à [devant] Adonoy ou fait un serment ; initier lui-même une interdiction ; il ne peut pas profaner sa parole. Il fera tout ce qu'il a dit."
+    },
+    {
+      "ref": "Numbers 30:4",
+      "fr": "[Mais] si une femme fait un vœu à [devant] Adonoy ou s'engage dans la maison de son père alors qu'elle est encore dans sa jeunesse,"
+    },
+    {
+      "ref": "Numbers 30:5",
+      "fr": "et que son père entend son vœu ou son interdiction auto-imposée et reste silencieux, alors tous ses vœux seront maintenus et l'interdiction auto-imposée sera maintenue."
+    },
+    {
+      "ref": "Numbers 30:6",
+      "fr": "Mais si son père l'a retenue le jour où il l'a entendu, alors tous ses vœux et interdictions qu'il s'est imposés ne seront pas maintenus. [D'avant] Adonoy lui pardonnera parce que son père l'a retenue."
+    },
+    {
+      "ref": "Numbers 30:7",
+      "fr": "Si elle est [mariée] à un homme et que ses vœux étaient envers elle-même, ou l'expression d'interdictions qu'elle s'est imposées,"
+    },
+    {
+      "ref": "Numbers 30:8",
+      "fr": "et son mari en a entendu parler et est resté silencieux le jour où il l'a entendu, alors ses vœux resteront en vigueur et les interdictions qu'il s'est imposées resteront en vigueur."
+    },
+    {
+      "ref": "Numbers 30:9",
+      "fr": "Mais si le jour où son mari en entend parler, il la retient, il annule alors le vœu qu'elle avait fait et les interdictions verbales qu'il s'était imposées, et [d'avant] Adonoy lui pardonnerait."
+    },
+    {
+      "ref": "Numbers 30:10",
+      "fr": "Le vœu d'une veuve ou d'une femme divorcée, tout ce qu'elle s'est interdit lui restera."
+    },
+    {
+      "ref": "Numbers 30:11",
+      "fr": "Mais si elle a prononcé ce vœu dans la maison de son mari, ou si elle s'est imposée par serment des interdictions,"
+    },
+    {
+      "ref": "Numbers 30:12",
+      "fr": "et son mari a entendu et est resté silencieux, [et] ne l'a pas retenu, alors tous ses vœux resteront valables, et toutes ses interdictions qu'elle s'est imposées resteront valables."
+    },
+    {
+      "ref": "Numbers 30:13",
+      "fr": "Mais si son mari les annule le jour où il les entend, alors tout ce qui sort de ses lèvres concernant ses vœux et ses interdictions qu'il s'est imposé ne tiendra pas. Son mari les a annulés et [d'avant] Adonoy lui pardonnera."
+    },
+    {
+      "ref": "Numbers 30:14",
+      "fr": "Chaque vœu et chaque serment d'abnégation, son mari peut [soit] le laisser en vigueur, soit son mari peut l'annuler."
+    },
+    {
+      "ref": "Numbers 30:15",
+      "fr": "Mais si son mari reste silencieux d'un jour à l'autre, alors il a respecté tous ses vœux ou tous ses interdits qu'elle a assumés. Il les a maintenues parce qu'il est resté silencieux le jour où il l'a entendu."
+    },
+    {
+      "ref": "Numbers 30:16",
+      "fr": "S’il les annule après les avoir entendus, il devra supporter sa transgression."
+    },
+    {
+      "ref": "Numbers 30:17",
+      "fr": "Telles sont les prescriptions qu’Adonoï a ordonnées à Moché concernant un homme et sa femme, un père et sa fille dans sa jeunesse, alors qu’ils étaient dans la maison de son père."
+    },
+    {
+      "ref": "Numbers 31:1",
+      "fr": "Adonoy a parlé à Moshe, disant."
+    },
+    {
+      "ref": "Numbers 31:2",
+      "fr": "« Vengez-vous des Bnei Yisroel contre les Madianites, après quoi vous serez rassemblés auprès de votre peuple (mourrez). »"
+    },
+    {
+      "ref": "Numbers 31:3",
+      "fr": "Moshe parla au peuple en disant : « Armez des hommes parmi vous pour l'armée et ils seront contre Madian, pour venger [la nation] d'Adonoy contre Madian."
+    },
+    {
+      "ref": "Numbers 31:4",
+      "fr": "Tu en enverras dans l'armée mille de chaque tribu, mille de chaque tribu, pour toutes les tribus d'Israël."
+    },
+    {
+      "ref": "Numbers 31:5",
+      "fr": "Ils furent choisis parmi les milliers d'Israël, mille de chaque tribu, douze mille hommes armés pour l'armée."
+    },
+    {
+      "ref": "Numbers 31:6",
+      "fr": "Moshe envoya à l'armée mille personnes de chaque tribu, eux et Pinchas, fils d'Elozor le kohein, avec les vases sacrés et les trompettes [des lamentations] à la main."
+    },
+    {
+      "ref": "Numbers 31:7",
+      "fr": "Ils lancèrent une campagne contre Madian, comme Adonoy l'avait ordonné à Moshe, et ils tuèrent tous les mâles."
+    },
+    {
+      "ref": "Numbers 31:8",
+      "fr": "Ils tuèrent les rois madianites sur ceux qu'ils avaient tués : Evi, Rekem, Tzur, Chur et Reva – [les] cinq rois de Madian. Ils tuèrent Bilam, fils de Beor, par l'épée."
+    },
+    {
+      "ref": "Numbers 31:9",
+      "fr": "Les Bnei Yisroel capturèrent les femmes madianites et leurs enfants. Ils prirent comme butin tout leur bétail, leurs troupeaux et leurs richesses."
+    },
+    {
+      "ref": "Numbers 31:10",
+      "fr": "Ils incendièrent toutes leurs villes résidentielles et leurs palais [lieux de culte]."
+    },
+    {
+      "ref": "Numbers 31:11",
+      "fr": "Ils prirent [capturèrent] tout le butin, tout ce qui avait été saisi, hommes et bétail,"
+    },
+    {
+      "ref": "Numbers 31:12",
+      "fr": "Et ils amenèrent à Moché et à Elozor les kohéin et à toute la communauté de Bnei Yisroel, les captifs et tout ce qui avait été saisi, et le butin, au camp, dans les plaines de Moav, qui était près du Yardein près de Yereicho."
+    },
+    {
+      "ref": "Numbers 31:13",
+      "fr": "Ils sortirent – ​​Moché, Elozor le kohéin et les princes de la communauté – pour les saluer hors du camp."
+    },
+    {
+      "ref": "Numbers 31:14",
+      "fr": "Moshe était en colère contre les commandants de l'armée, contre les officiers des milliers et contre les officiers des centaines qui étaient revenus du service militaire de la guerre."
+    },
+    {
+      "ref": "Numbers 31:15",
+      "fr": "Moshe leur dit : « Avez-vous laissé vivre toutes les femelles ?"
+    },
+    {
+      "ref": "Numbers 31:16",
+      "fr": "Ce sont les mêmes qui, sur les conseils de Bila’m, se sont impliqués avec Bnei Yisroel pour les inciter à commettre une trahison [devant] Adonoy concernant l’affaire de Pe’or, de sorte que la peste a éclaté au sein de la communauté d’Adonoy."
+    },
+    {
+      "ref": "Numbers 31:17",
+      "fr": "Maintenant, vous exécuterez tout mâle parmi les enfants, et toute femme ayant une connaissance intime d'un homme."
+    },
+    {
+      "ref": "Numbers 31:18",
+      "fr": "Gardez pour vous tous les enfants parmi les femelles qui n'ont aucune connaissance intime d'un homme."
+    },
+    {
+      "ref": "Numbers 31:19",
+      "fr": "Vous resterez hors du camp pendant sept jours. Quiconque aura tué quelqu'un ou touché un cadavre, purifiez-vous, [aspergez-le] le troisième jour et le septième jour, vous et vos captifs."
+    },
+    {
+      "ref": "Numbers 31:20",
+      "fr": "Tout vêtement, tout article en cuir, tout ce qui est fait de produits caprins et tout article en bois subira une telle purification [aspersion dessus]."
+    },
+    {
+      "ref": "Numbers 31:21",
+      "fr": "Elozor le kohein dit aux soldats venus à la guerre : « Ceci est le statut de la Torah qu'Adonoy a ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 31:22",
+      "fr": "Seuls l'or, l'argent, le cuivre, le fer, l'étain et le plomb,"
+    },
+    {
+      "ref": "Numbers 31:23",
+      "fr": "Tout ce qui est placé [de ces matériaux] sur un feu, vous devez passer par le feu, et il sera purifié ; cependant, il doit être purifié [aspergé] avec de l'eau aspergée. Mais tout ce qui n'a pas été mis au feu peut passer dans l'eau."
+    },
+    {
+      "ref": "Numbers 31:24",
+      "fr": "Vous plongerez vos vêtements le septième jour et vous vous purifierez ; après cela, vous pourrez entrer dans le camp."
+    },
+    {
+      "ref": "Numbers 31:25",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 31:26",
+      "fr": "« Comptez le butin saisi, ce qui a été capturé, hommes et animaux, vous, Elozor le kohein et les chefs de la communauté."
+    },
+    {
+      "ref": "Numbers 31:27",
+      "fr": "Répartissez en deux le butin saisi entre ceux qui ont pris la guerre en main, ceux qui sont entrés dans l'armée et toute la communauté."
+    },
+    {
+      "ref": "Numbers 31:28",
+      "fr": "Lévy [sépara] un tribut à Adonoy sur les gens de l'armée qui sont partis à la guerre, un être vivant sur cinq cents du peuple, du bétail, des ânes et des moutons."
+    },
+    {
+      "ref": "Numbers 31:29",
+      "fr": "Prends ceci de leur moitié et donne-le à Elozor le kohein comme cadeau à [avant] Adonoy."
+    },
+    {
+      "ref": "Numbers 31:30",
+      "fr": "Et sur la moitié des Bnei Yisroel, prélevez une part sur cinquante du peuple, du bétail, des ânes, des moutons et de tous les autres animaux, et donnez-la aux Lévites à qui est confié le Mishkon d'Adonoy."
+    },
+    {
+      "ref": "Numbers 31:31",
+      "fr": "Moshe et Elozor le kohein firent ce qu'Adonoy avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 31:32",
+      "fr": "Le butin était, en plus du butin pris par l'armée : 675 000"
+    },
+    {
+      "ref": "Numbers 31:33",
+      "fr": "72 000 bovins,"
+    },
+    {
+      "ref": "Numbers 31:34",
+      "fr": "61 000 ânes,"
+    },
+    {
+      "ref": "Numbers 31:35",
+      "fr": "Et le nombre de femmes qui n'avaient pas de relations intimes avec un homme, toutes âmes confondues, s'élevait à 32 000."
+    },
+    {
+      "ref": "Numbers 31:36",
+      "fr": "La moitié de ceux qui sont allés à l'armée, le nombre de moutons était de 337 500."
+    },
+    {
+      "ref": "Numbers 31:37",
+      "fr": "Le tribut rendu à [avant] Adonoy par les moutons s'élevait à 675."
+    },
+    {
+      "ref": "Numbers 31:38",
+      "fr": "Sur les 36 000 bovins, le tribut à [avant] Adonoy s'élevait à 72."
+    },
+    {
+      "ref": "Numbers 31:39",
+      "fr": "Sur les 30 500 ânes, le tribut rendu à [avant] Adonoy s'élevait à 61."
+    },
+    {
+      "ref": "Numbers 31:40",
+      "fr": "Sur les 16 000 personnes, l'hommage rendu à [avant] Adonoy s'élevait à 32 personnes."
+    },
+    {
+      "ref": "Numbers 31:41",
+      "fr": "Moshe a donné l'hommage en cadeau à [avant] Adonoy, à Elozor le kohein, comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Numbers 31:42",
+      "fr": "De la moitié [désignée] pour Bnei Yisroel que Moshe a divisée des hommes de l'armée [qui ont servi dans l'] armée :"
+    },
+    {
+      "ref": "Numbers 31:43",
+      "fr": "La moitié de la communauté était composée de 337 500 moutons,"
+    },
+    {
+      "ref": "Numbers 31:44",
+      "fr": "36 000 bovins,"
+    },
+    {
+      "ref": "Numbers 31:45",
+      "fr": "30 500 ânes,"
+    },
+    {
+      "ref": "Numbers 31:46",
+      "fr": "et 16 000 personnes."
+    },
+    {
+      "ref": "Numbers 31:47",
+      "fr": "Moshe prit de la moitié des Bnei Yisroel, une part sur cinquante, du peuple et des animaux, et la donna aux Lévites à qui est confié le Mishkon d'Adonoy ; comme Adonoy l'avait commandé à Moshe."
+    },
+    {
+      "ref": "Numbers 31:48",
+      "fr": "Les officiers de l'armée se sont approchés de Moshe – les officiers qui dirigeaient les divisions par milliers, les officiers par milliers et les officiers par centaines."
+    },
+    {
+      "ref": "Numbers 31:49",
+      "fr": "Et ils dirent à Moshe : « Tes serviteurs ont recensé les soldats partis à la guerre [qui sont avec nous] et aucun d’entre nous ne manque."
+    },
+    {
+      "ref": "Numbers 31:50",
+      "fr": "Nous avons donc apporté une offrande pour Adonoy. Tout homme qui a trouvé un objet en or – un bracelet de cheville, ou un bracelet, une bague, une boucle d’oreille ou un fermoir [l’a dédié à Adonoy] pour se racheter devant Adonoy."
+    },
+    {
+      "ref": "Numbers 31:51",
+      "fr": "Moshe et Elozor le kohein leur prirent l'or et tous les articles façonnés."
+    },
+    {
+      "ref": "Numbers 31:52",
+      "fr": "Tout l'or de l'offrande qu'ils réservèrent à Adonoï s'élevait à 16 750 shekolim, provenant des officiers qui étaient à la tête des divisions de milliers et des officiers qui étaient à la tête des divisions de centaines."
+    },
+    {
+      "ref": "Numbers 31:53",
+      "fr": "Les hommes de guerre s’approprièrent le butin."
+    },
+    {
+      "ref": "Numbers 31:54",
+      "fr": "Moshe et Elozor le kohein prirent l'or des officiers qui commandaient les divisions de milliers et de centaines, et ils l'apportèrent à la tente d'assignation en souvenir des Bnei Yisroel devant Adonoy."
+    },
+    {
+      "ref": "Numbers 32:1",
+      "fr": "De très grands troupeaux appartenaient aux enfants (tribus) de Reuvein et de Gad – [un] [nombre] extrêmement grand ; Et ils virent le pays de Yazeir et le pays de Gilad, et voici, c'était un territoire propice au bétail."
+    },
+    {
+      "ref": "Numbers 32:2",
+      "fr": "Les tribus de Reuvein et de Gad vinrent et parlèrent à Moshe et à Elozor le kohein, et aux princes de la communauté, en disant :"
+    },
+    {
+      "ref": "Numbers 32:3",
+      "fr": "« Ataros, Divon, Ya'zeir, [Machlelta et Malbeshta et Kumrin,] Nimrah [Beis Nimrin], Cheshbon [Beis Chushbana], Elalei [Baalei Debaba], Sevam [Kima], Nevo [lieu de sépulture de Moshe] et Be'on,"
+    },
+    {
+      "ref": "Numbers 32:4",
+      "fr": "le pays qu'Adonoï a abattu [ses habitants] avant Bnei Yisroel, est une zone [propre] au bétail ; et tes serviteurs ont du bétail."
+    },
+    {
+      "ref": "Numbers 32:5",
+      "fr": "Ils dirent : \" Si nous avons trouvé grâce à vos yeux, que ce pays soit donné en possession à vos serviteurs. Ne nous faites pas passer le Yardein. \""
+    },
+    {
+      "ref": "Numbers 32:6",
+      "fr": "Moshe dit aux enfants (tribus) de Gad et Reuvein : « Vos frères devraient-ils partir à la guerre pendant que vous vous installez ici ?"
+    },
+    {
+      "ref": "Numbers 32:7",
+      "fr": "Pourquoi découragez-vous les Bnei Yisroel de traverser vers le pays qu'Adonoy leur a donné ?"
+    },
+    {
+      "ref": "Numbers 32:8",
+      "fr": "C'est ce qu'ont fait vos pères lorsque je les ai envoyés de Kadeish Barnei'a [Rekam Geyah] pour explorer le pays."
+    },
+    {
+      "ref": "Numbers 32:9",
+      "fr": "Ils montèrent à Nachal Eshkol et virent le pays. Ils découragèrent alors les Bnei Yisroel de venir [pour ne pas monter] dans le pays qu'Adonoy leur avait donné."
+    },
+    {
+      "ref": "Numbers 32:10",
+      "fr": "Adonoy a manifesté sa colère ce jour-là et il a juré en disant :"
+    },
+    {
+      "ref": "Numbers 32:11",
+      "fr": "'Aucun des hommes qui sont venus d'Egypte ne verra - ceux qui ont vingt ans et plus - le pays que j'ai juré à Avraham, Yitzchok et Yaakov, car ils ne m'ont pas pleinement suivi [me craignent]."
+    },
+    {
+      "ref": "Numbers 32:12",
+      "fr": "À l’exception de Kaleiv, fils de Yefuneh, le Kenizite, et de Yehoshua, fils de Noun, car ils ont pleinement suivi [la peur d’] Adonoy.’"
+    },
+    {
+      "ref": "Numbers 32:13",
+      "fr": "Adonoy manifesta sa colère contre Yisroel et Il les fit errer dans le désert pendant quarante ans, jusqu'à la fin (la mort) de toute la génération qui avait fait ce qui était mal aux yeux d'Adonoy."
+    },
+    {
+      "ref": "Numbers 32:14",
+      "fr": "Voici, vous vous êtes maintenant levés à la place de vos pères en tant que groupe [disciples] de pécheurs, pour ajouter à la [puissante] colère d'Adonoy contre Yisroel."
+    },
+    {
+      "ref": "Numbers 32:15",
+      "fr": "Si vous cessez de le suivre, il les placera de nouveau dans le désert. et vous détruirez cette nation entière."
+    },
+    {
+      "ref": "Numbers 32:16",
+      "fr": "Ils (les tribus de Reuvein et de Gad) se sont approchés de lui (Moshe) et lui ont dit : « Nous construirons ici des enclos pour nos troupeaux et des villes pour nos enfants."
+    },
+    {
+      "ref": "Numbers 32:17",
+      "fr": "Nous nous armerons alors rapidement et serons prêts à passer devant Bnei Yisroel jusqu'à ce que nous les ayons amenés chez eux. Nos enfants habiteront dans des villes fortifiées à cause des habitants du pays."
+    },
+    {
+      "ref": "Numbers 32:18",
+      "fr": "Nous ne retournerons pas chez nous tant que chaque habitant de Bnei Yisroel n'aura pas pris possession de ses biens héréditaires."
+    },
+    {
+      "ref": "Numbers 32:19",
+      "fr": "Mais nous ne voulons pas prendre possession avec eux de l’autre côté du Yardein et au-delà, car notre héritage nous est parvenu à l’est du Yardein."
+    },
+    {
+      "ref": "Numbers 32:20",
+      "fr": "Moshe leur dit : « Si vous faites cela, si vous vous armez devant [la nation d’] Adonoy et partez à la guerre,"
+    },
+    {
+      "ref": "Numbers 32:21",
+      "fr": "et tout homme armé traversera le Yardein devant [la nation d'] Adonoy, jusqu'à ce qu'il ait repoussé ses ennemis devant lui,"
+    },
+    {
+      "ref": "Numbers 32:22",
+      "fr": "et le pays est conquis devant [la nation d'] Adonoy, après quoi tu reviendras. Vous serez alors justifiés de [devant] Adonoy et de Yisroel, et ce pays deviendra le vôtre pour toujours, devant Adonoy."
+    },
+    {
+      "ref": "Numbers 32:23",
+      "fr": "Mais si vous ne le faites pas, voici, vous aurez péché contre [avant] Adonoy et vous devez réaliser que votre péché vous trouvera !"
+    },
+    {
+      "ref": "Numbers 32:24",
+      "fr": "Construisez-vous des villes pour vos enfants et des enclos pour vos brebis. Mais ce que vous avez exprimé verbalement, vous devez l’accomplir."
+    },
+    {
+      "ref": "Numbers 32:25",
+      "fr": "La tribu de Gad et Reuvein dit à Moshe : « Vos serviteurs feront ce que mon maître vous demande."
+    },
+    {
+      "ref": "Numbers 32:26",
+      "fr": "Nos enfants, nos femmes, notre bétail et tout notre bétail resteront là, dans les villes de Gil'ad."
+    },
+    {
+      "ref": "Numbers 32:27",
+      "fr": "Et tes serviteurs, tous ceux de l'armée, passeront devant [la nation d'] Adonoy, pour la guerre, comme mon maître l'ordonne."
+    },
+    {
+      "ref": "Numbers 32:28",
+      "fr": "Moshe leur ordonna à Elozor le kohéin, à Yehoshua, fils de Noun, et aux chefs des tribus de Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 32:29",
+      "fr": "Moshe leur dit : « Si la tribu de Gad et Reuvein traversent le Yardein avec vous, tous les hommes armés pour le combat devant [la nation d'] Adonoy, et que le pays est conquis devant vous, vous leur donnerez le pays de Gil'ad comme possession permanente."
+    },
+    {
+      "ref": "Numbers 32:30",
+      "fr": "Mais s’ils ne passent pas avec vous en armes pour le combat, ils prendront possession parmi vous au pays de Canaan."
+    },
+    {
+      "ref": "Numbers 32:31",
+      "fr": "Les tribus de Gad et de Reuvein répondirent en disant : « Comme Adonoy a parlé à vos serviteurs, nous ferons de même."
+    },
+    {
+      "ref": "Numbers 32:32",
+      "fr": "Nous traverserons armés pour le combat devant [la nation d’] Adonoy, vers le pays de Canaan, et nous aurons [alors] notre héritage permanent de ce côté du Yardein."
+    },
+    {
+      "ref": "Numbers 32:33",
+      "fr": "Moshe leur donna — à la tribu de Gad, à la tribu de Reuvein et à la moitié de la tribu de Menashe, fils de Yossif — l'empire de Sichon, roi des Émoréens et l'empire d'Og, roi du Bashan [Masnon], le pays ainsi que les villes à l'intérieur de leurs frontières, même les villes du pays environnant."
+    },
+    {
+      "ref": "Numbers 32:34",
+      "fr": "Les fils de Gad bâtirent Divon, Ataros, Aro'eir,"
+    },
+    {
+      "ref": "Numbers 32:35",
+      "fr": "Atros Shofan, Yazeir, Yogbehah [les Hauts],"
+    },
+    {
+      "ref": "Numbers 32:36",
+      "fr": "Beis Nimra et Beis Haran comme villes fortifiées et bergeries."
+    },
+    {
+      "ref": "Numbers 32:37",
+      "fr": "La tribu de Reuvein bâtit Cheshbon, El'alei, Kiryasayim,"
+    },
+    {
+      "ref": "Numbers 32:38",
+      "fr": "Nevo, Ba’al Me’on – leurs noms ayant été modifiés, et Sivmah. Ils conservèrent les noms des autres villes qu'ils bâtirent."
+    },
+    {
+      "ref": "Numbers 32:39",
+      "fr": "Les fils de Makir, fils de Ménaché, allèrent à Gilad, s'en emparèrent et chassèrent les Amoréens qui s'y trouvaient."
+    },
+    {
+      "ref": "Numbers 32:40",
+      "fr": "Moshe donna le Gil'ad à Machir, fils de Menashe, et il s'y installa."
+    },
+    {
+      "ref": "Numbers 32:41",
+      "fr": "Yaïr, fils de Ménaché, alla conquérir leurs villages et les appela Chavos Yaïr."
+    },
+    {
+      "ref": "Numbers 32:42",
+      "fr": "Novach partit conquérir Kenas et ses faubourgs, et l'appela Novach, d'après son propre nom."
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "name": "Vayigash",
+  "range": "Genesis 44:18-47:27",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayigash.json",
+  "verses": [
+    {
+      "ref": "Genesis 44:18",
+      "fr": "Yehudah s'approcha de lui [Yoseif] et lui dit : S'il te plaît, mon maître, laisse ton serviteur parler [maintenant] un mot aux oreilles de mon maître [devant mon maître], et ne te mets pas en colère contre ton serviteur ; car tu es l’égal de Pharaon."
+    },
+    {
+      "ref": "Genesis 44:19",
+      "fr": "Mon maître interrogea ses serviteurs, disant : Avez-vous un père ou un frère ?"
+    },
+    {
+      "ref": "Genesis 44:20",
+      "fr": "Nous avons dit à mon maître : Nous avons un père vieux et un jeune enfant de sa vieillesse. Son frère est mort, et lui seul survit de sa mère, et son père l'aime."
+    },
+    {
+      "ref": "Genesis 44:21",
+      "fr": "Vous avez dit à vos serviteurs : Faites-le descendre vers moi, afin que je pose mes yeux sur lui."
+    },
+    {
+      "ref": "Genesis 44:22",
+      "fr": "Nous avons dit à mon maître : le garçon ne peut pas quitter son père, car s'il quittait son père, il mourrait."
+    },
+    {
+      "ref": "Genesis 44:23",
+      "fr": "Vous avez alors dit à vos serviteurs : Si votre plus jeune frère ne descend pas avec vous, vous ne reverrez plus ma face."
+    },
+    {
+      "ref": "Genesis 44:24",
+      "fr": "Quand nous sommes allés chez ton serviteur, mon père, nous lui avons fait part des paroles de mon maître."
+    },
+    {
+      "ref": "Genesis 44:25",
+      "fr": "Notre père a dit : Retourne et achète-nous un peu de nourriture [des céréales]."
+    },
+    {
+      "ref": "Genesis 44:26",
+      "fr": "Nous avons dit : Nous ne pouvons pas descendre. Si notre plus jeune frère est avec nous, nous descendrons, car nous ne pouvons pas voir le visage de cet homme, à moins que notre plus jeune frère ne soit avec nous."
+    },
+    {
+      "ref": "Genesis 44:27",
+      "fr": "Votre serviteur, mon père nous a dit : Vous savez que ma femme [Rochel] m'a donné deux fils."
+    },
+    {
+      "ref": "Genesis 44:28",
+      "fr": "L’un d’eux m’a [déjà] quitté, et j’ai dit : il est sûrement mis en pièces [mort]. Je ne l'ai pas vu jusqu'à présent."
+    },
+    {
+      "ref": "Genesis 44:29",
+      "fr": "Si vous m'enlevez aussi celui-ci, et que le malheur [la mort] lui arrive, vous ferez descendre ma tête blanche dans le tombeau dans le mal."
+    },
+    {
+      "ref": "Genesis 44:30",
+      "fr": "Et maintenant, quand je viens chez ton serviteur, mon père, et que le garçon n'est pas avec nous ; son âme est liée à celle du garçon [aussi aimée que la sienne]."
+    },
+    {
+      "ref": "Genesis 44:31",
+      "fr": "Quand il verra que le garçon n’est pas [avec nous], il mourra. Vos serviteurs auront fait tomber dans la douleur la tête blanche de votre serviteur, notre père, au tombeau."
+    },
+    {
+      "ref": "Genesis 44:32",
+      "fr": "Car ton serviteur s'est porté garant de l'enfant auprès de mon père, en disant : Si je ne te l'amène pas, j'aurai péché envers mon père pour toujours."
+    },
+    {
+      "ref": "Genesis 44:33",
+      "fr": "Et maintenant, que ton serviteur reste l'esclave de mon maître à la place du garçon. Laissez le garçon monter avec ses frères."
+    },
+    {
+      "ref": "Genesis 44:34",
+      "fr": "Car comment monterais-je chez mon père quand le garçon n'est pas avec moi ? de peur que je ne voie le mal qui arriverait à mon père."
+    },
+    {
+      "ref": "Genesis 45:1",
+      "fr": "Yoseif n'a pas pu contenir ses émotions en présence de tous ceux qui se tenaient devant lui, et il a crié : Que tout le monde quitte ma présence. Aucun homme ne resta avec lui lorsque Yossif se fit connaître à ses frères."
+    },
+    {
+      "ref": "Genesis 45:2",
+      "fr": "Il pleura à haute voix, et les Égyptiens l'apprirent, et les gens de la maison de Pharaon l'entendirent aussi."
+    },
+    {
+      "ref": "Genesis 45:3",
+      "fr": "Yoseif dit à ses frères, je suis Yoseif, mon père est-il toujours en vie ? Ses frères ne pouvaient lui répondre, car ils étaient choqués de sa présence."
+    },
+    {
+      "ref": "Genesis 45:4",
+      "fr": "[Puis] Yoseif dit à ses frères : S'il vous plaît, [maintenant] approchez-vous de moi. Ils s'approchèrent [de lui] et il dit : Je suis Yossif, ton frère, que tu as vendu en Égypte."
+    },
+    {
+      "ref": "Genesis 45:5",
+      "fr": "Maintenant, ne vous inquiétez pas et ne vous fâchez pas contre vous-mêmes parce que vous m'avez vendu ici ; car c'est pour conserver la vie qu'Elohim m'a envoyé [ici] devant toi."
+    },
+    {
+      "ref": "Genesis 45:6",
+      "fr": "Car voici deux ans qu'il y a une famine dans le pays ; et pendant encore cinq ans, il n'y aura ni labourage ni récolte."
+    },
+    {
+      "ref": "Genesis 45:7",
+      "fr": "Elohim m'a envoyé [ici] avant toi pour assurer ta survie dans le pays et pour te garder en vie en vue d'une grande délivrance."
+    },
+    {
+      "ref": "Genesis 45:8",
+      "fr": "Or, ce n'est pas toi qui m'as envoyé ici, mais [c'était d'avant] Elohim ; et il m'a établi comme père de Pharaon, et maître de tout [le peuple de] sa maison, et chef de tout le pays d'Égypte."
+    },
+    {
+      "ref": "Genesis 45:9",
+      "fr": "Dépêche-toi, monte vers mon père et dis-lui : voici ce que dit ton fils Yossif : Elohim m'a fait maître de toute l'Egypte. Descendez vers moi, ne tardez pas."
+    },
+    {
+      "ref": "Genesis 45:10",
+      "fr": "Vous habiterez au pays de Goshen, et vous serez près de moi, vous, vos enfants, vos petits-enfants, vos brebis, votre bétail et tout ce qui vous appartient."
+    },
+    {
+      "ref": "Genesis 45:11",
+      "fr": "C'est là que je pourvoirai à vos besoins, car il y aura encore cinq années de famine ; de peur que tu ne deviennes pauvre, ainsi que [les gens de] ta maison et tout ce qui est à toi."
+    },
+    {
+      "ref": "Genesis 45:12",
+      "fr": "Voici, tes yeux voient avec les yeux de mon frère Binyomin que je te parle de ma propre bouche [dans ta langue]."
+    },
+    {
+      "ref": "Genesis 45:13",
+      "fr": "Raconte à mon père tout mon honneur en Égypte et tout ce que tu as vu. Dépêchez-vous et amenez mon père ici."
+    },
+    {
+      "ref": "Genesis 45:14",
+      "fr": "Il tomba alors sur le cou de son frère Binyomin et pleura, et Binyomin pleura sur son cou."
+    },
+    {
+      "ref": "Genesis 45:15",
+      "fr": "Il embrassa tous ses frères et pleura sur [leur cou]. Après cela, ses frères lui parlèrent."
+    },
+    {
+      "ref": "Genesis 45:16",
+      "fr": "On apprit dans la maison du Pharaon que les frères de Yossif étaient venus. C'était une bonne [nouvelle] aux yeux de Pharaon et aux yeux de ses serviteurs."
+    },
+    {
+      "ref": "Genesis 45:17",
+      "fr": "Pharaon dit à Yossif : Dis à tes frères de faire ceci : chargez vos bêtes, et allez et entrez dans le pays de Canaan."
+    },
+    {
+      "ref": "Genesis 45:18",
+      "fr": "Amenez votre père et les gens de vos maisons et venez vers moi ; et je te donnerai le meilleur du pays d'Égypte. Vous mangerez de la graisse du pays."
+    },
+    {
+      "ref": "Genesis 45:19",
+      "fr": "Il vous est maintenant ordonné de faire ce qui suit : Prenez des chariots du pays d'Égypte pour vos petits et pour vos femmes. Amène ton père et viens."
+    },
+    {
+      "ref": "Genesis 45:20",
+      "fr": "Ne vous souciez pas de vos biens, car le meilleur de l'Égypte est à vous,"
+    },
+    {
+      "ref": "Genesis 45:21",
+      "fr": "Les fils d’Israël l’ont fait. Yossif leur donna des chariots sur ordre de Pharaon et il leur donna des provisions pour le voyage."
+    },
+    {
+      "ref": "Genesis 45:22",
+      "fr": "À chacun d’eux, il a donné des vêtements de rechange. Il donna à Binyomin trois cents pièces d'argent et cinq vêtements de rechange."
+    },
+    {
+      "ref": "Genesis 45:23",
+      "fr": "Il envoya à son père dix ânes mâles chargés du meilleur de l'Égypte, et dix ânesses chargées de blé, de pain et de vivres pour son père pour le voyage."
+    },
+    {
+      "ref": "Genesis 45:24",
+      "fr": "Il a renvoyé ses frères et ils sont partis. Il leur dit : Ne vous inquiétez pas en chemin."
+    },
+    {
+      "ref": "Genesis 45:25",
+      "fr": "Ils montèrent d'Égypte et arrivèrent au pays de Canaan, chez leur père Yaakov."
+    },
+    {
+      "ref": "Genesis 45:26",
+      "fr": "Ils lui dirent : Yossif est toujours en vie et il est le chef de tout le pays d'Égypte. Son cœur [de Yaakov] s'est arrêté [Les mots ont créé de l'incertitude dans son cœur], car il ne pouvait pas les croire."
+    },
+    {
+      "ref": "Genesis 45:27",
+      "fr": "Ils lui racontèrent toutes les paroles de Yossif qu'il leur avait dites, et il vit les chariots que Yossif avait envoyés pour le transporter. [Puis] l'esprit de [la prophétie reposait sur] leur père Yaakov fut ravivé."
+    },
+    {
+      "ref": "Genesis 45:28",
+      "fr": "Yisrael a dit : C'est trop [C'est une grande joie pour moi] ! Mon fils Yoseif vit toujours. J'irai le voir avant de mourir."
+    },
+    {
+      "ref": "Genesis 46:1",
+      "fr": "Yisrael voyagea avec tout ce qu'il possédait et arriva à Beer Sheva. Il y offrit des sacrifices au Dieu de son père Itschok."
+    },
+    {
+      "ref": "Genesis 46:2",
+      "fr": "Elohim dit à Israël dans une vision nocturne, et Il dit : Yaakov, Yaakov. Et il dit : Me voici."
+    },
+    {
+      "ref": "Genesis 46:3",
+      "fr": "Il a dit que je suis le Tout-Puissant, le Dieu de ton père. N'aie pas peur d'attaquer l'Égypte, car c'est là que je ferai de toi une grande nation."
+    },
+    {
+      "ref": "Genesis 46:4",
+      "fr": "Je descendrai avec toi en Égypte, et je t'en ferai certainement remonter. Yossif mettra sa main sur vos yeux."
+    },
+    {
+      "ref": "Genesis 46:5",
+      "fr": "Yaakov se leva de Beer Sheva. Les fils d'Israël transportèrent leur père Yaakov, leurs enfants, leurs femmes dans les chariots que Pharaon avait envoyés pour le transporter."
+    },
+    {
+      "ref": "Genesis 46:6",
+      "fr": "Ils prirent leurs troupeaux et leurs biens qu'ils avaient acquis au pays de Canaan, et ils arrivèrent en Egypte ; Yaakov et tous ses descendants avec lui."
+    },
+    {
+      "ref": "Genesis 46:7",
+      "fr": "Ses fils et petits-fils étaient avec lui. Il fit venir avec lui en Égypte ses filles et ses petites-filles, ainsi que toute sa descendance."
+    },
+    {
+      "ref": "Genesis 46:8",
+      "fr": "Tels sont les noms des fils d'Israël qui venaient en Égypte, Yaakov et ses fils. Le premier-né de Yaakov était Reuvein."
+    },
+    {
+      "ref": "Genesis 46:9",
+      "fr": "Les fils de Reuvein [étaient] : Chanoch, Phallu, Chetzron et Carmi."
+    },
+    {
+      "ref": "Genesis 46:10",
+      "fr": "Les fils de Shimon étaient : Yemueil, Yamin, Ohad, Yachin, Tzochar et Shaul, fils de la Cananéenne."
+    },
+    {
+      "ref": "Genesis 46:11",
+      "fr": "Les fils de Leivi étaient Guershon, Kehas et Merari."
+    },
+    {
+      "ref": "Genesis 46:12",
+      "fr": "Les fils de Juda étaient : Eir, Onan, Sheiloh, Peretz et Zorach. Eir et Onan moururent au pays de Canaan. Les fils de Peretz étaient Chetzron et Chamul."
+    },
+    {
+      "ref": "Genesis 46:13",
+      "fr": "Les fils de Yissacar étaient : Tolah, Phuvah, Yov et Shimron."
+    },
+    {
+      "ref": "Genesis 46:14",
+      "fr": "Les fils de Zevulun étaient : Sered, Eilon et Yachle'eil."
+    },
+    {
+      "ref": "Genesis 46:15",
+      "fr": "Ce sont les fils de Léa qu'elle enfanta à Yaakov à Padan Aram, avec sa fille Deenah. Toutes les âmes de ses fils et filles étaient au nombre de trente-trois."
+    },
+    {
+      "ref": "Genesis 46:16",
+      "fr": "Les fils de Gad étaient : Tsifyon, Chagi, Shuni, Etzbon, Eiri, Arodi et Areili."
+    },
+    {
+      "ref": "Genesis 46:17",
+      "fr": "Fils d'Aser : Yimnah, Yishva, Yishvi et Beriah, et leur sœur Serach. Les fils de Beriah [étaient] : Chever et Malki'eil."
+    },
+    {
+      "ref": "Genesis 46:18",
+      "fr": "Ce sont là les fils de Zilpa, que Lavan donna à sa fille Léa. Elle les porta à Yaakov, seize âmes."
+    },
+    {
+      "ref": "Genesis 46:19",
+      "fr": "Les fils de Rochel, la femme de Yaakov [étaient] : Yoseif et Binyomin."
+    },
+    {
+      "ref": "Genesis 46:20",
+      "fr": "Au pays d'Égypte, [des fils] naquirent à Yossif, qui lui furent nés d'Osnas, fille de Poti Phera, prêtre [chef] d'On ; [c'étaient] Menasheh et Ephraïm."
+    },
+    {
+      "ref": "Genesis 46:21",
+      "fr": "Les fils de Binyomin [étaient] : Béla, Becher, Ashbeil, Geiroh, Naamon, Eichi, Rosh, Muppim, Chuppim et Ard."
+    },
+    {
+      "ref": "Genesis 46:22",
+      "fr": "Ce sont les fils de Rochel qu'elle enfanta à Yaakov. Toutes les âmes étaient quatorze."
+    },
+    {
+      "ref": "Genesis 46:23",
+      "fr": "Les fils de Don [étaient] Chushim."
+    },
+    {
+      "ref": "Genesis 46:24",
+      "fr": "Les fils de Naftali étaient : Yachtze'eil, Guni, Yeitzer et Shileim."
+    },
+    {
+      "ref": "Genesis 46:25",
+      "fr": "Ce sont les fils de Bilhah que Lavan donna à sa fille Rochel. Elle les porta à Yaakov, sept âmes en tout."
+    },
+    {
+      "ref": "Genesis 46:26",
+      "fr": "Toutes les âmes accompagnant Yaakov en Égypte et sorties de ses reins, sans compter les femmes des fils de Yaakov, le total des âmes était de soixante-six."
+    },
+    {
+      "ref": "Genesis 46:27",
+      "fr": "Les fils de Yossif qui lui naquirent en Égypte étaient [encore] deux âmes. Toutes les âmes de la maison de Yaakov qui vinrent en Égypte étaient soixante-dix."
+    },
+    {
+      "ref": "Genesis 46:28",
+      "fr": "Il [Yaakov] envoya Yehouda devant lui vers Yossif, afin qu'il lui ordonne de [dégager une place devant lui à] Goshen. Ils arrivèrent ensuite au pays de Goshen."
+    },
+    {
+      "ref": "Genesis 46:29",
+      "fr": "Yossif attela son char et monta saluer son père, Yisrael, à Goshen. [Quand] il apparut devant lui, il tomba sur son cou et pleura longuement sur son cou."
+    },
+    {
+      "ref": "Genesis 46:30",
+      "fr": "Yisrael dit à Yossif : Maintenant je peux [si je devais] mourir [maintenant j'aurai été consolé] ; après avoir vu ton visage, tu es vivant."
+    },
+    {
+      "ref": "Genesis 46:31",
+      "fr": "Yossif dit à ses frères et à la maison de son père : Je monterai et je le dirai à Pharaon. Je lui dirai : Mes frères et la maison de mon père, qui étaient au pays de Canaan, sont venus vers moi."
+    },
+    {
+      "ref": "Genesis 46:32",
+      "fr": "Les hommes sont bergers, car ils possèdent du bétail. Ils ont amené leurs moutons, leur bétail et tous leurs biens."
+    },
+    {
+      "ref": "Genesis 46:33",
+      "fr": "Et quand Pharaon vous appelle et vous dit : Quelle est votre occupation,"
+    },
+    {
+      "ref": "Genesis 46:34",
+      "fr": "Tu devrais dire : Tes serviteurs ont été éleveurs depuis notre jeunesse jusqu'à présent, nous et nos pères ; afin que vous puissiez vous établir dans le pays de Goshen, car tout berger est en horreur envers l'Égypte [les Égyptiens éloignent tous les bergers]."
+    },
+    {
+      "ref": "Genesis 47:1",
+      "fr": "Yossif vint et informa Pharaon, et il dit : Mon père et mes frères, leurs moutons, leur bétail et tous leurs biens, sont venus du pays de Canaan, et ils sont maintenant au pays de Goshen."
+    },
+    {
+      "ref": "Genesis 47:2",
+      "fr": "Il prit cinq hommes parmi ses frères et les présenta au Pharaon."
+    },
+    {
+      "ref": "Genesis 47:3",
+      "fr": "Pharaon dit à ses frères : Quelle est ta profession ? Ils dirent à Pharaon : Tes serviteurs sont des bergers, nous et nos pères."
+    },
+    {
+      "ref": "Genesis 47:4",
+      "fr": "Ils dirent à Pharaon : Nous sommes venus vivre temporairement dans ce pays, car il n'y a pas de pâturage pour les troupeaux de ton serviteur, car la famine est grande au pays de Canaan. Maintenant donc, s'il vous plaît, laissez vos serviteurs [maintenant] s'installer au pays de Goshen."
+    },
+    {
+      "ref": "Genesis 47:5",
+      "fr": "Pharaon dit à Yossif : Ton père et tes frères sont venus vers toi."
+    },
+    {
+      "ref": "Genesis 47:6",
+      "fr": "Le pays d’Égypte est devant vous. Dans le meilleur du pays, installe ton père et tes frères. Qu'ils s'installent au pays de Goshen. Si vous connaissez parmi eux des hommes capables, nommez-les comme gardiens du bétail sur mes [troupeaux.]"
+    },
+    {
+      "ref": "Genesis 47:7",
+      "fr": "Yossif fit alors venir Yaakov, son père, et le présenta à Pharaon ; et Yaakov bénit Pharaon."
+    },
+    {
+      "ref": "Genesis 47:8",
+      "fr": "Pharaon dit à Yaakov : Combien d'années compte ta vie ?"
+    },
+    {
+      "ref": "Genesis 47:9",
+      "fr": "Yaakov dit à Pharaon : Les années de ma résidence temporaire sont de cent trente ans. Les jours de ma vie ont été rares et difficiles. Je n’ai pas atteint les années de la vie de mon père, à l’époque de leur résidence temporaire."
+    },
+    {
+      "ref": "Genesis 47:10",
+      "fr": "Yaakov bénit Pharaon et quitta la présence de Pharaon."
+    },
+    {
+      "ref": "Genesis 47:11",
+      "fr": "Yossif installa son père et ses frères et leur donna une possession au pays d'Égypte, dans la meilleure partie du pays, au pays de Ramséis, comme l'avait ordonné Pharaon."
+    },
+    {
+      "ref": "Genesis 47:12",
+      "fr": "Yossif a fourni à son père, à ses frères et à toute la maison de son père du pain selon les besoins des enfants."
+    },
+    {
+      "ref": "Genesis 47:13",
+      "fr": "Il n’y avait pas de pain dans tout le pays, car la famine était très grande. Le pays d'Égypte et Canaan étaient épuisés à cause de la famine."
+    },
+    {
+      "ref": "Genesis 47:14",
+      "fr": "Yossif rassembla tout l'argent qui se trouvait au pays d'Égypte et au pays de Canaan, grâce aux achats [de céréales] qu'ils faisaient. Yossif apporta l'argent à la maison de Pharaon."
+    },
+    {
+      "ref": "Genesis 47:15",
+      "fr": "Lorsque l'argent fut épuisé au pays d'Égypte et au pays de Canaan, tout le peuple d'Égypte vint vers Yossif, disant : Donnez-nous du pain ; pourquoi devrions-nous mourir en votre présence, [juste] parce qu'il n'y a pas d'argent ?"
+    },
+    {
+      "ref": "Genesis 47:16",
+      "fr": "Yoseif a dit : Apportez votre bétail, et je vous donnerai [de la nourriture] [en échange] pour votre bétail s'il n'y a plus d'argent."
+    },
+    {
+      "ref": "Genesis 47:17",
+      "fr": "Ils apportèrent leur bétail à Yossif, et Yossif leur donna du pain [en échange] pour leurs chevaux, leurs troupeaux de moutons, leurs troupeaux de bœufs et leurs ânes. Il les nourrissait avec du pain en échange de tout leur bétail, cette année-là."
+    },
+    {
+      "ref": "Genesis 47:18",
+      "fr": "Cette année-là touchait à sa fin. Ils vinrent le trouver la deuxième année et lui dirent : Nous ne refusons rien à mon maître, car l'argent est épuisé et les troupeaux de bétail appartiennent à mon maître. Il ne reste plus rien devant mon maître sauf nos corps et notre terre."
+    },
+    {
+      "ref": "Genesis 47:19",
+      "fr": "Pourquoi devrions-nous mourir sous vos yeux, nous et notre terre ? Achetez-nous et notre terre [en échange] contre du pain. Nous et notre terre deviendrons les esclaves de Pharaon. Donnez-nous des semences, vivons et ne mourons pas, et que la terre ne devienne pas désolée [incultivée]."
+    },
+    {
+      "ref": "Genesis 47:20",
+      "fr": "Yossif acheta tout le pays d'Égypte pour Pharaon, car chaque Égyptien vendit son champ, parce que la famine les frappait. Ainsi, la terre devint la [propriété] de Pharaon."
+    },
+    {
+      "ref": "Genesis 47:21",
+      "fr": "Il [Yoseif] transféra ensuite le peuple dans les villes [de ville en ville], d'un bout à l'autre de la frontière égyptienne."
+    },
+    {
+      "ref": "Genesis 47:22",
+      "fr": "Mais il n'acheta pas le pays des prêtres, parce que les prêtres avaient une part de Pharaon. Ils mangèrent le lot que Pharaon leur avait donné et c'est pourquoi ils ne vendirent pas leurs terres."
+    },
+    {
+      "ref": "Genesis 47:23",
+      "fr": "Yossif dit au peuple : Voici, je vous achète aujourd'hui, vous et vos terres, pour Pharaon. Here is seed, plant [it in] the soil."
+    },
+    {
+      "ref": "Genesis 47:24",
+      "fr": "Quand il produit [le produit est récolté], vous devez en donner un cinquième à Pharaon. Vous aurez quatre parts pour les semences de vos champs, pour votre nourriture et pour ceux de vos maisons, et pour la nourriture de vos petits enfants."
+    },
+    {
+      "ref": "Genesis 47:25",
+      "fr": "Ils dirent : Vous nous avez sauvé la vie. Puissions-nous trouver grâce aux yeux de mon maître, et nous serons esclaves de Pharaon."
+    },
+    {
+      "ref": "Genesis 47:26",
+      "fr": "Yossif a promulgué une loi sur le pays d'Égypte jusqu'à ce jour, selon laquelle un cinquième appartient [ils devraient donner un cinquième] à Pharaon. Sauf que le pays des prêtres seul n'appartenait pas à Pharaon."
+    },
+    {
+      "ref": "Genesis 47:27",
+      "fr": "Israël vivait au pays d’Égypte, au pays de Goshen. Ils y ont acquis des propriétés. Ils furent fructueux et [leur population] augmenta considérablement."
+    }
+  ]
+}

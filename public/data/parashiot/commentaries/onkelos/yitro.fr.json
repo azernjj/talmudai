@@ -1,0 +1,308 @@
+{
+  "name": "Yitro",
+  "range": "Exodus 18:1-20:23",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/yitro.json",
+  "verses": [
+    {
+      "ref": "Exodus 18:1",
+      "fr": "Yisro apprit – prêtre [ministre] de Madian, beau-père de Moshe – tout ce qu'Elohim avait fait pour Moshe et pour son peuple Yisrael, qu'Adonoy avait fait sortir Yisrael d'Egypte."
+    },
+    {
+      "ref": "Exodus 18:2",
+      "fr": "Le beau-père de Moshe, Yisro a pris la femme de Moshe, Tzipporah, après l'avoir renvoyée [à la maison],"
+    },
+    {
+      "ref": "Exodus 18:3",
+      "fr": "avec ses deux fils. L’un d’eux s’appelait Gershom, parce qu’il [Moshe] avait dit : « J’étais un étranger dans un pays étranger »."
+    },
+    {
+      "ref": "Exodus 18:4",
+      "fr": "Le nom de l'autre était Éliézer, parce que le Dieu de mon père m'a secouru et m'a délivré de l'épée de Pharaon."
+    },
+    {
+      "ref": "Exodus 18:5",
+      "fr": "Le beau-père de Moshe, Yisro, est venu, avec ses fils [de Moshe] et sa femme, à Moshe, dans le désert où il campait près de la montagne [sur laquelle la gloire] de Dieu [a été révélée]."
+    },
+    {
+      "ref": "Exodus 18:6",
+      "fr": "Il dit à Moshe : « Moi, ton beau-père Yisro, je viens vers toi avec ta femme ; ses deux fils sont avec elle. »"
+    },
+    {
+      "ref": "Exodus 18:7",
+      "fr": "Moshe est sorti saluer son beau-père. Il s'est prosterné et [puis] l'a embrassé. Ils s’informèrent mutuellement de leur bien-être et entrèrent dans la tente."
+    },
+    {
+      "ref": "Exodus 18:8",
+      "fr": "Moshe raconta à son beau-père tout ce qu'Adonoy avait fait à Pharaon et à l'Égypte à cause d'Israël ; y compris toutes les difficultés qui leur étaient arrivées en chemin, et [comment] Adonoy les avait secourus."
+    },
+    {
+      "ref": "Exodus 18:9",
+      "fr": "Yisro se réjouit de tout le bien qu'Adonoy avait fait pour Israël ; qu'Il les avait délivrés de la main de l'Egypte."
+    },
+    {
+      "ref": "Exodus 18:10",
+      "fr": "Yisro a dit : « Béni soit Adonoy qui t'a délivré de la main de l'Égypte et de la main de Pharaon ; qui a délivré le peuple de sous la main [la domination] de l'Égypte [les Égyptiens]."
+    },
+    {
+      "ref": "Exodus 18:11",
+      "fr": "Maintenant, je sais qu'Adonoy est plus grand que tous les dieux, [grand, et il n'y a pas de dieu en dehors de Lui,] parce que [par] ce même [par lequel les Égyptiens] ils avaient comploté [pour punir Israël] est tombé sur eux [eux-mêmes ont été punis]."
+    },
+    {
+      "ref": "Exodus 18:12",
+      "fr": "[Puis] Yisro, le beau-père de Moshe, apporta [offrit] un holocauste et des offrandes [de paix] à [devant] Dieu. Aharon et tous les anciens d’Israël sont venus manger du pain avec [Yisro,] le beau-père de Moshe, devant Dieu."
+    },
+    {
+      "ref": "Exodus 18:13",
+      "fr": "C'est le lendemain que Moshe s'est assis pour juger le peuple et les gens se sont tenus autour de Moshe du matin au soir."
+    },
+    {
+      "ref": "Exodus 18:14",
+      "fr": "Quand le beau-père de Moshe vit tout ce qu'il faisait pour le peuple, il dit : \" Que fais-tu pour le peuple ? Pourquoi es-tu assis tout seul et [laisse-tu] les gens debout autour de toi du matin au soir ? \""
+    },
+    {
+      "ref": "Exodus 18:15",
+      "fr": "Moshe dit à son beau-père : « Parce que les gens viennent vers moi pour chercher [l'instruction] de Dieu."
+    },
+    {
+      "ref": "Exodus 18:16",
+      "fr": "Chaque fois qu'ils ont un problème, ils viennent vers moi et je juge entre l'homme et son prochain. Je leur communique les statuts et les lois de Dieu."
+    },
+    {
+      "ref": "Exodus 18:17",
+      "fr": "Le beau-père de Moshe lui dit : « Ce que tu fais n’est pas bien."
+    },
+    {
+      "ref": "Exodus 18:18",
+      "fr": "Vous allez vous épuiser, vous aussi et ce peuple qui est avec vous. Cette [activité] est trop lourde pour vous. Vous ne pouvez pas le faire seul."
+    },
+    {
+      "ref": "Exodus 18:19",
+      "fr": "Maintenant écoute ma voix [obéis-moi]. Je vous donnerai des conseils et [la Parole de] Dieu [sera] avec vous [votre soutien]. Vous devez être le représentant de Dieu [demander des instructions à Dieu] pour le peuple et porter ses problèmes à [devant] Dieu."
+    },
+    {
+      "ref": "Exodus 18:20",
+      "fr": "Tu les éclaireras sur les statuts et les lois, et tu leur communiqueras le chemin dans lequel ils doivent marcher et les actes qu'ils doivent accomplir."
+    },
+    {
+      "ref": "Exodus 18:21",
+      "fr": "Vous devez rechercher parmi tous les gens des hommes capables, craignant Dieu, des hommes de vérité, qui méprisent [accepter] le gain. Vous devez ensuite les établir sur [le peuple] comme officiers de milliers, officiers de centaines, officiers de cinquantaines et officiers de dizaines."
+    },
+    {
+      "ref": "Exodus 18:22",
+      "fr": "Qu'ils jugent le peuple à tout moment. Ils vous soumettront chaque problème majeur et ils jugeront par eux-mêmes tout problème mineur. Ce sera [ainsi] plus facile pour vous puisqu'ils porteront le fardeau avec vous."
+    },
+    {
+      "ref": "Exodus 18:23",
+      "fr": "Si vous faites cela et que Dieu vous l’ordonne, vous pourrez survivre, et aussi ce peuple tout entier reviendra chez lui en paix."
+    },
+    {
+      "ref": "Exodus 18:24",
+      "fr": "Moshe a écouté [accepté] la voix [parole] de son beau-père et il a fait tout ce qu'il a dit."
+    },
+    {
+      "ref": "Exodus 18:25",
+      "fr": "Moshe choisit des hommes capables parmi tout Israël et les nomma chefs du peuple ; officiers de milliers, officiers de centaines, officiers de cinquantaine et officiers de dizaines."
+    },
+    {
+      "ref": "Exodus 18:26",
+      "fr": "Ils jugeaient [jugeraient] le peuple à tout moment. Ils soumettraient à Moshe les problèmes difficiles et les problèmes simples, ils les jugeraient par eux-mêmes."
+    },
+    {
+      "ref": "Exodus 18:27",
+      "fr": "Moshe renvoya son beau-père et il [Yisro] partit vers son pays."
+    },
+    {
+      "ref": "Exodus 19:1",
+      "fr": "Le troisième mois après le départ des Bnei Israël du pays d’Égypte, ils arrivèrent ce jour-là au désert du Sinaï."
+    },
+    {
+      "ref": "Exodus 19:2",
+      "fr": "Ils étaient partis de Rephidim et étaient arrivés au désert du Sinaï et campaient dans le désert. Israël campa là, en face de la montagne."
+    },
+    {
+      "ref": "Exodus 19:3",
+      "fr": "Moshe monta [devant] [la Présence de] Dieu, et Adonoy l'appela de la montagne, en disant : « C'est ce que tu diras à la maison de Yaakov et que tu raconteras aux Bnei Yisrael."
+    },
+    {
+      "ref": "Exodus 19:4",
+      "fr": "« Vous avez vu ce que j'ai fait à l'Égypte ; et [comment] Je vous ai porté [transporté] [comme si] sur des ailes d'aigles, et je vous ai amené [près] de Moi [Mon culte]."
+    },
+    {
+      "ref": "Exodus 19:5",
+      "fr": "Et maintenant, si vous écoutez diligemment [obéissez] à ma voix [Parole] et respectez mon alliance ; tu seras [plus] aimé de moi que mon trésor spécial parmi tous les peuples, car toute la terre est à moi."
+    },
+    {
+      "ref": "Exodus 19:6",
+      "fr": "Vous serez pour moi un royaume de [rois et] cohanim, et une nation sainte. Ce sont les paroles que vous direz aux Bnei Yisrael."
+    },
+    {
+      "ref": "Exodus 19:7",
+      "fr": "Moshe revint et appela les anciens du peuple. Il leur présenta toutes ces paroles qu'Adonoy lui avait commandées."
+    },
+    {
+      "ref": "Exodus 19:8",
+      "fr": "Tous les gens ont répondu à l’unisson et ont dit : « Tout ce qu’Adonoy a dit, nous le ferons. » Moshe rapporta les paroles du peuple à Adonoy."
+    },
+    {
+      "ref": "Exodus 19:9",
+      "fr": "Adonoy dit à Moshe : « Voici, je viendrai vers toi dans une nuée épaisse, afin que les gens entendent quand je te parle, et qu'ils croient aussi en toi pour toujours. » Moshe rapporta à Adonoy les paroles du peuple [avant (Adonoy)]."
+    },
+    {
+      "ref": "Exodus 19:10",
+      "fr": "Adonoy dit à Moshe : « Va vers le peuple et sanctifie-le [prépare-le] aujourd'hui et demain, et laisse-le nettoyer ses vêtements."
+    },
+    {
+      "ref": "Exodus 19:11",
+      "fr": "Qu'ils soient prêts pour le troisième jour, car le troisième jour, Adonoy descendra [se révélera] sur le mont Sinaï, aux yeux de tout le peuple."
+    },
+    {
+      "ref": "Exodus 19:12",
+      "fr": "Fixez des limites aux gens autour de [la montagne], en leur disant : « Faites attention de ne pas gravir la montagne, ni [même] d'en toucher le bord. Celui qui touchera la montagne sera mis à mort."
+    },
+    {
+      "ref": "Exodus 19:13",
+      "fr": "Ne le touche pas [avec ta] main, car il sera lapidé ou abattu. Ni l'homme ni la bête ne seront autorisés à vivre. Lorsque la corne [du bélier] sonnera longuement, il leur sera alors permis de monter sur la montagne."
+    },
+    {
+      "ref": "Exodus 19:14",
+      "fr": "Moshe descendit de la montagne vers le peuple. Il sanctifia le peuple, et ils immergèrent [se lavèrent] [eux-mêmes et] leurs vêtements."
+    },
+    {
+      "ref": "Exodus 19:15",
+      "fr": "Il dit au peuple : \"D'ici trois jours, soyez prêts. Ne vous approchez pas d'une femme."
+    },
+    {
+      "ref": "Exodus 19:16",
+      "fr": "Ce fut le troisième jour, au matin, qu'il y eut du tonnerre et des éclairs. Il y avait une épaisse nuée sur la montagne, et le son du shofar retentit très fort. Tous les gens du camp tremblaient."
+    },
+    {
+      "ref": "Exodus 19:17",
+      "fr": "Moshe a amené le peuple vers [la Présence Divine de] [la Parole de] Dieu, [les conduisant] hors du camp. Ils se tenaient au pied de la montagne."
+    },
+    {
+      "ref": "Exodus 19:18",
+      "fr": "Tout le mont Sinaï était enveloppé de fumée, car Adonoy y était descendu [se révéla] dans le feu. Sa fumée montait comme la fumée d'une fournaise [à chaux] et toute la montagne tremblait violemment."
+    },
+    {
+      "ref": "Exodus 19:19",
+      "fr": "Le son du shofar devenait de plus en plus fort. Moshe a parlé et [d'avant] Dieu lui a répondu [on lui a répondu] avec [Sa] voix."
+    },
+    {
+      "ref": "Exodus 19:20",
+      "fr": "Adonoy descendit [se révéla] sur le mont Sinaï, au sommet de la montagne, et Adonoy appela Moshe à monter au sommet de la montagne, et Moshe monta."
+    },
+    {
+      "ref": "Exodus 19:21",
+      "fr": "Adonoy dit à Moshe : « Descends et préviens les gens de peur qu'ils ne franchissent [la frontière] vers [devant] [la présence d'] Adonoy afin de voir ; et beaucoup [d'entre eux] mourront."
+    },
+    {
+      "ref": "Exodus 19:22",
+      "fr": "Même les cohanim qui [habituellement] s'approchent de [servent devant] la présence d'Adonoy doivent être sanctifiés, de peur qu'Adonoy n'envoie la destruction parmi eux."
+    },
+    {
+      "ref": "Exodus 19:23",
+      "fr": "Moshe dit à Adonoy : « Le peuple ne peut pas monter au mont Sinaï, car tu nous as avertis en disant : « Fixe une limite autour de la montagne et sanctifie-la. »"
+    },
+    {
+      "ref": "Exodus 19:24",
+      "fr": "Adonoy lui dit : \" Descends. Tu remonteras ensuite avec Aharon. Les cohanim et le peuple, [cependant] ne doivent pas percer pour monter vers [devant] [la Présence d'] Adonoy, de peur qu'Il n'envoie la destruction parmi [les tue]\"."
+    },
+    {
+      "ref": "Exodus 19:25",
+      "fr": "Moshe descendit vers les gens et leur dit ceci."
+    },
+    {
+      "ref": "Exodus 20:1",
+      "fr": "Elohim prononça toutes ces paroles, disant :"
+    },
+    {
+      "ref": "Exodus 20:2",
+      "fr": "Je suis Adonoy, ton Dieu, qui t'ai fait sortir du pays d'Égypte, de la maison des esclaves [l'esclavage]."
+    },
+    {
+      "ref": "Exodus 20:3",
+      "fr": "Vous ne devez pas avoir d'autres dieux devant Ma Présence [à part Moi]."
+    },
+    {
+      "ref": "Exodus 20:4",
+      "fr": "Vous ne devez pas vous faire d'image sculptée ou d'image de quoi que ce soit qui soit dans le ciel en haut, ou sur la terre en bas, ou dans l'eau au-dessous de la terre."
+    },
+    {
+      "ref": "Exodus 20:5",
+      "fr": "Vous ne devez pas vous prosterner devant eux et vous ne devez pas les adorer. Car moi, Adonoy ton Dieu, je suis un Tout-Puissant jaloux. Je connais les péchés des pères pour [leurs] enfants [rebelles], jusqu'à la troisième et quatrième [générations] de Mes ennemis [quand les enfants achèvent le péché après leurs pères]."
+    },
+    {
+      "ref": "Exodus 20:6",
+      "fr": "Mais je fais [des actes de] bonté [de bonté] depuis des milliers [de générations] envers ceux qui m'aiment et gardent mes commandements."
+    },
+    {
+      "ref": "Exodus 20:7",
+      "fr": "Ne prenez pas [jurer] le Nom d'Adonoy, votre Dieu en vain. Car Adonoy n’acquittera pas celui qui prend [jure] Son Nom en vain [à tort]."
+    },
+    {
+      "ref": "Exodus 20:8",
+      "fr": "Souvenez-vous du jour du Chabbat pour le sanctifier."
+    },
+    {
+      "ref": "Exodus 20:9",
+      "fr": "Vous pouvez travailler six jours et faire tout votre travail."
+    },
+    {
+      "ref": "Exodus 20:10",
+      "fr": "Mais le septième jour est Chabbath devant Adonoy, ton Dieu. Vous ne devez faire aucun travail, ni vous, ni votre fils, ni votre fille, ni votre esclave, ni votre servante, ni votre animal, ni l'étranger qui se trouve dans vos portes."
+    },
+    {
+      "ref": "Exodus 20:11",
+      "fr": "Car en six jours Adonoï fit le ciel et la terre, la mer et tout ce qu'ils contiennent, et il se reposa le septième jour. C'est pourquoi Adonoy a béni le Chabbat et l'a rendu saint."
+    },
+    {
+      "ref": "Exodus 20:12",
+      "fr": "Honore ton père et ta mère afin que tes jours se prolongent sur le pays qu'Adonoy, ton Dieu, te donne."
+    },
+    {
+      "ref": "Exodus 20:13",
+      "fr": "Ne commettez pas de meurtre. Ne commettez pas d’adultère. Ne volez pas [en kidnappant des êtres humains]. Ne témoignez pas comme faux témoin [témoignage] contre votre prochain."
+    },
+    {
+      "ref": "Exodus 20:14",
+      "fr": "Ne convoitez pas la maison de votre voisin. Ne convoite pas la femme de ton prochain, son esclave, sa servante, son bœuf, son âne, ni tout ce qui appartient à ton prochain."
+    },
+    {
+      "ref": "Exodus 20:15",
+      "fr": "Tout le peuple vit les bruits, les flammes, le son du shofar et la montagne qui dégageait de la fumée. Les gens virent [tout cela] et ils tremblèrent et se tinrent au loin."
+    },
+    {
+      "ref": "Exodus 20:16",
+      "fr": "Ils dirent à Moshe : \"Tu nous parles et nous t'écouterons [obéir]. Que [cela ne nous soit pas dit auparavant] Elohim ne nous parle pas [plus] de peur que nous ne mourions.\""
+    },
+    {
+      "ref": "Exodus 20:17",
+      "fr": "Moshe dit au peuple : \" N'ayez pas peur. C'est pour vous exalter [éprouver] que [la gloire d'] Elohim [vous a été révélée] est venue [de cette manière], afin que la crainte de Lui soit sur vos visages afin que vous ne péchiez pas. \""
+    },
+    {
+      "ref": "Exodus 20:18",
+      "fr": "Les gens se tenaient au loin. Moshe s'est approché du nuage dense où se trouvait [la gloire de] [la présence divine de] Dieu."
+    },
+    {
+      "ref": "Exodus 20:19",
+      "fr": "Adonoy dit à Moshe : \"Voici ce que tu dois dire aux Bnei Yisrael. 'Tu as vu que je t'ai parlé du ciel.'"
+    },
+    {
+      "ref": "Exodus 20:20",
+      "fr": "Ne faites pas d'image de ce qui est avec Moi, vous ne devez pas vous faire de dieux d'argent ou de dieux d'or."
+    },
+    {
+      "ref": "Exodus 20:21",
+      "fr": "Faites-moi un autel de terre et égorgez à côté de lui vos holocaustes, vos offrandes de paix, vos brebis et votre bétail. Partout où je permets que mon nom soit mentionné [repose ma Shechina], je viendrai [là j'enverrai ma bénédiction] vers vous et je vous bénirai."
+    },
+    {
+      "ref": "Exodus 20:22",
+      "fr": "Quand vous me bâtirez un autel de pierre, ne le bâtissez pas en pierre de taille, de peur que si vous ne leviez votre épée dessus, vous ne le profaniez."
+    },
+    {
+      "ref": "Exodus 20:23",
+      "fr": "Ne montez pas à mon autel avec des marches, afin que votre nudité n'y soit pas révélée.'»"
+    }
+  ]
+}

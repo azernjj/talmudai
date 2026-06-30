@@ -1,0 +1,368 @@
+{
+  "name": "Metsora",
+  "range": "Leviticus 14:1-15:33",
+  "commentary": "Sforno",
+  "source": "public/data/parashiot/commentaries/sforno/metzora.json",
+  "verses": [
+    {
+      "ref": "Leviticus 14:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:2",
+      "fr": "והובא אל הכהן, vers un site proche de la limite du campement où le prêtre peut venir inspecter facilement la personne affligée sans avoir à se soumettre à un effort particulier."
+    },
+    {
+      "ref": "Leviticus 14:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:7",
+      "fr": "וטהרו, similaire à 13,45 פרימה ופריעה, découvrir quelque chose, le déchirer, enlever la partie offensante."
+    },
+    {
+      "ref": "Leviticus 14:8",
+      "fr": "ורחץ במים וטהר, partie du thème général « il fera sa résidence hors du camp » (tant qu'il sera affligé) (comparer 13,46)"
+    },
+    {
+      "ref": "Leviticus 14:9",
+      "fr": "ורחץ את בשרו במים וטהר, conformément à l'instruction mentionnée précédemment « il doit planter sa tente à l'extérieur du camp ». (verset 8)"
+    },
+    {
+      "ref": "Leviticus 14:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:12",
+      "fr": "C'est vrai. Il a déjà été expliqué dans 7,1 ainsi que dans mon commentaire sur Lévitique 1,2 que l'offrande de culpabilité, אשם, s'applique principalement aux péchés par inadvertance commis impliquant une mauvaise utilisation des choses sacrées, ou une mauvaise utilisation du domaine sacré du Temple, comme l'entrée de personnes non autorisées, ou de personnes rituellement impures qui y entrent, etc. Tout comme dans le cas de l'offrande pour le péché, חטאת, si ce péché avait été commis délibérément, cela aurait entraîné dans la peine du karet, et s’il n’était pas expié par Techouva, le coupable aurait été éternellement coupé de l’âme collective du peuple juif. Nos sages dans Erchin 15 et 16 ont déjà déclaré que les principaux péchés pour lesquels une personne est affligée du נגע צרעת sont les mauvaises paroles et l’orgueil, qui sont tous deux perçus par les sages comme une infraction directe à la sainteté de D.ieu. Même si le dénigrement est généralement perpétré en secret, sans donner à la victime une chance de se défendre contre l'accusation et la diffamation, le prophète Isaïe 29,15 considère que les auteurs disent : « qui nous voit, qui nous remarque ? En d’autres termes, le prophète considère le « secret » comme pire que le péché lui-même, car il suggère que D.ieu est incapable de le voir, et représente donc une grossière insulte dirigée contre D.ieu. Concernant un comportement arrogant et hautain. Nous lisons dans le Psaume 101,5 : « Celui qui calomnie son ami en secret, je le détruirai ; je ne peux supporter l'homme hautain et orgueilleux. » D.ieu est dépeint comme si le pécheur « essayait de voler une partie des « vêtements » de D.ieu. D.ieu déclare que de telles personnes ne peuvent pas coexister avec Lui dans le même univers. (Sota 5). Nous avons la preuve dans nos Écritures (Chroniques II 26, 16-19) que l’arrogance du roi Ozias a été punie de tsoraat pour son orgueil, car ce péché était considéré comme une offense contre D.ieu lui-même."
+    },
+    {
+      "ref": "Leviticus 14:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:18",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:19",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:20",
+      "fr": "Autrement dit, il aura atteint un niveau suffisant de pureté rituelle pour être autorisé à participer aux viandes sacrificielles et à entrer dans l'enceinte sacrée (s'il est par ailleurs qualifié pour le faire). Comparez nos sages dans Negai-im 14,3 qui «dès qu'il a apporté son offrande d'expiation, il est libre de prendre à nouveau des aliments sacrés». (les portions des offrandes de paix normalement consommées par les propriétaires des animaux.)"
+    },
+    {
+      "ref": "Leviticus 14:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:24",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:27",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:29",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:30",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:31",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:32",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:33",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:34",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:35",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:36",
+      "fr": "Par exemple, ils peuvent vider la maison avant l'arrivée du prêtre. En fait, ce prêtre est averti de ne pas arriver tant que tous les objets de valeur n'ont pas été évacués de la maison. Pendant ce temps, les propriétaires pourront faire Techouva et prier et synchroniser leur prière avec celle du prêtre à son arrivée. Simultanément, le prêtre annoncera la période d'isolement. Dans Vayikra Rabbah 17,7, on nous dit que notre paragraphe est une allusion à la destruction éventuelle du premier Temple, à sa reconstruction, ainsi qu'à la destruction du deuxième Temple. Le mot וטהרו dans notre verset fait allusion à la reconstruction ultime du troisième Temple, celui-ci ne devant plus être détruit."
+    },
+    {
+      "ref": "Leviticus 14:37",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:38",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:39",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:40",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:41",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:42",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:43",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:44",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:45",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:46",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:47",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:48",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:49",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:50",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:51",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:52",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:53",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 14:54",
+      "fr": "Par conséquent, si quelqu'un veut être qualifié pour émettre des décisions religieuses concernant le sujet du negai-im, il doit tout d'abord être capable de distinguer deux types différents de telles afflictions, bien qu'ils appartiennent tous deux fondamentalement à la même catégorie. C’est le sens de Deutéronome 17,8 בין נגע לנגע, « entre une sorte de néga et une autre sorte de néga ». Je suis en train de le faire. Même si ces deux affections sont connues sous le nom d’affection cutanée de la peau d’un être humain, elles sont nettement différentes l’une de l’autre. Le נתק n'est pas jugé par les apparences mais par le comportement des cheveux qui l'entourent, alors que le nega tzoraat ordinaire est jugé par les changements de sa coloration, etc."
+    },
+    {
+      "ref": "Leviticus 14:55",
+      "fr": "ולצרעת הבגד והבית, même si ces deux phénomènes peuvent être très similaires dans leur aspect verdâtre ou rougeâtre, et que les deux sont des phénomènes non naturels, ils sont toujours différents l'un de l'autre de la manière suivante : Si la croûte colorée sur le vêtement s'est développée après la première semaine d'isolement, le vêtement entier doit être brûlé. S'il se produit quelque chose de similaire à la croûte sur les murs de la maison, à la fin de la première semaine d'isolement, elle est enlevée, blanchie à la chaux et le curé attend encore une semaine avant de prendre une décision définitive, c'est-à-dire que si les symptômes ne diminuent pas, la maison devra être détruite."
+    },
+    {
+      "ref": "Leviticus 14:56",
+      "fr": "ולשאת ולספחת ולבהרת, même si le dénominateur commun de ces trois eczémas cutanés est qu'ils sont tous d'une nuance de blanc, et que les règles qui leur sont applicables sont fondamentalement similaires, à tel point qu'ils peuvent être considérés comme cumulatifs, comme nous le savons par tradition (negai-im 1,3), quiconque entreprend de statuer sur ces matières doit être un expert en toutes les différentes nuances de blanc, et où celles-ci sont les plus susceptibles de faire surface. Les zones dans lesquelles shechin ou michveh (apparence brûlée) sont jugées par une combinaison d'apparences, tandis que tzarevet et les zones où poussent les cheveux ne sont pas du tout jugées par les apparences."
+    },
+    {
+      "ref": "Leviticus 14:57",
+      "fr": "En revanche, il ne faut pas ajouter et imposer des règles plus strictes déclarant également que des eczémas cutanés d'apparence similaire confèrent une impureté rituelle. [l'auteur interprète le mot זאת, ceci, comme restrictif, c'est-à-dire « ceci et rien d'autre ». Ed.] Certes, il existe de nombreuses autres maladies de peau qui, à certains égards, ressemblent à celles mentionnées dans la Torah, ce n’est pas dans le but d’appliquer ce que font normalement les sages pour protéger une personne contre une violation par inadvertance d’un des commandements de D.ieu. Dans le domaine du negai-im, la règle postulée par Salomon dans Proverbes 30,6 אל תוסף על דבריו, « n’ajoute rien aux paroles de D.ieu » est strictement respectée. Un facteur qui indique à quel point ce serait une erreur de faire cela est que la Torah elle-même déclare que le « pire » phénomène de l’eczéma cutané, c’est-à-dire que la peau entière est totalement affectée, comme étant celui qui laisse la partie affligée rituellement pure. [Naturellement, une telle personne, en cours de guérison, verra une partie de sa peau être affligée, auquel cas le prêtre devra la déclarer impure. NDLR] Le manque apparent de logique dans cette partie de la législation a incité les sages à ne pas imposer de « clôtures de protection » autour de cette législation."
+    },
+    {
+      "ref": "Leviticus 15:1",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:2",
+      "fr": "זב מבשרו, le Talmud K'ritut 8 a déjà expliqué la préposition מ dans le mot מבשרו comme signifiant « émanant de » et non comme « dû à, à cause de ». Le mot בשר fait référence à l’organe mâle. En d’autres termes, à moins que les symptômes décrits ici ne soient dus à un déséquilibre physiologique local et non à un effet secondaire d’une autre cause primaire telle qu’une suralimentation, par exemple, ces symptômes n’entraîneront pas et ne conféreront pas d’impureté rituelle. Nos sages dans Niddah 35 ont déjà expliqué que le symptôme appelé זוב ressemble beaucoup en apparence à l'albumen d'un œuf qui est devenu pourri. Lorsque la cause est directement liée aux organes masculins de la personne atteinte, la législation discutée dans ce chapitre s'applique. C’est le sens du mot מבשרו, une perturbation du bon fonctionnement de l’organe masculin. L'auteur suppose que la cause pourrait être une indulgence trop fréquente dans l'acte sexuel, ce qui à son tour conduit à un manque de temps pour le remplacement correct du liquide séminal, etc. Si telle était la cause, une cause provoquée par des fantasmes trop fréquents sur l'acte sexuel, le remède, en partie, serait les sept jours pendant lesquels la personne atteinte compte pour sa guérison, reflétant le rôle que son style de vie a joué dans l'apparition des symptômes dont elle souffrait. En se livrant à moins de fantasmes sexuels et à la nécessité d'offrir une offrande pour le péché après avoir été libérée de ces symptômes, la personne affligée peut également être sur la voie d'une réadaptation spirituelle. Ces pensées se reflètent dans le Talmud sur les feuillets auxquels nous avons fait référence."
+    },
+    {
+      "ref": "Leviticus 15:3",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:4",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:5",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:6",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:7",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:8",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:9",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:10",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:11",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:12",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:13",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:14",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:15",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:16",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:17",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:18",
+      "fr": "ואשה אשר ישכב איש אותה notez que la Torah n'écrit pas איש כי ישכב את אשה, \"quand un homme couche avec une femme\", ce qui est la manière normale dans la Torah d'introduire de tels sujets, c'est-à-dire en mettant l'accent sur le rôle prédominant du mâle dans l’union sexuelle. La raison de ce changement de syntaxe est d'enseigner qu'à moins que la couleur du liquide provenant de son vagin ne soit rougeâtre, il ne confère pas d'impureté rituelle. Le seul moment où l’excrétion séminale blanchâtre d’une femme confère une impureté rituelle à son partenaire masculin, c’est lorsque l’homme initie l’union sexuelle coutumière avec elle, même si le liquide séminal reste dans les parties « cachées » des orifices de la femme, n’a pas vu le jour."
+    },
+    {
+      "ref": "Leviticus 15:19",
+      "fr": "ואשה כי תהיה זבה דם, ici la Torah enseigne des règles concernant la femme menstruée et celle affligée d'écoulements intempestifs de son vagin, déclarant que la purification de cette dernière nécessite deux offrandes, une offrande pour le péché et un holocauste. La Torah témoigne par la nature des offrandes exigées que la maladie décrite « ne sort pas de nulle part », mais est le résultat de pensées inappropriées, voire d'actions inappropriées, qui l'ont précédée. La femme originelle qui a été punie pour son péché n'a pas été seulement punie pour avoir mangé de l'arbre de la connaissance, mais aussi pour les pensées qui lui traversaient l'esprit avant de traduire une pensée pécheresse en action pécheresse. Nous pensons que cela se reflète dans la formulation de la punition הרבה ארבה עצבונך, « Je multiplierai grandement votre inconfort » (pendant la grossesse et l'accouchement) (Genèse 3,16). La punition était adaptée au crime qui n'était pas le résultat d'une impulsion soudaine. Les sept jours jusqu’à la purification à partir de la date de la fin de l’état de zavah lui donnent le temps de réfléchir et de penser à des pensées pures, contrairement au temps qu’elle avait initialement passé avant de violer le commandement de D.ieu de ne pas manger de cet arbre. Lorsque les pensées appropriées parcourront son esprit pendant ces sept jours appelés à juste titre שבעה נקיים, sept jours de purification, son esprit et pas seulement son corps auront été purifiés des attitudes inappropriées afin que l'immersion rituelle nettoie à la fois le corps et l'esprit. Lorsque tel est le cas, les deux offrandes requises par la zavah lui apporteront l'expiation des méfaits antérieurs tant en pensée qu'en action. L'offrande pour le péché expie les actes pécheurs, l'holocauste pour les pensées interdites."
+    },
+    {
+      "ref": "Leviticus 15:20",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:21",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:22",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:23",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:24",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:25",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:26",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:27",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:28",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:29",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:30",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:31",
+      "fr": ""
+    },
+    {
+      "ref": "Leviticus 15:32",
+      "fr": "En outre, les considérations suivantes concernant notre sujet doivent être gardées à l'esprit : 1) le fait que l'homme atteint de l'écoulement en question doit apporter une offrande pour le péché à la fin du processus de guérison enseigne que l'affliction était due au péché à la fois en actes et en pensées. 2) ואשר תצא ממנו שכבת זרע לטמאה בה le fait que l'éjaculation du liquide séminal par un homme aboutisse à ce qu'il devienne rituellement impur est dû à la contamination de l'espèce humaine par le serpent originel, car depuis le péché originel, l'éjaculation séminale a été utilisée pour la gratification physique aussi, et pas seulement pour la fonction qui lui est attribuée par D.ieu, la propagation de l’espèce. Sans la séduction d’Ève par le serpent, rien de spirituellement négatif n’aurait fait partie de l’acte d’éjaculation du liquide séminal."
+    },
+    {
+      "ref": "Leviticus 15:33",
+      "fr": "והדוה בנדתה, le mot דוה fait allusion à quelque chose de pécheur, c'est pourquoi elle a été rituellement souillée. Bien sûr, les pensées que nous devons avoir en étudiant ce sujet sont que nous devons réfléchir sur le péché originel. À ce stade, nous devons considérer la différence entre la législation régissant l'éjaculation séminale involontaire d'un homme et celle d'une femme. L’écoulement d’une femme ne confère de l’impureté que s’il est rougeâtre, tandis que l’écoulement parallèle d’un homme ne confère l’impureté que s’il n’est pas rougeâtre. En plus de cela, nous devons ici également réfléchir au sujet d'un homme se livrant délibérément à des rapports sexuels avec une femme rituellement contaminée. La Torah avait écrit (verset 24) ותהי נדתה עליו, \"son état de séparation menstruelle s'appliquera à lui\". Il n'y a pas de verset parallèle décrivant un tel résultat comme dû au fait qu'une femme rituellement pure couche avec un homme qui était un zav à l'époque. [l'impureté rituelle du zav a été induite par un corps malade, par opposition aux menstruations qui sont un état naturel depuis le péché originel. Ed.] Il semble y avoir là une dichotomie. La Torah enseigne que lorsqu’un homme viole les mœurs sexuelles, il provoque des retombées spirituellement plus négatives sur lui-même que lorsqu’une femme fait la même chose à l’envers. Au moins, il semble y avoir une différence entre les maladies induites par le péché individuel, comme le zav et le zavah, ainsi que dans le cas de la tsoraat, que nous avons expliqué comme une maladie également due au péché individuel, et non à l'état spirituel de l'homme, l'espèce, depuis le péché originel. C'est pourquoi l'association charnelle volontaire avec la femme en période de règles est un péché plus grave que l'association charnelle volontaire avec zav ou zavah."
+    }
+  ]
+}

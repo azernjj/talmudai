@@ -1,0 +1,456 @@
+{
+  "name": "Vayeshev",
+  "range": "Genesis 37:1-40:23",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayeshev.json",
+  "verses": [
+    {
+      "ref": "Genesis 37:1",
+      "fr": "Yaakov s’établit dans le pays de résidence de son père, au pays de Canaan."
+    },
+    {
+      "ref": "Genesis 37:2",
+      "fr": "C'est l'histoire de Yaakov ; Yossif, à l'âge de dix-sept ans, gardait les moutons avec ses frères, et le garçon était [il avait été élevé] avec les fils de Bilhah et les fils de Zilpah, les femmes de son père. Yoseif rapporta à leur père de mauvais rapports à leur sujet."
+    },
+    {
+      "ref": "Genesis 37:3",
+      "fr": "Yisrael aimait Yossif plus qu'aucun de ses fils, car il était pour lui un fils [sage] de sa vieillesse, et il lui fit un long manteau coloré."
+    },
+    {
+      "ref": "Genesis 37:4",
+      "fr": "Ses frères virent que leur père l'aimait plus que tous ses frères et ils le haïssaient. Ils ne pouvaient pas [n’étaient pas disposés à] lui parler pacifiquement."
+    },
+    {
+      "ref": "Genesis 37:5",
+      "fr": "Yoseif a fait un rêve et il l'a raconté à ses frères, et ils l'ont détesté encore plus."
+    },
+    {
+      "ref": "Genesis 37:6",
+      "fr": "Il leur dit : Écoutez [maintenant] ce rêve que j'ai fait."
+    },
+    {
+      "ref": "Genesis 37:7",
+      "fr": "Voici, nous lions des gerbes au milieu du champ. Voici, ma gerbe s'est levée et s'est redressée ; et voici, tes gerbes l'entouraient et se prosternaient devant ma gerbe."
+    },
+    {
+      "ref": "Genesis 37:8",
+      "fr": "Ses frères lui dirent : Veux-tu donc être notre roi ? [Imaginez-vous que vous régnerez sur nous ?] Régnerez-vous effectivement sur nous ? [Ou penses-tu que tu vas régner sur nous ?] Ils le haïssaient encore plus à cause de ses rêves et de ses paroles."
+    },
+    {
+      "ref": "Genesis 37:9",
+      "fr": "Il fit un autre rêve et le raconta à ses frères. Il dit : Voici ! J'ai fait un autre rêve. Le soleil, la lune et onze étoiles se prosternaient devant moi."
+    },
+    {
+      "ref": "Genesis 37:10",
+      "fr": "Il l'a raconté à son père et à ses frères. Son père le réprimanda et lui dit : Quel est ce rêve que tu as fait ? Dois-je venir, moi, ta mère et tes frères, me prosterner à terre devant vous ?"
+    },
+    {
+      "ref": "Genesis 37:11",
+      "fr": "Ses frères étaient jaloux de lui mais son père gardait cela à l'esprit."
+    },
+    {
+      "ref": "Genesis 37:12",
+      "fr": "Ses frères partirent faire paître les brebis de leur père à Sichem."
+    },
+    {
+      "ref": "Genesis 37:13",
+      "fr": "Yisrael dit à Yossif : Tes frères ne font-ils pas paître [les brebis] à Sichem ? Viens, je t'enverrai chez eux. Il [Yoseif] lui dit : Me voici."
+    },
+    {
+      "ref": "Genesis 37:14",
+      "fr": "Il [Israël] lui dit : Va s'il te plaît [maintenant], veille au bien-être de tes frères et au bien-être des brebis, et apporte-moi un rapport. Il envoya [Yoseif] des profondeurs [plaine] de Chevron, et il vint à Sichem."
+    },
+    {
+      "ref": "Genesis 37:15",
+      "fr": "Un homme l'a trouvé égaré dans les champs. L'homme lui demanda : Que cherches-tu ?"
+    },
+    {
+      "ref": "Genesis 37:16",
+      "fr": "Il a dit : Je cherche mes frères, dites-moi s'il vous plaît [maintenant], où paissent-ils ?"
+    },
+    {
+      "ref": "Genesis 37:17",
+      "fr": "L'homme dit : Ils sont partis d'ici, car je les ai entendus dire : Allons à Doson. Joseph poursuivit ses frères et les trouva à Doson."
+    },
+    {
+      "ref": "Genesis 37:18",
+      "fr": "Ils l'ont vu de loin et avant qu'il ne s'approche d'eux, ils complotaient contre lui pour le tuer [pensant à le tuer]."
+    },
+    {
+      "ref": "Genesis 37:19",
+      "fr": "Un homme dit à un autre : Voici le rêveur."
+    },
+    {
+      "ref": "Genesis 37:20",
+      "fr": "Maintenant, allons, tuons-le et jetons-le dans une des fosses ; et nous dirons qu'une bête sauvage l'a dévoré. Ensuite, nous verrons ce que deviendra [la fin] de ses rêves."
+    },
+    {
+      "ref": "Genesis 37:21",
+      "fr": "Reuvein l'entendit et le sauva de leurs mains. Il a dit : Ne le tuons pas."
+    },
+    {
+      "ref": "Genesis 37:22",
+      "fr": "Reuvein leur dit : Ne faites pas couler le sang. Jetez-le dans cette fosse qui est dans le désert, et ne mettez pas la main sur lui. Son but était de le délivrer de leurs mains, de le ramener à son père."
+    },
+    {
+      "ref": "Genesis 37:23",
+      "fr": "Quand Yoseif est venu voir ses frères, ils l'ont dépouillé de son manteau, le long manteau coloré qu'il portait."
+    },
+    {
+      "ref": "Genesis 37:24",
+      "fr": "Ils l'ont pris et l'ont jeté dans la fosse. La fosse était vide ; il n'y avait pas d'eau dedans."
+    },
+    {
+      "ref": "Genesis 37:25",
+      "fr": "Ils s'assirent pour manger du pain. Ils levèrent les yeux et virent : voici, une caravane yishmaélite [arabe] arrivait de Gilod. Leurs chameaux transportaient des épices, du baume et du lotus, et les emmenaient en Égypte."
+    },
+    {
+      "ref": "Genesis 37:26",
+      "fr": "Yehudah dit à ses frères : Quel [bénéfice monétaire] obtiendrons-nous si nous tuons notre frère et dissimulons son sang ?"
+    },
+    {
+      "ref": "Genesis 37:27",
+      "fr": "Venez, vendons-le aux Yishmaélites [Arabes], et que nos mains ne soient pas sur lui ; car il est notre frère, notre propre chair. Ses frères l'écoutaient.] [lui obéissaient]."
+    },
+    {
+      "ref": "Genesis 37:28",
+      "fr": "Des marchands madianites passaient par là. Ils [les frères] tirèrent Yossif de la fosse et le vendirent aux Yishmaélites [Arabes] pour vingt pièces d'argent. Ils ont amené Yossif en Égypte."
+    },
+    {
+      "ref": "Genesis 37:29",
+      "fr": "Reuvein retourna à la fosse, mais voici, Yoseif n'était pas dans la fosse. Il [puis] a déchiré ses vêtements [de chagrin.]"
+    },
+    {
+      "ref": "Genesis 37:30",
+      "fr": "Il retourna vers ses frères et dit : Le garçon n'est pas là ; et moi... où puis-je aller."
+    },
+    {
+      "ref": "Genesis 37:31",
+      "fr": "Ils ont pris le manteau de Yossif, ont abattu un bouc et ont trempé le manteau dans le sang."
+    },
+    {
+      "ref": "Genesis 37:32",
+      "fr": "Ils envoyèrent le long manteau coloré et l'apportèrent à leur père en disant : Nous avons trouvé ceci. Veuillez [maintenant] l'identifier. C'est le manteau de votre fils ou pas ?"
+    },
+    {
+      "ref": "Genesis 37:33",
+      "fr": "Il l'a reconnu et a dit : C'est le manteau de mon fils. Une bête maléfique l'a dévoré. Yoseif a été mis en pièces [sûrement tué]."
+    },
+    {
+      "ref": "Genesis 37:34",
+      "fr": "Yaakov déchira ses robes et mit un sac sur ses reins. Il a pleuré son fils pendant plusieurs jours."
+    },
+    {
+      "ref": "Genesis 37:35",
+      "fr": "Tous ses fils et toutes ses filles se levèrent pour le consoler, mais il refusa d'être consolé [accepter la consolation]. Il a dit : Je descendrai au tombeau [pendant que je suis encore] en deuil de mon fils. Son père l'a pleuré."
+    },
+    {
+      "ref": "Genesis 37:36",
+      "fr": "Les Madianites le vendirent en Égypte à Potiphar, officier du Pharaon, chef des massacreurs."
+    },
+    {
+      "ref": "Genesis 38:1",
+      "fr": "Et c'est à cette époque que Juda descendit de ses frères. Il s'éloigna d'eux jusqu'à ce qu'il parvienne à un homme, un Adullamite, dont le nom était Chirah."
+    },
+    {
+      "ref": "Genesis 38:2",
+      "fr": "Là, Juda vit la fille d'un marchand cananéen nommé Shu'a. Il l'a prise et a consommé un mariage avec elle."
+    },
+    {
+      "ref": "Genesis 38:3",
+      "fr": "Elle conçut et donna naissance à un fils. Il l'a nommé Er."
+    },
+    {
+      "ref": "Genesis 38:4",
+      "fr": "Elle conçut de nouveau et donna naissance à un fils. Elle l'a nommé Onan."
+    },
+    {
+      "ref": "Genesis 38:5",
+      "fr": "Elle conçut à nouveau et donna naissance à un fils. Elle l'a nommé Sheilah. Il [Yehudah] était à Keziv lorsqu'elle lui a donné naissance."
+    },
+    {
+      "ref": "Genesis 38:6",
+      "fr": "Yehouda prit pour Er une femme, son premier-né, et elle s'appelait Tamar."
+    },
+    {
+      "ref": "Genesis 38:7",
+      "fr": "Euh, le premier-né de Juda était méchant aux yeux d'Adonoy, et Adonoy le fit mourir."
+    },
+    {
+      "ref": "Genesis 38:8",
+      "fr": "Yehouda dit à Onan : Consommez le mariage avec la femme de votre frère, accomplissez avec elle le rite du yibum et établissez une postérité pour votre frère."
+    },
+    {
+      "ref": "Genesis 38:9",
+      "fr": "Onan savait que les descendants ne seraient pas les siens [appelé par son nom]. Chaque fois qu'il vivait avec la femme de son frère, il la laissait se perdre à terre, afin de ne pas donner de descendance à son frère."
+    },
+    {
+      "ref": "Genesis 38:10",
+      "fr": "Ce qu'il a fait était mauvais aux yeux d'Adonoy, et il l'a également mis à mort."
+    },
+    {
+      "ref": "Genesis 38:11",
+      "fr": "Yehouda dit à Tamar, sa belle-fille : Vis comme une veuve dans la maison de ton père jusqu'à ce que mon fils Sheïla soit majeur. Il dit : De peur qu'il ne meure aussi comme ses frères. Tamar partit vivre dans la maison de son père."
+    },
+    {
+      "ref": "Genesis 38:12",
+      "fr": "Plusieurs jours passèrent et la fille de Shua, la femme de Juda, mourut. Yehouda chercha du réconfort et monta vers ses tondeurs, lui et son ami Chirah l'Adullamite, à Timna."
+    },
+    {
+      "ref": "Genesis 38:13",
+      "fr": "On dit à Tamar : Voici, ton beau-père est venu à Timna pour tondre ses brebis."
+    },
+    {
+      "ref": "Genesis 38:14",
+      "fr": "Elle ôta son habit de veuve, se couvrit d'un voile et se déguisa. Elle s'assit au carrefour qui est sur la route de Timna, car elle voyait que Sheïla était devenue majeure et qu'elle ne lui avait pas été donnée pour femme."
+    },
+    {
+      "ref": "Genesis 38:15",
+      "fr": "Juda la vit et crut qu'elle était une prostituée [comme celle qui sort], parce qu'elle s'était couverte le visage."
+    },
+    {
+      "ref": "Genesis 38:16",
+      "fr": "Il se tourna vers elle en chemin et lui dit : S'il te plaît, laisse-moi être avec toi, car il ne savait pas qu'elle était sa belle-fille. Elle dit : Que me donneras-tu en échange du privilège d'être avec moi ?"
+    },
+    {
+      "ref": "Genesis 38:17",
+      "fr": "Il dit : Je t'enverrai un chevreau du troupeau. Elle a dit : [Seulement] si vous me donnez une certaine sécurité jusqu'à ce que vous l'envoyiez."
+    },
+    {
+      "ref": "Genesis 38:18",
+      "fr": "Il dit : Quelle garantie dois-je vous donner ? Elle dit : Ta chevalière, ton écharpe et ton bâton qui est dans ta main. Il les lui donna, et il resta avec elle, et elle devint enceinte de lui."
+    },
+    {
+      "ref": "Genesis 38:19",
+      "fr": "Elle s'est levée et est partie. Elle ôta son voile et revêtit son habit de veuve."
+    },
+    {
+      "ref": "Genesis 38:20",
+      "fr": "Yehouda envoya le chevreau avec son ami l'Adullamite pour récupérer le gage de la femme, mais il ne put la trouver."
+    },
+    {
+      "ref": "Genesis 38:21",
+      "fr": "Il demanda aux hommes de chez elle : Où est la prostituée qui était au carrefour, sur la route ? Ils dirent : Il n'y avait pas de prostituée ici."
+    },
+    {
+      "ref": "Genesis 38:22",
+      "fr": "Il retourna vers Juda et dit : Je ne l'ai pas trouvée, et les hommes de sa place dirent aussi qu'il n'y avait pas de prostituée là-bas."
+    },
+    {
+      "ref": "Genesis 38:23",
+      "fr": "Yehudah dit : Laissez-la le prendre, de peur que nous ne soyons humiliés [devenons la risée]. Voici, je lui ai envoyé cet enfant, et vous n'avez pas pu la trouver."
+    },
+    {
+      "ref": "Genesis 38:24",
+      "fr": "Environ trois mois plus tard, on a dit à Yehudah que Tamar, ta belle-fille, avait eu des relations sexuelles légères et que, de plus, sa promiscuité avait abouti à une grossesse. Yehouda dit : Sortez-la et qu'elle soit brûlée."
+    },
+    {
+      "ref": "Genesis 38:25",
+      "fr": "On la faisait sortir, et elle envoya un mot à son beau-père pour lui dire : Je suis enceinte de l'homme à qui ces choses appartiennent. Elle a dit : S'il vous plaît, reconnaissez [maintenant] à qui appartiennent ce sceau, cette enveloppe et ce bâton."
+    },
+    {
+      "ref": "Genesis 38:26",
+      "fr": "Juda les reconnut et dit : Elle est juste, [c'est] de moi [qu'elle a conçu], dans la mesure où je ne l'ai pas donnée à mon fils Sheïla. Il n'avait plus d'intimité avec elle."
+    },
+    {
+      "ref": "Genesis 38:27",
+      "fr": "Quand le moment est venu pour elle d’accoucher, elle avait des jumeaux dans son ventre."
+    },
+    {
+      "ref": "Genesis 38:28",
+      "fr": "Alors qu'elle accouchait, l'un d'eux lui tendit la main. La sage-femme le prit et lui attacha un fil écarlate à la main, en disant : Celui-ci est sorti le premier."
+    },
+    {
+      "ref": "Genesis 38:29",
+      "fr": "Lorsqu'il retira sa main, voici, son frère sortit, et elle dit : Avec quelle [grande] force tu t'es poussée. Il l'a nommé Peretz."
+    },
+    {
+      "ref": "Genesis 38:30",
+      "fr": "Puis son frère apparut, celui sur la main duquel se trouvait le fil écarlate. Il l'appela Zorach."
+    },
+    {
+      "ref": "Genesis 39:1",
+      "fr": "Yossif fut amené en Égypte. Il fut acheté par Potiphar, un officier de Pharaon, chef des massacreurs, un Égyptien, aux Yishmaélites [Arabes] qui l'avaient amené là-bas."
+    },
+    {
+      "ref": "Genesis 39:2",
+      "fr": "[La Parole d’] Adonoy était avec le soutien de Yoseif[, et il a réussi. Il était [serviteur] dans la maison de son maître, l'Égyptien."
+    },
+    {
+      "ref": "Genesis 39:3",
+      "fr": "Son maître vit que [la Parole d'] Adonoy était avec lui [le soutenait], et que quoi qu'il fasse, Adonoy le faisait réussir par sa main."
+    },
+    {
+      "ref": "Genesis 39:4",
+      "fr": "Yossif trouva grâce à ses yeux et il le servit personnellement. Il le nomma surveillant de sa maison et tout ce qu'il possédait, il le remit entre ses mains."
+    },
+    {
+      "ref": "Genesis 39:5",
+      "fr": "Depuis le moment où il l’a nommé superviseur de sa maison et de tout ce qu’il possédait, Adonoy a béni la maison de l’Égyptien à cause de Yossif. La bénédiction d'Adonoy était dans tout ce qu'il possédait, dans la maison et dans les champs."
+    },
+    {
+      "ref": "Genesis 39:6",
+      "fr": "Il a laissé tout ce qu'il possédait entre les mains de Yoseif. Il ne se préoccupait de rien, sauf du pain qu'il mangeait. Yoseif était bien bâti et beau."
+    },
+    {
+      "ref": "Genesis 39:7",
+      "fr": "Après ces événements, la femme de son maître jeta les yeux sur Yossif et elle dit : Sois avec moi."
+    },
+    {
+      "ref": "Genesis 39:8",
+      "fr": "Il refusa et dit à la femme de son maître : Voici, mon maître ne sait rien de ce que je fais dans la maison, et tout ce qu'il possède, il l'a remis entre mes mains."
+    },
+    {
+      "ref": "Genesis 39:9",
+      "fr": "Personne dans cette maison n’est plus grand que moi. Il ne m'a rien refusé d'autre que toi, car tu es sa femme. Comment puis-je faire un si grand mal et pécher contre Dieu."
+    },
+    {
+      "ref": "Genesis 39:10",
+      "fr": "Même si elle parlait à Yoseif tous les jours, il ne voulait pas lui obéir, s'allonger à côté d'elle, ni être avec elle."
+    },
+    {
+      "ref": "Genesis 39:11",
+      "fr": "C'était un tel jour qu'il venait à la maison pour faire son travail [examiner les enregistrements de ses comptes]. Aucun homme de la maison n'était présent dans la maison."
+    },
+    {
+      "ref": "Genesis 39:12",
+      "fr": "Elle l'attrapa par son vêtement et lui dit : Sois avec moi. Il a laissé son vêtement dans sa main, s'est enfui et est sorti [au marché]."
+    },
+    {
+      "ref": "Genesis 39:13",
+      "fr": "C'est lorsqu'elle vit qu'il avait laissé son vêtement dans sa main et qu'il s'était enfui dehors [vers la place du marché],"
+    },
+    {
+      "ref": "Genesis 39:14",
+      "fr": "qu'elle appela les hommes de la maison et leur dit : Voyez, il nous a amené un Hébreu pour se moquer de nous. Il est venu vers moi et j'ai crié d'une voix forte."
+    },
+    {
+      "ref": "Genesis 39:15",
+      "fr": "Lorsqu'il a entendu que j'élevais la voix et que je criais, il a laissé son vêtement avec moi, s'est enfui et est sorti [au marché]."
+    },
+    {
+      "ref": "Genesis 39:16",
+      "fr": "Elle déposa son vêtement près d'elle jusqu'à ce que son maître rentre à la maison."
+    },
+    {
+      "ref": "Genesis 39:17",
+      "fr": "Elle lui parla [à son mari] selon ces paroles, disant : L'esclave hébreu est venu vers moi, le même que tu as amené chez nous, [il est venu pour] se moquer de moi."
+    },
+    {
+      "ref": "Genesis 39:18",
+      "fr": "Quand j'ai élevé la voix et crié, il a laissé son vêtement avec moi et s'est enfui dehors [vers la place du marché]."
+    },
+    {
+      "ref": "Genesis 39:19",
+      "fr": "Lorsque son maître entendit les paroles de sa femme qu'elle lui disait, disant : Ton esclave m'a fait de telles choses, il devint furieux."
+    },
+    {
+      "ref": "Genesis 39:20",
+      "fr": "Le maître de Yossif le prit et le plaça dans la prison, l'endroit où étaient emprisonnés les prisonniers du roi. Il est resté là, en prison."
+    },
+    {
+      "ref": "Genesis 39:21",
+      "fr": "[La parole d'] Adonoy était avec le soutien de Yossif [et lui a fait preuve de bonté, lui accordant la faveur aux yeux du chef de la prison."
+    },
+    {
+      "ref": "Genesis 39:22",
+      "fr": "Le chef de la prison a donné à Yoseif le contrôle de tous les prisonniers de la prison, et tout ce qui devait y être fait, c'est lui qui l'a fait [cela a été fait selon sa parole]."
+    },
+    {
+      "ref": "Genesis 39:23",
+      "fr": "Le chef de la prison n'avait pas à s'occuper de tout ce qui relevait de [voir toute offense commise par] sa main, parce que [la Parole d'] Adonoy était avec lui [son soutien] et quoi qu'il fasse, Adonoy le faisait réussir."
+    },
+    {
+      "ref": "Genesis 40:1",
+      "fr": "Après ces événements, une offense fut commise par l’échanson et le boulanger du roi égyptien contre leur maître, le roi d’Égypte."
+    },
+    {
+      "ref": "Genesis 40:2",
+      "fr": "Pharaon était furieux contre ses deux fonctionnaires, le chef échanson et le chef boulanger."
+    },
+    {
+      "ref": "Genesis 40:3",
+      "fr": "Il les plaça sous garde dans la maison du bourreau en chef, dans la prison où Yoseif était emprisonné."
+    },
+    {
+      "ref": "Genesis 40:4",
+      "fr": "Le chef des massacreurs désigna Yossif pour être avec eux et il les servit. Ils ont été sous surveillance pendant un certain temps."
+    },
+    {
+      "ref": "Genesis 40:5",
+      "fr": "Tous deux ont fait un rêve. Chacun d'eux fit son rêve la même nuit, chacun selon l'interprétation de son rêve, l'échanson et le boulanger du roi d'Egypte, qui furent emprisonnés dans la prison."
+    },
+    {
+      "ref": "Genesis 40:6",
+      "fr": "Yossif vint vers eux le matin, et il les vit, et voici, ils étaient troublés."
+    },
+    {
+      "ref": "Genesis 40:7",
+      "fr": "Il interrogea les serviteurs de Pharaon qui étaient avec lui, sous garde dans la maison de son maître, et leur dit : Pourquoi avez-vous une si mauvaise mine aujourd'hui ?"
+    },
+    {
+      "ref": "Genesis 40:8",
+      "fr": "Ils lui dirent : Nous avons fait un rêve, et il n'y a pas d'interprète pour cela. Yoseif leur dit : Les interprétations [des rêves] n'appartiennent pas à [pas à] Dieu. Dites-les-moi, s'il vous plaît [maintenant]."
+    },
+    {
+      "ref": "Genesis 40:9",
+      "fr": "Le majordome raconta son rêve à Yoseif. Il lui dit : Dans mon rêve, voici, une vigne était devant moi."
+    },
+    {
+      "ref": "Genesis 40:10",
+      "fr": "Sur la vigne, il y avait trois branches, comme si elles bourgeonnaient, elles produisaient des fleurs et ses fleurs s'épanouissaient et ses grappes mûrissaient en raisins."
+    },
+    {
+      "ref": "Genesis 40:11",
+      "fr": "La coupe du Pharaon était dans ma main. J’ai pris les raisins et je les ai pressés dans la coupe du Pharaon. J’ai ensuite placé la coupe dans la main de Pharaon."
+    },
+    {
+      "ref": "Genesis 40:12",
+      "fr": "Yossif lui dit : Voici son interprétation : Les trois branches représentent trois jours."
+    },
+    {
+      "ref": "Genesis 40:13",
+      "fr": "Dans trois jours supplémentaires, Pharaon relèvera votre tête et vous rétablira dans votre position. Vous placerez la coupe de Pharaon dans sa main, comme c’était votre habitude lorsque vous étiez son majordome."
+    },
+    {
+      "ref": "Genesis 40:14",
+      "fr": "Mais souviens-toi de moi quand tout va bien pour toi. S'il vous plaît [Maintenant] traitez-moi avec bonté [avec bonté], et mentionnez-moi [devant] Pharaon, et faites-moi sortir de cette maison [prison]."
+    },
+    {
+      "ref": "Genesis 40:15",
+      "fr": "J'ai été enlevé du pays des Hébreux, et ici non plus, je n'ai rien fait pour qu'ils aient dû me mettre dans ce cachot [prison]."
+    },
+    {
+      "ref": "Genesis 40:16",
+      "fr": "Le chef boulanger vit qu'il interprétait bien. Il a dit à Yoseif, moi aussi j'ai rêvé. Voici, il y avait trois paniers fantaisie sur ma tête."
+    },
+    {
+      "ref": "Genesis 40:17",
+      "fr": "Dans le panier supérieur, il y avait diverses sortes de nourriture pour Pharaon, composées de pâtisseries, et l'oiseau les mangeait dans le panier qui était sur ma tête."
+    },
+    {
+      "ref": "Genesis 40:18",
+      "fr": "Yoseif répondit et dit : Voici son interprétation : Les trois paniers représentent trois jours."
+    },
+    {
+      "ref": "Genesis 40:19",
+      "fr": "Dans trois jours supplémentaires, Pharaon lèvera votre tête de dessus vous. Il te pendra à un arbre, et l'oiseau mangera ta chair de dessus toi."
+    },
+    {
+      "ref": "Genesis 40:20",
+      "fr": "C’est le troisième jour, qui était l’anniversaire de Pharaon, qu’il [Pharaon] organisa un festin pour tous ses serviteurs. Il leva [se souvint] de la tête du chef échanson et de la tête du chef panetier parmi ses serviteurs."
+    },
+    {
+      "ref": "Genesis 40:21",
+      "fr": "Il rétablit le grand échanson dans ses fonctions et présenta la coupe dans la main de Pharaon."
+    },
+    {
+      "ref": "Genesis 40:22",
+      "fr": "Le chef boulanger, il l'a pendu, exactement comme Yoseif leur avait interprété."
+    },
+    {
+      "ref": "Genesis 40:23",
+      "fr": "[Cependant] le majordome en chef ne s'est pas souvenu de Yossif, mais l'a oublié."
+    }
+  ]
+}

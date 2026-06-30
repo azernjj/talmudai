@@ -1,0 +1,484 @@
+{
+  "name": "Shelach Lekha",
+  "range": "Numbers 13:1-15:41",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/shelach.json",
+  "verses": [
+    {
+      "ref": "Numbers 13:1",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 13:2",
+      "fr": "« Envoyez des hommes pour vous et faites-leur explorer le pays de Cana'an que je donne à Bnei Yisroel ; un homme, un homme chacun, pour la tribu de son père, vous les enverrez, chaque chef parmi eux. »"
+    },
+    {
+      "ref": "Numbers 13:3",
+      "fr": "Moshe les envoya du désert de Paran par la parole d'Adonoy ; tous [étaient] des hommes de distinction, ils étaient les chefs des Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 13:4",
+      "fr": "Ce sont leurs noms ; pour la tribu de Reuven, Shamua, fils de Zaccur."
+    },
+    {
+      "ref": "Numbers 13:5",
+      "fr": "Pour la tribu de Shimon, Shafat, fils de Chori."
+    },
+    {
+      "ref": "Numbers 13:6",
+      "fr": "Pour la tribu de Yehouda, Caleiv, fils de Yefuneh."
+    },
+    {
+      "ref": "Numbers 13:7",
+      "fr": "Pour la tribu d'Yissacar, Yigal, fils de Yossif."
+    },
+    {
+      "ref": "Numbers 13:8",
+      "fr": "Pour la tribu d'Éphraïm, Osée, fils de Noun."
+    },
+    {
+      "ref": "Numbers 13:9",
+      "fr": "Pour la tribu de Binyamin, Palti, fils de Raphu."
+    },
+    {
+      "ref": "Numbers 13:10",
+      "fr": "Pour la tribu de Zevulun, Gadiel, fils de Sodi."
+    },
+    {
+      "ref": "Numbers 13:11",
+      "fr": "Pour la tribu de Yossif, pour la tribu de Menashe, Gadi, fils de Susi."
+    },
+    {
+      "ref": "Numbers 13:12",
+      "fr": "Pour la tribu de Don, Amiel, fils de Gemali."
+    },
+    {
+      "ref": "Numbers 13:13",
+      "fr": "Pour la tribu d'Aser, Sésur, fils de Michel."
+    },
+    {
+      "ref": "Numbers 13:14",
+      "fr": "Pour la tribu de Naftali, Nachbi, fils de Vofsi."
+    },
+    {
+      "ref": "Numbers 13:15",
+      "fr": "Pour la tribu de Gad, Gueu'el, fils de Machi."
+    },
+    {
+      "ref": "Numbers 13:16",
+      "fr": "Tels sont les noms des hommes que Moshe envoya explorer le pays, et Moshe appela Hosheiah, fils de Noun, Yehoshua."
+    },
+    {
+      "ref": "Numbers 13:17",
+      "fr": "Moshe les envoya explorer le pays de Cana'an et il leur dit : « Montez par ici, vers le sud et montez vers la montagne."
+    },
+    {
+      "ref": "Numbers 13:18",
+      "fr": "Voyez ce qu'est la terre ; et les gens qui y vivent ; sont-ils forts ou faibles, s'ils sont peu nombreux ou nombreux ;"
+    },
+    {
+      "ref": "Numbers 13:19",
+      "fr": "et comment est le pays dans lequel ils vivent, est-il bon ou mauvais ? Et comment sont les villes dans lesquelles ils résident ? sont-ils ouverts ou sont-ils fortifiés ?"
+    },
+    {
+      "ref": "Numbers 13:20",
+      "fr": "Comment est la terre (le sol), est-elle grasse (riche) ou maigre (pauvre), a-t-elle des arbres ou non ? Vous vous fortifierez et vous récolterez des fruits du pays. Ces jours étaient les jours de la première maturation des raisins."
+    },
+    {
+      "ref": "Numbers 13:21",
+      "fr": "Ils montèrent et explorèrent le pays depuis le désert de Tzin jusqu'à Rechov, à l'entrée de Chamas."
+    },
+    {
+      "ref": "Numbers 13:22",
+      "fr": "Ils montèrent dans la partie sud [du pays] et [il] arriva à Chevron ; et là se trouvaient Achiman, Sheshai et Talmai, la progéniture des géants. [La ville de] Chevron a été construite sept ans avant la ville de Tzo'an [Tonas] en Égypte."
+    },
+    {
+      "ref": "Numbers 13:23",
+      "fr": "Ils arrivèrent jusqu'à la vallée d'Eshkol, et de là ils coupèrent un sarment et une grappe de raisin, et ils les portèrent entre deux sur une perche, [et ils prirent] des grenades et des figues."
+    },
+    {
+      "ref": "Numbers 13:24",
+      "fr": "Cet endroit, ils l'appelèrent la vallée d'Eshkol, à cause de l'événement de la grappe que Bnei Yisroel en retrancha."
+    },
+    {
+      "ref": "Numbers 13:25",
+      "fr": "Ils revinrent d'avoir exploré le pays, au bout de quarante jours."
+    },
+    {
+      "ref": "Numbers 13:26",
+      "fr": "Ils allèrent et arrivèrent vers Moshe et Aharon et vers toute la congrégation de Bnei Yisroel [qui était venue] dans le désert de Paran, à Kadeish [à Rekom]. Ils leur rapportèrent la parole, ainsi qu'à toute l'assemblée, et leur montrèrent les fruits du pays."
+    },
+    {
+      "ref": "Numbers 13:27",
+      "fr": "Ils lui racontèrent et dirent : « Nous sommes entrés dans le pays dans lequel tu nous as envoyés, et il coule effectivement du lait et du miel, et voici son fruit."
+    },
+    {
+      "ref": "Numbers 13:28",
+      "fr": "Cependant, la nation est puissante, ceux qui habitent le pays, et les villes sont extrêmement fortifiées, et nous avons aussi vu là-bas la progéniture des géants."
+    },
+    {
+      "ref": "Numbers 13:29",
+      "fr": "Amalek habite dans la partie sud du pays, les Chiti, Yevusi et Emori habitent dans la montagne et les Cana'ani habitent au bord de la mer et à côté du Yardein."
+    },
+    {
+      "ref": "Numbers 13:30",
+      "fr": "Caleiv a fait taire les gens pour [entendre parler] de Moshe, et il a dit : « Nous pouvons sûrement monter [vers le pays] et nous le posséderons car nous sommes sûrement capables de le vaincre. »"
+    },
+    {
+      "ref": "Numbers 13:31",
+      "fr": "Mais les hommes qui l'accompagnaient dirent : « Nous ne pouvons pas affronter la nation, car elle est plus puissante que nous. »"
+    },
+    {
+      "ref": "Numbers 13:32",
+      "fr": "Ils répandirent des calomnies sur le pays qu'ils avaient exploré à Bnei Yisroel, en disant : « Le pays que nous avons traversé pour le explorer est un pays qui consume [massacre] ses habitants ; et tous les gens que nous y avons vus sont des hommes de grande taille."
+    },
+    {
+      "ref": "Numbers 13:33",
+      "fr": "Là, nous avons vu les géants, les fils du géant [Anok], des Nephilim [géants], et nous étions comme des sauterelles à nos [propres] yeux, et ainsi nous sommes apparus à leurs yeux."
+    },
+    {
+      "ref": "Numbers 14:1",
+      "fr": "La communauté entière s'est levée et a élevé la voix ; et les gens pleurèrent cette nuit-là."
+    },
+    {
+      "ref": "Numbers 14:2",
+      "fr": "Ils ont insulté Moshe et Aharon – tous de Bnei Yisroel – et toute la congrégation leur a dit : « Si nous étions morts en Égypte ou dans ce désert, si nous étions morts."
+    },
+    {
+      "ref": "Numbers 14:3",
+      "fr": "Pourquoi Adonoy nous amène-t-il dans ce pays pour y tomber par l'épée ? nos femmes et nos enfants seraient comme un butin ; ne vaut-il pas mieux que nous retournions en Égypte ?"
+    },
+    {
+      "ref": "Numbers 14:4",
+      "fr": "Ils se dirent : « Nommons (lit. lieu) un chef et nous retournerons en Égypte. »"
+    },
+    {
+      "ref": "Numbers 14:5",
+      "fr": "Moshe et Aharon tombèrent la face contre terre devant toute l’assemblée de la congrégation des Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 14:6",
+      "fr": "Yehoshua, fils de Noun, et Caleiv, fils de Yefuneh, qui étaient parmi ceux qui exploraient le pays, déchirèrent leurs vêtements [de douleur]."
+    },
+    {
+      "ref": "Numbers 14:7",
+      "fr": "Ils dirent à toute la congrégation des Bnei Yisroel : « Le pays que nous avons traversé pour le découvrir, ce pays est très, très bon."
+    },
+    {
+      "ref": "Numbers 14:8",
+      "fr": "Si Adonoy nous désire, Il nous amènera dans ce pays et nous le donnera, un pays où coulent le lait et le miel."
+    },
+    {
+      "ref": "Numbers 14:9",
+      "fr": "Cependant, ne vous rebellez pas contre [la parole d'] Adonoy et n'ayez pas peur de la nation du pays, car ils sont [comme] notre pain [livré entre nos mains], leur protection [force] leur est retirée, et [la parole] d'Adonoy est avec [soutien] nous ; n’ayez pas peur d’eux."
+    },
+    {
+      "ref": "Numbers 14:10",
+      "fr": "Toute la congrégation dit qu'ils devraient être lapidés à mort, lorsque la gloire d'Adonoy apparaîtrait dans la tente d'assignation, à tous les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 14:11",
+      "fr": "Adonoy dit à Moshe : « Jusqu’où ce peuple me provoquera-t-il [devant] Moi, et combien de temps encore n’auront-ils aucune foi en Moi [ma parole], malgré tous les signes que J’ai accomplis au milieu d’eux."
+    },
+    {
+      "ref": "Numbers 14:12",
+      "fr": "Je les frapperai de la peste et je les anéantirai ; et je ferai de toi un peuple plus grand et plus fort qu’eux."
+    },
+    {
+      "ref": "Numbers 14:13",
+      "fr": "Moshe dit à Adonoy : « Mais l'Égypte apprendra que c'est toi, dans ta puissance, qui as fait sortir ce peuple du milieu d'eux."
+    },
+    {
+      "ref": "Numbers 14:14",
+      "fr": "Ils diront des habitants de ce pays qu'ils ont entendu dire que Toi, Adonoy, tu es [Ta Chechinah habite] parmi ce peuple, Qui leur apparaît les yeux dans les yeux (face à face) [qui ont vu Ta glorieuse Shechinah], Toi, Adonoy ; Ta Nuée se tient au-dessus d'eux, dans une Colonne de Nuée Tu marches devant eux quotidiennement et dans une Colonne de Feu la nuit."
+    },
+    {
+      "ref": "Numbers 14:15",
+      "fr": "Si tu tues cette nation comme un seul homme, les nations diront, celles qui ont entendu parler de ta réputation [la renommée de ta puissance], comme suit :"
+    },
+    {
+      "ref": "Numbers 14:16",
+      "fr": "« C’est à cause de l’incapacité d’Adonoy à amener ce peuple dans le pays qu’il leur a juré de les massacrer dans le désert. »"
+    },
+    {
+      "ref": "Numbers 14:17",
+      "fr": "Maintenant, s’il te plaît, que le pouvoir de mon Maître soit renforcé [devant Hachem] pendant que Tu as parlé en disant :"
+    },
+    {
+      "ref": "Numbers 14:18",
+      "fr": "Adonoy, lent à la colère et riche en bonté, pardonnant l'iniquité, la rébellion et la transgression ; Qui n'acquitte pas complètement [pardonnant à ceux qui reviennent à sa Torah, mais à ceux qui ne reviennent pas, Il n'acquitte pas], Qui visitera les iniquités des pères sur leurs enfants [rebelles], jusqu'à la troisième [génération] et à la quatrième [génération.]"
+    },
+    {
+      "ref": "Numbers 14:19",
+      "fr": "S'il te plaît, pardonne à ce peuple selon l'ampleur de ta bonté, et comme tu as porté ce peuple depuis l'Égypte jusqu'à présent."
+    },
+    {
+      "ref": "Numbers 14:20",
+      "fr": "Adonoy dit : « Je leur ai pardonné, comme vous l'avez dit."
+    },
+    {
+      "ref": "Numbers 14:21",
+      "fr": "Cependant, tout comme je vis et que la Gloire d'Adonoy remplit tout le pays ;"
+    },
+    {
+      "ref": "Numbers 14:22",
+      "fr": "Car tous les gens qui voient ma gloire et mes signes que j'ai faits en Égypte et dans le désert, et ils m'ont éprouvé ces dix fois et n'ont pas écouté ma voix [parole]."
+    },
+    {
+      "ref": "Numbers 14:23",
+      "fr": "S'ils voient le pays que j'ai juré à leurs pères ; tous ceux qui se sont irrités [devant] Moi ne le verront pas."
+    },
+    {
+      "ref": "Numbers 14:24",
+      "fr": "Mon serviteur Caleiv, parce qu'il possédait en lui un esprit différent et qu'il m'a pleinement suivi [dans ma crainte], je le ferai entrer dans le pays où il est venu, et ses enfants en chasseront [ses habitants]."
+    },
+    {
+      "ref": "Numbers 14:25",
+      "fr": "Les Amaléki et les Canaani habitent désormais la vallée. Demain, faites demi-tour et vous traverserez le désert en passant par la mer des Roseaux."
+    },
+    {
+      "ref": "Numbers 14:26",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Numbers 14:27",
+      "fr": "\" Jusqu'à quand cette congrégation méchante [existera], ceux qui Me provoquent ? Les plaintes des Bnei Yisroel, dont ils se plaignent contre Moi, J'ai entendu [devant Moi]."
+    },
+    {
+      "ref": "Numbers 14:28",
+      "fr": "Dis-leur : « Aussi vivant que je suis, dit Adonoy, si je ne [vous fais] ce que vous avez dit à mes oreilles [devant moi], je vous ferai ainsi."
+    },
+    {
+      "ref": "Numbers 14:29",
+      "fr": "Dans ce désert tomberont vos cadavres, vous tous qui avez été dénombrés, depuis vingt ans et au-dessus, parce que vous vous êtes plaints contre moi,"
+    },
+    {
+      "ref": "Numbers 14:30",
+      "fr": "Sûrement vous n'entrerez pas dans le pays vers lequel j'ai levé la main [pour jurer] [juré par ma parole] que je vous y ferai vivre ; à l'exception de Caleiv, fils de Yefuneh, et de Yehoshua, fils de Noun."
+    },
+    {
+      "ref": "Numbers 14:31",
+      "fr": "Tes enfants, dont tu as dit qu'ils seraient un butin, je les y amènerai et ils connaîtront le pays que tu as méprisé."
+    },
+    {
+      "ref": "Numbers 14:32",
+      "fr": "Vos cadavres, les vôtres, tomberont dans ce désert."
+    },
+    {
+      "ref": "Numbers 14:33",
+      "fr": "Vos enfants, ils seront errants dans le désert pendant quarante ans, et ils porteront le fardeau de votre dissolution jusqu'à ce que le dernier de vos cadavres soit dans le désert."
+    },
+    {
+      "ref": "Numbers 14:34",
+      "fr": "Selon le nombre de jours pendant lesquels vous avez exploré le terrain ; quarante jours, un jour par an, un jour par an, tu porteras le fardeau de ton iniquité pendant quarante ans, et tu connaîtras mon mécontentement [que tu as murmuré contre moi]."
+    },
+    {
+      "ref": "Numbers 14:35",
+      "fr": "I am Adonoy; J'ai dit — [décrété par Ma parole] — si Je ne fais pas cela à toute cette congrégation mauvaise qui est rassemblée contre Moi ; dans ce désert, ils seront finis et là ils mourront."
+    },
+    {
+      "ref": "Numbers 14:36",
+      "fr": "Ces hommes que Moshe envoya explorer le pays, qui revinrent et provoquèrent les plaintes de toute la congrégation contre lui, en répandant des calomnies sur le pays ;"
+    },
+    {
+      "ref": "Numbers 14:37",
+      "fr": "Ces hommes qui répandaient de mauvaises calomnies contre le pays moururent dans une peste devant Adonoy."
+    },
+    {
+      "ref": "Numbers 14:38",
+      "fr": "Parmi ces hommes qui allaient explorer le pays, vivaient Yehoshua, fils de Noun, et Caleiv, fils de Yefuneh."
+    },
+    {
+      "ref": "Numbers 14:39",
+      "fr": "Moshe prononça ces paroles à tous les Bnei Yisroel, et le peuple fut profondément pleuré."
+    },
+    {
+      "ref": "Numbers 14:40",
+      "fr": "Ils se réveillèrent tôt le matin et montèrent au sommet de la montagne en disant : « Nous sommes prêts à monter à l'endroit dont Adonoy a parlé (promis), car nous avons péché. »"
+    },
+    {
+      "ref": "Numbers 14:41",
+      "fr": "Moshe a dit : « Pourquoi transgressez-vous maintenant la parole [le décret] d'Adonoy ; cela ne réussira pas."
+    },
+    {
+      "ref": "Numbers 14:42",
+      "fr": "Ne montez pas, car Adonoy n'est pas parmi vous, et ne mourez pas devant vos ennemis,"
+    },
+    {
+      "ref": "Numbers 14:43",
+      "fr": "Car les Amaleki et les Cana'ani sont là devant vous, et vous tomberez par l'épée, car vous vous êtes détournés de [le service d'] Adonoy, et [la parole d'] Adonoy ne sera pas avec vous [à votre secours]."
+    },
+    {
+      "ref": "Numbers 14:44",
+      "fr": "Ils gravirent avec défi le sommet de la montagne, mais l'Arche de l'Alliance d'Adonoy et Moshe ne bougèrent pas du milieu du camp."
+    },
+    {
+      "ref": "Numbers 14:45",
+      "fr": "Les Amaléki et les Canaani fondirent sur cette montagne, et ils les frappèrent et les persuadèrent jusqu'à Chorma."
+    },
+    {
+      "ref": "Numbers 15:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 15:2",
+      "fr": "« Parle aux Bnei Yisroel et dis-leur quand tu arriveras dans le pays dans lequel tu habiteras et que je te donne."
+    },
+    {
+      "ref": "Numbers 15:3",
+      "fr": "Lorsque vous faites une offrande par le feu [sacrifice] à Adonoy, un holocauste ou un sacrifice, en le verbalisant comme un gage ou une donation ou lors de vos fêtes pour donner un parfum agréable à [à accepter avec plaisir devant] Adonoy, du bétail ou du mouton."
+    },
+    {
+      "ref": "Numbers 15:4",
+      "fr": "Celui qui apportera son offrande à Adonoï présentera un dixième de farine pétrie avec un quart de hin d'huile,"
+    },
+    {
+      "ref": "Numbers 15:5",
+      "fr": "Avec le vin, pour l'offrande de vin, tu feras un quart de hin, ainsi tu feras pour l'holocauste ou le sacrifice, pour une brebis."
+    },
+    {
+      "ref": "Numbers 15:6",
+      "fr": "Si, pour un bélier, vous ferez une offrande de deux dixièmes, mélangées à un tiers de hin d'huile."
+    },
+    {
+      "ref": "Numbers 15:7",
+      "fr": "Le vin, car une offrande de vin sera d'un tiers de hin. C'est ainsi que tu offriras un parfum agréable à [pour être accepté avec plaisir devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 15:8",
+      "fr": "Si vous faites un veau en holocauste ou en sacrifice en le verbalisant comme gage ou comme offrande de paix, à Adonoy."
+    },
+    {
+      "ref": "Numbers 15:9",
+      "fr": "Il apportera avec le veau une offrande de trois dixièmes mélangée à un demi-hin d'huile."
+    },
+    {
+      "ref": "Numbers 15:10",
+      "fr": "Tu apporteras du vin, en offrande de vin, un demi-hin, une offrande par feu d'une agréable odeur à [qui sera acceptée avec plaisir devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 15:11",
+      "fr": "Vous ferez ainsi pour chaque bœuf ou bélier, ou pour les brebis ou les chèvres."
+    },
+    {
+      "ref": "Numbers 15:12",
+      "fr": "Selon le nombre que vous proposez, vous ferez ainsi pour chacun selon le[leur] numéro(s)."
+    },
+    {
+      "ref": "Numbers 15:13",
+      "fr": "Chaque citoyen fera cela comme indiqué, pour apporter une offrande par le feu d'un parfum agréable à [qui sera acceptée avec plaisir devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 15:14",
+      "fr": "Si un prosélyte vit avec vous ou parmi vous, pour toutes vos générations, et fait une offrande par le feu d'un parfum agréable à [qui sera acceptée avec plaisir devant] Adonoy, de la même manière que vous la faites, ainsi il le fera."
+    },
+    {
+      "ref": "Numbers 15:15",
+      "fr": "L'assemblée a un seul statut pour vous et pour le prosélyte qui réside ; une seule statue pour toutes vos générations, comme elle l'est pour vous-mêmes, ainsi en sera-t-il pour le prosélyte, devant Adonoy."
+    },
+    {
+      "ref": "Numbers 15:16",
+      "fr": "Une seule loi et une seule règle s’appliqueront à vous et au prosélyte qui vit avec vous."
+    },
+    {
+      "ref": "Numbers 15:17",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 15:18",
+      "fr": "« Parlez aux Bnei Yisroel et dites-leur, à votre arrivée dans le pays dans lequel je vous amène :"
+    },
+    {
+      "ref": "Numbers 15:19",
+      "fr": "Quand vous mangerez du pain du pays, vous séparerez une terumah pour [une séparation devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 15:20",
+      "fr": "[De] la première portion de vos pâtes, vous séparerez un pain comme une portion séparée ; comme le cadeau terumah du grenier, ainsi vous le séparerez."
+    },
+    {
+      "ref": "Numbers 15:21",
+      "fr": "De la première portion de vos pâtes, vous la donnerez à [devant] Adonoy en offrande de terumah, à travers vos générations."
+    },
+    {
+      "ref": "Numbers 15:22",
+      "fr": "Si vous vous trompez et ne respectez pas tous ces commandements qu'Adonoy a dit à Moshe ;"
+    },
+    {
+      "ref": "Numbers 15:23",
+      "fr": "Tout ce qu'Adonoy vous a ordonné par l'intermédiaire de Moché, depuis le jour où Adonoy l'a ordonné, et à partir de ce moment-là, à travers vos générations."
+    },
+    {
+      "ref": "Numbers 15:24",
+      "fr": "Si cela a été caché aux yeux de l'assemblée, à cause d'une erreur, alors toute l'assemblée offrira un jeune taureau en holocauste pour une odeur agréable à [pour être accepté avec plaisir devant] Adonoy. Son offrande de gâteau et son offrande de vin seront selon sa loi, ainsi qu'un bouc en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 15:25",
+      "fr": "Les kohein feront l'expiation pour toute la congrégation de Bnei Yisroel, et ils seront pardonnés ; car ils se sont trompés involontairement et ils ont apporté leur offrande en feu à Adonoy, et leur sacrifice pour le péché devant Adonoy (pour expier) leur erreur."
+    },
+    {
+      "ref": "Numbers 15:26",
+      "fr": "Et cela sera pardonné à toute la congrégation des Bnei Yisroel et à l'étranger parmi eux ; car le peuple tout entier a péché involontairement."
+    },
+    {
+      "ref": "Numbers 15:27",
+      "fr": "Si quelqu'un commet un péché par erreur, il apportera une chèvre d'un an en sacrifice pour le péché."
+    },
+    {
+      "ref": "Numbers 15:28",
+      "fr": "Le kohein expiera cette âme égarée qui a péché involontairement devant Adonoy ; pour obtenir l'expiation pour lui, et il sera pardonné."
+    },
+    {
+      "ref": "Numbers 15:29",
+      "fr": "[Pour] le citoyen des Bnei Yisroel et le prosélyte qui habite parmi eux, il y aura une seule loi pour vous tous, pour celui qui pèche involontairement."
+    },
+    {
+      "ref": "Numbers 15:30",
+      "fr": "Celui qui commet un péché autoritairement [publiquement] parmi les citoyens ou parmi les prosélytes, blasphème [provoque devant] Adonoy ; l'âme de cette personne sera retranchée du milieu de son peuple."
+    },
+    {
+      "ref": "Numbers 15:31",
+      "fr": "Car il a dénigré la parole d'Adonoy et il a violé son commandement ; L'âme de cette personne sera certainement retranchée ; son iniquité est sur lui."
+    },
+    {
+      "ref": "Numbers 15:32",
+      "fr": "Les Bnei Yisroel étaient dans le désert et ils trouvèrent un homme ramassant du bois le jour du Chabbat."
+    },
+    {
+      "ref": "Numbers 15:33",
+      "fr": "Ceux qui le trouvèrent le rapprochèrent, lui qui ramassait du bois, de Moché, d'Aharon et de toute la congrégation."
+    },
+    {
+      "ref": "Numbers 15:34",
+      "fr": "Ils l'ont placé sous surveillance car il n'était pas précisé ce qui devait lui être fait."
+    },
+    {
+      "ref": "Numbers 15:35",
+      "fr": "Adonoy dit à Moshe : « Cet homme sera mis à mort, toute la congrégation le lapidera au-delà du camp. »"
+    },
+    {
+      "ref": "Numbers 15:36",
+      "fr": "Toute l'assemblée le fit sortir, au-delà du camp, et ils le lapidèrent, et il mourut, comme Adonoï l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Numbers 15:37",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 15:38",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur de se confectionner eux-mêmes des tzizis, des franges aux coins de leurs vêtements, à travers leurs générations ; et ils placeront aux franges de chaque coin un fil de bleu."
+    },
+    {
+      "ref": "Numbers 15:39",
+      "fr": "Et ce sera pour toi une frange et tu le regarderas et tu te souviendras de tous les commandements d'Adonoy et tu les exécuteras ; et vous ne rechercherez pas [le désir de] vos coeurs et [la vue] vos yeux qui vous égarent."
+    },
+    {
+      "ref": "Numbers 15:40",
+      "fr": "Afin que vous vous souveniez et que vous exécutiez tous Mes commandements ; et tu seras saint pour ton Dieu."
+    },
+    {
+      "ref": "Numbers 15:41",
+      "fr": "Je suis Adonoy, ton Dieu, qui t'ai fait sortir du pays d'Égypte pour être ton Dieu. Je suis Adonoy ton Dieu."
+    }
+  ]
+}

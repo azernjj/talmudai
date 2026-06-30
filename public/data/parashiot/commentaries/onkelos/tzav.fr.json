@@ -1,0 +1,396 @@
+{
+  "name": "Tsav",
+  "range": "Leviticus 6:1-8:36",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/tzav.json",
+  "verses": [
+    {
+      "ref": "Leviticus 6:1",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 6:2",
+      "fr": "Commandez à Aaron et à ses fils, en disant : c'est la loi de l'holocauste. C'est l'holocauste qui reste sur son bûcher sur l'autel toute la nuit jusqu'au matin, et le feu de l'autel y restera allumé."
+    },
+    {
+      "ref": "Leviticus 6:3",
+      "fr": "Le kohein s'habillera de son vêtement de lin et il portera un pantalon de lin sur sa peau [du corps] ; et il séparera les cendres lorsque le feu consumera l'holocauste sur l'autel et le placera à côté de l'autel."
+    },
+    {
+      "ref": "Leviticus 6:4",
+      "fr": "Il enlèvera alors ses vêtements et portera d'autres vêtements. Il emportera les cendres au-delà du campement, dans un lieu pur."
+    },
+    {
+      "ref": "Leviticus 6:5",
+      "fr": "Le feu sur l'autel sera allumé avec et ne s'éteindra pas. Le kohein y brûlera des bûches chaque matin, y disposera l'holocauste et y brûlera les graisses de l'offrande de paix [sacrée]."
+    },
+    {
+      "ref": "Leviticus 6:6",
+      "fr": "Un feu continu sera allumé sur l'autel ; il ne s'éteindra pas."
+    },
+    {
+      "ref": "Leviticus 6:7",
+      "fr": "C'est la loi de l'offrande de repas. Les fils d'Aharon l'apportent devant Adonoï, devant l'autel."
+    },
+    {
+      "ref": "Leviticus 6:8",
+      "fr": "Il en séparera, quand il en prendra par poignée, d'une partie de l'offrande de farine, d'un peu de son huile, et de tout l'encens qui est sur l'offrande. Il brûlera sur l'autel un parfum agréable [pour être accepté avec faveur] ; sa partie commémorative, à [avant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 6:9",
+      "fr": "Tout ce qui en restera sera mangé par Aaron et ses fils. Il doit être consommé sous forme de matzoh, dans un lieu sacré. Dans la cour de la tente d'assignation, ils le mangeront."
+    },
+    {
+      "ref": "Leviticus 6:10",
+      "fr": "Il ne faut pas le cuire au levain. Je le leur ai donné comme leur part de mes offrandes par le feu [offrandes]. C'est le saint des saints [très saint], comme le sacrifice pour le péché et comme le sacrifice de culpabilité."
+    },
+    {
+      "ref": "Leviticus 6:11",
+      "fr": "Tout descendant mâle d'Aharon pourra en manger, c'est un statut éternel pour tous vos descendants, provenant des offrandes consumées par le feu d'Adonoy. tout ce qui les touchera deviendra sacré."
+    },
+    {
+      "ref": "Leviticus 6:12",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 6:13",
+      "fr": "Ceci est l'offrande d'Aharon et de ses fils qu'ils offriront à [devant] Adonoy le jour où il sera oint [inauguré à la grandeur] ; un dixième d'épha [qui équivaut à trois se'in] de farine fine comme offrande de repas, toujours [quotidiennement]. Il en offrira la moitié le matin et l'autre moitié le soir."
+    },
+    {
+      "ref": "Leviticus 6:14",
+      "fr": "Dans une poêle, avec de l'huile, cela sera fait; tu lui apporteras une offrande saturée et bien cuite de morceaux brisés, tu lui apporteras un parfum agréable [pour qu'il soit accepté avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 6:15",
+      "fr": "Le kohein qui est oint [inauguré à la grandeur] à sa place parmi ses fils, il le fera [aussi] ; statut éternel pour Adonoy, il sera entièrement brûlé."
+    },
+    {
+      "ref": "Leviticus 6:16",
+      "fr": "Toute offrande de repas d'un kohein sera entièrement brûlée et ne pourra pas être mangée."
+    },
+    {
+      "ref": "Leviticus 6:17",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 6:18",
+      "fr": "Parle à Aaron et à ses fils, et dis : telle est la loi du sacrifice pour le péché. Dans le lieu où l'on égorge l'holocauste, le sacrifice pour le péché sera égorgé devant Adonoy ; c'est le saint des saints [très saint]."
+    },
+    {
+      "ref": "Leviticus 6:19",
+      "fr": "Le kohein qui l'offre en sacrifice pour le péché [expier avec son sang] le mangera. On le mangera dans un lieu sacré, dans la cour de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 6:20",
+      "fr": "Tout ce qui touchera sa chair deviendra saint et lorsque de son sang sera aspergé sur le vêtement, quoi que ce soit sur lequel il sera aspergé, vous vous laverez dans un lieu sacré."
+    },
+    {
+      "ref": "Leviticus 6:21",
+      "fr": "Le récipient en terre cuite dans lequel il a été cuit doit être brisé. S'il a été cuit dans un récipient en cuivre, il doit être récuré et rincé à l'eau."
+    },
+    {
+      "ref": "Leviticus 6:22",
+      "fr": "Tout mâle parmi les cohanim peut en manger ; c'est le saint des saints [=très saint]."
+    },
+    {
+      "ref": "Leviticus 6:23",
+      "fr": "Tout sacrifice pour le péché dont le sang doit être apporté à l'intérieur de la Tente d'assignation pour réaliser l'expiation à l'intérieur du sanctuaire ne peut être mangé ; il doit être brûlé au feu."
+    },
+    {
+      "ref": "Leviticus 7:1",
+      "fr": "C'est la loi du sacrifice de culpabilité ; c'est le saint des saints [=très saint]."
+    },
+    {
+      "ref": "Leviticus 7:2",
+      "fr": "Au lieu où ils égorgeront l'holocauste, ils égorgeront le sacrifice de culpabilité, et ils répandront son sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 7:3",
+      "fr": "Il en apportera [séparera] toute sa graisse ; la [grosse] queue, la graisse qui recouvre les entrailles,"
+    },
+    {
+      "ref": "Leviticus 7:4",
+      "fr": "les deux rognons et la graisse qui se trouve sur les flancs. Il enlèvera le lobe du foie avec les reins."
+    },
+    {
+      "ref": "Leviticus 7:5",
+      "fr": "Le kohein les brûlera sur l'autel, en offrande par le feu à [une offrande devant] Adonoy ; c'est une offrande de culpabilité."
+    },
+    {
+      "ref": "Leviticus 7:6",
+      "fr": "Tous les mâles parmi les cohanim peuvent en manger. Il faut le manger dans un lieu sacré ; c'est très saint."
+    },
+    {
+      "ref": "Leviticus 7:7",
+      "fr": "Tel est le sacrifice pour le péché, tel est le sacrifice pour le délit ; une seule loi s’applique aux deux ; le kohein qui fera l'expiation avec cela, cela lui appartiendra."
+    },
+    {
+      "ref": "Leviticus 7:8",
+      "fr": "Le kohein qui apporte l'holocauste d'un individu, la peau de l'holocauste qu'il a apporté, appartiendra au kohein, elle lui appartiendra."
+    },
+    {
+      "ref": "Leviticus 7:9",
+      "fr": "Toute offrande de repas cuite au four et toute offrande préparée dans une marmite profonde [qui semble avoir été labourée] ou une poêle à frire, [appartiennent] au kohein qui l'offre ; cela lui appartiendra."
+    },
+    {
+      "ref": "Leviticus 7:10",
+      "fr": "Toute offrande de gâteau pétrie avec de l'huile ou sèche [non mélangée] appartiendra à tous les fils d'Aharon, chacun également."
+    },
+    {
+      "ref": "Leviticus 7:11",
+      "fr": "C'est la loi de l'offrande de paix [sacrée] que l'on apportera à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 7:12",
+      "fr": "S'il l'apporte comme offrande de remerciement, il apportera avec son offrande de remerciement des pains de matzoh [sans levain] pétris à l'huile, des galettes de matzoh [sans levain] ointes d'huile et des pains de farine fine saturée pétrie à l'huile."
+    },
+    {
+      "ref": "Leviticus 7:13",
+      "fr": "Il apportera son offrande avec des miches de pain au levain, ainsi que son offrande de paix et d'action de grâces."
+    },
+    {
+      "ref": "Leviticus 7:14",
+      "fr": "Il en apportera un de chaque offrande en portion séparée à [devant] Adonoy. À ce kohein qui asperge le sang de l'offrande de paix [sacrée], cela lui appartiendra."
+    },
+    {
+      "ref": "Leviticus 7:15",
+      "fr": "La chair de son offrande de paix [sacrée] de remerciement peut être mangée le jour de son sacrifice. Il n'en laissera rien jusqu'au matin."
+    },
+    {
+      "ref": "Leviticus 7:16",
+      "fr": "Si les sacrifices de ses offrandes sont un vœu ou une offrande volontaire, ils seront mangés le jour de son offrande. Et le lendemain, on pourra en manger le reste."
+    },
+    {
+      "ref": "Leviticus 7:17",
+      "fr": "Tout ce qui restera de la chair de l'offrande sera brûlé au feu le troisième jour."
+    },
+    {
+      "ref": "Leviticus 7:18",
+      "fr": "S'il est mangé de la chair de l'offrande de paix le troisième jour, il ne sera pas accepté favorablement. [Quant à] celui qui l'apportera, cela ne lui sera pas crédité ; c'est une abomination [rejetée] et quiconque en mangera portera [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Leviticus 7:19",
+      "fr": "La chair [des offrandes [sacrées]] qui touchera une [chose] impure ne pourra pas être mangée ; il sera brûlé au feu. [Quant à] la chair [pure] [sacrée], toute personne [rituellement] pure [apte au sacré] peut manger [la] viande [sacrée]."
+    },
+    {
+      "ref": "Leviticus 7:20",
+      "fr": "Celui qui mangera de la chair de l'offrande de paix [sacrée] appartenant à [qui est devant] Adonoy alors que son impureté est encore sur lui, l'âme de cette personne sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 7:21",
+      "fr": "Celui qui touche quelque chose d'impur, que ce soit les impuretés de l'homme ou un animal impur, ou tout autre reptile impur, et qui mange ensuite de la chair de l'offrande de paix [sacrée] appartenant à [qui est devant] Adonoy, cette âme sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 7:22",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 7:23",
+      "fr": "Parlez à Bnei Yisroel et dites : vous ne devez pas manger de graisse de bœuf, de mouton ou de chèvre."
+    },
+    {
+      "ref": "Leviticus 7:24",
+      "fr": "La graisse d'un animal mal abattu et la graisse d'un animal mortellement blessé peuvent être utilisées à n'importe quelle fin, mais vous n'êtes certainement pas autorisé à en manger."
+    },
+    {
+      "ref": "Leviticus 7:25",
+      "fr": "Car quiconque mange la graisse d'un animal dont on offre un sacrifice par le feu à [comme offrande devant] Adonoy, l'âme [la personne] qui en a mangé sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 7:26",
+      "fr": "Vous ne mangerez pas de sang, dans toutes vos demeures, ni de volaille ni de bête."
+    },
+    {
+      "ref": "Leviticus 7:27",
+      "fr": "Toute personne qui mange du sang, cette âme [personne] sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 7:28",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 7:29",
+      "fr": "Parlez à Bnei Yisroel, en disant : Quiconque apportera le sacrifice de son offrande de paix [sacrée] à [devant] Adonoy, il apportera son offrande à [devant] Adonoy de son offrande de paix [sacrée]."
+    },
+    {
+      "ref": "Leviticus 7:30",
+      "fr": "Ses mains apporteront les offrandes par le feu [offrandes] d'Adonoy ; il apportera la graisse de la poitrine et la poitrine [elle-même] pour les agiter [les soulever] comme une offrande agitée [une offrande élevée] devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 7:31",
+      "fr": "Le kohein brûlera la graisse sur l'autel et la poitrine appartiendra à Aaron et à ses fils."
+    },
+    {
+      "ref": "Leviticus 7:32",
+      "fr": "Vous donnerez la cuisse droite comme une portion séparée au kohein, de vos offrandes de paix [sacrées]."
+    },
+    {
+      "ref": "Leviticus 7:33",
+      "fr": "Celui qui offrira le sang de l'offrande de paix et la graisse des fils d'Aharon, la cuisse droite lui appartiendra en portion."
+    },
+    {
+      "ref": "Leviticus 7:34",
+      "fr": "Parce que j'ai pris l'offrande du sein [élevé] et la cuisse [c'est-à-dire] la partie élevée [séparée] de Bnei Yisroel. de leurs offrandes de paix, et je les ai données à Aharon le Kohein et à ses fils, comme une loi éternelle, de Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 7:35",
+      "fr": "Ceci est [pour] l'onction [d'inauguration à la grandeur] d'Aharon et [pour] l'onction [d'inauguration à la grandeur] de ses fils par le feu [offrandes] d'Adonoy, le jour où il les a amenés à servir devant Adonoy,"
+    },
+    {
+      "ref": "Leviticus 7:36",
+      "fr": "qu'Adonoy ordonna de leur donner, le jour où il les oint [les inaugura] [à la grandeur], depuis Bnei Yisroel, un statut éternel pour tous leurs descendants."
+    },
+    {
+      "ref": "Leviticus 7:37",
+      "fr": "Telle est la loi pour l'holocauste, l'offrande de gâteau, le sacrifice d'expiation et le sacrifice de culpabilité ; pour les sacrifices d'installation [sacrifices] et pour l'offrande de paix [sacrée],"
+    },
+    {
+      "ref": "Leviticus 7:38",
+      "fr": "qu'Adonoy a ordonné à Moshe de monter sur le mont Sinaï, le jour où il a ordonné aux Bnei Yisroel d'apporter leurs offrandes à [devant] Adonoy dans le désert du Sinaï."
+    },
+    {
+      "ref": "Leviticus 8:1",
+      "fr": "Et Adonoy parla à Moshe, pour dire :"
+    },
+    {
+      "ref": "Leviticus 8:2",
+      "fr": "Prenez [Amenez] Aharon [près], avec ses fils, les vêtements, l'huile d'onction [d'inauguration à la grandeur], le taureau pour le sacrifice pour le péché, les deux béliers et un panier de matzos."
+    },
+    {
+      "ref": "Leviticus 8:3",
+      "fr": "Rassemblez toute la congrégation à l’entrée de la tente d’assignation."
+    },
+    {
+      "ref": "Leviticus 8:4",
+      "fr": "Moshe fit ce qu'Adonoy lui avait commandé et la congrégation fut rassemblée à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 8:5",
+      "fr": "Moshe dit à l'assemblée : C'est l'édit qu'Adonoy a ordonné de faire."
+    },
+    {
+      "ref": "Leviticus 8:6",
+      "fr": "Moché fit approcher Aharon et ses fils et les baigna dans l'eau."
+    },
+    {
+      "ref": "Leviticus 8:7",
+      "fr": "Il lui plaça la tunique, le ceint de la ceinture, l'habilla de la robe, lui plaça l'éphod, le ceignit avec la ceinture de l'éphod et la resserra pour lui."
+    },
+    {
+      "ref": "Leviticus 8:8",
+      "fr": "Il lui mit le pectoral et il plaça dans le pectoral l'urim et le toumim."
+    },
+    {
+      "ref": "Leviticus 8:9",
+      "fr": "Il plaça le turban sur sa tête et il plaça, sur le devant du turban, la plaque d'or, la couronne de sainteté, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Leviticus 8:10",
+      "fr": "Moshe a pris l'huile d'onction [d'inauguration à la grandeur] et a oint [a inauguré] le Tabernacle [à la grandeur] et tout ce qu'il contient et les a sanctifiés."
+    },
+    {
+      "ref": "Leviticus 8:11",
+      "fr": "Il en répandit sept fois sur l'autel ; il oignit [inaugura en grandeur] l'autel et tous ses ustensiles, le lavabo et son socle, pour les sanctifier."
+    },
+    {
+      "ref": "Leviticus 8:12",
+      "fr": "Il versa un peu de l'huile d'onction [qui inaugure la grandeur] sur la tête d'Aharon et l'oignit [l'inaugura] [à la grandeur], pour le sanctifier."
+    },
+    {
+      "ref": "Leviticus 8:13",
+      "fr": "Moïse fit approcher les fils d'Aharon et les habilla de tuniques, les ceignit de ceintures et leur attacha de hauts turbans [à porter], comme Adonoï l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Leviticus 8:14",
+      "fr": "Il fit approcher le taureau du sacrifice pour le péché, et Aharon et ses fils posèrent les mains sur la tête du taureau du sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 8:15",
+      "fr": "Il l'a massacré ; et Moshe prit le sang et le mit sur les coins de l'autel tout autour avec son doigt et il purifia l'autel. Il versa le sang au pied de l'autel et le sanctifia pour faire l'expiation."
+    },
+    {
+      "ref": "Leviticus 8:16",
+      "fr": "Il prit toute la graisse des entrailles, du lobe du foie, des deux rognons et de leurs graisses et Moshe les brûla sur l'autel."
+    },
+    {
+      "ref": "Leviticus 8:17",
+      "fr": "Le taureau, sa peau, sa chair et ses excréments [qui sont dans ses intestins], il les brûla au feu, au-delà du camp, comme Adonoï l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Leviticus 8:18",
+      "fr": "Il apporta le bélier de l'holocauste, et Aaron et ses fils posèrent les mains sur la tête du bélier."
+    },
+    {
+      "ref": "Leviticus 8:19",
+      "fr": "Il l'a massacré ; et Moshe aspergea le sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 8:20",
+      "fr": "Il coupa les membres du bélier ; et Moshe brûla la tête, les membres coupés et la graisse."
+    },
+    {
+      "ref": "Leviticus 8:21",
+      "fr": "Il lava les entrailles et les pieds dans l'eau ; et Moshe brûla tout le bélier sur l'autel. C'est un holocauste ; pour un parfum agréable [à accepter avec faveur], une offrande par feu à [une offrande devant] Adonoy, tout comme Adonoy l'a ordonné à Moshe."
+    },
+    {
+      "ref": "Leviticus 8:22",
+      "fr": "Il apporta le deuxième bélier, le bélier pour l'offrande d'installation [offrandes] ; Et Aaron et ses fils posèrent la main sur la tête du bélier."
+    },
+    {
+      "ref": "Leviticus 8:23",
+      "fr": "Il l'a massacré ; et Moshe prit un peu de son sang et le mit sur [la partie supérieure du] lobe de l'oreille droite d'Aharon, sur le pouce de sa main droite et le gros orteil de son pied droit."
+    },
+    {
+      "ref": "Leviticus 8:24",
+      "fr": "Il fit venir les fils d'Aharon ; et Moshe mit du sang sur [la partie supérieure de] leurs lobes d'oreille droits [oreilles] et sur les pouces de leur main droite et sur le gros orteil de leur pied droit. Moshe aspergea le sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 8:25",
+      "fr": "Il prit la graisse et la grosse queue, toute la graisse des entrailles, le lobe du foie, les deux rognons et leurs graisses et la cuisse droite."
+    },
+    {
+      "ref": "Leviticus 8:26",
+      "fr": "Du panier de matzos qui [était] devant Adonoy, il prit un pain de matzoh, un pain à l'huile et une galette et il les plaça sur les graisses et sur la cuisse droite."
+    },
+    {
+      "ref": "Leviticus 8:27",
+      "fr": "Il les mit tous sur les paumes d'Aharon et sur les paumes de ses fils et il les agita [leva] comme une offrande agitée [une offrande élevée] devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 8:28",
+      "fr": "Moshe les prit de leurs paumes et les brûla sur l'autel en plus de l'holocauste ; ce sont des offrandes d'installation pour un parfum agréable [offrandes à accepter avec faveur], c'est une offrande par le feu à [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 8:29",
+      "fr": "Moshe prit le sein et l'agita [le souleva] [comme] une offrande agitée [une offrande élevée] devant Adonoy. Du bélier pour l'offrande d'installation [offrandes] - c'était la part de Moshe - tout comme Adonoy l'a ordonné à Moshe."
+    },
+    {
+      "ref": "Leviticus 8:30",
+      "fr": "Moshe prit de l'huile d'onction [qui inaugure la grandeur] et du sang qui était sur l'autel et en aspergea Aaron, ses vêtements, ses fils et les vêtements de ses fils avec lui. Il sanctifia Aaron et ses vêtements, ainsi que ses fils et les vêtements de ses fils avec lui."
+    },
+    {
+      "ref": "Leviticus 8:31",
+      "fr": "Moshe dit à Aharon et à ses fils Faites cuire la chair à l'entrée de la Tente d'assignation et vous la mangerez là [avec] le pain qui est dans le panier d'installation [des sacrifices] comme je l'ai ordonné, en disant : Aaron et ses fils les mangeront."
+    },
+    {
+      "ref": "Leviticus 8:32",
+      "fr": "Tout ce qui restera de chair et de pain, vous les brûlerez au feu."
+    },
+    {
+      "ref": "Leviticus 8:33",
+      "fr": "Vous ne sortirez pas de l'entrée de la Tente d'assignation pendant sept jours, jusqu'à ce que vos jours d'installation [sacrifices] soient terminés, car pendant sept jours vos mains [sacrifices] seront remplies [offertes]."
+    },
+    {
+      "ref": "Leviticus 8:34",
+      "fr": "Tout comme tu l'as fait en ce jour, Adonoy lui a ordonné de faire l'expiation."
+    },
+    {
+      "ref": "Leviticus 8:35",
+      "fr": "A l'entrée de la Tente d'assignation, vous vous asseoirez jour et nuit pendant sept jours et vous garderez la charge de [la Parole d'] Adonoy et vous ne mourrez pas, car ainsi m'a été commandé."
+    },
+    {
+      "ref": "Leviticus 8:36",
+      "fr": "Aharon et ses fils accomplirent tous les édits qu'Adonoy commandait par l'intermédiaire de Moshe."
+    }
+  ]
+}

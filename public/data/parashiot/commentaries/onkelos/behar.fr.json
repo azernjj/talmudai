@@ -1,0 +1,236 @@
+{
+  "name": "Behar",
+  "range": "Leviticus 25:1-26:2",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/behar.json",
+  "verses": [
+    {
+      "ref": "Leviticus 25:1",
+      "fr": "Adonoy parla à Moshe sur le mont Sinaï, disant :"
+    },
+    {
+      "ref": "Leviticus 25:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : quand vous viendrez dans le pays que je vous donne, le pays sera en repos – un Chabbat pour [repos devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 25:3",
+      "fr": "Pendant six ans tu planteras ton champ et pendant six ans tu tailleras ta vigne et tu récolteras ses produits."
+    },
+    {
+      "ref": "Leviticus 25:4",
+      "fr": "Mais la septième année sera un Chabbat de repos [complet] pour le pays, un Chabbat de [repos devant] Adonoy, tu ne planteras pas ton champ et tu ne tailleras pas ta vigne."
+    },
+    {
+      "ref": "Leviticus 25:5",
+      "fr": "Vous ne récolterez pas même les récoltes qui ont poussé d'elles-mêmes [à partir des graines de votre récolte précédente], et vous ne récolterez pas les raisins de vos vignes non entretenues ; ce sera une année de repos complet pour le pays."
+    },
+    {
+      "ref": "Leviticus 25:6",
+      "fr": "Le [produit] [reste] des terres du Chabbat [année] [terre] sera pour vous, pour votre nourriture, pour vous, votre serviteur et votre servante, pour votre mercenaire et votre étranger qui réside avec vous."
+    },
+    {
+      "ref": "Leviticus 25:7",
+      "fr": "[Aussi] pour vos animaux domestiques et pour les bêtes [sauvages] qui sont dans votre pays, tous ses produits seront destinés à la nourriture."
+    },
+    {
+      "ref": "Leviticus 25:8",
+      "fr": "Vous compterez pour vous sept années sabbatiques [de repos], sept ans, sept fois et ce seront pour vous, les jours (période) des sept années sabbatiques [de repos], quarante-neuf ans."
+    },
+    {
+      "ref": "Leviticus 25:9",
+      "fr": "Tu feras une proclamation [en criant] avec le shofor le dixième jour du septième mois. À Yom Kippour, cette proclamation du Shofor sera faite. dans tout ton pays."
+    },
+    {
+      "ref": "Leviticus 25:10",
+      "fr": "Vous sanctifierez l'année de la cinquantième année et proclamerez la liberté dans le pays pour tous ses habitants ; ce sera pour vous un jubilé et chacun retournera dans sa terre ancestrale et chacun retournera dans sa famille."
+    },
+    {
+      "ref": "Leviticus 25:11",
+      "fr": "C'est un jubilé que l'année de la cinquantième année sera pour vous. Vous ne planterez pas et vous ne récolterez pas [même] les récoltes qui ont poussé d'elles-mêmes ; et vous ne récolterez pas les [raisins de] sa vigne inculte,"
+    },
+    {
+      "ref": "Leviticus 25:12",
+      "fr": "Car c'est un jubilé, il sera saint pour vous. Tout ce qu'il y a dans les champs, vous pourrez en manger les produits."
+    },
+    {
+      "ref": "Leviticus 25:13",
+      "fr": "En cette année jubilaire, chaque homme retournera sur sa terre ancestrale."
+    },
+    {
+      "ref": "Leviticus 25:14",
+      "fr": "Si vous vendez quelque chose à votre voisin ou si vous achetez quelque chose à votre voisin, ne vous trompez pas les uns les autres."
+    },
+    {
+      "ref": "Leviticus 25:15",
+      "fr": "Selon le nombre d'années après le jubilé, tu achèteras [la terre] à ton prochain ; il vous le vendra selon le nombre d'années de production."
+    },
+    {
+      "ref": "Leviticus 25:16",
+      "fr": "En fonction de l'abondance des années, vous augmenterez son prix d'achat et en fonction du manque d'années vous diminuerez son prix d'achat, puisque c'est le nombre de saisons de production qu'il vous vend."
+    },
+    {
+      "ref": "Leviticus 25:17",
+      "fr": "Vous ne vous tromperez pas les uns les autres et vous craindrez votre Dieu car je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 25:18",
+      "fr": "Vous respecterez mes statuts, vous observerez mes lois et vous les observerez, et vous vivrez alors en sécurité dans le pays."
+    },
+    {
+      "ref": "Leviticus 25:19",
+      "fr": "La terre donnera ses fruits, vous mangerez à votre faim et vous y vivrez en sécurité."
+    },
+    {
+      "ref": "Leviticus 25:20",
+      "fr": "Si vous dites (demandez) : Que mangerons-nous la septième année, car voici ! nous n'avons pas planté ni récolté nos produits ?"
+    },
+    {
+      "ref": "Leviticus 25:21",
+      "fr": "Je vous ordonnerai (dirigerai) ma bénédiction la sixième année et elle produira [assez] pour trois ans."
+    },
+    {
+      "ref": "Leviticus 25:22",
+      "fr": "Vous planterez la huitième année, mais vous mangerez encore des vieux produits jusqu'à la neuvième année ; jusqu'à ce que le [nouveau] produit arrive (mûrit), vous mangerez [du] vieux."
+    },
+    {
+      "ref": "Leviticus 25:23",
+      "fr": "Le pays ne sera pas vendu à perpétuité, car le pays est à moi, car vous êtes [simplement comme] des étrangers [résidents étrangers] et des étrangers résidents [résidents] devant Moi."
+    },
+    {
+      "ref": "Leviticus 25:24",
+      "fr": "Dans toutes vos terres ancestrales, vous accorderez la rédemption à la terre."
+    },
+    {
+      "ref": "Leviticus 25:25",
+      "fr": "Si votre frère s'appauvrit et vend une partie de sa terre ancestrale, et qu'un proche parent vient racheter ce que son frère a vendu."
+    },
+    {
+      "ref": "Leviticus 25:26",
+      "fr": "[Ou] si l'homme n'a pas de rédempteur (proche parent), mais qu'il a acquis des moyens suffisants et qu'il trouve de quoi les racheter,"
+    },
+    {
+      "ref": "Leviticus 25:27",
+      "fr": "Il calculera le nombre d'années pour lesquelles il a vendu le terrain et rendra le reste (excédent) à l'homme à qui il l'a vendu, et il retournera dans son pays ancestral."
+    },
+    {
+      "ref": "Leviticus 25:28",
+      "fr": "Ou s'il n'a pas les moyens de récupérer le terrain, celui qu'il a vendu reste en possession de l'acheteur jusqu'à l'année du jubilé. Il est ensuite libéré par le jubilé et il [le vendeur] retourne sur sa terre ancestrale."
+    },
+    {
+      "ref": "Leviticus 25:29",
+      "fr": "Si un homme vend une maison d'habitation [située] dans une ville fortifiée, le délai imparti pour son rachat sera jusqu'à la fin d'un an après sa vente. Il a les jours [d’une année entière] pour le racheter."
+    },
+    {
+      "ref": "Leviticus 25:30",
+      "fr": "S'il ne la rachète pas avant la fin d'une année complète, la maison dans la ville qui est entourée d'un mur restera alors à perpétuité à son acheteur pour ses générations (descendants). Elle n'est pas libérée par le jubilé."
+    },
+    {
+      "ref": "Leviticus 25:31",
+      "fr": "Les maisons des villes ouvertes qui ne sont pas entourées d'un mur d'enceinte seront considérées comme un champ de terre. Il aura une rédemption et il sera libéré au moment du jubilé."
+    },
+    {
+      "ref": "Leviticus 25:32",
+      "fr": "Les villes des Lévites, les maisons dans les villes de leur pays ancestral, les Lévites auront un droit de rédemption éternel."
+    },
+    {
+      "ref": "Leviticus 25:33",
+      "fr": "Si quelqu'un rachète [une maison ou un champ] aux Lévites, alors la maison ou sa ville ancestrale sera libérée lors du jubilé, car les maisons des villes lévitiques sont [considérées] comme leurs terres ancestrales parmi les Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 25:34",
+      "fr": "Le champ situé à la périphérie de leurs villes ne peut être vendu car c'est leur terre ancestrale perpétuelle."
+    },
+    {
+      "ref": "Leviticus 25:35",
+      "fr": "Si votre frère s'appauvrit et que ses mains (biens) tremblent parmi vous, vous devez le soutenir, [de même] le prosélyte [résident étranger] et l'étranger, [afin] qu'il vive avec vous."
+    },
+    {
+      "ref": "Leviticus 25:36",
+      "fr": "Tu ne prendras de lui ni intérêt ni usure et tu craindras ton Dieu, et ton frère vivra avec toi."
+    },
+    {
+      "ref": "Leviticus 25:37",
+      "fr": "Vous ne devez pas lui donner (prêter) votre argent avec intérêts, et vous ne devez pas lui avancer avec usure votre nourriture."
+    },
+    {
+      "ref": "Leviticus 25:38",
+      "fr": "Je suis Adonoy, ton Dieu, qui t'ai fait sortir du pays d'Égypte pour te donner le pays de Canaan, afin que je sois ton Dieu."
+    },
+    {
+      "ref": "Leviticus 25:39",
+      "fr": "Si votre frère s'appauvrit et vous est vendu, vous ne devez pas le travailler comme un esclave."
+    },
+    {
+      "ref": "Leviticus 25:40",
+      "fr": "Comme un salarié ou un résident [ouvrier], il sera avec vous. Il vous servira jusqu'à l'année du jubilé."
+    },
+    {
+      "ref": "Leviticus 25:41",
+      "fr": "Alors lui et ses enfants vous quitteront et retourneront dans sa propre famille. Il retournera dans son domaine ancestral."
+    },
+    {
+      "ref": "Leviticus 25:42",
+      "fr": "Car ce sont mes serviteurs, que j'ai fait sortir du pays d'Egypte, ils ne seront pas vendus [sur le marché] comme esclaves."
+    },
+    {
+      "ref": "Leviticus 25:43",
+      "fr": "Tu ne dois pas dominer sur lui [le faire travailler] pour l'écraser et tu craindras ton Dieu."
+    },
+    {
+      "ref": "Leviticus 25:44",
+      "fr": "Vos esclaves et servantes que vous posséderez parmi les nations qui vous entourent, vous pourrez leur acheter des esclaves et des servantes."
+    },
+    {
+      "ref": "Leviticus 25:45",
+      "fr": "Vous pourrez également acheter des [esclaves] des enfants des étrangers qui résident chez vous, ainsi que des familles de ceux qui vivent parmi vous et qui sont nés dans votre pays. [Tous ces] seront votre possession permanente."
+    },
+    {
+      "ref": "Leviticus 25:46",
+      "fr": "Vous les donnerez en héritage à vos enfants après vous, comme propriété héréditaire ; tu les maintiendras en servitude pour toujours. Mais concernant ton frère, Bnei Yisroel, homme sur son frère, tu ne dois pas dominer sur lui [le faire travailler] pour l'écraser."
+    },
+    {
+      "ref": "Leviticus 25:47",
+      "fr": "Si un étranger [un incirconcis] ou un résident acquiert des biens alors que votre frère s'appauvrit par lui et est vendu à un [un incirconcis] étranger résident qui réside avec vous ou à la progéniture [un non-juif] d'une famille [prosélyte] étrangère."
+    },
+    {
+      "ref": "Leviticus 25:48",
+      "fr": "Après qu'il sera vendu, la rédemption lui appartiendra, l'un de ses frères le rachètera."
+    },
+    {
+      "ref": "Leviticus 25:49",
+      "fr": "Soit son oncle [le frère de son père], soit le fils de son oncle [le fils du frère de son père] (cousin) le rachètera, soit le (autre) parent le plus proche de la famille le rachètera. S'il obtient des moyens personnels suffisants, il peut être racheté [par lui-même.]"
+    },
+    {
+      "ref": "Leviticus 25:50",
+      "fr": "Il comptera avec celui qui l'a acheté. [Selon le nombre d'années] depuis l'année où il lui fut vendu jusqu'à l'année du jubilé. Son prix d'achat sera [proportionnel] au nombre d'années ; au taux des jours d'un salarié, cela sera [considéré comme il a travaillé] avec lui."
+    },
+    {
+      "ref": "Leviticus 25:51",
+      "fr": "S'il reste encore plusieurs années [jusqu'au jubilé], il restituera donc l'argent de son rachat sur son prix d'achat."
+    },
+    {
+      "ref": "Leviticus 25:52",
+      "fr": "S'il ne reste que quelques années avant l'année du jubilé, il fera un calcul [similaire], basé sur le nombre d'années pendant lesquelles il restituera son argent de rachat [à l'acheteur.]"
+    },
+    {
+      "ref": "Leviticus 25:53",
+      "fr": "En tant que salarié [travaillant] sur une base annuelle, il sera considéré avec lui ; il ne dominera pas sur lui pour l'écraser sous vos yeux."
+    },
+    {
+      "ref": "Leviticus 25:54",
+      "fr": "S'il n'est pas racheté par ces moyens, il sort alors l'année du jubilé, lui, avec ses enfants."
+    },
+    {
+      "ref": "Leviticus 25:55",
+      "fr": "Car les Bnei Yisroel sont Mes serviteurs. Ce sont mes serviteurs que j'ai fait sortir du pays d'Egypte, je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 26:1",
+      "fr": "Vous ne vous ferez pas de [fausses] idoles, vous ne vous érigerez pas d'images taillées et de pierres commémoratives, et vous ne placerez pas de pierre de prosternation dans votre pays sur laquelle vous vous prosternerez, car je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 26:2",
+      "fr": "Vous observerez [les jours de] Mon Chabbat et vous craindrez (révérerez) [la Maison de] Mon Sanctuaire, Je suis Adonoy."
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "name": "Vayikra",
+  "range": "Leviticus 1:1-5:26",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vayikra.json",
+  "verses": [
+    {
+      "ref": "Leviticus 1:1",
+      "fr": "Et il appela Moshe, et Adonoy lui parla depuis la tente d'assignation, disant :"
+    },
+    {
+      "ref": "Leviticus 1:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : [si] un homme parmi vous apporte une offrande à [devant] Adonoy ; d'animaux, de bovins ou de moutons, vous devez apporter votre offrande."
+    },
+    {
+      "ref": "Leviticus 1:3",
+      "fr": "Si son offrande est un holocauste de bétail, il apportera un mâle sans défaut ; il l'apportera à l'entrée de la tente d'assignation, afin qu'il soit favorablement accepté de sa part devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 1:4",
+      "fr": "Il posera la main sur la tête de l'holocauste et cela lui sera favorablement accepté pour réaliser son expiation."
+    },
+    {
+      "ref": "Leviticus 1:5",
+      "fr": "Il égorgera le veau devant Adonoï et les fils d'Aharon, les cohanim, apporteront le sang et répandront le sang tout autour de l'autel qui est à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 1:6",
+      "fr": "Il dépouillera l'holocauste et le coupera en morceaux [membres]."
+    },
+    {
+      "ref": "Leviticus 1:7",
+      "fr": "Les fils d'Aharon le Kohein allumeront un feu sur l'autel et disposeront des bûches sur le feu."
+    },
+    {
+      "ref": "Leviticus 1:8",
+      "fr": "Les fils d'Aharon, les cohanim, disposeront les morceaux [membres], la tête et la graisse sur les bûches qui seront sur le feu qui est sur l'autel."
+    },
+    {
+      "ref": "Leviticus 1:9",
+      "fr": "Il lavera ses entrailles et ses jambes dans l'eau ; et le kohein brûlera le tout sur l'autel [dans le but de] un holocauste, un sacrifice par le feu [une offrande] d'une agréable odeur à [qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 1:10",
+      "fr": "S'il offre en holocauste des troupeaux de brebis, d'agneaux ou de chèvres, il offrira un mâle sans défaut."
+    },
+    {
+      "ref": "Leviticus 1:11",
+      "fr": "Il l'égorgera du côté nord de l'autel devant Adonoy ; et les fils d'Aharon, les cohanim, répandront son sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 1:12",
+      "fr": "Il le coupera en morceaux [membres] et sa tête, et [enlèvera] ses graisses ; et le kohein les disposera sur les bûches qui sont sur le feu qui est sur l'autel."
+    },
+    {
+      "ref": "Leviticus 1:13",
+      "fr": "Il lavera les entrailles et les pieds dans l'eau et le kohein apportera le tout et le brûlera sur l'autel. C'est un holocauste ; une offrande par le feu [une offrande] d'une agréable odeur à [qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 1:14",
+      "fr": "Si son holocauste à [devant] Adonoy est de la volaille, il apportera soit des tourterelles, soit des jeunes pigeons [comme] son ​​offrande."
+    },
+    {
+      "ref": "Leviticus 1:15",
+      "fr": "Le kohein l'approchera de l'autel, lui coupera la tête [avec son ongle] et le brûlera sur l'autel ; et son sang sera répandu sur le mur de l'autel."
+    },
+    {
+      "ref": "Leviticus 1:16",
+      "fr": "Il enlèvera le jabot avec ses plumes [excréments] et le jettera à côté de l'autel, vers l'orient, à l'endroit où l'on jette les cendres."
+    },
+    {
+      "ref": "Leviticus 1:17",
+      "fr": "Il le déchirera par ses ailes, sans le diviser complètement. Le kohein le brûlera sur l'autel, sur les bûches qui sont sur le feu ; c'est un holocauste, un sacrifice par le feu [une offrande] d'une agréable odeur à [qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:1",
+      "fr": "Quand quelqu'un apportera une offrande de repas à [devant] Adonoy, son offrande sera de fine farine; il versera dessus de l'huile et y déposera de l'encens."
+    },
+    {
+      "ref": "Leviticus 2:2",
+      "fr": "Il l'apportera aux fils d'Aharon, les cohanim ; de là, [un kohein] prend sa poignée – de sa farine et de son huile – avec tout son encens. Le kohein brûlera sa part commémorative sur l'autel, une offrande par le feu [une offrande] d'un parfum agréable à [qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:3",
+      "fr": "Ce qui reste de l'offrande appartient à Aharon et à ses fils ; [c'est] le saint des saints des offrandes par le feu [offrandes] d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:4",
+      "fr": "Et lorsque vous apporterez une offrande cuite au four, ce seront des pains de pain azyme sans levain, de fine farine, mélangés à de l'huile, ou des galettes de pain azyme [sans levain] enduites d'huile."
+    },
+    {
+      "ref": "Leviticus 2:5",
+      "fr": "Si votre offrande est une offrande cuite à la poêle, elle sera de fine farine pétrie à l'huile ; ce sera de la matzoh [sans levain]."
+    },
+    {
+      "ref": "Leviticus 2:6",
+      "fr": "Cassez-le en morceaux et versez de l'huile dessus ; c'est une offrande de repas."
+    },
+    {
+      "ref": "Leviticus 2:7",
+      "fr": "Si votre offrande est une offrande de gâteau dans une poêle profonde [qui semble avoir été labourée], vous la préparerez avec de la farine fine et de l'huile."
+    },
+    {
+      "ref": "Leviticus 2:8",
+      "fr": "Tu apporteras à Adonoy l'offrande de repas qui sera faite de l'une des manières mentionnées ci-dessus. Il l'apportera au kohein et le présentera à l'autel."
+    },
+    {
+      "ref": "Leviticus 2:9",
+      "fr": "Le kohein séparera de l'offrande de repas sa part commémorative et la brûlera sur l'autel, une offrande par le feu [une offrande] d'une agréable odeur à [qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:10",
+      "fr": "Ce qui reste de l'offrande appartient à Aharon et à ses fils ; [c'est] le saint des saints [très saint] de l'offrande par le feu [des offrandes] d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:11",
+      "fr": "Toutes les offrandes que vous apporterez à Adonoy ne doivent pas être faites avec du levain, car vous n'en brûlerez pas de levain ni de miel en offrande brûlée pour Adonoy."
+    },
+    {
+      "ref": "Leviticus 2:12",
+      "fr": "Vous les apporterez en première offrande à Adonoy, mais ils ne monteront pas sur l'autel comme un parfum agréable pour être acceptés avec faveur."
+    },
+    {
+      "ref": "Leviticus 2:13",
+      "fr": "Vous salerez toutes vos offrandes de repas avec du sel et vous n'omettreez pas le sel, l'alliance de votre Dieu, sur vos offrandes de repas. Vous apporterez du sel sur chacune de vos offrandes."
+    },
+    {
+      "ref": "Leviticus 2:14",
+      "fr": "Lorsque vous apporterez en offrande à Adonoy les premiers grains, les récoltes nouvellement mûres, rôties au feu, moulues [pleines et humides] [molles] grains, vous apporterez votre première offrande de grain."
+    },
+    {
+      "ref": "Leviticus 2:15",
+      "fr": "Tu mettras dessus de l'huile et tu mettras dessus de l'encens ; c'est une offrande de repas."
+    },
+    {
+      "ref": "Leviticus 2:16",
+      "fr": "Le kohein brûlera sa part commémorative de sa farine moulue, de son huile et de tout son encens ; [c'est] une offrande par le feu à [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:1",
+      "fr": "Si son offrande est une offrande de paix [sacrée] ; si son offrande est du bétail, mâle ou femelle ; il l'apportera intact devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:2",
+      "fr": "Il posera la main sur la tête de son offrande et l'égorgera à l'entrée de la Tente d'assignation. Les fils d'Aharon, les cohanim, répandront le sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 3:3",
+      "fr": "Il apportera de l'offrande de paix [sacrée], en sacrifice par le feu à [une offrande devant] Adonoy, la graisse qui recouvre les entrailles et toute la graisse des entrailles."
+    },
+    {
+      "ref": "Leviticus 3:4",
+      "fr": "Les deux rognons et la graisse qui se trouve sur les flancs. Il enlèvera le lobe du foie avec les reins."
+    },
+    {
+      "ref": "Leviticus 3:5",
+      "fr": "Les fils d'Aharon le brûleront sur l'autel avec l'holocauste qui est sur les bûches qui sont sur le feu ; une offrande par feu d'une agréable odeur à [une offrande qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:6",
+      "fr": "Si son offrande est de moutons en offrande de paix [sacrée] à [devant] Adonoy, il apportera un mâle ou une femelle sans défaut."
+    },
+    {
+      "ref": "Leviticus 3:7",
+      "fr": "S'il apporte un agneau en offrande, il l'apportera devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:8",
+      "fr": "Il posera la main sur la tête de son offrande et l'égorgera à l'entrée de la Tente d'assignation. Les fils d'Aharon, les cohanim répandront son sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 3:9",
+      "fr": "Il apportera de l'offrande de paix [sacrée] comme un sacrifice par le feu à [une offrande devant] Adonoy, sa graisse ; toute la queue ; il l'enlèvera tout près de la colonne vertébrale. La graisse qui recouvre les entrailles, et toute la graisse qui est sur les entrailles."
+    },
+    {
+      "ref": "Leviticus 3:10",
+      "fr": "Les deux rognons et la graisse qui se trouve sur les flancs. Il enlèvera le lobe du foie avec les reins."
+    },
+    {
+      "ref": "Leviticus 3:11",
+      "fr": "Le kohein le brûlera sur l'autel ; c'est la nourriture de l'offrande allumée par le feu d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:12",
+      "fr": "Si son offrande est une chèvre, il l'apportera devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:13",
+      "fr": "Il lui posera la main sur la tête et l'égorgera devant la Tente du Rendez-vous. Les fils d'Aharon répandront son sang tout autour de l'autel."
+    },
+    {
+      "ref": "Leviticus 3:14",
+      "fr": "De son offrande, il apportera en holocauste à [une offrande devant] Adonoy, la graisse qui recouvre les entrailles et toute la graisse qui est sur les entrailles,"
+    },
+    {
+      "ref": "Leviticus 3:15",
+      "fr": "les deux rognons et la graisse qui se trouve sur les flancs. Il enlèvera le lobe du foie avec les reins."
+    },
+    {
+      "ref": "Leviticus 3:16",
+      "fr": "Il les brûlera sur l'autel, la nourriture du sacrifice fait par le feu, d'une agréable odeur [offrande à accepter avec faveur] ; toute la graisse [appartient] à [avant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 3:17",
+      "fr": "Comme une loi éternelle pour tous vos descendants, dans tous vos lieux d'habitation ; vous ne mangerez ni graisse ni sang."
+    },
+    {
+      "ref": "Leviticus 4:1",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 4:2",
+      "fr": "Parlez à Bnei Yisroel et dites : si une personne transgresse involontairement un commandement d'Adonoy qui ne devrait pas être fait et commet l'un de ces péchés."
+    },
+    {
+      "ref": "Leviticus 4:3",
+      "fr": "Si le kohein [gadol] oint péchait pour attirer la culpabilité sur le peuple, il apportera pour son péché auquel il a confié un jeune taureau sans défaut à [devant] Adonoy, en sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 4:4",
+      "fr": "Il amènera le taureau à l'entrée de la tente d'assignation, devant Adonoy. Il posera la main sur la tête du taureau et l'égorgera devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 4:5",
+      "fr": "Le kohein [gadol] oint prendra un peu de sang des taureaux et l'apportera à l'intérieur de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 4:6",
+      "fr": "Le kohein trempera son doigt dans le sang et il aspergera du sang sept fois, devant Adonoy, devant le Saint Rideau."
+    },
+    {
+      "ref": "Leviticus 4:7",
+      "fr": "Le kohein mettra du sang sur les coins de l'autel brûlant les épices devant Adonoy, qui est à l'intérieur de la tente d'assignation. Il répandra tout le sang des taureaux au pied de l'autel des holocaustes, qui est à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 4:8",
+      "fr": "Il en séparera toute la graisse du taureau du sacrifice pour le péché ; la graisse qui recouvre les entrailles, toute la graisse qui est sur les entrailles,"
+    },
+    {
+      "ref": "Leviticus 4:9",
+      "fr": "les deux rognons et la graisse qui se trouve sur les flancs. Il enlèvera le lobe du foie avec les rognons,"
+    },
+    {
+      "ref": "Leviticus 4:10",
+      "fr": "de la même manière qu'ils furent séparés du bœuf de l'offrande de paix. Le kohein les brûlera sur l'autel des holocaustes."
+    },
+    {
+      "ref": "Leviticus 4:11",
+      "fr": "La peau du bœuf, toute sa chair avec sa tête et ses pieds, ses entrailles et ses déchets [qui sont dans ses intestins]."
+    },
+    {
+      "ref": "Leviticus 4:12",
+      "fr": "Il emmènera le taureau entier au-delà du campement, dans un lieu pur [sans souillure], [à l'endroit] où les cendres sont jetées et il le brûlera sur des bûches, au feu. Il sera brûlé [à l'endroit] où les cendres sont jetées."
+    },
+    {
+      "ref": "Leviticus 4:13",
+      "fr": "Si toute la congrégation d'Israël a commis une erreur et que l'affaire [cette erreur] a été cachée aux yeux de la communauté, et qu'ils ont [transgressé] l'un des commandements d'Adonoy qui ne devrait pas être fait, ils encourent la culpabilité."
+    },
+    {
+      "ref": "Leviticus 4:14",
+      "fr": "[Quand] ils se rendront compte du péché qu'ils ont commis, la communauté amènera un jeune taureau en sacrifice pour le péché et l'amènera devant la Tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 4:15",
+      "fr": "Les anciens de l'assemblée poseront leurs mains sur la tête du taureau devant Adonoy et il égorgera le taureau devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 4:16",
+      "fr": "Le kohein [gadol] oint apportera du sang des taureaux à l'intérieur de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 4:17",
+      "fr": "Le kohein trempera son doigt dans un peu de sang et l'aspergera sept fois devant Adonoy, devant le rideau."
+    },
+    {
+      "ref": "Leviticus 4:18",
+      "fr": "Il mettra du sang aux coins de l'autel qui est devant Adonoy, à l'intérieur de la tente d'assignation. Il répandra tout le sang [restant] sur le pied de l'autel des holocaustes, qui est à l'entrée de la tente d'assignation."
+    },
+    {
+      "ref": "Leviticus 4:19",
+      "fr": "Il en retirera toute la graisse et la brûlera sur l'autel."
+    },
+    {
+      "ref": "Leviticus 4:20",
+      "fr": "Il fera au taureau ce qu'il a fait au taureau du sacrifice pour le péché, ainsi il le fera. Le kohein les expiera et ils seront pardonnés."
+    },
+    {
+      "ref": "Leviticus 4:21",
+      "fr": "Il emmènera le taureau dehors, au-delà du camp, et le brûlera de la même manière qu'il a brûlé le premier taureau ; c'est un sacrifice commun pour le péché."
+    },
+    {
+      "ref": "Leviticus 4:22",
+      "fr": "Si un dirigeant pèche, [qui] transgresse l'un des commandements d'Adonoy, son Dieu, cela ne devrait pas [être] fait, [s'il a transgressé] involontairement et encourt la culpabilité."
+    },
+    {
+      "ref": "Leviticus 4:23",
+      "fr": "Ou, [si son péché] lui est révélé, [celui] qu'il a commis. Il apportera en offrande un bouc sans défaut."
+    },
+    {
+      "ref": "Leviticus 4:24",
+      "fr": "Il posera la main sur la tête du bouc et l'égorgera au lieu où l'on égorge l'holocauste, devant Adonoy; c'est un sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 4:25",
+      "fr": "Le kohein prendra du sang du sacrifice pour le péché avec son doigt et le mettra sur les coins de l'autel des holocaustes. Il répandra son sang [restant] sur le pied de l'autel des holocaustes."
+    },
+    {
+      "ref": "Leviticus 4:26",
+      "fr": "Il brûlera toute sa graisse sur l'autel, comme il brûlait la graisse de l'offrande de paix. Le kohein expiera pour lui, pour sa transgression et il sera pardonné."
+    },
+    {
+      "ref": "Leviticus 4:27",
+      "fr": "Si une personne péchait involontairement [et qu'elle est] l'un des gens ordinaires, en transgressant l'un des commandements d'Adonoy, ce qui ne devrait [n'est] pas [approprié] et qu'elle encourt la culpabilité,"
+    },
+    {
+      "ref": "Leviticus 4:28",
+      "fr": "ou, si son péché lui est révélé - qu'il a commis. Il apportera en offrande une chèvre sans défaut pour le péché qu'il a commis."
+    },
+    {
+      "ref": "Leviticus 4:29",
+      "fr": "Il posera sa main sur la tête du sacrifice pour le péché et égorgera le sacrifice pour le péché au même endroit que l'holocauste."
+    },
+    {
+      "ref": "Leviticus 4:30",
+      "fr": "Le kohein prendra de son sang avec son doigt et le mettra sur les coins de l'autel des holocaustes. Il répandra tout le sang [restant] au pied de l'autel."
+    },
+    {
+      "ref": "Leviticus 4:31",
+      "fr": "Il en retirera toute la graisse de la même manière qu'on a retiré la graisse de l'offrande de paix. Le kohein le brûlera sur l'autel comme un parfum agréable pour [pour être accepté avec faveur devant] Adonoy. Et le kohein l'expiera et il sera pardonné."
+    },
+    {
+      "ref": "Leviticus 4:32",
+      "fr": "S'il apporte une brebis en offrande pour le péché, il amènera une femelle sans défaut."
+    },
+    {
+      "ref": "Leviticus 4:33",
+      "fr": "Il posera sa main sur la tête du sacrifice pour le péché et l'égorgera comme un sacrifice pour le péché, au [même] lieu où il égorge l'holocauste."
+    },
+    {
+      "ref": "Leviticus 4:34",
+      "fr": "Le kohein prendra du sang du sacrifice pour le péché avec son doigt et le mettra sur les coins de l'autel de l'holocauste. Il répandra tout son sang [restant] au pied de l'autel."
+    },
+    {
+      "ref": "Leviticus 4:35",
+      "fr": "Il en retirera toute la graisse de la même manière qu'on a enlevé la graisse de l'agneau de l'offrande de paix. Le kohein les brûlera sur l'autel sur les feux [offrandes] d'Adonoy. Le kohein expiera pour lui, pour le péché qu'il a commis et il sera pardonné."
+    },
+    {
+      "ref": "Leviticus 5:1",
+      "fr": "Si une personne pèche et entend un serment [exigeant son témoignage] [dans un cas où] elle est témoin ; [car] soit il a vu, soit il a su [quelque chose de pertinent], s'il ne témoigne pas, il portera [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Leviticus 5:2",
+      "fr": "Ou, si quelqu'un touche quelque chose d'impur, soit la carcasse d'un animal sauvage impur, soit la carcasse d'un animal de pâturage impur, soit la carcasse d'un animal rampant impur ; et cette [impureté] lui a été cachée, il est impur et encourt la culpabilité."
+    },
+    {
+      "ref": "Leviticus 5:3",
+      "fr": "Ou, s'il touche les impuretés de l'homme, quelle que soit cette impureté qui cause l'impureté et que cette [impureté] lui a été cachée ; [quand] il se rend compte [qu'il est impur], il encourt la culpabilité."
+    },
+    {
+      "ref": "Leviticus 5:4",
+      "fr": "Ou, si une personne jure, exprimant oralement de faire du mal [qu'elle fera quelque chose qui lui sera préjudiciable] ou de faire du bien [qu'elle fera quelque chose qui lui sera bénéfique]. Concernant tout ce qu'une personne exprime par un serment et [ce serment] lui était caché, lorsqu'elle réalise [son péché] et qu'elle encourt la culpabilité, pour l'un de ces [péchés mentionnés ci-dessus]."
+    },
+    {
+      "ref": "Leviticus 5:5",
+      "fr": "S'il se rend coupable de l'un de ces péchés, il confessera ce qu'il a transgressé."
+    },
+    {
+      "ref": "Leviticus 5:6",
+      "fr": "He shall bring his guilt-offering to [before] Adonoy for his sin that he committed a female of the sheep, a lamb or a she-goat as a sin-offering. Le kohein expiera pour lui, pour son péché."
+    },
+    {
+      "ref": "Leviticus 5:7",
+      "fr": "Si ses moyens ne suffisent pas pour [l'acquisition d'] un mouton, alors il apportera pour son sacrifice de culpabilité, celui qui a péché, deux tourterelles ou deux jeunes pigeons à [devant] Adonoy, l'un pour le sacrifice d'expiation et l'autre pour l'holocauste."
+    },
+    {
+      "ref": "Leviticus 5:8",
+      "fr": "Il les amènera au kohein et il apportera d'abord ce qui est en sacrifice pour le péché. Il [le kohein] lui coupera la tête [avec son ongle] à l'opposé de son cou, mais ne séparera pas [la tête] complètement."
+    },
+    {
+      "ref": "Leviticus 5:9",
+      "fr": "Il fera asperger du sang du sacrifice pour le péché sur le mur de l'autel. Et le sang restant sera versé au pied de l'autel ; c'est un sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 5:10",
+      "fr": "Il fera (offrira) la deuxième [tourterelle] en holocauste, comme prescrit. Le kohein l'expiera pour le péché qu'il a commis et il sera pardonné."
+    },
+    {
+      "ref": "Leviticus 5:11",
+      "fr": "Si ses moyens ne suffisent pas pour acquérir deux tourterelles ou deux jeunes pigeons, il apportera en offrande, celui qui a péché, un dixième d'épha [qui équivaut à trois se'in] de fine farine, en sacrifice pour le péché. Il ne mettra pas d'huile dessus, ni d'encens dessus, car c'est un sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 5:12",
+      "fr": "Il l'apportera au kohein et le kohein en prendra une poignée [comme] sa part commémorative et le brûlera sur l'autel sur les feux [offrandes] d'Adonoy ; c'est un sacrifice pour le péché."
+    },
+    {
+      "ref": "Leviticus 5:13",
+      "fr": "Le kohein l'expiera pour son péché qu'il a commis de l'une de ces [trois] manières et il sera pardonné. [La part restante] appartiendra au kohein comme offrande de repas."
+    },
+    {
+      "ref": "Leviticus 5:14",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 5:15",
+      "fr": "Si une personne s'écarte injustement [ment] et pèche involontairement [en utilisant] la propriété sacrée d'Adonoy, elle apportera son offrande de culpabilité à [devant] Adonoy, un bélier sans défaut, issu de la brebis, sur la base de l'évaluation du shekalim d'argent sacré [selaim], pour une offrande de culpabilité."
+    },
+    {
+      "ref": "Leviticus 5:16",
+      "fr": "Ce qu'il a péché [en utilisant] la propriété sacrée, il paiera et ajoutera un cinquième supplémentaire à ce [montant] et le donnera au kohein. Le kohein l'expiera avec le bélier du sacrifice de culpabilité et il sera pardonné."
+    },
+    {
+      "ref": "Leviticus 5:17",
+      "fr": "Si une personne pèche et a [transgressé] l’un des commandements d’Adonoy qui ne devrait [ne] pas [être] exécuté, [cependant], elle n’est pas sûre [qu’elle a péché], et elle encourt [néanmoins] la culpabilité et portera [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Leviticus 5:18",
+      "fr": "Il apportera au kohéin un bélier sans défaut, provenant des brebis, sur la base de son évaluation en sacrifice de culpabilité. Le kohein l'expiera pour l'erreur qu'il a commise involontairement et il ne le savait pas, et il lui sera pardonné."
+    },
+    {
+      "ref": "Leviticus 5:19",
+      "fr": "C'est un sacrifice de culpabilité [car] il a certainement encouru une culpabilité [pour le péché qu'il a commis, il apportera un sacrifice de culpabilité] devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 5:20",
+      "fr": "Et Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 5:21",
+      "fr": "Si une personne pèche et s'écarte injustement [devant] Adonoy et refuse à son ami la possession d'un souvenir placé en sa confiance ou, un dépôt [concernant l'argent qui a été prêté ou en partenariat,] ou un vol [affirmant que quelque chose a été volé,] ou, opprimé [il a retenu le salaire de] son ​​ami."
+    },
+    {
+      "ref": "Leviticus 5:22",
+      "fr": "Ou, s'il trouve un objet perdu et le nie et jure faussement dans l'un de tous ces [cas mentionnés ci-dessus], peu importe ce que quelqu'un fera pour pécher dans ces cas."
+    },
+    {
+      "ref": "Leviticus 5:23",
+      "fr": "Lorsqu'il se rendra compte de son péché et encourra sa culpabilité, il restituera les biens volés qu'il a volés, ou le salaire qu'il a retenu ou tout autre souvenir qui a été placé en sa confiance ou l'objet perdu qu'il a trouvé."
+    },
+    {
+      "ref": "Leviticus 5:24",
+      "fr": "Ou tout ce sur quoi il jurerait faussement. Il en paiera le prix et y ajoutera un cinquième supplémentaire. Celui à qui appartient cet objet, il le donnera le jour de son sacrifice de culpabilité."
+    },
+    {
+      "ref": "Leviticus 5:25",
+      "fr": "Il apportera en sacrifice de culpabilité à [devant] Adonoï un bélier sans défaut, provenant des brebis, d'après l'estimation, en sacrifice de culpabilité pour le kohein."
+    },
+    {
+      "ref": "Leviticus 5:26",
+      "fr": "Le kohein l'expiera devant Adonoy et il sera pardonné pour tout ce qu'il fera qui engendrera une culpabilité."
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "name": "Vaera",
+  "range": "Exodus 6:2-9:35",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/vaera.json",
+  "verses": [
+    {
+      "ref": "Exodus 6:2",
+      "fr": "Elohim parla à Moshe et lui dit : « Je suis Adonoy."
+    },
+    {
+      "ref": "Exodus 6:3",
+      "fr": "Je me suis révélé à Avraham, à Yitzchok et à Yaakov comme le Tout-Puissant Shaddaï, mais je ne leur ai pas fait connaître mon nom Adonoy."
+    },
+    {
+      "ref": "Exodus 6:4",
+      "fr": "J'ai aussi établi mon alliance avec eux, pour leur donner le pays de Canaan, le pays de leur séjour où ils vivaient comme étrangers."
+    },
+    {
+      "ref": "Exodus 6:5",
+      "fr": "Et aussi [devant moi] j'ai entendu les gémissements des B'nei Yisrael, que les Égyptiens les asservissent, [a été entendu devant moi] et je me suis souvenu de mon alliance."
+    },
+    {
+      "ref": "Exodus 6:6",
+      "fr": "Dis donc aux B’nei Yisrael : « Je suis Adonoy. Je vous ferai sortir de dessous [parmi] les [lourds] fardeaux de l'Égypte [les Égyptiens], et je vous délivrerai de leur esclavage. Je te rachèterai à bras tendu et par des actes de grands jugements."
+    },
+    {
+      "ref": "Exodus 6:7",
+      "fr": "Je vous prendrai [devant moi] comme mon peuple, et je serai pour vous Elohim. Vous saurez que je suis Adonoy, votre Dieu qui vous fait sortir de dessous [parmi] les [lourds] fardeaux de l'Égypte."
+    },
+    {
+      "ref": "Exodus 6:8",
+      "fr": "Je vous amènerai au pays sur lequel j'ai levé la main [sous serment] [juré par ma parole] que je le donnerais à Avraham, Yitzchok et Yaakov, et je vous le donnerai en héritage. Je m’appelle Adonoy.’”"
+    },
+    {
+      "ref": "Exodus 6:9",
+      "fr": "Moshe a dit [ces mots] aux B'nei Yisrael, mais ils n'ont pas voulu écouter [obéir] Moshe à cause de [leur] manque de vent et [du] dur travail [qui était dur pour eux]."
+    },
+    {
+      "ref": "Exodus 6:10",
+      "fr": "Adonoy parla à Moshe en disant :"
+    },
+    {
+      "ref": "Exodus 6:11",
+      "fr": "\"Viens parler à Pharaon, roi d'Egypte, pour qu'il renvoie les B'nei Yisrael hors de son pays.\""
+    },
+    {
+      "ref": "Exodus 6:12",
+      "fr": "Moshe parla devant Adonoy, disant : « Voici, les B’nei Yisrael ne m’ont pas écouté [obéi], comment alors Pharaon m’écoutera-t-il [accepter]-moi, moi dont les lèvres sont couvertes [j’ai un langage lourd] »."
+    },
+    {
+      "ref": "Exodus 6:13",
+      "fr": "Adonoy [alors] parla à Moshe et Aharon, leur ordonnant concernant les B'nei Yisrael et Pharaon, roi d'Égypte, de faire sortir les B'nei Yisrael du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 6:14",
+      "fr": "Voici les chefs de leurs maisons paternelles : les fils de Reuvein, le premier-né d'Israël, sont Chanoch, Pallu, Chetzron et Carmi. Ce sont les familles de Reuvein."
+    },
+    {
+      "ref": "Exodus 6:15",
+      "fr": "Fils de Shimon : Yemuel, Yamin, Ohad, Yachin, Tzochar et Shaul, fils de la Cananéenne. Ce sont les familles de Shimon."
+    },
+    {
+      "ref": "Exodus 6:16",
+      "fr": "Voici les noms des fils de Leivi, selon leurs générations : Guershon, Kehos et Merari. Les années de la vie de Levivi furent de cent trente-sept ans."
+    },
+    {
+      "ref": "Exodus 6:17",
+      "fr": "Fils de Guershon : Livni et Shimi, et leurs familles [descendants d'eux]."
+    },
+    {
+      "ref": "Exodus 6:18",
+      "fr": "Fils de Kéhos : Amram, Itshar, Chevron et Uzziel. Les années de la vie de Kehos furent de cent trente-trois ans."
+    },
+    {
+      "ref": "Exodus 6:19",
+      "fr": "Fils de Merari : Machli et Mushi. Ce sont là les familles des Lévites selon leur génération [descendante]."
+    },
+    {
+      "ref": "Exodus 6:20",
+      "fr": "Amram a pris sa tante [la sœur du père] Yocheved pour femme et elle lui a donné Aharon et Moshe. Les années de la vie d’Amram furent de cent trente-sept ans."
+    },
+    {
+      "ref": "Exodus 6:21",
+      "fr": "Fils de Itshar : Korach, Nefeg et Zichri."
+    },
+    {
+      "ref": "Exodus 6:22",
+      "fr": "Fils d'Uzziel : Mishaeil, Eltzaphan et Sisri."
+    },
+    {
+      "ref": "Exodus 6:23",
+      "fr": "Aharon prit pour épouse Elisheva, fille d'Aminadav, sœur de Nachshon, et elle lui enfanta Nadav, Avihu, Elazar et Isamar."
+    },
+    {
+      "ref": "Exodus 6:24",
+      "fr": "Fils de Korach : Assir, Elkana et Aviasaf. Ce sont les familles des Korachites."
+    },
+    {
+      "ref": "Exodus 6:25",
+      "fr": "Elazar, fils d'Aharon, prit pour femme une des filles de Putieil, et elle lui enfanta Pinchas. Ce sont là les chefs des patriarches des Lévites, selon leurs familles."
+    },
+    {
+      "ref": "Exodus 6:26",
+      "fr": "C’est [la lignée d’] Aharon et Moshe à qui Adonoy avait dit : « Faites sortir les B’nei Yisrael du pays d’Égypte avec leurs multitudes. »"
+    },
+    {
+      "ref": "Exodus 6:27",
+      "fr": "Ce sont eux qui parlèrent à Pharaon, roi d’Égypte, pour faire sortir les B’nei Yisrael d’Égypte. Ce sont Moshe et Aharon."
+    },
+    {
+      "ref": "Exodus 6:28",
+      "fr": "C'était le jour où Adonoy parla à Moshe au pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 6:29",
+      "fr": "Adonoy parla à Moshe en disant: \"Je suis Adonoy. Parle à Pharaon, roi d'Egypte, de tout ce que je te dis.\""
+    },
+    {
+      "ref": "Exodus 6:30",
+      "fr": "Moshe dit devant Adonoy : \"Voici, j'ai les lèvres couvertes [j'ai un langage lourd]. Comment Pharaon va-t-il m'écouter [l'accepter] ?\""
+    },
+    {
+      "ref": "Exodus 7:1",
+      "fr": "Adonoy dit à Moshe : « Vois, je t'ai fait [nommé] dieu [maître] de Pharaon, et Aharon, ton frère, sera ton porte-parole."
+    },
+    {
+      "ref": "Exodus 7:2",
+      "fr": "Tu diras tout ce que je t'ordonnerai et Aharon, ton frère, parlera à Pharaon pour qu'il renvoie les B'nei Yisrael hors de son pays."
+    },
+    {
+      "ref": "Exodus 7:3",
+      "fr": "J'endurcirai le cœur de Pharaon, [afin] d'accroître mes signes et mes prodiges au pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 7:4",
+      "fr": "[Ainsi] Pharaon ne vous écoutera pas. Mais alors je déploierai ma main [le coup de ma puissance] contre l’Égypte, et je ferai sortir ma multitude, mon peuple, les B’nei Yisrael du pays d’Égypte par de grands actes de jugement."
+    },
+    {
+      "ref": "Exodus 7:5",
+      "fr": "L’Égypte saura alors que je suis Adonoy lorsque j’enverrai ma main [le coup de ma puissance] sur l’Égypte et que je ferai sortir les B’nei Yisrael du milieu d’eux."
+    },
+    {
+      "ref": "Exodus 7:6",
+      "fr": "Moché et Aaron l'ont fait. Ils firent exactement ce qu’Adonoy leur ordonnait."
+    },
+    {
+      "ref": "Exodus 7:7",
+      "fr": "Moché avait quatre-vingts ans et Aharon quatre-vingt-trois ans lorsqu'ils parlèrent à Pharaon."
+    },
+    {
+      "ref": "Exodus 7:8",
+      "fr": "Adonoy dit à Moché et Aharon :"
+    },
+    {
+      "ref": "Exodus 7:9",
+      "fr": "« Lorsque Pharaon vous parle en disant : « Donnez-vous [de la crédibilité en affichant] une merveille », vous [Moshe] devriez alors dire à Aharon : « Prenez votre bâton et jetez-le devant Pharaon. » Il deviendra un serpent."
+    },
+    {
+      "ref": "Exodus 7:10",
+      "fr": "Moshe et Aharon sont venus voir Pharaon et ils ont fait exactement ce qu'Adonoy leur avait ordonné. Aharon jeta son bâton devant Pharaon et devant ses serviteurs et il devint un serpent."
+    },
+    {
+      "ref": "Exodus 7:11",
+      "fr": "Pharaon aussi a appelé [ses] sages et magiciens. Les sorciers égyptiens faisaient de même avec leur art magique."
+    },
+    {
+      "ref": "Exodus 7:12",
+      "fr": "Quand chacun jetait son bâton, ils (les bâtons) devenaient des serpents, et le bâton d’Aharon engloutissait leurs bâtons."
+    },
+    {
+      "ref": "Exodus 7:13",
+      "fr": "Le cœur de Pharaon [resta] dur et il ne les écouta pas [les accepta], comme Adonoy l’avait prédit."
+    },
+    {
+      "ref": "Exodus 7:14",
+      "fr": "Adonoy dit à Moshe : \" Le cœur de Pharaon est lourd [immobile]. Il refuse de laisser partir le peuple."
+    },
+    {
+      "ref": "Exodus 7:15",
+      "fr": "Allez trouver Pharaon le matin, lorsqu'il sort vers l'eau, et restez là pour le rencontrer au bord du fleuve. Le bâton transformé en serpent, prends-le dans ta main."
+    },
+    {
+      "ref": "Exodus 7:16",
+      "fr": "Dis-lui : \" Adonoy, le Dieu des Hébreux, m'a envoyé vers vous pour vous dire : \" Envoyez mon peuple afin qu'il m'adore dans le désert. Voici, jusqu'à présent, vous n'avez pas écouté [accepté]."
+    },
+    {
+      "ref": "Exodus 7:17",
+      "fr": "C’est ce qu’Adonoy a dit : ‘A ceci vous saurez que je suis Adonoy. Voici, avec le bâton que j'ai dans la main, je frapperai l'eau du fleuve et elle se changera en sang."
+    },
+    {
+      "ref": "Exodus 7:18",
+      "fr": "Les poissons qui se trouvent dans la rivière mourront et la rivière deviendra polluée. Les Égyptiens se fatigueront [à essayer de purifier] l’eau potable du fleuve.’”"
+    },
+    {
+      "ref": "Exodus 7:19",
+      "fr": "Adonoy dit à Moché : \" Dis à Aaron : \" Prends ton bâton et étends ta main sur les eaux de l'Égypte, sur leurs rivières, sur leurs canaux, sur leurs lacs et sur tout lieu où leur eau est recueillie, et elle [l'eau] deviendra du sang. Il y aura du sang dans tout le pays d'Égypte, [même] dans les [vases] de bois et [vases] de pierre. \""
+    },
+    {
+      "ref": "Exodus 7:20",
+      "fr": "Moché et Aaron firent exactement ce qu'Adonoï leur avait ordonné. Il [Aharon] leva le bâton et frappa l’eau du fleuve sous les yeux de Pharaon et sous les yeux de ses serviteurs [de Pharaon], et toute l’eau du fleuve se transforma en sang."
+    },
+    {
+      "ref": "Exodus 7:21",
+      "fr": "Les poissons qui se trouvaient dans la rivière moururent et la rivière devint si polluée que les Égyptiens ne purent boire l'eau de la rivière. Il y avait du sang dans tout le pays d'Egypte."
+    },
+    {
+      "ref": "Exodus 7:22",
+      "fr": "Les sorciers égyptiens faisaient de même avec leur art magique. Le cœur de Pharaon resta endurci et il ne les écouta pas, comme Adonoy l’avait dit."
+    },
+    {
+      "ref": "Exodus 7:23",
+      "fr": "Pharaon se retourna et entra dans sa maison, et ne prêta même pas attention à ce [miracle]."
+    },
+    {
+      "ref": "Exodus 7:24",
+      "fr": "Les Égyptiens creusèrent autour du fleuve pour trouver de l'eau à boire, car ils ne pouvaient pas boire les eaux du fleuve."
+    },
+    {
+      "ref": "Exodus 7:25",
+      "fr": "Sept jours complets [s'écoulèrent] après qu'Adonoy eut heurté la rivière."
+    },
+    {
+      "ref": "Exodus 7:26",
+      "fr": "Adonoy dit à Moshe : « Va voir Pharaon et dis-lui : « Voici ce qu'Adonoy a dit : « Envoie mon peuple afin qu'il m'adore."
+    },
+    {
+      "ref": "Exodus 7:27",
+      "fr": "Si vous refusez de les envoyer, voici, je frapperai de grenouilles toutes vos frontières."
+    },
+    {
+      "ref": "Exodus 7:28",
+      "fr": "La rivière fourmillera de grenouilles. Ils sortiront et entreront dans ta maison, dans ta chambre et sur ton lit, dans les maisons de tes serviteurs et de ton peuple, dans tes fours et dans tes bols à pétrir."
+    },
+    {
+      "ref": "Exodus 7:29",
+      "fr": "Sur vous, sur votre peuple et sur tous vos serviteurs, les grenouilles surgiront."
+    },
+    {
+      "ref": "Exodus 8:1",
+      "fr": "Adonoy dit à Moché : « Dis à Aaron : Étends ta main avec ton bâton sur les rivières, sur les ruisseaux et sur les lacs, et fais monter les grenouilles sur le pays d'Égypte. »"
+    },
+    {
+      "ref": "Exodus 8:2",
+      "fr": "Aharon étendit la main sur les eaux de l'Égypte, et la grenouille sortit et couvrit le pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 8:3",
+      "fr": "Les sorciers firent de même avec leur art magique et firent émerger les grenouilles sur le pays d'Egypte."
+    },
+    {
+      "ref": "Exodus 8:4",
+      "fr": "Pharaon appela Moshe et Aharon et dit : « Priez [devant] Adonoy, et qu'il éloigne les grenouilles de moi et de mon peuple, et j'enverrai le peuple se sacrifier [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 8:5",
+      "fr": "Moshe dit à Pharaon : \"Glorifie-toi [Demande de pouvoir pour] toi-même à mes dépens. [Exactement pour] quand dois-je [Donnez-moi un moment où je dois] prier pour vous, pour vos serviteurs et pour votre peuple, afin que les grenouilles soient détruites loin de vous et de vos maisons, ne restant que dans la rivière. \""
+    },
+    {
+      "ref": "Exodus 8:6",
+      "fr": "[Pharaon] a dit : « D’ici demain. » [Moshe] a dit : « Comme tu le dis, tu sauras alors qu'il n'y a personne comme Adonoy, notre Dieu."
+    },
+    {
+      "ref": "Exodus 8:7",
+      "fr": "Les grenouilles seront éloignées de vous, de vos maisons, de vos serviteurs et de votre peuple. Ils resteront uniquement dans la rivière."
+    },
+    {
+      "ref": "Exodus 8:8",
+      "fr": "Moshe et Aharon quittèrent Pharaon, et Moshe cria à [prié devant] Adonoy concernant les grenouilles qu'Il avait placées sur Pharaon."
+    },
+    {
+      "ref": "Exodus 8:9",
+      "fr": "Adonoy fit ce que Moché avait dit, les grenouilles moururent, [celles qui étaient dans] les maisons, les cours et les champs."
+    },
+    {
+      "ref": "Exodus 8:10",
+      "fr": "Ils les rassemblèrent en tas, et la terre fut polluée."
+    },
+    {
+      "ref": "Exodus 8:11",
+      "fr": "[Quand] Pharaon vit qu'il y avait un répit, il endurcit son cœur et ne les écouta pas, comme Adonoy l'avait dit."
+    },
+    {
+      "ref": "Exodus 8:12",
+      "fr": "Adonoy dit à Moché : « Dis à Aaron : Étends ton bâton et frappe la poussière de la terre ; et elle se transformera en poux dans tout le pays d'Égypte. »"
+    },
+    {
+      "ref": "Exodus 8:13",
+      "fr": "Ils l’ont fait. Aaron étendit la main avec son bâton et frappa la poussière de la terre, et il y eut des poux sur les hommes et les bêtes. Toute la poussière de la terre s'est transformée en poux dans tout le pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 8:14",
+      "fr": "Les sorciers faisaient de même avec leur art magique. Ils essayèrent de produire des poux, mais ils n'y parvinrent pas, et il y avait des poux sur les hommes et les bêtes."
+    },
+    {
+      "ref": "Exodus 8:15",
+      "fr": "Les sorciers dirent à Pharaon : « Ceci est le doigt [d'une plaie d'avant] Elohim ; » mais le cœur de Pharaon resta endurci et il ne les écouta pas, comme Adonoy l'avait dit."
+    },
+    {
+      "ref": "Exodus 8:16",
+      "fr": "Adonoy dit à Moshe : « Lève-toi de bon matin et place-toi devant Pharaon, quand il sort vers l'eau, et dis-lui : « Voici ce qu'a dit Adonoy : « Envoie mon peuple afin qu'il m'adore »."
+    },
+    {
+      "ref": "Exodus 8:17",
+      "fr": "Car si vous n'envoyez pas mon peuple, voici, j'enverrai contre vous, contre vos serviteurs, contre votre nation et contre vos maisons, des nuées de bêtes sauvages. Les maisons d'Égypte seront pleines d'animaux sauvages, ainsi que le sol sur lequel ils se trouvent."
+    },
+    {
+      "ref": "Exodus 8:18",
+      "fr": "Ce jour-là, je distinguerai le pays de Goshen sur lequel se tient mon peuple, afin qu'il n'y ait pas d'animaux sauvages là-bas, afin que vous sachiez que je suis Adonoï [qui règne] au milieu de la terre."
+    },
+    {
+      "ref": "Exodus 8:19",
+      "fr": "Je mettrai un [signe de] délivrance (distinction) entre [pour] Mon peuple et entre [mais sur] ton peuple [J'apporterai une peste]. Ce signe aura lieu demain."
+    },
+    {
+      "ref": "Exodus 8:20",
+      "fr": "Adonoy l'a fait. Des foules immenses d'animaux sauvages arrivaient dans la maison de Pharaon et dans les maisons de ses serviteurs. Dans tout le pays d’Égypte, le pays fut dévasté par les animaux sauvages."
+    },
+    {
+      "ref": "Exodus 8:21",
+      "fr": "Pharaon a appelé Moshe et Aharon et il a dit : \" Allez ! Sacrifiez-vous [devant] votre Dieu [ici] dans le pays. \""
+    },
+    {
+      "ref": "Exodus 8:22",
+      "fr": "Moshe dit : \"Ce ne serait pas approprié de le faire. Pour ce qui est abominable [sacré] pour l'Égypte, nous avons l'intention de le sacrifier à [l'animal que les Égyptiens adorent que nous prenons pour le sacrifier devant] Adonoy, notre Dieu. Pourrions-nous sacrifier l'abomination des Égyptiens sous leurs yeux et ne pas qu'ils nous lapident ? [Voici, nous sacrifierons l'animal que les Égyptiens adorent, et ils verront. Ne voudront-ils pas nous lapider ?]"
+    },
+    {
+      "ref": "Exodus 8:23",
+      "fr": "Nous devons faire un voyage de trois jours dans le désert et sacrifier à [devant] Adonoy, notre Dieu, de la manière qu'il nous dira."
+    },
+    {
+      "ref": "Exodus 8:24",
+      "fr": "Pharaon dit : \"Je t'enverrai pour que tu sacrifies à [devant] Adonoy, ton Dieu dans le désert, à condition que tu ne t'éloignes pas trop. Priez [aussi] pour moi.\""
+    },
+    {
+      "ref": "Exodus 8:25",
+      "fr": "Moshe a dit: \"Voici, quand je quitterai votre présence, je prierai [devant] Adonoy, et les animaux sauvages partiront de Pharaon, de ses serviteurs et de son peuple, demain. Mais que Pharaon ne nous trompe plus jamais [en] refusant d'envoyer le peuple se sacrifier [devant] Adonoy. \""
+    },
+    {
+      "ref": "Exodus 8:26",
+      "fr": "Moshe sortit de la présence de Pharaon et pria [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 8:27",
+      "fr": "Adonoy a fait ce que Moshe a dit [demandé]. Il fit éloigner les animaux sauvages de Pharaon, de ses serviteurs et de son peuple. Il n’en restait pas un seul."
+    },
+    {
+      "ref": "Exodus 8:28",
+      "fr": "Mais Pharaon endurcit encore une fois son cœur, cette fois et il n’envoya pas le peuple."
+    },
+    {
+      "ref": "Exodus 9:1",
+      "fr": "Adonoy dit à Moshe : « Va voir Pharaon et dis-lui : « Voici ce qu'a dit Adonoy, le Dieu des Hébreux : Envoie mon peuple et qu'il me serve."
+    },
+    {
+      "ref": "Exodus 9:2",
+      "fr": "Car si vous refusez de les envoyer et continuez à les retenir ;"
+    },
+    {
+      "ref": "Exodus 9:3",
+      "fr": "voici, la main d'Adonoy [une plaie d'avant] est dirigée contre ton bétail qui est dans les champs, contre les chevaux, les ânes, les chameaux, les bœufs et les moutons - il y aura une plaie très lourde [sérieuse]."
+    },
+    {
+      "ref": "Exodus 9:4",
+      "fr": "Adonoy fera la distinction entre le bétail des [B’nei] Yisrael et le bétail de l’Égypte. Aucun membre des B’nei Yisrael ne mourra.’ »"
+    },
+    {
+      "ref": "Exodus 9:5",
+      "fr": "Adonoy a fixé une date, en disant : Demain Adonoy fera cette chose dans le pays."
+    },
+    {
+      "ref": "Exodus 9:6",
+      "fr": "Adonoï fit cela le lendemain, et tout le bétail d'Égypte mourut, mais parmi le bétail des Bnei Yisrael, aucun ne mourut."
+    },
+    {
+      "ref": "Exodus 9:7",
+      "fr": "Pharaon a envoyé des [éclaireurs] et voici, pas un seul animal des B'nei Yisrael n'est mort. Le cœur de Pharaon resta dur et il n’envoya pas le peuple."
+    },
+    {
+      "ref": "Exodus 9:8",
+      "fr": "Adonoy parla à Moshe et Aharon : « Prenez tous les deux de pleines poignées de suie de fournaise et laissez Moshe la jeter vers le ciel sous les yeux de Pharaon."
+    },
+    {
+      "ref": "Exodus 9:9",
+      "fr": "Cela deviendra une fine poussière [et se déposera] sur tout le pays d'Égypte. Elle s’abattra sur les hommes et les bêtes, provoquant une éruption cutanée qui se transformera en furoncles [affectant] tout le pays d’Égypte. »"
+    },
+    {
+      "ref": "Exodus 9:10",
+      "fr": "Ils prirent la suie du fourneau et se présentèrent devant Pharaon. Moshe l'a jeté vers le ciel, et cela a provoqué une éruption cutanée qui s'est transformée en furoncles chez l'homme et la bête."
+    },
+    {
+      "ref": "Exodus 9:11",
+      "fr": "Les sorciers ne purent se tenir devant Moché à cause de cette éruption cutanée, car cette éruption affectait les sorciers ainsi que toute l’Égypte."
+    },
+    {
+      "ref": "Exodus 9:12",
+      "fr": "Adonoy a rendu le cœur de Pharaon dur et il ne les a pas écoutés [acceptés] tout comme Adonoy avait parlé à Moshe."
+    },
+    {
+      "ref": "Exodus 9:13",
+      "fr": "Adonoy dit à Moshe : « Lève-toi tôt le matin, tiens-toi devant Pharaon et dis-lui : « Voici ce qu'a dit Adonoy, le Dieu des Hébreux : « Envoie mon peuple et qu'il me serve."
+    },
+    {
+      "ref": "Exodus 9:14",
+      "fr": "Pour cette fois, j’enverrai toutes mes plaies contre votre cœur. [Ils frapperont] tes serviteurs et ton peuple, afin que tu saches qu'il n'y a personne comme moi [, un chef] sur toute la terre."
+    },
+    {
+      "ref": "Exodus 9:15",
+      "fr": "Car maintenant, si je l'avais voulu, j'aurais pu étendre ma main et envoyer le fléau de ma force et vous frapper, vous et votre peuple, avec la peste, et vous auriez été effacés de la terre."
+    },
+    {
+      "ref": "Exodus 9:16",
+      "fr": "Néanmoins, c'est pour cette raison que Je vous ai laissé survivre – pour vous montrer Ma force – afin que [la force de] Mon Nom soit déclaré sur toute la terre."
+    },
+    {
+      "ref": "Exodus 9:17",
+      "fr": "Mais vous opprimez toujours Mon peuple en refusant de le renvoyer."
+    },
+    {
+      "ref": "Exodus 9:18",
+      "fr": "Demain, à cette heure-là, je ferai pleuvoir une grêle extrêmement forte. Il n’y a jamais eu quelque chose de semblable en Égypte, depuis sa fondation jusqu’à aujourd’hui."
+    },
+    {
+      "ref": "Exodus 9:19",
+      "fr": "Maintenant, envoie [parole] et rassemble [abrite] ton bétail et tout ce que tu as dans les champs. Tout homme ou bête trouvé [reste] dans les champs et ne sera pas amené dans la maison [à l'intérieur], la grêle tombera sur eux et ils mourront."
+    },
+    {
+      "ref": "Exodus 9:20",
+      "fr": "Celui qui craignait la parole d'Adonoy parmi les serviteurs de Pharaon, fit fuir ses serviteurs et son bétail dans les maisons."
+    },
+    {
+      "ref": "Exodus 9:21",
+      "fr": "Mais celui dont le cœur ne prêta pas attention à la parole d'Adonoy laissa ses serviteurs et son bétail dans les champs."
+    },
+    {
+      "ref": "Exodus 9:22",
+      "fr": "Adonoy dit à Moshe : « Étends ta main vers les cieux, et il y aura de la grêle dans tout le pays d'Égypte, sur les hommes et sur les bêtes, et sur toute la végétation du pays d'Égypte. »"
+    },
+    {
+      "ref": "Exodus 9:23",
+      "fr": "Moshe étendit son bâton vers les cieux, et Adonoy envoya du tonnerre et de la grêle, et le feu tomba sur la terre. Adonoï fit pleuvoir de la grêle sur le pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 9:24",
+      "fr": "Il y avait de la grêle et du feu [des éclairs] brillaient parmi les grêlons. Ce fut une [chute] extrêmement lourde. Il n’y avait jamais rien eu de pareil dans tout le pays d’Égypte depuis qu’il est devenu une nation."
+    },
+    {
+      "ref": "Exodus 9:25",
+      "fr": "La grêle frappa tout le pays d'Égypte, tuant tous ceux qui étaient dans les champs, hommes et bêtes. Toute la végétation des champs fut frappée par la grêle et tous les arbres des champs furent brisés."
+    },
+    {
+      "ref": "Exodus 9:26",
+      "fr": "Seulement dans le pays de Goshen où se trouvaient les B’nei Yisrael, il n’y eut pas de grêle."
+    },
+    {
+      "ref": "Exodus 9:27",
+      "fr": "Pharaon envoya appeler Moshe et Aharon et il leur dit : \"Cette fois, j'ai péché. Adonoy est le juste et moi et mon peuple sommes les pécheurs."
+    },
+    {
+      "ref": "Exodus 9:28",
+      "fr": "Priez [devant] Adonoy [car il y a beaucoup de soulagement devant Lui, afin qu'il n'y ait pas sur nous de tonnerres de colère comme ceux-ci de devant Dieu, ni de grêle.] Il y a eu assez de tonnerre et de grêle de Dieu. Je vous enverrai sans plus tarder."
+    },
+    {
+      "ref": "Exodus 9:29",
+      "fr": "Moshe lui dit : \"Quand je quitterai la ville, j'étendrai mes mains [en prière] vers [devant] Adonoy. Le tonnerre cessera et il n'y aura plus de grêle, afin que tu saches que la terre appartient à Adonoy."
+    },
+    {
+      "ref": "Exodus 9:30",
+      "fr": "Mais concernant toi et tes serviteurs, je sais que vous n'avez pas encore peur d'Adonoy, Elohim."
+    },
+    {
+      "ref": "Exodus 9:31",
+      "fr": "Le lin et l'orge ont été brisés depuis que l'orge était mûr et le lin s'est formé en tiges."
+    },
+    {
+      "ref": "Exodus 9:32",
+      "fr": "Mais ni le blé ni l’épeautre n’ont été cassés car ils germent tardivement."
+    },
+    {
+      "ref": "Exodus 9:33",
+      "fr": "Moché quitta alors la présence de Pharaon et quitta la ville. Il tendit les mains [en prière] vers [devant] Adonoy. Le tonnerre cessa, et la grêle et la pluie [qui étaient tombées] n'atteignirent pas la terre."
+    },
+    {
+      "ref": "Exodus 9:34",
+      "fr": "[Quand] Pharaon vit que la pluie, la grêle et le tonnerre avaient cessé, il continua ses voies pécheresses. Lui et ses serviteurs ont endurci leur cœur."
+    },
+    {
+      "ref": "Exodus 9:35",
+      "fr": "Le cœur de Pharaon fut fortifié et il ne renvoya pas les B’nei Yisrael. C'était exactement ce qu'Adonoy avait dit par l'intermédiaire de Moshe."
+    }
+  ]
+}

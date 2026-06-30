@@ -1,0 +1,388 @@
+{
+  "name": "Kora'h",
+  "range": "Numbers 16:1-18:32",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/korach.json",
+  "verses": [
+    {
+      "ref": "Numbers 16:1",
+      "fr": "Korach prit [divisé], [Korach], fils de Itshar, fils de Kehos, fils de Lévi, et Dasan et Aviram, fils d'Eliav, et On, fils de Peles, fils de Reuvein."
+    },
+    {
+      "ref": "Numbers 16:2",
+      "fr": "Ils se levèrent devant Moché avec deux cent cinquante hommes de Bnei Yisroel, qui étaient les chefs de la congrégation, ceux qui étaient appelés aux réunions, des hommes de renom."
+    },
+    {
+      "ref": "Numbers 16:3",
+      "fr": "Ils se rassemblèrent contre Moché et Aharon, et ils leur dirent : « Vous avez pris trop de choses pour vous-mêmes, et puisque toute la congrégation est sainte et qu’Adonoy est [la Chekhinah d’Hachem] au milieu d’eux, pourquoi [qu’est-ce que cela fait] que vous vous éleviez au-dessus de l’assemblée d’Adonoy ?"
+    },
+    {
+      "ref": "Numbers 16:4",
+      "fr": "Moshe entendit et il tomba sur sa face."
+    },
+    {
+      "ref": "Numbers 16:5",
+      "fr": "Il s'adressa à Korach et à toute sa congrégation en disant : « [Le] matin, Adonoy fera connaître qui est [qualifié pour être] à lui et qui est saint, il le rapprochera de lui ; et celui qu'il choisira, il le rapprochera de lui [à son service]."
+    },
+    {
+      "ref": "Numbers 16:6",
+      "fr": "Faites ceci : prenez pour vous des braseros, Korach et toute sa congrégation,"
+    },
+    {
+      "ref": "Numbers 16:7",
+      "fr": "et mets-y du feu et mets-y de l'encens [parfumé] devant Adonoy, demain ; et il arrivera que l'homme qui sera choisi par Adonoy, ce sera le saint ; [vous avez pris] trop de choses sur vous, fils de Lévi."
+    },
+    {
+      "ref": "Numbers 16:8",
+      "fr": "Moshe dit à Korach : « S'il vous plaît, écoutez, fils de Lévi,"
+    },
+    {
+      "ref": "Numbers 16:9",
+      "fr": "n'est-ce qu'une somme dérisoire pour vous-mêmes que le Dieu d'Israël vous ait séparé du [reste de] la congrégation d'Israël pour vous rapprocher [devant] Lui afin d'accomplir les services du Mishkan d'Adonoy et de vous tenir devant la congrégation pour les servir ?"
+    },
+    {
+      "ref": "Numbers 16:10",
+      "fr": "Il vous a amené avec vous tous vos frères, les fils de Lévi, et pourtant [maintenant] vous demandez à être aussi kohanim [Kohein Gadol] ?"
+    },
+    {
+      "ref": "Numbers 16:11",
+      "fr": "C'est pourquoi, vous et toute votre congrégation qui êtes rassemblés contre Adonoy ; et qu'est-ce qu'Aharon pour que tu le insultes ?"
+    },
+    {
+      "ref": "Numbers 16:12",
+      "fr": "Moshe a envoyé appeler Dasan et Avirom, les fils d'Eliav et ils ont dit : « Nous ne monterons pas."
+    },
+    {
+      "ref": "Numbers 16:13",
+      "fr": "N'est-ce qu'une somme dérisoire que vous nous avez fait sortir d'un pays où coulent le lait et le miel pour nous tuer dans le désert, pour que vous deviez exercer un pouvoir sur nous pour vous rendre puissant à votre tour ?"
+    },
+    {
+      "ref": "Numbers 16:14",
+      "fr": "Même dans un pays où coulent le lait et le miel, tu ne nous as pas amenés, et tu ne nous as pas donné en héritage des champs et des vignes, si tu crevais les yeux de ces gens, nous n'y monterions pas."
+    },
+    {
+      "ref": "Numbers 16:15",
+      "fr": "Moshe fut extrêmement affligé et dit à [avant] Adonoy : « Ne vous tournez pas vers [n'acceptez] pas leur offrande [avec plaisir] ; je n'ai pas séquestré un âne à aucun d'eux et je n'ai fait de mal à aucun d'entre eux. »"
+    },
+    {
+      "ref": "Numbers 16:16",
+      "fr": "Moshe dit à Korach : « Toi et toute ta congrégation serez devant Adonoy, toi, eux et Aharon, demain."
+    },
+    {
+      "ref": "Numbers 16:17",
+      "fr": "Chacun prendra son brasier et y déposera de l'encens [parfumé] et tu offriras devant Adonoï, chacun son brasier, deux cent cinquante brasiers, et toi et Aharon prendrez chacun son propre brasier."
+    },
+    {
+      "ref": "Numbers 16:18",
+      "fr": "Chaque homme prit son brasier et y mit du feu et y mit de l'encens [parfumé] et ils se tinrent à l'entrée de la tente d'assignation avec Moshe et Aharon."
+    },
+    {
+      "ref": "Numbers 16:19",
+      "fr": "Korach se rassembla contre eux, toute la congrégation à l'entrée de la tente d'assignation, et la gloire d'Adonoy apparut à toute la congrégation."
+    },
+    {
+      "ref": "Numbers 16:20",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Numbers 16:21",
+      "fr": "« Séparez-vous du milieu de cette congrégation, et je les anéantirai en un instant. »"
+    },
+    {
+      "ref": "Numbers 16:22",
+      "fr": "Ils tombèrent la face contre terre et dirent : « Tout-Puissant, Dieu des esprits de toute chair ; si un seul homme pèche, te mettras-tu en colère contre toute l’assemblée ? »"
+    },
+    {
+      "ref": "Numbers 16:23",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 16:24",
+      "fr": "Parlez à l’assemblée en disant : « Quittez les environs de la demeure de Korach, Dasan et Avirom. »"
+    },
+    {
+      "ref": "Numbers 16:25",
+      "fr": "Moshe se leva et partit vers Dasan et Avirom, et les anciens d'Israël le suivirent."
+    },
+    {
+      "ref": "Numbers 16:26",
+      "fr": "Il s’adressa à l’assemblée en disant : « S’il vous plaît, éloignez-vous des tentes de ces hommes méchants [coupables], et ne touchez pas à quoi que ce soit qui leur appartient, de peur que vous ne soyez entraînés [frappés] dans toutes leurs transgressions. »"
+    },
+    {
+      "ref": "Numbers 16:27",
+      "fr": "Ils se retirent de la demeure de Korach, Dasan et Avirom, et tout autour ; Dasan et Avirom sortirent et se tinrent à l'entrée de leurs tentes avec leurs femmes, leurs enfants et leurs nourrissons."
+    },
+    {
+      "ref": "Numbers 16:28",
+      "fr": "Moshe a dit : « C'est ainsi que vous saurez qu'Adonoy m'a envoyé pour accomplir toutes ces actions, car je ne les ai pas conçues moi-même [de ma propre volonté]."
+    },
+    {
+      "ref": "Numbers 16:29",
+      "fr": "Si, comme tous les hommes meurent, ces hommes rencontrent la mort, et que le sort de tous les hommes repose sur eux, alors Adonoy ne m'a pas envoyé."
+    },
+    {
+      "ref": "Numbers 16:30",
+      "fr": "Si Adonoy crée une [nouvelle] création et que le sol ouvre la bouche et les engloutit avec tous leurs biens, et qu'ils descendent vivants dans la tombe, alors vous saurez que ces hommes ont irrité Adonoy."
+    },
+    {
+      "ref": "Numbers 16:31",
+      "fr": "Alors qu’il finissait de prononcer tous ces mots, le sol sous eux se fendit."
+    },
+    {
+      "ref": "Numbers 16:32",
+      "fr": "La terre ouvrit la bouche et les engloutit, eux et leurs maisons, ainsi que tout le peuple de Korach et tous ses biens."
+    },
+    {
+      "ref": "Numbers 16:33",
+      "fr": "Eux et tous ceux qui leur appartenaient descendirent vivants au tombeau, et la terre les recouvrit et ils périrent du milieu de l'assemblée."
+    },
+    {
+      "ref": "Numbers 16:34",
+      "fr": "Tout Israël qui était autour d'eux s'enfuit devant leur tumulte, car ils disaient : peut-être que la terre nous engloutira."
+    },
+    {
+      "ref": "Numbers 16:35",
+      "fr": "Un feu sortit de [devant] Adonoy et consuma les deux cent cinquante hommes qui apportaient l'encens [parfumé]."
+    },
+    {
+      "ref": "Numbers 17:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 17:2",
+      "fr": "« Dites à Elazar, fils d'Aharon, le kohein et qu'il lève les braseros de l'enfer, et toi, disperse le feu là-bas, car ils ont été sanctifiés ;"
+    },
+    {
+      "ref": "Numbers 17:3",
+      "fr": "[Ces] braseros de ces pécheurs [qui ont payé] de leur âme, et ils en ont fait des draps martelés pour recouvrir l'autel, car ils ont été apportés en offrande devant Adonoy et ils ont été sanctifiés ; et ils serviront de signe pour Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 17:4",
+      "fr": "Elazar le kohein prit les braseros en cuivre, ceux que les victimes du feu avaient apportés, et les martela pour en faire une couverture pour l'autel,"
+    },
+    {
+      "ref": "Numbers 17:5",
+      "fr": "pour être un rappel pour Bnei Yisroel afin qu'un roturier ne propose jamais, quelqu'un qui n'est pas un descendant d'Aharon, de brûler de l'encens [parfumé] devant Adonoy ; afin de ne pas ressembler à Korach et à sa congrégation ; comme Adonoy lui a parlé, par l'intermédiaire de Moshe."
+    },
+    {
+      "ref": "Numbers 17:6",
+      "fr": "Le lendemain, toute la congrégation des Bnei Yisroel se plaignit contre Moshe et Aharon, disant : « Vous avez tué [causé la mort] les habitants d’Adonoy. »"
+    },
+    {
+      "ref": "Numbers 17:7",
+      "fr": "Lorsque la congrégation s’est rassemblée contre Moshe et Aharon, ils se sont tournés vers la tente d’assignation et voici ! La nuée le recouvrit et la Gloire d'Adonoy apparut."
+    },
+    {
+      "ref": "Numbers 17:8",
+      "fr": "Moché et Aaron arrivèrent devant la Tente du Rendez-vous."
+    },
+    {
+      "ref": "Numbers 17:9",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 17:10",
+      "fr": "« Retirez-vous de cette congrégation et je les anéantirai en un instant », et ils tombèrent sur leur face."
+    },
+    {
+      "ref": "Numbers 17:11",
+      "fr": "Moshe dit à Aharon : « Prends le brasier et mets dessus du feu du haut de l'autel et place de l'encens [parfumé] dessus, et va vite vers l'assemblée et expie pour eux, car la colère est sortie de devant Adonoy ; la plaie a commencé. »"
+    },
+    {
+      "ref": "Numbers 17:12",
+      "fr": "Aharon prit la parole, juste au moment où Moshe parlait, et il courut au milieu de l'assemblée et voici ! La peste avait commencé parmi le peuple. Il a mis de l'encens et il a expié pour le peuple."
+    },
+    {
+      "ref": "Numbers 17:13",
+      "fr": "Il se tenait entre les morts et entre les vivants et la peste fut arrêtée."
+    },
+    {
+      "ref": "Numbers 17:14",
+      "fr": "Les morts de la peste s’élevaient à quatorze mille sept cents, sans compter ceux qui sont morts à cause de la rébellion [division] de Korach."
+    },
+    {
+      "ref": "Numbers 17:15",
+      "fr": "Aharon retourna vers Moshe à l'entrée de la Tente d'assignation et la peste fut stoppée."
+    },
+    {
+      "ref": "Numbers 17:16",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 17:17",
+      "fr": "« Parle aux Bnei Yisroel et prends parmi eux un bâton, un bâton pour chaque maison [tribale] de chaque père, parmi tous les chefs selon les maisons de leurs pères, douze bâtons ; et tu écriras le nom de chaque homme sur son bâton."
+    },
+    {
+      "ref": "Numbers 17:18",
+      "fr": "Tu écriras le nom d'Aharon sur le bâton de Lévi, car il y a un seul bâton pour le chef de la maison de leurs pères."
+    },
+    {
+      "ref": "Numbers 17:19",
+      "fr": "Vous les laisserez à l'intérieur de la tente d'assignation avant le témoignage où là je [ma parole] vous rencontre."
+    },
+    {
+      "ref": "Numbers 17:20",
+      "fr": "Il arrivera que l'homme que je choisirai, son bâton fleurira ; et j'apaiserai de moi-même [devant moi] les plaintes des Bnei Yisroel selon lesquelles ils se plaignent contre vous."
+    },
+    {
+      "ref": "Numbers 17:21",
+      "fr": "Moshe a parlé à Bnei Yisroel et tous les dirigeants lui ont donné un bâton pour chaque dirigeant ; un bâton pour chaque chef, selon la maison de leurs pères, douze bâtons, et le bâton d'Aharon [était] parmi leurs bâtons."
+    },
+    {
+      "ref": "Numbers 17:22",
+      "fr": "Moché plaça les bâtons devant Adonoy dans la Tente du Témoignage."
+    },
+    {
+      "ref": "Numbers 17:23",
+      "fr": "C'était le lendemain, Moshe entra dans la Tente du Témoignage, et voici ! Le bâton d'Aharon fleurit pour la maison de Lévi, une fleur sortit, et des bourgeons fleuris et portèrent des amandes mûres."
+    },
+    {
+      "ref": "Numbers 17:24",
+      "fr": "Moshe a ensuite apporté tous les bâtons d'avant Adonoy à tous les Bnei Yisroel, et chacun (homme) a vu [reconnu] et a récupéré son bâton."
+    },
+    {
+      "ref": "Numbers 17:25",
+      "fr": "Adonoy dit à Moshe : « Renvoie le bâton d'Aharon devant (l'Arche du) Témoignage pour qu'il soit conservé comme symbole aux gens rebelles, afin que leur plainte cesse [devant Moi] et qu'ils ne meurent pas. »"
+    },
+    {
+      "ref": "Numbers 17:26",
+      "fr": "Moshe a fait (cela), comme Adonoy le lui avait ordonné – ainsi il l'a fait."
+    },
+    {
+      "ref": "Numbers 17:27",
+      "fr": "Bnei Yisroel a dit [ce qui suit] à Moshe : « Voici, nous périssons, nous sommes perdus – nous sommes tous perdus [tués par l’épée, certains d’entre nous engloutis par la terre, certains d’entre nous périssent par la peste]."
+    },
+    {
+      "ref": "Numbers 17:28",
+      "fr": "Quiconque s’approche du Mishkon d’Adonoy mourra – sommes-nous condamnés à mourir ?"
+    },
+    {
+      "ref": "Numbers 18:1",
+      "fr": "Adonoy dit à Aaron : « Toi, tes fils, et la maison de ton père avec toi, tu porteras le péché du Sanctuaire, et toi, et tes fils avec toi, tu porteras le péché de ta kehunah."
+    },
+    {
+      "ref": "Numbers 18:2",
+      "fr": "Amenez-vous aussi vos frères, la tribu de Lévi, la tribu de votre père, et ils vous rejoindront et vous serviront, vous et vos fils avec vous, devant la tente du témoignage."
+    },
+    {
+      "ref": "Numbers 18:3",
+      "fr": "Ils garderont leurs devoirs envers vous et tous les devoirs de la tente, mais ils ne doivent pas s'approcher des meubles sacrés ou de l'autel, afin que ni eux ni vous ne mourrions."
+    },
+    {
+      "ref": "Numbers 18:4",
+      "fr": "Ils vous rejoindront et garderont les devoirs de la Tente d'assignation - tout le service de la Tente, mais un roturier, [un non-kohein] ne devrait pas s'approcher de vous."
+    },
+    {
+      "ref": "Numbers 18:5",
+      "fr": "Vous vous acquitterez des devoirs sacrés et des devoirs de l'autel, afin qu'il n'y ait plus de colère contre Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 18:6",
+      "fr": "Voici, j'ai amené vos frères les Lévites du milieu des Bnei Yisroel, qui vous ont été donnés en cadeau, pour [avant] Adonoy, pour accomplir le travail de la tente d'assignation."
+    },
+    {
+      "ref": "Numbers 18:7",
+      "fr": "Vous et vos fils avec vous garderez votre kehunah [devoirs] concernant l'autel et tout ce qui est à l'intérieur du rideau - vous servirez - le service, en cadeau, je vous donne la kehunah, et le roturier qui s'approchera sera tué."
+    },
+    {
+      "ref": "Numbers 18:8",
+      "fr": "Adonoy parla à Aharon : « Voici, je t'ai donné la garde de mes dons de terumah et de toutes les choses saintes de Bnei Yisroel, à toi et à tes enfants je les donne pour consécration, comme portion pour toujours."
+    },
+    {
+      "ref": "Numbers 18:9",
+      "fr": "Ceci est à vous parmi les choses très saintes [qui restent] du feu, [de] tous leurs sacrifices, leurs offrandes de minchah, leurs offrandes pour le péché et leurs offrandes de délit auxquelles ils retournent [devant] moi, seront les plus saintes pour vous et vos fils."
+    },
+    {
+      "ref": "Numbers 18:10",
+      "fr": "Vous le mangerez dans le lieu suprêmement saint, tout mâle pourra en manger ; ce sera une chose sainte pour vous."
+    },
+    {
+      "ref": "Numbers 18:11",
+      "fr": "Leur cadeau terumah est à vous, de toutes les offrandes agitées de Bnei Yisroel, je vous les donne, ainsi qu'à vos fils et filles qui sont avec vous, comme une part éternelle ; tous ceux qui sont rituellement purs dans votre maison peuvent en manger."
+    },
+    {
+      "ref": "Numbers 18:12",
+      "fr": "Je vous ai donné le meilleur de l'huile, le meilleur du vin et du grain, leur terumah-cadeau qu'ils présentent à Adonoy."
+    },
+    {
+      "ref": "Numbers 18:13",
+      "fr": "Les prémices de tout ce qui est dans leur pays, qu'ils apporteront devant Adonoy, seront à toi ; tous ceux qui sont rituellement purs dans votre maison peuvent en manger."
+    },
+    {
+      "ref": "Numbers 18:14",
+      "fr": "Tout ce qui est consacré en Israël sera à vous."
+    },
+    {
+      "ref": "Numbers 18:15",
+      "fr": "Tout premier-né [tout ce qui ouvre le ventre] de tout être qu'ils offriront devant Adonoy, homme ou bête, sera à toi ; mais vous devez racheter le premier-né de l'homme et racheter le premier-né des bêtes impures."
+    },
+    {
+      "ref": "Numbers 18:16",
+      "fr": "Son rachat - à partir d'un mois, vous devez les racheter - la valeur est de cinq séla'im d'argent de shekalim d'argent sacré, soit vingt guéra."
+    },
+    {
+      "ref": "Numbers 18:17",
+      "fr": "Cependant, le bœuf premier-né, le mouton premier-né ou le bouc premier-né ne rachètent pas parce qu'ils sont saints ; aspergez leur sang sur l'autel et brûlez leurs graisses en offrande par le feu, en parfum agréable à [accepté avec plaisir devant] Adonoy."
+    },
+    {
+      "ref": "Numbers 18:18",
+      "fr": "Leur chair est à toi ; comme la poitrine qui est agitée et comme la cuisse droite, elle sera à toi."
+    },
+    {
+      "ref": "Numbers 18:19",
+      "fr": "Tous les cadeaux sacrés de terumah que les Bnei Yisroel offrent à Adonoy, je vous les ai donnés, ainsi qu'à vos fils et filles avec vous, comme une part éternelle ; une alliance éternelle de sel devant Adonoy pour toi et tes enfants qui sont avec toi."
+    },
+    {
+      "ref": "Numbers 18:20",
+      "fr": "Adonoy dit à Aaron : « Tu n'auras pas d'héritage dans leur pays, et tu n'auras pas de part parmi eux ; je suis [le cadeau que je t'ai fait est] ton héritage et ta part parmi les Bnei Yisroel."
+    },
+    {
+      "ref": "Numbers 18:21",
+      "fr": "Voici, j'ai donné en héritage aux fils de Lévi toutes les dîmes en Israël, en échange du service qu'ils accomplissent, le service de la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 18:22",
+      "fr": "Les Bnei Yisroel ne s'approcheront plus de la Tente du Rendez-vous, pour se rendre coupables et mourir."
+    },
+    {
+      "ref": "Numbers 18:23",
+      "fr": "Les Lévites — [ils] effectueront le service de la Tente d'assignation et ils porteront leur culpabilité ; c'est un décret éternel - à travers vos générations - parmi les Bnei Yisroel, ils (les Lévites) n'auront aucun héritage."
+    },
+    {
+      "ref": "Numbers 18:24",
+      "fr": "Pour la dîme des Bnei Yisroel, qu'ils doivent mettre de côté pour [devant] Adonoy, comme cadeau de terumah, j'ai donné aux Lévites en héritage ; c’est pourquoi je leur ai dit : « Parmi les Bnei Yisroel, ils n’auront pas d’héritage. »"
+    },
+    {
+      "ref": "Numbers 18:25",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Numbers 18:26",
+      "fr": "« Parlez aux Lévites et dites-leur : « Quand vous recevrez la dîme de Bnei Yisroel, que je vous ai donnée d'eux pour votre héritage, mettez de côté le don de terumah d'Adonoy, une dîme de la dîme."
+    },
+    {
+      "ref": "Numbers 18:27",
+      "fr": "Votre cadeau de terumah [séparation] sera considéré comme le grain du grenier et [le vin et l'huile] des fruits bien mûrs de la citerne."
+    },
+    {
+      "ref": "Numbers 18:28",
+      "fr": "De même, vous devez aussi mettre de côté le don de terumah d'Adonoy sur toutes vos dîmes que vous recevez de Bnei Yisroel ; donnez d'eux le cadeau terumah d'Adonoy [séparation avant] à Aharon le kohein."
+    },
+    {
+      "ref": "Numbers 18:29",
+      "fr": "De tous vos dons, vous devez mettre de côté tous les dons terumah [séparations] d'Adonoy ; de chaque chose – sa partie la plus fine – la partie qui doit être consacrée."
+    },
+    {
+      "ref": "Numbers 18:30",
+      "fr": "Dis-leur : « Quand vous en aurez mis de côté la partie la plus fine, elle sera considérée par les Lévites comme le produit du grenier et le produit de la citerne."
+    },
+    {
+      "ref": "Numbers 18:31",
+      "fr": "Vous pouvez le consommer n’importe où : vous et [les membres de] votre foyer ; puisque c'est la récompense de votre service dans la Tente d'assignation."
+    },
+    {
+      "ref": "Numbers 18:32",
+      "fr": "Vous ne porterez pas de péché à cause de cela, si vous en séparez la meilleure partie ; mais vous ne devez pas profaner les choses sacrées de Bnei Yisroel, et vous ne mourrez pas."
+    }
+  ]
+}

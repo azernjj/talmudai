@@ -1,0 +1,472 @@
+{
+  "name": "Beshalach",
+  "range": "Exodus 13:17-17:16",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/beshalach.json",
+  "verses": [
+    {
+      "ref": "Exodus 13:17",
+      "fr": "Lorsque Pharaon renvoya le peuple, Elohim ne le conduisit pas par le pays des Philistins parce que c'était le chemin le plus court ; car Elohim a dit : « Le peuple pourrait changer d'avis [trembler] s'il rencontrait la guerre et retournait en Égypte."
+    },
+    {
+      "ref": "Exodus 13:18",
+      "fr": "Et ainsi Elohim fit contourner le peuple par le désert de la mer des Roseaux, et les B'nei Yisrael montèrent armés du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 13:19",
+      "fr": "Moshe a emporté les ossements de Yossif avec lui, car [Yoseif] avait lié les B'nei Yisrael par serment en disant : « Elohim se souviendra sûrement de toi, et [alors] tu devras emporter mes os hors d'ici avec toi."
+    },
+    {
+      "ref": "Exodus 13:20",
+      "fr": "Ils partirent de Souccot et campèrent à Eisom, à la lisière du désert."
+    },
+    {
+      "ref": "Exodus 13:21",
+      "fr": "Adonoy les précédait le jour dans une colonne de nuée pour les guider sur le chemin, et la nuit dans une colonne de feu pour les éclairer, afin qu'ils puissent voyager de jour et de nuit."
+    },
+    {
+      "ref": "Exodus 13:22",
+      "fr": "Il n'a pas enlevé la colonne de nuée le jour, ni même la colonne de feu la nuit, devant le peuple."
+    },
+    {
+      "ref": "Exodus 14:1",
+      "fr": "Adonoy a parlé à Moshe en disant :"
+    },
+    {
+      "ref": "Exodus 14:2",
+      "fr": "\" Parlez aux B'nei Yisrael et demandez-leur de faire demi-tour et de camper devant Pi haChiros, entre Migdol et la mer, face à Ba'al Tzephon. Campez en face, près de la mer. \""
+    },
+    {
+      "ref": "Exodus 14:3",
+      "fr": "Pharaon dira alors des B’nei Yisrael : « Ils sont confus dans le pays, le désert les a enfermés."
+    },
+    {
+      "ref": "Exodus 14:4",
+      "fr": "J’endurcirai le cœur de Pharaon et il les poursuivra. et je serai glorifié par Pharaon et toute son armée. L’Égypte saura [alors] que je suis Adonoy. C’est exactement ce qu’ils [les B’nei Yisrael] ont fait."
+    },
+    {
+      "ref": "Exodus 14:5",
+      "fr": "On dit au roi d'Egypte que le peuple s'était enfui. Pharaon et ses serviteurs ont changé d'avis à l'égard du peuple et ils ont dit : \" Qu'avons-nous fait ? [Comment avons-nous] libéré Israël de notre service ? \""
+    },
+    {
+      "ref": "Exodus 14:6",
+      "fr": "Il [Pharaon] attela son char et emmena son peuple avec lui."
+    },
+    {
+      "ref": "Exodus 14:7",
+      "fr": "Il prit six cents chars [et équipages] d'élite, et tous les [autres] chars d'Égypte, et des commandants [des hommes vaillants furent nommés] sur eux tous."
+    },
+    {
+      "ref": "Exodus 14:8",
+      "fr": "Adonoy endurcit le cœur de Pharaon, roi d’Égypte, et il poursuivit les B’nei Yisrael. Les B’nei Yisrael sont sortis haut la main [en triomphe] [publiquement]."
+    },
+    {
+      "ref": "Exodus 14:9",
+      "fr": "Les Égyptiens les poursuivirent et les atteignirent alors qu'ils campaient au bord de la mer. Il y avait tous les chevaux de char du Pharaon, sa cavalerie et son armée [infanterie], à Pi haChiros, face à Ba'al Tzephon."
+    },
+    {
+      "ref": "Exodus 14:10",
+      "fr": "Pharaon s'approcha, et les B'nei Yisrael levèrent les yeux et virent les Égyptiens venir après eux. Ils furent très effrayés et les B’nei Yisrael crièrent [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 14:11",
+      "fr": "Ils dirent à Moché : \"N'y avait-il pas assez de tombes en Egypte pour que tu nous fasses mourir dans le désert ? Que nous as-tu fait en nous faisant sortir d'Egypte ?"
+    },
+    {
+      "ref": "Exodus 14:12",
+      "fr": "C’est exactement ce que nous vous avons dit en Égypte en disant : « Laissez-nous tranquilles et servons les Égyptiens. » Il aurait mieux valu pour nous servir les Égyptiens que de mourir dans le désert."
+    },
+    {
+      "ref": "Exodus 14:13",
+      "fr": "Moshe dit au peuple : « N'ayez pas peur, tenez bon et vous verrez la délivrance d'Adonoy, qu'Il accomplira pour vous aujourd'hui, car les Égyptiens que vous avez vus aujourd'hui, vous ne les reverrez plus jamais, même pour l'éternité."
+    },
+    {
+      "ref": "Exodus 14:14",
+      "fr": "Adonoy mènera [la guerre] pour vous, et vous [devez] garder le silence."
+    },
+    {
+      "ref": "Exodus 14:15",
+      "fr": "Adonoy dit à Moshe : \"Pourquoi me cries-tu ? [J'ai accepté ta prière.] Parle aux B'nei Yisrael et laisse-les avancer."
+    },
+    {
+      "ref": "Exodus 14:16",
+      "fr": "Et toi [faites comme suit], levez votre bâton, étendez votre main sur la mer et fendez-la. Les B’nei Yisrael se retrouveront alors au milieu de la mer sur la terre ferme."
+    },
+    {
+      "ref": "Exodus 14:17",
+      "fr": "J'endurcirai le cœur des Égyptiens et ils les suivront. Je serai glorifié par Pharaon et toute son armée, ses chars et sa cavalerie."
+    },
+    {
+      "ref": "Exodus 14:18",
+      "fr": "Les Égyptiens sauront que je suis Adonoy lorsque je serai glorifié à travers Pharaon, ses chars et sa cavalerie."
+    },
+    {
+      "ref": "Exodus 14:19",
+      "fr": "L'ange d'Elohim s'est déplacé [de sa position] lorsqu'il voyageait devant le camp d'Israël et il allait derrière eux. La colonne de nuage s’est déplacée devant eux et s’est tenue derrière eux."
+    },
+    {
+      "ref": "Exodus 14:20",
+      "fr": "Il s'interposait entre le camp égyptien et le camp d'Israël. Il y avait des nuages ​​et des ténèbres [pour les Égyptiens] et [la colonne de feu] illuminait la nuit [pour Yisrael]. Les camps ne se sont pas rapprochés de toute la nuit."
+    },
+    {
+      "ref": "Exodus 14:21",
+      "fr": "Moshe a étendu sa main sur la mer et Adonoy a fait reculer la mer avec un fort vent d'est [soufflant] toute la nuit. Il transforma la mer en terre ferme et les eaux furent divisées."
+    },
+    {
+      "ref": "Exodus 14:22",
+      "fr": "Les B’nei Yisrael s’enfoncèrent au milieu de la mer sur la terre ferme. Les eaux étaient comme un mur [des murs] pour eux, à leur droite et à leur gauche."
+    },
+    {
+      "ref": "Exodus 14:23",
+      "fr": "Les Égyptiens les poursuivirent et les suivirent, tous les chevaux de Pharaon, ses chars et sa cavalerie, jusqu’au milieu de la mer."
+    },
+    {
+      "ref": "Exodus 14:24",
+      "fr": "C'était la veille du matin [la fin de la nuit] Adonoy regarda le camp égyptien à travers la colonne de feu et de nuée, et Il sema la panique dans le camp égyptien."
+    },
+    {
+      "ref": "Exodus 14:25",
+      "fr": "Il enleva les roues de leurs chars et les fit avancer lourdement [maladroitement]. Les Égyptiens dirent : « Fuyons les [B'nei] Yisrael, car [c'est là la puissance d'] Adonoy [qui] mène [les guerres] pour eux contre l'Égypte. »"
+    },
+    {
+      "ref": "Exodus 14:26",
+      "fr": "Adonoy dit à Moshe : « Étends ta main sur la mer, et l'eau reviendra sur les Égyptiens, [sur] leurs chars et leur cavalerie. »"
+    },
+    {
+      "ref": "Exodus 14:27",
+      "fr": "Moché étendit la main sur la mer et, vers le matin, la mer reprit sa force tandis que les Égyptiens fuyaient vers elle. Adonoy renversa les Égyptiens au milieu de la mer."
+    },
+    {
+      "ref": "Exodus 14:28",
+      "fr": "Les eaux revinrent et couvrirent les chars et la cavalerie, y compris toute l’armée de Pharaon qui les avait suivis dans la mer. Aucun d’eux n’est resté [en vie]."
+    },
+    {
+      "ref": "Exodus 14:29",
+      "fr": "Les B’nei Yisrael marchaient sur la terre ferme au milieu de la mer. Pour eux, les eaux étaient un mur [des murs] à leur droite et à leur gauche."
+    },
+    {
+      "ref": "Exodus 14:30",
+      "fr": "Ce jour-là, Adonoy délivra [B'nei] Yisrael de la main de l'Égypte. [B’nei] Yisrael a vu les Égyptiens morts au bord de la mer."
+    },
+    {
+      "ref": "Exodus 14:31",
+      "fr": "[B’nei] Yisrael a vu la [puissance de la] grande main qu’Adonoy brandissait contre l’Égypte. Les gens craignaient [avant] Adonoy et croyaient en [la Parole d'] Adonoy et [que] [dans la prophétie de] Moshe [était] Son serviteur."
+    },
+    {
+      "ref": "Exodus 15:1",
+      "fr": "Alors Moshe et les B'nei Yisrael ont chanté ce chant à [exalté cette louange devant] Adonoy et ils ont dit : Je [Nous] chanterons à [louange et nous rendrons grâce devant] Adonoy car Il est le plus haut [s'est élevé au-dessus de ceux qui sont exaltés, et l'exaltation est à Lui], le cheval et son cavalier qu'il a jetés à la mer."
+    },
+    {
+      "ref": "Exodus 15:2",
+      "fr": "La force et le châtiment [La puissance] de Dieu [est ma force et ma louange] étaient la cause de ma délivrance. [Il a dit avec Sa Parole et Il a été un sauveur pour moi.] Celui-ci est mon Tout-Puissant et je le glorifierai [construirai un Temple pour] Lui ; le Dieu de mon père et je l'exalterai [l'adorerai devant] lui."
+    },
+    {
+      "ref": "Exodus 15:3",
+      "fr": "Adonoy est le maître de [la victoire des] guerres, Adonoy est son nom."
+    },
+    {
+      "ref": "Exodus 15:4",
+      "fr": "Il jeta les chars et l’armée de Pharaon à la mer ; ses officiers d'élite furent coulés dans la mer des Roseaux."
+    },
+    {
+      "ref": "Exodus 15:5",
+      "fr": "Les profondeurs les recouvraient, ils s'enfonçaient dans les profondeurs obscures comme de la pierre."
+    },
+    {
+      "ref": "Exodus 15:6",
+      "fr": "Ta main droite Adonoy, est parée de puissance, Ta main droite Adonoy, écrase l'ennemi."
+    },
+    {
+      "ref": "Exodus 15:7",
+      "fr": "Dans Ta grande majesté [pouvoir], Tu détruis [écrases] Tes adversaires [ceux qui se soulèvent contre Ton peuple] ; Vous envoyez votre fureur, elle les consume comme [le feu consume] la paille."
+    },
+    {
+      "ref": "Exodus 15:8",
+      "fr": "Par le vent [souffle] de tes narines [parole de ta bouche], les eaux se sont accumulées [devenues sages], l'eau qui coulait se dressait comme un mur ; les eaux profondes se sont figées au cœur de la mer."
+    },
+    {
+      "ref": "Exodus 15:9",
+      "fr": "L’ennemi [avait] dit : « Je les poursuivrai, je les rattraperai, je partagerai le butin, je me rassasierai [mon âme sera rassasiée d’eux] ; je tirerai mon épée, ma main les détruira. »"
+    },
+    {
+      "ref": "Exodus 15:10",
+      "fr": "Tu as fait souffler Ton vent [dit avec Ta Parole], la mer les a recouverts ; they sank like lead in the mighty waters."
+    },
+    {
+      "ref": "Exodus 15:11",
+      "fr": "Qui est comme toi parmi les puissants, Adonoy ! Qui est comme Toi, paré de sainteté, Impressionnant de louanges, faisant des merveilles ? [Il n’y a personne à part Toi, car Tu es Dieu, Adonoy ! Il n’y a personne d’autre que Toi, ô Dieu, Tu es paré de sainteté, Impressionnant de louanges, faisant des merveilles !]"
+    },
+    {
+      "ref": "Exodus 15:12",
+      "fr": "Tu as étendu ta main droite, la terre les a engloutis."
+    },
+    {
+      "ref": "Exodus 15:13",
+      "fr": "Dans ta bonté [bonté] tu as conduit le peuple [que] tu as racheté ; par ta puissance tu les as guidés vers ta sainte demeure."
+    },
+    {
+      "ref": "Exodus 15:14",
+      "fr": "Les peuples entendirent et tremblent, la terreur saisit les habitants de la Philistie."
+    },
+    {
+      "ref": "Exodus 15:15",
+      "fr": "Alors les chefs d'Edom furent pris de panique, les vaillants hommes de Moav furent saisis de tremblement ; tous les habitants de Canaan fondirent et furent écrasés."
+    },
+    {
+      "ref": "Exodus 15:16",
+      "fr": "L'horreur et l'effroi [s'abattront] sur eux, devant la grandeur de ton bras [puissance], ils [seront] toujours [silencieux] comme la pierre ; jusqu'à ce que ton peuple [que] tu as acquis [racheté] traverse [le Jourdain]."
+    },
+    {
+      "ref": "Exodus 15:17",
+      "fr": "Tu les amèneras et les planteras [les feras habiter] sur la montagne de ton héritage, le lieu [préparé] pour [la maison de] ton habitation [Shechina], que toi, Adonoy as faite [établie] ; le Sanctuaire – mon Maître – [que] Tes mains ont établi."
+    },
+    {
+      "ref": "Exodus 15:18",
+      "fr": "Adonoy régnera[, Son royaume est établi] pour toujours et à jamais."
+    },
+    {
+      "ref": "Exodus 15:19",
+      "fr": "Lorsque Pharaon entra dans la mer avec son cheval, son char et sa cavalerie, Adonoy renvoya sur eux les eaux de la mer ; et les B’nei Yisrael marchaient sur la terre ferme au milieu de la mer."
+    },
+    {
+      "ref": "Exodus 15:20",
+      "fr": "Marie, la prophétesse, sœur d'Aharon, prit le tambour dans sa main ; et toutes les femmes la suivirent avec des tambours et des danses."
+    },
+    {
+      "ref": "Exodus 15:21",
+      "fr": "Miriam les a conduits dans la réponse : « Chantez à [Louer et rendre grâce devant] Adonoy car Il est le plus haut [il s'est élevé au-dessus de ceux qui sont exaltés, et l'exaltation est à Lui] ; il a jeté le cheval et son cavalier dans la mer. »"
+    },
+    {
+      "ref": "Exodus 15:22",
+      "fr": "Moshe emmena [B'nei] Yisrael loin de la mer des Roseaux, et ils sortirent dans le désert de Shur [Cheger], ils voyagèrent pendant trois jours dans le désert et ils ne trouvèrent pas d'eau."
+    },
+    {
+      "ref": "Exodus 15:23",
+      "fr": "Ils arrivèrent à Mara mais ils ne purent boire l'eau de Mara car elle était amère. L'endroit s'appelait donc Marah [amer]."
+    },
+    {
+      "ref": "Exodus 15:24",
+      "fr": "Les gens se sont plaints à Moshe en disant : « Que boirons-nous ?"
+    },
+    {
+      "ref": "Exodus 15:25",
+      "fr": "Il [Moshe] a crié à [prié devant] Adonoy, Adonoy lui a montré [lui a donné des instructions concernant] un arbre et il l'a jeté dans l'eau, et l'eau est devenue douce [agréable]. Là, il leur présenta des statuts et des ordonnances, et là il les éprouva."
+    },
+    {
+      "ref": "Exodus 15:26",
+      "fr": "Il leur dit : « Si vous obéissez avec vigilance à la voix [Parole] d'Adonoy, votre Dieu, et si vous faites ce qui est droit à ses yeux [devant lui], si vous prêtez l'oreille à ses commandements et si vous respectez toutes ses prescriptions, [alors], aucune maladie que j'ai amenée en Égypte, je ne vous induirai pas, car je suis Adonoy, qui vous guérit."
+    },
+    {
+      "ref": "Exodus 15:27",
+      "fr": "Puis ils arrivèrent à Eilim, où il y avait douze sources d'eau et soixante-dix palmiers dattiers. et ils campèrent au bord de l'eau."
+    },
+    {
+      "ref": "Exodus 16:1",
+      "fr": "Ils partirent d’Eilim, et toute la communauté des B’nei Yisrael arriva dans le désert de Sin, qui est entre Eilim et Sinaï. C'était le quinzième jour du deuxième mois après leur sortie du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 16:2",
+      "fr": "La communauté entière des B’nei Yisrael s’est plainte contre Moshe et Aharon dans le désert."
+    },
+    {
+      "ref": "Exodus 16:3",
+      "fr": "Les B'nei Yisrael leur dirent : « Si seulement nous étions morts sous la main d'Adonoy au pays d'Égypte, lorsque nous étions assis près de marmites de viande et mangions à notre faim de pain, car vous nous avez amenés dans ce désert pour faire mourir de faim toute cette congrégation."
+    },
+    {
+      "ref": "Exodus 16:4",
+      "fr": "Adonoy dit à Moshe : « Voici, je ferai pleuvoir du pain du ciel pour toi, et les gens sortiront et en rassembleront suffisamment pour chaque jour, afin que je puisse les tester [pour voir] s'ils marcheront dans [la voie de] mon enseignement ou non."
+    },
+    {
+      "ref": "Exodus 16:5",
+      "fr": "Le sixième jour, ils prépareront ce qu'ils rapporteront, ce sera le double de ce qu'ils auront rassemblé tous les deux jours."
+    },
+    {
+      "ref": "Exodus 16:6",
+      "fr": "Moshe et Aharon dirent à tous les B'nei Yisrael : « Le soir, vous saurez que [c'est] Adonoy [qui] vous a fait sortir du pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 16:7",
+      "fr": "Et le matin, vous verrez la gloire d'Adonoy, car Il a entendu vos plaintes [sont entendues (devant Lui)] contre [concernant la Parole d'] Adonoy. Mais que sommes-nous pour que vous nous plaigniez ?"
+    },
+    {
+      "ref": "Exodus 16:8",
+      "fr": "[Puis] Moshe dit : \"Quand Adonoy vous donnera de la viande à manger le soir et un repas copieux de pain le matin, Adonoy aura entendu vos plaintes [aura été entendue devant Adonoy], que vous avez porté plainte contre Lui. Que sommes-nous ? Vos plaintes ne sont pas contre nous mais contre [la Parole de] Adonoy. \""
+    },
+    {
+      "ref": "Exodus 16:9",
+      "fr": "Alors Moshe dit à Aharon : « Dis à toute la communauté des B'nei Yisrael : Approchez-vous devant Adonoy, car Il a entendu vos plaintes [ont été entendues devant Lui] »."
+    },
+    {
+      "ref": "Exodus 16:10",
+      "fr": "Alors qu'Aharon parlait à toute la communauté des B'nei Yisrael, ils se tournèrent vers le désert, et voici, la gloire d'Adonoy était visible [révélée] dans la nuée."
+    },
+    {
+      "ref": "Exodus 16:11",
+      "fr": "Adonoy parla à Moshe en disant :"
+    },
+    {
+      "ref": "Exodus 16:12",
+      "fr": "\" J'ai entendu les plaintes des B'nei Yisrael [ont été entendues devant Moi]. Parle-leur en disant : \" Entre les soirs [l'après-midi], vous mangerez de la viande, et le matin vous serez rassasié de pain, et vous saurez que je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Exodus 16:13",
+      "fr": "C'était le soir et les cailles se levèrent et couvrirent le camp. Le matin, une couche de rosée [descendait] autour du camp."
+    },
+    {
+      "ref": "Exodus 16:14",
+      "fr": "La couche de rosée [qui était tombée] s'était levée, et voici, à la surface du désert se trouvaient de minces flocons [découverts] [pelés]. C'était aussi fin que du givre sur le sol."
+    },
+    {
+      "ref": "Exodus 16:15",
+      "fr": "Les B'nei Yisrael l'ont vu et se sont dit : « C'est un aliment », car ils ne savaient pas [exactement] de quelle [espèce] il s'agissait. Moché leur dit : « C'est le pain qu'Adonoy vous donne à manger."
+    },
+    {
+      "ref": "Exodus 16:16",
+      "fr": "Voici ce qu'Adonoy a ordonné : chacun rassemblera ses besoins en nourriture. Un omer par personne, selon le nombre de vos gens. chacun prendra pour ceux qui sont dans sa tente."
+    },
+    {
+      "ref": "Exodus 16:17",
+      "fr": "Les B’nei Yisrael l’ont fait. Ils l'ont ramassé, certains plus, d'autres moins."
+    },
+    {
+      "ref": "Exodus 16:18",
+      "fr": "Cependant, lorsqu'ils le mesurèrent avec un omer, celui qui avait pris plus n'avait pas d'excédent, et celui qui avait pris moins n'en manquait pas. Ils en avaient rassemblé exactement assez pour que chacun puisse manger."
+    },
+    {
+      "ref": "Exodus 16:19",
+      "fr": "Moché leur dit : « Que personne n'en laisse jusqu'au matin. »"
+    },
+    {
+      "ref": "Exodus 16:20",
+      "fr": "Ils n'ont pas écouté [accepter] Moshe, et certains hommes en ont laissé jusqu'au matin. L’endroit devint vermifuge et putride, et Moshe était en colère contre eux."
+    },
+    {
+      "ref": "Exodus 16:21",
+      "fr": "Ils le ramassaient chaque matin, chacun selon ce qu'il voulait manger. [Quand] le soleil devint chaud [sur ce qui en restait sur la surface du champ], il fondit."
+    },
+    {
+      "ref": "Exodus 16:22",
+      "fr": "Le sixième jour, ce qu'ils avaient ramassé était une double portion de pain, deux omers pour chacun. Tous les dirigeants de la communauté sont venus en parler à Moshe."
+    },
+    {
+      "ref": "Exodus 16:23",
+      "fr": "Il leur dit : \"Voici ce qu'Adonoy a dit : Demain est un [jour de] repos, un saint Chabbath d'Adonoy [avant Adonoy]. Faites cuire ce que vous voulez faire cuire, et faites cuire ce que vous voulez cuisiner, et tout ce qui reste, mettez-le de côté pour vous, afin de le conserver jusqu'au matin. \""
+    },
+    {
+      "ref": "Exodus 16:24",
+      "fr": "Ils l'ont mis de côté jusqu'au matin comme Moshe l'avait ordonné. Il n’est pas devenu putride et il n’y avait pas de vers dedans."
+    },
+    {
+      "ref": "Exodus 16:25",
+      "fr": "Moshe dit : \" Mangez-en aujourd'hui, car aujourd'hui c'est Chabbat devant Adonoy. Aujourd'hui, vous ne la trouverez pas [manne] dans les champs. \""
+    },
+    {
+      "ref": "Exodus 16:26",
+      "fr": "Vous le rassemblerez pendant six jours, mais le septième jour est Chabbath, il n'y en aura pas ce jour-là."
+    },
+    {
+      "ref": "Exodus 16:27",
+      "fr": "Le septième jour, quelques-uns du peuple sortirent pour se rassembler, mais ils n'en trouvèrent aucun."
+    },
+    {
+      "ref": "Exodus 16:28",
+      "fr": "Adonoy dit à Moshe : « Jusqu’à quand refuseras-tu de garder mes commandements et mes enseignements ? »"
+    },
+    {
+      "ref": "Exodus 16:29",
+      "fr": "Voyez, parce qu'Adonoy vous a donné le Chabbath, c'est pourquoi il vous a donné le sixième jour du pain pour deux jours. Chaque homme doit rester à sa place. Nul ne pourra sortir de chez lui le septième jour."
+    },
+    {
+      "ref": "Exodus 16:30",
+      "fr": "Le peuple se reposa le septième jour."
+    },
+    {
+      "ref": "Exodus 16:31",
+      "fr": "La Maison d’Israël l’a nommé [la nourriture] homme[na]. C’était comme une graine de coriandre blanche et ça avait le goût de gaufrettes au miel."
+    },
+    {
+      "ref": "Exodus 16:32",
+      "fr": "Moshe dit : \"Voici ce qu'Adonoy a ordonné : remplissez-en un omer [mesure] pour le conserver pour vos générations. Afin qu'ils voient le pain avec lequel je vous ai nourris dans le désert lorsque je vous ai fait sortir du pays d'Égypte.\""
+    },
+    {
+      "ref": "Exodus 16:33",
+      "fr": "Moshe dit à Aharon : « Prends une jarre et mets-y un omer plein de manne, et place-la devant Adonoy pour qu'elle soit conservée pour tes générations. »"
+    },
+    {
+      "ref": "Exodus 16:34",
+      "fr": "Comme Adonoy l'avait ordonné à Moché, Aharon le plaça devant le Témoignage pour le conserver."
+    },
+    {
+      "ref": "Exodus 16:35",
+      "fr": "Les B’nei Yisrael ont mangé la manne pendant quarante ans, jusqu’à ce qu’ils arrivent dans un pays habité. Ils mangèrent la manne jusqu'à ce qu'ils arrivent à la limite du pays de Canaan."
+    },
+    {
+      "ref": "Exodus 16:36",
+      "fr": "Le omer est un dixième d’eiphoh [qui est trois se’in]."
+    },
+    {
+      "ref": "Exodus 17:1",
+      "fr": "Toute la communauté de B’nei Yisrael est partie du désert de Sin, voyageant selon la parole d’Adonoy. Ils campèrent à Rephidim, et il n'y avait pas d'eau à boire pour le peuple."
+    },
+    {
+      "ref": "Exodus 17:2",
+      "fr": "Les gens se disputèrent avec Moché et dirent : « Donnez-nous de l'eau à boire. » Moshe leur dit : \"Pourquoi vous disputez-vous avec moi ? Pourquoi testez-vous [devant] Adonoy ?\""
+    },
+    {
+      "ref": "Exodus 17:3",
+      "fr": "Les gens souffraient de soif à cause du manque d'eau, et ils se plaignirent contre Moshe et dirent : « Pourquoi nous as-tu fait monter d'Egypte, pour me tuer de soif, moi, mes enfants et mon bétail ?"
+    },
+    {
+      "ref": "Exodus 17:4",
+      "fr": "Moshe a crié à [prié devant] Adonoy en disant : \" Que dois-je faire pour ce peuple ? D'ici peu, ils me lapideront. \""
+    },
+    {
+      "ref": "Exodus 17:5",
+      "fr": "Adonoy dit à Moshe : \"Passe devant le peuple et prends avec toi les anciens des [B'nei] Yisrael. Le bâton avec lequel tu as frappé le fleuve ; prends-le dans ta main et va-t'en."
+    },
+    {
+      "ref": "Exodus 17:6",
+      "fr": "Voici, je me tiendrai devant toi là sur le rocher de Choreiv. Tu frapperas le rocher, et de l'eau en sortira, et le peuple boira. Moshe a fait cela sous la vue [en présence] des anciens des [B'nei] Yisrael."
+    },
+    {
+      "ref": "Exodus 17:7",
+      "fr": "Il [Moshe] a nommé l'endroit Massah et Merivah parce que les B'nei Yisrael s'étaient disputés [Merivah] et parce qu'ils avaient testé [Massah] [avant] Adonoy, en disant : « Est-ce que [la Chechina d'] Adonoy est parmi nous ou non ?"
+    },
+    {
+      "ref": "Exodus 17:8",
+      "fr": "Amaleik est venu et a combattu [une guerre] avec [B'nei] Yisrael à Rephidim."
+    },
+    {
+      "ref": "Exodus 17:9",
+      "fr": "Moshe dit à Yehoshua : \" Choisissez des hommes pour nous et partez au combat [faire la guerre avec] Amaleik. Demain, je me tiendrai au sommet de la colline avec le bâton [avec lequel les miracles ont été accomplis auparavant] de Dieu dans ma main. \""
+    },
+    {
+      "ref": "Exodus 17:10",
+      "fr": "Yehoshua a fait ce que Moshe lui a dit : combattre [faire la guerre avec] Amaleik. Moché, Aaron et Coire montèrent au sommet de la colline."
+    },
+    {
+      "ref": "Exodus 17:11",
+      "fr": "Lorsque Moshe leva la main, [(les combattants) de la Maison des] [B'nei] Yisrael l'emportèrent ; mais quand il baissa la main [pour se reposer] [(les combattants) de la maison d'] Amaleik l'emporta."
+    },
+    {
+      "ref": "Exodus 17:12",
+      "fr": "Les mains de Moshe sont devenues lourdes. Ils prirent une pierre et la placèrent sous lui et il s'assit dessus. Aharon et Coire lui soutenaient les mains, l'une d'un côté et l'autre de l'autre. Ses mains sont restées une expression de foi [pendant qu'il priait] [étaient étendues dans la prière] jusqu'au coucher du soleil."
+    },
+    {
+      "ref": "Exodus 17:13",
+      "fr": "Yehoshua affaiblit [écrasa] Amaleik et son peuple avec le tranchant de l'épée."
+    },
+    {
+      "ref": "Exodus 17:14",
+      "fr": "Adonoy dit à Moshe : « Écrivez ceci en souvenir dans le Livre, [la Torah] et répétez-le [devant] les oreilles de Yehoshua, car j'effacerai totalement la mémoire d'Amaleik de dessous les cieux."
+    },
+    {
+      "ref": "Exodus 17:15",
+      "fr": "Moshe a construit un autel et l'a appelé [il l'adorait auparavant] Adonoy nissi [Adonoy est mon miracle] [Qui avait fait des miracles pour lui]."
+    },
+    {
+      "ref": "Exodus 17:16",
+      "fr": "Il a dit [avec un serment, cette parole de devant le Génial, dont la Chekhina est sur son trône glorieux, qu'à l'avenir une guerre sera menée devant Dieu contre la maison d'Amaleik pour les détruire pour des générations à jamais.] , \"La main est sur le trône de Dieu, Adonoy sera en guerre avec Amaleik pour toutes les générations.\""
+    }
+  ]
+}

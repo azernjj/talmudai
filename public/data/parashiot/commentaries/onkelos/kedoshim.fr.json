@@ -1,0 +1,264 @@
+{
+  "name": "Kedoshim",
+  "range": "Leviticus 19:1-20:27",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/kedoshim.json",
+  "verses": [
+    {
+      "ref": "Leviticus 19:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 19:2",
+      "fr": "Parlez à toute la congrégation [de] Bnei Yisroel et dites-leur : Vous serez saints, car moi, Adonoy, votre Dieu, je suis saint."
+    },
+    {
+      "ref": "Leviticus 19:3",
+      "fr": "Un homme, tu craindras sa mère et son père et observeras mes sabbats. Je suis Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Leviticus 19:4",
+      "fr": "Ne vous tournez pas vers les [fausses] idoles et ne vous faites pas de dieux en fusion, je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 19:5",
+      "fr": "Lorsque vous égorgerez une offrande de paix [sacrée] à [devant] Adonoy, vous l'égorgerez pour qu'elle soit agréable pour vous."
+    },
+    {
+      "ref": "Leviticus 19:6",
+      "fr": "Le jour de son abattage, il peut être consommé ainsi que le lendemain. Tout ce qui restera le troisième jour sera brûlé au feu."
+    },
+    {
+      "ref": "Leviticus 19:7",
+      "fr": "Et si on en mange le troisième jour, c'est une abomination [un rejet], cela ne sera pas accepté favorablement."
+    },
+    {
+      "ref": "Leviticus 19:8",
+      "fr": "Celui qui en mangera portera son iniquité, car il a profané les [choses] sacrées d'Adonoy. Cette âme [de cette personne] sera retranchée de son peuple."
+    },
+    {
+      "ref": "Leviticus 19:9",
+      "fr": "Lorsque vous moissonnerez la moisson de votre terre, vous ne moissonnerez pas complètement un coin de votre champ, et vous ne récolterez pas le fruit de votre récolte."
+    },
+    {
+      "ref": "Leviticus 19:10",
+      "fr": "Vous ne glanerez pas votre vigne, et vous ne récolterez pas les raisins tombés de votre vigne. Pour les pauvres et les prosélytes tu les laisseras, je suis Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Leviticus 19:11",
+      "fr": "Vous ne volerez pas. Vous ne nierez pas [une réclamation légitime] et chacun de vous ne se mentira pas."
+    },
+    {
+      "ref": "Leviticus 19:12",
+      "fr": "Vous ne jurez pas faussement par Mon Nom en profanant le Nom de votre Dieu, Je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:13",
+      "fr": "Vous ne retiendrez pas le salaire de votre compatriote [Juif] et vous ne volerez pas [opprimer]. Il ne restera pas la nuit, [Vous ne retenirez pas] le salaire d'un journalier, en le gardant en votre possession jusqu'au matin."
+    },
+    {
+      "ref": "Leviticus 19:14",
+      "fr": "Vous ne maudirez pas un sourd [qui ne peut pas entendre] et vous ne placerez pas devant un aveugle [qui ne peut pas voir] une pierre d'achoppement ; tu craindras ton Dieu, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:15",
+      "fr": "Tu ne commettras pas d'injustice [mentir] en jugement, tu ne favoriseras pas un homme pauvre et tu ne feras pas honneur à un homme puissant. Avec justice [vérité] vous jugerez votre prochain [Juif]."
+    },
+    {
+      "ref": "Leviticus 19:16",
+      "fr": "Ne sois pas un conteur [« mange et cligne de l’œil »] parmi ton peuple. Vous ne devez pas rester les bras croisés [quand] le sang (la vie) de votre prochain [est en danger]. Je m'appelle Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:17",
+      "fr": "Tu ne haïras pas ton frère dans ton cœur ; Vous réprimanderez certainement votre ami ; [mais] vous ne porterez aucun péché à cause de lui."
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "fr": "Tu ne te vengeras pas et tu ne garderas pas rancune contre les enfants de ton peuple. Tu aimeras ton prochain [Juif] comme toi-même, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:19",
+      "fr": "Gardez Mes statuts ; Ne croisez pas vos animaux avec des espèces différentes. Ne semez pas votre champ avec un mélange de graines différentes. Vous ne porterez pas de vêtement contenant du shatnez [un mélange interdit de lin et de laine]."
+    },
+    {
+      "ref": "Leviticus 19:20",
+      "fr": "Si un homme couche avec une femme de manière conjugale, et qu'elle est une servante désignée pour un homme [en particulier] et qu'elle n'a certainement pas été rachetée [par de l'argent], ou que sa liberté ne lui a pas été donnée [par un document] ; il y aura une enquête, ils ne seront pas mis à mort, car sa liberté ne lui a pas été rendue."
+    },
+    {
+      "ref": "Leviticus 19:21",
+      "fr": "Il apportera son sacrifice de culpabilité à Adonoï, à l'entrée de la tente d'assignation, un bélier pour le sacrifice de culpabilité."
+    },
+    {
+      "ref": "Leviticus 19:22",
+      "fr": "Le kohein expiera pour lui avec le bélier d'offrande de culpabilité devant Adonoy pour le péché qu'il a commis et il lui sera pardonné pour le péché qu'il a commis."
+    },
+    {
+      "ref": "Leviticus 19:23",
+      "fr": "Lorsque vous entrerez dans le pays et que vous planterez un arbre produisant de la nourriture, vous considérerez ses fruits comme fermés [séparés]. [Pendant] trois ans, il vous sera fermé [séparé] [pour être détruit], il ne sera pas mangé."
+    },
+    {
+      "ref": "Leviticus 19:24",
+      "fr": "La quatrième année, tous ses fruits seront saints [pour dire] des louanges à] [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:25",
+      "fr": "La cinquième année, vous pourrez manger de ses fruits, afin qu'ils augmentent pour vous. Je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 19:26",
+      "fr": "Vous ne mangerez pas [d'offrandes sacrées] [avant que] le sang [ne soit aspergé sur l'autel]. Vous n’agirez pas sur la base de présages ni sur la base de moments propices."
+    },
+    {
+      "ref": "Leviticus 19:27",
+      "fr": "N'arrondissez pas les coins de vos têtes et vous ne détruirez pas les bords de votre barbe."
+    },
+    {
+      "ref": "Leviticus 19:28",
+      "fr": "Les entailles pour les morts ne font pas dans votre peau. Ne vous mettez pas de marques de tatouage, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:29",
+      "fr": "Tu ne souilleras pas ta fille en l'amenant à se livrer à la prostitution [err], de peur que le pays ne soit égaré et que le pays ne soit rempli d'impudicité [un plan pécheur]."
+    },
+    {
+      "ref": "Leviticus 19:30",
+      "fr": "Vous observerez [les jours de] Mon Chabbat et vous craindrez [la Maison de] Mon Sanctuaire, Je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:31",
+      "fr": "Vous ne vous tournerez pas vers les médiums ni ne chercherez les oracles ; ne les cherchez pas, au point de vous souiller par eux. Je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 19:32",
+      "fr": "En présence des personnes âgées [celui qui comprend la Torah] tu te lèveras et tu respecteras un ancien ; tu auras peur de ton Dieu, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 19:33",
+      "fr": "Si un prosélyte vient vivre [se convertit] chez vous, dans votre pays, ne lui causez pas d'angoisse."
+    },
+    {
+      "ref": "Leviticus 19:34",
+      "fr": "Comme l'un de vos indigènes [installés], il sera considéré par vous, le prosélyte qui vit avec [converti parmi] vous, et vous l'aimerez comme vous-même, car vous étiez étrangers [résidents étrangers] dans le pays d'Égypte, je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 19:35",
+      "fr": "Tu ne commettras pas d'injustice [mentir] en jugement ; en mesure [terre], en poids ou en mesure de volume."
+    },
+    {
+      "ref": "Leviticus 19:36",
+      "fr": "Juste une balance et un juste poids, une juste mesure sèche (ephah) [juste des mesures de volume] et une juste mesure liquide (hin) [juste hinin], vous aurez pour vous, je suis Adonoy, votre Dieu qui vous ai fait sortir du pays d'Égypte."
+    },
+    {
+      "ref": "Leviticus 19:37",
+      "fr": "Vous devez observer tous mes statuts et toutes mes lois, et les observer. Je m'appelle Adonoy."
+    },
+    {
+      "ref": "Leviticus 20:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 20:2",
+      "fr": "Et à Bnei Yisrael tu diras : que tout homme de Bnei Yisroel et parmi les prosélytes qui résident [se convertissent] en Israël, qui donnera l'un de ses enfants à Molech, [qu'il] sera sûrement mis à mort ; le peuple du pays [Maison d'Israël] le lapidera à mort."
+    },
+    {
+      "ref": "Leviticus 20:3",
+      "fr": "Je dirigerai ma colère sur cet homme et je le retrancherai du milieu de son peuple, car il a donné de ses enfants à Molech, afin de profaner mon sanctuaire et de profaner mon saint nom."
+    },
+    {
+      "ref": "Leviticus 20:4",
+      "fr": "Si les gens du pays [Maison d'Israël] détournent leurs yeux de cet homme lorsqu'il donne ses enfants à Molech, et qu'ils ne le mettent pas à mort."
+    },
+    {
+      "ref": "Leviticus 20:5",
+      "fr": "Je dirigerai ma colère contre cet homme et sa famille [partisans] ; Je le retrancherai, ainsi que tous ceux qui s'égarent après lui pour s'égarer après Molech, [ils seront retranchés] du milieu de leur peuple."
+    },
+    {
+      "ref": "Leviticus 20:6",
+      "fr": "Celui qui se tourne vers les médiums et les oracles pour s'égarer à leur poursuite ; Je dirigerai ma colère contre cet homme et je le retrancherai du milieu de son peuple."
+    },
+    {
+      "ref": "Leviticus 20:7",
+      "fr": "Vous devez vous sanctifier et être saints car je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 20:8",
+      "fr": "Vous devez garder mes statuts et les mettre en pratique. Je suis Adonoy qui te sanctifie."
+    },
+    {
+      "ref": "Leviticus 20:9",
+      "fr": "Tout homme qui maudira son père ou sa mère sera certainement mis à mort. [Puisque] il a maudit son père ou sa mère, son sang est sur lui [il est passible de la peine de mort]."
+    },
+    {
+      "ref": "Leviticus 20:10",
+      "fr": "Un homme qui commet un adultère avec la femme d'un autre homme, qui commet un adultère avec la femme de son prochain, seront certainement mis à mort, l'adultère et la femme adultère."
+    },
+    {
+      "ref": "Leviticus 20:11",
+      "fr": "Un homme qui veut coucher avec la femme de son père a découvert la nudité de son père ; ils seront sûrement tous deux mis à mort, leur sang est sur eux [ils sont passibles de la peine de mort]."
+    },
+    {
+      "ref": "Leviticus 20:12",
+      "fr": "Un homme qui couchera [conjugalement] avec sa belle-fille ; ils seront tous deux sûrement mis à mort, ils ont commis un acte de perversion, leur sang est sur eux [ils sont passibles de la peine de mort]."
+    },
+    {
+      "ref": "Leviticus 20:13",
+      "fr": "Un homme qui couchera [conjugalement] avec [un autre] homme, de la même manière qu'avec une femme ; ils ont tous deux commis un acte abominable, ils seront sûrement mis à mort, leur sang est sur eux [ils sont passibles de la peine de mort]."
+    },
+    {
+      "ref": "Leviticus 20:14",
+      "fr": "Un homme qui épouse une femme et sa mère ; c'est de la lubricité [un plan pécheur]. Ils seront brûlés au feu, lui et l'un d'eux, et il n'y aura plus parmi vous une telle impudicité [un projet pécheur]."
+    },
+    {
+      "ref": "Leviticus 20:15",
+      "fr": "Un homme qui couche [conjugalement] avec un animal sera certainement mis à mort, et vous tuerez également l'animal."
+    },
+    {
+      "ref": "Leviticus 20:16",
+      "fr": "Une femme qui se présente à un animal le faisant copuler avec elle [la contrôler] ; tu tueras la femme et l'animal. Ils seront sûrement tués, leur sang est sur eux [ils sont passibles de la peine de mort]."
+    },
+    {
+      "ref": "Leviticus 20:17",
+      "fr": "Un homme qui épouse sa sœur, soit la fille de son père, soit la fille de sa mère, et il voit sa nudité et elle voit sa nudité ; c'est une perversion honteuse. Ils seront retranchés devant leur peuple s'il a découvert la nudité de sa sœur, il portera [le fardeau de] son ​​iniquité."
+    },
+    {
+      "ref": "Leviticus 20:18",
+      "fr": "Un homme qui couchera [conjugalement] avec une femme en période de menstruation [impure] et découvrira sa nudité et découvrira sa source [utérus] [perversion honteuse] et elle aura découvert la source [impureté] de son sang ; ils seront tous deux retranchés du milieu de leur peuple."
+    },
+    {
+      "ref": "Leviticus 20:19",
+      "fr": "La nudité de la sœur de votre mère et de la sœur de votre père, vous ne la découvrirez pas, car il aura mis à nu la nudité de ses proches parents, ils porteront [le fardeau de] leur iniquité."
+    },
+    {
+      "ref": "Leviticus 20:20",
+      "fr": "Un homme qui couchera [conjugalement] avec sa tante [la femme du frère du père] a découvert la nudité de son oncle [le frère du père], ils porteront [le fardeau de] leur péché et ils mourront sans enfants."
+    },
+    {
+      "ref": "Leviticus 20:21",
+      "fr": "Un homme qui épousera la femme de son frère qui doit être [conjugalement] évitée [par lui] ; s'il a découvert la nudité de ses frères, ils mourront sans enfants."
+    },
+    {
+      "ref": "Leviticus 20:22",
+      "fr": "Vous observerez tous mes statuts et toutes mes lois et vous les mettrez en pratique afin que vous ne soyez pas expulsés du pays dans lequel je vous amène pour y résider."
+    },
+    {
+      "ref": "Leviticus 20:23",
+      "fr": "Vous ne suivrez pas les coutumes de la nation que j'expulse devant vous. Car ils ont commis tous ces péchés mentionnés ci-dessus et j'ai été dégoûté [ma Parole m'a éloigné] d'eux."
+    },
+    {
+      "ref": "Leviticus 20:24",
+      "fr": "Et je vous ai dit que vous hériterez de leur pays, et je vous le donnerai pour que vous en héritiez, un pays où coulent le lait et le miel. Je suis Adonoy, votre Dieu qui vous a séparé des [autres] peuples."
+    },
+    {
+      "ref": "Leviticus 20:25",
+      "fr": "Vous ferez la distinction entre un animal [rituellement] pur et un animal impur, entre un oiseau impur et un oiseau pur. Ne vous dégoûtez pas à cause des animaux, des oiseaux ou de toute créature qui rampe sur le sol, que j'ai identifiée pour vous comme étant impure."
+    },
+    {
+      "ref": "Leviticus 20:26",
+      "fr": "Vous serez saints pour Moi, car Moi, Adonoy, je suis saint et Je vous ai distingué des [autres] peuples pour être Miens [et pour Me servir] [être des adorateurs devant Moi]."
+    },
+    {
+      "ref": "Leviticus 20:27",
+      "fr": "Si parmi les hommes ou les femmes il y a un médium ou un oracle, ils seront sûrement mis à mort. Vous les lapiderez à mort, leur sang est sur eux [ils sont passibles de la peine de mort]."
+    }
+  ]
+}

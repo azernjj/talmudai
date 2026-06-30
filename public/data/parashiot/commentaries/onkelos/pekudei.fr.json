@@ -1,0 +1,376 @@
+{
+  "name": "Pekoudei",
+  "range": "Exodus 38:21-40:38",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/pekudei.json",
+  "verses": [
+    {
+      "ref": "Exodus 38:21",
+      "fr": "Ce sont les récits du mishkon, le mishkon du Témoignage, qui ont été rédigés sur ordre de Moshe ; pour le travail des Lévites sous la direction d'Isamar, fils d'Aharon le Kohein."
+    },
+    {
+      "ref": "Exodus 38:22",
+      "fr": "Betsalel, fils d'Uri, fils de Chur, de la tribu de Juda, fit tout ce qu'Adonoy ordonna à Moshe."
+    },
+    {
+      "ref": "Exodus 38:23",
+      "fr": "Avec lui était Oholiav, fils d'Achisamach, de la tribu de Dan, sculpteur [charpentier] et artisan, et brodeur en laine bleu verdâtre, laine rouge foncé, laine cramoisie [colorée] et lin fin."
+    },
+    {
+      "ref": "Exodus 38:24",
+      "fr": "Tout l’or qui a servi aux travaux dans tous les travaux du Sanctuaire. L'or donné en offrande agitée s'élevait à vingt-neuf kikar et sept cent trente sicles [selaim], (mesurés) par le [selaim de] l'étendard du sanctuaire."
+    },
+    {
+      "ref": "Exodus 38:25",
+      "fr": "L'argent (recueilli) par le recensement de la communauté (s'élevait à) cent kikar et mille sept cent soixante-quinze sicles [selaim], (mesurés) par le [selaim de] l'étendard du sanctuaire,"
+    },
+    {
+      "ref": "Exodus 38:26",
+      "fr": "un beka par personne, (l'équivalent de) un demi-shekel[sela], (mesuré) selon le [selaim de] l'étalon du sanctuaire, pour chaque personne incluse dans le recensement, à partir de l'âge de vingt ans, pour six cent trois mille cinq cent cinquante (hommes)."
+    },
+    {
+      "ref": "Exodus 38:27",
+      "fr": "Cent kikar de cet argent ont été (utilisés) pour fondre les socles du mishkon et les socles des paroches (cloison). Cent alvéoles (ont été coulées) à partir de cent kikar, un kikar pour chaque alvéole."
+    },
+    {
+      "ref": "Exodus 38:28",
+      "fr": "Sur les mille sept cent soixante-quinze (shekels) (restants), il fit des crochets pour les colonnes, superposa leurs sommets et leur fit des bandes."
+    },
+    {
+      "ref": "Exodus 38:29",
+      "fr": "Le cuivre (donné comme) une offrande agitée (s'élevait à) soixante-dix kikar et deux mille quatre cents sicles [selaim],"
+    },
+    {
+      "ref": "Exodus 38:30",
+      "fr": "dont il fit des socles pour l'entrée de la Tente d'assignation, l'autel d'airain avec sa grille d'airain, tous les ustensiles de l'autel,"
+    },
+    {
+      "ref": "Exodus 38:31",
+      "fr": "les socles autour de l'enceinte, les socles pour l'entrée de l'enceinte, tous les piquets pour le mishkon et tous les piquets autour de l'enceinte."
+    },
+    {
+      "ref": "Exodus 39:1",
+      "fr": "Avec de la laine bleu verdâtre, de la laine rouge foncé et de la laine pourpre [de couleur], ils confectionnèrent des vêtements de distinction [de service] pour le service dans le sanctuaire, et ils confectionnèrent des vêtements sacrés pour Aharon, tout comme Adonoy l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Exodus 39:2",
+      "fr": "Il fit l'éifhod avec de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie et du fin lin retors."
+    },
+    {
+      "ref": "Exodus 39:3",
+      "fr": "Ils battaient les plaques d'or et les coupaient en fils pour en faire de la laine bleu verdâtre, de la laine rouge foncé, de la laine pourpre [colorée] et du fin lin, ouvrage d'artisan."
+    },
+    {
+      "ref": "Exodus 39:4",
+      "fr": "Ils y ont fabriqué des bretelles attachées à ses deux coins [côtés]."
+    },
+    {
+      "ref": "Exodus 39:5",
+      "fr": "La ceinture de l'éifod [qui le rehausse] qui était dessus, était tissée avec lui de la même manière (que l'éifhod) (avec) de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie [de couleur] et du fin lin retors. tout comme Adonoy l'a ordonné."
+    },
+    {
+      "ref": "Exodus 39:6",
+      "fr": "Ils placèrent les pierres de shoham dans des montures en or. Elles (les pierres) étaient gravées comme la gravure d'un sceau (anneau) [avec une écriture claire], avec les noms des B'nei Yisrael."
+    },
+    {
+      "ref": "Exodus 39:7",
+      "fr": "Il les plaça sur les bretelles de l'Eifhod, comme pierres commémoratives pour les B'nei Yisrael, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 39:8",
+      "fr": "Il fit du pectoral l'ouvrage d'un artisan, de la même manière que l'éifhod était fait, (avec) de l'or, de la laine bleu verdâtre, de la laine rouge foncé, de la laine cramoisie [de couleur] et du lin fin retors."
+    },
+    {
+      "ref": "Exodus 39:9",
+      "fr": "Ils firent du pectoral un carré doublé, d'un empan dans sa longueur et d'un empan dans sa largeur."
+    },
+    {
+      "ref": "Exodus 39:10",
+      "fr": "Ils les ont remplis (les montures du pectoral) de quatre rangées de pierres [précieuses] : La première rangée : Un odem (rubis), une pitda (topaze) et des barekes (émeraude), (a été placé sur) la première rangée [une]."
+    },
+    {
+      "ref": "Exodus 39:11",
+      "fr": "La deuxième rangée : nofech (anthrax), saphir et yahalom (diamant)."
+    },
+    {
+      "ref": "Exodus 39:12",
+      "fr": "La troisième rangée : leshem (opale), shevo (agate) et ahlomo (améthyste)."
+    },
+    {
+      "ref": "Exodus 39:13",
+      "fr": "La quatrième rangée : tarshish (chrysolite), shoham (onyx) et yoshfei (jaspe). (Ils étaient) placés dans des montures en or dans leur plénitude."
+    },
+    {
+      "ref": "Exodus 39:14",
+      "fr": "Ces pierres portaient les noms des B'nei Yisrael, douze d'entre eux par leurs noms, le nom de chacun [écrit en écriture claire comme on le grave dans une chevalière] gravé comme sur une chevalière (bague), représentant les douze tribus."
+    },
+    {
+      "ref": "Exodus 39:15",
+      "fr": "Ils fabriquèrent pour le pectoral des chaînes torsadées, un ouvrage tressé en or pur."
+    },
+    {
+      "ref": "Exodus 39:16",
+      "fr": "Ils firent deux montures en or et deux anneaux en or. Ils placèrent les deux anneaux d'or aux deux coins (côtés) (supérieurs) du pectoral."
+    },
+    {
+      "ref": "Exodus 39:17",
+      "fr": "Ils mirent (attachèrent) les deux chaînes tressées en or sur les deux anneaux, aux coins [côtés] du pectoral."
+    },
+    {
+      "ref": "Exodus 39:18",
+      "fr": "Les deux extrémités des deux chaînes tressées [qui sont sur ses deux côtés] furent mises (attachées) aux deux montures, et les placèrent sur les bretelles de l'éiphod vers l'avant."
+    },
+    {
+      "ref": "Exodus 39:19",
+      "fr": "Ils firent deux anneaux d'or et les placèrent aux deux coins (côtés) (inférieurs) du pectoral, sur son bord qui était à l'intérieur de l'éifod."
+    },
+    {
+      "ref": "Exodus 39:20",
+      "fr": "Ils firent deux anneaux d'or et les placèrent sur les deux bretelles de l'éifod, en bas, vers l'avant, contre l'endroit où ils étaient joints, au-dessus de la ceinture de l'éifod."
+    },
+    {
+      "ref": "Exodus 39:21",
+      "fr": "Ils attachèrent les anneaux (inférieurs) du pectoral aux anneaux (inférieurs) de l'éifhod avec un cordon de laine bleu verdâtre, de sorte qu'il (le pectoral) reste contre la ceinture de l'éifod, afin que le pectoral ne bouge pas de l'éifhod, tout comme Adonoy l'a ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 39:22",
+      "fr": "Il confectionna la robe de l'éiphod en tissu tissé, entièrement en laine bleu verdâtre."
+    },
+    {
+      "ref": "Exodus 39:23",
+      "fr": "L'ouverture de la robe était tournée vers l'intérieur, comme l'ouverture autour d'une armure, avec une bordure tout autour de l'ouverture pour qu'elle ne se déchire pas."
+    },
+    {
+      "ref": "Exodus 39:24",
+      "fr": "Ils fabriquèrent sur l'ourlet (inférieur) de la robe des grenades en laine bleu verdâtre, en laine rouge foncé, en laine pourpre [colorée], (qui étaient) entrelacées ensemble."
+    },
+    {
+      "ref": "Exodus 39:25",
+      "fr": "Ils fabriquèrent des cloches en or pur et placèrent les cloches entre les grenades, sur l'ourlet (inférieur) de la robe tout autour, entre les grenades."
+    },
+    {
+      "ref": "Exodus 39:26",
+      "fr": "Une cloche et une grenade, une cloche et une grenade, sur l'ourlet (inférieur) de la robe tout autour, pour accomplir le service (Divin), tout comme Adonoy l'a ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 39:27",
+      "fr": "Ils confectionnèrent des tuniques de fin lin, tissées, pour Aaron et ses fils."
+    },
+    {
+      "ref": "Exodus 39:28",
+      "fr": "(Ils firent) un turban de fin lin, et des chapeaux de turban de fin lin, et des pantalons de lin, (le tout en) fin lin retors,"
+    },
+    {
+      "ref": "Exodus 39:29",
+      "fr": "(Ils fabriquèrent) la ceinture en fin lin retors, en laine bleu verdâtre, en laine rouge foncé et en laine pourpre [colorée], travail d'un brodeur, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 39:30",
+      "fr": "Ils firent un diadème, une couronne sacrée, en or pur. Ils écrivirent dessus un écrit à la manière d'un sceau (une bague) [une gravure en écriture claire] : « Saint à Adonoy »."
+    },
+    {
+      "ref": "Exodus 39:31",
+      "fr": "Ils y mirent (attaquèrent) un cordon de laine bleu verdâtre, pour l'attacher au turban par le haut, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 39:32",
+      "fr": "Ainsi fut achevé tout le travail du mishkon de la Tente du Rendez-vous. Les B’nei Yisrael ont tout fait exactement comme Adonoy l’avait ordonné à Moshe, et ils l’ont fait."
+    },
+    {
+      "ref": "Exodus 39:33",
+      "fr": "Ils apportèrent à Moché le mishkon, la tente et tous ses ustensiles, ses attaches, ses planches, ses barres, ses piliers et ses socles,"
+    },
+    {
+      "ref": "Exodus 39:34",
+      "fr": "la couverture des peaux de béliers teintes en rouge, et la couverture des peaux de tachash [multicolores], et les paroches (cloison)-écran,"
+    },
+    {
+      "ref": "Exodus 39:35",
+      "fr": "l'arche du Témoignage, ses poteaux, sa couverture,"
+    },
+    {
+      "ref": "Exodus 39:36",
+      "fr": "la table, tous ses ustensiles, les pains de proposition,"
+    },
+    {
+      "ref": "Exodus 39:37",
+      "fr": "la pure Menorah, ses lampes, les lampes à mettre en ordre, tous ses ustensiles, l'huile pour la lumière,"
+    },
+    {
+      "ref": "Exodus 39:38",
+      "fr": "l'autel d'or, l'huile d'onction, les parfums aromatisés, le paravent pour l'entrée de la tente,"
+    },
+    {
+      "ref": "Exodus 39:39",
+      "fr": "l'autel d'airain et sa grille d'airain, ses poteaux et tous ses ustensiles, la cuve et son socle,"
+    },
+    {
+      "ref": "Exodus 39:40",
+      "fr": "les rideaux de l'enceinte, ses colonnes et ses bases, le rideau de l'entrée de l'enceinte, ses cordes et ses piquets, tous les ustensiles pour le service du mishkon de la tente d'assignation,"
+    },
+    {
+      "ref": "Exodus 39:41",
+      "fr": "les vêtements de distinction [de service] pour le service dans le sanctuaire, les vêtements sacrés pour Aharon le kohein, et les vêtements de ses fils pour le service sacerdotal."
+    },
+    {
+      "ref": "Exodus 39:42",
+      "fr": "Selon tout ce qu’Adonoy a ordonné à Moshe, B’nei Yisrael a également fait tout le travail."
+    },
+    {
+      "ref": "Exodus 39:43",
+      "fr": "Moshe vit tout le travail, et voici, ils l'ont fait exactement comme Adonoy l'avait ordonné, ils l'avaient fait aussi, et Moshe les a bénis."
+    },
+    {
+      "ref": "Exodus 40:1",
+      "fr": "Adonoy a parlé à Moshe en disant."
+    },
+    {
+      "ref": "Exodus 40:2",
+      "fr": "« Le premier jour du premier mois, tu dresseras le mishkon de la tente d'assignation."
+    },
+    {
+      "ref": "Exodus 40:3",
+      "fr": "Placez-y l'arche du témoignage et étendez [couvrez] les parois (cloison) sur l'arche."
+    },
+    {
+      "ref": "Exodus 40:4",
+      "fr": "Apportez la table et mettez-la en ordre. Apportez la menorah et allumez ses lampes."
+    },
+    {
+      "ref": "Exodus 40:5",
+      "fr": "Placez l'autel d'or pour brûler l'encens [des épices], devant l'arche du témoignage. Placez le paravent à l’entrée du mishkon."
+    },
+    {
+      "ref": "Exodus 40:6",
+      "fr": "Placez l'autel des holocaustes devant l'entrée du mishkon de la tente d'assignation."
+    },
+    {
+      "ref": "Exodus 40:7",
+      "fr": "Placez la cuve entre la Tente d'assignation et l'autel, et mettez-y de l'eau."
+    },
+    {
+      "ref": "Exodus 40:8",
+      "fr": "Installez l'enceinte tout autour et installez le paravent pour l'entrée de l'enceinte."
+    },
+    {
+      "ref": "Exodus 40:9",
+      "fr": "Prenez l'huile d'onction et oignez le mishkon et tout ce qu'il contient. Sanctifiez-le ainsi que tous ses ustensiles afin qu'il devienne saint."
+    },
+    {
+      "ref": "Exodus 40:10",
+      "fr": "Oins l’autel des holocaustes et tous ses ustensiles. Sanctifiez l'autel afin que l'autel devienne le saint des saints."
+    },
+    {
+      "ref": "Exodus 40:11",
+      "fr": "Oins la cuve et sa base et sanctifie-la."
+    },
+    {
+      "ref": "Exodus 40:12",
+      "fr": "Amenez Aaron et ses fils à l'entrée de la tente d'assignation et plongez-les dans un mikvé."
+    },
+    {
+      "ref": "Exodus 40:13",
+      "fr": "Habillez Aharon avec les vêtements sacrés. Oignez-le et sanctifiez-le afin qu'il puisse servir de kohein à [devant] Moi."
+    },
+    {
+      "ref": "Exodus 40:14",
+      "fr": "Amenez ses fils et habillez-les de gilets."
+    },
+    {
+      "ref": "Exodus 40:15",
+      "fr": "Oigne-les comme tu as oint leur père, afin qu'ils puissent me servir de kohanim. Cela doit être fait pour que leur onction fasse d’eux une kehunah éternelle à travers leurs générations. »"
+    },
+    {
+      "ref": "Exodus 40:16",
+      "fr": "Moshe a fait selon tout ce qu'Adonoy lui avait commandé – c'est ce qu'il a fait."
+    },
+    {
+      "ref": "Exodus 40:17",
+      "fr": "C'est au cours du premier mois de la deuxième année, le premier jour du mois, que le mishkon fut établi."
+    },
+    {
+      "ref": "Exodus 40:18",
+      "fr": "Moshe installa le mishkon, plaça ses socles, posa ses planches, posa ses barres et installa ses piliers."
+    },
+    {
+      "ref": "Exodus 40:19",
+      "fr": "Il étendit la tente sur le mishkon et plaça la couverture de la tente dessus, comme Adonoy l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Exodus 40:20",
+      "fr": "Il prit le témoignage et le plaça dans l'arche, mit les barres sur l'arche et posa le couvercle sur l'arche."
+    },
+    {
+      "ref": "Exodus 40:21",
+      "fr": "Il a amené l'arche dans le mishkon et a fixé les paraches (cloison)-écran de sorte qu'ils recouvrent l'arche du témoignage, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 40:22",
+      "fr": "Il plaça la table dans la tente d'assignation, du côté nord du mishkon, à l'extérieur des paroches (cloison)."
+    },
+    {
+      "ref": "Exodus 40:23",
+      "fr": "Il y déposa un arrangement de pain devant Adonoy, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 40:24",
+      "fr": "Il plaça la Ménorah dans la tente d'assignation, en face de la table, du côté sud du mishkon."
+    },
+    {
+      "ref": "Exodus 40:25",
+      "fr": "Il alluma les lampes devant Adonoy, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 40:26",
+      "fr": "Il plaça l'autel d'or à l'intérieur de la Tente du Rendez-vous, devant les paroisses."
+    },
+    {
+      "ref": "Exodus 40:27",
+      "fr": "Il y brûla de l'encens et des épices, tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 40:28",
+      "fr": "Il a installé le paravent à l’entrée du mishkon."
+    },
+    {
+      "ref": "Exodus 40:29",
+      "fr": "Il plaça l'autel des holocaustes à l'entrée du mishkon de la tente d'assignation. Il y sacrifia un holocauste et une offrande de repas, comme Adonoï l'avait ordonné à Moché."
+    },
+    {
+      "ref": "Exodus 40:30",
+      "fr": "Il plaça la cuve entre la Tente d'assignation et l'autel, et y mit de l'eau pour le lavage [sanctification]."
+    },
+    {
+      "ref": "Exodus 40:31",
+      "fr": "Moché, Aharon et ses fils s'en lavèrent les mains et les pieds,"
+    },
+    {
+      "ref": "Exodus 40:32",
+      "fr": "quand ils arrivaient à la tente d'assignation et quand ils s'approchaient de l'autel, ils se lavaient [se sanctifiaient], tout comme Adonoy l'avait ordonné à Moshe."
+    },
+    {
+      "ref": "Exodus 40:33",
+      "fr": "Il installa l’enceinte autour du mishkon et de l’autel, et installa le paravent à l’entrée de l’enceinte, et ainsi Moshe acheva le travail."
+    },
+    {
+      "ref": "Exodus 40:34",
+      "fr": "La nuée couvrit la tente d'assignation, et la gloire d'Adonoy remplit le mishkon."
+    },
+    {
+      "ref": "Exodus 40:35",
+      "fr": "Moshe ne pouvait pas entrer dans la Tente de Rencontre parce que la nuée reposait dessus et que la gloire d'Adonoy remplissait le mishkon."
+    },
+    {
+      "ref": "Exodus 40:36",
+      "fr": "Lorsque le nuage s’élevait au-dessus du mishkon, les B’nei Yisrael se mettaient en route pour tous leurs voyages."
+    },
+    {
+      "ref": "Exodus 40:37",
+      "fr": "Si le nuage ne se levait pas, ils ne partiraient que le jour où il se lèverait."
+    },
+    {
+      "ref": "Exodus 40:38",
+      "fr": "Car la nuée de [la Gloire d'] Adonoy était sur le mishkon le jour, et il y avait une [vision de] feu dedans la nuit, devant les yeux de tout le Beis Yisrael, dans tous leurs voyages."
+    }
+  ]
+}

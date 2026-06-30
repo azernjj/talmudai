@@ -1,0 +1,504 @@
+{
+  "name": "Emor",
+  "range": "Leviticus 21:1-24:23",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/emor.json",
+  "verses": [
+    {
+      "ref": "Leviticus 21:1",
+      "fr": "Adonoy dit à Moshe : Parlez aux cohanim, fils d'Aharon, et vous leur direz : qu'il ne se souille pas avec les morts parmi son peuple."
+    },
+    {
+      "ref": "Leviticus 21:2",
+      "fr": "Sauf envers ses proches auxquels il est étroitement lié, pour sa mère et son père, pour son fils, sa fille et pour son frère."
+    },
+    {
+      "ref": "Leviticus 21:3",
+      "fr": "Pour sa sœur vierge, avec laquelle il est étroitement lié, qui n'a pas encore été mariée, pour elle, il peut être souillé."
+    },
+    {
+      "ref": "Leviticus 21:4",
+      "fr": "Un mari [un homme honoré parmi son peuple] ne peut pas se souiller parmi son peuple [pour une femme par laquelle] il se profane."
+    },
+    {
+      "ref": "Leviticus 21:5",
+      "fr": "Ils ne se rendront pas chauves sur la tête, ils ne raseront pas les coins de leur barbe et ils ne feront pas d'entailles dans leur chair."
+    },
+    {
+      "ref": "Leviticus 21:6",
+      "fr": "Ils seront saints pour [devant] leur Dieu et ils ne profaneront pas le nom de leur Dieu, car [ce sont] les offrandes par le feu [offrandes] d'Adonoy, le pain [sacrifice] de leur Dieu [qu'ils] apportent [offrent], et ils doivent [donc] être saints."
+    },
+    {
+      "ref": "Leviticus 21:7",
+      "fr": "Ils ne se marieront pas avec une prostituée ou avec une femme profanée. Ils ne se marieront pas avec une femme divorcée de son mari, car il est saint pour son Dieu."
+    },
+    {
+      "ref": "Leviticus 21:8",
+      "fr": "Tu le sanctifieras, car il offre le pain [sacrifice] de ton Dieu ; il vous sera saint, car moi, Adonoy, je suis saint, qui vous sanctifie."
+    },
+    {
+      "ref": "Leviticus 21:9",
+      "fr": "La fille d’un kohein, qui se profane par fornication [égarement] – elle profane son père – [elle devient profane par rapport à la sainteté de son père], elle sera brûlée par le feu."
+    },
+    {
+      "ref": "Leviticus 21:10",
+      "fr": "Le kohein qui est le plus grand parmi ses frères sur la tête duquel a été versée l'huile d'onction [qui inaugure la grandeur] ; dont les mains [sacrifices] ont été consacrées [offertes] pour revêtir les vêtements spéciaux ; il ne laissera pas ses cheveux pousser en désordre et il ne déchirera pas ses vêtements."
+    },
+    {
+      "ref": "Leviticus 21:11",
+      "fr": "Et il ne doit pas entrer à côté d'un cadavre. Pour son père et sa mère, il ne deviendra pas [rituellement] impur."
+    },
+    {
+      "ref": "Leviticus 21:12",
+      "fr": "Il ne quittera pas le Sanctuaire et il ne profanera pas le Sanctuaire de ses Dieux, car la couronne de l'huile d'onction de ses Dieux [qui inaugure la grandeur] est sur lui, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 21:13",
+      "fr": "Il épousera [seulement] une vierge."
+    },
+    {
+      "ref": "Leviticus 21:14",
+      "fr": "Une veuve, une divorcée, une femme profanée ou une prostituée [celle qui s'égare] ; il ne peut épouser aucun d'entre eux. Mais il ne peut se marier qu'avec une vierge issue de son propre peuple."
+    },
+    {
+      "ref": "Leviticus 21:15",
+      "fr": "Il ne profanera pas sa postérité parmi son peuple, car je suis Adonoy, qui le sanctifie."
+    },
+    {
+      "ref": "Leviticus 21:16",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 21:17",
+      "fr": "Parlez à Aaron en disant : Aucun de vos descendants, à travers [toutes] leurs générations, qui aura un défaut, ne s'approchera pour offrir le pain [sacrifice] de [devant] son ​​Dieu."
+    },
+    {
+      "ref": "Leviticus 21:18",
+      "fr": "Car quiconque a un défaut ne s’approchera pas ; un aveugle ou un boiteux, ou un homme au nez enfoncé, ou un homme qui a des membres disproportionnés."
+    },
+    {
+      "ref": "Leviticus 21:19",
+      "fr": "ou un homme qui a un pied cassé (infirme) ou une main cassée (infirme),"
+    },
+    {
+      "ref": "Leviticus 21:20",
+      "fr": "ou un avec des sourcils pendants, ou avec une cataracte, ou un désordre [dans l'œil], ou un avec de la gale ou des croûtes, ou un avec des testicules écrasés."
+    },
+    {
+      "ref": "Leviticus 21:21",
+      "fr": "Tout homme qui a un défaut et qui est descendant d'Aharon le Kohein ne s'approchera pas pour offrir les offrandes consumées par le feu d'Adonoy. Il a un défaut ; il ne peut pas s'approcher du pain [sacrifice] de son Dieu pour l'offrir [en offrande]."
+    },
+    {
+      "ref": "Leviticus 21:22",
+      "fr": "Il mangera du pain très saint de son Dieu, et des offrandes saintes."
+    },
+    {
+      "ref": "Leviticus 21:23",
+      "fr": "Cependant, il ne peut pas entrer au-delà du rideau et il ne s'approchera pas de l'autel car il a un défaut et il ne profanera pas mes choses saintes, car je suis Adonoy, qui les sanctifie."
+    },
+    {
+      "ref": "Leviticus 21:24",
+      "fr": "Moshe dit [ces paroles] à Aaron, à ses fils et à tous les Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 22:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 22:2",
+      "fr": "Parle à Aaron et à ses fils et qu'ils s'éloignent des saintes offrandes de Bnei Yisroel et ils ne profaneront pas mon saint nom pour lequel ils sanctifient [devant] moi, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:3",
+      "fr": "Dites-leur : à travers vos générations ; toute personne de votre progéniture qui s'approchera des choses saintes que Bnei Yisroel sanctifiera [devant] Adonoy [pendant que] son ​​impureté est sur lui, cette âme [personne] sera retranchée de Ma Présence, Je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:4",
+      "fr": "Tout homme issu de la descendance d'Aharons ; Celui qui souffre de tsoraas [le fléau de « l’emprisonnement »] ou d’un flux impur ne peut pas manger des choses sacrées jusqu’à ce qu’il se soit purifié. [Il en est de même] de quiconque touche à quelque chose souillé par [l'âme] morte, ou de quiconque a eu une émission séminale,"
+    },
+    {
+      "ref": "Leviticus 22:5",
+      "fr": "ou quiconque touche un animal rampant qui lui cause de l'impureté, ou toute personne qui lui donne de l'impureté, [avec] n'importe quelle impureté qu'il possède."
+    },
+    {
+      "ref": "Leviticus 22:6",
+      "fr": "Quiconque touchera [cette personne] sera impur jusqu'au soir. Il ne mangera des choses saintes que s'il s'est lavé le corps dans l'eau."
+    },
+    {
+      "ref": "Leviticus 22:7",
+      "fr": "Quand le soleil se couche, il est pur, et ensuite il peut manger des choses saintes, car c'est son pain."
+    },
+    {
+      "ref": "Leviticus 22:8",
+      "fr": "Un animal mort tout seul, ou un animal mortellement mutilé, il ne doit pas manger pour se souiller avec, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:9",
+      "fr": "Ils garderont ma charge [la charge de ma Parole] de peur qu'ils ne portent [le fardeau] du péché et n'en meurent pour l'avoir profané. Je suis Adonoy qui les rend saints."
+    },
+    {
+      "ref": "Leviticus 22:10",
+      "fr": "Aucun étranger (non-kohein) ne peut manger des choses saintes. Celui qui est sous contrat avec un kohein et celui qui est embauché [par un kohein] ne peut pas manger d'offrandes sacrées."
+    },
+    {
+      "ref": "Leviticus 22:11",
+      "fr": "Si un kohein achète une personne [comme esclave, cette personne est] sa possession monétaire. Il pourra en manger, et les [esclaves] nés dans sa maison pourront manger de son pain."
+    },
+    {
+      "ref": "Leviticus 22:12",
+      "fr": "Lorsqu'une fille kohein épouse un non-kohein, elle ne peut pas manger les portions sacrées de terumah [séparées]."
+    },
+    {
+      "ref": "Leviticus 22:13",
+      "fr": "Si la fille d'un kohein est veuve ou divorcée, qu'elle n'a pas d'enfants et qu'elle retourne dans la maison de son père comme dans sa jeunesse, elle peut manger du pain de son père. Aucun non-kohein ne peut en manger."
+    },
+    {
+      "ref": "Leviticus 22:14",
+      "fr": "Si un homme mange par inadvertance une offrande sacrée, il ajoutera un cinquième à sa valeur et donnera au kohein la chose sainte."
+    },
+    {
+      "ref": "Leviticus 22:15",
+      "fr": "Ils ne profaneront pas les choses saintes de Bnei Yisroel pour lesquelles ils ont désigné [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:16",
+      "fr": "Ils se chargent du péché de leur culpabilité lorsqu'ils mangent leurs choses saintes [dans l'impureté], car je suis Adonoy, qui les sanctifie."
+    },
+    {
+      "ref": "Leviticus 22:17",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 22:18",
+      "fr": "Parle à Aaron et à ses fils et à tous les Bnei Yisroel et dis-leur : tout homme de la maison d'Israël et parmi les prosélytes d'Israël qui apportera son offrande pour l'un de leurs vœux ou pour l'une de leurs offrandes volontaires qu'ils apporteront à [devant] Adonoy, pour un holocauste."
+    },
+    {
+      "ref": "Leviticus 22:19",
+      "fr": "Pour être accepté, il faut qu'il s'agisse d'un mâle sans défaut de bétail, de mouton ou de chèvre."
+    },
+    {
+      "ref": "Leviticus 22:20",
+      "fr": "Vous n’apporterez rien de ce qui présente un défaut, car cela ne vous sera pas favorable."
+    },
+    {
+      "ref": "Leviticus 22:21",
+      "fr": "Si un homme apporte une offrande de paix [sacrée] à [devant] Adonoy, pour accomplir un vœu exprimé ou une offrande volontaire de bétail ou de mouton, elle sera sans tache, afin qu'elle soit favorablement acceptée. Il n'y aura aucun défaut."
+    },
+    {
+      "ref": "Leviticus 22:22",
+      "fr": "Un animal aveugle, aux membres cassés, fêlés ou verruqueux ; ou [un animal] avec des gales ou des croûtes, vous ne les amènerez pas à [devant] Adonoy ; et vous n'en déposerez pas comme sacrifice par le feu sur l'autel d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:23",
+      "fr": "Un bœuf ou un agneau avec un membre plus grand [ou plus petit] que l'autre ou avec des sabots non fendus [un membre plus petit que l'autre], vous le ferez (l'offrirez) en offrande volontaire [au trésor du temple] [mais] pour [l'accomplissement d'] un vœu, il ne sera pas accepté favorablement."
+    },
+    {
+      "ref": "Leviticus 22:24",
+      "fr": "[Un animal dont les testicules] sont écrasés, mutilés, déchirés ou coupés, vous ne l'amenerez pas à [devant] Adonoy et vous ne ferez pas de telles blessures dans votre pays."
+    },
+    {
+      "ref": "Leviticus 22:25",
+      "fr": "Et de la main d'un étranger [païen], vous n'apporterez pas (d'offrir) le pain [offrande] de votre Dieu de la part d'aucun d'entre eux, car ils leur ont infligé des blessures ; ils ne seront pas acceptés favorablement pour vous."
+    },
+    {
+      "ref": "Leviticus 22:26",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 22:27",
+      "fr": "Un bœuf, un agneau ou une chèvre, à sa naissance, restera avec sa mère pendant sept jours. À partir du huitième jour, il pourra être favorablement accepté comme sacrifice, comme offrande par le feu à [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:28",
+      "fr": "Vous ne tuerez pas un bœuf ou un agneau, ni sa progéniture en un seul jour."
+    },
+    {
+      "ref": "Leviticus 22:29",
+      "fr": "Lorsque vous sacrifierez une offrande de remerciement à [devant] Adonoy, afin qu'elle soit favorablement acceptée pour vous, vous la sacrifierez."
+    },
+    {
+      "ref": "Leviticus 22:30",
+      "fr": "Ce jour-là [où il est sacrifié], vous en mangerez ; tu n'en laisseras rien jusqu'au lendemain matin, je m'appelle Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:31",
+      "fr": "Tu préserveras mes commandements et les accompliras, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 22:32",
+      "fr": "Vous ne profanerez pas mon saint Nom ; mais je serai sanctifié parmi les Bnei Yisroel. Je suis Adonoy qui vous sanctifie."
+    },
+    {
+      "ref": "Leviticus 22:33",
+      "fr": "Qui t'ai fait sortir du pays d'Égypte pour être ton Dieu, je suis Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 23:2",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : les temps fixés d'Adonoy, que vous proclamerez [les faire] [se produire] comme de saintes assemblées [événements] ; ce sont Mes temps fixés."
+    },
+    {
+      "ref": "Leviticus 23:3",
+      "fr": "Le travail doit être effectué pendant six jours ; et le septième jour est un Chabbat de repos, une sainte assemblée [événement]. Vous ne ferez aucun travail, c'est un Chabbat pour [devant] Adonoy dans toutes vos demeures."
+    },
+    {
+      "ref": "Leviticus 23:4",
+      "fr": "Ce sont les temps fixés d'Adonoy, les saintes assemblées [événements] que vous proclamerez [les fera] [arriver] aux temps fixés."
+    },
+    {
+      "ref": "Leviticus 23:5",
+      "fr": "Le premier mois (Nisan), le quatorzième jour du mois dans l'après-midi, est une Pessa'h (offrande) pour [avant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:6",
+      "fr": "Le quinzième jour de ce mois, c'est la fête des matzos, pour [avant] Adonoy ; pendant sept jours, vous mangerez des matzos [matzoh]."
+    },
+    {
+      "ref": "Leviticus 23:7",
+      "fr": "Le premier jour, il y aura pour vous un jour de sainte assemblée ; vous ne ferez aucune œuvre de travail."
+    },
+    {
+      "ref": "Leviticus 23:8",
+      "fr": "Vous apporterez une offrande par le feu à [une offrande devant] Adonoy [chacun des] sept jours. Le septième jour, c'est [un jour] de sainte assemblée [événement] ; vous ne ferez aucune œuvre de travail."
+    },
+    {
+      "ref": "Leviticus 23:9",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 23:10",
+      "fr": "Parlez aux Bnei Yisroel et dites-leur : Quand tu entreras dans le pays que je te donne et que tu en récolteras la récolte, tu apporteras un omer des prémices de ta récolte au kohein."
+    },
+    {
+      "ref": "Leviticus 23:11",
+      "fr": "Il agitera [lèvera] le omer devant Adonoy afin qu'il soit favorablement accepté pour vous. Le lendemain du jour de repos (Pessah), le kohein l'agitera [le soulèvera]."
+    },
+    {
+      "ref": "Leviticus 23:12",
+      "fr": "Le jour où vous agiterez le omer, vous préparerez un agneau d'un an, mâle, sans défaut, en holocauste, pour [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:13",
+      "fr": "Son offrande de repas est constituée de deux dixièmes de farine mélangée à de l'huile [d'olive], en offrande par le feu à [une offrande devant] Adonoy, d'agréable odeur [à accepter avec faveur]. Son offrande de vin est d'un quart de hin."
+    },
+    {
+      "ref": "Leviticus 23:14",
+      "fr": "Vous ne mangerez pas de pain, de grain desséché ou de grain tendre [moulu] jusqu'à ce jour même, jusqu'à ce que vous apportiez l'offrande de votre Dieu ; c'est une loi éternelle pour toutes vos générations, dans toutes vos demeures."
+    },
+    {
+      "ref": "Leviticus 23:15",
+      "fr": "À partir du lendemain du jour de repos (Pessa'h), à partir du jour où vous apporterez l'offrande élevée du omer, vous compterez sept semaines complètes,"
+    },
+    {
+      "ref": "Leviticus 23:16",
+      "fr": "Jusqu'au lendemain de la septième semaine, tu compteras cinquante jours, et tu apporteras une nouvelle offrande de gâteau à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:17",
+      "fr": "Vous apporterez du [pays de] vos demeures deux offrandes de pain agitées ; ils seront de deux dixièmes de farine. Tu les feras cuire au levain, comme offrande de prémices à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:18",
+      "fr": "Tu apporteras, avec le pain, sept agneaux d'un an, sans défaut, un jeune taureau et deux béliers ; ils constitueront un holocauste pour [devant] Adonoy, avec leurs offrandes de farine et de vin, un sacrifice par feu d'une agréable odeur pour [une offrande qui est acceptée avec faveur devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:19",
+      "fr": "Vous préparerez un bouc en sacrifice pour le péché et deux agneaux d'un an en sacrifice de paix."
+    },
+    {
+      "ref": "Leviticus 23:20",
+      "fr": "Le kohein les agitera [les lèvera] avec le pain de l'offrande des prémices comme une offrande agitée [une offrande élevée] devant Adonoy avec les deux agneaux ; ils seront saints pour [devant] Adonoy, pour le kohein."
+    },
+    {
+      "ref": "Leviticus 23:21",
+      "fr": "Vous proclamerez [faire en sorte que cela se produise] aujourd'hui même ; ce sera pour vous un [jour de] sainte assemblée [événement], vous ne ferez aucun ouvrage de travail. C'est une loi éternelle dans toutes vos demeures, à travers vos générations."
+    },
+    {
+      "ref": "Leviticus 23:22",
+      "fr": "Lorsque vous récolterez la moisson de votre terre, vous ne couperez pas complètement un coin de votre champ lorsque vous moissonnerez. Vous ne récolterez pas le glanage de votre récolte. Tu les laisseras aux pauvres et aux prosélytes, je suis Adonoy, ton Dieu."
+    },
+    {
+      "ref": "Leviticus 23:23",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 23:24",
+      "fr": "Parlez à Bnei Yisroel et dites : le septième mois, le premier du mois, ce sera pour vous un jour de repos. Un souvenir du son [cri] [du shofor], d'une sainte assemblée [événement]."
+    },
+    {
+      "ref": "Leviticus 23:25",
+      "fr": "Tu ne feras aucun ouvrage de travail et tu apporteras une offrande par le feu à [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:26",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 23:27",
+      "fr": "En effet, le dixième jour de ce septième mois est un jour d'expiation. Ce sera pour vous un [jour de] sainte assemblée [d'événement] et vous vous affligerez et vous apporterez une offrande par le feu à [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:28",
+      "fr": "Vous ne ferez aucun travail aujourd'hui même, car c'est un jour d'expiation, pour vous expier devant Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 23:29",
+      "fr": "Car quiconque ne sera pas affligé aujourd’hui sera retranché de son peuple."
+    },
+    {
+      "ref": "Leviticus 23:30",
+      "fr": "Quiconque accomplira un travail aujourd'hui même, je le ferai périr du milieu de son peuple."
+    },
+    {
+      "ref": "Leviticus 23:31",
+      "fr": "Vous ne ferez aucun travail ; c'est une loi éternelle pour toutes vos générations, dans toutes vos demeures."
+    },
+    {
+      "ref": "Leviticus 23:32",
+      "fr": "C'est pour vous un Chabbat de repos complet et vous vous affligerez le soir du neuvième jour du mois ; de soir en soir tu te reposeras, ton jour de repos."
+    },
+    {
+      "ref": "Leviticus 23:33",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 23:34",
+      "fr": "Parlez à Bnei Yisroel en disant : le quinzième jour de ce septième mois est la fête de Souccot pendant sept jours, pour [avant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:35",
+      "fr": "Le premier jour [il y aura] une sainte assemblée [événement] ; vous ne ferez aucune œuvre de travail."
+    },
+    {
+      "ref": "Leviticus 23:36",
+      "fr": "Pendant sept jours, tu apporteras un sacrifice par le feu à [une offrande devant] Adonoy ; le huitième jour sera pour vous une sainte assemblée, et vous apporterez une offrande par le feu à [une offrande devant] Adonoy. C'est [un jour] de convocation. vous ne ferez aucune œuvre de travail."
+    },
+    {
+      "ref": "Leviticus 23:37",
+      "fr": "Ce sont les temps fixés pour Adonoy que vous proclamerez [pour qu'ils se produisent] [comme] des assemblées saintes [événements], au cours desquels vous apporterez une offrande par le feu à [une offrande devant] Adonoy ; un holocauste et une offrande de repas, un sacrifice [sacré] et des offrandes de vin, chacun à son jour assigné,"
+    },
+    {
+      "ref": "Leviticus 23:38",
+      "fr": "En plus des [offrandes des] Chabbasos d'Adonoy et en plus de vos cadeaux et en plus de toutes vos offrandes de vœux et en plus de toutes vos offrandes volontaires que vous donnerez à [devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 23:39",
+      "fr": "En effet, le quinzième jour du septième mois, lorsque vous récolterez les produits du pays, vous célébrerez la fête d'Adonoy pendant sept jours. Le premier jour est un jour de repos et le huitième jour est un jour de repos."
+    },
+    {
+      "ref": "Leviticus 23:40",
+      "fr": "Vous prendrez pour vous, le premier jour, le fruit du bel arbre (esrog) [esrogim], une branche de palmier (lulav) [lulavim], des branches d'arbres à feuilles épaisses (hadasim) et des saules du ruisseau (aravos), et vous vous réjouirez devant Adonoy, votre Dieu, pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 23:41",
+      "fr": "Vous le célébrerez comme une fête devant Adonoy sept jours par an ; c'est une loi éternelle pour vos générations. Le septième mois, vous le célébrerez."
+    },
+    {
+      "ref": "Leviticus 23:42",
+      "fr": "Vous habiterez dans les [abris] Souccots sept jours, tout Israélite né [installé] habitera dans les [abris] Souccots."
+    },
+    {
+      "ref": "Leviticus 23:43",
+      "fr": "Afin que vos générations sachent que dans les [nuages ​​d'abri] Souccots, j'ai fait demeurer Bnei Yisroel lorsque je les ai fait sortir du pays d'Égypte. Je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 23:44",
+      "fr": "Et ainsi Moshe déclara [l'ordre des] temps fixés d'Adonoy [et les enseigna] à Bnei Yisroel."
+    },
+    {
+      "ref": "Leviticus 24:1",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 24:2",
+      "fr": "Ordonnez à Bnei Yisroel de vous apporter (de vous apporter) de l'huile d'olive pure et pressée pour l'éclairage afin que la lampe [les lampes] reste allumée en permanence."
+    },
+    {
+      "ref": "Leviticus 24:3",
+      "fr": "En dehors du rideau du témoignage, qui est à l'intérieur de la tente d'assignation, Aharon le disposera [pour qu'il brûle] du soir au matin devant Adonoy, continuellement ; comme une loi éternelle pour vos générations."
+    },
+    {
+      "ref": "Leviticus 24:4",
+      "fr": "Au sommet de la menorah pure, il disposera constamment les lumières devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 24:5",
+      "fr": "Tu prendras de la fine farine et tu feras douze pains, chaque pain individuel fera deux dixièmes [d'épha]."
+    },
+    {
+      "ref": "Leviticus 24:6",
+      "fr": "Vous les placerez en deux piles, six dans chaque pile sur la Table Pure, devant Adonoy."
+    },
+    {
+      "ref": "Leviticus 24:7",
+      "fr": "Tu mettras de l'encens pur sur [chaque] meule et ce sera comme une part commémorative pour le pain, comme un sacrifice par le feu, pour [une offrande devant] Adonoy."
+    },
+    {
+      "ref": "Leviticus 24:8",
+      "fr": "À chaque Chabbat, il les arrangera devant Adonoy, continuellement, depuis [avant] Bnei Yisroel comme une alliance éternelle."
+    },
+    {
+      "ref": "Leviticus 24:9",
+      "fr": "Il appartiendra à Aaron et à ses fils, et ils le mangeront dans un lieu sacré, car c'est pour lui une chose très sainte, parmi les sacrifices par le feu [offrandes] d'Adonoy, comme une loi éternelle."
+    },
+    {
+      "ref": "Leviticus 24:10",
+      "fr": "Le fils d'une femme israélite sortit, et c'était le fils d'un Égyptien, parmi les Bnei Yisroel. Ils se disputèrent dans le camp, le fils de la femme israélite et l'homme israélite."
+    },
+    {
+      "ref": "Leviticus 24:11",
+      "fr": "Le fils de la femme israélite prononça clairement le nom [de Dieu] et blasphéma [provoquant la colère] et ils l'amenèrent à Moshe. Le nom de sa mère était Shlomis, fille de Divri, de la tribu de Dan."
+    },
+    {
+      "ref": "Leviticus 24:12",
+      "fr": "Ils l'ont placé dans le poste de garde jusqu'à ce que [sa peine] leur soit expliquée par la [loi de la] parole d'Adonoy."
+    },
+    {
+      "ref": "Leviticus 24:13",
+      "fr": "Adonoy parla à Moshe, disant :"
+    },
+    {
+      "ref": "Leviticus 24:14",
+      "fr": "Emmenez le blasphémateur hors du camp, et tous ceux qui l'auront entendu lui poseront les mains sur la tête, et toute l'assemblée le lapidera."
+    },
+    {
+      "ref": "Leviticus 24:15",
+      "fr": "Et tu parleras à Bnei Yisroel, en disant : Quiconque blasphèmera [provoquera la colère devant] son ​​Dieu portera [le fardeau de] son ​​péché."
+    },
+    {
+      "ref": "Leviticus 24:16",
+      "fr": "Celui qui prononce clairement le Nom d'Adonoy [et blasphème] sera sûrement mis à mort. Toute la congrégation le lapidera sûrement. Le prosélyte et le natif [installé] lorsqu'il énonce clairement le Nom, seront mis à mort."
+    },
+    {
+      "ref": "Leviticus 24:17",
+      "fr": "Tout homme qui tue un être humain doit sûrement être mis à mort."
+    },
+    {
+      "ref": "Leviticus 24:18",
+      "fr": "Celui qui tue un animal devra payer pour cela, [la compensation] animal pour animal."
+    },
+    {
+      "ref": "Leviticus 24:19",
+      "fr": "Celui qui mutile son prochain comme lui l'a fait, il lui sera fait ainsi."
+    },
+    {
+      "ref": "Leviticus 24:20",
+      "fr": "[Indemnisation pour] un os cassé [en échange] pour un os cassé, [indemnisation pour] la perte d'un œil [en échange] pour la perte d'un œil, [indemnisation pour] la perte d'une dent [en échange] pour la perte d'une dent ; tout comme il a mutilé l'homme, ainsi cela lui sera-t-il fait [monétairement]."
+    },
+    {
+      "ref": "Leviticus 24:21",
+      "fr": "Celui qui frappe [tue] un animal devra en payer le prix. Quiconque frappe [tue] une personne sera mis à mort."
+    },
+    {
+      "ref": "Leviticus 24:22",
+      "fr": "Une règle s'appliquera à vous tous, tout comme elle l'est au prosélyte, ainsi en sera-t-il à celui qui est né dans le pays [celui qui est sédentaire], car je suis Adonoy, votre Dieu."
+    },
+    {
+      "ref": "Leviticus 24:23",
+      "fr": "Moshe a parlé à Bnei Yisroel et ils ont emmené le blasphémateur [celui qui a provoqué la colère], au-delà du camp et ils l'ont lapidé avec une pierre. Et Bnei Yisroel fit exactement ce qu'Adonoy avait ordonné à Moshe."
+    }
+  ]
+}

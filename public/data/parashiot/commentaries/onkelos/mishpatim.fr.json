@@ -1,0 +1,480 @@
+{
+  "name": "Mishpatim",
+  "range": "Exodus 21:1-24:18",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/mishpatim.json",
+  "verses": [
+    {
+      "ref": "Exodus 21:1",
+      "fr": "Et ce sont les lois que vous leur présenterez."
+    },
+    {
+      "ref": "Exodus 21:2",
+      "fr": "Si vous achetez un esclave hébreu [qui est un fils d'un Hébreu], il [vous] servira pendant six ans, mais la septième [année], il sortira libre, pour rien [sans responsabilité]."
+    },
+    {
+      "ref": "Exodus 21:3",
+      "fr": "S'il est venu seul [célibataire], il sortira seul. S'il était marié, sa femme sortira avec lui."
+    },
+    {
+      "ref": "Exodus 21:4",
+      "fr": "Si son maître lui donne une femme et qu'elle lui donne des fils ou des filles, alors la femme et ses enfants appartiendront à son maître, et il sortira seul."
+    },
+    {
+      "ref": "Exodus 21:5",
+      "fr": "Si l’esclave dit explicitement : « J’en suis venu à aimer mon maître, ma femme et mes enfants, je ne veux pas sortir libre »."
+    },
+    {
+      "ref": "Exodus 21:6",
+      "fr": "Son maître doit le conduire devant les juges. Il devra alors l'amener près de la porte, ou jusqu'au montant de la porte, et son maître lui percera l'oreille avec un poinçon. Il sert alors son maître [sera pour lui un serviteur ouvrier] pour toujours."
+    },
+    {
+      "ref": "Exodus 21:7",
+      "fr": "Si un homme vend sa fille pour être servante, elle ne sortira pas [libre] comme les esclaves mâles."
+    },
+    {
+      "ref": "Exodus 21:8",
+      "fr": "Si elle déplaît à son maître, qui ne l'avait pas désignée pour épouse, il doit permettre qu'elle soit rachetée. Il n'a pas le pouvoir [le droit] de la vendre à un peuple étranger [un autre homme] car il l'a manipulée de manière trompeuse."
+    },
+    {
+      "ref": "Exodus 21:9",
+      "fr": "S'il l'a désignée comme épouse de son fils, il doit lui accorder exactement les mêmes droits qu'aux filles [d'Israël]."
+    },
+    {
+      "ref": "Exodus 21:10",
+      "fr": "S'il prend une autre [épouse], il ne doit pas diminuer sa subsistance, ses vêtements et ses droits conjugaux."
+    },
+    {
+      "ref": "Exodus 21:11",
+      "fr": "S'il ne lui fait pas ces trois choses, elle sort libre, sans remboursement d'argent."
+    },
+    {
+      "ref": "Exodus 21:12",
+      "fr": "Si quelqu'un frappe un homme et qu'il meurt, il sera mis à mort."
+    },
+    {
+      "ref": "Exodus 21:13",
+      "fr": "Mais s'il ne lui a pas tendu une embuscade, mais que Dieu l'a amené entre ses mains, alors je vous désignerai un endroit où il pourra fuir et trouver refuge."
+    },
+    {
+      "ref": "Exodus 21:14",
+      "fr": "Mais si un homme complote contre son prochain pour le tuer intentionnellement, vous pourrez le retirer de Mon autel pour le mettre à mort."
+    },
+    {
+      "ref": "Exodus 21:15",
+      "fr": "Quiconque frappera son père ou sa mère sera mis à mort."
+    },
+    {
+      "ref": "Exodus 21:16",
+      "fr": "Quiconque vole [enlève] un homme [une personne de B'nei Yisrael] et le vend, s'il est retrouvé entre ses mains, il sera mis à mort."
+    },
+    {
+      "ref": "Exodus 21:17",
+      "fr": "Quiconque maudira son père ou sa mère sera mis à mort."
+    },
+    {
+      "ref": "Exodus 21:18",
+      "fr": "Lorsque des hommes se disputent et qu'un homme frappe son semblable avec une pierre ou avec [son] poing ; et il [la victime] ne meurt pas mais reste cloué au lit [tombe dans l'oisiveté],"
+    },
+    {
+      "ref": "Exodus 21:19",
+      "fr": "S'il se relève et peut marcher dehors par ses propres moyens, celui qui l'a frappé sera acquitté. Pourtant, il doit payer pour sa perte de travail et pour sa guérison complète [les honoraires du médecin]."
+    },
+    {
+      "ref": "Exodus 21:20",
+      "fr": "Si un homme frappe son esclave, mâle ou femelle, avec une verge [pouvoir], et que [l'esclave] meurt sous sa main, [la mort] doit être vengée [jugée]."
+    },
+    {
+      "ref": "Exodus 21:21",
+      "fr": "Mais s’il [l’esclave] survit un jour ou deux, [sa mort] n’est pas vengée [jugée], car il [l’esclave] est la propriété de son [maître]."
+    },
+    {
+      "ref": "Exodus 21:22",
+      "fr": "Si des hommes se battent et frappent une femme enceinte, provoquant une fausse couche, mais qu'il n'y ait pas de blessure mortelle [pour la femme], il [le coupable] sera puni d'une peine [pécuniaire] lorsque le mari exige une compensation. Il paiera tel que déterminé par les juges."
+    },
+    {
+      "ref": "Exodus 21:23",
+      "fr": "Cependant, s'il y a une blessure mortelle, vous renoncerez à une vie pour une vie."
+    },
+    {
+      "ref": "Exodus 21:24",
+      "fr": "[Compensation] œil pour œil, [de] dent pour dent, [de] main pour main, [de] pied pour pied."
+    },
+    {
+      "ref": "Exodus 21:25",
+      "fr": "[Compensation de] brûlure pour brûlure, [de] blessure pour blessure, [de] ecchymose [coup] pour ecchymose [coup]."
+    },
+    {
+      "ref": "Exodus 21:26",
+      "fr": "Si un homme frappe l'œil de son esclave ou l'œil de sa servante et le détruit [aveugle], il le rendra [l'esclave] libre en compensation de l'œil."
+    },
+    {
+      "ref": "Exodus 21:27",
+      "fr": "S'il fait tomber la dent de son esclave, ou s'il fait tomber la dent de sa servante, il le rendra libre en compensation de la dent."
+    },
+    {
+      "ref": "Exodus 21:28",
+      "fr": "Si un bœuf encorne un homme ou une femme et que la victime meurt, le bœuf sera lapidé [à mort] et sa chair ne pourra pas être mangée. Le propriétaire du bœuf restera impuni."
+    },
+    {
+      "ref": "Exodus 21:29",
+      "fr": "Mais si le bœuf a encorné hier et avant-hier et qu'un avertissement a été donné à son propriétaire, mais que celui-ci n'a pas pris les précautions nécessaires pour le garder et qu'il tue un homme ou une femme, le bœuf doit être lapidé, et le propriétaire aussi mourra [par décret divin]."
+    },
+    {
+      "ref": "Exodus 21:30",
+      "fr": "Lorsqu'une amende d'expiation lui sera infligée, il devra donner pour le rachat de son âme la somme qui lui sera imposée."
+    },
+    {
+      "ref": "Exodus 21:31",
+      "fr": "Qu'il s'agisse d'un fils [un garçon mineur] [d'Israël] qui est encorné [par le bœuf] ou d'une fille [une fille mineure] [d'Israël] qu'il a encorné, cette loi s'appliquera à lui."
+    },
+    {
+      "ref": "Exodus 21:32",
+      "fr": "Si le bœuf encorne un esclave, homme ou femme, il doit donner trente shekalim (selaim) d'argent à leur maître, et le bœuf doit être lapidé."
+    },
+    {
+      "ref": "Exodus 21:33",
+      "fr": "Si un homme découvre une fosse, ou si un homme creuse une fosse et ne la couvre pas, et qu'un bœuf ou un âne y tombe ;"
+    },
+    {
+      "ref": "Exodus 21:34",
+      "fr": "Le propriétaire de la fosse doit payer. Il doit indemniser son propriétaire avec de l’argent, et l’[animal] mort reste sa possession [de son propriétaire d’origine]."
+    },
+    {
+      "ref": "Exodus 21:35",
+      "fr": "Si le bœuf d'un homme blesse le bœuf de son voisin et qu'il meurt, ils vendront le bœuf vivant et partageront l'argent reçu pour cela. Ils partageront également [la valeur de] l'animal mort."
+    },
+    {
+      "ref": "Exodus 21:36",
+      "fr": "Si l'on sait qu'il s'agit d'un bœuf encorné d'hier et d'avant-hier, mais qu'il n'a pas pris les précautions nécessaires pour le garder, alors il doit payer une compensation complète, bœuf pour bœuf. L'[animal] mort reste en possession [de son propriétaire]."
+    },
+    {
+      "ref": "Exodus 21:37",
+      "fr": "Si un homme vole un bœuf ou un mouton, puis l'abat ou le vend, il devra payer cinq bœufs pour chaque bœuf et quatre moutons pour chaque mouton."
+    },
+    {
+      "ref": "Exodus 22:1",
+      "fr": "Si le voleur est trouvé [attrapé] lors d'une effraction, et qu'il est frappé et tué, il n'y a aucune responsabilité pour son sang."
+    },
+    {
+      "ref": "Exodus 22:2",
+      "fr": "Si le soleil brillait sur lui [les yeux des témoins tombèrent sur lui], il y aura une responsabilité pour son sang. Il doit restituer intégralement. S'il n'en a pas [les moyens de le faire], il sera vendu [comme esclave pour payer] son ​​vol."
+    },
+    {
+      "ref": "Exodus 22:3",
+      "fr": "Si l'objet volé est retrouvé dans sa main [possession], qu'il s'agisse d'un bœuf, d'un âne ou d'un mouton [vivant], il doit payer deux animaux vivants."
+    },
+    {
+      "ref": "Exodus 22:4",
+      "fr": "S’il endommage un champ ou une vigne avec son animal – s’il laisse son bétail en liberté et [ou] il se nourrit dans le champ d’autrui – de son [propre] premier champ et de son premier vignoble, il doit indemniser [le propriétaire]."
+    },
+    {
+      "ref": "Exodus 22:5",
+      "fr": "Si un incendie devient incontrôlable et trouve des épines, puis consume du grain lié ou sur pied ou un champ, une restitution complète doit être faite par celui qui a allumé l'incendie."
+    },
+    {
+      "ref": "Exodus 22:6",
+      "fr": "Si un homme donne à son prochain de l'argent ou des objets à conserver et qu'ils soient volés dans la maison du gardien, si le voleur est retrouvé, il devra payer le double."
+    },
+    {
+      "ref": "Exodus 22:7",
+      "fr": "Si le voleur n’est pas retrouvé, le propriétaire de la maison [le gardien] doit se présenter devant les juges [Beis Din], [pour jurer] qu’il n’a pas mis la main sur les biens de son voisin [pour son usage personnel] [ce que son voisin lui a remis]."
+    },
+    {
+      "ref": "Exodus 22:8",
+      "fr": "Dans toute question de malhonnêteté, qu’il s’agisse d’un bœuf, d’un âne, d’un mouton, d’un vêtement ou de tout ce qui a été [prétendument] perdu et dont [un témoin] dit : « Ça y est ! » les réclamations des deux parties doivent être portées devant les juges. Celui que les juges déclarent coupable doit payer une double restitution à son voisin."
+    },
+    {
+      "ref": "Exodus 22:9",
+      "fr": "Si un homme donne à son prochain un âne, un bœuf, un mouton ou tout autre animal pour le garder ; et il meurt, ou est blessé, ou est capturé, et il n'y a aucun témoin oculaire,"
+    },
+    {
+      "ref": "Exodus 22:10",
+      "fr": "un serment sera fait à Adonoy entre eux, qu'il [le guetteur] n'a pas mis la main sur la propriété de son voisin [pour son usage personnel] [ce que son voisin lui a remis]. Le propriétaire doit l'accepter [le serment], et [le surveillant] n'a pas besoin de restituer."
+    },
+    {
+      "ref": "Exodus 22:11",
+      "fr": "Mais si l'objet lui a été effectivement volé, il devra le restituer à son propriétaire."
+    },
+    {
+      "ref": "Exodus 22:12",
+      "fr": "S'il a été déchiré [tué par des bêtes sauvages], il [le guetteur] doit fournir des témoins [qu'il a été déchiré]. Il n’a alors pas besoin de payer pour ce qui a été déchiré."
+    },
+    {
+      "ref": "Exodus 22:13",
+      "fr": "Si un homme emprunte quelque chose à son prochain et que celui-ci se brise ou meurt ; si le propriétaire n'est pas [impliqué] avec lui, il [l'emprunteur] doit effectuer la restitution intégrale."
+    },
+    {
+      "ref": "Exodus 22:14",
+      "fr": "Si le propriétaire est [impliqué] avec lui, alors il [l'emprunteur] n'a pas besoin de restituer. S'il a été loué, il [le bœuf] entre dans son prix de location."
+    },
+    {
+      "ref": "Exodus 22:15",
+      "fr": "Si un homme séduit une vierge qui n'est pas fiancée et couche avec elle ; il doit donner la dot pour l'acquérir [l'établir] comme épouse."
+    },
+    {
+      "ref": "Exodus 22:16",
+      "fr": "Si son père refuse catégoriquement de la lui donner, il devra lui donner un poids d'argent égal à la dot habituellement donnée aux vierges."
+    },
+    {
+      "ref": "Exodus 22:17",
+      "fr": "Vous ne permettrez pas à une sorcière de vivre."
+    },
+    {
+      "ref": "Exodus 22:18",
+      "fr": "Celui qui couche avec un animal doit être mis à mort."
+    },
+    {
+      "ref": "Exodus 22:19",
+      "fr": "Celui qui massacre à un dieu [les faux dieux des peuples] doit être condamné [à mourir]. [Des sacrifices peuvent être offerts] à [le Nom de] Adonoy seul."
+    },
+    {
+      "ref": "Exodus 22:20",
+      "fr": "Vous ne devez ni maltraiter ni opprimer un étranger, car vous étiez étrangers au pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 22:21",
+      "fr": "Vous ne devez maltraiter aucune veuve ou orphelin."
+    },
+    {
+      "ref": "Exodus 22:22",
+      "fr": "Si vous le maltraitez, quand il crie vers moi, j'entendrai effectivement son cri."
+    },
+    {
+      "ref": "Exodus 22:23",
+      "fr": "Alors j'enflammerai ma colère, et je te tuerai par l'épée. Vos femmes deviendront veuves et vos enfants seront orphelins."
+    },
+    {
+      "ref": "Exodus 22:24",
+      "fr": "Quand vous prêtez de l'argent à mon peuple, au pauvre qui est avec vous, n'agissez pas envers lui comme un créancier exigeant. Ne lui imposez pas le fardeau des intérêts [une blessure]."
+    },
+    {
+      "ref": "Exodus 22:25",
+      "fr": "Si vous prenez en garantie le vêtement de votre prochain, vous devrez le lui rendre jusqu'au coucher du soleil ;"
+    },
+    {
+      "ref": "Exodus 22:26",
+      "fr": "Car cela seul est sa couverture, le vêtement [pour couvrir] sa peau. Avec quoi doit-il se coucher [pour dormir] ? S'il arrive qu'il crie vers moi, j'entendrai [obéir] [son cri] car je suis miséricordieux."
+    },
+    {
+      "ref": "Exodus 22:27",
+      "fr": "Ne maudissez pas les juges. Ne maudis pas un chef de ton peuple."
+    },
+    {
+      "ref": "Exodus 22:28",
+      "fr": "Vous ne devez pas retarder [votre offrande de] la totalité [de vos produits nouvellement mûrs] et de votre offrande de terumah. Tu me donneras le premier-né de tes fils."
+    },
+    {
+      "ref": "Exodus 22:29",
+      "fr": "Vous devez faire de même avec vos bœufs et vos brebis. Il restera sept jours avec sa mère. Le huitième jour, tu devras le donner à Moi."
+    },
+    {
+      "ref": "Exodus 22:30",
+      "fr": "Vous serez pour moi des hommes de sainteté, et vous ne mangerez pas de chair arrachée dans les champs [à un animal vivant]. Jetez-le au chien."
+    },
+    {
+      "ref": "Exodus 23:1",
+      "fr": "N'acceptez pas un faux rapport. Ne vous joignez pas à un méchant pour être un [faux] témoin [pour lui] corrompu."
+    },
+    {
+      "ref": "Exodus 23:2",
+      "fr": "Ne suivez pas la majorité pour faire le mal. Ne répondez pas avec votre opinion dans un différend [simplement] pour vous pencher [d'un côté] [(Ne vous abstenez pas) d'enseigner ce qui est convenable à vos yeux concernant un jugement]. Cela doit être décidé à la majorité."
+    },
+    {
+      "ref": "Exodus 23:3",
+      "fr": "Ne montrez pas de faveur [même] aux pauvres dans sa dispute [jugement]."
+    },
+    {
+      "ref": "Exodus 23:4",
+      "fr": "Si vous rencontrez le bœuf ou l'âne de votre ennemi égaré, ramenez-le-lui."
+    },
+    {
+      "ref": "Exodus 23:5",
+      "fr": "Si vous voyez l'âne de votre ennemi couché sous son fardeau, et que vous ne vouliez peut-être pas l'aider [empêcher de l'abandonner], [mais vous devriez] [[vous devriez]] faire tous les efforts pour l'aider [abandonner ce qui est dans votre cœur contre lui et décharger avec lui] ."
+    },
+    {
+      "ref": "Exodus 23:6",
+      "fr": "Ne faites pas plier la justice, même pour votre indigent, dans son litige."
+    },
+    {
+      "ref": "Exodus 23:7",
+      "fr": "Tenez-vous loin de tout ce qui est faux. Ne tuez pas un juste innocent [ou quelqu'un qui sort innocent du jugement], car je n'acquitterai pas le méchant."
+    },
+    {
+      "ref": "Exodus 23:8",
+      "fr": "N'acceptez pas de corruption, car la corruption aveugle les yeux clairvoyants et pervertit les paroles de la justice."
+    },
+    {
+      "ref": "Exodus 23:9",
+      "fr": "N'opprimez pas un étranger. Vous [devriez] connaître l'âme [les sentiments] de l'étranger, car vous étiez étrangers au pays d'Égypte."
+    },
+    {
+      "ref": "Exodus 23:10",
+      "fr": "Vous pourrez semer votre terre pendant six ans et en récolter les récoltes."
+    },
+    {
+      "ref": "Exodus 23:11",
+      "fr": "Mais la septième [année], tu le laisseras reposer, tu l'abandonneras [en ne mangeant pas ses produits], et tu laisseras les nécessiteux de ton peuple en manger. Ce qu'ils laissent, les bêtes des champs peuvent le manger. Faites de même avec votre vigne et vos oliviers."
+    },
+    {
+      "ref": "Exodus 23:12",
+      "fr": "Vous pouvez faire votre travail pendant six jours, mais vous devez cesser le septième jour ; afin que ton bœuf et ton âne se reposent, et que le fils de ta servante et l'étranger puissent se rafraîchir."
+    },
+    {
+      "ref": "Exodus 23:13",
+      "fr": "Conservez tout ce que je vous ai dit. Ne mentionnez pas le nom d’autres [faux] dieux [des peuples]. Vous ne devez pas le faire entendre par votre bouche."
+    },
+    {
+      "ref": "Exodus 23:14",
+      "fr": "Trois fois par an, vous devez célébrer avec [devant] Moi."
+    },
+    {
+      "ref": "Exodus 23:15",
+      "fr": "Vous devez célébrer la fête des Matzos. Vous devez manger des matzos pendant sept jours, comme je vous l'ai ordonné. [Cette fête doit être célébrée] au temps fixé, pendant le mois où le grain est mûr, car c'est à ce moment-là que vous êtes sorti d'Egypte. Ne vous présentez pas devant Ma Présence [Moi] les mains vides."
+    },
+    {
+      "ref": "Exodus 23:16",
+      "fr": "[Vous devez également célébrer] la fête de la récolte, [en apportant du bikurim] les prémices de votre travail, que vous avez plantées dans le champ ; [aussi] la fête de la récolte, à la fin de l'année, lorsque vous récoltez [les fruits de] votre travail dans les champs."
+    },
+    {
+      "ref": "Exodus 23:17",
+      "fr": "Trois fois par an, tout mâle parmi vous doit se présenter devant la Présence du Maître [du monde], Adonoy."
+    },
+    {
+      "ref": "Exodus 23:18",
+      "fr": "Vous ne devez pas sacrifier – pendant que le ‘hometz est présent – ​​Mon sacrifice [de Pessa’h]. Vous ne devez pas laisser passer la nuit [hors de l'autel] la graisse de mon offrande de fête jusqu'au matin."
+    },
+    {
+      "ref": "Exodus 23:19",
+      "fr": "Les prémices de votre terre doivent être apportées à la Maison d'Adonoy, votre Dieu. Vous ne devez pas cuire un jeune animal dans le lait de sa mère [manger de la viande avec du lait]."
+    },
+    {
+      "ref": "Exodus 23:20",
+      "fr": "Voici, j'enverrai un ange devant toi pour te garder en chemin et pour te conduire au lieu que j'ai préparé."
+    },
+    {
+      "ref": "Exodus 23:21",
+      "fr": "Soyez prudent en sa présence et écoutez [obéissez] à sa voix [parole]. Ne vous rebellez pas contre lui ; car il ne peut pas supporter [pardonner] votre transgression, car [dans] Mon Nom est en lui [sa parole]."
+    },
+    {
+      "ref": "Exodus 23:22",
+      "fr": "Mais si vous écoutez vraiment [obéissez] sa voix [parole] et faites tout ce que je dis, alors je serai l'ennemi de vos ennemis et j'attaquerai ceux qui vous attaquent."
+    },
+    {
+      "ref": "Exodus 23:23",
+      "fr": "Mon messager ira devant vous et vous amènera au pays des Émoréens, des Chittites, des Phéréziens, des Cananéens, des Chivites et des Yevusites, et je les anéantirai alors."
+    },
+    {
+      "ref": "Exodus 23:24",
+      "fr": "Vous ne devez pas vous prosterner devant leurs [faux] dieux, ni leur servir [de leur sacrifier]. Vous ne devez pas adopter leurs coutumes. Vous devez détruire totalement [leurs idoles] et démolir complètement leurs monuments."
+    },
+    {
+      "ref": "Exodus 23:25",
+      "fr": "Vous devez servir [devant] Adonoy, votre Dieu, et Il bénira votre pain [nourriture] et votre eau [boisson]. J'éliminerai les [mauvaises] maladies du milieu de vous."
+    },
+    {
+      "ref": "Exodus 23:26",
+      "fr": "Aucune femme ne fera de fausse couche ou ne restera sans enfant dans votre pays. Je ferai en sorte que le nombre de vos jours soit complet."
+    },
+    {
+      "ref": "Exodus 23:27",
+      "fr": "J'enverrai ma frayeur devant toi, et je semerai la panique chez tous les peuples parmi lesquels tu viendras [pour lutter]. Je ferai en sorte que tous tes ennemis tournent le dos devant toi."
+    },
+    {
+      "ref": "Exodus 23:28",
+      "fr": "J'enverrai des frelons devant vous, et ils chasseront devant vous les Chivites, les Cananéens et les Chittites."
+    },
+    {
+      "ref": "Exodus 23:29",
+      "fr": "Je ne les chasserai pas en une seule année, de peur que le pays ne devienne désert et que les bêtes des champs ne se multiplient contre vous."
+    },
+    {
+      "ref": "Exodus 23:30",
+      "fr": "Peu à peu, je les chasserai de devant toi, jusqu'à ce que tu sois devenu plus grand et que tu occupes le pays."
+    },
+    {
+      "ref": "Exodus 23:31",
+      "fr": "Je fixerai vos frontières depuis la mer des Roseaux jusqu'à la mer des Philistins, et depuis le désert jusqu'au fleuve [Euphrate], car je livrerai entre vos mains tous les habitants du pays, et vous les chasserez devant vous."
+    },
+    {
+      "ref": "Exodus 23:32",
+      "fr": "Ne faites pas de pacte avec eux ou avec leurs [faux] dieux."
+    },
+    {
+      "ref": "Exodus 23:33",
+      "fr": "Ne leur permettez pas d'habiter dans votre pays, car ils pourraient vous faire pécher envers Moi ; afin que vous [pouviez] adorer leurs [faux] dieux, et ce serait pour vous un piège [mortel]."
+    },
+    {
+      "ref": "Exodus 24:1",
+      "fr": "Il [Dieu] avait dit à Moshe : « Montez à [la présence de] [devant] Adonoy, vous, Aharon, Nadav, Avihu et soixante-dix des anciens [des B'nei] Yisrael, et prosternez-vous à distance."
+    },
+    {
+      "ref": "Exodus 24:2",
+      "fr": "Moshe seul s'approchera [de la Présence de] [devant] Adonoy, mais ils ne doivent pas s'en approcher, et le peuple ne doit pas monter avec lui."
+    },
+    {
+      "ref": "Exodus 24:3",
+      "fr": "Moché vint et rapporta au peuple toutes les paroles d'Adonoy et toutes les lois. Les gens ont répondu d’une seule voix et ont dit : « Toutes les paroles qu’Adonoy a prononcées, nous les ferons. »"
+    },
+    {
+      "ref": "Exodus 24:4",
+      "fr": "Moshe a écrit toutes les paroles d'Adonoy. He arose early in the morning, and built an altar beneath [at the foot of] the mountain, and [also] twelve monuments [pillars] for the twelve tribes of [the B’nei] Yisrael."
+    },
+    {
+      "ref": "Exodus 24:5",
+      "fr": "Il envoya les jeunes [premiers-nés] de B'nei Yisrael et ils offrirent des holocaustes et sacrifièrent des bœufs en offrande de paix à [devant] Adonoy."
+    },
+    {
+      "ref": "Exodus 24:6",
+      "fr": "Moshe prit la moitié du sang et la mit dans les bassins, et [l'autre] moitié du sang fut aspergée sur l'autel."
+    },
+    {
+      "ref": "Exodus 24:7",
+      "fr": "Il prit ensuite le Livre de l'Alliance et le lut aux oreilles du peuple. Ils dirent : « Tout ce qu’Adonoy a dit, nous le ferons et nous l’écouterons [obéirons]. »"
+    },
+    {
+      "ref": "Exodus 24:8",
+      "fr": "Moshe prit alors le sang et le jeta sur [l'autel pour expier en faveur du] peuple, et il dit : « Voici, c'est le sang de l'alliance qu'Adonoy a conclue avec vous concernant toutes ces paroles. »"
+    },
+    {
+      "ref": "Exodus 24:9",
+      "fr": "Moshe et Aharon montèrent alors avec Nadav et Avihu, et soixante-dix des anciens des [B'nei] Yisrael."
+    },
+    {
+      "ref": "Exodus 24:10",
+      "fr": "Ils virent [une vision] de la [Gloire du] Dieu d'Israël, et sous ses pieds [le trône de sa gloire] [il y avait quelque chose] comme une brique de saphir [pierre précieuse], et c'était comme l'essence [image] du ciel en pureté."
+    },
+    {
+      "ref": "Exodus 24:11",
+      "fr": "Mais contre la noblesse des B’nei Yisrael, Il [Dieu] n’a pas envoyé sa main [il n’y a eu aucun dommage]. Ils ont imaginé [vu la gloire de] Dieu, et ils [se sont réjouis de leurs sacrifices qui ont été gracieusement acceptés comme s'ils] mangeaient et buvaient."
+    },
+    {
+      "ref": "Exodus 24:12",
+      "fr": "Adonoy dit alors à Moshe : \" Monte vers moi sur la montagne et reste-y. Je te donnerai les tables de pierre, la Torah et le commandement que j'ai écrit [afin] de les enseigner. \""
+    },
+    {
+      "ref": "Exodus 24:13",
+      "fr": "Moshe et Yehoshua, son serviteur, partirent, mais [seulement] Moshe monta vers la montagne [sur laquelle la gloire] de Dieu [a été révélée]."
+    },
+    {
+      "ref": "Exodus 24:14",
+      "fr": "Il [Moshe] dit aux anciens : \" Attendez-nous ici jusqu'à ce que nous revenions vers vous, et Aharon et Coire seront avec vous. Celui qui a des droits peut s'approcher [devant] eux. \""
+    },
+    {
+      "ref": "Exodus 24:15",
+      "fr": "Moché monta sur la montagne, et la nuée couvrit la montagne."
+    },
+    {
+      "ref": "Exodus 24:16",
+      "fr": "La gloire d'Adonoy reposait sur le mont Sinaï, et la nuée le couvrit pendant six jours. Le septième jour, Il appela Moshe du milieu de la nuée."
+    },
+    {
+      "ref": "Exodus 24:17",
+      "fr": "L’apparence de la gloire d’Adonoy était comme [l’apparence d’] une flamme dévorante au sommet de la montagne ; sous les yeux des B’nei Yisrael."
+    },
+    {
+      "ref": "Exodus 24:18",
+      "fr": "Et Moshe entra au milieu de la nuée. et il monta dans la montagne. Moshe resta sur la montagne quarante jours et quarante nuits."
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "name": "Shemot",
+  "range": "Exodus 1:1-6:1",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/shemot.json",
+  "verses": [
+    {
+      "ref": "Exodus 1:1",
+      "fr": "Ce sont les noms des B’nei Yisrael qui sont venus en Égypte. Chaque homme avec sa maisonnée accompagnait Yaakov."
+    },
+    {
+      "ref": "Exodus 1:2",
+      "fr": "Reuvein, Shimon, Leivi et Yehudah."
+    },
+    {
+      "ref": "Exodus 1:3",
+      "fr": "Yissachar, Zevulun et Binyamin."
+    },
+    {
+      "ref": "Exodus 1:4",
+      "fr": "Don, Naftali, Gad et Asher."
+    },
+    {
+      "ref": "Exodus 1:5",
+      "fr": "Toutes les âmes qui émanaient des reins de Yaakov, [étaient au nombre] de soixante-dix âmes, [y compris] Yossif qui était [déjà] en Égypte."
+    },
+    {
+      "ref": "Exodus 1:6",
+      "fr": "Yossif est mort. Tous ses frères et toute cette génération [moururent également.]"
+    },
+    {
+      "ref": "Exodus 1:7",
+      "fr": "Les B’nei Yisrael étaient féconds et prolifiques, et leur population s’est multipliée. Ils étaient extrêmement puissants et le pays en était rempli."
+    },
+    {
+      "ref": "Exodus 1:8",
+      "fr": "Un nouveau roi est arrivé au pouvoir sur l’Égypte, qui ne savait pas [accomplir] le décret de Yossif."
+    },
+    {
+      "ref": "Exodus 1:9",
+      "fr": "Il dit à son peuple : « Voici, le peuple des B’nei Yisrael devient trop nombreux et trop fort pour nous."
+    },
+    {
+      "ref": "Exodus 1:10",
+      "fr": "Venez, traitons-le avec sagesse. De peur qu'il ne se multiplie au point que, s'il y a une guerre, il ne se joigne à nos ennemis et ne nous fasse la guerre, nous chassant du pays."
+    },
+    {
+      "ref": "Exodus 1:11",
+      "fr": "Ils ont nommé sur lui des officiers de conscription [cruels] pour l'opprimer [eux] avec leurs fardeaux [travail]. Il [B’nei Yisrael] a construit des villes de ravitaillement pour Pharaon, Pisom et Ramseis."
+    },
+    {
+      "ref": "Exodus 1:12",
+      "fr": "Mais plus [les Égyptiens] l’opprimaient, plus [les B’nei Yisrael] augmentaient et s’étendaient [devenaient forts]. [Les Égyptiens] en sont venus à détester les B’nei Yisrael."
+    },
+    {
+      "ref": "Exodus 1:13",
+      "fr": "Les Égyptiens ont réduit en esclavage les B’nei Yisrael, avec des travaux pénibles."
+    },
+    {
+      "ref": "Exodus 1:14",
+      "fr": "Ils rendaient leur vie amère par des travaux pénibles impliquant du mortier et des briques, et toutes sortes de travaux dans les champs. Tout le travail qu’ils leur ont fait faire [visait] à les briser."
+    },
+    {
+      "ref": "Exodus 1:15",
+      "fr": "Le roi d'Egypte s'adressa aux sages-femmes hébraïques. Le nom de l’un d’eux était Shifrah, et le nom de l’autre était Puah."
+    },
+    {
+      "ref": "Exodus 1:16",
+      "fr": "Il dit : \"Quand vous accoucherez des femmes hébraïques, vous devez regarder l'enfant qui porte la naissance. Si c'est un garçon, tuez-le ; mais si c'est une fille, laissez-la vivre.\""
+    },
+    {
+      "ref": "Exodus 1:17",
+      "fr": "Les sages-femmes craignaient [avant] Elohim et ne firent pas ce que le roi égyptien leur avait dit, et elles gardèrent en vie les jeunes garçons."
+    },
+    {
+      "ref": "Exodus 1:18",
+      "fr": "Le roi d'Egypte appela les sages-femmes et leur dit : \"Pourquoi avez-vous fait cela ? Vous avez laissé vivre les petits garçons.\""
+    },
+    {
+      "ref": "Exodus 1:19",
+      "fr": "Les sages-femmes dirent à Pharaon : \"Les femmes hébraïques ne sont pas comme les Égyptiennes. Elles savent accoucher. Avant même qu'une sage-femme arrive chez elles, elles ont déjà accouché.\""
+    },
+    {
+      "ref": "Exodus 1:20",
+      "fr": "Elohim était bon envers les sages-femmes, et le peuple augmentait et était très puissant."
+    },
+    {
+      "ref": "Exodus 1:21",
+      "fr": "Parce que les sages-femmes craignaient Dieu, Il leur donna des maisons."
+    },
+    {
+      "ref": "Exodus 1:22",
+      "fr": "Pharaon ordonna alors à tout son peuple, en disant : « Tout garçon qui naîtra [des Hébreux] devra être jeté dans le fleuve ; mais toute fille devra vivre. »"
+    },
+    {
+      "ref": "Exodus 2:1",
+      "fr": "Un homme de la maison de Lévi alla épouser la fille de Lévi."
+    },
+    {
+      "ref": "Exodus 2:2",
+      "fr": "La femme conçut et enfanta un fils. Elle a vu qu'il était [exceptionnellement] bon et elle l'a gardé caché pendant trois mois."
+    },
+    {
+      "ref": "Exodus 2:3",
+      "fr": "Ne pouvant plus le cacher, elle prit une boîte de papyrus et l'enduit d'argile et de goudron. Elle y plaça l'enfant et le plaça dans les roseaux près de la rive de la rivière."
+    },
+    {
+      "ref": "Exodus 2:4",
+      "fr": "La sœur [de l’enfant] se tenait à distance pour voir ce qui allait lui arriver."
+    },
+    {
+      "ref": "Exodus 2:5",
+      "fr": "La fille de Pharaon descendit se baigner au bord du fleuve, tandis que ses servantes marchaient au bord du fleuve. Elle aperçut la boîte parmi les roseaux et envoya sa servante la chercher."
+    },
+    {
+      "ref": "Exodus 2:6",
+      "fr": "Elle l'ouvrit et vit l'enfant, et voici, un garçon pleurait. Elle en eut pitié et dit : « C'est un des garçons hébreux. »"
+    },
+    {
+      "ref": "Exodus 2:7",
+      "fr": "La sœur [de l’enfant] dit à la fille de Pharaon : « Dois-je aller t’appeler une [mère] allaitante parmi les femmes hébraïques pour allaiter l’enfant pour toi ?"
+    },
+    {
+      "ref": "Exodus 2:8",
+      "fr": "« Vas-y », lui dit la fille du Pharaon. La jeune fille alla appeler la mère de l’enfant."
+    },
+    {
+      "ref": "Exodus 2:9",
+      "fr": "La fille de Pharaon lui dit [à la mère de l’enfant] : « Prends cet enfant et allaite-le pour moi, et je paierai ton salaire. » La femme a pris l'enfant et l'a allaité."
+    },
+    {
+      "ref": "Exodus 2:10",
+      "fr": "Quand l’enfant grandit, elle l’amena à la fille du Pharaon, et il devint son fils. Elle l'appela Moshe, car elle dit : « Je l'ai sorti de l'eau »."
+    },
+    {
+      "ref": "Exodus 2:11",
+      "fr": "C'est à l'époque où Moshe était grand qu'il [commença] à sortir vers ses frères, et il vit leurs fardeaux [un dur travail]. [Un jour] il vit un Égyptien battre un de ses frères hébreux."
+    },
+    {
+      "ref": "Exodus 2:12",
+      "fr": "Il [Moshe] regarda tout autour et [quand] il vit qu'il n'y avait personne [qui regardait], il tua l'Égyptien et cacha son corps dans le sable."
+    },
+    {
+      "ref": "Exodus 2:13",
+      "fr": "Il sortit le lendemain et voici, deux Hébreux se disputaient. Et il dit au méchant : « Pourquoi bats-tu ton ami ?"
+    },
+    {
+      "ref": "Exodus 2:14",
+      "fr": "Il [le méchant] dit : \" Qui a fait de toi un homme, un officier et un juge sur nous ? As-tu l'intention de me tuer comme tu as tué l'Égyptien ? \" Moshe a eu peur et il a dit : « Donc [certainement] l'affaire est connue. »"
+    },
+    {
+      "ref": "Exodus 2:15",
+      "fr": "Pharaon a entendu parler de l'affaire et il a prévu de tuer Moshe. Moshe s'enfuit de Pharaon et résida dans le pays de Madian, et il s'assit près du puits."
+    },
+    {
+      "ref": "Exodus 2:16",
+      "fr": "Le prêtre [ministre] de Madian avait sept filles. Ils venaient puiser de l’eau [au puits] et remplir les auges pour abreuver les brebis de leur père."
+    },
+    {
+      "ref": "Exodus 2:17",
+      "fr": "Alors les bergers arrivèrent et les chassèrent. Moshe se leva et leur vint en aide, puis abreuva leurs moutons."
+    },
+    {
+      "ref": "Exodus 2:18",
+      "fr": "Quand ils sont arrivés à Reu'eil, leur père, il leur a dit : « Comment avez-vous pu rentrer si tôt aujourd'hui ?"
+    },
+    {
+      "ref": "Exodus 2:19",
+      "fr": "Ils dirent : « Un Égyptien nous a délivrés de la main des bergers ; il nous a aussi puisé de l'eau et a abreuvé les brebis. »"
+    },
+    {
+      "ref": "Exodus 2:20",
+      "fr": "Il dit à ses filles : \" Et où est-il ? Pourquoi avez-vous abandonné cet homme ? Appelez-le et laissez-le manger du pain. \""
+    },
+    {
+      "ref": "Exodus 2:21",
+      "fr": "Moshe a accepté de résider avec l'homme et il a donné à Moshe sa fille Tzipporah."
+    },
+    {
+      "ref": "Exodus 2:22",
+      "fr": "Lorsqu'elle eut un fils, il le nomma Guershom, car il dit : « J'ai été étranger dans un pays étranger. »"
+    },
+    {
+      "ref": "Exodus 2:23",
+      "fr": "Beaucoup de temps s'écoula et le roi d'Egypte mourut. Les B’nei Yisrael gémissaient à cause de leur esclavage [qui était dur pour eux], et ils pleuraient. Leur plaidoyer concernant leur asservissement s'est élevé jusqu'à Dieu."
+    },
+    {
+      "ref": "Exodus 2:24",
+      "fr": "Elohim entendit leurs gémissements [a été entendu devant Elohim] et Elohim se souvint de son alliance avec Avraham, avec Yitzchok et avec Yaakov."
+    },
+    {
+      "ref": "Exodus 2:25",
+      "fr": "Elohim a vu [L'esclavage des] B'nei Yisrael [est devenu révélé devant Elohim], et Elohim en a pris connaissance [a dit avec Sa Parole qu'Il les délivrerait]."
+    },
+    {
+      "ref": "Exodus 3:1",
+      "fr": "Moshe gardait les moutons de son beau-père Yisro, prêtre [ministre] de Madian. Il conduisit les brebis à l'orée du désert [vers les meilleurs pâturages] et il arriva à la montagne [sur laquelle était révélée la Gloire] de Dieu, dans la région de Choreiv."
+    },
+    {
+      "ref": "Exodus 3:2",
+      "fr": "Un ange d'Adonoy lui apparut [se révéla] à lui [Moshe] au cœur [une flamme] d'un feu au milieu d'un buisson épineux. Il regarda et voici, le buisson était en feu, mais le buisson n'était pas consumé."
+    },
+    {
+      "ref": "Exodus 3:3",
+      "fr": "Moshe a dit : \"Je dois me détourner et voir [investiguer] ce grand spectacle. Pourquoi le buisson ne brûle-t-il pas ?\""
+    },
+    {
+      "ref": "Exodus 3:4",
+      "fr": "Quand Adonoy vit que [Moshe] se détournait pour voir, Elohim l'appela du milieu du buisson épineux et dit : « Moshe, Moshe. » Il [Moshe] dit : « Me voici."
+    },
+    {
+      "ref": "Exodus 3:5",
+      "fr": "Il [Dieu] dit : \" Ne vous approchez pas plus près. Enlevez vos chaussures de vos pieds, car le lieu sur lequel vous vous tenez est [une] terre [un lieu] sacré. \""
+    },
+    {
+      "ref": "Exodus 3:6",
+      "fr": "Il [Dieu] dit alors : « Je suis le Dieu de ton père, le Dieu d'Avraham, le Dieu d'Itschok et le Dieu de Yaakov. » Moshe cachait son visage, car il avait peur de regarder [du côté de la Gloire d'] Elohim."
+    },
+    {
+      "ref": "Exodus 3:7",
+      "fr": "Adonoy a dit : \" J'ai en effet vu la souffrance de mon peuple qui est en Égypte [a été en effet révélée devant moi]. J'ai entendu comment ils [leur] cri [est entendu devant moi] à cause [de la dureté] de leurs maîtres d'esclaves, et je suis conscient de leur douleur [s'est révélée devant moi]."
+    },
+    {
+      "ref": "Exodus 3:8",
+      "fr": "Je suis descendu [devenu révélé] pour les libérer de la main de l'Égypte, et pour les faire monter de ce pays vers un pays bon et spacieux, vers un pays où coulent le lait et le miel ; au territoire des Cananéens, des Chittites, des Émoréens, des Périzites, des Chivites et des Yevusites."
+    },
+    {
+      "ref": "Exodus 3:9",
+      "fr": "Maintenant, voici, le cri des B’nei Yisrael est venu jusqu’à moi. J'ai aussi vu l'oppression avec laquelle les Égyptiens les oppriment [est également révélée devant Moi]."
+    },
+    {
+      "ref": "Exodus 3:10",
+      "fr": "Maintenant, va [viens]. Je t'envoie vers Pharaon, et tu feras sortir mon peuple, les B'nei Yisrael, d'Egypte."
+    },
+    {
+      "ref": "Exodus 3:11",
+      "fr": "Moshe dit à Elohim : \"Qui suis-je pour aller voir Pharaon ? Suis-je capable de faire sortir les B'nei Yisrael d'Egypte ?\""
+    },
+    {
+      "ref": "Exodus 3:12",
+      "fr": "Il [Dieu] dit : \"Parce que je serai avec toi [Ma Parole sera ton soutien]. Ce sera la preuve que Je t'ai envoyé : quand tu feras sortir le peuple d'Egypte, tu serviras [devant] Elohim sur cette montagne. \""
+    },
+    {
+      "ref": "Exodus 3:13",
+      "fr": "Moshe dit à Elohim : « Voici, quand je viendrai aux B'nei Yisrael et que je leur dirai : « Le Dieu de vos pères m'a envoyé vers vous », ils me diront : « Quel est son nom ? » Que leur dirai-je ?"
+    },
+    {
+      "ref": "Exodus 3:14",
+      "fr": "Elohim dit à Moshe : « Eh’yeh Asher Eh’yeh » ; et Il dit : « C’est ce que vous devez dire aux B’nei Yisrael : ‘Eh’yeh m’a envoyé vers vous.’ »"
+    },
+    {
+      "ref": "Exodus 3:15",
+      "fr": "Elohim a continué à parler à Moshe : \"Voici ce que vous devez dire aux B'nei Yisrael : 'Adonoy, le Dieu de vos pères, le Dieu d'Avraham, le Dieu d'Itschok et le Dieu de Yaakov, m'a envoyé vers vous. Ceci est mon nom éternel, et c'est ainsi que je dois être mentionné pour toutes les générations.'\""
+    },
+    {
+      "ref": "Exodus 3:16",
+      "fr": "« Allez, rassemblez les anciens d'Israël et dites-leur : « Adonoy, le Dieu de tes pères m'est apparu [s'est révélé], le Dieu d'Avraham, de Itschok et de Yaakov, en disant : « J'ai vraiment pensé à toi à propos de ce qui t'est fait en Égypte."
+    },
+    {
+      "ref": "Exodus 3:17",
+      "fr": "J'ai dit : Je vous ferai monter du pays des souffrances de l'Égypte, au pays des Cananéens, des Chittites, des Émoréens, des Périziens, des Chivites et des Yevusites ; vers un pays où coulent du lait et du miel.’”"
+    },
+    {
+      "ref": "Exodus 3:18",
+      "fr": "Ils écouteront [obéiront] votre voix [Mots]. Toi et les anciens d'Israël viendrez chez le roi d'Égypte et lui direz : « Adonoï, le Dieu des Hébreux nous a rencontrés par hasard. Maintenant, nous te demandons de nous laisser aller dans le désert pendant trois jours, pour apporter une offrande [un sacrifice] à [devant] Adonoy, notre Dieu."
+    },
+    {
+      "ref": "Exodus 3:19",
+      "fr": "Je sais [Il m'est révélé] que le roi d'Égypte ne vous permettra pas de faire [ce voyage], mais pas à cause de sa [puissance] main forte."
+    },
+    {
+      "ref": "Exodus 3:20",
+      "fr": "J'enverrai alors ma main [le coup de ma puissance] et frapperai l'Égypte avec toutes mes actions merveilleuses que j'accomplirai au milieu d'elle. Alors il [Pharaon] vous enverra."
+    },
+    {
+      "ref": "Exodus 3:21",
+      "fr": "Je donnerai à ce peuple grâce aux yeux des Égyptiens ; et quand vous partirez, vous ne repartirez pas les mains vides."
+    },
+    {
+      "ref": "Exodus 3:22",
+      "fr": "Chaque femme empruntera à son prochain et à la femme qui habite dans sa maison des objets d'argent et d'or et des vêtements. Vous les mettrez sur vos fils et vos filles, et ainsi vous dépouillerez l'Égypte de ses richesses."
+    },
+    {
+      "ref": "Exodus 4:1",
+      "fr": "Moshe répondit et dit : \"Ils ne me croiront pas. Ils n'écouteront pas ma voix [m'obéissent]. Ils diront : \"Adonoy ne vous est pas apparu [s'est révélé]\"."
+    },
+    {
+      "ref": "Exodus 4:2",
+      "fr": "Adonoy lui dit : « Qu'est-ce que tu as dans la main ? Il a dit : « Une verge. »"
+    },
+    {
+      "ref": "Exodus 4:3",
+      "fr": "[Dieu] a dit : « Jetez-le par terre. » Il [Moshe] l'a jeté par terre et il s'est transformé en serpent. Moshe s'enfuit."
+    },
+    {
+      "ref": "Exodus 4:4",
+      "fr": "Adonoy dit à Moshe : « Tends la main et saisis sa queue. » Il tendit la main et la saisit, et elle devint un bâton dans sa main."
+    },
+    {
+      "ref": "Exodus 4:5",
+      "fr": "«C'est pour qu'ils croient qu'Adonoy vous est apparu [s'est révélé], le Dieu de leurs pères, le Dieu d'Avraham, le Dieu d'Itschok et le Dieu de Yaakov.»"
+    },
+    {
+      "ref": "Exodus 4:6",
+      "fr": "Adonoy lui dit en outre [Moshe] : « Mets ta main dans ton sein. » Il mit sa main dans son sein et lorsqu’il la retira, sa main était devenue une tsora’as [blanche comme la neige] semblable à de la neige."
+    },
+    {
+      "ref": "Exodus 4:7",
+      "fr": "Il [Adonoy] a dit : « Mets à nouveau ta main dans ton sein. » [Moshe] remit sa main dans son sein, et lorsqu'il la retira de son sein, elle devint [normale] comme sa chair."
+    },
+    {
+      "ref": "Exodus 4:8",
+      "fr": "« S’ils ne vous croient pas et n’écoutent pas la voix [de la preuve] du premier signe [miraculeux], alors ils croiront la voix [de la preuve] du dernier [deuxième] signe."
+    },
+    {
+      "ref": "Exodus 4:9",
+      "fr": "Et s'ils ne croient même pas à ces deux signes, et s'ils n'écoutent pas ta voix, alors tu prendras de l'eau du fleuve et tu la répandras sur la terre ferme. L’eau que tu prendras au fleuve se changera en sang sur la terre ferme."
+    },
+    {
+      "ref": "Exodus 4:10",
+      "fr": "Moshe dit à Adonoy : « Je t'en supplie Adonoy, je ne suis pas un homme de paroles – ni depuis hier, ni depuis avant-hier – pas depuis le moment où tu [pour la première fois] as parlé à ton serviteur, car je suis maladroit [lent] de bouche [parole] [lourd de parole] et maladroit [lent] de langue [langage] »."
+    },
+    {
+      "ref": "Exodus 4:11",
+      "fr": "Adonoy lui dit : \"Qui a donné une bouche à l'homme, ou qui rend [une personne] muette ou sourde ? [Qui fait qu'une personne] voit ou la rend aveugle ? N'est-ce pas moi, Adonoy ?\""
+    },
+    {
+      "ref": "Exodus 4:12",
+      "fr": "Maintenant, vas-y. Je [Ma Parole] serai avec ta bouche et je t'apprendrai quoi dire."
+    },
+    {
+      "ref": "Exodus 4:13",
+      "fr": "[Moshe] a dit : « Je t’en supplie Adony [mon Maître], s’il te plaît [maintenant], envoie celui que tu envoies habituellement [qui est apte à être envoyé] »."
+    },
+    {
+      "ref": "Exodus 4:14",
+      "fr": "Adonoy manifesta de la colère envers Moshe et dit : \"Aharon, le Lévite, n'est-il pas votre frère ? Je sais [Il m'est révélé] qu'il sait parler. Voici, il part à votre rencontre, et quand il vous verra, il se réjouira dans son cœur."
+    },
+    {
+      "ref": "Exodus 4:15",
+      "fr": "Vous lui parlerez et mettrez les mots dans sa bouche. Je [Ma Parole] serai avec ta bouche et avec sa bouche, et je t'enseignerai ce qu'il faut faire."
+    },
+    {
+      "ref": "Exodus 4:16",
+      "fr": "Il parlera au peuple pour vous. Il sera votre porte-parole et vous serez son maître."
+    },
+    {
+      "ref": "Exodus 4:17",
+      "fr": "Prends ce bâton dans ta main, car avec lui tu accompliras des signes [miraculeux]."
+    },
+    {
+      "ref": "Exodus 4:18",
+      "fr": "Moshe alla et revint vers Yeser, son beau-père, et lui dit : « Je voudrais partir [maintenant] et retourner auprès de mes frères en Égypte, pour voir s'ils sont encore en vie. » Yisro dit à Moshe : « Va en paix »."
+    },
+    {
+      "ref": "Exodus 4:19",
+      "fr": "Adonoy dit à Moshe à Madian : « Va, retourne en Égypte, car ils sont morts, tous les hommes qui en voulaient à ta vie [pour te tuer] »."
+    },
+    {
+      "ref": "Exodus 4:20",
+      "fr": "Moshe prit alors sa femme et ses fils, les fit monter sur l'âne, et il retourna au pays d'Égypte. Moshe prit dans sa main le bâton de Dieu [avec lequel des miracles avaient été accomplis auparavant]."
+    },
+    {
+      "ref": "Exodus 4:21",
+      "fr": "Adonoy dit à Moshe : \" Sur le chemin du retour en Égypte, vois [garde à l'esprit] tous les [signes] merveilleux que j'ai mis entre tes mains, et fais-les devant Pharaon. J'endurcirai son cœur, et il ne renverra pas le peuple."
+    },
+    {
+      "ref": "Exodus 4:22",
+      "fr": "Tu diras à Pharaon : Ainsi dit Adonoï : Yisroel est mon fils, mon premier-né."
+    },
+    {
+      "ref": "Exodus 4:23",
+      "fr": "Et je vous ai dit : envoyez mon fils et laissez-le me servir. Si vous refusez de l’envoyer, voici, je tuerai votre fils premier-né."
+    },
+    {
+      "ref": "Exodus 4:24",
+      "fr": "Il [Moshe] était en chemin, à l'auberge, [un ange d'] Adonoy l'a confronté et a voulu le tuer."
+    },
+    {
+      "ref": "Exodus 4:25",
+      "fr": "Tsipporah prit un silex, coupa le prépuce de son fils et le jeta à ses pieds [le lui apporta] en disant : « Tu es pour moi un époux de sang [Avec ce sang de la circoncision, un mari nous est donné] »."
+    },
+    {
+      "ref": "Exodus 4:26",
+      "fr": "Il s'est alors retiré de lui [Moshe. Puis elle dit : « [Tu es] un époux de sang [pour moi] à cause de la circoncision [Sans ce sang de la circoncision, mon mari aurait mérité d'être tué] »."
+    },
+    {
+      "ref": "Exodus 4:27",
+      "fr": "Adonoy dit à Aharon : « Va rencontrer Moshe dans le désert. » Il [Aharon] alla le rencontrer sur la montagne [sur laquelle fut révélée la gloire] de Dieu et il l'embrassa."
+    },
+    {
+      "ref": "Exodus 4:28",
+      "fr": "Moshe rapporta à Aharon toutes les paroles d'Adonoy avec lesquelles il l'avait envoyé ; et tous les signes [miraculeux] qu'Il lui avait commandés [de démontrer]."
+    },
+    {
+      "ref": "Exodus 4:29",
+      "fr": "Moshe et Aharon sont allés [en Égypte] et ils ont rassemblé tous les anciens des B'nei Yisrael."
+    },
+    {
+      "ref": "Exodus 4:30",
+      "fr": "Aharon prononça toutes les paroles qu'Adonoy avait dites à Moshe, et il démontra les signes [miraculeux] aux yeux [vue] du peuple."
+    },
+    {
+      "ref": "Exodus 4:31",
+      "fr": "Les gens ont cru. Lorsqu'ils apprirent qu'Adonoy se souvenait des B'nei Yisrael et qu'il avait vu leurs souffrances [qui lui furent révélées], ils inclinèrent la tête et se prosternèrent."
+    },
+    {
+      "ref": "Exodus 5:1",
+      "fr": "Ensuite, Moshe et Aharon allèrent et dirent à Pharaon : « Voici ce qu'a dit Adonoy, Dieu d'Israël : « Envoie mon peuple afin qu'il célèbre une fête devant moi dans le désert. »"
+    },
+    {
+      "ref": "Exodus 5:2",
+      "fr": "Pharaon dit : \" Qui est [Le nom de] Adonoy [ne m'a pas été révélé] pour que je doive obéir à sa voix [Parole] et laisser partir Yisrael. Je ne connais pas [Le nom de] Adonoy [ne m'est pas révélé], et je ne laisserai pas partir [les B'nei] Yisrael. \""
+    },
+    {
+      "ref": "Exodus 5:3",
+      "fr": "Ils lui dirent : \" Le Dieu des Hébreux s'est révélé à nous. S'il te plaît, permets-nous de faire un voyage de trois jours dans le désert et sacrifions à Adonoy, notre Dieu, de peur qu'il ne nous frappe de la peste ou de l'épée. \""
+    },
+    {
+      "ref": "Exodus 5:4",
+      "fr": "Le roi d'Egypte leur dit : \"Pourquoi, Moché et Aaron, détournez-vous le peuple de son travail ? Retournez à vos fardeaux.\""
+    },
+    {
+      "ref": "Exodus 5:5",
+      "fr": "Alors Pharaon dit : « Voici, les habitants du pays sont maintenant nombreux, et tu veux qu'ils prennent congé de leur dur labeur. »"
+    },
+    {
+      "ref": "Exodus 5:6",
+      "fr": "Ce jour-là, Pharaon commanda aux chefs du peuple et à leurs officiers, en disant :"
+    },
+    {
+      "ref": "Exodus 5:7",
+      "fr": "\"Vous ne donnerez plus au peuple de la paille pour faire des briques comme auparavant. Qu'il aille ramasser de la paille,"
+    },
+    {
+      "ref": "Exodus 5:8",
+      "fr": "[Et] vous leur imposerez la part de briques qu'ils ont fabriquée auparavant ; ne le réduisez pas, car ils sont paresseux et c'est pourquoi ils s'écrient en disant : « Nous voulons aller offrir un sacrifice à [devant] notre Dieu."
+    },
+    {
+      "ref": "Exodus 5:9",
+      "fr": "Alourdissez la charge de travail des hommes et obligez-les à le faire. Qu’ils ne parlent pas de fausses idées."
+    },
+    {
+      "ref": "Exodus 5:10",
+      "fr": "Ils sortirent, les chefs du peuple et leurs officiers, et parlèrent au peuple en disant : « Ainsi dit Pharaon : « Je ne vous donnerai plus de paille."
+    },
+    {
+      "ref": "Exodus 5:11",
+      "fr": "Vous devez aller chercher votre propre paille partout où vous pouvez la trouver, mais votre charge de travail ne doit pas être réduite.’ »"
+    },
+    {
+      "ref": "Exodus 5:12",
+      "fr": "Le peuple se répandit dans toute l'Égypte pour ramasser de la paille et du grain pour en faire de la paille."
+    },
+    {
+      "ref": "Exodus 5:13",
+      "fr": "Les maîtres d’œuvre ont fait pression sur eux en leur disant : « Vous devez accomplir votre travail quotidien [quota], tout comme [vous le faisiez] [avant] lorsqu’on vous donnait de la paille. »"
+    },
+    {
+      "ref": "Exodus 5:14",
+      "fr": "Les officiers du B’nei Yisrael ont été battus – ceux que les chefs de mission de Pharaon avaient nommés – et on leur a dit : « Pourquoi n’avez-vous pas rempli vos quotas de fabrication de briques comme vous l’avez fait hier et avant, ni hier, ni aujourd’hui ?"
+    },
+    {
+      "ref": "Exodus 5:15",
+      "fr": "Les officiers des B’nei Yisrael vinrent et crièrent au Pharaon : « Pourquoi fais-tu cela à tes esclaves ?"
+    },
+    {
+      "ref": "Exodus 5:16",
+      "fr": "Vos esclaves ne reçoivent pas de paille, et pourtant on nous dit de fabriquer des briques. Vos esclaves sont battus, et c'est un péché pour votre peuple [un péché contre eux]."
+    },
+    {
+      "ref": "Exodus 5:17",
+      "fr": "Il dit : « Vous êtes paresseux, c’est pourquoi vous dites : ‘Allons sacrifier à [devant] Adonoy.’"
+    },
+    {
+      "ref": "Exodus 5:18",
+      "fr": "Maintenant, vas-y, mets-toi au travail. Vous ne recevrez pas de paille et vous devrez livrer votre quota de briques."
+    },
+    {
+      "ref": "Exodus 5:19",
+      "fr": "Les officiers du B’nei Yisrael ont pris conscience de leur mauvaise position en disant : « Vous ne devez pas réduire votre quota quotidien de briques. »"
+    },
+    {
+      "ref": "Exodus 5:20",
+      "fr": "Ils rencontrèrent Moshe et Aharon qui les attendaient alors qu'ils quittaient Pharaon."
+    },
+    {
+      "ref": "Exodus 5:21",
+      "fr": "Ils leur dirent [Moché et Aharon] : \" Qu'Adonoy vous regarde [se révèle à vous] et juge [se venge]. Vous avez rendu notre odeur odieuse aux yeux de Pharaon et aux yeux de ses serviteurs, en leur mettant une épée dans les mains pour nous tuer. \""
+    },
+    {
+      "ref": "Exodus 5:22",
+      "fr": "Moshe retourna vers Adonoy et dit : \" Mon Maître. Pourquoi as-tu fait du mal à ce peuple ? Pourquoi m'as-tu envoyé ? \""
+    },
+    {
+      "ref": "Exodus 5:23",
+      "fr": "Depuis que je suis venu vers Pharaon pour parler en Ton Nom, il a fait du mal à ce peuple ; et tu n'as pas sauvé ton peuple."
+    },
+    {
+      "ref": "Exodus 6:1",
+      "fr": "Adonoy dit à Moshe : « Maintenant, tu verras ce que je ferai à Pharaon, car par [ma] main forte il les laissera partir, et par [ma] main forte, il les chassera de son pays. »"
+    }
+  ]
+}

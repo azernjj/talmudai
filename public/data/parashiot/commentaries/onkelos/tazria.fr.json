@@ -1,0 +1,276 @@
+{
+  "name": "Tazria",
+  "range": "Leviticus 12:1-13:59",
+  "commentary": "Onkelos",
+  "source": "public/data/parashiot/commentaries/onkelos/tazria.json",
+  "verses": [
+    {
+      "ref": "Leviticus 12:1",
+      "fr": "Adonoy a parlé à Moshe en disant :"
+    },
+    {
+      "ref": "Leviticus 12:2",
+      "fr": "Parle à Bnei Yisroel, et dis-leur : lorsqu'une femme conçoit et donne naissance à un enfant mâle, elle sera rituellement impure pendant sept jours ; tout comme les jours de son flux menstruel [l’état de sa « séparation » impure], elle sera impure."
+    },
+    {
+      "ref": "Leviticus 12:3",
+      "fr": "Le huitième jour, la chair de son prépuce sera circoncise."
+    },
+    {
+      "ref": "Leviticus 12:4",
+      "fr": "Pendant trente-trois jours, elle restera [dans le statut] où le sang [qu'elle voit] est rituellement pur. Elle ne touchera à rien de saint et elle n'entrera pas dans le Sanctuaire jusqu'à ce que les jours de sa pureté soient accomplis."
+    },
+    {
+      "ref": "Leviticus 12:5",
+      "fr": "Si elle donne naissance à une femelle, elle sera impure pendant deux semaines [quatorze jours] comme pendant ses règles [‘séparation’]. Pendant soixante-six jours, elle restera [dans le statut] où le sang [qu'elle voit] est rituellement pur."
+    },
+    {
+      "ref": "Leviticus 12:6",
+      "fr": "Lorsque les jours de sa purification seront accomplis, que ce soit pour un fils ou pour une fille, elle amènera un agneau de sa première année en holocauste et un jeune pigeon ou une tourterelle en sacrifice pour le péché, à l'entrée de la tente d'assignation, au kohein."
+    },
+    {
+      "ref": "Leviticus 12:7",
+      "fr": "Il l'apportera devant Adonoy et expiera pour elle et elle sera purifiée de la source [impureté] de son sang ; telle est la loi concernant la femme qui donne naissance à un mâle ou à une femelle."
+    },
+    {
+      "ref": "Leviticus 12:8",
+      "fr": "Si elle n'a pas les moyens d'acquérir un agneau, elle prendra deux tourterelles ou deux jeunes pigeons ; l'un en holocauste et l'autre en sacrifice pour le péché. Le kohein l'expiera et elle sera purifiée."
+    },
+    {
+      "ref": "Leviticus 13:1",
+      "fr": "Adonoy parla à Moché et à Aharon, disant :"
+    },
+    {
+      "ref": "Leviticus 13:2",
+      "fr": "Lorsqu'une personne aura, sur la peau de sa chair, une tache d'une blancheur intense [profonde] ou une tache blanc cassé, ou une tache blanche comme neige, et que cela se forme sur la peau de son corps [comme] la plaie de tsoraas, ['confinement'] elle sera amenée à Aharon, le kohein, ou à l'un de ses fils, le kohanim."
+    },
+    {
+      "ref": "Leviticus 13:3",
+      "fr": "Le kohein verra la plaie dans la peau de la chair et [si] les poils de l'éruption cutanée sont devenus blancs et l'apparence de la peste est plus profonde que la peau de son corps, c'est l'éruption cutanée de Tsoraas. ['confinement'] Le kohein le verra et le déclarera impur."
+    },
+    {
+      "ref": "Leviticus 13:4",
+      "fr": "S'il s'agit d'une tache blanche comme neige sur la peau de la chair et qu'elle ne paraît pas plus profonde que la peau et que les poils ne sont pas devenus blancs, le kohein confinera la plaie pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 13:5",
+      "fr": "Le kohein le verra le septième jour et voici ! [si] l'éruption cutanée a conservé sa teinte [est restée telle qu'elle était] ; l'éruption cutanée ne s'est pas étendue [augmentée] à la peau. Le kohein l'enfermera pendant sept jours, une seconde fois,"
+    },
+    {
+      "ref": "Leviticus 13:6",
+      "fr": "Le kohein le verra le septième jour pour la deuxième fois et voici ! [si] l'éruption cutanée est devenue plus faible et l'éruption cutanée ne s'est pas étendue [augmentée] dans la peau, le kohein le déclarera [être] pur ; c'est [simplement] une décoloration blanche [supprimée]. Il lavera ses vêtements et il sera purifié."
+    },
+    {
+      "ref": "Leviticus 13:7",
+      "fr": "Si la décoloration blanche [enlevée] s'est étendue [a augmenté] sur la peau après qu'elle ait été montrée au kohein, qui a déclaré qu'elle était propre, elle doit être montrée une seconde fois au kohein."
+    },
+    {
+      "ref": "Leviticus 13:8",
+      "fr": "Le kohein verra et contemplera ! [si] la décoloration blanche [enlevée] s'est étendue [augmentée] sur la peau, le kohein le déclarera impur, c'est tzoraas. ['confinement']"
+    },
+    {
+      "ref": "Leviticus 13:9",
+      "fr": "Lorsqu’il y a une éruption cutanée de tzoraas [« confinement »] sur une personne, elle doit être amenée au kohein."
+    },
+    {
+      "ref": "Leviticus 13:10",
+      "fr": "Le kohein verra et contemplera ! il y a une tache d'un blanc intense [profond] sur la peau et elle a rendu les cheveux blancs ou il y a [une impression de] chair saine dans la tache d'une blancheur intense [profonde],"
+    },
+    {
+      "ref": "Leviticus 13:11",
+      "fr": "c'est un vieux tsoraas ['confinement'] dans la peau de son corps et le kohein le déclarera impur, il ne le confinera pas, car il est [évidemment] impur."
+    },
+    {
+      "ref": "Leviticus 13:12",
+      "fr": "Et si le tzoraas [« confinement »] germe sur la peau et si le tzoraas [« confinement »] recouvre toute la peau de [celui affecté par] l'éruption de sa tête jusqu'à ses pieds dans la mesure où le kohein peut voir."
+    },
+    {
+      "ref": "Leviticus 13:13",
+      "fr": "Le kohein verra et contemplera ! le tsoraas ['confinement'] a recouvert tout son corps, il déclarera que l'éruption cutanée est purifiée, elle est devenue complètement blanche, il est pur."
+    },
+    {
+      "ref": "Leviticus 13:14",
+      "fr": "Le jour où une chair saine apparaîtra sur lui, il deviendra impur."
+    },
+    {
+      "ref": "Leviticus 13:15",
+      "fr": "Le kohein verra la chair saine et la déclarera impure. La chair saine est impure, c'est du tsoraas. ['confinement']"
+    },
+    {
+      "ref": "Leviticus 13:16",
+      "fr": "Ou, si la chair saine redevient blanche et devient blanche, il viendra [être amené] au kohein."
+    },
+    {
+      "ref": "Leviticus 13:17",
+      "fr": "Le kohein le verra, et voici ! l'éruption cutanée est devenue blanche ; le kohein déclarera que l'éruption cutanée est pure, il est pur."
+    },
+    {
+      "ref": "Leviticus 13:18",
+      "fr": "Lorsqu'une personne a sur sa peau une inflammation qui a guéri."
+    },
+    {
+      "ref": "Leviticus 13:19",
+      "fr": "S'il y avait sur la zone de l'inflammation une tache d'une blancheur intense [profonde] ou une tache blanche comme neige teintée de rouge, cela sera montré au kohein."
+    },
+    {
+      "ref": "Leviticus 13:20",
+      "fr": "Le kohein le verra et voilà ! son aspect est plus bas que la peau, et ses cheveux sont devenus blancs, le kohein le déclarera impur ; C’est l’éruption cutanée du tzoraas [« confinement »] qui a germé à travers l’inflammation."
+    },
+    {
+      "ref": "Leviticus 13:21",
+      "fr": "Si le kohein le regarde et voilà ! s'il n'y a pas de poils blancs, et s'ils ne sont pas plus bas que la peau et s'ils sont pâles, le kohein l'enfermera pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 13:22",
+      "fr": "Si cela se propage [augmente] dans la peau, le kohein le déclarera impur, c'est une éruption cutanée."
+    },
+    {
+      "ref": "Leviticus 13:23",
+      "fr": "Si la tache blanche comme neige reste à sa place et qu'elle ne s'est pas étendue [augmentée], c'est [simplement] une cicatrice [une impression] de l'inflammation et le kohein le déclarera pur."
+    },
+    {
+      "ref": "Leviticus 13:24",
+      "fr": "Lorsqu'une personne a sur sa peau une brûlure causée par un feu et [sur] la chair saine [empreinte] de la partie brûlée, apparaît une tache blanche comme neige teintée de rouge ou de tache blanche pure."
+    },
+    {
+      "ref": "Leviticus 13:25",
+      "fr": "Le kohein le verra et voilà ! les cheveux sont devenus blancs dans la tache blanche comme neige et leur aspect est plus profond que la peau ; c’est le tzoraas [‘confinement’] qui a germé dans le brûlage. Le kohein le déclarera impur, c'est l'éruption cutanée de tzoraas. ['confinement']"
+    },
+    {
+      "ref": "Leviticus 13:26",
+      "fr": "Si le kohein le voit, et voici ! il n'y a pas, dans la tache blanche comme neige, de poils blancs et ils ne sont pas plus bas que la peau, et ils sont pâles. Le kohein l'enfermera pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 13:27",
+      "fr": "Le kohein le verra le septième jour. Si cela s'est propagé [augmenté] dans la peau, le kohein le déclarera impur, c'est l'éruption cutanée de tzoraas. ['confinement']"
+    },
+    {
+      "ref": "Leviticus 13:28",
+      "fr": "Si la tache blanche comme neige reste à sa place et qu'elle ne s'est pas étendue à la peau et qu'elle est pâle, c'est la tache blanche [profonde] de la brûlure. Le kohein le déclarera pur car ce n'est [que] la cicatrice [l'impression] de la brûlure."
+    },
+    {
+      "ref": "Leviticus 13:29",
+      "fr": "Si un homme ou une femme aura une éruption cutanée sur la tête ou dans la barbe."
+    },
+    {
+      "ref": "Leviticus 13:30",
+      "fr": "Le kohein verra l'éruption cutanée, et voici ! son apparence est plus profonde que la peau et elle contient de fins poils dorés [rougeâtres]. Le kohein le déclarera impur, c'est un nesek, c'est tzoraas ['confinement'] de la tête ou de la barbe."
+    },
+    {
+      "ref": "Leviticus 13:31",
+      "fr": "Quand le kohein verra l’éruption cutanée du nesek – et voilà ! il ne paraît pas plus profond que la peau et il n'y a pas de poils noirs, le kohein confinera [celui affecté par] l'éruption cutanée du nesek pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 13:32",
+      "fr": "Le kohein verra l'éruption cutanée le septième jour, et voici ! le nesek ne s'est pas étendu [augmenté] et il n'y avait pas de poils dorés [rougeâtres] et l'apparence du nesek n'est pas plus profonde que la peau."
+    },
+    {
+      "ref": "Leviticus 13:33",
+      "fr": "Il sera rasé [raser autour du nesek] mais il ne se rasera pas [près du] nesek, et le kohein confinera le nesek pendant une seconde période de sept jours."
+    },
+    {
+      "ref": "Leviticus 13:34",
+      "fr": "Le kohein verra le nesek le septième jour et voici ! si le nesek ne s'est pas propagé [augmenté] dans la peau et que son apparence n'est pas plus profonde que la peau. The kohein shall declare him clean. He shall wash his garments and he will be clean."
+    },
+    {
+      "ref": "Leviticus 13:35",
+      "fr": "Si le nesek se propage [augmente] [largement] dans la peau après qu'il ait été déclaré propre,"
+    },
+    {
+      "ref": "Leviticus 13:36",
+      "fr": "le kohein le verra et voici ! le nesek s'est propagé [augmenté] dans la peau. Le kohein ne cherchera même pas les cheveux dorés [rougeâtres], il est impur."
+    },
+    {
+      "ref": "Leviticus 13:37",
+      "fr": "Si le nesek est resté le même qu'il était et que des cheveux noirs y ont poussé, le nesek est guéri, il est pur et le kohein le déclarera pur."
+    },
+    {
+      "ref": "Leviticus 13:38",
+      "fr": "Quand un homme ou une femme a sur la peau de sa chair des taches blanches."
+    },
+    {
+      "ref": "Leviticus 13:39",
+      "fr": "Le kohein verra, et voici ! dans la peau de leur chair se trouvent des taches blanches et pâles, c'est [simplement] de la gale qui a germé dans la peau ; c'est propre."
+    },
+    {
+      "ref": "Leviticus 13:40",
+      "fr": "If a mans hair falls out, he is [merely] bald; il est propre."
+    },
+    {
+      "ref": "Leviticus 13:41",
+      "fr": "Si ses cheveux tombent sur le devant de sa tête, il est chauve de face ; il est propre."
+    },
+    {
+      "ref": "Leviticus 13:42",
+      "fr": "S'il y a, dans la calvitie derrière la tête ou dans la calvitie devant la tête, une éruption cutanée blanche, teintée de rouge, c'est du tzoraas ['confinement'] poussant dans sa calvitie frontale ou dans sa calvitie postérieure."
+    },
+    {
+      "ref": "Leviticus 13:43",
+      "fr": "Le kohein le verra, et voici ! la tache d'une blancheur intense [profonde] est teintée de rouge dans sa calvitie frontale ou dans sa calvitie postérieure tout comme l'aspect tzoraas ['confinement'] de la peau de la chair."
+    },
+    {
+      "ref": "Leviticus 13:44",
+      "fr": "C’est une personne atteinte de tsoraas, [‘confinement’], il est impur. Le kohein le déclarera impur ; son éruption cutanée est sur la tête."
+    },
+    {
+      "ref": "Leviticus 13:45",
+      "fr": "Le tzorua [celui qui est « enfermé »] — [la personne] qui a une éruption cutanée — ses vêtements auront une déchirure, ses cheveux seront longs, et il devra se couvrir la tête jusqu'à sa lèvre supérieure [comme une personne en deuil], et [ne devenez pas] impur, [ne devenez pas] impur, criera-t-il."
+    },
+    {
+      "ref": "Leviticus 13:46",
+      "fr": "Tous les jours où il aura une éruption cutanée, il sera impur ; il est impur. Il habitera seul; sa demeure sera au-delà du camp."
+    },
+    {
+      "ref": "Leviticus 13:47",
+      "fr": "Quand dans un vêtement il y a une éruption cutanée de tzoraas, ['confinement'] que ce soit un vêtement de laine ou un vêtement de lin."
+    },
+    {
+      "ref": "Leviticus 13:48",
+      "fr": "Ou s'il s'agit des fils de chaîne [dans le sens de la longueur], ou des fils de trame [dans le sens de la largeur], dans un vêtement de lin, ou un vêtement de laine, ou sur du cuir ou dans tout objet en cuir."
+    },
+    {
+      "ref": "Leviticus 13:49",
+      "fr": "Si la plaie est vert foncé ou rouge foncé [vert ou rouge], dans le vêtement, ou dans la peau, ou dans les fils de chaîne, ou dans les fils de trame, ou si elle est dans tout objet en cuir ; c'est l'éruption du tzoraas ['confinement'] et cela sera montré au kohein."
+    },
+    {
+      "ref": "Leviticus 13:50",
+      "fr": "Le kohein verra la peste et limitera l'éruption pendant sept jours."
+    },
+    {
+      "ref": "Leviticus 13:51",
+      "fr": "Il verra l'éruption le septième jour. Si l'éruption s'est étendue [a augmenté] dans le vêtement ou dans le fil de chaîne, ou dans le fil de trame, ou dans la peau de cuir, ou dans l'ouvrage en cuir, c'est un tsoraas épineux, ['confinement' de perte], c'est impur."
+    },
+    {
+      "ref": "Leviticus 13:52",
+      "fr": "Il brûlera le vêtement, ou les fils de chaîne [dans le sens de la longueur], ou les fils de trame [dans le sens de la largeur], que ce soit en laine ou en lin, ou dans tous les objets en cuir dans lesquels il y a de l'éruption. Car c'est un tsoraas épineux. ['confinement' de perte] Il sera brûlé au feu."
+    },
+    {
+      "ref": "Leviticus 13:53",
+      "fr": "Si le kohein voit, et voilà ! l'éruption ne s'est pas étendue au vêtement, ni aux fils de chaîne, ni aux fils de trame, ni à aucun objet en cuir."
+    },
+    {
+      "ref": "Leviticus 13:54",
+      "fr": "Le kohein ordonnera de laver l'article ayant l'éruption et de le confiner pendant sept jours, une seconde fois."
+    },
+    {
+      "ref": "Leviticus 13:55",
+      "fr": "Le kohein le verra après que l'éruption ait été lavée et voilà ! [même si] l'éruption n'a pas changé de teinte [par rapport à ce qu'elle était] et l'éruption ne s'est pas étendue [augmentée] ; c'est impur, tu le brûleras au feu. C'est une marque [cassure] profonde que ce soit dans un [vêtement] usé ou dans un [vêtement] neuf."
+    },
+    {
+      "ref": "Leviticus 13:56",
+      "fr": "Si le kohein voyait et voilà ! l'éruption s'est atténuée après avoir été lavée ; il l'arrachera du vêtement, ou du cuir, ou des fils de chaîne, ou des fils de trame."
+    },
+    {
+      "ref": "Leviticus 13:57",
+      "fr": "S'il apparaît à nouveau, dans le vêtement ou dans les fils de chaîne [dans le sens de la longueur], ou dans les fils de trame [dans le sens de la largeur], ou dans tout objet en cuir, c'est une explosion récurrente de tzoraas. Vous brûlerez l'article ayant une éruption dans le feu."
+    },
+    {
+      "ref": "Leviticus 13:58",
+      "fr": "Le vêtement, ou les fils de chaîne, ou les fils de trame, ou tout objet en cuir qui a été lavé et dont l'éruption en a disparu, sera lavé une seconde fois et il sera purifié."
+    },
+    {
+      "ref": "Leviticus 13:59",
+      "fr": "C'est la loi de l'éruption du tzoraas ['confinement'] que ce soit dans un vêtement de laine, ou un vêtement de lin, ou dans le fil de chaîne [dans le sens de la longueur], ou dans le fil de trame [dans le sens de la largeur], ou dans tout objet en cuir, qu'il soit déclaré pur, ou qu'il soit déclaré impur."
+    }
+  ]
+}
