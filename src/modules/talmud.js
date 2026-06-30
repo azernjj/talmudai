@@ -6,38 +6,44 @@ import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 
 let extraCommentaryCache = {}
 
-export function renderLibrary() {
-  const library = document.querySelector('#library')
-  const q = (document.querySelector('#masechetSearch')?.value || '').trim().toLowerCase()
-  const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
+export async function renderExtraCommentary(slug, title) {
+  const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
+  box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
 
-  library.innerHTML = sedarim.map(seder => {
-    const filtered = seder.masechtot.filter(m =>
-      m.name.toLowerCase().includes(q) || m.file.toLowerCase().includes(q)
-    )
+  try {
+    const data = await loadExtraCommentary(slug)
 
-    if (!filtered.length) return ''
+    if (!data?.dapim?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce traité.`
+      return
+    }
 
-    return `
-      <div class="seder">
-        <h3>${seder.name}</h3>
-        ${filtered.map(m => `
-          <button class="masechet ${m.file === currentFile ? 'active' : ''}" data-file="${m.file}">
-            ${m.name}
-          </button>
-        `).join('')}
-      </div>
+    const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
+
+    if (!daf?.comments?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`
+      return
+    }
+
+    box.innerHTML = `
+      <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
+
+      ${daf.comments.map(item => `
+        <div class="rashiItem">
+          <p class="he">${item.he || ''}</p>
+
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? (item.fr || item.en || 'Traduction française en préparation.')
+              : (item.en || 'English translation unavailable.')
+          )}</p>
+        </div>
+      `).join('')}
     `
-  }).join('')
-
-  document.querySelectorAll('.masechet').forEach(btn => {
-    btn.addEventListener('click', () => {
-      loadMasechet(btn.dataset.file)
-      document.querySelector('.sidebar')?.classList.remove('open')
-    })
-  })
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
+  }
 }
-
 export async function loadMasechet(file) {
   state.currentMode = 'talmud'
   state.currentParasha = null
