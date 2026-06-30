@@ -1,5 +1,5 @@
 import { state, sedarim } from '../state.js'
-import { sortDaf } from './utils.js'
+import { sortDaf, escapeHtml } from './utils.js'
 import { installHebrewWordClick } from './dictionary.js'
 import { renderParashaRashi } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
@@ -20,10 +20,10 @@ export function renderLibrary() {
 
     return `
       <div class="seder">
-        <h3>${seder.name}</h3>
+        <h3>${escapeHtml(seder.name)}</h3>
         ${filtered.map(m => `
-          <button class="masechet ${m.file === currentFile ? 'active' : ''}" data-file="${m.file}">
-            ${m.name}
+          <button class="masechet ${m.file === currentFile ? 'active' : ''}" data-file="${escapeHtml(m.file)}">
+            ${escapeHtml(m.name)}
           </button>
         `).join('')}
       </div>
@@ -44,6 +44,7 @@ export async function loadMasechet(file) {
   extraCommentaryCache = {}
 
   localStorage.setItem('currentFile', file)
+
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement du traité...</div>'
   document.querySelector('#commentBox').innerHTML = 'Choisis un commentaire.'
 
@@ -88,18 +89,18 @@ export function renderDafNav() {
 
   box.innerHTML = `
     <div class="dafNav selectMode">
-      <button id="topPrevDafBtn" ${prev ? '' : 'disabled'}>← ${prev || ''}</button>
+      <button id="topPrevDafBtn" ${prev ? '' : 'disabled'}>← ${escapeHtml(prev || '')}</button>
 
       <label class="dafSelectLabel">
         Daf
         <select id="dafSelect">
           ${dapim.map(daf => `
-            <option value="${daf}" ${daf === state.currentDaf ? 'selected' : ''}>${daf}</option>
+            <option value="${escapeHtml(daf)}" ${daf === state.currentDaf ? 'selected' : ''}>${escapeHtml(daf)}</option>
           `).join('')}
         </select>
       </label>
 
-      <button id="topNextDafBtn" ${next ? '' : 'disabled'}>${next || ''} →</button>
+      <button id="topNextDafBtn" ${next ? '' : 'disabled'}>${escapeHtml(next || '')} →</button>
     </div>
   `
 
@@ -151,16 +152,16 @@ export function renderDaf(daf) {
           <div class="he clickableHe">${seg.he || ''}</div>
           <div class="translation">
             ${state.currentLang === 'fr'
-              ? (seg.fr || 'Traduction française en préparation.')
-              : (seg.en || 'English translation in preparation.')}
+              ? escapeHtml(seg.fr || 'Traduction française en préparation.')
+              : escapeHtml(seg.en || 'English translation in preparation.')}
           </div>
         </section>
       `).join('')}
     </article>
 
     <div class="bottomNav">
-      ${prev ? `<button id="prevDafBtn">← Daf précédent (${prev})</button>` : ''}
-      ${next ? `<button id="nextDafBtn">Daf suivant (${next}) →</button>` : ''}
+      ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
+      ${next ? `<button id="nextDafBtn">Daf suivant (${escapeHtml(next)}) →</button>` : ''}
     </div>
   `
 
@@ -179,7 +180,10 @@ function renderTalmudCommentaryButtons() {
       <button id="tosafotBtnLocal">Tossefot</button>
       <button id="ritvaBtnLocal">Ritva</button>
     </div>
-    <div id="talmudCommentaryBox">Choisis un commentaire.</div>
+
+    <div id="talmudCommentaryBox">
+      Choisis un commentaire.
+    </div>
   `
 
   document.querySelector('#rashiBtnLocal')?.addEventListener('click', () => renderCommentary('rashi'))
@@ -195,10 +199,18 @@ export function renderCommentary(type) {
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
 
   box.innerHTML = items.length
-    ? items.map(x => typeof x === 'string'
-      ? `<div class="rashiItem"><p class="he">${x}</p></div>`
-      : `<div class="rashiItem"><p class="he">${x.he || x.text || ''}</p></div>`
-    ).join('')
+    ? items.map(x => {
+      if (typeof x === 'string') {
+        return `<div class="rashiItem"><p class="he">${x}</p></div>`
+      }
+
+      return `
+        <div class="rashiItem">
+          <p class="he">${x.he || x.text || ''}</p>
+          ${x.en ? `<p>${escapeHtml(x.en)}</p>` : ''}
+        </div>
+      `
+    }).join('')
     : 'Commentaire non disponible pour ce daf.'
 }
 
@@ -241,11 +253,11 @@ export async function renderExtraCommentary(slug, title) {
       ${daf.comments.map(item => `
         <div class="rashiItem">
           <p class="he">${item.he || ''}</p>
-          <p>${escapeHtml(
+          ${
             state.currentLang === 'fr'
-              ? (item.fr || item.en || 'Traduction française en préparation.')
-              : (item.en || 'English translation unavailable.')
-          )}</p>
+              ? `<p>${escapeHtml(item.fr || item.en || 'Traduction française en préparation.')}</p>`
+              : `<p>${escapeHtml(item.en || 'English translation unavailable.')}</p>`
+          }
         </div>
       `).join('')}
     `
