@@ -6,44 +6,38 @@ import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 
 let extraCommentaryCache = {}
 
-export async function renderExtraCommentary(slug, title) {
-  const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
-  box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
+export function renderLibrary() {
+  const library = document.querySelector('#library')
+  const q = (document.querySelector('#masechetSearch')?.value || '').trim().toLowerCase()
+  const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
 
-  try {
-    const data = await loadExtraCommentary(slug)
+  library.innerHTML = sedarim.map(seder => {
+    const filtered = seder.masechtot.filter(m =>
+      m.name.toLowerCase().includes(q) || m.file.toLowerCase().includes(q)
+    )
 
-    if (!data?.dapim?.length) {
-      box.innerHTML = `${escapeHtml(title)} non disponible pour ce traité.`
-      return
-    }
+    if (!filtered.length) return ''
 
-    const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
-
-    if (!daf?.comments?.length) {
-      box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`
-      return
-    }
-
-    box.innerHTML = `
-      <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
-
-      ${daf.comments.map(item => `
-        <div class="rashiItem">
-          <p class="he">${item.he || ''}</p>
-
-          <p>${escapeHtml(
-            state.currentLang === 'fr'
-              ? (item.fr || item.en || 'Traduction française en préparation.')
-              : (item.en || 'English translation unavailable.')
-          )}</p>
-        </div>
-      `).join('')}
+    return `
+      <div class="seder">
+        <h3>${seder.name}</h3>
+        ${filtered.map(m => `
+          <button class="masechet ${m.file === currentFile ? 'active' : ''}" data-file="${m.file}">
+            ${m.name}
+          </button>
+        `).join('')}
+      </div>
     `
-  } catch (e) {
-    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
-  }
+  }).join('')
+
+  document.querySelectorAll('.masechet').forEach(btn => {
+    btn.addEventListener('click', () => {
+      loadMasechet(btn.dataset.file)
+      document.querySelector('.sidebar')?.classList.remove('open')
+    })
+  })
 }
+
 export async function loadMasechet(file) {
   state.currentMode = 'talmud'
   state.currentParasha = null
@@ -109,10 +103,10 @@ export function renderDafNav() {
     </div>
   `
 
-  document.querySelector('#dafSelect').addEventListener('change', e => goToDaf(e.target.value))
+  document.querySelector('#dafSelect')?.addEventListener('change', e => goToDaf(e.target.value))
 
-  if (prev) document.querySelector('#topPrevDafBtn').addEventListener('click', () => goToDaf(prev))
-  if (next) document.querySelector('#topNextDafBtn').addEventListener('click', () => goToDaf(next))
+  if (prev) document.querySelector('#topPrevDafBtn')?.addEventListener('click', () => goToDaf(prev))
+  if (next) document.querySelector('#topNextDafBtn')?.addEventListener('click', () => goToDaf(next))
 }
 
 export function goToDaf(daf) {
@@ -147,8 +141,8 @@ export function renderDaf(daf) {
   document.querySelector('#segments').innerHTML = `
     <article class="talmudPage">
       <div class="talmudPageHeader">
-        <span>${state.currentData.title}</span>
-        <strong>${daf}</strong>
+        <span>${escapeHtml(state.currentData.title || '')}</span>
+        <strong>${escapeHtml(daf)}</strong>
       </div>
 
       ${(data.segments || []).map((seg, index) => `
@@ -234,7 +228,7 @@ export async function renderExtraCommentary(slug, title) {
       return
     }
 
-    const daf = (data.dapim || []).find(d => d.daf === state.currentDaf)
+    const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
 
     if (!daf?.comments?.length) {
       box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`
@@ -243,6 +237,7 @@ export async function renderExtraCommentary(slug, title) {
 
     box.innerHTML = `
       <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
+
       ${daf.comments.map(item => `
         <div class="rashiItem">
           <p class="he">${item.he || ''}</p>
