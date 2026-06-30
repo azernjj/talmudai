@@ -9,7 +9,7 @@ let commentaryCache = {}
 
 const commentaries = [
   { slug: 'mishnah-berurah', title: 'Mishnah Berurah' },
-  { slug: 'beur-halakha', title: 'Beur Halakha' },
+  { slug: 'beur-halakha', title: 'Biour Halakha' },
   { slug: 'magen-avraham', title: 'Magen Avraham' },
   { slug: 'taz', title: 'Taz' },
   { slug: 'baer-hetev', title: 'Ba’er Hetev' }
