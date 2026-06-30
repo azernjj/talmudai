@@ -211,6 +211,24 @@ export function renderParashaRashi() {
   box.innerHTML = html || 'Rachi non disponible pour cette paracha.'
 }
 
+function mergeFrenchCommentary(commentary, frCommentary) {
+  if (!frCommentary?.verses) return commentary
+
+  const frByRef = new Map((frCommentary.verses || []).map(v => [v.ref, v]))
+
+  return {
+    ...commentary,
+    verses: (commentary.verses || []).map(v => {
+      const frVerse = frByRef.get(v.ref)
+
+      return {
+        ...v,
+        fr: frVerse?.fr || v.fr || ''
+      }
+    })
+  }
+}
+
 async function loadParashaCommentary(slug) {
   if (!currentParashaFile) return null
   if (parashaCommentaryCache[slug]) return parashaCommentaryCache[slug]
@@ -218,8 +236,18 @@ async function loadParashaCommentary(slug) {
   const res = await fetch(`/data/parashiot/commentaries/${slug}/${currentParashaFile}`)
   if (!res.ok) return null
 
-  const data = await res.json()
+  const rawData = await res.json()
+
+  let frData = null
+  try {
+    const frFile = currentParashaFile.replace('.json', '.fr.json')
+    const frRes = await fetch(`/data/parashiot/commentaries/${slug}/${frFile}`)
+    if (frRes.ok) frData = await frRes.json()
+  } catch {}
+
+  const data = mergeFrenchCommentary(rawData, frData)
   parashaCommentaryCache[slug] = data
+
   return data
 }
 
@@ -259,7 +287,7 @@ export async function renderGenericParashaCommentary(slug) {
             <p class="he">${v.he || ''}</p>
             <p>${escapeHtml(
               state.currentLang === 'fr'
-                ? (v.fr || v.en || `Traduction française de ${title} en préparation.`)
+                ? (v.fr || `Traduction française de ${title} en préparation.`)
                 : (v.en || 'English translation unavailable.')
             )}</p>
           </div>
