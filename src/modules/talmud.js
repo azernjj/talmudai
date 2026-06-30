@@ -4,6 +4,8 @@ import { installHebrewWordClick } from './dictionary.js'
 import { renderParashaRashi } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 
+let extraCommentaryCache = {}
+
 export function renderLibrary() {
   const library = document.querySelector('#library')
   const q = (document.querySelector('#masechetSearch')?.value || '').trim().toLowerCase()
@@ -39,6 +41,7 @@ export function renderLibrary() {
 export async function loadMasechet(file) {
   state.currentMode = 'talmud'
   state.currentParasha = null
+  extraCommentaryCache = {}
 
   localStorage.setItem('currentFile', file)
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement du traité...</div>'
@@ -136,17 +139,24 @@ export function renderDaf(daf) {
   document.querySelector('#dafTitle').textContent = `${state.currentData.title} ${daf}`
 
   document.querySelector('#segments').innerHTML = `
-    ${(data.segments || []).map((seg, index) => `
-      <article class="segment">
-        <div class="segNum">Segment ${index + 1}</div>
-        <div class="he clickableHe">${seg.he || ''}</div>
-        <div class="translation">
-          ${state.currentLang === 'fr'
-            ? (seg.fr || 'Traduction française en préparation.')
-            : (seg.en || 'English translation in preparation.')}
-        </div>
-      </article>
-    `).join('')}
+    <article class="talmudPage">
+      <div class="talmudPageHeader">
+        <span>${state.currentData.title}</span>
+        <strong>${daf}</strong>
+      </div>
+
+      ${(data.segments || []).map((seg, index) => `
+        <section class="talmudLine">
+          <div class="segNum">§ ${index + 1}</div>
+          <div class="he clickableHe">${seg.he || ''}</div>
+          <div class="translation">
+            ${state.currentLang === 'fr'
+              ? (seg.fr || 'Traduction française en préparation.')
+              : (seg.en || 'English translation in preparation.')}
+          </div>
+        </section>
+      `).join('')}
+    </article>
 
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${prev})</button>` : ''}
@@ -154,10 +164,27 @@ export function renderDaf(daf) {
     </div>
   `
 
+  renderTalmudCommentaryButtons()
+
   if (prev) document.querySelector('#prevDafBtn')?.addEventListener('click', () => goToDaf(prev))
   if (next) document.querySelector('#nextDafBtn')?.addEventListener('click', () => goToDaf(next))
 
   installHebrewWordClick()
+}
+
+function renderTalmudCommentaryButtons() {
+  document.querySelector('#commentBox').innerHTML = `
+    <div class="commentActions">
+      <button id="rashiBtnLocal">Rachi</button>
+      <button id="tosafotBtnLocal">Tossefot</button>
+      <button id="ritvaBtnLocal">Ritva</button>
+    </div>
+    <div id="talmudCommentaryBox">Choisis un commentaire.</div>
+  `
+
+  document.querySelector('#rashiBtnLocal')?.addEventListener('click', () => renderCommentary('rashi'))
+  document.querySelector('#tosafotBtnLocal')?.addEventListener('click', () => renderCommentary('tosafot'))
+  document.querySelector('#ritvaBtnLocal')?.addEventListener('click', () => renderExtraCommentary('ritva', 'Ritva'))
 }
 
 export function renderCommentary(type) {
@@ -165,13 +192,65 @@ export function renderCommentary(type) {
 
   const data = state.currentData.dapim[state.currentDaf]
   const items = data[type] || []
+  const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
 
-  document.querySelector('#commentBox').innerHTML = items.length
+  box.innerHTML = items.length
     ? items.map(x => typeof x === 'string'
-      ? `<p class="he">${x}</p>`
-      : `<p class="he">${x.he || x.text || ''}</p>`
+      ? `<div class="rashiItem"><p class="he">${x}</p></div>`
+      : `<div class="rashiItem"><p class="he">${x.he || x.text || ''}</p></div>`
     ).join('')
     : 'Commentaire non disponible pour ce daf.'
+}
+
+async function loadExtraCommentary(slug) {
+  const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
+  const key = `${slug}/${currentFile}`
+
+  if (extraCommentaryCache[key]) return extraCommentaryCache[key]
+
+  const res = await fetch(`/data/commentaries/${slug}/${currentFile}`)
+  if (!res.ok) return null
+
+  const data = await res.json()
+  extraCommentaryCache[key] = data
+  return data
+}
+
+export async function renderExtraCommentary(slug, title) {
+  const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
+  box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
+
+  try {
+    const data = await loadExtraCommentary(slug)
+
+    if (!data?.dapim?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce traité.`
+      return
+    }
+
+    const daf = (data.dapim || []).find(d => d.daf === state.currentDaf)
+
+    if (!daf?.comments?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`
+      return
+    }
+
+    box.innerHTML = `
+      <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
+      ${daf.comments.map(item => `
+        <div class="rashiItem">
+          <p class="he">${item.he || ''}</p>
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? (item.fr || item.en || 'Traduction française en préparation.')
+              : (item.en || 'English translation unavailable.')
+          )}</p>
+        </div>
+      `).join('')}
+    `
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
+  }
 }
 
 export function initTalmudEvents() {
