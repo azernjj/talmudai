@@ -748,3 +748,23 @@ button.active,
   border-radius: 12px;
   margin-top: 10px;
 }
+.titleWithLang {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.titleLangButtons {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.titleLangButtons button {
+  font-size: 13px;
+  padding: 7px 12px;
+  border-radius: 999px;
+}
+

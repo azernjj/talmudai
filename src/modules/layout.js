@@ -16,8 +16,6 @@ export function renderLayout(app) {
 
     <div class="studyBar">
       <button class="studyTab active">📖 Texte</button>
-      <button class="studyTab">🇫🇷 Français</button>
-      <button class="studyTab">🇬🇧 English</button>
       <button class="studyTab">📜 Commentaires</button>
       <button class="studyTab">⚙️ Options</button>
     </div>
@@ -26,12 +24,6 @@ export function renderLayout(app) {
       <aside class="sidebar">
         <section class="sideBlock">
           <h2>📚 Sedarim</h2>
-
-          <div class="sideLangButtons">
-            <button id="frBtn">🇫🇷 Français</button>
-            <button id="enBtn">🇬🇧 English</button>
-          </div>
-
           <input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" />
           <div id="library" class="sideScroll"></div>
         </section>
@@ -54,12 +46,6 @@ export function renderLayout(app) {
 
       <section class="comments">
         <h2>📜 Commentaires</h2>
-
-        <div class="commentActions">
-          <button id="rashiBtn">Rachi</button>
-          <button id="tosafotBtn">Tossefot</button>
-        </div>
-
         <div id="commentBox" class="commentBox">Choisis un commentaire.</div>
       </section>
     </div>
