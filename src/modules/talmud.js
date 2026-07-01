@@ -1,7 +1,7 @@
 import { state, sedarim } from '../state.js'
 import { sortDaf, escapeHtml } from './utils.js'
 import { installHebrewWordClick } from './dictionary.js'
-import { renderParashaRashi } from './parashiot.js'
+import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 
 let extraCommentaryCache = {}
@@ -21,6 +21,8 @@ export function renderLibrary() {
   const library = document.querySelector('#library')
   const q = (document.querySelector('#masechetSearch')?.value || '').trim().toLowerCase()
   const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
+
+  if (!library) return
 
   library.innerHTML = sedarim.map(seder => {
     const filtered = seder.masechtot.filter(m =>
@@ -86,6 +88,7 @@ export async function loadMasechet(file) {
 
 export function renderDafNav() {
   const box = document.querySelector('#dafNav')
+  if (!box) return
 
   if (!state.currentData || !state.currentData.dapim) {
     box.innerHTML = ''
@@ -208,7 +211,11 @@ export function renderCommentary(type) {
       return `
         <div class="rashiItem">
           <p class="he">${x.he || x.text || ''}</p>
-          ${x.en ? `<p>${escapeHtml(cleanText(x.en))}</p>` : ''}
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? cleanText(x.fr || x.en || 'Traduction française en préparation.')
+              : cleanText(x.en || 'English translation unavailable.')
+          )}</p>
         </div>
       `
     }).join('')
@@ -267,6 +274,22 @@ export async function renderExtraCommentary(slug, title) {
   }
 }
 
+function refreshCurrentViewAfterLanguageChange() {
+  if (state.currentMode === 'parasha' && state.currentParasha?.file) {
+    loadParasha(state.currentParasha.file)
+    return
+  }
+
+  if (state.currentMode === 'talmud' && state.currentData && state.currentDaf) {
+    renderDaf(state.currentDaf)
+    return
+  }
+
+  if (state.currentMode === 'shulchan') {
+    renderShulchanCommentaryNotice()
+  }
+}
+
 export function initTalmudEvents() {
   document.querySelector('#masechetSearch')?.addEventListener('input', renderLibrary)
 
@@ -292,13 +315,13 @@ export function initTalmudEvents() {
 
   document.querySelector('#frBtn')?.addEventListener('click', () => {
     state.currentLang = 'fr'
-    localStorage.setItem('talmudLang', state.currentLang)
-    if (state.currentMode === 'talmud' && state.currentData) renderDaf(state.currentDaf)
+    localStorage.setItem('talmudLang', 'fr')
+    refreshCurrentViewAfterLanguageChange()
   })
 
   document.querySelector('#enBtn')?.addEventListener('click', () => {
     state.currentLang = 'en'
-    localStorage.setItem('talmudLang', state.currentLang)
-    if (state.currentMode === 'talmud' && state.currentData) renderDaf(state.currentDaf)
+    localStorage.setItem('talmudLang', 'en')
+    refreshCurrentViewAfterLanguageChange()
   })
 }

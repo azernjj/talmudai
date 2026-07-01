@@ -36,11 +36,16 @@ export function renderLayout(app) {
       </aside>
 
       <main class="reader">
-        <div class="readerHeader">
+        <div class="readerTitleRow">
           <h2 id="dafTitle">Chargement...</h2>
-          <div id="dafNav"></div>
+
+          <div class="titleLangButtons">
+            <button id="frBtn">🇫🇷 Français</button>
+            <button id="enBtn">🇬🇧 English</button>
+          </div>
         </div>
 
+        <div id="dafNav"></div>
         <div id="segments"></div>
       </main>
 
