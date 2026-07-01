@@ -127,7 +127,7 @@ button.active,
   overflow-y: auto;
 }
 
-#dafTitle,
+#daf Title,
 .sidebar h2,
 .comments h2 {
   margin-top: 0;
@@ -755,16 +755,13 @@ button.active,
   gap: 12px;
   flex-wrap: wrap;
 }
-
 .titleLangButtons {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 8px;
 }
-
 .titleLangButtons button {
-  font-size: 13px;
-  padding: 7px 12px;
-  border-radius: 999px;
+    min-width: 120px;
 }
-
