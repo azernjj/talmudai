@@ -6,14 +6,28 @@ const outBase = "public/data/parashiot/commentaries";
 
 const commentaries = [
   {
+    slug: "onkelos",
+    title: "Onkelos",
+    sefaria: "Onkelos",
+    mode: "prefix"
+  },
+  {
     slug: "sforno",
     title: "Sforno",
-    sefaria: "Sforno"
+    sefaria: "Sforno",
+    mode: "on"
   },
   {
     slug: "ramban",
     title: "Ramban",
-    sefaria: "Ramban"
+    sefaria: "Ramban",
+    mode: "on"
+  },
+  {
+    slug: "ohr-hachaim",
+    title: "Ohr HaHaïm",
+    sefaria: "Ohr HaChaim",
+    mode: "on"
   }
 ];
 
@@ -62,6 +76,14 @@ function extractText(data, lang) {
   return "";
 }
 
+function buildRef(commentary, ref) {
+  if (commentary.mode === "prefix") {
+    return `${commentary.sefaria} ${ref}`;
+  }
+
+  return `${commentary.sefaria} on ${ref}`;
+}
+
 async function fetchCommentaryForParasha(commentary, file) {
   if (file === "index.json" || file.endsWith(".fr.json")) return;
 
@@ -96,14 +118,14 @@ async function fetchCommentaryForParasha(commentary, file) {
     };
 
     if (!existing.he) {
-      const ref = `${commentary.sefaria} on ${v.ref}`;
+      const ref = buildRef(commentary, v.ref);
       const heData = await fetchSefaria(ref, "he");
       existing.he = extractText(heData, "he");
       await delay(150);
     }
 
     if (!existing.en) {
-      const ref = `${commentary.sefaria} on ${v.ref}`;
+      const ref = buildRef(commentary, v.ref);
       const enData = await fetchSefaria(ref, "en");
       existing.en = extractText(enData, "en");
       await delay(150);
@@ -132,7 +154,7 @@ async function main() {
     }
   }
 
-  console.log("\n✅ Sforno + Ramban terminés.");
+  console.log("\n✅ Mikraot Guedolot terminé.");
 }
 
 main().catch(err => {
