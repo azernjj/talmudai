@@ -9,7 +9,8 @@ const mikraotCommentaries = [
   { slug: 'rashi', title: 'Rachi' },
   { slug: 'onkelos', title: 'Onkelos' },
   { slug: 'sforno', title: 'Sforno' },
-  { slug: 'ramban', title: 'Ramban' }
+  { slug: 'ramban', title: 'Ramban' },
+  { slug: 'ohr-hachaim', title: 'Ohr HaHaïm' }
 ]
 
 export async function openParashiot() {
