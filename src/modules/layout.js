@@ -6,20 +6,6 @@ export function renderLayout(app) {
         <p>Beit Midrash numérique</p>
       </div>
 
-      <div class="lang">
-        <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
-        <button id="dictBtn">📖 Dictionnaire</button>
-        <button id="parashaBtn">📖 Parachiot</button>
-        <input id="globalSearch" placeholder="🔎 Rechercher..." autocomplete="off" />
-      </div>
-    </header>
-
-    <div class="studyBar">
-      <button class="studyTab active">📖 Texte</button>
-      <button class="studyTab">📜 Commentaires</button>
-      <button class="studyTab">⚙️ Options</button>
-    </div>
-
     <div class="layout">
       <aside class="sidebar">
         <section class="sideBlock">
