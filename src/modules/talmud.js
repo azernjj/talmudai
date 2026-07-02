@@ -183,7 +183,8 @@ function renderTalmudCommentaryButtons() {
       <button id="rashiBtnLocal">Rachi</button>
       <button id="tosafotBtnLocal">Tossefot</button>
       <button id="ritvaBtnLocal">Ritva</button>
-    </div>
+      <button id="roshBtnLocal">Roch</button>
+      </div>
 
     <div id="talmudCommentaryBox">
       Choisis un commentaire.
@@ -193,6 +194,7 @@ function renderTalmudCommentaryButtons() {
   document.querySelector('#rashiBtnLocal')?.addEventListener('click', () => renderCommentary('rashi'))
   document.querySelector('#tosafotBtnLocal')?.addEventListener('click', () => renderCommentary('tosafot'))
   document.querySelector('#ritvaBtnLocal')?.addEventListener('click', () => renderExtraCommentary('ritva', 'Ritva'))
+  document.querySelector('#roshBtnLocal')?.addEventListener('click', () => renderExtraCommentary('rosh', 'Roch'))
 }
 
 export function renderCommentary(type) {
