@@ -26,10 +26,10 @@ const commentaries = [
   {
     slug: "ohr-hachaim",
     title: "Ohr HaHaïm",
-    sefaria: "Ohr HaChaim",
+    sefaria: "Or HaChaim",
     mode: "on"
   }
-];
+]
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 
@@ -65,15 +65,26 @@ async function fetchSefaria(ref, lang = "he") {
 }
 
 function extractText(data, lang) {
-  const raw = lang === "he" ? data?.he : data?.text;
+  if (!data) return ""
+
+  const raw = lang === "he"
+    ? (data.he || data.heText || data.text || [])
+    : (data.text || data.en || [])
 
   if (Array.isArray(raw)) {
-    return raw.flat(Infinity).filter(Boolean).map(cleanHtml).join(" ");
+    return raw
+      .flat(Infinity)
+      .filter(Boolean)
+      .map(cleanHtml)
+      .join(" ")
+      .trim()
   }
 
-  if (typeof raw === "string") return cleanHtml(raw);
+  if (typeof raw === "string") {
+    return cleanHtml(raw)
+  }
 
-  return "";
+  return ""
 }
 
 function buildRef(commentary, ref) {
