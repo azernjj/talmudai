@@ -741,3 +741,17 @@ button.active,
 .titleLangButtons button {
     min-width: 120px;
 }
+.readerTitleRow {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  box-shadow: var(--shadow);
+}
+
+.readerTitleRow #dafTitle {
+  margin: 0 0 10px;
+  text-align: center;
+  color: var(--blue);
+}
