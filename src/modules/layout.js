@@ -14,12 +14,6 @@ export function renderLayout(app) {
       </div>
     </header>
 
-    <div class="studyBar">
-      <button class="studyTab active">📖 Texte</button>
-      <button class="studyTab">📜 Commentaires</button>
-      <button class="studyTab">⚙️ Options</button>
-    </div>
-
     <div class="layout">
       <aside class="sidebar">
         <section class="sideBlock">
