@@ -63599,7 +63599,7 @@
           "id": 9,
           "he": "בְּעָא מִינֵּיהּ רַב הוּנָא מֵרַב אָשֵׁי: חָמֵשׁ מַהוּ? אֲמַר לֵיהּ: אֲפִילּוּ שֶׁבַע מֻתָּר. תֵּשַׁע מַאי? אֲמַר לֵיהּ: אֲפִילּוּ שְׁמוֹנֶה אָסוּר.",
           "en": "<b>Rav Huna raised a dilemma before Rav Ashi:</b> With a sandal that has <b>five</b> nails inserted into the sole, <b>what is</b> the <i>halakha</i> with regard to going out into the public domain? <b>He said to him: Even</b> with <b>seven</b> nails it <b>is permitted.</b> He asked further: With <b>nine, what is</b> the <i>halakha</i>? <b>He said to him: Even</b> with <b>eight</b> it <b>is prohibited.</b>",
-          "fr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> clous ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>nine, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>"
+          "fr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> clous ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>neuf, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>"
         },
         {
           "id": 10,
@@ -86863,6 +86863,14 @@
       "index": 8,
       "oldFr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> cloue ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>nine, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>",
       "newFr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> clous ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>nine, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>"
+    },
+    {
+      "date": "2026-07-05T20:49:44.852Z",
+      "daf": "60b",
+      "type": "segments",
+      "index": 8,
+      "oldFr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> clous ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>nine, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>",
+      "newFr": "<b>Le Rav Huna a soulevé un dilemme devant Rav Ashi :</b> Avec une sandale qui a <b>cinq</b> des clous insérés dans la semelle, <b>qu'est-ce que</b> le <i>halakha</i> en ce qui concerne la sortie dans le domaine public ? <b>Il lui dit : Même</b> avec <b>sept</b> clous ça <b>Est autorisé.</b> Il a demandé plus loin : Avec <b>neuf, qu'est-ce que </b> le <i>halakha</i> ? <b>Il lui dit :Même</b> avec <b>huit</b> ça <b>Est interdit.</b>"
     }
   ]
 }
