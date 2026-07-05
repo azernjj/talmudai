@@ -69,5 +69,28 @@ export function renderLayout(app) {
       <div id="dictStatus" class="dictStatus">Dictionnaire prêt.</div>
       <div id="dictResults" class="dictResults"></div>
     </aside>
-  `
+     <div id="correctionOverlay" class="dictOverlay hidden"></div>
+     <aside id="correctionPanel" class="dictionaryPanel hidden">
+     <div class="dictHeader">
+    <h2>✏️ Correction française</h2>
+    <button id="closeCorrectionBtn">✕</button>
+  </div>
+
+  <div id="correctionMeta" class="dictStatus"></div>
+
+  <textarea
+    id="correctionText"
+    class="dictSearch"
+    style="min-height:220px; resize:vertical; direction:ltr;"
+  ></textarea>
+
+  <div class="dictLangButtons">
+    <button id="saveCorrectionBtn" class="active">✅ Corriger</button>
+    <button id="cancelCorrectionBtn">Annuler</button>
+  </div>
+
+  <div id="correctionStatus" class="dictStatus">Prêt.</div>
+</aside>
+
+   `
 }
