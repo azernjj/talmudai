@@ -10,7 +10,22 @@ export function initCorrectionAdminEvents() {
   document.querySelector('#correctionOverlay')?.addEventListener('click', closeCorrectionPanel)
   document.querySelector('#saveCorrectionBtn')?.addEventListener('click', saveFrenchCorrection)
 
-  window.installCorrectionButtons = installCorrectionButtons
+  updateAdminButton()
+}
+
+function updateAdminButton() {
+  const btn = document.querySelector('#correctionAdminBtn')
+  if (!btn) return
+
+  if (correctionAdminUnlocked) {
+    btn.textContent = '🟢 Admin'
+    btn.classList.add('active')
+    btn.title = 'Mode correction activé'
+  } else {
+    btn.textContent = '⚙'
+    btn.classList.remove('active')
+    btn.title = 'Admin correction'
+  }
 }
 
 function toggleCorrectionAdmin() {
@@ -18,6 +33,7 @@ function toggleCorrectionAdmin() {
     correctionAdminUnlocked = false
     sessionStorage.removeItem('talmudCorrectionAdmin')
     sessionStorage.removeItem('talmudCorrectionPassword')
+    updateAdminButton()
     location.reload()
     return
   }
@@ -28,6 +44,7 @@ function toggleCorrectionAdmin() {
   sessionStorage.setItem('talmudCorrectionPassword', password)
   correctionAdminUnlocked = true
   sessionStorage.setItem('talmudCorrectionAdmin', '1')
+  updateAdminButton()
   location.reload()
 }
 
@@ -69,7 +86,8 @@ function openCorrectionPanel(type, index) {
     `${state.currentData?.title || ''} ${state.currentDaf} — ${type} ${index + 1}`
 
   document.querySelector('#correctionText').value = item.fr || ''
-  document.querySelector('#correctionStatus').textContent = 'Modifie le français puis clique sur Corriger.'
+  document.querySelector('#correctionStatus').textContent =
+    'Modifie le français puis clique sur Corriger.'
 
   document.querySelector('#correctionPanel').classList.remove('hidden')
   document.querySelector('#correctionOverlay').classList.remove('hidden')
@@ -89,7 +107,7 @@ async function saveFrenchCorrection() {
   const status = document.querySelector('#correctionStatus')
 
   if (!password) {
-    status.textContent = 'Code admin manquant. Clique à nouveau sur ⚙.'
+    status.textContent = 'Code admin manquant. Clique à nouveau sur Admin.'
     return
   }
 
@@ -117,8 +135,20 @@ async function saveFrenchCorrection() {
     const arr = state.currentData.dapim[currentCorrectionTarget.daf][currentCorrectionTarget.type]
     arr[currentCorrectionTarget.index].fr = value
 
-    status.textContent = '✅ Correction enregistrée dans GitHub. Vercel va redéployer automatiquement.'
-    setTimeout(closeCorrectionPanel, 1000)
+    const editBtn = document.querySelector(
+      `.editFrBtn[data-type="${currentCorrectionTarget.type}"][data-index="${currentCorrectionTarget.index}"]`
+    )
+
+    const translationBox = editBtn
+      ?.closest('.segment')
+      ?.querySelector('.translation')
+
+    if (translationBox) {
+      translationBox.textContent = value
+    }
+
+    status.textContent = '✅ Correction enregistrée. Le texte est mis à jour sur la page. Vercel redéploie en arrière-plan.'
+
   } catch (e) {
     status.textContent = '❌ Erreur : ' + e.message
   }
