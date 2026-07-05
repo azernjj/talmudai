@@ -3,6 +3,7 @@ import { sortDaf, escapeHtml } from './utils.js'
 import { installHebrewWordClick } from './dictionary.js'
 import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
+import { correctionButtonHtml, installCorrectionButtons } from './correction-admin.js'
 
 let extraCommentaryCache = {}
 
@@ -153,7 +154,10 @@ export function renderDaf(daf) {
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => `
       <article class="segment">
-        <div class="segNum">Segment ${index + 1}</div>
+      <div class="segNum">
+         Segment ${index + 1}
+         ${correctionButtonHtml('segments', index)}
+        </div>
         <div class="he clickableHe">${seg.he || ''}</div>
         <div class="translation">
           ${state.currentLang === 'fr'
@@ -175,6 +179,7 @@ export function renderDaf(daf) {
   if (next) document.querySelector('#nextDafBtn')?.addEventListener('click', () => goToDaf(next))
 
   installHebrewWordClick()
+  installCorrectionButtons()
 }
 
 function renderTalmudCommentaryButtons() {
