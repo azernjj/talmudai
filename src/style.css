@@ -755,3 +755,15 @@ button.active,
   text-align: center;
   color: var(--blue);
 }
+.correctionAdminBtn {
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: .45 !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-width: 38px !important;
+}
+
+.correctionAdminBtn:hover {
+  opacity: 1 !important;
+}
