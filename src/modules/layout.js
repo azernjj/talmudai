@@ -10,6 +10,7 @@ export function renderLayout(app) {
         <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
         <button id="dictBtn">📖 Dictionnaire</button>
         <button id="parashaBtn">📖 Parachiot</button>
+        <button id="correctionAdminBtn" class="correctionAdminBtn" title="Admin correction">⚙</button>
         <input id="globalSearch" placeholder="🔎 Rechercher..." autocomplete="off" />
       </div>
     </header>
