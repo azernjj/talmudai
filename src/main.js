@@ -1,4 +1,5 @@
 import './style.css'
+import './design.css'
 import { state } from './state.js'
 import { renderLayout } from './modules/layout.js'
 import { injectMobileStyles, initMobileMenu } from './modules/mobile.js'
