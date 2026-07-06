@@ -4,5 +4,23 @@
     "title": "Orach Chayim",
     "heTitle": "אורח חיים",
     "file": "orach-chaim.json"
+  },
+  {
+    "slug": "yore-dea",
+    "title": "Yoreh De'ah",
+    "heTitle": "יורה דעה",
+    "file": "yore-dea.json"
+  },
+  {
+    "slug": "even-haezer",
+    "title": "Even HaEzer",
+    "heTitle": "אבן העזר",
+    "file": "even-haezer.json"
+  },
+  {
+    "slug": "hoshen-mishpat",
+    "title": "Choshen Mishpat",
+    "heTitle": "חושן משפט",
+    "file": "hoshen-mishpat.json"
   }
 ]
