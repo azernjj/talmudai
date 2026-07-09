@@ -15,6 +15,11 @@ const commentaries = [
   { slug: 'baer-hetev', title: 'Ba’er Hetev' }
 ]
 
+
+function closeSidebarMobile() {
+  document.querySelector('.sidebar')?.classList.remove('open')
+}
+
 async function getShulchanSections() {
   if (shulchanSectionsCache) return shulchanSectionsCache
 
@@ -157,6 +162,7 @@ function renderShulchanSideButtons(items) {
         btn.dataset.siman ? Number(btn.dataset.siman) : null,
         btn.dataset.seif ? Number(btn.dataset.seif) : null
       )
+      closeSidebarMobile()
     })
   })
 }
@@ -263,7 +269,10 @@ export async function openShulchanArukh() {
     `
 
     document.querySelectorAll('.openSA').forEach(btn => {
-      btn.addEventListener('click', () => loadShulchanSection(btn.dataset.file))
+      btn.addEventListener('click', async () => {
+        await loadShulchanSection(btn.dataset.file)
+        closeSidebarMobile()
+      })
     })
   } catch (e) {
     document.querySelector('#segments').innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
