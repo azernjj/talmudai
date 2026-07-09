@@ -194,8 +194,8 @@
     font-size: 13px;
   }
 
-  .commentBox {
-    max-height: none !important;
+  .commentButton { 
+   max-height: none !important;
     overflow: visible !important;
   }
 
@@ -205,4 +205,307 @@
     right: 3vw !important;
     left: 3vw !important;
   }
+}
+/* =========================
+   STYLE LIVRE ANCIEN
+========================= */
+
+.segment,
+.parashaFull,
+.commentBox,
+.rashiItem {
+  background: #fff8e7 !important;
+  border: 1px solid #d7bd7a !important;
+  border-radius: 18px !important;
+  box-shadow:
+    0 10px 25px rgba(70, 45, 15, .18),
+    inset 0 0 35px rgba(180, 130, 55, .10) !important;
+}
+
+.segment {
+  background:
+    linear-gradient(90deg, rgba(120,70,25,.06), transparent 8%, transparent 92%, rgba(120,70,25,.06)),
+    #fff8e7 !important;
+}
+
+.translation,
+.translationColumn p,
+.shulchanSeif p:not(.he),
+.rashiItem p:not(.he) {
+  text-align: justify !important;
+  text-justify: inter-word;
+  line-height: 1.85 !important;
+  font-size: 17px;
+  color: #2d2417;
+}
+
+.translationColumn,
+.hebrewColumn,
+.parashaColumn {
+  background: #fffaf0 !important;
+  border: 1px solid #e0c98d !important;
+  border-radius: 14px !important;
+  box-shadow: inset 0 0 22px rgba(170, 120, 45, .08);
+}
+
+.segNum {
+  color: #7a4f16 !important;
+  border-bottom: 1px solid #d8bd7a;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.he {
+  color: #1d160d !important;
+}
+
+@media (max-width: 900px) {
+  .translation,
+  .translationColumn p,
+  .shulchanSeif p:not(.he),
+  .rashiItem p:not(.he) {
+    text-align: justify !important;
+    font-size: 16px;
+    line-height: 1.8 !important;
+  }
+
+  .segment,
+  .parashaFull {
+    border-radius: 14px !important;
+    padding: 14px !important;
+  }
+}
+/* ==================================================
+   TALMUD AI - STYLE LIVRE PRESTIGE
+================================================== */
+
+:root{
+    --paper:#fffaf0;
+    --paper2:#fff6e5;
+    --gold:#b48a2c;
+    --gold2:#e4c774;
+    --brown:#4d3820;
+}
+
+/* Cartes */
+
+.segment,
+.parashaFull,
+.translationColumn,
+.hebrewColumn,
+.commentBox,
+.rashiItem{
+
+    background:
+        radial-gradient(circle at top left,
+            rgba(255,255,255,.70),
+            transparent 45%),
+
+        linear-gradient(
+            180deg,
+            #fffdf8,
+            var(--paper)
+        );
+
+    border:1px solid #d6bd80;
+
+    border-radius:18px;
+
+    box-shadow:
+        0 8px 28px rgba(0,0,0,.12),
+        inset 0 0 30px rgba(180,140,60,.08);
+
+    transition:.25s;
+}
+
+/* Léger relief */
+
+.segment:hover,
+.parashaFull:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+        0 16px 35px rgba(0,0,0,.18),
+        inset 0 0 35px rgba(180,140,60,.10);
+}
+
+
+/* Titre */
+
+#dafTitle{
+
+    font-family:Georgia,serif;
+
+    letter-spacing:2px;
+
+    color:var(--brown);
+
+    text-align:center;
+
+    margin:25px 0;
+
+    position:relative;
+}
+
+#dafTitle:before,
+#dafTitle:after{
+
+    content:"";
+
+    display:inline-block;
+
+    width:80px;
+
+    height:2px;
+
+    background:linear-gradient(
+        to right,
+        transparent,
+        var(--gold),
+        transparent
+    );
+
+    vertical-align:middle;
+
+    margin:0 15px;
+}
+
+
+/* Numéro de seif */
+
+.segNum{
+
+    display:inline-block;
+
+    padding:6px 14px;
+
+    background:linear-gradient(
+        var(--gold2),
+        var(--gold)
+    );
+
+    color:white;
+
+    border-radius:40px;
+
+    font-weight:bold;
+
+    font-family:Georgia,serif;
+
+    margin-bottom:18px;
+
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+
+/* Français */
+
+.translation,
+.translationColumn p,
+.shulchanSeif p:not(.he){
+
+    font-family:Georgia,"Times New Roman",serif;
+
+    font-size:18px;
+
+    line-height:1.95;
+
+    text-align:justify;
+
+    color:#2e2417;
+
+    hyphens:auto;
+}
+
+
+/* Hébreu */
+
+.he{
+
+    font-size:27px;
+
+    line-height:2;
+
+    color:#18130c;
+}
+
+
+/* Première lettre */
+
+.translation p:first-letter{
+
+    font-size:175%;
+
+    font-weight:bold;
+
+    color:#8a5d16;
+}
+
+
+/* Barre décorative */
+
+.segment::before{
+
+    content:"✦ ✦ ✦";
+
+    display:block;
+
+    text-align:center;
+
+    color:#c8a84f;
+
+    margin-bottom:10px;
+
+    letter-spacing:8px;
+
+    font-size:13px;
+}
+
+
+/* Animation */
+
+.segment{
+
+    animation:fadeBook .25s ease;
+}
+
+@keyframes fadeBook{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(12px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:none;
+
+    }
+}
+/* =========================
+   HÉBREU JUSTIFIÉ
+========================= */
+
+.he,
+.hebrew,
+.hebrewText,
+.shulchanSeif .he,
+.segment .he {
+
+    text-align: justify;
+    text-align-last: right;   /* la dernière ligne reste alignée à droite */
+
+    direction: rtl;
+    unicode-bidi: plaintext;
+
+    line-height: 2.15;
+
+    word-spacing: 0.18em;
 }
