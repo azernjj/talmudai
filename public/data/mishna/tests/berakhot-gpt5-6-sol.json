@@ -1,0 +1,946 @@
+{
+  "type": "mishna",
+  "title": "Berakhot",
+  "sefaria_title": "Mishnah Berakhot",
+  "seder": "Zeraïm",
+  "source": "Sefaria",
+  "chapters": {
+    "1": {
+      "chapter": 1,
+      "mishnayot": [
+        {
+          "id": "1:1",
+          "chapter": 1,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 1:1",
+          "he": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית. מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע. אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת. וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
+          "en": "",
+          "fr": "À partir de quand récite-t-on le Chéma le soir ? À partir du moment où les prêtres entrent pour manger de leur térouma, jusqu’à la fin de la première veille : paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent d’une maison de banquet. Ils lui dirent : « Nous n’avons pas récité le Chéma. » Il leur dit : « Si la colonne de l’aube n’est pas encore montée, vous êtes tenus de le réciter. » Et cela seulement n’est pas le cas ; mais tout ce dont les Sages ont dit : « jusqu’à minuit », son temps prescrit va jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, son temps prescrit va jusqu’à ce que monte la colonne de l’aube. Et toutes les offrandes qui sont consommées pendant un seul jour, leur temps prescrit va jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : « jusqu’à minuit » ? Afin d’éloigner l’homme de la transgression.",
+          "etude_fr": {
+            "id": "1:1",
+            "reference": "Mishnah Berakhot 1:1",
+            "texte_original_hebreu": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית. מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע. אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת. וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
+            "traduction_fidele": "À partir de quand récite-t-on le Chéma le soir ? À partir du moment où les prêtres entrent pour manger de leur térouma, jusqu’à la fin de la première veille : paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent d’une maison de banquet. Ils lui dirent : « Nous n’avons pas récité le Chéma. » Il leur dit : « Si la colonne de l’aube n’est pas encore montée, vous êtes tenus de le réciter. » Et cela seulement n’est pas le cas ; mais tout ce dont les Sages ont dit : « jusqu’à minuit », son temps prescrit va jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, son temps prescrit va jusqu’à ce que monte la colonne de l’aube. Et toutes les offrandes qui sont consommées pendant un seul jour, leur temps prescrit va jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : « jusqu’à minuit » ? Afin d’éloigner l’homme de la transgression.",
+            "traduction_fluide": "À quel moment commence-t-on à réciter le Chéma du soir ? Lorsque les prêtres devenus purs peuvent recommencer à manger la térouma. Selon Rabbi Éliézer, on peut le réciter jusqu’à la fin du premier tiers de la nuit ; selon les Sages, jusqu’au milieu de la nuit ; selon Rabban Gamliel, jusqu’à l’aube. Lorsque les fils de Rabban Gamliel rentrèrent tard d’un banquet sans avoir récité le Chéma, il leur ordonna de le faire tant que l’aube n’était pas apparue. Il expliqua que, dans plusieurs lois nocturnes, la limite fondamentale est l’aube, mais que les Sages ont fixé minuit comme précaution, afin que l’homme ne tarde pas jusqu’à perdre entièrement l’occasion d’accomplir la mitsva.",
+            "introduction": "La Michna ouvre le traité Berakhot par la détermination du temps de la lecture du Chéma du soir. Elle ne commence pas par démontrer l’obligation elle-même, fondée sur « וּבְשָׁכְבְּךָ וּבְקוּמֶךָ — lorsque tu te couches et lorsque tu te lèves » (Devarim 6,7), mais par une question pratique : quand commence et quand finit la période nocturne ? Le début est exprimé au moyen d’un repère lié au service des prêtres ; la fin fait l’objet d’une controverse entre Rabbi Éliézer, les Sages et Rabban Gamliel.",
+            "contexte_general": "Un prêtre devenu impur ne pouvait pas manger de térouma. Après immersion, il devait attendre le coucher du soleil et l’achèvement du jour de purification, conformément à Vayikra 22,7. La Guemara identifie le moment où les prêtres peuvent manger leur térouma à la sortie des étoiles, repère du début de la nuit. La controverse de la Michna porte principalement sur la fin du temps du Chéma nocturne. La conclusion enseigne aussi un principe rabbinique : les Sages peuvent fixer une échéance préventive plus précoce que la limite fondamentale afin d’éviter la négligence.",
+            "explication_ligne_par_ligne": [
+              {
+                "texte_hebreu": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית.",
+                "traduction_fidele": "À partir de quand récite-t-on le Chéma le soir ?",
+                "explication": "La question vise le commencement du temps de la mitsva nocturne. Le pluriel « קוֹרִין » est la formulation générale de la Michna : « on récite »."
+              },
+              {
+                "texte_hebreu": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן",
+                "traduction_fidele": "À partir du moment où les prêtres entrent pour manger de leur térouma.",
+                "explication": "Il s’agit des prêtres qui s’étaient immergés après une impureté et dont la purification s’achève avec le coucher du soleil. La Guemara, Berakhot 2a, précise que ce repère correspond à la sortie des étoiles."
+              },
+              {
+                "texte_hebreu": "עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.",
+                "traduction_fidele": "Jusqu’à la fin de la première veille : paroles de Rabbi Éliézer.",
+                "explication": "Rabbi Éliézer comprend la période ordinaire durant laquelle les hommes se couchent comme prenant fin avec la première veille. La Guemara discute du partage de la nuit en veilles ; selon l’explication retenue ici, la première veille correspond au premier tiers de la nuit."
+              },
+              {
+                "texte_hebreu": "וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת.",
+                "traduction_fidele": "Les Sages disent : jusqu’à minuit.",
+                "explication": "Les Sages fixent minuit comme échéance obligatoire a priori. La suite de la Michna explique que cette limite précoce est une mesure de protection, afin que l’on ne reporte pas la mitsva jusqu’à l’aube et qu’on ne la manque."
+              },
+              {
+                "texte_hebreu": "רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
+                "traduction_fidele": "Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Pour Rabban Gamliel, toute la nuit reste directement disponible pour la lecture du Chéma, jusqu’au commencement de l’aube."
+              },
+              {
+                "texte_hebreu": "מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע.",
+                "traduction_fidele": "Il arriva que ses fils revinrent d’une maison de banquet. Ils lui dirent : « Nous n’avons pas récité le Chéma. »",
+                "explication": "Le récit donne une application concrète de l’opinion de Rabban Gamliel. Les fils sont rentrés après minuit, mais avant l’aube."
+              },
+              {
+                "texte_hebreu": "אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת.",
+                "traduction_fidele": "Il leur dit : « Si la colonne de l’aube n’est pas encore montée, vous êtes tenus de le réciter. »",
+                "explication": "Rabban Gamliel ne leur donne pas une simple permission : « חַיָּבִין » signifie qu’ils restent obligés de réciter le Chéma tant que l’aube n’est pas apparue."
+              },
+              {
+                "texte_hebreu": "וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
+                "traduction_fidele": "Et non seulement cela, mais tout ce dont les Sages ont dit : « jusqu’à minuit », son temps prescrit va jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Dans les cas nocturnes visés ici, minuit est une barrière préventive, alors que la limite fondamentale est l’aube. Cette phrase ne doit pas être étendue sans distinction à toute mention de minuit dans l’ensemble de la halakha."
+              },
+              {
+                "texte_hebreu": "הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
+                "traduction_fidele": "La combustion des graisses et des membres, son temps prescrit va jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Les graisses de certains sacrifices et les membres destinés à l’autel peuvent être brûlés durant la nuit suivant le service du jour. La limite nocturne fondamentale est l’aube."
+              },
+              {
+                "texte_hebreu": "וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
+                "traduction_fidele": "Et toutes les offrandes qui sont consommées pendant un seul jour, leur temps prescrit va jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Il s’agit des sacrifices dont la consommation est autorisée pendant le jour de leur offrande et la nuit suivante. La Torah permet leur consommation jusqu’à l’aube, tandis que les Sages ont fixé minuit comme limite préventive."
+              },
+              {
+                "texte_hebreu": "אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
+                "traduction_fidele": "S’il en est ainsi, pourquoi les Sages ont-ils dit : « jusqu’à minuit » ? Afin d’éloigner l’homme de la transgression.",
+                "explication": "Une personne qui penserait disposer de toute la nuit pourrait s’endormir ou tarder jusqu’après l’aube. La limite de minuit crée une marge de sécurité destinée à préserver l’accomplissement de la mitsva."
+              }
+            ],
+            "mots_difficiles": [
+              {
+                "mot": "מֵאֵימָתַי",
+                "translitteration": "mé-eïmataï",
+                "traduction": "à partir de quand",
+                "explication": "Expression interrogative portant sur le commencement d’une période."
+              },
+              {
+                "mot": "בְּעַרְבִית",
+                "translitteration": "be-arvit",
+                "traduction": "le soir, durant la nuit",
+                "explication": "Ici, l’expression désigne la lecture nocturne du Chéma."
+              },
+              {
+                "mot": "תְּרוּמָתָן",
+                "translitteration": "teroumatan",
+                "traduction": "leur térouma",
+                "explication": "Part du produit agricole consacrée au prêtre et qui doit être consommée en état de pureté."
+              },
+              {
+                "mot": "הָאַשְׁמוּרָה",
+                "translitteration": "ha-ashmoura",
+                "traduction": "la veille, la garde nocturne",
+                "explication": "Division de la nuit en périodes de garde."
+              },
+              {
+                "mot": "חֲצוֹת",
+                "translitteration": "hatsot",
+                "traduction": "minuit",
+                "explication": "Milieu halakhique de la nuit, et non nécessairement minuit indiqué par l’horloge civile."
+              },
+              {
+                "mot": "עַמּוּד הַשָּׁחַר",
+                "translitteration": "amoud ha-cha’har",
+                "traduction": "la colonne de l’aube",
+                "explication": "Première clarté verticale annonçant le jour ; elle marque la fin de la nuit pour les lois évoquées ici."
+              },
+              {
+                "mot": "בֵּית הַמִּשְׁתֶּה",
+                "translitteration": "beit ha-michté",
+                "traduction": "maison de banquet",
+                "explication": "Lieu d’un repas festif ou d’une réception."
+              },
+              {
+                "mot": "הֶקְטֵר",
+                "translitteration": "heqter",
+                "traduction": "combustion sur l’autel",
+                "explication": "Action de faire brûler sur l’autel les parties d’un sacrifice qui lui sont destinées."
+              },
+              {
+                "mot": "חֲלָבִים",
+                "translitteration": "halavim",
+                "traduction": "graisses sacrificielles",
+                "explication": "Graisses déterminées par la Torah, destinées à être brûlées sur l’autel ; il ne s’agit pas ici de lait."
+              },
+              {
+                "mot": "אֵבָרִים",
+                "translitteration": "évarim",
+                "traduction": "membres",
+                "explication": "Parties des sacrifices destinées à être brûlées sur l’autel."
+              },
+              {
+                "mot": "לְהַרְחִיק",
+                "translitteration": "leharhiq",
+                "traduction": "éloigner",
+                "explication": "Établir une marge protectrice empêchant d’approcher de la transgression."
+              }
+            ],
+            "notions_nouvelles": [
+              "Le temps du Chéma du soir commence à la sortie des étoiles, indiquée dans la Michna par le moment où les prêtres peuvent manger la térouma.",
+              "La fin de la période fait l’objet d’une controverse : première veille, minuit ou aube.",
+              "Selon l’explication de la Michna, la limite de minuit fixée par les Sages constitue une barrière préventive.",
+              "Le milieu halakhique de la nuit, hatsot, dépend de la durée locale de la nuit.",
+              "L’aube, amoud ha-cha’har, marque la fin fondamentale du temps nocturne.",
+              "Une institution rabbinique peut exiger d’agir avant l’expiration de la période fondamentale afin d’empêcher la négligence.",
+              "Les lois du Temple servent de comparaison pour expliquer la différence entre la limite fondamentale et la limite préventive."
+            ],
+            "mefarshim": [
+              {
+                "auteur": "Rabbi Éliézer",
+                "source_precise": "Mishna Berakhot 1:1 ; discussion dans Talmud de Babylone, Berakhot 2a-3a",
+                "opinion": "Le Chéma du soir se récite depuis le moment où les prêtres peuvent manger la térouma jusqu’à la fin de la première veille.",
+                "logique": "Il rattache la période de « lorsque tu te couches » à la première partie de la nuit, période caractéristique du coucher.",
+                "desaccords": "Il fixe une limite antérieure à celles des Sages et de Rabban Gamliel."
+              },
+              {
+                "auteur": "Les Sages",
+                "source_precise": "Mishna Berakhot 1:1 ; Talmud de Babylone, Berakhot 4b",
+                "opinion": "Le Chéma doit être récité avant minuit.",
+                "logique": "Minuit constitue une barrière destinée à empêcher que l’homme ne tarde jusqu’à l’aube et ne perde la mitsva.",
+                "desaccords": "Leur échéance pratique a priori est plus précoce que celle de Rabban Gamliel, bien que la Guemara explique que la période fondamentale s’étend jusqu’à l’aube."
+              },
+              {
+                "auteur": "Rabban Gamliel",
+                "source_precise": "Mishna Berakhot 1:1",
+                "opinion": "Le temps du Chéma du soir s’étend jusqu’à l’apparition de l’aube.",
+                "logique": "Toute la nuit appartient encore à la période désignée par « lorsque tu te couches ». Il applique cette position à ses fils revenus après minuit.",
+                "desaccords": "Il n’adopte pas minuit comme fin du temps fondamental ; il reconnaît toutefois, dans l’explication talmudique, la fonction préventive de la règle des Sages."
+              },
+              {
+                "auteur": "Rabbi Ovadia de Bartenoura",
+                "source_precise": "Commentaire sur Mishna Berakhot 1:1, passages « משעה שהכהנים » et « עד סוף האשמורה הראשונה »",
+                "opinion": "Le moment où les prêtres mangent la térouma correspond à la sortie des étoiles ; la première veille correspond au premier tiers de la nuit. Il explique également que minuit a été fixé comme barrière contre la transgression.",
+                "logique": "Il relie les expressions brèves de la Michna aux explications de la Guemara.",
+                "desaccords": "Il présente et clarifie les opinions de la Michna plutôt qu’une nouvelle position indépendante."
+              },
+              {
+                "auteur": "Maïmonide",
+                "source_precise": "Commentaire de la Michna, Berakhot 1:1 ; Mishné Torah, Hilkhot Kriat Chéma 1:9",
+                "opinion": "La halakha suit les Sages : il faut réciter le Chéma avant minuit ; celui qui a transgressé et retardé peut encore le réciter avant l’aube.",
+                "logique": "Minuit est l’échéance rabbinique préventive, tandis que l’aube est la limite finale de la période nocturne.",
+                "desaccords": "La pratique normative n’adopte pas la fin de la première veille de Rabbi Éliézer ni l’attente volontaire jusqu’à l’aube."
+              },
+              {
+                "auteur": "Rabbi Yossef Karo",
+                "source_precise": "Choul’han Aroukh, Ora’h ‘Haïm 235:1 et 235:3",
+                "opinion": "Le temps commence à la sortie des étoiles. A priori, le Chéma doit être récité avant le milieu de la nuit ; en cas de retard, il peut être récité jusqu’à l’aube.",
+                "logique": "La décision suit les Sages et conserve leur barrière de minuit, tout en reconnaissant la limite nocturne fondamentale.",
+                "desaccords": "Il ne permet pas de choisir volontairement l’aube comme échéance habituelle."
+              }
+            ],
+            "halakha_retenue": "La halakha suit les Sages. Le temps normal du Chéma du soir commence à la sortie des étoiles et il faut, a priori, le réciter avant hatsot, le milieu halakhique de la nuit. Celui qui a fautivement retardé la lecture doit néanmoins la faire tant que l’aube n’est pas apparue. Cette décision est formulée par Maïmonide, Hilkhot Kriat Chéma 1:9, et par le Choul’han Aroukh, Ora’h ‘Haïm 235:1 et 235:3. Les horaires précis de sortie des étoiles, de hatsot et de l’aube varient selon le lieu, la date et les méthodes halakhiques de calcul ; à vérifier dans les sources halakhiques faisant autorité et dans un calendrier halakhique local fiable.",
+            "consequences_pratiques": [
+              "On ne doit pas programmer volontairement la récitation du Chéma après le milieu halakhique de la nuit.",
+              "Une personne qui s’aperçoit après hatsot qu’elle n’a pas récité le Chéma doit le réciter sans attendre, tant que l’aube n’est pas apparue.",
+              "La nuit halakhique ne se calcule pas nécessairement selon les heures civiles fixes ; hatsot varie avec la date et le lieu.",
+              "La limite de minuit illustre qu’une précaution rabbinique demeure obligatoire même lorsque la limite fondamentale est plus tardive.",
+              "Il convient de consulter un calendrier halakhique local fiable pour connaître la sortie des étoiles, hatsot et l’aube."
+            ],
+            "liens_sources": [
+              {
+                "reference": "Devarim 6,7",
+                "type_source": "Torah écrite",
+                "explication_du_lien": "« וּבְשָׁכְבְּךָ וּבְקוּמֶךָ » fonde la lecture du Chéma au temps du coucher et au temps du lever."
+              },
+              {
+                "reference": "Vayikra 22,7",
+                "type_source": "Torah écrite",
+                "explication_du_lien": "« וּבָא הַשֶּׁמֶשׁ וְטָהֵר וְאַחַר יֹאכַל מִן הַקֳּדָשִׁים » fournit le repère des prêtres qui peuvent recommencer à manger la térouma."
+              },
+              {
+                "reference": "Vayikra 6,2",
+                "type_source": "Torah écrite",
+                "explication_du_lien": "L’holocauste demeure sur le foyer de l’autel pendant la nuit, source du service nocturne de combustion."
+              },
+              {
+                "reference": "Vayikra 7,15",
+                "type_source": "Torah écrite",
+                "explication_du_lien": "La viande du sacrifice de reconnaissance doit être consommée dans son temps prescrit et ne pas être laissée jusqu’au matin."
+              },
+              {
+                "reference": "Talmud de Babylone, Berakhot 2a",
+                "type_source": "Guemara",
+                "explication_du_lien": "La Guemara explique que l’entrée des prêtres pour manger la térouma correspond à la sortie des étoiles."
+              },
+              {
+                "reference": "Talmud de Babylone, Berakhot 3a",
+                "type_source": "Guemara",
+                "explication_du_lien": "La Guemara analyse les veilles nocturnes et la notion de première veille."
+              },
+              {
+                "reference": "Talmud de Babylone, Berakhot 4b",
+                "type_source": "Guemara",
+                "explication_du_lien": "La Guemara expose la raison de la limite de minuit : empêcher l’homme de retarder la mitsva jusqu’à la perdre."
+              },
+              {
+                "reference": "Mishné Torah, Hilkhot Kriat Chéma 1:9",
+                "type_source": "Codification halakhique",
+                "explication_du_lien": "Maïmonide codifie la lecture avant minuit a priori et jusqu’à l’aube en cas de retard."
+              },
+              {
+                "reference": "Choul’han Aroukh, Ora’h ‘Haïm 235:1 et 235:3",
+                "type_source": "Codification halakhique",
+                "explication_du_lien": "Ces paragraphes codifient le début du temps à la sortie des étoiles et l’obligation a priori de lire avant hatsot."
+              }
+            ],
+            "exemples_concrets": [
+              "Une personne rentre chez elle avant hatsot : elle doit réciter le Chéma sans repousser inutilement la mitsva.",
+              "Une personne constate après hatsot qu’elle a oublié le Chéma : elle ne conclut pas que tout est perdu ; si l’aube n’est pas apparue, elle doit encore le réciter.",
+              "Quelqu’un se dit qu’il lira le Chéma juste avant l’aube, puis s’endort : c’est précisément le risque que la limite rabbinique de minuit cherche à prévenir.",
+              "Les fils de Rabban Gamliel reviennent d’un banquet après minuit : puisque l’aube n’est pas apparue, leur obligation subsiste.",
+              "Pour connaître hatsot dans une ville donnée, on ne se contente pas de 00 h 00 ; on consulte l’horaire halakhique correspondant à cette nuit."
+            ],
+            "resume_essentiel": [
+              "Le Chéma du soir commence lorsque les prêtres peuvent manger la térouma, moment identifié à la sortie des étoiles.",
+              "Rabbi Éliézer fixe la fin à la première veille, les Sages à minuit et Rabban Gamliel à l’aube.",
+              "La halakha suit les Sages : il faut réciter le Chéma avant hatsot.",
+              "Après hatsot, la personne qui a retardé doit encore réciter le Chéma avant l’aube.",
+              "Minuit est une limite préventive destinée à éloigner l’homme de la transgression.",
+              "La même structure apparaît pour certaines opérations et consommations sacrificielles nocturnes."
+            ],
+            "questions_revision": [
+              {
+                "question": "Quel est le premier sujet traité par la Michna Berakhot ?",
+                "reponse_attendue": "Le moment où commence et où finit la lecture du Chéma du soir."
+              },
+              {
+                "question": "Quel événement marque le début du temps du Chéma du soir ?",
+                "reponse_attendue": "Le moment où les prêtres peuvent entrer manger leur térouma, identifié à la sortie des étoiles."
+              },
+              {
+                "question": "Jusqu’à quand Rabbi Éliézer permet-il la lecture ?",
+                "reponse_attendue": "Jusqu’à la fin de la première veille."
+              },
+              {
+                "question": "Quelle limite les Sages fixent-ils ?",
+                "reponse_attendue": "Le milieu halakhique de la nuit, hatsot."
+              },
+              {
+                "question": "Quelle est la position de Rabban Gamliel ?",
+                "reponse_attendue": "Le temps s’étend jusqu’à l’apparition de l’aube."
+              },
+              {
+                "question": "Que répondit Rabban Gamliel à ses fils rentrés tard ?",
+                "reponse_attendue": "Si l’aube n’était pas apparue, ils étaient encore obligés de réciter le Chéma."
+              },
+              {
+                "question": "Pourquoi les Sages ont-ils fixé minuit si le temps fondamental s’étend jusqu’à l’aube ?",
+                "reponse_attendue": "Afin d’éloigner l’homme de la transgression et d’éviter qu’il ne reporte la mitsva jusqu’à la perdre."
+              },
+              {
+                "question": "Quels exemples sacrificiels la Michna donne-t-elle ?",
+                "reponse_attendue": "La combustion des graisses et des membres, ainsi que la consommation des offrandes consommables pendant un jour et la nuit suivante."
+              },
+              {
+                "question": "Quelle est la halakha retenue ?",
+                "reponse_attendue": "Il faut réciter le Chéma avant hatsot ; en cas de retard, on le récite encore jusqu’à l’aube."
+              },
+              {
+                "question": "Hatsot correspond-il toujours à minuit civil ?",
+                "reponse_attendue": "Non. Il s’agit du milieu halakhique de la nuit, qui varie selon le lieu, la date et le mode de calcul."
+              }
+            ],
+            "synthese_finale": "Cette première Michna établit à la fois le cadre temporel du Chéma du soir et un principe majeur de la loi rabbinique. La nuit commence, pour cette mitsva, à la sortie des étoiles, évoquée par l’autorisation donnée aux prêtres purifiés de manger la térouma. Si les trois opinions divergent sur la fin du temps, la halakha suit les Sages : la lecture doit être accomplie avant hatsot. Toutefois, la limite fondamentale demeure l’aube, de sorte que celui qui a tardé doit encore réciter le Chéma avant son apparition. La fixation de minuit n’est donc pas arbitraire : elle crée une marge de sécurité et traduit la responsabilité des Sages de protéger l’accomplissement effectif des commandements.",
+            "sources_verifiables": [
+              "Mishna Berakhot 1:1.",
+              "Devarim 6,4-7.",
+              "Vayikra 22,6-7.",
+              "Vayikra 6,2.",
+              "Vayikra 7,15.",
+              "Talmud de Babylone, Berakhot 2a-4b.",
+              "Commentaire de Rabbi Ovadia de Bartenoura sur Berakhot 1:1.",
+              "Commentaire de Maïmonide sur la Michna, Berakhot 1:1.",
+              "Maïmonide, Mishné Torah, Hilkhot Kriat Chéma 1:9.",
+              "Choul’han Aroukh, Ora’h ‘Haïm 235:1 et 235:3."
+            ],
+            "incertitudes": [
+              "Les durées exactes correspondant à la sortie des étoiles et à l’aube font l’objet de méthodes de calcul différentes dans la littérature halakhique.",
+              "L’heure pratique de hatsot dépend du lieu, de la date et de la méthode de calcul retenue ; elle ne correspond pas nécessairement à 00 h 00.",
+              "Les règles particulières applicables à une lecture après l’apparition de l’aube en cas de force majeure ne sont pas exposées dans cette Michna. À vérifier dans les sources halakhiques faisant autorité.",
+              "La traduction de « נִכְנָסִים » par « entrent » est littérale ; dans le contexte, le point essentiel est qu’ils sont désormais autorisés à manger leur térouma."
+            ]
+          }
+        },
+        {
+          "id": "1:2",
+          "chapter": 1,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 1:2",
+          "he": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּשַׁחֲרִית. מִשֶּׁיַּכִּיר בֵּין תְּכֵלֶת לְלָבָן. רַבִּי אֱלִיעֶזֶר אוֹמֵר, בֵּין תְּכֵלֶת לְכַרְתִּי. וְגוֹמְרָהּ עַד הָנֵץ הַחַמָּה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, עַד שָׁלֹשׁ שָׁעוֹת, שֶׁכֵּן דֶּרֶךְ בְּנֵי מְלָכִים לַעֲמֹד בְּשָׁלֹשׁ שָׁעוֹת. הַקּוֹרֵא מִכָּאן וְאֵילָךְ לֹא הִפְסִיד, כְּאָדָם הַקּוֹרֵא בַתּוֹרָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "1:3",
+          "chapter": 1,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 1:3",
+          "he": "בֵּית שַׁמַּאי אוֹמְרִים, בָּעֶרֶב כָּל אָדָם יַטּוּ וְיִקְרְאוּ, וּבַבֹּקֶר יַעַמְדוּ, שֶׁנֶּאֱמַר (דברים ו) וּבְשָׁכְבְּךָ וּבְקוּמֶךָ. וּבֵית הִלֵּל אוֹמְרִים, כָּל אָדָם קוֹרֵא כְדַרְכּוֹ, שֶׁנֶּאֱמַר (שם) וּבְלֶכְתְּךָ בַדֶּרֶךְ. אִם כֵּן, לָמָּה נֶאֱמַר וּבְשָׁכְבְּךָ וּבְקוּמֶךָ, בְּשָׁעָה שֶׁבְּנֵי אָדָם שׁוֹכְבִים, וּבְשָׁעָה שֶׁבְּנֵי אָדָם עוֹמְדִים. אָמַר רַבִּי טַרְפוֹן, אֲנִי הָיִיתִי בָא בַדֶּרֶךְ, וְהִטֵּיתִי לִקְרוֹת, כְּדִבְרֵי בֵית שַׁמַּאי, וְסִכַּנְתִּי בְעַצְמִי מִפְּנֵי הַלִּסְטִים. אָמְרוּ לוֹ, כְּדַי הָיִיתָ לָחוּב בְּעַצְמְךָ, שֶׁעָבַרְתָּ עַל דִּבְרֵי בֵית הִלֵּל:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "1:4",
+          "chapter": 1,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 1:4",
+          "he": "בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, וּבָעֶרֶב שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ. אַחַת אֲרֻכָּה וְאַחַת קְצָרָה. מָקוֹם שֶׁאָמְרוּ לְהַאֲרִיךְ, אֵינוֹ רַשַּׁאי לְקַצֵּר. לְקַצֵּר, אֵינוֹ רַשַּׁאי לְהַאֲרִיךְ. לַחְתֹּם, אֵינוֹ רַשַּׁאי שֶׁלֹּא לַחְתֹּם. וְשֶׁלֹּא לַחְתֹּם, אֵינוֹ רַשַּׁאי לַחְתֹּם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "1:5",
+          "chapter": 1,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 1:5",
+          "he": "מַזְכִּירִין יְצִיאַת מִצְרַיִם בַּלֵּילוֹת. אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, הֲרֵי אֲנִי כְּבֶן שִׁבְעִים שָׁנָה, וְלֹא זָכִיתִי שֶׁתֵּאָמֵר יְצִיאַת מִצְרַיִם בַּלֵּילוֹת, עַד שֶׁדְּרָשָׁהּ בֶּן זוֹמָא, שֶׁנֶּאֱמַר (דברים טז) לְמַעַן תִּזְכֹּר אֶת יוֹם צֵאתְךָ מֵאֶרֶץ מִצְרַיִם כֹּל יְמֵי חַיֶּיךָ. יְמֵי חַיֶּיךָ, הַיָּמִים. כֹּל יְמֵי חַיֶּיךָ, הַלֵּילוֹת. וַחֲכָמִים אוֹמְרִים, יְמֵי חַיֶּיךָ, הָעוֹלָם הַזֶּה. כֹּל יְמֵי חַיֶּיךָ, לְהָבִיא לִימוֹת הַמָּשִׁיחַ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "2": {
+      "chapter": 2,
+      "mishnayot": [
+        {
+          "id": "2:1",
+          "chapter": 2,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 2:1",
+          "he": "הָיָה קוֹרֵא בַתּוֹרָה, וְהִגִּיעַ זְמַן הַמִּקְרָא, אִם כִּוֵּן לִבּוֹ, יָצָא. וְאִם לָאו, לֹא יָצָא. בַּפְּרָקִים שׁוֹאֵל מִפְּנֵי הַכָּבוֹד וּמֵשִׁיב, וּבָאֶמְצַע שׁוֹאֵל מִפְּנֵי הַיִּרְאָה וּמֵשִׁיב, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר, בָּאֶמְצַע שׁוֹאֵל מִפְּנֵי הַיִּרְאָה, וּמֵשִׁיב מִפְּנֵי הַכָּבוֹד, בַּפְּרָקִים שׁוֹאֵל מִפְּנֵי הַכָּבוֹד, וּמֵשִׁיב שָׁלוֹם לְכָל אָדָם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:2",
+          "chapter": 2,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 2:2",
+          "he": "אֵלּוּ הֵן בֵּין הַפְּרָקִים, בֵּין בְּרָכָה רִאשׁוֹנָה לִשְׁנִיָּה, בֵּין שְׁנִיָּה לִשְׁמַע, וּבֵין שְׁמַע לִוְהָיָה אִם שָׁמֹעַ, בֵּין וְהָיָה אִם שָׁמֹעַ לְוַיֹּאמֶר, בֵּין וַיֹּאמֶר לֶאֱמֶת וְיַצִּיב. רַבִּי יְהוּדָה אוֹמֵר, בֵּין וַיֹּאמֶר לֶאֱמֶת וְיַצִּיב לֹא יַפְסִיק. אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה, לָמָּה קָדְמָה שְׁמַע לִוְהָיָה אִם שָׁמֹעַ, אֶלָּא כְדֵי שֶׁיְּקַבֵּל עָלָיו עֹל מַלְכוּת שָׁמַיִם תְּחִלָּה, וְאַחַר כָּךְ יְקַבֵּל עָלָיו עֹל מִצְוֹת. וְהָיָה אִם שָׁמֹעַ לְוַיֹּאמֶר, שֶׁוְהָיָה אִם שָׁמֹעַ נוֹהֵג בַּיּוֹם וּבַלַּיְלָה, וַיֹּאמֶר אֵינוֹ נוֹהֵג אֶלָּא בַּיּוֹם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:3",
+          "chapter": 2,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 2:3",
+          "he": "הַקּוֹרֵא אֶת שְׁמַע וְלֹא הִשְׁמִיעַ לְאָזְנוֹ, יָצָא. רַבִּי יוֹסֵי אוֹמֵר, לֹא יָצָא. קָרָא וְלֹא דִקְדֵּק בְּאוֹתִיּוֹתֶיהָ, רַבִּי יוֹסֵי אוֹמֵר יָצָא, רַבִּי יְהוּדָה אוֹמֵר לֹא יָצָא. הַקּוֹרֵא לְמַפְרֵעַ, לֹא יָצָא. קָרָא וְטָעָה, יַחֲזֹר לְמָקוֹם שֶׁטָּעָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:4",
+          "chapter": 2,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 2:4",
+          "he": "הָאֻמָּנִין קוֹרִין בְּרֹאשׁ הָאִילָן אוֹ בְרֹאשׁ הַנִּדְבָּךְ, מַה שֶּׁאֵינָן רַשָּׁאִין לַעֲשׂוֹת כֵּן בַּתְּפִלָּה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:5",
+          "chapter": 2,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 2:5",
+          "he": "חָתָן פָּטוּר מִקְּרִיאַת שְׁמַע בַּלַּיְלָה הָרִאשׁוֹן עַד מוֹצָאֵי שַׁבָּת, אִם לֹא עָשָׂה מַעֲשֶׂה. מַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל שֶׁקָּרָא בַלַּיְלָה הָרִאשׁוֹן שֶׁנָּשָׂא. אָמְרוּ לוֹ תַּלְמִידָיו, לֹא לִמַּדְתָּנוּ, רַבֵּנוּ, שֶׁחָתָן פָּטוּר מִקְּרִיאַת שְׁמַע בַּלַּיְלָה הָרִאשׁוֹן. אָמַר לָהֶם, אֵינִי שׁוֹמֵעַ לָכֶם לְבַטֵּל מִמֶּנִּי מַלְכוּת שָׁמַיִם אֲפִלּוּ שָׁעָה אֶחָת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:6",
+          "chapter": 2,
+          "mishna": 6,
+          "ref": "Mishnah Berakhot 2:6",
+          "he": "רָחַץ לַיְלָה הָרִאשׁוֹן שֶׁמֵּתָה אִשְׁתּוֹ. אָמְרוּ לוֹ תַלְמִידָיו, לֹא לִמַּדְתָּנוּ, רַבֵּנוּ, שֶׁאָבֵל אָסוּר לִרְחֹץ. אָמַר לָהֶם, אֵינִי כִשְׁאָר כָּל אָדָם, אִסְטְנִיס אָנִי:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:7",
+          "chapter": 2,
+          "mishna": 7,
+          "ref": "Mishnah Berakhot 2:7",
+          "he": "וּכְשֶׁמֵּת טָבִי עַבְדּוֹ, קִבֵּל עָלָיו תַּנְחוּמִין. אָמְרוּ לוֹ תַּלְמִידָיו, לֹא לִמַּדְתָּנוּ רַבֵּנוּ, שֶׁאֵין מְקַבְּלִין תַּנְחוּמִין עַל הָעֲבָדִים. אָמַר לָהֶם, אֵין טָבִי עַבְדִּי כִּשְׁאָר כָּל הָעֲבָדִים, כָּשֵׁר הָיָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "2:8",
+          "chapter": 2,
+          "mishna": 8,
+          "ref": "Mishnah Berakhot 2:8",
+          "he": "חָתָן אִם רָצָה לִקְרוֹת קְרִיאַת שְׁמַע לַיְלָה הָרִאשׁוֹן, קוֹרֵא. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, לֹא כָל הָרוֹצֶה לִטֹּל אֶת הַשֵּׁם יִטֹּל:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "3": {
+      "chapter": 3,
+      "mishnayot": [
+        {
+          "id": "3:1",
+          "chapter": 3,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 3:1",
+          "he": "מִי שֶׁמֵּתוֹ מוּטָל לְפָנָיו, פָּטוּר מִקְּרִיאַת שְׁמַע, מִן הַתְּפִלָּה וּמִן הַתְּפִלִּין. נוֹשְׂאֵי הַמִּטָּה וְחִלּוּפֵיהֶן וְחִלּוּפֵי חִלּוּפֵיהֶן, אֶת שֶׁלִּפְנֵי הַמִּטָּה וְאֶת שֶׁלְּאַחַר הַמִּטָּה, אֶת שֶׁלַּמִּטָּה צֹרֶךְ בָּהֶן פְּטוּרִים, וְאֶת שֶׁאֵין לַמִּטָּה צֹרֶךְ בָּהֶן חַיָּבִין. אֵלּוּ וָאֵלּוּ פְּטוּרִים מִן הַתְּפִלָּה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "3:2",
+          "chapter": 3,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 3:2",
+          "he": "קָבְרוּ אֶת הַמֵּת וְחָזְרוּ, אִם יְכוֹלִין לְהַתְחִיל וְלִגְמֹר עַד שֶׁלֹּא יַגִּיעוּ לַשּׁוּרָה, יַתְחִילוּ. וְאִם לָאו, לֹא יַתְחִילוּ. הָעוֹמְדִים בַּשּׁוּרָה, הַפְּנִימִים פְּטוּרִים, וְהַחִיצוֹנִים חַיָּבִין:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "3:3",
+          "chapter": 3,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 3:3",
+          "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים פְּטוּרִין מִקְּרִיאַת שְׁמַע וּמִן הַתְּפִלִּין, וְחַיָּבִין בִּתְפִלָּה וּבִמְזוּזָה, וּבְבִרְכַּת הַמָּזוֹן:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "3:4",
+          "chapter": 3,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 3:4",
+          "he": "בַּעַל קֶרִי מְהַרְהֵר בְּלִבּוֹ וְאֵינוֹ מְבָרֵךְ, לֹא לְפָנֶיהָ וְלֹא לְאַחֲרֶיהָ. וְעַל הַמָּזוֹן מְבָרֵךְ לְאַחֲרָיו, וְאֵינוֹ מְבָרֵךְ לְפָנָיו. רַבִּי יְהוּדָה אוֹמֵר, מְבָרֵךְ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "3:5",
+          "chapter": 3,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 3:5",
+          "he": "הָיָה עוֹמֵד בַּתְּפִלָּה, וְנִזְכַּר שֶׁהוּא בַעַל קְרִי, לֹא יַפְסִיק, אֶלָּא יְקַצֵּר. יָרַד לִטְבֹּל, אִם יָכוֹל לַעֲלוֹת וּלְהִתְכַּסּוֹת וְלִקְרוֹת עַד שֶׁלֹּא תָנֵץ הַחַמָּה, יַעֲלֶה וְיִתְכַּסֶּה וְיִקְרָא. וְאִם לָאו, יִתְכַּסֶּה בַמַּיִם וְיִקְרָא. אֲבָל לֹא יִתְכַּסֶּה, לֹא בַמַּיִם הָרָעִים וְלֹא בְמֵי הַמִּשְׁרָה, עַד שֶׁיַּטִּיל לְתוֹכָן מָיִם. וְכַמָּה יַרְחִיק מֵהֶם וּמִן הַצּוֹאָה, אַרְבַּע אַמּוֹת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "3:6",
+          "chapter": 3,
+          "mishna": 6,
+          "ref": "Mishnah Berakhot 3:6",
+          "he": "זָב שֶׁרָאָה קְרִי, וְנִדָּה שֶׁפָּלְטָה שִׁכְבַת זֶרַע, וְהַמְשַׁמֶּשֶׁת שֶׁרָאֲתָה נִדָּה, צְרִיכִין טְבִילָה, וְרַבִּי יְהוּדָה פּוֹטֵר:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "4": {
+      "chapter": 4,
+      "mishnayot": [
+        {
+          "id": "4:1",
+          "chapter": 4,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 4:1",
+          "he": "תְּפִלַּת הַשַּׁחַר, עַד חֲצוֹת. רַבִּי יְהוּדָה אוֹמֵר, עַד אַרְבַּע שָׁעוֹת. תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב. רַבִּי יְהוּדָה אוֹמֵר, עַד פְּלַג הַמִּנְחָה. תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע. וְשֶׁל מוּסָפִין כָּל הַיּוֹם. רַבִּי יְהוּדָה אוֹמֵר, עַד שֶׁבַע שָׁעוֹת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:2",
+          "chapter": 4,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 4:2",
+          "he": "רַבִּי נְחוּנְיָא בֶּן הַקָּנָה הָיָה מִתְפַּלֵּל בִּכְנִיסָתוֹ לְבֵית הַמִּדְרָשׁ וּבִיצִיאָתוֹ תְּפִלָּה קְצָרָה. אָמְרוּ לוֹ, מַה מָּקוֹם לִתְפִלָּה זוֹ. אָמַר לָהֶם, בִּכְנִיסָתִי אֲנִי מִתְפַּלֵּל שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָדִי, וּבִיצִיאָתִי אֲנִי נוֹתֵן הוֹדָיָה עַל חֶלְקִי:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:3",
+          "chapter": 4,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 4:3",
+          "he": "רַבָּן גַּמְלִיאֵל אוֹמֵר, בְּכָל יוֹם מִתְפַּלֵּל אָדָם שְׁמֹנֶה עֶשְׂרֵה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, מֵעֵין שְׁמֹנֶה עֶשְׂרֵה. רַבִּי עֲקִיבָא אוֹמֵר, אִם שְׁגוּרָה תְפִלָּתוֹ בְּפִיו, יִתְפַּלֵּל שְׁמֹנֶה עֶשְׂרֵה. וְאִם לָאו, מֵעֵין שְׁמֹנֶה עֶשְׂרֵה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:4",
+          "chapter": 4,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 4:4",
+          "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, הָעוֹשֶׂה תְפִלָּתוֹ קֶבַע, אֵין תְּפִלָּתוֹ תַּחֲנוּנִים. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, הַמְהַלֵּךְ בִּמְקוֹם סַכָּנָה, מִתְפַּלֵּל תְּפִלָּה קְצָרָה. אוֹמֵר, הוֹשַׁע הַשֵּׁם אֶת עַמְּךָ אֶת שְׁאֵרִית יִשְׂרָאֵל, בְּכָל פָּרָשַׁת הָעִבּוּר יִהְיוּ צָרְכֵיהֶם לְפָנֶיךָ. בָּרוּךְ אַתָּה ה' שׁוֹמֵעַ תְּפִלָּה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:5",
+          "chapter": 4,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 4:5",
+          "he": "הָיָה רוֹכֵב עַל הַחֲמוֹר, יֵרֵד. וְאִם אֵינוֹ יָכוֹל לֵירֵד, יַחֲזִיר אֶת פָּנָיו, וְאִם אֵינוֹ יָכוֹל לְהַחֲזִיר אֶת פָּנָיו, יְכַוֵּן אֶת לִבּוֹ כְּנֶגֶד בֵּית קֹדֶשׁ הַקָּדָשִׁים:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:6",
+          "chapter": 4,
+          "mishna": 6,
+          "ref": "Mishnah Berakhot 4:6",
+          "he": "הָיָה יוֹשֵׁב בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה, יְכַוֵּן אֶת לִבּוֹ כְּנֶגֶד בֵּית קֹדֶש הַקָּדָשִׁים:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "4:7",
+          "chapter": 4,
+          "mishna": 7,
+          "ref": "Mishnah Berakhot 4:7",
+          "he": "רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר, אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר. וַחֲכָמִים אוֹמְרִים, בְּחֶבֶר עִיר וְשֶׁלֹּא בְחֶבֶר עִיר. רַבִּי יְהוּדָה אוֹמֵר מִשְּׁמוֹ, כָּל מָקוֹם שֶׁיֵּשׁ חֶבֶר עִיר, הַיָּחִיד פָּטוּר מִתְּפִלַּת הַמּוּסָפִין:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "5": {
+      "chapter": 5,
+      "mishnayot": [
+        {
+          "id": "5:1",
+          "chapter": 5,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 5:1",
+          "he": "אֵין עוֹמְדִין לְהִתְפַּלֵּל אֶלָּא מִתּוֹךְ כֹּבֶד רֹאשׁ. חֲסִידִים הָרִאשׁוֹנִים הָיוּ שׁוֹהִים שָׁעָה אַחַת וּמִתְפַּלְּלִים, כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם. אֲפִלּוּ הַמֶּלֶךְ שׁוֹאֵל בִּשְׁלוֹמוֹ, לֹא יְשִׁיבֶנּוּ. וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "5:2",
+          "chapter": 5,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 5:2",
+          "he": "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים, וְשׁוֹאֲלִין הַגְּשָׁמִים בְּבִרְכַּת הַשָּׁנִים, וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת. רַבִּי עֲקִיבָא אוֹמֵר, אוֹמְרָהּ בְּרָכָה רְבִיעִית בִּפְנֵי עַצְמָהּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, בְּהוֹדָאָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "5:3",
+          "chapter": 5,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 5:3",
+          "he": "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיךָ, וְעַל טוֹב יִזָּכֵר שְׁמֶךָ, מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתוֹ. הָעוֹבֵר לִפְנֵי הַתֵּיבָה וְטָעָה, יַעֲבֹר אַחֵר תַּחְתָּיו, וְלֹא יְהֵא סָרְבָן בְּאוֹתָהּ שָׁעָה. מִנַּיִן הוּא מַתְחִיל, מִתְּחִלַּת הַבְּרָכָה שֶׁטָּעָה בָהּ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "5:4",
+          "chapter": 5,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 5:4",
+          "he": "הָעוֹבֵר לִפְנֵי הַתֵּיבָה, לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף. וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "5:5",
+          "chapter": 5,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 5:5",
+          "he": "הַמִּתְפַּלֵּל וְטָעָה, סִימָן רַע לוֹ. וְאִם שְׁלִיחַ צִבּוּר הוּא, סִימָן רַע לְשׁוֹלְחָיו, מִפְּנֵי שֶׁשְּׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ. אָמְרוּ עָלָיו עַל רַבִּי חֲנִינָא בֶן דּוֹסָא, כְּשֶׁהָיָה מִתְפַּלֵּל עַל הַחוֹלִים וְאוֹמֵר, זֶה חַי וְזֶה מֵת. אָמְרוּ לוֹ, מִנַּיִן אַתָּה יוֹדֵעַ. אָמַר לָהֶם, אִם שְׁגוּרָה תְפִלָּתִי בְּפִי, יוֹדֵעַ אֲנִי שֶׁהוּא מְקֻבָּל. וְאִם לָאו, יוֹדֵעַ אֲנִי שֶׁהוּא מְטֹרָף:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "6": {
+      "chapter": 6,
+      "mishnayot": [
+        {
+          "id": "6:1",
+          "chapter": 6,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 6:1",
+          "he": "כֵּיצַד מְבָרְכִין עַל הַפֵּרוֹת. עַל פֵּרוֹת הָאִילָן אוֹמֵר, בּוֹרֵא פְּרִי הָעֵץ, חוּץ מִן הַיַּיִן, שֶׁעַל הַיַּיִן אוֹמֵר בּוֹרֵא פְּרִי הַגָּפֶן. וְעַל פֵּרוֹת הָאָרֶץ אוֹמֵר בּוֹרֵא פְּרִי הָאֲדָמָה, חוּץ מִן הַפַּת, שֶׁעַל הַפַּת הוּא אוֹמֵר הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ. וְעַל הַיְרָקוֹת אוֹמֵר בּוֹרֵא פְּרִי הָאֲדָמָה. רַבִּי יְהוּדָה אוֹמֵר, בּוֹרֵא מִינֵי דְשָׁאִים:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:2",
+          "chapter": 6,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 6:2",
+          "he": "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא. וְעַל פֵּרוֹת הָאָרֶץ בּוֹרֵא פְּרִי הָעֵץ, לֹא יָצָא. עַל כֻּלָּם אִם אָמַר שֶׁהַכֹּל נִהְיָה, יָצָא:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:3",
+          "chapter": 6,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 6:3",
+          "he": "עַל דָּבָר שֶׁאֵין גִּדּוּלוֹ מִן הָאָרֶץ אוֹמֵר שֶׁהַכֹּל. עַל הַחֹמֶץ וְעַל הַנּוֹבְלוֹת וְעַל הַגּוֹבַאי אוֹמֵר שֶׁהַכֹּל. עַל הֶחָלָב וְעַל הַגְּבִינָה וְעַל הַבֵּיצִים אוֹמֵר שֶׁהַכֹּל. רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:4",
+          "chapter": 6,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 6:4",
+          "he": "הָיוּ לְפָנָיו מִינִים הַרְבֵּה, רַבִּי יְהוּדָה אוֹמֵר, אִם יֵשׁ בֵּינֵיהֶם מִמִּין שִׁבְעָה, מְבָרֵךְ עָלָיו. וַחֲכָמִים אוֹמְרִים, מְבָרֵךְ עַל אֵיזֶה מֵהֶם שֶׁיִּרְצֶה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:5",
+          "chapter": 6,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 6:5",
+          "he": "בֵּרַךְ עַל הַיַּיִן שֶׁלִּפְנֵי הַמָּזוֹן, פָּטַר אֶת הַיַּיִן שֶׁלְּאַחַר הַמָּזוֹן. בֵּרַךְ עַל הַפַּרְפֶּרֶת שֶׁלִּפְנֵי הַמָּזוֹן, פָּטַר אֶת הַפַּרְפֶּרֶת שֶׁלְּאַחַר הַמָּזוֹן. בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת. עַל הַפַּרְפֶּרֶת, לֹא פָטַר אֶת הַפָּת. בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:6",
+          "chapter": 6,
+          "mishna": 6,
+          "ref": "Mishnah Berakhot 6:6",
+          "he": "הָיוּ יוֹשְׁבִין לֶאֱכֹל, כָּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. הֵסֵבּוּ, אֶחָד מְבָרֵךְ לְכֻלָּן. בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן, כָּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. לְאַחַר הַמָּזוֹן, אֶחָד מְבָרֵךְ לְכֻלָּם. וְהוּא אוֹמֵר עַל הַמֻּגְמָר, אַף עַל פִּי שֶׁאֵין מְבִיאִין אֶת הַמֻּגְמָר אֶלָּא לְאַחַר הַסְּעֻדָּה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:7",
+          "chapter": 6,
+          "mishna": 7,
+          "ref": "Mishnah Berakhot 6:7",
+          "he": "הֵבִיאוּ לְפָנָיו מָלִיחַ בַּתְּחִלָּה וּפַת עִמּוֹ, מְבָרֵךְ עַל הַמָּלִיחַ וּפוֹטֵר אֶת הַפַּת, שֶׁהַפַּת טְפֵלָה לוֹ. זֶה הַכְּלָל, כֹּל שֶׁהוּא עִקָּר וְעִמּוֹ טְפֵלָה, מְבָרֵךְ עַל הָעִקָּר וּפוֹטֵר אֶת הַטְּפֵלָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "6:8",
+          "chapter": 6,
+          "mishna": 8,
+          "ref": "Mishnah Berakhot 6:8",
+          "he": "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים, מְבָרֵךְ אַחֲרֵיהֶן שָׁלשׁ בְּרָכוֹת, דִּבְרֵי רַבָּן גַּמְלִיאֵל. וַחֲכָמִים אוֹמְרִים, בְּרָכָה אַחַת מֵעֵין שָׁלשׁ. רַבִּי עֲקִיבָא אוֹמֵר, אֲפִלּוּ אָכַל שֶׁלֶק וְהוּא מְזוֹנוֹ, מְבָרֵךְ אַחֲרָיו שָׁלשׁ בְּרָכוֹת. הַשּׁוֹתֶה מַיִם לִצְמָאוֹ, אוֹמֵר שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ. רַבִּי טַרְפוֹן אוֹמֵר, בּוֹרֵא נְפָשׁוֹת רַבּוֹת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "7": {
+      "chapter": 7,
+      "mishnayot": [
+        {
+          "id": "7:1",
+          "chapter": 7,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 7:1",
+          "he": "שְׁלשָׁה שֶׁאָכְלוּ כְאֶחָד, חַיָּבִין לְזַמֵּן. אָכַל דְּמַאי, וּמַעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְרוּמָתוֹ, וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, וְהַשַּׁמָּשׁ שֶׁאָכַל כַּזַּיִת, וְהַכּוּתִי, מְזַמְּנִין עֲלֵיהֶם. אֲבָל אָכַל טֶבֶל, וּמַעֲשֵׂר רִאשׁוֹן שֶׁלֹּא נִטְּלָה תְרוּמָתוֹ, וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁלֹּא נִפְדּוּ, וְהַשַּׁמָּשׁ שֶׁאָכַל פָּחוֹת מִכַּזַּיִת, וְהַנָּכְרִי, אֵין מְזַמְּנִין עֲלֵיהֶם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "7:2",
+          "chapter": 7,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 7:2",
+          "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים, אֵין מְזַמְּנִין עֲלֵיהֶם. עַד כַּמָּה מְזַמְּנִין, עַד כַּזָּיִת. רַבִּי יְהוּדָה אוֹמֵר, עַד כַּבֵּיצָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "7:3",
+          "chapter": 7,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 7:3",
+          "he": "כֵּיצַד מְזַמְּנִין, בִּשְׁלשָׁה אוֹמֵר נְבָרֵךְ. בִּשְׁלשָׁה וְהוּא, אוֹמֵר בָּרְכוּ. בַּעֲשָׂרָה, אוֹמֵר נְבָרֵךְ לֵאלֹהֵינוּ. בַּעֲשָׂרָה וָהוּא, אוֹמֵר בָּרְכוּ. אֶחָד עֲשָׂרָה וְאֶחָד עֲשָׂרָה רִבּוֹא. בְּמֵאָה אוֹמֵר, נְבָרֵךְ לַייָ אֱלֹהֵינוּ. בְּמֵאָה וְהוּא, אוֹמֵר בָּרְכוּ. בְּאֶלֶף, אוֹמֵר נְבָרֵךְ לַייָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל. בְּאֶלֶף וְהוּא, אוֹמֵר בָּרְכוּ. בְּרִבּוֹא, אוֹמֵר, נְבָרֵךְ לַייָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי הַצְּבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכָלְנוּ. בְּרִבּוֹא וְהוּא, אוֹמֵר בָּרְכוּ. כְּעִנְיָן שֶׁהוּא מְבָרֵךְ, כָּךְ עוֹנִין אַחֲרָיו, בָּרוּךְ יְיָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי הַצְּבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכָלְנוּ. רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר, לְפִי רֹב הַקָּהָל הֵן מְבָרְכִין, שֶׁנֶּאֱמַר בְּמַקְהֵלוֹת בָּרְכוּ אֱלֹהִים, יְיָ מִמְּקוֹר יִשְׂרָאֵל (תהלים סח). אָמַר רַבִּי עֲקִיבָא, מַה מָּצִינוּ בְּבֵית הַכְּנֶסֶת, אֶחָד מְרֻבִּין וְאֶחָד מֻעָטִין אוֹמֵר, בָּרְכוּ אֶת יְיָ. רַבִּי יִשְׁמָעֵאל אוֹמֵר, בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "7:4",
+          "chapter": 7,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 7:4",
+          "he": "שְׁלשָׁה שֶׁאָכְלוּ כְאֶחָד, אֵינָן רַשָּׁאִין לֵחָלֵק, וְכֵן אַרְבָּעָה, וְכֵן חֲמִשָּׁה. שִׁשָּׁה נֶחֱלָקִין, עַד עֲשָׂרָה. וַעֲשָׂרָה אֵינָן נֶחֱלָקִין, עַד שֶׁיִּהְיוּ עֶשְׂרִים:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "7:5",
+          "chapter": 7,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 7:5",
+          "he": "שְׁתֵּי חֲבוּרוֹת שֶׁהָיוּ אוֹכְלוֹת בְּבַיִת אֶחָד, בִּזְמַן שֶׁמִּקְצָתָן רוֹאִין אֵלּוּ אֶת אֵלּוּ, הֲרֵי אֵלּוּ מִצְטָרְפִים לְזִמּוּן. וְאִם לָאו, אֵלּוּ מְזַמְּנִין לְעַצְמָן, וְאֵלּוּ מְזַמְּנִין לְעַצְמָן. אֵין מְבָרְכִין עַל הַיַּיִן עַד שֶׁיִּתֵּן לְתוֹכוֹ מַיִם, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, מְבָרְכִין:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "8": {
+      "chapter": 8,
+      "mishnayot": [
+        {
+          "id": "8:1",
+          "chapter": 8,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 8:1",
+          "he": "אֵלּוּ דְבָרִים שֶׁבֵּין בֵּית שַׁמַּאי וּבֵית הִלֵּל בַּסְּעֻדָּה. בֵּית שַׁמַּאי אוֹמְרִים, מְבָרֵךְ עַל הַיּוֹם וְאַחַר כָּךְ מְבָרֵךְ עַל הַיַּיִן. וּבֵית הִלֵּל אוֹמְרִים, מְבָרֵךְ עַל הַיַּיִן וְאַחַר כָּךְ מְבָרֵךְ עַל הַיּוֹם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:2",
+          "chapter": 8,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 8:2",
+          "he": "בֵּית שַׁמַּאי אוֹמְרִים, נוֹטְלִין לַיָּדַיִם, וְאַחַר כָּךְ מוֹזְגִין אֶת הַכּוֹס. וּבֵית הִלֵּל אוֹמְרִים, מוֹזְגִין אֶת הַכּוֹס וְאַחַר כָּךְ נוֹטְלִין לַיָּדָיִם:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:3",
+          "chapter": 8,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 8:3",
+          "he": "בֵּית שַׁמַּאי אוֹמְרִים, מְקַנֵּחַ יָדָיו בַּמַּפָּה וּמַנִּיחָהּ עַל הַשֻּׁלְחָן. וּבֵית הִלֵּל אוֹמְרִים, עַל הַכֶּסֶת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:4",
+          "chapter": 8,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 8:4",
+          "he": "בֵּית שַׁמַּאי אוֹמְרִים, מְכַבְּדִין אֶת הַבַּיִת וְאַחַר כָּךְ נוֹטְלִין לַיָּדַיִם. וּבֵית הִלֵּל אוֹמְרִים, נוֹטְלִין לַיָּדַיִם וְאַחַר כָּךְ מְכַבְּדִין אֶת הַבָּיִת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:5",
+          "chapter": 8,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 8:5",
+          "he": "בֵּית שַׁמַּאי אוֹמְרִים, נֵר וּמָזוֹן וּבְשָׂמִים וְהַבְדָּלָה. וּבֵית הִלֵּל אוֹמְרִים, נֵר וּבְשָׂמִים וּמָזוֹן וְהַבְדָּלָה. בֵּית שַׁמַּאי אוֹמְרִים, שֶׁבָּרָא מְאוֹר הָאֵשׁ. וּבֵית הִלֵּל אוֹמְרִים, בּוֹרֵא מְאוֹרֵי הָאֵשׁ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:6",
+          "chapter": 8,
+          "mishna": 6,
+          "ref": "Mishnah Berakhot 8:6",
+          "he": "אֵין מְבָרְכִין לֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל עוֹבְדֵי כוֹכָבִים, וְלֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל מֵתִים, וְלֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁלִּפְנֵי עֲבוֹדָה זָרָה. אֵין מְבָרְכִין עַל הַנֵּר עַד שֶׁיֵּאוֹתוּ לְאוֹרוֹ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:7",
+          "chapter": 8,
+          "mishna": 7,
+          "ref": "Mishnah Berakhot 8:7",
+          "he": "מִי שֶׁאָכַל וְשָׁכַח וְלֹא בֵרַךְ, בֵּית שַׁמַּאי אוֹמְרִים, יַחֲזֹר לִמְקוֹמוֹ וִיבָרֵךְ. וּבֵית הִלֵּל אוֹמְרִים, יְבָרֵךְ בַּמָּקוֹם שֶׁנִּזְכָּר. עַד אֵימָתַי הוּא מְבָרֵךְ. עַד כְּדֵי שֶׁיִּתְעַכֵּל הַמָּזוֹן שֶׁבְּמֵעָיו:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "8:8",
+          "chapter": 8,
+          "mishna": 8,
+          "ref": "Mishnah Berakhot 8:8",
+          "he": "בָּא לָהֶם יַיִן לְאַחַר הַמָּזוֹן וְאֵין שָׁם אֶלָּא אוֹתוֹ הַכּוֹס, בֵּית שַׁמַּאי אוֹמְרִים, מְבָרֵךְ עַל הַיַּיִן וְאַחַר כָּךְ מְבָרֵךְ עַל הַמָּזוֹן. וּבֵית הִלֵּל אוֹמְרִים, מְבָרֵךְ עַל הַמָּזוֹן וְאַחַר כָּךְ מְבָרֵךְ עַל הַיָּיִן. עוֹנִין אָמֵן אַחַר יִשְׂרָאֵל הַמְבָרֵךְ, וְאֵין עוֹנִין אָמֵן אַחַר הַכּוּתִי הַמְבָרֵךְ, עַד שֶׁיִּשְׁמַע כָּל הַבְּרָכָה:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    },
+    "9": {
+      "chapter": 9,
+      "mishnayot": [
+        {
+          "id": "9:1",
+          "chapter": 9,
+          "mishna": 1,
+          "ref": "Mishnah Berakhot 9:1",
+          "he": "הָרוֹאֶה מָקוֹם שֶׁנַּעֲשׂוּ בוֹ נִסִּים לְיִשְׂרָאֵל, אוֹמֵר בָּרוּךְ שֶׁעָשָׂה נִסִּים לַאֲבוֹתֵינוּ בַּמָּקוֹם הַזֶּה. מָקוֹם שֶׁנֶּעֶקְרָה מִמֶּנּוּ עֲבוֹדָה זָרָה, אוֹמֵר בָּרוּךְ שֶׁעָקַר עֲבוֹדָה זָרָה מֵאַרְצֵנוּ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "9:2",
+          "chapter": 9,
+          "mishna": 2,
+          "ref": "Mishnah Berakhot 9:2",
+          "he": "עַל הַזִּיקִין, וְעַל הַזְּוָעוֹת, וְעַל הַבְּרָקִים, וְעַל הָרְעָמִים, וְעַל הָרוּחוֹת, אוֹמֵר בָּרוּךְ שֶׁכֹּחוֹ וּגְבוּרָתוֹ מָלֵא עוֹלָם. עַל הֶהָרִים, וְעַל הַגְּבָעוֹת, וְעַל הַיַּמִּים, וְעַל הַנְּהָרוֹת, וְעַל הַמִּדְבָּרוֹת, אוֹמֵר בָּרוּךְ עוֹשֵׂה מַעֲשֵׂה בְרֵאשִׁית. רַבִּי יְהוּדָה אוֹמֵר, הָרוֹאֶה אֶת הַיָּם הַגָּדוֹל אוֹמֵר בָּרוּךְ שֶׁעָשָׂה אֶת הַיָּם הַגָּדוֹל, בִּזְמַן שֶׁרוֹאֶה אוֹתוֹ לִפְרָקִים. עַל הַגְּשָׁמִים וְעַל הַבְּשׂוֹרוֹת הַטּוֹבוֹת אוֹמֵר בָּרוּךְ הַטּוֹב וְהַמֵּטִיב, וְעַל שְׁמוּעוֹת רָעוֹת אוֹמֵר בָּרוּךְ דַּיַּן הָאֱמֶת:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "9:3",
+          "chapter": 9,
+          "mishna": 3,
+          "ref": "Mishnah Berakhot 9:3",
+          "he": "בָּנָה בַיִת חָדָשׁ, וְקָנָה כֵלִים חֲדָשִׁים, אוֹמֵר בָּרוּךְ שֶׁהֶחֱיָנוּ. מְבָרֵךְ עַל הָרָעָה מֵעֵין הַטּוֹבָה, וְעַל הַטּוֹבָה מֵעֵין הָרָעָה. הַצּוֹעֵק לְשֶׁעָבַר, הֲרֵי זוֹ תְּפִלַּת שָׁוְא. כֵּיצַד. הָיְתָה אִשְׁתּוֹ מְעֻבֶּרֶת, וְאָמַר, יְהִי רָצוֹן שֶׁתֵּלֵד אִשְׁתִּי זָכָר, הֲרֵי זוֹ תְּפִלַּת שָׁוְא. הָיָה בָא בַדֶּרֶךְ וְשָׁמַע קוֹל צְוָחָה בָּעִיר, וְאָמַר יְהִי רָצוֹן שֶׁלֹּא יִהְיוּ אֵלּוּ בְּנֵי בֵיתִי, הֲרֵי זוֹ תְּפִלַּת שָׁוְא:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "9:4",
+          "chapter": 9,
+          "mishna": 4,
+          "ref": "Mishnah Berakhot 9:4",
+          "he": "הַנִּכְנָס לִכְרַךְ מִתְפַּלֵּל שְׁתַּיִם, אַחַת בִּכְנִיסָתוֹ וְאַחַת בִּיצִיאָתוֹ. בֶּן עַזַּאי אוֹמֵר, אַרְבַּע, שְׁתַּיִם בִּכְנִיסָתוֹ וּשְׁתַּיִם בִּיצִיאָתוֹ, וְנוֹתֵן הוֹדָאָה לְשֶׁעָבַר, וְצוֹעֵק לֶעָתִיד לָבֹא:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        },
+        {
+          "id": "9:5",
+          "chapter": 9,
+          "mishna": 5,
+          "ref": "Mishnah Berakhot 9:5",
+          "he": "חַיָּב אָדָם לְבָרֵךְ עַל הָרָעָה כְּשֵׁם שֶׁהוּא מְבָרֵךְ עַל הַטּוֹבָה, שֶׁנֶּאֱמַר (דברים ו) וְאָהַבְתָּ אֵת יְיָ אֱלֹהֶיךָ בְּכָל לְבָבְךָ וּבְכָל נַפְשְׁךָ וּבְכָל מְאֹדֶךָ. בְּכָל לְבָבְךָ, בִּשְׁנֵי יְצָרֶיךָ, בְּיֵצֶר טוֹב וּבְיֵצֶר רָע. וּבְכָל נַפְשְׁךָ, אֲפִלּוּ הוּא נוֹטֵל אֶת נַפְשֶׁךָ. וּבְכָל מְאֹדֶךָ, בְּכָל מָמוֹנֶךָ. דָּבָר אַחֵר בְּכָל מְאֹדֶךָ, בְּכָל מִדָּה וּמִדָּה שֶׁהוּא מוֹדֵד לְךָ הֱוֵי מוֹדֶה לוֹ בִּמְאֹד מְאֹד. לֹא יָקֵל אָדָם אֶת רֹאשׁוֹ כְּנֶגֶד שַׁעַר הַמִּזְרָח, שֶׁהוּא מְכֻוָּן כְּנֶגֶד בֵּית קָדְשֵׁי הַקָּדָשִׁים. לֹא יִכָּנֵס לְהַר הַבַּיִת בְּמַקְלוֹ, וּבְמִנְעָלוֹ, וּבְפֻנְדָּתוֹ, וּבְאָבָק שֶׁעַל רַגְלָיו, וְלֹא יַעֲשֶׂנּוּ קַפַּנְדַּרְיָא, וּרְקִיקָה מִקַּל וָחֹמֶר. כָּל חוֹתְמֵי בְרָכוֹת שֶׁהָיוּ בַמִּקְדָּשׁ, הָיוּ אוֹמְרִים מִן הָעוֹלָם. מִשֶּׁקִּלְקְלוּ הַמִּינִין, וְאָמְרוּ, אֵין עוֹלָם אֶלָּא אֶחָד, הִתְקִינוּ שֶׁיְּהוּ אוֹמְרִים, מִן הָעוֹלָם וְעַד הָעוֹלָם. וְהִתְקִינוּ, שֶׁיְּהֵא אָדָם שׁוֹאֵל אֶת שְׁלוֹם חֲבֵרוֹ בַּשֵּׁם, שֶׁנֶּאֱמַר (רות ב) וְהִנֵּה בֹעַז בָּא מִבֵּית לֶחֶם, וַיֹּאמֶר לַקּוֹצְרִים יְיָ עִמָּכֶם, וַיֹּאמְרוּ לוֹ, יְבָרֶכְךָ יְיָ. וְאוֹמֵר (שופטים ו) יְיָ עִמְּךָ גִּבּוֹר הֶחָיִל. וְאוֹמֵר (משלי כג) אַל תָּבוּז כִּי זָקְנָה אִמֶּךָ. וְאוֹמֵר (תהלים קיט) עֵת לַעֲשׂוֹת לַייָ הֵפֵרוּ תוֹרָתֶךָ. רַבִּי נָתָן אוֹמֵר, הֵפֵרוּ תוֹרָתֶךָ עֵת לַעֲשׂוֹת לַייָ:",
+          "en": "",
+          "fr": "",
+          "etude_fr": null
+        }
+      ]
+    }
+  },
+  "stats": {
+    "chapters": 9,
+    "mishnayot": 57,
+    "translated_fr": 0
+  }
+}
