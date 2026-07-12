@@ -1,14 +1,380 @@
 [
   {
+    "seder": "Zeraïm",
     "name": "Berakhot",
+    "title": "Mishnah Berakhot",
     "file": "berakhot.json"
   },
   {
-    "name": "Pea",
-    "file": "pea.json"
+    "seder": "Zeraïm",
+    "name": "Péa",
+    "title": "Mishnah Peah",
+    "file": "peah.json"
   },
   {
-    "name": "Demai",
+    "seder": "Zeraïm",
+    "name": "Demaï",
+    "title": "Mishnah Demai",
     "file": "demai.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Kilaïm",
+    "title": "Mishnah Kilayim",
+    "file": "kilayim.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Cheviit",
+    "title": "Mishnah Sheviit",
+    "file": "sheviit.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Teroumot",
+    "title": "Mishnah Terumot",
+    "file": "terumot.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Maasserot",
+    "title": "Mishnah Maasrot",
+    "file": "maaserot.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Maasser Chéni",
+    "title": "Mishnah Maaser Sheni",
+    "file": "maaser-sheni.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Halla",
+    "title": "Mishnah Challah",
+    "file": "challah.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Orla",
+    "title": "Mishnah Orlah",
+    "file": "orlah.json"
+  },
+  {
+    "seder": "Zeraïm",
+    "name": "Bikourim",
+    "title": "Mishnah Bikkurim",
+    "file": "bikkurim.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Chabbat",
+    "title": "Mishnah Shabbat",
+    "file": "shabbat.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Erouvin",
+    "title": "Mishnah Eruvin",
+    "file": "eruvin.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Pessa'him",
+    "title": "Mishnah Pesachim",
+    "file": "pesachim.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Chekalim",
+    "title": "Mishnah Shekalim",
+    "file": "shekalim.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Yoma",
+    "title": "Mishnah Yoma",
+    "file": "yoma.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Soukka",
+    "title": "Mishnah Sukkah",
+    "file": "sukkah.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Beitsa",
+    "title": "Mishnah Beitzah",
+    "file": "beitzah.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Roch Hachana",
+    "title": "Mishnah Rosh Hashanah",
+    "file": "rosh-hashanah.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Taanit",
+    "title": "Mishnah Taanit",
+    "file": "taanit.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Méguila",
+    "title": "Mishnah Megillah",
+    "file": "megillah.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Moed Katan",
+    "title": "Mishnah Moed Katan",
+    "file": "moed-katan.json"
+  },
+  {
+    "seder": "Moed",
+    "name": "Haguiga",
+    "title": "Mishnah Chagigah",
+    "file": "chagigah.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Yevamot",
+    "title": "Mishnah Yevamot",
+    "file": "yevamot.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Ketoubot",
+    "title": "Mishnah Ketubot",
+    "file": "ketubot.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Nedarim",
+    "title": "Mishnah Nedarim",
+    "file": "nedarim.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Nazir",
+    "title": "Mishnah Nazir",
+    "file": "nazir.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Sota",
+    "title": "Mishnah Sotah",
+    "file": "sotah.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Guitin",
+    "title": "Mishnah Gittin",
+    "file": "gittin.json"
+  },
+  {
+    "seder": "Nachim",
+    "name": "Kidouchin",
+    "title": "Mishnah Kiddushin",
+    "file": "kiddushin.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Bava Kama",
+    "title": "Mishnah Bava Kamma",
+    "file": "bava-kamma.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Bava Metsia",
+    "title": "Mishnah Bava Metzia",
+    "file": "bava-metzia.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Bava Batra",
+    "title": "Mishnah Bava Batra",
+    "file": "bava-batra.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Sanhédrin",
+    "title": "Mishnah Sanhedrin",
+    "file": "sanhedrin.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Makot",
+    "title": "Mishnah Makkot",
+    "file": "makkot.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Chevouot",
+    "title": "Mishnah Shevuot",
+    "file": "shevuot.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Edouyot",
+    "title": "Mishnah Eduyot",
+    "file": "eduyot.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Avoda Zara",
+    "title": "Mishnah Avodah Zarah",
+    "file": "avodah-zarah.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Pirké Avot",
+    "title": "Pirkei Avot",
+    "file": "pirkei-avot.json"
+  },
+  {
+    "seder": "Nezikin",
+    "name": "Horayot",
+    "title": "Mishnah Horayot",
+    "file": "horayot.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Zevahim",
+    "title": "Mishnah Zevachim",
+    "file": "zevachim.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Menahot",
+    "title": "Mishnah Menachot",
+    "file": "menachot.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Houlin",
+    "title": "Mishnah Chullin",
+    "file": "chullin.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Bekhorot",
+    "title": "Mishnah Bekhorot",
+    "file": "bekhorot.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Arakhin",
+    "title": "Mishnah Arakhin",
+    "file": "arakhin.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Temoura",
+    "title": "Mishnah Temurah",
+    "file": "temurah.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Keritot",
+    "title": "Mishnah Keritot",
+    "file": "keritot.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Méila",
+    "title": "Mishnah Meilah",
+    "file": "meilah.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Tamid",
+    "title": "Mishnah Tamid",
+    "file": "tamid.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Midot",
+    "title": "Mishnah Middot",
+    "file": "middot.json"
+  },
+  {
+    "seder": "Kodachim",
+    "name": "Kinim",
+    "title": "Mishnah Kinnim",
+    "file": "kinnim.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Kélim",
+    "title": "Mishnah Kelim",
+    "file": "kelim.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Oholot",
+    "title": "Mishnah Oholot",
+    "file": "oholot.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Négaïm",
+    "title": "Mishnah Negaim",
+    "file": "negaim.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Para",
+    "title": "Mishnah Parah",
+    "file": "parah.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Taharot",
+    "title": "Mishnah Tahorot",
+    "file": "tahorot.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Mikvaot",
+    "title": "Mishnah Mikvaot",
+    "file": "mikvaot.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Nidda",
+    "title": "Mishnah Niddah",
+    "file": "niddah.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Makhchirin",
+    "title": "Mishnah Makhshirin",
+    "file": "makhshirin.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Zavim",
+    "title": "Mishnah Zavim",
+    "file": "zavim.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Tevoul Yom",
+    "title": "Mishnah Tevul Yom",
+    "file": "tevul-yom.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Yadaïm",
+    "title": "Mishnah Yadayim",
+    "file": "yadayim.json"
+  },
+  {
+    "seder": "Taharot",
+    "name": "Ouktsin",
+    "title": "Mishnah Oktzin",
+    "file": "uktzin.json"
   }
 ]
