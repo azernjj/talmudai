@@ -455,7 +455,7 @@
     text-align:center;
 
     color:#c8a84f;
-
+B
     margin-bottom:10px;
 
     letter-spacing:8px;
@@ -509,3 +509,38 @@
 
     word-spacing: 0.18em;
 }
+/* ===== Michna ===== */
+.mishnaLibrarySection {
+  margin-top: 18px;
+}
+
+.mishnaTreatyList {
+  margin-top: 8px;
+}
+
+.mishnaCard {
+  margin-bottom: 18px;
+}
+
+.mishnaStudySection {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.mishnaStudySection h4 {
+  margin: 0 0 8px;
+}
+
+.mishnaStudyBlock {
+  margin: 10px 0;
+  padding: 12px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.mishnaStudySection summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
