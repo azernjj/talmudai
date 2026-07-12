@@ -4,6 +4,7 @@ import { installHebrewWordClick } from './dictionary.js'
 import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 import { correctionButtonHtml, installCorrectionButtons } from './correction-admin.js'
+import { refreshCurrentMishnaView } from './mishna.js'
 
 let extraCommentaryCache = {}
 
@@ -294,6 +295,11 @@ function refreshCurrentViewAfterLanguageChange() {
 
   if (state.currentMode === 'shulchan') {
     renderShulchanCommentaryNotice()
+    return
+  }
+
+  if (state.currentMode === 'mishna') {
+    refreshCurrentMishnaView()
   }
 }
 

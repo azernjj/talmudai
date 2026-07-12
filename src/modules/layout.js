@@ -10,24 +10,70 @@ export function renderLayout(app) {
         <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
         <button id="dictBtn">📖 Dictionnaire</button>
         <button id="parashaBtn">📖 Parachiot</button>
-        <button id="correctionAdminBtn" class="correctionAdminBtn" title="Admin correction">⚙</button>
-        <input id="globalSearch" placeholder="🔎 Rechercher..." autocomplete="off" />
+        <button
+          id="correctionAdminBtn"
+          class="correctionAdminBtn"
+          title="Admin correction"
+        >
+          ⚙
+        </button>
+
+        <input
+          id="globalSearch"
+          placeholder="🔎 Rechercher..."
+          autocomplete="off"
+        />
       </div>
     </header>
 
     <div class="layout">
       <aside class="sidebar">
+
         <section class="sideBlock">
           <h2>📚 Sedarim</h2>
-          <input id="masechetSearch" class="masechetSearch" placeholder="🔍 Rechercher un traité..." autocomplete="off" />
+
+          <input
+            id="masechetSearch"
+            class="masechetSearch"
+            placeholder="🔍 Rechercher un traité..."
+            autocomplete="off"
+          />
+
           <div id="library" class="sideScroll"></div>
         </section>
 
         <section class="sideBlock">
-          <h2>📜 Choul’han Aroukh</h2>
-          <input id="saSearch" class="masechetSearch" placeholder="🔍 Rechercher une section..." autocomplete="off" />
-          <div id="shulchanLibrary" class="sideScroll smallScroll"></div>
+          <h2>📘 Michna</h2>
+
+          <input
+            id="mishnaSearch"
+            class="masechetSearch"
+            placeholder="🔍 Rechercher un traité de Michna..."
+            autocomplete="off"
+          />
+
+          <div
+            id="mishnaLibrary"
+            class="sideScroll smallScroll"
+          ></div>
         </section>
+
+        <section class="sideBlock">
+          <h2>📜 Choul’han Aroukh</h2>
+
+          <input
+            id="saSearch"
+            class="masechetSearch"
+            placeholder="🔍 Rechercher une section..."
+            autocomplete="off"
+          />
+
+          <div
+            id="shulchanLibrary"
+            class="sideScroll smallScroll"
+          ></div>
+        </section>
+
       </aside>
 
       <main class="reader">
@@ -46,7 +92,10 @@ export function renderLayout(app) {
 
       <section class="comments">
         <h2>📜 Commentaires</h2>
-        <div id="commentBox" class="commentBox">Choisis un commentaire.</div>
+
+        <div id="commentBox" class="commentBox">
+          Choisis un commentaire.
+        </div>
       </section>
     </div>
 
@@ -58,7 +107,12 @@ export function renderLayout(app) {
         <button id="closeDictBtn">✕</button>
       </div>
 
-      <input id="dictSearch" class="dictSearch" placeholder="Écris un mot araméen, français ou anglais..." autocomplete="off" />
+      <input
+        id="dictSearch"
+        class="dictSearch"
+        placeholder="Écris un mot araméen, français ou anglais..."
+        autocomplete="off"
+      />
 
       <div class="dictLangButtons">
         <button id="dictBothBtn" class="active">FR + EN</button>
@@ -66,31 +120,42 @@ export function renderLayout(app) {
         <button id="dictEnBtn">English</button>
       </div>
 
-      <div id="dictStatus" class="dictStatus">Dictionnaire prêt.</div>
+      <div id="dictStatus" class="dictStatus">
+        Dictionnaire prêt.
+      </div>
+
       <div id="dictResults" class="dictResults"></div>
     </aside>
-     <div id="correctionOverlay" class="dictOverlay hidden"></div>
-     <aside id="correctionPanel" class="dictionaryPanel hidden">
-     <div class="dictHeader">
-    <h2>✏️ Correction française</h2>
-    <button id="closeCorrectionBtn">✕</button>
-  </div>
 
-  <div id="correctionMeta" class="dictStatus"></div>
+    <div id="correctionOverlay" class="dictOverlay hidden"></div>
 
-  <textarea
-    id="correctionText"
-    class="dictSearch"
-    style="min-height:220px; resize:vertical; direction:ltr;"
-  ></textarea>
+    <aside id="correctionPanel" class="dictionaryPanel hidden">
+      <div class="dictHeader">
+        <h2>✏️ Correction française</h2>
+        <button id="closeCorrectionBtn">✕</button>
+      </div>
 
-  <div class="dictLangButtons">
-    <button id="saveCorrectionBtn" class="active">✅ Corriger</button>
-    <button id="cancelCorrectionBtn">Annuler</button>
-  </div>
+      <div id="correctionMeta" class="dictStatus"></div>
 
-  <div id="correctionStatus" class="dictStatus">Prêt.</div>
-</aside>
+      <textarea
+        id="correctionText"
+        class="dictSearch"
+        style="min-height:220px; resize:vertical; direction:ltr;"
+      ></textarea>
 
-   `
+      <div class="dictLangButtons">
+        <button id="saveCorrectionBtn" class="active">
+          ✅ Corriger
+        </button>
+
+        <button id="cancelCorrectionBtn">
+          Annuler
+        </button>
+      </div>
+
+      <div id="correctionStatus" class="dictStatus">
+        Prêt.
+      </div>
+    </aside>
+  `
 }
