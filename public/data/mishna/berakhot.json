@@ -15,74 +15,426 @@
           "ref": "Mishnah Berakhot 1:1",
           "he": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית. מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע. אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת. וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
           "en": "",
-          "fr": "À partir de quand lit-on le Chema le soir ? À partir du moment où les kohanim entrent pour manger de leur terouma, jusqu’à la fin de la première veille — paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent de la maison du festin ; ils lui dirent : Nous n’avons pas lu le Chema. Il leur dit : Si la colonne de l’aube n’est pas montée, vous êtes tenus de le lire. Et non seulement cela, mais tout ce dont les Sages ont dit : jusqu’à minuit, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube. Et tous les sacrifices qui sont consommés pour un seul jour, leur mitsva s’étend jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : jusqu’à minuit ? Afin d’éloigner l’homme de la faute.",
+          "fr": "À partir de quand lit-on le Chema du soir ? À partir du moment où les prêtres entrent pour manger leur terouma, jusqu’à la fin de la première veille : paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent d’une maison de festin ; ils lui dirent : « Nous n’avons pas lu le Chema. » Il leur dit : « Si la colonne de l’aube n’est pas encore montée, vous êtes tenus de le lire. Et non seulement cela, mais tout ce dont les Sages ont dit : “jusqu’à minuit”, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. Et tout ce qui doit être consommé en un seul jour, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : “jusqu’à minuit” ? Afin d’éloigner l’homme de la transgression. »",
           "etude_fr": {
             "id": "1:1",
             "reference": "Mishnah Berakhot 1:1",
             "texte_original_hebreu": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית. מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע. אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת. וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
-            "traduction_fr": "À partir de quand lit-on le Chema le soir ? À partir du moment où les kohanim entrent pour manger de leur terouma, jusqu’à la fin de la première veille — paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent de la maison du festin ; ils lui dirent : Nous n’avons pas lu le Chema. Il leur dit : Si la colonne de l’aube n’est pas montée, vous êtes tenus de le lire. Et non seulement cela, mais tout ce dont les Sages ont dit : jusqu’à minuit, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube. Et tous les sacrifices qui sont consommés pour un seul jour, leur mitsva s’étend jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : jusqu’à minuit ? Afin d’éloigner l’homme de la faute.",
-            "introduction": "Cette Michna ouvre le traité Berakhot par le temps de la récitation du Chema du soir. Elle fixe d’abord le début de l’obligation, puis présente trois avis sur sa limite finale : Rabbi Éliézer, les Sages et Rabban Gamliel. Elle enseigne ensuite un principe général : lorsqu’une mitsva nocturne peut être accomplie, selon son temps fondamental, jusqu’à l’aube, les Sages ont parfois fixé une limite plus précoce, minuit, afin d’éviter la négligence et la faute.",
-            "contexte_general": "Le Chema est une mitsva quotidienne liée au verset « lorsque tu te couches et lorsque tu te lèves » (Devarim 6:7). Notre Michna traite de « lorsque tu te couches », c’est-à-dire du temps nocturne. Le signe donné pour le début du temps est l’entrée des kohanim pour manger leur terouma : un kohen devenu impur, après immersion et attente du soir, peut manger la terouma lorsque le soir est pleinement arrivé. La Michna emploie donc un repère halakhique connu pour définir le début de la nuit. La discussion centrale porte sur la fin du temps de lecture : première veille, minuit, ou aube. L’épisode des fils de Rabban Gamliel clarifie que la limite de minuit mentionnée par les Sages est une barrière rabbinique destinée à protéger l’accomplissement correct de la mitsva.",
+            "traduction_fr": "À partir de quand lit-on le Chema du soir ? À partir du moment où les prêtres entrent pour manger leur terouma, jusqu’à la fin de la première veille : paroles de Rabbi Éliézer. Les Sages disent : jusqu’à minuit. Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube. Il arriva que ses fils revinrent d’une maison de festin ; ils lui dirent : « Nous n’avons pas lu le Chema. » Il leur dit : « Si la colonne de l’aube n’est pas encore montée, vous êtes tenus de le lire. Et non seulement cela, mais tout ce dont les Sages ont dit : “jusqu’à minuit”, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. La combustion des graisses et des membres, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. Et tout ce qui doit être consommé en un seul jour, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube. S’il en est ainsi, pourquoi les Sages ont-ils dit : “jusqu’à minuit” ? Afin d’éloigner l’homme de la transgression. »",
+            "introduction": "Cette première Michna du traité Berakhot ouvre la discussion par le temps de la lecture du Chema du soir. Elle fixe le début du temps à un repère halakhique lié à la pureté rituelle des prêtres et expose trois formulations concernant la fin du temps : Rabbi Éliézer, les Sages, et Rabban Gamliel. La Michna enseigne ensuite un principe général : parfois les Sages disent « jusqu’à minuit » non parce que la mitsva cesse objectivement à minuit, mais pour établir une barrière et éviter qu’une personne ne repousse l’accomplissement jusqu’à le manquer.",
+            "contexte_general": "Le Chema est une mitsva toranique liée au verset « lorsque tu te couches et lorsque tu te lèves » : le soir correspond au temps où les hommes se couchent. La Michna cherche donc à définir halakhiquement ce temps. Elle utilise comme repère le moment où des kohanim devenus rituellement purs après immersion peuvent manger leur terouma, c’est-à-dire après l’achèvement du jour précédent. La suite de la Michna rapproche ce cas d’autres mitsvot nocturnes du Temple, notamment la combustion des graisses et des membres des sacrifices, et la consommation de sacrifices qui ne peuvent être mangés que pendant un jour et la nuit qui suit.",
             "explication_ligne_par_ligne": [
               {
                 "texte_hebreu": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית.",
-                "traduction_fr": "À partir de quand lit-on le Chema le soir ?",
-                "explication": "La Michna commence par le temps initial de la récitation du Chema du soir. « בערבית » signifie ici durant le temps du soir ou de la nuit, pour accomplir la mitsva du Chema liée au coucher."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "מֵאֵימָתַי",
+                    "translitteration": "me-eimatay",
+                    "sens_francais": "à partir de quand",
+                    "fonction_dans_la_phrase": "introduit la question du début du temps"
+                  },
+                  {
+                    "hebreu": "קוֹרִין",
+                    "translitteration": "korin",
+                    "sens_francais": "on lit / on récite",
+                    "fonction_dans_la_phrase": "verbe principal"
+                  },
+                  {
+                    "hebreu": "אֶת שְׁמַע",
+                    "translitteration": "et Chema",
+                    "sens_francais": "le Chema",
+                    "fonction_dans_la_phrase": "complément d’objet"
+                  },
+                  {
+                    "hebreu": "בְּעַרְבִית",
+                    "translitteration": "be-arvit",
+                    "sens_francais": "le soir",
+                    "fonction_dans_la_phrase": "circonstance de temps"
+                  }
+                ],
+                "traduction_litterale": "À partir de quand lit-on le Chema du soir ?",
+                "explication": "La Michna commence par déterminer le temps de la lecture du Chema du soir. Le terme « בערבית » désigne ici la lecture nocturne, non nécessairement l’office complet appelé aujourd’hui Arvit."
               },
               {
-                "texte_hebreu": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן",
-                "traduction_fr": "À partir du moment où les kohanim entrent pour manger de leur terouma",
-                "explication": "Le début du temps est indiqué par un repère halakhique : les kohanim qui étaient rituellement impurs, après immersion, attendent le soir pour pouvoir manger la terouma. Ce moment correspond au début halakhique de la nuit tel qu’expliqué par la Guemara."
-              },
-              {
-                "texte_hebreu": "עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.",
-                "traduction_fr": "Jusqu’à la fin de la première veille — paroles de Rabbi Éliézer.",
-                "explication": "Rabbi Éliézer limite le temps du Chema du soir à la première partie de la nuit, appelée première veille. La nuit était divisée en veilles ; selon cet avis, le temps de « coucher » visé par le verset est principalement le début de la nuit."
+                "texte_hebreu": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.",
+                "mot_a_mot": [
+                  {
+                    "hebreu": "מִשָּׁעָה",
+                    "translitteration": "mi-sha‘ah",
+                    "sens_francais": "à partir du moment",
+                    "fonction_dans_la_phrase": "début du temps"
+                  },
+                  {
+                    "hebreu": "שֶׁהַכֹּהֲנִים",
+                    "translitteration": "she-ha-kohanim",
+                    "sens_francais": "où les prêtres",
+                    "fonction_dans_la_phrase": "sujet de la subordonnée"
+                  },
+                  {
+                    "hebreu": "נִכְנָסִים",
+                    "translitteration": "nikhnasim",
+                    "sens_francais": "entrent",
+                    "fonction_dans_la_phrase": "verbe indiquant l’accès au repas permis"
+                  },
+                  {
+                    "hebreu": "לֶאֱכֹל",
+                    "translitteration": "le-ekhol",
+                    "sens_francais": "pour manger",
+                    "fonction_dans_la_phrase": "but"
+                  },
+                  {
+                    "hebreu": "בִּתְרוּמָתָן",
+                    "translitteration": "bi-teroumatan",
+                    "sens_francais": "leur terouma",
+                    "fonction_dans_la_phrase": "objet du repas permis aux kohanim purs"
+                  },
+                  {
+                    "hebreu": "עַד סוֹף",
+                    "translitteration": "‘ad sof",
+                    "sens_francais": "jusqu’à la fin",
+                    "fonction_dans_la_phrase": "limite finale"
+                  },
+                  {
+                    "hebreu": "הָאַשְׁמוּרָה הָרִאשׁוֹנָה",
+                    "translitteration": "ha-ashmourah ha-rishonah",
+                    "sens_francais": "de la première veille",
+                    "fonction_dans_la_phrase": "repère nocturne"
+                  },
+                  {
+                    "hebreu": "דִּבְרֵי רַבִּי אֱלִיעֶזֶר",
+                    "translitteration": "divrei Rabbi Eli‘ezer",
+                    "sens_francais": "paroles de Rabbi Éliézer",
+                    "fonction_dans_la_phrase": "attribution de l’opinion"
+                  }
+                ],
+                "traduction_litterale": "À partir du moment où les prêtres entrent pour manger leur terouma, jusqu’à la fin de la première veille : paroles de Rabbi Éliézer.",
+                "explication": "Le début du temps est fixé par un repère concret : les kohanim qui se sont purifiés peuvent manger la terouma lorsque la nuit est arrivée. Rabbi Éliézer limite la lecture à la fin de la première veille de la nuit. Dans la division classique de la nuit, une veille est une portion de la nuit ; la première veille correspond au début de la nuit."
               },
               {
                 "texte_hebreu": "וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת.",
-                "traduction_fr": "Les Sages disent : jusqu’à minuit.",
-                "explication": "Les Sages fixent une limite à minuit. La suite de la Michna précise que cette limite vise à éloigner l’homme de la faute : elle n’exprime pas nécessairement la fin absolue du temps fondamental, mais une clôture pratique instituée pour éviter que l’on repousse la lecture jusqu’à l’aube et qu’on la manque."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "וַחֲכָמִים",
+                    "translitteration": "va-‘hakhamim",
+                    "sens_francais": "et les Sages",
+                    "fonction_dans_la_phrase": "nouveau sujet, opinion collective"
+                  },
+                  {
+                    "hebreu": "אוֹמְרִים",
+                    "translitteration": "omrim",
+                    "sens_francais": "disent",
+                    "fonction_dans_la_phrase": "verbe d’attribution"
+                  },
+                  {
+                    "hebreu": "עַד חֲצוֹת",
+                    "translitteration": "‘ad ‘hatsot",
+                    "sens_francais": "jusqu’à minuit",
+                    "fonction_dans_la_phrase": "limite fixée par les Sages"
+                  }
+                ],
+                "traduction_litterale": "Les Sages disent : jusqu’à minuit.",
+                "explication": "Les Sages fixent une limite à minuit. La fin de la Michna expliquera que cette limite vise à éloigner l’homme de la transgression : il ne doit pas repousser la mitsva jusqu’à l’aube et risquer de la manquer."
               },
               {
                 "texte_hebreu": "רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
-                "traduction_fr": "Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube.",
-                "explication": "Rabban Gamliel donne la limite maximale de la nuit : l’aube. Tant que l’aube n’est pas arrivée, le temps de la récitation du Chema du soir demeure, selon lui, encore valable."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "רַבָּן גַּמְלִיאֵל",
+                    "translitteration": "Rabban Gamliel",
+                    "sens_francais": "Rabban Gamliel",
+                    "fonction_dans_la_phrase": "auteur de l’opinion"
+                  },
+                  {
+                    "hebreu": "אוֹמֵר",
+                    "translitteration": "omer",
+                    "sens_francais": "dit",
+                    "fonction_dans_la_phrase": "verbe d’attribution"
+                  },
+                  {
+                    "hebreu": "עַד",
+                    "translitteration": "‘ad",
+                    "sens_francais": "jusqu’à",
+                    "fonction_dans_la_phrase": "préposition de limite"
+                  },
+                  {
+                    "hebreu": "שֶׁיַּעֲלֶה",
+                    "translitteration": "she-ya‘aleh",
+                    "sens_francais": "que monte",
+                    "fonction_dans_la_phrase": "verbe décrivant l’apparition"
+                  },
+                  {
+                    "hebreu": "עַמּוּד הַשָּׁחַר",
+                    "translitteration": "‘amoud ha-sha‘har",
+                    "sens_francais": "la colonne de l’aube",
+                    "fonction_dans_la_phrase": "repère temporel de la fin de la nuit"
+                  }
+                ],
+                "traduction_litterale": "Rabban Gamliel dit : jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Rabban Gamliel fixe la limite à l’aube, c’est-à-dire la fin de la période nocturne. Son propos est illustré par l’épisode de ses fils."
               },
               {
                 "texte_hebreu": "מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע.",
-                "traduction_fr": "Il arriva que ses fils revinrent de la maison du festin ; ils lui dirent : Nous n’avons pas lu le Chema.",
-                "explication": "L’histoire illustre un cas pratique : les fils de Rabban Gamliel ont été retardés par un repas de fête et n’ont pas encore accompli la mitsva. Ils demandent implicitement si, après l’heure recommandée, ils peuvent encore lire le Chema."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "מַעֲשֶׂה",
+                    "translitteration": "ma‘asseh",
+                    "sens_francais": "il arriva / un fait eut lieu",
+                    "fonction_dans_la_phrase": "introduction d’un cas pratique"
+                  },
+                  {
+                    "hebreu": "שֶׁבָּאוּ בָנָיו",
+                    "translitteration": "she-baou banav",
+                    "sens_francais": "que ses fils vinrent",
+                    "fonction_dans_la_phrase": "événement principal"
+                  },
+                  {
+                    "hebreu": "מִבֵּית הַמִּשְׁתֶּה",
+                    "translitteration": "mi-beit ha-mishteh",
+                    "sens_francais": "d’une maison de festin",
+                    "fonction_dans_la_phrase": "origine du retour"
+                  },
+                  {
+                    "hebreu": "אָמְרוּ לוֹ",
+                    "translitteration": "amrou lo",
+                    "sens_francais": "ils lui dirent",
+                    "fonction_dans_la_phrase": "introduction de leur question"
+                  },
+                  {
+                    "hebreu": "לֹא קָרִינוּ",
+                    "translitteration": "lo karinou",
+                    "sens_francais": "nous n’avons pas lu",
+                    "fonction_dans_la_phrase": "constat d’omission"
+                  },
+                  {
+                    "hebreu": "אֶת שְׁמַע",
+                    "translitteration": "et Chema",
+                    "sens_francais": "le Chema",
+                    "fonction_dans_la_phrase": "objet de l’omission"
+                  }
+                ],
+                "traduction_litterale": "Il arriva que ses fils revinrent d’une maison de festin ; ils lui dirent : nous n’avons pas lu le Chema.",
+                "explication": "Le récit introduit une situation concrète : des personnes ont été retenues par un repas ou une fête et n’ont pas encore récité le Chema. La question est de savoir s’il est encore possible, voire obligatoire, de le lire."
               },
               {
                 "texte_hebreu": "אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת.",
-                "traduction_fr": "Il leur dit : Si la colonne de l’aube n’est pas montée, vous êtes tenus de le lire.",
-                "explication": "Rabban Gamliel leur répond qu’ils ne sont pas seulement autorisés à lire : ils sont encore tenus de le faire. La mitsva n’a pas expiré tant que l’aube n’est pas arrivée."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "אָמַר לָהֶם",
+                    "translitteration": "amar lahem",
+                    "sens_francais": "il leur dit",
+                    "fonction_dans_la_phrase": "réponse halakhique"
+                  },
+                  {
+                    "hebreu": "אִם",
+                    "translitteration": "im",
+                    "sens_francais": "si",
+                    "fonction_dans_la_phrase": "condition"
+                  },
+                  {
+                    "hebreu": "לֹא עָלָה",
+                    "translitteration": "lo ‘alah",
+                    "sens_francais": "n’est pas montée",
+                    "fonction_dans_la_phrase": "condition négative"
+                  },
+                  {
+                    "hebreu": "עַמּוּד הַשַּׁחַר",
+                    "translitteration": "‘amoud ha-sha‘har",
+                    "sens_francais": "la colonne de l’aube",
+                    "fonction_dans_la_phrase": "repère de fin de temps"
+                  },
+                  {
+                    "hebreu": "חַיָּבִין אַתֶּם",
+                    "translitteration": "‘hayyavin atem",
+                    "sens_francais": "vous êtes tenus",
+                    "fonction_dans_la_phrase": "obligation halakhique"
+                  },
+                  {
+                    "hebreu": "לִקְרוֹת",
+                    "translitteration": "likrot",
+                    "sens_francais": "de lire",
+                    "fonction_dans_la_phrase": "action obligatoire"
+                  }
+                ],
+                "traduction_litterale": "Il leur dit : si la colonne de l’aube n’est pas encore montée, vous êtes tenus de lire.",
+                "explication": "Rabban Gamliel ne dit pas seulement qu’ils peuvent encore lire ; il dit qu’ils sont tenus de le faire. Cela montre que, selon lui, le temps de la mitsva subsiste jusqu’à l’aube."
               },
               {
                 "texte_hebreu": "וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
-                "traduction_fr": "Et non seulement cela, mais tout ce dont les Sages ont dit : jusqu’à minuit, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
-                "explication": "La Michna généralise le principe : dans plusieurs domaines, les Sages ont mentionné minuit comme limite, bien que le temps essentiel de la mitsva s’étende jusqu’à l’aube. Leur formulation sert de protection contre la procrastination."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "וְלֹא זוֹ בִּלְבַד",
+                    "translitteration": "ve-lo zo bilvad",
+                    "sens_francais": "et non seulement cela",
+                    "fonction_dans_la_phrase": "extension du principe"
+                  },
+                  {
+                    "hebreu": "אֶלָּא",
+                    "translitteration": "ella",
+                    "sens_francais": "mais plutôt / mais aussi",
+                    "fonction_dans_la_phrase": "introduit une généralisation"
+                  },
+                  {
+                    "hebreu": "כָּל מַה",
+                    "translitteration": "kol mah",
+                    "sens_francais": "tout ce que",
+                    "fonction_dans_la_phrase": "formule générale"
+                  },
+                  {
+                    "hebreu": "שֶּׁאָמְרוּ חֲכָמִים",
+                    "translitteration": "she-amrou ‘hakhamim",
+                    "sens_francais": "les Sages ont dit",
+                    "fonction_dans_la_phrase": "attribution aux Sages"
+                  },
+                  {
+                    "hebreu": "עַד חֲצוֹת",
+                    "translitteration": "‘ad ‘hatsot",
+                    "sens_francais": "jusqu’à minuit",
+                    "fonction_dans_la_phrase": "formulation rabbinique de limite"
+                  },
+                  {
+                    "hebreu": "מִצְוָתָן",
+                    "translitteration": "mitsvatan",
+                    "sens_francais": "leur temps de mitsva",
+                    "fonction_dans_la_phrase": "sujet du principe"
+                  },
+                  {
+                    "hebreu": "עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר",
+                    "translitteration": "‘ad she-ya‘aleh ‘amoud ha-sha‘har",
+                    "sens_francais": "jusqu’à ce que monte la colonne de l’aube",
+                    "fonction_dans_la_phrase": "limite réelle du temps"
+                  }
+                ],
+                "traduction_litterale": "Et non seulement cela, mais tout ce dont les Sages ont dit : jusqu’à minuit, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Rabban Gamliel énonce un principe : dans certains cas, la limite de minuit n’est pas la fin essentielle de la mitsva, mais une précaution. La mitsva reste valable jusqu’à l’aube, mais les Sages ont ordonné de ne pas attendre."
               },
               {
                 "texte_hebreu": "הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
-                "traduction_fr": "La combustion des graisses et des membres, sa mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
-                "explication": "Les graisses et les membres de certains sacrifices pouvaient être brûlés sur l’autel pendant la nuit. Leur temps fondamental dure jusqu’à l’aube, même si les Sages ont pu recommander d’agir plus tôt."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "הֶקְטֵר",
+                    "translitteration": "heqter",
+                    "sens_francais": "combustion / offrande sur l’autel",
+                    "fonction_dans_la_phrase": "sujet rituel"
+                  },
+                  {
+                    "hebreu": "חֲלָבִים",
+                    "translitteration": "‘halavim",
+                    "sens_francais": "graisses sacrificielles",
+                    "fonction_dans_la_phrase": "élément offert"
+                  },
+                  {
+                    "hebreu": "וְאֵבָרִים",
+                    "translitteration": "ve-evarim",
+                    "sens_francais": "et membres",
+                    "fonction_dans_la_phrase": "éléments offerts"
+                  },
+                  {
+                    "hebreu": "מִצְוָתָן",
+                    "translitteration": "mitsvatan",
+                    "sens_francais": "leur temps de mitsva",
+                    "fonction_dans_la_phrase": "sujet de la règle"
+                  },
+                  {
+                    "hebreu": "עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר",
+                    "translitteration": "‘ad she-ya‘aleh ‘amoud ha-sha‘har",
+                    "sens_francais": "jusqu’à ce que monte la colonne de l’aube",
+                    "fonction_dans_la_phrase": "limite temporelle"
+                  }
+                ],
+                "traduction_litterale": "La combustion des graisses et des membres, leur temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Certaines parties des sacrifices offerts pendant la journée peuvent être brûlées sur l’autel durant toute la nuit. La Michna les cite comme exemple de service nocturne dont la limite fondamentale est l’aube."
               },
               {
                 "texte_hebreu": "וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר.",
-                "traduction_fr": "Et tous les sacrifices qui sont consommés pour un seul jour, leur mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
-                "explication": "Certains sacrifices doivent être consommés le jour de leur offrande et la nuit qui suit. Le temps de consommation se prolonge fondamentalement jusqu’à l’aube, même si une limite protectrice de minuit peut être indiquée."
+                "mot_a_mot": [
+                  {
+                    "hebreu": "וְכָל",
+                    "translitteration": "ve-khol",
+                    "sens_francais": "et tous",
+                    "fonction_dans_la_phrase": "extension à une catégorie"
+                  },
+                  {
+                    "hebreu": "הַנֶּאֱכָלִים",
+                    "translitteration": "ha-ne’ekhalim",
+                    "sens_francais": "ceux qui sont consommés",
+                    "fonction_dans_la_phrase": "désigne des sacrifices consommables"
+                  },
+                  {
+                    "hebreu": "לְיוֹם אֶחָד",
+                    "translitteration": "le-yom e‘had",
+                    "sens_francais": "pour un seul jour",
+                    "fonction_dans_la_phrase": "durée halakhique de consommation"
+                  },
+                  {
+                    "hebreu": "מִצְוָתָן",
+                    "translitteration": "mitsvatan",
+                    "sens_francais": "leur temps de mitsva",
+                    "fonction_dans_la_phrase": "sujet de la règle"
+                  },
+                  {
+                    "hebreu": "עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר",
+                    "translitteration": "‘ad she-ya‘aleh ‘amoud ha-sha‘har",
+                    "sens_francais": "jusqu’à ce que monte la colonne de l’aube",
+                    "fonction_dans_la_phrase": "limite de consommation"
+                  }
+                ],
+                "traduction_litterale": "Et tout ce qui doit être consommé en un seul jour, son temps de mitsva s’étend jusqu’à ce que monte la colonne de l’aube.",
+                "explication": "Certains sacrifices doivent être mangés le jour de leur offrande et la nuit qui suit. Bien que les Sages puissent prescrire de les consommer avant minuit, leur temps de mitsva s’étend fondamentalement jusqu’à l’aube."
               },
               {
-                "texte_hebreu": "אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת",
-                "traduction_fr": "S’il en est ainsi, pourquoi les Sages ont-ils dit : jusqu’à minuit ?",
-                "explication": "La Michna pose la question logique : si le temps véritable s’étend jusqu’à l’aube, pourquoi parler de minuit ?"
-              },
-              {
-                "texte_hebreu": "כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
-                "traduction_fr": "Afin d’éloigner l’homme de la faute.",
-                "explication": "La réponse est le principe de protection rabbinique : les Sages ont avancé la limite pratique pour empêcher qu’une personne tarde, s’endorme ou soit occupée, puis laisse passer l’aube sans avoir accompli la mitsva."
+                "texte_hebreu": "אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:",
+                "mot_a_mot": [
+                  {
+                    "hebreu": "אִם כֵּן",
+                    "translitteration": "im ken",
+                    "sens_francais": "s’il en est ainsi",
+                    "fonction_dans_la_phrase": "introduit une objection logique"
+                  },
+                  {
+                    "hebreu": "לָמָּה",
+                    "translitteration": "lammah",
+                    "sens_francais": "pourquoi",
+                    "fonction_dans_la_phrase": "question"
+                  },
+                  {
+                    "hebreu": "אָמְרוּ חֲכָמִים",
+                    "translitteration": "amrou ‘hakhamim",
+                    "sens_francais": "les Sages ont-ils dit",
+                    "fonction_dans_la_phrase": "formulation de l’objet de la question"
+                  },
+                  {
+                    "hebreu": "עַד חֲצוֹת",
+                    "translitteration": "‘ad ‘hatsot",
+                    "sens_francais": "jusqu’à minuit",
+                    "fonction_dans_la_phrase": "limite discutée"
+                  },
+                  {
+                    "hebreu": "כְּדֵי",
+                    "translitteration": "kedei",
+                    "sens_francais": "afin de",
+                    "fonction_dans_la_phrase": "introduit la finalité"
+                  },
+                  {
+                    "hebreu": "לְהַרְחִיק",
+                    "translitteration": "le-har‘hiq",
+                    "sens_francais": "éloigner",
+                    "fonction_dans_la_phrase": "but de la règle rabbinique"
+                  },
+                  {
+                    "hebreu": "אֶת הָאָדָם",
+                    "translitteration": "et ha-adam",
+                    "sens_francais": "l’homme / la personne",
+                    "fonction_dans_la_phrase": "objet direct"
+                  },
+                  {
+                    "hebreu": "מִן הָעֲבֵרָה",
+                    "translitteration": "min ha-‘averah",
+                    "sens_francais": "de la transgression",
+                    "fonction_dans_la_phrase": "danger à éviter"
+                  }
+                ],
+                "traduction_litterale": "S’il en est ainsi, pourquoi les Sages ont-ils dit : jusqu’à minuit ? Afin d’éloigner l’homme de la transgression.",
+                "explication": "La Michna conclut par le principe de précaution rabbinique : les Sages fixent parfois une limite plus précoce que la limite fondamentale, pour empêcher la négligence. Ici, attendre jusqu’à l’aube risquerait de faire manquer entièrement la lecture du Chema ou l’accomplissement d’autres mitsvot nocturnes."
               }
             ],
             "mots_difficiles": [
@@ -90,234 +442,229 @@
                 "mot": "שְׁמַע",
                 "translitteration": "Chema",
                 "traduction": "Chema",
-                "explication": "Passages de la Torah commençant par « שמע ישראל » et récités matin et soir comme acceptation du joug divin et des mitsvot."
+                "explication": "Désigne la récitation des passages de la Torah commençant par « שמע ישראל ». Dans cette Michna, il s’agit du Chema du soir."
               },
               {
                 "mot": "בְּעַרְבִית",
-                "translitteration": "be-‘arvit",
-                "traduction": "le soir / durant le temps du soir",
-                "explication": "Dans cette Michna, désigne le temps nocturne de la récitation du Chema."
+                "translitteration": "be-arvit",
+                "traduction": "le soir",
+                "explication": "Ici, le terme renvoie au temps nocturne de lecture du Chema ; il ne faut pas le confondre automatiquement avec l’ensemble de l’office d’Arvit tel qu’il est structuré dans la pratique ultérieure."
               },
               {
                 "mot": "כֹּהֲנִים",
                 "translitteration": "kohanim",
                 "traduction": "prêtres",
-                "explication": "Descendants d’Aharon ayant un statut sacerdotal ; ils peuvent manger la terouma lorsqu’ils sont rituellement purs."
+                "explication": "Descendants d’Aharon, soumis à des règles particulières de pureté pour manger la terouma."
               },
               {
                 "mot": "תְּרוּמָה",
                 "translitteration": "terouma",
-                "traduction": "prélèvement sacerdotal",
-                "explication": "Part de la récolte donnée au kohen. Elle ne peut être consommée que par un kohen autorisé et en état de pureté rituelle."
+                "traduction": "prélèvement sacré destiné au kohen",
+                "explication": "Part de la récolte donnée au kohen. Elle ne peut être consommée que par un kohen et dans un état de pureté rituelle."
               },
               {
                 "mot": "אַשְׁמוּרָה",
-                "translitteration": "ashmoura",
+                "translitteration": "ashmourah",
                 "traduction": "veille de la nuit",
-                "explication": "Division de la nuit en périodes appelées veilles. La Michna mentionne la première veille comme limite selon Rabbi Éliézer."
+                "explication": "Division de la nuit en périodes de garde. Rabbi Éliézer fixe ici la limite à la fin de la première veille."
               },
               {
                 "mot": "חֲצוֹת",
                 "translitteration": "‘hatsot",
                 "traduction": "minuit",
-                "explication": "Milieu de la nuit halakhique. Ici, limite fixée par les Sages comme barrière protectrice."
+                "explication": "Milieu halakhique de la nuit. Dans cette Michna, il sert de limite préventive fixée par les Sages."
               },
               {
                 "mot": "עַמּוּד הַשָּׁחַר",
-                "translitteration": "‘amoud ha-cha‘har",
+                "translitteration": "‘amoud ha-sha‘har",
                 "traduction": "colonne de l’aube",
-                "explication": "Première lueur de l’aube, marquant la fin de la nuit pour de nombreuses lois."
+                "explication": "Première clarté de l’aube, marquant la fin de la nuit pour de nombreuses lois."
               },
               {
                 "mot": "חַיָּבִין",
                 "translitteration": "‘hayyavin",
-                "traduction": "vous êtes tenus",
-                "explication": "Indique une obligation halakhique encore en vigueur, et non une simple permission."
+                "traduction": "vous êtes tenus de",
+                "explication": "Indique une obligation halakhique encore en vigueur ; ici, lire le Chema tant que l’aube n’est pas montée."
               },
               {
                 "mot": "הֶקְטֵר",
                 "translitteration": "heqter",
                 "traduction": "combustion sur l’autel",
-                "explication": "Action de faire brûler sur l’autel certaines parties des sacrifices."
+                "explication": "Action de faire monter en fumée sur l’autel certaines parties des sacrifices."
               },
               {
-                "mot": "חֲלָבִים וְאֵבָרִים",
-                "translitteration": "‘halavim ve-evarim",
-                "traduction": "graisses et membres",
-                "explication": "Parties de certains sacrifices destinées à être brûlées sur l’autel."
+                "mot": "חֲלָבִים",
+                "translitteration": "‘halavim",
+                "traduction": "graisses sacrificielles",
+                "explication": "Parties grasses de certains sacrifices destinées à l’autel, non à la consommation humaine."
               },
               {
-                "mot": "הַנֶּאֱכָלִים לְיוֹם אֶחָד",
-                "translitteration": "ha-ne’ekhalim le-yom e‘had",
-                "traduction": "ceux qui sont consommés pour un seul jour",
-                "explication": "Sacrifices dont le temps de consommation est limité au jour de l’offrande et à la nuit qui suit, jusqu’à l’aube selon le temps fondamental."
+                "mot": "אֵבָרִים",
+                "translitteration": "evarim",
+                "traduction": "membres",
+                "explication": "Membres des sacrifices brûlés sur l’autel dans le service du Temple."
               },
               {
                 "mot": "עֲבֵרָה",
-                "translitteration": "‘aveira",
-                "traduction": "faute / transgression",
-                "explication": "Ici, le risque de manquer la mitsva ou de dépasser son temps en repoussant son accomplissement."
+                "translitteration": "‘averah",
+                "traduction": "transgression",
+                "explication": "Manquement à une obligation ou violation d’un interdit. Ici, le risque est de retarder jusqu’à manquer le temps de la mitsva."
               }
             ],
             "notions_nouvelles": [
-              "Temps du Chema du soir : son début et sa fin.",
-              "Utilisation d’un repère halakhique concret : le moment où les kohanim peuvent manger la terouma.",
-              "Distinction entre le temps fondamental d’une mitsva et une limite rabbinique protectrice.",
-              "Principe de גזירה / barrière rabbinique : éloigner l’homme de la faute.",
-              "Notion de ‘amoud ha-cha‘har comme limite de la nuit.",
-              "Notion de ‘hatsot comme limite pratique fixée pour éviter la négligence.",
-              "Comparaison entre le Chema du soir et d’autres mitsvot nocturnes liées au Temple."
+              "Temps du Chema du soir : du début de la nuit jusqu’à une limite discutée par les Tannaïm.",
+              "Repère des kohanim mangeant la terouma : indicateur halakhique de l’entrée de la nuit.",
+              "Différence entre limite fondamentale d’une mitsva et limite rabbinique préventive.",
+              "Principe de « faire une barrière » pour éloigner l’homme de la transgression.",
+              "Lien entre le Chema du soir et d’autres mitsvot accomplies pendant la nuit.",
+              "Notion de ‘amoud ha-sha‘har, l’aube, comme fin de la nuit halakhique.",
+              "Notion de ‘hatsot, minuit halakhique, comme limite de précaution."
             ],
             "mefarshim": [
               {
                 "auteur": "Rachi",
-                "source_precise": "Talmud Bavli, Berakhot 2a, commentaires sur « משעה שהכהנים נכנסים לאכול בתרומתן »",
-                "opinion": "Rachi explique que le moment où les kohanim entrent manger leur terouma correspond au moment de la sortie des étoiles, après que le soleil s’est couché et que leur purification est achevée pour permettre la consommation de la terouma.",
-                "logique": "La Michna choisit un signe halakhique connu : le kohen impur qui s’est immergé ne mange pas immédiatement, mais attend l’arrivée du soir ; ce moment marque le début de la nuit pour la récitation du Chema du soir.",
-                "desaccords": "La Michna elle-même ne formule pas ce repère astronomique directement ; la Guemara Berakhot 2a discute les formulations possibles du début du temps."
+                "source_precise": "Rachi sur Berakhot 2a, passages expliquant « משעה שהכהנים נכנסים לאכול בתרומתן »",
+                "opinion": "Les kohanim mentionnés sont ceux qui avaient été impurs, se sont immergés, et peuvent manger la terouma lorsque le soleil s’est couché et que leur purification est achevée pour ce point.",
+                "logique": "La Michna choisit ce repère parce qu’il correspond à l’entrée halakhique de la nuit, déterminante pour le Chema du soir.",
+                "desaccords": "Pas présenté dans la Michna comme un désaccord ; c’est une explication du repère temporel."
               },
               {
                 "auteur": "Rabbi Ovadia de Bartenura",
-                "source_precise": "Commentaire sur Mishnah Berakhot 1:1",
-                "opinion": "Le Bartenura explique que le temps mentionné pour les kohanim est la sortie des étoiles, moment à partir duquel ils peuvent manger la terouma. Il écrit aussi que la halakha suit les Sages, mais que si l’on n’a pas lu avant minuit, on lit jusqu’à l’aube.",
-                "logique": "Les Sages ont fixé minuit afin de protéger la mitsva ; toutefois, le temps essentiel n’est pas perdu avant l’aube, comme le montre l’enseignement de Rabban Gamliel et la conclusion explicite de la Michna.",
-                "desaccords": "Rabbi Éliézer limite plus tôt, à la fin de la première veille. Rabban Gamliel formule directement la limite de l’aube."
+                "source_precise": "Bartenura sur Michna Berakhot 1:1",
+                "opinion": "Le moment où les kohanim entrent manger leur terouma correspond à la sortie des étoiles. La halakha suit Rabban Gamliel quant au fait que, si l’on n’a pas lu avant minuit, on lit jusqu’à l’aube ; toutefois, les Sages ont dit jusqu’à minuit pour éloigner de la transgression.",
+                "logique": "La nuit commence avec la sortie des étoiles ; la limite de minuit est une précaution afin qu’une personne ne tarde pas jusqu’à perdre le temps de la mitsva.",
+                "desaccords": "Rabbi Éliézer limite jusqu’à la fin de la première veille ; les Sages formulent jusqu’à minuit ; Rabban Gamliel affirme la validité jusqu’à l’aube."
               },
               {
                 "auteur": "Rambam",
-                "source_precise": "Commentaire de la Michna du Rambam sur Berakhot 1:1 ; Mishneh Torah, Hilkhot Keriat Shema 1:9",
-                "opinion": "Le Rambam retient que le temps de lecture du Chema du soir commence à la sortie des étoiles et dure jusqu’à l’aube ; cependant, les Sages ont ordonné de le lire avant minuit pour éloigner l’homme de la négligence.",
-                "logique": "La structure de la Michna distingue entre la limite protectrice de minuit et le temps réel qui s’étend jusqu’à l’aube. Le cas des fils de Rabban Gamliel montre qu’après minuit, avant l’aube, l’obligation subsiste.",
-                "desaccords": "Cette position ne suit pas la limite plus courte de Rabbi Éliézer comme halakha pratique."
+                "source_precise": "Mishné Torah, Hilkhot Keriat Chema 1:9 ; voir aussi son commentaire sur la Michna Berakhot 1:1",
+                "opinion": "Le temps de la lecture du Chema du soir commence à la sortie des étoiles. Sa mitsva doit être accomplie avant minuit, mais si l’on a transgressé et retardé, on peut lire jusqu’à l’aube.",
+                "logique": "La limite de minuit est une institution des Sages destinée à éviter la négligence, tandis que la période nocturne s’étend jusqu’à l’aube.",
+                "desaccords": "Cette formulation tranche pratiquement selon le principe exprimé par Rabban Gamliel tout en conservant la barrière des Sages."
               },
               {
-                "auteur": "Talmud Bavli",
-                "source_precise": "Berakhot 2a-2b",
-                "opinion": "La Guemara analyse le début du temps du Chema du soir à partir de la formulation de la Michna et relie le moment des kohanim à leur permission de manger la terouma. Elle discute aussi le rapport entre les avis de la Michna et le verset « lorsque tu te couches ».",
-                "logique": "Le verset définit le cadre de la nuit comme temps du coucher ; la Michna et la Guemara cherchent à en fixer les bornes pratiques. Le choix des kohanim fournit un repère halakhique précis pour l’entrée de la nuit.",
-                "desaccords": "La Guemara rapporte et analyse plusieurs repères temporels de la nuit ; notre Michna retient celui des kohanim entrant manger leur terouma."
+                "auteur": "Talmud de Babylone",
+                "source_precise": "Berakhot 2a-2b ; Berakhot 4b",
+                "opinion": "La Guemara identifie le moment des kohanim mangeant la terouma avec l’entrée de la nuit et explique le rôle de la limite de minuit comme une protection contre la négligence.",
+                "logique": "L’homme risque de rentrer, manger, boire, dormir et ne pas accomplir la mitsva ; c’est pourquoi les Sages avancent la limite pratique.",
+                "desaccords": "La Guemara analyse les formulations des Tannaïm et met en évidence la tension entre le temps objectif de la nuit et la barrière rabbinique."
               }
             ],
-            "halakha_retenue": "La halakha retenue dans les sources classiques codifiées est que le temps du Chema du soir commence à la sortie des étoiles et s’étend, en son temps fondamental, jusqu’à ‘amoud ha-cha‘har. Toutefois, les Sages ont prescrit de le lire avant ‘hatsot, minuit halakhique, afin d’éloigner l’homme de la faute. Si l’on a transgressé ou tardé et qu’on n’a pas lu avant minuit, on lit tant que l’aube n’est pas montée. Sources principales : Rambam, Hilkhot Keriat Shema 1:9 ; Choul‘han ‘Aroukh, Ora‘h ‘Haïm 235:3.",
+            "halakha_retenue": "La halakha retenue dans les sources classiques codifiées est que le temps du Chema du soir commence à la sortie des étoiles. A priori, il faut le lire avant minuit halakhique, conformément à la barrière des Sages. Si l’on a retardé et que l’aube n’est pas encore montée, on est encore tenu de le lire. Voir Rambam, Hilkhot Keriat Chema 1:9, et Choul’han Aroukh, Ora’h ‘Hayim 235:3.",
             "consequences_pratiques": [
-              "On doit organiser sa soirée de manière à lire le Chema du soir avant minuit halakhique.",
-              "Si une personne a oublié ou a été retenue et que minuit est passé, elle ne doit pas renoncer : tant que l’aube n’est pas arrivée, elle est encore tenue de lire le Chema.",
-              "La limite de minuit illustre que les décrets des Sages ne sont pas seulement techniques : ils protègent l’accomplissement des mitsvot.",
-              "Les horaires pratiques dépendent du lieu, de la date et de la définition halakhique utilisée pour la sortie des étoiles, minuit et l’aube.",
-              "Une personne participant à un repas ou à un événement doit veiller à lire le Chema à temps, car c’est précisément ce type de retard que la Michna veut prévenir."
+              "On ne doit pas repousser volontairement la lecture du Chema du soir jusqu’à tard dans la nuit.",
+              "A priori, il faut lire le Chema du soir avant ‘hatsot, minuit halakhique.",
+              "Si une personne a oublié ou a été retardée, elle doit lire le Chema tant que ‘amoud ha-sha‘har n’est pas arrivé.",
+              "La limite de minuit illustre le pouvoir des Sages de fixer une barrière pratique afin de protéger l’accomplissement d’une mitsva.",
+              "Le principe vaut aussi pour d’autres mitsvot nocturnes mentionnées par la Michna : certaines ont un temps fondamental jusqu’à l’aube, mais les Sages ont imposé une limite plus précoce."
             ],
             "liens_sources": [
               {
                 "reference": "Devarim 6:7",
                 "type_source": "Verset de la Torah",
-                "explication_du_lien": "Le verset dit « lorsque tu te couches et lorsque tu te lèves », source générale de la récitation du Chema soir et matin."
+                "explication_du_lien": "Le verset dit « lorsque tu te couches et lorsque tu te lèves », fondement de la lecture du Chema le soir et le matin."
               },
               {
-                "reference": "Devarim 11:19",
+                "reference": "Vayikra 22:7",
                 "type_source": "Verset de la Torah",
-                "explication_du_lien": "Deuxième passage du Chema reprenant l’obligation d’en parler au coucher et au lever."
-              },
-              {
-                "reference": "Vayikra 22:6-7",
-                "type_source": "Versets de la Torah",
-                "explication_du_lien": "Ces versets traitent du kohen impur qui attend le soir pour pouvoir manger des choses saintes ; ils éclairent le repère de la terouma dans la Michna."
+                "explication_du_lien": "Le verset enseigne qu’après le coucher du soleil, le kohen purifié peut manger des choses saintes ; cela éclaire le repère de la Michna concernant la terouma."
               },
               {
                 "reference": "Talmud Bavli, Berakhot 2a-2b",
                 "type_source": "Guemara",
-                "explication_du_lien": "Analyse le début du temps du Chema du soir et la signification du moment où les kohanim mangent leur terouma."
+                "explication_du_lien": "La Guemara analyse l’ouverture de la Michna et le moment où les kohanim entrent manger leur terouma."
               },
               {
-                "reference": "Mishnah Berakhot 1:2",
+                "reference": "Talmud Bavli, Berakhot 4b",
+                "type_source": "Guemara",
+                "explication_du_lien": "La Guemara développe l’idée que les Sages ont dit « jusqu’à minuit » afin d’éloigner l’homme de la transgression."
+              },
+              {
+                "reference": "Michna Meguila 2:6",
                 "type_source": "Michna",
-                "explication_du_lien": "Continue le sujet en traitant du temps du Chema du matin."
+                "explication_du_lien": "Cette Michna énumère des mitsvot accomplies toute la nuit et cite notamment la combustion des graisses et des membres."
               },
               {
-                "reference": "Mishnah Zeva‘him 5:6-8",
-                "type_source": "Michna",
-                "explication_du_lien": "Présente des catégories de sacrifices et leurs temps de consommation, en lien avec « les sacrifices consommés pour un seul jour »."
+                "reference": "Mishné Torah, Hilkhot Keriat Chema 1:9",
+                "type_source": "Codification halakhique",
+                "explication_du_lien": "Le Rambam codifie le temps du Chema du soir : depuis la sortie des étoiles, a priori jusqu’à minuit, et en cas de retard jusqu’à l’aube."
               },
               {
-                "reference": "Mishnah Megillah 2:6",
-                "type_source": "Michna",
-                "explication_du_lien": "Énonce que toute mitsva accomplie la nuit est valable pendant toute la nuit, ce qui rejoint le principe général de notre Michna."
-              },
-              {
-                "reference": "Rambam, Hilkhot Keriat Shema 1:9",
-                "type_source": "Halakha codifiée",
-                "explication_du_lien": "Codifie le temps du Chema du soir : a priori avant minuit, et jusqu’à l’aube si l’on a tardé."
-              },
-              {
-                "reference": "Choul‘han ‘Aroukh, Ora‘h ‘Haïm 235:3",
-                "type_source": "Halakha codifiée",
-                "explication_du_lien": "Codifie l’obligation de lire le Chema du soir avant minuit et, en cas de retard, jusqu’à l’aube."
+                "reference": "Choul’han Aroukh, Ora’h ‘Hayim 235:3",
+                "type_source": "Codification halakhique",
+                "explication_du_lien": "Le Choul’han Aroukh codifie la lecture du Chema du soir avec la limite pratique de minuit et la possibilité de lire jusqu’à l’aube si l’on a tardé."
               }
             ],
             "exemples_concrets": [
-              "Une personne rentre tard d’un mariage et se rend compte après minuit qu’elle n’a pas lu le Chema du soir. Selon la halakha codifiée, si l’aube n’est pas encore arrivée, elle doit le lire.",
-              "Quelqu’un sait qu’il risque de s’endormir après le dîner : il doit lire le Chema avant de s’installer durablement, afin de ne pas transgresser par négligence.",
-              "Un calendrier indique la sortie des étoiles, minuit halakhique et l’aube : ces trois repères correspondent respectivement au début du temps, à la limite fixée par les Sages, et à la fin maximale du temps du Chema du soir.",
-              "Dans le Temple, certaines parties de sacrifices pouvaient être brûlées toute la nuit ; néanmoins, l’idée de ne pas repousser jusqu’au dernier moment s’applique aussi à ces services nocturnes."
+              "Une personne rentre tard d’un mariage et se rend compte qu’elle n’a pas lu le Chema du soir : si l’aube n’est pas encore arrivée, elle doit le lire.",
+              "Une personne sait qu’elle sera fatiguée après un repas : elle doit lire le Chema avant de s’installer durablement, afin de ne pas s’endormir et manquer la mitsva.",
+              "Dans le Temple, des graisses et membres de sacrifices offerts dans la journée pouvaient être brûlés pendant la nuit jusqu’à l’aube, mais les Sages ont encouragé à ne pas attendre la dernière limite.",
+              "Un sacrifice devant être mangé en un jour et la nuit suivante ne doit pas être laissé jusqu’aux derniers instants, même si son temps fondamental va jusqu’à l’aube."
             ],
             "resume_essentiel": [
-              "Le temps du Chema du soir commence lorsque les kohanim peuvent entrer manger leur terouma.",
-              "Rabbi Éliézer limite le temps à la fin de la première veille.",
+              "La Michna demande à partir de quand on lit le Chema du soir.",
+              "Le début du temps est le moment où les kohanim peuvent manger leur terouma, compris comme l’entrée de la nuit.",
+              "Rabbi Éliézer limite la lecture à la fin de la première veille.",
               "Les Sages disent : jusqu’à minuit.",
-              "Rabban Gamliel dit : jusqu’à l’aube.",
-              "L’histoire des fils de Rabban Gamliel montre qu’après minuit, tant que l’aube n’est pas arrivée, on est encore tenu de lire le Chema.",
-              "La limite de minuit est une protection rabbinique : éloigner l’homme de la faute.",
-              "Le même principe s’applique à d’autres mitsvot nocturnes dont le temps fondamental dure jusqu’à l’aube."
+              "Rabban Gamliel dit : jusqu’à l’aube, et il l’applique à ses fils revenus d’un festin.",
+              "La Michna enseigne que plusieurs mitsvot nocturnes ont pour temps fondamental jusqu’à l’aube.",
+              "Les Sages ont fixé minuit comme barrière pour éloigner l’homme de la transgression."
             ],
             "questions_revision": [
               {
-                "question": "Quel est le sujet principal de cette Michna ?",
-                "reponse_attendue": "Le temps de récitation du Chema du soir : son début et sa limite finale."
+                "question": "Quelle est la question d’ouverture de la Michna ?",
+                "reponse_attendue": "À partir de quand lit-on le Chema du soir ?"
               },
               {
-                "question": "À partir de quel moment lit-on le Chema du soir selon la Michna ?",
-                "reponse_attendue": "À partir du moment où les kohanim entrent pour manger de leur terouma."
+                "question": "Quel repère la Michna donne-t-elle pour le début du temps du Chema du soir ?",
+                "reponse_attendue": "Le moment où les kohanim entrent pour manger leur terouma."
               },
               {
-                "question": "Quels sont les trois avis concernant la fin du temps du Chema du soir ?",
-                "reponse_attendue": "Rabbi Éliézer : jusqu’à la fin de la première veille ; les Sages : jusqu’à minuit ; Rabban Gamliel : jusqu’à l’aube."
+                "question": "Jusqu’à quand Rabbi Éliézer permet-il de lire le Chema du soir ?",
+                "reponse_attendue": "Jusqu’à la fin de la première veille."
               },
               {
-                "question": "Que répond Rabban Gamliel à ses fils qui n’avaient pas lu le Chema ?",
-                "reponse_attendue": "Si l’aube n’est pas encore montée, ils sont tenus de le lire."
+                "question": "Jusqu’à quand les Sages disent-ils de lire le Chema ?",
+                "reponse_attendue": "Jusqu’à minuit."
+              },
+              {
+                "question": "Jusqu’à quand Rabban Gamliel fixe-t-il le temps du Chema du soir ?",
+                "reponse_attendue": "Jusqu’à ce que monte la colonne de l’aube."
+              },
+              {
+                "question": "Que dit Rabban Gamliel à ses fils revenus d’une maison de festin ?",
+                "reponse_attendue": "Si l’aube n’est pas encore montée, ils sont tenus de lire le Chema."
               },
               {
                 "question": "Pourquoi les Sages ont-ils dit « jusqu’à minuit » si la mitsva peut durer jusqu’à l’aube ?",
-                "reponse_attendue": "Afin d’éloigner l’homme de la faute, c’est-à-dire pour éviter qu’il tarde et manque la mitsva."
+                "reponse_attendue": "Afin d’éloigner l’homme de la transgression, c’est-à-dire éviter qu’il tarde et manque la mitsva."
               },
               {
-                "question": "Quels autres exemples la Michna donne-t-elle de mitsvot nocturnes jusqu’à l’aube ?",
-                "reponse_attendue": "La combustion des graisses et des membres, et les sacrifices consommés pour un seul jour."
+                "question": "Quels exemples de mitsvot nocturnes la Michna donne-t-elle ?",
+                "reponse_attendue": "La combustion des graisses et des membres, et les sacrifices consommables en un seul jour."
               },
               {
-                "question": "Quelle est la halakha pratique codifiée pour celui qui n’a pas lu le Chema avant minuit ?",
-                "reponse_attendue": "Il doit encore le lire tant que l’aube n’est pas arrivée, bien qu’il faille a priori le lire avant minuit."
+                "question": "Quelle est la conséquence pratique pour quelqu’un qui a oublié le Chema avant minuit ?",
+                "reponse_attendue": "Il doit encore le lire tant que l’aube n’est pas montée, mais a priori il fallait le lire avant minuit."
               }
             ],
-            "synthese_finale": "La première Michna de Berakhot établit le cadre du Chema du soir. Son début est fixé par un signe halakhique précis : le moment où les kohanim peuvent manger leur terouma, c’est-à-dire l’entrée de la nuit. Sa fin fait l’objet de trois formulations : Rabbi Éliézer limite à la première veille, les Sages fixent minuit, et Rabban Gamliel enseigne que le temps s’étend jusqu’à l’aube. L’épisode des fils de Rabban Gamliel révèle le principe central : la limite de minuit imposée par les Sages est une barrière protectrice, non l’effacement du temps fondamental. La Michna enseigne ainsi à la fois une loi précise et une méthode rabbinique générale : accomplir les mitsvot tôt pour éviter de les perdre.",
+            "synthese_finale": "La Michna établit le cadre fondamental du Chema du soir : son temps commence avec l’entrée de la nuit, repérée par le moment où les kohanim peuvent manger la terouma. Trois limites sont formulées : la fin de la première veille selon Rabbi Éliézer, minuit selon les Sages, et l’aube selon Rabban Gamliel. Le récit des fils de Rabban Gamliel montre que, tant que l’aube n’est pas montée, l’obligation demeure. La conclusion explique la fonction de la limite de minuit : non pas nécessairement définir la fin absolue du temps, mais protéger la mitsva contre la négligence. Cette Michna pose ainsi un principe central : les Sages peuvent fixer une limite préventive pour préserver l’accomplissement de la Torah.",
             "sources_verifiables": [
-              "Mishnah Berakhot 1:1",
+              "Michna Berakhot 1:1",
               "Talmud Bavli, Berakhot 2a-2b",
-              "Talmud Bavli, Berakhot 4a-b",
+              "Talmud Bavli, Berakhot 4b",
               "Rachi sur Berakhot 2a",
-              "Commentaire de Rabbi Ovadia de Bartenura sur Mishnah Berakhot 1:1",
-              "Rambam, Commentaire de la Michna sur Berakhot 1:1",
-              "Rambam, Mishneh Torah, Hilkhot Keriat Shema 1:9",
-              "Choul‘han ‘Aroukh, Ora‘h ‘Haïm 235:3",
+              "Bartenura sur Michna Berakhot 1:1",
+              "Rambam, Commentaire sur la Michna, Berakhot 1:1",
+              "Rambam, Mishné Torah, Hilkhot Keriat Chema 1:9",
+              "Choul’han Aroukh, Ora’h ‘Hayim 235:3",
               "Devarim 6:7",
-              "Devarim 11:19",
-              "Vayikra 22:6-7",
-              "Mishnah Megillah 2:6",
-              "Mishnah Zeva‘him 5:6-8"
+              "Vayikra 22:7",
+              "Michna Meguila 2:6"
             ],
             "incertitudes": [
-              "Les horaires pratiques exacts de la sortie des étoiles, de ‘hatsot et de ‘amoud ha-cha‘har dépendent de méthodes de calcul halakhique et du lieu ; ils doivent être vérifiés dans un calendrier halakhique fiable.",
-              "La durée exacte de la première veille dépend de la manière dont on divise la nuit ; la Michna ne détaille pas ici le calcul pratique.",
-              "Les conséquences halakhiques détaillées en cas de lecture après l’aube, ou en situation de contrainte particulière, doivent être vérifiées dans les sources halakhiques faisant autorité."
+              "La Michna elle-même ne précise pas dans son texte si la nuit est divisée en trois ou quatre veilles ; les discussions talmudiques abordent la question des veilles, mais l’explication pratique de la première veille dépend de ces analyses.",
+              "Les horaires exacts contemporains de ‘hatsot et de ‘amoud ha-sha‘har dépendent des méthodes de calcul halakhique utilisées ; il faut suivre un calendrier halakhique fiable et son autorité rabbinique."
             ]
           }
         },

@@ -543,3 +543,99 @@
   font-weight: 700;
 }
 
+/* ===== Michna : étude mot à mot ===== */
+
+.wordByWord {
+  margin: 16px 0;
+  padding: 14px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.035);
+}
+
+.wordByWord h4 {
+  margin: 0 0 12px;
+}
+
+.wordByWordHeader,
+.wordByWordItem {
+  display: grid;
+  grid-template-columns:
+    minmax(90px, 0.8fr)
+    minmax(120px, 1fr)
+    minmax(150px, 1.3fr)
+    minmax(180px, 1.5fr);
+  gap: 10px 16px;
+  align-items: start;
+}
+
+.wordByWordHeader {
+  padding: 8px 0;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.15);
+  font-weight: 700;
+}
+
+.wordByWordItem {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.wordByWordItem:last-child {
+  border-bottom: 0;
+}
+
+.hebrewWord {
+  direction: rtl;
+  text-align: right;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.transliteration {
+  font-style: italic;
+}
+
+.wordMeaning {
+  font-weight: 600;
+}
+
+.wordFunction {
+  opacity: 0.78;
+  font-size: 0.92rem;
+}
+
+.literalTranslation,
+.lineExplanation {
+  margin-top: 12px;
+  line-height: 1.6;
+}
+
+@media (max-width: 760px) {
+  .wordByWordHeader {
+    display: none;
+  }
+
+  .wordByWordItem {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .hebrewWord {
+    text-align: left;
+  }
+
+  .transliteration::before {
+    content: "Translittération : ";
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  .wordMeaning::before {
+    content: "Sens : ";
+    font-weight: 700;
+  }
+
+  .wordFunction::before {
+    content: "Fonction : ";
+    font-weight: 700;
+  }
+}
