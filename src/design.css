@@ -639,3 +639,20 @@
     font-weight: 700;
   }
 }
+.literalTranslation {
+  margin-top: 8px;
+  padding: 8px 12px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  border-left: 3px solid rgba(200, 168, 79, 0.7);
+}
+
+.lineExplanationDetails {
+  margin-top: 10px;
+}
+
+.lineExplanationDetails summary {
+  cursor: pointer;
+  font-size: 0.9rem;
+  opacity: 0.75;
+}

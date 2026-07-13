@@ -18,7 +18,6 @@ export async function renderMishnaLibrary() {
     if (!mishnaIndex.length) {
       const res = await fetch('/data/mishna/index.json', { cache: 'no-store' })
       if (!res.ok) throw new Error(`Index Michna introuvable (${res.status})`)
-
       const raw = await res.json()
       mishnaIndex = Array.isArray(raw) ? raw : (raw.masechtot || raw.items || [])
     }
@@ -76,14 +75,8 @@ export async function loadMishna(file) {
   renderMishnaLibrary()
 
   try {
-    const res = await fetch(`/data/mishna/${encodeURIComponent(file)}`, {
-      cache: 'no-store'
-    })
-
-    if (!res.ok) {
-      throw new Error(`Fichier introuvable : /data/mishna/${file} (${res.status})`)
-    }
-
+    const res = await fetch(`/data/mishna/${encodeURIComponent(file)}`, { cache: 'no-store' })
+    if (!res.ok) throw new Error(`Fichier introuvable : /data/mishna/${file} (${res.status})`)
     currentMishnaData = await res.json()
     renderCurrentMishna()
   } catch (error) {
@@ -102,7 +95,6 @@ function renderCurrentMishna() {
   const title = document.querySelector('#dafTitle')
   const nav = document.querySelector('#dafNav')
   const segments = document.querySelector('#segments')
-
   if (!currentMishnaData || !segments) return
 
   const items = flattenMishnaSegments(currentMishnaData)
@@ -148,7 +140,6 @@ function flattenMishnaSegments(node, output = []) {
 function renderMishnaCard(item, index) {
   const study = item.etude_fr || {}
   const title = item.ref || `Michna ${item.id || index + 1}`
-
   const frenchTranslation =
     item.fr ||
     study.traduction_fr ||
@@ -172,21 +163,49 @@ function renderMishnaCard(item, index) {
 
 function renderFrenchStudy(study) {
   return `
+    ${renderWordByWordLines(study.explication_ligne_par_ligne)}
     ${study.introduction ? section('Introduction', study.introduction) : ''}
     ${study.contexte_general ? section('Contexte général', study.contexte_general) : ''}
-    ${renderLineByLine(study.explication_ligne_par_ligne)}
     ${renderWords(study.mots_difficiles)}
     ${renderListSection('Notions nouvelles', study.notions_nouvelles)}
     ${renderMefarshim(study.mefarshim)}
     ${study.halakha_retenue ? section('Halakha retenue', study.halakha_retenue) : ''}
     ${renderListSection('Conséquences pratiques', study.consequences_pratiques)}
-    ${renderLinks(study.liens_sources)}
-    ${renderListSection('Exemples concrets', study.exemples_concrets)}
     ${renderListSection('Résumé essentiel', study.resume_essentiel)}
     ${renderQuestions(study.questions_revision)}
     ${renderSources(study.sources_verifiables)}
-    ${renderListSection('Incertitudes', study.incertitudes)}
     ${study.synthese_finale ? section('Synthèse finale', study.synthese_finale) : ''}
+  `
+}
+
+function renderWordByWordLines(lines) {
+  if (!Array.isArray(lines) || !lines.length) return ''
+
+  return `
+    <section class="mishnaStudySection">
+      <h4>Mot à mot</h4>
+
+      ${lines.map(line => `
+        <div class="mishnaWordLine">
+          <div class="he">${line.texte_hebreu || ''}</div>
+
+          <div class="mishnaWordPairs">
+            ${(Array.isArray(line.mot_a_mot) ? line.mot_a_mot : []).map(word => `
+              <span class="mishnaWordPair">
+                <span class="mishnaWordHebrew">${word.hebreu || ''}</span>
+                <span class="mishnaWordFrench">${escapeHtml(word.sens_francais || '')}</span>
+              </span>
+            `).join('')}
+          </div>
+
+          ${line.explication ? `
+            <p class="mishnaLineExplanation">
+              <b>Explication :</b> ${escapeHtml(line.explication)}
+            </p>
+          ` : ''}
+        </div>
+      `).join('')}
+    </section>
   `
 }
 
@@ -201,7 +220,6 @@ function section(title, content) {
 
 function renderListSection(title, items) {
   if (!Array.isArray(items) || !items.length) return ''
-
   return `
     <section class="mishnaStudySection">
       <h4>${escapeHtml(title)}</h4>
@@ -210,50 +228,14 @@ function renderListSection(title, items) {
   `
 }
 
-function renderLineByLine(lines) {
-  if (!Array.isArray(lines) || !lines.length) return ''
-
-  return `
-    <details class="mishnaStudySection" open>
-      <summary>Traduction ligne par ligne</summary>
-
-      ${lines.map(line => `
-        <div class="mishnaStudyBlock">
-          <div class="he">${line.texte_hebreu || ''}</div>
-
-          <div class="literalTranslation">
-            ${escapeHtml(
-              line.traduction_litterale ||
-              line.traduction_fr ||
-              ''
-            )}
-          </div>
-
-          ${line.explication ? `
-            <details class="lineExplanationDetails">
-              <summary>Explication</summary>
-              <p>${escapeHtml(line.explication)}</p>
-            </details>
-          ` : ''}
-        </div>
-      `).join('')}
-    </details>
-  `
-}
-
 function renderWords(words) {
   if (!Array.isArray(words) || !words.length) return ''
-
   return `
     <details class="mishnaStudySection">
       <summary>Mots difficiles</summary>
       ${words.map(word => `
         <div class="mishnaStudyBlock">
-          <p>
-            <b>${escapeHtml(word.mot || '')}</b>
-            ${word.translitteration ? `(${escapeHtml(word.translitteration)})` : ''}
-            — ${escapeHtml(word.traduction || '')}
-          </p>
+          <p><b>${escapeHtml(word.mot || '')}</b> — ${escapeHtml(word.traduction || '')}</p>
           <p>${escapeHtml(word.explication || '')}</p>
         </div>
       `).join('')}
@@ -263,7 +245,6 @@ function renderWords(words) {
 
 function renderMefarshim(items) {
   if (!Array.isArray(items) || !items.length) return ''
-
   return `
     <details class="mishnaStudySection">
       <summary>Méfarchim classiques</summary>
@@ -272,26 +253,6 @@ function renderMefarshim(items) {
           <p><b>${escapeHtml(item.auteur || '')}</b> — ${escapeHtml(item.source_precise || '')}</p>
           <p>${escapeHtml(item.opinion || '')}</p>
           <p><b>Logique :</b> ${escapeHtml(item.logique || '')}</p>
-          ${item.desaccords ? `<p><b>Désaccords :</b> ${escapeHtml(item.desaccords)}</p>` : ''}
-        </div>
-      `).join('')}
-    </details>
-  `
-}
-
-function renderLinks(items) {
-  if (!Array.isArray(items) || !items.length) return ''
-
-  return `
-    <details class="mishnaStudySection">
-      <summary>Liens avec d’autres sources</summary>
-      ${items.map(item => `
-        <div class="mishnaStudyBlock">
-          <p>
-            <b>${escapeHtml(item.reference || '')}</b>
-            ${item.type_source ? `— ${escapeHtml(item.type_source)}` : ''}
-          </p>
-          <p>${escapeHtml(item.explication_du_lien || '')}</p>
         </div>
       `).join('')}
     </details>
@@ -300,7 +261,6 @@ function renderLinks(items) {
 
 function renderQuestions(items) {
   if (!Array.isArray(items) || !items.length) return ''
-
   return `
     <details class="mishnaStudySection">
       <summary>Questions de révision</summary>
@@ -316,7 +276,6 @@ function renderQuestions(items) {
 
 function renderSources(sources) {
   if (!Array.isArray(sources) || !sources.length) return ''
-
   return `
     <details class="mishnaStudySection">
       <summary>Sources</summary>

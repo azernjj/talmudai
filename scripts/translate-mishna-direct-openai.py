@@ -71,6 +71,8 @@ class EtudeMishna(BaseModel):
     reference: str
     texte_original_hebreu: str
 
+    # Une seule traduction pour le site :
+    # elle doit être simultanément très fidèle et fluide.
     traduction_fr: str
 
     introduction: str
@@ -96,173 +98,209 @@ class EtudeMishna(BaseModel):
 
 
 SYSTEM_PROMPT = r"""
-Tu es un spécialiste rigoureux de la Torah, de la Michna et du Talmud,
-un melamed expérimenté et un vérificateur de fidélité aux sources classiques.
+Tu es à la fois un gaon spécialiste de la Torah, de la Michna et du Talmud,
+un enseignant (melamed) d'exception, un ingénieur logiciel senior,
+un expert UX/UI et un chef de projet.
 
-MISSION
-Produire, pour une seule Michna :
-1. une traduction française unique, fidèle et fluide ;
-2. un véritable mot à mot lexical brut ;
-3. une étude complète, pédagogique et strictement fidèle aux sources traditionnelles.
+Ta mission est de créer le meilleur site au monde pour l'étude de la Michna,
+destiné aussi bien aux débutants qu'aux étudiants avancés.
 
-LANGUE SOURCE
-- Travaille directement depuis le texte hébreu/araméen fourni.
-- N'utilise jamais l'anglais comme base.
-- Ignore toute traduction anglaise éventuellement présente dans le fichier.
+L'objectif est que chaque utilisateur puisse parvenir à une compréhension
+la plus complète, profonde et fidèle possible de chaque Michna,
+sans jamais s'éloigner de la tradition juive authentique.
 
-TRADUCTION FRANÇAISE UNIQUE
-Produis une seule traduction française dans `traduction_fr`.
+POUR CHAQUE MICHNA
 
-Cette traduction doit être :
-- extrêmement fidèle au texte hébreu ou araméen ;
-- complète, sans omission ;
-- précise dans le vocabulaire halakhique ;
+Tu dois produire une étude complète comprenant notamment :
+
+1. Le texte original en hébreu.
+
+2. Une traduction française extrêmement fidèle.
+
+3. Une traduction fluide permettant une lecture naturelle.
+
+IMPORTANT POUR LES POINTS 2 ET 3 :
+Le site n'utilise qu'un seul champ appelé `traduction_fr`.
+Tu dois donc produire une seule traduction qui soit à la fois :
+- extrêmement fidèle au texte hébreu ;
+- complète ;
 - naturelle et fluide en français ;
-- lisible sans déformer le sens.
+- précise dans le vocabulaire halakhique ;
+- sans ajout explicatif à l'intérieur de la traduction.
 
-Ne produis pas de deuxième traduction littéraire ou fidèle séparée.
-Les explications doivent rester dans les champs d'étude.
+4. Une explication ligne par ligne.
 
-MOT À MOT LEXICAL STRICT
-Pour chaque ligne ou unité de sens :
-- recopie exactement le texte hébreu dans `texte_hebreu` ;
-- produis dans `mot_a_mot` une entrée séparée pour chaque mot hébreu,
-  ou pour chaque unité grammaticale minimale réellement inséparable.
+Pour chaque mot hébreu, donne uniquement son sens direct dans le contexte,
+sans réorganiser la phrase et sans produire une formulation française naturelle.
 
-Pour chaque entrée de `mot_a_mot`, indique :
-- `hebreu` : le mot exact en hébreu, avec préfixes et suffixes ;
-- `translitteration` : sa prononciation ;
-- `sens_francais` : le sens lexical direct du mot dans ce contexte ;
-- `fonction_dans_la_phrase` : sa fonction grammaticale précise.
+Le champ `sens_francais` doit respecter les règles suivantes :
 
-Règles obligatoires pour `sens_francais` :
-- traduire le mot lui-même et non le sens général de la phrase ;
-- conserver autant que possible le temps, le nombre, la personne et la forme grammaticale ;
-- ne pas réorganiser les mots pour former une phrase française naturelle ;
-- ne pas ajouter un sujet comme « on », « il » ou « ils » s'il n'apparaît pas explicitement ;
-- ne pas fusionner plusieurs mots pour rendre la traduction élégante ;
-- ne pas transformer un pluriel en singulier ;
-- ne pas transformer un verbe en nom ;
-- ne pas ajouter d'explication dans `sens_francais` ;
-- pour une particule sans équivalent autonome, indiquer seulement sa fonction grammaticale ;
-- pour les préfixes et suffixes, conserver leur valeur directe dans le sens lexical ;
-- placer toute précision grammaticale dans `fonction_dans_la_phrase`.
+- traduire le mot lui-même, pas le sens général de la phrase ;
+- conserver autant que possible le temps, le nombre et la forme grammaticale ;
+- ne pas ajouter de sujet impersonnel comme « on » si ce sujet n'apparaît pas explicitement ;
+- ne pas transformer un verbe pluriel en phrase française complète ;
+- ne pas fusionner plusieurs mots pour obtenir une traduction élégante ;
+- pour les particules sans équivalent autonome, indiquer seulement leur fonction grammaticale ;
+- pour les préfixes et suffixes, conserver leur sens propre dans la traduction ;
+- ne jamais remplacer le mot à mot par une paraphrase.
 
-Exemples corrects :
-מֵאֵימָתַי
-sens_francais : "depuis quand"
+Exemples :
 
-קוֹרִין
-sens_francais : "lisent / récitent"
-fonction_dans_la_phrase : "verbe, troisième personne du pluriel, emploi impersonnel dans le contexte"
+מֵאֵימָתַי = depuis quand
+קוֹרִין = lisent / récitent
+אֶת = marque du complément d'objet direct
+שְׁמַע = Chéma
+בְּעַרְבִית = au soir / dans le soir
 
-אֶת
-sens_francais : "marque du complément d'objet direct"
-fonction_dans_la_phrase : "particule grammaticale sans traduction autonome"
+מִשָּׁעָה = depuis le moment
+שֶׁהַכֹּהֲנִים = que les prêtres
+נִכְנָסִים = entrent
+לֶאֱכֹל = pour manger
+בִּתְרוּמָתָן = dans leur terouma / de leur terouma
 
-שְׁמַע
-sens_francais : "Chéma"
+Le mot à mot doit rester volontairement brut,
+non littéraire et non réorganisé.
 
-בְּעַרְבִית
-sens_francais : "au soir / dans le soir"
-fonction_dans_la_phrase : "complément de temps avec préfixe ב"
+RÈGLE TERMINOLOGIQUE OBLIGATOIRE :
 
-Exemples interdits :
-קוֹרִין = "on récite"
-מֵאֵימָתַי קוֹרִין = "à partir de quand récite-t-on"
-בְּעַרְבִית = "le soir" sans rendre ni expliquer le préfixe ב
+הָאַשְׁמוּרָה = la garde
 
-Le mot à mot doit rester volontairement brut, non littéraire et non réorganisé.
+Ne traduis jamais הָאַשְׁמוּרָה par « la veille ».
+Cette règle vaut dans :
+- `traduction_fr` ;
+- `mot_a_mot` ;
+- `explication` ;
+- les commentaires ;
+- les résumés ;
+- la synthèse finale.
+
+5. Une explication de chaque mot difficile ou technique.
+
+6. Les notions nouvelles introduites par cette Michna.
+
+7. Une introduction lorsque le chapitre ou la Michna introduit de nouveaux concepts.
+
+8. Le contexte général permettant de comprendre pourquoi cette Michna apparaît ici.
+
+9. Les principales opinions des Méfarchim classiques
+(Rachi lorsqu'il existe, Rambam, Bartenoura,
+Tossafot Yom Tov, Tiféret Israël, etc.),
+en précisant clairement lorsqu'ils sont en désaccord.
+
+10. Les raisons et la logique de chaque opinion.
+
+11. La halakha retenue lorsque cela est pertinent.
+
+12. Les conséquences pratiques dans la vie quotidienne lorsqu'elles existent.
+
+13. Les liens avec d'autres Michnayot, Guemarot,
+versets du Tanakh ou autres sources pertinentes.
+
+14. Des exemples concrets facilitant la compréhension.
+
+15. Un résumé clair des idées essentielles.
+
+16. Des questions de révision et de compréhension.
+
+17. Une synthèse finale.
 
 FIDÉLITÉ ABSOLUE
-- N'invente aucune source, opinion, halakha ou référence.
-- Ne présente jamais une hypothèse comme un fait.
-- Distingue clairement les auteurs et les opinions.
-- Si une attribution est incertaine, omets-la de `mefarshim`
-  et signale-la dans `incertitudes`.
-- Si la halakha pratique ne peut pas être vérifiée avec certitude, écris :
-  "À vérifier dans les sources halakhiques faisant autorité."
-- Conserve exactement l'identifiant, la référence et le texte hébreu fournis.
-- En cas de doute sérieux sur un terme, conserve la translittération et ajoute [?].
-- Réponds uniquement selon le schéma JSON demandé.
 
-CONTENU OBLIGATOIRE
-- une traduction française unique, fidèle et fluide ;
-- un mot à mot lexical strict, mot par mot, non réorganisé ;
-- une explication ligne par ligne ;
-- une introduction ;
-- le contexte général ;
-- les mots difficiles et techniques ;
-- les notions nouvelles ;
-- les opinions classiques pertinentes et vérifiables ;
-- la logique de chaque opinion ;
-- les désaccords éventuels ;
-- la halakha retenue si elle est vérifiable ;
-- les conséquences pratiques ;
-- les liens avec d'autres Michnayot, Guemarot, versets et sources ;
-- des exemples concrets ;
-- un résumé essentiel ;
-- des questions de révision avec réponses ;
-- une synthèse finale ;
-- les sources vérifiables ;
-- les incertitudes.
+La priorité absolue est la fidélité à la Torah et à la tradition juive.
 
-HARMONISATION TALMUDIQUE
-מתניתין = notre Michna / la Michna
-תנן = nous avons appris dans une Michna
-תניא = il a été enseigné dans une baraïta
-תנו רבנן = les Sages ont enseigné
-מאי טעמא = pour quelle raison ?
-מנא הני מילי = d'où savons-nous cela ?
-פשיטא = c'est évident
-קא משמע לן = cela vient nous enseigner
-איבעיא להו = une question leur fut posée
-תיקו = la question reste non résolue (teïkou)
-תא שמע = viens et écoute une preuve
-שמע מינה = déduis-en que
-איתיביה = il lui objecta
-מתקיף לה = il souleva une objection
-לא קשיא = ce n'est pas une difficulté
-הכא במאי עסקינן = de quel cas traitons-nous ici ?
-אלא = mais plutôt / en réalité
-אי הכי = s'il en est ainsi
-נפקא מינה = conséquence pratique
-קשיא = la difficulté demeure
-תיובתא = réfutation décisive
-הלכתא = la halakha est
+Tu ne dois jamais :
+- inventer une explication ;
+- présenter une hypothèse comme un fait ;
+- simplifier au point de déformer le sens ;
+- mélanger différentes opinions sans préciser leurs auteurs ;
+- inventer une référence ;
+- inventer une source ;
+- inventer une conclusion halakhique.
 
-VOCABULAIRE
-אסור = interdit
-מותר = permis
-חייב = est tenu de / est passible de / est redevable de, selon le contexte
-פטור = exempt / dispensé / non passible
-טמא = impur rituellement
-טהור = pur rituellement
-קנין = acte d'acquisition juridique (kinyan)
-חזקה = présomption juridique / possession établie / mode d'acquisition (‘hazaka)
-הפקר = bien sans propriétaire (hefker)
-ממון = obligation ou valeur monétaire
-קנס = amende légale
-נזק = dommage
-לכתחילה = a priori
-בדיעבד = a posteriori
-דרבנן = d'ordre rabbinique
-דאורייתא = d'ordre toranique
-גט = guet
-כתובה = ketouba
-קידושין = kiddouchin
-יבום = yiboum
-חליצה = ‘halitsa
+Lorsque plusieurs interprétations existent,
+elles doivent être clairement distinguées et attribuées à leurs auteurs.
+
+En cas d'incertitude, indique-le explicitement.
+
+Toutes les informations doivent être vérifiables
+à partir de sources traditionnelles reconnues.
+
+ARCHITECTURE DU PROJET
+
+Tu dois raisonner comme une équipe d'experts composée
+de plusieurs sous-agents collaborant ensemble.
+
+1. Expert Torah
+Analyse la Michna, recherche les sources,
+les Méfarchim et les références.
+
+2. Vérificateur de fidélité
+Contrôle que tout est parfaitement conforme
+aux sources traditionnelles
+et qu'aucune erreur doctrinale n'est introduite.
+
+3. Expert pédagogique
+Réécrit les explications afin qu'elles soient compréhensibles
+par un débutant sans perdre la profondeur nécessaire.
+
+4. Ingénieur logiciel
+Conçoit l'architecture technique du projet,
+les performances, la maintenabilité et l'évolutivité.
+
+5. Designer UX/UI
+Imagine une interface moderne, élégante,
+intuitive et agréable,
+optimisée pour l'étude de longue durée
+sur ordinateur comme sur mobile.
+
+6. Responsable accessibilité
+Veille à ce que le site soit accessible à tous
+(typographie, contraste, navigation, dyslexie, responsive, etc.).
+
+7. Superviseur général
+Relit l'ensemble du travail,
+détecte les incohérences
+et garantit un niveau de qualité exceptionnel
+avant toute validation.
+
+NIVEAU D'EXIGENCE
+
+Considère que ce projet a vocation à devenir
+la référence mondiale de l'étude de la Michna en français.
+
+Chaque réponse doit être :
+- rigoureuse ;
+- extrêmement précise ;
+- pédagogique ;
+- agréable à lire ;
+- élégante ;
+- parfaitement organisée ;
+- fidèle à la tradition juive ;
+- pensée pour offrir la meilleure expérience d'étude possible.
+
+Tu ne sacrifies jamais la qualité pour aller plus vite.
+Chaque détail compte.
+
+N'oublie pas de donner les sources.
+
+RÈGLES DE SORTIE
+
+- Réponds uniquement selon le schéma JSON imposé.
+- Conserve exactement l'identifiant fourni.
+- Conserve exactement la référence fournie.
+- Conserve exactement le texte hébreu fourni.
+- Aucun champ obligatoire ne doit être vide.
+- `sources_verifiables` doit contenir au minimum la référence de la Michna.
 """
 
 
 def save_json(path: Path, data: Any) -> None:
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    tmp.write_text(
+    temp_path = path.with_suffix(path.suffix + ".tmp")
+    temp_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    tmp.replace(path)
+    temp_path.replace(path)
 
 
 def iter_mishnayot(data: dict[str, Any]):
@@ -285,24 +323,33 @@ def iter_mishnayot(data: dict[str, Any]):
             continue
 
         for index, segment in enumerate(mishnayot):
-            if (
-                isinstance(segment, dict)
-                and str(segment.get("he") or "").strip()
-            ):
+            if not isinstance(segment, dict):
+                continue
+
+            hebrew = str(segment.get("he") or "").strip()
+
+            if hebrew:
                 yield str(chapter_key), index, segment
 
 
 def completed(segment: dict[str, Any]) -> bool:
     study = segment.get("etude_fr")
 
-    if not (
-        str(segment.get("fr") or "").strip()
-        and isinstance(study, dict)
-        and str(study.get("traduction_fr") or "").strip()
-        and str(study.get("synthese_finale") or "").strip()
-        and isinstance(study.get("sources_verifiables"), list)
-        and study.get("sources_verifiables")
-    ):
+    if not isinstance(study, dict):
+        return False
+
+    if not str(segment.get("fr") or "").strip():
+        return False
+
+    if not str(study.get("traduction_fr") or "").strip():
+        return False
+
+    if not str(study.get("synthese_finale") or "").strip():
+        return False
+
+    sources = study.get("sources_verifiables")
+
+    if not isinstance(sources, list) or not sources:
         return False
 
     lines = study.get("explication_ligne_par_ligne")
@@ -310,71 +357,85 @@ def completed(segment: dict[str, Any]) -> bool:
     if not isinstance(lines, list) or not lines:
         return False
 
-    return all(
-        isinstance(line, dict)
-        and isinstance(line.get("mot_a_mot"), list)
-        and line.get("mot_a_mot")
-        for line in lines
-    )
+    for line in lines:
+        if not isinstance(line, dict):
+            return False
+
+        words = line.get("mot_a_mot")
+
+        if not isinstance(words, list) or not words:
+            return False
+
+    return True
 
 
 def validate_result(
     result: EtudeMishna,
     expected_id: str,
-    expected_ref: str,
-    expected_he: str,
+    expected_reference: str,
+    expected_hebrew: str,
 ) -> None:
     if result.id != expected_id:
         raise ValueError(
             f"Identifiant modifié : attendu {expected_id}, reçu {result.id}"
         )
 
-    if result.reference != expected_ref:
+    if result.reference != expected_reference:
         raise ValueError(
-            f"Référence modifiée : attendue {expected_ref}, reçue {result.reference}"
+            f"Référence modifiée : attendue {expected_reference}, "
+            f"reçue {result.reference}"
         )
 
-    if result.texte_original_hebreu.strip() != expected_he.strip():
+    if result.texte_original_hebreu.strip() != expected_hebrew.strip():
         raise ValueError("Le texte hébreu original a été modifié.")
 
-    if not result.traduction_fr.strip():
-        raise ValueError("traduction_fr est vide.")
+    required_strings = [
+        result.traduction_fr,
+        result.introduction,
+        result.contexte_general,
+        result.halakha_retenue,
+        result.synthese_finale,
+    ]
 
-    if not result.introduction.strip():
-        raise ValueError("introduction est vide.")
-
-    if not result.contexte_general.strip():
-        raise ValueError("contexte_general est vide.")
+    if any(not value.strip() for value in required_strings):
+        raise ValueError("Un champ textuel obligatoire est vide.")
 
     if not result.explication_ligne_par_ligne:
         raise ValueError("explication_ligne_par_ligne est vide.")
 
-    for line_index, line in enumerate(
+    for line_number, line in enumerate(
         result.explication_ligne_par_ligne,
         start=1,
     ):
         if not line.texte_hebreu.strip():
             raise ValueError(
-                f"texte_hebreu vide dans la ligne {line_index}."
+                f"texte_hebreu vide dans la ligne {line_number}."
             )
 
         if not line.mot_a_mot:
             raise ValueError(
-                f"mot_a_mot vide dans la ligne {line_index}."
+                f"mot_a_mot vide dans la ligne {line_number}."
             )
 
-        for word_index, word in enumerate(
+        if not line.explication.strip():
+            raise ValueError(
+                f"explication vide dans la ligne {line_number}."
+            )
+
+        for word_number, word in enumerate(
             line.mot_a_mot,
             start=1,
         ):
             if not word.hebreu.strip():
                 raise ValueError(
-                    f"Mot hébreu vide : ligne {line_index}, mot {word_index}."
+                    f"Mot hébreu vide : ligne {line_number}, "
+                    f"mot {word_number}."
                 )
 
             if not word.sens_francais.strip():
                 raise ValueError(
-                    f"sens_francais vide : ligne {line_index}, mot {word_index}."
+                    f"sens_francais vide : ligne {line_number}, "
+                    f"mot {word_number}."
                 )
 
     if not result.resume_essentiel:
@@ -382,9 +443,6 @@ def validate_result(
 
     if not result.questions_revision:
         raise ValueError("questions_revision est vide.")
-
-    if not result.synthese_finale.strip():
-        raise ValueError("synthese_finale est vide.")
 
     if not result.sources_verifiables:
         raise ValueError("sources_verifiables est vide.")
@@ -397,18 +455,20 @@ def call_openai(
     retries: int,
 ) -> EtudeMishna:
     expected_id = str(segment.get("id") or "")
-    expected_ref = str(segment.get("ref") or "")
-    expected_he = str(segment.get("he") or "").strip()
+    expected_reference = str(segment.get("ref") or "")
+    expected_hebrew = str(segment.get("he") or "").strip()
 
     payload = {
         "id_a_conserver_exactement": expected_id,
-        "reference_a_conserver_exactement": expected_ref,
-        "texte_hebreu_araméen_source": expected_he,
-        "instruction": (
-            "Travaille uniquement depuis le texte hébreu/araméen. "
-            "Produis une traduction française unique, fidèle et fluide. "
-            "Produis aussi un vrai mot à mot lexical brut, mot par mot, "
-            "sans réorganiser la phrase. N'utilise pas le champ anglais."
+        "reference_a_conserver_exactement": expected_reference,
+        "texte_hebreu_araméen_source": expected_hebrew,
+        "instruction_importante": (
+            "Travaille uniquement depuis le texte hébreu/araméen fourni. "
+            "N'utilise pas le champ anglais. "
+            "Produis une traduction française à la fois fidèle et fluide. "
+            "Produis obligatoirement un mot à mot lexical strict dans "
+            "chaque entrée de explication_ligne_par_ligne. "
+            "הָאַשְׁמוּרָה signifie la garde et jamais la veille."
         ),
     }
 
@@ -438,13 +498,13 @@ def call_openai(
             result = response.output_parsed
 
             if result is None:
-                raise ValueError("Réponse structurée vide.")
+                raise ValueError("Réponse structurée vide ou refusée.")
 
             validate_result(
-                result,
-                expected_id,
-                expected_ref,
-                expected_he,
+                result=result,
+                expected_id=expected_id,
+                expected_reference=expected_reference,
+                expected_hebrew=expected_hebrew,
             )
 
             return result
@@ -463,15 +523,33 @@ def call_openai(
     raise RuntimeError(f"Échec définitif : {last_error}")
 
 
+def resolve_path(raw_path: str) -> Path:
+    direct = Path(raw_path)
+
+    if direct.exists():
+        return direct
+
+    fallback = Path("public/data/mishna") / raw_path
+
+    if fallback.exists():
+        return fallback
+
+    raise FileNotFoundError(raw_path)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description=(
-            "Traduit et explique les Michnayot avec une traduction "
-            "française unique et un mot à mot lexical strict."
+            "Traduit et explique les Michnayot avec OpenAI, "
+            "avec un mot à mot lexical strict."
         )
     )
 
-    parser.add_argument("--file", required=True)
+    parser.add_argument(
+        "--file",
+        required=True,
+        help="Fichier JSON de Michna.",
+    )
 
     parser.add_argument(
         "--model",
@@ -488,7 +566,7 @@ def main() -> int:
     parser.add_argument(
         "--chapter",
         default="",
-        help="Limiter à un chapitre précis.",
+        help="Limiter à un chapitre.",
     )
 
     parser.add_argument(
@@ -513,26 +591,24 @@ def main() -> int:
 
     if not os.getenv("OPENAI_API_KEY"):
         print(
-            "❌ OPENAI_API_KEY manquant. Lance : source ~/.talmudai-env",
+            "❌ OPENAI_API_KEY manquant. "
+            "Lance : source ~/.talmudai-env",
             file=sys.stderr,
         )
         return 2
 
-    path = Path(args.file)
+    try:
+        path = resolve_path(args.file)
+    except FileNotFoundError:
+        print(
+            f"❌ Fichier introuvable : {args.file}",
+            file=sys.stderr,
+        )
+        return 2
 
-    if not path.exists():
-        fallback = Path("public/data/mishna") / args.file
-
-        if fallback.exists():
-            path = fallback
-        else:
-            print(
-                f"❌ Fichier introuvable : {args.file}",
-                file=sys.stderr,
-            )
-            return 2
-
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(
+        path.read_text(encoding="utf-8")
+    )
 
     candidates = list(iter_mishnayot(data))
     selected = []
@@ -558,7 +634,8 @@ def main() -> int:
         for chapter, index, segment in selected:
             print(
                 f"- chapitre {chapter}, index {index}, "
-                f"id={segment.get('id')}, ref={segment.get('ref')}"
+                f"id={segment.get('id')}, "
+                f"ref={segment.get('ref')}"
             )
 
         return 0
@@ -568,7 +645,7 @@ def main() -> int:
         return 0
 
     client = OpenAI()
-    done = 0
+    completed_count = 0
 
     for chapter, index, segment in selected:
         print(
@@ -588,11 +665,21 @@ def main() -> int:
 
         save_json(path, data)
 
-        done += 1
-        print(f"✅ Sauvegardé ({done}/{len(selected)})")
+        completed_count += 1
 
-    print(f"\n✅ Traduction terminée : {done} Michna(yot).")
-    print(f"   Fichier mis à jour : {path}")
+        print(
+            f"✅ Sauvegardé "
+            f"({completed_count}/{len(selected)})"
+        )
+
+    print(
+        f"\n✅ Traduction terminée : "
+        f"{completed_count} Michna(yot)."
+    )
+
+    print(
+        f"   Fichier mis à jour : {path}"
+    )
 
     return 0
 
