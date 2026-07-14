@@ -245,16 +245,47 @@ function renderWords(words) {
 
 function renderMefarshim(items) {
   if (!Array.isArray(items) || !items.length) return ''
+
   return `
     <details class="mishnaStudySection">
       <summary>Méfarchim classiques</summary>
-      ${items.map(item => `
-        <div class="mishnaStudyBlock">
-          <p><b>${escapeHtml(item.auteur || '')}</b> — ${escapeHtml(item.source_precise || '')}</p>
-          <p>${escapeHtml(item.opinion || '')}</p>
-          <p><b>Logique :</b> ${escapeHtml(item.logique || '')}</p>
-        </div>
-      `).join('')}
+
+      ${items.map(item => {
+        const auteur = item.auteur || ''
+
+        const reference =
+          item.reference ||
+          item.source_precise ||
+          ''
+
+        const explication =
+          item.explication ||
+          item.explication_fr ||
+          item.opinion ||
+          ''
+
+        const logique =
+          item.logique ||
+          item.lien_avec_la_michna ||
+          ''
+
+        return `
+          <div class="mishnaStudyBlock">
+            <p>
+              <b>${escapeHtml(auteur)}</b>
+              ${reference ? ` — ${escapeHtml(reference)}` : ''}
+            </p>
+
+            ${explication ? `
+              <p>${escapeHtml(explication)}</p>
+            ` : ''}
+
+            ${logique ? `
+              <p><b>Logique :</b> ${escapeHtml(logique)}</p>
+            ` : ''}
+          </div>
+        `
+      }).join('')}
     </details>
   `
 }
