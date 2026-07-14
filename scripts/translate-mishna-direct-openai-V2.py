@@ -19,8 +19,8 @@ halakha, mitsva, terouma, maasser, peah, Chemita, Cohen, Lévi.
 
 Règles :
 - יום טוב = Yom Tov, jamais festival, fête ou jour bon.
-- הָאַשְׁמוּרָה = la garde.
-- אַשְׁמוּרָה = une garde.
+- הָאַשְׁמוּרָה = la garde.
+- אַשְׁמוּרָה = une garde.
 - אוֹר = lumière, clarté ou lever du jour selon le contexte, jamais « ou ».
 
 Après la traduction, donne obligatoirement entre 2 et 5 Méfarchim en français.
@@ -31,9 +31,14 @@ Présente en priorité :
 4. Tiféret Israël
 5. Rachi ou Tossafot seulement si la Guemara correspondante éclaire directement cette Michna
 
-Pour chaque Méfaresh, donne son nom, une référence précise et une explication claire.
+Pour chaque Méfaresh, donne :
+- auteur : son nom
+- source_precise : la référence précise de son commentaire (ex. Bartenoura sur cette Michna, Rambam Michné Torah Hilkhot..., Guemara Chabbat 12a...)
+- opinion : ce que dit ce commentateur sur cette Michna, en français clair
+- logique : le raisonnement ou la source qui justifie cette opinion
+
 N'invente jamais une opinion. Si une référence exacte n'est pas certaine, écris
-« référence générale sur cette Michna » plutôt qu'une fausse référence.
+« référence générale sur cette Michna » dans source_precise plutôt qu'une fausse référence.
 
 Retourne uniquement le JSON demandé."""
 
@@ -51,10 +56,11 @@ SCHEMA = {
                 "additionalProperties": False,
                 "properties": {
                     "auteur": {"type": "string"},
-                    "reference": {"type": "string"},
-                    "explication": {"type": "string"},
+                    "source_precise": {"type": "string"},
+                    "opinion": {"type": "string"},
+                    "logique": {"type": "string"},
                 },
-                "required": ["auteur", "reference", "explication"],
+                "required": ["auteur", "source_precise", "opinion", "logique"],
             },
         },
     },
