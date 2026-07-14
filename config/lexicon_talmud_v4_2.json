@@ -1,0 +1,56 @@
+{
+  "version": "4.2",
+  "termes_conserves": {
+    "יום טוב": "Yom Tov",
+    "שבת": "Chabbat",
+    "משנה": "Michna",
+    "גמרא": "Guemara",
+    "ברייתא": "Baraïta",
+    "הלכה": "halakha",
+    "מצוה": "mitsva",
+    "תנא": "Tanna",
+    "אמורא": "Amora"
+  },
+  "regles_canoniques": [
+    {
+      "label": "אשמורה",
+      "sources": [
+        "הָאַשְׁמוּרָה",
+        "אַשְׁמוּרָה",
+        "האשמורה",
+        "אשמורה"
+      ],
+      "required_any": [
+        "garde"
+      ],
+      "forbidden": [
+        "veille",
+        "ashmoura",
+        "ashmura"
+      ]
+    },
+    {
+      "label": "יום טוב",
+      "sources": [
+        "יום טוב",
+        "יוֹם טוֹב"
+      ],
+      "required_any": [
+        "Yom Tov"
+      ],
+      "forbidden": [
+        "festival",
+        "jour bon",
+        "jour de fête"
+      ]
+    }
+  ],
+  "expressions_fixes": {
+    "מיתיבי": "On objecte.",
+    "תא שמע": "Viens entendre.",
+    "פשיטא": "Cela est évident.",
+    "אמר מר": "Le Maître a dit.",
+    "תנן": "Nous avons appris dans la Michna.",
+    "תניא": "Il a été enseigné dans une Baraïta."
+  }
+}
