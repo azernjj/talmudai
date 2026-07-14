@@ -15,8 +15,47 @@
           "ref": "Mishnah Peah 1:1",
           "he": "אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר. הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרֵאָיוֹן, וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה. אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶן בָּעוֹלָם הַזֶּה וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא. כִּבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Voici les choses qui n’ont pas de mesure fixée : la peah, les bikkourim, la réayon, la guemilout hassadim et l’étude de la Torah. Voici les choses dont l’homme mange les fruits en ce monde, tandis que le capital lui demeure pour le monde à venir : le respect du père et de la mère, la guemilout hassadim, le fait d’amener la paix entre un homme et son prochain, et l’étude de la Torah équivaut à toutes.",
+          "etude_fr": {
+            "traduction_fr": "Voici les choses qui n’ont pas de mesure fixée : la peah, les bikkourim, la réayon, la guemilout hassadim et l’étude de la Torah. Voici les choses dont l’homme mange les fruits en ce monde, tandis que le capital lui demeure pour le monde à venir : le respect du père et de la mère, la guemilout hassadim, le fait d’amener la paix entre un homme et son prochain, et l’étude de la Torah équivaut à toutes.",
+            "mefarshim": [
+              {
+                "auteur": "Bartenoura",
+                "reference": "Peah 1:1, ד״ה הפאה",
+                "explication_fr": "« N’ont pas de mesure » signifie que, par la Torah, aucune quantité fixe n’est donnée. Pour la peah, même une petite part suffit selon la Torah, bien que les Sages aient fixé ensuite un minimum d’un soixantième."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Peah 1:1",
+                "explication_fr": "Pour les bikkourim aussi, il n’y a pas de quantité déterminée par la Torah : on peut accomplir la mitsva même avec une petite quantité des premiers fruits."
+              },
+              {
+                "auteur": "Bartenoura",
+                "reference": "Peah 1:1, ד״ה והראיון",
+                "explication_fr": "La réayon désigne le fait de se présenter au Temple lors des trois régals, avec le korban de réiya ; la Torah n’en fixe pas de mesure, même si les Sages ont donné des évaluations minimales ailleurs."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Peah 1:1",
+                "explication_fr": "La Michna réunit des mitsvot envers Hachem et envers autrui : certaines n’ont pas de mesure fixe, et certaines procurent des « fruits » en ce monde tout en laissant intact le mérite principal pour le monde à venir."
+              },
+              {
+                "auteur": "Bartenoura",
+                "reference": "Peah 1:1, ד״ה ותלמוד תורה כנגד כולם",
+                "explication_fr": "L’étude de la Torah équivaut à toutes, car elle mène à l’accomplissement des mitsvot ; elle éclaire donc et soutient toutes les autres obligations."
+              }
+            ],
+            "incertitudes": []
+          },
+          "translation_meta": {
+            "engine": "mishna-lite-v1",
+            "model": "gpt-5.5",
+            "source": "hebrew_only",
+            "input_tokens": 691,
+            "output_tokens": 1020,
+            "total_tokens": 1711,
+            "translated_at_unix": 1784061230
+          }
         },
         {
           "id": "1:2",
