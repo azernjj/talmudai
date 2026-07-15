@@ -15,8 +15,27 @@
           "ref": "Mishnah Orlah 1:1",
           "he": "הַנּוֹטֵעַ לִסְיָג וּלְקוֹרוֹת, פָּטוּר מִן הָעָרְלָה. רַבִּי יוֹסֵי אוֹמֵר, אֲפִלּוּ אָמַר הַפְּנִימִי לְמַאֲכָל וְהַחִיצוֹן לִסְיָג, הַפְּנִימִי חַיָּב, וְהַחִיצוֹן פָּטוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui plante pour faire une clôture ou pour obtenir des poutres est exempt de la orlah. Rabbi Yossé dit : même s’il a déclaré : « la partie intérieure est destinée à l’alimentation, et la partie extérieure à faire une clôture », la partie intérieure est soumise à l’obligation, et la partie extérieure en est exempte.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui plante pour faire une clôture ou pour obtenir des poutres est exempt de la orlah. Rabbi Yossé dit : même s’il a déclaré : « la partie intérieure est destinée à l’alimentation, et la partie extérieure à faire une clôture », la partie intérieure est soumise à l’obligation, et la partie extérieure en est exempte.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Orlah 1:1",
+                "explication": "L’interdit de orlah ne s’applique qu’à un arbre planté comme arbre fruitier, c’est-à-dire pour que ses fruits soient consommés. S’il le plante afin qu’il serve de haie, ou afin d’utiliser son bois comme poutres, ses fruits ne relèvent pas de la orlah. Pour Rabbi Yossé, lorsqu’un même ensemble de plantations est destiné en partie à l’alimentation et en partie à former une clôture, on distingue selon l’intention : ce qui est planté pour les fruits est soumis à la orlah, et ce qui est planté pour la clôture en est exempt."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:1",
+                "explication": "Le Rambam explique que la Torah a interdit les fruits des arbres plantés pour produire de la nourriture. En revanche, lorsque l’intention principale de la plantation n’est pas la consommation des fruits mais un usage utilitaire — clôture ou bois de construction —, l’arbre n’entre pas dans la catégorie soumise à la orlah. La parole ou l’intention du planteur au moment de la plantation détermine donc le statut des arbres concernés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Orlah 1:1",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna parle d’une exemption liée à la finalité de la plantation, non à la nature de l’arbre : même un arbre qui produit des fruits peut être exempt si, dès l’origine, il a été planté pour servir de clôture ou pour son bois. La précision de Rabbi Yossé enseigne que l’on peut partager le statut d’une plantation : les arbres ou parties désignés pour l’alimentation sont soumis à la orlah, tandis que ceux désignés pour un usage de clôture restent exempts."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +44,27 @@
           "ref": "Mishnah Orlah 1:2",
           "he": "עֵת שֶׁבָּאוּ אֲבוֹתֵינוּ לָאָרֶץ, מָצְאוּ נָטוּעַ, פָּטוּר. נָטְעוּ, אַף עַל פִּי שֶׁלֹּא כִבְּשׁוּ, חַיָּב. הַנּוֹטֵעַ לָרַבִּים, חַיָּב. רַבִּי יְהוּדָה פּוֹטֵר. הַנּוֹטֵעַ בִּרְשׁוּת הָרַבִּים, וְהַנָּכְרִי שֶׁנָּטַע, וְהַגַּזְלָן שֶׁנָּטַע, וְהַנּוֹטֵעַ בִּסְפִינָה, וְהָעוֹלֶה מֵאֵלָיו, חַיָּב בָּעָרְלָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsque nos pères vinrent dans le pays, s’ils trouvèrent des arbres déjà plantés, ils sont dispensés. S’ils les plantèrent eux-mêmes, bien qu’ils n’aient pas encore conquis le pays, ils sont soumis à l’obligation. Celui qui plante pour le public est soumis à l’obligation ; Rabbi Yehouda dispense. Celui qui plante dans le domaine public, le non-Juif qui a planté, le voleur qui a planté, celui qui plante dans un bateau, et ce qui pousse de soi-même, sont soumis à la orlah.",
+          "etude_fr": {
+            "traduction_fr": "Lorsque nos pères vinrent dans le pays, s’ils trouvèrent des arbres déjà plantés, ils sont dispensés. S’ils les plantèrent eux-mêmes, bien qu’ils n’aient pas encore conquis le pays, ils sont soumis à l’obligation. Celui qui plante pour le public est soumis à l’obligation ; Rabbi Yehouda dispense. Celui qui plante dans le domaine public, le non-Juif qui a planté, le voleur qui a planté, celui qui plante dans un bateau, et ce qui pousse de soi-même, sont soumis à la orlah.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:2",
+                "explication": "La dispense concernant les arbres trouvés déjà plantés à l’entrée en terre d’Israël est déduite du verset : « Quand vous viendrez dans le pays et que vous planterez tout arbre comestible » : l’obligation de orlah ne s’applique qu’à ce que vous plantez, non à ce que vous trouvez déjà planté. En revanche, s’ils ont planté après leur entrée, même avant la conquête et le partage du pays, l’arbre est soumis à la orlah. Le Bartenoura explique aussi que la halakha ne suit pas Rabbi Yehouda : même celui qui plante pour le public est soumis à la orlah."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:2",
+                "explication": "Le Rambam explique que l’obligation de orlah dépend de l’acte de plantation accompli après l’entrée en terre d’Israël, et non du fait que la terre soit déjà pleinement conquise. Ainsi, ce que les enfants d’Israël ont planté dès leur arrivée était interdit comme orlah, tandis que les arbres qu’ils trouvèrent déjà existants ne l’étaient pas. Il souligne que les cas énumérés à la fin de la Michna — domaine public, plantation d’un non-Juif, d’un voleur, dans un bateau, ou croissance spontanée — sont tous inclus dans l’obligation de orlah."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:2",
+                "explication": "Le Tossafot Yom Tov précise la différence entre « planter pour le public » et « planter dans le domaine public ». Planter pour le public signifie que l’arbre appartient à la collectivité, même s’il est planté dans un lieu approprié ; c’est sur ce cas que Rabbi Yehouda dispense. En revanche, planter dans le domaine public signifie que l’arbre est planté dans un lieu appartenant à l’usage public ; la Michna l’énumère parmi les cas soumis à la orlah, même selon l’opinion principale."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +73,27 @@
           "ref": "Mishnah Orlah 1:3",
           "he": "אִילָן שֶׁנֶּעֱקַר וְהַסֶּלַע עִמּוֹ, שְׁטָפוֹ נָהָר וְהַסֶּלַע עִמּוֹ, אִם יָכוֹל לִחְיוֹת, פָּטוּר, וְאִם לָאו, חַיָּב. נֶעֱקַר הַסֶּלַע מִצִּדּוֹ, אוֹ שֶׁזִּעְזְעַתּוּ הַמַּחֲרֵשָׁה, אוֹ שֶׁזִּעְזְעוֹ וַעֲשָׂאוֹ כְעָפָר, אִם יָכוֹל לִחְיוֹת, פָּטוּר, וְאִם לָאו, חַיָּב:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un arbre qui a été déraciné avec sa motte de terre, ou qu’un fleuve a emporté avec sa motte de terre : s’il peut vivre ainsi, il est exempt ; sinon, il est soumis à l’obligation. Si la motte de terre a été arrachée de son côté, ou si la charrue l’a ébranlé, ou si on l’a ébranlé et qu’on l’a réduit comme de la poussière : s’il peut vivre ainsi, il est exempt ; sinon, il est soumis à l’obligation.",
+          "etude_fr": {
+            "traduction_fr": "Un arbre qui a été déraciné avec sa motte de terre, ou qu’un fleuve a emporté avec sa motte de terre : s’il peut vivre ainsi, il est exempt ; sinon, il est soumis à l’obligation. Si la motte de terre a été arrachée de son côté, ou si la charrue l’a ébranlé, ou si on l’a ébranlé et qu’on l’a réduit comme de la poussière : s’il peut vivre ainsi, il est exempt ; sinon, il est soumis à l’obligation.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Orlah 1:3",
+                "explication": "La « motte de terre » désigne la terre compacte attachée aux racines de l’arbre au moment où il est déraciné. Si cette motte est suffisante pour que l’arbre puisse continuer à vivre, l’arbre n’est pas considéré comme une nouvelle plantation : il reste donc exempt d’un nouveau compte des années de orlah. Mais si la terre attachée aux racines ne suffit pas à le faire vivre, lorsqu’on le replante il est considéré comme nouvellement planté et il devient soumis à la orlah."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:3",
+                "explication": "Le Rambam explique que tout dépend de la capacité de l’arbre à subsister grâce à la terre restée attachée à ses racines. Si l’arbre peut vivre de cette terre, son statut initial demeure et il n’y a pas de nouveau compte. S’il ne peut pas vivre ainsi, le fait de le replanter est halakhiquement une nouvelle plantation, et l’on compte à nouveau les trois années de orlah."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Orlah 1:3",
+                "explication": "Le Tossafot Yom Tov précise que la Michna mentionne plusieurs cas pour enseigner que la règle est identique, que l’arbre ait été déplacé avec sa terre par l’homme, par le fleuve, ou qu’il ait seulement été ébranlé par un instrument agricole. Dans tous ces cas, le critère déterminant n’est pas la manière dont l’arbre a été déplacé ou endommagé, mais uniquement le fait qu’il puisse encore vivre grâce à ce qui est resté autour de ses racines."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +102,27 @@
           "ref": "Mishnah Orlah 1:4",
           "he": "אִילָן שֶׁנֶּעֱקַר וְנִשְׁתַּיֵּר בּוֹ שֹׁרֶשׁ, פָּטוּר. וְכַמָּה יְהֵא הַשֹּׁרֶשׁ, רַבָּן גַּמְלִיאֵל אוֹמֵר מִשּׁוּם רַבִּי אֶלְעָזָר בֶּן יְהוּדָה אִישׁ בַּרְתּוֹתָא, כְּמַחַט שֶׁל מִתּוּן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un arbre qui a été déraciné, mais dont il est resté une racine, est exempt. Et quelle doit être la taille de cette racine ? Rabban Gamliel dit au nom de Rabbi Elazar ben Yehouda, homme de Bartota : comme une aiguille de mitoun.",
+          "etude_fr": {
+            "traduction_fr": "Un arbre qui a été déraciné, mais dont il est resté une racine, est exempt. Et quelle doit être la taille de cette racine ? Rabban Gamliel dit au nom de Rabbi Elazar ben Yehouda, homme de Bartota : comme une aiguille de mitoun.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:4",
+                "explication": "Lorsqu’un arbre a été déraciné puis s’est de nouveau enraciné, s’il est resté attaché à la terre par une racine, il n’est pas considéré comme une nouvelle plantation et l’on ne recommence pas le compte des années de orlah. La mesure minimale de cette racine est « comme une aiguille de mitoun », c’est-à-dire une très petite racine, fine comme une aiguille employée dans un travail de tressage ou de couture."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:4",
+                "explication": "Le Rambam explique que l’exemption signifie que les fruits de cet arbre ne sont pas soumis à un nouveau compte de orlah, car l’arbre n’a pas entièrement cessé d’être rattaché au sol. Même une racine très fine suffit, tant qu’elle demeure vivante et reliée à la terre, car l’arbre conserve ainsi son statut antérieur."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:4",
+                "explication": "Le Tossafot Yom Tov précise que la Michna parle d’un arbre déraciné dont une partie de racine est restée dans la terre : ce résidu établit une continuité halakhique avec la plantation précédente. La formulation « combien doit être la racine » vient fixer la mesure minimale nécessaire pour ne pas considérer l’arbre comme nouvellement planté."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +131,32 @@
           "ref": "Mishnah Orlah 1:5",
           "he": "אִילָן שֶׁנֶּעֱקַר וּבוֹ בְרֵכָה, וְהוּא חָיֶּה מִמֶּנָּה, חָזְרָה הַזְּקֵנָה לִהְיוֹת כַּבְּרֵכָה. הִבְרִיכָהּ שָׁנָה אַחַר שָׁנָה, וְנִפְסְקָה, מוֹנֶה מִשָּׁעָה שֶׁנִּפְסְקָה. סִפּוּק הַגְּפָנִים, וְסִפּוּק עַל גַּבֵּי סִפּוּק, אַף עַל פִּי שֶׁהִבְרִיכָן בָּאָרֶץ, מֻתָּר. רַבִּי מֵאִיר אוֹמֵר, מָקוֹם שֶׁכֹּחָהּ יָפֶה, מֻתָּר, וְמָקוֹם שֶׁכֹּחָהּ רָע, אָסוּר. וְכֵן בְּרֵכָה שֶׁנִּפְסְקָה וְהִיא מְלֵאָה פֵרוֹת, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un arbre qui a été déraciné alors qu’il comportait une marcotte, et qui vit grâce à elle : l’ancien arbre redevient comme la marcotte. S’il l’a marcottée année après année, puis qu’elle a été séparée, on compte à partir du moment où elle a été séparée. L’entrelacement des vignes, et un entrelacement sur un autre entrelacement, bien qu’on les ait marcottés dans la terre, est permis. Rabbi Méïr dit : à l’endroit où sa vigueur est bonne, c’est permis ; et à l’endroit où sa vigueur est mauvaise, c’est interdit. De même, une marcotte qui a été séparée alors qu’elle est pleine de fruits : si elle a ajouté un deux-centième, c’est interdit.",
+          "etude_fr": {
+            "traduction_fr": "Un arbre qui a été déraciné alors qu’il comportait une marcotte, et qui vit grâce à elle : l’ancien arbre redevient comme la marcotte. S’il l’a marcottée année après année, puis qu’elle a été séparée, on compte à partir du moment où elle a été séparée. L’entrelacement des vignes, et un entrelacement sur un autre entrelacement, bien qu’on les ait marcottés dans la terre, est permis. Rabbi Méïr dit : à l’endroit où sa vigueur est bonne, c’est permis ; et à l’endroit où sa vigueur est mauvaise, c’est interdit. De même, une marcotte qui a été séparée alors qu’elle est pleine de fruits : si elle a ajouté un deux-centième, c’est interdit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:5",
+                "explication": "La « marcotte » est une branche que l’on courbe et enfouit dans la terre afin qu’elle prenne racine tout en restant attachée à l’arbre. Tant qu’elle tire sa vitalité de l’ancien arbre, elle suit son statut. Mais si l’ancien arbre est déraciné et ne vit désormais que grâce à cette marcotte, l’ancien arbre perd son ancien statut et devient soumis au compte de la marcotte pour la loi de orlah. Lorsqu’on a fait des marcottes successives année après année, le compte des trois années ne commence pour la partie séparée qu’à partir du moment où elle est coupée de sa source précédente."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:5",
+                "explication": "Le Rambam explique que le principe de la Michna dépend de la source de la vitalité de la plante. Une branche ou une vigne qui reste nourrie par une plante déjà ancienne n’est pas considérée comme une nouvelle plantation pour orlah. En revanche, dès qu’elle est séparée et qu’elle se nourrit par elle-même, on commence à compter les années depuis cette séparation. Concernant les fruits déjà présents sur une marcotte séparée, s’ils continuent à grandir après la séparation, l’accroissement provenant du nouveau statut interdit peut rendre l’ensemble interdit lorsqu’il atteint la proportion d’un deux-centième."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:5",
+                "explication": "Le Tossafot Yom Tov précise que « un deux-centième » renvoie à la mesure d’annulation propre aux interdits de orlah : l’orlah s’annule dans deux cents parts de permis, mais si l’accroissement interdit atteint une part pour deux cents, il n’est plus annulé et les fruits sont interdits. Ainsi, dans le cas d’une marcotte séparée pleine de fruits, on examine l’augmentation survenue après la séparation, car c’est alors seulement qu’apparaît le nouveau statut susceptible d’interdire."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 1:5",
+                "explication": "Le Tiféret Israël éclaire l’expression « l’endroit où sa vigueur est bonne » selon Rabbi Méïr : on évalue si la plante principale conserve une force suffisante pour nourrir les branches ou les marcottes qui en dépendent. Là où cette force est manifeste, on considère qu’elles restent rattachées à l’ancien plant et elles sont permises ; là où la force est faible, elles sont regardées comme prenant une vitalité nouvelle de la terre, et elles sont alors interdites au titre de orlah."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +165,32 @@
           "ref": "Mishnah Orlah 1:6",
           "he": "נְטִיעָה שֶׁל עָרְלָה וְשֶׁל כִּלְאֵי הַכֶּרֶם שֶׁנִּתְעָרְבוּ בִנְטִיעוֹת, הֲרֵי זֶה לֹא יִלְקֹט. וְאִם לָקַט, יַעֲלֶה בְאֶחָד וּמָאתַיִם, וּבִלְבַד שֶׁלֹּא יִתְכַּוֵּן לִלְקֹט. רַבִּי יוֹסֵי אוֹמֵר, אַף יִתְכַּוֵּן לִלְקֹט וְיַעֲלֶה בְאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Une plantation d’orlah ou de kilayim de la vigne qui s’est mélangée à d’autres plantations : on ne doit pas en cueillir. Et si l’on a cueilli, elle est annulée dans un rapport de un pour deux cents, à condition que l’on n’ait pas eu l’intention de cueillir. Rabbi Yossé dit : même si l’on a eu l’intention de cueillir, elle est annulée dans un rapport de un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Une plantation d’orlah ou de kilayim de la vigne qui s’est mélangée à d’autres plantations : on ne doit pas en cueillir. Et si l’on a cueilli, elle est annulée dans un rapport de un pour deux cents, à condition que l’on n’ait pas eu l’intention de cueillir. Rabbi Yossé dit : même si l’on a eu l’intention de cueillir, elle est annulée dans un rapport de un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:6",
+                "explication": "La Michna parle d’un jeune arbre interdit — soit parce que ses fruits sont encore soumis à l’orlah, soit parce qu’il provient de kilayim de la vigne — qui s’est mêlé à des arbres permis. Tant que les fruits sont attachés, il ne faut pas les cueillir, car ce serait provoquer volontairement l’annulation d’un interdit. Si cependant les fruits ont été cueillis et se sont mêlés aux fruits permis, ils sont annulés seulement s’il y a deux cents parts permises contre la part interdite, car l’orlah et les kilayim de la vigne ne s’annulent qu’à un pour deux cents. La condition posée par le premier avis est que la cueillette n’ait pas été faite avec l’intention d’obtenir cette annulation."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:6",
+                "explication": "Le Rambam explique que l’orlah et les kilayim de la vigne font partie des interdits particulièrement sévères quant à leur annulation : ils exigent deux cents fois leur quantité. Ici, l’interdit n’est pas identifiable parmi les plantations. Malgré cela, on ne doit pas cueillir a priori, car on ne crée pas volontairement une situation dans laquelle l’interdit sera annulé. Si la cueillette a déjà eu lieu sans intention de tirer profit de l’annulation, le mélange est permis lorsqu’il atteint le rapport requis de un pour deux cents."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:6",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « à condition qu’il n’ait pas eu l’intention de cueillir » signifie : qu’il n’ait pas cueilli dans le but de faire entrer le fruit interdit dans un mélange où il serait annulé. La discussion entre le premier avis et Rabbi Yossé porte donc sur la possibilité de s’appuyer sur l’annulation lorsque l’acte de cueillette a été accompli en connaissance de cause. Selon le premier avis, cela est interdit, car on ne provoque pas l’annulation d’un interdit ; selon Rabbi Yossé, même dans ce cas, l’annulation à un pour deux cents fonctionne."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 1:6",
+                "explication": "Le Tiféret Israël souligne que la Michna traite d’un cas où l’arbre interdit s’est perdu parmi des arbres permis, et non d’un interdit identifiable que l’on pourrait simplement écarter. La cueillette transforme le mélange des arbres en mélange de fruits, et c’est alors que s’applique la règle d’annulation propre à l’orlah et aux kilayim de la vigne. Le seuil de deux cents parts permises est indispensable ; en dessous de ce rapport, le mélange demeure interdit."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +199,32 @@
           "ref": "Mishnah Orlah 1:7",
           "he": "הֶעָלִים, וְהַלּוּלָבִים, וּמֵי גְּפָנִים, וּסְמָדַר, מֻתָּרִים בָּעָרְלָה וּבָרְבָעִי וּבַנָּזִיר, וַאֲסוּרִים בָּאֲשֵׁרָה. רַבִּי יוֹסֵי אוֹמֵר, הַסְּמָדַר אָסוּר, מִפְּנֵי שֶׁהוּא פְּרִי. רַבִּי אֱלִיעֶזֶר אוֹמֵר, הַמַּעֲמִיד בִּשְׂרָף הָעָרְלָה, אָסוּר. אָמַר רַבִּי יְהוֹשֻׁעַ, שָׁמַעְתִּי בְּפֵרוּשׁ, שֶׁהַמַּעֲמִיד בִּשְׂרָף הֶעָלִים וּבִשְׂרָף הָעִקָּרִים, מֻתָּר, בִּשְׂרָף הַפַּגִּים, אָסוּר, מִפְּנֵי שֶׁהֵם פְּרִי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les feuilles, les jeunes pousses, la sève des vignes et le raisin en fleur sont permis au titre de la orlah, du quatrième plant et du nazir, mais interdits s’ils proviennent d’une achéra. Rabbi Yossé dit : le raisin en fleur est interdit, parce qu’il est un fruit. Rabbi Éliézer dit : celui qui fait cailler avec la sève de orlah, c’est interdit. Rabbi Yehochoua dit : j’ai entendu explicitement que celui qui fait cailler avec la sève des feuilles ou avec la sève des racines, c’est permis ; avec la sève des fruits non mûrs, c’est interdit, parce qu’ils sont un fruit.",
+          "etude_fr": {
+            "traduction_fr": "Les feuilles, les jeunes pousses, la sève des vignes et le raisin en fleur sont permis au titre de la orlah, du quatrième plant et du nazir, mais interdits s’ils proviennent d’une achéra. Rabbi Yossé dit : le raisin en fleur est interdit, parce qu’il est un fruit. Rabbi Éliézer dit : celui qui fait cailler avec la sève de orlah, c’est interdit. Rabbi Yehochoua dit : j’ai entendu explicitement que celui qui fait cailler avec la sève des feuilles ou avec la sève des racines, c’est permis ; avec la sève des fruits non mûrs, c’est interdit, parce qu’ils sont un fruit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:7",
+                "explication": "Les éléments énumérés au début — feuilles, jeunes pousses, sève de vigne et raisin en fleur — ne sont pas considérés comme le fruit de l’arbre pour les lois de orlah et de néta révaï ; ils ne sont donc pas interdits à ce titre. De même, pour le nazir, seuls les produits définis comme issus du fruit de la vigne sont interdits, non ces éléments selon le premier avis. En revanche, pour une achéra, tout ce qui provient de l’arbre idolâtre est interdit à la jouissance, même ce qui n’est pas un fruit."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:7",
+                "explication": "Le Rambam explique que la discussion porte sur la définition halakhique de « fruit ». Le tanna anonyme estime que le raisin en fleur n’a pas encore atteint le statut de fruit pour orlah, révaï et nazir. Rabbi Yossé considère au contraire que le סמדר, le raisin au tout premier stade de formation après la floraison, est déjà appelé fruit et devient donc interdit. La halakha ne suit pas Rabbi Yossé sur ce point."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:7",
+                "explication": "Il souligne la différence entre les interdictions liées au fruit et l’interdiction d’achéra. Orlah, révaï et nazir dépendent d’une catégorie précise : le fruit ou ce qui est assimilé au fruit. L’achéra, elle, interdit toute jouissance provenant de l’arbre, même les feuilles et les parties accessoires, car l’interdit porte sur l’arbre consacré à l’idolâtrie dans son ensemble."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 1:7",
+                "explication": "La fin de la Michna traite de la sève utilisée comme agent coagulant, par exemple pour faire cailler du lait. Rabbi Éliézer interdit lorsqu’on fait cailler avec la sève de orlah, car l’élément interdit produit un effet déterminant dans l’aliment. Rabbi Yehochoua distingue : la sève des feuilles et des racines n’est pas un fruit et reste permise, tandis que la sève des fruits non mûrs est interdite, car ces fruits ont déjà le statut de fruit."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +233,32 @@
           "ref": "Mishnah Orlah 1:8",
           "he": "עַנְקוֹקְלוֹת, וְהַחַרְצַנִּים, וְהַזַּגִּים, וְהַתֶּמֶד שֶׁלָּהֶם, קְלִפֵּי רִמּוֹן וְהַנֵּץ שֶׁלּוֹ, קְלִפֵּי אֱגוֹזִים, וְהַגַּרְעִינִים, אֲסוּרִים בָּעָרְלָה, וּבָאֲשֵׁרָה, וּבַנָּזִיר, וּמֻתָּרִין בָּרְבָעִי. וְהַנּוֹבְלוֹת, כֻּלָּן אֲסוּרוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les petits raisins avortés, les pépins, les peaux de raisin, ainsi que leur temed ; les écorces de grenade et sa fleur ; les coquilles de noix et les noyaux : ils sont interdits au titre de la orlah, au titre de l’achéra, et au nazir ; mais ils sont permis pour le révaï. Quant aux fruits tombés avant maturité, tous sont interdits.",
+          "etude_fr": {
+            "traduction_fr": "Les petits raisins avortés, les pépins, les peaux de raisin, ainsi que leur temed ; les écorces de grenade et sa fleur ; les coquilles de noix et les noyaux : ils sont interdits au titre de la orlah, au titre de l’achéra, et au nazir ; mais ils sont permis pour le révaï. Quant aux fruits tombés avant maturité, tous sont interdits.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Orlah 1:8",
+                "explication": "Il explique les termes de la Michna : les ‘ankokelot sont de petits raisins qui se sont gâtés ou desséchés avant de parvenir à maturité ; les ‘harçanim sont les pépins du raisin, et les zagim ses peaux. Le temed est l’eau que l’on verse sur ces résidus de raisin et qui en reçoit le goût. Tous ces éléments sont interdits dans la orlah, car ils proviennent du fruit interdit ; dans l’achéra, car tout profit tiré d’un arbre voué à l’idolâtrie est interdit ; et pour le nazir, car la Torah lui interdit les produits de la vigne. En revanche, ils sont permis pour le révaï, car la sainteté du révaï ne s’applique qu’au fruit lui-même, non à ces parties secondaires."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:8",
+                "explication": "Le Rambam souligne que la Michna distingue entre les interdictions portant sur le fruit et ce qui en provient, et la loi du révaï. Pour la orlah, tout ce qui est attaché au fruit ou en provient est inclus dans l’interdit. Pour l’achéra, l’interdit est encore plus large, puisqu’il porte sur le profit de l’arbre idolâtre. Pour le nazir, les éléments de la vigne mentionnés par la Torah, tels que pépins et peaux, sont interdits. Mais le révaï ne concerne que le fruit consommable ayant le statut de fruit de la quatrième année ; ces enveloppes, pépins et résidus n’ont donc pas ce statut."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Orlah 1:8",
+                "explication": "Il précise que l’expression « leur temed » désigne le liquide obtenu en faisant macérer dans l’eau les pépins et les peaux de raisin ; lorsqu’il prend le goût du raisin, il suit leur statut. Il relève aussi que la Michna énumère des éléments qui, bien qu’ils ne soient pas toujours le fruit principal, restent suffisamment liés au fruit pour être interdits dans la orlah et dans l’achéra, tandis que le révaï exige le statut de fruit à proprement parler."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Orlah 1:8",
+                "explication": "Il explique que les « fruits tombés avant maturité » mentionnés à la fin de la Michna ne sont pas de simples écorces ou résidus : ce sont les fruits eux-mêmes, bien qu’ils soient tombés prématurément. C’est pourquoi la Michna conclut qu’ils sont « tous interdits », c’est-à-dire même pour le révaï, car la sainteté ou l’interdit portant sur le fruit s’applique à eux en tant que fruits."
+              }
+            ]
+          }
         },
         {
           "id": "1:9",
@@ -95,8 +267,27 @@
           "ref": "Mishnah Orlah 1:9",
           "he": "רַבִּי יוֹסֵי אוֹמֵר, נוֹטְעִין יִחוּר שֶׁל עָרְלָה, וְאֵין נוֹטְעִין אֱגוֹז שֶׁל עָרְלָה, מִפְּנֵי שֶׁהוּא פְּרִי. וְאֵין מַרְכִּיבִין בְּכַפְנִיּוֹת שֶׁל עָרְלָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Yossé dit : on plante une bouture provenant d’un arbre de orlah, mais on ne plante pas une noix de orlah, parce qu’elle est un fruit. Et l’on ne greffe pas avec des jeunes pousses de palmier de orlah.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Yossé dit : on plante une bouture provenant d’un arbre de orlah, mais on ne plante pas une noix de orlah, parce qu’elle est un fruit. Et l’on ne greffe pas avec des jeunes pousses de palmier de orlah.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 1:9",
+                "explication": "La bouture d’un arbre de orlah est permise à la plantation, car le bois de l’arbre n’est pas interdit au profit : l’interdit de orlah porte sur le fruit. En revanche, une noix de orlah ne peut pas être plantée, puisque la noix elle-même est un fruit interdit au profit. Quant aux כַפְנִיּוֹת, Bartenoura les explique comme de petites dattes ou les premières formations du fruit du palmier ; on ne les utilise pas pour greffer, car elles ont statut de fruit de orlah."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 1:9",
+                "explication": "Le Rambam explique que ce qui provient de la partie ligneuse de l’arbre de orlah peut être utilisé pour planter, car l’interdit ne s’applique pas au bois. Mais le fruit de orlah est interdit même pour un usage qui n’est pas alimentaire, puisqu’il est interdit au profit ; c’est pourquoi on ne plante pas une noix de orlah. Les כַפְנִיּוֹת sont considérées comme un produit fruitier du palmier, et non comme du simple bois, d’où l’interdit de les employer pour la greffe."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 1:9",
+                "explication": "Le Tossafot Yom Tov souligne la logique de la distinction formulée par Rabbi Yossé : le יִחוּר, la bouture, relève du bois de l’arbre, tandis que la noix est le fruit lui-même. La Michna enseigne donc que l’interdit de orlah ne s’étend pas à toute partie de l’arbre indistinctement, mais seulement à ce qui porte le nom de fruit ou à ce qui est assimilé au fruit, comme les כַפְנִיּוֹת."
+              }
+            ]
+          }
         }
       ]
     },
@@ -110,8 +301,32 @@
           "ref": "Mishnah Orlah 2:1",
           "he": "הַתְּרוּמָה, וּתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי, הַחַלָּה וְהַבִּכּוּרִים, עוֹלִים בְּאֶחָד וּמֵאָה, וּמִצְטָרְפִין זֶה עִם זֶה, וְצָרִיךְ לְהָרִים. הָעָרְלָה וְכִלְאֵי הַכֶּרֶם, עוֹלִים בְּאֶחָד וּמָאתַיִם, וּמִצְטָרְפִין זֶה עִם זֶה, וְאֵין צָרִיךְ לְהָרִים. רַבִּי שִׁמְעוֹן אוֹמֵר, אֵינָן מִצְטָרְפִין. רַבִּי אֱלִיעֶזֶר אוֹמֵר, מִצְטָרְפִין בְּנוֹתֵן טַעַם, אֲבָל לֹא לֶאֱסֹר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La terouma, la terouma du maasser de demaï, la ‘halla et les prémices s’annulent dans cent un ; elles s’associent l’une avec l’autre, et il faut en prélever. La orla et les mélanges interdits de la vigne s’annulent dans deux cent un ; ils s’associent l’un avec l’autre, et il n’est pas nécessaire d’en prélever. Rabbi Chimon dit : ils ne s’associent pas. Rabbi Éliézer dit : ils s’associent pour ce qui donne du goût, mais non pour interdire.",
+          "etude_fr": {
+            "traduction_fr": "La terouma, la terouma du maasser de demaï, la ‘halla et les prémices s’annulent dans cent un ; elles s’associent l’une avec l’autre, et il faut en prélever. La orla et les mélanges interdits de la vigne s’annulent dans deux cent un ; ils s’associent l’un avec l’autre, et il n’est pas nécessaire d’en prélever. Rabbi Chimon dit : ils ne s’associent pas. Rabbi Éliézer dit : ils s’associent pour ce qui donne du goût, mais non pour interdire.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:1",
+                "explication": "La terouma et les autres choses énumérées au début de la Michna sont toutes des interdits dont la consommation est permise au Cohen mais interdite aux non-Cohanim ; c’est pourquoi, lorsqu’elles tombent dans des aliments profanes de même espèce, elles s’annulent seulement s’il y a cent fois leur quantité en plus d’elles-mêmes, soit “un et cent”. Comme elles ont un statut proche, elles s’additionnent : par exemple, un demi-kav de terouma et un demi-kav de ‘halla tombés dans moins de cent kav d’aliment profane s’associent pour interdire. Après l’annulation, il faut prélever une quantité correspondant à l’interdit tombé, afin de la donner au Cohen, car la terouma ne disparaît pas au point de ne rien devoir restituer."
+              },
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:1",
+                "explication": "La orla et les mélanges interdits de la vigne sont plus sévères, car ils sont interdits même au profit ; leur annulation exige donc deux cents fois leur quantité en plus d’eux-mêmes, soit “un et deux cents”. Ils s’associent l’un avec l’autre selon le premier avis, car tous deux appartiennent à la catégorie des interdits de jouissance. Mais il n’est pas nécessaire d’en prélever après l’annulation, puisqu’il n’existe pas ici de part à remettre à quelqu’un, contrairement à la terouma qui revient au Cohen."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:1",
+                "explication": "Le Rambam explique que “s’annulent dans un et cent” signifie que la quantité permise doit être cent fois supérieure à la quantité interdite, l’interdit lui-même constituant le “un”. De même, pour la orla et les mélanges interdits de la vigne, l’annulation requiert deux cents parts permises face à la part interdite. L’expression “s’associent” signifie que plusieurs interdits de même régime halakhique peuvent se compléter pour former la mesure qui rend le mélange interdit."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:1",
+                "explication": "Le Tossafot Yom Tov précise que la discussion de Rabbi Chimon porte sur l’association de la orla et des mélanges interdits de la vigne : selon lui, bien qu’ils aient tous deux une annulation à deux cents, ils ne se complètent pas, car ce sont deux interdits distincts. Rabbi Éliézer adopte une position intermédiaire : ils s’associent lorsque leur effet se manifeste par le goût, par exemple lorsque les deux ensemble donnent du goût au mélange ; mais ils ne s’associent pas simplement pour atteindre une quantité abstraite qui rendrait le mélange interdit."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -120,8 +335,32 @@
           "ref": "Mishnah Orlah 2:2",
           "he": "הַתְּרוּמָה מַעֲלָה אֶת הָעָרְלָה, וְהָעָרְלָה אֶת הַתְּרוּמָה. כֵּיצַד, סְאָה תְרוּמָה שֶׁנָּפְלָה לְמֵאָה, וְאַחַר כָּךְ נָפְלוּ שְׁלֹשָׁה קַבִּין עָרְלָה, אוֹ שְׁלֹשָׁה קַבִּין כִּלְאֵי הַכֶּרֶם, זוֹ הִיא שֶׁהַתְּרוּמָה מַעֲלָה אֶת הָעָרְלָה וְהָעָרְלָה אֶת הַתְּרוּמָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La terouma fait annuler la orla, et la orla fait annuler la terouma. Comment cela ? Une séa de terouma qui est tombée dans cent, puis sont tombés trois kav de orla, ou trois kav de kilayim de la vigne : c’est là le cas où la terouma fait annuler la orla, et où la orla fait annuler la terouma.",
+          "etude_fr": {
+            "traduction_fr": "La terouma fait annuler la orla, et la orla fait annuler la terouma. Comment cela ? Une séa de terouma qui est tombée dans cent, puis sont tombés trois kav de orla, ou trois kav de kilayim de la vigne : c’est là le cas où la terouma fait annuler la orla, et où la orla fait annuler la terouma.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Orla 2:2",
+                "explication": "La Michna enseigne que deux interdits de nature différente peuvent contribuer chacun à annuler l’autre, car ils ne s’additionnent pas pour interdire ensemble. La terouma, bien qu’interdite à un non-Cohen, n’est pas de la orla ; elle peut donc être comptée avec le reste du mélange pour atteindre la mesure nécessaire à l’annulation de la orla. De même, la orla, bien qu’interdite à tous, n’est pas de la terouma ; elle peut être comptée avec le reste pour atteindre la mesure nécessaire à l’annulation de la terouma."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Orla 2:2",
+                "explication": "Le Rambam explique le principe général : lorsque deux interdits sont distincts par leur nom et par leur statut halakhique, chacun est considéré, par rapport à l’autre, comme faisant partie de la quantité qui l’annule. La terouma s’annule dans une proportion de cent contre un, tandis que la orla et les kilayim de la vigne nécessitent une proportion de deux cents contre un. Dans le cas de la Michna, la quantité présente permet donc de considérer que la terouma contribue à l’annulation de la orla, et que la orla contribue à l’annulation de la terouma."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Orla 2:2",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « fait annuler » ne signifie pas que l’interdit devient permis par lui-même, mais qu’il est compté dans la masse du mélange pour annuler l’autre interdit. Cela n’est possible que parce que les interdits ne sont pas identiques : la terouma possède une permission pour les Cohanim, tandis que la orla et les kilayim de la vigne sont interdits à tous."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Orla 2:2",
+                "explication": "Le Tiféret Israël souligne l’utilité du cas chiffré de la Michna : trois kav représentent une demi-séa. Pour annuler une demi-séa de orla ou de kilayim de la vigne, il faut deux cents fois cette quantité, soit cent séa. Le mélange contenant déjà la terouma tombée avec les cent séa, la terouma est comptée dans la masse qui annule la orla ; réciproquement, les trois kav de orla ajoutés à la masse peuvent être pris en compte pour l’annulation de la terouma."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -130,8 +369,27 @@
           "ref": "Mishnah Orlah 2:3",
           "he": "הָעָרְלָה מַעֲלָה אֶת הַכִּלְאַיִם, וְהַכִּלְאַיִם אֶת הָעָרְלָה, וְהָעָרְלָה אֶת הָעָרְלָה. כֵּיצַד, סְאָה עָרְלָה שֶׁנָּפְלָה לְמָאתַיִם, וְאַחַר כָּךְ נָפְלָה סְאָה וְעוֹד עָרְלָה, אוֹ סְאָה וְעוֹד שֶׁל כִּלְאֵי הַכֶּרֶם, זוֹ הִיא שֶׁהָעָרְלָה מַעֲלָה אֶת הַכִּלְאַיִם, וְהַכִּלְאַיִם אֶת הָעָרְלָה, וְהָעָרְלָה אֶת הָעָרְלָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La orlah fait annuler les kilayim, et les kilayim font annuler la orlah, et la orlah fait annuler la orlah. Comment cela ? Une séa de orlah qui est tombée dans deux cents séa, puis ensuite est tombée une séa et quelque chose de orlah, ou une séa et quelque chose de kilayim de la vigne : c’est cela le cas où la orlah fait annuler les kilayim, les kilayim font annuler la orlah, et la orlah fait annuler la orlah.",
+          "etude_fr": {
+            "traduction_fr": "La orlah fait annuler les kilayim, et les kilayim font annuler la orlah, et la orlah fait annuler la orlah. Comment cela ? Une séa de orlah qui est tombée dans deux cents séa, puis ensuite est tombée une séa et quelque chose de orlah, ou une séa et quelque chose de kilayim de la vigne : c’est cela le cas où la orlah fait annuler les kilayim, les kilayim font annuler la orlah, et la orlah fait annuler la orlah.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:3",
+                "explication": "Bartenoura explique que « fait annuler » signifie que l’interdit déjà tombé dans le mélange est considéré comme annulé et s’ajoute désormais au volume permis pour annuler l’interdit suivant. Ainsi, si une séa de orlah est tombée dans deux cents séa de produit permis, elle est annulée. Si ensuite tombe une autre quantité interdite — de orlah ou de kilayim de la vigne — le premier mélange tout entier est compté pour atteindre le rapport nécessaire d’un contre deux cents."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:3",
+                "explication": "Le Rambam précise que la Michna traite d’interdits qui ont le même taux d’annulation : la orlah et les kilayim de la vigne ne sont annulés que dans deux cents fois leur volume. Lorsque le premier interdit est tombé et a été annulé, il n’est plus traité comme une entité interdite séparée pour empêcher l’annulation d’un second interdit ; au contraire, il entre dans le calcul du mélange qui annule ce qui tombe ensuite."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:3",
+                "explication": "Le Tossafot Yom Tov souligne la formulation « une séa et quelque chose » : il faut qu’après la seconde chute il y ait encore, face à la nouvelle quantité interdite, un rapport suffisant de deux cents. La première séa de orlah, puisqu’elle a déjà été annulée, participe au compte du volume total. C’est pourquoi la Michna peut dire que la orlah annule la orlah elle-même, ou qu’elle annule les kilayim, et réciproquement."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -140,8 +398,27 @@
           "ref": "Mishnah Orlah 2:4",
           "he": "כָּל הַמְחַמֵּץ וְהַמְתַבֵּל וְהַמְדַמֵּעַ בַּתְּרוּמָה וּבָעָרְלָה וּבְכִלְאֵי הַכֶּרֶם, אָסוּר. וּבֵית שַׁמַּאי אוֹמְרִים, אַף מְטַמֵּא. וּבֵית הִלֵּל אוֹמְרִים, לְעוֹלָם אֵינוֹ מְטַמֵּא עַד שֶׁיְּהֵא בּוֹ כַּבֵּיצָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tout ce qui fait lever, tout ce qui assaisonne, et tout ce qui rend un mélange interdit comme mélange de terouma, au moyen de terouma, de orlah ou de kilayim de la vigne, est interdit. Et Beth Chammaï disent : cela rend même impur. Et Beth Hillel disent : cela ne rend jamais impur, à moins qu’il n’y en ait le volume d’un œuf.",
+          "etude_fr": {
+            "traduction_fr": "Tout ce qui fait lever, tout ce qui assaisonne, et tout ce qui rend un mélange interdit comme mélange de terouma, au moyen de terouma, de orlah ou de kilayim de la vigne, est interdit. Et Beth Chammaï disent : cela rend même impur. Et Beth Hillel disent : cela ne rend jamais impur, à moins qu’il n’y en ait le volume d’un œuf.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:4",
+                "explication": "« Tout ce qui fait lever » désigne, par exemple, un levain de terouma, de orlah ou de kilayim de la vigne tombé dans une pâte et l’ayant fait lever ; « tout ce qui assaisonne » désigne des épices interdites qui donnent leur goût à un plat ; « tout ce qui rend un mélange interdit comme mélange de terouma » désigne un élément de terouma qui se mélange à des produits profanes et les rend interdits à celui qui n’est pas Cohen. Même lorsque la quantité est faible, dès lors que l’élément interdit agit efficacement — en faisant lever, en assaisonnant ou en interdisant le mélange — l’ensemble devient interdit."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:4",
+                "explication": "Le Rambam explique que la Michna traite de substances interdites qui ont une influence déterminante sur le mélange : le levain par son pouvoir de fermentation, l’assaisonnement par son goût, et la terouma par le statut de mélange qu’elle crée. La discussion entre Beth Chammaï et Beth Hillel porte ensuite sur l’impureté : Beth Chammaï considèrent que, puisque l’élément interdit a imposé son statut d’interdit au mélange, il peut aussi lui transmettre l’impureté. Beth Hillel distinguent l’interdit alimentaire des lois d’impureté : pour transmettre l’impureté en tant qu’aliment, il faut la mesure minimale d’un volume d’œuf. La halakha suit Beth Hillel."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « au moyen de terouma, de orlah ou de kilayim de la vigne » s’applique aux cas où ces produits, bien qu’en faible quantité, donnent un effet reconnaissable au mélange. Pour l’interdiction, l’effet produit — fermentation ou goût — suffit. Mais pour l’impureté, Beth Hillel exigent une mesure indépendante : l’aliment impur doit contenir le volume d’un œuf, car les règles de transmission de l’impureté ne suivent pas automatiquement celles de l’interdiction."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -150,8 +427,27 @@
           "ref": "Mishnah Orlah 2:5",
           "he": "דּוֹסְתַּאי אִישׁ כְּפַר יִתְמָה, הָיָה מִתַּלְמִידֵי בֵית שַׁמַּאי, וְאָמַר, שָׁמַעְתִּי מִשַּׁמַּאי הַזָּקֵן שֶׁאָמַר, לְעוֹלָם אֵינוֹ מְטַמֵּא עַד שֶׁיְּהֵא בּוֹ כַּבֵּיצָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Dostaï, homme de Kfar Yitmah, était parmi les disciples de Beth Chammaï. Il dit : J’ai entendu de Chammaï l’Ancien qu’il disait : jamais il ne rend impur tant qu’il n’y a pas en lui le volume d’un œuf.",
+          "etude_fr": {
+            "traduction_fr": "Dostaï, homme de Kfar Yitmah, était parmi les disciples de Beth Chammaï. Il dit : J’ai entendu de Chammaï l’Ancien qu’il disait : jamais il ne rend impur tant qu’il n’y a pas en lui le volume d’un œuf.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:5",
+                "explication": "Bartenoura explique que cette parole se rapporte à la règle précédente : même lorsqu’un élément interdit, comme de la terouma impure, a la force de faire fermenter ou d’assaisonner un mélange et le rend interdit à la consommation, il ne transmet pas pour autant l’impureté s’il n’a pas lui-même le volume minimal requis. Pour transmettre l’impureté des aliments, il faut le volume d’un œuf."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:5",
+                "explication": "Le Rambam souligne la distinction entre deux domaines : l’interdiction alimentaire et l’impureté. Pour interdire un mélange, il suffit parfois que l’élément donne un effet déterminant, par exemple qu’il fasse fermenter ou donne du goût. En revanche, pour rendre impur, la mesure halakhique minimale demeure le volume d’un œuf ; sans cette mesure, l’élément ne transmet pas l’impureté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:5",
+                "explication": "Le Tossafot Yom Tov relève l’importance du témoignage de Dostaï : bien qu’il fût des disciples de Beth Chammaï, il rapporte avoir entendu de Chammaï l’Ancien une règle qui limite la transmission de l’impureté au cas où il y a le volume d’un œuf. La Michna insiste ainsi sur la fidélité de la tradition reçue, indépendamment de l’appartenance à une école."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -160,8 +456,27 @@
           "ref": "Mishnah Orlah 2:6",
           "he": "וּלְמָה אָמְרוּ כָּל הַמְחַמֵּץ וְהַמְתַבֵּל וְהַמְדַמֵּעַ לְהַחֲמִיר, מִין בְּמִינוֹ. לְהָקֵל וּלְהַחֲמִיר, מִין בְּשֶׁאֵינוֹ מִינוֹ. כֵּיצַד, שְׂאֹר שֶׁל חִטִּים שֶׁנָּפַל לְתוֹךְ עִסַּת חִטִּים, וְיֵשׁ בּוֹ כְדֵי לְחַמֵּץ, בֵּין שֶׁיֵּשׁ בּוֹ לַעֲלוֹת בְּאֶחָד וּמֵאָה וּבֵין שֶׁאֵין בּוֹ לַעֲלוֹת בְּאֶחָד וּמֵאָה, אָסוּר. אֵין בּוֹ לַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין שֶׁיֵּשׁ בּוֹ כְדֵי לְחַמֵּץ, בֵּין שֶׁאֵין בּוֹ כְדֵי לְחַמֵּץ, אָסוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et pourquoi ont-ils dit : « Tout ce qui fait fermenter, tout ce qui assaisonne, et tout ce qui rend un mélange interdit comme mélange de terouma — c’est pour être rigoureux lorsque c’est une espèce avec la même espèce ; et c’est pour être indulgent comme pour être rigoureux lorsque c’est une espèce avec une autre espèce » ? Comment cela ? Du levain de blé qui est tombé dans une pâte de blé : s’il y en a assez pour faire fermenter, qu’il y ait de quoi l’annuler dans cent un, ou qu’il n’y ait pas de quoi l’annuler dans cent un, c’est interdit. S’il n’y a pas de quoi l’annuler dans cent un, qu’il y en ait assez pour faire fermenter ou qu’il n’y en ait pas assez pour faire fermenter, c’est interdit.",
+          "etude_fr": {
+            "traduction_fr": "Et pourquoi ont-ils dit : « Tout ce qui fait fermenter, tout ce qui assaisonne, et tout ce qui rend un mélange interdit comme mélange de terouma — c’est pour être rigoureux lorsque c’est une espèce avec la même espèce ; et c’est pour être indulgent comme pour être rigoureux lorsque c’est une espèce avec une autre espèce » ? Comment cela ? Du levain de blé qui est tombé dans une pâte de blé : s’il y en a assez pour faire fermenter, qu’il y ait de quoi l’annuler dans cent un, ou qu’il n’y ait pas de quoi l’annuler dans cent un, c’est interdit. S’il n’y a pas de quoi l’annuler dans cent un, qu’il y en ait assez pour faire fermenter ou qu’il n’y en ait pas assez pour faire fermenter, c’est interdit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Orlah 2:6",
+                "explication": "Bartenoura explique que, dans le cas d’une espèce avec la même espèce, on applique les deux critères de rigueur : l’effet produit et la mesure d’annulation. Ainsi, si le levain interdit est assez puissant pour faire fermenter toute la pâte, le mélange est interdit même s’il y a cent un contre lui. Et s’il n’y a pas cent un contre lui, le mélange est interdit même s’il n’a pas la force de faire fermenter. C’est le sens de « pour être rigoureux »."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Orlah 2:6",
+                "explication": "Le Rambam explique que trois types d’interdits sont concernés : celui qui fait fermenter, celui qui donne du goût par assaisonnement, et celui qui rend un mélange interdit selon les règles de terouma. Quand l’interdit et le permis sont de même espèce, la reconnaissance par le goût n’est pas le critère principal ; on est donc rigoureux soit à cause de l’effet concret — comme la fermentation — soit à cause de l’absence de la quantité requise pour l’annulation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Orlah 2:6",
+                "explication": "Le Tossafot Yom Tov précise la structure de la Michna : elle vient expliquer la formule générale énoncée auparavant. « Une espèce avec la même espèce » ne permet pas d’apprécier le goût comme dans deux espèces différentes ; c’est pourquoi, dès qu’un des deux motifs d’interdiction existe — effet de fermentation ou absence de cent un — le mélange est interdit."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -170,8 +485,27 @@
           "ref": "Mishnah Orlah 2:7",
           "he": "לְהָקֵל וּלְהַחֲמִיר מִין בְּשֶׁאֵינוֹ מִינוֹ, כֵּיצַד. כְּגוֹן גְּרִיסִין שֶׁנִּתְבַּשְּׁלוּ עִם עֲדָשִׁים, וְיֵשׁ בָּהֶם בְּנוֹתֵן טַעַם, בֵּין שֶׁיֵּשׁ בָּהֶם לַעֲלוֹת בְּאֶחָד וּמֵאָה, וּבֵין שֶׁאֵין בָּהֶם לַעֲלוֹת בְּאֶחָד וּמֵאָה, אָסוּר. אֵין בָּהֶם בְּנוֹתֵן טַעַם, בֵּין שֶׁיֵּשׁ בָּהֶם לַעֲלוֹת בְּאֶחָד וּמֵאָה, וּבֵין שֶׁאֵין בָּהֶם לַעֲלוֹת בְּאֶחָד וּמֵאָה, מֻתָּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour être indulgent comme pour être rigoureux, lorsqu’une espèce est mêlée à une autre espèce : comment cela ? Par exemple, des fèves concassées qui ont été cuites avec des lentilles : s’il y a en elles de quoi donner du goût, qu’il y ait en elles de quoi être annulées dans cent un, ou qu’il n’y ait pas en elles de quoi être annulées dans cent un, c’est interdit. S’il n’y a pas en elles de quoi donner du goût, qu’il y ait en elles de quoi être annulées dans cent un, ou qu’il n’y ait pas en elles de quoi être annulées dans cent un, c’est permis.",
+          "etude_fr": {
+            "traduction_fr": "Pour être indulgent comme pour être rigoureux, lorsqu’une espèce est mêlée à une autre espèce : comment cela ? Par exemple, des fèves concassées qui ont été cuites avec des lentilles : s’il y a en elles de quoi donner du goût, qu’il y ait en elles de quoi être annulées dans cent un, ou qu’il n’y ait pas en elles de quoi être annulées dans cent un, c’est interdit. S’il n’y a pas en elles de quoi donner du goût, qu’il y ait en elles de quoi être annulées dans cent un, ou qu’il n’y ait pas en elles de quoi être annulées dans cent un, c’est permis.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Orlah 2:7",
+                "explication": "La Michna parle d’un mélange d’espèces différentes, par exemple des fèves concassées de terouma cuites avec des lentilles profanes. Dans un tel cas, le critère décisif n’est pas seulement la proportion numérique de cent un, mais le goût : si la terouma donne du goût au plat, le mélange est interdit, même lorsqu’il y aurait cent contre un ; si elle ne donne pas de goût, le mélange est permis, même lorsqu’il n’y a pas cent contre un. C’est en cela que la règle est à la fois indulgente et rigoureuse."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Orlah 2:7",
+                "explication": "Le Rambam explique que, pour deux espèces différentes, l’interdiction se mesure par le goût transmis. Le taux de cent un est le taux d’annulation propre à la terouma lorsqu’elle se mélange à sa propre espèce ; mais lorsqu’elle se mélange à une autre espèce, le goût devient le critère principal. Ainsi, la présence d’un goût interdit rend le mélange interdit, et l’absence de goût le rend permis."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Orlah 2:7",
+                "explication": "Le Tossafot Yom Tov souligne le sens de l’expression « pour être indulgent et pour être rigoureux » : la règle du goût peut produire une rigueur plus grande que la mesure de cent un, car même une quantité faible interdit si elle donne du goût ; mais elle peut aussi produire une indulgence, car même sans cent un, le mélange est permis lorsqu’aucun goût n’est perceptible."
+              }
+            ]
+          }
         },
         {
           "id": "2:8",
@@ -180,8 +514,27 @@
           "ref": "Mishnah Orlah 2:8",
           "he": "שְׂאֹר שֶׁל חֻלִּין שֶׁנָּפַל לְתוֹךְ עִסָּה, וְיֵשׁ בּוֹ כְּדֵי לְחַמֵּץ, וְאַחַר כָּךְ נָפַל שְׂאֹר שֶׁל תְּרוּמָה, אוֹ שְׂאֹר שֶׁל כִּלְאֵי הַכֶּרֶם, וְיֵשׁ בּוֹ כְדֵי לְחַמֵּץ, אָסוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Du levain profane qui est tombé dans une pâte, et il y en a de quoi la faire fermenter, puis ensuite est tombé du levain de terouma, ou du levain issu des mélanges interdits de la vigne, et il y en a de quoi la faire fermenter : c’est interdit.",
+          "etude_fr": {
+            "traduction_fr": "Du levain profane qui est tombé dans une pâte, et il y en a de quoi la faire fermenter, puis ensuite est tombé du levain de terouma, ou du levain issu des mélanges interdits de la vigne, et il y en a de quoi la faire fermenter : c’est interdit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:8",
+                "explication": "Le cas de la Michna est celui où le premier levain, profane et permis, était déjà suffisant pour faire fermenter la pâte. Malgré cela, si ensuite tombe un levain interdit — de terouma pour un non-Cohen, ou de mélanges interdits de la vigne — et que ce second levain est lui aussi suffisant pour faire fermenter, la pâte devient interdite. La raison est que le levain interdit possède une force propre de fermentation ; il n’est donc pas considéré comme annulé par le fait que la pâte avait déjà reçu un levain permis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:8",
+                "explication": "Le Rambam explique que l’interdiction dépend ici de la capacité du levain interdit à produire l’effet de fermentation. Lorsqu’il y a dans le levain interdit une quantité suffisante pour faire fermenter la pâte, son action est halakhiquement significative, même si un levain permis l’a précédé. Pour la terouma, la pâte est interdite à ceux qui ne peuvent pas consommer la terouma ; pour les mélanges interdits de la vigne, elle est interdite en raison de l’interdit propre à cette catégorie."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:8",
+                "explication": "Le Tossafot Yom Tov souligne que la formulation répétée « il y en a de quoi faire fermenter » est essentielle : la Michna ne parle pas d’une simple présence du levain interdit, mais d’un levain qui, pris en lui-même, aurait la force de faire lever la pâte. C’est pourquoi son arrivée ultérieure ne le rend pas négligeable ; il demeure un facteur déterminant dans la pâte."
+              }
+            ]
+          }
         },
         {
           "id": "2:9",
@@ -190,8 +543,27 @@
           "ref": "Mishnah Orlah 2:9",
           "he": "שְׂאֹר שֶׁל חֻלִּין שֶׁנָּפַל לְתוֹךְ עִסָּה וְחִמְּצָהּ, וְאַחַר כָּךְ נָפַל שְׂאֹר שֶׁל תְּרוּמָה אוֹ שְׂאֹר שֶׁל כִּלְאֵי הַכֶּרֶם, וְיֵשׁ בּוֹ כְדֵי לְחַמֵּץ, אָסוּר. רַבִּי שִׁמְעוֹן מַתִּיר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Du levain profane qui est tombé dans une pâte et l’a fait fermenter ; puis, ensuite, du levain de terouma, ou du levain provenant des mélanges interdits de la vigne, y est tombé, et il y en a de quoi faire fermenter : c’est interdit. Rabbi Chimon permet.",
+          "etude_fr": {
+            "traduction_fr": "Du levain profane qui est tombé dans une pâte et l’a fait fermenter ; puis, ensuite, du levain de terouma, ou du levain provenant des mélanges interdits de la vigne, y est tombé, et il y en a de quoi faire fermenter : c’est interdit. Rabbi Chimon permet.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:9",
+                "explication": "Le premier levain, profane, a déjà fait fermenter la pâte. Malgré cela, selon le premier avis, si le levain interdit tombé ensuite — terouma ou mélanges interdits de la vigne — possède à lui seul la quantité capable de faire fermenter, la pâte devient interdite, car un agent interdit de fermentation est présent avec une force suffisante. Rabbi Chimon permet, car l’interdit n’a pas été la cause effective de la fermentation : la pâte était déjà fermentée par le levain permis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:9",
+                "explication": "Le Rambam explique que la règle dépend de l’action concrète du levain interdit. Pour le premier maître, le fait que le levain interdit ait une puissance suffisante pour fermenter rend le mélange interdit, même s’il est tombé après la fermentation initiale. Rabbi Chimon, lui, considère que puisque la fermentation a déjà été réalisée par un élément permis, le levain interdit ajouté ensuite ne confère pas l’interdiction par son action fermentante."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:9",
+                "explication": "Le Tossafot Yom Tov précise que la Michna parle d’un levain interdit qui possède la mesure de fermentation, non d’une quantité négligeable. L’enjeu est donc de savoir si l’on tient compte de sa capacité potentielle à faire fermenter, comme le fait le premier avis, ou seulement de son rôle réel dans la fermentation déjà accomplie, comme le soutient Rabbi Chimon."
+              }
+            ]
+          }
         },
         {
           "id": "2:10",
@@ -200,8 +572,27 @@
           "ref": "Mishnah Orlah 2:10",
           "he": "תְּבָלִין, שְׁנַיִם וּשְׁלֹשָׁה שֵׁמוֹת מִמִּין אֶחָד, אוֹ מִשְּׁלֹשָׁה, אָסוּר, וּמִצְטָרְפִין. רַבִּי שִׁמְעוֹן אוֹמֵר, שְׁנַיִם וּשְׁלֹשָׁה שֵׁמוֹת מִמִּין אֶחָד, אוֹ שְׁנֵי מִינִין מִשֵּׁם אֶחָד, אֵינָן מִצְטָרְפִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des condiments : lorsqu’ils relèvent de deux ou trois appellations d’une même espèce, ou de trois espèces, ils rendent interdit et s’additionnent. Rabbi Chim‘on dit : deux ou trois appellations d’une même espèce, ou deux espèces relevant d’une même appellation, ne s’additionnent pas.",
+          "etude_fr": {
+            "traduction_fr": "Des condiments : lorsqu’ils relèvent de deux ou trois appellations d’une même espèce, ou de trois espèces, ils rendent interdit et s’additionnent. Rabbi Chim‘on dit : deux ou trois appellations d’une même espèce, ou deux espèces relevant d’une même appellation, ne s’additionnent pas.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:10",
+                "explication": "Les « appellations » désignent des catégories distinctes d’interdit, par exemple orlah, kilayim de la vigne ou terouma. Selon le premier avis, des condiments interdits s’additionnent pour interdire le mélange lorsqu’ensemble ils donnent du goût, même s’ils ne relèvent pas tous du même interdit ou pas tous de la même espèce. Rabbi Chim‘on n’admet pas cette addition lorsqu’il manque l’unité complète : même espèce mais interdits différents, ou même interdit mais espèces différentes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:10",
+                "explication": "Le Rambam explique que la Michna traite de condiments interdits tombés dans un plat : leur critère essentiel est le goût qu’ils communiquent. Pour les Sages, plusieurs condiments interdits peuvent se joindre pour produire un effet gustatif suffisant et interdire le plat, même s’ils appartiennent à des catégories différentes. Rabbi Chim‘on exige une identité plus stricte entre les éléments pour qu’ils s’additionnent."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:10",
+                "explication": "Le Tossafot Yom Tov précise la formulation « deux ou trois appellations » : il ne s’agit pas seulement de noms ordinaires, mais de statuts halakhiques distincts. La Michna enseigne donc une règle d’addition entre interdits dans le cas particulier des condiments, car leur force est de donner du goût même en petite quantité."
+              }
+            ]
+          }
         },
         {
           "id": "2:11",
@@ -210,8 +601,32 @@
           "ref": "Mishnah Orlah 2:11",
           "he": "שְׂאֹר שֶׁל חֻלִּין וְשֶׁל תְּרוּמָה שֶׁנָּפְלוּ לְתוֹךְ עִסָּה, לֹא בָּזֶה כְדֵי לְחַמֵּץ וְלֹא בָּזֶה כְדֵי לְחַמֵּץ, נִצְטָרְפוּ וְחִמְּצוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַחַר הָאַחֲרוֹן אֲנִי בָא. וַחֲכָמִים אוֹמְרִים, בֵּין שֶׁנָּפַל אִסּוּר בַּתְּחִלָּה, בֵּין בַּסּוֹף, לְעוֹלָם אֵינוֹ אוֹסֵר עַד שֶׁיְּהֵא בּוֹ כְדֵי לְחַמֵּץ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Du levain de produits profanes et du levain de terouma qui sont tombés dans une pâte : ni celui-ci ne contenait de quoi faire lever, ni celui-là ne contenait de quoi faire lever ; ils se sont associés et ont fait lever la pâte. Rabbi Éliézer dit : je considère le dernier qui est tombé. Et les Sages disent : que l’élément interdit soit tombé au début ou à la fin, jamais il n’interdit tant qu’il ne contient pas, à lui seul, de quoi faire lever.",
+          "etude_fr": {
+            "traduction_fr": "Du levain de produits profanes et du levain de terouma qui sont tombés dans une pâte : ni celui-ci ne contenait de quoi faire lever, ni celui-là ne contenait de quoi faire lever ; ils se sont associés et ont fait lever la pâte. Rabbi Éliézer dit : je considère le dernier qui est tombé. Et les Sages disent : que l’élément interdit soit tombé au début ou à la fin, jamais il n’interdit tant qu’il ne contient pas, à lui seul, de quoi faire lever.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:11",
+                "explication": "Bartenoura explique que la Michna parle d’un cas où deux levains sont tombés dans la même pâte : l’un est permis, car il est de produits profanes, et l’autre est interdit aux non-Cohanim, car il est de terouma. Aucun des deux n’a, séparément, la force suffisante pour faire lever la pâte, mais ensemble ils l’ont fait lever. Selon Rabbi Éliézer, on juge d’après le dernier levain tombé : si le dernier est celui de terouma, la pâte est interdite aux non-Cohanim ; si le dernier est celui de produits profanes, elle reste permise. Les Sages soutiennent au contraire que l’interdit ne rend interdit que s’il possède en lui-même la capacité de faire lever la pâte, et non lorsqu’il n’agit qu’en combinaison avec un élément permis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:11",
+                "explication": "Le Rambam précise le principe général : lorsqu’un agent interdit ne peut produire l’effet déterminant qu’avec l’aide d’un agent permis, il n’interdit pas selon les Sages. Ici, l’effet déterminant est le fait de faire lever la pâte. Puisque le levain de terouma, pris seul, n’avait pas de quoi faire lever, il ne donne pas à toute la pâte le statut interdit aux non-Cohanim. La halakha suit les Sages."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:11",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « je considère le dernier » chez Rabbi Éliézer signifie que l’on attribue l’achèvement de la fermentation au dernier levain tombé. Le premier a seulement préparé la pâte, mais le dernier a rendu l’effet visible et achevé. Les Sages ne tiennent pas compte de cet ordre d’arrivée : pour eux, l’élément interdit ne peut interdire que s’il est capable, par sa propre force, de produire la fermentation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 2:11",
+                "explication": "Le Tiféret Israël explique que cette Michna illustre la règle de « ceci et cela causent l’effet » : un résultat produit conjointement par une cause permise et une cause interdite. Dans le cas présent, la fermentation provient de l’association des deux levains. Les Sages considèrent que, puisque la cause interdite n’est pas suffisante à elle seule, elle ne confère pas l’interdiction à l’ensemble ; Rabbi Éliézer, lui, attache une importance particulière au facteur qui intervient en dernier et achève le processus."
+              }
+            ]
+          }
         },
         {
           "id": "2:12",
@@ -220,8 +635,27 @@
           "ref": "Mishnah Orlah 2:12",
           "he": "יוֹעֶזֶר אִישׁ הַבִּירָה הָיָה מִתַּלְמִידֵי בֵּית שַׁמַּאי, וְאָמַר, שָׁאַלְתִּי אֶת רַבָּן גַּמְלִיאֵל הַזָּקֵן עוֹמֵד בְּשַׁעַר הַמִּזְרָח, וְאָמַר, לְעוֹלָם אֵינוֹ אוֹסֵר, עַד שֶׁיְּהֵא בּוֹ כְדֵי לְחַמֵּץ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Yoézer, homme de la Birah, était parmi les disciples de Beit Chammaï. Il dit : « J’ai interrogé Rabban Gamliel l’Ancien, alors qu’il se tenait à la porte orientale, et il répondit : “Il n’interdit jamais, tant qu’il n’y a pas en lui de quoi faire lever la pâte.” »",
+          "etude_fr": {
+            "traduction_fr": "Yoézer, homme de la Birah, était parmi les disciples de Beit Chammaï. Il dit : « J’ai interrogé Rabban Gamliel l’Ancien, alors qu’il se tenait à la porte orientale, et il répondit : “Il n’interdit jamais, tant qu’il n’y a pas en lui de quoi faire lever la pâte.” »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:12",
+                "explication": "Bartenoura explique que cette Michna se rattache au cas précédent : un levain interdit et un levain permis sont tombés dans une pâte. Même si, ensemble, ils ont fait lever la pâte, le levain interdit ne rend pas la pâte interdite tant qu’il n’a pas, à lui seul, la force suffisante pour la faire lever. C’est le sens de l’expression : « jusqu’à ce qu’il y ait en lui de quoi faire lever »."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:12",
+                "explication": "Le Rambam explique que l’interdiction dépend de l’effet propre de la matière interdite : elle ne transmet son interdit que lorsqu’elle est présente en quantité suffisante pour produire l’action déterminante, ici faire lever la pâte. Si l’effet n’est obtenu que par l’association du permis et de l’interdit, l’interdit seul n’est pas considéré comme ayant interdit le mélange."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:12",
+                "explication": "Le Tossafot Yom Tov souligne que le témoignage de Yoézer est rapporté bien qu’il fût des disciples de Beit Chammaï, car il transmet ici une décision reçue de Rabban Gamliel l’Ancien. La Michna vient ainsi établir clairement la règle pratique : on ne suit pas le seul résultat visible du mélange, mais la capacité du levain interdit à agir par lui-même."
+              }
+            ]
+          }
         },
         {
           "id": "2:13",
@@ -230,8 +664,27 @@
           "ref": "Mishnah Orlah 2:13",
           "he": "כֵּלִים שֶׁסָּכָן בְּשֶׁמֶן טָמֵא, וְחָזַר וְסָכָן בְּשֶׁמֶן טָהוֹר, אוֹ שֶׁסָּכָן בְּשֶׁמֶן טָהוֹר, וְחָזַר וְסָכָן בְּשֶׁמֶן טָמֵא, רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַחַר הָרִאשׁוֹן אֲנִי בָּא. וַחֲכָמִים אוֹמְרִים, אַחַר הָאַחֲרוֹן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des ustensiles que l’on a enduits avec de l’huile impure, puis que l’on a de nouveau enduits avec de l’huile pure ; ou que l’on a enduits avec de l’huile pure, puis que l’on a de nouveau enduits avec de l’huile impure : Rabbi Éliézer dit : je me règle d’après la première application. Et les Sages disent : d’après la dernière.",
+          "etude_fr": {
+            "traduction_fr": "Des ustensiles que l’on a enduits avec de l’huile impure, puis que l’on a de nouveau enduits avec de l’huile pure ; ou que l’on a enduits avec de l’huile pure, puis que l’on a de nouveau enduits avec de l’huile impure : Rabbi Éliézer dit : je me règle d’après la première application. Et les Sages disent : d’après la dernière.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:13",
+                "explication": "La Michna parle d’ustensiles que l’on enduit d’huile, de sorte que l’huile pénètre et laisse son effet dans l’ustensile. Selon Rabbi Éliézer, le statut dépend de la première huile appliquée : si elle était impure, l’ustensile est considéré selon cette première application, même si l’on a ensuite appliqué de l’huile pure ; et inversement. Les Sages estiment au contraire que l’application la plus récente est déterminante, car c’est elle qui recouvre et domine l’état présent de l’ustensile."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:13",
+                "explication": "Le Rambam explique que cette Michna énonce un principe concernant l’effet successif de deux applications opposées : l’une pure et l’autre impure. La discussion porte sur le point de savoir quelle action est halakhiquement considérée comme principale. Rabbi Éliézer attribue la force décisive au premier acte, tandis que les Sages la donnent au dernier acte. La halakha suit les Sages : on considère l’état produit par la dernière application."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:13",
+                "explication": "Le Tossafot Yom Tov souligne que la formulation de la Michna présente les deux ordres possibles — d’abord impur puis pur, ou d’abord pur puis impur — afin de montrer que la controverse est symétrique. Rabbi Éliézer ne distingue pas selon que la première application entraîne une rigueur ou une indulgence : dans tous les cas, il suit le premier état. De même, les Sages suivent toujours le dernier état, qu’il mène à déclarer l’ustensile pur ou impur."
+              }
+            ]
+          }
         },
         {
           "id": "2:14",
@@ -240,8 +693,27 @@
           "ref": "Mishnah Orlah 2:14",
           "he": "שְׂאֹר שֶׁל תְּרוּמָה וְשֶׁל כִּלְאֵי הַכֶּרֶם שֶׁנָּפְלוּ לְתוֹךְ עִסָּה, לֹא בָזֶה כְדֵי לְחַמֵּץ וְלֹא בָזֶה כְדֵי לְחַמֵּץ, וְנִצְטָרְפוּ וְחִמְּצוּ, אָסוּר לְזָרִים וּמֻתָּר לַכֹּהֲנִים. רַבִּי שִׁמְעוֹן מַתִּיר לְזָרִים וְלַכֹּהֲנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Du levain de terouma et du levain de kilayim de la vigne qui sont tombés dans une pâte : ni l’un n’avait de quoi faire lever la pâte, ni l’autre n’avait de quoi la faire lever ; mais ils se sont associés et l’ont fait lever. Elle est interdite aux non-Cohanim et permise aux Cohanim. Rabbi Chimon la permet aux non-Cohanim comme aux Cohanim.",
+          "etude_fr": {
+            "traduction_fr": "Du levain de terouma et du levain de kilayim de la vigne qui sont tombés dans une pâte : ni l’un n’avait de quoi faire lever la pâte, ni l’autre n’avait de quoi la faire lever ; mais ils se sont associés et l’ont fait lever. Elle est interdite aux non-Cohanim et permise aux Cohanim. Rabbi Chimon la permet aux non-Cohanim comme aux Cohanim.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:14",
+                "explication": "Le premier avis considère que, pour un non-Cohen, le levain de terouma et celui de kilayim de la vigne sont tous deux des éléments interdits ; même si chacun séparément n’a pas la force suffisante pour faire lever la pâte, leurs effets se joignent lorsqu’ils la font lever ensemble. La pâte devient donc interdite aux non-Cohanim. En revanche, pour les Cohanim, la terouma est permise ; il ne reste donc, du point de vue de l’interdit, que le levain de kilayim, qui n’avait pas à lui seul de quoi faire lever : la pâte leur est permise."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:14",
+                "explication": "Le Rambam explique que la Michna traite d’un cas où l’interdiction est produite par l’effet du levain, non par une quantité suffisante de chaque élément séparément. Selon le premier avis, des interdits différents peuvent se joindre lorsqu’ils produisent ensemble un même résultat perceptible, ici le levage de la pâte, à l’égard de celui pour qui tous deux sont interdits. Rabbi Chimon, lui, ne fait pas se joindre deux interdits de noms différents ; c’est pourquoi il permet la pâte, puisque ni l’un ni l’autre n’avait seul la capacité de faire lever."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:14",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la formulation : « interdit aux non-Cohanim et permis aux Cohanim ». Cela montre que l’association dépend du statut de la personne qui consomme. Pour un non-Cohen, les deux levains sont interdits et peuvent donc s’additionner selon le premier avis ; pour un Cohen, la terouma n’étant pas interdite, elle ne peut pas compléter le levain de kilayim afin d’interdire la pâte."
+              }
+            ]
+          }
         },
         {
           "id": "2:15",
@@ -250,8 +722,32 @@
           "ref": "Mishnah Orlah 2:15",
           "he": "תְּבָלִין שֶׁל תְּרוּמָה וְשֶׁל כִּלְאֵי הַכֶּרֶם שֶׁנָּפְלוּ בַּקְּדֵרָה, לֹא בָאֵלוּ כְדֵי לְתַבֵּל וְלֹא בָאֵלּוּ כְדֵי לְתַבֵּל, וְנִצְטָרְפוּ וְתִבְּלוּ, אָסוּר לְזָרִים וּמֻתָּר לַכֹּהֲנִים. רַבִּי שִׁמְעוֹן מַתִּיר לְזָרִים וְלַכֹּהֲנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des épices de terouma et des épices provenant de mélanges interdits de la vigne qui sont tombées dans une marmite : ni celles-ci n’avaient de quoi assaisonner, ni celles-là n’avaient de quoi assaisonner, mais elles se sont associées et ont assaisonné — c’est interdit aux non-Cohen et permis aux Cohanim. Rabbi Chimon permet aux non-Cohen comme aux Cohanim.",
+          "etude_fr": {
+            "traduction_fr": "Des épices de terouma et des épices provenant de mélanges interdits de la vigne qui sont tombées dans une marmite : ni celles-ci n’avaient de quoi assaisonner, ni celles-là n’avaient de quoi assaisonner, mais elles se sont associées et ont assaisonné — c’est interdit aux non-Cohen et permis aux Cohanim. Rabbi Chimon permet aux non-Cohen comme aux Cohanim.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:15",
+                "explication": "La Michna parle de deux sortes d’épices interdites au non-Cohen : la terouma, interdite aux étrangers, et les mélanges interdits de la vigne. Aucune des deux, prise séparément, n’a une quantité suffisante pour donner un goût perceptible au plat ; mais ensemble elles l’assaisonnent. Selon le premier avis, pour un non-Cohen, les deux interdits s’additionnent pour interdire le plat, car toutes deux lui sont interdites. Pour un Cohen, en revanche, la terouma est permise ; il ne reste donc que les mélanges interdits de la vigne, qui à eux seuls ne suffisent pas à assaisonner, et le plat lui est permis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:15",
+                "explication": "Le Rambam explique que le principe en jeu est l’association de deux causes de goût. Lorsque deux éléments interdits à une même personne produisent ensemble l’assaisonnement, le plat devient interdit pour elle, même si chacun séparément n’aurait pas suffi. Mais pour une personne à qui l’un des deux éléments est permis, on ne considère que l’élément qui lui est interdit ; s’il ne donne pas seul un goût suffisant, le mélange lui reste permis. Ainsi, le premier Tanna interdit aux non-Cohen et permet aux Cohanim."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:15",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la formulation : « ni celles-ci n’avaient de quoi assaisonner, ni celles-là n’avaient de quoi assaisonner ». Cela signifie que l’interdiction ne vient pas d’une épice prise isolément, mais uniquement de leur combinaison. La divergence porte donc sur la question de savoir si deux interdits de noms différents s’associent pour créer un goût prohibitif à l’égard de celui pour qui ils sont tous deux interdits."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 2:15",
+                "explication": "Le Tiféret Israël clarifie l’avis de Rabbi Chimon : il ne conteste pas que le plat soit permis aux Cohanim, puisque la terouma leur est permise et que les mélanges interdits de la vigne ne suffisent pas seuls à assaisonner. Sa nouveauté est de permettre même aux non-Cohen, car il considère que des interdits distincts ne s’additionnent pas ici pour former la mesure d’assaisonnement nécessaire à interdire le plat."
+              }
+            ]
+          }
         },
         {
           "id": "2:16",
@@ -260,8 +756,32 @@
           "ref": "Mishnah Orlah 2:16",
           "he": "חֲתִיכָה שֶׁל קָדְשֵׁי קָדָשִׁים, שֶׁל פִּגּוּל, וְשֶׁל נוֹתָר, שֶׁנִּתְבַּשְּׁלוּ עִם הַחֲתִיכוֹת, אָסוּר לְזָרִים וּמֻתָּר לַכֹּהֲנִים. רַבִּי שִׁמְעוֹן מַתִּיר לְזָרִים וְלַכֹּהֲנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un morceau de sacrifices éminemment saints, un morceau de piggoul et un morceau de notar, qui ont été cuits avec d’autres morceaux : cela est interdit aux non-Cohanim et permis aux Cohanim. Rabbi Chimon permet aux non-Cohanim comme aux Cohanim.",
+          "etude_fr": {
+            "traduction_fr": "Un morceau de sacrifices éminemment saints, un morceau de piggoul et un morceau de notar, qui ont été cuits avec d’autres morceaux : cela est interdit aux non-Cohanim et permis aux Cohanim. Rabbi Chimon permet aux non-Cohanim comme aux Cohanim.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:16",
+                "explication": "La Michna parle d’un cas où ces morceaux interdits ont été cuits avec des morceaux permis, sans que chacun d’eux, pris séparément, puisse donner un goût suffisant pour interdire le mélange, mais où leur effet réuni pourrait l’interdire. Pour les non-Cohanim, un morceau de sacrifices éminemment saints leur est interdit, de même que le piggoul et le notar ; ces interdits s’associent donc pour leur interdire le mélange. Pour les Cohanim, en revanche, les sacrifices éminemment saints leur sont permis ; ce morceau ne s’associe donc pas aux morceaux de piggoul et de notar pour interdire le mélange, et celui-ci demeure permis s’il n’y a pas une quantité suffisante d’interdit donnant du goût."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:16",
+                "explication": "Le Rambam explique que la Michna illustre la règle selon laquelle des interdits peuvent s’additionner uniquement par rapport à ceux pour qui ils ont tous le statut d’interdit. Ainsi, pour un non-Cohen, les sacrifices éminemment saints, le piggoul et le notar sont tous interdits, et ils s’additionnent pour interdire le plat. Pour un Cohen, le morceau de sacrifices éminemment saints n’est pas interdit ; il ne peut donc pas se joindre aux autres éléments pour former la mesure qui interdit."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:16",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « interdit aux non-Cohanim et permis aux Cohanim » dépend de la personne qui consomme le mélange. Le même plat peut être interdit à l’un et permis à l’autre, car le statut des morceaux n’est pas identique pour tous : ce qui est interdit au non-Cohen ne l’est pas nécessairement au Cohen. La Michna ne traite donc pas seulement de la nature des aliments, mais aussi de leur statut halakhique par rapport au mangeur."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 2:16",
+                "explication": "Le Tiféret Israël précise que Rabbi Chimon, qui permet même aux non-Cohanim, considère que ces différents éléments ne s’associent pas pour créer une interdiction, car ils ne relèvent pas d’un seul et même nom d’interdit. Selon lui, des interdits distincts — sacrifices éminemment saints pour un non-Cohen, piggoul et notar — ne se combinent pas pour interdire le mélange lorsqu’aucun d’eux ne possède à lui seul la mesure nécessaire."
+              }
+            ]
+          }
         },
         {
           "id": "2:17",
@@ -270,8 +790,27 @@
           "ref": "Mishnah Orlah 2:17",
           "he": "בְּשַׂר קָדְשֵׁי קָדָשִׁים וּבְשַׂר קָדָשִׁים קַלִּים שֶׁנִּתְבַּשְּׁלוּ עִם בְּשַׂר הַתַּאֲוָה, אָסוּר לִטְמֵאִים וּמֻתָּר לִטְהוֹרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La chair de sacrifices de sainteté éminente et la chair de sacrifices de sainteté moindre qui ont été cuites avec de la viande ordinaire : elles sont interdites aux personnes impures et permises aux personnes pures.",
+          "etude_fr": {
+            "traduction_fr": "La chair de sacrifices de sainteté éminente et la chair de sacrifices de sainteté moindre qui ont été cuites avec de la viande ordinaire : elles sont interdites aux personnes impures et permises aux personnes pures.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 2:17",
+                "explication": "La « viande ordinaire » désigne une viande profane, non consacrée. Lorsqu’elle a été cuite avec de la chair de sacrifices, elle en absorbe le goût. De ce fait, même la partie profane du mélange devient interdite à celui qui est impur, car la sainteté absorbée ne peut être consommée en état d’impureté. En revanche, pour les personnes pures, il n’y a pas d’interdit du seul fait de ce mélange."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 2:17",
+                "explication": "Le Rambam explique que la Michna traite d’un cas où la viande profane reçoit le goût de la viande sacrée par la cuisson. Ce goût n’est pas un goût interdit en soi : il provient d’une chose permise à ceux qui ont le droit de la consommer. C’est pourquoi le mélange est permis aux personnes pures, mais il reste interdit aux personnes impures, car les sacrifices ne peuvent être consommés en état d’impureté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 2:17",
+                "explication": "Le Tossafot Yom Tov précise que la Michna ne vient pas supprimer les autres conditions propres aux sacrifices. Les sacrifices de sainteté éminente ne sont consommés que par les Cohanim et dans le lieu prescrit, tandis que les sacrifices de sainteté moindre ont leurs règles propres. L’expression « permises aux personnes pures » signifie donc : permises à ceux qui sont purs et qui, par ailleurs, remplissent les conditions halakhiques de consommation de ces sacrifices."
+              }
+            ]
+          }
         }
       ]
     },
@@ -285,8 +824,27 @@
           "ref": "Mishnah Orlah 3:1",
           "he": "בֶּגֶד שֶׁצְּבָעוֹ בִקְלִפֵּי עָרְלָה, יִדָּלֵק. נִתְעָרֵב בַּאֲחֵרִים, כֻּלָּם יִדָּלֵקוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, יַעֲלֶה בְּאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un vêtement que l’on a teint avec des écorces de fruits de orlah doit être brûlé. S’il s’est mélangé à d’autres vêtements, tous doivent être brûlés : paroles de Rabbi Méïr. Et les Sages disent : il est annulé dans une proportion d’un contre deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Un vêtement que l’on a teint avec des écorces de fruits de orlah doit être brûlé. S’il s’est mélangé à d’autres vêtements, tous doivent être brûlés : paroles de Rabbi Méïr. Et les Sages disent : il est annulé dans une proportion d’un contre deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:1",
+                "explication": "Les écorces de fruits de orlah, lorsqu’elles servent à teindre, communiquent au vêtement une jouissance interdite, car la orlah est interdite non seulement à la consommation mais aussi au profit. C’est pourquoi le vêtement teint doit être brûlé. Selon Rabbi Méïr, si ce vêtement s’est mélangé à d’autres, tous sont interdits, car il considère que cet objet interdit ne s’annule pas dans ce mélange. Les Sages, eux, appliquent la règle propre à la orlah : elle s’annule seulement dans deux cents fois sa quantité, c’est-à-dire que le vêtement interdit est annulé s’il y a deux cents vêtements permis contre lui."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:1",
+                "explication": "Le Rambam explique que la teinture produite par des éléments de orlah est elle-même considérée comme un profit tiré de la orlah ; le vêtement devient donc interdit au profit et doit être détruit par le feu. La controverse porte sur le cas où ce vêtement se mélange à d’autres : Rabbi Méïr impose de tout brûler, tandis que la halakha suit les Sages, selon lesquels les interdits de orlah s’annulent dans un rapport de un pour deux cents."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:1",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « il est annulé dans un contre deux cents » signifie que l’interdit de orlah exige une annulation beaucoup plus stricte que les interdits ordinaires : il faut deux cents éléments permis face à l’élément interdit. Il précise également que la Michna parle d’un vêtement teint, car la teinture est un usage durable et visible de l’interdit, ce qui rend le vêtement interdit tant qu’il n’est pas annulé selon la mesure fixée par les Sages."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -295,8 +853,32 @@
           "ref": "Mishnah Orlah 3:2",
           "he": "הַצּוֹבֵעַ מְלֹא הַסִּיט בִּקְלִפֵּי עָרְלָה, וַאֲרָגוֹ בְבֶגֶד, וְאֵין יָדוּעַ אֵיזֶה הוּא, רַבִּי מֵאִיר אוֹמֵר, יִדָּלֵק הַבֶּגֶד. וַחֲכָמִים אוֹמְרִים, יַעֲלֶה בְאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui a teint la pleine mesure d’un sit avec des pelures de orlah, puis l’a tissée dans un vêtement, et l’on ne sait pas laquelle c’est : Rabbi Méïr dit : le vêtement sera brûlé. Et les Sages disent : elle s’annule dans un rapport d’un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui a teint la pleine mesure d’un sit avec des pelures de orlah, puis l’a tissée dans un vêtement, et l’on ne sait pas laquelle c’est : Rabbi Méïr dit : le vêtement sera brûlé. Et les Sages disent : elle s’annule dans un rapport d’un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:2",
+                "explication": "Les pelures de orlah sont interdites au profit lorsqu’elles proviennent d’un fruit interdit et qu’elles servent ici à teindre. La mesure appelée « plein sit » désigne une petite longueur de fil suffisante pour être considérée comme une unité reconnaissable dans le travail du tissage. Si ce fil teint avec de la orlah a été tissé dans un vêtement et qu’on ne sait plus quel fil c’est, Rabbi Méïr impose de brûler tout le vêtement, car l’interdit ne peut pas être identifié séparément. Les Sages estiment au contraire que l’interdit s’annule selon la règle propre à la orlah : dans deux cents fois sa quantité, c’est-à-dire que l’ensemble est permis s’il y a deux cents parts permises contre la part interdite."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:2",
+                "explication": "Le Rambam explique que la teinture produite par des éléments de orlah est elle-même interdite au profit, puisque l’on tire usage d’un produit prohibé. La discussion porte sur le cas où cette teinture se trouve incorporée dans un vêtement par l’intermédiaire d’un fil, puis devient indiscernable. Selon les Sages, la règle générale de la orlah s’applique : l’interdit s’annule dans deux cents parts de permis. La halakha suit les Sages."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:2",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « et l’on ne sait pas laquelle c’est » signifie que le fil interdit n’est plus identifiable dans le vêtement. Si l’on pouvait l’identifier, il suffirait de l’enlever et de le détruire. Toute la difficulté de la Michna vient donc du mélange : faut-il considérer que le vêtement entier est affecté par l’interdit, comme Rabbi Méïr, ou appliquer la règle d’annulation propre à la orlah, comme les Sages."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 3:2",
+                "explication": "Le Tiféret Israël précise que la mesure mentionnée n’est pas une quantité de teinture, mais la longueur ou l’unité de fil qui a été teinte et ensuite intégrée au tissu. Rabbi Méïr exige la destruction du vêtement parce que l’interdit de profit de la orlah demeure attaché à un élément du vêtement et ne peut plus être retiré. Les Sages considèrent toutefois que, lorsque l’élément interdit est perdu dans une quantité suffisante de tissu permis, il est annulé selon le seuil de un contre deux cents."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -305,8 +887,27 @@
           "ref": "Mishnah Orlah 3:3",
           "he": "הָאוֹרֵג מְלֹא הַסִּיט מִצֶּמֶר הַבְּכוֹר בְּבֶגֶד, יִדָּלֵק הַבֶּגֶד. וּמִשְּׂעַר הַנָּזִיר וּמִפֶּטֶר חֲמוֹר בְּשַׂק, יִדָּלֵק הַשָּׂק. וּבְמֻקְדָּשִׁין, מְקַדְּשִׁין כָּל שֶׁהֵן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui tisse, dans un vêtement, une pleine mesure de sit de laine d’un premier-né, le vêtement sera brûlé. Et s’il tisse, dans un sac, une telle mesure de cheveux d’un nazir ou de poils d’un premier-né d’ânesse, le sac sera brûlé. Et pour les choses consacrées, elles rendent interdites quelle que soit leur quantité.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui tisse, dans un vêtement, une pleine mesure de sit de laine d’un premier-né, le vêtement sera brûlé. Et s’il tisse, dans un sac, une telle mesure de cheveux d’un nazir ou de poils d’un premier-né d’ânesse, le sac sera brûlé. Et pour les choses consacrées, elles rendent interdites quelle que soit leur quantité.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:3",
+                "explication": "Bartenoura explique que « une pleine mesure de sit » désigne une mesure de longueur utilisée pour un fil tissé. Lorsque cette quantité de laine interdite provenant d’un premier-né a été intégrée dans un vêtement, elle n’est pas annulée : tout le vêtement doit être brûlé, car il est interdit d’en tirer profit. Il en va de même pour les cheveux du nazir, qui doivent normalement être brûlés, et pour les poils du premier-né d’ânesse, qui sont interdits à la jouissance avant son rachat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:3",
+                "explication": "Le Rambam précise que cette Michna traite d’éléments interdits qui ont été incorporés matériellement à un objet permis. Parce qu’ils y sont tissés et deviennent une partie reconnaissable de l’objet, ils ne sont pas considérés comme annulés dans le mélange. C’est pourquoi le vêtement ou le sac entier reçoit le statut d’objet interdit à la jouissance et doit être détruit par le feu."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:3",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna distingue le vêtement et le sac en fonction de la matière : la laine du premier-né est tissée dans un vêtement, tandis que des cheveux ou des poils sont tissés dans un sac, objet plus grossier. L’expression finale, « pour les choses consacrées », vient enseigner une règle générale : les objets consacrés ont une gravité particulière et peuvent rendre interdit même en quantité infime."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -315,8 +916,27 @@
           "ref": "Mishnah Orlah 3:4",
           "he": "תַּבְשִׁיל שֶׁבִּשְּׁלוֹ בִקְלִפֵּי עָרְלָה, יִדָּלֵק. נִתְעָרֵב בַּאֲחֵרִים, יַעֲלֶה בְּאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un mets que l’on a fait cuire avec des écorces de orlah doit être brûlé. S’il s’est mélangé à d’autres, il s’annule dans une proportion de un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Un mets que l’on a fait cuire avec des écorces de orlah doit être brûlé. S’il s’est mélangé à d’autres, il s’annule dans une proportion de un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:4",
+                "explication": "Les écorces de orlah sont interdites à la jouissance comme le fruit lui-même, lorsqu’elles font partie de ce qui protège ou accompagne le fruit. Si elles ont servi à cuire un mets, elles lui ont communiqué leur goût ; le mets devient donc interdit à la jouissance et doit être brûlé. S’il s’est ensuite mélangé à d’autres mets permis, il n’est pas annulé par une majorité ordinaire : comme toute orlah, il ne s’annule que s’il y a deux cents parts de permis contre la part interdite, de sorte que l’interdit représente un deux-cent-unième de l’ensemble."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:4",
+                "explication": "Le Rambam explique que la règle de cette Michna suit le principe général de orlah : tout ce qui est interdit au titre de orlah est interdit non seulement à la consommation mais aussi à la jouissance. C’est pourquoi un mets qui a absorbé le goût de ces écorces ne peut pas être utilisé et doit être détruit par le feu. Toutefois, lorsque ce mets interdit se mélange à d’autres, la halakha de orlah exige une annulation dans deux cents parts de permis, et non dans soixante comme pour beaucoup d’autres interdits alimentaires."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « s’il s’est mélangé à d’autres » se rapporte au mets devenu interdit après cuisson, et non simplement aux écorces elles-mêmes. Même après que l’interdit a été absorbé dans le mets, celui-ci garde le statut de orlah quant à son annulation : s’il se mélange à d’autres mets, il ne devient permis que par la mesure particulière de un contre deux cents."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -325,8 +945,27 @@
           "ref": "Mishnah Orlah 3:5",
           "he": "תַּנּוּר שֶׁהִסִּיקוּהוּ בִקְלִפֵּי עָרְלָה וְאָפָה בוֹ אֶת הַפַּת, תִּדָּלֵק הַפָּת. נִתְעָרְבָה בַאֲחֵרוֹת, תַּעֲלֶה בְּאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un four que l’on a chauffé avec des écorces de orlah, et dans lequel on a cuit le pain : le pain doit être brûlé. S’il s’est mélangé à d’autres pains, il est annulé dans une proportion de un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Un four que l’on a chauffé avec des écorces de orlah, et dans lequel on a cuit le pain : le pain doit être brûlé. S’il s’est mélangé à d’autres pains, il est annulé dans une proportion de un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:5",
+                "explication": "Le pain doit être brûlé parce que la jouissance interdite de la orlah a contribué à sa cuisson : il y a ici un profit provenant du bois dans le pain. Puisque la orlah est interdite à la consommation et au profit, le pain cuit grâce à cette chaleur devient interdit. Si ce pain s’est mélangé à d’autres pains, il est annulé seulement dans une proportion de un pour deux cents, comme les interdits de orlah, qui ne s’annulent pas à la majorité simple ni à soixante."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:5",
+                "explication": "Le Rambam explique que les écorces de orlah, comme les fruits de orlah, sont interdites au profit lorsqu’elles proviennent de parties ayant le statut de orlah. La cuisson du pain par leur combustion est donc considérée comme une utilisation d’un interdit de profit, et le pain doit être détruit. Toutefois, lorsque ce pain interdit est mélangé à d’autres pains permis, il relève de la règle générale de la orlah : il est annulé dans deux cents contre un."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:5",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna parle précisément du pain cuit dans le four chauffé par les écorces interdites, car la chaleur produite par ces écorces participe directement à la formation du pain. Ce n’est pas seulement le combustible qui est interdit : c’est le résultat cuit grâce à ce combustible qui devient interdit, selon le principe que le profit du bois interdit se retrouve dans le pain."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -335,8 +974,27 @@
           "ref": "Mishnah Orlah 3:6",
           "he": "מִי שֶׁהָיוּ לוֹ חֲבִילֵי תִלְתָּן שֶׁל כִּלְאֵי הַכֶּרֶם, יִדָּלֵקוּ. נִתְעָרְבוּ בַאֲחֵרִים, כֻּלָּם יִדָּלֵקוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, יַעֲלוּ בְּאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui avait des bottes de fenugrec provenant de kilayim de la vigne : elles seront brûlées. Si elles se sont mélangées à d’autres, toutes seront brûlées ; paroles de Rabbi Méïr. Les Sages disent : elles s’annulent dans une proportion d’un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui avait des bottes de fenugrec provenant de kilayim de la vigne : elles seront brûlées. Si elles se sont mélangées à d’autres, toutes seront brûlées ; paroles de Rabbi Méïr. Les Sages disent : elles s’annulent dans une proportion d’un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:6",
+                "explication": "Les bottes de fenugrec issues de kilayim de la vigne sont interdites au profit, c’est pourquoi elles doivent être brûlées. Selon Rabbi Méïr, lorsqu’elles se mélangent à d’autres bottes, elles ne s’annulent pas, car ce sont des objets que l’on compte et que l’on vend à l’unité ; un objet important ne s’annule pas dans un mélange. Les Sages ne considèrent pas ces bottes comme faisant partie des objets particulièrement importants qui ne s’annulent jamais, et appliquent donc la règle générale de l’orlah et des kilayim de la vigne : l’interdit s’annule lorsqu’il y a deux cents fois sa quantité dans le permis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:6",
+                "explication": "Le Rambam explique que les produits des kilayim de la vigne sont interdits à toute jouissance et doivent être détruits. Toutefois, en cas de mélange avec des produits permis, la halakha suit les Sages : l’interdit s’annule dans deux cents fois sa quantité. L’expression « dans une proportion d’un pour deux cents » signifie que, s’il y a deux cents parts permises face à une part interdite, le mélange est permis."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:6",
+                "explication": "Le Tossafot Yom Tov souligne que le désaccord porte sur le statut des bottes : Rabbi Méïr leur attribue l’importance d’une chose comptée, qui ne s’annule pas. Les Sages limitent cette règle aux éléments d’importance exceptionnelle mentionnés par la Michna dans ce chapitre ; les bottes de fenugrec n’entrant pas dans cette catégorie, elles peuvent s’annuler selon le taux propre à l’orlah et aux kilayim de la vigne."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -345,8 +1003,32 @@
           "ref": "Mishnah Orlah 3:7",
           "he": "שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר, אֶת שֶׁדַּרְכּוֹ לִמָּנוֹת, מְקַדֵּשׁ. וַחֲכָמִים אוֹמְרִים, אֵינוֹ מְקַדֵּשׁ אֶלָּא שִׁשָּׁה דְבָרִים בִּלְבָד. וְרַבִּי עֲקִיבָא אוֹמֵר, שִׁבְעָה. וְאֵלּוּ הֵם, אֱגוֹזֵי פֶרֶךְ, רִמּוֹנֵי בָדָן, וְחָבִיּוֹת סְתוּמוֹת, וְחֻלְפוֹת תְּרָדִין, וְקֻלְסֵי כְרוּב, וּדְלַעַת יְוָנִית. רַבִּי עֲקִיבָא אוֹמֵר, אַף כִּכָּרוֹת שֶׁל בַּעַל הַבָּיִת. הָרָאוּי לְעָרְלָה, עָרְלָה. לְכִלְאֵי הַכֶּרֶם, כִּלְאֵי הַכָּרֶם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Car Rabbi Méïr disait : ce qu’il est d’usage de compter rend interdit le mélange. Et les Sages disent : seuls six éléments rendent interdit le mélange. Et Rabbi Akiva dit : sept. Les voici : les noix de Pérekh, les grenades de Badan, les tonneaux fermés, les pousses de betteraves, les têtes de chou et la courge grecque. Rabbi Akiva dit : également les pains d’un maître de maison. Ce qui est apte à relever de la orlah est traité comme orlah ; ce qui est apte à relever des mélanges de la vigne est traité comme mélanges de la vigne.",
+          "etude_fr": {
+            "traduction_fr": "Car Rabbi Méïr disait : ce qu’il est d’usage de compter rend interdit le mélange. Et les Sages disent : seuls six éléments rendent interdit le mélange. Et Rabbi Akiva dit : sept. Les voici : les noix de Pérekh, les grenades de Badan, les tonneaux fermés, les pousses de betteraves, les têtes de chou et la courge grecque. Rabbi Akiva dit : également les pains d’un maître de maison. Ce qui est apte à relever de la orlah est traité comme orlah ; ce qui est apte à relever des mélanges de la vigne est traité comme mélanges de la vigne.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:7",
+                "explication": "Rabbi Méïr enseigne que toute chose que l’on vend habituellement à l’unité, en la comptant, a assez d’importance pour ne pas s’annuler dans un mélange : si une unité interdite est tombée parmi d’autres, elle « rend interdit » le tout. Les Sages limitent cette règle à six choses particulièrement importantes, et Rabbi Akiva y ajoute les pains faits par un particulier, car ils sont distingués et comptés un par un. La fin de la Michna précise que cette règle ne s’applique comme orlah qu’aux éléments susceptibles d’être orlah, c’est-à-dire des fruits d’arbre, et comme mélanges de la vigne seulement aux éléments susceptibles d’être interdits par les mélanges de la vigne."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:7",
+                "explication": "Le Rambam explique que le terme « rend interdit le mélange » signifie que l’objet interdit ne s’annule pas, même dans une grande quantité, du fait de son importance. Il souligne que l’opinion retenue est celle des Sages : seuls les éléments énumérés possèdent ce statut particulier. Les noix de Pérekh et les grenades de Badan sont des variétés renommées ; les tonneaux fermés sont importants parce que leur contenu est conservé et identifiable ; les autres légumes mentionnés sont des produits que l’on considère comme unités notables."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:7",
+                "explication": "Le Tossafot Yom Tov précise la portée de la formule finale : chaque élément est jugé selon la catégorie d’interdit à laquelle il peut réellement appartenir. Les fruits d’arbre, comme les noix et les grenades, peuvent être concernés par la orlah ; les produits qui poussent dans une vigne, comme certains légumes, peuvent être concernés par les mélanges de la vigne. La Michna ne veut donc pas dire que tous les éléments énumérés relèvent des deux interdits, mais que chacun est traité selon l’interdit qui lui est applicable."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Orlah 3:7",
+                "explication": "Le Tiféret Israël explique que la raison de cette non-annulation est l’importance commerciale et sociale de ces objets : ils ne sont pas perçus comme une masse indistincte mais comme des unités individualisées. Les pains du maître de maison, selon Rabbi Akiva, sont importants parce qu’ils sont faits avec soin pour l’usage domestique, contrairement à des pains ordinaires destinés à la vente en grand nombre. C’est cette importance qui empêche l’annulation habituelle dans le mélange."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -355,8 +1037,27 @@
           "ref": "Mishnah Orlah 3:8",
           "he": "כֵּיצַד. נִתְפַּצְּעוּ הָאֱגוֹזִים, נִתְפָּרְדוּ הָרִמּוֹנִים, נִתְפַּתְּחוּ הֶחָבִיּוֹת, נִתְחַתְּכוּ הַדְּלוּעִים, נִתְפָּרְסוּ הַכִּכָּרוֹת, יַעֲלוּ בְּאֶחָד וּמָאתָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Comment cela ? Si les noix se sont fendues, si les grenades se sont défaites, si les tonneaux ont été ouverts, si les courges ont été coupées, si les pains ont été tranchés, ils s’annulent à raison d’un pour deux cents.",
+          "etude_fr": {
+            "traduction_fr": "Comment cela ? Si les noix se sont fendues, si les grenades se sont défaites, si les tonneaux ont été ouverts, si les courges ont été coupées, si les pains ont été tranchés, ils s’annulent à raison d’un pour deux cents.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Orlah 3:8",
+                "explication": "La Michna explique le cas où les choses importantes mentionnées précédemment perdent leur statut particulier. Tant que les noix, grenades, tonneaux, courges ou pains sont entiers, ils ne s’annulent pas dans un mélange, car ce sont des objets considérés comme importants. Mais une fois fendus, défaits, ouverts, coupés ou tranchés, ils ne sont plus considérés comme des unités importantes, et ils peuvent donc s’annuler selon la règle ordinaire de la orlah : un élément interdit est annulé lorsqu’il y a deux cents parts permises face à lui."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:8",
+                "explication": "Le Rambam explique que l’expression « ils s’annulent à raison d’un pour deux cents » correspond à la mesure propre aux interdits de orlah et de kilayim de la vigne : il faut deux cents parts permises contre la part interdite. Cette Michna précise que cette annulation devient possible seulement après que l’objet a perdu sa forme entière et son importance initiale."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Orlah 3:8",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna ne parle pas d’un simple changement extérieur, mais d’une perte de l’importance halakhique de l’objet. Une noix fendue, un tonneau ouvert ou un pain tranché ne se vendent plus et ne se présentent plus comme des unités de valeur comparable à leur état entier ; ils quittent donc la catégorie des choses qui, du fait de leur importance, ne s’annulent pas."
+              }
+            ]
+          }
         },
         {
           "id": "3:9",
@@ -365,8 +1066,27 @@
           "ref": "Mishnah Orlah 3:9",
           "he": "סְפֵק עָרְלָה, בְּאֶרֶץ יִשְׂרָאֵל אָסוּר, וּבְסוּרְיָא מֻתָּר, וּבְחוּצָה לָאָרֶץ יוֹרֵד וְלוֹקֵחַ, וּבִלְבַד שֶׁלֹּא יִרְאֶנּוּ לוֹקֵט. כֶּרֶם נָטוּעַ יָרָק, וְיָרָק נִמְכָּר חוּצָה לוֹ, בְּאֶרֶץ יִשְׂרָאֵל אָסוּר, וּבְסוּרְיָא מֻתָּר, וּבְחוּצָה לָאָרֶץ יוֹרֵד וְלוֹקֵט, וּבִלְבַד שֶׁלֹּא יִלְקֹט בַּיָּד. הֶחָדָשׁ, אָסוּר מִן הַתּוֹרָה בְּכָל מָקוֹם. וְהָעָרְלָה, הֲלָכָה. וְהַכִּלְאַיִם, מִדִּבְרֵי סוֹפְרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un doute concernant la orlah : en terre d’Israël, c’est interdit ; en Syrie, c’est permis ; et en dehors de la terre d’Israël, il descend et achète, pourvu qu’il ne le voie pas le cueillir. Un vignoble planté de légumes, et des légumes sont vendus à l’extérieur de celui-ci : en terre d’Israël, c’est interdit ; en Syrie, c’est permis ; et en dehors de la terre d’Israël, il descend et cueille, pourvu qu’il ne cueille pas de sa main. Le ‘hadach est interdit par la Torah en tout lieu ; la orlah relève d’une halakha ; et les mélanges interdits relèvent des paroles des Sages.",
+          "etude_fr": {
+            "traduction_fr": "Un doute concernant la orlah : en terre d’Israël, c’est interdit ; en Syrie, c’est permis ; et en dehors de la terre d’Israël, il descend et achète, pourvu qu’il ne le voie pas le cueillir. Un vignoble planté de légumes, et des légumes sont vendus à l’extérieur de celui-ci : en terre d’Israël, c’est interdit ; en Syrie, c’est permis ; et en dehors de la terre d’Israël, il descend et cueille, pourvu qu’il ne cueille pas de sa main. Le ‘hadach est interdit par la Torah en tout lieu ; la orlah relève d’une halakha ; et les mélanges interdits relèvent des paroles des Sages.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Orlah 3:9",
+                "explication": "Bartenoura explique que le doute concernant la orlah est traité différemment selon le lieu. En terre d’Israël, où l’interdit de orlah est pleinement en vigueur, le doute est interdit. En Syrie, dont le statut est moins strict, le doute est permis. En dehors de la terre d’Israël, on peut même acheter un fruit susceptible d’être orlah, à condition de ne pas voir le vendeur le cueillir d’un arbre interdit. Pour les mélanges de la vigne, la règle est encore plus légère en dehors de la terre d’Israël : on peut faire cueillir, mais non cueillir soi-même, car l’interdit des mélanges de la vigne hors d’Israël est d’ordre rabbinique."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Orlah 3:9",
+                "explication": "Le Rambam précise que la fin de la Michna distingue trois statuts : le ‘hadach est interdit par la Torah en tout lieu ; la orlah en dehors de la terre d’Israël est une halakha transmise, c’est-à-dire une tradition reçue ; tandis que les mélanges de la vigne en dehors de la terre d’Israël ne sont interdits que par décret des Sages. Cette différence de source explique pourquoi la Michna est plus stricte pour la orlah que pour les mélanges de la vigne."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Orlah 3:9",
+                "explication": "Le Tossafot Yom Tov souligne la formulation différente entre les deux cas : pour la orlah, la Michna dit qu’en dehors de la terre d’Israël il “descend et achète”, mais seulement s’il ne voit pas la cueillette ; pour les mélanges de la vigne, elle dit qu’il “descend et cueille”, à condition de ne pas cueillir de sa propre main. Cette nuance reflète la différence de gravité entre orlah, fondée sur une halakha transmise même hors d’Israël, et les mélanges de la vigne, qui y sont seulement d’institution rabbinique."
+              }
+            ]
+          }
         }
       ]
     }
