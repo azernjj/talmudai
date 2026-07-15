@@ -187,6 +187,7 @@ def translate_mishnah(
 ) -> tuple[dict[str, Any], dict[str, int]]:
     response = client.responses.create(
         model=model,
+        reasoning={"effort": "low"},
         input=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {
@@ -209,8 +210,15 @@ def translate_mishnah(
     )
 
     raw = (response.output_text or "").strip()
+
     if not raw:
-        raise RuntimeError("OpenAI a renvoyé une réponse vide.")
+        status = getattr(response, "status", "inconnu")
+        details = getattr(response, "incomplete_details", None)
+        reason = getattr(details, "reason", None) if details else None
+
+        raise RuntimeError(
+            f"Réponse vide — statut={status}, raison={reason}"
+        )
 
     result = json.loads(raw)
 
@@ -230,7 +238,6 @@ def translate_mishnah(
     }
 
     return result, usage
-
 
 def main() -> int:
     args = parse_args()
