@@ -15,8 +15,32 @@
           "ref": "Mishnah Maasrot 1:1",
           "he": "כְּלָל אָמְרוּ בַּמַּעַשְׂרוֹת, כָּל שֶׁהוּא אֹכֶל, וְנִשְׁמָר, וְגִדּוּלָיו מִן הָאָרֶץ, חַיָּב בַּמַּעַשְׂרוֹת. וְעוֹד כְּלָל אַחֵר אָמְרוּ, כָּל שֶׁתְּחִלָּתוֹ אֹכֶל וְסוֹפוֹ אֹכֶל, אַף עַל פִּי שֶׁהוּא שׁוֹמְרוֹ לְהוֹסִיף אֹכֶל, חַיָּב קָטָן וְגָדוֹל. וְכָל שֶׁאֵין תְּחִלָּתוֹ אֹכֶל אֲבָל סוֹפוֹ אֹכֶל, אֵינוֹ חַיָּב עַד שֶׁיֵּעָשֶׂה אֹכֶל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Ils ont énoncé une règle générale au sujet des maasserot : tout ce qui est comestible, qui est gardé, et dont la croissance provient de la terre, est soumis aux maasserot. Ils ont encore énoncé une autre règle générale : tout ce dont le commencement est comestible et dont la fin est comestible, même si on le garde afin qu’il ajoute de la nourriture, est soumis à l’obligation, qu’il soit petit ou grand. Mais tout ce dont le commencement n’est pas comestible, tandis que sa fin est comestible, n’est soumis à l’obligation que lorsqu’il sera devenu comestible.",
+          "etude_fr": {
+            "traduction_fr": "Ils ont énoncé une règle générale au sujet des maasserot : tout ce qui est comestible, qui est gardé, et dont la croissance provient de la terre, est soumis aux maasserot. Ils ont encore énoncé une autre règle générale : tout ce dont le commencement est comestible et dont la fin est comestible, même si on le garde afin qu’il ajoute de la nourriture, est soumis à l’obligation, qu’il soit petit ou grand. Mais tout ce dont le commencement n’est pas comestible, tandis que sa fin est comestible, n’est soumis à l’obligation que lorsqu’il sera devenu comestible.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 1:1",
+                "explication": "La Michna fixe trois conditions pour qu’un produit soit soumis aux maasserot : il doit être un aliment, être gardé par son propriétaire — ce qui exclut notamment les produits abandonnés ou sans surveillance — et pousser de la terre, ce qui exclut ce qui ne relève pas de la croissance terrestre. Bartenoura explique ensuite la seconde règle : lorsqu’un fruit ou légume est déjà mangeable dès son premier stade et le reste à maturité, il est soumis aux maasserot même jeune, bien qu’on le laisse ordinairement croître pour augmenter sa quantité ou sa qualité."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 1:1",
+                "explication": "Le Rambam explique que l’obligation des maasserot ne porte que sur les produits qui entrent dans la catégorie d’aliment humain, qui sont conservés et destinés à l’usage du propriétaire, et qui sont des produits de la terre. La suite de la Michna distingue deux catégories de végétaux : ceux qui sont consommables dès le début de leur développement, comme certains légumes ou fruits tendres, et ceux qui ne deviennent aliments qu’à un stade ultérieur. Les premiers sont concernés par l’obligation même lorsqu’ils sont petits ; les seconds seulement lorsqu’ils atteignent le stade où ils sont effectivement considérés comme nourriture."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 1:1",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la formulation : « son commencement est comestible et sa fin est comestible » signifie que le produit possède déjà le statut d’aliment avant sa pleine croissance. Le fait que le propriétaire le garde pour qu’il « ajoute de la nourriture » ne retire pas son statut actuel d’aliment ; il est donc déjà soumis aux maasserot. En revanche, lorsque le début de sa croissance n’est pas encore un aliment, l’obligation ne commence pas avant l’apparition réelle du statut alimentaire."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Maasrot 1:1",
+                "explication": "Le Tiféret Israël explique que « petit et grand » ne désigne pas deux espèces différentes, mais les différents stades de croissance d’un même produit : dès lors qu’il est déjà mangeable à l’état jeune et demeure mangeable plus tard, la taille n’empêche pas l’obligation des maasserot. La Michna enseigne ainsi que l’obligation dépend du statut alimentaire effectif du produit, et non de sa perfection ou de sa maturité complète."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,32 @@
           "ref": "Mishnah Maasrot 1:2",
           "he": "מֵאֵימָתַי הַפֵּרוֹת חַיָּבוֹת בַּמַּעַשְׂרוֹת. הַתְּאֵנִים, מִשֶּׁיַּבְחִילוּ. הָעֲנָבִים וְהָאֳבָשִׁים, מִשֶּׁהִבְאִישׁוּ. הָאוֹג וְהַתּוּתִים, מִשֶּׁיַּאְדִּימוּ. וְכָל הָאֲדֻמִּים, מִשֶּׁיַּאְדִּימוּ. הָרִמּוֹנִים, מִשֶּׁיִּמַּסּוּ. הַתְּמָרִים, מִשֶּׁיָּטִּילוּ שְׂאֹר. הָאֲפַרְסְקִים, מִשֶּׁיָּטִּילוּ גִידִים. הָאֱגוֹזִים, מִשֶּׁיַּעֲשׂוּ מְגוּרָה. רַבִּי יְהוּדָה אוֹמֵר, הָאֱגוֹזִים וְהַשְּׁקֵדִים, מִשֶּׁיַּעֲשׂוּ קְלִפָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À partir de quand les fruits deviennent-ils soumis aux maasserot ? Les figues : dès qu’elles commencent à mûrir. Les raisins et les grappes de mauvaise qualité : dès qu’ils commencent à prendre une odeur de maturation. Le sumac et les mûres : dès qu’ils rougissent. Et tous les fruits rouges : dès qu’ils rougissent. Les grenades : dès qu’elles s’amollissent. Les dattes : dès qu’elles produisent une sorte de levain. Les pêches : dès qu’elles produisent des fibres. Les noix : dès qu’elles forment une loge intérieure. Rabbi Yehouda dit : les noix et les amandes, dès qu’elles forment une écorce.",
+          "etude_fr": {
+            "traduction_fr": "À partir de quand les fruits deviennent-ils soumis aux maasserot ? Les figues : dès qu’elles commencent à mûrir. Les raisins et les grappes de mauvaise qualité : dès qu’ils commencent à prendre une odeur de maturation. Le sumac et les mûres : dès qu’ils rougissent. Et tous les fruits rouges : dès qu’ils rougissent. Les grenades : dès qu’elles s’amollissent. Les dattes : dès qu’elles produisent une sorte de levain. Les pêches : dès qu’elles produisent des fibres. Les noix : dès qu’elles forment une loge intérieure. Rabbi Yehouda dit : les noix et les amandes, dès qu’elles forment une écorce.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 1:2",
+                "explication": "La Michna fixe ici le début de l’obligation de maasser pour chaque espèce selon le premier stade où le fruit est considéré comme ayant atteint une formation significative. Pour les figues, « dès qu’elles commencent à mûrir » signifie qu’elles ne sont plus totalement vertes et dures. Pour les raisins, le terme « dès qu’ils commencent à prendre une odeur » désigne le début de leur maturation, lorsque leur état change de celui de fruit entièrement immature."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 1:2",
+                "explication": "Le Rambam explique que ces signes ne désignent pas la pleine maturité du fruit, mais le moment minimal à partir duquel il entre dans la catégorie de fruit achevé pour l’obligation des maasserot. Avant ces signes, on peut encore les considérer comme des produits non achevés et ils ne sont pas encore astreints de la même manière."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 1:2",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna énumère des critères différents selon la nature de chaque fruit : changement de couleur, ramollissement, apparition de fibres, formation d’une écorce ou d’une structure interne. Chaque espèce possède donc son propre signe botanique de développement halakhique."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 1:2",
+                "explication": "Le Tiféret Israël précise plusieurs termes de la Michna selon l’observation concrète des fruits : le sumac et les mûres deviennent soumis lorsqu’apparaît leur rougeur ; les grenades lorsqu’elles perdent leur dureté première ; les dattes lorsqu’une transformation interne comparable à une fermentation commence ; et les pêches lorsque des filaments se développent dans leur chair."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +83,32 @@
           "ref": "Mishnah Maasrot 1:3",
           "he": "הֶחָרוּבִין, מִשֶּׁיִּנָּקֵדוּ. וְכָל הַשְּׁחוֹרִים, מִשֶּׁיִּנָּקְדוּ. הָאֲגָסִים וְהַקְּרֻסְטוֹמֵלִין וְהַפָּרִישִׁין וְהָעֻזְרָדִים, מִשֶּׁיִּקָּרֵחוּ. וְכָל הַלְּבָנִים, מִשֶּׁיִּקָּרֵחוּ. הַתִּלְתָּן, מִשֶּׁתְּצַמֵּחַ. הַתְּבוּאָה וְהַזֵּיתִים, מִשֶּׁיַּכְנִיסוּ שְׁלִישׁ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les caroubes : dès qu’elles se ponctuent de taches. Et tous les fruits noirs : dès qu’ils se ponctuent de taches. Les poires, les crustumélines, les coings et les aubépines : dès qu’ils deviennent lisses. Et tous les fruits blancs : dès qu’ils deviennent lisses. Le fenugrec : dès qu’il pousse. Les céréales et les olives : dès qu’elles atteignent le tiers de leur croissance.",
+          "etude_fr": {
+            "traduction_fr": "Les caroubes : dès qu’elles se ponctuent de taches. Et tous les fruits noirs : dès qu’ils se ponctuent de taches. Les poires, les crustumélines, les coings et les aubépines : dès qu’ils deviennent lisses. Et tous les fruits blancs : dès qu’ils deviennent lisses. Le fenugrec : dès qu’il pousse. Les céréales et les olives : dès qu’elles atteignent le tiers de leur croissance.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 1:3",
+                "explication": "La Michna poursuit l’énumération du stade à partir duquel les produits sont considérés comme suffisamment formés pour être soumis à l’obligation de maasser. Pour les caroubes et, de manière générale, les fruits de couleur noire, ce stade est celui où apparaissent sur eux des points ou taches, signe de maturation. Pour les poires, les crustumélines, les coings et les aubépines, ainsi que pour les fruits blancs, le signe est qu’ils deviennent lisses, c’est-à-dire que disparaît l’aspect duveteux ou rugueux de leur surface. Les céréales et les olives sont soumises au maasser lorsqu’elles ont atteint le tiers de leur développement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 1:3",
+                "explication": "Le Rambam explique que chaque espèce a un signe propre indiquant qu’elle est entrée dans la catégorie de nourriture achevée au regard des prélèvements. « Dès qu’elles se ponctuent » désigne l’apparition de marques visibles de maturation sur les fruits foncés. « Dès qu’ils deviennent lisses » désigne le moment où certains fruits perdent leur duvet extérieur. Quant aux céréales et aux olives, leur mesure est le tiers de la croissance, seuil halakhique connu qui confère déjà au produit une importance agricole."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 1:3",
+                "explication": "Le Tossafot Yom Tov souligne que les expressions générales de la Michna — « tous les fruits noirs » et « tous les fruits blancs » — viennent étendre la règle au-delà des espèces nommées explicitement. Les espèces particulières citées servent d’exemples typiques, mais la halakha dépend du caractère du fruit : pour les variétés foncées, l’apparition de taches ; pour les variétés claires, le fait de devenir lisses."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 1:3",
+                "explication": "Le Tiféret Israël précise le sens botanique des signes mentionnés : les taches des fruits noirs et la disparition du duvet des fruits blancs sont des signes naturels attestant que le fruit a commencé sa maturation effective. La Michna ne fixe donc pas une date uniforme, mais un critère observable propre à chaque famille de produits. Pour le fenugrec, le stade est celui où la plante a poussé de façon reconnaissable ; pour les céréales et les olives, c’est le tiers de leur formation."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +117,27 @@
           "ref": "Mishnah Maasrot 1:4",
           "he": "וּבַיָּרָק, הַקִּשּׁוּאִין וְהַדְּלוּעִים וְהָאֲבַטִּיחִים וְהַמְּלָפְפוֹנוֹת, הַתַּפּוּחִים וְהָאֶתְרוֹגִין, חַיָּבִים גְּדוֹלִים וּקְטַנִּים. רַבִּי שִׁמְעוֹן פּוֹטֵר אֶת הָאֶתְרוֹגִים בְּקָטְנָן. הַחַיָּב בַּשְּׁקֵדִים הַמָּרִים, פָּטוּר בַּמְּתוּקִים, הַחַיָּב בַּמְּתוּקִים, פָּטוּר בַּמָּרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et, parmi les légumes : les concombres, les courges, les pastèques et les melons ; les pommes et les cédrats — sont soumis à l’obligation, qu’ils soient grands ou petits. Rabbi Chim‘on dispense les cédrats lorsqu’ils sont petits. Ce qui est soumis à l’obligation pour les amandes amères est exempt pour les amandes douces ; ce qui est soumis à l’obligation pour les amandes douces est exempt pour les amandes amères.",
+          "etude_fr": {
+            "traduction_fr": "Et, parmi les légumes : les concombres, les courges, les pastèques et les melons ; les pommes et les cédrats — sont soumis à l’obligation, qu’ils soient grands ou petits. Rabbi Chim‘on dispense les cédrats lorsqu’ils sont petits. Ce qui est soumis à l’obligation pour les amandes amères est exempt pour les amandes douces ; ce qui est soumis à l’obligation pour les amandes douces est exempt pour les amandes amères.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 1:4",
+                "explication": "Les espèces énumérées sont déjà considérées comme consommables même lorsqu’elles sont petites ; c’est pourquoi elles sont soumises au maasser aussi bien petites que grandes. Rabbi Chim‘on conteste seulement pour les cédrats : tant qu’ils sont petits, ils ne sont pas encore considérés comme un fruit propre à la consommation. Concernant les amandes, les amandes amères sont consommables lorsqu’elles sont petites, avant que leur amertume ne devienne forte ; lorsqu’elles grandissent, elles deviennent impropres à la consommation. Les amandes douces, à l’inverse, ne sont véritablement consommables que lorsqu’elles ont grandi."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 1:4",
+                "explication": "Le critère de la Michna est l’aptitude du produit à être mangé. Tout fruit ou légume qui est mangeable à l’état petit comme à l’état grand est soumis à l’obligation dans les deux cas. Rabbi Chim‘on considère que le cédrat petit n’a pas encore atteint le statut de nourriture. Pour les amandes, le Rambam explique l’opposition entre les deux sortes : les amandes amères sont aptes lorsqu’elles sont petites, tandis que les douces le sont lorsqu’elles sont grandes ; l’étape qui oblige l’une dispense donc l’autre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 1:4",
+                "explication": "Il souligne que la Michna ne parle pas ici d’une mesure uniforme de croissance pour toutes les espèces, mais du moment où chacune est appelée nourriture selon son usage habituel. C’est pourquoi la même taille ou le même stade de développement peut entraîner l’obligation pour une espèce et l’exemption pour une autre, comme on le voit clairement avec les amandes amères et les amandes douces."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +146,32 @@
           "ref": "Mishnah Maasrot 1:5",
           "he": "אֵיזֶהוּ גָּרְנָן לַמַּעַשְׂרוֹת. הַקִּשּׁוּאִים וְהַדְּלוּעִים, מִשֶּׁיְּפַקְסוּ. וְאִם אֵינוֹ מְפַקֵּס, מִשֶּׁיַּעֲמִיד עֲרֵמָה. אֲבַטִּיחַ, מִשֶּׁיְּשַׁלֵּק. וְאִם אֵינוֹ מְשַׁלֵּק, עַד שֶׁיַּעֲשֶׂה מֻקְצֶה. יָרָק הַנֶּאֱגָד, מִשֶּׁיֹּאגַד. אִם אֵינוֹ אוֹגֵד, עַד שֶׁיְּמַלֵּא אֶת הַכְּלִי. וְאִם אֵינוֹ מְמַלֵּא אֶת הַכְּלִי, עַד שֶׁיְּלַקֵּט כָּל צָרְכּוֹ. כַּלְכָּלָה, עַד שֶׁיְּחַפֶּה. וְאִם אֵינוֹ מְחַפֶּה, עַד שֶׁיְמַלֵּא אֶת הַכְּלִי. וְאִם אֵינוֹ מְמַלֵּא אֶת הַכְּלִי, עַד שֶׁיְּלַקֵּט כָּל צָרְכּוֹ. בַּמֶּה דְבָרִים אֲמוּרִים, בְּמוֹלִיךְ לַשּׁוּק. אֲבָל בְּמוֹלִיךְ לְבֵיתוֹ, אוֹכֵל מֵהֶם עֲרַאי עַד שֶׁהוּא מַגִּיעַ לְבֵיתוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Quel est le moment où leur « aire » est constituée pour les maasserot ? Les concombres et les courges : dès qu’on les a épilés ; et si l’on ne les épile pas, dès qu’on en a fait un tas. La pastèque : dès qu’on l’a lissée ; et si l’on ne la lisse pas, jusqu’à ce qu’on en fasse un dépôt. Le légume que l’on attache en bottes : dès qu’il a été attaché ; si on ne l’attache pas, jusqu’à ce que l’on remplisse le récipient ; et si l’on ne remplit pas le récipient, jusqu’à ce que l’on en cueille tout ce dont on a besoin. Un panier : jusqu’à ce qu’on le recouvre ; et si on ne le recouvre pas, jusqu’à ce que l’on remplisse le récipient ; et si l’on ne remplit pas le récipient, jusqu’à ce que l’on en cueille tout ce dont on a besoin. Dans quel cas ces paroles ont-elles été dites ? Lorsqu’on les conduit au marché. Mais lorsqu’on les conduit chez soi, on peut en manger provisoirement jusqu’à ce qu’on arrive chez soi.",
+          "etude_fr": {
+            "traduction_fr": "Quel est le moment où leur « aire » est constituée pour les maasserot ? Les concombres et les courges : dès qu’on les a épilés ; et si l’on ne les épile pas, dès qu’on en a fait un tas. La pastèque : dès qu’on l’a lissée ; et si l’on ne la lisse pas, jusqu’à ce qu’on en fasse un dépôt. Le légume que l’on attache en bottes : dès qu’il a été attaché ; si on ne l’attache pas, jusqu’à ce que l’on remplisse le récipient ; et si l’on ne remplit pas le récipient, jusqu’à ce que l’on en cueille tout ce dont on a besoin. Un panier : jusqu’à ce qu’on le recouvre ; et si on ne le recouvre pas, jusqu’à ce que l’on remplisse le récipient ; et si l’on ne remplit pas le récipient, jusqu’à ce que l’on en cueille tout ce dont on a besoin. Dans quel cas ces paroles ont-elles été dites ? Lorsqu’on les conduit au marché. Mais lorsqu’on les conduit chez soi, on peut en manger provisoirement jusqu’à ce qu’on arrive chez soi.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 1:5",
+                "explication": "La Michna définit, pour chaque produit, le moment de « goren » des maasserot, c’est-à-dire l’achèvement de sa préparation qui rend interdit d’en manger même provisoirement avant prélèvement. Pour les concombres et courges, « dès qu’on les a épilés » signifie qu’on retire le duvet ou les petites aspérités qui sont sur eux ; si l’on ne fait pas cette opération, l’achèvement est le moment où l’on en forme un tas. Pour les pastèques, « dès qu’on l’a lissée » désigne également une opération de nettoyage ou de finition extérieure ; à défaut, le critère est qu’on les dispose dans un emplacement réservé, un dépôt, ce qui montre que la récolte est achevée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 1:5",
+                "explication": "Le Rambam explique que l’obligation effective de maasser dépend de l’achèvement du travail propre à chaque espèce et à chaque usage. Les légumes que l’on a coutume de lier en bottes sont considérés comme achevés dès qu’ils sont liés ; si le propriétaire ne les lie pas, le remplissage du récipient tient lieu d’achèvement ; et s’il ne travaille pas avec un récipient déterminé, l’achèvement est lorsqu’il a cueilli toute la quantité dont il a besoin. Ainsi, la halakha suit l’usage normal de préparation du produit."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 1:5",
+                "explication": "Le Tossafot Yom Tov souligne que la fin de la Michna limite les critères précédents au cas où l’on conduit les produits au marché. Dans ce cas, les opérations de préparation — botter, remplir, couvrir, mettre en tas — constituent l’achèvement commercial. En revanche, lorsqu’on conduit les produits chez soi, le propriétaire peut encore en manger de manière provisoire en chemin, car l’introduction dans la maison sera le facteur décisif qui fixe définitivement l’obligation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 1:5",
+                "explication": "Le Tiféret Israël explique que « panier, jusqu’à ce qu’on le recouvre » renvoie à un panier de fruits que l’on couvre après l’avoir arrangé, comme on le fait pour le transporter ou le vendre. Le fait de couvrir le panier manifeste que la préparation est terminée. Si l’on n’a pas l’habitude de couvrir, on revient aux critères généraux : remplir le récipient, ou, à défaut, achever la cueillette de tout ce dont on a besoin."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +180,32 @@
           "ref": "Mishnah Maasrot 1:6",
           "he": "הַפֶּרֶד וְהַצִּמּוּקִין וְהֶחָרוּבִין, מִשֶּׁיַּעֲמִיד עֲרֵמָה. הַבְּצָלִים, מִשֶּׁיְּפַקֵּל. וְאִם אֵינוֹ מְפַקֵּל, מִשֶּׁיַּעֲמִיד עֲרֵמָה. הַתְּבוּאָה, מִשֶּׁיְּמָרֵחַ. וְאִם אֵינוֹ מְמָרֵחַ, עַד שֶׁיַּעֲמִיד עֲרֵמָה. הַקִּטְנִיּוֹת, מִשֶּׁיִּכְבֹּר. וְאִם אֵינוֹ כוֹבֵר, עַד שֶׁיְּמָרֵחַ. אַף עַל פִּי שֶׁמֵּרַח, נוֹטֵל מִן הַקֻּטָּעִים וּמִן הַצְּדָדִים וּמִמַּה שֶׁבְּתוֹךְ הַתֶּבֶן, וְאוֹכֵל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les figues sèches séparées, les raisins secs et les caroubes : dès qu’il en a formé un tas. Les oignons : dès qu’il les a arrangés en bottes ; et s’il ne les arrange pas en bottes, dès qu’il en a formé un tas. La céréale : dès qu’il a aplani le tas ; et s’il ne l’aplanit pas, jusqu’à ce qu’il en forme un tas. Les légumineuses : dès qu’il les a passées au crible ; et s’il ne les passe pas au crible, jusqu’à ce qu’il aplanisse le tas. Bien qu’il ait aplani le tas, il peut prendre des morceaux brisés, des côtés, et de ce qui se trouve dans la paille, et manger.",
+          "etude_fr": {
+            "traduction_fr": "Les figues sèches séparées, les raisins secs et les caroubes : dès qu’il en a formé un tas. Les oignons : dès qu’il les a arrangés en bottes ; et s’il ne les arrange pas en bottes, dès qu’il en a formé un tas. La céréale : dès qu’il a aplani le tas ; et s’il ne l’aplanit pas, jusqu’à ce qu’il en forme un tas. Les légumineuses : dès qu’il les a passées au crible ; et s’il ne les passe pas au crible, jusqu’à ce qu’il aplanisse le tas. Bien qu’il ait aplani le tas, il peut prendre des morceaux brisés, des côtés, et de ce qui se trouve dans la paille, et manger.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Maasrot 1:6",
+                "explication": "La Michna énumère, pour chaque produit, le moment où son travail est considéré comme achevé, ce qui fixe l’obligation de maasser et interdit d’en manger même de manière occasionnelle sans prélèvement. Pour les raisins secs, les caroubes et les produits semblables, l’achèvement est la mise en tas. Pour les oignons, c’est le fait de les arranger ou de les lier comme on le fait pour les conserver ou les vendre ; s’il ne le fait pas, c’est la constitution du tas qui marque l’achèvement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Maasrot 1:6",
+                "explication": "Le Rambam explique que chaque espèce a son mode ordinaire de finition après la récolte : les céréales par le miroua‘h, c’est-à-dire l’aplanissement et la mise en forme finale du tas après le vannage ; les légumineuses par le criblage, qui les nettoie et les prépare à l’usage. Tant que cette étape n’a pas eu lieu, la consommation occasionnelle peut encore être permise ; une fois l’étape accomplie, le produit est fixé pour le maasser."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Maasrot 1:6",
+                "explication": "Il précise la différence entre les formulations de la Michna : pour la céréale, si l’on ne fait pas l’aplanissement habituel, le fait de constituer le tas tient lieu d’achèvement ; pour les légumineuses, si l’on ne les crible pas, l’étape du miroua‘h devient déterminante. La Michna suit donc les usages agricoles propres à chaque produit, et non un critère unique pour toutes les récoltes."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Maasrot 1:6",
+                "explication": "Il explique la fin de la Michna : même après l’achèvement du tas, on peut encore manger de ce qui n’est pas réellement intégré au tas achevé, comme les morceaux brisés, ce qui reste sur les côtés, ou ce qui est mêlé à la paille. Ces éléments sont considérés comme des restes périphériques du travail et ne sont pas encore fixés de la même manière que le tas principal."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +214,32 @@
           "ref": "Mishnah Maasrot 1:7",
           "he": "הַיַּיִן, מִשֶּׁיְּקַפֶּה. אַף עַל פִּי שֶׁקִּפָּה, קוֹלֵט מִן הַגַּת הָעֶלְיוֹנָה וּמִן הַצִּנּוֹר, וְשׁוֹתֶה. הַשֶּׁמֶן, מִשֶּׁיֵּרֵד לָעוּקָה. אַף עַל פִּי שֶׁיָּרַד, נוֹטֵל מִן הֶעָקָל וּמִבֵּין הַמָּמָל וּמִבֵּין הַפַּצִּים, וְנוֹתֵן לַחֲמִטָּה וְלַתַּמְחוּי, אֲבָל לֹא יִתֵּן לַקְּדֵרָה וְלַלְּפָס כְּשֶׁהֵן רוֹתְחִין. רַבִּי יְהוּדָה אוֹמֵר, לַכֹּל הוּא נוֹתֵן, חוּץ מִדָּבָר שֶׁיֶּשׁ בּוֹ חֹמֶץ וְצִיר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le vin devient soumis au maasser dès qu’on en a écumé la surface. Même si on l’a écumé, on peut recueillir du vin de la cuve supérieure et du conduit, et le boire. L’huile devient soumise au maasser dès qu’elle descend dans la fosse. Même si elle y est descendue, on peut prendre de l’huile du pressoir, d’entre les claies, et d’entre les planches, et en mettre dans la ḥamita et dans le plat de service ; mais on n’en mettra pas dans la marmite ni dans la poêle lorsqu’elles sont bouillantes. Rabbi Yehouda dit : on peut en mettre dans tout, sauf dans une chose qui contient du vinaigre ou de la saumure.",
+          "etude_fr": {
+            "traduction_fr": "Le vin devient soumis au maasser dès qu’on en a écumé la surface. Même si on l’a écumé, on peut recueillir du vin de la cuve supérieure et du conduit, et le boire. L’huile devient soumise au maasser dès qu’elle descend dans la fosse. Même si elle y est descendue, on peut prendre de l’huile du pressoir, d’entre les claies, et d’entre les planches, et en mettre dans la ḥamita et dans le plat de service ; mais on n’en mettra pas dans la marmite ni dans la poêle lorsqu’elles sont bouillantes. Rabbi Yehouda dit : on peut en mettre dans tout, sauf dans une chose qui contient du vinaigre ou de la saumure.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 1:7",
+                "explication": "La Michna définit ici le moment où le vin et l’huile atteignent leur achèvement de préparation, ce qui les rend soumis au maasser et interdit d’en consommer de manière fixe avant le prélèvement. Pour le vin, cet achèvement est le moment où l’on écume la surface du vin dans la cuve. Toutefois, ce qui se trouve encore dans la cuve supérieure ou dans le conduit n’est pas considéré comme ayant atteint pleinement cet achèvement ; on peut donc en recueillir et le boire de façon provisoire. Pour l’huile, l’achèvement est lorsqu’elle descend dans la fosse de réception. Mais l’huile restée dans les parties du pressoir, entre les éléments de pression et les planches, garde le statut d’une prise provisoire possible."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 1:7",
+                "explication": "Le Rambam explique que la Michna parle du principe de gmar melakha, l’achèvement du travail agricole qui déclenche l’obligation de maasser. Tant que le produit n’a pas atteint son lieu ou son état final de collecte — pour le vin l’écumage, pour l’huile la descente dans la fosse — il demeure permis d’en consommer de manière occasionnelle. La permission de prendre du vin de la cuve supérieure et du conduit, ou de l’huile encore retenue dans les parties du pressoir, repose sur le fait que ces éléments n’ont pas encore été intégrés au produit achevé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 1:7",
+                "explication": "Le Tossafot Yom Tov précise que la distinction de la Michna ne porte pas seulement sur l’endroit d’où l’on prend le vin ou l’huile, mais aussi sur l’usage que l’on en fait. Mettre de l’huile dans un plat ou un récipient de service reste un usage comparable à une consommation provisoire ; en revanche, la mettre dans une marmite ou une poêle bouillante la fait participer à une préparation culinaire importante, assimilée à une consommation plus fixe. C’est pourquoi la Michna l’interdit selon le premier avis."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 1:7",
+                "explication": "Le Tiféret Israël éclaire l’opinion de Rabbi Yehouda : selon lui, même lorsqu’un récipient est chaud ou destiné à la cuisson, il reste permis d’y mettre cette huile tant qu’elle n’est pas placée dans une substance qui la transforme fortement, comme le vinaigre ou la saumure. Le vinaigre et la saumure ont un pouvoir de macération ou de transformation comparable à une préparation stable ; c’est pourquoi Rabbi Yehouda les exclut de sa permission."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +248,32 @@
           "ref": "Mishnah Maasrot 1:8",
           "he": "הָעִגּוּל, מִשֶּׁיַּחֲלִיקֶנּוּ. מַחֲלִיקִים בִּתְאֵנִים וּבַעֲנָבִים שֶׁל טֶבֶל. רַבִּי יְהוּדָה אוֹסֵר. הַמַּחֲלִיק בַּעֲנָבִים, לֹא הֻכְשָׁר. רַבִּי יְהוּדָה אוֹמֵר, הֻכְשָׁר. הַגְּרוֹגָרוֹת, מִשֶּׁיָּדוּשׁ. וּמְגוּרָה מִשֶּׁיְּעַגֵּל. הָיָה דָשׁ בֶּחָבִית וּמְעַגֵּל בַּמְּגוּרָה, נִשְׁבְּרָה הֶחָבִית וְנִפְתְּחָה הַמְּגוּרָה, לֹא יֹאכַל מֵהֶם עֲרָאי. רַבִּי יוֹסֵי מַתִּיר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le gâteau de figues, dès qu’on en a lissé la surface. On peut lisser avec des figues et avec des raisins de tével ; Rabbi Yehouda l’interdit. Celui qui lisse avec des raisins : cela n’a pas rendu le gâteau apte à contracter l’impureté. Rabbi Yehouda dit : cela l’a rendu apte. Les figues sèches, dès qu’on les a foulées. Et le grenier, dès qu’on en a arrondi la surface. S’il était en train de fouler dans un tonneau et d’arrondir dans le grenier, puis que le tonneau s’est brisé et que le grenier s’est ouvert, il ne pourra pas en manger de manière provisoire. Rabbi Yossé le permet.",
+          "etude_fr": {
+            "traduction_fr": "Le gâteau de figues, dès qu’on en a lissé la surface. On peut lisser avec des figues et avec des raisins de tével ; Rabbi Yehouda l’interdit. Celui qui lisse avec des raisins : cela n’a pas rendu le gâteau apte à contracter l’impureté. Rabbi Yehouda dit : cela l’a rendu apte. Les figues sèches, dès qu’on les a foulées. Et le grenier, dès qu’on en a arrondi la surface. S’il était en train de fouler dans un tonneau et d’arrondir dans le grenier, puis que le tonneau s’est brisé et que le grenier s’est ouvert, il ne pourra pas en manger de manière provisoire. Rabbi Yossé le permet.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 1:8",
+                "explication": "« Le gâteau » désigne un gâteau de figues sèches pressées en masse. Sa finition, qui le rend soumis au maasser au point d’interdire même une consommation provisoire, intervient quand on en lisse la surface. On avait l’usage de lisser ce gâteau avec des figues ou des raisins ; le premier Tanna permet même si ces fruits sont encore tével, car ils servent à l’opération de finition et ne sont pas consommés comme un aliment distinct. Rabbi Yehouda l’interdit, particulièrement en raison du jus des raisins, qu’il considère comme significatif."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 1:8",
+                "explication": "Le Rambam explique que toute cette Michna précise le moment appelé gmar melakha, l’achèvement de la préparation du produit, à partir duquel il est interdit d’en manger même provisoirement avant prélèvement des maasserot. Pour le gâteau de figues, c’est le lissage ; pour les figues sèches en vrac, c’est le foulage qui les tasse ; pour le contenu du grenier ou du dépôt, c’est le fait d’en arranger et d’en arrondir la surface."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 1:8",
+                "explication": "Le Tossafot Yom Tov souligne le lien entre les deux désaccords de Rabbi Yehouda. Selon le premier Tanna, lisser avec des raisins ne rend pas le gâteau apte à contracter l’impureté, car le liquide qui en sort n’est pas considéré ici comme un liquide voulu pour lui-même. Rabbi Yehouda, lui, estime que puisque l’on se sert volontairement des raisins pour lisser, le jus qui en sort est considéré comme agréé, et il rend donc le produit apte à l’impureté."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 1:8",
+                "explication": "Le Tiféret Israël explique le dernier cas : l’homme était engagé dans une opération qui constituait déjà l’achèvement de la préparation — fouler les figues dans le tonneau et arrondir celles du grenier. Même si le tonneau s’est brisé ou que le grenier s’est ouvert avant qu’il n’ait terminé comme il l’aurait voulu, le premier Tanna considère que le stade déterminant a déjà été atteint, et la consommation provisoire devient interdite. Rabbi Yossé permet, car selon lui l’accident montre que l’achèvement prévu n’a pas réellement été mené à son terme."
+              }
+            ]
+          }
         }
       ]
     },
@@ -100,8 +287,27 @@
           "ref": "Mishnah Maasrot 2:1",
           "he": "הָיָה עוֹבֵר בַּשּׁוּק וְאָמַר, טְלוּ לָכֶם תְּאֵנִים, אוֹכְלִין וּפְטוּרִין. לְפִיכָךְ אִם הִכְנִיסוּ לְבָתֵּיהֶם, מְתַקְּנִים וַדָּאי. טְלוּ וְהַכְנִיסוּ לְבָתֵּיכֶם, לֹא יֹאכְלוּ מֵהֶם עֲרַאי. לְפִיכָךְ אִם הִכְנִיסוּ לְבָתֵּיהֶם, אֵינָם מְתַקְּנִים אֶלָּא דְמָאי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’il passait au marché et dit : « Prenez pour vous des figues », ils en mangent et sont exempts. C’est pourquoi, s’ils les ont fait entrer dans leurs maisons, ils doivent en faire les prélèvements comme d’un produit certainement non prélevé. S’il dit : « Prenez et faites-les entrer dans vos maisons », ils n’en mangeront pas de façon provisoire. C’est pourquoi, s’ils les ont fait entrer dans leurs maisons, ils n’en font les prélèvements que comme du demaï.",
+          "etude_fr": {
+            "traduction_fr": "S’il passait au marché et dit : « Prenez pour vous des figues », ils en mangent et sont exempts. C’est pourquoi, s’ils les ont fait entrer dans leurs maisons, ils doivent en faire les prélèvements comme d’un produit certainement non prélevé. S’il dit : « Prenez et faites-les entrer dans vos maisons », ils n’en mangeront pas de façon provisoire. C’est pourquoi, s’ils les ont fait entrer dans leurs maisons, ils n’en font les prélèvements que comme du demaï.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:1",
+                "explication": "Lorsque le propriétaire dit simplement : « Prenez pour vous des figues », son intention est qu’ils les mangent immédiatement au marché. Une consommation provisoire d’un produit qui n’a pas encore été fixé pour le maasser est permise ; ils sont donc exempts tant qu’ils mangent ainsi. Mais s’ils les introduisent ensuite chez eux, l’entrée dans la maison fixe l’obligation : ils doivent alors prélever comme sur un produit certainement non prélevé. En revanche, lorsqu’il dit : « Prenez et faites-les entrer dans vos maisons », il leur donne dès le départ pour une consommation domestique ; ils ne peuvent donc plus en manger de façon provisoire. Toutefois, une fois les fruits introduits chez eux, ils ne prélèvent que comme demaï, car on peut supposer que le propriétaire, sachant qu’ils allaient les faire entrer dans leurs maisons, a peut-être déjà prélevé afin de ne pas leur faire commettre une faute."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:1",
+                "explication": "Le Rambam explique que la maison est l’un des éléments qui rendent la récolte définitivement soumise aux prélèvements. Tant que les figues sont destinées à être mangées provisoirement au marché, elles ne sont pas encore fixées pour l’obligation. Mais si l’intention exprimée est de les faire entrer dans la maison, cette destination leur donne un statut plus strict : on ne peut même pas en manger provisoirement. La distinction finale entre prélèvement certain et demaï dépend de la présomption concernant le propriétaire : dans le premier cas, il n’avait pas prévu une consommation fixée par la maison ; dans le second, il savait qu’elles seraient introduites à la maison, et il est donc possible qu’il ait déjà procédé aux prélèvements."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:1",
+                "explication": "Le Tossafot Yom Tov souligne la logique du mot « c’est pourquoi » dans les deux clauses. Dans le premier cas, puisqu’ils ont reçu les figues pour les manger au marché, leur permission initiale n’était qu’une permission de consommation provisoire ; si eux-mêmes changent la destination et les font entrer à la maison, ils doivent prélever avec certitude. Dans le second cas, puisque l’ordre initial était de les introduire à la maison, la consommation provisoire devient interdite dès la remise des fruits ; mais pour les prélèvements effectifs, on tient compte du fait que le donateur a pu les avoir déjà régularisés, d’où le statut de demaï."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -110,8 +316,32 @@
           "ref": "Mishnah Maasrot 2:2",
           "he": "הָיוּ יוֹשְׁבִין בַּשַּׁעַר אוֹ בַחֲנוּת, וְאָמַר, טְלוּ לָכֶם תְּאֵנִים, אוֹכְלִין וּפְטוּרִין, וּבַעַל הַשַּׁעַר וּבַעַל הַחֲנוּת חַיָּבִין. רַבִּי יְהוּדָה פּוֹטֵר, עַד שֶׁיַּחֲזִיר אֶת פָּנָיו, אוֹ עַד שֶׁיְּשַׁנֶּה מְקוֹם יְשִׁיבָתוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’ils étaient assis à la porte ou dans la boutique, et qu’il leur a dit : « Prenez pour vous des figues », ils peuvent en manger et ils sont exempts ; mais le maître de la porte et le maître de la boutique sont tenus. Rabbi Yehouda dispense, jusqu’à ce qu’il détourne son visage ou jusqu’à ce qu’il change le lieu où il est assis.",
+          "etude_fr": {
+            "traduction_fr": "S’ils étaient assis à la porte ou dans la boutique, et qu’il leur a dit : « Prenez pour vous des figues », ils peuvent en manger et ils sont exempts ; mais le maître de la porte et le maître de la boutique sont tenus. Rabbi Yehouda dispense, jusqu’à ce qu’il détourne son visage ou jusqu’à ce qu’il change le lieu où il est assis.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 2:2",
+                "explication": "La Michna parle de figues qui n’ont pas encore été fixées définitivement à l’obligation de maasser, de sorte qu’une consommation occasionnelle peut encore être permise. Les personnes assises à la porte ou dans la boutique, à qui l’on offre des figues, ne sont que des passants ou des invités : leur consommation reste occasionnelle, et elles sont donc exemptes. En revanche, le maître de la porte ou le maître de la boutique, puisqu’il se trouve dans son lieu fixe et y mange de manière installée, est considéré comme ayant donné à cette consommation un caractère fixe, ce qui l’oblige au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 2:2",
+                "explication": "Le Rambam explique que certains lieux ou certaines situations donnent à la consommation le statut de repas fixe, et non de simple grignotage provisoire. Pour ceux qui ne sont pas maîtres du lieu, le fait de recevoir des figues et d’en manger là-bas ne fixe pas l’obligation. Mais pour le propriétaire de l’endroit, la porte ou la boutique constitue son cadre habituel ; sa présence y donne à la consommation une importance suffisante pour rendre les fruits soumis au maasser avant qu’il puisse en manger."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 2:2",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « le maître de la porte » désigne celui pour qui cet emplacement est considéré comme son lieu, de même que « le maître de la boutique » est celui qui y demeure et y exerce son activité. La différence entre eux et les autres personnes assises là n’est donc pas la nature des figues, mais le rapport au lieu : pour les autres, il s’agit d’un passage ; pour le maître du lieu, c’est une assise fixe."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 2:2",
+                "explication": "Le Tiféret Israël éclaire l’opinion de Rabbi Yehouda : même le maître de la porte ou de la boutique n’est pas immédiatement considéré comme ayant fixé sa consommation tant qu’il reste dans la même attitude. Il ne devient obligé que lorsqu’il manifeste une installation nouvelle, par exemple en détournant son visage vers un autre côté pour manger à part, ou en changeant l’endroit où il est assis. Ces gestes montrent qu’il ne s’agit plus d’une prise fortuite, mais d’une consommation organisée."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -120,8 +350,27 @@
           "ref": "Mishnah Maasrot 2:3",
           "he": "הַמַּעֲלֶה פֵרוֹת מִן הַגָּלִיל לִיהוּדָה, אוֹ עוֹלֶה לִירוּשָׁלַיִם, אוֹכֵל מֵהֶם עַד שֶׁהוּא מַגִּיעַ לְמָקוֹם שֶׁהוּא הוֹלֵךְ, וְכֵן בִּיהוּדָה. רַבִּי מֵאִיר אוֹמֵר, עַד שֶׁהוּא מַגִּיעַ לִמְקוֹם הַשְּׁבִיתָה. וְהָרוֹכְלִין הַמְּחַזְּרִין בָּעֲיָרוֹת, אוֹכְלִים עַד שֶׁמַּגִּיעִים לִמְקוֹם הַלִּינָה. רַבִּי יְהוּדָה אוֹמֵר, הַבַּיִת הָרִאשׁוֹן הוּא בֵיתוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui fait monter des fruits de Galilée en Judée, ou qui monte à Jérusalem, peut en manger jusqu’à ce qu’il arrive à l’endroit où il se rend ; et il en va de même en Judée. Rabbi Méïr dit : jusqu’à ce qu’il arrive à l’endroit de son arrêt. Et les colporteurs qui circulent dans les villes peuvent manger jusqu’à ce qu’ils arrivent à l’endroit où ils passeront la nuit. Rabbi Yehouda dit : la première maison est sa maison.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui fait monter des fruits de Galilée en Judée, ou qui monte à Jérusalem, peut en manger jusqu’à ce qu’il arrive à l’endroit où il se rend ; et il en va de même en Judée. Rabbi Méïr dit : jusqu’à ce qu’il arrive à l’endroit de son arrêt. Et les colporteurs qui circulent dans les villes peuvent manger jusqu’à ce qu’ils arrivent à l’endroit où ils passeront la nuit. Rabbi Yehouda dit : la première maison est sa maison.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:3",
+                "explication": "La Michna traite de fruits dont la consommation occasionnelle reste permise tant qu’ils n’ont pas atteint le lieu qui les rend fixés pour le maasser. Celui qui transporte des fruits d’une région à une autre peut en manger en chemin de manière provisoire, jusqu’à son lieu de destination. « Et il en va de même en Judée » signifie que la même règle s’applique dans le sens inverse ou dans un cas analogue de transport depuis la Judée. Rabbi Méïr considère que même avant la destination finale, l’endroit prévu pour l’arrêt — notamment l’arrêt de Chabbat — donne déjà aux fruits un statut fixé. Pour les colporteurs, qui n’ont pas toujours une destination unique, le lieu déterminant est celui où ils comptent passer la nuit. Selon Rabbi Yehouda, dès la première maison où ils entrent, celle-ci est considérée comme leur maison pour cette halakha."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:3",
+                "explication": "Le Rambam explique que le facteur déterminant est l’intention de l’homme quant au lieu où les fruits doivent parvenir. Tant qu’ils sont en déplacement vers ce lieu, leur consommation reste une consommation provisoire et n’est pas encore interdite avant prélèvement du maasser. Mais lorsqu’ils atteignent l’endroit fixé par l’intention du propriétaire — destination, lieu de repos, ou lieu de nuitée selon les opinions — ils sont considérés comme arrivés à leur place, ce qui leur confère un caractère de consommation établie."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:3",
+                "explication": "Le Tossafot Yom Tov précise le langage de la Michna : l’expression « jusqu’à ce qu’il arrive à l’endroit où il se rend » ne désigne pas chaque halte du voyage, mais le lieu qu’il a véritablement fixé comme destination. C’est pourquoi la Michna distingue ensuite l’opinion de Rabbi Méïr, pour qui l’endroit de l’arrêt possède déjà une importance suffisante pour fixer les fruits, et le cas des colporteurs, dont l’activité itinérante exige un critère particulier : le lieu de la nuitée."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -130,8 +379,32 @@
           "ref": "Mishnah Maasrot 2:4",
           "he": "פֵּרוֹת שֶׁתְּרָמָן עַד שֶׁלֹּא נִגְמְרָה מְלַאכְתָּן, רַבִּי אֱלִיעֶזֶר אוֹסֵר מִלֶּאֱכֹל מֵהֶם עֲרַאי. וַחֲכָמִים מַתִּירִין, חוּץ מִכַּלְכָּלַת תְּאֵנִים. כַּלְכָּלַת תְּאֵנִים שֶׁתְּרָמָהּ, רַבִּי שִׁמְעוֹן מַתִּיר, וַחֲכָמִים אוֹסְרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des fruits dont on a prélevé la terouma avant que leur travail ne soit achevé : Rabbi Éliézer interdit d’en manger de manière provisoire, tandis que les Sages le permettent, sauf s’il s’agit d’un panier de figues. Un panier de figues dont on a prélevé la terouma : Rabbi Chimon permet, et les Sages interdisent.",
+          "etude_fr": {
+            "traduction_fr": "Des fruits dont on a prélevé la terouma avant que leur travail ne soit achevé : Rabbi Éliézer interdit d’en manger de manière provisoire, tandis que les Sages le permettent, sauf s’il s’agit d’un panier de figues. Un panier de figues dont on a prélevé la terouma : Rabbi Chimon permet, et les Sages interdisent.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 2:4",
+                "explication": "Rabbi Éliézer considère que le prélèvement de la terouma rend les fruits fixés pour l’obligation de maasser, même si leur préparation n’est pas encore achevée ; dès lors, on ne peut plus en manger même provisoirement sans prélever les maasserot. Les Sages, eux, estiment que la terouma ne fixe pour le maasser que des produits dont le travail est achevé. Ils font toutefois exception pour un panier de figues, car sa mise en panier constitue une forme d’achèvement suffisante pour que le prélèvement de la terouma les fixe."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 2:4",
+                "explication": "Le Rambam explique que la question porte sur des fruits encore au stade où une consommation provisoire serait normalement permise, puisqu’ils n’ont pas atteint leur achèvement. Rabbi Éliézer enseigne que l’acte de prélever la terouma leur donne déjà un statut de produit soumis entièrement aux prélèvements. Les Sages ne l’admettent pas pour la plupart des fruits, mais reconnaissent un cas particulier pour les figues placées dans un panier, où l’acte de rassemblement et le prélèvement créent une fixation plus forte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 2:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « avant que leur travail ne soit achevé » signifie que, sans le prélèvement de la terouma, ces fruits resteraient permis à la consommation provisoire. L’enjeu de la Michna est donc de savoir si la terouma, prélevée prématurément, a malgré tout le pouvoir de rendre interdite la consommation provisoire tant que les maasserot n’ont pas été prélevés. Il précise aussi que le cas du panier de figues est mentionné séparément afin d’introduire l’opinion de Rabbi Chimon, qui maintient la permission même dans ce cas."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 2:4",
+                "explication": "Le Tiféret Israël explique que « manger de manière provisoire » désigne une consommation occasionnelle, non établie, qui est habituellement permise avant l’achèvement du travail des produits. Selon les Sages, tant que cet achèvement n’existe pas, le prélèvement de terouma ne suffit pas à interdire cette consommation. Mais pour les figues déjà rassemblées dans un panier, les Sages considèrent que l’ensemble a pris l’importance d’une préparation achevée ; Rabbi Chimon, en revanche, ne voit pas dans ce cas une fixation suffisante."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -140,8 +413,32 @@
           "ref": "Mishnah Maasrot 2:5",
           "he": "הָאוֹמֵר לַחֲבֵרוֹ, הֵילָךְ אִסָּר זֶה וְתֶן לִי בוֹ חָמֵשׁ תְּאֵנִים, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר, אוֹכֵל אַחַת אַחַת, פָּטוּר, וְאִם צֵרַף, חַיָּב. אָמַר רַבִּי יְהוּדָה, מַעֲשֶׂה בְגִנַּת וְרָדִים שֶׁהָיְתָה בִירוּשָׁלַיִם, וְהָיוּ תְאֵנִים נִמְכָּרוֹת מִשָּׁלֹשׁ וּמֵאַרְבַּע בְּאִסָּר, וְלֹא הֻפְרַשׁ מִמֶּנָּה תְרוּמָה וּמַעֲשֵׂר מֵעוֹלָם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui dit à son prochain : « Voici cet issar ; donne-moi pour cela cinq figues », ne pourra pas en manger avant d’avoir prélevé le maasser : ce sont les paroles de Rabbi Méïr. Rabbi Yehouda dit : s’il les mange une à une, il est dispensé ; mais s’il les a réunies, il est tenu de prélever. Rabbi Yehouda dit : il y eut un fait dans le jardin des roses qui se trouvait à Jérusalem : des figues s’y vendaient, trois ou quatre pour un issar, et jamais on n’en a prélevé ni terouma ni maasser.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui dit à son prochain : « Voici cet issar ; donne-moi pour cela cinq figues », ne pourra pas en manger avant d’avoir prélevé le maasser : ce sont les paroles de Rabbi Méïr. Rabbi Yehouda dit : s’il les mange une à une, il est dispensé ; mais s’il les a réunies, il est tenu de prélever. Rabbi Yehouda dit : il y eut un fait dans le jardin des roses qui se trouvait à Jérusalem : des figues s’y vendaient, trois ou quatre pour un issar, et jamais on n’en a prélevé ni terouma ni maasser.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:5",
+                "explication": "Rabbi Méïr considère que l’achat fixe les fruits pour l’obligation du maasser : dès lors qu’il a payé un issar pour cinq figues, il ne peut pas les manger, même de manière provisoire, avant prélèvement. Rabbi Yehouda distingue : si l’acheteur mange les figues une par une, cela reste une consommation provisoire et il est dispensé ; s’il les réunit ensemble, cela devient une consommation régulière, fixée, et il devient tenu de prélever. Le fait rapporté du jardin des roses vient appuyer l’opinion de Rabbi Yehouda : on y achetait de petites quantités de figues, trois ou quatre pour un issar, et l’on n’en prélevait pas, car on les mangeait une à une, de manière provisoire."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:5",
+                "explication": "Le Rambam explique que cette Michna traite du principe selon lequel une vente peut rendre les fruits soumis au maasser, même avant leur entrée dans la maison. Toutefois, selon Rabbi Yehouda, la vente ne fixe pas nécessairement lorsqu’il s’agit d’une consommation immédiate et dispersée : manger chaque figue séparément demeure une consommation occasionnelle. En revanche, lorsqu’il les rassemble, il manifeste une consommation organisée, et l’obligation du maasser s’applique. Le Rambam précise que la halakha suit Rabbi Yehouda."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:5",
+                "explication": "Le Tossafot Yom Tov souligne que le désaccord porte sur la force de l’achat comme facteur de fixation pour le maasser. Pour Rabbi Méïr, l’acte d’achat suffit, même pour quelques figues. Pour Rabbi Yehouda, l’achat seul ne suffit pas lorsque la manière de manger reste provisoire ; seule l’action de les joindre ensemble leur donne le statut d’une prise alimentaire fixe. Il explique également que l’exemple du jardin des roses montre une pratique reconnue à Jérusalem, où l’on ne prélevait pas sur de telles figues vendues en très petites quantités."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 2:5",
+                "explication": "Le Tiféret Israël précise que l’issar était une petite monnaie, et que le cas concerne donc un achat minime destiné à une consommation immédiate. L’expression « s’il les a réunies » signifie qu’il les a rassemblées dans sa main ou dans son vêtement afin de les manger comme un ensemble, ce qui transforme l’acte en consommation fixe. Le récit du jardin des roses illustre que, tant que les figues étaient prises et mangées individuellement, on les traitait comme non fixées pour le maasser."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -150,8 +447,27 @@
           "ref": "Mishnah Maasrot 2:6",
           "he": "הָאוֹמֵר לַחֲבֵרוֹ, הֵילָךְ אִסָּר זֶה בְּעֶשֶׂר תְּאֵנִים שֶׁאָבֹר לִי, בּוֹרֵר וְאוֹכֵל. בְּאֶשְׁכּוֹל שֶׁאָבֹר לִי, מְגַרְגֵּר וְאוֹכֵל. בְּרִמּוֹן שֶׁאָבֹר לִי, פּוֹרֵט וְאוֹכֵל. בַּאֲבַטִּיחַ שֶׁאָבֹר לִי, סוֹפֵת וְאוֹכֵל. אֲבָל אִם אָמַר לוֹ בְּעֶשְׂרִים תְּאֵנִים אֵלוּ, בִּשְׁנֵי אֶשְׁכּוֹלוֹת אֵלוּ, בִּשְׁנֵי רִמּוֹנִים אֵלוּ, בִּשְׁנֵי אֲבַטִּיחִים אֵלוּ, אוֹכֵל כְּדַרְכּוֹ וּפָטוּר, מִפְּנֵי שֶׁקָּנָה בִמְחֻבָּר לַקַּרְקָע:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui dit à son prochain : « Voici pour toi cet issar pour dix figues que je choisirai pour moi », il choisit et mange. « Pour une grappe que je choisirai pour moi », il détache les grains et mange. « Pour une grenade que je choisirai pour moi », il en détache les grains et mange. « Pour une pastèque que je choisirai pour moi », il en prélève des morceaux et mange. Mais s’il lui a dit : « Pour ces vingt figues-ci », « pour ces deux grappes-ci », « pour ces deux grenades-ci », « pour ces deux pastèques-ci », il mange de la manière habituelle et il est exempt, parce qu’il a acquis alors que les fruits étaient attachés au sol.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui dit à son prochain : « Voici pour toi cet issar pour dix figues que je choisirai pour moi », il choisit et mange. « Pour une grappe que je choisirai pour moi », il détache les grains et mange. « Pour une grenade que je choisirai pour moi », il en détache les grains et mange. « Pour une pastèque que je choisirai pour moi », il en prélève des morceaux et mange. Mais s’il lui a dit : « Pour ces vingt figues-ci », « pour ces deux grappes-ci », « pour ces deux grenades-ci », « pour ces deux pastèques-ci », il mange de la manière habituelle et il est exempt, parce qu’il a acquis alors que les fruits étaient attachés au sol.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:6",
+                "explication": "Dans le premier cas, l’acheteur n’a pas désigné des fruits précis : il a seulement payé pour une quantité qu’il choisira ensuite. Lorsqu’il les cueille, l’achat s’applique à des fruits détachés, et un achat de fruits détachés peut rendre la consommation fixe au regard du maasser. C’est pourquoi il ne peut manger que de façon occasionnelle : une figue après l’autre, quelques grains de raisin, des grains de grenade ou des morceaux de pastèque, sans en faire une consommation régulière."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:6",
+                "explication": "Le Rambam explique que la différence de la Michna dépend du moment où l’acquisition est considérée comme faite. Lorsque les fruits ne sont pas déterminés, ils ne deviennent réellement achetés qu’au moment où l’acheteur les sépare ou les choisit ; l’achat porte donc sur du détaché, ce qui impose des limites à la consommation avant prélèvement du maasser. En revanche, lorsque le vendeur dit « ces fruits-ci », les fruits sont déjà déterminés alors qu’ils sont encore attachés au sol ; un achat réalisé sur des fruits attachés ne fixe pas encore l’obligation de maasser pour interdire la consommation occasionnelle."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:6",
+                "explication": "Le Tossafot Yom Tov souligne la précision du langage de la Michna : dans le premier cas elle emploie des verbes indiquant une consommation partielle et dispersée — choisir, détacher des grains, égrener, prélever des morceaux — car seule une consommation occasionnelle est permise. Dans le second cas, elle dit « il mange de la manière habituelle », car l’acquisition faite sur des fruits encore attachés n’a pas le pouvoir de fixer l’obligation de maasser comme le ferait un achat de fruits déjà détachés."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -160,8 +476,27 @@
           "ref": "Mishnah Maasrot 2:7",
           "he": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל לִקְצוֹת עִמּוֹ בִּתְאֵנִים, אָמַר לוֹ עַל מְנָת שֶׁאוֹכַל תְּאֵנִים, אוֹכֵל וּפָטוּר. עַל מְנָת שֶׁאוֹכַל אֲנִי וּבְנֵי בֵיתִי, אוֹ שֶׁיֹּאכַל בְּנִי בִּשְׂכָרִי, הוּא אוֹכֵל וּפָטוּר, וּבְנוֹ אוֹכֵל וְחַיָּב. עַל מְנָת שֶׁאוֹכַל בִּשְׁעַת הַקְּצִיעָה וּלְאַחַר הַקְּצִיעָה, בִּשְׁעַת הַקְּצִיעָה אוֹכֵל וּפָטוּר, וּלְאַחַר הַקְּצִיעָה אוֹכֵל וְחַיָּב, שֶׁאֵינוֹ אוֹכֵל מִן הַתּוֹרָה. זֶה הַכְּלָל, הָאוֹכֵל מִן הַתּוֹרָה, פָּטוּר, וְשֶׁאֵינוֹ אוֹכֵל מִן הַתּוֹרָה, חַיָּב:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui engage un ouvrier pour couper avec lui des figues, si l’ouvrier lui a dit : « À condition que je mange des figues », il en mange et il est exempt. S’il a dit : « À condition que moi et les gens de ma maison en mangions », ou : « Que mon fils en mange en contrepartie de mon salaire », lui-même mange et il est exempt, mais son fils mange et il est tenu. S’il a dit : « À condition que je mange au moment de la coupe et après la coupe », au moment de la coupe il mange et il est exempt ; après la coupe, il mange et il est tenu, car il ne mange pas alors en vertu de la Torah. Voici la règle : celui qui mange en vertu de la Torah est exempt ; et celui qui ne mange pas en vertu de la Torah est tenu.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui engage un ouvrier pour couper avec lui des figues, si l’ouvrier lui a dit : « À condition que je mange des figues », il en mange et il est exempt. S’il a dit : « À condition que moi et les gens de ma maison en mangions », ou : « Que mon fils en mange en contrepartie de mon salaire », lui-même mange et il est exempt, mais son fils mange et il est tenu. S’il a dit : « À condition que je mange au moment de la coupe et après la coupe », au moment de la coupe il mange et il est exempt ; après la coupe, il mange et il est tenu, car il ne mange pas alors en vertu de la Torah. Voici la règle : celui qui mange en vertu de la Torah est exempt ; et celui qui ne mange pas en vertu de la Torah est tenu.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:7",
+                "explication": "La Michna traite du droit de l’ouvrier de manger du produit sur lequel il travaille, droit enseigné par la Torah. Lorsqu’il travaille à la coupe des figues, ce qu’il mange pendant son travail n’est pas considéré comme un achat ni comme une consommation fixe qui imposerait le maasser ; c’est une consommation permise par la Torah, et il est donc exempt. En revanche, son fils ou les membres de sa maison ne mangent pas en vertu de ce droit de la Torah : s’ils mangent parce que cela a été stipulé dans le salaire, leur consommation a le statut d’un avantage salarial et rend les figues soumises au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:7",
+                "explication": "Le Rambam explique le principe général : l’ouvrier qui mange pendant l’exécution du travail auquel il est affecté mange par droit légal de la Torah, et cette consommation reste une consommation occasionnelle, non imposable au maasser. Mais toute consommation qui ne découle pas directement de ce droit — par exemple celle du fils, ou celle de l’ouvrier après la fin de la coupe — résulte d’une condition contractuelle et est assimilée à un paiement ; elle devient donc une consommation obligeant à prélever le maasser."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:7",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la formulation : même lorsque l’ouvrier a posé comme condition de manger, s’il mange au moment même de la coupe, il ne mange pas à cause de sa condition mais parce que la Torah lui en donne le droit. C’est pourquoi il est exempt. En revanche, la condition n’ajoute un droit effectif que là où la Torah ne lui en donne pas, comme après la coupe ou pour son fils ; dans ces cas, la consommation est liée au salaire et entraîne l’obligation du maasser."
+              }
+            ]
+          }
         },
         {
           "id": "2:8",
@@ -170,8 +505,32 @@
           "ref": "Mishnah Maasrot 2:8",
           "he": "הָיָה עוֹשֶׂה בִלְבָסִים, לֹא יֹאכַל בִּבְנוֹת שֶׁבַע. בִּבְנוֹת שֶׁבַע, לֹא יֹאכַל בִּלְבָסִים. אֲבָל מוֹנֵעַ הוּא אֶת עַצְמוֹ עַד שֶׁמַּגִּיעַ לִמְקוֹם הַיָּפוֹת וְאוֹכֵל. הַמַּחֲלִיף עִם חֲבֵרוֹ, זֶה לֶאֱכֹל וְזֶה לֶאֱכֹל, זֶה לִקְצוֹת וְזֶה לִקְצוֹת, זֶה לֶאֱכֹל וְזֶה לִקְצוֹת, חַיָּב. רַבִּי יְהוּדָה אוֹמֵר, הַמַּחֲלִיף לֶאֱכֹל, חַיָּב, וְלִקְצוֹת, פָּטוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’il travaillait sur des lévasim, il ne mangera pas des benot shéva ; s’il travaillait sur des benot shéva, il ne mangera pas des lévasim. Mais il peut se retenir jusqu’à ce qu’il arrive à l’endroit où se trouvent les beaux fruits, et manger. Celui qui échange avec son prochain — celui-ci pour manger et celui-là pour manger, celui-ci pour mettre à sécher et celui-là pour mettre à sécher, celui-ci pour manger et celui-là pour mettre à sécher — est tenu de prélever. Rabbi Yehouda dit : celui qui échange pour manger est tenu de prélever ; mais pour mettre à sécher, il est exempt.",
+          "etude_fr": {
+            "traduction_fr": "S’il travaillait sur des lévasim, il ne mangera pas des benot shéva ; s’il travaillait sur des benot shéva, il ne mangera pas des lévasim. Mais il peut se retenir jusqu’à ce qu’il arrive à l’endroit où se trouvent les beaux fruits, et manger. Celui qui échange avec son prochain — celui-ci pour manger et celui-là pour manger, celui-ci pour mettre à sécher et celui-là pour mettre à sécher, celui-ci pour manger et celui-là pour mettre à sécher — est tenu de prélever. Rabbi Yehouda dit : celui qui échange pour manger est tenu de prélever ; mais pour mettre à sécher, il est exempt.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 2:8",
+                "explication": "Les lévasim et les benot shéva sont deux sortes de figues. L’ouvrier n’a le droit de manger, selon le droit de l’ouvrier travaillant aux fruits, que de l’espèce sur laquelle il travaille ; il ne peut donc pas travailler sur une sorte et manger d’une autre. Toutefois, il peut attendre d’arriver à un endroit de l’arbre ou du champ où les fruits sont meilleurs, et manger là-bas, car il mange toujours de ce à quoi son travail se rapporte. Concernant l’échange, dès lors que les fruits passent d’une personne à une autre par voie d’échange, cela est considéré comme une forme de transaction qui fixe les fruits pour le maasser, et il devient interdit d’en manger en état de tével."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 2:8",
+                "explication": "Le Rambam explique que la Michna traite de fruits qui n’ont pas encore été fixés définitivement pour le maasser. Un ouvrier peut manger provisoirement pendant son travail, mais seulement dans les limites de ce que la Torah lui permet : de l’objet même de son travail. En revanche, l’échange entre deux personnes donne aux fruits le statut d’une acquisition réciproque, comparable à une vente ; or la vente fait partie des actes qui rendent les produits soumis immédiatement au maasser. C’est pourquoi, selon le premier avis, tous les cas d’échange mentionnés rendent les fruits obligés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 2:8",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la Michna : même lorsque l’ouvrier choisit d’attendre les fruits les plus beaux, cela n’est pas considéré comme prendre d’une autre catégorie interdite, car il ne mange pas hors du cadre de son travail ; il ne fait que différer sa consommation jusqu’à un meilleur endroit. Il explique aussi que l’expression “mettre à sécher” renvoie à la préparation des figues en figues sèches, et la discussion porte sur la question de savoir si un échange destiné à une telle préparation est déjà considéré comme une consommation ou une transaction qui fixe les fruits pour le maasser."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 2:8",
+                "explication": "Le Tiféret Israël explique que Rabbi Yehouda distingue l’échange fait pour manger immédiatement de l’échange fait pour sécher les fruits. Quand l’échange est fait pour manger, il ressemble pleinement à une vente destinée à la consommation et fixe donc les fruits pour le maasser. Mais lorsqu’il est fait pour les sécher, Rabbi Yehouda considère que l’usage final n’est pas encore arrivé : les fruits doivent encore subir une préparation, et tant que cette préparation n’est pas achevée, ils ne sont pas fixés par cet échange selon son avis."
+              }
+            ]
+          }
         }
       ]
     },
@@ -185,8 +544,27 @@
           "ref": "Mishnah Maasrot 3:1",
           "he": "הַמַּעֲבִיר תְּאֵנִים בַּחֲצֵרוֹ לִקְצוֹת, בָּנָיו וּבְנֵי בֵיתוֹ אוֹכְלִין וּפְטוּרִין. הַפּוֹעֲלִים שֶׁעִמּוֹ, בִּזְמַן שֶׁאֵין לָהֶם עָלָיו מְזוֹנוֹת, אוֹכְלִין וּפְטוּרִין. אֲבָל אִם יֶשׁ לָהֶם עָלָיו מְזוֹנוֹת, הֲרֵי אֵלּוּ לֹא יֹאכֵלוּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui fait passer des figues dans sa cour pour les mettre à sécher : ses fils et les gens de sa maison peuvent en manger et sont exempts. Les ouvriers qui sont avec lui, lorsqu’il n’est pas tenu de les nourrir, peuvent en manger et sont exempts. Mais s’il est tenu de les nourrir, ceux-là ne mangeront pas.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui fait passer des figues dans sa cour pour les mettre à sécher : ses fils et les gens de sa maison peuvent en manger et sont exempts. Les ouvriers qui sont avec lui, lorsqu’il n’est pas tenu de les nourrir, peuvent en manger et sont exempts. Mais s’il est tenu de les nourrir, ceux-là ne mangeront pas.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 3:1",
+                "explication": "Bien que l’entrée de produits dans une cour puisse normalement les rendre fixés pour l’obligation du maasser, ici les figues ne sont pas encore arrivées à leur achèvement de préparation, car il les transporte pour les mettre à sécher. C’est pourquoi les membres de sa maison peuvent en manger de manière provisoire et sont exempts. Les ouvriers aussi sont exempts lorsqu’ils n’ont pas droit à leur nourriture de la part du propriétaire : ce qu’ils mangent est alors une consommation occasionnelle, non fixée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 3:1",
+                "explication": "Le Rambam explique que la cour ne rend obligatoire le maasser que lorsque les fruits ont atteint leur état de préparation définitif. Ici, les figues sont destinées au séchage, et tant que ce processus n’est pas achevé, leur consommation occasionnelle reste permise sans prélèvement. En revanche, lorsque les ouvriers ont droit à des repas à la charge du propriétaire, ce qu’ils reçoivent est considéré comme faisant partie de leur rémunération alimentaire ; cela donne à leur consommation un caractère fixé, et ils ne doivent donc pas manger avant prélèvement."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 3:1",
+                "explication": "Le Tossafot Yom Tov précise que la différence entre les ouvriers dépend de leur droit à la nourriture. S’ils n’ont pas de créance alimentaire sur le propriétaire, leur prise de figues ressemble à une consommation ponctuelle, qui n’établit pas l’obligation. Mais s’ils ont droit à être nourris par lui, les figues qu’ils mangent remplissent cette obligation ; elles ne sont donc plus consommées comme un simple grignotage, mais comme un repas dû, ce qui interdit d’en manger avant le maasser."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -195,8 +573,32 @@
           "ref": "Mishnah Maasrot 3:2",
           "he": "הַמּוֹצִיא פּוֹעֲלָיו לַשָּׂדֶה, בִּזְמַן שֶׁאֵין לָהֶם עָלָיו מְזוֹנוֹת, אוֹכְלִין וּפְטוּרִין. וְאִם יֶשׁ לָהֶם עָלָיו מְזוֹנוֹת, אוֹכְלִין אַחַת אַחַת מִן הַתְּאֵנָה, אֲבָל לֹא מִן הַסַּל וְלֹא מִן הַקֻּפָּה וְלֹא מִן הַמֻּקְצֶה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui emmène ses ouvriers au champ : lorsqu’il n’a pas l’obligation de leur fournir leur nourriture, ils mangent et sont exempts. Mais s’il a l’obligation de leur fournir leur nourriture, ils mangent les figues une à une de l’arbre, mais non du panier, ni de la corbeille, ni de l’aire de séchage.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui emmène ses ouvriers au champ : lorsqu’il n’a pas l’obligation de leur fournir leur nourriture, ils mangent et sont exempts. Mais s’il a l’obligation de leur fournir leur nourriture, ils mangent les figues une à une de l’arbre, mais non du panier, ni de la corbeille, ni de l’aire de séchage.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 3:2",
+                "explication": "Lorsque le propriétaire n’est pas tenu de nourrir ses ouvriers, ce qu’ils mangent est considéré comme une consommation occasionnelle dans le champ, avant que le produit ne soit fixé pour le maasser ; ils sont donc exempts. En revanche, lorsqu’il est tenu de les nourrir, leur consommation a le statut d’une nourriture due dans le cadre de leur travail, et elle est plus proche d’une consommation fixe. C’est pourquoi ils ne peuvent manger que de manière occasionnelle, une figue après l’autre directement de l’arbre, mais non depuis des fruits déjà rassemblés dans un panier, une corbeille ou sur l’aire de séchage, car cela constitue une consommation plus établie."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 3:2",
+                "explication": "Le Rambam explique que l’obligation de prélever le maasser dépend du fait que les fruits aient été rendus “fixes” pour la consommation. Tant qu’on mange de façon provisoire, dans le champ, avant l’achèvement complet de la préparation des fruits, on est exempt. Mais lorsque les ouvriers reçoivent la nourriture comme une obligation pesant sur l’employeur, cela donne à leur repas un caractère plus déterminé ; ils ne peuvent donc manger que de manière clairement provisoire, en prenant une figue à la fois de l’arbre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 3:2",
+                "explication": "Le Tossafot Yom Tov précise la différence entre manger de l’arbre et manger du panier ou de la corbeille : les fruits dans un récipient ont déjà été rassemblés, ce qui leur donne un statut plus avancé dans le processus de préparation. Même si les ouvriers se trouvent encore au champ, prendre des fruits d’un récipient ressemble davantage à une consommation régulière, qui fixe les fruits pour le maasser."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 3:2",
+                "explication": "Le Tiféret Israël souligne que l’aire de séchage désigne l’endroit où l’on dépose les figues pour les faire sécher. Des figues qui s’y trouvent ne sont plus considérées comme des fruits pris simplement sur l’arbre au hasard ; elles ont déjà été mises à part et rassemblées pour leur traitement. C’est pourquoi les ouvriers ne peuvent pas en manger sans prélèvement lorsqu’ils sont nourris aux frais de l’employeur."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -205,8 +607,32 @@
           "ref": "Mishnah Maasrot 3:3",
           "he": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל לַעֲשׂוֹת בְּזֵיתִים, אָמַר לוֹ עַל מְנָת לֶאֱכֹל זֵיתִים, אוֹכֵל אֶחָד אֶחָד וּפָטוּר. וְאִם צֵרַף, חַיָּב. לְנַכֵּשׁ בִּבְצָלִים, אָמַר לוֹ עַל מְנָת לֶאֱכֹל יָרָק, מְקַרְטֵם עָלֶה עָלֶה וְאוֹכֵל. וְאִם צֵרַף, חַיָּב:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui engage un ouvrier pour travailler aux olives, et lui dit : « À condition que tu puisses manger des olives », celui-ci en mange une à une et il est exempt. Mais s’il en réunit plusieurs, il est tenu. S’il l’engage pour désherber parmi les oignons, et lui dit : « À condition que tu puisses manger du légume », il grignote feuille par feuille et mange. Mais s’il en réunit plusieurs, il est tenu.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui engage un ouvrier pour travailler aux olives, et lui dit : « À condition que tu puisses manger des olives », celui-ci en mange une à une et il est exempt. Mais s’il en réunit plusieurs, il est tenu. S’il l’engage pour désherber parmi les oignons, et lui dit : « À condition que tu puisses manger du légume », il grignote feuille par feuille et mange. Mais s’il en réunit plusieurs, il est tenu.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 3:3",
+                "explication": "Bartenoura explique que l’ouvrier dont parle la Michna ne mange pas ici en vertu du droit ordinaire de l’ouvrier prévu par la Torah, mais parce que l’employeur a posé une condition lui permettant de manger. Tant qu’il mange de manière occasionnelle, une olive après l’autre, cela n’est pas considéré comme une consommation fixe et il est exempt de prélèvements. En revanche, s’il réunit plusieurs olives ensemble, cela donne à sa consommation un caractère fixe, et il devient tenu de prélever les maasserot avant de manger."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 3:3",
+                "explication": "Le Rambam précise que le principe de cette Michna est la distinction entre une consommation occasionnelle, qui ne rend pas encore les fruits soumis à l’obligation immédiate de maasser, et une consommation organisée ou fixée. Lorsque l’ouvrier mange les olives une par une, il reste dans le cadre d’une consommation provisoire. Mais le fait de les rassembler constitue une forme de fixation du repas, et c’est pourquoi il devient obligé de prélever."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 3:3",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « à condition de manger » indique que le droit de manger provient de l’accord entre le propriétaire et l’ouvrier. La Michna enseigne que même dans ce cas, l’autorisation ne s’étend qu’à une consommation non fixe. Il explique aussi que, pour les oignons, l’ouvrier ne mange pas les bulbes eux-mêmes mais le vert, c’est pourquoi la Michna emploie le terme « légume » et parle de grignoter feuille par feuille."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 3:3",
+                "explication": "Le Tiféret Israël explique que « grignoter feuille par feuille » signifie détacher et manger de petites parties du feuillage des oignons au fur et à mesure, sans les rassembler. Cela reste une consommation passagère. Mais dès qu’il joint plusieurs feuilles ou plusieurs morceaux pour les manger ensemble, son acte ressemble à une préparation de repas, ce qui établit l’obligation de maasser."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -215,8 +641,32 @@
           "ref": "Mishnah Maasrot 3:4",
           "he": "מָצָא קְצִיצוֹת בַּדֶּרֶךְ, אֲפִלּוּ בְצַד שְׂדֵה קְצִיצוֹת, וְכֵן תְּאֵנָה שֶׁהִיא נוֹטָה עַל דֶּרֶךְ, וּמָצָא תַחְתֶּיהָ תְּאֵנִים, מֻתָּרוֹת מִשּׁוּם גָּזֵל וּפְטוּרוֹת מִן הַמַּעֲשְׂרוֹת. וּבְזֵיתִים וּבְחָרוּבִים, חַיָּבִים. מָצָא גְרוֹגָרוֹת, אִם דָּרְסוּ רוֹב בְּנֵי אָדָם, חַיָּב, וְאִם לָאו, פָּטוּר. מָצָא פִלְחֵי דְבֵלָה, חַיָּב, שֶׁיָּדוּעַ שֶׁהֵן מִדָּבָר גָּמוּר. וְהֶחָרוּבִין, עַד שֶׁלֹּא כְנָסָן לְרֹאשׁ הַגַּג, מוֹרִיד מֵהֶם לִבְהֵמָה, פָּטוּר, מִפְּנֵי שֶׁהוּא מַחֲזִיר אֶת הַמּוֹתָר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’il a trouvé des figues coupées sur le chemin, même à côté d’un champ de figues coupées ; de même, un figuier qui penche sur le chemin, et il a trouvé des figues sous lui : elles sont permises au regard du vol et exemptes des maasserot. Mais pour les olives et les caroubes, elles sont soumises à l’obligation. S’il a trouvé des figues sèches : si la majorité des gens les a déjà foulées, il est soumis à l’obligation ; sinon, il en est exempt. S’il a trouvé des quartiers de gâteau de figues, il est soumis à l’obligation, car il est évident qu’ils proviennent d’un produit achevé. Quant aux caroubes, tant qu’il ne les a pas rassemblées sur le haut du toit, s’il en fait descendre pour son animal, il est exempt, parce qu’il ramène le reste.",
+          "etude_fr": {
+            "traduction_fr": "S’il a trouvé des figues coupées sur le chemin, même à côté d’un champ de figues coupées ; de même, un figuier qui penche sur le chemin, et il a trouvé des figues sous lui : elles sont permises au regard du vol et exemptes des maasserot. Mais pour les olives et les caroubes, elles sont soumises à l’obligation. S’il a trouvé des figues sèches : si la majorité des gens les a déjà foulées, il est soumis à l’obligation ; sinon, il en est exempt. S’il a trouvé des quartiers de gâteau de figues, il est soumis à l’obligation, car il est évident qu’ils proviennent d’un produit achevé. Quant aux caroubes, tant qu’il ne les a pas rassemblées sur le haut du toit, s’il en fait descendre pour son animal, il est exempt, parce qu’il ramène le reste.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 3:4",
+                "explication": "Les « figues coupées » sont des figues destinées au séchage. Lorsqu’elles sont trouvées sur le chemin, même près d’un champ où l’on en fait sécher, le propriétaire y a renoncé, car elles se salissent et se détériorent sur la route ; elles sont donc permises et, étant considérées comme abandonnées, exemptes des maasserot. En revanche, pour les olives et les caroubes, le propriétaire n’y renonce pas de la même manière, car ils ne se perdent pas aisément ; ils restent donc dans le domaine de leur propriétaire et sont soumis à l’obligation."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 3:4",
+                "explication": "Le Rambam explique que l’exemption des maasserot tient ici au statut de hefker : ce qui a été abandonné par son propriétaire n’est pas soumis aux prélèvements. Les figues tombées ou trouvées sur la voie publique sont présumées abandonnées, tandis que les olives et les caroubes, plus résistants et plus précieux dans cet état, ne sont pas présumés abandonnés. Pour les figues sèches, tout dépend du stade du travail : si la plupart des gens les ont déjà foulées, leur préparation est considérée comme achevée, et l’obligation de maasser s’applique."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 3:4",
+                "explication": "Il précise que l’expression « si la majorité des gens les a déjà foulées » ne décrit pas seulement une habitude agricole, mais fixe le critère halakhique du stade d’achèvement. Quand, dans la pratique courante, ces figues sont déjà foulées et prêtes à être conservées, elles ont atteint leur gmar melakha, l’achèvement qui les rend astreintes aux maasserot. Les quartiers de gâteau de figues sont plus évidents encore : leur forme montre qu’ils proviennent d’une masse déjà travaillée et achevée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 3:4",
+                "explication": "Concernant les caroubes, il explique que leur achèvement se fait lorsqu’on les rassemble sur le toit pour les sécher ou les stocker. Avant ce rassemblement final, on peut en prendre pour nourrir son animal sans être tenu de prélever, à condition de remettre le surplus avec le reste du tas. Ce retour du surplus montre que l’on n’a pas procédé à une prise définitive d’un produit achevé, mais seulement à un usage provisoire avant la fin de la préparation."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -225,8 +675,32 @@
           "ref": "Mishnah Maasrot 3:5",
           "he": "אֵיזוֹ הִיא חָצֵר שֶׁהִיא חַיֶּבֶת בַּמַּעֲשְׂרוֹת, רַבִּי יִשְׁמָעֵאל אוֹמֵר, חָצֵר הַצּוֹרִית, שֶׁהַכֵּלִים נִשְׁמָרִים בְּתוֹכָהּ. רַבִּי עֲקִיבָא אוֹמֵר, כָּל שֶׁאֶחָד פּוֹתֵחַ וְאֶחָד נוֹעֵל, פְּטוּרָה. רַבִּי נְחֶמְיָה אוֹמֵר, כָּל שֶׁאֵין אָדָם בּוֹשׁ מִלֶּאֱכֹל בְּתוֹכָהּ, חַיֶּבֶת. רַבִּי יוֹסֵי אוֹמֵר, כָּל שֶׁנִּכְנָס לָהּ וְאֵין אוֹמֵר מָה אַתָּה מְבַקֵּשׁ, פְּטוּרָה. רַבִּי יְהוּדָה אוֹמֵר, שְׁנֵי חֲצֵרוֹת זוֹ לִפְנִים מִזּוֹ, הַפְּנִימִית חַיֶּבֶת, וְהַחִיצוֹנָה פְּטוּרָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Quelle est la cour qui rend obligatoire le maasser ? Rabbi Ichmaël dit : une cour tyrienne, où les objets sont gardés à l’intérieur. Rabbi Akiva dit : toute cour dont l’un ouvre et l’autre ferme est exemptée. Rabbi Ne‘hémia dit : toute cour dans laquelle un homme n’a pas honte de manger est assujettie. Rabbi Yossi dit : toute cour dans laquelle quelqu’un entre sans qu’on lui dise : « Que cherches-tu ? » est exemptée. Rabbi Yehouda dit : deux cours, l’une à l’intérieur de l’autre : la cour intérieure est assujettie, et la cour extérieure est exemptée.",
+          "etude_fr": {
+            "traduction_fr": "Quelle est la cour qui rend obligatoire le maasser ? Rabbi Ichmaël dit : une cour tyrienne, où les objets sont gardés à l’intérieur. Rabbi Akiva dit : toute cour dont l’un ouvre et l’autre ferme est exemptée. Rabbi Ne‘hémia dit : toute cour dans laquelle un homme n’a pas honte de manger est assujettie. Rabbi Yossi dit : toute cour dans laquelle quelqu’un entre sans qu’on lui dise : « Que cherches-tu ? » est exemptée. Rabbi Yehouda dit : deux cours, l’une à l’intérieur de l’autre : la cour intérieure est assujettie, et la cour extérieure est exemptée.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 3:5",
+                "explication": "La Michna définit quelle cour possède le statut de lieu fixe qui achève la préparation des fruits et les rend interdits à la consommation provisoire avant prélèvement du maasser. Selon Rabbi Ichmaël, il faut une cour protégée comme celles de Tyr, où les ustensiles peuvent être laissés en sécurité. Rabbi Akiva exige qu’elle ne soit pas une cour dont l’usage est partagé de manière désordonnée, au point que l’un l’ouvre et un autre la ferme : une telle cour n’est pas suffisamment gardée et elle est exemptée. Rabbi Ne‘hémia considère comme déterminant le caractère privé du lieu : si l’on n’a pas honte d’y manger, c’est une cour véritable et elle rend les fruits assujettis. Rabbi Yossi prend le critère inverse : si l’on peut y entrer sans être interrogé sur le motif de sa venue, elle n’est pas assez privée et elle est exemptée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 3:5",
+                "explication": "Le Rambam explique que l’entrée des fruits dans une cour qui est considérée comme gardée fixe leur statut pour le maasser. Les différents Tannaïm donnent des signes permettant d’évaluer si une cour est suffisamment protégée et assimilée au domaine de la maison. Une cour où les biens sont gardés, où l’accès n’est pas libre, ou qui possède une intimité réelle, est susceptible de rendre les produits définitivement soumis au maasser. À l’inverse, une cour ouverte au passage ou insuffisamment surveillée ne fixe pas les fruits pour l’obligation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 3:5",
+                "explication": "Le Tossafot Yom Tov souligne que les avis de la Michna ne décrivent pas simplement des exemples matériels, mais des critères halakhiques de fixation : garde des objets, contrôle de l’ouverture et de la fermeture, gêne de manger en public, et réaction face à un étranger qui entre. Tous ces critères visent à établir si la cour est assimilée à un domaine privé. La mention de deux cours l’une à l’intérieur de l’autre montre que la cour intérieure, plus protégée et moins accessible, fixe les fruits, tandis que l’extérieure, qui sert davantage de passage, ne les fixe pas."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 3:5",
+                "explication": "Le Tiféret Israël précise que l’obligation dont parle la Michna concerne des fruits dont le travail est déjà terminé : leur entrée dans une cour adéquate les rend désormais interdits même pour une consommation occasionnelle avant le prélèvement du maasser. La « cour tyrienne » désigne une cour solidement gardée. Les autres formules expriment divers niveaux d’intimité et de surveillance : plus l’espace ressemble à une partie de la maison et moins il est accessible au public, plus il rend les fruits assujettis."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -235,8 +709,32 @@
           "ref": "Mishnah Maasrot 3:6",
           "he": "הַגַּגּוֹת פְּטוּרִין, אַף עַל פִּי שֶׁהֵם שֶׁל חָצֵר הַחַיָּבֶת. בֵּית שַׁעַר, אַכְסַדְרָה וּמִרְפֶּסֶת, הֲרֵי אֵלּוּ כֶּחָצֵר, אִם חַיֶּבֶת, חַיָּבִין, וְאִם פְּטוּרָה, פְּטוּרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les toits sont exempts, bien qu’ils appartiennent à une cour soumise à l’obligation. Une maison d’entrée, une galerie couverte et une terrasse : ceux-ci sont comme la cour ; si elle est soumise à l’obligation, ils y sont soumis, et si elle en est exempte, ils en sont exempts.",
+          "etude_fr": {
+            "traduction_fr": "Les toits sont exempts, bien qu’ils appartiennent à une cour soumise à l’obligation. Une maison d’entrée, une galerie couverte et une terrasse : ceux-ci sont comme la cour ; si elle est soumise à l’obligation, ils y sont soumis, et si elle en est exempte, ils en sont exempts.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 3:6",
+                "explication": "Les toits ne sont pas considérés comme une cour capable de rendre les fruits définitivement soumis au prélèvement : même lorsqu’ils sont au-dessus ou dépendants d’une cour qui, elle, oblige, le fait d’y faire entrer des fruits ne les fixe pas pour le maasser. En revanche, la maison d’entrée, la galerie couverte et la terrasse sont rattachées au statut de la cour : elles suivent donc la règle de la cour à laquelle elles appartiennent."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 3:6",
+                "explication": "Le Rambam explique que cette Michna traite des lieux qui déterminent ou non l’achèvement halakhique des produits pour l’obligation de maasser. Le toit n’a pas le statut d’un lieu d’habitation ou de conservation comparable à une cour, et il ne rend donc pas les produits interdits à la consommation provisoire. Les espaces servant d’accès ou d’annexe à la cour — comme la maison d’entrée, la galerie et la terrasse — sont inclus dans son statut."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 3:6",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « si elle est soumise à l’obligation » renvoie à la cour elle-même, selon les critères enseignés auparavant : une cour qui garde ce qu’on y dépose et qui possède le caractère d’un espace privé fixe. Les constructions mentionnées ne créent pas un statut indépendant ; elles sont accessoires à la cour et suivent son régime."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 3:6",
+                "explication": "Le Tiféret Israël définit les termes de la Michna : la maison d’entrée est le passage ou vestibule par lequel on pénètre dans la cour ; la galerie couverte est un espace couvert ouvert sur un côté ; la terrasse ou balcon sert d’accès aux pièces supérieures. Comme ces lieux sont fonctionnellement liés à la cour, leur statut dépend de celui de la cour, contrairement aux toits, qui restent un domaine distinct pour cette halakha."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -245,8 +743,32 @@
           "ref": "Mishnah Maasrot 3:7",
           "he": "הַצְּרִיפִין וְהַבֻּרְגָּנִין וְהָאֶלְקָטִיּוֹת, פְּטוּרִין. סֻכַּת גִּנּוֹסַר, אַף עַל פִּי שֶׁיֶּשׁ בּוֹ רֵחַיִם וְתַרְנְגוֹלִים, פְּטוּרָה. סֻכַּת הַיּוֹצְרִים, הַפְּנִימִית חַיֶּבֶת, וְהַחִיצוֹנָה פְּטוּרָה. רַבִּי יוֹסֵי אוֹמֵר, כָּל שֶׁאֵינָהּ דִּירַת הַחַמָּה וְדִירַת הַגְּשָׁמִים, פְּטוּרָה. סֻכַּת הֶחָג בֶּחָג, רַבִּי יְהוּדָה מְחַיֵּב, וַחֲכָמִים פּוֹטְרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les cabanes, les petites tours de garde et les abris provisoires sont exemptés. La cabane de Ginnosar, bien qu’il s’y trouve des meules et des coqs, est exemptée. La cabane des potiers : celle de l’intérieur est soumise à l’obligation, et celle de l’extérieur est exemptée. Rabbi Yossé dit : toute cabane qui n’est pas une habitation pour la saison chaude et une habitation pour la saison des pluies est exemptée. La soukka de la fête, pendant la fête : Rabbi Yehouda la soumet à l’obligation, et les Sages l’en exemptent.",
+          "etude_fr": {
+            "traduction_fr": "Les cabanes, les petites tours de garde et les abris provisoires sont exemptés. La cabane de Ginnosar, bien qu’il s’y trouve des meules et des coqs, est exemptée. La cabane des potiers : celle de l’intérieur est soumise à l’obligation, et celle de l’extérieur est exemptée. Rabbi Yossé dit : toute cabane qui n’est pas une habitation pour la saison chaude et une habitation pour la saison des pluies est exemptée. La soukka de la fête, pendant la fête : Rabbi Yehouda la soumet à l’obligation, et les Sages l’en exemptent.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Maasrot 3:7",
+                "explication": "Les constructions mentionnées au début de la Michna sont des habitations précaires ou destinées à la garde des champs ; elles ne sont pas considérées comme une maison capable de rendre les fruits fixés pour le maasser. La cabane de Ginnosar, même équipée de meules et de coqs, reste exemptée, car ces éléments ne suffisent pas à en faire une véritable demeure. Pour la cabane des potiers, la partie intérieure, où le potier réside, est considérée comme une habitation et rend les fruits soumis au maasser ; la partie extérieure, où il expose et vend ses poteries, n’a pas ce statut."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Maasrot 3:7",
+                "explication": "Le Rambam explique que l’obligation dépend du caractère résidentiel du lieu : seule une demeure véritable fixe les fruits pour le prélèvement du maasser. Les abris temporaires et les constructions faites pour un usage accessoire ne sont pas appelés maison à cet égard. La distinction entre l’intérieur et l’extérieur de la cabane du potier suit ce principe : l’intérieur sert à l’habitation, tandis que l’extérieur sert au travail ou au commerce."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Maasrot 3:7",
+                "explication": "Le Tossafot Yom Tov précise que la présence de meules et de coqs dans la cabane de Ginnosar pourrait laisser penser qu’il s’agit d’un lieu d’habitation stable ; la Michna enseigne donc que, malgré ces signes d’usage domestique, elle demeure exemptée, car son essence reste celle d’un abri provisoire. Il souligne également que l’avis de Rabbi Yossé formule un critère général : une habitation qui n’est pas utilisable aussi bien par temps chaud que par temps de pluie n’est pas une demeure fixe."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Maasrot 3:7",
+                "explication": "Le Tiféret Israël explique que la soukka de la fête est discutée précisément pendant la fête, car durant ces jours elle sert effectivement de demeure. Rabbi Yehouda la considère alors comme une habitation valable pour fixer les fruits au maasser. Les Sages, en revanche, estiment que son caractère reste temporaire : même utilisée pour la mitsva pendant la fête, elle n’est pas une maison permanente au regard de cette halakha."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -255,8 +777,32 @@
           "ref": "Mishnah Maasrot 3:8",
           "he": "תְּאֵנָה שֶׁהִיא עוֹמֶדֶת בֶּחָצֵר, אוֹכֵל אַחַת אַחַת וּפָטוּר. וְאִם צֵרַף, חַיָּב. רַבִּי שִׁמְעוֹן אוֹמֵר, אַחַת בִּימִינוֹ וְאַחַת בִּשְׂמֹאלוֹ וְאַחַת בְּפִיו. עָלָה לְרֹאשָׁהּ, מְמַלֵּא חֵיקוֹ וְאוֹכֵל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un figuier qui se trouve dans une cour : on peut en manger les figues une à une, et l’on est exempt. Mais si l’on en a réuni plusieurs, on est tenu de prélever. Rabbi Chimon dit : une dans sa main droite, une dans sa main gauche, et une dans sa bouche. S’il est monté au sommet de l’arbre, il remplit son giron et mange.",
+          "etude_fr": {
+            "traduction_fr": "Un figuier qui se trouve dans une cour : on peut en manger les figues une à une, et l’on est exempt. Mais si l’on en a réuni plusieurs, on est tenu de prélever. Rabbi Chimon dit : une dans sa main droite, une dans sa main gauche, et une dans sa bouche. S’il est monté au sommet de l’arbre, il remplit son giron et mange.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 3:8",
+                "explication": "La cour fixe les fruits pour l’obligation de maasser lorsqu’ils y sont consommés d’une manière qui n’est plus considérée comme provisoire. C’est pourquoi, tant qu’il mange les figues une à une, il s’agit d’une consommation occasionnelle et il est exempt. Mais s’il en réunit plusieurs à la fois, cela constitue une forme de rassemblement et de consommation établie, et il devient tenu de prélever. Rabbi Chimon considère que tant que les figues restent séparées — une dans chaque main et une dans la bouche — elles ne sont pas considérées comme réunies."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 3:8",
+                "explication": "Le Rambam explique que le principe de la Michna dépend du caractère provisoire ou fixe de la consommation. Manger une seule figue à la fois, directement de l’arbre, reste une consommation occasionnelle, même dans une cour. En revanche, réunir plusieurs figues transforme l’acte en consommation plus établie, ce qui rend les fruits soumis au maasser avant qu’on puisse les manger."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 3:8",
+                "explication": "Le Tossafot Yom Tov précise que la parole de Rabbi Chimon ne vient pas nécessairement autoriser une quantité illimitée, mais définir ce qui n’est pas appelé “réunir” : lorsque les figues ne sont pas rassemblées dans un même endroit, elles gardent le statut d’une consommation une à une. Il souligne ainsi la différence entre tenir plusieurs fruits séparément et les regrouper réellement."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasserot 3:8",
+                "explication": "Le Tiféret Israël explique que lorsqu’il monte au sommet du figuier, il peut remplir son giron et manger là-haut, car il ne consomme pas alors les fruits dans la cour elle-même de la manière qui les fixerait au maasser. La Michna distingue donc entre celui qui cueille et mange dans l’espace de la cour, où le regroupement rend obligatoire, et celui qui mange au sommet de l’arbre, où cette fixation ne s’applique pas de la même façon."
+              }
+            ]
+          }
         },
         {
           "id": "3:9",
@@ -265,8 +811,32 @@
           "ref": "Mishnah Maasrot 3:9",
           "he": "גֶּפֶן שֶׁהִיא נְטוּעָה בֶחָצֵר, נוֹטֵל אֶת כָּל הָאֶשְׁכּוֹל. וְכֵן בְּרִמּוֹן, וְכֵן בַּאֲבַטִּיחַ, דִּבְרֵי רַבִּי טַרְפוֹן. רַבִּי עֲקִיבָא אוֹמֵר, מְגַרְגֵּר בָּאֶשְׁכּוֹלוֹת, וּפוֹרֵט בָּרִמּוֹן, וְסוֹפֵת בָּאֲבַטִּיחַ. כֻּסְבָּר שֶׁהִיא זְרוּעָה בֶחָצֵר, מְקַרְטֵם עָלֶה עָלֶה וְאוֹכֵל. וְאִם צֵרַף, חַיָּב. הַסֵּאָה וְהָאֵזוֹב וְהַקּוֹרָנִית שֶׁבֶּחָצֵר, אִם הָיוּ נִשְׁמָרִים, חַיָּבִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Une vigne qui est plantée dans une cour : il prend toute la grappe ; et de même pour une grenade, et de même pour une pastèque — paroles de Rabbi Tarfon. Rabbi Akiva dit : il détache les grains dans les grappes, il égrène la grenade, et il prélève par morceaux dans la pastèque. De la coriandre qui est semée dans une cour : il coupe feuille par feuille et mange ; mais s’il les a réunies, il est tenu de prélever. La sarriette, l’hysope et le thym qui se trouvent dans la cour : s’ils étaient gardés, ils sont tenus au prélèvement.",
+          "etude_fr": {
+            "traduction_fr": "Une vigne qui est plantée dans une cour : il prend toute la grappe ; et de même pour une grenade, et de même pour une pastèque — paroles de Rabbi Tarfon. Rabbi Akiva dit : il détache les grains dans les grappes, il égrène la grenade, et il prélève par morceaux dans la pastèque. De la coriandre qui est semée dans une cour : il coupe feuille par feuille et mange ; mais s’il les a réunies, il est tenu de prélever. La sarriette, l’hysope et le thym qui se trouvent dans la cour : s’ils étaient gardés, ils sont tenus au prélèvement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 3:9",
+                "explication": "La cour fixe normalement les fruits pour l’obligation de maasser, de sorte qu’on ne peut plus y faire une consommation occasionnelle. Rabbi Tarfon permet cependant, pour une vigne plantée dans la cour, de prendre une grappe entière pour une consommation ponctuelle ; il en va de même pour une grenade ou une pastèque. Rabbi Akiva est plus strict : il ne permet qu’une prise véritablement minime, grain par grain pour la grappe, grain par grain pour la grenade, et petit morceau par petit morceau pour la pastèque. La halakha suit Rabbi Akiva."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 3:9",
+                "explication": "Le Rambam explique que cette Michna traite de la limite entre consommation occasionnelle et consommation déjà considérée comme fixe. Dans une cour, l’entrée ou la présence des fruits peut les rendre soumis au maasser, mais lorsqu’on prélève de manière très partielle, cela demeure une consommation occasionnelle. Pour la coriandre, tant qu’il coupe et mange feuille par feuille, ce n’est pas une consommation fixe ; s’il rassemble plusieurs feuilles, ce regroupement donne à l’acte le caractère d’une prise significative et il devient tenu de prélever."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 3:9",
+                "explication": "Le Tossafot Yom Tov souligne la précision des verbes employés par la Michna : « מגרגר » désigne l’action de détacher les grains de raisin un à un, « פורט » celle d’égrener la grenade, et « סופת » celle de prendre de petites portions de pastèque. Ces formulations montrent que, selon Rabbi Akiva, l’autorisation ne porte pas sur l’unité naturelle entière du fruit, mais seulement sur une prise fragmentaire, afin que l’acte reste une consommation passagère."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 3:9",
+                "explication": "Le Tiféret Israël explique que la fin de la Michna concerne des plantes aromatiques ou condimentaires se trouvant dans la cour : la sarriette, l’hysope et le thym. Elles ne deviennent soumises au maasser que si elles sont « gardées », c’est-à-dire conservées et protégées comme une production destinée à l’usage humain. Si elles poussent sans soin particulier et ne sont pas considérées comme une récolte gardée, elles n’ont pas le même statut d’obligation."
+              }
+            ]
+          }
         },
         {
           "id": "3:10",
@@ -275,8 +845,32 @@
           "ref": "Mishnah Maasrot 3:10",
           "he": "תְּאֵנָה שֶׁהִיא עוֹמֶדֶת בֶּחָצֵר וְנוֹטָה לַגִּנָּה, אוֹכֵל כְּדַרְכּוֹ וּפָטוּר. עוֹמֶדֶת בַּגִּנָּה וְנוֹטָה לֶחָצֵר, אוֹכֵל אַחַת אַחַת, פָּטוּר. וְאִם צֵרַף, חַיָּב. עוֹמֶדֶת בָּאָרֶץ וְנוֹטָה לְחוּצָה לָאָרֶץ, בְּחוּצָה לָאָרֶץ וְנוֹטָה לָאָרֶץ, הַכֹּל הוֹלֵךְ אַחַר הָעִקָּר. וּבְבָתֵּי עָרֵי חוֹמָה, הַכֹּל הוֹלֵךְ אַחַר הָעִקָּר. וּבְעָרֵי מִקְלָט, הַכֹּל הוֹלֵךְ אַחַר הַנּוֹף. וּבִירוּשָׁלַיִם, הַכֹּל הוֹלֵךְ אַחַר הַנּוֹף:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un figuier qui se tient dans une cour et penche vers le jardin : on mange de la manière habituelle, et l’on est exempt. S’il se tient dans le jardin et penche vers la cour : on mange une à une, et l’on est exempt ; mais si l’on en réunit plusieurs, on est tenu. S’il se tient en Terre d’Israël et penche vers l’extérieur de la Terre, ou à l’extérieur de la Terre et penche vers la Terre d’Israël : tout suit la racine. Et pour les maisons des villes entourées de murailles : tout suit la racine. Et pour les villes de refuge : tout suit le feuillage. Et à Jérusalem : tout suit le feuillage.",
+          "etude_fr": {
+            "traduction_fr": "Un figuier qui se tient dans une cour et penche vers le jardin : on mange de la manière habituelle, et l’on est exempt. S’il se tient dans le jardin et penche vers la cour : on mange une à une, et l’on est exempt ; mais si l’on en réunit plusieurs, on est tenu. S’il se tient en Terre d’Israël et penche vers l’extérieur de la Terre, ou à l’extérieur de la Terre et penche vers la Terre d’Israël : tout suit la racine. Et pour les maisons des villes entourées de murailles : tout suit la racine. Et pour les villes de refuge : tout suit le feuillage. Et à Jérusalem : tout suit le feuillage.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 3:10",
+                "explication": "Dans les deux premiers cas, la Michna traite de la fixation des fruits au maasser par l’entrée dans une cour. Lorsqu’un figuier est enraciné dans la cour mais que ses branches penchent vers le jardin, les figues qui se trouvent du côté du jardin ne sont pas fixées au maasser par la cour : on peut donc en manger même de manière habituelle, avant prélèvement. À l’inverse, si l’arbre est enraciné dans le jardin mais penche vers la cour, la cour donne aux fruits un statut plus strict : on ne peut en manger qu’une à une, comme consommation provisoire ; si l’on en rassemble plusieurs, cela devient une consommation régulière et l’on est tenu de prélever."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 3:10",
+                "explication": "Le Rambam explique que la cour est l’un des éléments qui rendent les produits soumis immédiatement au maasser, car elle leur donne le caractère de récolte achevée et destinée à la consommation. Toutefois, tant que l’on mange une figue isolée, cela demeure une consommation occasionnelle, qui reste permise avant le prélèvement. Le fait de joindre plusieurs fruits ensemble est considéré comme une consommation établie, et oblige donc au maasser lorsque les fruits se trouvent dans le domaine qui les fixe."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 3:10",
+                "explication": "Le Tossafot Yom Tov souligne la différence entre les règles de maasser au début de la Michna et les règles énoncées ensuite. Pour la cour et le jardin, le statut dépend de l’endroit où se trouve le feuillage portant les fruits, car c’est là que se manifeste leur entrée dans le domaine qui les fixe. En revanche, pour la Terre d’Israël et l’extérieur de la Terre, ainsi que pour les maisons des villes entourées de murailles, la Michna enseigne que le critère déterminant est la racine de l’arbre."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 3:10",
+                "explication": "Le Tiféret Israël précise que “tout suit la racine” signifie que le lieu d’enracinement définit le statut halakhique de l’arbre pour les lois concernées : obligation des prélèvements lorsqu’il est enraciné en Terre d’Israël, ou statut lié aux maisons des villes entourées de murailles. En revanche, pour les villes de refuge et pour Jérusalem, la Michna retient le feuillage : dans les villes de refuge, cela concerne notamment le lieu où se trouve la personne sous les branches ; à Jérusalem, cela concerne le lieu où se trouvent les fruits ou ce qui est consommé, par rapport aux règles de consommation dans la ville."
+              }
+            ]
+          }
         }
       ]
     },
@@ -290,8 +884,32 @@
           "ref": "Mishnah Maasrot 4:1",
           "he": "הַכּוֹבֵשׁ, הַשּׁוֹלֵק, הַמּוֹלֵחַ, חַיָּב. הַמְכַמֵּן בָּאֲדָמָה, פָּטוּר. הַמְטַבֵּל בַּשָּׂדֶה, פָּטוּר. הַפּוֹצֵעַ זֵיתִים שֶׁיֵּצֵא מֵהֶם הַשְּׂרָף, פָּטוּר. הַסּוֹחֵט זֵיתִים עַל בְּשָׂרוֹ, פָּטוּר. אִם סָחַט וְנָתַן לְתוֹךְ יָדוֹ, חַיָּב. הַמְקַפֵּא לְתַבְשִׁיל, פָּטוּר. לִקְדֵרָה, חַיָּב, מִפְּנֵי שֶׁהוּא כְבוֹר קָטָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui met en saumure, celui qui ébouillante, celui qui sale, est tenu [de prélever le maasser]. Celui qui enfouit dans la terre est dispensé. Celui qui trempe [son aliment] dans le champ est dispensé. Celui qui fend des olives afin que leur sève en sorte est dispensé. Celui qui presse des olives sur sa peau est dispensé. S’il a pressé et mis [le liquide] dans sa main, il est tenu [de prélever le maasser]. Celui qui écume pour un mets cuit est dispensé ; pour une marmite, il est tenu, parce qu’elle est comme une petite cuve.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui met en saumure, celui qui ébouillante, celui qui sale, est tenu [de prélever le maasser]. Celui qui enfouit dans la terre est dispensé. Celui qui trempe [son aliment] dans le champ est dispensé. Celui qui fend des olives afin que leur sève en sorte est dispensé. Celui qui presse des olives sur sa peau est dispensé. S’il a pressé et mis [le liquide] dans sa main, il est tenu [de prélever le maasser]. Celui qui écume pour un mets cuit est dispensé ; pour une marmite, il est tenu, parce qu’elle est comme une petite cuve.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Maasserot 4:1",
+                "explication": "Bartenoura explique que mettre en saumure, faire bouillir et saler sont des opérations qui achèvent la préparation de l’aliment ; elles lui donnent un caractère de consommation fixe, et c’est pourquoi elles rendent obligatoire le maasser. En revanche, enfouir dans la terre n’est qu’un procédé provisoire, destiné par exemple à conserver ou à faire mûrir, et ne constitue pas une fixation pour le maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 4:1",
+                "explication": "Le Rambam précise le principe général de la Michna : certains actes transforment une consommation occasionnelle en consommation établie, et interdisent donc de manger avant le prélèvement des dîmes. Ainsi, saler, cuire ou confire sont considérés comme une préparation définitive ; mais tremper dans le champ ou faire sortir seulement la sève des olives reste une consommation ou une préparation non définitive, et demeure dispensé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Maasserot 4:1",
+                "explication": "Le Tossafot Yom Tov relève la différence entre presser des olives directement sur sa peau et presser dans sa main. Sur la peau, l’huile est utilisée comme onguent, non comme nourriture, et cela ne fixe pas l’obligation du maasser. Mais lorsqu’il presse dans sa main, le liquide est recueilli comme une boisson ou un aliment utilisable ; cet acte lui donne une importance suffisante pour entraîner l’obligation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Maasserot 4:1",
+                "explication": "Le Tiféret Israël explique l’expression finale : la marmite est appelée “comme une petite cuve” parce qu’elle reçoit et rassemble le produit de manière déterminée, à la façon d’un récipient destiné à une préparation achevée. C’est pourquoi, lorsqu’on écume ou recueille pour la marmite, cela est considéré comme une étape significative qui fixe l’obligation du maasser, contrairement au cas où l’on prend seulement pour l’ajouter à un mets déjà en train d’être consommé."
+              }
+            ]
+          }
         },
         {
           "id": "4:2",
@@ -300,8 +918,32 @@
           "ref": "Mishnah Maasrot 4:2",
           "he": "תִּינוֹקוֹת שֶׁטָּמְנוּ תְאֵנִים לְשַׁבָּת, וְשָׁכְחוּ לְעַשְּׂרָן, לֹא יֹאכְלוּ לְמוֹצָאֵי שַׁבָּת עַד שֶׁיְּעַשְּׂרוּ. כַּלְכָּלַת שַׁבָּת, בֵּית שַׁמַּאי פּוֹטְרִין וּבֵית הִלֵּל מְחַיְּבִין. רַבִּי יְהוּדָה אוֹמֵר, אַף הַלּוֹקֵט אֶת הַכַּלְכָּלָה לִשְׁלֹחַ לַחֲבֵרוֹ, לֹא יֹאכַל עַד שֶׁיִּתְעַשֵּׂר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des enfants qui avaient caché des figues pour Chabbat, et qui ont oublié d’en prélever le maasser, ne les mangeront pas à la sortie de Chabbat avant d’en avoir prélevé le maasser. Un panier destiné à Chabbat : Beit Chammaï en dispensent, et Beit Hillel l’y soumettent. Rabbi Yehouda dit : même celui qui cueille un panier pour l’envoyer à son prochain ne mangera pas avant que le maasser en ait été prélevé.",
+          "etude_fr": {
+            "traduction_fr": "Des enfants qui avaient caché des figues pour Chabbat, et qui ont oublié d’en prélever le maasser, ne les mangeront pas à la sortie de Chabbat avant d’en avoir prélevé le maasser. Un panier destiné à Chabbat : Beit Chammaï en dispensent, et Beit Hillel l’y soumettent. Rabbi Yehouda dit : même celui qui cueille un panier pour l’envoyer à son prochain ne mangera pas avant que le maasser en ait été prélevé.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 4:2",
+                "explication": "Le Chabbat rend les fruits fixés pour l’obligation de maasser : dès lors qu’ils ont été préparés pour être consommés pendant Chabbat, on ne peut plus les manger même de manière occasionnelle sans prélèvement. C’est pourquoi les figues cachées pour Chabbat, bien qu’il s’agisse d’enfants, ne peuvent être consommées à la sortie de Chabbat avant le maasser. Concernant le panier destiné à Chabbat, Beit Chammaï estiment que cette désignation ne suffit pas à obliger tant que les fruits n’ont pas été effectivement fixés, tandis que Beit Hillel considèrent que la préparation pour Chabbat les soumet déjà au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 4:2",
+                "explication": "Le Rambam explique le principe général de cette Michna : certaines circonstances achèvent le statut des produits et interdisent leur consommation provisoire avant prélèvement. Chabbat fait partie de ces facteurs qui fixent les fruits pour le maasser. Ainsi, des figues réservées pour Chabbat acquièrent un statut d’aliment préparé pour un repas important, et il devient interdit d’en manger sans prélèvement, même après Chabbat."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 4:2",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la Michna : dans le premier cas, les figues ont effectivement été cachées en vue de Chabbat, et Chabbat est passé sur elles ; elles sont donc certainement fixées pour le maasser. Dans le cas du panier de Chabbat, la discussion porte sur la force de l’intention et de la préparation avant Chabbat : selon Beit Hillel, cette préparation suffit à créer l’obligation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 4:2",
+                "explication": "Le Tiféret Israël explique que l’expression « panier de Chabbat » désigne un panier de fruits cueillis spécialement pour l’honneur de Chabbat. Comme il ne s’agit plus d’une consommation fortuite, mais d’une préparation importante, Beit Hillel l’obligent au maasser. Rabbi Yehouda ajoute qu’il en va de même lorsqu’on cueille un panier pour l’envoyer à un ami : un tel envoi est considéré comme une destination honorable et déterminée, qui fixe les fruits et empêche d’en manger avant prélèvement."
+              }
+            ]
+          }
         },
         {
           "id": "4:3",
@@ -310,8 +952,27 @@
           "ref": "Mishnah Maasrot 4:3",
           "he": "הַנּוֹטֵל זֵיתִים מִן הַמַּעֲטָן, טוֹבֵל אֶחָד אֶחָד בְּמֶלַח וְאוֹכֵל. אִם מָלַח וְנָתַן לְפָנָיו, חַיָּב. רַבִּי אֱלִיעֶזֶר אוֹמֵר, מִן הַמַּעֲטָן הַטָּהוֹר חַיָּב, וּמִן הַטָּמֵא פָּטוּר, מִפְּנֵי שֶׁהוּא מַחֲזִיר אֶת הַמּוֹתָר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui prend des olives du maatan peut en tremper une à une dans le sel et manger. Mais s’il les a salées et les a placées devant lui, il est tenu de prélever. Rabbi Éliézer dit : si elles proviennent d’un maatan pur, il est tenu de prélever ; si elles proviennent d’un maatan impur, il est exempt, parce qu’il remet le surplus.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui prend des olives du maatan peut en tremper une à une dans le sel et manger. Mais s’il les a salées et les a placées devant lui, il est tenu de prélever. Rabbi Éliézer dit : si elles proviennent d’un maatan pur, il est tenu de prélever ; si elles proviennent d’un maatan impur, il est exempt, parce qu’il remet le surplus.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 4:3",
+                "explication": "Le maatan est un récipient ou un endroit où l’on entasse les olives afin qu’elles se réchauffent et se ramollissent avant d’être pressées. Prendre une olive à la fois, la tremper dans le sel et la manger reste une consommation provisoire, qui ne rend pas encore les olives soumises au maasser. En revanche, lorsqu’il les sale et les dispose devant lui, cela constitue une préparation fixe du repas, et il devient tenu de prélever. Selon Rabbi Éliézer, si le maatan est pur, il est tenu, car il ne remettra pas le reste dans le maatan ; cela montre que ce qu’il a pris est destiné à être consommé. Mais si le maatan est impur, il peut y remettre le surplus, et la prise n’est donc pas considérée comme définitive."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 4:3",
+                "explication": "Le Rambam explique que le principe de la Michna est la distinction entre consommation provisoire et fixation de l’obligation de maasser. Tant que l’on mange de manière occasionnelle, une olive après l’autre, même avec du sel, cela ne fixe pas l’obligation. Mais lorsqu’on sale les olives ensemble et qu’on les place devant soi pour les manger, cette action leur donne le statut d’un aliment préparé de façon établie, et elles deviennent soumises au maasser. L’opinion de Rabbi Éliézer dépend du fait que les olives retirées soient ou non destinées à être remises au maatan."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 4:3",
+                "explication": "Le Tossafot Yom Tov souligne que le sel, dans cette Michna, n’oblige pas automatiquement au maasser lorsqu’il accompagne une prise minimale et successive, olive par olive. Ce qui fixe l’obligation est la manière de préparer et de présenter les olives : les saler puis les placer devant soi indique une consommation organisée. Il éclaire aussi l’avis de Rabbi Éliézer : la possibilité de remettre le surplus dans le maatan prouve que la prise n’était pas définitive, et c’est pourquoi, dans le cas du maatan impur, il exempte."
+              }
+            ]
+          }
         },
         {
           "id": "4:4",
@@ -320,8 +981,27 @@
           "ref": "Mishnah Maasrot 4:4",
           "he": "שׁוֹתִים עַל הַגַּת, בֵּין עַל הַחַמִּין בֵּין עַל הַצּוֹנֵן פָּטוּר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק מְחַיֵּב. וַחֲכָמִים אוֹמְרִים, עַל הַחַמִּין חַיָּב, וְעַל הַצּוֹנֵן פָּטוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On peut boire auprès du pressoir : que ce soit avec de l’eau chaude ou avec de l’eau froide, on est exempt — paroles de Rabbi Méïr. Rabbi Elazar fils de Rabbi Tsadok rend passible. Les Sages disent : avec de l’eau chaude, on est passible ; avec de l’eau froide, on est exempt.",
+          "etude_fr": {
+            "traduction_fr": "On peut boire auprès du pressoir : que ce soit avec de l’eau chaude ou avec de l’eau froide, on est exempt — paroles de Rabbi Méïr. Rabbi Elazar fils de Rabbi Tsadok rend passible. Les Sages disent : avec de l’eau chaude, on est passible ; avec de l’eau froide, on est exempt.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 4:4",
+                "explication": "Boire « auprès du pressoir » désigne une consommation provisoire du vin alors qu’il se trouve encore au pressoir et n’a pas encore été fixé pour le maasser par son achèvement définitif. Rabbi Méïr estime que même si l’on boit ce vin mélangé à de l’eau chaude, cela reste une consommation provisoire et l’on est exempt. Rabbi Elazar fils de Rabbi Tsadok considère au contraire que cette manière de boire fixe le vin pour l’obligation. Les Sages distinguent : l’eau chaude donne à la boisson une importance et en fait une consommation établie, donc imposable ; l’eau froide reste une consommation occasionnelle, donc exemptée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 4:4",
+                "explication": "Le Rambam explique que la discussion porte sur ce qui confère au vin le statut d’une consommation fixe avant le prélèvement du maasser. Tant que l’on goûte simplement au pressoir, l’acte peut rester provisoire. Mais préparer le vin avec de l’eau chaude manifeste une consommation plus organisée et plus importante. La halakha suit les Sages : avec de l’eau chaude, on est tenu de prélever le maasser ; avec de l’eau froide, on demeure exempt."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 4:4",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « auprès du pressoir » indique que le vin est encore lié au lieu de sa production et n’a pas encore été introduit dans une consommation ordinaire et régulière. La différence entre chaud et froid ne concerne donc pas seulement la température, mais le caractère de l’acte : boire avec du chaud ressemble à une préparation soignée et fixe, tandis qu’avec du froid cela peut encore être considéré comme un simple rafraîchissement pris sur place."
+              }
+            ]
+          }
         },
         {
           "id": "4:5",
@@ -330,8 +1010,32 @@
           "ref": "Mishnah Maasrot 4:5",
           "he": "הַמְקַלֵּף שְׂעוֹרִים, מְקַלֵּף אַחַת אַחַת וְאוֹכֵל. וְאִם קִלֵּף וְנָתַן לְתוֹךְ יָדוֹ, חַיָּב. הַמּוֹלֵל מְלִילוֹת שֶׁל חִטִּים, מְנַפֶּה מִיָּד לְיָד וְאוֹכֵל. וְאִם נִפָּה וְנָתַן לְתוֹךְ חֵיקוֹ, חַיָּב. כֻּסְבָּר שֶׁזְּרָעָהּ לְזֶרַע, יַרְקָהּ פָּטוּר. זְרָעָהּ לְיָרָק, מִתְעַשֶּׂרֶת זֶרַע וְיָרָק. רַבִּי אֱלִיעֶזֶר אוֹמֵר, הַשֶּׁבֶת מִתְעַשֶּׂרֶת זֶרַע וְיָרָק וְזֵירִין. וַחֲכָמִים אוֹמְרִים, אֵינוֹ מִתְעַשֵּׂר זֶרַע וְיָרָק אֶלָּא הַשַּׁחֲלַיִם וְהַגַּרְגִּיר בִּלְבָד:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui décortique de l’orge peut décortiquer grain par grain et manger. Mais s’il a décortiqué et mis dans sa main, il est tenu d’en prélever le maasser.\n\nCelui qui frotte des épis de blé encore tendres peut les vanner d’une main à l’autre et manger. Mais s’il les a vannés et les a mis dans son giron, il est tenu d’en prélever le maasser.\n\nLa coriandre qu’on a semée pour sa graine : sa verdure est dispensée. Si on l’a semée pour sa verdure, elle est soumise au maasser, graine et verdure.\n\nRabbi Éliézer dit : l’aneth est soumis au maasser, graine, verdure et tiges. Et les Sages disent : ne sont soumis au maasser, graine et verdure, que le cresson alénois et la roquette seulement.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui décortique de l’orge peut décortiquer grain par grain et manger. Mais s’il a décortiqué et mis dans sa main, il est tenu d’en prélever le maasser.\n\nCelui qui frotte des épis de blé encore tendres peut les vanner d’une main à l’autre et manger. Mais s’il les a vannés et les a mis dans son giron, il est tenu d’en prélever le maasser.\n\nLa coriandre qu’on a semée pour sa graine : sa verdure est dispensée. Si on l’a semée pour sa verdure, elle est soumise au maasser, graine et verdure.\n\nRabbi Éliézer dit : l’aneth est soumis au maasser, graine, verdure et tiges. Et les Sages disent : ne sont soumis au maasser, graine et verdure, que le cresson alénois et la roquette seulement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 4:5",
+                "explication": "La première partie de la Michna distingue entre une consommation provisoire, permise avant le prélèvement du maasser, et une action qui donne au produit un caractère de préparation achevée. Décortiquer l’orge grain par grain reste une manière occasionnelle de manger ; mais décortiquer plusieurs grains et les rassembler dans la main est considéré comme une mise en réserve, qui fixe l’obligation du maasser. De même, frotter des épis de blé et les faire passer d’une main à l’autre pour enlever la balle est encore une consommation passagère ; mais les déposer dans son giron manifeste une collecte organisée et rend le produit assujetti au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 4:5",
+                "explication": "Le Rambam explique que les produits agricoles ne deviennent pleinement soumis au maasser, au point d’interdire même une consommation provisoire, que lorsqu’ils atteignent une forme de finition ou de rassemblement significatif. Ici, la main ou le giron servent de critères : manger immédiatement, grain par grain ou après un simple vannage d’une main à l’autre, n’est pas considéré comme une finition ; rassembler dans la main ou dans le giron est déjà un acte de préparation qui impose le maasser."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 4:5",
+                "explication": "Le Tossafot Yom Tov précise que la différence entre « dans sa main » et « d’une main à l’autre » dépend de l’intention et de la forme de l’acte. Dans le cas de l’orge, mettre les grains décortiqués dans la main signifie qu’on les rassemble après traitement. Dans le cas des épis de blé, le passage d’une main à l’autre est seulement le geste technique du vannage ; l’obligation commence lorsqu’on les place dans un endroit de collecte, comme le giron."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 4:5",
+                "explication": "Concernant la coriandre et les autres plantes, le Tiféret Israël explique que l’obligation dépend de l’usage pour lequel elles ont été semées. Si la coriandre a été semée pour ses graines, les feuilles ne sont qu’un produit secondaire et sont exemptes ; si elle a été semée pour la verdure, la plante entière reçoit l’importance d’un aliment soumis au maasser. Rabbi Éliézer étend ce principe à l’aneth, en y incluant aussi les tiges tendres, tandis que les Sages limitent la double obligation — graines et verdure — au cresson alénois et à la roquette, dont ces deux parties sont couramment consommées."
+              }
+            ]
+          }
         },
         {
           "id": "4:6",
@@ -340,8 +1044,27 @@
           "ref": "Mishnah Maasrot 4:6",
           "he": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, תְּמָרוֹת שֶׁל תִּלְתָּן וְשֶׁל חַרְדָּל וְשֶׁל פּוֹל הַלָּבָן, חַיָּבוֹת בַּמַּעֲשֵׂר. רַבִּי אֱלִיעֶזֶר אוֹמֵר, הַצָּלָף מִתְעַשֵּׂר תְּמָרוֹת וַאֲבִיּוֹנוֹת וְקַפְרָס. רַבִּי עֲקִיבָא אוֹמֵר, אֵין מִתְעַשֵּׂר אֶלָּא אֲבִיּוֹנוֹת, מִפְּנֵי שֶׁהֵן פֶּרִי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabban Chim‘on ben Gamliel dit : les jeunes pousses du fenugrec, de la moutarde et du haricot blanc sont soumises au maasser. Rabbi Éliézer dit : pour le câprier, on prélève le maasser sur ses jeunes pousses, ses fruits et ses boutons. Rabbi ‘Akiva dit : on ne prélève le maasser que sur ses fruits, parce que ce sont eux qui constituent le fruit.",
+          "etude_fr": {
+            "traduction_fr": "Rabban Chim‘on ben Gamliel dit : les jeunes pousses du fenugrec, de la moutarde et du haricot blanc sont soumises au maasser. Rabbi Éliézer dit : pour le câprier, on prélève le maasser sur ses jeunes pousses, ses fruits et ses boutons. Rabbi ‘Akiva dit : on ne prélève le maasser que sur ses fruits, parce que ce sont eux qui constituent le fruit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 4:6",
+                "explication": "Il explique que les « jeunes pousses » mentionnées au début de la Michna sont des parties tendres qui poussent au sommet de ces plantes et qui sont consommées. Selon Rabban Chim‘on ben Gamliel, puisqu’elles sont mangées comme aliment, elles sont soumises au maasser. Concernant le câprier, Rabbi Éliézer considère que plusieurs parties consommées de la plante ont statut de produit soumis au maasser : les jeunes pousses, les aviyonot, qui sont le fruit, et le kafras, identifié aux boutons ou enveloppes comestibles. Rabbi ‘Akiva limite l’obligation aux aviyonot seulement, car seules elles sont le fruit véritable."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 4:6",
+                "explication": "Le Rambam précise l’identification botanique des éléments du câprier : les temarot sont les pousses tendres, les aviyonot sont le fruit du câprier, et le kafras correspond à une partie comestible précédant ou entourant le fruit. La discussion porte sur la définition halakhique du « fruit » pour l’obligation de maasser : Rabbi Éliézer inclut toutes les parties de la plante qui sont consommées de manière significative, tandis que Rabbi ‘Akiva n’oblige que le fruit proprement dit."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 4:6",
+                "explication": "Il souligne que la Michna ne parle pas de simples feuilles ou éléments accessoires, mais de parties que l’on a l’usage de consommer. Cela explique pourquoi Rabban Chim‘on ben Gamliel peut rendre obligatoires les jeunes pousses de certaines espèces. Pour le câprier, la divergence entre Rabbi Éliézer et Rabbi ‘Akiva dépend de la manière de définir ce qui est principal dans la plante : tout élément consommé et recherché, ou uniquement le fruit au sens strict."
+              }
+            ]
+          }
         }
       ]
     },
@@ -355,8 +1078,27 @@
           "ref": "Mishnah Maasrot 5:1",
           "he": "הָעוֹקֵר שְׁתָלִים מִתּוֹךְ שֶׁלּוֹ וְנָטַע לְתוֹךְ שֶׁלּוֹ, פָּטוּר. לָקַח בִּמְחֻבָּר לַקַּרְקַע, פָּטוּר. לָקַט לִשְׁלֹחַ לַחֲבֵרוֹ, פָּטוּר. רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר, אִם יֵשׁ כַּיּוֹצֵא בָהֶם נִמְכָּרִים בַּשּׁוּק, הֲרֵי אֵלּוּ חַיָּבִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui arrache des plants de son propre domaine et les replante dans son propre domaine est exempt. S’il les a achetés alors qu’ils étaient attachés au sol, il est exempt. S’il les a cueillis afin de les envoyer à son prochain, il est exempt. Rabbi Eléazar ben Azaria dit : s’il s’en vend de semblables au marché, ceux-ci sont soumis à l’obligation.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui arrache des plants de son propre domaine et les replante dans son propre domaine est exempt. S’il les a achetés alors qu’ils étaient attachés au sol, il est exempt. S’il les a cueillis afin de les envoyer à son prochain, il est exempt. Rabbi Eléazar ben Azaria dit : s’il s’en vend de semblables au marché, ceux-ci sont soumis à l’obligation.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 5:1",
+                "explication": "La Michna parle de plants arrachés avec l’intention de les replanter. Tant qu’ils sont destinés à être replantés et non à être consommés, ils ne sont pas considérés comme ayant atteint l’achèvement qui les rendrait imposables au maasser. De même, celui qui achète des plants encore attachés au sol est exempt, car l’achat d’un produit attaché n’est pas considéré comme l’achat d’un aliment déjà achevé. Celui qui les cueille pour les envoyer à son ami est également exempt selon le premier avis, car son acte n’est pas une préparation définitive à la consommation. Rabbi Eléazar ben Azaria distingue toutefois le cas où de tels plants sont vendus au marché comme produits consommables : puisqu’ils ont alors un statut de marchandise alimentaire, ils deviennent soumis au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 5:1",
+                "explication": "Le Rambam explique que l’exemption repose sur le fait que ces plants ne sont pas encore fixés comme nourriture soumise au maasser. L’arrachage en vue de replanter ne constitue pas une récolte destinée à la consommation. L’achat lorsqu’ils sont encore attachés à la terre ne les rend pas non plus imposables, car l’obligation s’établit sur un produit détaché et achevé. Rabbi Eléazar ben Azaria considère que, lorsque des plants semblables sont habituellement vendus au marché, cet usage leur confère le statut de produit destiné à la consommation, et ils sont donc obligatoires au maasser."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 5:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « de son propre domaine et les replante dans son propre domaine » souligne que l’opération n’a pas le caractère d’une transaction ni d’une mise sur le marché : ce sont les mêmes plants, déplacés pour continuer leur croissance. La nouveauté du cas de l’achat attaché au sol est que même s’il y a eu acquisition, celle-ci ne crée pas l’obligation tant que les plants n’ont pas été récoltés comme denrées. L’opinion de Rabbi Eléazar ben Azaria dépend de la réalité commerciale : si l’usage est de vendre de tels plants comme nourriture, leur arrachage les rend assimilables à des produits achevés."
+              }
+            ]
+          }
         },
         {
           "id": "5:2",
@@ -365,8 +1107,32 @@
           "ref": "Mishnah Maasrot 5:2",
           "he": "הָעוֹקֵר לֶפֶת וּצְנוֹנוֹת מִתּוֹךְ שֶׁלּוֹ וְנוֹטֵעַ לְתוֹךְ שֶׁלּוֹ לְזֶרַע, חַיָּב, מִפְּנֵי שֶׁהוּא גָּרְנָן. בְּצָלִים, מִשֶּׁהִשְׁרִישׁוּ בָעֲלִיָּה, טָהֲרוּ מִלְּטַמֵּא. נָפְלָה עֲלֵיהֶם מַפֹּלֶת וְהֵם מְגֻלִּים, הֲרֵי אֵלּוּ כִּנְטוּעִים בַּשָּׂדֶה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui arrache des navets et des radis de son propre domaine, puis les replante dans son propre domaine pour en obtenir de la semence, est tenu de prélever, car c’est là leur achèvement de récolte. Des oignons qui ont pris racine dans le grenier sont devenus purs, de sorte qu’ils ne contractent plus l’impureté. Si un éboulement est tombé sur eux et qu’ils demeurent découverts, ils sont considérés comme plantés dans le champ.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui arrache des navets et des radis de son propre domaine, puis les replante dans son propre domaine pour en obtenir de la semence, est tenu de prélever, car c’est là leur achèvement de récolte. Des oignons qui ont pris racine dans le grenier sont devenus purs, de sorte qu’ils ne contractent plus l’impureté. Si un éboulement est tombé sur eux et qu’ils demeurent découverts, ils sont considérés comme plantés dans le champ.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Maasrot 5:2",
+                "explication": "Le cas des navets et des radis concerne des légumes qui ont été arrachés pour être replantés afin de produire de la semence. Même s’ils ne sont pas destinés immédiatement à la consommation, leur arrachage constitue leur « goren », c’est-à-dire le moment où leur récolte est achevée pour l’obligation de maasser. Ils deviennent donc soumis aux prélèvements avant d’être replantés."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Maasrot 5:2",
+                "explication": "Le Rambam explique que l’obligation de maasser dépend de l’achèvement du processus agricole propre à chaque produit. Ici, l’arrachage des navets et radis destinés à être replantés pour la semence est considéré comme un achèvement suffisant pour les rendre obligés. Concernant les oignons ayant pris racine dans le grenier, ils sont assimilés à des plantes attachées au sol quant aux lois d’impureté, et ne contractent donc plus l’impureté comme des aliments détachés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Maasrot 5:2",
+                "explication": "Il souligne que la Michna précise « de son propre domaine » et « dans son propre domaine » afin d’indiquer que l’opération n’est pas une vente ni un changement de propriétaire, mais bien une étape agricole interne. Malgré cela, l’obligation de maasser s’applique, car le facteur déterminant est l’achèvement de la récolte, non la mise en vente ou la consommation effective."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Maasrot 5:2",
+                "explication": "Il clarifie que des oignons ayant pris racine, même dans un grenier, reçoivent un statut comparable à celui de plantes reliées à leur source de croissance. C’est pourquoi ils sortent du statut d’aliments susceptibles de contracter l’impureté. Et si des décombres sont tombés sur eux tout en les laissant découverts, ils restent considérés comme plantés, à la manière de végétaux dans un champ."
+              }
+            ]
+          }
         },
         {
           "id": "5:3",
@@ -375,8 +1141,27 @@
           "ref": "Mishnah Maasrot 5:3",
           "he": "לֹא יִמְכֹּר אָדָם אֶת פֵּרוֹתָיו מִשֶׁבָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת לְמִי שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת, וְלֹא בַשְּׁבִיעִית לְמִי שֶׁהוּא חָשׁוּד עַל הַשְּׁבִיעִית. וְאִם בִּכְּרוּ, נוֹטֵל אֶת הַבַּכּוּרוֹת וּמוֹכֵר אֶת הַשְּׁאָר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un homme ne doit pas vendre ses fruits, dès qu’ils sont arrivés au stade où ils sont soumis aux maasserot, à quelqu’un qui n’est pas digne de confiance au sujet des maasserot ; ni, pendant la septième année, à quelqu’un qui est suspect au sujet de la Chemita. Et si certains fruits ont mûri les premiers, il prélève les premiers fruits mûrs et vend le reste.",
+          "etude_fr": {
+            "traduction_fr": "Un homme ne doit pas vendre ses fruits, dès qu’ils sont arrivés au stade où ils sont soumis aux maasserot, à quelqu’un qui n’est pas digne de confiance au sujet des maasserot ; ni, pendant la septième année, à quelqu’un qui est suspect au sujet de la Chemita. Et si certains fruits ont mûri les premiers, il prélève les premiers fruits mûrs et vend le reste.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 5:3",
+                "explication": "La Michna interdit de vendre des fruits déjà parvenus à leur “saison des maasserot” à une personne qui n’est pas fiable pour prélever les maasserot, car le vendeur risquerait de faire trébucher l’acheteur dans l’interdit de consommer du tével. De même, pendant la Chemita, on ne vend pas à quelqu’un suspect de ne pas respecter la sainteté et les règles des produits de la septième année. “S’ils ont mûri les premiers” signifie que seuls quelques fruits sont arrivés à maturité avant le reste : le propriétaire retire ces fruits déjà soumis aux maasserot, puis il peut vendre le reste, qui n’a pas encore atteint ce stade."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 5:3",
+                "explication": "Le Rambam explique que l’obligation de vigilance commence lorsque les fruits atteignent le stade appelé עונת המעשרות, le moment à partir duquel ils relèvent des maasserot. Avant ce stade, il est permis de les vendre même à quelqu’un qui n’est pas digne de confiance, car ils ne sont pas encore soumis à l’obligation. La fin de la Michna enseigne donc une solution pratique : lorsque seuls certains fruits sont déjà mûrs, on les met à part, et le reste peut être vendu."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 5:3",
+                "explication": "Le Tossafot Yom Tov souligne que le terme “les premiers fruits mûrs” ne désigne pas ici les bikkourim apportés au Temple, mais simplement les fruits qui ont mûri avant les autres. La Michna parle de la distinction à faire à l’intérieur d’une même récolte : ce qui a atteint le stade des maasserot ne doit pas être vendu à une personne non fiable, tandis que ce qui ne l’a pas atteint peut encore être vendu."
+              }
+            ]
+          }
         },
         {
           "id": "5:4",
@@ -385,8 +1170,32 @@
           "ref": "Mishnah Maasrot 5:4",
           "he": "לֹא יִמְכֹּר אָדָם אֶת תִּבְנוֹ וְאֶת גִּפְתּוֹ וְאֶת זַגָּיו לְמִי שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת, לְהוֹצִיא מֵהֶן מַשְׁקִין. וְאִם הוֹצִיא, חַיָּב בַּמַּעַשְׂרוֹת וּפָטוּר מִן הַתְּרוּמָה, שֶׁהַתּוֹרֵם, בְּלִבּוֹ עַל הַקְּטוּעִים, עַל הַצְּדָדִים וְעַל מַה שֶּׁבְּתוֹךְ הַתֶּבֶן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un homme ne doit pas vendre sa paille, son marc d’olives ni ses peaux de raisin à quelqu’un qui n’est pas digne de confiance pour les maasserot, afin qu’il en extraie des liquides. Et s’il en a extrait, il est tenu aux maasserot, mais exempt de la terouma ; car celui qui prélève la terouma a dans son intention les morceaux coupés, ce qui se trouve sur les côtés, et ce qui est à l’intérieur de la paille.",
+          "etude_fr": {
+            "traduction_fr": "Un homme ne doit pas vendre sa paille, son marc d’olives ni ses peaux de raisin à quelqu’un qui n’est pas digne de confiance pour les maasserot, afin qu’il en extraie des liquides. Et s’il en a extrait, il est tenu aux maasserot, mais exempt de la terouma ; car celui qui prélève la terouma a dans son intention les morceaux coupés, ce qui se trouve sur les côtés, et ce qui est à l’intérieur de la paille.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasrot 5:4",
+                "explication": "Il explique qu’il est interdit de vendre ces résidus à une personne qui n’est pas fiable pour les maasserot, car elle pourrait en extraire du vin ou de l’huile et ne pas en prélever les maasserot. Si des liquides en ont effectivement été extraits, ils sont soumis aux maasserot. En revanche, ils sont exemptés de terouma, car lorsqu’un propriétaire prélève la terouma de sa récolte, son intention inclut aussi les restes et les liquides encore absorbés dans les résidus."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasrot 5:4",
+                "explication": "Le Rambam précise que la Michna parle de résidus qui contiennent encore une part de substance exploitable : du liquide peut en être retiré. Ce liquide a un statut de produit soumis aux prélèvements. Toutefois, la terouma n’a pas à être prélevée de nouveau, car le prélèvement initial de terouma porte implicitement aussi sur ce qui demeure dans les fragments, sur les parois et dans les résidus."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasrot 5:4",
+                "explication": "Il souligne la différence entre la terouma et les maasserot dans cette Michna : pour la terouma, l’intention du propriétaire lors du prélèvement est suffisamment large pour englober les restes cachés ou absorbés ; pour les maasserot, en revanche, si un liquide nouveau est extrait et devient utilisable, il doit être traité comme une production imposable et l’on doit en prélever les maasserot."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Maasrot 5:4",
+                "explication": "Il explique les termes de la fin de la Michna : les “morceaux coupés” désignent les fragments de produit séparés lors du pressurage, “ce qui se trouve sur les côtés” désigne ce qui reste attaché aux parois ou aux bords des récipients et des pressoirs, et “ce qui est à l’intérieur de la paille” désigne le liquide encore absorbé dans les résidus. Tout cela est inclus dans l’intention du prélèvement de terouma."
+              }
+            ]
+          }
         },
         {
           "id": "5:5",
@@ -395,8 +1204,32 @@
           "ref": "Mishnah Maasrot 5:5",
           "he": "הַלּוֹקֵחַ שְׂדֵה יָרָק בְּסוּרְיָא, אִם עַד שֶׁלֹּא בָא לְעוֹנַת הַמַּעַשְׂרוֹת, חַיָּב. וּמִשֶּׁבָּא לְעוֹנַת הַמַּעַשְׂרוֹת, פָּטוּר, וְלוֹקֵט כְּדַרְכּוֹ וְהוֹלֵךְ. רַבִּי יְהוּדָה אוֹמֵר, אַף יִשְׂכֹּר פּוֹעֲלִים וִילַקֵּט. אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, בַּמֶּה דְבָרִים אֲמוּרִים, בִּזְמַן שֶׁקָּנָה קַרְקַע, אֲבָל בִּזְמַן שֶׁלֹּא קָנָה קַרְקַע, אִם עַד שֶׁלֹּא בָא לְעוֹנַת הַמַּעַשְׂרוֹת, פָּטוּר. רַבִּי אוֹמֵר, אַף לְפִי חֶשְׁבּוֹן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui achète un champ de légumes en Syrie : si c’est avant qu’il soit parvenu à la période d’assujettissement aux maasser, il est tenu de prélever ; mais s’il est déjà parvenu à la période d’assujettissement aux maasser, il est exempt, et il cueille à sa manière, au fur et à mesure. Rabbi Yehouda dit : il peut même louer des ouvriers et faire cueillir. Rabban Chimon ben Gamliel dit : dans quel cas ces paroles ont-elles été dites ? Lorsqu’il a acquis le terrain ; mais lorsqu’il n’a pas acquis le terrain, si c’est avant qu’il soit parvenu à la période d’assujettissement aux maasser, il est exempt. Rabbi dit : même selon le calcul.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui achète un champ de légumes en Syrie : si c’est avant qu’il soit parvenu à la période d’assujettissement aux maasser, il est tenu de prélever ; mais s’il est déjà parvenu à la période d’assujettissement aux maasser, il est exempt, et il cueille à sa manière, au fur et à mesure. Rabbi Yehouda dit : il peut même louer des ouvriers et faire cueillir. Rabban Chimon ben Gamliel dit : dans quel cas ces paroles ont-elles été dites ? Lorsqu’il a acquis le terrain ; mais lorsqu’il n’a pas acquis le terrain, si c’est avant qu’il soit parvenu à la période d’assujettissement aux maasser, il est exempt. Rabbi dit : même selon le calcul.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Maasrot 5:5",
+                "explication": "La Michna parle d’un achat en Syrie, dont l’obligation de maasser est d’ordre rabbinique. Lorsqu’un Juif acquiert le champ avant que les légumes n’atteignent leur “période d’assujettissement aux maasser”, ils deviennent astreints lorsqu’ils y parviennent sous sa possession. Mais s’ils avaient déjà atteint ce stade auparavant, alors qu’ils étaient encore chez le non-Juif, ils sont exemptés. Il peut donc les cueillir normalement, sans devoir limiter sa récolte comme on le ferait pour éviter de donner l’apparence d’une récolte soumise au maasser."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Maasrot 5:5",
+                "explication": "Le Rambam explique que la Syrie possède un statut intermédiaire : elle n’a pas la pleine sainteté de la terre d’Israël pour les prélèvements, mais les Sages y ont néanmoins institué certaines obligations. C’est pourquoi le moment décisif est celui où le produit atteint le stade qui le rend apte à l’obligation des maasserot. Si ce stade survient après l’acquisition par l’Israélite, il est tenu de prélever ; s’il est survenu auparavant, le produit reste exempt."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Maasrot 5:5",
+                "explication": "Il précise que l’expression “un champ de légumes” désigne principalement le cas où l’on acquiert non seulement les légumes, mais aussi le sol, point essentiel dans l’avis de Rabban Chimon ben Gamliel. Celui-ci distingue entre l’achat du terrain lui-même et l’achat des seuls légumes encore attachés : lorsque le sol n’est pas acquis, le lien avec la terre appartenant au non-Juif maintient l’exemption, même si l’achat a eu lieu avant le stade d’obligation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Maasrot 5:5",
+                "explication": "Le Tiféret Israël éclaire l’avis de Rabbi : “même selon le calcul” signifie que l’on tient compte de la part de croissance ou du statut acquis avant et après le moment déterminant. L’obligation n’est donc pas toujours entièrement oui ou non ; dans certains cas, on évalue la proportion correspondant à la période ou à la possession qui entraîne l’obligation, et l’on prélève en conséquence."
+              }
+            ]
+          }
         },
         {
           "id": "5:6",
@@ -405,8 +1238,27 @@
           "ref": "Mishnah Maasrot 5:6",
           "he": "הַמְתַמֵּד וְנָתַן מַיִם בַּמִּדָּה וּמָצָא כְדֵי מִדָּתוֹ, פָּטוּר. רַבִּי יְהוּדָה מְחַיֵּב. מָצָא יוֹתֵר עַל כְּדֵי מִדָּתוֹ, מוֹצִיא עָלָיו מִמָּקוֹם אַחֵר לְפִי חֶשְׁבּוֹן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui fait du temed, qui a versé de l’eau selon une mesure déterminée et a trouvé l’équivalent de sa mesure, est exempt. Rabbi Yehouda l’oblige. S’il a trouvé davantage que l’équivalent de sa mesure, il prélève pour cela depuis un autre endroit, selon le calcul.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui fait du temed, qui a versé de l’eau selon une mesure déterminée et a trouvé l’équivalent de sa mesure, est exempt. Rabbi Yehouda l’oblige. S’il a trouvé davantage que l’équivalent de sa mesure, il prélève pour cela depuis un autre endroit, selon le calcul.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 5:6",
+                "explication": "Le temed est une boisson obtenue en versant de l’eau sur des résidus de raisins, afin que l’eau absorbe le goût du vin. Si l’on a versé une quantité mesurée d’eau et que l’on retrouve exactement cette même quantité, les Sages exemptent de maasser : on considère que ce n’est que l’eau versée, même si elle a pris du goût. Rabbi Yehouda oblige, car il considère que le goût du vin qui s’y est mêlé lui donne le statut soumis au prélèvement. Si l’on retrouve plus que la quantité d’eau versée, l’excédent provient du jus extrait des résidus de raisin ; il faut donc prélever le maasser correspondant, mais depuis un autre produit, selon la proportion de cet excédent."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 5:6",
+                "explication": "Le Rambam explique que la discussion porte sur le statut d’un liquide produit par macération de résidus de raisins dans de l’eau. Lorsque la mesure retrouvée est égale à la mesure d’eau introduite, les Sages ne considèrent pas qu’il y ait là une quantité de produit de la vigne imposable ; Rabbi Yehouda, lui, impose en raison du goût de vin obtenu. Lorsque la quantité finale est supérieure, l’ajout révèle qu’un élément provenant des raisins s’est mêlé au liquide ; on doit donc effectuer les prélèvements selon le calcul exact de ce supplément."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 5:6",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « selon le calcul » signifie que l’on ne prélève pas sur toute la boisson, mais seulement sur la part qui est considérée comme provenant du raisin. Si l’on a mis une mesure d’eau et que l’on a trouvé davantage, seule la quantité excédentaire est assimilée au produit imposable. Le prélèvement se fait « depuis un autre endroit », car la boisson elle-même est un mélange où la part imposable n’est pas isolable matériellement."
+              }
+            ]
+          }
         },
         {
           "id": "5:7",
@@ -415,8 +1267,27 @@
           "ref": "Mishnah Maasrot 5:7",
           "he": "חוֹרֵי הַנְּמָלִים שֶׁלָּנוּ בְצַד הָעֲרֵמָה הַחַיֶּבֶת, הֲרֵי אֵלּוּ חַיָּבִים, שֶׁיָּדוּעַ שֶׁמִּדָּבָר הַגָּמוּר הָיוּ גּוֹרְרִין כָּל הַלָּיְלָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les trous de fourmis qui ont passé la nuit à côté d’un tas soumis à l’obligation, ceux-ci sont soumis à l’obligation, car il est certain que c’est d’un produit achevé qu’elles ont traîné durant toute la nuit.",
+          "etude_fr": {
+            "traduction_fr": "Les trous de fourmis qui ont passé la nuit à côté d’un tas soumis à l’obligation, ceux-ci sont soumis à l’obligation, car il est certain que c’est d’un produit achevé qu’elles ont traîné durant toute la nuit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Maasserot 5:7",
+                "explication": "Il explique que la Michna parle de grains ou de fruits trouvés dans les trous de fourmis situés près d’un tas déjà soumis au maasser, c’est-à-dire un tas dont le travail est achevé. Comme les fourmis ont passé la nuit à cet endroit, on présume qu’elles ont traîné ces produits depuis ce tas pendant la nuit ; ils ont donc le statut du tas et doivent être prélevés."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Maasserot 5:7",
+                "explication": "Le Rambam précise que l’obligation vient du fait que le tas voisin est déjà un « produit achevé », ayant atteint le stade où il devient astreint au maasser. Les produits emportés par les fourmis ne sont donc pas considérés comme des produits trouvés au hasard, mais comme provenant avec certitude de ce tas déjà soumis à l’obligation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Maasserot 5:7",
+                "explication": "Il souligne la force de l’expression « car il est certain » : la proximité du tas et le fait que les fourmis aient passé la nuit suffisent à établir une présomption halakhique solide que les produits viennent du tas astreint. La Michna ne se fonde pas sur un simple doute, mais sur le comportement habituel des fourmis qui traînent des grains durant la nuit."
+              }
+            ]
+          }
         },
         {
           "id": "5:8",
@@ -425,8 +1296,32 @@
           "ref": "Mishnah Maasrot 5:8",
           "he": "שׁוּם בַּעַל בֶּכִי, וּבָצָל שֶׁל רִכְפָּא, וּגְרִיסִין הַקִּילְקִין, וְהָעֲדָשִׁים הַמִּצְרִיּוֹת, רַבִּי מֵאִיר אוֹמֵר, אַף הַקַּרְקָס, רַבִּי יוֹסֵי אוֹמֵר אַף הַקּוּטְנִים, פְּטוּרִים מִן הַמַּעַשְׂרוֹת, וְנִלְקָחִין מִכָּל אָדָם בַּשְּׁבִיעִית. זֶרַע לוּף הָעֶלְיוֹן, זֶרַע כְּרֵשִׁים, זֶרַע בְּצָלִים, זֶרַע לֶפֶת וּצְנוֹנוֹת, וּשְׁאָר זֵרְעוֹנֵי גִנָּה שֶׁאֵינָן נֶאֱכָלִים, פְּטוּרִים מִן הַמַּעַשְׂרוֹת, וְנִלְקָחִין מִכָּל אָדָם בַּשְּׁבִיעִית, שֶׁאַף עַל פִּי שֶׁאֲבִיהֶן תְּרוּמָה, הֲרֵי אֵלּוּ יֵאָכֵלוּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’ail de Baal-Békhi, l’oignon de Rikhpa, les fèves concassées kilkiennes, et les lentilles égyptiennes — Rabbi Méïr dit : même le karkas ; Rabbi Yossé dit : même les kotnim — sont exempts des maasserot, et peuvent être achetés de toute personne pendant la septième année. La semence du louf supérieur, la semence de poireaux, la semence d’oignons, la semence de navets et de radis, ainsi que les autres semences de jardin qui ne sont pas consommées, sont exemptes des maasserot et peuvent être achetées de toute personne pendant la septième année ; car, bien que leur plante mère soit terouma, celles-ci peuvent être consommées.",
+          "etude_fr": {
+            "traduction_fr": "L’ail de Baal-Békhi, l’oignon de Rikhpa, les fèves concassées kilkiennes, et les lentilles égyptiennes — Rabbi Méïr dit : même le karkas ; Rabbi Yossé dit : même les kotnim — sont exempts des maasserot, et peuvent être achetés de toute personne pendant la septième année. La semence du louf supérieur, la semence de poireaux, la semence d’oignons, la semence de navets et de radis, ainsi que les autres semences de jardin qui ne sont pas consommées, sont exemptes des maasserot et peuvent être achetées de toute personne pendant la septième année ; car, bien que leur plante mère soit terouma, celles-ci peuvent être consommées.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Maasrot 5:8",
+                "explication": "Bartenoura explique que les éléments énumérés au début de la Michna sont des espèces particulières, connues sous ces noms, qui ne sont pas considérées comme des produits ordinaires soumis aux maasserot. De même, pendant la Chemita, on peut les acheter de toute personne, car il n’y a pas lieu de soupçonner qu’il s’agisse de produits interdits ou gardés de manière problématique. Concernant les semences de jardin, il précise que, puisqu’elles ne sont pas destinées à la consommation comme aliment, elles ne sont pas soumises aux maasserot."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Maasrot 5:8",
+                "explication": "Le Rambam souligne le principe général : l’obligation des maasserot s’applique aux choses qui sont considérées comme nourriture. Les semences mentionnées ici, lorsqu’elles ne sont pas consommées, n’entrent pas dans cette obligation. Pour la Chemita également, leur achat auprès de toute personne est permis, car elles ne relèvent pas du statut habituel des fruits ou légumes consommables de la septième année. La fin de la Michna enseigne en outre que même si la plante dont elles proviennent avait le statut de terouma, ces semences, n’étant pas un aliment ordinaire, ne conservent pas l’interdiction de la terouma pour la consommation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Maasrot 5:8",
+                "explication": "Le Tossafot Yom Tov éclaire la formulation « bien que leur plante mère soit terouma ». Il explique que la Michna parle de semences issues d’une plante ayant un statut de terouma : on aurait pu penser que ce qui en sort reste interdit aux non-Cohanim. La Michna enseigne donc que ces semences, parce qu’elles ne sont pas considérées comme une nourriture soumise à la sainteté de la terouma de la plante mère, peuvent être consommées."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Maasrot 5:8",
+                "explication": "Le Tiféret Israël précise que plusieurs noms de la première liste désignent des variétés locales ou particulières de plantes alimentaires, dont l’usage et l’importance agricole étaient limités. C’est la raison de leur exemption des maasserot. Il distingue ensuite les semences de jardin : lorsqu’elles ne sont pas mangées en tant que nourriture, elles n’ont pas le statut de récolte alimentaire imposable, et l’on n’applique pas non plus à leur achat les restrictions ordinaires liées aux produits consommables de la Chemita."
+              }
+            ]
+          }
         }
       ]
     }
