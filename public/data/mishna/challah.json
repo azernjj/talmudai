@@ -15,8 +15,32 @@
           "ref": "Mishnah Challah 1:1",
           "he": "חֲמִשָּׁה דְבָרִים חַיָּבִים בַּחַלָּה, הַחִטִּים וְהַשְּׂעוֹרִים וְהַכֻּסְּמִין וְשִׁבֹּלֶת שׁוּעָל וְשִׁיפוֹן. הֲרֵי אֵלּוּ חַיָּבִין בַּחַלָּה, וּמִצְטָרְפִין זֶה עִם זֶה, וַאֲסוּרִין בֶּחָדָשׁ מִלִּפְנֵי הַפֶּסַח, וּמִלִּקְצֹר מִלִּפְנֵי הָעֹמֶר. וְאִם הִשְׁרִישׁוּ קֹדֶם לָעֹמֶר, הָעֹמֶר מַתִּירָן. וְאִם לָאו, אֲסוּרִין עַד שֶׁיָּבֹא הָעֹמֶר הַבָּא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Cinq espèces sont soumises à la challah : le blé, l’orge, l’épeautre, l’avoine et le seigle. Celles-ci sont soumises à la challah, s’associent les unes aux autres, sont interdites au titre du ‘nouveau’ avant Pessaḥ, et il est interdit de les moissonner avant le ‘omer. Si elles ont pris racine avant le ‘omer, le ‘omer les rend permises ; sinon, elles restent interdites jusqu’à ce que vienne le ‘omer suivant.",
+          "etude_fr": {
+            "traduction_fr": "Cinq espèces sont soumises à la challah : le blé, l’orge, l’épeautre, l’avoine et le seigle. Celles-ci sont soumises à la challah, s’associent les unes aux autres, sont interdites au titre du ‘nouveau’ avant Pessaḥ, et il est interdit de les moissonner avant le ‘omer. Si elles ont pris racine avant le ‘omer, le ‘omer les rend permises ; sinon, elles restent interdites jusqu’à ce que vienne le ‘omer suivant.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 1:1",
+                "explication": "La Michna énumère les cinq espèces de céréales qui peuvent devenir pain au sens halakhique et sont donc soumises au prélèvement de la challah. Bartenoura explique que ces cinq espèces sont celles qui entrent aussi dans les lois de matsa et de ‘hamets, car elles fermentent véritablement, contrairement aux autres graines qui ne font que se gâter ou moisir. Elles s’associent les unes aux autres pour atteindre la mesure minimale imposant la challah."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 1:1",
+                "explication": "Le Rambam précise que l’obligation de challah ne concerne que la pâte faite de ces cinq espèces. Il identifie les noms de la Michna comme des espèces de céréales apparentées : le blé et l’orge, ainsi que les variétés appelées kousmin, shibboleth shou‘al et shifon. Le fait qu’elles s’associent signifie que si plusieurs de ces farines sont mêlées et atteignent ensemble le volume requis, la pâte est soumise à la challah."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 1:1",
+                "explication": "Le Tossafot Yom Tov relève que la Michna regroupe ici plusieurs domaines halakhiques : challah, ‘hadash et moisson avant le ‘omer. La raison est que ces lois dépendent toutes du statut de ces cinq espèces comme céréales principales. L’interdiction de ‘hadash signifie qu’on ne peut pas consommer la nouvelle récolte avant l’autorisation produite par le ‘omer, et l’interdiction de moissonner avant le ‘omer concerne ces mêmes espèces."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 1:1",
+                "explication": "Le Tiféret Israël explique que l’expression “si elles ont pris racine avant le ‘omer” signifie que la plante doit avoir commencé son enracinement avant l’offrande du ‘omer pour être autorisée par celui-ci. Si l’enracinement n’a eu lieu qu’après, cette récolte n’est pas incluse dans l’autorisation de l’année en cours et demeure interdite comme ‘hadash jusqu’au ‘omer de l’année suivante."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,27 @@
           "ref": "Mishnah Challah 1:2",
           "he": "הָאוֹכֵל מֵהֶם כַּזַּיִת מַצָּה בְּפֶסַח, יָצָא יְדֵי חוֹבָתוֹ. כַּזַּיִת חָמֵץ, חַיָּב בְּהִכָּרֵת. נִתְעָרֵב אֶחָד מֵהֶם בְּכָל הַמִּינִים, הֲרֵי זֶה עוֹבֵר בְּפֶסַח. הַנּוֹדֵר מִן הַפַּת וּמִן הַתְּבוּאָה, אָסוּר בָּהֶם, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, הַנּוֹדֵר מִן הַדָּגָן אֵינוֹ אָסוּר אֶלָּא מֵהֶן. וְחַיָּבִין בַּחַלָּה וּבַמַּעַשְׂרוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui mange d’entre eux un volume d’olive de matsa à Pessa’h s’est acquitté de son obligation ; un volume d’olive de ‘hamets, il est passible de retranchement. Si l’un d’eux s’est mélangé à toutes les autres espèces, on transgresse à son sujet à Pessa’h. Celui qui fait vœu de s’interdire le pain ou la récolte céréalière, il lui est interdit d’en consommer : ce sont les paroles de Rabbi Méïr. Les Sages disent : celui qui fait vœu de s’interdire le dagan n’est interdit que de ceux-là. Et ils sont soumis à la ‘halla et aux maasserot.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui mange d’entre eux un volume d’olive de matsa à Pessa’h s’est acquitté de son obligation ; un volume d’olive de ‘hamets, il est passible de retranchement. Si l’un d’eux s’est mélangé à toutes les autres espèces, on transgresse à son sujet à Pessa’h. Celui qui fait vœu de s’interdire le pain ou la récolte céréalière, il lui est interdit d’en consommer : ce sont les paroles de Rabbi Méïr. Les Sages disent : celui qui fait vœu de s’interdire le dagan n’est interdit que de ceux-là. Et ils sont soumis à la ‘halla et aux maasserot.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:2",
+                "explication": "Bartenoura explique que « d’entre eux » renvoie aux cinq espèces mentionnées dans la Michna précédente : blé, orge, épeautre, avoine et seigle. Seules ces espèces peuvent devenir matsa permettant d’accomplir la mitsva de Pessa’h, car seules elles peuvent fermenter en ‘hamets ; de même, en les mangeant sous forme de ‘hamets à Pessa’h, on encourt le retranchement. Lorsqu’une de ces espèces est mélangée avec d’autres, elle conserve son statut de ‘hamets pour Pessa’h. Pour les vœux, selon Rabbi Méïr, celui qui s’interdit « le pain » ou « la récolte céréalière » s’interdit ces espèces, tandis que les Sages précisent que le terme « dagan » vise exclusivement ces cinq espèces."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:2",
+                "explication": "Le Rambam souligne le principe central : l’obligation de matsa et l’interdiction de ‘hamets ne concernent, au sens strict de la Torah, que les espèces capables de parvenir à une fermentation véritable, c’est-à-dire les cinq espèces de céréales. Les autres grains ou légumineuses ne produisent pas le ‘hamets défini par la halakha. C’est pourquoi la Michna rattache à ces mêmes espèces les lois de Pessa’h, des vœux, de la ‘halla et des maasserot."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Halla 1:2",
+                "explication": "Le Tossafot Yom Tov précise la formulation de la Michna : « s’est mélangé à toutes les espèces » signifie que même si l’une des cinq céréales est mêlée à d’autres denrées, sa présence peut entraîner l’interdit de ‘hamets à Pessa’h, selon les règles de mélange et de goût. Il relève aussi que la Michna enchaîne plusieurs domaines — Pessa’h, vœux, ‘halla et maasserot — afin de montrer que le statut particulier de ces cinq espèces se manifeste dans différentes parties de la halakha."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +78,32 @@
           "ref": "Mishnah Challah 1:3",
           "he": "אֵלּוּ חַיָּבִין בַּחַלָּה וּפְטוּרִים מִן הַמַּעַשְׂרוֹת. הַלֶּקֶט, וְהַשִּׁכְחָה, וְהַפֵּאָה, וְהַהֶפְקֵר, וּמַעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְרוּמָתוֹ, וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, וּמוֹתַר הָעֹמֶר, וּתְבוּאָה שֶׁלֹּא הֵבִיאָה שְׁלִישׁ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, תְּבוּאָה שֶׁלֹּא הֵבִיאָה שְׁלִישׁ, פְּטוּרָה מִן הַחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Voici ceux qui sont soumis à la halla et exempts des maasserot : le léket, la chikh’ha, la peah, ce qui a été rendu sans propriétaire, le maasser premier dont la terouma a été prélevée, le maasser second et ce qui était consacré lorsqu’ils ont été rachetés, le surplus du ‘omer, et une récolte qui n’a pas atteint le tiers de sa croissance. Rabbi Éliézer dit : une récolte qui n’a pas atteint le tiers de sa croissance est exempte de la halla.",
+          "etude_fr": {
+            "traduction_fr": "Voici ceux qui sont soumis à la halla et exempts des maasserot : le léket, la chikh’ha, la peah, ce qui a été rendu sans propriétaire, le maasser premier dont la terouma a été prélevée, le maasser second et ce qui était consacré lorsqu’ils ont été rachetés, le surplus du ‘omer, et une récolte qui n’a pas atteint le tiers de sa croissance. Rabbi Éliézer dit : une récolte qui n’a pas atteint le tiers de sa croissance est exempte de la halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Halla 1:3",
+                "explication": "La Michna énumère des produits qui, bien qu’exemptés des maasserot, deviennent soumis à la halla lorsqu’on en fait une pâte. Le léket, la chikh’ha, la peah et le hefker sont exempts des maasserot car ils ne sont pas considérés comme une récolte appartenant à un propriétaire au moment déterminant pour les prélèvements. Toutefois, l’obligation de halla dépend de la pâte faite à partir des cinq espèces céréalières ; dès lors qu’une pâte redevient propriété d’une personne et atteint la mesure requise, elle est soumise à la halla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Halla 1:3",
+                "explication": "Le Rambam explique que le maasser premier dont la terouma a été prélevée est exempt d’autres prélèvements de maasser, mais il reste soumis à la halla si l’on en fait une pâte. De même, le maasser second et le hekdesh, une fois rachetés, sont redevenus profanes et peuvent être soumis à la halla. Le principe est que l’exemption de maasserot ne dispense pas nécessairement de la halla, car ce sont deux obligations distinctes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Halla 1:3",
+                "explication": "Il précise que “le surplus du ‘omer” désigne ce qui reste de l’orge apportée pour l’offrande du ‘omer après l’accomplissement de la mitsva. Bien que ce produit ait eu un statut lié au service du Temple, une fois devenu permis à la consommation, il peut entrer dans l’obligation de halla lorsqu’il est pétri en pâte."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Halla 1:3",
+                "explication": "Il éclaire la discussion concernant une récolte qui n’a pas atteint le tiers de sa croissance. Selon les Sages, même si elle n’a pas encore le statut complet de récolte pour les maasserot, elle peut néanmoins être considérée comme une céréale apte à la halla lorsqu’elle est transformée en pâte. Rabbi Éliézer conteste cela et estime qu’une telle récolte n’est pas suffisamment achevée pour être soumise à la halla."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +112,32 @@
           "ref": "Mishnah Challah 1:4",
           "he": "אֵלּוּ חַיָּבִין בַּמַּעַשְׂרוֹת וּפְטוּרִים מִן הַחַלָּה, הָאֹרֶז, וְהַדֹּחַן, וְהַפְּרָגִים, וְהַשֻּׁמְשְׁמִין, וְהַקִּטְנִיּוֹת, וּפָחוֹת מֵחֲמֵשֶׁת רְבָעִים בַּתְּבוּאָה. הַסֻּפְגָּנִין, וְהַדֻּבְשָׁנִין, וְהָאִסְקְרִיטִין, וְחַלַּת הַמַּשְׂרֵת, וְהַמְדֻמָּע, פְּטוּרִין מִן הַחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Voici ceux qui sont soumis aux maasserot mais exempts de la ‘halla : le riz, le millet, les graines de pavot, le sésame, les légumineuses, ainsi qu’une quantité de céréale inférieure à cinq quarts. Les beignets spongieux, les gâteaux au miel, les galettes fines, la ‘halla du trempage, et le produit devenu médouma, sont exempts de la ‘halla.",
+          "etude_fr": {
+            "traduction_fr": "Voici ceux qui sont soumis aux maasserot mais exempts de la ‘halla : le riz, le millet, les graines de pavot, le sésame, les légumineuses, ainsi qu’une quantité de céréale inférieure à cinq quarts. Les beignets spongieux, les gâteaux au miel, les galettes fines, la ‘halla du trempage, et le produit devenu médouma, sont exempts de la ‘halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 1:4",
+                "explication": "Bartenoura explique que l’obligation de ‘halla ne concerne que les cinq espèces de céréales — blé, orge, épeautre, seigle et avoine. C’est pourquoi le riz, le millet, le pavot, le sésame et les légumineuses, bien qu’ils soient des produits de la terre soumis aux maasserot, ne sont pas soumis à la ‘halla. Il précise aussi que la mesure minimale pour l’obligation de ‘halla est de cinq quarts ; en dessous de cette quantité, même une pâte faite de céréales reste exempte."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 1:4",
+                "explication": "Le Rambam souligne que la ‘halla dépend de deux conditions : la matière doit provenir des espèces de céréales aptes à devenir du pain, et la pâte doit atteindre la mesure requise. Les espèces énumérées au début de la Michna sont donc redevables des maasserot en tant que récoltes, mais ne peuvent jamais créer une obligation de ‘halla. Quant à une quantité inférieure à cinq quarts de céréale, elle est exclue faute de mesure suffisante."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 1:4",
+                "explication": "Le Tossafot Yom Tov précise que les préparations telles que les soufgânin, les douvchanin et les iskeritin ne sont pas considérées comme du pain ordinaire. Leur mode de préparation ou leur nature les retire de la catégorie de pâte à pain visée par la mitsva de ‘halla. La Michna enseigne ainsi que même lorsqu’il s’agit d’une pâte faite à partir de céréales, l’obligation dépend aussi de la forme culinaire et de la destination alimentaire de la pâte."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 1:4",
+                "explication": "Le Tiféret Israël explique que le terme médouma désigne un mélange dans lequel de la terouma est tombée dans des produits profanes et les a rendus interdits aux non-Cohanim. Un tel mélange est exempt de la ‘halla, car il reçoit le statut de terouma ; or la ‘halla n’est pas prélevée d’une pâte qui est déjà considérée comme relevant de la sainteté de la terouma."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +146,32 @@
           "ref": "Mishnah Challah 1:5",
           "he": "עִסָּה שֶׁתְּחִלָּתָהּ סֻפְגָּנִין וְסוֹפָהּ סֻפְגָּנִין, פְּטוּרָה מִן הַחַלָּה. תְּחִלָּתָהּ עִסָּה וְסוֹפָהּ סֻפְגָּנִין, תְּחִלָּתָהּ סֻפְגָּנִין וְסוֹפָהּ עִסָּה, חַיָּבִין בַּחַלָּה. וְכֵן הַקְּנוּבְקָאוֹת חַיָּבוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Une pâte qui, au départ, est une pâte à beignets, et qui, à la fin, devient des beignets, est exemptée de la ‘halla. Si, au départ, c’est une pâte à pain et, à la fin, elle devient des beignets ; ou si, au départ, c’est une pâte à beignets et, à la fin, elle devient une pâte à pain, elles sont soumises à la ‘halla. De même, les petits pains creux sont soumis à la ‘halla.",
+          "etude_fr": {
+            "traduction_fr": "Une pâte qui, au départ, est une pâte à beignets, et qui, à la fin, devient des beignets, est exemptée de la ‘halla. Si, au départ, c’est une pâte à pain et, à la fin, elle devient des beignets ; ou si, au départ, c’est une pâte à beignets et, à la fin, elle devient une pâte à pain, elles sont soumises à la ‘halla. De même, les petits pains creux sont soumis à la ‘halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:5",
+                "explication": "Bartenoura explique que « des beignets » désigne une pâte molle, destinée à être cuite autrement que comme du pain, par exemple frite ou préparée dans du miel ; lorsqu’elle reste ainsi du début à la fin, elle n’a pas le statut de pain et est donc exemptée de la ‘halla. En revanche, si à un moment elle a le statut d’une véritable pâte à pain — soit au pétrissage, soit à la cuisson finale — elle devient soumise à la ‘halla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:5",
+                "explication": "Le Rambam souligne que l’obligation de ‘halla dépend du caractère de pain que prend la pâte. Une préparation qui commence et finit comme une pâte molle destinée à des beignets n’entre pas dans l’obligation. Mais si elle commence comme une pâte épaisse ordinaire, même si l’on veut ensuite en faire des beignets, elle est déjà tenue à la ‘halla ; et si elle commence comme une pâte molle mais qu’on la transforme finalement en pain, elle devient également tenue à la ‘halla."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Halla 1:5",
+                "explication": "Le Tossafot Yom Tov précise que la Michna envisage deux critères : la nature de la pâte au moment de sa formation et la manière dont elle sera achevée. L’exemption n’existe que lorsque les deux éléments vont dans le même sens, c’est-à-dire une pâte molle et un produit final qui n’est pas du pain. Dès qu’un des deux éléments correspond au pain, l’obligation de ‘halla s’applique."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, ‘Halla 1:5",
+                "explication": "Le Tiféret Israël explique que les « petits pains creux » mentionnés à la fin sont considérés comme du pain malgré leur forme particulière. Leur aspect ou leur façonnage ne les retire pas de la catégorie de pain ; c’est pourquoi la Michna enseigne qu’ils sont soumis à la ‘halla."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +180,27 @@
           "ref": "Mishnah Challah 1:6",
           "he": "הַמְּעִסָּה, בֵּית שַׁמַּאי פּוֹטְרִין, וּבֵית הִלֵּל מְחַיְּבִין. הַחֲלִיטָה, בֵּית שַׁמַּאי מְחַיְּבִין, וּבֵית הִלֵּל פּוֹטְרִין. חַלּוֹת תּוֹדָה וּרְקִיקֵי נָזִיר, עֲשָׂאָן לְעַצְמוֹ, פָּטוּר. לִמְכֹּר בַּשּׁוּק, חַיָּב:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La pâte faite en mettant la farine dans l’eau bouillante : Beth Chammaï l’exemptent, et Beth Hillel l’assujettissent. La pâte faite en versant l’eau bouillante sur la farine : Beth Chammaï l’assujettissent, et Beth Hillel l’exemptent. Les pains de l’offrande de reconnaissance et les galettes du nazir : s’il les a faits pour lui-même, il est exempt ; s’il les a faits pour les vendre au marché, il est tenu de prélever la ‘halla.",
+          "etude_fr": {
+            "traduction_fr": "La pâte faite en mettant la farine dans l’eau bouillante : Beth Chammaï l’exemptent, et Beth Hillel l’assujettissent. La pâte faite en versant l’eau bouillante sur la farine : Beth Chammaï l’assujettissent, et Beth Hillel l’exemptent. Les pains de l’offrande de reconnaissance et les galettes du nazir : s’il les a faits pour lui-même, il est exempt ; s’il les a faits pour les vendre au marché, il est tenu de prélever la ‘halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 1:6",
+                "explication": "Bartenoura explique que « la pâte faite en mettant la farine dans l’eau bouillante » désigne un cas où l’on place la farine dans de l’eau très chaude ; selon Beth Hillel, elle reste considérée comme une pâte apte à devenir du pain et elle est donc soumise à la ‘halla. « La pâte faite en versant l’eau bouillante sur la farine » est le cas inverse : on verse l’eau bouillante sur la farine ; selon Beth Hillel, elle est exemptée. La halakha suit Beth Hillel. Concernant les pains de l’offrande de reconnaissance et les galettes du nazir, lorsqu’il les prépare pour son propre sacrifice, ils sont destinés à être consacrés et ne sont pas soumis à la ‘halla ; mais s’il les prépare pour les vendre, ils sont encore profanes et lui appartiennent comme une production ordinaire, ils sont donc soumis à la ‘halla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 1:6",
+                "explication": "Le Rambam définit les deux procédés mentionnés par la Michna comme deux formes d’échaudage de la pâte : dans l’un, la farine est introduite dans l’eau bouillante ; dans l’autre, l’eau bouillante est versée sur la farine. La discussion porte sur le fait de savoir si une telle préparation conserve le statut de pâte à pain pour l’obligation de ‘halla. Le Rambam souligne aussi que les pains de remerciement et les galettes du nazir ne sont exemptés que lorsqu’ils sont préparés pour l’usage sacrificiel personnel ; lorsqu’ils sont fabriqués pour la vente, ils relèvent d’une fabrication ordinaire et sont donc soumis à la ‘halla."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 1:6",
+                "explication": "Le Tossafot Yom Tov précise que l’exemption des pains de l’offrande de reconnaissance et des galettes du nazir ne vient pas de leur forme ou de leur composition, car ce sont bien des préparations de pâte pouvant relever de la ‘halla. Elle dépend de leur destination : faits pour son propre sacrifice, ils sont destinés au domaine sacré ; faits pour être vendus au marché, ils n’ont pas encore reçu cette consécration et restent soumis à l’obligation ordinaire de ‘halla."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +209,27 @@
           "ref": "Mishnah Challah 1:7",
           "he": "נַחְתּוֹם שֶׁעָשָׂה שְׂאֹר לְחַלֵּק, חַיָּב בַּחַלָּה. נָשִׁים שֶׁנָּתְנוּ לְנַחְתּוֹם לַעֲשׂוֹת לָהֶן שְׂאֹר, אִם אֵין בְּשֶׁל אַחַת מֵהֶן כַּשִּׁעוּר, פְּטוּרָה מִן הַחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un boulanger qui a fait du levain afin de le répartir est tenu à la halla. Des femmes qui ont donné à un boulanger de quoi leur faire du levain : s’il n’y a pas, dans la part de l’une d’entre elles, la mesure requise, elle est dispensée de la halla.",
+          "etude_fr": {
+            "traduction_fr": "Un boulanger qui a fait du levain afin de le répartir est tenu à la halla. Des femmes qui ont donné à un boulanger de quoi leur faire du levain : s’il n’y a pas, dans la part de l’une d’entre elles, la mesure requise, elle est dispensée de la halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Halla 1:7",
+                "explication": "Le boulanger qui prépare du levain pour le diviser entre plusieurs personnes est néanmoins tenu à la halla, car tout appartient d’abord à un seul propriétaire et, s’il ne le vend pas, il peut finalement en faire une seule pâte. En revanche, lorsque plusieurs femmes donnent chacune leur matière au boulanger pour qu’il prépare du levain pour elles, chaque part reste la propriété de sa propriétaire ; si aucune part individuelle n’atteint la mesure imposant la halla, l’ensemble ne s’additionne pas pour les rendre obligées."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Halla 1:7",
+                "explication": "Le Rambam explique la différence entre les deux cas par la propriété de la pâte au moment où se forme l’obligation de halla. Dans le cas du boulanger, la masse est à lui, même s’il pense ensuite la partager ; elle est donc considérée comme une pâte unique ayant la mesure requise. Dans le cas des femmes, le boulanger n’est qu’un artisan qui travaille pour plusieurs propriétaires distinctes : l’association matérielle pendant la préparation ne fait pas de leurs parts une seule pâte halakhiquement, si chacune n’a pas la mesure."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Commentaire sur la Michna, Halla 1:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « afin de le répartir » signifie que le boulanger a l’intention de le diviser en portions. Malgré cette intention, il reste soumis à la halla, car l’intention de partage n’annule pas l’obligation lorsque la pâte appartient encore à une seule personne. À l’inverse, dans le second cas, le partage n’est pas seulement projeté : il existe déjà par la propriété séparée de chaque femme."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +238,32 @@
           "ref": "Mishnah Challah 1:8",
           "he": "עִסַּת הַכְּלָבִים, בִּזְמַן שֶׁהָרוֹעִים אוֹכְלִין מִמֶּנָּה, חַיֶּבֶת בַּחַלָּה, וּמְעָרְבִין בָּהּ, וּמִשְׁתַּתְּפִין בָּהּ, וּמְבָרְכִין עָלֶיהָ, וּמְזַמְּנִין עָלֶיהָ, וְנַעֲשֵׂית בְּיוֹם טוֹב, וְיוֹצֵא בָהּ אָדָם יְדֵי חוֹבָתוֹ בְּפֶסַח. אִם אֵין הָרוֹעִים אוֹכְלִין מִמֶּנָּה, אֵינָהּ חַיֶּבֶת בַּחַלָּה, וְאֵין מְעָרְבִין בָּהּ, וְאֵין מִשְׁתַּתְּפִין בָּהּ, וְאֵין מְבָרְכִין עָלֶיהָ, וְאֵין מְזַמְּנִין עָלֶיהָ, וְאֵינָהּ נַעֲשֵׂית בְּיוֹם טוֹב, וְאֵין אָדָם יוֹצֵא בָהּ יְדֵי חוֹבָתוֹ בְּפֶסַח. בֵּין כָּךְ וּבֵין כָּךְ, מִטַּמְּאָה טֻמְאַת אֳכָלִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La pâte destinée aux chiens : lorsque les bergers en mangent, elle est soumise à la halla ; on peut l’utiliser pour un érouv, on peut l’utiliser pour une association de domaines, on récite la bénédiction à son sujet, on s’associe au zimoun à son sujet, elle peut être faite à Yom Tov, et un homme s’acquitte avec elle de son obligation à Pessa’h. Si les bergers n’en mangent pas, elle n’est pas soumise à la halla ; on ne peut pas l’utiliser pour un érouv, on ne peut pas l’utiliser pour une association de domaines, on ne récite pas la bénédiction à son sujet, on ne s’associe pas au zimoun à son sujet, elle ne peut pas être faite à Yom Tov, et un homme ne s’acquitte pas avec elle de son obligation à Pessa’h. Dans un cas comme dans l’autre, elle contracte l’impureté des aliments.",
+          "etude_fr": {
+            "traduction_fr": "La pâte destinée aux chiens : lorsque les bergers en mangent, elle est soumise à la halla ; on peut l’utiliser pour un érouv, on peut l’utiliser pour une association de domaines, on récite la bénédiction à son sujet, on s’associe au zimoun à son sujet, elle peut être faite à Yom Tov, et un homme s’acquitte avec elle de son obligation à Pessa’h. Si les bergers n’en mangent pas, elle n’est pas soumise à la halla ; on ne peut pas l’utiliser pour un érouv, on ne peut pas l’utiliser pour une association de domaines, on ne récite pas la bénédiction à son sujet, on ne s’associe pas au zimoun à son sujet, elle ne peut pas être faite à Yom Tov, et un homme ne s’acquitte pas avec elle de son obligation à Pessa’h. Dans un cas comme dans l’autre, elle contracte l’impureté des aliments.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 1:8",
+                "explication": "La « pâte destinée aux chiens » désigne une pâte pétrie principalement pour nourrir les chiens. Si les bergers en mangent aussi, elle reçoit le statut de pain destiné à l’homme : elle est donc soumise à la halla, peut servir aux érouvin et aux associations de cours, on récite sur elle les bénédictions du pain et le zimoun, on peut la préparer à Yom Tov puisqu’elle est nourriture humaine, et elle peut servir de matsa pour l’obligation de Pessa’h. Mais si les bergers n’en mangent pas, elle n’est pas considérée comme pain de l’homme pour ces lois. Malgré cela, elle contracte l’impureté des aliments, car tout aliment susceptible d’être consommé par l’homme dans certaines conditions peut avoir un statut d’aliment quant à la toum’a."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 1:8",
+                "explication": "Le Rambam explique que toutes les lois énumérées dépendent du même principe : pour être soumise à la halla et pour servir à des mitsvot liées au pain, la pâte doit être faite comme nourriture d’êtres humains. Quand les bergers en mangent, l’intention et l’usage lui donnent le statut de pain ; quand ils n’en mangent pas, elle est nourriture animale et n’a pas ce statut. Toutefois, même lorsqu’elle est destinée aux chiens, elle demeure apte à l’impureté des aliments, car elle contient une matière alimentaire qui peut relever de la catégorie des aliments pour les lois de toum’a."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 1:8",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna juxtapose plusieurs domaines halakhiques pour montrer qu’ils reposent tous sur la définition de « pain » consommable par l’homme : halla, érouv, bénédiction, zimoun, préparation à Yom Tov et matsa de Pessa’h. L’expression « lorsque les bergers en mangent » ne signifie pas une consommation accidentelle, mais que cette pâte est effectivement considérée comme convenable et destinée aussi à des hommes. C’est pourquoi elle prend alors pleinement le statut de pain."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 1:8",
+                "explication": "Le Tiféret Israël précise que même une pâte grossière ou de moindre qualité peut être considérée comme pain si des hommes en mangent ordinairement. La différence n’est donc pas seulement la qualité de la pâte, mais sa destination : nourriture humaine ou nourriture animale. La conclusion, « dans un cas comme dans l’autre », enseigne que, bien qu’elle puisse être exclue de la halla et des mitsvot du pain, elle reste assez liée à la catégorie des aliments pour recevoir l’impureté alimentaire."
+              }
+            ]
+          }
         },
         {
           "id": "1:9",
@@ -95,8 +272,32 @@
           "ref": "Mishnah Challah 1:9",
           "he": "הַחַלָּה וְהַתְּרוּמָה, חַיָּבִין עָלֶיהָ מִיתָה וְחֹמֶשׁ, וַאֲסוּרִים לְזָרִים, וְהֵם נִכְסֵי כֹהֵן, וְעוֹלִין בְּאֶחָד וּמֵאָה, וּטְעוּנִין רְחִיצַת יָדַיִם וְהַעֲרֵב שֶׁמֶשׁ, וְאֵין נִטָּלִין מִן הַטָּהוֹר עַל הַטָּמֵא, אֶלָּא מִן הַמֻּקָּף וּמִן הַדָּבָר הַגָּמוּר. הָאוֹמֵר, כָּל גָּרְנִי תְרוּמָה וְכָל עִסָּתִי חַלָּה, לֹא אָמַר כְּלוּם, עַד שֶׁיְּשַׁיֵּר מִקְצָת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La ‘halla et la terouma : on est passible, à leur sujet, de mort et du paiement d’un cinquième ; elles sont interdites aux non-Cohanim ; elles sont la propriété du Cohen ; elles s’annulent dans une proportion d’un pour cent un ; elles nécessitent le lavage des mains et l’attente du coucher du soleil ; on ne les prélève pas du pur sur l’impur, mais seulement de ce qui est proche et de ce qui est entièrement achevé. Celui qui dit : « Toute mon aire de battage est terouma » ou : « Toute ma pâte est ‘halla », n’a rien dit, jusqu’à ce qu’il en laisse une partie.",
+          "etude_fr": {
+            "traduction_fr": "La ‘halla et la terouma : on est passible, à leur sujet, de mort et du paiement d’un cinquième ; elles sont interdites aux non-Cohanim ; elles sont la propriété du Cohen ; elles s’annulent dans une proportion d’un pour cent un ; elles nécessitent le lavage des mains et l’attente du coucher du soleil ; on ne les prélève pas du pur sur l’impur, mais seulement de ce qui est proche et de ce qui est entièrement achevé. Celui qui dit : « Toute mon aire de battage est terouma » ou : « Toute ma pâte est ‘halla », n’a rien dit, jusqu’à ce qu’il en laisse une partie.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:9",
+                "explication": "Bartenoura explique que la ‘halla a, dans ces lois, le même statut que la terouma. Un non-Cohen qui en mange volontairement est passible de mort par le Ciel ; s’il en mange involontairement, il doit rembourser le principal et ajouter un cinquième. Elles sont interdites aux étrangers, c’est-à-dire à ceux qui ne sont pas Cohanim, et deviennent la propriété du Cohen, qui peut en disposer comme de ses biens. Lorsqu’elles se mélangent à des aliments profanes de même espèce, elles ne sont annulées que si le mélange contient cent fois leur quantité en plus d’elles-mêmes, soit « un pour cent un ». Elles exigent aussi la pureté requise pour la terouma : les mains doivent être lavées avant de les toucher, et celui qui s’est immergé doit attendre le coucher du soleil avant d’en manger."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 1:9",
+                "explication": "Le Rambam souligne que la Michna énumère les règles communes à la terouma et à la ‘halla, car la ‘halla est appelée dans la Torah « terouma ». C’est pourquoi elle partage ses lois essentielles : interdiction aux non-Cohanim, sainteté entraînant l’obligation d’un cinquième en cas de consommation involontaire, annulation seulement dans cent et un, et exigences de pureté. Il explique aussi que le prélèvement doit se faire sur un produit arrivé au stade où il est soumis à l’obligation : pour la terouma, après l’achèvement du travail du grain ; pour la ‘halla, après que la pâte est devenue une pâte imposable."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Halla 1:9",
+                "explication": "Le Tossafot Yom Tov précise que les termes « mort et cinquième » ne décrivent pas une seule et même situation : la mort concerne la consommation volontaire par un non-Cohen, tandis que le cinquième est ajouté au remboursement lorsque la consommation a été involontaire. Il relève également que l’obligation de prélever « de ce qui est proche » signifie que la partie prélevée doit se trouver auprès de ce qu’elle vient acquitter, afin que le prélèvement soit fait de manière définie et ordonnée, comme pour la terouma."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, ‘Halla 1:9",
+                "explication": "Le Tiféret Israël explique que l’expression « il n’a rien dit » signifie que la déclaration ne produit aucun effet de sainteté : on ne peut pas faire de toute la récolte une terouma ni de toute la pâte une ‘halla. La Torah les appelle « prémices » ou « commencement » du prélèvement, ce qui implique qu’une partie seulement soit sanctifiée et qu’il reste une portion profane après le prélèvement. Tant qu’il ne laisse pas une partie non désignée, sa parole ne constitue pas un prélèvement valable."
+              }
+            ]
+          }
         }
       ]
     },
@@ -110,8 +311,27 @@
           "ref": "Mishnah Challah 2:1",
           "he": "פֵּרוֹת חוּצָה לָאָרֶץ שֶׁנִּכְנְסוּ לָאָרֶץ, חַיָּבִים בַּחַלָּה. יָצְאוּ מִכָּאן לְשָׁם, רַבִּי אֱלִיעֶזֶר מְחַיֵּב, וְרַבִּי עֲקִיבָא פּוֹטֵר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des produits de l’extérieur de la Terre d’Israël qui sont entrés en Terre d’Israël sont soumis à la halla. S’ils sont sortis d’ici vers là-bas : Rabbi Éliézer les soumet à l’obligation, et Rabbi Akiva les en dispense.",
+          "etude_fr": {
+            "traduction_fr": "Des produits de l’extérieur de la Terre d’Israël qui sont entrés en Terre d’Israël sont soumis à la halla. S’ils sont sortis d’ici vers là-bas : Rabbi Éliézer les soumet à l’obligation, et Rabbi Akiva les en dispense.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Halla 2:1",
+                "explication": "La Michna parle de céréales ou de farine dont la pâte a atteint son moment d’obligation de halla. Lorsque des produits venus de l’extérieur de la Terre d’Israël entrent en Terre d’Israël et que la pâte y est pétrie, ils sont soumis à la halla, car l’obligation dépend du lieu où la pâte devient tenue au prélèvement. En revanche, si des produits de Terre d’Israël sont sortis à l’extérieur avant ce moment, Rabbi Éliézer les oblige malgré tout, tandis que Rabbi Akiva les dispense, car selon lui l’obligation de la halla, au niveau de la Torah, ne s’applique qu’à une pâte devenue obligatoire en Terre d’Israël."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Halla 2:1",
+                "explication": "Le Rambam explique que l’élément déterminant est le lieu où intervient l’achèvement qui rend la pâte passible de halla, c’est-à-dire le pétrissage ou la formation de la pâte. Ainsi, une pâte faite en Terre d’Israël à partir de produits venus de l’extérieur est obligatoire. Mais lorsqu’ils sont sortis de Terre d’Israël avant d’être devenus obligatoires, Rabbi Akiva les dispense, et telle est la halakha."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Commentaire sur la Michna, Halla 2:1",
+                "explication": "Le Tossafot Yom Tov souligne que le terme « produits » désigne ici les espèces aptes à devenir soumises à la halla, c’est-à-dire les céréales entrant dans la fabrication du pain. La Michna ne traite pas d’une obligation déjà née, mais du statut de produits qui changent de territoire avant le moment où la halla devient exigible. C’est pourquoi l’entrée en Terre d’Israël entraîne l’obligation, tandis que la sortie avant ce moment fait l’objet de la controverse entre Rabbi Éliézer et Rabbi Akiva."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -120,8 +340,27 @@
           "ref": "Mishnah Challah 2:2",
           "he": "עֲפַר חוּצָה לָאָרֶץ שֶׁבָּא בִסְפִינָה לָאָרֶץ, חַיֶּבֶת בַּמַּעַשְׂרוֹת וּבַשְּׁבִיעִית. אָמַר רַבִּי יְהוּדָה, אֵימָתַי, בִּזְמַן שֶׁהַסְּפִינָה גוֹשֶׁשֶׁת. עִסָּה שֶׁנִּלּוֹשָׁה בְמֵי פֵרוֹת, חַיֶּבֶת בַּחַלָּה, וְנֶאֱכֶלֶת בְּיָדַיִם מְסוֹאָבוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "De la terre provenant de l’extérieur de la Terre d’Israël, qui est arrivée en Terre d’Israël par bateau, est soumise aux maasserot et aux lois de la septième année. Rabbi Yehouda dit : Quand cela s’applique-t-il ? Lorsque le bateau touche le fond. Une pâte pétrie avec des jus de fruits est soumise à la halla, et peut être mangée avec des mains impures.",
+          "etude_fr": {
+            "traduction_fr": "De la terre provenant de l’extérieur de la Terre d’Israël, qui est arrivée en Terre d’Israël par bateau, est soumise aux maasserot et aux lois de la septième année. Rabbi Yehouda dit : Quand cela s’applique-t-il ? Lorsque le bateau touche le fond. Une pâte pétrie avec des jus de fruits est soumise à la halla, et peut être mangée avec des mains impures.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 2:2",
+                "explication": "La Michna parle de terre de l’extérieur de la Terre d’Israël placée dans un bateau arrivé en Terre d’Israël. Si cette terre est considérée comme rattachée à la Terre d’Israël, ce qui y pousse est soumis aux maasserot et à la Chemita. Rabbi Yehouda précise que cela n’est vrai que lorsque le bateau « touche le fond », c’est-à-dire qu’il repose ou frotte sur le sol, de sorte que la terre contenue dans le bateau est considérée comme reliée au sol de la Terre d’Israël. Quant à la pâte pétrie avec des jus de fruits, elle est soumise à la halla, car l’obligation de halla dépend de la pâte faite avec les cinq espèces de céréales, même si elle n’a pas été pétrie avec de l’eau."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 2:2",
+                "explication": "Le Rambam explique que la première loi concerne le statut d’un récipient ou d’un bateau contenant de la terre : lorsqu’il y a rattachement au sol de la Terre d’Israël, les produits qui y poussent prennent le statut des produits de la Terre d’Israël pour les maasserot et la Chemita. Il précise aussi que des liquides provenant des fruits ne rendent pas les aliments susceptibles de recevoir l’impureté comme le font les sept liquides qui prédisposent à l’impureté. C’est pourquoi une pâte pétrie uniquement avec des jus de fruits, bien qu’elle soit tenue à la halla, peut être mangée avec des mains impures, car elle n’a pas été rendue apte à contracter l’impureté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 2:2",
+                "explication": "Le Tossafot Yom Tov souligne que la formulation « est soumise aux maasserot et à la septième année » signifie que ce qui pousse dans cette terre est traité comme une production de la Terre d’Israël lorsque le lien au sol est halakhiquement reconnu. Il relève également que l’expression « avec des mains impures » ne signifie pas que l’on méprise les règles de pureté, mais que cette pâte n’a pas reçu de statut d’aliment susceptible de devenir impur, puisque les jus de fruits seuls ne la rendent pas apte à l’impureté."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -130,8 +369,32 @@
           "ref": "Mishnah Challah 2:3",
           "he": "הָאִשָּׁה יוֹשֶׁבֶת וְקוֹצָה חַלָּתָהּ עֲרֻמָּה, מִפְּנֵי שֶׁהִיא יְכוֹלָה לְכַסּוֹת עַצְמָהּ, אֲבָל לֹא הָאִישׁ. מִי שֶׁאֵינוֹ יָכוֹל לַעֲשׂוֹת עִסָּתוֹ בְטָהֳרָה, יַעֲשֶׂנָּה קַבִּין, וְאַל יַעֲשֶׂנָּה בְטֻמְאָה. וְרַבִּי עֲקִיבָא אוֹמֵר, יַעֲשֶׂנָּה בְטֻמְאָה וְאַל יַעֲשֶׂנָּה קַבִּים, שֶׁכְּשֵׁם שֶׁהוּא קוֹרֵא לַטְּהוֹרָה, כָּךְ הוּא קוֹרֵא לַטְּמֵאָה, לְזוֹ קוֹרֵא חַלָּה בַשֵּׁם וּלְזוֹ קוֹרֵא חַלָּה בַשֵּׁם, אֲבָל קַבִּים אֵין לָהֶם חֵלֶק בַּשֵּׁם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La femme peut s’asseoir et prélever sa challah alors qu’elle est nue, car elle peut se couvrir elle-même ; mais non l’homme. Celui qui ne peut pas faire sa pâte en état de pureté, qu’il la fasse par kavs, et qu’il ne la fasse pas en état d’impureté. Rabbi Akiva dit : qu’il la fasse en état d’impureté, et qu’il ne la fasse pas par kavs ; car de même qu’il prononce l’appellation pour la pâte pure, ainsi il prononce l’appellation pour la pâte impure : pour celle-ci il prononce le nom de challah, et pour celle-là il prononce le nom de challah ; tandis que des kavs n’ont aucune part dans l’appellation.",
+          "etude_fr": {
+            "traduction_fr": "La femme peut s’asseoir et prélever sa challah alors qu’elle est nue, car elle peut se couvrir elle-même ; mais non l’homme. Celui qui ne peut pas faire sa pâte en état de pureté, qu’il la fasse par kavs, et qu’il ne la fasse pas en état d’impureté. Rabbi Akiva dit : qu’il la fasse en état d’impureté, et qu’il ne la fasse pas par kavs ; car de même qu’il prononce l’appellation pour la pâte pure, ainsi il prononce l’appellation pour la pâte impure : pour celle-ci il prononce le nom de challah, et pour celle-là il prononce le nom de challah ; tandis que des kavs n’ont aucune part dans l’appellation.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 2:3",
+                "explication": "La première loi concerne la bénédiction et la séparation de la challah : une femme assise nue peut le faire, car, dans cette position, sa nudité est couverte par le sol et son corps ; un homme, même assis, ne peut pas le faire ainsi, car sa nudité reste visible. Concernant celui qui ne peut pas préserver la pureté de sa pâte, le premier avis lui ordonne de pétrir en petites mesures, chacune inférieure au volume qui oblige à prélever la challah, afin de ne pas produire une challah impure."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 2:3",
+                "explication": "Le Rambam explique que « kavs » signifie faire la pâte par petites quantités n’atteignant pas le volume minimal qui entraîne l’obligation de challah. Ainsi, selon le premier avis, il vaut mieux éviter entièrement l’obligation que provoquer la séparation d’une challah impure, laquelle ne pourra pas être consommée par un Cohen et devra être traitée comme une chose sainte devenue impure."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 2:3",
+                "explication": "Il souligne la logique de Rabbi Akiva : même si la challah est impure, l’acte de désignation existe pleinement, car on lui donne le nom de challah comme pour une challah pure. En revanche, lorsqu’on pétrit par petites mesures de kavs, il n’y a pas d’obligation de challah et donc aucune désignation sainte n’a lieu. Rabbi Akiva préfère donc maintenir l’accomplissement de la mitsva, même dans une situation d’impureté."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 2:3",
+                "explication": "Le Tiféret Israël précise que l’expression « elle peut se couvrir elle-même » signifie que la femme, par sa position assise, n’est pas considérée comme exposée pour les exigences de pudeur liées à une parole de sainteté. Il explique aussi que la discussion entre les Sages et Rabbi Akiva porte sur la priorité halakhique : éviter la production d’une challah impure, ou bien préserver l’acte de prélèvement et l’appellation de challah."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -140,8 +403,27 @@
           "ref": "Mishnah Challah 2:4",
           "he": "הָעוֹשֶׂה עִסָּתוֹ קַבִּים וְנָגְעוּ זֶה בָזֶה, פְּטוּרִים מִן הַחַלָּה עַד שֶׁיִּשּׁוֹכוּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הָרוֹדֶה וְנוֹתֵן לַסַּל, הַסַּל מְצָרְפָן לַחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui prépare sa pâte par quantités d’un kav, et qu’elles se sont touchées l’une l’autre, elles sont exemptes de la halla jusqu’à ce qu’elles s’attachent l’une à l’autre. Rabbi Éliézer dit : même celui qui retire les pains du four et les dépose dans un panier, le panier les associe pour l’obligation de la halla.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui prépare sa pâte par quantités d’un kav, et qu’elles se sont touchées l’une l’autre, elles sont exemptes de la halla jusqu’à ce qu’elles s’attachent l’une à l’autre. Rabbi Éliézer dit : même celui qui retire les pains du four et les dépose dans un panier, le panier les associe pour l’obligation de la halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Halla 2:4",
+                "explication": "« Par quantités d’un kav » signifie que chaque pâte, prise séparément, ne possède pas la mesure minimale qui rend obligatoire le prélèvement de la halla. Le simple contact entre ces pâtes ne suffit pas à les associer ; elles ne deviennent considérées comme une seule pâte que lorsqu’elles s’attachent au point que, si l’on en séparait une, une partie de l’autre serait entraînée avec elle. Rabbi Éliézer ajoute que, même après cuisson, lorsque les pains sont retirés du four et placés ensemble dans un panier, le panier les réunit et les rend soumis à l’obligation de halla si, ensemble, ils atteignent la mesure requise."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Halla 2:4",
+                "explication": "Le Rambam explique que des petites pâtes, dont chacune est inférieure au volume imposable, ne s’additionnent pas par un simple voisinage. Il faut une jonction réelle entre elles, appelée ici « qu’elles s’attachent ». Quant à l’opinion de Rabbi Éliézer, elle enseigne une autre forme d’association : le récipient commun. Même si les pâtes ont déjà été cuites en pains séparés, le fait de les rassembler dans un même panier peut les associer pour compléter la mesure de halla."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Halla 2:4",
+                "explication": "Le Tossafot Yom Tov précise que la Michna distingue deux modes d’association : l’attachement des pâtes avant cuisson, et l’association par le panier après cuisson selon Rabbi Éliézer. L’expression « le panier les associe » ne signifie pas que les pains deviennent matériellement une seule pâte, mais que, du point de vue de la halakha de halla, le récipient commun leur donne une unité suffisante pour les rendre obligatoires lorsqu’ils totalisent la mesure requise."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -150,8 +432,32 @@
           "ref": "Mishnah Challah 2:5",
           "he": "הַמַּפְרִישׁ חַלָּתוֹ קֶמַח, אֵינָהּ חַלָּה, וְגָזֵל בְּיַד כֹּהֵן. הָעִסָּה עַצְמָהּ, חַיֶּבֶת בַּחַלָּה. וְהַקֶּמַח, אִם יֶשׁ בּוֹ כַשִּׁעוּר, חַיֶּבֶת בַּחַלָּה, וַאֲסוּרָה לְזָרִים, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. אָמְרוּ לוֹ, מַעֲשֶׂה וּקְפָשָׁהּ זָקֵן זָר. אָמַר לָהֶם, אַף הוּא קִלְקֵל לְעַצְמוֹ וְתִקֵּן לַאֲחֵרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui prélève sa ‘halla sous forme de farine : ce n’est pas une ‘halla, et il y a un vol entre les mains du Cohen. La pâte elle-même demeure tenue au prélèvement de la ‘halla. Quant à la farine, s’il y en a la quantité requise, elle est tenue au prélèvement de la ‘halla, et elle est interdite aux non-Cohanim : paroles de Rabbi Yehochoua. Ils lui dirent : Il arriva pourtant qu’un vieillard non-Cohen s’en empara. Il leur dit : Lui aussi a causé un dommage pour lui-même et a apporté une réparation pour les autres.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui prélève sa ‘halla sous forme de farine : ce n’est pas une ‘halla, et il y a un vol entre les mains du Cohen. La pâte elle-même demeure tenue au prélèvement de la ‘halla. Quant à la farine, s’il y en a la quantité requise, elle est tenue au prélèvement de la ‘halla, et elle est interdite aux non-Cohanim : paroles de Rabbi Yehochoua. Ils lui dirent : Il arriva pourtant qu’un vieillard non-Cohen s’en empara. Il leur dit : Lui aussi a causé un dommage pour lui-même et a apporté une réparation pour les autres.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 2:5",
+                "explication": "La ‘halla ne peut être prélevée tant que la farine n’est pas devenue pâte, car l’obligation de ‘halla commence au moment du pétrissage. Si l’on a donné de la farine au Cohen en disant qu’elle est ‘halla, ce prélèvement n’a pas pris effet ; le Cohen qui la garde détient donc ce qui ne lui appartient pas, d’où l’expression « vol entre les mains du Cohen ». La pâte d’où l’on a voulu prélever reste entièrement soumise à l’obligation de ‘halla. Quant à la farine donnée, si elle contient elle-même la quantité minimale soumise à la ‘halla, elle devra aussi être prélevée lorsqu’elle sera pétrie. Selon Rabbi Yehochoua, elle est en outre interdite aux non-Cohanim, car l’intention de l’homme l’a désignée comme ‘halla et elle doit être traitée avec rigueur."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 2:5",
+                "explication": "Le Rambam explique que le prélèvement de ‘halla effectué avant la formation de la pâte est nul : la Torah n’a rendu obligatoire la ‘halla qu’à partir d’une pâte, non à partir de farine. C’est pourquoi la pâte initiale reste tenue à la ‘halla. La farine séparée, si elle atteint le volume minimal, n’est pas exemptée par le fait qu’on l’a appelée ‘halla ; elle constitue une masse de farine susceptible d’être pétrie et deviendra alors elle-même soumise à la ‘halla. Rabbi Yehochoua la considère interdite aux étrangers, c’est-à-dire aux non-Cohanim, en raison de la sainteté que l’on a voulu lui conférer."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur ‘Halla 2:5",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la Michna : elle ne dit pas seulement que le prélèvement est invalide, mais ajoute que c’est un vol entre les mains du Cohen, car le propriétaire n’était pas tenu de lui donner cette farine et le don n’a pas acquis le statut de ‘halla. Il relève aussi que la farine séparée n’est pas dispensée de la ‘halla : si elle a la quantité requise, elle porte sa propre obligation lorsqu’elle deviendra pâte. L’épisode du vieillard non-Cohen n’est pas une preuve contre Rabbi Yehochoua ; au contraire, celui qui l’a prise a fauté pour lui-même, mais son acte a permis aux autres de comprendre que ce prélèvement initial ne libérait pas la pâte de son obligation."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur ‘Halla 2:5",
+                "explication": "Le Tiféret Israël explique l’expression « il a causé un dommage pour lui-même et a apporté une réparation pour les autres » : le vieillard non-Cohen qui s’est emparé de cette farine a agi de manière fautive selon Rabbi Yehochoua, puisqu’elle était interdite aux non-Cohanim. Mais son geste a servi d’enseignement public : il a montré que le prélèvement fait à l’état de farine ne fonctionne pas comme une ‘halla valable et ne dispense pas la pâte d’un nouveau prélèvement. Ainsi, son acte a été une faute personnelle, tout en évitant aux autres une erreur halakhique."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -160,8 +466,27 @@
           "ref": "Mishnah Challah 2:6",
           "he": "חֲמֵשֶׁת רְבָעִים קֶמַח, חַיָּבִים בַּחַלָּה. הֵם וּשְׂאֹרָן וְסֻבָּן וּמֻרְסָנָן חֲמֵשֶׁת רְבָעִים, חַיָּבִין. נִטַּל מֻרְסָנָן מִתּוֹכָן וְחָזַר לְתוֹכָן, הֲרֵי אֵלּוּ פְטוּרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Cinq quarts de farine sont soumis à la halla. Si eux, avec leur levain, leur son et leur gros son, font ensemble cinq quarts, ils sont soumis à la halla. Si leur gros son a été retiré d’eux puis est revenu en eux, ceux-ci sont exempts.",
+          "etude_fr": {
+            "traduction_fr": "Cinq quarts de farine sont soumis à la halla. Si eux, avec leur levain, leur son et leur gros son, font ensemble cinq quarts, ils sont soumis à la halla. Si leur gros son a été retiré d’eux puis est revenu en eux, ceux-ci sont exempts.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Halla 2:6",
+                "explication": "Le volume minimal qui rend une pâte soumise à la halla est de cinq quarts de kav de farine. Le son fin et le gros son qui se trouvent naturellement mêlés à la farine s’associent à cette mesure, car ils font encore partie de la farine telle qu’elle est pétrie. En revanche, si le gros son a été séparé puis remis dans la farine, il ne s’associe plus pour compléter la mesure : la farine seule n’atteignait pas le volume requis au moment où elle a été considérée comme farine proprement dite."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Halla 2:6",
+                "explication": "Le Rambam explique que la mesure de l’obligation de halla est évaluée selon la farine destinée au pétrissage. Les éléments secondaires qui y sont encore attachés — levain, son et gros son — sont inclus tant qu’ils n’ont pas été séparés. Mais une fois séparés, ils perdent leur statut d’éléments constitutifs de la farine pour le calcul de la mesure ; leur réintroduction ne permet donc pas de rendre la pâte obligatoire."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Halla 2:6",
+                "explication": "Il précise la distinction de la Michna : lorsque le son et le gros son n’ont jamais été retirés, ils sont considérés comme une partie normale de la mouture et complètent les cinq quarts. Mais lorsque le gros son a été extrait, on voit par cet acte qu’il a été écarté de la farine ; même s’il est ensuite remis, il n’est plus compté pour atteindre le seuil de l’obligation de halla."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -170,8 +495,32 @@
           "ref": "Mishnah Challah 2:7",
           "he": "שִׁעוּר הַחַלָּה, אֶחָד מֵעֶשְׂרִים וְאַרְבָּעָה. הָעוֹשֶׂה עִסָּה לְעַצְמוֹ, וְהָעוֹשֶׂה לְמִשְׁתֵּה בְנוֹ, אֶחָד מֵעֶשְׂרִים וְאַרְבָּעָה. נַחְתּוֹם שֶׁהוּא עוֹשֶׂה לִמְכֹּר בַּשּׁוּק, וְכֵן הָאִשָּׁה שֶׁהִיא עוֹשָׂה לִמְכֹּר בַּשּׁוּק, אֶחָד מֵאַרְבָּעִים וּשְׁמֹנָה. נִטְמֵאת עִסָּתָהּ שׁוֹגֶגֶת אוֹ אֲנוּסָה, אֶחָד מֵאַרְבָּעִים וּשְׁמֹנָה. נִטְמֵאת מְזִידָה, אֶחָד מֵעֶשְׂרִים וְאַרְבָּעָה, כְּדֵי שֶׁלֹּא יְהֵא חוֹטֵא נִשְׂכָּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La mesure de la ‘halla est d’un vingt-quatrième. Celui qui fait une pâte pour lui-même, ou celui qui la fait pour le festin de son fils : un vingt-quatrième. Un boulanger qui la fait pour vendre au marché, de même qu’une femme qui la fait pour vendre au marché : un quarante-huitième. Si sa pâte est devenue impure par inadvertance ou par contrainte : un quarante-huitième. Si elle est devenue impure volontairement : un vingt-quatrième, afin que le pécheur ne tire pas profit de sa faute.",
+          "etude_fr": {
+            "traduction_fr": "La mesure de la ‘halla est d’un vingt-quatrième. Celui qui fait une pâte pour lui-même, ou celui qui la fait pour le festin de son fils : un vingt-quatrième. Un boulanger qui la fait pour vendre au marché, de même qu’une femme qui la fait pour vendre au marché : un quarante-huitième. Si sa pâte est devenue impure par inadvertance ou par contrainte : un quarante-huitième. Si elle est devenue impure volontairement : un vingt-quatrième, afin que le pécheur ne tire pas profit de sa faute.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 2:7",
+                "explication": "La Torah n’a pas fixé de mesure minimale à la ‘halla : même une quantité infime acquitte l’obligation. Les Sages ont cependant établi une mesure : pour un particulier, un vingt-quatrième de la pâte. Pour un boulanger ou toute personne qui prépare pour vendre, ils ont fixé un quarante-huitième, car la quantité de pâte est importante et une mesure plus grande entraînerait une perte excessive ; de plus, la ‘halla étant destinée au Cohen, même un quarante-huitième représente une portion honorable lorsque la pâte est grande."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 2:7",
+                "explication": "Le Rambam explique que ces mesures sont d’institution rabbinique. Celui qui prépare pour son usage personnel donne un vingt-quatrième, même lorsqu’il prépare pour une grande occasion familiale, comme le repas de mariage de son fils, car cela reste considéré comme une préparation domestique et non commerciale. En revanche, celui qui produit pour vendre donne un quarante-huitième, en raison de la nature professionnelle de sa production."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 2:7",
+                "explication": "Il précise que la mention du festin du fils vient exclure l’idée que, puisqu’il prépare une grande quantité, il serait assimilé au boulanger. La Michna enseigne donc que tant que la pâte est faite pour soi et ses invités, et non pour la vente, la mesure demeure un vingt-quatrième."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 2:7",
+                "explication": "Lorsque la pâte est devenue impure, la ‘halla prélevée ne pourra pas être consommée par le Cohen et devra être brûlée. C’est pourquoi, si l’impureté est survenue par inadvertance ou sous contrainte, les Sages ont allégé la mesure à un quarante-huitième afin de limiter la perte. Mais si l’impureté a été provoquée volontairement, ils ont maintenu la mesure plus élevée d’un vingt-quatrième, afin que celui qui a fauté ne gagne pas à cause de sa faute."
+              }
+            ]
+          }
         },
         {
           "id": "2:8",
@@ -180,8 +529,27 @@
           "ref": "Mishnah Challah 2:8",
           "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, נִטֶּלֶת מִן הַטָּהוֹר עַל הַטָּמֵא. כֵּיצַד, עִסָּה טְהוֹרָה וְעִסָּה טְמֵאָה, נוֹטֵל כְּדֵי חַלָּה מֵעִסָּה שֶׁלֹּא הוּרָם חַלָּתָהּ, וְנוֹתֵן פָּחוֹת מִכַּבֵּיצָה בָּאֶמְצַע, כְּדֵי שֶׁיִּטֹּל מִן הַמֻּקָּף. וַחֲכָמִים אוֹסְרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Éliézer dit : elle peut être prélevée du pur pour l’impur. Comment cela ? S’il y a une pâte pure et une pâte impure, il prélève la quantité requise pour la challah d’une pâte dont la challah n’a pas encore été prélevée, et il place au milieu moins que le volume d’un œuf, afin de prélever à partir de ce qui est contigu. Mais les Sages l’interdisent.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Éliézer dit : elle peut être prélevée du pur pour l’impur. Comment cela ? S’il y a une pâte pure et une pâte impure, il prélève la quantité requise pour la challah d’une pâte dont la challah n’a pas encore été prélevée, et il place au milieu moins que le volume d’un œuf, afin de prélever à partir de ce qui est contigu. Mais les Sages l’interdisent.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 2:8",
+                "explication": "Rabbi Éliézer permet de prélever la challah à partir d’une pâte pure pour acquitter une pâte impure, à condition que les pâtes soient considérées comme réunies. Pour cela, on place entre elles un morceau de pâte de moins qu’un kabeitsa : il crée une continuité permettant le prélèvement « מן המוקף », depuis des éléments proches et joints, sans transmettre l’impureté à la pâte pure, car un aliment de moins qu’un kabeitsa ne transmet pas l’impureté à d’autres aliments. Les Sages interdisent néanmoins ce procédé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 2:8",
+                "explication": "Le Rambam explique que l’enjeu de la Michna est l’obligation de prélever la challah de ce qui est réuni et proche, et non d’un endroit séparé. Rabbi Éliézer considère que le petit morceau placé entre les deux pâtes suffit à les rendre contiguës pour le prélèvement, tout en évitant que la pureté de la pâte pure soit atteinte. Les Sages ne l’acceptent pas et interdisent de prélever ainsi du pur sur l’impur."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 2:8",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « afin de prélever à partir de ce qui est contigu » signifie que le prélèvement de la challah doit idéalement se faire lorsque les pâtes sont en proximité effective. Le morceau intermédiaire de moins qu’un kabeitsa sert donc à produire cette jonction halakhique. La discussion porte sur la validité de cette jonction lorsqu’elle est réalisée de manière à empêcher la transmission de l’impureté."
+              }
+            ]
+          }
         }
       ]
     },
@@ -195,8 +563,32 @@
           "ref": "Mishnah Challah 3:1",
           "he": "אוֹכְלִין עֲרַאי מִן הָעִסָּה, עַד שֶׁתִּתְגַּלְגֵּל בַּחִטִּים וְתִטַּמְטֵם בַּשְּׂעוֹרִים. גִּלְגְּלָהּ בַּחִטִּים וְטִמְטְמָהּ בַּשְּׂעוֹרִים, הָאוֹכֵל מִמֶּנָּה חַיָּב מִיתָה. כֵּיוָן שֶׁהִיא נוֹתֶנֶת אֶת הַמַּיִם, מַגְבַּהַת חַלָּתָהּ, וּבִלְבַד שֶׁלֹּא יְהֵא שָׁם חֲמִשָּׁה רִבְעֵי קֶמַח:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On peut manger de manière provisoire de la pâte, jusqu’à ce qu’elle soit pétrie et formée pour le blé, et jusqu’à ce qu’elle soit agglomérée pour l’orge. Une fois qu’elle a été pétrie et formée pour le blé, ou agglomérée pour l’orge, celui qui en mange est passible de mort. Dès qu’elle met l’eau, elle peut prélever sa ‘halla, à condition qu’il n’y ait pas là cinq quarts de qav de farine.",
+          "etude_fr": {
+            "traduction_fr": "On peut manger de manière provisoire de la pâte, jusqu’à ce qu’elle soit pétrie et formée pour le blé, et jusqu’à ce qu’elle soit agglomérée pour l’orge. Une fois qu’elle a été pétrie et formée pour le blé, ou agglomérée pour l’orge, celui qui en mange est passible de mort. Dès qu’elle met l’eau, elle peut prélever sa ‘halla, à condition qu’il n’y ait pas là cinq quarts de qav de farine.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challa 3:1",
+                "explication": "Avant que la pâte n’ait atteint le stade qui la rend astreinte à la ‘halla, il est permis d’en manger de façon provisoire. Pour une pâte de blé, ce stade est appelé « guilgoul » : la farine et l’eau ont été suffisamment travaillées pour former une pâte. Pour l’orge, dont la pâte se rassemble moins bien, le stade est appelé « timtoum » : elle s’est agglomérée. Après ce moment, tant que la ‘halla n’a pas été prélevée, la pâte a le statut de tével pour la ‘halla ; celui qui en mange volontairement est donc passible de mort par le Ciel."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challa 3:1",
+                "explication": "Le Rambam explique que la Michna fixe le moment précis où l’obligation de ‘halla prend effet. Avant l’achèvement du travail de la pâte, la consommation occasionnelle reste permise ; après l’achèvement, la pâte non prélevée est interdite. Il précise aussi que le prélèvement peut être effectué dès le début du processus, dès que l’eau est versée sur la farine, bien que l’obligation complète ne soit pas encore arrivée, car ce prélèvement sera valable pour la pâte qui se forme."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challa 3:1",
+                "explication": "Le Tossafot Yom Tov souligne la différence de langage entre le blé et l’orge : la pâte de blé se travaille et se roule en une masse cohérente, d’où « titgalgel », tandis que la pâte d’orge se compacte différemment, d’où « titamtem ». Il explique également que la permission de prélever dès l’ajout de l’eau est limitée : il ne doit pas rester une quantité de farine équivalente à cinq quarts de qav qui ne soit pas encore intégrée, car cette quantité pourrait constituer une obligation indépendante qui ne serait pas correctement incluse dans le prélèvement."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challa 3:1",
+                "explication": "Le Tiféret Israël clarifie que « manger de manière provisoire » signifie une consommation non fixe, avant que la pâte ne soit devenue astreinte à la ‘halla. Une fois le stade de guilgoul ou de timtoum atteint, même une petite consommation de cette pâte est interdite avant prélèvement. Quant à la condition des cinq quarts de qav, elle garantit que le prélèvement anticipé couvre bien toute la pâte concernée et qu’il ne reste pas une mesure de farine susceptible d’être astreinte séparément."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -205,8 +597,32 @@
           "ref": "Mishnah Challah 3:2",
           "he": "נִדְמְעָה עִסָּתָהּ עַד שֶׁלֹּא גִלְגְּלָה, פְּטוּרָה, שֶׁהַמְּדֻמָּע פָּטוּר. וּמִשֶּׁגִּלְגְּלָה, חַיֶּבֶת. נוֹלַד לָהּ סְפֵק טֻמְאָה עַד שֶׁלֹּא גִלְגְּלָה, תֵּעָשֶׂה בְטֻמְאָה, וּמִשֶּׁגִּלְגְּלָה, תֵּעָשֶׂה בְטָהֳרָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si sa pâte est devenue médouma avant qu’elle ne l’ait pétrie, elle est exemptée, car ce qui est médouma est exempté. Mais si cela s’est produit après qu’elle l’a pétrie, elle est astreinte. S’il lui est né un doute d’impureté avant qu’elle ne l’ait pétrie, elle sera préparée en état d’impureté ; mais si cela s’est produit après qu’elle l’a pétrie, elle sera préparée en état de pureté.",
+          "etude_fr": {
+            "traduction_fr": "Si sa pâte est devenue médouma avant qu’elle ne l’ait pétrie, elle est exemptée, car ce qui est médouma est exempté. Mais si cela s’est produit après qu’elle l’a pétrie, elle est astreinte. S’il lui est né un doute d’impureté avant qu’elle ne l’ait pétrie, elle sera préparée en état d’impureté ; mais si cela s’est produit après qu’elle l’a pétrie, elle sera préparée en état de pureté.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 3:2",
+                "explication": "« Médouma » désigne une pâte profane dans laquelle est tombée de la terouma, au point qu’elle devient interdite aux non-Cohanim et a le statut de médouma. Or une pâte médouma est exemptée de la ‘halla, car elle n’est pas considérée comme une pâte ordinaire appartenant pleinement au domaine profane soumis à cette obligation. Toutefois, si l’obligation de ‘halla est déjà entrée en vigueur par le pétrissage, le fait qu’elle devienne ensuite médouma ne retire pas l’obligation déjà acquise."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 3:2",
+                "explication": "Le Rambam explique que le moment déterminant pour l’obligation de ‘halla est le guilgoul, c’est-à-dire le pétrissage où la farine et l’eau deviennent une pâte. Tout ce qui survient avant ce moment définit le statut de la pâte avant son obligation : si elle est médouma, elle reste exemptée. Mais si l’événement survient après le guilgoul, la pâte a déjà été astreinte à la ‘halla, et cette obligation demeure."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Halla 3:2",
+                "explication": "Il souligne le parallèle entre les deux cas de la Michna : pour la médouma comme pour le doute d’impureté, tout dépend du moment du guilgoul. Avant le guilgoul, la pâte n’a pas encore reçu son obligation de ‘halla ; après le guilgoul, elle est déjà entrée dans le domaine de l’obligation, et l’on doit dès lors préserver ce qui devra être prélevé comme ‘halla."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, ‘Halla 3:2",
+                "explication": "Dans le cas d’un doute d’impureté né avant le pétrissage, la pâte peut être préparée en état d’impureté, car la ‘halla n’est pas encore obligatoire et l’on n’est pas tenu de la préserver en pureté. En revanche, si le doute apparaît après le pétrissage, la ‘halla est déjà devenue obligatoire ; on doit donc continuer à préparer la pâte en état de pureté, afin de ne pas rendre impure la part destinée au Cohen."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -215,8 +631,27 @@
           "ref": "Mishnah Challah 3:3",
           "he": "הִקְדִּישָׁה עִסָּתָהּ עַד שֶׁלֹּא גִלְגְּלָה, וּפְדָאַתָּהּ, חַיֶּבֶת. מִשֶּׁגִּלְגְּלָה, וּפְדָאַתָּה, חַיֶּבֶת. הִקְדִּישַׁתָּהּ עַד שֶׁלֹּא גִלְגְּלָה, וְגִלְגְּלָהּ הַגִּזְבָּר, וְאַחַר כָּךְ פְּדָאַתָּהּ, פְּטוּרָה, שֶׁבִּשְׁעַת חוֹבָתָהּ הָיְתָה פְטוּרָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si elle a consacré sa pâte avant de l’avoir pétrie, puis l’a rachetée, elle est soumise à l’obligation de la ‘halla. Si elle l’a consacrée après l’avoir pétrie, puis l’a rachetée, elle est soumise à l’obligation. Si elle l’a consacrée avant de l’avoir pétrie, que le trésorier du Temple l’a pétrie, puis qu’elle l’a ensuite rachetée, elle est exemptée, car au moment où l’obligation devait s’appliquer, elle en était exemptée.",
+          "etude_fr": {
+            "traduction_fr": "Si elle a consacré sa pâte avant de l’avoir pétrie, puis l’a rachetée, elle est soumise à l’obligation de la ‘halla. Si elle l’a consacrée après l’avoir pétrie, puis l’a rachetée, elle est soumise à l’obligation. Si elle l’a consacrée avant de l’avoir pétrie, que le trésorier du Temple l’a pétrie, puis qu’elle l’a ensuite rachetée, elle est exemptée, car au moment où l’obligation devait s’appliquer, elle en était exemptée.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challa 3:3",
+                "explication": "Le moment qui rend la pâte astreinte à la ‘halla est le gilgoul, c’est-à-dire le pétrissage qui rassemble la farine et l’eau en pâte. Si la pâte a été consacrée avant ce moment mais rachetée avant le pétrissage, elle devient une pâte profane au moment de son obligation et elle est donc tenue de la ‘halla. Si elle a été consacrée après le pétrissage, l’obligation de ‘halla s’était déjà fixée avant la consécration ; lorsqu’elle est rachetée, cette obligation demeure. En revanche, si le pétrissage a été fait par le trésorier alors que la pâte appartenait au hekdesh, elle était exemptée précisément au moment où l’obligation aurait dû naître ; elle reste donc exemptée même après son rachat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challa 3:3",
+                "explication": "Le Rambam explique que les biens consacrés au Temple ne sont pas soumis à la ‘halla, car l’obligation ne concerne que la pâte appartenant à un particulier. Tout dépend donc de l’état juridique de la pâte au moment du gilgoul. Si, à ce moment-là, elle appartient au hekdesh, aucune obligation ne prend effet ; le rachat ultérieur ne crée pas une nouvelle obligation, puisque le moment déterminant est déjà passé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challa 3:3",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la Michna : dans les deux premiers cas, la pâte est finalement astreinte, mais pour deux raisons différentes. Dans le premier cas, elle est profane au moment où l’obligation commence ; dans le second, l’obligation a déjà commencé avant la consécration. Le dernier cas enseigne le principe général : lorsque, à l’instant même où la pâte aurait dû devenir obligatoire, elle est dans un statut qui l’exempte, l’obligation ne s’attache pas à elle par la suite."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -225,8 +660,27 @@
           "ref": "Mishnah Challah 3:4",
           "he": "כַּיּוֹצֵא בוֹ, הַמַּקְדִּישׁ פֵּרוֹתָיו עַד שֶׁלֹּא בָאוּ לְעוֹנַת הַמַּעַשְׂרוֹת, וּפְדָאָן, חַיָּבִין. וּמִשֶּׁבָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת, וּפְדָאָן, חַיָּבִין. הִקְדִּישָׁן עַד שֶׁלֹּא נִגְמְרוּ, וּגְמָרָן הַגִּזְבָּר, וְאַחַר כָּךְ פְּדָאָן, פְּטוּרִין, שֶׁבִּשְׁעַת חוֹבָתָן הָיוּ פְטוּרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "De même : celui qui consacre ses fruits avant qu’ils n’aient atteint la période où ils deviennent soumis aux maasserot, puis les rachète, ils sont soumis à l’obligation. Et s’ils avaient déjà atteint la période où ils deviennent soumis aux maasserot, puis qu’il les rachète, ils sont soumis à l’obligation. S’il les a consacrés avant qu’ils ne soient achevés, et que le trésorier les a achevés, puis qu’ensuite il les a rachetés, ils sont exemptés, car au moment où leur obligation prenait effet, ils étaient exemptés.",
+          "etude_fr": {
+            "traduction_fr": "De même : celui qui consacre ses fruits avant qu’ils n’aient atteint la période où ils deviennent soumis aux maasserot, puis les rachète, ils sont soumis à l’obligation. Et s’ils avaient déjà atteint la période où ils deviennent soumis aux maasserot, puis qu’il les rachète, ils sont soumis à l’obligation. S’il les a consacrés avant qu’ils ne soient achevés, et que le trésorier les a achevés, puis qu’ensuite il les a rachetés, ils sont exemptés, car au moment où leur obligation prenait effet, ils étaient exemptés.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 3:4",
+                "explication": "Bartenoura explique que la Michna énonce, au sujet des fruits et des maasserot, le même principe que pour la pâte et la challah : ce qui appartient au Temple est exempt. Toutefois, l’exemption ne s’établit que si le moment déterminant de l’obligation survient alors que les fruits sont consacrés. Ainsi, si les fruits ont été consacrés puis rachetés avant que leur achèvement ne crée l’obligation effective de prélever, ils redeviennent profanes et seront soumis aux maasserot. Mais si le trésorier du Temple les a achevés alors qu’ils étaient encore consacrés, ils sont exemptés même après leur rachat, car le moment de l’obligation est passé dans un état d’exemption."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:4",
+                "explication": "Le Rambam précise que l’« époque des maasserot » désigne le stade de croissance à partir duquel les fruits commencent à entrer dans le domaine de l’obligation, tandis que l’obligation complète dépend de leur achèvement. La consécration au Temple retire les fruits du régime ordinaire des prélèvements. C’est pourquoi la Michna distingue entre des fruits rachetés avant l’achèvement, qui deviennent alors soumis à l’obligation, et des fruits dont l’achèvement a été fait par le trésorier alors qu’ils appartenaient au Temple : ceux-ci restent exemptés, car l’obligation n’a jamais pu s’appliquer à eux au moment décisif."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:4",
+                "explication": "Le Tossafot Yom Tov souligne la formulation « au moment de leur obligation » : ce n’est pas seulement le fait d’avoir été consacrés à un moment donné qui exempte ou oblige, mais l’état juridique des fruits au moment précis où l’obligation de prélèvement se fixe. La Michna vient donc enseigner que même si les fruits redeviennent profanes par rachat, on ne recrée pas rétroactivement une obligation qui n’existait pas lorsque leur achèvement a eu lieu dans le domaine du Temple."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -235,8 +689,32 @@
           "ref": "Mishnah Challah 3:5",
           "he": "נָכְרִי שֶׁנָּתַן לְיִשְׂרָאֵל לַעֲשׂוֹת לוֹ עִסָּה, פְּטוּרָה מִן הַחַלָּה. נְתָנָהּ לוֹ מַתָּנָה, עַד שֶׁלֹּא גִלְגֵּל, חַיָּב, וּמִשֶּׁגִּלְגֵּל, פָּטוּר. הָעוֹשֶׂה עִסָּה עִם הַנָּכְרִי, אִם אֵין בְּשֶׁל יִשְׂרָאֵל כְּשִׁעוּר חַלָּה, פְּטוּרָה מִן הַחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un non-Juif qui a donné à un Israël de quoi lui faire une pâte : elle est exemptée de la ‘halla. S’il la lui a donnée en cadeau : si c’est avant qu’il ne l’ait pétrie, elle est tenue à la ‘halla ; et si c’est après qu’il l’a pétrie, elle est exemptée. Celui qui fait une pâte avec un non-Juif : si, dans la part de l’Israël, il n’y a pas la mesure requise pour la ‘halla, elle est exemptée de la ‘halla.",
+          "etude_fr": {
+            "traduction_fr": "Un non-Juif qui a donné à un Israël de quoi lui faire une pâte : elle est exemptée de la ‘halla. S’il la lui a donnée en cadeau : si c’est avant qu’il ne l’ait pétrie, elle est tenue à la ‘halla ; et si c’est après qu’il l’a pétrie, elle est exemptée. Celui qui fait une pâte avec un non-Juif : si, dans la part de l’Israël, il n’y a pas la mesure requise pour la ‘halla, elle est exemptée de la ‘halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 3:5",
+                "explication": "La pâte appartenant à un non-Juif est exemptée de la ‘halla, même si un Israël la pétrit pour lui, car l’obligation dépend de la propriété de la pâte au moment où elle devient soumise à la ‘halla. Ce moment est le guilgoul, le pétrissage, lorsque l’eau et la farine sont travaillées ensemble. Si le non-Juif donne la pâte en cadeau à l’Israël avant ce stade, elle entre dans l’obligation ; s’il la donne après, elle était déjà exemptée au moment déterminant et reste exemptée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:5",
+                "explication": "Le Rambam explique que la ‘halla n’est obligatoire que pour une pâte appartenant à un Israël. Ainsi, lorsqu’un non-Juif confie sa farine ou sa pâte à un Israël pour qu’il la prépare, l’acte de l’Israël ne crée pas l’obligation, puisque la propriété demeure celle du non-Juif. En revanche, si l’Israël l’acquiert avant le pétrissage, l’obligation s’applique. Après le pétrissage, le moment de l’obligation est déjà passé alors qu’elle était exemptée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:5",
+                "explication": "Le Tossafot Yom Tov souligne que la fin de la Michna traite d’une association entre un Israël et un non-Juif dans une même pâte. On ne considère pas toute la pâte comme un ensemble imposable pour l’Israël : seule la part appartenant à l’Israël est prise en compte. Si cette part ne contient pas à elle seule la mesure minimale de ‘halla, la pâte est exemptée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 3:5",
+                "explication": "Le Tiféret Israël précise que, dans le cas d’une pâte faite en commun avec un non-Juif, la part du non-Juif ne s’associe pas à celle de l’Israël pour compléter la mesure requise. La raison est que la part du non-Juif est intrinsèquement exemptée ; elle ne peut donc pas servir à constituer le volume minimal nécessaire à l’obligation de ‘halla."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -245,8 +723,32 @@
           "ref": "Mishnah Challah 3:6",
           "he": "גֵּר שֶׁנִּתְגַּיֵּר וְהָיְתָה לוֹ עִסָּה, נַעֲשֵׂית עַד שֶׁלֹּא נִתְגַּיֵּר, פָּטוּר, וּמִשֶּׁנִּתְגַיֵּר, חַיָּב. וְאִם סָפֵק, חַיָּב, וְאֵין חַיָּבִין עָלֶיהָ חֹמֶשׁ. רַבִּי עֲקִיבָא אוֹמֵר, הַכֹּל הוֹלֵךְ אַחַר הַקְּרִימָה בַתַּנּוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un converti qui s’est converti et qui avait une pâte : si elle a été faite avant qu’il ne se convertisse, elle est exemptée ; si elle a été faite depuis qu’il s’est converti, elle est soumise à l’obligation. Et s’il y a doute, elle est soumise à l’obligation, mais on n’est pas tenu, à son sujet, du cinquième. Rabbi Akiva dit : tout suit la formation de la croûte dans le four.",
+          "etude_fr": {
+            "traduction_fr": "Un converti qui s’est converti et qui avait une pâte : si elle a été faite avant qu’il ne se convertisse, elle est exemptée ; si elle a été faite depuis qu’il s’est converti, elle est soumise à l’obligation. Et s’il y a doute, elle est soumise à l’obligation, mais on n’est pas tenu, à son sujet, du cinquième. Rabbi Akiva dit : tout suit la formation de la croûte dans le four.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 3:6",
+                "explication": "Bartenoura explique que le critère de la première opinion est le moment où la pâte devient véritablement pâte, c’est-à-dire son pétrissage : si ce moment a eu lieu alors que l’homme était encore non-juif, il n’était pas astreint à la mitsva de challah, et la pâte est donc exemptée ; s’il a eu lieu après sa conversion, elle est astreinte. En cas de doute, on prélève la challah par rigueur, mais si quelqu’un l’a mangée par erreur, il n’apporte pas le cinquième, car l’obligation elle-même n’est pas certaine."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:6",
+                "explication": "Le Rambam précise que la règle du doute repose sur le principe suivant : lorsqu’il est possible que la pâte soit devenue soumise à la challah après la conversion, on doit en prélever la challah. Toutefois, cette challah n’a pas le statut d’une challah certaine. C’est pourquoi l’obligation du cinquième, qui ne s’applique qu’à celui qui a mangé une terouma ou une challah certaine en étant étranger à celle-ci, ne s’applique pas ici."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:6",
+                "explication": "Le Tossafot Yom Tov souligne que Rabbi Akiva déplace le moment déterminant : selon lui, on ne suit pas le pétrissage mais la formation de la croûte au four. Tant que le pain n’a pas commencé à cuire au point qu’une croûte se forme, le statut peut encore dépendre de la situation présente ; si cette formation a eu lieu après la conversion, la pâte est considérée comme soumise à l’obligation de challah."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 3:6",
+                "explication": "Le Tiféret Israël explique que l’expression « tout suit la formation de la croûte dans le four » signifie que, pour Rabbi Akiva, le moment décisif est celui où le pain commence à prendre sa forme définitive par la cuisson. La discussion porte donc sur le point précis où l’obligation de challah se fixe dans le cas particulier du converti : au stade de la pâte selon la première opinion, ou au stade du début de la cuisson selon Rabbi Akiva."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -255,8 +757,32 @@
           "ref": "Mishnah Challah 3:7",
           "he": "הָעוֹשֶׂה עִסָּה מִן הַחִטִּים וּמִן הָאֹרֶז, אִם יֶשׁ בָּהּ טַעַם דָּגָן, חַיֶּבֶת בַּחַלָּה, וְיוֹצֵא בָהּ אָדָם יְדֵי חוֹבָתוֹ בְּפֶסַח. וְאִם אֵין בָּהּ טַעַם דָּגָן, אֵינָהּ חַיֶּבֶת בַּחַלָּה, וְאֵין אָדָם יוֹצֵא בָהּ יְדֵי חוֹבָתוֹ בְּפֶסַח:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui fait une pâte avec du blé et du riz : s’il y a en elle le goût de céréale, elle est soumise à la challah, et l’on s’acquitte avec elle de son obligation à Pessa’h. Mais s’il n’y a pas en elle le goût de céréale, elle n’est pas soumise à la challah, et l’on ne s’acquitte pas avec elle de son obligation à Pessa’h.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui fait une pâte avec du blé et du riz : s’il y a en elle le goût de céréale, elle est soumise à la challah, et l’on s’acquitte avec elle de son obligation à Pessa’h. Mais s’il n’y a pas en elle le goût de céréale, elle n’est pas soumise à la challah, et l’on ne s’acquitte pas avec elle de son obligation à Pessa’h.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Challah 3:7",
+                "explication": "Le riz, par lui-même, n’est pas soumis à la challah et ne permet pas d’accomplir la mitsva de la matsa, car seules les cinq espèces de céréales sont concernées. Toutefois, lorsqu’il est mêlé à du blé et que le goût du blé se reconnaît dans la pâte, le riz est entraîné par le blé : la pâte reçoit le statut d’une pâte de céréale, elle est donc soumise à la challah et peut servir pour la mitsva de Pessa’h."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:7",
+                "explication": "Le Rambam explique que la règle dépend du goût de la céréale : tant que le goût du blé est perceptible, la pâte est considérée comme relevant du blé pour ces lois. C’est pourquoi elle est soumise à la challah et convient pour s’acquitter de l’obligation de manger la matsa à Pessa’h. Si le goût du blé n’est pas perceptible, le mélange ne reçoit pas ce statut, car le riz n’est pas une céréale entrant dans l’obligation de la challah ni dans celle de la matsa."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression “goût de céréale” est décisive : ce n’est pas la simple présence de blé qui suffit, mais le fait que son goût domine ou soit reconnaissable dans la pâte. La Michna relie ainsi les deux lois — challah et Pessa’h — car toutes deux dépendent ici du statut halakhique de la pâte comme pain provenant d’une espèce de céréale."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 3:7",
+                "explication": "Le Tiféret Israël précise que le critère du goût permet de déterminer si le mélange est encore considéré comme une pâte de blé malgré l’ajout de riz. Lorsque le goût de la céréale a disparu, la pâte est assimilée au riz quant à ces lois : elle n’est pas appelée pain de céréale pour la challah, et elle ne peut pas être utilisée pour la mitsva de matsa, qui ne s’accomplit qu’avec une pâte issue d’une espèce susceptible de devenir hamets."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -265,8 +791,32 @@
           "ref": "Mishnah Challah 3:8",
           "he": "הַנּוֹטֵל שְׂאֹר מֵעִסָּה שֶׁלֹּא הוּרְמָה חַלָּתָהּ וְנוֹתֵן לְתוֹךְ עִסָּה שֶׁהוּרְמָה חַלָּתָהּ, אִם יֶשׁ לוֹ פַרְנָסָה מִמָּקוֹם אַחֵר, מוֹצִיא לְפִי חֶשְׁבּוֹן. וְאִם לָאו, מוֹצִיא חַלָּה אַחַת עַל הַכֹּל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui prend du levain d’une pâte dont la hala n’a pas été prélevée et le met dans une pâte dont la hala a été prélevée : s’il a de quoi y pourvoir à partir d’un autre endroit, il prélève selon le calcul correspondant ; sinon, il prélève une seule hala sur l’ensemble.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui prend du levain d’une pâte dont la hala n’a pas été prélevée et le met dans une pâte dont la hala a été prélevée : s’il a de quoi y pourvoir à partir d’un autre endroit, il prélève selon le calcul correspondant ; sinon, il prélève une seule hala sur l’ensemble.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Challah 3:8",
+                "explication": "Le levain pris de la pâte non encore prélevée reste soumis à l’obligation de hala. Lorsqu’il est mélangé à une pâte déjà corrigée, on doit encore prélever pour la part correspondant à ce levain. “S’il a de quoi y pourvoir à partir d’un autre endroit” signifie qu’il dispose d’une autre pâte non prélevée, dont l’obligation est du même type, et il peut prélever sur elle une quantité correspondant au levain introduit. Mais s’il n’a pas d’autre pâte disponible, il prélève une seule hala sur toute la pâte mélangée, afin de corriger la part non prélevée qu’elle contient."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:8",
+                "explication": "Le Rambam explique que le cas porte sur du levain provenant d’une pâte tével pour la hala, c’est-à-dire une pâte dont l’obligation de hala n’a pas encore été acquittée. Une fois ce levain incorporé à une pâte déjà dispensée, il n’est pas possible de l’ignorer : il faut prélever la hala due sur cette fraction. Si l’on peut prélever ailleurs pour cette quantité, on le fait selon le compte exact ; sinon, on prélève de la pâte mélangée elle-même une seule hala couvrant l’ensemble."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Challah 3:8",
+                "explication": "Il précise que l’expression “selon le calcul” signifie que le prélèvement ne porte pas à nouveau sur toute la pâte déjà corrigée, mais uniquement sur la proportion représentée par le levain qui provenait de la pâte non prélevée. La Michna enseigne ainsi comment éviter un double prélèvement sur la partie déjà corrigée, tout en régularisant la partie qui ne l’était pas."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Challah 3:8",
+                "explication": "Il souligne que le levain, bien qu’il ne soit qu’un élément destiné à faire fermenter la pâte, est considéré comme une partie de pâte soumise à la hala lorsqu’il provient d’une pâte non prélevée. C’est pourquoi son mélange avec une pâte déjà prélevée crée une obligation résiduelle : si une séparation externe est possible, elle se fait avec précision ; sinon, on sépare de ce qui est devant nous une hala unique pour rendre tout le mélange permis."
+              }
+            ]
+          }
         },
         {
           "id": "3:9",
@@ -275,8 +825,27 @@
           "ref": "Mishnah Challah 3:9",
           "he": "כַּיּוֹצֵא בוֹ, זֵיתֵי מָסִיק שֶׁנִּתְעָרְבוּ עִם זֵיתֵי נִקּוּף, עִנְּבֵי בָצִיר עִם עִנְּבֵי עוֹלְלוֹת, אִם יֶשׁ לוֹ פַרְנָסָה מִמָּקוֹם אַחֵר, מוֹצִיא לְפִי חֶשְׁבּוֹן. וְאִם לָאו, מוֹצִיא תְרוּמָה וּתְרוּמַת מַעֲשֵׂר לַכֹּל, וְהַשְּׁאָר מַעֲשֵׂר וּמַעֲשֵׂר שֵׁנִי לְפִי חֶשְׁבּוֹן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "De même : des olives de la cueillette régulière qui se sont mélangées avec des olives de grappillage, ou des raisins de la vendange régulière avec des raisins de grappillage réservés aux pauvres : s’il a de quoi pourvoir à la séparation à partir d’un autre endroit, il prélève selon le calcul. Sinon, il prélève la terouma et la terouma du maasser pour le tout ; quant au reste, il prélève le maasser et le maasser chéni selon le calcul.",
+          "etude_fr": {
+            "traduction_fr": "De même : des olives de la cueillette régulière qui se sont mélangées avec des olives de grappillage, ou des raisins de la vendange régulière avec des raisins de grappillage réservés aux pauvres : s’il a de quoi pourvoir à la séparation à partir d’un autre endroit, il prélève selon le calcul. Sinon, il prélève la terouma et la terouma du maasser pour le tout ; quant au reste, il prélève le maasser et le maasser chéni selon le calcul.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 3:9",
+                "explication": "Les olives de la cueillette régulière et les raisins de la vendange régulière sont soumis aux prélèvements, tandis que les olives de grappillage et les grappes pauvres — qui appartiennent aux pauvres — en sont exemptes. Lorsqu’ils se mélangent, si le propriétaire possède ailleurs des produits soumis aux prélèvements, il prélève de ces autres produits pour la part imposable contenue dans le mélange. Mais s’il n’a pas d’autre source, il doit prélever la terouma et la terouma du maasser sur tout le mélange, afin d’éviter que ne demeure une part de tével. En revanche, pour le maasser et le maasser chéni, il ne prélève que selon la proportion correspondant à la part effectivement imposable."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:9",
+                "explication": "Le Rambam explique que cette Michna poursuit le principe des mélanges entre produits soumis à l’obligation des prélèvements et produits qui en sont exempts. Les produits revenant aux pauvres, tels que les grappillages d’olives ou les grappes délaissées, ne sont pas soumis aux prélèvements. Si l’on peut prélever à partir d’un autre endroit sur la part imposable, on le fait exactement selon le calcul. Si cela n’est pas possible, on prélève la terouma et la terouma du maasser pour l’ensemble, car ces prélèvements ne peuvent être négligés dans un mélange où se trouve certainement une part obligée ; pour les autres maasserot, on ne donne que la quantité correspondant à la part qui était réellement soumise."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:9",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « selon le calcul » signifie que l’on évalue la proportion des fruits soumis à l’obligation par rapport à ceux qui en sont exempts, et l’on ne prélève que pour cette proportion. La différence entre la terouma et la terouma du maasser, d’un côté, et le maasser et le maasser chéni, de l’autre, tient au fait que, lorsqu’il n’existe pas d’autre produit disponible, il faut retirer du mélange toute possibilité d’interdit de tével par les prélèvements essentiels, tout en évitant d’imposer au propriétaire de donner comme maasser ce qui correspond à des fruits exemptés appartenant aux pauvres."
+              }
+            ]
+          }
         },
         {
           "id": "3:10",
@@ -285,8 +854,27 @@
           "ref": "Mishnah Challah 3:10",
           "he": "הַנּוֹטֵל שְׂאֹר מֵעִסַּת חִטִּים וְנוֹתֵן לְתוֹךְ עִסַּת אֹרֶז, אִם יֶשׁ בָּהּ טַעַם דָּגָן חַיֶּבֶת בַּחַלָּה. וְאִם לָאו, פְּטוּרָה. אִם כֵּן, לָמָּה אָמְרוּ הַטֶּבֶל אוֹסֵר כָּל שֶׁהוּא, מִין בְּמִינוֹ. וְשֶׁלֹּא בְמִינוֹ, בְּנוֹתֵן טָעַם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui prélève du levain d’une pâte de blé et le met dans une pâte de riz : s’il y a en elle le goût de céréale, elle est tenue à la halla ; sinon, elle en est exempte. Si donc, pourquoi a-t-on dit : « Le tével interdit en quantité quelconque » ? Cela concerne une espèce mélangée à la même espèce ; mais lorsqu’il s’agit d’une espèce différente, c’est selon qu’elle donne du goût.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui prélève du levain d’une pâte de blé et le met dans une pâte de riz : s’il y a en elle le goût de céréale, elle est tenue à la halla ; sinon, elle en est exempte. Si donc, pourquoi a-t-on dit : « Le tével interdit en quantité quelconque » ? Cela concerne une espèce mélangée à la même espèce ; mais lorsqu’il s’agit d’une espèce différente, c’est selon qu’elle donne du goût.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 3:10",
+                "explication": "Le levain provenant d’une pâte de blé est lui-même de l’une des cinq céréales qui rendent une pâte tenue à la halla. Lorsqu’on le met dans une pâte de riz, qui par elle-même n’est pas tenue à la halla, tout dépend du goût : si le goût de céréale est perceptible dans la pâte de riz, la pâte devient tenue à la halla ; sinon, elle reste exempte. La règle selon laquelle le tével interdit même en quantité infime ne s’applique ici que lorsque le mélange est de même espèce ; dans un mélange d’espèces différentes, l’interdiction dépend du fait de donner du goût."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 3:10",
+                "explication": "Le Rambam explique que le riz n’est pas une céréale soumise à la halla, mais qu’un élément de blé peut lui transmettre un statut halakhique lorsqu’il y imprime son goût. La Michna enseigne donc le principe général : pour des espèces différentes, une substance interdite ou soumise à prélèvement n’interdit le mélange que si son goût est reconnu. En revanche, lorsque l’on mélange une même espèce avec la même espèce, le tével interdit même en quantité minime."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 3:10",
+                "explication": "Le Tossafot Yom Tov souligne que la question de la Michna porte sur la règle apparemment absolue du tével : s’il interdit en quantité quelconque, pourquoi la pâte de riz ne serait-elle pas interdite même sans goût de blé ? La réponse est que cette sévérité n’a été dite que pour un mélange de même nature. Ici, le blé et le riz sont deux espèces différentes ; on revient donc au critère ordinaire de « donner du goût »."
+              }
+            ]
+          }
         }
       ]
     },
@@ -300,8 +888,32 @@
           "ref": "Mishnah Challah 4:1",
           "he": "שְׁתֵּי נָשִׁים שֶׁעָשׂוּ שְׁנֵי קַבִּין, וְנָגְעוּ זֶה בָזֶה, אֲפִלּוּ הֵם מִמִּין אֶחָד, פְּטוּרִים. וּבִזְמַן שֶׁהֵם שֶׁל אִשָּׁה אַחַת, מִין בְּמִינוֹ, חַיָּב. וְשֶׁלֹּא בְמִינוֹ, פָּטוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Deux femmes qui ont préparé deux kav de pâte, et que ces pâtes se sont touchées l’une l’autre : même si elles sont d’une même espèce, elles sont exemptes. Mais lorsqu’elles appartiennent à une seule femme : si elles sont de même espèce, elles sont assujetties ; si elles ne sont pas de même espèce, elles sont exemptes.",
+          "etude_fr": {
+            "traduction_fr": "Deux femmes qui ont préparé deux kav de pâte, et que ces pâtes se sont touchées l’une l’autre : même si elles sont d’une même espèce, elles sont exemptes. Mais lorsqu’elles appartiennent à une seule femme : si elles sont de même espèce, elles sont assujetties ; si elles ne sont pas de même espèce, elles sont exemptes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:1",
+                "explication": "La Michna parle de deux pâtes dont chacune n’atteint pas, à elle seule, la quantité qui oblige à prélever la challah. Si elles se touchent, elles peuvent en principe s’associer pour atteindre le volume requis. Toutefois, lorsqu’elles appartiennent à deux femmes différentes, elles ne s’associent pas, même si elles sont de la même espèce, car chacune veille à ce que sa pâte ne se mélange pas à celle de l’autre. Cette réserve empêche leur jonction pour l’obligation de challah. En revanche, si les deux pâtes appartiennent à une seule femme, elles s’associent lorsqu’elles sont de même espèce."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:1",
+                "explication": "Le Rambam explique que le contact entre deux pâtes ne suffit à créer une obligation que lorsqu’il y a possibilité de les considérer comme un seul ensemble. Cette unité existe pour une seule propriétaire lorsque les pâtes sont de même espèce ; elles se joignent alors pour compléter la mesure obligatoire. Mais si elles appartiennent à deux femmes, chacune conserve son propre lot, et elles ne sont pas considérées comme une seule pâte. Si elles ne sont pas de même espèce, même chez une seule femme, elles ne se joignent pas par simple contact."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « deux kav » signifie que chacune des deux femmes a préparé une pâte d’un kav, de sorte qu’aucune pâte n’a par elle-même la mesure de challah. La question de la Michna est donc celle de la jonction de deux quantités partielles. Le cas de deux propriétaires est exempt, car leur séparation juridique et pratique empêche de les considérer comme une seule masse, même quand la nature de la pâte est identique."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 4:1",
+                "explication": "Le Tiféret Israël souligne que la Michna traite d’une jonction par contact, et non nécessairement d’un mélange complet. Pour que le contact rende les pâtes solidaires et les oblige à la challah, il faut qu’elles soient aptes à être réunies sans objection. Deux femmes distinctes sont présumées ne pas vouloir que leurs pâtes se mêlent ; c’est pourquoi elles restent exemptes. Chez une même femme, cette objection n’existe pas, mais l’union ne fonctionne que lorsque les pâtes sont de la même espèce."
+              }
+            ]
+          }
         },
         {
           "id": "4:2",
@@ -310,8 +922,27 @@
           "ref": "Mishnah Challah 4:2",
           "he": "אֵיזֶה הוּא מִין בְּמִינוֹ, הַחִטִּים אֵינָן מִצְטָרְפוֹת עִם הַכֹּל, אֶלָּא עִם הַכֻּסְּמִין. הַשְּׂעוֹרִים מִצְטָרְפוֹת עִם הַכֹּל, חוּץ מִן הַחִטִּים. רַבִּי יוֹחָנָן בֶּן נוּרִי אוֹמֵר, שְׁאָר הַמִּינִים מִצְטָרְפִין זֶה עִם זֶה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Qu’est-ce qui est considéré comme une espèce avec son espèce ? Les blés ne s’additionnent pas avec toutes les espèces, mais seulement avec les épeautres. Les orges s’additionnent avec toutes, sauf avec les blés. Rabbi Yoḥanan ben Nouri dit : les autres espèces s’additionnent les unes avec les autres.",
+          "etude_fr": {
+            "traduction_fr": "Qu’est-ce qui est considéré comme une espèce avec son espèce ? Les blés ne s’additionnent pas avec toutes les espèces, mais seulement avec les épeautres. Les orges s’additionnent avec toutes, sauf avec les blés. Rabbi Yoḥanan ben Nouri dit : les autres espèces s’additionnent les unes avec les autres.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:2",
+                "explication": "La Michna traite de l’association de différentes pâtes issues des cinq céréales pour atteindre la quantité qui oblige à prélever la challah. Le Bartenoura explique que le blé ne s’additionne qu’avec le koussemine, l’épeautre, car celui-ci est proche du blé. L’orge, en revanche, s’additionne avec les autres espèces céréalières, sauf avec le blé. Rabbi Yoḥanan ben Nouri ajoute que les autres espèces, c’est-à-dire celles qui ne sont pas le blé, peuvent aussi s’additionner entre elles."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:2",
+                "explication": "Le Rambam explique que la Michna définit ici quelles céréales sont considérées comme suffisamment proches pour se joindre quant à l’obligation de challah. Les cinq espèces ne forment pas toutes une seule catégorie homogène : le blé a un lien particulier avec l’épeautre, tandis que l’orge se joint aux autres espèces apparentées, mais non au blé. L’avis de Rabbi Yoḥanan ben Nouri élargit l’association entre les espèces restantes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:2",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « s’additionnent » ne signifie pas que toutes les espèces deviennent identiques, mais seulement qu’elles peuvent se joindre pour compléter la mesure requise. Il précise que la Michna parle de catégories halakhiques fondées sur la proximité des espèces céréalières, et non seulement sur leur nom ou leur apparence."
+              }
+            ]
+          }
         },
         {
           "id": "4:3",
@@ -320,8 +951,27 @@
           "ref": "Mishnah Challah 4:3",
           "he": "שְׁנֵי קַבִּים, וְקַב אֹרֶז אוֹ קַב תְּרוּמָה בָּאֶמְצַע, אֵינָן מִצְטָרְפִין. דָּבָר שֶׁנִּטְּלָה חַלָּתוֹ בָּאֶמְצַע, מִצְטָרְפִין, שֶׁכְּבָר נִתְחַיֵּב בַּחַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Deux kav, avec un kav de riz ou un kav de terouma au milieu : ils ne s’associent pas. Mais si, au milieu, se trouve une chose dont la halla a déjà été prélevée, ils s’associent, car elle avait déjà été soumise à l’obligation de halla.",
+          "etude_fr": {
+            "traduction_fr": "Deux kav, avec un kav de riz ou un kav de terouma au milieu : ils ne s’associent pas. Mais si, au milieu, se trouve une chose dont la halla a déjà été prélevée, ils s’associent, car elle avait déjà été soumise à l’obligation de halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:3",
+                "explication": "La Michna parle de deux pâtes de céréales, chacune insuffisante à elle seule pour être tenue à la halla, qui pourraient s’associer si elles se touchent ou sont réunies dans un même ensemble. Si un kav de riz se trouve entre elles, il fait séparation, car le riz n’est pas une espèce soumise à la halla. De même, un kav de terouma placé au milieu ne s’associe pas avec les pâtes profanes pour créer l’obligation, car la terouma n’entre pas dans le calcul de cette obligation pour elles et constitue une interruption."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:3",
+                "explication": "Le Rambam explique que l’association dépend de la possibilité de considérer les pâtes comme une seule masse soumise à la halla. Une substance qui n’est pas apte à cette obligation, comme le riz, ou une pâte de terouma qui ne peut pas se joindre aux pâtes profanes pour les obliger, empêche cette jonction. En revanche, une pâte dont la halla a déjà été prélevée reste une pâte d’une espèce qui avait été apte et tenue à la halla ; elle ne constitue donc pas une séparation et permet aux deux côtés de s’associer."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:3",
+                "explication": "Le Tossafot Yom Tov souligne la précision de la formulation : la Michna ne dit pas simplement qu’un élément exempt se trouve au milieu, mais distingue entre ce qui n’a jamais été apte à l’obligation, comme le riz, et ce qui a déjà été soumis à l’obligation puis acquitté. Ce qui a été acquitté de sa halla conserve le statut d’une pâte relevant de cette mitsva, et c’est pourquoi il ne fait pas écran entre les deux quantités."
+              }
+            ]
+          }
         },
         {
           "id": "4:4",
@@ -330,8 +980,32 @@
           "ref": "Mishnah Challah 4:4",
           "he": "קַב חָדָשׁ וְקַב יָשָׁן שֶׁנָּשְׁכוּ זֶה בָזֶה, רַבִּי יִשְׁמָעֵאל אוֹמֵר, יִטֹּל מִן הָאֶמְצַע, וַחֲכָמִים אוֹסְרִים. הַנּוֹטֵל חַלָּה מִן הַקַּב, רַבִּי עֲקִיבָא אוֹמֵר, חַלָּה. וַחֲכָמִים אוֹמְרִים, אֵינָהּ חַלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un kav de la nouvelle récolte et un kav de l’ancienne récolte qui se sont mordus l’un l’autre : Rabbi Ichmaël dit : qu’il prélève du milieu ; et les Sages l’interdisent. Celui qui prélève la ‘halla d’un kav : Rabbi Akiva dit : c’est une ‘halla ; et les Sages disent : ce n’est pas une ‘halla.",
+          "etude_fr": {
+            "traduction_fr": "Un kav de la nouvelle récolte et un kav de l’ancienne récolte qui se sont mordus l’un l’autre : Rabbi Ichmaël dit : qu’il prélève du milieu ; et les Sages l’interdisent. Celui qui prélève la ‘halla d’un kav : Rabbi Akiva dit : c’est une ‘halla ; et les Sages disent : ce n’est pas une ‘halla.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:4",
+                "explication": "« Qui se sont mordus l’un l’autre » signifie que les deux pâtes se sont attachées l’une à l’autre au point de former une jonction. Rabbi Ichmaël permet de prélever à l’endroit du contact, car ce prélèvement est considéré comme venant à la fois de la pâte de la nouvelle récolte pour elle-même et de celle de l’ancienne récolte pour elle-même. Les Sages l’interdisent, car on ne prélève pas d’une récolte nouvelle pour une ancienne, ni d’une ancienne pour une nouvelle, et le prélèvement du milieu ne résout pas suffisamment cette difficulté selon eux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:4",
+                "explication": "Le Rambam explique que la première controverse dépend du principe selon lequel deux pâtes différentes, nouvelle et ancienne, ne doivent pas être rendues quittes l’une par l’autre. Rabbi Ichmaël considère que le prélèvement pris à la jonction appartient aux deux parties et peut donc acquitter chacune selon son espèce ; les Sages ne l’acceptent pas. Dans la seconde controverse, Rabbi Akiva attribue un statut de ‘halla même à un prélèvement fait sur une pâte d’un seul kav, tandis que les Sages estiment qu’une telle quantité n’est pas astreinte à la ‘halla, et que ce qui en est prélevé n’a donc pas le statut de ‘halla."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:4",
+                "explication": "Le Tossafot Yom Tov précise que le terme « du milieu » désigne l’endroit même où les pâtes adhèrent. L’idée de Rabbi Ichmaël est que cette zone contient une part de chacune des deux pâtes ; cependant, les Sages craignent que le prélèvement ne soit pas véritablement proportionné ou identifiable comme provenant correctement de chacune, et maintiennent donc l’interdiction."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 4:4",
+                "explication": "Le Tiféret Israël souligne que le cas porte sur deux pâtes qui, par leur adhérence, pourraient être considérées comme jointes pour l’obligation de ‘halla. Malgré cela, la différence entre nouvelle et ancienne récolte pose un problème de prélèvement. Il explique aussi que, dans le second cas, l’enjeu est de savoir si un prélèvement fait à partir d’une quantité inférieure au minimum requis peut recevoir une sainteté de ‘halla : Rabbi Akiva l’admet, tandis que les Sages le nient."
+              }
+            ]
+          }
         },
         {
           "id": "4:5",
@@ -340,8 +1014,27 @@
           "ref": "Mishnah Challah 4:5",
           "he": "שְׁנֵי קַבִּין שֶׁנִּטְּלָה חַלָּתוֹ שֶׁל זֶה בִּפְנֵי עַצְמוֹ וְשֶׁל זֶה בִּפְנֵי עַצְמוֹ, חָזַר וַעֲשָׂאוֹ עִסָּה אַחַת, רַבִּי עֲקִיבָא פוֹטֵר, וַחֲכָמִים מְחַיְּבִין. נִמְצָא חֻמְרוֹ קֻלּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Deux kav — dont on a prélevé la ‘halla de celui-ci séparément et de celui-là séparément — si l’on est ensuite revenu et qu’on en a fait une seule pâte : Rabbi Akiva dispense, et les Sages obligent. Il se trouve que sa rigueur est sa propre indulgence.",
+          "etude_fr": {
+            "traduction_fr": "Deux kav — dont on a prélevé la ‘halla de celui-ci séparément et de celui-là séparément — si l’on est ensuite revenu et qu’on en a fait une seule pâte : Rabbi Akiva dispense, et les Sages obligent. Il se trouve que sa rigueur est sa propre indulgence.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challa 4:5",
+                "explication": "Il explique que les « deux kav » désignent deux pâtes d’un kav chacune, chacune étant insuffisante pour être soumise à l’obligation de ‘halla. Le propriétaire a pourtant prélevé de chacune comme si elle était obligatoire. Ensuite, il les a réunies en une seule pâte atteignant la mesure requise. Rabbi Akiva estime que, puisque le nom de ‘halla a déjà été appliqué à chaque prélèvement, cela suffit pour dispenser la pâte réunie. Les Sages soutiennent au contraire que le premier prélèvement n’avait pas de valeur, car chaque pâte était alors exempte ; une fois réunies, elles deviennent obligatoires et il faut prélever la ‘halla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challa 4:5",
+                "explication": "Le Rambam précise que le cas concerne un prélèvement effectué avant que l’obligation n’existe réellement. Pour les Sages, une séparation faite sur une pâte qui n’a pas encore atteint la mesure obligatoire n’est pas une ‘halla valable ; lorsque les deux pâtes sont ensuite jointes, l’obligation naît à ce moment-là. Rabbi Akiva considère cependant que ce prélèvement préalable a une efficacité suffisante pour éviter une nouvelle obligation après l’union des pâtes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challa 4:5",
+                "explication": "Il éclaire la formule finale : « Il se trouve que sa rigueur est sa propre indulgence ». La personne a voulu être rigoureuse en prélevant la ‘halla de pâtes qui, prises séparément, étaient exemptes. Mais selon Rabbi Akiva, cette rigueur aboutit à une indulgence, car elle dispense ensuite la pâte réunie, qui aurait normalement été soumise à l’obligation de ‘halla. Selon les Sages, en revanche, cette rigueur initiale n’a pas d’effet juridique."
+              }
+            ]
+          }
         },
         {
           "id": "4:6",
@@ -350,8 +1043,27 @@
           "ref": "Mishnah Challah 4:6",
           "he": "נוֹטֵל אָדָם כְּדֵי חַלָּה מֵעִסָּה שֶׁלֹּא הוּרְמָה חַלָּתָהּ, לַעֲשׂוֹתָה בְּטָהֳרָה, לִהְיוֹת מַפְרִישׁ עָלֶיהָ וְהוֹלֵךְ חַלַּת דְּמַאי עַד שֶׁתִּסָּרֵחַ. שֶׁחַלַּת דְּמַאי נִטֶּלֶת מִן הַטָּהוֹר עַל הַטָּמֵא, וְשֶׁלֹּא מִן הַמֻּקָּף:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un homme peut prélever, d’une pâte dont la challah n’a pas encore été prélevée, la quantité nécessaire pour la challah, afin de la préparer en état de pureté, et continuer à prélever, en s’appuyant sur elle, la challah de demaï, jusqu’à ce qu’elle se gâte. Car la challah de demaï peut être prélevée du pur pour l’impur, et même lorsque les produits ne sont pas réunis au même endroit.",
+          "etude_fr": {
+            "traduction_fr": "Un homme peut prélever, d’une pâte dont la challah n’a pas encore été prélevée, la quantité nécessaire pour la challah, afin de la préparer en état de pureté, et continuer à prélever, en s’appuyant sur elle, la challah de demaï, jusqu’à ce qu’elle se gâte. Car la challah de demaï peut être prélevée du pur pour l’impur, et même lorsque les produits ne sont pas réunis au même endroit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:6",
+                "explication": "La Michna parle d’une pâte achetée à un ignorant, dont on doute si la challah a été prélevée. On peut prendre à l’avance une portion de pâte encore non prélevée, la garder en état de pureté, puis l’utiliser comme base pour prélever la challah due sur d’autres pâtes de demaï. Cette permission existe jusqu’à ce que cette portion se détériore, car une fois gâtée elle n’est plus apte à servir de prélèvement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:6",
+                "explication": "Le Rambam explique que, dans le cas du demaï, les Sages ont allégé certaines exigences. Ainsi, contrairement à une challah certaine, la challah de demaï peut être prélevée d’une pâte pure pour acquitter une pâte impure, et il n’est pas nécessaire que la portion prélevée et la pâte à acquitter soient placées ensemble. Ces assouplissements tiennent au fait que l’obligation n’est ici que douteuse."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:6",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « jusqu’à ce qu’elle se gâte » fixe la limite de l’usage de cette portion conservée : tant qu’elle demeure propre à la consommation, elle peut servir à prélever la challah de demaï ; dès qu’elle devient avariée, elle perd son statut utile pour ce prélèvement. Il précise aussi que la Michna énumère deux allégements distincts : prélever du pur pour l’impur, et prélever même sans proximité matérielle."
+              }
+            ]
+          }
         },
         {
           "id": "4:7",
@@ -360,8 +1072,32 @@
           "ref": "Mishnah Challah 4:7",
           "he": "יִשְׂרָאֵל שֶׁהָיוּ אֲרִיסִין לְנָכְרִים בְּסוּרְיָא, רַבִּי אֱלִיעֶזֶר מְחַיֵּב פֵּרוֹתֵיהֶם בַּמַּעַשְׂרוֹת וּבַשְּׁבִיעִית, וְרַבָּן גַּמְלִיאֵל פּוֹטֵר. רַבָּן גַּמְלִיאֵל אוֹמֵר, שְׁתֵּי חַלּוֹת בְּסוּרְיָא. וְרַבִּי אֱלִיעֶזֶר אוֹמֵר, חַלָּה אֶחָת. אָחֲזוּ קֻלּוֹ שֶׁל רַבָּן גַּמְלִיאֵל וְקֻלּוֹ שֶׁל רַבִּי אֱלִיעֶזֶר. חָזְרוּ לִנְהוֹג כְּדִבְרֵי רַבָּן גַּמְלִיאֵל בִּשְׁתֵּי דְרָכִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des Israélites qui étaient métayers de non-Juifs en Syrie : Rabbi Éliézer rend leurs fruits soumis aux maasserot et à la Chemita, tandis que Rabban Gamliel les en dispense. Rabban Gamliel dit : en Syrie, on prélève deux ‘hallot ; et Rabbi Éliézer dit : une seule ‘halla. Ils adoptèrent la mesure indulgente de Rabban Gamliel et la mesure indulgente de Rabbi Éliézer. Puis ils revinrent à la pratique conforme aux paroles de Rabban Gamliel dans les deux domaines.",
+          "etude_fr": {
+            "traduction_fr": "Des Israélites qui étaient métayers de non-Juifs en Syrie : Rabbi Éliézer rend leurs fruits soumis aux maasserot et à la Chemita, tandis que Rabban Gamliel les en dispense. Rabban Gamliel dit : en Syrie, on prélève deux ‘hallot ; et Rabbi Éliézer dit : une seule ‘halla. Ils adoptèrent la mesure indulgente de Rabban Gamliel et la mesure indulgente de Rabbi Éliézer. Puis ils revinrent à la pratique conforme aux paroles de Rabban Gamliel dans les deux domaines.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Halla 4:7",
+                "explication": "La Syrie possède un statut intermédiaire : elle a été conquise par David, mais sa sainteté n’est pas identique à celle de la terre d’Israël conquise par l’ensemble du peuple. C’est pourquoi les Sages y ont appliqué certaines obligations. Le cas de la Michna concerne des Juifs métayers de non-Juifs : ils travaillent la terre et reçoivent une part des fruits. Rabbi Éliézer considère que, puisque les fruits viennent pour une part au Juif, ils sont soumis aux maasserot et aux lois de la Chemita. Rabban Gamliel dispense, car la terre appartient au non-Juif. Pour la ‘halla, Rabban Gamliel exige deux prélèvements en Syrie, comme dans certains lieux hors de la terre d’Israël : l’un à brûler en raison de l’impureté, l’autre à donner au Cohen afin que la mitsva de ‘halla ne soit pas oubliée. Rabbi Éliézer n’en exige qu’un seul. La conclusion de la Michna rapporte qu’on revint à suivre Rabban Gamliel dans les deux points."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Halla 4:7",
+                "explication": "Le Rambam explique que la discussion dépend du statut particulier de la Syrie. Elle n’a pas la pleine sainteté de la terre d’Israël pour toutes les lois agricoles, mais les Sages lui ont donné certains aspects de cette sainteté. Concernant les fruits produits par un Juif comme métayer sur une terre de non-Juif, Rabbi Éliézer les assimile à des fruits soumis aux obligations agricoles, tandis que Rabban Gamliel les considère comme dispensés, du fait de la propriété non juive du sol. Concernant la ‘halla, le Rambam précise que la pratique retenue est celle de Rabban Gamliel : en Syrie on prélève deux ‘hallot, conformément au décret rabbinique propre aux terres proches de la terre d’Israël."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Halla 4:7",
+                "explication": "Le Tossafot Yom Tov souligne la formulation de la Michna : au début, le peuple adopta les deux opinions dans leur aspect le plus indulgent — comme Rabban Gamliel pour dispenser les fruits des maasserot et de la Chemita, et comme Rabbi Éliézer pour ne prélever qu’une seule ‘halla. Mais cette combinaison de facilités ne fut pas maintenue. On revint finalement à la règle de Rabban Gamliel dans les deux domaines, même lorsque son avis entraînait une rigueur, à savoir le prélèvement de deux ‘hallot en Syrie."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, ‘Halla 4:7",
+                "explication": "Le Tiféret Israël explique que le terme « métayers » désigne des travailleurs qui ne possèdent pas la terre mais reçoivent une part déterminée de la récolte. Cela rend la question délicate : les fruits sont produits sur un champ appartenant à un non-Juif, mais une part revient au Juif. La controverse porte donc sur la force du lien du Juif avec ces fruits. Il explique aussi que l’expression « dans les deux domaines » renvoie aux deux sujets traités par la Michna : les maasserot et la Chemita d’une part, et la ‘halla en Syrie d’autre part."
+              }
+            ]
+          }
         },
         {
           "id": "4:8",
@@ -370,8 +1106,32 @@
           "ref": "Mishnah Challah 4:8",
           "he": "רַבָּן גַּמְלִיאֵל אוֹמֵר, שָׁלֹשׁ אֲרָצוֹת לַחַלָּה. מֵאֶרֶץ יִשְׂרָאֵל וְעַד כְּזִיב, חַלָּה אֶחָת. מִכְּזִיב וְעַד הַנָּהָר וְעַד אֲמָנָה, שְׁתֵּי חַלּוֹת, אַחַת לָאוּר וְאַחַת לַכֹּהֵן. שֶׁל אוּר יֶשׁ לָהּ שִׁעוּר, וְשֶׁל כֹּהֵן אֵין לָהּ שִׁעוּר. מִן הַנָּהָר וְעַד אֲמָנָה וְלִפְנִים, שְׁתֵּי חַלּוֹת, אַחַת לָאוּר וְאַחַת לַכֹּהֵן. שֶׁל אוּר אֵין לָהּ שִׁעוּר, וְשֶׁל כֹּהֵן יֶשׁ לָהּ שִׁעוּר. וּטְבוּל יוֹם אוֹכְלָהּ. רַבִּי יוֹסֵי אוֹמֵר, אֵינוֹ צָרִיךְ טְבִילָה. וַאֲסוּרָה לַזָּבִים וְלַזָּבוֹת לַנִּדָּה וְלַיּוֹלְדוֹת, וְנֶאֱכֶלֶת עִם הַזָּר עַל הַשֻּׁלְחָן, וְנִתֶּנֶת לְכָל כֹּהֵן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabban Gamliel dit : Il y a trois territoires pour la halla. Depuis la terre d’Israël jusqu’à Keziv : une seule halla. Depuis Keziv jusqu’au fleuve et jusqu’à Amana : deux hallot, l’une pour le feu et l’une pour le Cohen. Celle du feu a une mesure, et celle du Cohen n’a pas de mesure. Depuis le fleuve et jusqu’à Amana, et vers l’intérieur : deux hallot, l’une pour le feu et l’une pour le Cohen. Celle du feu n’a pas de mesure, et celle du Cohen a une mesure. Et un tevoul yom peut la manger. Rabbi Yossé dit : il n’a pas besoin d’immersion. Elle est interdite aux zavim, aux zavot, à la nidda et aux femmes ayant accouché ; elle peut être mangée à table avec un non-Cohen, et elle est donnée à tout Cohen.",
+          "etude_fr": {
+            "traduction_fr": "Rabban Gamliel dit : Il y a trois territoires pour la halla. Depuis la terre d’Israël jusqu’à Keziv : une seule halla. Depuis Keziv jusqu’au fleuve et jusqu’à Amana : deux hallot, l’une pour le feu et l’une pour le Cohen. Celle du feu a une mesure, et celle du Cohen n’a pas de mesure. Depuis le fleuve et jusqu’à Amana, et vers l’intérieur : deux hallot, l’une pour le feu et l’une pour le Cohen. Celle du feu n’a pas de mesure, et celle du Cohen a une mesure. Et un tevoul yom peut la manger. Rabbi Yossé dit : il n’a pas besoin d’immersion. Elle est interdite aux zavim, aux zavot, à la nidda et aux femmes ayant accouché ; elle peut être mangée à table avec un non-Cohen, et elle est donnée à tout Cohen.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Halla 4:8",
+                "explication": "Bartenoura explique que Rabban Gamliel distingue trois zones selon leur degré de sainteté pour l’obligation de halla. Dans la terre d’Israël proprement dite, on prélève une seule halla, qui a le statut de halla de la Torah. De Keziv jusqu’au fleuve et Amana, on prélève deux hallot : l’une est brûlée, car elle est impure comme les terres extérieures, et l’autre est donnée au Cohen afin que la loi de halla ne soit pas oubliée. Dans cette zone, la halla brûlée doit avoir une mesure, car c’est elle qui représente l’essentiel du prélèvement ; celle donnée au Cohen n’a pas de mesure fixe. Plus loin, hors de cette zone, on inverse : celle du feu n’a pas de mesure, tandis que celle donnée au Cohen a une mesure, afin que le don au Cohen soit visible et significatif."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Halla 4:8",
+                "explication": "Le Rambam explique que la Michna traite des degrés d’obligation rabbinique de halla hors de la terre d’Israël. Les Sages ont institué, dans certaines régions proches de la terre d’Israël, un prélèvement plus strict : une halla est brûlée à cause de l’impureté, et une autre est remise au Cohen pour maintenir la pratique du don sacerdotal. Dans les régions plus éloignées, l’essentiel de l’institution vise surtout à donner une halla au Cohen ; c’est pourquoi cette halla a une mesure, tandis que celle brûlée peut être minime."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Halla 4:8",
+                "explication": "Le Tossafot Yom Tov précise que l’expression “a une mesure” signifie que la halla doit être prélevée selon la mesure fixée par les Sages : un vingt-quatrième pour un particulier et un quarante-huitième pour un boulanger. Lorsqu’il est dit qu’elle “n’a pas de mesure”, il suffit d’un prélèvement quelconque. Il souligne aussi que les deux hallot n’ont pas le même statut : l’une est destinée à être brûlée en raison de l’impureté, l’autre à être consommée par le Cohen."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Halla 4:8",
+                "explication": "Le Tiféret Israël explique que la halla donnée au Cohen dans les régions extérieures n’a pas la pleine sainteté de la halla de la terre d’Israël. C’est pourquoi elle peut être mangée par un tevoul yom, c’est-à-dire quelqu’un qui s’est déjà immergé mais attend encore le coucher du soleil pour achever sa purification. Cependant, elle reste interdite aux personnes atteintes d’une impureté plus sévère, comme zav, zava, nidda ou femme ayant accouché. Elle peut aussi être consommée à la même table qu’un non-Cohen, car les Sages n’ont pas craint ici qu’il en vienne à en manger."
+              }
+            ]
+          }
         },
         {
           "id": "4:9",
@@ -380,8 +1140,32 @@
           "ref": "Mishnah Challah 4:9",
           "he": "וְאֵלּוּ נִתָּנִין לְכָל כֹּהֵן, הַחֲרָמִים, וְהַבְּכוֹרוֹת, וּפִדְיוֹן הַבֵּן, וּפִדְיוֹן פֶּטֶר חֲמוֹר, וְהַזְּרוֹעַ, וְהַלְּחָיַיִם, וְהַקֵּבָה, וְרֵאשִׁית הַגֵּז, וְשֶׁמֶן שְׂרֵפָה, וְקָדְשֵׁי הַמִּקְדָּשׁ, וְהַבִּכּוּרִים. רַבִּי יְהוּדָה אוֹסֵר בַּבִּכּוּרִים. כַּרְשִׁינֵי תְרוּמָה, רַבִּי עֲקִיבָא מַתִּיר וַחֲכָמִים אוֹסְרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et voici ce qui est donné à tout Cohen : les biens voués par interdit, les premiers-nés, le rachat du fils premier-né, le rachat du premier-né de l’âne, l’épaule, les mâchoires et l’estomac, les prémices de la tonte, l’huile destinée à être brûlée, les sacrifices consacrés du Sanctuaire, et les prémices. Rabbi Yehouda l’interdit pour les prémices. Quant aux vesces de terouma, Rabbi Akiva permet, et les Sages interdisent.",
+          "etude_fr": {
+            "traduction_fr": "Et voici ce qui est donné à tout Cohen : les biens voués par interdit, les premiers-nés, le rachat du fils premier-né, le rachat du premier-né de l’âne, l’épaule, les mâchoires et l’estomac, les prémices de la tonte, l’huile destinée à être brûlée, les sacrifices consacrés du Sanctuaire, et les prémices. Rabbi Yehouda l’interdit pour les prémices. Quant aux vesces de terouma, Rabbi Akiva permet, et les Sages interdisent.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Challah 4:9",
+                "explication": "« À tout Cohen » signifie : même à un Cohen qui n’est pas scrupuleux comme un ḥaver quant aux lois de pureté. La Michna énumère des dons sacerdotaux que l’on n’est pas tenu de réserver à un Cohen particulièrement fiable pour la pureté, contrairement à la terouma ordinaire, dont la consommation exige une vigilance plus grande."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:9",
+                "explication": "Le Rambam explique que la règle de la Michna concerne le destinataire du don : ces présents peuvent être remis à n’importe quel Cohen. Les « biens voués par interdit » sont les biens consacrés par ḥerem qui reviennent aux Cohanim ; le « rachat du fils » et le « rachat du premier-né de l’âne » sont des sommes ou valeurs remises au Cohen ; l’« épaule, les mâchoires et l’estomac » sont les dons prélevés sur une bête profane abattue."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Challah 4:9",
+                "explication": "Il souligne que l’expression « tout Cohen » se comprend dans le cadre des distinctions précédentes de ce chapitre : certains prélèvements ne doivent être donnés qu’à un Cohen digne de confiance pour les lois de pureté, tandis que ceux de notre Michna peuvent être donnés plus largement. La discussion sur les prémices et sur les vesces de terouma précise les limites de cette règle."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Challah 4:9",
+                "explication": "Il explique que « l’huile destinée à être brûlée » désigne de l’huile de terouma devenue impure : elle n’est plus consommée, mais le Cohen peut en tirer profit en la brûlant, par exemple pour s’éclairer. Au sujet des vesces de terouma, il précise qu’elles servent principalement à l’alimentation animale ; c’est pourquoi Rabbi Akiva permet de les donner à tout Cohen, tandis que les Sages l’interdisent, en raison de leur statut de terouma et de la vigilance requise."
+              }
+            ]
+          }
         },
         {
           "id": "4:10",
@@ -390,8 +1174,27 @@
           "ref": "Mishnah Challah 4:10",
           "he": "נִתַּאי אִישׁ תְּקוֹעַ הֵבִיא חַלּוֹת מִבֵּיתָר, וְלֹא קִבְּלוּ מִמֶּנּוּ. אַנְשֵׁי אֲלֶכְּסַנְדְּרִיָּא הֵבִיאוּ חַלּוֹתֵיהֶן מֵאֲלֶכְּסַנְדְּרִיָּא, וְלֹא קִבְּלוּ מֵהֶם. אַנְשֵׁי הַר צְבוֹעִים הֵבִיאוּ בִכּוּרֵיהֶם קֹדֶם עֲצֶרֶת, וְלֹא קִבְּלוּ מֵהֶם, מִפְּנֵי הַכָּתוּב שֶׁבַּתּוֹרָה (שמות כג), וְחַג הַקָּצִיר בִּכּוּרֵי מַעֲשֶׂיךָ אֲשֶׁר תִּזְרַע בַּשָּׂדֶה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Nittaï, homme de Teqoa, apporta des challot depuis Beitar, et on ne les accepta pas de lui. Les gens d’Alexandrie apportèrent leurs challot depuis Alexandrie, et on ne les accepta pas d’eux. Les gens du mont Tsevoïm apportèrent leurs prémices avant Atséret, et on ne les accepta pas d’eux, à cause de ce qui est écrit dans la Torah : « Et la fête de la Moisson, les prémices de tes œuvres, de ce que tu sèmeras dans le champ » (Exode 23).",
+          "etude_fr": {
+            "traduction_fr": "Nittaï, homme de Teqoa, apporta des challot depuis Beitar, et on ne les accepta pas de lui. Les gens d’Alexandrie apportèrent leurs challot depuis Alexandrie, et on ne les accepta pas d’eux. Les gens du mont Tsevoïm apportèrent leurs prémices avant Atséret, et on ne les accepta pas d’eux, à cause de ce qui est écrit dans la Torah : « Et la fête de la Moisson, les prémices de tes œuvres, de ce que tu sèmeras dans le champ » (Exode 23).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Challah 4:10",
+                "explication": "Bartenoura explique que les challot apportées de ces lieux n’ont pas été acceptées parce qu’elles provenaient de l’extérieur du domaine où l’obligation de challah est pleinement en vigueur selon la Torah. La challah prélevée en dehors de la terre d’Israël n’a qu’un statut rabbinique et l’on ne l’apportait pas pour être traitée comme la challah de la terre d’Israël. Quant aux prémices apportées avant Atséret, elles ne sont pas recevables, car le temps approprié pour les bikkourim commence à Atséret, appelé par la Torah « la fête de la Moisson » et lié aux « prémices de tes œuvres »."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:10",
+                "explication": "Le Rambam précise que cette Michna enseigne deux limites halakhiques : d’une part, les prélèvements de challah venus de l’extérieur de la terre d’Israël ne sont pas reçus comme ceux qui relèvent de l’obligation principale ; d’autre part, les bikkourim ne peuvent pas être apportés avant Chavouot, appelé ici Atséret. Le verset cité fixe le début du temps des prémices : elles doivent être apportées à partir de la période de la moisson, et non auparavant."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Challah 4:10",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna juxtapose ces cas pour montrer que même lorsqu’une personne accomplit extérieurement un acte de mitsva — apporter challah ou bikkourim — l’acte n’est pas accepté s’il ne correspond pas au cadre halakhique fixé par les Sages et par la Torah. Pour les bikkourim, le verset n’est pas seulement une allusion générale : il établit que la présentation des prémices commence avec Atséret, et c’est pourquoi celles des gens du mont Tsevoïm furent refusées."
+              }
+            ]
+          }
         },
         {
           "id": "4:11",
@@ -400,8 +1203,32 @@
           "ref": "Mishnah Challah 4:11",
           "he": "בֶּן אַנְטִינוֹס הֶעֱלָה בְכוֹרוֹת מִבָּבֶל, וְלֹא קִבְּלוּ מִמֶּנּוּ. יוֹסֵף הַכֹּהֵן הֵבִיא בִכּוּרֵי יַיִן וְשֶׁמֶן, וְלֹא קִבְּלוּ מִמֶּנּוּ. אַף הוּא הֶעֱלָה אֶת בָּנָיו וּבְנֵי בֵיתוֹ לַעֲשׂוֹת פֶּסַח קָטָן בִּירוּשָׁלַיִם, וְהֶחֱזִירוּהוּ, שֶׁלֹּא יִקָּבַע הַדָּבָר חוֹבָה. אֲרִיסְטוֹן הֵבִיא בִכּוּרָיו מֵאַפַּמְיָא, וְקִבְּלוּ מִמֶּנּוּ, מִפְּנֵי שֶׁאָמְרוּ, הַקּוֹנֶה בְסוּרְיָא, כְּקוֹנֶה בְּפַרְוָר שֶׁבִּירוּשָׁלָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Ben Antinos fit monter des premiers-nés depuis Babylone, mais on ne les accepta pas de lui. Yossef le Cohen apporta des prémices de vin et d’huile, mais on ne les accepta pas de lui. Lui aussi fit monter ses fils et les membres de sa maison pour faire le petit Pessa’h à Jérusalem, mais on le fit repartir, afin que la chose ne soit pas établie comme une obligation. Ariston apporta ses prémices depuis Apamée, et on les accepta de lui, parce qu’ils dirent : celui qui achète en Syrie est comme celui qui achète dans un faubourg de Jérusalem.",
+          "etude_fr": {
+            "traduction_fr": "Ben Antinos fit monter des premiers-nés depuis Babylone, mais on ne les accepta pas de lui. Yossef le Cohen apporta des prémices de vin et d’huile, mais on ne les accepta pas de lui. Lui aussi fit monter ses fils et les membres de sa maison pour faire le petit Pessa’h à Jérusalem, mais on le fit repartir, afin que la chose ne soit pas établie comme une obligation. Ariston apporta ses prémices depuis Apamée, et on les accepta de lui, parce qu’ils dirent : celui qui achète en Syrie est comme celui qui achète dans un faubourg de Jérusalem.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Challah 4:11",
+                "explication": "Les premiers-nés ne sont apportés au Temple que de la Terre d’Israël ; c’est pourquoi les premiers-nés amenés de Babylone par Ben Antinos ne furent pas acceptés. De même, les prémices ne sont apportées que des sept espèces et uniquement sous la forme exigée par la Torah : les raisins et les olives eux-mêmes, et non le vin et l’huile. C’est pour cela que les prémices de vin et d’huile apportées par Yossef le Cohen ne furent pas acceptées."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Challah 4:11",
+                "explication": "Le Rambam explique que cette Michna énumère des cas où les Sages ont refusé des pratiques qui risquaient d’être comprises comme obligatoires ou comme halakhiquement valables alors qu’elles ne l’étaient pas. Le petit Pessa’h, c’est Pessa’h Chéni, destiné à ceux qui n’ont pas pu offrir le sacrifice pascal en son temps ; on renvoya Yossef le Cohen lorsqu’il fit venir toute sa famille, afin que les gens ne croient pas que les femmes et les enfants soient tenus d’y monter comme d’une obligation fixe."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Challah 4:11",
+                "explication": "Le Tossafot Yom Tov souligne le lien de cette Michna avec les lois des terres proches ou extérieures à la Terre d’Israël. La Syrie possède un statut particulier : bien qu’elle ne soit pas la Terre d’Israël au sens strict pour toutes les lois, l’acquisition qui y est faite est considérée, pour certains prélèvements et obligations agricoles, comme une acquisition dans une zone rattachée à Jérusalem. C’est pourquoi les prémices d’Ariston, venues d’Apamée de Syrie, furent acceptées."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Challah 4:11",
+                "explication": "Le Tiféret Israël précise que l’expression « faubourg de Jérusalem » signifie un territoire attenant et dépendant de la sainteté et de l’autorité de la Terre d’Israël pour cette halakha. La Michna oppose ainsi Babylone, d’où l’on n’accepte pas les premiers-nés pour l’offrande au Temple, à la Syrie, qui a été conquise et rattachée d’une manière lui donnant un statut plus proche de la Terre d’Israël pour les prémices."
+              }
+            ]
+          }
         }
       ]
     }
