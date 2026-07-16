@@ -15,8 +15,32 @@
           "ref": "Mishnah Taanit 1:1",
           "he": "מֵאֵימָתַי מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים. רַבִּי אֱלִיעֶזֶר אוֹמֵר, מִיּוֹם טוֹב הָרִאשׁוֹן שֶׁל חָג. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, מִיּוֹם טוֹב הָאַחֲרוֹן שֶׁל חָג. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ. הוֹאִיל וְאֵין הַגְּשָׁמִים אֶלָּא סִימַן קְלָלָה בֶּחָג, לָמָּה מַזְכִּיר. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר, אַף אֲנִי לֹא אָמַרְתִּי לִשְׁאוֹל, אֶלָּא לְהַזְכִּיר מַשִּׁיב הָרוּחַ וּמוֹרִיד הַגֶּשֶׁם בְּעוֹנָתוֹ. אָמַר לוֹ, אִם כֵּן, לְעוֹלָם יְהֵא מַזְכִּיר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À partir de quand mentionne-t-on les puissances des pluies ? Rabbi Éliézer dit : à partir du premier Yom Tov de la fête. Rabbi Yehoshoua dit : à partir du dernier Yom Tov de la fête. Rabbi Yehoshoua lui dit : Puisque les pluies ne sont qu’un signe de malédiction pendant la fête, pourquoi les mentionnerait-on ? Rabbi Éliézer lui dit : Moi non plus, je n’ai pas dit de les demander, mais seulement de mentionner : « Il fait souffler le vent et tomber la pluie », en son temps. Il lui dit : S’il en est ainsi, qu’on les mentionne toujours !",
+          "etude_fr": {
+            "traduction_fr": "À partir de quand mentionne-t-on les puissances des pluies ? Rabbi Éliézer dit : à partir du premier Yom Tov de la fête. Rabbi Yehoshoua dit : à partir du dernier Yom Tov de la fête. Rabbi Yehoshoua lui dit : Puisque les pluies ne sont qu’un signe de malédiction pendant la fête, pourquoi les mentionnerait-on ? Rabbi Éliézer lui dit : Moi non plus, je n’ai pas dit de les demander, mais seulement de mentionner : « Il fait souffler le vent et tomber la pluie », en son temps. Il lui dit : S’il en est ainsi, qu’on les mentionne toujours !",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 1:1",
+                "explication": "Les « puissances des pluies » désignent la mention insérée dans la bénédiction de la résurrection des morts : « Il fait souffler le vent et tomber la pluie ». On l’appelle ainsi parce que la pluie manifeste la puissance du Saint béni soit-Il, comme l’enseigne la Guemara : les pluies sont comparées à la résurrection des morts. Rabbi Éliézer distingue entre « mentionner » la pluie, qui est une louange, et « demander » la pluie, qui se fait plus tard dans la bénédiction des années. Rabbi Yehoshoua objecte que, même comme louange, la mention n’est pas appropriée durant Souccot, car la pluie à ce moment empêche l’accomplissement de la mitsva de la soucca et constitue donc un signe de malédiction."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 1:1",
+                "explication": "Le Rambam explique que la Michna traite de la mention de la pluie dans la prière, non de la demande explicite de pluie. La mention se trouve dans la deuxième bénédiction de la Amida, tandis que la demande se trouve dans la bénédiction des années. Rabbi Éliézer pense que la louange peut commencer dès le début de Souccot, puisqu’on ne demande pas encore la pluie ; Rabbi Yehoshoua considère néanmoins qu’on ne doit pas évoquer la pluie pendant une période où elle serait nuisible. La halakha suit Rabbi Yehoshoua : on commence à mentionner la pluie au dernier Yom Tov de la fête."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 1:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « premier Yom Tov de la fête » désigne le premier jour de Souccot, et « dernier Yom Tov de la fête » désigne Chemini Atséret. Même si Chemini Atséret est encore appelé ici « fête » en lien avec Souccot, il constitue le moment où l’on peut commencer à mentionner la pluie, car la mitsva de demeurer dans la soucca est achevée. L’objection finale de Rabbi Yehoshoua — « qu’on les mentionne toujours » — signifie que si la mention n’est qu’une louange générale à Dieu, sans rapport avec la saison, il n’y aurait aucune raison de la limiter à une période particulière."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Rachi sur Taanit 2a",
+                "explication": "Rachi explique que « pourquoi les mentionnerait-on ? » signifie : pourquoi évoquer la pluie pendant Souccot, alors qu’elle est alors un mauvais signe, car elle force les gens à quitter la soucca. Il explique aussi que « en son temps » dans la réponse de Rabbi Éliézer signifie que l’on ne prie pas pour qu’elle tombe maintenant, mais que l’on mentionne seulement que Dieu la fait tomber au moment approprié. Rabbi Yehoshoua réplique que, si tel est le sens, cette louange pourrait être dite toute l’année."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,32 @@
           "ref": "Mishnah Taanit 1:2",
           "he": "אֵין שׁוֹאֲלִין אֶת הַגְּשָׁמִים אֶלָּא סָמוּךְ לַגְּשָׁמִים. רַבִּי יְהוּדָה אוֹמֵר, הָעוֹבֵר לִפְנֵי הַתֵּבָה בְּיוֹם טוֹב הָאַחֲרוֹן שֶׁל חַג, הָאַחֲרוֹן מַזְכִּיר, הָרִאשׁוֹן אֵינוֹ מַזְכִּיר. בְּיוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, הָרִאשׁוֹן מַזְכִּיר, הָאַחֲרוֹן אֵינוֹ מַזְכִּיר. עַד אֵימָתַי שׁוֹאֲלִין אֶת הַגְּשָׁמִים, רַבִּי יְהוּדָה אוֹמֵר, עַד שֶׁיַּעֲבֹר הַפָּסַח. רַבִּי מֵאִיר אוֹמֵר, עַד שֶׁיֵּצֵא נִיסָן, שֶׁנֶּאֱמַר (יואל ב) וַיּוֹרֶד לָכֶם גֶּשֶׁם, מוֹרֶה וּמַלְקוֹשׁ בָּרִאשׁוֹן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne demande les pluies que près de la saison des pluies. Rabbi Yehouda dit : Celui qui passe devant l’arche, le dernier Yom Tov de la fête, le dernier mentionne les pluies, le premier ne les mentionne pas. Le premier Yom Tov de Pessa’h, le premier les mentionne, le dernier ne les mentionne pas. Jusqu’à quand demande-t-on les pluies ? Rabbi Yehouda dit : jusqu’à ce que Pessa’h soit passé. Rabbi Méïr dit : jusqu’à ce que Nissan sorte, car il est dit : « Il fera descendre pour vous la pluie, la pluie précoce et la pluie tardive, au premier mois ».",
+          "etude_fr": {
+            "traduction_fr": "On ne demande les pluies que près de la saison des pluies. Rabbi Yehouda dit : Celui qui passe devant l’arche, le dernier Yom Tov de la fête, le dernier mentionne les pluies, le premier ne les mentionne pas. Le premier Yom Tov de Pessa’h, le premier les mentionne, le dernier ne les mentionne pas. Jusqu’à quand demande-t-on les pluies ? Rabbi Yehouda dit : jusqu’à ce que Pessa’h soit passé. Rabbi Méïr dit : jusqu’à ce que Nissan sorte, car il est dit : « Il fera descendre pour vous la pluie, la pluie précoce et la pluie tardive, au premier mois ».",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 1:2",
+                "explication": "Bartenoura distingue entre « mentionner » les pluies, c’est-à-dire dire dans la prière « Il fait souffler le vent et descendre la pluie », qui est une louange adressée à Dieu, et « demander » les pluies, c’est-à-dire la requête « donne rosée et pluie ». La Michna enseigne ici que la demande n’est formulée qu’à l’approche du temps où la pluie est nécessaire. Quant à Rabbi Yehouda, il fixe le début de la mention à la prière de Moussaf du dernier Yom Tov de la fête, c’est-à-dire Chemini Atséret, et son arrêt à Moussaf du premier Yom Tov de Pessa’h : à Cha’harit de Pessa’h on la mentionne encore, mais à Moussaf on ne la mentionne plus."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 1:2",
+                "explication": "Le Rambam explique que la Michna traite de deux éléments distincts de la prière : la louange de Dieu comme Celui qui fait tomber la pluie, et la demande explicite de pluie pour les besoins du monde. La demande doit être placée au moment approprié, lorsque la pluie est bénéfique. Il précise aussi que l’expression « au premier mois » dans le verset de Yoël est comprise par Rabbi Méïr comme désignant Nissan ; celui-ci en déduit que même en Nissan la pluie peut encore être demandée, jusqu’à la fin du mois."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 1:2",
+                "explication": "Tossafot Yom Tov souligne que « le premier » et « le dernier » désignent les deux offices dans lesquels un officiant passe devant l’arche : le premier est l’office du matin, et le dernier est l’office de Moussaf. Ainsi, le dernier Yom Tov de la fête, on commence la mention des pluies seulement à Moussaf ; au premier Yom Tov de Pessa’h, on la dit encore à l’office du matin, mais on l’abandonne à Moussaf."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Taanit 1:2",
+                "explication": "Tiféret Israël explique que la raison de ne pas demander les pluies trop tôt est que la pluie peut être inopportune pour ceux qui sont encore en chemin après la fête. En revanche, la mention des pluies comme puissance divine peut commencer dès Chemini Atséret, car elle n’est pas une requête immédiate de pluie mais une louange. La Michna distingue donc soigneusement le moment où l’on proclame la puissance de Dieu sur la pluie et le moment où l’on sollicite effectivement la pluie."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +83,27 @@
           "ref": "Mishnah Taanit 1:3",
           "he": "בִּשְׁלשָׁה בְמַרְחֶשְׁוָן שׁוֹאֲלִין אֶת הַגְּשָׁמִים. רַבָּן גַּמְלִיאֵל אוֹמֵר, בְּשִׁבְעָה בוֹ, חֲמִשָּׁה עָשָׂר יוֹם אַחַר הֶחָג, כְּדֵי שֶׁיַּגִּיעַ אַחֲרוֹן שֶׁבְּיִשְׂרָאֵל לִנְהַר פְּרָת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le trois Mar’hechvan, on demande les pluies. Rabban Gamliel dit : le sept de ce mois, quinze jours après la fête, afin que le dernier d’Israël puisse atteindre le fleuve Perat.",
+          "etude_fr": {
+            "traduction_fr": "Le trois Mar’hechvan, on demande les pluies. Rabban Gamliel dit : le sept de ce mois, quinze jours après la fête, afin que le dernier d’Israël puisse atteindre le fleuve Perat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 1:3",
+                "explication": "« On demande les pluies » signifie que l’on commence à dire dans la bénédiction des années : « donne la rosée et la pluie ». La Michna parle de la demande de pluie dans la prière, et non de la mention de la puissance divine faisant descendre la pluie, traitée auparavant. Bartenoura explique que la raison de Rabban Gamliel est d’attendre que les pèlerins montés à Jérusalem pour la fête de Souccot puissent rentrer chez eux sans être gênés par les pluies ; même celui qui habite à l’extrémité la plus éloignée, vers le fleuve Perat, dispose ainsi de quinze jours pour arriver."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 1:3",
+                "explication": "Le Rambam explique que la « demande des pluies » désigne l’ajout de la requête pour la pluie dans la prière. La première opinion fixe ce début au trois Mar’hechvan, tandis que Rabban Gamliel le repousse au sept du mois, par considération pour ceux qui sont montés en pèlerinage à Jérusalem et qui doivent encore regagner leurs lieux d’habitation. Le Rambam précise que la halakha suit Rabban Gamliel."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 1:3",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « quinze jours après la fête » se calcule depuis la fin de la fête, c’est-à-dire après le dernier jour de Souccot, de sorte que le sept Mar’hechvan correspond au délai nécessaire au voyage des pèlerins. Il met aussi en évidence la différence entre « demander » la pluie, qui relève de la bénédiction des années, et « mentionner » la pluie, qui a déjà commencé à partir de Chemini Atséret."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +112,27 @@
           "ref": "Mishnah Taanit 1:4",
           "he": "הִגִּיעַ שִׁבְעָה עָשָׂר בְּמַרְחֶשְׁוָן וְלֹא יָרְדוּ גְשָׁמִים, הִתְחִילוּ הַיְחִידִים מִתְעַנִּין שָׁלשׁ תַּעֲנִיּוֹת. אוֹכְלִין וְשׁוֹתִין מִשֶּׁחֲשֵׁכָה, וּמֻתָּרִין בִּמְלָאכָה וּבִרְחִיצָה וּבְסִיכָה וּבִנְעִילַת הַסַּנְדָּל וּבְתַשְׁמִישׁ הַמִּטָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsque arriva le dix-sept Mar‘hechvan et que les pluies n’étaient pas tombées, les individus éminents commençaient à jeûner trois jeûnes. Ils mangent et boivent dès la tombée de la nuit, et il leur est permis de travailler, de se laver, de s’oindre, de chausser des sandales et d’avoir des relations conjugales.",
+          "etude_fr": {
+            "traduction_fr": "Lorsque arriva le dix-sept Mar‘hechvan et que les pluies n’étaient pas tombées, les individus éminents commençaient à jeûner trois jeûnes. Ils mangent et boivent dès la tombée de la nuit, et il leur est permis de travailler, de se laver, de s’oindre, de chausser des sandales et d’avoir des relations conjugales.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 1:4",
+                "explication": "Les « individus éminents » sont les sages et les hommes distingués de la génération, ceux qui sont aptes à se séparer du reste du peuple pour s’affliger les premiers lorsque la pluie tarde. Ces trois premiers jeûnes sont légers : ils ne commencent pas la veille au soir, c’est pourquoi il est permis de manger et de boire pendant la nuit, jusqu’au début du jour. De même, les autres afflictions — travail, lavage, onction, port des sandales et relations conjugales — restent permises."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 1:4",
+                "explication": "Le Rambam explique que cette étape intervient après la date fixée pour commencer à demander la pluie, lorsque l’absence de pluie devient préoccupante. Seuls les particuliers qualifiés jeûnent alors, et non toute la communauté. Ces jeûnes n’ont pas la gravité des jeûnes décrétés plus tard : ils sont semblables à des jeûnes ordinaires qui commencent le matin, sans interdictions supplémentaires."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 1:4",
+                "explication": "Le Tossafot Yom Tov souligne l’ordre progressif de la Michna : on ne décrète pas immédiatement des jeûnes sévères pour toute la communauté. D’abord, les individus éminents jeûnent trois fois ; seulement si la situation persiste, on passe à des mesures plus strictes. La mention explicite des permissions vient préciser que ces premiers jeûnes ne comportent que l’abstention de manger et de boire durant la journée."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +141,27 @@
           "ref": "Mishnah Taanit 1:5",
           "he": "הִגִּיעַ רֹאשׁ חֹדֶשׁ כִּסְלֵו וְלֹא יָרְדוּ גְשָׁמִים, בֵּית דִּין גּוֹזְרִין שָׁלשׁ תַּעֲנִיוֹת עַל הַצִּבּוּר. אוֹכְלִין וְשׁוֹתִין מִשֶּׁחֲשֵׁכָה, וּמֻתָּרִין בִּמְלָאכָה וּבִרְחִיצָה וּבְסִיכָה וּבִנְעִילַת הַסַּנְדָּל וּבְתַשְׁמִישׁ הַמִּטָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsque arrive Roch ‘Hodech Kislev et que les pluies ne sont pas tombées, le tribunal décrète trois jeûnes sur la communauté. On mange et l’on boit dès qu’il fait nuit, et l’on est autorisé au travail, au lavage, à l’onction, au port des sandales et aux relations conjugales.",
+          "etude_fr": {
+            "traduction_fr": "Lorsque arrive Roch ‘Hodech Kislev et que les pluies ne sont pas tombées, le tribunal décrète trois jeûnes sur la communauté. On mange et l’on boit dès qu’il fait nuit, et l’on est autorisé au travail, au lavage, à l’onction, au port des sandales et aux relations conjugales.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 1:5",
+                "explication": "Ces trois jeûnes sont décrétés par le tribunal pour toute la communauté lorsque, même arrivé Roch ‘Hodech Kislev, la pluie n’est pas encore tombée. Ils sont plus légers que les jeûnes publics ultérieurs : ils ne commencent pas depuis la nuit précédente, mais seulement le matin. C’est pourquoi la Michna dit que l’on mange et boit après la tombée de la nuit. De même, les interdictions supplémentaires — travail, lavage, onction, port des sandales et relations conjugales — ne s’appliquent pas à ces premiers jeûnes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 1:5",
+                "explication": "Le Rambam explique que l’ordre des jeûnes pour le manque de pluie est progressif. Après les premiers jeûnes des particuliers, si la situation persiste jusqu’à Roch ‘Hodech Kislev, le tribunal impose trois jeûnes à l’ensemble du peuple. Toutefois, ces jeûnes restent d’un degré de sévérité limité : ils ne comportent pas les restrictions des jeûnes les plus graves, car leur but est d’éveiller la communauté au repentir sans encore appliquer toutes les rigueurs."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 1:5",
+                "explication": "Le Tossafot Yom Tov souligne la précision de l’expression « sur la communauté » : il ne s’agit plus seulement de particuliers pieux ou importants qui jeûnent, mais d’un décret collectif du tribunal. Il note également que la permission de manger la nuit montre que ces jeûnes ne sont pas assimilés aux jeûnes qui commencent dès le coucher du soleil, comme les jeûnes publics plus sévères mentionnés par la suite."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +170,27 @@
           "ref": "Mishnah Taanit 1:6",
           "he": "עָבְרוּ אֵלּוּ וְלֹא נַעֲנוּ, בֵּית דִּין גּוֹזְרִין שָׁלשׁ תַּעֲנִיּוֹת אֲחֵרוֹת עַל הַצִּבּוּר. אוֹכְלִין וְשׁוֹתִין מִבְּעוֹד יוֹם, וַאֲסוּרִין בִּמְלָאכָה וּבִרְחִיצָה וּבְסִיכָה וּבִנְעִילַת הַסַּנְדָּל וּבְתַשְׁמִישׁ הַמִּטָּה, וְנוֹעֲלִין אֶת הַמֶּרְחֲצָאוֹת. עָבְרוּ אֵלּוּ וְלֹא נַעֲנוּ, בֵּית דִּין גּוֹזְרִין עֲלֵיהֶם עוֹד שֶׁבַע, שֶׁהֵן שְׁלשׁ עֶשְׂרֵה תַּעֲנִיּוֹת עַל הַצִּבּוּר. הֲרֵי אֵלּוּ יְתֵרוֹת עַל הָרִאשׁוֹנוֹת, שֶׁבָּאֵלּוּ מַתְרִיעִין וְנוֹעֲלִין אֶת הַחֲנוּיוֹת, בַּשֵּׁנִי מַטִּין עִם חֲשֵׁכָה, וּבַחֲמִישִׁי מֻתָּרִין מִפְּנֵי כְבוֹד הַשַּׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si celles-ci sont passées et qu’ils n’ont pas été exaucés, le tribunal décrète trois autres jeûnes sur la communauté. On mange et l’on boit tant qu’il fait encore jour ; et ils sont interdits de travail, de bain, d’onction, de porter des sandales et de relations conjugales, et l’on ferme les bains publics.\n\nSi celles-ci sont passées et qu’ils n’ont pas été exaucés, le tribunal décrète sur eux encore sept jeûnes, ce qui fait treize jeûnes pour la communauté. Ceux-ci sont plus sévères que les premiers : lors de ceux-ci, on sonne l’alarme et l’on ferme les boutiques ; le lundi, on les entrouvre à l’approche de l’obscurité, et le jeudi elles sont permises, en l’honneur du Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Si celles-ci sont passées et qu’ils n’ont pas été exaucés, le tribunal décrète trois autres jeûnes sur la communauté. On mange et l’on boit tant qu’il fait encore jour ; et ils sont interdits de travail, de bain, d’onction, de porter des sandales et de relations conjugales, et l’on ferme les bains publics.\n\nSi celles-ci sont passées et qu’ils n’ont pas été exaucés, le tribunal décrète sur eux encore sept jeûnes, ce qui fait treize jeûnes pour la communauté. Ceux-ci sont plus sévères que les premiers : lors de ceux-ci, on sonne l’alarme et l’on ferme les boutiques ; le lundi, on les entrouvre à l’approche de l’obscurité, et le jeudi elles sont permises, en l’honneur du Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 1:6",
+                "explication": "Les trois jeûnes mentionnés ici sont plus sévères que les précédents : ils commencent dès la veille au soir, c’est pourquoi la Michna précise que l’on mange et boit seulement tant qu’il fait encore jour. Ils ont aussi le statut de jeûnes publics rigoureux : travail, bain, onction, port de sandales et relations conjugales y sont interdits, à la manière des restrictions connues pour un jour de grande affliction. Les bains publics sont fermés afin que personne n’en vienne à se laver. Dans la série suivante de sept jeûnes, on ajoute encore la sonnerie d’alarme et la fermeture des boutiques. Le lundi, les commerçants n’ouvrent pas normalement : ils inclinent seulement les battants des portes vers le soir, pour permettre l’achat du nécessaire. Le jeudi, on permet l’ouverture en raison de l’honneur du Chabbat, afin que les gens puissent acheter ce qu’il faut pour Chabbat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 1:6",
+                "explication": "Le Rambam explique l’ordre progressif des jeûnes décrétés pour le manque de pluie : après les premiers jeûnes, si la communauté n’a pas été exaucée, on aggrave les mesures. Les trois jeûnes intermédiaires comportent les interdictions énumérées par la Michna. Puis, si la sécheresse persiste, on décrète encore sept jeûnes, qui complètent le total de treize jeûnes publics. Leur particularité est l’ajout de la sonnerie, destinée à réveiller la communauté à la supplication et au repentir, ainsi que des signes publics de détresse, comme la fermeture des boutiques."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 1:6",
+                "explication": "Le Tossafot Yom Tov souligne la structure numérique de la Michna : trois premiers jeûnes ont déjà été décrétés auparavant, puis trois autres ici, puis encore sept, soit treize jeûnes au total. Il précise que l’expression “ceux-ci sont plus sévères que les premiers” se rapporte aux sept derniers par rapport aux trois précédents : on y ajoute la sonnerie d’alarme et la fermeture des boutiques. Toutefois, même dans cette sévérité, on distingue le jeudi, car l’honneur du Chabbat exige que l’on permette aux gens de préparer leurs besoins."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +199,32 @@
           "ref": "Mishnah Taanit 1:7",
           "he": "עָבְרוּ אֵלּוּ וְלֹא נַעֲנוּ, מְמַעֲטִין בְּמַשָּׂא וּמַתָּן, בְּבִנְיָן וּבִנְטִיעָה, בְּאֵרוּסִין וּבְנִשּׂוּאִין וּבִשְׁאֵלַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, כִּבְנֵי אָדָם הַנְּזוּפִין לַמָּקוֹם. הַיְחִידִים חוֹזְרִים וּמִתְעַנִּים עַד שֶׁיֵּצֵא נִיסָן. יָצָא נִיסָן וְלֹא יָרְדוּ גְשָׁמִים, סִימַן קְלָלָה, שֶׁנֶּאֱמַר (שמואל א יב) הֲלוֹא קְצִיר חִטִּים הַיּוֹם, וְגוֹ':",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si ceux-ci sont passés et qu’ils n’ont pas été exaucés, on diminue les affaires commerciales, la construction et les plantations, les fiançailles et les mariages, ainsi que les salutations entre un homme et son prochain, comme des hommes réprimandés par le Omniprésent. Les particuliers recommencent à jeûner jusqu’à ce que Nissan s’achève. Si Nissan s’est achevé et que les pluies ne sont pas tombées, c’est un signe de malédiction, comme il est dit : « N’est-ce pas aujourd’hui la moisson des blés ? », etc.",
+          "etude_fr": {
+            "traduction_fr": "Si ceux-ci sont passés et qu’ils n’ont pas été exaucés, on diminue les affaires commerciales, la construction et les plantations, les fiançailles et les mariages, ainsi que les salutations entre un homme et son prochain, comme des hommes réprimandés par le Omniprésent. Les particuliers recommencent à jeûner jusqu’à ce que Nissan s’achève. Si Nissan s’est achevé et que les pluies ne sont pas tombées, c’est un signe de malédiction, comme il est dit : « N’est-ce pas aujourd’hui la moisson des blés ? », etc.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Taanit 1:7",
+                "explication": "Après la série des jeûnes publics mentionnée précédemment, si la communauté n’a toujours pas été exaucée par la pluie, on adopte des signes de deuil et d’humiliation devant Dieu. Bartenoura précise que la construction et la plantation interdites ici sont celles qui relèvent de la joie et du confort, par exemple construire une maison destinée à une noce ou planter des arbres d’agrément pour s’y réjouir ; en revanche, ce qui est nécessaire ou destiné à éviter un dommage n’est pas inclus."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 1:7",
+                "explication": "Le Rambam explique que les « particuliers » sont les hommes éminents et pieux, capables de supporter des jeûnes supplémentaires et dont la conduite sert d’exemple à la communauté. Après que les jeûnes publics sont passés sans réponse, eux continuent à jeûner jusqu’à la fin du mois de Nissan, car toute cette période peut encore relever du temps des pluies."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Taanit 1:7",
+                "explication": "Tossafot Yom Tov souligne l’expression « comme des hommes réprimandés par le Omniprésent » : la diminution des salutations n’est pas une simple mesure sociale, mais l’expression d’un état spirituel. De même qu’une personne réprimandée ou mise à distance s’abstient de manifestations ordinaires d’honneur et de convivialité, ainsi la communauté manifeste qu’elle se sent rejetée jusqu’à ce que sa prière soit agréée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël sur Taanit 1:7",
+                "explication": "Tiféret Israël explique que la pluie après Nissan est considérée comme un signe de malédiction, car à cette période, en terre d’Israël, les récoltes sont déjà en cours, notamment la moisson des blés. Une pluie tardive peut alors abîmer les produits des champs. C’est pourquoi la Michna apporte le verset de l’époque de Chemouel, où la pluie pendant la moisson est présentée comme un signe de colère divine."
+              }
+            ]
+          }
         }
       ]
     },
@@ -90,8 +238,32 @@
           "ref": "Mishnah Taanit 2:1",
           "he": "סֵדֶר תַּעֲנִיּוֹת כֵּיצַד, מוֹצִיאִין אֶת הַתֵּבָה לִרְחוֹבָהּ שֶׁל עִיר, וְנוֹתְנִין אֵפֶר מִקְלֶה עַל גַּבֵּי הַתֵּבָה, וּבְרֹאשׁ הַנָּשִׂיא וּבְרֹאשׁ אַב בֵּית דִּין, וְכָל אֶחָד וְאֶחָד נוֹתֵן בְּרֹאשׁוֹ. הַזָּקֵן שֶׁבָּהֶן אוֹמֵר לִפְנֵיהֶן דִּבְרֵי כִבּוּשִׁין, אַחֵינוּ, לֹא נֶאֱמַר בְּאַנְשֵׁי נִינְוֵה, וַיַּרְא הָאֱלֹהִים אֶת שַׂקָּם וְאֶת תַּעֲנִיתָם, אֶלָּא (יונה ג) וַיַּרְא הָאֱלֹהִים אֶת מַעֲשֵׂיהֶם, כִּי שָׁבוּ מִדַּרְכָּם הָרָעָה. וּבַקַּבָּלָה הוּא אוֹמֵר (יואל ב) וְקִרְעוּ לְבַבְכֶם וְאַל בִּגְדֵיכֶם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Quel est l’ordre des jeûnes ? On sort l’arche vers la place publique de la ville, et l’on met de la cendre de combustion sur l’arche, ainsi que sur la tête du prince et sur la tête du président du tribunal ; puis chacun en met sur sa propre tête. L’ancien d’entre eux prononce devant eux des paroles d’exhortation : « Nos frères, il n’est pas dit au sujet des gens de Ninive : “Dieu vit leur sac et leur jeûne”, mais : “Dieu vit leurs actes, car ils étaient revenus de leur mauvaise voie” (Jonas 3). Et dans les Prophètes il est dit : “Déchirez vos cœurs, et non vos vêtements” (Yoël 2). »",
+          "etude_fr": {
+            "traduction_fr": "Quel est l’ordre des jeûnes ? On sort l’arche vers la place publique de la ville, et l’on met de la cendre de combustion sur l’arche, ainsi que sur la tête du prince et sur la tête du président du tribunal ; puis chacun en met sur sa propre tête. L’ancien d’entre eux prononce devant eux des paroles d’exhortation : « Nos frères, il n’est pas dit au sujet des gens de Ninive : “Dieu vit leur sac et leur jeûne”, mais : “Dieu vit leurs actes, car ils étaient revenus de leur mauvaise voie” (Jonas 3). Et dans les Prophètes il est dit : “Déchirez vos cœurs, et non vos vêtements” (Yoël 2). »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Taanit 2:1",
+                "explication": "On sort l’arche contenant le Séfer Torah sur la place publique afin d’exprimer que nous avons été exilés de notre lieu et que notre honneur a été abaissé à cause de nos fautes. La cendre est placée sur l’arche et sur la tête des dirigeants pour éveiller à l’humilité et au repentir ; les chefs de la communauté sont mentionnés d’abord, car la responsabilité publique repose sur eux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 2:1",
+                "explication": "Le Rambam explique que cet ordre appartient aux jeûnes publics décrétés lors de calamités, notamment lorsque les pluies tardent. Tous ces actes — sortir dans la rue, mettre de la cendre, prononcer des paroles d’exhortation — n’ont pas pour but le geste extérieur en lui-même, mais d’amener la communauté à la techouva et à la correction des actes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Taanit 2:1",
+                "explication": "Il souligne que la Michna insiste sur les gens de Ninive précisément pour enseigner que le jeûne, le sac et les manifestations de deuil ne suffisent pas. Ce que Dieu considère avant tout, ce sont les actes : l’abandon concret de la mauvaise conduite. Les signes extérieurs ne sont efficaces que s’ils expriment un changement intérieur réel."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël sur Taanit 2:1",
+                "explication": "Il explique que les “paroles d’exhortation” doivent briser l’orgueil du cœur et faire comprendre que la détresse collective n’est pas seulement un événement naturel : elle appelle une introspection morale. C’est pourquoi la Michna conclut par “Déchirez vos cœurs, et non vos vêtements”, verset qui résume l’objectif de tout le rituel du jeûne public."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -100,8 +272,27 @@
           "ref": "Mishnah Taanit 2:2",
           "he": "עָמְדוּ בִתְפִלָּה, מוֹרִידִין לִפְנֵי הַתֵּבָה זָקֵן וְרָגִיל, וְיֶשׁ לוֹ בָנִים, וּבֵיתוֹ רֵיקָם, כְּדֵי שֶׁיְּהֵא לִבּוֹ שָׁלֵם בַּתְּפִלָּה, וְאוֹמֵר לִפְנֵיהֶם עֶשְׂרִים וְאַרְבַּע בְּרָכוֹת, שְׁמֹנֶה עֶשְׂרֵה שֶׁבְּכָל יוֹם, וּמוֹסִיף עֲלֵיהֶן עוֹד שֵׁשׁ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsqu’ils se tiennent pour la prière, on fait descendre devant l’arche un homme âgé et habitué à conduire la prière, qui a des enfants et dont la maison est vide, afin que son cœur soit entier dans la prière. Il récite devant eux vingt-quatre bénédictions : les dix-huit de chaque jour, et il y ajoute encore six.",
+          "etude_fr": {
+            "traduction_fr": "Lorsqu’ils se tiennent pour la prière, on fait descendre devant l’arche un homme âgé et habitué à conduire la prière, qui a des enfants et dont la maison est vide, afin que son cœur soit entier dans la prière. Il récite devant eux vingt-quatre bénédictions : les dix-huit de chaque jour, et il y ajoute encore six.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:2",
+                "explication": "« Un homme âgé et habitué » signifie un homme expérimenté dans la prière et apte à être émissaire de la communauté. « Qui a des enfants » indique qu’il est sensible à la détresse de la génération et qu’il priera avec compassion pour que les enfants ne souffrent pas de la famine. « Dont la maison est vide » signifie qu’il est pauvre : sa propre situation le rend particulièrement brisé et sincère, de sorte que son cœur est entièrement tourné vers la prière."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:2",
+                "explication": "Le Rambam explique que, lors de ces jeûnes publics, on choisit pour diriger la prière une personne réunissant des qualités propres à susciter la miséricorde divine : âge, habitude de la prière, responsabilité familiale et pauvreté. La prière comporte alors vingt-quatre bénédictions : la ‘Amida ordinaire de dix-huit bénédictions, à laquelle on ajoute six bénédictions particulières liées à la détresse et aux supplications."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:2",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « on fait descendre devant l’arche » désigne la nomination du ministre officiant pour représenter la communauté devant Dieu. Les critères mentionnés par la Michna ne sont pas accessoires : ils visent à ce que l’officiant soit accepté par l’assemblée et prie avec une intention complète, sans légèreté ni distraction."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -110,8 +301,32 @@
           "ref": "Mishnah Taanit 2:3",
           "he": "וְאֵלּוּ הֵן, זִכְרוֹנוֹת, וְשׁוֹפָרוֹת, אֶל ה' בַּצָּרָתָה לִּי קָרָאתִי וַיַּעֲנֵנִי (תהילים ק״כ:א׳), אֶשָּׂא עֵינַי אֶל הֶהָרִים וְגוֹ' (שם קכא), מִמַּעֲמַקִּים קְרָאתִיךָ ה' (שם קל), תְּפִלָּה לְעָנִי כִי יַעֲטֹף (שם קב). רַבִּי יְהוּדָה אוֹמֵר, לֹא הָיָה צָרִיךְ לוֹמַר זִכְרוֹנוֹת וְשׁוֹפָרוֹת, אֶלָּא אוֹמֵר תַּחְתֵּיהֶן, רָעָב כִּי יִהְיֶה בָאָרֶץ (מלכים א ח׳, ל\"ז), דֶּבֶר כִּי יִהְיֶה וְגוֹ', אֲשֶׁר הָיָה דְבַר ה' אֶל יִרְמְיָהוּ עַל דִּבְרֵי הַבַּצָּרוֹת (ירמיה יד). וְאוֹמֵר חוֹתְמֵיהֶן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et voici ce que sont les « Souvenirs » et les « Chofarot » : « Vers l’Éternel, dans ma détresse, j’ai appelé, et Il m’a répondu » (Psaumes 120, 1) ; « Je lèverai mes yeux vers les montagnes », etc. (ibid. 121) ; « Des profondeurs je T’ai appelé, Éternel » (ibid. 130) ; « Prière du pauvre lorsqu’il s’enveloppe de détresse » (ibid. 102). Rabbi Yehouda dit : Il n’était pas nécessaire de dire les « Souvenirs » et les « Chofarot » ; mais il dit à leur place : « S’il y a famine dans le pays » (I Rois 8, 37), « s’il y a peste », etc. ; « La parole de l’Éternel qui fut adressée à Jérémie au sujet des sécheresses » (Jérémie 14). Et il dit leurs formules de conclusion :",
+          "etude_fr": {
+            "traduction_fr": "Et voici ce que sont les « Souvenirs » et les « Chofarot » : « Vers l’Éternel, dans ma détresse, j’ai appelé, et Il m’a répondu » (Psaumes 120, 1) ; « Je lèverai mes yeux vers les montagnes », etc. (ibid. 121) ; « Des profondeurs je T’ai appelé, Éternel » (ibid. 130) ; « Prière du pauvre lorsqu’il s’enveloppe de détresse » (ibid. 102). Rabbi Yehouda dit : Il n’était pas nécessaire de dire les « Souvenirs » et les « Chofarot » ; mais il dit à leur place : « S’il y a famine dans le pays » (I Rois 8, 37), « s’il y a peste », etc. ; « La parole de l’Éternel qui fut adressée à Jérémie au sujet des sécheresses » (Jérémie 14). Et il dit leurs formules de conclusion :",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:3",
+                "explication": "La Michna poursuit l’ordre des six bénédictions ajoutées lors des jeûnes publics pour la pluie. Les expressions « Souvenirs » et « Chofarot » désignent ici des passages bibliques introduits dans ces bénédictions : on évoque devant Dieu les versets où Israël crie dans la détresse et où Dieu répond, à l’image des « Zikhronot » et « Chofarot » de Roch Hachana, mais adaptés à la prière de supplication des jours de jeûne."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:3",
+                "explication": "Le Rambam explique que l’ordre de ces bénédictions consiste à ajouter, après les bénédictions ordinaires de la Amida, des bénédictions particulières contenant des versets appropriés aux circonstances. Les versets cités par la Michna expriment la détresse, l’appel vers Dieu et l’espérance de délivrance. Rabbi Yehouda estime qu’au lieu d’employer la structure de « Souvenirs » et « Chofarot », il convient de réciter des versets qui mentionnent explicitement les calamités concernées, comme famine, peste et sécheresse."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:3",
+                "explication": "Le Tossafot Yom Tov souligne que Rabbi Yehouda ne conteste pas le principe d’ajouter des bénédictions lors du jeûne, mais le choix des textes. Pour les Sages, les catégories de « Souvenirs » et « Chofarot » sont pertinentes parce qu’elles expriment l’idée que Dieu se souvient de Son peuple et entend l’appel signalé par le chofar. Rabbi Yehouda préfère des passages plus directement liés à la cause du jeûne : la famine, l’épidémie et les sécheresses."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Taanit 2:3",
+                "explication": "Le Tiféret Israël explique que les psaumes mentionnés sont choisis comme textes de supplication : ils décrivent l’homme ou la communauté qui, dans l’angoisse, élève sa prière vers Dieu depuis les profondeurs de la détresse. Les « formules de conclusion » mentionnées à la fin de la Michna renvoient aux conclusions liturgiques de chacune de ces bénédictions supplémentaires, qui seront précisées dans la suite de l’enseignement."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -120,8 +335,32 @@
           "ref": "Mishnah Taanit 2:4",
           "he": "עַל הָרִאשׁוֹנָה הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת אַבְרָהָם בְּהַר הַמּוֹרִיָּה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' גּוֹאֵל יִשְׂרָאֵל. עַל הַשְּׁנִיָּה הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע קוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' זוֹכֵר הַנִּשְׁכָּחוֹת. עַל הַשְּׁלִישִׁית הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת יְהוֹשֻׁעַ בַּגִּלְגָּל, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע קוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' שׁוֹמֵעַ תְּרוּעָה. עַל הָרְבִיעִית הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת שְׁמוּאֵל בַּמִּצְפָּה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' שׁוֹמֵעַ צְעָקָה. עַל הַחֲמִישִׁית הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת אֵלִיָּהוּ בְּהַר הַכַּרְמֶל, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' שׁוֹמֵעַ תְּפִלָּה. עַל הַשִּׁשִּׁית הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת יוֹנָה מִמְּעֵי הַדָּגָה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' הָעוֹנֶה בְּעֵת צָרָה. עַל הַשְּׁבִיעִית הוּא אוֹמֵר, מִי שֶׁעָנָה אֶת דָּוִד וְאֶת שְׁלֹמֹה בְנוֹ בִּירוּשָׁלַיִם, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה' הַמְרַחֵם עַל הָאָרֶץ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour la première, il dit : « Celui qui répondit à Abraham sur le mont Moriah, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui délivres Israël. »\n\nPour la deuxième, il dit : « Celui qui répondit à nos pères au bord de la mer des Joncs, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui Te souviens de ce qui est oublié. »\n\nPour la troisième, il dit : « Celui qui répondit à Josué à Guilgal, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends la sonnerie. »\n\nPour la quatrième, il dit : « Celui qui répondit à Samuel à Mitspa, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends le cri. »\n\nPour la cinquième, il dit : « Celui qui répondit à Élie sur le mont Carmel, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends la prière. »\n\nPour la sixième, il dit : « Celui qui répondit à Jonas depuis les entrailles du poisson, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui réponds au temps de détresse. »\n\nPour la septième, il dit : « Celui qui répondit à David et à Salomon son fils à Jérusalem, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui as compassion du pays. »",
+          "etude_fr": {
+            "traduction_fr": "Pour la première, il dit : « Celui qui répondit à Abraham sur le mont Moriah, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui délivres Israël. »\n\nPour la deuxième, il dit : « Celui qui répondit à nos pères au bord de la mer des Joncs, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui Te souviens de ce qui est oublié. »\n\nPour la troisième, il dit : « Celui qui répondit à Josué à Guilgal, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends la sonnerie. »\n\nPour la quatrième, il dit : « Celui qui répondit à Samuel à Mitspa, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends le cri. »\n\nPour la cinquième, il dit : « Celui qui répondit à Élie sur le mont Carmel, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui entends la prière. »\n\nPour la sixième, il dit : « Celui qui répondit à Jonas depuis les entrailles du poisson, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui réponds au temps de détresse. »\n\nPour la septième, il dit : « Celui qui répondit à David et à Salomon son fils à Jérusalem, Lui vous répondra et écoutera la voix de votre cri en ce jour-ci. Béni sois-Tu, Hachem, qui as compassion du pays. »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:4",
+                "explication": "La Michna détaille les formules prononcées dans les sept bénédictions ajoutées lors des jeûnes publics pour la pluie. Bartenoura explique que chacune de ces bénédictions évoque un juste ou un événement où Hachem a répondu à une prière en situation de détresse ; on demande ainsi que la communauté soit exaucée de la même manière."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:4",
+                "explication": "Le Rambam situe cette Michna dans l’ordre de la prière des jeûnes : on ajoute six bénédictions aux dix-huit habituelles, de sorte que la prière comporte vingt-quatre bénédictions. Les formules de cette Michna correspondent aux conclusions de ces bénédictions, chacune rappelant une délivrance passée et se terminant par une bénédiction propre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:4",
+                "explication": "Le Tossafot Yom Tov relève que les expressions de conclusion ne sont pas identiques : « qui délivres Israël », « qui Te souviens de ce qui est oublié », « qui entends la sonnerie », etc. Chacune est adaptée à l’épisode mentionné dans la bénédiction : la ligature d’Isaac renvoie à la délivrance d’Israël, la mer des Joncs au souvenir divin de ceux qui semblaient sans secours, Josué à la sonnerie, et ainsi de suite."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Taanit 2:4",
+                "explication": "Le Tiféret Israël explique que l’ordre de ces exemples suit une progression d’événements bibliques où la prière, le cri ou la sonnerie ont provoqué une réponse divine manifeste. Leur mention vise à éveiller la miséricorde divine sur la génération présente, particulièrement en temps de sécheresse et de détresse collective."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -130,8 +369,32 @@
           "ref": "Mishnah Taanit 2:5",
           "he": "מַעֲשֶׂה בִימֵי רַבִּי חֲלַפְתָּא וְרַבִּי חֲנַנְיָה בֶן תְּרַדְיוֹן, שֶׁעָבַר אֶחָד לִפְנֵי הַתֵּבָה וְגָמַר אֶת הַבְּרָכָה כֻלָּהּ, וְלֹא עָנוּ אַחֲרָיו אָמֵן. תִּקְעוּ הַכֹּהֲנִים תְּקָעוּ. מִי שֶׁעָנָה אֶת אַבְרָהָם אָבִינוּ בְּהַר הַמּוֹרִיָּה הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. הָרִיעוּ בְּנֵי אַהֲרֹן הָרִיעוּ. מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. וּכְשֶׁבָּא דָבָר אֵצֶל חֲכָמִים, אָמְרוּ, לֹא הָיִינוּ נוֹהֲגִין כֵּן אֶלָּא בְשַׁעַר מִזְרָח וּבְהַר הַבָּיִת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il arriva, aux jours de Rabbi Ḥalafta et de Rabbi Ḥananya ben Teradyon, que quelqu’un passa devant l’arche et acheva toute la bénédiction, et l’on ne répondit pas après lui : Amen. « Sonnez, les Cohanim, sonnez ! » — « Celui qui répondit à Avraham notre père sur le mont Moria, qu’Il vous réponde et qu’Il entende la voix de votre cri en ce jour. » « Faites retentir la sonnerie brisée, fils d’Aharon, faites retentir la sonnerie brisée ! » — « Celui qui répondit à nos pères au bord de la mer des Joncs, qu’Il vous réponde et qu’Il entende la voix de votre cri en ce jour. » Et lorsque la chose fut portée devant les Sages, ils dirent : « Nous n’avions coutume d’agir ainsi qu’à la Porte orientale et sur le mont du Temple. »",
+          "etude_fr": {
+            "traduction_fr": "Il arriva, aux jours de Rabbi Ḥalafta et de Rabbi Ḥananya ben Teradyon, que quelqu’un passa devant l’arche et acheva toute la bénédiction, et l’on ne répondit pas après lui : Amen. « Sonnez, les Cohanim, sonnez ! » — « Celui qui répondit à Avraham notre père sur le mont Moria, qu’Il vous réponde et qu’Il entende la voix de votre cri en ce jour. » « Faites retentir la sonnerie brisée, fils d’Aharon, faites retentir la sonnerie brisée ! » — « Celui qui répondit à nos pères au bord de la mer des Joncs, qu’Il vous réponde et qu’Il entende la voix de votre cri en ce jour. » Et lorsque la chose fut portée devant les Sages, ils dirent : « Nous n’avions coutume d’agir ainsi qu’à la Porte orientale et sur le mont du Temple. »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:5",
+                "explication": "Bartenoura explique que cet épisode décrit l’ordre particulier des bénédictions et des sonneries lors des jeûnes publics : après chaque bénédiction, on faisait sonner les trompettes, et l’officiant disait une formule commençant par « Celui qui répondit… ». Le fait de ne pas répondre Amen correspondait à l’usage du Temple, où l’on ne répondait pas Amen aux bénédictions mais une formule de louange plus solennelle. Les Sages ont donc objecté : une telle conduite n’était appropriée que dans l’enceinte liée au Temple, à la Porte orientale et sur le mont du Temple, non dans les autres lieux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:5",
+                "explication": "Le Rambam précise que la Michna rapporte une pratique exceptionnelle accomplie à l’époque de Rabbi Ḥalafta et de Rabbi Ḥananya ben Teradyon, mais que les Sages ne l’ont pas approuvée comme usage général. Les sonneries mentionnées sont celles qui accompagnaient les bénédictions ajoutées lors des jeûnes pour la pluie. Toutefois, l’absence de réponse Amen et la forme de proclamation employée relevaient du service tel qu’il se faisait au Temple ; c’est pourquoi les Sages limitèrent cette pratique au mont du Temple et à la Porte orientale."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:5",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna dit « et lorsque la chose fut portée devant les Sages » afin d’indiquer que Rabbi Ḥalafta et Rabbi Ḥananya ben Teradyon avaient agi selon ce qu’ils pensaient être l’ordre convenable des jeûnes, mais que les Sages distinguèrent entre le Temple et le reste du pays. Il explique aussi que les expressions « Sonnez » et « Faites retentir la sonnerie brisée » renvoient à l’alternance des sonneries de trompette, qui accompagnaient les supplications selon un ordre fixé."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Taanit 2:5",
+                "explication": "Le Tiféret Israël explique que « passer devant l’arche » signifie diriger la prière publique en tant qu’officiant. La Michna rapporte que l’on ne répondait pas Amen après la bénédiction, car on imitait l’usage du Temple. Les Sages enseignèrent cependant que cette imitation n’était pas valable partout : la sainteté du lieu déterminait la forme de la réponse liturgique, et l’usage du Temple ne devait pas être transposé aux synagogues ordinaires."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -140,8 +403,32 @@
           "ref": "Mishnah Taanit 2:6",
           "he": "שָׁלשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת, אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלשׁ שְׁנִיּוֹת, אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין. שֶׁבַע אַחֲרוֹנוֹת, אֵלּוּ וָאֵלּוּ מִתְעַנִּין וּמַשְׁלִימִין, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. וַחֲכָמִים אוֹמְרִים, שָׁלשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת, אֵלּוּ וָאֵלּוּ לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלשׁ שְׁנִיּוֹת, אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל. שֶׁבַע אַחֲרוֹנוֹת, אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lors des trois premiers jeûnes, les hommes de la garde sacerdotale jeûnent mais n’achèvent pas le jeûne, et les hommes de la maison paternelle ne jeûnaient pas du tout. Lors des trois suivants, les hommes de la garde sacerdotale jeûnent et achèvent le jeûne, et les hommes de la maison paternelle jeûnent mais n’achèvent pas le jeûne. Lors des sept derniers, les uns et les autres jeûnent et achèvent le jeûne : telles sont les paroles de Rabbi Yehochoua. Et les Sages disent : lors des trois premiers jeûnes, les uns et les autres ne jeûnaient pas du tout. Lors des trois suivants, les hommes de la garde sacerdotale jeûnent mais n’achèvent pas le jeûne, et les hommes de la maison paternelle ne jeûnaient pas du tout. Lors des sept derniers, les hommes de la garde sacerdotale jeûnent et achèvent le jeûne, et les hommes de la maison paternelle jeûnent mais n’achèvent pas le jeûne.",
+          "etude_fr": {
+            "traduction_fr": "Lors des trois premiers jeûnes, les hommes de la garde sacerdotale jeûnent mais n’achèvent pas le jeûne, et les hommes de la maison paternelle ne jeûnaient pas du tout. Lors des trois suivants, les hommes de la garde sacerdotale jeûnent et achèvent le jeûne, et les hommes de la maison paternelle jeûnent mais n’achèvent pas le jeûne. Lors des sept derniers, les uns et les autres jeûnent et achèvent le jeûne : telles sont les paroles de Rabbi Yehochoua. Et les Sages disent : lors des trois premiers jeûnes, les uns et les autres ne jeûnaient pas du tout. Lors des trois suivants, les hommes de la garde sacerdotale jeûnent mais n’achèvent pas le jeûne, et les hommes de la maison paternelle ne jeûnaient pas du tout. Lors des sept derniers, les hommes de la garde sacerdotale jeûnent et achèvent le jeûne, et les hommes de la maison paternelle jeûnent mais n’achèvent pas le jeûne.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 2:6",
+                "explication": "Les « hommes de la garde sacerdotale » sont les Cohanim de la garde hebdomadaire, car les Cohanim étaient divisés en vingt-quatre gardes. Les « hommes de la maison paternelle » sont ceux de cette garde qui servaient effectivement ce jour-là au Temple. Ils sont dispensés davantage du jeûne, car ils doivent accomplir le service avec force et lucidité. Selon Rabbi Yehochoua, plus la série de jeûnes est sévère, plus même les Cohanim de service y participent ; selon les Sages, on allège davantage pour eux, et la halakha suit les Sages."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 2:6",
+                "explication": "Le Rambam explique l’organisation du service : chaque garde servait une semaine, et chaque garde était subdivisée en maisons paternelles, chacune chargée d’un jour particulier. Ceux qui étaient de service ce jour-là ne pouvaient pas être soumis à un jeûne complet dans les premières séries, afin que le service des sacrifices ne soit pas affecté. La progression de la Michna correspond aux trois degrés des jeûnes décrétés pour le manque de pluie : les trois premiers, les trois suivants, puis les sept derniers, qui sont les plus rigoureux."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 2:6",
+                "explication": "Le Tossafot Yom Tov souligne la distinction précise entre « jeûner sans achever » et « ne pas jeûner du tout ». « Ne pas achever » signifie qu’ils commencent le jeûne mais mangent avant la tombée de la nuit, afin de ne pas entrer affaiblis dans le service. Il relève aussi que la position des Sages est plus indulgente que celle de Rabbi Yehochoua concernant les Cohanim effectivement affectés au service quotidien."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Taanit 2:6",
+                "explication": "Le Tiféret Israël explique que la Michna équilibre deux exigences : la participation de tout Israël à la détresse publique causée par l’absence de pluie, et l’obligation que le service du Temple soit accompli convenablement. Les hommes de la maison paternelle, dont le service est immédiat ce jour-là, bénéficient donc d’un allègement plus important que les autres membres de la garde hebdomadaire."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -150,8 +437,32 @@
           "ref": "Mishnah Taanit 2:7",
           "he": "אַנְשֵׁי מִשְׁמָר מֻתָּרִים לִשְׁתּוֹת יַיִן בַּלֵּילוֹת, אֲבָל לֹא בַיָּמִים. וְאַנְשֵׁי בֵית אָב, לֹא בַיּוֹם וְלֹא בַלָּיְלָה. אַנְשֵׁי מִשְׁמָר וְאַנְשֵׁי מַעֲמָד אֲסוּרִין מִלְּסַפֵּר וּמִלְּכַבֵּס, וּבַחֲמִישִׁי מֻתָּרִין מִפְּנֵי כְבוֹד הַשַּׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les hommes de la garde sont autorisés à boire du vin pendant les nuits, mais non pendant les jours. Quant aux hommes de la maison paternelle, ils ne le peuvent ni le jour ni la nuit. Les hommes de la garde et les hommes du maamad ont l’interdiction de se couper les cheveux et de laver leurs vêtements ; mais le jeudi, cela leur est permis, en l’honneur du Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Les hommes de la garde sont autorisés à boire du vin pendant les nuits, mais non pendant les jours. Quant aux hommes de la maison paternelle, ils ne le peuvent ni le jour ni la nuit. Les hommes de la garde et les hommes du maamad ont l’interdiction de se couper les cheveux et de laver leurs vêtements ; mais le jeudi, cela leur est permis, en l’honneur du Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:7",
+                "explication": "Les « hommes de la garde » sont les Cohanim de la garde hebdomadaire, car les Cohanim étaient répartis en vingt-quatre gardes, chacune servant au Temple pendant une semaine. Ils peuvent boire du vin la nuit, car leur service n’est pas prévu alors ; mais non le jour, de crainte qu’on ait besoin d’eux pour le service, et qu’un Cohen ayant bu du vin soit invalide pour servir. Les « hommes de la maison paternelle » sont la subdivision de la garde affectée au service de ce jour précis ; eux sont interdits de vin de jour comme de nuit, car ils sont en charge du service continuel de leur journée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:7",
+                "explication": "Le Rambam explique l’organisation du service : chaque garde était divisée en maisons paternelles, chacune ayant son jour de service. L’interdiction de boire du vin découle de l’exigence que le Cohen soit apte au service du Temple. Les hommes de la garde, qui peuvent être appelés à renforcer le service durant la journée, sont interdits le jour seulement ; ceux de la maison paternelle, directement responsables, sont interdits également la nuit, car leur service s’étend à leur période de responsabilité."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:7",
+                "explication": "Il précise que l’interdiction de se couper les cheveux et de laver les vêtements concerne à la fois les hommes de la garde et ceux du maamad afin qu’ils entrent dans leur semaine de service déjà honorablement préparés. Si on leur permettait de le faire pendant la semaine, ils risqueraient de négliger ces préparatifs avant leur entrée en fonction et d’arriver au service de manière indigne."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Taanit 2:7",
+                "explication": "Le Tiféret Israël souligne que la permission accordée le jeudi est motivée par l’honneur du Chabbat : bien que la semaine de service impose des restrictions, les Sages n’ont pas voulu que cela porte atteinte à la préparation convenable du Chabbat. Le jeudi est donc autorisé pour se couper les cheveux et laver les vêtements, afin d’accueillir Chabbat avec dignité."
+              }
+            ]
+          }
         },
         {
           "id": "2:8",
@@ -160,8 +471,27 @@
           "ref": "Mishnah Taanit 2:8",
           "he": "כֹּל הַכָּתוּב בִּמְגִלַּת תַּעֲנִית דְּלֹא לְמִסְפַּד, לְפָנָיו אָסוּר, לְאַחֲרָיו מֻתָּר. רַבִּי יוֹסֵי אוֹמֵר, לְפָנָיו וּלְאַחֲרָיו אָסוּר. דְּלֹא לְהִתְעַנָּאָה בְהוֹן, לְפָנָיו וּלְאַחֲרָיו מֻתָּר. רַבִּי יוֹסֵי אוֹמֵר, לְפָנָיו אָסוּר, לְאַחֲרָיו מֻתָּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tout ce qui est écrit dans la Meguilat Taanit avec la mention : « de ne pas faire d’oraison funèbre », le jour qui le précède est interdit, et le jour qui le suit est permis. Rabbi Yossé dit : le jour qui le précède et le jour qui le suit sont interdits. Avec la mention : « de ne pas jeûner en ces jours », le jour qui le précède et le jour qui le suit sont permis. Rabbi Yossé dit : le jour qui le précède est interdit, et le jour qui le suit est permis.",
+          "etude_fr": {
+            "traduction_fr": "Tout ce qui est écrit dans la Meguilat Taanit avec la mention : « de ne pas faire d’oraison funèbre », le jour qui le précède est interdit, et le jour qui le suit est permis. Rabbi Yossé dit : le jour qui le précède et le jour qui le suit sont interdits. Avec la mention : « de ne pas jeûner en ces jours », le jour qui le précède et le jour qui le suit sont permis. Rabbi Yossé dit : le jour qui le précède est interdit, et le jour qui le suit est permis.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 2:8",
+                "explication": "La Meguilat Taanit recensait des jours où des délivrances et événements heureux étaient arrivés à Israël, et où il était interdit de jeûner ou de prononcer une oraison funèbre. Lorsqu’un jour y est formulé avec l’interdiction d’oraison funèbre, cette sainteté est plus forte : selon le premier avis, on interdit déjà la veille, mais non le lendemain. Rabbi Yossé renforce encore cette règle et interdit aussi le lendemain. En revanche, lorsqu’il n’est question que d’interdire le jeûne, l’interdiction est moins stricte : selon le premier avis, ni la veille ni le lendemain ne sont interdits ; Rabbi Yossé n’interdit que la veille."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 2:8",
+                "explication": "Le Rambam explique que les jours mentionnés dans la Meguilat Taanit avaient été fixés comme jours de joie à cause de miracles survenus à l’époque du Second Temple. La Michna distingue deux niveaux : certains jours sont assez importants pour interdire les oraisons funèbres, et, à plus forte raison, le jeûne ; d’autres ne comportent que l’interdiction de jeûner. La discussion porte sur l’extension de cette interdiction aux jours voisins, la veille et le lendemain, selon la gravité de la joie commémorée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 2:8",
+                "explication": "Le Tossafot Yom Tov précise la logique de la différence entre « ne pas faire d’oraison funèbre » et « ne pas jeûner ». L’oraison funèbre exprime un deuil public et manifeste, et son interdiction révèle donc un statut de joie plus fort ; c’est pourquoi l’on envisage d’étendre l’interdiction aux jours adjacents. Le jeûne, lui, est une privation personnelle moins visible, de sorte que son interdiction n’entraîne pas nécessairement l’interdiction des jours voisins."
+              }
+            ]
+          }
         },
         {
           "id": "2:9",
@@ -170,8 +500,32 @@
           "ref": "Mishnah Taanit 2:9",
           "he": "אֵין גּוֹזְרִין תַּעֲנִית עַל הַצִּבּוּר בַּתְּחִלָּה בַּחֲמִישִׁי, שֶׁלֹּא לְהַפְקִיעַ הַשְּׁעָרִים, אֶלָּא שָׁלשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת שֵׁנִי וַחֲמִישִׁי וְשֵׁנִי, וְשָׁלשׁ שְׁנִיּוֹת חֲמִישִׁי שֵׁנִי וַחֲמִישִׁי. רַבִּי יוֹסֵי אוֹמֵר, כְּשֵׁם שֶׁאֵין הָרִאשׁוֹנוֹת בַּחֲמִישִׁי, כָּךְ לֹא שְׁנִיּוֹת וְלֹא אַחֲרוֹנוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne décrète pas, pour la communauté, un jeûne public en commençant par le jeudi, afin de ne pas provoquer la hausse des prix. Mais les trois premiers jeûnes ont lieu le lundi, le jeudi et le lundi ; et les trois seconds, le jeudi, le lundi et le jeudi. Rabbi Yossé dit : de même que les premiers ne commencent pas le jeudi, ainsi ni les seconds ni les derniers ne commencent le jeudi.",
+          "etude_fr": {
+            "traduction_fr": "On ne décrète pas, pour la communauté, un jeûne public en commençant par le jeudi, afin de ne pas provoquer la hausse des prix. Mais les trois premiers jeûnes ont lieu le lundi, le jeudi et le lundi ; et les trois seconds, le jeudi, le lundi et le jeudi. Rabbi Yossé dit : de même que les premiers ne commencent pas le jeudi, ainsi ni les seconds ni les derniers ne commencent le jeudi.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 2:9",
+                "explication": "On ne commence pas une série de jeûnes un jeudi, car le lendemain est la veille de Chabbat : en voyant les gens acheter davantage de nourriture pour la sortie du jeûne et pour Chabbat, les vendeurs penseraient que la famine s’aggrave et augmenteraient les prix. En revanche, lorsque le jeudi n’est pas le premier jeûne de la série, cette crainte est moindre, car le public sait déjà qu’il s’agit d’une suite de jeûnes décrétés."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 2:9",
+                "explication": "Le Rambam explique que les jeûnes publics sont fixés aux jours habituels de rassemblement, le lundi et le jeudi, jours où les tribunaux siégeaient et où les habitants des villages venaient en ville. La Michna distingue le début d’une série, que l’on évite de placer un jeudi à cause du risque de renchérissement des denrées, et la continuation de la série, qui peut inclure le jeudi selon l’opinion première."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 2:9",
+                "explication": "Le Tossafot Yom Tov précise la logique de l’ordre énoncé : les trois premiers jeûnes commencent lundi-jeudi-lundi afin d’éviter le jeudi comme premier jour. Les trois seconds, selon les Sages, peuvent commencer jeudi-lundi-jeudi, car le danger de hausse des prix ne concerne que le tout premier jeûne décrété. Rabbi Yossé conteste cette distinction et maintient que chaque nouvelle série ne doit pas commencer le jeudi."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Taanit 2:9",
+                "explication": "Le Tiféret Israël souligne que l’expression « faire monter les prix » renvoie à un effet social concret : les marchands, constatant une demande exceptionnelle de nourriture à l’approche de Chabbat, pourraient exploiter la situation. La halakha tient donc compte non seulement de l’ordre rituel des jeûnes, mais aussi de la protection économique du public."
+              }
+            ]
+          }
         },
         {
           "id": "2:10",
@@ -180,8 +534,32 @@
           "ref": "Mishnah Taanit 2:10",
           "he": "אֵין גּוֹזְרִין תַּעֲנִית עַל הַצִּבּוּר בְּרֹאשׁ חֹדֶשׁ, בַּחֲנֻכָּה וּבְפוּרִים, וְאִם הִתְחִילוּ, אֵין מַפְסִיקִין, דִּבְרֵי רַבָּן גַּמְלִיאֵל. אָמַר רַבִּי מֵאִיר, אַף עַל פִּי שֶׁאָמַר רַבָּן גַּמְלִיאֵל אֵין מַפְסִיקִין, מוֹדֶה הָיָה שֶׁאֵין מַשְׁלִימִין. וְכֵן תִּשְׁעָה בְאָב שֶׁחָל לִהְיוֹת בְּעֶרֶב שַׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne décrète pas de jeûne sur la communauté à Roch ‘Hodech, à ‘Hanouka ni à Pourim ; mais s’ils ont commencé, on n’interrompt pas : paroles de Rabban Gamliel. Rabbi Méïr dit : Bien que Rabban Gamliel ait dit : « On n’interrompt pas », il reconnaissait que l’on ne mène pas le jeûne jusqu’à son terme. Et de même pour le neuf av qui tombe la veille de Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "On ne décrète pas de jeûne sur la communauté à Roch ‘Hodech, à ‘Hanouka ni à Pourim ; mais s’ils ont commencé, on n’interrompt pas : paroles de Rabban Gamliel. Rabbi Méïr dit : Bien que Rabban Gamliel ait dit : « On n’interrompt pas », il reconnaissait que l’on ne mène pas le jeûne jusqu’à son terme. Et de même pour le neuf av qui tombe la veille de Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 2:10",
+                "explication": "La Michna parle de jeûnes décrétés pour la communauté, notamment dans le cadre des jeûnes pour la pluie. On ne fixe pas dès le départ un jeûne public à Roch ‘Hodech, à ‘Hanouka ou à Pourim, car ces jours possèdent un caractère de joie et d’honneur. « S’ils ont commencé » signifie que la série de jeûnes avait déjà commencé avant l’arrivée de l’un de ces jours ; dans ce cas, selon Rabban Gamliel, on ne suspend pas la série. Rabbi Méïr précise toutefois que même alors, Rabban Gamliel admet que l’on ne jeûne pas jusqu’à la nuit : on mange avant le coucher du soleil, afin de ne pas achever le jeûne en ce jour particulier."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 2:10",
+                "explication": "Le Rambam explique que la règle concerne un décret de jeûne imposé à l’ensemble de la communauté. Roch ‘Hodech, ‘Hanouka et Pourim ne sont pas des jours où l’on institue un jeûne public, en raison de leur statut particulier. Si le tribunal avait déjà établi une série de jeûnes et que l’un d’eux tombe sur ces jours, Rabban Gamliel enseigne qu’on ne rompt pas l’ordre établi. Cependant, d’après l’éclaircissement de Rabbi Méïr, on ne complète pas le jeûne jusqu’à la sortie du jour."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 2:10",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « il reconnaissait » signifie que Rabbi Méïr ne vient pas contester Rabban Gamliel, mais préciser sa position : « on n’interrompt pas » ne veut pas dire que l’on doit observer un jeûne complet jusqu’à la nuit. La continuité de la série est maintenue, mais l’honneur du jour impose de ne pas mener le jeûne à son terme."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Taanit 2:10",
+                "explication": "Le Tiféret Israël explique que « de même pour le neuf av qui tombe la veille de Chabbat » se rapporte à la règle de ne pas compléter le jeûne selon cette opinion : afin de ne pas entrer dans Chabbat en état d’affliction, on mange avant l’entrée de Chabbat. Il précise ainsi le lien entre la fin de la Michna et les paroles de Rabbi Méïr concernant l’achèvement du jeûne."
+              }
+            ]
+          }
         }
       ]
     },
@@ -195,8 +573,27 @@
           "ref": "Mishnah Taanit 3:1",
           "he": "סֵדֶר תַּעֲנִיּוֹת אֵלוּ הָאָמוּר, בִּרְבִיעָה רִאשׁוֹנָה. אֲבָל צְמָחִים שֶׁשָּׁנוּ, מַתְרִיעִין עֲלֵיהֶם מִיָּד. וְכֵן שֶׁפָּסְקוּ גְשָׁמִים בֵּין גֶּשֶׁם לְגֶשֶׁם אַרְבָּעִים יוֹם, מַתְרִיעִין עֲלֵיהֶם מִיָּד, מִפְּנֵי שֶׁהִיא מַכַּת בַּצֹּרֶת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’ordre de ces jeûnes dont il a été question concerne la première pluie saisonnière. Mais pour des plantes qui ont changé d’aspect, on sonne l’alarme à leur sujet immédiatement. De même, si les pluies ont cessé entre une pluie et l’autre pendant quarante jours, on sonne l’alarme à leur sujet immédiatement, car c’est un fléau de sécheresse.",
+          "etude_fr": {
+            "traduction_fr": "L’ordre de ces jeûnes dont il a été question concerne la première pluie saisonnière. Mais pour des plantes qui ont changé d’aspect, on sonne l’alarme à leur sujet immédiatement. De même, si les pluies ont cessé entre une pluie et l’autre pendant quarante jours, on sonne l’alarme à leur sujet immédiatement, car c’est un fléau de sécheresse.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:1",
+                "explication": "L’« ordre de ces jeûnes » renvoie aux jeûnes décrits précédemment : ils ne sont instaurés progressivement que lorsque le retard de pluie concerne la première pluie saisonnière. En revanche, si les plantes ont déjà poussé puis se sont altérées — par exemple elles commencent à se dessécher ou à changer de manière anormale — on n’attend pas l’ordre progressif des jeûnes : on sonne l’alarme immédiatement, car le danger pour les récoltes est déjà présent."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:1",
+                "explication": "Le Rambam explique que la Michna distingue entre un simple retard initial des pluies et une situation de dommage agricole manifeste. Lorsque les semences et les plantes montrent des signes de détérioration, ou lorsque l’interruption des pluies dure quarante jours, la communauté doit réagir sans délai par l’alerte et la supplication, car cela relève d’une calamité publique menaçant la subsistance."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:1",
+                "explication": "Il précise que l’expression « entre une pluie et l’autre » signifie qu’il est déjà tombé de la pluie, mais qu’une longue interruption s’est ensuite produite. Même si la pluie a commencé à tomber, une pause de quarante jours est considérée comme anormale et dangereuse pour la terre et les cultures ; c’est pourquoi la Michna la qualifie de « fléau de sécheresse »."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -205,8 +602,27 @@
           "ref": "Mishnah Taanit 3:2",
           "he": "יָרְדוּ לַצְּמָחִין אֲבָל לֹא יָרְדוּ לָאִילָן, לָאִילָן וְלֹא לַצְּמָחִים, לָזֶה וְלָזֶה אֲבָל לֹא לַבּוֹרוֹת לַשִּׁיחִין וְלַמְּעָרוֹת, מַתְרִיעִין עֲלֵיהֶן מִיָּד:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’il est tombé des pluies suffisantes pour les pousses, mais non pour les arbres ; pour les arbres, mais non pour les pousses ; pour ceux-ci et pour ceux-là, mais non pour les citernes, les fosses et les grottes, on sonne l’alarme à leur sujet immédiatement.",
+          "etude_fr": {
+            "traduction_fr": "S’il est tombé des pluies suffisantes pour les pousses, mais non pour les arbres ; pour les arbres, mais non pour les pousses ; pour ceux-ci et pour ceux-là, mais non pour les citernes, les fosses et les grottes, on sonne l’alarme à leur sujet immédiatement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:2",
+                "explication": "La Michna parle de pluies tombées de manière partielle : certaines pluies profitent aux jeunes pousses mais ne pénètrent pas assez profondément pour les arbres ; d’autres profitent aux arbres mais ne conviennent pas aux pousses. De même, il peut pleuvoir assez pour la végétation et les arbres, mais pas assez pour remplir les réserves d’eau. Dans chacun de ces cas, le manque restant est considéré comme une détresse publique, et l’on sonne l’alarme immédiatement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:2",
+                "explication": "Le Rambam explique que la Michna distingue trois besoins essentiels : la croissance des récoltes, la subsistance des arbres fruitiers, et l’approvisionnement en eau des citernes et réservoirs. Même si un besoin a été satisfait par la pluie, tant qu’un autre besoin vital demeure insatisfait, la communauté doit implorer la miséricorde divine sans attendre l’ordre régulier des jeûnes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:2",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « immédiatement » indique que l’on ne suit pas ici la progression ordinaire des jeûnes institués en cas de retard des pluies. Puisque la pluie est déjà tombée mais de façon insuffisante pour une partie des besoins, la situation est urgente et l’on procède aussitôt à l’alerte communautaire."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -215,8 +631,32 @@
           "ref": "Mishnah Taanit 3:3",
           "he": "וְכֵן עִיר שֶׁלֹּא יָרְדוּ עָלֶיהָ גְשָׁמִים, דִּכְתִיב (עמוס ד) וְהִמְטַרְתִּי עַל עִיר אֶחָת וְעַל עִיר אַחַת לֹא אַמְטִיר, חֶלְקָה אַחַת תִּמָּטֵר וְגוֹ', אוֹתָהּ הָעִיר מִתְעַנָּה וּמַתְרַעַת, וְכָל סְבִיבוֹתֶיהָ, מִתְעַנּוֹת וְלֹא מַתְרִיעוֹת. רַבִּי עֲקִיבָא אוֹמֵר, מַתְרִיעוֹת וְלֹא מִתְעַנּוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et de même, une ville sur laquelle les pluies ne sont pas tombées — ainsi qu’il est écrit : « Je ferai pleuvoir sur une ville, et sur une autre ville Je ne ferai pas pleuvoir ; une parcelle recevra la pluie, etc. » — cette ville jeûne et sonne l’alarme ; et toutes les localités qui l’entourent jeûnent, mais ne sonnent pas l’alarme. Rabbi Akiva dit : elles sonnent l’alarme, mais ne jeûnent pas.",
+          "etude_fr": {
+            "traduction_fr": "Et de même, une ville sur laquelle les pluies ne sont pas tombées — ainsi qu’il est écrit : « Je ferai pleuvoir sur une ville, et sur une autre ville Je ne ferai pas pleuvoir ; une parcelle recevra la pluie, etc. » — cette ville jeûne et sonne l’alarme ; et toutes les localités qui l’entourent jeûnent, mais ne sonnent pas l’alarme. Rabbi Akiva dit : elles sonnent l’alarme, mais ne jeûnent pas.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:3",
+                "explication": "Bartenoura explique que la ville elle-même, qui souffre directement du manque de pluie, est tenue de jeûner et de sonner l’alarme, comme dans une détresse publique. Les villes environnantes, selon le premier avis, jeûnent avec elle par solidarité et parce que le malheur peut s’étendre, mais elles ne sonnent pas l’alarme puisqu’elles ne sont pas encore frappées directement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:3",
+                "explication": "Le Rambam précise que la Michna traite d’un cas où la pluie est tombée dans la région mais a épargné une ville particulière. Cela constitue un signe de détresse pour cette ville, qui doit donc observer les rites de supplication les plus forts : jeûne et sonnerie. Les alentours participent d’une manière plus limitée, car ils ne subissent pas eux-mêmes la calamité."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:3",
+                "explication": "Tossafot Yom Tov souligne que le verset d’Amos est cité pour montrer que cette situation — une ville arrosée et une autre non — est considérée comme une forme particulière de décret divin, et non comme un simple hasard climatique. C’est pourquoi la Michna institue une réaction religieuse publique, proportionnée au degré d’atteinte de chacun."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Taanit 3:3",
+                "explication": "Le Tiféret Israël explique la divergence entre les Sages et Rabbi Akiva concernant les localités voisines : pour les Sages, le jeûne est l’expression principale de leur association à la souffrance de la ville frappée, tandis que la sonnerie est réservée à ceux qui sont directement en danger. Rabbi Akiva inverse la logique : les voisins doivent sonner l’alarme pour éveiller la miséricorde divine, mais ne jeûnent pas, car la calamité ne les touche pas encore concrètement."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -225,8 +665,32 @@
           "ref": "Mishnah Taanit 3:4",
           "he": "וְכֵן עִיר שֶׁיֶּשׁ בָּהּ דֶּבֶר אוֹ מַפֹּלֶת, אוֹתָהּ הָעִיר מִתְעַנָּה וּמַתְרַעַת, וְכָל סְבִיבוֹתֶיהָ מִתְעַנּוֹת וְלֹא מַתְרִיעוֹת. רַבִּי עֲקִיבָא אוֹמֵר, מַתְרִיעוֹת וְלֹא מִתְעַנּוֹת. אֵיזֶהוּ דֶבֶר, עִיר הַמּוֹצִיאָה חֲמֵשׁ מֵאוֹת רַגְלִי, וְיָצְאוּ מִמֶּנָּה שְׁלשָׁה מֵתִים בִּשְׁלשָׁה יָמִים זֶה אַחַר זֶה, הֲרֵי זֶה דֶבֶר. פָּחוֹת מִכָּאן, אֵין זֶה דֶבֶר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "De même, une ville où il y a une épidémie ou des effondrements : cette ville jeûne et sonne l’alarme, et toutes les localités qui l’entourent jeûnent mais ne sonnent pas l’alarme. Rabbi Akiva dit : elles sonnent l’alarme mais ne jeûnent pas. Qu’est-ce qu’une épidémie ? Une ville qui fournit cinq cents hommes à pied, et dont sont sortis trois morts en trois jours, l’un après l’autre : cela est une épidémie. Moins que cela, ce n’est pas une épidémie.",
+          "etude_fr": {
+            "traduction_fr": "De même, une ville où il y a une épidémie ou des effondrements : cette ville jeûne et sonne l’alarme, et toutes les localités qui l’entourent jeûnent mais ne sonnent pas l’alarme. Rabbi Akiva dit : elles sonnent l’alarme mais ne jeûnent pas. Qu’est-ce qu’une épidémie ? Une ville qui fournit cinq cents hommes à pied, et dont sont sortis trois morts en trois jours, l’un après l’autre : cela est une épidémie. Moins que cela, ce n’est pas une épidémie.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:4",
+                "explication": "« Épidémie » désigne une mortalité anormale et régulière : pour une ville capable de fournir cinq cents hommes à pied, si trois personnes meurent en trois jours consécutifs, un mort par jour, on considère cela comme une épidémie. Mais si les trois meurent en un seul jour, ou sur une période plus longue, ce n’est pas le signe défini par la Michna. Bartenoura explique aussi que la ville frappée jeûne et sonne l’alarme, tandis que les environs participent partiellement à la détresse."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:4",
+                "explication": "Le Rambam précise que la mesure de cinq cents hommes sert d’unité de population pour définir statistiquement la gravité de la mortalité. La règle est proportionnelle : selon la taille de la ville, on évalue si le nombre de morts atteint le seuil d’une épidémie. Lorsque ce seuil est atteint, la communauté doit se mobiliser par le jeûne et la supplication publique."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « cette ville » vient distinguer la ville touchée de ses alentours : le danger immédiat impose à la ville elle-même jeûne et sonnerie d’alarme, alors que les environs, bien qu’inquiétés par la proximité du fléau, n’ont pas le même statut. Il explique également que la discussion entre le premier avis et Rabbi Akiva porte sur la forme de participation des villes voisines."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Taanit 3:4",
+                "explication": "Le Tiféret Israël explique que « effondrements » renvoie à une situation de danger public, lorsque des bâtiments ou des murs s’écroulent de manière inhabituelle et menaçante. Ce n’est pas seulement un accident isolé, mais un phénomène qui révèle un péril collectif, justifiant que la communauté soit appelée au jeûne et à l’alarme."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -235,8 +699,27 @@
           "ref": "Mishnah Taanit 3:5",
           "he": "עַל אֵלּוּ מַתְרִיעִין בְּכָל מָקוֹם, עַל הַשִּׁדָּפוֹן וְעַל הַיֵּרָקוֹן, עַל הָאַרְבֶּה וְעַל הֶחָסִיל, וְעַל הַחַיָּה רָעָה וְעַל הַחֶרֶב, מַתְרִיעִין עָלֶיהָ, מִפְּנֵי שֶׁהִיא מַכָּה מְהַלֶּכֶת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour celles-ci, on sonne l’alarme en tout lieu : pour la nielle et pour le jaunissement des récoltes ; pour les sauterelles et pour le hasil ; pour la bête féroce et pour l’épée. On sonne l’alarme à leur sujet, parce que c’est un fléau qui se propage.",
+          "etude_fr": {
+            "traduction_fr": "Pour celles-ci, on sonne l’alarme en tout lieu : pour la nielle et pour le jaunissement des récoltes ; pour les sauterelles et pour le hasil ; pour la bête féroce et pour l’épée. On sonne l’alarme à leur sujet, parce que c’est un fléau qui se propage.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Taanit 3:5",
+                "explication": "Bartenoura explique que la nielle et le jaunissement sont des atteintes des récoltes : la nielle dessèche et brûle la production, tandis que le jaunissement la fait dépérir. Les sauterelles et le hasil sont des espèces destructrices qui ravagent les champs. Pour tous ces fléaux, on sonne l’alarme même dans des lieux qui ne sont pas encore directement frappés, car ils peuvent se déplacer et atteindre d’autres endroits."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:5",
+                "explication": "Le Rambam précise que l’expression « on sonne l’alarme » désigne l’appel public à la supplication, accompagné des sonneries, comme dans les jeûnes décrétés en temps de détresse. La raison donnée par la Michna est déterminante : ces malheurs ne restent pas limités à leur point d’apparition, mais sont des fléaux mobiles, susceptibles de s’étendre d’une région à l’autre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Taanit 3:5",
+                "explication": "Le Tossafot Yom Tov souligne que la formule « en tout lieu » ne signifie pas seulement dans l’endroit déjà touché, mais aussi ailleurs, car la nature de ces calamités est de progresser. Il relève également que la Michna conclut par la règle générale : le critère commun à tous les cas énumérés est qu’il s’agit d’une « plaie qui marche », c’est-à-dire d’un danger qui peut se propager."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -245,8 +728,27 @@
           "ref": "Mishnah Taanit 3:6",
           "he": "מַעֲשֶׂה שֶׁיָּרְדוּ זְקֵנִים מִירוּשָׁלַיִם לְעָרֵיהֶם, וְגָזְרוּ תַעֲנִית עַל שֶׁנִּרְאָה כִמְלֹא פִי תַנּוּר שִׁדָּפוֹן בְּאַשְׁקְלוֹן. וְעוֹד גָּזְרוּ תַעֲנִית עַל שֶׁאָכְלוּ זְאֵבִים שְׁנֵי תִינוֹקוֹת בְּעֵבֶר הַיַּרְדֵּן. רַבִּי יוֹסֵי אוֹמֵר, לֹא עַל שֶׁאָכְלוּ, אֶלָּא עַל שֶׁנִּרְאָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il arriva que des anciens descendirent de Jérusalem vers leurs villes, et ils décrétèrent un jeûne parce qu’était apparue, à Ashkelon, une quantité de brûlure des récoltes équivalente à l’ouverture d’un four. Ils décrétèrent encore un jeûne parce que des loups avaient dévoré deux jeunes enfants en Transjordanie. Rabbi Yossé dit : ce n’est pas parce qu’ils les avaient dévorés, mais parce qu’ils avaient été aperçus.",
+          "etude_fr": {
+            "traduction_fr": "Il arriva que des anciens descendirent de Jérusalem vers leurs villes, et ils décrétèrent un jeûne parce qu’était apparue, à Ashkelon, une quantité de brûlure des récoltes équivalente à l’ouverture d’un four. Ils décrétèrent encore un jeûne parce que des loups avaient dévoré deux jeunes enfants en Transjordanie. Rabbi Yossé dit : ce n’est pas parce qu’ils les avaient dévorés, mais parce qu’ils avaient été aperçus.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:6",
+                "explication": "Bartenoura explique que « שדפון » désigne une atteinte des récoltes par un vent brûlant qui les dessèche. La Michna enseigne que même une atteinte limitée — « comme l’ouverture d’un four » — suffit à décréter un jeûne, car c’est le signe d’un danger susceptible de s’étendre. Concernant les loups, le décret de jeûne ne dépend pas seulement de l’ampleur du dommage déjà causé, mais du danger public révélé par leur apparition parmi les lieux habités."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:6",
+                "explication": "Le Rambam rattache cette Michna aux jeûnes décrétés pour les malheurs collectifs. Lorsque se manifeste un fléau naturel, comme la brûlure des récoltes, ou un danger pour les habitants, comme des bêtes sauvages qui pénètrent dans les zones fréquentées par l’homme, la communauté doit s’éveiller au repentir et décréter un jeûne. L’exemple d’Ashkelon montre qu’on ne néglige pas un début de calamité, même encore limité."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:6",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « comme l’ouverture d’un four » indique une mesure visible mais réduite : la Michna vient souligner que, pour certaines calamités, on jeûne dès leur apparition, avant qu’elles ne prennent de l’ampleur. Il relève aussi que l’opinion de Rabbi Yossé accentue ce principe : le jeûne fut décrété non pas seulement après que les loups eurent effectivement dévoré des enfants, mais dès le fait qu’ils furent aperçus de manière anormale et dangereuse."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -255,8 +757,32 @@
           "ref": "Mishnah Taanit 3:7",
           "he": "עַל אֵלּוּ מַתְרִיעִין בְּשַׁבָּת, עַל עִיר שֶׁהִקִּיפוּהָ גוֹיִם אוֹ נָהָר, וְעַל הַסְּפִינָה הַמִּטָּרֶפֶת בַּיָּם. רַבִּי יוֹסֵי אוֹמֵר, לְעֶזְרָה וְלֹא לִצְעָקָה. שִׁמְעוֹן הַתִּמְנִי אוֹמֵר, אַף עַל הַדֶּבֶר, וְלֹא הוֹדוּ לוֹ חֲכָמִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour celles-ci, on sonne l’alarme même le Chabbat : pour une ville que des non-Juifs ou un fleuve ont encerclée, et pour un navire ballotté dans la mer. Rabbi Yossé dit : pour appeler au secours, mais non pour pousser une clameur de prière. Chim‘on le Téménite dit : même pour la peste ; mais les Sages ne furent pas d’accord avec lui.",
+          "etude_fr": {
+            "traduction_fr": "Pour celles-ci, on sonne l’alarme même le Chabbat : pour une ville que des non-Juifs ou un fleuve ont encerclée, et pour un navire ballotté dans la mer. Rabbi Yossé dit : pour appeler au secours, mais non pour pousser une clameur de prière. Chim‘on le Téménite dit : même pour la peste ; mais les Sages ne furent pas d’accord avec lui.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 3:7",
+                "explication": "« On sonne l’alarme le Chabbat » signifie que, face à un danger immédiat pour des vies, on appelle et l’on alerte afin que l’on vienne sauver les personnes menacées. La ville encerclée par des non-Juifs est en danger de guerre, et celle entourée par un fleuve est menacée par les eaux. Le navire « ballotté » est en péril en mer. Selon Rabbi Yossé, on ne fait cela que comme appel au secours adressé aux hommes, et non comme cri de supplication et de prière, car on ne formule pas de supplications publiques pour une détresse le Chabbat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 3:7",
+                "explication": "Le Rambam explique que ces cas relèvent d’un danger présent et pressant : une attaque, une inondation ou un naufrage. C’est pourquoi ils repoussent la tranquillité ordinaire du Chabbat, car le sauvetage de vies l’emporte. L’alerte mentionnée par la Michna a pour but de mobiliser l’aide nécessaire. Quant à la peste évoquée par Chim‘on le Téménite, les Sages ne l’ont pas admise dans cette catégorie, car elle n’est pas traitée ici comme un danger instantané comparable à une ville assiégée ou à un bateau en train de sombrer."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 3:7",
+                "explication": "Le Tossafot Yom Tov précise que le mot « fleuve » désigne une montée des eaux qui entoure la ville et la met en danger, à l’instar d’un siège. Il souligne aussi que l’expression « navire ballotté dans la mer » décrit un bateau secoué et menacé par les vagues. Ces exemples ont en commun une détresse concrète et immédiate, ce qui explique que la Michna autorise l’alerte même le Chabbat."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Taanit 3:7",
+                "explication": "Le Tiféret Israël explique que la distinction centrale est celle du danger immédiat. Pour une ville encerclée ou un navire en perdition, l’appel peut entraîner une action de sauvetage directe. En revanche, la peste, bien qu’elle soit une grande calamité, ne suscite pas nécessairement une intervention immédiate de même nature ; c’est pourquoi les Sages n’ont pas accepté l’ajout de Chim‘on le Téménite."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -265,8 +791,32 @@
           "ref": "Mishnah Taanit 3:8",
           "he": "עַל כָּל צָרָה שֶׁלֹּא תָבֹא עַל הַצִּבּוּר, מַתְרִיעִין עֲלֵיהֶן, חוּץ מֵרוֹב גְּשָׁמִים. מַעֲשֶׂה שֶׁאָמְרוּ לוֹ לְחוֹנִי הַמְעַגֵּל, הִתְפַּלֵּל שֶׁיֵּרְדוּ גְשָׁמִים. אָמַר לָהֶם, צְאוּ וְהַכְנִיסוּ תַנּוּרֵי פְסָחִים, בִּשְׁבִיל שֶׁלֹּא יִמּוֹקוּ. הִתְפַּלֵּל, וְלֹא יָרְדוּ גְשָׁמִים. מֶה עָשָׂה, עָג עוּגָה וְעָמַד בְּתוֹכָהּ, וְאָמַר לְפָנָיו, רִבּוֹנוֹ שֶׁל עוֹלָם, בָּנֶיךָ שָׂמוּ פְנֵיהֶם עָלַי, שֶׁאֲנִי כְבֶן בַּיִת לְפָנֶיךָ. נִשְׁבָּע אֲנִי בְשִׁמְךָ הַגָּדוֹל שֶׁאֵינִי זָז מִכָּאן, עַד שֶׁתְּרַחֵם עַל בָּנֶיךָ. הִתְחִילוּ גְּשָׁמִים מְנַטְּפִין. אָמַר, לֹא כָךְ שָׁאַלְתִּי, אֶלָּא גִּשְׁמֵי בוֹרוֹת שִׁיחִין וּמְעָרוֹת. הִתְחִילוּ לֵירֵד בְּזָעַף. אָמַר, לֹא כָךְ שָׁאַלְתִּי, אֶלָּא גִּשְׁמֵי רָצוֹן, בְּרָכָה וּנְדָבָה. יָרְדוּ כְתִקְנָן, עַד שֶׁיָּצְאוּ יִשְׂרָאֵל מִירוּשָׁלַיִם לְהַר הַבַּיִת מִפְּנֵי הַגְּשָׁמִים. בָּאוּ וְאָמְרוּ לוֹ, כְּשֵׁם שֶׁהִתְפַּלַלְתָּ עֲלֵיהֶם שֶׁיֵּרְדוּ כָּךְ הִתְפַּלֵּל שֶׁיֵּלְכוּ לָהֶן. אָמַר לָהֶן, צְאוּ וּרְאוּ אִם נִמְחֵת אֶבֶן הַטּוֹעִים. שָׁלַח לוֹ שִׁמְעוֹן בֶּן שָׁטָח, אִלְמָלֵא חוֹנִי אַתָּה, גּוֹזְרַנִי עָלֶיךָ נִדּוּי. אֲבָל מָה אֶעֱשֶׂה לְּךָ, שֶׁאַתָּה מִתְחַטֵּא לִפְנֵי הַמָּקוֹם וְעוֹשֶׂה לְךָ רְצוֹנְךָ כְּבֵן שֶׁהוּא מִתְחַטֵּא עַל אָבִיו וְעוֹשֶׂה לוֹ רְצוֹנוֹ. וְעָלֶיךָ הַכָּתוּב אוֹמֵר (משלי כג), יִשְׂמַח אָבִיךָ וְאִמֶּךָ וְתָגֵל יוֹלַדְתֶּךָ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour tout malheur — qu’il ne survienne pas à la communauté — on sonne l’alarme à son sujet, sauf en cas d’excès de pluies.\n\nIl arriva que l’on dit à Ḥoni le Traceur de cercle : « Prie pour que tombent les pluies. » Il leur dit : « Sortez et rentrez les fours destinés aux sacrifices de Pessaḥ, afin qu’ils ne se délitent pas. »\n\nIl pria, et les pluies ne tombèrent pas. Que fit-il ? Il traça un cercle et se tint à l’intérieur. Il dit devant Lui : « Maître du monde, Tes enfants ont tourné leur visage vers moi, car je suis comme un familier de Ta maison devant Toi. Je jure par Ton grand Nom que je ne bougerai pas d’ici jusqu’à ce que Tu prennes Tes enfants en miséricorde. »\n\nLes pluies commencèrent à tomber goutte à goutte. Il dit : « Ce n’est pas cela que j’ai demandé, mais des pluies pour les citernes, les fosses et les grottes. » Elles commencèrent à tomber avec violence. Il dit : « Ce n’est pas cela que j’ai demandé, mais des pluies de faveur, de bénédiction et de générosité. »\n\nElles tombèrent comme il convient, jusqu’à ce qu’Israël sorte de Jérusalem vers le mont du Temple à cause des pluies. Ils vinrent lui dire : « De même que tu as prié à leur sujet pour qu’elles tombent, prie ainsi pour qu’elles s’en aillent. » Il leur dit : « Sortez et voyez si la Pierre des égarés a été effacée. »\n\nChimon ben Chataḥ lui envoya dire : « Si tu n’étais pas Ḥoni, je décréterais contre toi l’excommunication. Mais que puis-je te faire ? Tu fais le difficile devant le Lieu, et Il accomplit ta volonté, comme un fils qui fait le difficile auprès de son père, et celui-ci accomplit sa volonté. À ton sujet, le verset dit : “Que ton père et ta mère se réjouissent, et que celle qui t’a enfanté exulte” (Proverbes 23). »",
+          "etude_fr": {
+            "traduction_fr": "Pour tout malheur — qu’il ne survienne pas à la communauté — on sonne l’alarme à son sujet, sauf en cas d’excès de pluies.\n\nIl arriva que l’on dit à Ḥoni le Traceur de cercle : « Prie pour que tombent les pluies. » Il leur dit : « Sortez et rentrez les fours destinés aux sacrifices de Pessaḥ, afin qu’ils ne se délitent pas. »\n\nIl pria, et les pluies ne tombèrent pas. Que fit-il ? Il traça un cercle et se tint à l’intérieur. Il dit devant Lui : « Maître du monde, Tes enfants ont tourné leur visage vers moi, car je suis comme un familier de Ta maison devant Toi. Je jure par Ton grand Nom que je ne bougerai pas d’ici jusqu’à ce que Tu prennes Tes enfants en miséricorde. »\n\nLes pluies commencèrent à tomber goutte à goutte. Il dit : « Ce n’est pas cela que j’ai demandé, mais des pluies pour les citernes, les fosses et les grottes. » Elles commencèrent à tomber avec violence. Il dit : « Ce n’est pas cela que j’ai demandé, mais des pluies de faveur, de bénédiction et de générosité. »\n\nElles tombèrent comme il convient, jusqu’à ce qu’Israël sorte de Jérusalem vers le mont du Temple à cause des pluies. Ils vinrent lui dire : « De même que tu as prié à leur sujet pour qu’elles tombent, prie ainsi pour qu’elles s’en aillent. » Il leur dit : « Sortez et voyez si la Pierre des égarés a été effacée. »\n\nChimon ben Chataḥ lui envoya dire : « Si tu n’étais pas Ḥoni, je décréterais contre toi l’excommunication. Mais que puis-je te faire ? Tu fais le difficile devant le Lieu, et Il accomplit ta volonté, comme un fils qui fait le difficile auprès de son père, et celui-ci accomplit sa volonté. À ton sujet, le verset dit : “Que ton père et ta mère se réjouissent, et que celle qui t’a enfanté exulte” (Proverbes 23). »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 3:8",
+                "explication": "« Pour tout malheur… on sonne l’alarme » signifie que l’on crie et que l’on sonne du chofar afin d’éveiller la miséricorde divine. L’exception de l’excès de pluies s’explique parce qu’on ne prie pas pour que cesse une abondance de bienfait : la pluie est en soi une bénédiction, même lorsqu’elle devient gênante. Bartenoura explique aussi que les « fours de Pessaḥ » étaient des fours d’argile placés dehors, destinés à rôtir les sacrifices de Pessaḥ ; Ḥoni demanda de les rentrer car il était certain que sa prière serait exaucée et que la pluie les abîmerait."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 3:8",
+                "explication": "Le Rambam explique que l’on institue des supplications publiques pour toutes les calamités qui frappent la communauté, mais non pour une trop grande abondance de pluies en terre d’Israël, car il s’agit d’une terre de montagnes et de vallées où les pluies sont nécessaires et généralement bénéfiques. Concernant Ḥoni, le Rambam souligne que l’épisode montre l’intensité de sa proximité avec Dieu et la force de sa prière, sans pour autant faire de sa conduite un modèle ordinaire pour tout homme."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 3:8",
+                "explication": "Tossafot Yom Tov relève la formulation « qu’il ne survienne pas à la communauté » : c’est une expression euphémique employée par la Michna pour ne pas ouvrir la bouche au mal. Il explique également que la demande finale faite à Ḥoni — prier pour que les pluies cessent — n’était pas simple, car on ne demande pas normalement l’arrêt d’une bénédiction. C’est pourquoi Ḥoni répondit par le signe de la Pierre des égarés : tant que la pluie n’atteint pas un degré destructeur exceptionnel, on ne prie pas pour qu’elle disparaisse."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Taanit 3:8",
+                "explication": "Le Tiféret Israël explique que la « Pierre des égarés » était une pierre élevée à Jérusalem où l’on proclamait les objets perdus afin que leurs propriétaires puissent les retrouver. Ḥoni dit de vérifier si elle avait été effacée ou submergée par les eaux : seulement dans un cas d’inondation extrême, où même ce repère public aurait disparu, il y aurait lieu de demander que les pluies cessent. Cela éclaire la retenue de Ḥoni face à une demande de faire partir une bénédiction divine."
+              }
+            ]
+          }
         },
         {
           "id": "3:9",
@@ -275,8 +825,32 @@
           "ref": "Mishnah Taanit 3:9",
           "he": "הָיוּ מִתְעַנִּין וְיָרְדוּ לָהֶם גְּשָׁמִים קֹדֶם הָנֵץ הַחַמָּה, לֹא יַשְׁלִימוּ. לְאַחַר הָנֵץ הַחַמָּה, יַשְׁלִימוּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, קֹדֶם חֲצוֹת לֹא יַשְׁלִימוּ, לְאַחַר חֲצוֹת יַשְׁלִימוּ. מַעֲשֶׂה שֶׁגָּזְרוּ תַעֲנִית בְּלוֹד, וְיָרְדוּ לָהֶם גְּשָׁמִים קֹדֶם חֲצוֹת. אָמַר לָהֶם רַבִּי טַרְפוֹן, צְאוּ וְאִכְלוּ וּשְׁתוּ וַעֲשׂוּ יוֹם טוֹב. וְיָצְאוּ וְאָכְלוּ וְשָׁתוּ וְעָשׂוּ יוֹם טוֹב, וּבָאוּ בֵּין הָעַרְבַּיִם וְקָרְאוּ הַלֵּל הַגָּדוֹל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’ils jeûnaient, et que des pluies sont tombées pour eux avant le lever du soleil, ils n’achèveront pas le jeûne. Après le lever du soleil, ils l’achèveront. Rabbi Éliézer dit : avant midi, ils n’achèveront pas le jeûne ; après midi, ils l’achèveront.\n\nIl arriva qu’on décréta un jeûne à Lod, et que des pluies tombèrent pour eux avant midi. Rabbi Tarfon leur dit : « Sortez, mangez, buvez, et faites-en un Yom Tov. » Ils sortirent, mangèrent, burent et en firent un Yom Tov ; puis ils vinrent entre les deux soirs et récitèrent le Grand Hallel.",
+          "etude_fr": {
+            "traduction_fr": "S’ils jeûnaient, et que des pluies sont tombées pour eux avant le lever du soleil, ils n’achèveront pas le jeûne. Après le lever du soleil, ils l’achèveront. Rabbi Éliézer dit : avant midi, ils n’achèveront pas le jeûne ; après midi, ils l’achèveront.\n\nIl arriva qu’on décréta un jeûne à Lod, et que des pluies tombèrent pour eux avant midi. Rabbi Tarfon leur dit : « Sortez, mangez, buvez, et faites-en un Yom Tov. » Ils sortirent, mangèrent, burent et en firent un Yom Tov ; puis ils vinrent entre les deux soirs et récitèrent le Grand Hallel.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 3:9",
+                "explication": "Bartenoura explique que, selon le premier avis, le critère est le lever du soleil : si la pluie tombe avant ce moment, le jeûne n’a pas encore véritablement pris son statut de jeûne du jour, et l’on ne le complète pas ; si elle tombe après, on le complète. Rabbi Éliézer fixe au contraire le critère à midi. L’épisode de Lod vient appuyer l’avis de Rabbi Éliézer : puisque la pluie tomba avant midi, Rabbi Tarfon leur permit de manger, de boire et de célébrer ce jour comme un Yom Tov."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 3:9",
+                "explication": "Le Rambam explique que cette Michna traite d’un jeûne décrété pour obtenir la pluie : lorsque la demande a été exaucée, la question est de savoir si l’on doit terminer le jeûne commencé. La halakha suit Rabbi Éliézer : si la pluie est tombée avant midi, on ne complète pas le jeûne ; si elle est tombée après midi, on le complète. Le récit de Rabbi Tarfon illustre cette décision, car les pluies tombèrent avant midi et il ordonna de transformer la journée en réjouissance."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 3:9",
+                "explication": "Tossafot Yom Tov relève que l’expression « descendirent pour eux des pluies » indique que les pluies tombèrent en réponse à leur jeûne et à leur prière. Dès lors, lorsque l’exaucement arrive assez tôt, il convient de cesser le jeûne et de manifester la reconnaissance. Il précise aussi que l’acte rapporté à Lod n’est pas un simple récit historique, mais sert à établir la pratique selon Rabbi Éliézer."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Taanit 25b",
+                "explication": "Rachi explique que le « Grand Hallel » désigne le psaume commençant par « Rendez grâce à l’Éternel, car Il est bon, car Sa bonté est éternelle » — le Psaume 136 — appelé ainsi parce qu’il proclame à chaque verset la bonté divine. Ils ne le récitèrent qu’entre les deux soirs, car le Grand Hallel se dit lorsqu’on est rassasié et dans la joie, après avoir mangé et bu en remerciement pour la délivrance obtenue."
+              }
+            ]
+          }
         }
       ]
     },
@@ -290,8 +864,32 @@
           "ref": "Mishnah Taanit 4:1",
           "he": "בִּשְׁלשָׁה פְרָקִים בַּשָּׁנָה כֹּהֲנִים נוֹשְׂאִין אֶת כַּפֵּיהֶן אַרְבַּע פְּעָמִים בַּיּוֹם, בַּשַּׁחֲרִית, בַּמּוּסָף וּבַמִּנְחָה וּבִנְעִילַת שְׁעָרִים, בַּתַּעֲנִיּוֹת וּבַמַּעֲמָדוֹת וּבְיוֹם הַכִּפּוּרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À trois périodes de l’année, les Cohanim élèvent leurs mains quatre fois dans la journée : à Cha’harit, à Moussaf, à Min’ha et à la fermeture des portes : lors des jeûnes, lors des maamadot et à Yom Kippour.",
+          "etude_fr": {
+            "traduction_fr": "À trois périodes de l’année, les Cohanim élèvent leurs mains quatre fois dans la journée : à Cha’harit, à Moussaf, à Min’ha et à la fermeture des portes : lors des jeûnes, lors des maamadot et à Yom Kippour.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 4:1",
+                "explication": "La Michna parle de la bénédiction sacerdotale, lorsque les Cohanim « élèvent leurs mains ». En règle générale, on ne la récite pas à Min’ha, de crainte qu’un Cohen ait bu du vin au cours de la journée. Mais lors des jours de jeûne et à Yom Kippour, cette crainte n’existe pas, car il est interdit de manger et de boire ; c’est pourquoi les Cohanim peuvent bénir aussi à Min’ha et à la prière de clôture, Neïla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 4:1",
+                "explication": "Le Rambam explique que ces moments ont un statut particulier en raison de l’intensification de la prière publique. Les Cohanim y récitent la bénédiction sacerdotale davantage que les jours ordinaires. À Yom Kippour, où il y a aussi Moussaf, on atteint effectivement quatre bénédictions sacerdotales dans la journée : Cha’harit, Moussaf, Min’ha et Neïla."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 4:1",
+                "explication": "Il relève la difficulté apparente du texte : les jeûnes et les maamadot n’ont pas tous une prière de Moussaf comme Yom Kippour. Il explique, suivant la Guemara, que l’expression de la Michna énumère les cadres où les Cohanim bénissent plusieurs fois dans la journée ; à Yom Kippour il y en a quatre, tandis que pour les autres jours l’application dépend des prières effectivement présentes."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Taanit 4:1",
+                "explication": "Il précise que « fermeture des portes » désigne la prière de Neïla, dite vers la fin du jour. La formulation rappelle la fermeture des portes du Temple, ou plus largement la clôture du temps de supplication. La Michna enseigne que même à cette prière tardive les Cohanim récitent la bénédiction sacerdotale dans ces circonstances particulières."
+              }
+            ]
+          }
         },
         {
           "id": "4:2",
@@ -300,8 +898,32 @@
           "ref": "Mishnah Taanit 4:2",
           "he": "אֵלּוּ הֵן מַעֲמָדוֹת, לְפִי שֶׁנֶּאֱמַר (במדבר כח), צַו אֶת בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אֶת קָרְבָּנִי לַחְמִי, וְכִי הֵיאַךְ קָרְבָּנוֹ שֶׁל אָדָם קָרֵב, וְהוּא אֵינוֹ עוֹמֵד עַל גַּבָּיו, הִתְקִינוּ נְבִיאִים הָרִאשׁוֹנִים עֶשְׂרִים וְאַרְבַּע מִשְׁמָרוֹת. עַל כָּל מִשְׁמָר וּמִשְׁמָר הָיָה מַעֲמָד בִּירוּשָׁלַיִם שֶׁל כֹּהֲנִים, שֶׁל לְוִיִּם, וְשֶׁל יִשְׂרְאֵלִים. הִגִּיעַ זְמַן הַמִּשְׁמָר לַעֲלוֹת, כֹּהֲנִים וּלְוִיִּם עוֹלִים לִירוּשָׁלַיִם, וְיִשְׂרָאֵל שֶׁבְּאוֹתוֹ מִשְׁמָר מִתְכַּנְּסִין לְעָרֵיהֶן וְקוֹרְאִין בְּמַעֲשֵׂה בְרֵאשִׁית:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Voici ce que sont les délégations de présence : puisqu’il est dit : « Ordonne aux enfants d’Israël et dis-leur : Mon offrande, Mon pain… » — or, comment le sacrifice d’un homme pourrait-il être offert alors qu’il ne se tient pas auprès de lui ? Les premiers prophètes instituèrent donc vingt-quatre gardes. Pour chaque garde, il y avait à Jérusalem une délégation de présence composée de Cohens, de Lévis et d’Israélites. Lorsque venait le temps pour la garde de monter, les Cohens et les Lévis montaient à Jérusalem, tandis que les Israélites appartenant à cette garde se rassemblaient dans leurs villes et lisaient le récit de l’œuvre de la Création.",
+          "etude_fr": {
+            "traduction_fr": "Voici ce que sont les délégations de présence : puisqu’il est dit : « Ordonne aux enfants d’Israël et dis-leur : Mon offrande, Mon pain… » — or, comment le sacrifice d’un homme pourrait-il être offert alors qu’il ne se tient pas auprès de lui ? Les premiers prophètes instituèrent donc vingt-quatre gardes. Pour chaque garde, il y avait à Jérusalem une délégation de présence composée de Cohens, de Lévis et d’Israélites. Lorsque venait le temps pour la garde de monter, les Cohens et les Lévis montaient à Jérusalem, tandis que les Israélites appartenant à cette garde se rassemblaient dans leurs villes et lisaient le récit de l’œuvre de la Création.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 4:2",
+                "explication": "Les « délégations de présence » sont les représentants d’Israël associés aux sacrifices publics. Puisque les sacrifices quotidiens sont offerts au nom de toute la communauté d’Israël, il convenait que des représentants se tiennent auprès d’eux, comme pour tout propriétaire dont le sacrifice est offert. Les Cohens et les Lévis de la garde montaient au Temple pour le service, tandis que les Israélites de cette même garde, ne pouvant tous monter à Jérusalem, se réunissaient dans leurs villes pour lire la Torah et prier."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 4:2",
+                "explication": "Le Rambam explique que les vingt-quatre gardes correspondaient aux divisions organisées pour le service du Temple : les Cohens pour le service des sacrifices, les Lévis pour le chant et l’accompagnement du service, et des Israélites désignés comme représentants de l’ensemble du peuple. Leur présence ou leur rassemblement exprimait que les sacrifices publics appartiennent à tout Israël et sont offerts en son nom."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 4:2",
+                "explication": "Il précise que l’expression « les premiers prophètes » renvoie à l’institution ancienne des gardes, liée à Samuel et David, qui organisèrent le service en vingt-quatre divisions. Il souligne aussi que la Michna parle d’une structure parallèle : à chaque garde de service correspondait une délégation de présence, afin que le service du Temple ne soit jamais détaché de la représentation du peuple."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël sur Michna Taanit 4:2",
+                "explication": "Il explique le lien entre la lecture du récit de la Création et les délégations de présence : les sacrifices maintiennent l’existence du monde et son ordre spirituel ; c’est pourquoi les Israélites de la délégation lisaient précisément l’œuvre de la Création durant la semaine de leur garde. Leur lecture exprimait que le service du Temple est lié à la subsistance du monde créé."
+              }
+            ]
+          }
         },
         {
           "id": "4:3",
@@ -310,8 +932,32 @@
           "ref": "Mishnah Taanit 4:3",
           "he": "וְאַנְשֵׁי הַמַּעֲמָד הָיוּ מִתְעַנִּין אַרְבָּעָה יָמִים בַּשָּׁבוּעַ, מִיּוֹם שֵׁנִי וְעַד יוֹם חֲמִישִׁי. וְלֹא הָיוּ מִתְעַנִּין עֶרֶב שַׁבָּת, מִפְּנֵי כְבוֹד הַשַּׁבָּת. וְלֹא בְאֶחָד בַּשַּׁבָּת, כְּדֵי שֶׁלֹּא יֵצְאוּ מִמְּנוּחָה וָעֹנֶג לִיגִיעָה וְתַעֲנִית וְיָמוּתוּ. בַּיּוֹם הָרִאשׁוֹן, בְּרֵאשִׁית, וִיְהִי רָקִיעַ. בַּשֵּׁנִי, יְהִי רָקִיעַ, וְיִקָּווּ הַמַּיִם. בַּשְּׁלִישִׁי, יִקָּווּ הַמַּיִם, וִיְהִי מְאֹרֹת. בָּרְבִיעִי, יְהִי מְאֹרֹת, וְיִשְׁרְצוּ הַמַּיִם. בַּחֲמִישִׁי, יִשְׁרְצוּ הַמַּיִם, וְתּוֹצֵא הָאָרֶץ. בַּשִּׁשִּׁי, תּוֹצֵא הָאָרֶץ, וַיְכֻלּוּ הַשָּׁמַיִם. פָּרָשָׁה גְדוֹלָה, קוֹרִין אוֹתָהּ בִּשְׁנַיִם, וְהַקְּטַנָּה בְּיָחִיד, בַּשַּׁחֲרִית וּבַמּוּסָף. וּבַמִּנְחָה נִכְנָסִין וְקוֹרִין עַל פִּיהֶן, כְּקוֹרִין אֶת שְׁמַע. עֶרֶב שַׁבָּת בַּמִּנְחָה לֹא הָיוּ נִכְנָסִין, מִפְּנֵי כְבוֹד הַשַּׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les hommes du maamad jeûnaient quatre jours dans la semaine, du deuxième jour jusqu’au cinquième jour. Ils ne jeûnaient pas la veille de Chabbat, en raison de l’honneur dû au Chabbat ; ni le premier jour de la semaine, afin de ne pas passer du repos et du délice à la fatigue et au jeûne, et en mourir.\n\nLe premier jour, on lisait : « Au commencement » et « Que soit un firmament ». Le deuxième, « Que soit un firmament » et « Que les eaux se rassemblent ». Le troisième, « Que les eaux se rassemblent » et « Que soient les luminaires ». Le quatrième, « Que soient les luminaires » et « Que les eaux foisonnent ». Le cinquième, « Que les eaux foisonnent » et « Que la terre fasse sortir ». Le sixième, « Que la terre fasse sortir » et « Les cieux furent achevés ».\n\nUne grande section, on la lit par deux personnes ; une petite, par une seule, à l’office du matin et à celui de Moussaf. À Min’ha, ils entraient et lisaient par cœur, comme on lit le Chema. La veille de Chabbat, à Min’ha, ils n’entraient pas, en raison de l’honneur dû au Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Les hommes du maamad jeûnaient quatre jours dans la semaine, du deuxième jour jusqu’au cinquième jour. Ils ne jeûnaient pas la veille de Chabbat, en raison de l’honneur dû au Chabbat ; ni le premier jour de la semaine, afin de ne pas passer du repos et du délice à la fatigue et au jeûne, et en mourir.\n\nLe premier jour, on lisait : « Au commencement » et « Que soit un firmament ». Le deuxième, « Que soit un firmament » et « Que les eaux se rassemblent ». Le troisième, « Que les eaux se rassemblent » et « Que soient les luminaires ». Le quatrième, « Que soient les luminaires » et « Que les eaux foisonnent ». Le cinquième, « Que les eaux foisonnent » et « Que la terre fasse sortir ». Le sixième, « Que la terre fasse sortir » et « Les cieux furent achevés ».\n\nUne grande section, on la lit par deux personnes ; une petite, par une seule, à l’office du matin et à celui de Moussaf. À Min’ha, ils entraient et lisaient par cœur, comme on lit le Chema. La veille de Chabbat, à Min’ha, ils n’entraient pas, en raison de l’honneur dû au Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 4:3",
+                "explication": "Les hommes du maamad étaient les Israélites désignés pour représenter tout Israël lors des sacrifices publics, car le sacrifice d’un homme ne peut être offert sans qu’il soit présent ou représenté. Ils jeûnaient pendant la semaine de leur service, mais pas le dimanche, afin de ne pas passer brutalement du repos et du plaisir de Chabbat à la peine du jeûne. Les lectures mentionnées sont les passages de la Création, car le monde subsiste par le service des sacrifices."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 4:3",
+                "explication": "Le Rambam explique que les maamadot accompagnaient les tours des Cohanim et des Léviim. Ceux qui se trouvaient dans leur ville se rassemblaient pour prier et lire la Torah, tandis que leurs représentants à Jérusalem assistaient au service. Leur lecture portait sur l’œuvre de la Création, pour exprimer que l’existence du monde dépend du service divin accompli dans le Temple."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 4:3",
+                "explication": "Il précise la règle de lecture : une section assez longue est partagée entre deux lecteurs, tandis qu’une section courte est lue par un seul. À Cha’harit et à Moussaf, la lecture se faisait comme une lecture publique de la Torah ; à Min’ha, on lisait seulement par cœur, de manière semblable à la récitation du Chema, et non comme une lecture formelle dans un rouleau."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Taanit 4:3",
+                "explication": "Le Tiféret Israël souligne que l’interruption du jeûne la veille de Chabbat et l’absence de rassemblement à Min’ha ce jour-là relèvent de l’honneur du Chabbat : il fallait laisser le temps de préparer les besoins de Chabbat et d’y entrer avec dignité, sans affaiblissement ni surcharge due au service du maamad."
+              }
+            ]
+          }
         },
         {
           "id": "4:4",
@@ -320,8 +966,32 @@
           "ref": "Mishnah Taanit 4:4",
           "he": "כָּל יוֹם שֶׁיֶּשׁ בּוֹ הַלֵּל, אֵין בּוֹ מַעֲמָד בַּשַּׁחֲרִית. קָרְבַּן מוּסָף, אֵין בּוֹ בַנְּעִילָה. קָרְבַּן עֵצִים, אֵין בּוֹ בַמִּנְחָה, דִּבְרֵי רַבִּי עֲקִיבָא. אָמַר לוֹ בֶן עַזַּאי, כָּךְ הָיָה רַבִּי יְהוֹשֻׁעַ שׁוֹנֶה, קָרְבַּן מוּסָף, אֵין בּוֹ בַמִּנְחָה. קָרְבַּן עֵצִים, אֵין בּוֹ בַנְּעִילָה. חָזַר רַבִּי עֲקִיבָא לִהְיוֹת שׁוֹנֶה כְבֶן עַזַּאי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tout jour où l’on récite le Hallel, il n’y a pas de maamad à l’office du matin. S’il y a un sacrifice supplémentaire, il n’y a pas de maamad à la Neïla. S’il y a un sacrifice du bois, il n’y a pas de maamad à Minha : ce sont les paroles de Rabbi Akiva. Ben Azaï lui dit : « C’est ainsi que Rabbi Yehoshoua enseignait : s’il y a un sacrifice supplémentaire, il n’y a pas de maamad à Minha ; s’il y a un sacrifice du bois, il n’y a pas de maamad à la Neïla. » Rabbi Akiva revint alors à enseigner comme Ben Azaï.",
+          "etude_fr": {
+            "traduction_fr": "Tout jour où l’on récite le Hallel, il n’y a pas de maamad à l’office du matin. S’il y a un sacrifice supplémentaire, il n’y a pas de maamad à la Neïla. S’il y a un sacrifice du bois, il n’y a pas de maamad à Minha : ce sont les paroles de Rabbi Akiva. Ben Azaï lui dit : « C’est ainsi que Rabbi Yehoshoua enseignait : s’il y a un sacrifice supplémentaire, il n’y a pas de maamad à Minha ; s’il y a un sacrifice du bois, il n’y a pas de maamad à la Neïla. » Rabbi Akiva revint alors à enseigner comme Ben Azaï.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 4:4",
+                "explication": "Les maamadot étaient les groupes d’Israélites qui se tenaient en prière et lisaient la Torah pendant que les sacrifices publics étaient offerts. Lorsqu’un jour comportait le Hallel, on supprimait le maamad du matin, car la récitation du Hallel occupait ce temps. Selon l’enseignement finalement retenu, lorsqu’il y avait un sacrifice supplémentaire, on supprimait le maamad de Minha, parce que le sacrifice supplémentaire prolongeait le service du Temple et pouvait s’étendre jusqu’à ce moment-là. Lorsqu’il y avait un sacrifice du bois, on supprimait le maamad de la Neïla."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 4:4",
+                "explication": "Le Rambam explique que la Michna parle des quatre moments où les membres du maamad se réunissaient : le matin, à Moussaf, à Minha et à la Neïla. Certains jours, en raison d’un autre service particulier du Temple, on ne faisait pas toutes ces réunions. Le Hallel fait disparaître le maamad du matin ; le sacrifice supplémentaire fait disparaître celui de Minha ; et le sacrifice du bois fait disparaître celui de la Neïla, conformément à la version rapportée par Ben Azaï, que Rabbi Akiva a finalement acceptée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 4:4",
+                "explication": "Le Tossafot Yom Tov précise que les formules de la Michna sont elliptiques : « sacrifice supplémentaire » signifie un jour où l’on apporte un sacrifice de Moussaf, et « sacrifice du bois » signifie un jour fixé pour l’offrande du bois par certaines familles. La discussion entre Rabbi Akiva et Ben Azaï ne porte pas sur l’existence des maamadot, mais sur quel office est annulé lorsque ces services particuliers prennent du temps."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Taanit 4:4",
+                "explication": "Le Tiféret Israël souligne la progression pratique de la Michna : plus le service du jour est chargé, plus on réduit les maamadot afin de ne pas imposer au peuple une charge excessive. Le Hallel touche le matin, moment où il est récité ; le Moussaf touche Minha, car son service peut se prolonger ; et le sacrifice du bois, qui est une obligation propre à des familles déterminées apportant le bois pour l’autel, entraîne l’annulation du maamad de la Neïla selon la tradition rapportée par Ben Azaï."
+              }
+            ]
+          }
         },
         {
           "id": "4:5",
@@ -330,8 +1000,32 @@
           "ref": "Mishnah Taanit 4:5",
           "he": "זְמַן עֲצֵי כֹהֲנִים וְהָעָם, תִּשְׁעָה. בְּאֶחָד בְּנִיסָן, בְּנֵי אָרַח בֶּן יְהוּדָה. בְּעֶשְׂרִים בְּתַמּוּז, בְּנֵי דָוִד בֶּן יְהוּדָה. בַּחֲמִשָּׁה בְאָב, בְּנֵי פַרְעֹשׁ בֶּן יְהוּדָה. בְּשִׁבְעָה בוֹ, בְּנֵי יוֹנָדָב בֶּן רֵכָב. בַּעֲשָׂרָה בוֹ, בְּנֵי סְנָאָה בֶן בִּנְיָמִין. בַּחֲמִשָּׁה עָשָׂר בּוֹ, בְּנֵי זַתּוּא בֶן יְהוּדָה, וְעִמָּהֶם כֹּהֲנִים וּלְוִיִּם וְכָל מִי שֶׁטָּעָה בְשִׁבְטוֹ, וּבְנֵי גוֹנְבֵי עֱלִי בְּנֵי קוֹצְעֵי קְצִיעוֹת. בְּעֶשְׂרִים בּוֹ, בְּנֵי פַחַת מוֹאָב בֶּן יְהוּדָה. בְּעֶשְׂרִים בֶּאֱלוּל, בְּנֵי עָדִין בֶּן יְהוּדָה. בְּאֶחָד בְּטֵבֵת שָׁבוּ בְנֵי פַרְעֹשׁ שְׁנִיָּה. בְּאֶחָד בְּטֵבֵת לֹא הָיָה בוֹ מַעֲמָד, שֶׁהָיָה בוֹ הַלֵּל וְקָרְבַּן מוּסָף וְקָרְבַּן עֵצִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le temps fixé pour les bois des Cohanim et du peuple était de neuf dates. Le premier Nissan : les descendants d’Arah fils de Yehouda. Le vingt Tamouz : les descendants de David fils de Yehouda. Le cinq Av : les descendants de Par‘och fils de Yehouda. Le sept du même mois : les descendants de Yonadav fils de Rékhav. Le dix du même mois : les descendants de Senaa fils de Binyamin. Le quinze du même mois : les descendants de Zattou fils de Yehouda, et avec eux des Cohanim, des Léviim, et quiconque s’était égaré quant à sa tribu, ainsi que les descendants des voleurs de pilons et les descendants des coupeurs de figues sèches. Le vingt du même mois : les descendants de Pa‘hat Moav fils de Yehouda. Le vingt Éloul : les descendants d’Adin fils de Yehouda. Le premier Tévèt : les descendants de Par‘och revenaient une seconde fois. Le premier Tévèt, il n’y avait pas de maamad, car il y avait en ce jour le Hallel, le sacrifice additionnel et le sacrifice des bois.",
+          "etude_fr": {
+            "traduction_fr": "Le temps fixé pour les bois des Cohanim et du peuple était de neuf dates. Le premier Nissan : les descendants d’Arah fils de Yehouda. Le vingt Tamouz : les descendants de David fils de Yehouda. Le cinq Av : les descendants de Par‘och fils de Yehouda. Le sept du même mois : les descendants de Yonadav fils de Rékhav. Le dix du même mois : les descendants de Senaa fils de Binyamin. Le quinze du même mois : les descendants de Zattou fils de Yehouda, et avec eux des Cohanim, des Léviim, et quiconque s’était égaré quant à sa tribu, ainsi que les descendants des voleurs de pilons et les descendants des coupeurs de figues sèches. Le vingt du même mois : les descendants de Pa‘hat Moav fils de Yehouda. Le vingt Éloul : les descendants d’Adin fils de Yehouda. Le premier Tévèt : les descendants de Par‘och revenaient une seconde fois. Le premier Tévèt, il n’y avait pas de maamad, car il y avait en ce jour le Hallel, le sacrifice additionnel et le sacrifice des bois.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Taanit 4:5",
+                "explication": "Bartenoura explique que ces familles avaient reçu le privilège d’apporter le bois destiné à l’autel. Lorsque les exilés revinrent à l’époque d’Ezra, on ne trouva pas assez de bois pour l’autel ; certaines familles se dévouèrent alors et en apportèrent. Les prophètes instituèrent que, même si plus tard le trésor du Temple possédait du bois en abondance, ces familles conserveraient leurs dates fixes et apporteraient du bois ce jour-là, qui devenait pour elles comme un jour de réjouissance."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 4:5",
+                "explication": "Le Rambam précise que le “temps des bois” désigne des jours déterminés où des familles précises apportaient du bois pour les sacrifices. Ce bois était offert comme un korban, et le jour où une famille l’apportait était considéré pour elle comme une sorte de Yom Tov : on y manifestait de la joie en raison de la mitsva et de l’honneur fait à l’autel."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Taanit 4:5",
+                "explication": "Tossafot Yom Tov relève que la Michna compte neuf dates, bien que certaines tombent dans le même mois, car chaque date correspond à une famille ou à un groupe distinct ayant son tour particulier. Il explique aussi que le premier Tévèt réunit plusieurs éléments de sainteté : Hallel à cause de Hanoucca, sacrifice additionnel à cause de Roch ‘Hodech, et sacrifice des bois pour les descendants de Par‘och ; c’est pourquoi il n’y avait pas de maamad ce jour-là."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Taanit 4:5",
+                "explication": "Tiféret Israël explique les expressions “descendants des voleurs de pilons” et “descendants des coupeurs de figues sèches” comme des surnoms honorifiques liés à leur dévouement. À une époque où les autorités empêchaient d’apporter au Temple les prémices ou le bois, certains usaient de ruse : ils cachaient leurs dons sous l’apparence d’ustensiles ou de provisions ordinaires afin de les faire parvenir au Temple. Leur nom rappelle donc leur mérite et non une faute."
+              }
+            ]
+          }
         },
         {
           "id": "4:6",
@@ -340,8 +1034,32 @@
           "ref": "Mishnah Taanit 4:6",
           "he": "חֲמִשָּׁה דְבָרִים אֵרְעוּ אֶת אֲבוֹתֵינוּ בְּשִׁבְעָה עָשָׂר בְּתַמּוּז וַחֲמִשָּׁה בְּתִשְׁעָה בְאָב. בְּשִׁבְעָה עָשָׂר בְּתַמּוּז נִשְׁתַּבְּרוּ הַלּוּחוֹת, וּבָטַל הַתָּמִיד, וְהֻבְקְעָה הָעִיר, וְשָׂרַף אַפּוֹסְטֹמוֹס אֶת הַתּוֹרָה, וְהֶעֱמִיד צֶלֶם בַּהֵיכָל. בְּתִשְׁעָה בְאָב נִגְזַר עַל אֲבוֹתֵינוּ שֶׁלֹּא יִכָּנְסוּ לָאָרֶץ, וְחָרַב הַבַּיִת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה, וְנִלְכְּדָה בֵיתָר, וְנֶחְרְשָׁה הָעִיר. מִשֶּׁנִּכְנַס אָב, מְמַעֲטִין בְּשִׂמְחָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Cinq événements arrivèrent à nos pères le dix-sept tamouz, et cinq le neuf av. Le dix-sept tamouz, les Tables furent brisées, le sacrifice quotidien fut interrompu, la ville fut ouverte par une brèche, Apostomos brûla la Torah, et il plaça une statue dans le Sanctuaire. Le neuf av, il fut décrété sur nos pères qu’ils n’entreraient pas dans la Terre ; le Temple fut détruit, la première fois et la seconde ; Beitar fut prise ; et la ville fut labourée. Dès l’entrée du mois de av, on diminue la joie.",
+          "etude_fr": {
+            "traduction_fr": "Cinq événements arrivèrent à nos pères le dix-sept tamouz, et cinq le neuf av. Le dix-sept tamouz, les Tables furent brisées, le sacrifice quotidien fut interrompu, la ville fut ouverte par une brèche, Apostomos brûla la Torah, et il plaça une statue dans le Sanctuaire. Le neuf av, il fut décrété sur nos pères qu’ils n’entreraient pas dans la Terre ; le Temple fut détruit, la première fois et la seconde ; Beitar fut prise ; et la ville fut labourée. Dès l’entrée du mois de av, on diminue la joie.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Taanit 4:6",
+                "explication": "Bartenoura identifie les cinq malheurs du dix-sept tamouz. Les Tables furent brisées lorsque Moché descendit du mont Sinaï et vit le veau d’or. Le sacrifice quotidien fut interrompu lors du siège de Jérusalem, lorsque l’on ne put plus se procurer d’agneaux pour l’offrande quotidienne. La brèche de la ville renvoie à l’entrée des ennemis dans Jérusalem. Apostomos était un homme impie qui brûla un rouleau de la Torah. Quant à la statue placée dans le Sanctuaire, Bartenoura rapporte l’explication selon laquelle elle fut dressée par un ennemi dans le Temple."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Taanit 4:6",
+                "explication": "Le Rambam explique que cette Michna énumère les raisons historiques du jeûne du dix-sept tamouz et de celui du neuf av. Le neuf av est lié d’abord à la faute des explorateurs : ce jour-là fut décrété que la génération sortie d’Égypte n’entrerait pas en Terre d’Israël. Le même jour se produisirent ensuite la destruction du premier Temple, puis celle du second, la prise de Beitar — grande catastrophe nationale — et le labour de Jérusalem, acte destiné à effacer son caractère de ville habitée et sainte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Taanit 4:6",
+                "explication": "Tossafot Yom Tov relève que la Michna dit, au sujet du dix-sept tamouz, que “la ville fut ouverte par une brèche”, bien que le verset concernant le premier Temple mentionne une brèche le neuf tamouz. Il explique, à la suite de la Guemara, que pour le second Temple la brèche eut lieu le dix-sept tamouz ; la Michna retient cette date, car c’est elle qui fut fixée pour le jeûne public des générations."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Taanit 4:6, Yakhin",
+                "explication": "Tiféret Israël précise que “dès l’entrée du mois de av, on diminue la joie” signifie que l’on réduit les manifestations de réjouissance dès Roch ‘Hodech av, parce que ce mois porte le souvenir de la destruction. Il ne s’agit pas d’annuler toute activité normale, mais de diminuer ce qui relève de la joie, conformément au caractère de deuil qui s’intensifie jusqu’au neuf av."
+              }
+            ]
+          }
         },
         {
           "id": "4:7",
@@ -350,8 +1068,32 @@
           "ref": "Mishnah Taanit 4:7",
           "he": "שַׁבָּת שֶׁחָל תִּשְׁעָה בְאָב לִהְיוֹת בְּתוֹכָהּ, אָסוּר מִלְּסַפֵּר וּמִלְּכַבֵּס, וּבַחֲמִישִׁי מֻתָּרִין מִפְּנֵי כְבוֹד הַשַּׁבָּת. עֶרֶב תִּשְׁעָה בְאָב לֹא יֹאכַל אָדָם שְׁנֵי תַבְשִׁילִין, לֹא יֹאכַל בָּשָׂר וְלֹא יִשְׁתֶּה יָיִן. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, יְשַׁנֶּה. רַבִּי יְהוּדָה מְחַיֵּב בִּכְפִיַּת הַמִּטָּה, וְלֹא הוֹדוּ לוֹ חֲכָמִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La semaine dans laquelle tombe le 9 Av, il est interdit de se couper les cheveux et de laver du linge ; mais le jeudi, cela est permis, en l’honneur du Chabbat. La veille du 9 Av, on ne mangera pas deux plats cuisinés ; on ne mangera pas de viande et on ne boira pas de vin. Rabban Chim‘on ben Gamliel dit : qu’il modifie sa manière habituelle. Rabbi Yehouda impose de renverser le lit, mais les Sages ne lui ont pas donné leur accord.",
+          "etude_fr": {
+            "traduction_fr": "La semaine dans laquelle tombe le 9 Av, il est interdit de se couper les cheveux et de laver du linge ; mais le jeudi, cela est permis, en l’honneur du Chabbat. La veille du 9 Av, on ne mangera pas deux plats cuisinés ; on ne mangera pas de viande et on ne boira pas de vin. Rabban Chim‘on ben Gamliel dit : qu’il modifie sa manière habituelle. Rabbi Yehouda impose de renverser le lit, mais les Sages ne lui ont pas donné leur accord.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Ta‘anit 4:7",
+                "explication": "« La semaine dans laquelle tombe le 9 Av » désigne toute la semaine précédant le jeûne, depuis la sortie du Chabbat jusqu’au jeûne. Durant cette période, on s’abstient de se couper les cheveux et de laver du linge, en signe de deuil. Toutefois, si le 9 Av tombe un vendredi, il est permis de le faire le jeudi, afin de ne pas entrer dans Chabbat de manière indigne. Concernant « qu’il modifie », Rabban Chim‘on ben Gamliel enseigne que l’on doit diminuer ou changer son habitude alimentaire, par exemple manger moins que d’ordinaire, même si l’on ne s’impose pas toutes les restrictions mentionnées par le premier avis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Ta‘anit 4:7",
+                "explication": "Le Rambam explique que les interdictions de la semaine du 9 Av relèvent des pratiques de deuil instituées en souvenir de la destruction du Temple. La veille du jeûne, lors du repas qui précède le jeûne, on évite les signes de réjouissance : deux plats cuisinés, la viande et le vin. Quant à l’avis de Rabbi Yehouda, qui exige de renverser le lit comme un endeuillé, les Sages ne l’ont pas accepté, et la halakha ne suit pas Rabbi Yehouda."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Ta‘anit 4:7",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « deux plats cuisinés » vise deux préparations distinctes, car la multiplicité des mets exprime une certaine aisance et une forme de réjouissance, inappropriées à l’entrée du jeûne. Il souligne aussi que l’autorisation du jeudi est liée spécifiquement à l’honneur du Chabbat : les pratiques de deuil ne doivent pas conduire à manquer de respect au Chabbat."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Ta‘anit 4:7",
+                "explication": "Le Tiféret Israël explique que « renverser le lit » correspond à une conduite de deuil ancienne : l’endeuillé retournait son lit et s’asseyait ou dormait d’une manière abaissée. Rabbi Yehouda voulait appliquer au 9 Av une forme de deuil comparable à celle d’un endeuillé récent, mais les Sages n’ont pas accepté d’imposer cette pratique à tous."
+              }
+            ]
+          }
         },
         {
           "id": "4:8",
@@ -360,8 +1102,32 @@
           "ref": "Mishnah Taanit 4:8",
           "he": "אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, לֹא הָיוּ יָמִים טוֹבִים לְיִשְׂרָאֵל כַּחֲמִשָּׁה עָשָׂר בְּאָב וּכְיוֹם הַכִּפּוּרִים, שֶׁבָּהֶן בְּנוֹת יְרוּשָׁלַיִם יוֹצְאוֹת בִּכְלֵי לָבָן שְׁאוּלִין, שֶׁלֹּא לְבַיֵּשׁ אֶת מִי שֶׁאֵין לוֹ. כָּל הַכֵּלִים טְעוּנִין טְבִילָה. וּבְנוֹת יְרוּשָׁלַיִם יוֹצְאוֹת וְחוֹלוֹת בַּכְּרָמִים. וּמֶה הָיוּ אוֹמְרוֹת, בָּחוּר, שָׂא נָא עֵינֶיךָ וּרְאֵה, מָה אַתָּה בוֹרֵר לָךְ. אַל תִּתֵּן עֵינֶיךָ בַנּוֹי, תֵּן עֵינֶיךָ בַמִּשְׁפָּחָה. שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי, אִשָּׁה יִרְאַת ה' הִיא תִתְהַלָּל (משלי לא). וְאוֹמֵר, תְּנוּ לָהּ מִפְּרִי יָדֶיהָ, וִיהַלְלוּהָ בַשְּׁעָרִים מַעֲשֶׂיהָ. וְכֵן הוּא אוֹמֵר, צְאֶינָה וּרְאֶינָה בְּנוֹת צִיּוֹן בַּמֶּלֶךְ שְׁלֹמֹה בָּעֲטָרָה שֶׁעִטְּרָה לּוֹ אִמּוֹ בְּיוֹם חֲתֻנָּתוֹ וּבְיוֹם שִׂמְחַת לִבּוֹ (שיר השירים ג). בְּיוֹם חֲתֻנָּתוֹ, זֶה מַתַּן תּוֹרָה. וּבְיוֹם שִׂמְחַת לִבּוֹ, זֶה בִּנְיַן בֵּית הַמִּקְדָּשׁ, שֶׁיִּבָּנֶה בִמְהֵרָה בְיָמֵינוּ. אָמֵן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabban Chim‘on ben Gamliel dit : Il n’y eut pas de jours de Yom Tov pour Israël comme le quinze Av et comme Yom Kippour, car en ces jours les filles de Jérusalem sortaient vêtues de vêtements blancs empruntés, afin de ne pas faire honte à celle qui n’en avait pas. Tous les vêtements nécessitaient une immersion. Et les filles de Jérusalem sortaient et dansaient en ronde dans les vignes. Et que disaient-elles ? « Jeune homme, lève donc les yeux et vois ce que tu choisis pour toi. Ne porte pas tes yeux sur la beauté ; porte tes yeux sur la famille. La grâce est mensonge et la beauté est vanité ; une femme qui craint Hachem, c’est elle qui sera louée » (Proverbes 31). Et il est dit : « Donnez-lui du fruit de ses mains, et que ses œuvres la louent aux portes. » Et ainsi est-il dit : « Sortez et voyez, filles de Sion, le roi Chelomo, avec la couronne dont sa mère l’a couronné au jour de ses noces et au jour de la joie de son cœur » (Cantique des cantiques 3). « Au jour de ses noces » : c’est le don de la Torah. « Et au jour de la joie de son cœur » : c’est la construction du Temple, qu’il soit reconstruit rapidement, de nos jours. Amen.",
+          "etude_fr": {
+            "traduction_fr": "Rabban Chim‘on ben Gamliel dit : Il n’y eut pas de jours de Yom Tov pour Israël comme le quinze Av et comme Yom Kippour, car en ces jours les filles de Jérusalem sortaient vêtues de vêtements blancs empruntés, afin de ne pas faire honte à celle qui n’en avait pas. Tous les vêtements nécessitaient une immersion. Et les filles de Jérusalem sortaient et dansaient en ronde dans les vignes. Et que disaient-elles ? « Jeune homme, lève donc les yeux et vois ce que tu choisis pour toi. Ne porte pas tes yeux sur la beauté ; porte tes yeux sur la famille. La grâce est mensonge et la beauté est vanité ; une femme qui craint Hachem, c’est elle qui sera louée » (Proverbes 31). Et il est dit : « Donnez-lui du fruit de ses mains, et que ses œuvres la louent aux portes. » Et ainsi est-il dit : « Sortez et voyez, filles de Sion, le roi Chelomo, avec la couronne dont sa mère l’a couronné au jour de ses noces et au jour de la joie de son cœur » (Cantique des cantiques 3). « Au jour de ses noces » : c’est le don de la Torah. « Et au jour de la joie de son cœur » : c’est la construction du Temple, qu’il soit reconstruit rapidement, de nos jours. Amen.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Taanit 4:8",
+                "explication": "Bartenoura explique que Yom Kippour est appelé ici un grand jour de joie parce qu’il est un jour de pardon et d’expiation, et aussi parce que les secondes Tables de la Loi furent données ce jour-là. Quant au quinze Av, la Guemara énumère plusieurs événements heureux qui y furent liés. Les vêtements blancs étaient empruntés afin que les pauvres ne soient pas humiliées ; même celles qui possédaient de beaux vêtements empruntaient donc des habits. Tous ces vêtements devaient être immergés, par crainte qu’ils n’aient contracté une impureté chez leurs propriétaires."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Taanit 4:8",
+                "explication": "Le Rambam souligne que cette coutume avait pour but de favoriser des mariages convenables et saints au sein d’Israël. Les jeunes filles sortaient de manière uniforme, en blanc, afin que le choix ne se fonde pas sur la richesse extérieure. L’appel adressé aux jeunes hommes insiste sur l’essentiel : ne pas choisir selon la beauté seule, mais selon la valeur de la famille et la crainte de Hachem."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Taanit 4:8",
+                "explication": "Tossafot Yom Tov relève que la Michna cite les versets de Michlei pour enseigner l’ordre des priorités : la beauté et le charme ne sont pas niés, mais ils sont secondaires et fragiles lorsqu’ils ne sont pas accompagnés de la crainte de Hachem. La louange véritable d’une femme vient de ses actes, comme le poursuit le verset : « que ses œuvres la louent aux portes »."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Taanit 4:8",
+                "explication": "Tiféret Israël explique que les rondes dans les vignes n’étaient pas une légèreté, mais une coutume encadrée et orientée vers une mitsva : permettre aux jeunes hommes de choisir une épouse dans un cadre de pudeur et d’égalité sociale. Les habits blancs empruntés effaçaient les différences de richesse, de sorte que l’attention se porte sur la qualité morale, la famille et la crainte de Hachem."
+              }
+            ]
+          }
         }
       ]
     }
