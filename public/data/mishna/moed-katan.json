@@ -15,8 +15,32 @@
           "ref": "Mishnah Moed Katan 1:1",
           "he": "מַשְׁקִין בֵּית הַשְּׁלָחִין בַּמּוֹעֵד וּבַשְּׁבִיעִית, בֵּין מִמַּעְיָן שֶׁיָּצָא בַתְּחִלָּה, בֵּין מִמַּעְיָן שֶׁלֹּא יָצָא בַתְּחִלָּה. אֲבָל אֵין מַשְׁקִין לֹא מִמֵּי הַגְּשָׁמִים וְלֹא מִמֵּי הַקִּילוֹן. וְאֵין עוֹשִׂין עוּגִיּוֹת לַגְּפָנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On irrigue un champ irrigué pendant le Moed et pendant la Chemita, que ce soit à partir d’une source qui a jailli pour la première fois, ou à partir d’une source qui n’a pas jailli pour la première fois. Mais on n’irrigue ni avec l’eau de pluie, ni avec l’eau puisée au seau. Et l’on ne fait pas de cuvettes autour des vignes.",
+          "etude_fr": {
+            "traduction_fr": "On irrigue un champ irrigué pendant le Moed et pendant la Chemita, que ce soit à partir d’une source qui a jailli pour la première fois, ou à partir d’une source qui n’a pas jailli pour la première fois. Mais on n’irrigue ni avec l’eau de pluie, ni avec l’eau puisée au seau. Et l’on ne fait pas de cuvettes autour des vignes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:1",
+                "explication": "« Champ irrigué » désigne un terrain qui ne peut subsister sans arrosage régulier ; son irrigation est donc permise au Moed, car il s’agit d’éviter une perte. La Michna permet même d’utiliser une source qui vient tout juste de jaillir, bien qu’on puisse craindre qu’elle s’effondre et oblige à un effort supplémentaire, car l’effort reste limité. En revanche, l’eau de pluie recueillie et l’eau puisée au seau sont interdites, car leur utilisation demande une peine importante."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:1",
+                "explication": "Le Rambam explique que les travaux permis pendant le Moed sont ceux qui empêchent une perte, à condition qu’ils ne comportent pas une fatigue excessive. C’est pourquoi l’irrigation d’un champ dépendant de l’eau est autorisée. Pendant la Chemita aussi, cette irrigation est permise, car elle vise à maintenir les plantes en vie et non à améliorer la production comme un travail agricole ordinaire."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:1",
+                "explication": "Il souligne la différence entre l’irrigation permise et la confection de cuvettes autour des vignes. Arroser un champ qui risque de se perdre relève de la prévention d’un dommage, tandis que faire des cuvettes est une préparation agricole nouvelle, assimilée à une amélioration du terrain ; cela n’est donc pas permis au Moed."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:1",
+                "explication": "Il précise que les « cuvettes » sont de petits creux circulaires faits au pied des ceps afin de retenir l’eau. Leur fabrication est interdite parce qu’elle constitue un travail de culture et non un simple entretien nécessaire. La Michna établit ainsi une règle générale : ce qui évite une perte immédiate peut être permis, mais ce qui améliore ou prépare la croissance reste interdit."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,32 @@
           "ref": "Mishnah Moed Katan 1:2",
           "he": "רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר, אֵין עוֹשִׂין אֶת הָאַמָּה בַתְּחִלָּה בַּמּוֹעֵד וּבַשְּׁבִיעִית, וַחֲכָמִים אוֹמְרִים, עוֹשִׂין אֶת הָאַמָּה בַּתְּחִלָּה בַּשְּׁבִיעִית, וּמְתַקְּנִין אֶת הַמְּקֻלְקָלוֹת בַּמּוֹעֵד. וּמְתַקְּנִין אֶת קִלְקוּלֵי הַמַּיִם שֶׁבִּרְשׁוּת הָרַבִּים וְחוֹטְטִין אוֹתָן. וּמְתַקְּנִין אֶת הַדְּרָכִים וְאֶת הָרְחוֹבוֹת וְאֶת מִקְווֹת הַמַּיִם, וְעוֹשִׂין כָּל צָרְכֵי הָרַבִּים, וּמְצַיְּנִין אֶת הַקְּבָרוֹת, וְיוֹצְאִין אַף עַל הַכִּלְאָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi El‘azar ben Azaria dit : On ne creuse pas un canal d’eau pour la première fois pendant le Moed ni pendant la septième année. Les Sages disent : On creuse un canal d’eau pour la première fois pendant la septième année, et l’on répare, pendant le Moed, les canaux détériorés. On répare les dégradations des conduites d’eau qui se trouvent dans le domaine public, et on les cure. On répare les chemins, les rues et les bains rituels d’eau ; on accomplit tous les besoins de la collectivité ; on marque les tombes, et l’on sort même inspecter les kilayim.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi El‘azar ben Azaria dit : On ne creuse pas un canal d’eau pour la première fois pendant le Moed ni pendant la septième année. Les Sages disent : On creuse un canal d’eau pour la première fois pendant la septième année, et l’on répare, pendant le Moed, les canaux détériorés. On répare les dégradations des conduites d’eau qui se trouvent dans le domaine public, et on les cure. On répare les chemins, les rues et les bains rituels d’eau ; on accomplit tous les besoins de la collectivité ; on marque les tombes, et l’on sort même inspecter les kilayim.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:2",
+                "explication": "« Ama » désigne un canal ou fossé destiné à amener l’eau vers les champs. Rabbi El‘azar ben Azaria interdit d’en creuser un nouveau pendant le Moed, car c’est un travail important, et pendant la septième année, parce que cela ressemble à un travail agricole destiné à améliorer la terre. Les Sages permettent de le faire pendant la septième année, car creuser un canal n’est pas en soi une melakha de culture interdite par la Chemita ; en revanche, pendant le Moed, ils ne permettent que de réparer un canal déjà existant, car cela relève d’un besoin et d’une prévention de perte."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:2",
+                "explication": "Le Rambam explique que les travaux autorisés pendant le Moed sont notamment les besoins publics, car ils profitent à tous et l’occasion du Moed permet de les réaliser. C’est pourquoi la Michna énumère la réparation des chemins, des rues, des mikvaot et des systèmes d’eau du domaine public. De même, on marque les tombes afin que les Cohanim puissent éviter l’impureté, et l’on contrôle les kilayim pour empêcher une transgression collective."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:2",
+                "explication": "Le Tossafot Yom Tov souligne la différence entre « faire au début » et « réparer ». Pendant le Moed, créer un nouvel ouvrage est généralement interdit, même s’il sera utile, tandis que réparer ce qui est abîmé est permis lorsqu’il y a nécessité, en particulier pour les besoins du public. La formulation de la Michna montre donc que l’autorisation du Moed est plus limitée que celle de la Chemita selon les Sages."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:2",
+                "explication": "Le Tiféret Israël explique que « on les cure » signifie qu’on enlève la boue, les pierres et les obstacles qui empêchent l’eau de s’écouler correctement. Les besoins publics mentionnés ici sont permis même lorsqu’ils demandent un effort important, parce qu’ils assurent la sécurité, la pureté rituelle et la vie collective : routes praticables, bains rituels valides, tombes signalées et élimination des mélanges interdits dans les champs."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +83,27 @@
           "ref": "Mishnah Moed Katan 1:3",
           "he": "רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, מוֹשְׁכִים אֶת הַמַּיִם מֵאִילָן לְאִילָן, וּבִלְבַד שֶׁלֹּא יַשְׁקֶה אֶת כָּל הַשָּׂדֶה. זְרָעִים שֶׁלֹּא שָׁתוּ לִפְנֵי הַמּוֹעֵד, לֹא יַשְׁקֵם בַּמּוֹעֵד. וַחֲכָמִים מַתִּירִין בָּזֶה וּבָזֶה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Éliézer ben Yaakov dit : On fait couler l’eau d’un arbre vers un autre arbre, à condition de ne pas irriguer tout le champ. Des semences qui n’ont pas été abreuvées avant le Moed, on ne les abreuvera pas pendant le Moed. Et les Sages permettent dans l’un et l’autre cas.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Éliézer ben Yaakov dit : On fait couler l’eau d’un arbre vers un autre arbre, à condition de ne pas irriguer tout le champ. Des semences qui n’ont pas été abreuvées avant le Moed, on ne les abreuvera pas pendant le Moed. Et les Sages permettent dans l’un et l’autre cas.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:3",
+                "explication": "« On fait couler l’eau d’un arbre vers un autre » signifie que, s’il y a de l’eau au pied d’un arbre, on peut ouvrir un petit conduit pour qu’elle parvienne à un autre arbre : c’est un travail limité, destiné à éviter une perte aux arbres. Mais Rabbi Éliézer ben Yaakov interdit d’irriguer tout le champ, car cela ressemble à une irrigation ordinaire du champ, qui demande davantage d’effort et dépasse la simple prévention d’une perte. Concernant les semences qui n’ont pas été arrosées avant le Moed, il estime qu’on ne commence pas leur irrigation pendant le Moed, car cela constitue un nouveau soin agricole et non la continuation d’un entretien nécessaire déjà engagé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:3",
+                "explication": "Le Rambam explique que la permission pendant le Moed dépend du principe général : on autorise un travail lorsqu’il vise à empêcher une perte, mais non lorsqu’il s’agit d’améliorer ou de développer la production. Faire passer l’eau d’un arbre à l’autre est donc permis selon Rabbi Éliézer ben Yaakov, car cela sauve les arbres sans entreprendre une irrigation complète. En revanche, arroser tout le champ ou commencer à arroser des semences qui n’avaient pas encore reçu d’eau avant le Moed est considéré comme un travail agricole plus substantiel. Les Sages sont plus indulgents et permettent ces arrosages, car ils les considèrent eux aussi comme relevant de la prévention d’une perte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:3",
+                "explication": "Le Tossafot Yom Tov souligne la précision de l’expression « à condition de ne pas irriguer tout le champ » : la permission de Rabbi Éliézer ben Yaakov ne porte pas sur une irrigation générale, mais seulement sur une conduite d’eau ponctuelle, d’arbre en arbre. Il explique aussi que « dans l’un et l’autre cas » renvoie aux deux restrictions mentionnées : l’irrigation de tout le champ et l’arrosage des semences qui n’avaient pas été abreuvées avant le Moed. Les Sages autorisent ces deux pratiques, tandis que Rabbi Éliézer ben Yaakov les interdit."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +112,32 @@
           "ref": "Mishnah Moed Katan 1:4",
           "he": "צָדִין אֶת הָאִישׁוּת וְאֶת הָעַכְבָּרִים מִשְּׂדֵה הָאִילָן וּמִשְּׂדֵה הַלָּבָן, שֶׁלֹּא כְדַרְכּוֹ, בַּמּוֹעֵד וּבַשְּׁבִיעִית. וַחֲכָמִים אוֹמְרִים, מִשְּׂדֵה הָאִילָן כְּדַרְכּוֹ, וּמִשְּׂדֵה הַלָּבָן שֶׁלֹּא כְדַרְכּוֹ. וּמְקָרִין אֶת הַפִּרְצָה בַּמּוֹעֵד, וּבַשְּׁבִיעִית בּוֹנֶה כְדַרְכּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On piège les taupes et les souris dans un verger et dans un champ de céréales, mais d’une manière inhabituelle, pendant le Moed et pendant la septième année. Les Sages disent : dans un verger, on les piège de la manière habituelle ; et dans un champ de céréales, d’une manière inhabituelle. On répare sommairement la brèche pendant le Moed ; et pendant la septième année, on la reconstruit de la manière habituelle.",
+          "etude_fr": {
+            "traduction_fr": "On piège les taupes et les souris dans un verger et dans un champ de céréales, mais d’une manière inhabituelle, pendant le Moed et pendant la septième année. Les Sages disent : dans un verger, on les piège de la manière habituelle ; et dans un champ de céréales, d’une manière inhabituelle. On répare sommairement la brèche pendant le Moed ; et pendant la septième année, on la reconstruit de la manière habituelle.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:4",
+                "explication": "L’« ichout » est un animal qui creuse sous terre et endommage les racines des arbres ; les souris aussi causent des dégâts aux champs. La différence entre le verger et le champ de céréales tient au degré de perte : dans un verger, le dommage est plus grave, car les racines des arbres peuvent être détruites ; c’est pourquoi les Sages permettent de les capturer de la manière habituelle. Dans un champ de céréales, où la perte est moindre, on ne le fait que d’une manière inhabituelle pendant le Moed."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:4",
+                "explication": "Le Rambam explique que la permission accordée pendant le Moed repose sur le principe de prévenir une perte. Toutefois, lorsqu’il n’y a pas une perte importante, l’action doit être faite avec un changement par rapport à la manière ordinaire. Pour la septième année, capturer ces animaux n’est pas considéré comme un travail de culture interdit lorsqu’il s’agit d’empêcher un dommage ; de même, reconstruire une brèche dans une clôture n’est pas un travail agricole, et peut donc être fait normalement pendant la Chemita."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:4",
+                "explication": "Il précise que l’expression « d’une manière inhabituelle » signifie que l’on ne procède pas avec les méthodes professionnelles ordinaires, afin que l’acte ne prenne pas l’apparence d’un travail pleinement réalisé pendant le Moed. En revanche, lorsque la perte est manifeste, comme dans un verger, les Sages autorisent la manière habituelle, car les travaux destinés à éviter une perte sont permis pendant le Moed."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:4",
+                "explication": "Il explique que « réparer sommairement la brèche » signifie faire une réparation provisoire : on bouche l’ouverture de façon simple, sans construction complète et solide. Pendant le Moed, on ne permet qu’une réparation destinée à empêcher la perte ou le dommage immédiat ; mais pendant la Chemita, la reconstruction normale de la clôture est permise, car elle ne constitue pas un travail de la terre."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +146,32 @@
           "ref": "Mishnah Moed Katan 1:5",
           "he": "רַבִּי מֵאִיר אוֹמֵר, רוֹאִין אֶת הַנְּגָעִים בַּתְּחִלָּה לְהָקֵל, אֲבָל לֹא לְהַחְמִיר. וַחֲכָמִים אוֹמְרִים, לֹא לְהָקֵל וְלֹא לְהַחְמִיר. וְעוֹד אָמַר רַבִּי מֵאִיר, מְלַקֵּט אָדָם עַצְמוֹת אָבִיו וְאִמּוֹ, מִפְּנֵי שֶׁשִּׂמְחָה הִיא לוֹ. רַבִּי יוֹסֵי אוֹמֵר, אֵבֶל הוּא לוֹ. לֹא יְעוֹרֵר אָדָם עַל מֵתוֹ וְלֹא יַסְפִּידֶנּוּ קֹדֶם לָרֶגֶל שְׁלֹשִׁים יוֹם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Méïr dit : on examine les plaies au début, pour alléger, mais non pour alourdir. Et les Sages disent : ni pour alléger ni pour alourdir. Rabbi Méïr dit encore : un homme peut recueillir les ossements de son père et de sa mère, car c’est pour lui une joie. Rabbi Yossé dit : c’est pour lui un deuil. Un homme ne suscitera pas de lamentation pour son mort, et il ne prononcera pas d’éloge funèbre pour lui, dans les trente jours qui précèdent la fête.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Méïr dit : on examine les plaies au début, pour alléger, mais non pour alourdir. Et les Sages disent : ni pour alléger ni pour alourdir. Rabbi Méïr dit encore : un homme peut recueillir les ossements de son père et de sa mère, car c’est pour lui une joie. Rabbi Yossé dit : c’est pour lui un deuil. Un homme ne suscitera pas de lamentation pour son mort, et il ne prononcera pas d’éloge funèbre pour lui, dans les trente jours qui précèdent la fête.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:5",
+                "explication": "« On examine les plaies au début » signifie que le Cohen peut regarder une plaie qui n’avait pas encore été examinée. Selon Rabbi Méïr, il ne le fait que si cela peut aboutir à une décision favorable, par exemple déclarer la personne pure ; mais si l’examen risque de la déclarer impure, on ne l’examine pas pendant le Moed, afin de ne pas lui causer de peine. Les Sages interdisent même un examen susceptible d’alléger, car une fois que le Cohen examine, il pourrait être amené à constater une impureté et à l’annoncer. Concernant la collecte des ossements des parents, Rabbi Méïr la permet pendant le Moed, car l’homme est heureux de les réunir dans la sépulture familiale ; Rabbi Yossé l’interdit, car l’acte réveille la douleur du deuil. La halakha suit Rabbi Yossé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:5",
+                "explication": "Le Rambam explique que les lois des plaies dépendent de la déclaration du Cohen : tant que le Cohen n’a pas prononcé l’impureté, l’homme n’est pas rendu impur par la plaie. C’est pourquoi la question de la Michna est de savoir si l’on permet au Cohen de procéder à l’examen pendant le Moed. Les Sages l’interdisent, car le Moed est un temps de joie et l’on évite d’y introduire une décision qui pourrait entraîner affliction, isolement et restrictions. Pour la collecte des ossements, le Rambam précise qu’il s’agit de rassembler les restes après la décomposition de la chair, selon l’usage de les déposer ensuite dans un ossuaire ou dans la tombe familiale ; malgré l’aspect d’honneur rendu aux parents, cela est considéré comme un deuil et n’est pas fait pendant le Moed."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:5",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « au début » exclut le cas d’une plaie déjà placée sous surveillance, où le Cohen doit revenir voir l’évolution au terme du délai fixé par la Torah. Ici, la discussion porte sur une première décision, que l’on pourrait retarder sans transgresser. Il explique aussi la formule « pour alléger, mais non pour alourdir » : Rabbi Méïr ne permet l’intervention du Cohen que lorsqu’elle ne troublera pas la joie du Moed. Les Sages craignent toutefois que l’examen lui-même ne conduise à une issue défavorable, et ils s’y opposent donc totalement."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Moed Katan 1:5, Yakhin",
+                "explication": "Le Tiféret Israël explique que « ne suscitera pas de lamentation » désigne le fait de réveiller publiquement le souvenir d’un mort, même ancien, par des paroles ou des chants de deuil qui excitent les pleurs. Quant à « ne prononcera pas d’éloge funèbre », il s’agit d’un éloge organisé à l’approche de la fête. La Michna interdit cela dans les trente jours précédant la fête, afin que l’on n’entre pas dans la fête avec une tristesse renouvelée et que la joie de la fête ne soit pas diminuée."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +180,32 @@
           "ref": "Mishnah Moed Katan 1:6",
           "he": "אֵין חוֹפְרִין כּוּכִין וּקְבָרוֹת בַּמּוֹעֵד, אֲבָל מְחַנְּכִים אֶת הַכּוּכִין בַּמּוֹעֵד. וְעוֹשִׂין נִבְרֶכֶת בַּמּוֹעֵד, וְאָרוֹן עִם הַמֵּת בֶּחָצֵר. רַבִּי יְהוּדָה אוֹסֵר, אֶלָּא אִם כֵּן יֵשׁ עִמּוֹ נְסָרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne creuse pas de niches funéraires ni de tombes pendant le Moed ; mais on aménage les niches funéraires pendant le Moed. On fait aussi une citerne pendant le Moed, et un cercueil avec le mort dans la cour. Rabbi Yehouda l’interdit, sauf s’il y a déjà des planches avec lui.",
+          "etude_fr": {
+            "traduction_fr": "On ne creuse pas de niches funéraires ni de tombes pendant le Moed ; mais on aménage les niches funéraires pendant le Moed. On fait aussi une citerne pendant le Moed, et un cercueil avec le mort dans la cour. Rabbi Yehouda l’interdit, sauf s’il y a déjà des planches avec lui.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:6",
+                "explication": "Les « niches funéraires » sont les cavités creusées dans les parois d’une grotte funéraire, où l’on déposait les morts. La Michna interdit d’en creuser de nouvelles pendant le Moed, car c’est un travail important qui n’est pas nécessaire de façon certaine pour le besoin immédiat. En revanche, « aménager » les niches signifie achever ou ajuster des niches déjà creusées, par exemple les élargir ou les allonger légèrement afin qu’elles soient utilisables."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:6",
+                "explication": "Le Rambam explique que l’interdit porte sur la création de nouvelles sépultures pendant le Moed, tandis que la préparation finale d’un emplacement déjà existant est permise lorsqu’elle répond au besoin funéraire. La permission de faire un cercueil est limitée au cas où le mort se trouve dans la cour, afin qu’il soit manifeste que l’ouvrage est fait pour les besoins immédiats du défunt et non pour un usage après le Moed."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:6",
+                "explication": "Il précise la logique de la distinction : creuser une tombe neuve ressemble à un travail préparatoire ordinaire et peut être repoussé, tandis que corriger ou adapter ce qui existe déjà relève du besoin pressant du mort. Concernant le cercueil, la présence du mort dans la cour sert de signe public que l’ouvrage est accompli pour une nécessité actuelle."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:6",
+                "explication": "Il explique que Rabbi Yehouda est plus strict pour la fabrication du cercueil : même lorsque le mort est là, il interdit de commencer un travail impliquant la préparation du bois, sauf si des planches sont déjà disponibles auprès du mort. Dans ce cas, on ne fait qu’assembler ce qui est prêt, et l’acte apparaît clairement comme destiné à l’enterrement immédiat."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +214,32 @@
           "ref": "Mishnah Moed Katan 1:7",
           "he": "אֵין נוֹשְׂאִין נָשִׁים בַּמּוֹעֵד, לֹא בְתוּלוֹת, וְלֹא אַלְמָנוֹת, וְלֹא מְיַבְּמִין, מִפְּנֵי שֶׁשִּׂמְחָה הִיא לוֹ. אֲבָל מַחֲזִיר הוּא אֶת גְּרוּשָׁתוֹ. וְעוֹשָׂה אִשָּׁה תַּכְשִׁיטֶיהָ בַמּוֹעֵד. רַבִּי יְהוּדָה אוֹמֵר, לֹא תָּסוּד מִפְּנֵי שֶׁנִּוּוּל הוּא לָהּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On n’épouse pas de femmes pendant le Moed : ni des vierges, ni des veuves, et l’on ne procède pas non plus au lévirat, parce que c’est une joie pour lui. Mais il peut reprendre sa divorcée. Et une femme peut faire ses parures pendant le Moed. Rabbi Yehouda dit : elle ne s’enduira pas de chaux, parce que c’est pour elle un enlaidissement.",
+          "etude_fr": {
+            "traduction_fr": "On n’épouse pas de femmes pendant le Moed : ni des vierges, ni des veuves, et l’on ne procède pas non plus au lévirat, parce que c’est une joie pour lui. Mais il peut reprendre sa divorcée. Et une femme peut faire ses parures pendant le Moed. Rabbi Yehouda dit : elle ne s’enduira pas de chaux, parce que c’est pour elle un enlaidissement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:7",
+                "explication": "On ne célèbre pas de mariage pendant le Moed, car la joie du mariage s’ajouterait à celle du Moed et la détournerait ; la Guemara formule cela par le principe : on ne mêle pas une joie à une autre. Le lévirat est également interdit, car lui aussi constitue une joie pour l’homme. En revanche, reprendre sa propre divorcée n’est pas considéré comme une nouvelle joie comparable à un mariage initial, puisque la relation existait déjà auparavant."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:7",
+                "explication": "Le Rambam explique que la Michna interdit les unions nouvelles pendant le Moed en raison de la joie particulière qu’elles entraînent, qui ne doit pas être fixée à ce moment. Il précise que les soins de beauté de la femme sont permis pendant le Moed, car ils relèvent des besoins personnels et de l’honneur du Moed, afin qu’elle soit convenablement parée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:7",
+                "explication": "Le Tossafot Yom Tov souligne la formulation « parce que c’est une joie pour lui » : l’interdit vise la joie du mari, qui est principale dans l’acte de mariage mentionné ici. Il relève aussi que la permission de reprendre sa divorcée tient au fait qu’il n’y a pas là la même nouveauté festive qu’avec une autre femme."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:7",
+                "explication": "Le Tiféret Israël explique que « faire ses parures » inclut les préparatifs esthétiques habituels d’une femme, permis pendant le Moed lorsqu’ils contribuent à son agrément. Rabbi Yehouda interdit toutefois l’application de chaux, car au moment où elle est posée elle l’enlaidit, même si elle embellit ensuite la peau ; selon lui, un acte produisant d’abord une gêne ou un enlaidissement n’entre pas dans la permission de se parer pendant le Moed."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +248,32 @@
           "ref": "Mishnah Moed Katan 1:8",
           "he": "הַהֶדְיוֹט תּוֹפֵר כְּדַרְכּוֹ, וְהָאֻמָּן מַכְלִיב. וּמְסָרְגִין אֶת הַמִּטּוֹת. רַבִּי יוֹסֵי אוֹמֵר, אַף מְמַתְּחִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’homme ordinaire coud à sa manière habituelle, mais l’artisan fait des points espacés. Et l’on entrelace les lits. Rabbi Yossé dit : on peut même les retendre.",
+          "etude_fr": {
+            "traduction_fr": "L’homme ordinaire coud à sa manière habituelle, mais l’artisan fait des points espacés. Et l’on entrelace les lits. Rabbi Yossé dit : on peut même les retendre.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:8",
+                "explication": "Cette Michna traite des travaux permis pendant ‘Hol HaMoed lorsqu’ils sont nécessaires au besoin du Moed. Un homme ordinaire, qui ne sait pas coudre avec une parfaite maîtrise, peut coudre normalement, car son ouvrage n’est pas considéré comme un travail d’artisan. En revanche, un professionnel ne doit pas coudre de manière complète et soignée ; il doit seulement « makhlib », c’est-à-dire faire des points irréguliers ou espacés, comme une couture provisoire."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:8",
+                "explication": "Le Rambam explique que la différence entre l’homme ordinaire et l’artisan repose sur la qualité du travail : l’ouvrage professionnel est une melakha qualifiée et doit donc être modifié pendant le Moed, tandis que l’ouvrage d’un non-spécialiste n’a pas ce statut de perfection artisanale. Concernant les lits, il s’agit des lits dont le couchage est formé de cordes ou de lanières : il est permis de les entrelacer lorsqu’on en a besoin."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:8",
+                "explication": "Le Tossafot Yom Tov précise que « makhlib » désigne une couture faite avec un changement reconnaissable par rapport à la couture habituelle d’un artisan. Le principe est que, même lorsqu’un travail est autorisé pour le besoin du Moed, on réduit autant que possible son caractère professionnel lorsqu’il peut être réalisé de manière moins parfaite."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:8",
+                "explication": "Le Tiféret Israël explique que « mesargin et hamitot » signifie tresser ou passer les cordes dans le cadre du lit afin de former la surface sur laquelle on se couche. Rabbi Yossé ajoute qu’il est même permis de retendre des cordes déjà en place. Selon cette lecture, le premier avis permet de remettre en état le lit en tressant ses cordes, tandis que Rabbi Yossé autorise aussi l’action supplémentaire de les tendre fortement pour améliorer l’usage du lit."
+              }
+            ]
+          }
         },
         {
           "id": "1:9",
@@ -95,8 +282,27 @@
           "ref": "Mishnah Moed Katan 1:9",
           "he": "מַעֲמִידִין תַּנּוּר וְכִירַיִם וְרֵחַיִם בַּמּוֹעֵד. רַבִּי יְהוּדָה אוֹמֵר, אֵין מְכַבְּשִׁין אֶת הָרֵחַיִם בַּתְּחִלָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On met en place un four, des fourneaux et des meules pendant le Moed. Rabbi Yehouda dit : on ne rainure pas les meules pour la première fois.",
+          "etude_fr": {
+            "traduction_fr": "On met en place un four, des fourneaux et des meules pendant le Moed. Rabbi Yehouda dit : on ne rainure pas les meules pour la première fois.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:9",
+                "explication": "« On met en place » signifie que l’on peut installer ces ustensiles nécessaires à la préparation de la nourriture pendant le Moed, car il s’agit des besoins alimentaires du Moed. Pour les meules, Rabbi Yehouda limite l’autorisation : il interdit de les « rainurer » pour la première fois, c’est-à-dire de faire dans une meule neuve les entailles qui permettent au grain d’être moulu efficacement, car cela ressemble à la fabrication initiale d’un ustensile."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:9",
+                "explication": "Le Rambam explique que l’on permet, pendant le Moed, les travaux nécessaires à l’usage immédiat de la nourriture, comme installer un four, des fourneaux ou des meules. Toutefois, selon Rabbi Yehouda, préparer une meule neuve par un travail initial de façonnage n’est pas permis, car ce n’est pas une simple réparation pour l’usage courant, mais l’achèvement d’un outil."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:9",
+                "explication": "Le Tossafot Yom Tov précise que l’autorisation de la Michna porte sur des travaux liés aux besoins du Moed et non sur une construction ordinaire détachée de tout usage immédiat. Il souligne aussi que l’expression « pour la première fois » désigne une meule neuve : la discussion porte donc sur la différence entre remettre en état un instrument déjà utilisable et accomplir sa première finition."
+              }
+            ]
+          }
         },
         {
           "id": "1:10",
@@ -105,8 +311,32 @@
           "ref": "Mishnah Moed Katan 1:10",
           "he": "עוֹשִׂין מַעֲקֶה לְגַג וּלְמִרְפֶּסֶת מַעֲשֵׂה הֶדְיוֹט, אֲבָל לֹא מַעֲשֵׂה אֻמָּן. שָׁפִין אֶת הַסְּדָקִין וּמַעְגִּילִין אוֹתָן בַּמַּעְגִּילָה בַּיָּד וּבָרֶגֶל, אֲבָל לֹא בַמַּחֲלָצָיִם. הַצִּיר וְהַצִּנּוֹר וְהַקּוֹרָה וְהַמַּנְעוּל וְהַמַּפְתֵּחַ שֶׁנִּשְׁבְּרוּ, מְתַקְּנָן בַּמּוֹעֵד, וּבִלְבַד שֶׁלֹּא יְכַוֵּן מְלַאכְתּוֹ בַּמּוֹעֵד, וְכָל כְּבָשִׁין שֶׁהוּא יָכוֹל לֶאֱכֹל מֵהֶן בַּמּוֹעֵד, כּוֹבְשָׁן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On fait un parapet pour un toit et pour une terrasse, à la manière d’un simple particulier, mais non à la manière d’un artisan. On enduit les fissures et on les aplanit avec le rouleau, à la main et au pied, mais non avec les instruments de métier. Le gond, le conduit, la poutre, la serrure et la clef qui se sont brisés, on les répare pendant le Moed, pourvu qu’il n’ait pas fixé intentionnellement son travail au Moed. Et toutes les saumures dont il peut manger pendant le Moed, il les prépare.",
+          "etude_fr": {
+            "traduction_fr": "On fait un parapet pour un toit et pour une terrasse, à la manière d’un simple particulier, mais non à la manière d’un artisan. On enduit les fissures et on les aplanit avec le rouleau, à la main et au pied, mais non avec les instruments de métier. Le gond, le conduit, la poutre, la serrure et la clef qui se sont brisés, on les répare pendant le Moed, pourvu qu’il n’ait pas fixé intentionnellement son travail au Moed. Et toutes les saumures dont il peut manger pendant le Moed, il les prépare.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 1:10",
+                "explication": "Le parapet peut être fait pendant le Moed parce qu’il s’agit d’éviter un danger, mais seulement sous une forme simple, sans travail d’artisan. De même, on peut boucher et lisser les fissures d’un toit ou d’un mur de façon ordinaire, avec la main ou le pied, mais non avec un outil professionnel qui donne au travail un caractère pleinement artisanal. Les éléments nécessaires à l’ouverture et à la fermeture d’une maison — gond, serrure, clef, etc. — peuvent être réparés, car leur détérioration cause une perte ou empêche l’usage normal de la maison, à condition de ne pas avoir repoussé volontairement ce travail au Moed."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 1:10",
+                "explication": "Le Rambam explique que la Michna distingue entre un travail indispensable ou lié à un besoin du Moed, qui est permis, et un travail professionnel complet, qui reste interdit. Le “travail d’un simple particulier” désigne une réparation grossière et fonctionnelle, non une construction achevée et soignée. Pour les aliments mis en saumure, la permission dépend du fait qu’il soit possible d’en consommer pendant le Moed : dès lors que l’acte peut servir aux besoins du Moed, il est autorisé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 1:10",
+                "explication": "Le Tossafot Yom Tov précise que la formule “pourvu qu’il n’ait pas fixé intentionnellement son travail au Moed” est une condition essentielle : même lorsqu’un type de réparation est permis, il est interdit de programmer à l’avance ce travail pour profiter du temps du Moed. L’autorisation vise un besoin apparu ou devenu nécessaire pendant le Moed, non une planification délibérée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 1:10",
+                "explication": "Le Tiféret Israël souligne que la permission concernant le parapet est liée à la sécurité : on ne laisse pas subsister un risque de chute. Toutefois, la forme du travail doit rester limitée, afin que le Moed ne devienne pas un temps de construction ordinaire. Il explique aussi que les réparations de portes, serrures et clefs relèvent d’un besoin concret du Moed, puisqu’elles permettent de protéger la maison et d’en faire usage normalement."
+              }
+            ]
+          }
         }
       ]
     },
@@ -120,8 +350,32 @@
           "ref": "Mishnah Moed Katan 2:1",
           "he": "מִי שֶׁהָפַךְ אֶת זֵיתָיו וְאֵרְעוֹ אֵבֶל אוֹ אֹנֶס, אוֹ שֶׁהִטְעוּהוּ פוֹעֲלִים, טוֹעֵן קוֹרָה רִאשׁוֹנָה וּמַנִּיחָהּ לְאַחַר הַמּוֹעֵד. דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי יוֹסֵי אוֹמֵר, זוֹלֵף וְגוֹמֵר וְגָף כְּדַרְכּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui a retourné ses olives et à qui il est survenu un deuil ou un cas de force majeure, ou que les ouvriers ont trompé, charge la première poutre et la laisse jusqu’après le Moed : ce sont les paroles de Rabbi Yehouda. Rabbi Yossi dit : il les asperge, achève le pressurage et bouche les jarres à sa manière.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui a retourné ses olives et à qui il est survenu un deuil ou un cas de force majeure, ou que les ouvriers ont trompé, charge la première poutre et la laisse jusqu’après le Moed : ce sont les paroles de Rabbi Yehouda. Rabbi Yossi dit : il les asperge, achève le pressurage et bouche les jarres à sa manière.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 2:1",
+                "explication": "« A retourné ses olives » signifie qu’il les a placées dans le pressoir après les avoir remuées ou disposées pour l’extraction de l’huile ; si on les laisse ainsi, elles risquent de se détériorer. Selon Rabbi Yehouda, on ne lui permet pendant le Moed que l’opération minimale nécessaire : poser la première poutre du pressoir, afin que l’huile commence à sortir et que les olives ne se perdent pas, puis il attend après le Moed pour terminer. Rabbi Yossi permet de terminer normalement, car il s’agit d’éviter une perte."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 2:1",
+                "explication": "Le Rambam explique que cette Michna traite des travaux permis pendant le Moed lorsqu’ils relèvent de la prévention d’une perte. L’homme avait commencé le processus avant le Moed, puis a été empêché de poursuivre par un deuil, un accident ou l’absence imprévue des ouvriers. Rabbi Yehouda limite l’autorisation à ce qui empêche la perte immédiate ; Rabbi Yossi autorise l’achèvement de tout le travail nécessaire, y compris fermer les récipients, conformément à la manière habituelle."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 2:1",
+                "explication": "Le Tossafot Yom Tov précise que le cas de la Michna suppose que la personne n’a pas volontairement remis son travail au Moed : elle avait commencé avant, et l’empêchement est indépendant de sa volonté. C’est pourquoi l’on discute ici d’une permission liée à une perte financière et non d’un travail entrepris négligemment pendant le Moed."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 2:1",
+                "explication": "Le Tiféret Israël explique que « charge la première poutre » désigne le premier pressage, qui suffit à empêcher les olives de se gâter. « Zolef » désigne l’action d’humecter ou d’arroser la masse d’olives pour faciliter l’extraction de l’huile, puis « gomer » signifie achever tout le pressurage. « Gaf » signifie fermer hermétiquement les jarres contenant l’huile, comme on le fait en temps ordinaire."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -130,8 +384,32 @@
           "ref": "Mishnah Moed Katan 2:2",
           "he": "וְכֵן מִי שֶׁהָיָה יֵינוֹ בְּתוֹךְ הַבּוֹר וְאֵרְעוֹ אֵבֶל אוֹ אֹנֶס, אוֹ שֶׁהִטְעוּהוּ פוֹעֲלִים, זוֹלֵף וְגוֹמֵר וְגָף כְּדַרְכּוֹ, דִּבְרֵי רַבִּי יוֹסֵי. רַבִּי יְהוּדָה אוֹמֵר, עוֹשֶׂה לוֹ לִמּוּדִים, בִּשְׁבִיל שֶׁלֹּא יַחְמִיץ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "De même, celui dont le vin se trouvait dans la fosse, et à qui il survint un deuil ou un empêchement de force majeure, ou que des ouvriers induisirent en erreur : il transvase, achève l’opération et bouche les récipients comme à son habitude ; ce sont les paroles de Rabbi Yossé. Rabbi Yehouda dit : il lui fait des fermetures provisoires, afin qu’il ne tourne pas au vinaigre.",
+          "etude_fr": {
+            "traduction_fr": "De même, celui dont le vin se trouvait dans la fosse, et à qui il survint un deuil ou un empêchement de force majeure, ou que des ouvriers induisirent en erreur : il transvase, achève l’opération et bouche les récipients comme à son habitude ; ce sont les paroles de Rabbi Yossé. Rabbi Yehouda dit : il lui fait des fermetures provisoires, afin qu’il ne tourne pas au vinaigre.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 2:2",
+                "explication": "Bartenoura explique que le cas concerne du vin pressé qui est encore dans la fosse et qui risque de se gâter s’il n’est pas transféré dans des jarres et fermé. Rabbi Yossé permet d’achever tout le travail normalement, car il s’agit d’éviter une perte. Rabbi Yehouda n’autorise pas l’achèvement ordinaire : on fait seulement des « limoudim », c’est-à-dire une fermeture ou un dispositif provisoire, suffisant pour empêcher le vin de s’aigrir."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 2:2",
+                "explication": "Le Rambam précise que la Michna parle d’un travail qui n’a pu être fait avant la période interdite en raison d’un événement indépendant de la volonté de l’homme : deuil, contrainte, ou ouvriers qui ne sont pas venus comme prévu. Selon Rabbi Yossé, puisqu’il y a risque de perte, on peut terminer l’opération de manière habituelle. Selon Rabbi Yehouda, on ne permet que ce qui est strictement nécessaire pour empêcher la détérioration, sans réaliser le travail de façon complète."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 2:2",
+                "explication": "Le Tossafot Yom Tov souligne le parallèle avec la Michna précédente : dans les deux cas, un travail nécessaire n’a pas été accompli avant le moment où il devient limité, à cause d’une circonstance imprévue. La formulation « de même » rattache donc cette loi au principe général de davar haaved, une perte financière évitable, pour laquelle les Sages ont assoupli l’interdit du travail pendant la période concernée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 2:2",
+                "explication": "Le Tiféret Israël explique que « hit’ouhou po‘alim » signifie que les ouvriers l’ont trompé ou lui ont fait défaut : il comptait sur eux pour achever le travail à temps, et ils ne l’ont pas fait. Ce n’est donc pas une négligence de sa part. La discussion entre Rabbi Yossé et Rabbi Yehouda porte sur l’étendue de la permission : terminer normalement ou se limiter à une mesure provisoire contre l’aigrissement."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -140,8 +418,32 @@
           "ref": "Mishnah Moed Katan 2:3",
           "he": "מַכְנִיס אָדָם פֵּרוֹתָיו מִפְּנֵי הַגַּנָּבִים, וְשׁוֹלֶה פִשְׁתָּנוֹ מִן הַמִּשְׁרָה בִּשְׁבִיל שֶׁלֹּא תֹאבַד, וּבִלְבַד שֶׁלֹּא יְכַוֵּן אֶת מְלַאכְתּוֹ בַמּוֹעֵד. וְכֻלָּן אִם כִּוְּנוּ מְלַאכְתָּן בַּמּוֹעֵד, יֹאבֵדוּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un homme peut rentrer ses fruits à cause des voleurs, et retirer son lin de la cuve de trempage afin qu’il ne se perde pas, à condition qu’il n’ait pas intentionnellement fixé son travail pour le Moed. Et tous ceux-là, s’ils ont intentionnellement fixé leur travail pour le Moed, ils seront perdus.",
+          "etude_fr": {
+            "traduction_fr": "Un homme peut rentrer ses fruits à cause des voleurs, et retirer son lin de la cuve de trempage afin qu’il ne se perde pas, à condition qu’il n’ait pas intentionnellement fixé son travail pour le Moed. Et tous ceux-là, s’ils ont intentionnellement fixé leur travail pour le Moed, ils seront perdus.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 2:3",
+                "explication": "La Michna autorise ces travaux pendant le Moed parce qu’il s’agit d’éviter une perte : les fruits risquent d’être volés, et le lin qui reste trop longtemps dans la cuve de trempage risque de s’abîmer. Cependant, cette permission n’existe que si la situation s’est présentée sans que l’homme ait organisé son travail pour le faire précisément pendant le Moed. S’il a volontairement repoussé l’opération jusqu’au Moed, les Sages l’ont pénalisé : le produit doit être perdu pour lui, c’est-à-dire qu’on ne lui permet pas d’en tirer profit comme d’un travail autorisé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 2:3",
+                "explication": "Le Rambam explique le principe général : pendant le Moed, on permet une mélakha lorsqu’elle évite une perte effective, mais non lorsqu’elle a été planifiée à dessein pour être accomplie à ce moment. L’expression « qu’il n’ait pas fixé son travail pour le Moed » signifie qu’il n’a pas attendu volontairement le Moed alors qu’il pouvait agir auparavant. La sanction « ils seront perdus » vise à empêcher que l’on transforme les permissions du Moed en prétexte pour y accomplir des travaux ordinaires."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 2:3",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna cite deux exemples différents de perte : une perte extérieure, due aux voleurs, et une perte intrinsèque, due à la détérioration du lin dans la cuve. Dans les deux cas, la permission repose sur la catégorie de davar ha-aved, une chose qui risque d’être perdue. Malgré cela, la fin de la Michna enseigne que cette catégorie ne protège pas celui qui a délibérément organisé son travail pour le Moed."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 2:3",
+                "explication": "Le Tiféret Israël précise que « rentrer ses fruits » désigne une action nécessaire pour les mettre à l’abri, et que « retirer son lin de la cuve » est permis parce que le trempage prolongé peut gâter la fibre. La condition de la Michna limite cette autorisation aux cas de nécessité apparue normalement. Si l’on a volontairement attendu le Moed, la perte devient une conséquence de sa propre faute, et les Sages ont maintenu la pénalité afin de préserver la sainteté du Moed."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -150,8 +452,32 @@
           "ref": "Mishnah Moed Katan 2:4",
           "he": "אֵין לוֹקְחִין בָּתִּים, עֲבָדִים וּבְהֵמָה, אֶלָּא לְצֹרֶךְ הַמּוֹעֵד, אוֹ לְצֹרֶךְ הַמּוֹכֵר, שֶׁאֵין לוֹ מַה יֹּאכָל. אֵין מְפַנִּין מִבַּיִת לְבַיִת, אֲבָל מְפַנֶּה הוּא לַחֲצֵרוֹ. אֵין מְבִיאִין כֵּלִים מִבֵּית הָאֻמָּן. וְאִם חוֹשֵׁשׁ לָהֶם, מְפַנָּן לְחָצֵר אַחֶרֶת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On n’achète pas de maisons, d’esclaves ni de bétail, si ce n’est pour le besoin du Moed, ou pour le besoin du vendeur, lorsqu’il n’a pas de quoi manger. On ne déménage pas d’une maison à une autre ; mais on peut déménager vers sa propre cour. On ne rapporte pas d’objets de chez l’artisan. Et si l’on craint pour eux, on les déplace dans une autre cour.",
+          "etude_fr": {
+            "traduction_fr": "On n’achète pas de maisons, d’esclaves ni de bétail, si ce n’est pour le besoin du Moed, ou pour le besoin du vendeur, lorsqu’il n’a pas de quoi manger. On ne déménage pas d’une maison à une autre ; mais on peut déménager vers sa propre cour. On ne rapporte pas d’objets de chez l’artisan. Et si l’on craint pour eux, on les déplace dans une autre cour.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 2:4",
+                "explication": "L’interdiction d’acheter maisons, esclaves et bétail pendant le Moed tient au fait que ce sont des transactions importantes qui relèvent des affaires ordinaires, non nécessaires au Moed. La Michna les permet seulement lorsqu’il y a un besoin du Moed, par exemple pour utiliser immédiatement ce qui est acheté, ou lorsque le vendeur est dans le besoin au point de ne pas avoir de quoi manger. De même, on ne déménage pas d’une maison à une autre, car cela demande un grand effort et ressemble à une activité profane importante ; mais il est permis de déplacer ses affaires vers sa propre cour, car cela est plus proche de la sauvegarde et ne constitue pas un véritable déménagement."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 2:4",
+                "explication": "Le Rambam explique que les transactions commerciales ne sont permises pendant le Moed que lorsqu’elles répondent à une nécessité effective : soit un besoin lié aux jours du Moed, soit le soutien du vendeur qui n’a pas de quoi subsister. L’esprit de la halakha est d’éviter les occupations commerciales et les efforts importants pendant le Moed, sauf nécessité. Concernant les objets laissés chez l’artisan, on ne les rapporte pas chez soi après réparation, car cela donne l’apparence d’une activité professionnelle effectuée pendant le Moed ; toutefois, s’il existe un risque de perte ou de vol, on peut les déplacer vers un lieu plus sûr."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 2:4",
+                "explication": "Le Tossafot Yom Tov souligne que la permission « pour le besoin du vendeur » ne dépend pas du besoin de l’acheteur : même si l’acheteur n’a pas un besoin direct de l’objet pour le Moed, l’achat peut être permis afin de permettre au vendeur, qui n’a pas de quoi manger, de subvenir à ses besoins. Il précise aussi que les restrictions de la Michna s’inscrivent dans les lois du Moed, où l’on distingue entre activité commerciale ordinaire, effort excessif, et prévention d’une perte."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 2:4",
+                "explication": "Le Tiféret Israël explique que le fait d’apporter des objets de chez l’artisan est interdit même si le travail a été terminé avant le Moed, car le transport public des objets peut donner l’impression que l’artisan a travaillé pendant le Moed. Cependant, lorsque le propriétaire craint pour la sécurité de ces objets, la Michna permet de les déplacer, mais seulement vers une autre cour, de manière discrète, afin de réduire à la fois le risque de perte et l’apparence d’une activité interdite."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -160,8 +486,32 @@
           "ref": "Mishnah Moed Katan 2:5",
           "he": "מְחַפִּין אֶת הַקְּצִיעוֹת בְּקַשׁ. רַבִּי יְהוּדָה אוֹמֵר, אַף מְעַבִּין. מוֹכְרֵי פֵרוֹת, כְּסוּת וְכֵלִים, מוֹכְרִים בְּצִנְעָה לְצֹרֶךְ הַמּוֹעֵד. הַצַּיָּדִין וְהַדָּשׁוֹשׁוֹת וְהַגָּרוֹסוֹת, עוֹשִׂין בְּצִנְעָה לְצֹרֶךְ הַמּוֹעֵד. רַבִּי יוֹסֵי אוֹמֵר, הֵם הֶחְמִירוּ עַל עַצְמָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On couvre les figues sèches avec de la paille. Rabbi Yehouda dit : on peut même épaissir la couverture. Les vendeurs de fruits, de vêtements et d’ustensiles vendent discrètement pour les besoins du Moed. Les chasseurs, les pileuses de grain et les broyeuses de fèves travaillent discrètement pour les besoins du Moed. Rabbi Yossi dit : eux-mêmes se sont imposé une rigueur.",
+          "etude_fr": {
+            "traduction_fr": "On couvre les figues sèches avec de la paille. Rabbi Yehouda dit : on peut même épaissir la couverture. Les vendeurs de fruits, de vêtements et d’ustensiles vendent discrètement pour les besoins du Moed. Les chasseurs, les pileuses de grain et les broyeuses de fèves travaillent discrètement pour les besoins du Moed. Rabbi Yossi dit : eux-mêmes se sont imposé une rigueur.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 2:5",
+                "explication": "Les « figues sèches » sont des figues étalées pour sécher ; si la pluie menace, on les couvre de paille afin qu’elles ne se perdent pas, car il s’agit d’éviter une perte. Selon Rabbi Yehouda, il est même permis d’ajouter beaucoup de paille et de faire une couverture plus épaisse. Les commerçants mentionnés peuvent vendre pendant le Moed seulement pour les besoins du Moed, et à condition de le faire discrètement, afin que cela ne ressemble pas à un commerce ordinaire des jours profanes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 2:5",
+                "explication": "Le Rambam explique que la permission de couvrir les figues relève du principe de davar ha-aved, une chose qui risque de se perdre si l’on n’agit pas pendant le Moed. Pour la vente de fruits, vêtements et ustensiles, la permission n’existe que lorsque l’achat est nécessaire à l’usage du Moed ; elle doit alors se faire sans publicité ni manière commerciale habituelle."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 2:5",
+                "explication": "Il précise que la discrétion exigée ne signifie pas que l’activité soit totalement cachée, mais qu’elle ne soit pas menée de façon ouverte et publique comme en semaine. La Michna distingue ainsi entre un besoin réel du Moed, qui autorise une activité limitée, et une activité commerciale ordinaire, qui reste interdite."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 2:5",
+                "explication": "Il identifie les métiers cités : les chasseurs fournissent notamment du poisson ou du gibier pour la consommation du Moed ; les pileuses et broyeuses préparent des produits alimentaires nécessaires. Rabbi Yossi dit qu’ils se sont imposé une rigueur : bien que la halakha permette leur travail discret pour les besoins du Moed, certains artisans avaient l’usage de s’abstenir davantage afin d’éviter toute apparence de travail profane."
+              }
+            ]
+          }
         }
       ]
     },
@@ -175,8 +525,27 @@
           "ref": "Mishnah Moed Katan 3:1",
           "he": "וְאֵלּוּ מְגַלְּחִין בַּמּוֹעֵד, הַבָּא מִמְּדִינַת הַיָּם, וּמִבֵּית הַשִּׁבְיָה, וְהַיּוֹצֵא מִבֵּית הָאֲסוּרִין, וְהַמְנֻדֶּה שֶׁהִתִּירוּ לוֹ חֲכָמִים, וְכֵן מִי שֶׁנִּשְׁאַל לְחָכָם וְהֻתַּר, וְהַנָּזִיר, וְהַמְּצֹרָע הָעוֹלֶה מִטֻּמְאָתוֹ לְטָהֳרָתוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et voici ceux qui se rasent pendant le Moèd : celui qui vient d’un pays d’outre-mer, celui qui vient d’une maison de captivité, celui qui sort de prison, l’excommunié auquel les Sages ont accordé la levée de son excommunication, de même celui qui a consulté un sage et a été délié, le nazir, et le lépreux qui passe de son impureté à sa pureté.",
+          "etude_fr": {
+            "traduction_fr": "Et voici ceux qui se rasent pendant le Moèd : celui qui vient d’un pays d’outre-mer, celui qui vient d’une maison de captivité, celui qui sort de prison, l’excommunié auquel les Sages ont accordé la levée de son excommunication, de même celui qui a consulté un sage et a été délié, le nazir, et le lépreux qui passe de son impureté à sa pureté.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:1",
+                "explication": "La règle générale est qu’il est interdit de se couper les cheveux ou de se raser pendant le Moèd, afin que chacun prenne soin de le faire avant Yom Tov et n’entre pas dans la fête négligé. La Michna énumère donc ceux qui font exception, parce qu’ils n’ont pas pu le faire avant le Moèd : celui qui était en voyage lointain, captif ou emprisonné, l’excommunié dont l’interdit vient seulement d’être levé, ou encore celui qui était lié par un vœu et qui a été délié par un sage."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:1",
+                "explication": "Le Rambam explique que l’autorisation donnée ici repose sur l’empêchement préalable : ces personnes étaient dans une situation qui les rendait incapables ou interdites de se raser avant le Moèd. Le nazir ne peut se raser qu’au terme de son naziréat, et le lépreux ne peut se raser qu’au moment fixé par le processus de purification ; s’il atteint ce moment pendant le Moèd, il lui est permis de le faire."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « ceux qui se rasent pendant le Moèd » vise ceux dont le cas est reconnaissable comme une contrainte et non une négligence. L’autorisation ne vient pas affaiblir l’interdit général de se raser pendant le Moèd ; elle concerne seulement ceux pour lesquels il est manifeste qu’ils ne pouvaient pas se préparer convenablement avant Yom Tov."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -185,8 +554,32 @@
           "ref": "Mishnah Moed Katan 3:2",
           "he": "וְאֵלּוּ מְכַבְּסִין בַּמּוֹעֵד, הַבָּא מִמְּדִינַת הַיָּם, וּמִבֵּית הַשִּׁבְיָה, וְהַיּוֹצֵא מִבֵּית הָאֲסוּרִים, וְהַמְנֻדֶּה שֶׁהִתִּירוּ לוֹ חֲכָמִים, וְכֵן מִי שֶׁנִּשְׁאַל לְחָכָם וְהֻתַּר, מִטְפְּחוֹת הַיָּדַיִם וּמִטְפְּחוֹת הַסַּפָּרִים וּמִטְפְּחוֹת הַסְּפָג, הַזָּבִין וְהַזָּבוֹת וְהַנִּדּוֹת וְהַיּוֹלְדוֹת, וְכָל הָעוֹלִין מִטֻּמְאָה לְטָהֳרָה, הֲרֵי אֵלּוּ מֻתָּרִין. וּשְׁאָר כָּל אָדָם, אֲסוּרִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et voici ceux qui peuvent laver leur linge pendant le Moed : celui qui revient d’un pays d’outre-mer, celui qui revient de captivité, celui qui sort de prison, l’excommunié à qui les Sages ont levé l’interdit, ainsi que celui qui a consulté un sage et a été délié ; les serviettes pour les mains, les linges des barbiers et les serviettes de bain ; les zavim, les zavot, les femmes nidda et les accouchées, ainsi que tous ceux qui passent de l’impureté à la pureté : ceux-là sont autorisés. Mais tous les autres sont interdits.",
+          "etude_fr": {
+            "traduction_fr": "Et voici ceux qui peuvent laver leur linge pendant le Moed : celui qui revient d’un pays d’outre-mer, celui qui revient de captivité, celui qui sort de prison, l’excommunié à qui les Sages ont levé l’interdit, ainsi que celui qui a consulté un sage et a été délié ; les serviettes pour les mains, les linges des barbiers et les serviettes de bain ; les zavim, les zavot, les femmes nidda et les accouchées, ainsi que tous ceux qui passent de l’impureté à la pureté : ceux-là sont autorisés. Mais tous les autres sont interdits.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:2",
+                "explication": "La Michna énumère ceux à qui il est permis de laver pendant le Moed parce qu’ils n’ont pas pu le faire avant : le voyageur revenu de loin, le captif libéré, le prisonnier relâché, ou celui dont l’interdit — comme une excommunication ou un vœu — n’a été levé qu’au cours du Moed. L’interdiction générale de laver pendant le Moed vise à empêcher que l’on repousse volontairement le lavage à ces jours au lieu de s’y préparer avant."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:2",
+                "explication": "Le Rambam explique que le lavage des vêtements est interdit pendant le Moed comme les autres travaux non nécessaires, mais qu’il est permis lorsqu’il existe une nécessité particulière ou une impossibilité préalable. Les linges mentionnés — serviettes des mains, linges de barbiers et serviettes de bain — se salissent constamment et sont nécessaires à l’usage courant ; c’est pourquoi leur lavage est permis."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:2",
+                "explication": "Il précise que les personnes qui montent de l’impureté à la pureté ont besoin de vêtements propres pour leur purification et ne sont donc pas comparables aux autres personnes qui auraient dû laver avant le Moed. La permission porte sur un besoin lié à leur changement d’état halakhique, et non sur un simple confort."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 3:2",
+                "explication": "Il souligne que la règle de la Michna repose sur la distinction entre une négligence évitable et une contrainte réelle. Ceux qui étaient empêchés avant le Moed ne sont pas pénalisés ; en revanche, pour le reste des gens, le lavage demeure interdit afin que chacun entre dans le Moed avec des vêtements déjà propres."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -195,8 +588,32 @@
           "ref": "Mishnah Moed Katan 3:3",
           "he": "וְאֵלּוּ כּוֹתְבִין בַּמּוֹעֵד, קִדּוּשֵׁי נָשִׁים, גִּטִּין וְשׁוֹבָרִין, דְּיָתֵיקֵי, מַתָּנָה וּפְרוֹזְבּוּלִין, אִגְּרוֹת שׁוּם וְאִגְּרוֹת מָזוֹן, שִׁטְרֵי חֲלִיצָה וּמֵאוּנִים, וְשִׁטְרֵי בֵרוּרִין, וּגְזֵרוֹת בֵּית דִּין, וְאִגְּרוֹת שֶׁל רָשׁוּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et voici les documents que l’on peut écrire pendant le Moed : les actes de consécration de femmes, les actes de divorce et les quittances ; les testaments, les actes de donation et les prozbouls ; les actes d’estimation et les actes relatifs à la subsistance ; les actes de ‘halitsa et de refus ; les actes de désignation des juges, les décisions du tribunal, et les lettres de correspondance personnelle.",
+          "etude_fr": {
+            "traduction_fr": "Et voici les documents que l’on peut écrire pendant le Moed : les actes de consécration de femmes, les actes de divorce et les quittances ; les testaments, les actes de donation et les prozbouls ; les actes d’estimation et les actes relatifs à la subsistance ; les actes de ‘halitsa et de refus ; les actes de désignation des juges, les décisions du tribunal, et les lettres de correspondance personnelle.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:3",
+                "explication": "La Michna énumère des documents qu’il est permis d’écrire pendant le Moed, car ils sont nécessaires et leur report peut entraîner une perte ou empêcher l’accomplissement d’une procédure importante. Les « actes de consécration de femmes » sont les documents par lesquels une femme est acquise en vue du mariage. Les « quittances » attestent le paiement d’une dette. Les « actes de désignation des juges » sont les écrits par lesquels les parties choisissent chacune leurs juges ou leurs arbitres. Les « lettres de correspondance personnelle » sont des lettres de salutation et de nouvelles, que la Michna permet d’écrire pendant le Moed."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:3",
+                "explication": "Le Rambam explique que ces écrits sont permis car ils relèvent de besoins juridiques, familiaux ou financiers qui ne doivent pas être retardés. Beaucoup d’entre eux évitent une perte : un acte de donation, un testament, une quittance ou un prozboul peuvent préserver les droits d’une personne. De même, les actes de ‘halitsa et de refus fixent un statut personnel et ne doivent pas être différés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:3",
+                "explication": "Le Tossafot Yom Tov précise plusieurs termes de la liste. Les « actes d’estimation » concernent l’évaluation de biens par le tribunal, par exemple pour le paiement d’une dette. Les « actes relatifs à la subsistance » portent sur les obligations alimentaires, notamment envers une épouse ou des filles. Il souligne que la permission d’écrire ne vise pas une écriture ordinaire sans nécessité, mais des documents dont l’utilité juridique est réelle."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 3:3",
+                "explication": "Le Tiféret Israël met en évidence le principe général de la Michna : bien que l’écriture soit limitée pendant le Moed, les écrits nécessaires à la justice, au statut personnel ou à la prévention d’une perte sont autorisés. Les décisions du tribunal et les actes procéduraux sont permis car ils maintiennent l’ordre juridique et évitent que les droits des parties ne soient compromis."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -205,8 +622,32 @@
           "ref": "Mishnah Moed Katan 3:4",
           "he": "אֵין כּוֹתְבִין שִׁטְרֵי חוֹב בַּמּוֹעֵד. וְאִם אֵינוֹ מַאֲמִינוֹ אוֹ שֶׁאֵין לוֹ מַה יֹּאכַל, הֲרֵי זֶה יִכְתֹּב. אֵין כּוֹתְבִין סְפָרִים, תְּפִלִּין וּמְזוּזוֹת, בַּמּוֹעֵד, וְאֵין מַגִּיהִין אוֹת אַחַת, אֲפִלּוּ בְּסֵפֶר (הָעֲזָרָה) עֶזְרָא. רַבִּי יְהוּדָה אוֹמֵר, כּוֹתֵב אָדָם תְּפִלִּין וּמְזוּזוֹת לְעַצְמוֹ, וְטוֹוֶה עַל יְרֵכוֹ תְּכֵלֶת לְצִיצִיתוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On n’écrit pas d’actes de dette pendant les jours intermédiaires de la fête. Mais s’il ne lui fait pas confiance, ou s’il n’a pas de quoi manger, celui-ci peut écrire. On n’écrit pas de rouleaux de Torah, de tefillin ni de mezouzot pendant les jours intermédiaires de la fête, et l’on ne corrige pas même une seule lettre, fût-ce dans le rouleau d’Ezra. Rabbi Yehouda dit : un homme peut écrire des tefillin et des mezouzot pour lui-même, et il peut filer, sur sa cuisse, de la laine teinte en tekhelet pour ses tsitsit.",
+          "etude_fr": {
+            "traduction_fr": "On n’écrit pas d’actes de dette pendant les jours intermédiaires de la fête. Mais s’il ne lui fait pas confiance, ou s’il n’a pas de quoi manger, celui-ci peut écrire. On n’écrit pas de rouleaux de Torah, de tefillin ni de mezouzot pendant les jours intermédiaires de la fête, et l’on ne corrige pas même une seule lettre, fût-ce dans le rouleau d’Ezra. Rabbi Yehouda dit : un homme peut écrire des tefillin et des mezouzot pour lui-même, et il peut filer, sur sa cuisse, de la laine teinte en tekhelet pour ses tsitsit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:4",
+                "explication": "L’interdit d’écrire des actes de dette relève de l’interdiction d’écrire pendant le Moed. Toutefois, si le prêteur ne fait pas confiance à l’emprunteur sans acte écrit, il y a risque de perte financière, et l’écriture devient permise. De même, si le scribe n’a pas de quoi manger, on lui permet d’écrire afin qu’il puisse gagner sa subsistance. Pour les rouleaux de Torah, tefillin et mezouzot, même s’il s’agit d’objets de mitsva, on ne les écrit pas pendant le Moed lorsqu’il n’y a pas de nécessité immédiate. Rabbi Yehouda autorise seulement pour soi-même, non comme travail professionnel pour autrui."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:4",
+                "explication": "Le Rambam explique que la permission d’écrire un acte de dette repose sur le principe de davar ha-aved : lorsqu’en l’absence d’écrit la somme prêtée risque d’être perdue, l’écriture est permise pendant le Moed. La mention de celui qui n’a pas de quoi manger concerne le besoin vital : un travail normalement interdit pendant le Moed peut être permis à celui qui manque de nourriture. En revanche, écrire des textes sacrés n’est pas autorisé par le simple fait qu’il s’agit d’une mitsva, sauf dans le cadre limité énoncé par Rabbi Yehouda."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:4",
+                "explication": "Le Tossafot Yom Tov précise que l’expression “s’il ne lui fait pas confiance” signifie que le prêteur refuserait de prêter sans acte écrit ; l’autorisation vise donc à éviter une perte ou à permettre une nécessité concrète. Il souligne aussi que l’interdiction de corriger même une seule lettre montre la rigueur particulière appliquée à l’écriture pendant le Moed, même lorsqu’il s’agit d’un texte extrêmement important, comme le rouleau attribué à Ezra ou conservé dans la Cour du Temple."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Moed Katan 3:4",
+                "explication": "Le Tiféret Israël explique que Rabbi Yehouda permet d’écrire tefillin et mezouzot “pour lui-même” parce que l’acte est fait pour son propre accomplissement de la mitsva et non comme un travail commercial. De même, filer la tekhelet “sur sa cuisse” indique une manière inhabituelle de travailler, moins professionnelle, ce qui réduit le caractère de melakha ordinaire et justifie la permission pour le besoin de ses tsitsit."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -215,8 +656,27 @@
           "ref": "Mishnah Moed Katan 3:5",
           "he": "הַקּוֹבֵר אֶת מֵתוֹ שְׁלֹשָׁה יָמִים קֹדֶם לָרֶגֶל, בָּטְלָה הֵימֶנּוּ גְּזֵרַת שִׁבְעָה. שְׁמֹנָה, בָּטְלָה הֵימֶנּוּ גְּזֵרַת שְׁלֹשִׁים, מִפְּנֵי שֶׁאָמְרוּ, שַׁבָּת עוֹלָה וְאֵינָהּ מַפְסֶקֶת, רְגָלִים מַפְסִיקִין וְאֵינָן עוֹלִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui enterre son mort trois jours avant la fête de pèlerinage : le décret des sept jours est annulé pour lui. Huit jours avant : le décret des trente jours est annulé pour lui. Car ils ont dit : Chabbat compte, mais n’interrompt pas ; les fêtes de pèlerinage interrompent, mais ne comptent pas.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui enterre son mort trois jours avant la fête de pèlerinage : le décret des sept jours est annulé pour lui. Huit jours avant : le décret des trente jours est annulé pour lui. Car ils ont dit : Chabbat compte, mais n’interrompt pas ; les fêtes de pèlerinage interrompent, mais ne comptent pas.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:5",
+                "explication": "Bartenoura explique que si l’endeuillé a commencé les lois de deuil avant la fête de pèlerinage et a observé trois jours de deuil, l’entrée de la fête annule pour lui le reste de la période de sept jours. S’il a enterré son mort huit jours avant la fête, il a déjà accompli les sept jours et a commencé le deuil des trente jours ; l’entrée de la fête annule alors le reste des trente jours. Chabbat, en revanche, est inclus dans le compte du deuil, mais il ne l’interrompt pas : après Chabbat, l’endeuillé poursuit son deuil là où il en était."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:5",
+                "explication": "Le Rambam précise que la fête de pèlerinage a la force d’interrompre une période de deuil déjà commencée, mais elle ne s’ajoute pas au compte des jours de deuil lorsqu’elle survient avant que le deuil ait pris effet de manière suffisante. Chabbat est différent : on n’y pratique pas les signes publics de deuil, mais le jour compte dans le décompte des sept jours et des trente jours, sans annuler la suite du deuil."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:5",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « trois jours » signifie que l’endeuillé a déjà eu une durée significative de deuil avant la fête, ce qui permet à celle-ci d’annuler le reste des sept jours. Quant aux « huit jours », ils comprennent les sept jours de deuil déjà accomplis et le début du huitième jour, par lequel commence la période des trente jours ; c’est pourquoi la fête annule alors également le décret des trente jours."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -225,8 +685,32 @@
           "ref": "Mishnah Moed Katan 3:6",
           "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, עֲצֶרֶת כְּשַׁבָּת. רַבָּן גַּמְלִיאֵל אוֹמֵר, רֹאשׁ הַשָּׁנָה וְיוֹם הַכִּפּוּרִים, כָּרְגָלִים. וַחֲכָמִים אוֹמְרִים, לֹא כְדִבְרֵי זֶה וְלֹא כְדִבְרֵי זֶה, אֶלָּא עֲצֶרֶת כָּרְגָלִים, רֹאשׁ הַשָּׁנָה וְיוֹם הַכִּפּוּרִים כְּשַׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Éliézer dit : Depuis que le Temple a été détruit, Atséret est comme Chabbat. Rabban Gamliel dit : Roch Hachana et Yom Kippour sont comme les fêtes de pèlerinage. Et les Sages disent : Ni comme les paroles de celui-ci, ni comme les paroles de celui-là ; mais Atséret est comme les fêtes de pèlerinage, et Roch Hachana et Yom Kippour sont comme Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Éliézer dit : Depuis que le Temple a été détruit, Atséret est comme Chabbat. Rabban Gamliel dit : Roch Hachana et Yom Kippour sont comme les fêtes de pèlerinage. Et les Sages disent : Ni comme les paroles de celui-ci, ni comme les paroles de celui-là ; mais Atséret est comme les fêtes de pèlerinage, et Roch Hachana et Yom Kippour sont comme Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:6",
+                "explication": "La Michna traite des lois du deuil lorsqu’un jour saint survient. Chabbat est compté dans les sept jours de deuil, mais il n’annule pas le deuil ; les fêtes de pèlerinage, en revanche, interrompent et annulent le deuil déjà commencé. Rabbi Éliézer considère qu’après la destruction du Temple, Atséret n’a plus le statut renforcé des fêtes de pèlerinage, car il n’y a plus les sacrifices de complément que l’on apportait durant les jours qui suivaient. Rabban Gamliel attribue à Roch Hachana et à Yom Kippour le statut des fêtes de pèlerinage pour annuler le deuil. Les Sages distinguent : Atséret garde le statut des fêtes de pèlerinage, tandis que Roch Hachana et Yom Kippour sont comme Chabbat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:6",
+                "explication": "Le Rambam explique la différence pratique entre “comme Chabbat” et “comme les fêtes de pèlerinage” : un jour qui est comme Chabbat ne supprime pas les obligations du deuil, même s’il compte dans le calcul des jours ; un jour qui est comme les fêtes de pèlerinage interrompt le deuil et peut annuler la période déjà commencée. Il précise que la discussion porte sur l’effet de ces jours sur les lois de deuil, non sur leur sainteté intrinsèque."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:6",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression “depuis que le Temple a été détruit” chez Rabbi Éliézer est essentielle : à l’époque du Temple, Atséret possédait des jours de complément pour les sacrifices, ce qui le rapprochait des fêtes de pèlerinage. Après la destruction, Rabbi Éliézer estime que cet aspect a disparu. Les Sages, eux, maintiennent que le statut d’Atséret comme fête de pèlerinage ne dépend pas uniquement des sacrifices effectivement apportés."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 3:6",
+                "explication": "Le Tiféret Israël clarifie la structure des avis : Rabbi Éliézer limite le pouvoir d’Atséret après la destruction et le traite comme Chabbat ; Rabban Gamliel élargit le pouvoir de Roch Hachana et Yom Kippour et les traite comme les fêtes de pèlerinage ; les Sages adoptent une position médiane, en accordant à Atséret le statut des fêtes de pèlerinage, mais non à Roch Hachana et Yom Kippour."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -235,8 +719,32 @@
           "ref": "Mishnah Moed Katan 3:7",
           "he": "אֵין קוֹרְעִין, וְלֹא חוֹלְצִין, וְאֵין מַבְרִין, אֶלָּא קְרוֹבָיו שֶׁל מֵת, וְאֵין מַבְרִין אֶלָּא עַל מִטָּה זְקוּפָה. אֵין מוֹלִיכִין לְבֵית הָאֵבֶל לֹא בְּטַבְלָא וְלֹא בְאִסְקוּטְלָא וְלֹא בְקָנוֹן, אֶלָּא בְסַלִּים. וְאֵין אוֹמְרִים בִּרְכַּת אֲבֵלִים בַּמּוֹעֵד, אֲבָל עוֹמְדִין בְּשׁוּרָה וּמְנַחֲמִין וּפוֹטְרִין אֶת הָרַבִּים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne déchire pas les vêtements, on ne découvre pas l’épaule, et l’on ne sert pas le repas de consolation, si ce n’est aux proches du défunt ; et l’on ne sert le repas de consolation que sur un lit dressé. On n’apporte pas à la maison de l’endeuillé, ni sur un plateau, ni dans une écuelle, ni dans une corbeille ouvragée, mais seulement dans des paniers. Et l’on ne récite pas la bénédiction des endeuillés pendant le moed ; mais on se tient en rang, on console, puis on congédie la foule.",
+          "etude_fr": {
+            "traduction_fr": "On ne déchire pas les vêtements, on ne découvre pas l’épaule, et l’on ne sert pas le repas de consolation, si ce n’est aux proches du défunt ; et l’on ne sert le repas de consolation que sur un lit dressé. On n’apporte pas à la maison de l’endeuillé, ni sur un plateau, ni dans une écuelle, ni dans une corbeille ouvragée, mais seulement dans des paniers. Et l’on ne récite pas la bénédiction des endeuillés pendant le moed ; mais on se tient en rang, on console, puis on congédie la foule.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:7",
+                "explication": "Bartenoura explique que les actes mentionnés au début — déchirer les vêtements, découvrir l’épaule et faire le repas de consolation — ne sont accomplis pendant le moed que pour les proches du défunt, c’est-à-dire ceux qui sont véritablement soumis aux lois du deuil. Le repas de consolation est servi sur un lit dressé, car pendant le moed on ne renverse pas les lits comme on le fait dans un deuil ordinaire."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:7",
+                "explication": "Le Rambam précise que la Michna limite les manifestations publiques de deuil durant le moed, afin de ne pas transformer le moed en moment de lamentation. Les honneurs indispensables rendus aux proches sont maintenus, mais les usages qui accentuent le deuil sont réduits ou modifiés, comme le fait d’apporter la nourriture uniquement de manière simple, dans des paniers."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:7",
+                "explication": "Le Tossafot Yom Tov relève que la Michna distingue entre la consolation elle-même, qui demeure permise, et les formules ou cérémonies particulières de deuil, qui ne sont pas dites pendant le moed. Ainsi, on forme bien la rangée traditionnelle après l’enterrement et l’on console les endeuillés, mais on ne récite pas la bénédiction des endeuillés."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 3:7",
+                "explication": "Le Tiféret Israël explique les objets énumérés par la Michna comme des récipients plus honorables ou plus apparents pour porter le repas à l’endeuillé. Pendant le moed, on évite cette solennité visible du deuil ; c’est pourquoi on apporte la nourriture seulement dans des paniers, de façon plus discrète."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -245,8 +753,32 @@
           "ref": "Mishnah Moed Katan 3:8",
           "he": "אֵין מַנִּיחִין אֶת הַמִּטָּה בָּרְחוֹב, שֶׁלֹּא לְהַרְגִּיל אֶת הַהֶסְפֵּד, וְלֹא שֶׁל נָשִׁים לְעוֹלָם, מִפְּנֵי הַכָּבוֹד. נָשִׁים בַּמּוֹעֵד מְעַנּוֹת, אֲבָל לֹא מְטַפְּחוֹת. רַבִּי יִשְׁמָעֵאל אוֹמֵר, הַסְּמוּכוֹת לַמִּטָּה, מְטַפְּחוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne dépose pas le lit funéraire dans la rue, afin de ne pas favoriser l’habitude de l’éloge funèbre ; et celui des femmes, jamais, par respect. Pendant le moed, les femmes entonnent des lamentations alternées, mais elles ne frappent pas des mains. Rabbi Yichmaël dit : celles qui sont proches du lit funéraire frappent des mains.",
+          "etude_fr": {
+            "traduction_fr": "On ne dépose pas le lit funéraire dans la rue, afin de ne pas favoriser l’habitude de l’éloge funèbre ; et celui des femmes, jamais, par respect. Pendant le moed, les femmes entonnent des lamentations alternées, mais elles ne frappent pas des mains. Rabbi Yichmaël dit : celles qui sont proches du lit funéraire frappent des mains.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:8",
+                "explication": "On ne place pas le lit funéraire dans la rue pendant le moed, car cela attire la foule et conduit à multiplier les éloges funèbres, ce qui est interdit durant le moed. Le lit d’une femme n’est jamais déposé dans la rue, même en dehors du moed, par respect pour elle, afin de ne pas exposer son corps à la vue de tous. « Me‘anot » signifie que les femmes répondent l’une à l’autre par des paroles de lamentation ; « metapḥot » signifie qu’elles frappent des mains en signe de deuil."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:8",
+                "explication": "Le Rambam explique que la Michna limite les manifestations publiques du deuil pendant le moed : on permet une forme de lamentation vocale, mais non les gestes qui intensifient le deuil, comme frapper des mains. La raison est que le moed conserve un caractère de joie, et les pratiques funèbres trop marquées y sont restreintes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:8",
+                "explication": "Le Tossafot Yom Tov précise que l’interdiction de déposer le lit dans la rue vise spécifiquement à empêcher que l’on en vienne à organiser un hesped public. Il souligne aussi que la mention particulière du lit des femmes relève de la pudeur et de la dignité : même lorsque l’éloge funèbre serait permis, on ne procède pas ainsi pour une femme."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Moed Katan 3:8",
+                "explication": "Le Tiféret Israël distingue les différents degrés d’expression du deuil : les lamentations verbales sont moins fortes et restent permises pendant le moed, tandis que frapper des mains est une manifestation plus intense, normalement interdite. Selon Rabbi Yichmaël, les femmes placées tout près du lit, directement touchées par la scène funéraire, peuvent frapper des mains, car leur douleur immédiate est plus difficile à contenir."
+              }
+            ]
+          }
         },
         {
           "id": "3:9",
@@ -255,8 +787,32 @@
           "ref": "Mishnah Moed Katan 3:9",
           "he": "בְּרָאשֵׁי חֳדָשִׁים, בַּחֲנֻכָּה וּבְפוּרִים, מְעַנּוֹת, וּמְטַפְּחוֹת בָּזֶה וּבָזֶה, אֲבָל לֹא מְקוֹנְנוֹת. נִקְבַּר הַמֵּת, לֹא מְעַנּוֹת וְלֹא מְטַפְּחוֹת. אֵיזֶהוּ עִנּוּי, שֶׁכֻּלָּן עוֹנוֹת כְּאֶחָת. קִינָה, שֶׁאַחַת מְדַבֶּרֶת וְכֻלָּן עוֹנוֹת אַחֲרֶיהָ, שֶׁנֶּאֱמַר (ירמיה ט), וְלַמֵּדְנָה בְנֹתֵיכֶם נֶהִי, וְאִשָּׁה רְעוּתָהּ קִינָה. אֲבָל לֶעָתִיד לָבֹא הוּא אוֹמֵר (ישעיה כה), בִּלַּע הַמָּוֶת לָנֶצַח, וּמָחָה ה' אֱלֹהִים דִּמְעָה מֵעַל כָּל פָּנִים וְגוֹ':",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Aux néoménies, à ‘Hanouka et à Pourim, les femmes peuvent pousser des lamentations et battre des mains, dans ceux-ci comme dans ceux-là, mais elles ne font pas de complaintes funèbres. Une fois le mort enterré, elles ne poussent plus de lamentations et ne battent plus des mains. Qu’est-ce qu’une lamentation ? C’est lorsque toutes répondent ensemble. Une complainte funèbre, c’est lorsqu’une femme parle et que toutes répondent après elle, comme il est dit : « Enseignez à vos filles la plainte, et chacune à sa compagne la complainte. » Mais au sujet de l’avenir à venir, il est dit : « Il engloutira la mort pour toujours ; et le Seigneur Dieu effacera les larmes de tous les visages », etc.",
+          "etude_fr": {
+            "traduction_fr": "Aux néoménies, à ‘Hanouka et à Pourim, les femmes peuvent pousser des lamentations et battre des mains, dans ceux-ci comme dans ceux-là, mais elles ne font pas de complaintes funèbres. Une fois le mort enterré, elles ne poussent plus de lamentations et ne battent plus des mains. Qu’est-ce qu’une lamentation ? C’est lorsque toutes répondent ensemble. Une complainte funèbre, c’est lorsqu’une femme parle et que toutes répondent après elle, comme il est dit : « Enseignez à vos filles la plainte, et chacune à sa compagne la complainte. » Mais au sujet de l’avenir à venir, il est dit : « Il engloutira la mort pour toujours ; et le Seigneur Dieu effacera les larmes de tous les visages », etc.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Moed Katan 3:9",
+                "explication": "Bartenoura explique que « pousser des lamentations » signifie que toutes les femmes élèvent la voix ensemble dans les pleurs, tandis que « battre des mains » désigne le geste de frapper une main contre l’autre par deuil. Ces pratiques sont permises avant l’enterrement à Roch ‘Hodech, ‘Hanouka et Pourim, car elles expriment le deuil immédiat. En revanche, les complaintes funèbres sont interdites, car elles sont plus élaborées et éveillent davantage la douleur."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Moed Katan 3:9",
+                "explication": "Le Rambam distingue entre les degrés d’expression du deuil : la lamentation collective et le battement des mains sont des manifestations spontanées permises avant l’enterrement, tandis que la complainte funèbre, structurée autour d’une meneuse à laquelle les autres répondent, est plus intense et n’est donc pas autorisée ces jours-là. Après l’enterrement, même les formes moins fortes de lamentation cessent."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Moed Katan 3:9",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna définit elle-même les termes afin d’éviter toute confusion : le mot « lamentation » ne signifie pas ici une complainte composée, mais une réponse collective simultanée ; la « complainte » est un chant funèbre alterné, dirigé par une femme et repris par les autres. C’est précisément cette forme plus organisée que la Michna interdit."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Moed Katan 3:9",
+                "explication": "Le Tiféret Israël explique que Roch ‘Hodech, ‘Hanouka et Pourim possèdent une dimension de joie et ne conviennent donc pas à une intensification du deuil. La Michna permet seulement ce qui accompagne naturellement le mort avant l’enterrement, mais interdit ce qui prolonge ou amplifie la tristesse. La conclusion par le verset d’Isaïe rappelle que, dans l’avenir, la mort elle-même disparaîtra et avec elle toutes les formes de deuil."
+              }
+            ]
+          }
         }
       ]
     }
