@@ -7,7 +7,7 @@
           "id": 1,
           "he": "כָּל פָּרָשָׁה שֶׁהָיְתָה חֲבִיבָה עַל דָּוִד, פָּתַח בָּהּ בְּ״אַשְׁרֵי״ וְסִייֵּם בָּהּ בְּ״אַשְׁרֵי״. פָּתַח בְּ״אַשְׁרֵי״, דִּכְתִיב: ״אַשְׁרֵי הָאִישׁ״. וְסִייֵּם בְּ״אַשְׁרֵי״, דִּכְתִיב: ״אַשְׁרֵי כָּל חוֹסֵי בוֹ״.",
           "en": "<b>Every chapter that was dear to David, he began with “happy is” and concluded with “happy is.” He opened with “happy is,” as it is written: “Happy is the man</b> who has not walked in the counsel of the wicked or stood in the way of sinners or sat in the dwelling place of the scornful” (Psalms 1:1). <b>And he concluded with “happy,” as it is written</b> at the end of the chapter: “Pay homage in purity, lest He be angry, and you perish on the way when His anger is kindled suddenly. <b>Happy are those who take refuge in Him”</b> (Psalms 2:12). We see that these two chapters actually constitute a single chapter.",
-          "fr": "TAG0FINChaque chapitre cher à David, il commençait par « heureux est » et se terminait par « heureux est ». Il a commencé par « Heureux est », comme il est écrit : « Heureux l’homme</b> qui n’a pas marché dans le conseil des méchants, qui n’a pas fait obstacle aux pécheurs, qui ne s’est pas assis dans la demeure des méprisants » (Psaumes 1 : 1). <b>Et il conclut par « heureux », comme il est écrit</b> à la fin du chapitre : « Rendez hommage dans la pureté, de peur qu'il ne se fâche et que vous ne périssiez en chemin lorsque sa colère s'enflamme soudainement. <b>Heureux ceux qui se réfugient en lui »</b> (Psaumes 2 :12). On voit que ces deux chapitres constituent en réalité un seul chapitre.",
+          "fr": "Chaque chapitre cher à David, il commençait par « heureux est » et se terminait par « heureux est ». Il a commencé par « Heureux est », comme il est écrit : « Heureux l’homme</b> qui n’a pas marché dans le conseil des méchants, qui n’a pas fait obstacle aux pécheurs, qui ne s’est pas assis dans la demeure des méprisants » (Psaumes 1 : 1). <b>Et il conclut par « heureux », comme il est écrit</b> à la fin du chapitre : « Rendez hommage dans la pureté, de peur qu'il ne se fâche et que vous ne périssiez en chemin lorsque sa colère s'enflamme soudainement. <b>Heureux ceux qui se réfugient en lui »</b> (Psaumes 2 :12). On voit que ces deux chapitres constituent en réalité un seul chapitre.",
           "etude_fr": {
             "traduction_fr": "Toute section qui était chère à David, il l’ouvrit par « Heureux » et l’acheva par « Heureux ». Il l’ouvrit par « Heureux », comme il est écrit : « Heureux l’homme » ; et il l’acheva par « Heureux », comme il est écrit : « Heureux tous ceux qui se réfugient en Lui ».",
             "introduction": "Ce court passage est une remarque aggadique et littéraire sur la composition du livre des Psaumes. Les Sages observent qu’une unité particulièrement aimée de David est encadrée par le mot אַשְׁרֵי, « Heureux ». Le début cité est le premier verset du Psaume 1 : « Heureux l’homme », et la fin citée est le dernier verset du Psaume 2 : « Heureux tous ceux qui se réfugient en Lui ». La conséquence implicite est que les Psaumes 1 et 2 peuvent être lus, dans cette perspective talmudique, comme une seule unité de sens.",
@@ -40512,5 +40512,15 @@
         }
       ]
     }
-  }
+  },
+  "corrections": [
+    {
+      "date": "2026-07-16T17:39:12.421Z",
+      "daf": "10a",
+      "type": "segments",
+      "index": 0,
+      "oldFr": "TAG0FINChaque chapitre cher à David, il commençait par « heureux est » et se terminait par « heureux est ». Il a commencé par « Heureux est », comme il est écrit : « Heureux l’homme</b> qui n’a pas marché dans le conseil des méchants, qui n’a pas fait obstacle aux pécheurs, qui ne s’est pas assis dans la demeure des méprisants » (Psaumes 1 : 1). <b>Et il conclut par « heureux », comme il est écrit</b> à la fin du chapitre : « Rendez hommage dans la pureté, de peur qu'il ne se fâche et que vous ne périssiez en chemin lorsque sa colère s'enflamme soudainement. <b>Heureux ceux qui se réfugient en lui »</b> (Psaumes 2 :12). On voit que ces deux chapitres constituent en réalité un seul chapitre.",
+      "newFr": "Chaque chapitre cher à David, il commençait par « heureux est » et se terminait par « heureux est ». Il a commencé par « Heureux est », comme il est écrit : « Heureux l’homme</b> qui n’a pas marché dans le conseil des méchants, qui n’a pas fait obstacle aux pécheurs, qui ne s’est pas assis dans la demeure des méprisants » (Psaumes 1 : 1). <b>Et il conclut par « heureux », comme il est écrit</b> à la fin du chapitre : « Rendez hommage dans la pureté, de peur qu'il ne se fâche et que vous ne périssiez en chemin lorsque sa colère s'enflamme soudainement. <b>Heureux ceux qui se réfugient en lui »</b> (Psaumes 2 :12). On voit que ces deux chapitres constituent en réalité un seul chapitre."
+    }
+  ]
 }
