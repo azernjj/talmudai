@@ -15,8 +15,32 @@
           "ref": "Mishnah Chagigah 1:1",
           "he": "הַכֹּל חַיָּבִין בָּרְאִיָּה, חוּץ מֵחֵרֵשׁ, שׁוֹטֶה וְקָטָן, וְטֻמְטוּם, וְאַנְדְּרוֹגִינוֹס, וְנָשִׁים, וַעֲבָדִים שֶׁאֵינָם מְשֻׁחְרָרִים, הַחִגֵּר, וְהַסּוּמָא, וְהַחוֹלֶה, וְהַזָּקֵן, וּמִי שֶׁאֵינוֹ יָכוֹל לַעֲלוֹת בְּרַגְלָיו. אֵיזֶהוּ קָטָן, כֹּל שֶׁאֵינוֹ יָכוֹל לִרְכּוֹב עַל כְּתֵפָיו שֶׁל אָבִיו וְלַעֲלוֹת מִירוּשָׁלַיִם לְהַר הַבַּיִת, דִּבְרֵי בֵית שַׁמַּאי. וּבֵית הִלֵּל אוֹמְרִים, כֹּל שֶׁאֵינוֹ יָכוֹל לֶאֱחֹז בְּיָדוֹ שֶׁל אָבִיו וְלַעֲלוֹת מִירוּשָׁלַיִם לְהַר הַבַּיִת, שֶׁנֶּאֱמַר (שמות כג) שָׁלֹשׁ רְגָלִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tous sont tenus à la comparution, sauf le sourd-muet, l’aliéné et le mineur ; le toumtoum et l’androgyne ; les femmes ; les esclaves qui n’ont pas été affranchis ; le boiteux, l’aveugle, le malade, le vieillard, et celui qui ne peut pas monter à pied. Quel est le mineur ? Tout enfant qui ne peut pas monter sur les épaules de son père et monter de Jérusalem au mont du Temple : ce sont les paroles de Beit Chammaï. Et Beit Hillel disent : tout enfant qui ne peut pas tenir la main de son père et monter de Jérusalem au mont du Temple, comme il est dit : « trois fois ».",
+          "etude_fr": {
+            "traduction_fr": "Tous sont tenus à la comparution, sauf le sourd-muet, l’aliéné et le mineur ; le toumtoum et l’androgyne ; les femmes ; les esclaves qui n’ont pas été affranchis ; le boiteux, l’aveugle, le malade, le vieillard, et celui qui ne peut pas monter à pied. Quel est le mineur ? Tout enfant qui ne peut pas monter sur les épaules de son père et monter de Jérusalem au mont du Temple : ce sont les paroles de Beit Chammaï. Et Beit Hillel disent : tout enfant qui ne peut pas tenir la main de son père et monter de Jérusalem au mont du Temple, comme il est dit : « trois fois ».",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 1:1",
+                "explication": "La « comparution » désigne le fait de se présenter dans la cour du Temple lors des trois pèlerinages et d’apporter le sacrifice de comparution, l’ola de réïya. La Michna énumère ceux qui sont dispensés parce qu’ils ne sont pas inclus dans l’obligation de monter au Temple : certains en raison de leur statut halakhique, comme les femmes et les esclaves non affranchis, d’autres en raison d’une incapacité physique, comme le boiteux, le malade ou le vieillard. Le sourd-muet, l’aliéné et le mineur sont dispensés de toutes les mitsvot positives, car ils ne sont pas pleinement soumis aux obligations halakhiques."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 1:1",
+                "explication": "Le Rambam explique que l’obligation de réïya comporte la montée au Temple et l’apparition dans la cour, accompagnée du sacrifice approprié. Il précise que le mineur n’est pas tenu par la Torah, mais que les Sages ont institué une éducation à la mitsva lorsque l’enfant est capable de participer concrètement à la montée. La discussion entre Beit Chammaï et Beit Hillel porte donc sur le seuil à partir duquel s’applique cette éducation : selon Beit Chammaï, lorsqu’il peut être porté sur les épaules de son père ; selon Beit Hillel, lorsqu’il peut marcher en tenant la main de son père."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 1:1",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « tous sont tenus » vient inclure largement les personnes soumises à la mitsva, avant que la Michna n’énumère les exemptions. Il relève aussi que la mesure donnée pour le mineur est formulée par rapport au trajet de Jérusalem au mont du Temple, et non depuis sa ville d’origine, car l’éducation à cette mitsva est évaluée par la capacité minimale de participer à l’acte de comparution une fois arrivé à Jérusalem."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Chagigah 1:1",
+                "explication": "Le Tiféret Israël explique que les catégories physiques mentionnées — boiteux, aveugle, malade, vieillard et celui qui ne peut monter à pied — sont liées au verset « trois fois », compris par les Sages comme une obligation de pèlerinage effectuée par les pieds. Celui qui ne peut pas accomplir la montée de manière normale n’est donc pas inclus dans l’obligation. Il précise également que l’androgyne et le toumtoum sont exclus en raison du doute ou de l’ambiguïté concernant leur statut par rapport à une mitsva qui incombe aux hommes."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,27 @@
           "ref": "Mishnah Chagigah 1:2",
           "he": "בֵּית שַׁמַּאי אוֹמְרִים, הָרְאִיָּה שְׁתֵּי כֶסֶף, וַחֲגִיגָה מָעָה כֶסֶף. וּבֵית הִלֵּל אוֹמְרִים, הָרְאִיָּה מָעָה כֶסֶף, וַחֲגִיגָה שְׁתֵּי כָסֶף:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Beth Chammaï disent : l’offrande de réïya vaut deux pièces d’argent, et l’offrande de ‘haguiga vaut une ma‘a d’argent. Et Beth Hillel disent : l’offrande de réïya vaut une ma‘a d’argent, et l’offrande de ‘haguiga vaut deux pièces d’argent.",
+          "etude_fr": {
+            "traduction_fr": "Beth Chammaï disent : l’offrande de réïya vaut deux pièces d’argent, et l’offrande de ‘haguiga vaut une ma‘a d’argent. Et Beth Hillel disent : l’offrande de réïya vaut une ma‘a d’argent, et l’offrande de ‘haguiga vaut deux pièces d’argent.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 1:2",
+                "explication": "« La réïya » désigne l’holocauste de réïya, que l’on apporte lorsqu’on se présente dans le parvis du Temple lors des trois fêtes de pèlerinage. « La ‘haguiga » désigne le sacrifice de paix apporté en l’honneur de la fête. La Michna enseigne ici le montant minimal de valeur que doivent avoir ces sacrifices selon Beth Chammaï et Beth Hillel."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 1:2",
+                "explication": "Le Rambam explique que ces mesures ne sont que des minimums : si l’on veut ajouter davantage, on peut le faire. La discussion porte sur la valeur minimale de l’holocauste de réïya et du sacrifice de ‘haguiga exigés pour accomplir la mitsva lors du pèlerinage."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 1:2",
+                "explication": "Il précise que « deux pièces d’argent » signifie deux ma‘a d’argent. Ainsi, le débat est symétrique : Beth Chammaï exigent deux ma‘a pour la réïya et une ma‘a pour la ‘haguiga, tandis que Beth Hillel inversent les montants."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +78,32 @@
           "ref": "Mishnah Chagigah 1:3",
           "he": "עוֹלוֹת בַּמּוֹעֵד בָּאוֹת מִן הַחֻלִּין, וְהַשְּׁלָמִים מִן הַמַּעֲשֵׂר. יוֹם טוֹב רִאשׁוֹן שֶׁל פֶּסַח, בֵּית שַׁמַּאי אוֹמְרִים, מִן הַחֻלִּין, וּבֵית הִלֵּל אוֹמְרִים, מִן הַמַּעֲשֵׂר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les holocaustes, pendant le Moed, viennent de biens non consacrés, et les sacrifices rémunératoires viennent du maasser. Pour le premier Yom Tov de Pessa’h, Beth Chammaï disent : ils viennent de biens non consacrés ; et Beth Hillel disent : ils viennent du maasser.",
+          "etude_fr": {
+            "traduction_fr": "Les holocaustes, pendant le Moed, viennent de biens non consacrés, et les sacrifices rémunératoires viennent du maasser. Pour le premier Yom Tov de Pessa’h, Beth Chammaï disent : ils viennent de biens non consacrés ; et Beth Hillel disent : ils viennent du maasser.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 1:3",
+                "explication": "Les « holocaustes » sont les olot réïya, les holocaustes de présentation, qui sont entièrement offerts sur l’autel ; puisqu’ils constituent une obligation, ils doivent provenir de biens non consacrés, car une obligation ne s’accomplit pas avec des biens déjà consacrés, comme le maasser. Les « sacrifices rémunératoires » désignent les chelamim de réjouissance : comme une grande partie en est consommée par les propriétaires, on peut les apporter du maasser, afin d’accomplir la mitsva de réjouissance."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 1:3",
+                "explication": "Le Rambam explique que toute offrande qui relève d’une obligation personnelle ne peut être acquittée qu’au moyen de biens profanes, non encore sanctifiés. C’est pourquoi l’ola réïya ne vient pas du maasser. En revanche, les chelamim liés à la joie du Yom Tov peuvent venir du maasser, car leur consommation fait partie de la joie prescrite."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 1:3",
+                "explication": "Il précise que l’expression « du maasser », selon Beth Hillel, ne signifie pas nécessairement que toute l’obligation essentielle est acquittée uniquement par le maasser. L’obligation de base doit comporter des biens non consacrés ; mais on peut y ajouter du maasser afin d’apporter une offrande plus importante. C’est ce qu’on appelle joindre le maasser à des biens non consacrés."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Chagigah 1:3",
+                "explication": "Il souligne que « pendant le Moed » vise les jours où l’on complète les sacrifices de la fête si on ne les a pas apportés le premier jour. La Michna distingue alors entre l’ola, qui est entièrement destinée au Ciel et doit venir de biens non consacrés, et les chelamim, qui sont mangés par l’homme et peuvent donc être financés par le maasser dans le cadre de la joie du Yom Tov."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +112,27 @@
           "ref": "Mishnah Chagigah 1:4",
           "he": "יִשְׂרָאֵל יוֹצְאִין יְדֵי חוֹבָתָן בִּנְדָרִים וּנְדָבוֹת וּבְמַעְשַׂר בְּהֵמָה, וְהַכֹּהֲנִים בַּחַטָּאוֹת וּבָאֲשָׁמוֹת וּבַבְּכוֹר וּבֶחָזֶה וָשׁוֹק, אֲבָל לֹא בָעוֹפוֹת וְלֹא בַמְּנָחוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les Israélites s’acquittent de leur obligation au moyen des offrandes de vœu, des offrandes volontaires et du maasser du bétail ; et les Cohanim, au moyen des sacrifices expiatoires, des sacrifices de culpabilité, du premier-né, de la poitrine et du jarret ; mais non au moyen des oiseaux ni des offrandes de farine.",
+          "etude_fr": {
+            "traduction_fr": "Les Israélites s’acquittent de leur obligation au moyen des offrandes de vœu, des offrandes volontaires et du maasser du bétail ; et les Cohanim, au moyen des sacrifices expiatoires, des sacrifices de culpabilité, du premier-né, de la poitrine et du jarret ; mais non au moyen des oiseaux ni des offrandes de farine.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 1:4",
+                "explication": "La Michna parle de l’obligation de la joie de Yom Tov, qui se réalise par la consommation de viande de sacrifices. Un Israélite peut s’en acquitter en mangeant la viande de ses sacrifices de vœu ou volontaires, ainsi que du maasser du bétail, car ce sont des viandes consacrées qu’il peut consommer. De même, les Cohanim s’en acquittent avec les parts de sacrifices qui leur reviennent, comme les sacrifices expiatoires, les sacrifices de culpabilité, le premier-né, la poitrine et le jarret des sacrifices de paix."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 1:4",
+                "explication": "Le Rambam explique que l’obligation visée est la mitsva de se réjouir pendant Yom Tov. Cette joie inclut la consommation de viande provenant de sacrifices. C’est pourquoi les sacrifices qui fournissent une viande consommable par la personne concernée permettent d’accomplir cette obligation. En revanche, les oiseaux et les offrandes de farine n’en permettent pas l’accomplissement, car ils ne constituent pas une viande de bétail propre à la joie mentionnée ici."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 1:4",
+                "explication": "Le Tossafot Yom Tov précise que la Michna ne parle pas de l’obligation du sacrifice de comparution, mais de l’obligation de joie. Cela explique pourquoi on peut s’en acquitter avec des sacrifices déjà dus par vœu ou donation : la mitsva de joie dépend ici de la consommation de la viande, et non de l’apport d’un sacrifice spécifique pour cette obligation."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +141,27 @@
           "ref": "Mishnah Chagigah 1:5",
           "he": "מִי שֶׁיֵּשׁ לוֹ אוֹכְלִים מְרֻבִּים וּנְכָסִים מֻעָטִים, מֵבִיא שְׁלָמִים מְרֻבִּים וְעוֹלוֹת מֻעָטוֹת. נְכָסִים מְרֻבִּים וְאוֹכְלִין מֻעָטִין, מֵבִיא עוֹלוֹת מְרֻבּוֹת וּשְׁלָמִים מֻעָטִין. זֶה וָזֶה מֻעָט, עַל זֶה נֶאֱמַר, מָעָה כֶסֶף וּשְׁתֵּי כָסֶף. זֶה וָזֶה מְרֻבִּים, עַל זֶה נֶאֱמַר (דברים טז) אִישׁ כְּמַתְּנַת יָדוֹ כְּבִרְכַּת יְיָ אֱלֹהֶיךָ אֲשֶׁר נָתַן לָךְ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui a de nombreuses personnes à nourrir et peu de biens apporte beaucoup de sacrifices de paix et peu d’holocaustes. S’il a beaucoup de biens et peu de personnes à nourrir, il apporte beaucoup d’holocaustes et peu de sacrifices de paix. Si l’un et l’autre sont peu nombreux, c’est à son sujet qu’il a été dit : une ma‘a d’argent et deux pièces d’argent. Si l’un et l’autre sont nombreux, c’est à son sujet qu’il a été dit : « Chacun selon le don de sa main, selon la bénédiction de l’Éternel ton Dieu qu’Il t’a donnée » (Deutéronome 16).",
+          "etude_fr": {
+            "traduction_fr": "Celui qui a de nombreuses personnes à nourrir et peu de biens apporte beaucoup de sacrifices de paix et peu d’holocaustes. S’il a beaucoup de biens et peu de personnes à nourrir, il apporte beaucoup d’holocaustes et peu de sacrifices de paix. Si l’un et l’autre sont peu nombreux, c’est à son sujet qu’il a été dit : une ma‘a d’argent et deux pièces d’argent. Si l’un et l’autre sont nombreux, c’est à son sujet qu’il a été dit : « Chacun selon le don de sa main, selon la bénédiction de l’Éternel ton Dieu qu’Il t’a donnée » (Deutéronome 16).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 1:5",
+                "explication": "Les « personnes à nourrir » désignent les membres de sa maison qui mangeront de la viande des sacrifices. Les sacrifices de paix, c’est-à-dire les chalmé ‘haguiga, sont consommés par les propriétaires ; c’est pourquoi, lorsqu’il a beaucoup de convives et peu de moyens, il augmente surtout les sacrifices de paix, afin qu’ils aient de quoi manger, et il diminue les holocaustes, qui sont entièrement brûlés sur l’autel. À l’inverse, s’il possède de nombreux biens mais peu de convives, il augmente les holocaustes, car il a les moyens d’honorer la mitsva sans avoir besoin d’une grande quantité de viande à consommer."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 1:5",
+                "explication": "Le Rambam explique que la Michna règle la mesure convenable des offrandes selon deux facteurs : la richesse de l’homme et le nombre de ceux qui mangeront. L’holocauste de la vision est entièrement offert à Dieu, tandis que les sacrifices de paix de la fête sont mangés par les propriétaires. Lorsque ses biens comme ses convives sont peu nombreux, il suffit du minimum fixé par les Sages : pour l’holocauste de la vision, une ma‘a d’argent, et pour le sacrifice de fête, deux pièces d’argent. Lorsque les deux sont nombreux, il doit donner largement, conformément au verset : « chacun selon le don de sa main »."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 1:5",
+                "explication": "Le Tossafot Yom Tov précise que la Michna ne parle pas seulement d’un conseil pratique, mais d’une manière d’accomplir correctement la mitsva : on adapte les offrandes à la situation réelle. Le nombre de personnes à nourrir influe sur les sacrifices de paix, puisqu’ils sont destinés à être mangés, tandis que l’abondance des biens influe sur la générosité globale de l’offrande, en particulier sur les holocaustes. Le minimum mentionné correspond à la mesure fixée plus haut dans la Michna."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +170,32 @@
           "ref": "Mishnah Chagigah 1:6",
           "he": "מִי שֶׁלֹּא חַג בְּיוֹם טוֹב הָרִאשׁוֹן שֶׁל חָג, חוֹגֵג אֶת כָּל הָרֶגֶל וְיוֹם טוֹב הָאַחֲרוֹן שֶׁל חָג. עָבַר הָרֶגֶל וְלֹא חַג, אֵינוֹ חַיָּב בְּאַחֲרָיוּתוֹ. עַל זֶה נֶאֱמַר (קהלת א) מְעֻוָּת לֹא יוּכַל לִתְקֹן, וְחֶסְרוֹן לֹא יוּכַל לְהִמָּנוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui n’a pas célébré la ‘haguiga le premier Yom Tov de la fête, la célèbre pendant toute la fête et le dernier Yom Tov de la fête. Si la fête est passée et qu’il n’a pas célébré la ‘haguiga, il n’est plus tenu d’en répondre. C’est à ce sujet qu’il est dit : « Ce qui est faussé ne pourra être réparé, et ce qui manque ne pourra être compté » (Qohélet 1).",
+          "etude_fr": {
+            "traduction_fr": "Celui qui n’a pas célébré la ‘haguiga le premier Yom Tov de la fête, la célèbre pendant toute la fête et le dernier Yom Tov de la fête. Si la fête est passée et qu’il n’a pas célébré la ‘haguiga, il n’est plus tenu d’en répondre. C’est à ce sujet qu’il est dit : « Ce qui est faussé ne pourra être réparé, et ce qui manque ne pourra être compté » (Qohélet 1).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna ‘Haguiga 1:6",
+                "explication": "« Celui qui n’a pas célébré » signifie : celui qui n’a pas apporté le sacrifice de ‘haguiga le premier jour. Il peut encore l’apporter pendant tous les jours de la fête, car ces jours sont des jours de rattrapage pour l’obligation du premier jour. Pour Soukkot, cela inclut aussi le dernier Yom Tov, c’est-à-dire Chemini ‘Atseret. Mais une fois ces jours passés, il n’a plus de possibilité de rattrapage, et le verset de Qohélet s’applique à cette omission."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, ‘Haguiga 1:6",
+                "explication": "Le Rambam explique que la mitsva principale est d’apporter la ‘haguiga au début de la fête, mais si l’on ne l’a pas fait, les jours suivants ont le statut de tashloumin, de jours de compensation. Après la fin du temps fixé par la Torah, l’obligation ne peut plus être accomplie ; il ne s’agit donc pas d’une dette sacrificielle que l’on pourrait payer plus tard."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna ‘Haguiga 1:6",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « le dernier Yom Tov de la fête » renvoie ici à Chemini ‘Atseret, bien qu’il soit à certains égards une fête distincte. Pour la ‘haguiga de Soukkot, il est néanmoins inclus dans les jours de rattrapage. La Michna enseigne donc que l’obligation peut encore être accomplie jusqu’à ce jour inclus."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna ‘Haguiga 1:6",
+                "explication": "Le Tiféret Israël précise que « il n’est plus tenu d’en répondre » signifie qu’il n’existe plus aucune obligation pratique d’apporter ce sacrifice après le temps prescrit. L’expression « ce qui manque ne pourra être compté » signifie que cette mitsva manquante ne pourra plus être ajoutée au compte de ses accomplissements, car son moment est définitivement passé."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +204,32 @@
           "ref": "Mishnah Chagigah 1:7",
           "he": "רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר, אֵיזֶהוּ מְעֻוָּת שֶׁאֵינוֹ יָכוֹל לִתְקֹן, זֶה הַבָּא עַל הָעֶרְוָה וְהוֹלִיד מִמֶּנָּה מַמְזֵר. אִם תֹּאמַר בְּגוֹנֵב וְגוֹזֵל, יָכוֹל הוּא לְהַחֲזִירוֹ וִיתַקֵּן. רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי אוֹמֵר, אֵין קוֹרִין מְעֻוָּת אֶלָּא לְמִי שֶׁהָיָה מְתֻקָּן בַּתְּחִלָּה וְנִתְעַוֵּת, וְאֵיזֶה, זֶה תַּלְמִיד חָכָם הַפּוֹרֵשׁ מִן הַתּוֹרָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabbi Chim‘on ben Menassya dit : Quel est le cas d’une chose déformée qui ne peut être réparée ? C’est celui qui a eu une relation avec une femme interdite et a engendré d’elle un mamzer. Si tu dis qu’il s’agit de celui qui vole furtivement ou qui dépouille, il peut restituer et réparer. Rabbi Chim‘on ben Yoḥaï dit : On n’appelle « déformé » que celui qui était d’abord en état correct, puis s’est déformé. Et qui est-ce ? C’est un talmid ḥakham qui se sépare de la Torah.",
+          "etude_fr": {
+            "traduction_fr": "Rabbi Chim‘on ben Menassya dit : Quel est le cas d’une chose déformée qui ne peut être réparée ? C’est celui qui a eu une relation avec une femme interdite et a engendré d’elle un mamzer. Si tu dis qu’il s’agit de celui qui vole furtivement ou qui dépouille, il peut restituer et réparer. Rabbi Chim‘on ben Yoḥaï dit : On n’appelle « déformé » que celui qui était d’abord en état correct, puis s’est déformé. Et qui est-ce ? C’est un talmid ḥakham qui se sépare de la Torah.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Ḥaguiga 1:7",
+                "explication": "La Michna explique le verset : « Ce qui est déformé ne pourra être réparé ». Selon Rabbi Chim‘on ben Menassya, il ne s’agit pas d’une faute dont l’effet peut être annulé par une restitution, comme le vol, mais d’une transgression d’interdit sexuel ayant produit un mamzer : même si le pécheur fait téchouva, la conséquence demeure dans le monde. Le dommage ne peut donc pas être pleinement corrigé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Ḥaguiga 1:7",
+                "explication": "Le Rambam souligne que la faute visée ici est celle dont les conséquences subsistent et ne peuvent être effacées par une action réparatrice. Le voleur peut rendre l’objet volé et, par là, réparer le préjudice matériel ; mais celui qui a engendré un mamzer a causé une réalité halakhique durable, qui ne dépend plus de sa seule volonté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Ḥaguiga 1:7",
+                "explication": "Il précise que l’expression « celui qui vole furtivement ou qui dépouille » couvre deux formes de vol : le vol discret et le brigandage manifeste. Dans les deux cas, la réparation reste possible par restitution. La Michna les oppose donc au cas du mamzer, où l’acte fautif a entraîné une conséquence irréversible."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Ḥaguiga 1:7",
+                "explication": "Selon l’explication de Rabbi Chim‘on ben Yoḥaï, le terme « déformé » s’applique à ce qui possédait auparavant une forme correcte. C’est pourquoi il vise particulièrement le talmid ḥakham qui abandonne la Torah : sa grandeur antérieure rend sa chute plus grave, car il était déjà façonné par la connaissance et s’est ensuite détourné de son état initial."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +238,32 @@
           "ref": "Mishnah Chagigah 1:8",
           "he": "הֶתֵּר נְדָרִים פּוֹרְחִין בָּאֲוִיר, וְאֵין לָהֶם עַל מַה שֶּׁיִּסְמֹכוּ. הִלְכוֹת שַׁבָּת, חֲגִיגוֹת וְהַמְּעִילוֹת, הֲרֵי הֵם כַּהֲרָרִים הַתְּלוּיִין בְּשַׂעֲרָה, שֶׁהֵן מִקְרָא מֻעָט וַהֲלָכוֹת מְרֻבּוֹת. הַדִּינִין וְהָעֲבוֹדוֹת, הַטָּהֳרוֹת וְהַטֻּמְאוֹת וַעֲרָיוֹת, יֵשׁ לָהֶן עַל מַה שֶּׁיִּסְמֹכוּ. הֵן הֵן גּוּפֵי תּוֹרָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’autorisation des vœux flotte dans l’air, et elle n’a pas de fondement explicite sur lequel s’appuyer. Les halakhot de Chabbat, des offrandes de ‘Haguiga et des sacrilèges sont comme des montagnes suspendues à un cheveu : peu de versets, mais de nombreuses halakhot. Les lois civiles, les services du Temple, les règles de pureté et d’impureté, ainsi que les unions interdites, ont un fondement sur lequel s’appuyer. Ce sont là les corps mêmes de la Torah.",
+          "etude_fr": {
+            "traduction_fr": "L’autorisation des vœux flotte dans l’air, et elle n’a pas de fondement explicite sur lequel s’appuyer. Les halakhot de Chabbat, des offrandes de ‘Haguiga et des sacrilèges sont comme des montagnes suspendues à un cheveu : peu de versets, mais de nombreuses halakhot. Les lois civiles, les services du Temple, les règles de pureté et d’impureté, ainsi que les unions interdites, ont un fondement sur lequel s’appuyer. Ce sont là les corps mêmes de la Torah.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna ‘Haguiga 1:8",
+                "explication": "Bartenoura explique que « l’autorisation des vœux flotte dans l’air » signifie que la Torah n’a pas écrit explicitement qu’un sage peut délier un vœu en trouvant une ouverture ou un regret. Ce principe est transmis par la tradition orale, avec seulement de faibles allusions dans les versets. Pour Chabbat, ‘Haguiga et les sacrilèges, il existe des versets, mais ils sont peu nombreux au regard de la multitude des détails halakhiques qui en découlent ; c’est pourquoi la Michna les compare à des montagnes suspendues à un cheveu."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, ‘Haguiga 1:8",
+                "explication": "Le Rambam souligne que la Michna classe les domaines de la Torah selon le degré d’appui explicite qu’ils possèdent dans l’Écriture. L’autorisation des vœux repose très peu sur le texte écrit, bien qu’elle soit une halakha reçue. Les lois de Chabbat, des offrandes de ‘Haguiga et des sacrilèges possèdent un appui scripturaire, mais leurs nombreux détails proviennent de l’explication transmise oralement. En revanche, les lois civiles, le service du Temple, les puretés et impuretés, et les unions interdites sont abondamment fondés dans les versets."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna ‘Haguiga 1:8",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « peu de versets et de nombreuses halakhot » ne veut pas dire que ces lois seraient faibles ou incertaines, mais que leur source écrite est concise tandis que leur développement halakhique est très vaste. La comparaison des montagnes suspendues à un cheveu exprime l’écart entre la brièveté de l’allusion dans la Torah écrite et l’ampleur des lois transmises et déduites par les Sages."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna ‘Haguiga 1:8",
+                "explication": "Le Tiféret Israël explique que « ce sont là les corps mêmes de la Torah » se rapporte aux domaines qui structurent la vie religieuse et juridique d’Israël : les jugements, le service divin, la pureté et l’impureté, ainsi que les interdits de relations. Même lorsque certaines lois reposent sur peu de versets, elles font partie intégrante de la Torah, car elles ont été reçues dans la tradition et développées selon les règles de l’interprétation halakhique."
+              }
+            ]
+          }
         }
       ]
     },
@@ -100,8 +277,32 @@
           "ref": "Mishnah Chagigah 2:1",
           "he": "אֵין דּוֹרְשִׁין בַּעֲרָיוֹת בִּשְׁלֹשָׁה. וְלֹא בְמַעֲשֵׂה בְרֵאשִׁית בִּשְׁנַיִם. וְלֹא בַמֶּרְכָּבָה בְּיָחִיד, אֶלָּא אִם כֵּן הָיָה חָכָם וּמֵבִין מִדַּעְתּוֹ. כָּל הַמִּסְתַּכֵּל בְּאַרְבָּעָה דְּבָרִים, רָאוּי לוֹ כְּאִלּוּ לֹא בָּא לָעוֹלָם, מַה לְּמַעְלָה, מַה לְּמַטָּה, מַה לְּפָנִים, וּמַה לְּאָחוֹר. וְכָל שֶׁלֹּא חָס עַל כְּבוֹד קוֹנוֹ, רָאוּי לוֹ שֶׁלֹּא בָּא לָעוֹלָם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On n’expose pas les lois des unions interdites devant trois personnes ; ni l’Œuvre de la Création devant deux ; ni l’Œuvre du Char même devant une seule, à moins qu’elle ne soit sage et comprenne d’elle-même. Quiconque contemple quatre choses, il eût mieux valu pour lui comme s’il n’était pas venu au monde : ce qui est en haut, ce qui est en bas, ce qui est avant, et ce qui est après. Et quiconque n’a pas égard à l’honneur de son Créateur, il eût mieux valu pour lui qu’il ne soit pas venu au monde.",
+          "etude_fr": {
+            "traduction_fr": "On n’expose pas les lois des unions interdites devant trois personnes ; ni l’Œuvre de la Création devant deux ; ni l’Œuvre du Char même devant une seule, à moins qu’elle ne soit sage et comprenne d’elle-même. Quiconque contemple quatre choses, il eût mieux valu pour lui comme s’il n’était pas venu au monde : ce qui est en haut, ce qui est en bas, ce qui est avant, et ce qui est après. Et quiconque n’a pas égard à l’honneur de son Créateur, il eût mieux valu pour lui qu’il ne soit pas venu au monde.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 2:1",
+                "explication": "« Les unions interdites » désignent les lois des relations prohibées. On ne les enseigne pas à trois élèves à la fois, de crainte que deux d’entre eux discutent entre eux et que le troisième, restant seul face au maître, comprenne de travers une matière délicate et en vienne à permettre l’interdit. « L’Œuvre de la Création » désigne les secrets liés au récit de la Création ; on ne les expose pas à deux élèves. « L’Œuvre du Char » désigne les secrets de la vision d’Ézéchiel ; on ne les enseigne même pas à un seul élève, sauf s’il est déjà sage et capable de saisir par lui-même les allusions qu’on lui transmet."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 2:1",
+                "explication": "Le Rambam explique que cette Michna fixe des limites à l’enseignement des sujets profonds. Les lois des unions interdites peuvent mener à des erreurs pratiques si elles sont mal comprises ; l’Œuvre de la Création relève de la science des principes de l’existence et de la création du monde ; l’Œuvre du Char relève de la connaissance métaphysique la plus élevée. Ces matières ne sont pas destinées à être exposées publiquement, mais seulement transmises avec prudence à celui qui possède déjà sagesse, discernement et capacité de comprendre par allusion."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 2:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « devant trois » signifie trois élèves en plus du maître. De même, « devant deux » signifie deux élèves. La raison de cette limitation n’est pas que ces sujets soient interdits en eux-mêmes, mais que leur transmission à plusieurs augmente le risque d’inattention, de discussion parallèle ou de mauvaise interprétation, surtout dans des domaines où une erreur peut produire des conséquences graves."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Chagigah 2:1",
+                "explication": "Le Tiféret Israël souligne que « ce qui est en haut, ce qui est en bas, ce qui est avant et ce qui est après » vise une spéculation dépassant les limites permises à l’intelligence humaine : ce qui est au-delà du monde accessible, ce qui précède la Création et ce qui dépasse l’ordre du monde. La Michna ne condamne pas la sagesse véritable, mais la curiosité métaphysique sans crainte du Ciel, qui porte atteinte à l’honneur du Créateur."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -110,8 +311,27 @@
           "ref": "Mishnah Chagigah 2:2",
           "he": "יוֹסֵי בֶּן יוֹעֶזֶר אוֹמֵר שֶׁלֹּא לִסְמוֹךְ, יוֹסֵי בֶּן יוֹחָנָן אוֹמֵר לִסְמוֹךְ. יְהוֹשֻׁעַ בֶּן פְּרַחְיָה אוֹמֵר שֶׁלֹּא לִסְמוֹךְ, נִתַּאי הָאַרְבֵּלִי אוֹמֵר לִסְמוֹךְ. יְהוּדָה בֶּן טַבַּאי אוֹמֵר שֶׁלֹּא לִסְמוֹךְ, שִׁמְעוֹן בֶּן שָׁטָח אוֹמֵר לִסְמוֹךְ. שְׁמַעְיָה אוֹמֵר לִסְמוֹךְ. אַבְטַלְיוֹן אוֹמֵר שֶׁלֹּא לִסְמוֹךְ. הִלֵּל וּמְנַחֵם לֹא נֶחְלְקוּ. יָצָא מְנַחֵם, נִכְנַס שַׁמַּאי. שַׁמַּאי אוֹמֵר שֶׁלֹּא לִסְמוֹךְ, הִלֵּל אוֹמֵר לִסְמוֹךְ. הָרִאשׁוֹנִים הָיוּ נְשִׂיאִים, וּשְׁנִיִּים לָהֶם אַב בֵּית דִּין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Yossé ben Yoézer dit : ne pas imposer les mains ; Yossé ben Yoḥanan dit : imposer les mains. Yehochoua ben Peraḥya dit : ne pas imposer les mains ; Nittaï l’Arbélien dit : imposer les mains. Yehouda ben Tabbaï dit : ne pas imposer les mains ; Chimon ben Chataḥ dit : imposer les mains. Chemaya dit : imposer les mains ; Avtalion dit : ne pas imposer les mains. Hillel et Menaḥem ne furent pas en désaccord. Menaḥem sortit, Chammaï entra. Chammaï dit : ne pas imposer les mains ; Hillel dit : imposer les mains. Les premiers étaient Nessiim, et les seconds auprès d’eux étaient chefs du tribunal.",
+          "etude_fr": {
+            "traduction_fr": "Yossé ben Yoézer dit : ne pas imposer les mains ; Yossé ben Yoḥanan dit : imposer les mains. Yehochoua ben Peraḥya dit : ne pas imposer les mains ; Nittaï l’Arbélien dit : imposer les mains. Yehouda ben Tabbaï dit : ne pas imposer les mains ; Chimon ben Chataḥ dit : imposer les mains. Chemaya dit : imposer les mains ; Avtalion dit : ne pas imposer les mains. Hillel et Menaḥem ne furent pas en désaccord. Menaḥem sortit, Chammaï entra. Chammaï dit : ne pas imposer les mains ; Hillel dit : imposer les mains. Les premiers étaient Nessiim, et les seconds auprès d’eux étaient chefs du tribunal.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Ḥaguiga 2:2",
+                "explication": "La discussion porte sur la semikha, l’imposition des mains sur la tête du sacrifice, lorsque les sacrifices de pèlerinage sont apportés pendant Yom Tov. Ceux qui disent de ne pas imposer les mains considèrent qu’il faut éviter cet acte pendant Yom Tov, car l’appui de tout son poids sur l’animal ressemble à l’usage d’un animal, interdit ce jour-là. Ceux qui disent d’imposer les mains estiment que la mitsva de semikha doit être accomplie immédiatement avant l’abattage du sacrifice, même à Yom Tov."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Ḥaguiga 2:2",
+                "explication": "Le Rambam explique que cette Michna énumère les couples de sages des générations anciennes et rapporte leur controverse au sujet de la semikha à Yom Tov. Il précise que, dans chaque couple, le premier nommé était le Nassi et le second était l’Av Beit Din, comme la Michna le dit à la fin. La halakha suit l’opinion qui permet d’imposer les mains."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Ḥaguiga 2:2",
+                "explication": "Le Tossafot Yom Tov relève que la formule finale, « les premiers étaient Nessiim, et les seconds auprès d’eux chefs du tribunal », explique toute la liste : dans chaque paire, le premier sage occupait la fonction de Nassi, tandis que son compagnon était Av Beit Din. Toutefois, lorsque la Michna mentionne Chemaya et Avtalion, puis Hillel et Menaḥem, elle conserve le même principe d’ordre et de statut, tout en signalant le changement intervenu lorsque Menaḥem quitta sa fonction et que Chammaï entra à sa place."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -120,8 +340,27 @@
           "ref": "Mishnah Chagigah 2:3",
           "he": "בֵּית שַׁמַּאי אוֹמְרִים, מְבִיאִין שְׁלָמִים וְאֵין סוֹמְכִין עֲלֵיהֶם, אֲבָל לֹא עוֹלוֹת. וּבֵית הִלֵּל אוֹמְרִים, מְבִיאִין שְׁלָמִים וְעוֹלוֹת וְסוֹמְכִין עֲלֵיהֶם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Beit Chammaï disent : on apporte des sacrifices de paix, mais on ne pratique pas l’imposition des mains sur eux ; en revanche, on n’apporte pas d’holocaustes. Et Beit Hillel disent : on apporte des sacrifices de paix et des holocaustes, et l’on pratique l’imposition des mains sur eux.",
+          "etude_fr": {
+            "traduction_fr": "Beit Chammaï disent : on apporte des sacrifices de paix, mais on ne pratique pas l’imposition des mains sur eux ; en revanche, on n’apporte pas d’holocaustes. Et Beit Hillel disent : on apporte des sacrifices de paix et des holocaustes, et l’on pratique l’imposition des mains sur eux.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 2:3",
+                "explication": "La Michna traite des sacrifices que l’on doit apporter lors du pèlerinage, lorsqu’ils tombent à Yom Tov : les sacrifices de paix correspondent aux chelamim de la réjouissance et de la ‘haguiga, tandis que les holocaustes correspondent à l’ola de la vision. Beit Chammaï permettent d’apporter des sacrifices de paix à Yom Tov, car une partie en est consommée par les hommes, mais interdisent d’apporter des holocaustes, entièrement consumés pour le Ciel. Ils interdisent aussi l’imposition des mains, car elle se fait de toute sa force sur l’animal et ressemble à un usage interdit d’un animal à Yom Tov. Beit Hillel permettent également les holocaustes obligatoires du pèlerinage, et permettent l’imposition des mains, car elle doit précéder immédiatement l’abattage du sacrifice."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 2:3",
+                "explication": "Le Rambam explique que la controverse porte sur les sacrifices obligatoires de la fête : l’ola de réïya et les chelamim de ‘haguiga. Beit Chammaï considèrent que ce qui n’est pas destiné à la consommation humaine ne doit pas être offert à Yom Tov ; c’est pourquoi ils excluent les holocaustes. Beit Hillel estiment que les sacrifices obligatoires liés à Yom Tov sont offerts ce jour-là, même l’holocauste. La halakha suit Beit Hillel : on apporte ces sacrifices à Yom Tov et l’on pratique l’imposition des mains."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 2:3",
+                "explication": "Le Tossafot Yom Tov précise que les termes de la Michna ne parlent pas de tous les sacrifices volontaires, mais des sacrifices propres au pèlerinage. Les “sacrifices de paix” désignent les chelamim que l’on apporte pour la joie et la ‘haguiga, et les “holocaustes” désignent l’ola de réïya. Il souligne aussi que l’enjeu de l’imposition des mains est halakhique : bien qu’elle ne soit pas un travail à proprement parler, elle implique de s’appuyer fortement sur l’animal, ce que Beit Chammaï refusent à Yom Tov, tandis que Beit Hillel l’autorisent pour accomplir correctement le rite du sacrifice."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -130,8 +369,32 @@
           "ref": "Mishnah Chagigah 2:4",
           "he": "עֲצֶרֶת שֶׁחָל לִהְיוֹת בְּעֶרֶב שַׁבָּת, בֵּית שַׁמַּאי אוֹמְרִים, יוֹם טְבוֹחַ אַחַר הַשַּׁבָּת. וּבֵית הִלֵּל אוֹמְרִים, אֵין יוֹם טְבוֹחַ אַחַר הַשַּׁבָּת. וּמוֹדִים שֶׁאִם חָל לִהְיוֹת בְּשַׁבָּת, שֶׁיּוֹם טְבוֹחַ אַחַר הַשַּׁבָּת. וְאֵין כֹּהֵן גָּדוֹל מִתְלַבֵּשׁ בְּכֵלָיו, וּמֻתָּרִין בְּהֶסְפֵּד וּבְתַעֲנִית, שֶׁלֹּא לְקַיֵּם דִּבְרֵי הָאוֹמְרִין עֲצֶרֶת אַחַר הַשַּׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsque Chavouot tombe la veille de Chabbat, Beth Chammaï disent : le jour d’abattage est après Chabbat. Et Beth Hillel disent : il n’y a pas de jour d’abattage après Chabbat. Mais ils reconnaissent que, si Chavouot tombe pendant Chabbat, le jour d’abattage est après Chabbat. Et le Grand Cohen ne revêt pas ses vêtements, et il est permis d’y prononcer des oraisons funèbres et d’y jeûner, afin de ne pas confirmer les paroles de ceux qui disent : Chavouot a lieu après Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Lorsque Chavouot tombe la veille de Chabbat, Beth Chammaï disent : le jour d’abattage est après Chabbat. Et Beth Hillel disent : il n’y a pas de jour d’abattage après Chabbat. Mais ils reconnaissent que, si Chavouot tombe pendant Chabbat, le jour d’abattage est après Chabbat. Et le Grand Cohen ne revêt pas ses vêtements, et il est permis d’y prononcer des oraisons funèbres et d’y jeûner, afin de ne pas confirmer les paroles de ceux qui disent : Chavouot a lieu après Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 2:4",
+                "explication": "« Jour d’abattage » désigne le jour où l’on apporte les sacrifices de Chavouot qui n’ont pas pu être offerts le jour même. Selon Beth Chammaï, lorsque Chavouot tombe la veille de Chabbat, les offrandes de pèlerinage qui ne sont pas offertes à Yom Tov sont repoussées jusqu’au dimanche, après Chabbat. Beth Hillel disent qu’il n’y a pas alors de jour d’abattage après Chabbat, car ces sacrifices peuvent être offerts à Yom Tov même. En revanche, si Chavouot tombe pendant Chabbat, tous reconnaissent que les sacrifices individuels ne sont pas offerts pendant Chabbat et sont donc apportés le lendemain."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 2:4",
+                "explication": "Le Rambam explique que cette Michna traite des sacrifices liés à la montée au Temple lors de Chavouot, en particulier ceux que l’on n’a pas pu offrir le jour même. Lorsque Chavouot tombe pendant Chabbat, leur offrande est reportée au lendemain, car seuls les sacrifices publics fixés par le temps repoussent Chabbat, non les sacrifices particuliers des pèlerins. Toutefois, ce lendemain n’est pas institué comme un Yom Tov à part entière : c’est pourquoi les manifestations ordinaires de deuil ou de jeûne n’y sont pas interdites."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 2:4",
+                "explication": "Le Tossafot Yom Tov précise que la fin de la Michna vise les groupes qui interprétaient à tort le verset « le lendemain du Chabbat » comme signifiant que Chavouot devait toujours tomber un dimanche. Lorsqu’un véritable jour d’abattage tombait un dimanche, après un Chavouot survenu pendant Chabbat, les Sages évitaient de lui donner l’apparence d’un Yom Tov solennel : le Grand Cohen ne portait pas ses vêtements d’apparat et l’on permettait les oraisons funèbres et le jeûne, afin de ne pas renforcer l’erreur de ces sectaires."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 2:4",
+                "explication": "Le Tiféret Israël souligne que l’expression « le Grand Cohen ne revêt pas ses vêtements » signifie qu’on ne donnait pas à ce dimanche l’aspect d’un jour de fête officielle au Temple. Bien qu’il fût consacré à l’offrande de certains sacrifices retardés, on veillait à montrer qu’il ne s’agissait pas du jour même de Chavouot, mais seulement d’un jour de rattrapage pour les sacrifices."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -140,8 +403,27 @@
           "ref": "Mishnah Chagigah 2:5",
           "he": "נוֹטְלִין לַיָּדַיִם לְחֻלִּין וּלְמַעֲשֵׂר וְלִתְרוּמָה. וּלְקֹדֶשׁ, מַטְבִּילִין. וּלְחַטָּאת, אִם נִטְמְאוּ יָדָיו, נִטְמָא גוּפוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On procède à l’ablution des mains pour les aliments profanes, pour le maasser et pour la terouma. Mais pour les choses consacrées, on immerge les mains. Et pour les eaux de purification liées à la faute : si ses mains sont devenues impures, tout son corps est devenu impur.",
+          "etude_fr": {
+            "traduction_fr": "On procède à l’ablution des mains pour les aliments profanes, pour le maasser et pour la terouma. Mais pour les choses consacrées, on immerge les mains. Et pour les eaux de purification liées à la faute : si ses mains sont devenues impures, tout son corps est devenu impur.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 2:5",
+                "explication": "La Michna énumère des degrés croissants de rigueur en matière de pureté. Pour les aliments profanes, le maasser et la terouma, il suffit de se laver les mains par netilat yadayim. Pour le kodesh, c’est-à-dire la viande des sacrifices et les aliments consacrés, les Sages ont exigé une immersion des mains dans un mikvé, et non un simple lavage. Pour la ‘hatat, c’est-à-dire l’eau lustrale préparée avec les cendres de la vache rousse, la rigueur est encore plus grande : si les mains de la personne deviennent impures, on la considère comme si tout son corps était impur pour ce service."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 2:5",
+                "explication": "Le Rambam explique que cette Michna traite des différents niveaux de pureté requis selon l’objet dont on s’occupe. Les mains peuvent contracter une impureté rabbinique indépendante du reste du corps. Pour les aliments profanes, le maasser et la terouma, une ablution des mains suffit. Pour le kodesh, les Sages ont renforcé l’exigence et ont requis l’immersion. Quant à la ‘hatat, la pureté exigée est si stricte que l’impureté des mains entraîne que la personne entière est traitée comme impure à son égard."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 2:5",
+                "explication": "Le Tossafot Yom Tov souligne que l’ordre de la Michna suit une progression de sainteté et de sévérité : profane, maasser, terouma, kodesh, puis ‘hatat. La formule « on procède à l’ablution des mains » inclut même les niveaux pour lesquels on aurait pu penser qu’une exigence plus forte s’impose ; la Michna précise ensuite que pour le kodesh l’exigence change et devient l’immersion, tandis que pour la ‘hatat le statut même du corps est affecté."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -150,8 +432,32 @@
           "ref": "Mishnah Chagigah 2:6",
           "he": "הַטּוֹבֵל לְחֻלִּין וְהֻחְזַק לְחֻלִּין, אָסוּר לְמַעֲשֵׂר. טָבַל לְמַעֲשֵׂר וְהֻחְזַק לְמַעֲשֵׂר, אָסוּר לִתְרוּמָה. טָבַל לִתְרוּמָה, וְהֻחְזַק לִתְרוּמָה, אָסוּר לְקֹדֶשׁ. טָבַל לְקֹדֶשׁ וְהֻחְזַק לְקֹדֶשׁ, אָסוּר לְחַטָּאת. טָבַל לְחָמוּר, מֻתָּר לְקַל. טָבַל וְלֹא הֻחְזַק, כְּאִלּוּ לֹא טָבָל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui s’est immergé pour des aliments profanes, et a été établi comme pur pour des aliments profanes, est interdit pour le maasser. S’il s’est immergé pour le maasser, et a été établi comme pur pour le maasser, il est interdit pour la terouma. S’il s’est immergé pour la terouma, et a été établi comme pur pour la terouma, il est interdit pour les choses consacrées. S’il s’est immergé pour les choses consacrées, et a été établi comme pur pour les choses consacrées, il est interdit pour l’eau de purification de la ḥattat. S’il s’est immergé pour un degré plus rigoureux, il est permis pour un degré plus léger. S’il s’est immergé sans avoir été établi dans une intention déterminée, c’est comme s’il ne s’était pas immergé.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui s’est immergé pour des aliments profanes, et a été établi comme pur pour des aliments profanes, est interdit pour le maasser. S’il s’est immergé pour le maasser, et a été établi comme pur pour le maasser, il est interdit pour la terouma. S’il s’est immergé pour la terouma, et a été établi comme pur pour la terouma, il est interdit pour les choses consacrées. S’il s’est immergé pour les choses consacrées, et a été établi comme pur pour les choses consacrées, il est interdit pour l’eau de purification de la ḥattat. S’il s’est immergé pour un degré plus rigoureux, il est permis pour un degré plus léger. S’il s’est immergé sans avoir été établi dans une intention déterminée, c’est comme s’il ne s’était pas immergé.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 2:6",
+                "explication": "La Michna enseigne qu’il existe plusieurs degrés de pureté : aliments profanes, maasser, terouma, choses consacrées, puis eau de purification de la ḥattat. Une immersion n’élève la personne qu’au degré pour lequel elle a eu l’intention de se purifier. Ainsi, celui qui s’est immergé pour les aliments profanes n’est pas considéré pur pour le maasser, et de même pour chaque niveau supérieur. En revanche, celui qui s’est immergé pour un niveau plus strict est apte pour les niveaux plus légers."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 2:6",
+                "explication": "Le Rambam explique que cette règle repose sur le principe selon lequel la pureté requiert une intention précise. La personne doit orienter son immersion vers le degré de sainteté auquel elle veut accéder. Sans cette intention, même si l’immersion a été matériellement correcte, elle ne produit pas le statut de pureté requis pour les degrés mentionnés dans la Michna."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 2:6",
+                "explication": "Le Tossafot Yom Tov précise le sens de « הוחזק » : il ne s’agit pas seulement d’être entré dans l’eau, mais d’avoir été tenu et considéré, par son intention et sa conduite, comme se purifiant pour ce niveau particulier. La Michna distingue donc entre l’acte d’immersion et l’établissement du statut de pureté visé."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Chagigah 2:6",
+                "explication": "Le Tiféret Israël souligne la progression ascendante des degrés de pureté. Chaque niveau supérieur exige une vigilance plus grande contre l’impureté ; c’est pourquoi une immersion faite pour un niveau inférieur ne suffit pas pour le niveau supérieur. Mais l’inverse est valable : l’intention pour le plus strict inclut naturellement les niveaux inférieurs."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -160,8 +466,32 @@
           "ref": "Mishnah Chagigah 2:7",
           "he": "בִּגְדֵי עַם הָאָרֶץ מִדְרָס לַפְּרוּשִׁין. בִּגְדֵי פְרוּשִׁין מִדְרָס לְאוֹכְלֵי תְרוּמָה. בִּגְדֵי אוֹכְלֵי תְרוּמָה מִדְרָס לַקֹּדֶשׁ. בִּגְדֵי קֹדֶשׁ מִדְרָס לְחַטָּאת. יוֹסֵף בֶּן יוֹעֶזֶר הָיָה חָסִיד שֶׁבַּכְּהֻנָּה, וְהָיְתָה מִטְפַּחְתּוֹ מִדְרָס לַקֹּדֶשׁ. יוֹחָנָן בֶּן גֻּדְגְּדָא הָיָה אוֹכֵל עַל טָהֳרַת הַקֹּדֶשׁ כָּל יָמָיו, וְהָיְתָה מִטְפַּחְתּוֹ מִדְרָס לַחַטָּאת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les vêtements d’un am haaretz sont considérés comme impurs par foulage pour les perouchim. Les vêtements des perouchim sont considérés comme impurs par foulage pour ceux qui mangent la terouma. Les vêtements de ceux qui mangent la terouma sont considérés comme impurs par foulage pour le kodesh. Les vêtements de ceux qui mangent le kodesh sont considérés comme impurs par foulage pour l’eau lustrale de la faute. Yossef ben Yoézer était le pieux parmi les Cohanim, et pourtant son mouchoir était considéré comme impur par foulage pour le kodesh. Yoḥanan ben Goudgeda mangeait en état de pureté requise pour le kodesh tous les jours de sa vie, et pourtant son mouchoir était considéré comme impur par foulage pour l’eau lustrale de la faute.",
+          "etude_fr": {
+            "traduction_fr": "Les vêtements d’un am haaretz sont considérés comme impurs par foulage pour les perouchim. Les vêtements des perouchim sont considérés comme impurs par foulage pour ceux qui mangent la terouma. Les vêtements de ceux qui mangent la terouma sont considérés comme impurs par foulage pour le kodesh. Les vêtements de ceux qui mangent le kodesh sont considérés comme impurs par foulage pour l’eau lustrale de la faute. Yossef ben Yoézer était le pieux parmi les Cohanim, et pourtant son mouchoir était considéré comme impur par foulage pour le kodesh. Yoḥanan ben Goudgeda mangeait en état de pureté requise pour le kodesh tous les jours de sa vie, et pourtant son mouchoir était considéré comme impur par foulage pour l’eau lustrale de la faute.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 2:7",
+                "explication": "La Michna énumère des degrés croissants de pureté. Celui qui observe un degré inférieur n’est pas automatiquement fiable pour un degré supérieur. Ainsi, les vêtements d’un am haaretz sont tenus pour impurs vis-à-vis des perouchim, qui mangent leurs aliments profanes en état de pureté ; les vêtements de ceux-ci ne suffisent pas pour la terouma ; ceux de ceux qui mangent la terouma ne suffisent pas pour le kodesh ; et même les vêtements de ceux qui mangent le kodesh ne suffisent pas pour l’eau lustrale de la vache rousse, appelée ici ‘ḥattat’. ‘Midras’ signifie que, par mesure rabbinique, on les considère comme ayant l’impureté grave d’un objet sur lequel un zav se serait appuyé, afin de protéger les niveaux supérieurs de pureté."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 2:7",
+                "explication": "Le Rambam explique que ces distinctions ne relèvent pas d’un doute ordinaire, mais de degrés institués par les Sages dans les lois de pureté. Chaque catégorie a ses exigences particulières de vigilance : la pureté des aliments profanes n’est pas celle de la terouma, celle de la terouma n’est pas celle du kodesh, et la préparation des eaux de purification exige un niveau encore plus strict. C’est pourquoi même une personne réputée pure pour un domaine peut être considérée comme insuffisamment fiable pour le domaine supérieur."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 2:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression ‘midras’ est intentionnellement forte : les vêtements ne sont pas seulement traités comme ayant une légère impureté, mais comme une source d’impureté sévère à l’égard du degré supérieur. Cela exprime la rigueur particulière des Sages concernant la pureté du kodesh et, plus encore, de la ḥattat, c’est-à-dire les eaux préparées avec les cendres de la vache rousse."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Chagigah 2:7",
+                "explication": "Le Tiféret Israël explique que les deux exemples de la fin viennent montrer l’ampleur de cette règle. Yossef ben Yoézer était pourtant connu comme un homme d’une piété exceptionnelle parmi les Cohanim ; malgré cela, son mouchoir n’était pas accepté pour le kodesh s’il n’avait pas été gardé avec l’intention spécifique requise pour ce niveau. De même, Yoḥanan ben Goudgeda veillait toute sa vie à la pureté du kodesh, mais cela ne suffisait pas pour la ḥattat, car les eaux lustrales exigent une garde et une vigilance encore supérieures."
+              }
+            ]
+          }
         }
       ]
     },
@@ -175,8 +505,32 @@
           "ref": "Mishnah Chagigah 3:1",
           "he": "חֹמֶר בַּקֹּדֶשׁ מִבַּתְּרוּמָה, שֶׁמַּטְבִּילִין כֵּלִים בְּתוֹךְ כֵּלִים לַתְּרוּמָה, אֲבָל לֹא לַקֹּדֶשׁ. אֲחוֹרַיִם וְתוֹךְ וּבֵית הַצְּבִיטָה בַּתְּרוּמָה, אֲבָל לֹא בַקֹּדֶשׁ. הַנּוֹשֵׂא אֶת הַמִּדְרָס נוֹשֵׂא אֶת הַתְּרוּמָה, אֲבָל לֹא אֶת הַקֹּדֶשׁ. בִּגְדֵי אוֹכְלֵי תְרוּמָה, מִדְרָס לַקֹּדֶשׁ. לֹא כְמִדַּת הַקֹּדֶשׁ מִדַּת הַתְּרוּמָה, שֶׁבַּקֹּדֶשׁ מַתִּיר וּמְנַגֵּב וּמַטְבִּיל וְאַחַר כָּךְ קוֹשֵׁר, וּבַתְּרוּמָה קוֹשֵׁר וְאַחַר כָּךְ מַטְבִּיל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il y a une exigence plus stricte pour le sacré que pour la terouma : on immerge des ustensiles à l’intérieur d’autres ustensiles pour la terouma, mais non pour le sacré. Les faces extérieures, l’intérieur et la prise d’un ustensile sont considérés séparément pour la terouma, mais non pour le sacré. Celui qui porte un objet impur par foulage peut porter la terouma, mais non le sacré. Les vêtements de ceux qui consomment la terouma sont considérés comme impurs par foulage à l’égard du sacré. La règle du sacré n’est pas comme la règle de la terouma : pour le sacré, on dénoue, on essuie, on immerge, puis ensuite on rattache ; tandis que pour la terouma, on rattache, puis ensuite on immerge.",
+          "etude_fr": {
+            "traduction_fr": "Il y a une exigence plus stricte pour le sacré que pour la terouma : on immerge des ustensiles à l’intérieur d’autres ustensiles pour la terouma, mais non pour le sacré. Les faces extérieures, l’intérieur et la prise d’un ustensile sont considérés séparément pour la terouma, mais non pour le sacré. Celui qui porte un objet impur par foulage peut porter la terouma, mais non le sacré. Les vêtements de ceux qui consomment la terouma sont considérés comme impurs par foulage à l’égard du sacré. La règle du sacré n’est pas comme la règle de la terouma : pour le sacré, on dénoue, on essuie, on immerge, puis ensuite on rattache ; tandis que pour la terouma, on rattache, puis ensuite on immerge.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 3:1",
+                "explication": "La Michna énumère des degrés de rigueur propres au sacré par rapport à la terouma. Concernant l’immersion d’un ustensile dans un autre, cela est accepté pour la terouma, mais non pour le sacré, car on craint davantage une séparation empêchant l’eau du mikvé d’atteindre correctement l’ustensile intérieur. De même, pour la terouma, les différentes parties d’un ustensile — l’extérieur, l’intérieur et l’endroit par lequel on le saisit — peuvent avoir des statuts de pureté distincts ; pour le sacré, si une partie devient impure, on considère l’ustensile avec plus de sévérité."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 3:1",
+                "explication": "Le Rambam explique que ces règles relèvent des degrés de pureté institués pour préserver la sainteté des offrandes sacrées. La terouma possède déjà un statut élevé, mais le sacré exige une vigilance supérieure. C’est pourquoi des situations tolérées pour la terouma — comme porter en même temps un objet impur par foulage, ou s’appuyer sur la pureté habituelle des vêtements de ceux qui mangent la terouma — ne suffisent pas pour le sacré."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 3:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « impurs par foulage à l’égard du sacré » ne signifie pas que ces vêtements sont réellement impurs pour tout usage, mais qu’à l’égard du sacré on les traite comme s’ils avaient le statut de midras, par mesure de précaution. Une personne suffisamment attentive pour manger la terouma n’est pas automatiquement considérée comme ayant le niveau de vigilance requis pour manipuler le sacré."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 3:1",
+                "explication": "Le Tiféret Israël éclaire la dernière clause : pour le sacré, il faut dénouer les nœuds avant l’immersion afin que l’eau atteigne toutes les parties sans obstacle ; on essuie ensuite l’endroit concerné, puis on immerge et seulement après on rattache. Pour la terouma, on se montre moins strict et l’on permet de rattacher avant l’immersion, car le niveau d’exigence en matière de séparation lors de l’immersion y est moindre."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -185,8 +539,32 @@
           "ref": "Mishnah Chagigah 3:2",
           "he": "כֵּלִים הַנִּגְמָרִין בְּטָהֳרָה, צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לַתְּרוּמָה. הַכְּלִי מְצָרֵף מַה שֶּׁבְּתוֹכוֹ לַקֹּדֶשׁ, אֲבָל לֹא לַתְּרוּמָה. הָרְבִיעִי בַּקֹּדֶשׁ פָּסוּל, וְהַשְּׁלִישִׁי בַּתְּרוּמָה. וּבַתְּרוּמָה, אִם נִטְמֵאת אַחַת מִיָּדָיו, חֲבֶרְתָּהּ טְהוֹרָה. וּבַקֹּדֶשׁ, מַטְבִּיל שְׁתֵּיהֶן, שֶׁהַיָּד מְטַמָּא אֶת חֲבֶרְתָּהּ בַּקֹּדֶשׁ, אֲבָל לֹא בַּתְּרוּמָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Des ustensiles achevés en état de pureté nécessitent une immersion pour le sacré, mais non pour la terouma. L’ustensile réunit ce qui se trouve à l’intérieur de lui pour le sacré, mais non pour la terouma. Un quatrième degré d’impureté rend impropre dans le sacré, et un troisième degré dans la terouma. Et pour la terouma, si l’une de ses mains est devenue impure, l’autre demeure pure. Mais pour le sacré, il immerge les deux, car une main rend l’autre impure pour le sacré, mais non pour la terouma.",
+          "etude_fr": {
+            "traduction_fr": "Des ustensiles achevés en état de pureté nécessitent une immersion pour le sacré, mais non pour la terouma. L’ustensile réunit ce qui se trouve à l’intérieur de lui pour le sacré, mais non pour la terouma. Un quatrième degré d’impureté rend impropre dans le sacré, et un troisième degré dans la terouma. Et pour la terouma, si l’une de ses mains est devenue impure, l’autre demeure pure. Mais pour le sacré, il immerge les deux, car une main rend l’autre impure pour le sacré, mais non pour la terouma.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 3:2",
+                "explication": "Les « ustensiles achevés en état de pureté » sont des ustensiles dont la fabrication a été terminée par un artisan qui a veillé à les garder purs pour l’usage de la terouma. Malgré cela, pour les utiliser avec des aliments sacrés, les Sages ont exigé une immersion supplémentaire, car les degrés de précaution requis pour le sacré sont plus élevés que ceux requis pour la terouma. Bartenoura explique aussi que « l’ustensile réunit ce qui se trouve à l’intérieur de lui » signifie que, pour le sacré, si une partie du contenu de l’ustensile devient impure, tout ce qui est dans l’ustensile est considéré comme joint et est atteint par cette impureté ; cette rigueur ne s’applique pas à la terouma."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Rambam, Commentaire sur la Michna, Chagigah 3:2",
+                "explication": "Le Rambam souligne que toute cette Michna énumère des degrés de rigueur supplémentaires institués pour les objets sacrés par rapport à la terouma. Concernant les degrés d’impureté, le sacré est rendu impropre même par un quatrième degré : un aliment devenu impur au quatrième degré ne transmet plus l’impureté, mais il ne peut pas être consommé comme sacré. Pour la terouma, la rigueur s’arrête au troisième degré : un aliment de terouma devenu troisième est impropre, tandis qu’un quatrième degré n’y est pas pris en compte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 3:2",
+                "explication": "Le Tossafot Yom Tov précise que le terme « joint » ne signifie pas seulement une proximité physique, mais un statut halakhique particulier : le récipient confère une unité à son contenu lorsqu’il s’agit du sacré. Ainsi, des morceaux distincts placés dans un même ustensile sont traités comme liés les uns aux autres pour les lois de l’impureté du sacré. Pour la terouma, cette jonction par l’ustensile n’a pas été instituée avec la même force."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Chagigah 3:2",
+                "explication": "Le Tiféret Israël explique la dernière clause de la Michna : les mains ont un statut particulier d’impureté rabbinique, car elles touchent souvent des choses sans que l’on y prête attention. Pour la terouma, si une seule main devient impure, l’autre reste pure. Mais pour le sacré, les Sages ont renforcé la précaution : une main impure est considérée comme rendant l’autre impure, de sorte que celui qui veut toucher le sacré doit immerger les deux mains."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -195,8 +573,32 @@
           "ref": "Mishnah Chagigah 3:3",
           "he": "אוֹכְלִין אֳכָלִים נְגוּבִין בְּיָדַיִם מְסֹאָבוֹת בַּתְּרוּמָה, אֲבָל לֹא בַּקֹּדֶשׁ. הָאוֹנֵן וּמְחֻסַּר כִּפּוּרִים צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לַתְּרוּמָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On mange des aliments secs avec des mains impures pour la terouma, mais non pour le sacré. L’onen et celui à qui il manque encore l’expiation doivent s’immerger pour le sacré, mais non pour la terouma.",
+          "etude_fr": {
+            "traduction_fr": "On mange des aliments secs avec des mains impures pour la terouma, mais non pour le sacré. L’onen et celui à qui il manque encore l’expiation doivent s’immerger pour le sacré, mais non pour la terouma.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 3:3",
+                "explication": "« Aliments secs » désigne des aliments qui n’ont pas été rendus aptes à recevoir l’impureté par le contact d’un liquide. Pour la terouma, de tels aliments ne deviennent pas impurs par des mains impures. En revanche, pour le sacré, les Sages ont été plus rigoureux, car l’affection particulière due aux choses consacrées leur confère un statut plus strict, et l’on ne les consomme pas avec des mains impures."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 3:3",
+                "explication": "Le Rambam explique que cette Michna énumère des degrés de rigueur propres au sacré par rapport à la terouma. Même lorsqu’une personne est apte à consommer la terouma, les Sages ont exigé une purification supplémentaire pour manger des aliments consacrés, en raison de la sainteté plus élevée du sacré."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 3:3",
+                "explication": "Il précise que la différence entre terouma et sacré ne tient pas seulement à l’impureté elle-même, mais aux précautions particulières instituées autour du sacré. Ainsi, même là où l’on ne craint pas l’impureté pour la terouma, comme dans le cas d’aliments secs, on impose une exigence plus stricte pour le sacré."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 3:3",
+                "explication": "L’onen est celui qui se trouve dans la période de deuil immédiat avant l’enterrement de son proche, et le meḥoussar kippourim est celui qui a déjà accompli son immersion et attendu le coucher du soleil, mais n’a pas encore apporté son sacrifice d’expiation. Pour la terouma, une fois leur statut de base rétabli, ils peuvent être permis ; pour le sacré, la Michna exige encore une immersion spéciale."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -205,8 +607,32 @@
           "ref": "Mishnah Chagigah 3:4",
           "he": "חֹמֶר בַּתְּרוּמָה, שֶׁבִּיהוּדָה נֶאֱמָנִים עַל טָהֳרַת יַיִן וְשֶׁמֶן כָּל יְמוֹת הַשָּׁנָה, וּבִשְׁעַת הַגִּתּוֹת וְהַבַּדִּים אַף עַל הַתְּרוּמָה. עָבְרוּ הַגִּתּוֹת וְהַבַּדִּים וְהֵבִיאוּ לוֹ חָבִית שֶׁל יַיִן שֶׁל תְּרוּמָה, לֹא יְקַבְּלֶנָּה מִמֶּנּוּ, אֲבָל מַנִּיחָהּ לַגַּת הַבָּאָה. וְאִם אָמַר לוֹ, הִפְרַשְׁתִּי לְתוֹכָהּ רְבִיעִית קֹדֶשׁ, נֶאֱמָן. כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן הַמְדֻמָּעוֹת, נֶאֱמָנִין עֲלֵיהֶם בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים, וְקֹדֶם לַגִּתּוֹת שִׁבְעִים יוֹם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il y a une rigueur concernant la terouma : en Judée, on est digne de foi quant à la pureté du vin et de l’huile pendant tous les jours de l’année ; et au moment des pressoirs à vin et des pressoirs à huile, même au sujet de la terouma. Si le temps des pressoirs à vin et des pressoirs à huile est passé, et qu’on lui a apporté une jarre de vin de terouma, il ne l’acceptera pas de lui, mais la laissera jusqu’au prochain pressoir. Et s’il lui dit : « J’y ai prélevé un quart de log consacré », il est digne de foi. Les jarres de vin et les jarres d’huile mêlées à de la terouma : on est digne de foi à leur sujet au moment des pressoirs à vin et des pressoirs à huile, et soixante-dix jours avant les pressoirs.",
+          "etude_fr": {
+            "traduction_fr": "Il y a une rigueur concernant la terouma : en Judée, on est digne de foi quant à la pureté du vin et de l’huile pendant tous les jours de l’année ; et au moment des pressoirs à vin et des pressoirs à huile, même au sujet de la terouma. Si le temps des pressoirs à vin et des pressoirs à huile est passé, et qu’on lui a apporté une jarre de vin de terouma, il ne l’acceptera pas de lui, mais la laissera jusqu’au prochain pressoir. Et s’il lui dit : « J’y ai prélevé un quart de log consacré », il est digne de foi. Les jarres de vin et les jarres d’huile mêlées à de la terouma : on est digne de foi à leur sujet au moment des pressoirs à vin et des pressoirs à huile, et soixante-dix jours avant les pressoirs.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 3:4",
+                "explication": "En Judée, les ignorants sont crus toute l’année lorsqu’ils affirment que le vin et l’huile sont purs pour les besoins du consacré, car tous prennent garde à la pureté de ce qui est destiné au Temple. Mais pour la terouma, ils ne sont crus qu’au moment des pressoirs, car alors tout le monde purifie ses ustensiles et ses récoltes afin de produire vin et huile en état de pureté. Une fois cette période passée, un Cohen ne doit pas accepter d’eux une jarre de vin de terouma, de crainte qu’elle ne soit devenue impure."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Chagigah 3:4",
+                "explication": "Le Rambam explique que cette confiance particulière est liée aux périodes où la majorité du peuple se prépare à la pureté, notamment lors de la fabrication du vin et de l’huile. La règle est plus large pour le consacré que pour la terouma : pour le consacré, on accepte leur témoignage toute l’année en Judée, tandis que pour la terouma on ne l’accepte qu’au temps où tous sont occupés aux pressoirs et veillent à la pureté."
+              },
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Chagigah 3:4, passage « הפרשתי לתוכה רביעית קודש »",
+                "explication": "S’il dit qu’il a mis dans la jarre un quart de log destiné au consacré, il devient digne de foi pour toute la jarre. Puisqu’il est cru pour le consacré, qui exige une vigilance particulière, on le croit également quant à la pureté de la terouma contenue avec lui."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Chagigah 3:4",
+                "explication": "Le Tossafot Yom Tov précise que les « jarres mêlées à de la terouma » désignent des récipients contenant du vin ou de l’huile dans lesquels se trouve de la terouma, ou qui sont concernés par son statut. On les accepte au moment des pressoirs, et même soixante-dix jours auparavant, car c’est déjà la période où l’on commence à préparer les ustensiles nécessaires aux pressoirs, et l’on peut donc présumer qu’ils ont été purifiés avec soin."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -215,8 +641,27 @@
           "ref": "Mishnah Chagigah 3:5",
           "he": "מִן הַמּוֹדִיעִית וְלִפְנִים, נֶאֱמָנִין עַל כְּלֵי חֶרֶס. מִן הַמּוֹדִיעִית וְלַחוּץ, אֵין נֶאֱמָנִים. כֵּיצַד, הַקַּדָּר שֶׁהוּא מוֹכֵר הַקְּדֵרוֹת, נִכְנַס לִפְנִים מִן הַמּוֹדִיעִית, הוּא הַקַּדָּר וְהֵן הַקְּדֵרוֹת וְהֵן הַלּוֹקְחִים, נֶאֱמָן. יָצָא, אֵינוֹ נֶאֱמָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Depuis Modiit vers l’intérieur, ils sont dignes de foi au sujet des ustensiles de terre cuite ; depuis Modiit vers l’extérieur, ils ne sont pas dignes de foi. Comment cela ? Le potier qui vend les marmites entre à l’intérieur de Modiit : si c’est le même potier, que ce sont les mêmes marmites et que ce sont les mêmes acheteurs, il est digne de foi. S’il en est sorti, il n’est pas digne de foi.",
+          "etude_fr": {
+            "traduction_fr": "Depuis Modiit vers l’intérieur, ils sont dignes de foi au sujet des ustensiles de terre cuite ; depuis Modiit vers l’extérieur, ils ne sont pas dignes de foi. Comment cela ? Le potier qui vend les marmites entre à l’intérieur de Modiit : si c’est le même potier, que ce sont les mêmes marmites et que ce sont les mêmes acheteurs, il est digne de foi. S’il en est sorti, il n’est pas digne de foi.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, ‘Haguiga 3:5",
+                "explication": "La Michna parle d’un potier qui est un am haaretz, habituellement non fiable pour les règles de pureté. Les Sages l’ont cependant rendu digne de foi pour les ustensiles de terre cuite dans la zone comprise entre Modiit et Jérusalem, car ces ustensiles étaient nécessaires à Jérusalem pour les offrandes saintes, et les ustensiles de terre cuite ne peuvent pas être purifiés par immersion s’ils deviennent impurs. En dehors de cette limite, il n’est pas cru. La précision « le même potier, les mêmes marmites et les mêmes acheteurs » signifie que la confiance accordée ne vaut que dans la continuité de la situation où il se trouve à l’intérieur de la limite fixée ; une fois sorti, même lui n’est plus cru."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, ‘Haguiga 3:5",
+                "explication": "Le Rambam explique que Modiit marque la frontière à partir de laquelle on considérait les vendeurs d’ustensiles de terre cuite comme fiables pour la pureté requise par les choses saintes. Cette mesure est une institution particulière destinée à faciliter l’approvisionnement de Jérusalem en récipients purs, car on ne fabriquait pas suffisamment de tels ustensiles dans la ville même. La confiance n’est donc pas une règle générale concernant l’am haaretz, mais une exception limitée à ce lieu et à ces ustensiles."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, ‘Haguiga 3:5",
+                "explication": "Il souligne que la Michna emploie l’expression « depuis Modiit vers l’intérieur » pour désigner la direction de Jérusalem, et « vers l’extérieur » pour le côté opposé. Il relève aussi la formulation détaillée — « le même potier, les mêmes marmites, les mêmes acheteurs » — afin d’enseigner que la crédibilité dépend précisément des conditions établies par les Sages : elle est accordée pour ces ustensiles dans ce cadre, mais ne s’étend pas automatiquement à d’autres cas ni à une nouvelle situation après la sortie de la zone."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -225,8 +670,32 @@
           "ref": "Mishnah Chagigah 3:6",
           "he": "הַגַּבָּאִין שֶׁנִּכְנְסוּ לְתוֹךְ הַבַּיִת, וְכֵן הַגַּנָּבִים שֶׁהֶחֱזִירוּ אֶת הַכֵּלִים, נֶאֱמָנִין לוֹמַר, לֹא נָגָעְנוּ. וּבִירוּשָׁלַיִם נֶאֱמָנִין עַל הַקֹּדֶשׁ, וּבִשְׁעַת הָרֶגֶל אַף עַל הַתְּרוּמָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les percepteurs qui sont entrés dans une maison, de même que les voleurs qui ont restitué les ustensiles, sont dignes de foi pour dire : « Nous n’avons pas touché. » Et à Jérusalem, ils sont dignes de foi au sujet du sacré ; et au moment de la fête de pèlerinage, même au sujet de la terouma.",
+          "etude_fr": {
+            "traduction_fr": "Les percepteurs qui sont entrés dans une maison, de même que les voleurs qui ont restitué les ustensiles, sont dignes de foi pour dire : « Nous n’avons pas touché. » Et à Jérusalem, ils sont dignes de foi au sujet du sacré ; et au moment de la fête de pèlerinage, même au sujet de la terouma.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 3:6",
+                "explication": "Les « percepteurs » sont des agents chargés de percevoir l’impôt, qui entraient parfois dans les maisons pour saisir des biens. Bien qu’ils soient assimilés, quant aux lois de pureté, à des personnes dont le contact peut rendre les ustensiles impurs, ils sont crus lorsqu’ils affirment ne pas avoir touché. De même, les voleurs qui rendent les ustensiles sont crus s’ils disent ne pas les avoir touchés. Pour le sacré, les Sages ont accepté leur parole à Jérusalem, car on y veillait particulièrement à la pureté des choses consacrées ; et pendant la fête de pèlerinage, cette crédibilité s’étend même à la terouma."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 3:6",
+                "explication": "Le Rambam explique que cette Michna s’inscrit dans les degrés de confiance accordés au peuple en matière de pureté. En temps ordinaire, on ne croit pas toute personne pour la pureté de la terouma, mais à Jérusalem on la croit pour le sacré, en raison de la nécessité du service du Temple et de l’usage constant des choses consacrées. Pendant la fête de pèlerinage, tous les membres d’Israël sont considérés comme fiables même pour la terouma, car tous se rassemblent pour la mitsva et sont traités comme un groupe uni et digne de foi en matière de pureté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 3:6",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna dit précisément que les voleurs « ont restitué » les ustensiles : leur acte de restitution manifeste une volonté de réparer, et c’est dans ce contexte qu’on les croit lorsqu’ils déclarent ne pas avoir touché. Il précise également que la confiance accordée à Jérusalem concerne le sacré, mais non la terouma en temps ordinaire ; l’extension à la terouma n’existe qu’au moment de la fête de pèlerinage."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 3:6",
+                "explication": "Le Tiféret Israël explique que la règle repose sur le fait que l’impureté attribuée à certaines personnes quant au contact avec les ustensiles relève d’un décret rabbinique, et les Sages ont fixé des limites à ce décret. Lorsqu’ils affirment ne pas avoir touché, on accepte leur parole dans les cas mentionnés. À Jérusalem, la vigilance générale autour du sacré justifie une confiance plus large ; et pendant la fête de pèlerinage, l’unité d’Israël et la nécessité de permettre à tous de participer aux pratiques de pureté conduisent à les croire même pour la terouma."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -235,8 +704,32 @@
           "ref": "Mishnah Chagigah 3:7",
           "he": "הַפּוֹתֵחַ אֶת חָבִיתוֹ, וְהַמַּתְחִיל בְּעִסָּתוֹ עַל גַּב הָרֶגֶל, רַבִּי יְהוּדָה אוֹמֵר, יִגְמֹר. וַחֲכָמִים אוֹמְרִים, לֹא יִגְמֹר. מִשֶּׁעָבַר הָרֶגֶל, הָיוּ מַעֲבִירִין עַל טָהֳרַת עֲזָרָה. עָבַר הָרֶגֶל בְּיוֹם שִׁשִּׁי, לֹא הָיוּ מַעֲבִירִין, מִפְּנֵי כְבוֹד הַשַּׁבָּת. רַבִּי יְהוּדָה אוֹמֵר, אַף לֹא בְיוֹם חֲמִישִׁי, שֶׁאֵין הַכֹּהֲנִים פְּנוּיִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui ouvre son tonneau, ou qui entame sa pâte pendant le pèlerinage, Rabbi Yehouda dit : il achèvera. Et les Sages disent : il n’achèvera pas.\n\nUne fois le pèlerinage passé, on procédait à la purification de la cour du Temple. Si le pèlerinage s’était achevé un vendredi, on ne procédait pas à cette purification, par égard pour Chabbat. Rabbi Yehouda dit : pas même un jeudi, car les Cohanim ne sont pas disponibles.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui ouvre son tonneau, ou qui entame sa pâte pendant le pèlerinage, Rabbi Yehouda dit : il achèvera. Et les Sages disent : il n’achèvera pas.\n\nUne fois le pèlerinage passé, on procédait à la purification de la cour du Temple. Si le pèlerinage s’était achevé un vendredi, on ne procédait pas à cette purification, par égard pour Chabbat. Rabbi Yehouda dit : pas même un jeudi, car les Cohanim ne sont pas disponibles.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 3:7",
+                "explication": "Pendant le pèlerinage, tous les Juifs sont considérés comme fiables quant à la pureté, afin de permettre à tous de manger les choses consacrées et de participer au service du Temple. Ainsi, celui qui a ouvert un tonneau de vin ou commencé une pâte pendant le pèlerinage pouvait les vendre ou les utiliser en état de pureté. Selon Rabbi Yehouda, puisqu’il a commencé dans une situation où la pureté était reconnue, il peut terminer même après le pèlerinage. Les Sages estiment qu’une fois le pèlerinage terminé, la présomption particulière accordée au peuple cesse, et il ne peut plus continuer à les traiter comme purs."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 3:7",
+                "explication": "Le Rambam explique que la confiance accordée aux gens du peuple en matière de pureté n’existe que durant le pèlerinage, car tous se purifient alors pour monter au Temple. Après le pèlerinage, les règles ordinaires reprennent. C’est pourquoi, selon les Sages, le tonneau ouvert ou la pâte commencée ne peuvent plus être achevés dans leur statut de pureté. Le Rambam précise aussi que la halakha suit les Sages."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 3:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « il achèvera » ne signifie pas simplement terminer une action matérielle, mais continuer à utiliser ce qui a été commencé pendant le pèlerinage en s’appuyant sur le statut de pureté reconnu alors. La discussion porte donc sur la force de cette présomption : Rabbi Yehouda la prolonge pour ce qui a déjà été entamé, tandis que les Sages la limitent strictement au temps du pèlerinage."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 3:7",
+                "explication": "Le Tiféret Israël explique que « on procédait à la purification de la cour du Temple » signifie qu’après le départ des pèlerins, les Cohanim s’occupaient des ustensiles de la cour du Temple qui avaient pu être touchés par des personnes dont la pureté n’était pas certaine. On les faisait passer par le processus requis de purification, notamment l’immersion lorsque nécessaire. Si le pèlerinage se terminait un vendredi, on repoussait cette opération par respect pour Chabbat, afin que les Cohanim puissent se consacrer aux préparatifs de Chabbat. Rabbi Yehouda ajoute que même le jeudi ils ne le faisaient pas, car les Cohanim étaient déjà occupés."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -245,8 +738,32 @@
           "ref": "Mishnah Chagigah 3:8",
           "he": "כֵּיצַד מַעֲבִירִים עַל טָהֳרַת עֲזָרָה. מַטְבִּילִין אֶת הַכֵּלִים שֶׁהָיוּ בַמִּקְדָּשׁ, וְאוֹמְרִין לָהֶם, הִזָּהֲרוּ שֶׁלֹּא תִגְּעוּ בַּשֻּׁלְחָן וּבַמְּנוֹרָה וּתְטַמְּאוּהוּ. כָּל הַכֵּלִים שֶׁהָיוּ בַמִּקְדָּשׁ, יֵשׁ לָהֶם שְׁנִיִּים וּשְׁלִישִׁים, שֶׁאִם נִטְמְאוּ הָרִאשׁוֹנִים, יָבִיאוּ שְׁנִיִּים תַּחְתֵּיהֶן. כָּל הַכֵּלִים שֶׁהָיוּ בַמִּקְדָּשׁ, טְעוּנִין טְבִילָה, חוּץ מִמִּזְבַּח הַזָּהָב וּמִזְבַּח הַנְּחֹשֶׁת, מִפְּנֵי שֶׁהֵן כַּקַּרְקַע, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, מִפְּנֵי שֶׁהֵן מְצֻפִּין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Comment procédait-on à la purification de la cour du Temple ? On immergeait les ustensiles qui se trouvaient dans le Sanctuaire, et on leur disait : « Prenez garde de ne pas toucher la Table ni la Ménora, de peur que vous ne les rendiez impures. »\n\nTous les ustensiles qui se trouvaient dans le Sanctuaire avaient des seconds et des troisièmes exemplaires, afin que, si les premiers devenaient impurs, on en apporte d’autres à leur place.\n\nTous les ustensiles qui se trouvaient dans le Sanctuaire requéraient immersion, à l’exception de l’autel d’or et de l’autel de cuivre, parce qu’ils sont comme le sol : ce sont les paroles de Rabbi Éliézer. Et les Sages disent : parce qu’ils sont recouverts.",
+          "etude_fr": {
+            "traduction_fr": "Comment procédait-on à la purification de la cour du Temple ? On immergeait les ustensiles qui se trouvaient dans le Sanctuaire, et on leur disait : « Prenez garde de ne pas toucher la Table ni la Ménora, de peur que vous ne les rendiez impures. »\n\nTous les ustensiles qui se trouvaient dans le Sanctuaire avaient des seconds et des troisièmes exemplaires, afin que, si les premiers devenaient impurs, on en apporte d’autres à leur place.\n\nTous les ustensiles qui se trouvaient dans le Sanctuaire requéraient immersion, à l’exception de l’autel d’or et de l’autel de cuivre, parce qu’ils sont comme le sol : ce sont les paroles de Rabbi Éliézer. Et les Sages disent : parce qu’ils sont recouverts.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Chagigah 3:8",
+                "explication": "« Procédait-on à la purification de la cour » signifie qu’après Yom Tov, on s’occupait de purifier les ustensiles du Temple, car durant la fête les pèlerins étaient nombreux et l’on craignait que des ignorants des lois de pureté les aient rendus impurs. C’est pourquoi on immergeait les ustensiles. Mais on avertissait de ne pas toucher la Table et la Ménora : la Table ne pouvait pas être retirée de son service, car le pain de proposition devait s’y trouver continuellement, et la Ménora aussi devait rester disponible pour son service."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Chagigah 3:8",
+                "explication": "Le Rambam explique que cette Michna décrit les précautions prises dans le Temple après les fêtes de pèlerinage, lorsque tout Israël montait à Jérusalem. Même si, pendant la fête, on acceptait largement la présomption de pureté des pèlerins pour les besoins du service et des sacrifices, après la fête on purifiait les ustensiles du Sanctuaire par immersion. Les ustensiles avaient des exemplaires de remplacement afin que le service ne soit jamais interrompu si l’un d’eux devenait impur."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Chagigah 3:8",
+                "explication": "Le Tossafot Yom Tov souligne que l’avertissement concernant la Table et la Ménora est formulé spécialement parce que ces ustensiles avaient un statut particulier et ne devaient pas être manipulés comme les autres. Il relève aussi la difficulté de la fin de la Michna : selon Rabbi Éliézer, les autels ne reçoivent pas l’impureté car ils sont assimilés au sol, ce qui les exclut du statut d’ustensiles ordinaires."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Chagigah 3:8",
+                "explication": "Le Tiféret Israël précise que les « seconds et troisièmes » exemplaires désignent des ustensiles de rechange prêts à être utilisés immédiatement. Cela était nécessaire dans le Temple, car le service divin devait se poursuivre sans délai. Concernant les autels, il explique que leur fixation et leur fonction les distinguent des ustensiles mobiles ; c’est pourquoi, selon Rabbi Éliézer, ils sont considérés comme attachés au sol et ne nécessitent pas d’immersion."
+              }
+            ]
+          }
         }
       ]
     }
