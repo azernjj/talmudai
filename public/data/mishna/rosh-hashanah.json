@@ -15,8 +15,37 @@
           "ref": "Mishnah Rosh Hashanah 1:1",
           "he": "אַרְבָּעָה רָאשֵׁי שָׁנִים הֵם. בְּאֶחָד בְּנִיסָן רֹאשׁ הַשָּׁנָה לַמְּלָכִים וְלָרְגָלִים. בְּאֶחָד בֶּאֱלוּל רֹאשׁ הַשָּׁנָה לְמַעְשַׂר בְּהֵמָה. רַבִּי אֶלְעָזָר וְרַבִּי שִׁמְעוֹן אוֹמְרִים, בְּאֶחָד בְּתִשְׁרֵי. בְּאֶחָד בְּתִשְׁרֵי רֹאשׁ הַשָּׁנָה לַשָּׁנִים וְלַשְּׁמִטִּין וְלַיּוֹבְלוֹת, לַנְּטִיעָה וְלַיְרָקוֹת. בְּאֶחָד בִּשְׁבָט, רֹאשׁ הַשָּׁנָה לָאִילָן, כְּדִבְרֵי בֵית שַׁמַּאי. בֵּית הִלֵּל אוֹמְרִים, בַּחֲמִשָּׁה עָשָׂר בּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il y a quatre débuts d’année. Le premier Nissan est le début de l’année pour les rois et pour les fêtes de pèlerinage. Le premier Elloul est le début de l’année pour le maasser du bétail ; Rabbi Elazar et Rabbi Chimon disent : le premier Tichri. Le premier Tichri est le début de l’année pour les années, pour les Chemita et pour les jubilés, pour la plantation et pour les légumes. Le premier Chevat est le début de l’année pour l’arbre, selon les paroles de Beit Chammaï ; Beit Hillel disent : le quinze du mois.",
+          "etude_fr": {
+            "traduction_fr": "Il y a quatre débuts d’année. Le premier Nissan est le début de l’année pour les rois et pour les fêtes de pèlerinage. Le premier Elloul est le début de l’année pour le maasser du bétail ; Rabbi Elazar et Rabbi Chimon disent : le premier Tichri. Le premier Tichri est le début de l’année pour les années, pour les Chemita et pour les jubilés, pour la plantation et pour les légumes. Le premier Chevat est le début de l’année pour l’arbre, selon les paroles de Beit Chammaï ; Beit Hillel disent : le quinze du mois.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:1",
+                "explication": "« Pour les rois » signifie que l’on compte les années de règne des rois d’Israël à partir de Nissan : même si un roi a commencé à régner à la fin d’Adar, dès l’entrée de Nissan on lui compte une deuxième année. Cette datation servait notamment dans les actes juridiques. « Pour les fêtes de pèlerinage » signifie que Nissan ouvre l’ordre des trois fêtes, Pessa’h, Chavouot et Souccot, ce qui a une conséquence pour l’interdit de retarder l’accomplissement de ses vœux : celui qui a fait un vœu et a laissé passer les trois fêtes dans leur ordre transgresse."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:1",
+                "explication": "Le Rambam explique que chaque « début d’année » fixe une frontière halakhique. Pour le maasser du bétail, on ne prélève pas la dîme d’animaux nés avant cette date avec ceux nés après. La Michna rapporte une controverse : selon le premier avis, cette limite est le premier Elloul ; selon Rabbi Elazar et Rabbi Chimon, elle est le premier Tichri. La halakha suit Rabbi Elazar et Rabbi Chimon, c’est-à-dire le premier Tichri."
+              },
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:1",
+                "explication": "« Pour les années » renvoie au compte des années depuis la Création du monde et au changement d’année civile au premier Tichri. « Pour les Chemita et pour les jubilés » signifie que l’interdiction du travail de la terre commence dès le premier Tichri de l’année de Chemita ou du jubilé. « Pour la plantation » concerne le calcul des années de orla : le premier Tichri détermine le passage d’une année à l’autre pour un jeune arbre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 1:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « pour les légumes » concerne les lois de prélèvements : on ne prélève pas le maasser de légumes cueillis avant le premier Tichri sur des légumes cueillis après, car pour les légumes le moment déterminant est la cueillette. De même, pour « l’arbre », le début d’année sert à déterminer à quelle année appartiennent les fruits, notamment pour les règles de maasser des fruits."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Roch Hachana 2a",
+                "explication": "Rachi explique que le début d’année de l’arbre est fixé en Chevat parce qu’à cette période la majeure partie des pluies de l’année est déjà tombée, la sève commence à monter dans les arbres, et les fruits qui se formeront désormais sont considérés comme appartenant à la nouvelle année. Beit Chammaï fixent cette date au premier Chevat, tandis que Beit Hillel la fixent au quinze Chevat."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +54,32 @@
           "ref": "Mishnah Rosh Hashanah 1:2",
           "he": "בְּאַרְבָּעָה פְרָקִים הָעוֹלָם נִדּוֹן, בְּפֶסַח עַל הַתְּבוּאָה, בַּעֲצֶרֶת עַל פֵּרוֹת הָאִילָן, בְּרֹאשׁ הַשָּׁנָה כָּל בָּאֵי הָעוֹלָם עוֹבְרִין לְפָנָיו כִּבְנֵי מָרוֹן, שֶׁנֶּאֱמַר (תהלים לג) הַיּוֹצֵר יַחַד לִבָּם, הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם. וּבֶחָג נִדּוֹנִין עַל הַמָּיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À quatre périodes, le monde est jugé : à Pessa‘h, pour la récolte céréalière ; à Chavouot, pour les fruits de l’arbre ; à Roch Hachana, tous les habitants du monde passent devant Lui comme des bnei maron, comme il est dit : « Celui qui forme ensemble leur cœur, qui comprend toutes leurs actions » (Psaumes 33,15). Et à Souccot, ils sont jugés pour l’eau.",
+          "etude_fr": {
+            "traduction_fr": "À quatre périodes, le monde est jugé : à Pessa‘h, pour la récolte céréalière ; à Chavouot, pour les fruits de l’arbre ; à Roch Hachana, tous les habitants du monde passent devant Lui comme des bnei maron, comme il est dit : « Celui qui forme ensemble leur cœur, qui comprend toutes leurs actions » (Psaumes 33,15). Et à Souccot, ils sont jugés pour l’eau.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:2",
+                "explication": "Bartenoura explique que ces quatre moments correspondent aux principales catégories de subsistance du monde. À Pessa‘h, le jugement porte sur les céréales, car c’est alors que la récolte commence à mûrir. À Chavouot, il porte sur les fruits des arbres. À Souccot, le jugement porte sur les pluies de l’année à venir, puisque c’est le temps où l’on commence à avoir besoin d’eau. Concernant « comme des bnei maron », il rapporte l’explication de la Guemara : les hommes passent un à un devant le Saint, béni soit-Il, comme des soldats comptés un par un, ou comme des brebis passant sous le bâton du berger."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:2",
+                "explication": "Le Rambam explique que la Michna enseigne les moments fixés pour le jugement divin des besoins du monde : la production agricole, les fruits, les pluies, et le sort des êtres humains. Le jugement de Roch Hachana concerne chaque personne individuellement : chacun est examiné selon ses actes, et c’est pourquoi la Michna cite le verset affirmant que Dieu forme les cœurs et comprend toutes les actions."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 1:2",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna ne dit pas seulement que les êtres humains sont jugés à Roch Hachana, mais que « tous les habitants du monde » passent devant Dieu : cela inclut chaque individu sans exception. Il éclaire aussi la logique de l’ordre de la Michna : les jugements sont mentionnés selon le cycle annuel des besoins naturels — récolte, fruits, eau — tandis que Roch Hachana est le jour du jugement général de l’homme."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Roch Hachana 1:2",
+                "explication": "Le Tiféret Israël explique que l’expression « le monde est jugé » signifie que la Providence divine fixe alors ce qui adviendra dans ces domaines pendant l’année. Le jugement des pluies à Souccot est particulièrement lié aux rites de la fête, comme la libation d’eau au Temple et les prières pour la pluie, car l’abondance de l’eau conditionne la prospérité de l’année entière."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +88,32 @@
           "ref": "Mishnah Rosh Hashanah 1:3",
           "he": "עַל שִׁשָּׁה חֳדָשִׁים הַשְּׁלוּחִין יוֹצְאִין, עַל נִיסָן מִפְּנֵי הַפֶּסַח, עַל אָב מִפְּנֵי הַתַּעֲנִית, עַל אֱלוּל מִפְּנֵי רֹאשׁ הַשָּׁנָה, עַל תִּשְׁרֵי מִפְּנֵי תַקָּנַת הַמּוֹעֲדוֹת, עַל כִּסְלֵו מִפְּנֵי חֲנֻכָּה, וְעַל אֲדָר מִפְּנֵי הַפּוּרִים. וּכְשֶׁהָיָה בֵית הַמִּקְדָּשׁ קַיָּם, יוֹצְאִין אַף עַל אִיָּר מִפְּנֵי פֶסַח קָטָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour six mois, les émissaires sortent : pour Nissan, à cause de Pessa’h ; pour Av, à cause du jeûne ; pour Eloul, à cause de Roch Hachana ; pour Tichri, à cause de l’ordonnancement correct des fêtes ; pour Kislev, à cause de ‘Hanouka ; et pour Adar, à cause de Pourim. Et lorsque le Temple était encore debout, ils sortaient aussi pour Iyyar, à cause du petit Pessa’h.",
+          "etude_fr": {
+            "traduction_fr": "Pour six mois, les émissaires sortent : pour Nissan, à cause de Pessa’h ; pour Av, à cause du jeûne ; pour Eloul, à cause de Roch Hachana ; pour Tichri, à cause de l’ordonnancement correct des fêtes ; pour Kislev, à cause de ‘Hanouka ; et pour Adar, à cause de Pourim. Et lorsque le Temple était encore debout, ils sortaient aussi pour Iyyar, à cause du petit Pessa’h.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:3",
+                "explication": "Les émissaires du tribunal sortaient après que le nouveau mois avait été sanctifié, afin d’informer les communautés éloignées du jour fixé pour le début du mois. Pour Nissan, c’était nécessaire afin que chacun sache quand tombe Pessa’h ; pour Av, afin de connaître le jeûne du 9 Av ; pour Eloul, afin de déterminer Roch Hachana, car même si les envoyés ne pouvaient pas toujours arriver à temps partout avant Roch Hachana, les communautés comptaient généralement Eloul comme un mois de vingt-neuf jours. Pour Tichri, ils sortaient après Roch Hachana afin d’informer de la fixation du mois pour Yom Kippour et Souccot, ce que la Michna appelle la “réglementation des fêtes”. À l’époque du Temple, ils sortaient aussi pour Iyyar afin que ceux qui devaient apporter le petit Pessa’h, le 14 Iyyar, sachent la date exacte."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:3",
+                "explication": "Le Rambam explique que cette Michna parle de l’époque où les mois étaient fixés par le tribunal d’après le témoignage sur la nouvelle lune. Les émissaires n’étaient envoyés que pour les mois où une connaissance précise de la date avait une nécessité pratique pour tout Israël ou pour un grand nombre de personnes. Ainsi, Nissan, Tichri, Kislev et Adar concernent des jours de mitsva observés à des dates précises ; Av concerne le jeûne public ; et Iyyar ne nécessitait des envoyés que lorsque le Temple existait, car le petit Pessa’h dépendait de l’offrande du sacrifice."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 1:3",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna mentionne Eloul “à cause de Roch Hachana”, bien que Roch Hachana tombe au début de Tichri. La raison est que connaître le début d’Eloul permettait de calculer le trentième jour d’Eloul, jour que l’on traitait comme Roch Hachana dans les lieux éloignés. Puis, des envoyés sortaient également pour Tichri, non pour Roch Hachana déjà passé, mais pour fixer correctement les autres jours solennels du mois, notamment Yom Kippour et Souccot."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 1:3",
+                "explication": "Le Tiféret Israël précise que les émissaires sortaient pour empêcher les erreurs dans l’accomplissement des obligations liées au calendrier. “À cause du jeûne” désigne le jeûne du 9 Av, dont la date dépend de la fixation du mois d’Av. “À cause de la réglementation des fêtes” signifie que les communautés devaient connaître avec certitude le jour de Tichri fixé par le tribunal, afin d’observer correctement Yom Kippour, Souccot et les jours qui en dépendent."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +122,32 @@
           "ref": "Mishnah Rosh Hashanah 1:4",
           "he": "עַל שְׁנֵי חֳדָשִׁים מְחַלְּלִין אֶת הַשַּׁבָּת, עַל נִיסָן וְעַל תִּשְׁרֵי, שֶׁבָּהֶן הַשְּׁלוּחִין יוֹצְאִין לְסוּרְיָא, וּבָהֶן מְתַקְּנִין אֶת הַמּוֹעֲדוֹת. וּכְשֶׁהָיָה בֵית הַמִּקְדָּשׁ קַיָּם, מְחַלְּלִין אַף עַל כֻּלָּן מִפְּנֵי תַקָּנַת הַקָּרְבָּן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Pour deux mois, on profane le Chabbat : pour Nissan et pour Tichri, car c’est en eux que les envoyés partent vers la Syrie, et c’est en eux que l’on fixe correctement les dates des fêtes. Et lorsque le Temple existait, on profanait le Chabbat même pour tous les mois, en raison de l’organisation convenable du sacrifice.",
+          "etude_fr": {
+            "traduction_fr": "Pour deux mois, on profane le Chabbat : pour Nissan et pour Tichri, car c’est en eux que les envoyés partent vers la Syrie, et c’est en eux que l’on fixe correctement les dates des fêtes. Et lorsque le Temple existait, on profanait le Chabbat même pour tous les mois, en raison de l’organisation convenable du sacrifice.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 1:4",
+                "explication": "La profanation du Chabbat dont parle la Michna concerne les témoins qui ont vu la nouvelle lune : ils sont autorisés à se déplacer le Chabbat pour venir témoigner devant le tribunal. Cela n’est maintenu, après la destruction du Temple, que pour Nissan et Tichri, car de ces deux mois dépendent les principales fêtes : Pessa’h et Chavouot à partir de Nissan, Roch Hachana, Yom Kippour et Souccot à partir de Tichri. Les envoyés du tribunal partent alors annoncer la fixation du mois aux communautés, notamment jusqu’en Syrie."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 1:4",
+                "explication": "Le Rambam explique que la fixation du nouveau mois par le tribunal dépend du témoignage sur l’apparition de la lune. Pour Nissan et Tichri, l’exactitude est indispensable, car les dates des fêtes en dépendent. En revanche, pour les autres mois, après la destruction du Temple, il n’y a pas de nécessité suffisante pour repousser le Chabbat, puisque leur annonce n’a pas la même conséquence pratique immédiate pour les fêtes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 1:4",
+                "explication": "Il précise que l’expression « on fixe correctement les dates des fêtes » signifie que le tribunal établit le calendrier des jours saints en fonction du témoignage reçu. Même si les fêtes ne se trouvent pas toutes en Nissan et en Tichri, elles dépendent de ces mois : Chavouot est compté à partir de Pessa’h, qui tombe en Nissan, et les fêtes du septième mois dépendent de Tichri."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Rosh Hashanah 1:4",
+                "explication": "Il souligne la différence entre l’époque du Temple et l’époque postérieure. Lorsque le Temple existait, chaque Roch ‘Hodech comportait un sacrifice supplémentaire ; il fallait donc connaître avec certitude le jour sanctifié comme début du mois afin d’offrir le sacrifice en son temps. C’est pourquoi, à cette époque, les témoins profanaient le Chabbat pour tous les mois."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +156,27 @@
           "ref": "Mishnah Rosh Hashanah 1:5",
           "he": "בֵּין שֶׁנִּרְאָה בַעֲלִיל בֵּין שֶׁלֹּא נִרְאָה בַעֲלִיל, מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת, רַבִּי יוֹסֵי אוֹמֵר, אִם נִרְאָה בַעֲלִיל, אֵין מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Qu’il ait été aperçu clairement ou qu’il n’ait pas été aperçu clairement, on profane pour lui le Chabbat. Rabbi Yossé dit : s’il a été aperçu clairement, on ne profane pas pour lui le Chabbat.",
+          "etude_fr": {
+            "traduction_fr": "Qu’il ait été aperçu clairement ou qu’il n’ait pas été aperçu clairement, on profane pour lui le Chabbat. Rabbi Yossé dit : s’il a été aperçu clairement, on ne profane pas pour lui le Chabbat.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:5",
+                "explication": "« Aperçu clairement » signifie que la nouvelle lune a été vue de façon manifeste, au point qu’il est probable que d’autres témoins l’aient également vue et puissent venir témoigner. Selon le premier avis, même dans ce cas les témoins profanent le Chabbat pour venir au tribunal, car on ne s’appuie pas sur une probabilité : il faut permettre à ceux qui l’ont vue de venir établir le mois. Rabbi Yossé estime que lorsque la lune a été vue clairement, il n’est pas nécessaire que ces témoins profanent le Chabbat, car d’autres témoins se présenteront certainement. La halakha n’est pas comme Rabbi Yossé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:5",
+                "explication": "Le Rambam explique que la profanation du Chabbat mentionnée ici concerne les actions nécessaires aux témoins pour atteindre le tribunal et témoigner sur l’apparition du nouveau croissant lunaire. Même si l’apparition était évidente, le premier Tanna autorise cette profanation afin que la sanctification du mois puisse être fixée par témoignage devant le tribunal, et non par simple constatation publique. Rabbi Yossé limite cette permission lorsque l’observation est claire et connue, mais son opinion n’est pas retenue dans la halakha."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 1:5",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « pour lui » renvoie à la nouvelle lune et à la mitsva de sanctifier le mois. La Michna enseigne l’étendue de l’autorisation de profaner le Chabbat pour cette mitsva : selon les Sages, on ne distingue pas entre un cas douteux et un cas évident, afin de ne pas affaiblir la venue des témoins ni compromettre la fixation régulière des mois et des Yom Tov."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +185,32 @@
           "ref": "Mishnah Rosh Hashanah 1:6",
           "he": "מַעֲשֶׂה שֶׁעָבְרוּ יוֹתֵר מֵאַרְבָּעִים זוּג, וְעִכְּבָן רַבִּי עֲקִיבָא בְלוּד. שָׁלַח לוֹ רַבָּן גַּמְלִיאֵל, אִם מְעַכֵּב אַתָּה אֶת הָרַבִּים, נִמְצֵאתָ מַכְשִׁילָן לֶעָתִיד לָבֹא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il arriva que plus de quarante couples de témoins passèrent, et Rabbi Akiva les retint à Lod. Rabban Gamliel lui envoya dire : « Si tu retiens la multitude, tu te trouveras les faisant trébucher à l’avenir. »",
+          "etude_fr": {
+            "traduction_fr": "Il arriva que plus de quarante couples de témoins passèrent, et Rabbi Akiva les retint à Lod. Rabban Gamliel lui envoya dire : « Si tu retiens la multitude, tu te trouveras les faisant trébucher à l’avenir. »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 1:6",
+                "explication": "Il explique que ces « couples » étaient des paires de témoins venus témoigner de l’apparition de la nouvelle lune. Rabbi Akiva les retint à Lod parce qu’il pensait qu’il n’était pas nécessaire que tant de témoins profanent Chabbat ou poursuivent leur route, puisqu’il y en avait déjà suffisamment. Rabban Gamliel lui fit savoir qu’il ne fallait pas les empêcher : si les témoins apprennent qu’on les retient ou qu’on les repousse, ils risquent à l’avenir de ne plus venir témoigner du tout, et l’établissement du mois pourrait en être compromis."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 1:6",
+                "explication": "Le Rambam souligne que l’intention de Rabban Gamliel était de préserver l’empressement des témoins à venir au tribunal. Même lorsqu’un grand nombre de paires se présente, on ne doit pas leur donner le sentiment que leur démarche est inutile ou indésirable. Car, une autre fois, il se peut qu’il n’y ait que peu de témoins, et si l’on a pris l’habitude de les décourager, ils ne viendront pas ; cela entraînerait une erreur ou un retard dans la sanctification du mois."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 1:6",
+                "explication": "Il précise que la Michna enseigne un principe pratique : on ne considère pas seulement le besoin immédiat du tribunal, mais aussi les conséquences futures sur le comportement du public. Même si, dans le cas présent, les témoignages supplémentaires semblaient superflus, les retenir publiquement pouvait affaiblir la volonté des gens de se déplacer pour une mitsva liée à la fixation du calendrier."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Rosh Hashanah 1:6",
+                "explication": "Il explique que le reproche de Rabban Gamliel à Rabbi Akiva n’était pas seulement juridique, mais aussi éducatif et communautaire. Les témoins accomplissaient une mission nécessaire pour tout Israël ; les empêcher d’avancer pouvait être compris comme un mépris de leur effort. C’est pourquoi Rabban Gamliel avertit que cela provoquerait une faute future : les gens s’abstiendraient de venir, même lorsqu’on aurait réellement besoin d’eux."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +219,32 @@
           "ref": "Mishnah Rosh Hashanah 1:7",
           "he": "אָב וּבְנוֹ שֶׁרָאוּ אֶת הַחֹדֶשׁ, יֵלְכוּ. לֹא שֶׁמִּצְטָרְפִין זֶה עִם זֶה, אֶלָּא שֶׁאִם יִפָּסֵל אֶחָד מֵהֶן, יִצְטָרֵף הַשֵּׁנִי עִם אַחֵר. רַבִּי שִׁמְעוֹן אוֹמֵר, אָב וּבְנוֹ וְכָל הַקְּרוֹבִין, כְּשֵׁרִין לְעֵדוּת הַחֹדֶשׁ. אָמַר רַבִּי יוֹסֵי, מַעֲשֶׂה בְטוֹבִיָּה הָרוֹפֵא, שֶׁרָאָה אֶת הַחֹדֶשׁ בִּירוּשָׁלַיִם, הוּא וּבְנוֹ וְעַבְדּוֹ מְשֻׁחְרָר, וְקִבְּלוּ הַכֹּהֲנִים אוֹתוֹ וְאֶת בְּנוֹ, וּפָסְלוּ אֶת עַבְדּוֹ. וּכְשֶׁבָּאוּ לִפְנֵי בֵית דִּין, קִבְּלוּ אוֹתוֹ וְאֶת עַבְדּוֹ, וּפָסְלוּ אֶת בְּנוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un père et son fils qui ont vu la nouvelle lune iront témoigner. Non qu’ils puissent s’associer l’un avec l’autre, mais afin que, si l’un d’eux est disqualifié, le second puisse s’associer avec un autre témoin. Rabbi Chimon dit : Un père et son fils, ainsi que tous les proches parents, sont aptes au témoignage concernant la nouvelle lune. Rabbi Yossé dit : Il arriva que Touvya le médecin vit la nouvelle lune à Jérusalem, lui, son fils et son esclave affranchi ; les Cohanim reçurent son témoignage et celui de son fils, et disqualifièrent son esclave. Mais lorsqu’ils vinrent devant le tribunal, celui-ci reçut son témoignage et celui de son esclave, et disqualifia son fils.",
+          "etude_fr": {
+            "traduction_fr": "Un père et son fils qui ont vu la nouvelle lune iront témoigner. Non qu’ils puissent s’associer l’un avec l’autre, mais afin que, si l’un d’eux est disqualifié, le second puisse s’associer avec un autre témoin. Rabbi Chimon dit : Un père et son fils, ainsi que tous les proches parents, sont aptes au témoignage concernant la nouvelle lune. Rabbi Yossé dit : Il arriva que Touvya le médecin vit la nouvelle lune à Jérusalem, lui, son fils et son esclave affranchi ; les Cohanim reçurent son témoignage et celui de son fils, et disqualifièrent son esclave. Mais lorsqu’ils vinrent devant le tribunal, celui-ci reçut son témoignage et celui de son esclave, et disqualifia son fils.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:7",
+                "explication": "Selon le premier avis, un père et son fils ne peuvent pas former ensemble le couple de témoins, car des proches parents sont invalides pour témoigner ensemble. Malgré cela, ils doivent tous deux se rendre au tribunal : si l’un se trouve disqualifié pour une autre raison, l’autre pourra être joint à un témoin étranger. Rabbi Chimon, lui, estime que pour le témoignage de la nouvelle lune les proches parents sont valables, car ce témoignage n’est pas assimilé aux témoignages ordinaires portant sur des litiges ou des peines."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:7",
+                "explication": "Le Rambam explique que la halakha ne suit pas Rabbi Chimon : les proches parents ne sont pas aptes à être associés comme témoins de la nouvelle lune. En revanche, un esclave affranchi a le statut d’un Juif pleinement libre et peut témoigner. C’est pourquoi, dans l’épisode de Touvya le médecin, le tribunal accepta Touvya avec son esclave affranchi et écarta son fils, en raison de la parenté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 1:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « iront » signifie qu’il y a une utilité à ce que le père et le fils se déplacent tous deux, bien qu’ils ne puissent pas être combinés ensemble selon le premier avis. La Michna enseigne ainsi qu’on ne renonce pas à leur venue, car le tribunal pourra éventuellement utiliser le témoignage de l’un d’eux avec celui d’une autre personne valide."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 1:7",
+                "explication": "Le Tiféret Israël clarifie l’opposition entre les Cohanim et le tribunal dans l’histoire de Touvya. Les Cohanim acceptèrent le fils et rejetèrent l’esclave affranchi, probablement par méconnaissance ou par suspicion à l’égard de son statut ; le tribunal, qui tranche la halakha, établit au contraire qu’un esclave affranchi est apte au témoignage, tandis qu’un fils ne peut pas s’associer à son père comme témoin."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +253,27 @@
           "ref": "Mishnah Rosh Hashanah 1:8",
           "he": "אֵלּוּ הֵן הַפְּסוּלִין, הַמְשַׂחֵק בְּקֻבְיָא, וּמַלְוֵי בְרִבִּית, וּמַפְרִיחֵי יוֹנִים, וְסוֹחֲרֵי שְׁבִיעִית, וַעֲבָדִים. זֶה הַכְּלָל, כָּל עֵדוּת שֶׁאֵין הָאִשָּׁה כְשֵׁרָה לָהּ, אַף הֵן אֵינָן כְּשֵׁרִים לָהּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Voici ceux qui sont disqualifiés : celui qui joue aux dés, ceux qui prêtent à intérêt, ceux qui font voler des pigeons, les marchands de produits de la septième année, et les esclaves. Voici la règle générale : tout témoignage pour lequel une femme n’est pas apte, eux non plus n’y sont pas aptes.",
+          "etude_fr": {
+            "traduction_fr": "Voici ceux qui sont disqualifiés : celui qui joue aux dés, ceux qui prêtent à intérêt, ceux qui font voler des pigeons, les marchands de produits de la septième année, et les esclaves. Voici la règle générale : tout témoignage pour lequel une femme n’est pas apte, eux non plus n’y sont pas aptes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 1:8",
+                "explication": "La Michna énumère des personnes disqualifiées pour témoigner, notamment pour le témoignage sur l’apparition de la nouvelle lune. Le joueur aux dés est disqualifié parce qu’il s’adonne à un gain qui s’apparente au vol, puisque l’autre partie ne donne pas son argent avec une pleine résolution. Les prêteurs à intérêt sont disqualifiés car ils transgressent une interdiction de la Torah. Les marchands de produits de la septième année sont ceux qui font commerce des fruits de Chemita, alors qu’ils doivent être traités avec sainteté et non utilisés comme marchandise ordinaire. Les esclaves sont exclus comme les femmes de certains témoignages, car la Michna conclut que toute déposition pour laquelle une femme n’est pas recevable ne l’est pas non plus pour eux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:8",
+                "explication": "Le Rambam explique que ces catégories relèvent des personnes dont le témoignage n’est pas accepté en raison d’un défaut de fiabilité halakhique ou de statut. Certaines sont disqualifiées à cause d’une transgression liée à l’argent ou à une conduite interdite, comme l’intérêt et le commerce des fruits de Chemita ; d’autres, comme les esclaves, sont disqualifiées en raison de leur statut juridique. La règle finale vient établir que ces personnes ne peuvent pas témoigner dans les domaines où la Torah n’a pas rendu la femme apte à témoigner."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 1:8",
+                "explication": "Le Tossafot Yom Tov précise que la règle générale de la Michna ne vient pas seulement répéter la liste précédente, mais définir l’étendue de leur disqualification : ils sont invalides pour les témoignages ordinaires où la femme n’est pas recevable. En revanche, dans les cas particuliers où les Sages ont accepté un témoignage normalement plus limité, il faut examiner la halakha propre à chaque domaine. La formulation de la Michna montre donc que leur invalidité est rattachée au cadre général des témoignages halakhiques."
+              }
+            ]
+          }
         },
         {
           "id": "1:9",
@@ -95,8 +282,27 @@
           "ref": "Mishnah Rosh Hashanah 1:9",
           "he": "מִי שֶׁרָאָה אֶת הַחֹדֶשׁ וְאֵינוֹ יָכוֹל לְהַלֵּךְ, מוֹלִיכִין אוֹתוֹ עַל הַחֲמוֹר, אֲפִלּוּ בְמִטָּה. וְאִם צוֹדֶה לָהֶם, לוֹקְחִין בְּיָדָם מַקְּלוֹת. וְאִם הָיְתָה דֶרֶךְ רְחוֹקָה, לוֹקְחִין בְּיָדָם מְזוֹנוֹת, שֶׁעַל מַהֲלַךְ לַיְלָה וָיוֹם מְחַלְּלִין אֶת הַשַּׁבָּת וְיוֹצְאִין לְעֵדוּת הַחֹדֶשׁ, שֶׁנֶּאֱמַר (ויקרא כג), אֵלֶּה מוֹעֲדֵי ה' אֲשֶׁר תִּקְרְאוּ אוֹתָם בְּמוֹעֲדָם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui a vu le nouveau croissant et ne peut pas marcher, on le transporte sur un âne, même dans un lit. Et si quelqu’un leur tend une embuscade, ils prennent des bâtons à la main. Et si le chemin était éloigné, ils prennent avec eux des provisions ; car, pour une distance d’une nuit et d’un jour de marche, on profane le Chabbat et l’on sort pour témoigner au sujet du nouveau croissant, comme il est dit : « Voici les rendez-vous de l’Éternel, que vous proclamerez en leur temps » (Lévitique 23).",
+          "etude_fr": {
+            "traduction_fr": "Celui qui a vu le nouveau croissant et ne peut pas marcher, on le transporte sur un âne, même dans un lit. Et si quelqu’un leur tend une embuscade, ils prennent des bâtons à la main. Et si le chemin était éloigné, ils prennent avec eux des provisions ; car, pour une distance d’une nuit et d’un jour de marche, on profane le Chabbat et l’on sort pour témoigner au sujet du nouveau croissant, comme il est dit : « Voici les rendez-vous de l’Éternel, que vous proclamerez en leur temps » (Lévitique 23).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:9",
+                "explication": "La Michna enseigne que la mitsva de fixer le calendrier d’après le témoignage sur le nouveau croissant repousse le Chabbat. Ainsi, même si le témoin est faible ou malade, on le transporte sur un âne, et même couché dans un lit. Si des brigands ou des ennemis risquent de leur barrer la route, les témoins peuvent prendre des bâtons pour se défendre, bien que cela implique de porter pendant Chabbat. De même, pour une route longue, ils prennent des provisions. Tout cela est permis afin que le témoignage parvienne au tribunal à temps."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 1:9",
+                "explication": "Le Rambam explique que la sanctification du mois dépend du tribunal, qui proclame le mois selon le témoignage reçu. Puisque les dates des moadim dépendent de cette proclamation, la Torah a dit : « que vous proclamerez en leur temps » : il faut les proclamer à leur moment exact. C’est pourquoi le déplacement des témoins du nouveau croissant repousse le Chabbat, même lorsqu’il faut accomplir des actes normalement interdits, comme transporter une personne incapable de marcher ou emporter des provisions."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 1:9",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « même dans un lit » vient renforcer l’ampleur de la permission : non seulement on aide le témoin à monter sur un animal, mais on le transporte de la manière dont il peut voyager, même si cela demande davantage d’effort et d’actes interdits en Chabbat. La fin de la Michna précise toutefois la mesure : cette profanation du Chabbat est permise pour une distance correspondant à une marche d’une nuit et d’un jour, afin d’arriver au tribunal pour le témoignage du mois."
+              }
+            ]
+          }
         }
       ]
     },
@@ -110,8 +316,27 @@
           "ref": "Mishnah Rosh Hashanah 2:1",
           "he": "אִם אֵינָן מַכִּירִין אוֹתוֹ, מְשַׁלְּחִין אַחֵר עִמּוֹ לַהֲעִידוֹ. בָּרִאשׁוֹנָה הָיוּ מְקַבְּלִין עֵדוּת הַחֹדֶשׁ מִכָּל אָדָם. מִשֶּׁקִּלְקְלוּ הַמִּינִין, הִתְקִינוּ שֶׁלֹּא יְהוּ מְקַבְּלִין אֶלָּא מִן הַמַּכִּירִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’ils ne le connaissent pas, on envoie avec lui un autre homme pour témoigner à son sujet. Au début, on recevait le témoignage relatif au mois de la part de tout homme. Lorsque les hérétiques eurent causé des dérèglements, on institua que l’on ne recevrait le témoignage que de la part de personnes connues.",
+          "etude_fr": {
+            "traduction_fr": "S’ils ne le connaissent pas, on envoie avec lui un autre homme pour témoigner à son sujet. Au début, on recevait le témoignage relatif au mois de la part de tout homme. Lorsque les hérétiques eurent causé des dérèglements, on institua que l’on ne recevrait le témoignage que de la part de personnes connues.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 2:1",
+                "explication": "« S’ils ne le connaissent pas » signifie que le tribunal ne connaît pas le témoin venu attester l’apparition de la nouvelle lune et ne sait pas s’il est digne de confiance. On envoie alors avec lui quelqu’un que le tribunal connaît, afin qu’il atteste l’identité et la fiabilité du témoin. Au début, on acceptait le témoignage de tout Juif présumé apte. Mais après que les minim eurent tenté de tromper le tribunal par de faux témoignages concernant la nouvelle lune, les Sages décrétèrent qu’on n’accepterait plus que des témoins connus du tribunal."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:1",
+                "explication": "Le Rambam explique que la sanctification du mois dépendait du témoignage de ceux qui avaient vu la nouvelle lune. Tant que les témoins étaient présumés fiables, leur témoignage était accepté. Mais lorsque des groupes hérétiques cherchèrent à perturber le calendrier en envoyant de faux témoins, les Sages exigèrent que les témoins soient reconnus comme dignes de confiance, ou qu’une personne reconnue vienne attester à leur sujet."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 2:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « pour témoigner à son sujet » ne signifie pas témoigner sur la lune elle-même, mais témoigner sur la personne du témoin : établir qu’il est connu comme homme valable et apte au témoignage. La mesure instituée après la fraude des minim porte donc sur l’identification et la présomption de validité des témoins."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -120,8 +345,27 @@
           "ref": "Mishnah Rosh Hashanah 2:2",
           "he": "בָּרִאשׁוֹנָה הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת. מִשֶּׁקִּלְקְלוּ הַכּוּתִים, הִתְקִינוּ שֶׁיְּהוּ שְׁלוּחִין יוֹצְאִין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Au début, on allumait des signaux de feu. Lorsque les Koutim eurent semé la confusion, on institua que des envoyés partiraient.",
+          "etude_fr": {
+            "traduction_fr": "Au début, on allumait des signaux de feu. Lorsque les Koutim eurent semé la confusion, on institua que des envoyés partiraient.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 2:2",
+                "explication": "Au départ, après que le tribunal avait sanctifié le mois, on faisait connaître la nouvelle aux communautés éloignées au moyen de signaux de feu allumés de montagne en montagne. Les Koutim, cherchant à tromper Israël, allumèrent eux-mêmes des feux à des moments erronés afin de faire croire que le mois avait été sanctifié. C’est pourquoi les Sages annulèrent ce mode de transmission et instituèrent l’envoi de messagers."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:2",
+                "explication": "Le Rambam explique que les signaux servaient à annoncer rapidement la fixation du nouveau mois, afin que les communautés sachent quand observer les jours dépendant du calendrier. Lorsque les Koutim perturbèrent cette procédure par de faux signaux, on adopta une méthode plus fiable : des délégués du tribunal partaient annoncer officiellement la décision."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 2:2",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « au début » renvoie à la pratique antérieure à la dégradation causée par les Koutim. L’institution des envoyés n’était donc pas la procédure originelle, mais une mesure prise pour préserver l’exactitude de l’annonce du calendrier lorsque les signaux de feu n’étaient plus dignes de confiance."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -130,8 +374,27 @@
           "ref": "Mishnah Rosh Hashanah 2:3",
           "he": "כֵּיצַד הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת, מְבִיאִין כְּלֻנְסָאוֹת שֶׁל אֶרֶז אֲרֻכִּין וְקָנִים וַעֲצֵי שֶׁמֶן וּנְעֹרֶת שֶׁל פִּשְׁתָּן וְכוֹרֵךְ בִּמְשִׁיחָה, וְעוֹלֶה לְרֹאשׁ הָהָר וּמַצִּית בָּהֶן אֶת הָאוּר, וּמוֹלִיךְ וּמֵבִיא וּמַעֲלֶה וּמוֹרִיד, עַד שֶׁהוּא רוֹאֶה אֶת חֲבֵרוֹ שֶׁהוּא עוֹשֶׂה כֵן בְּרֹאשׁ הָהָר הַשֵּׁנִי, וְכֵן בְּרֹאשׁ הָהָר הַשְּׁלִישִׁי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Comment faisait-on flamber les signaux ? On apportait de longues perches de cèdre, des roseaux, du bois résineux et de l’étoupe de lin ; on les liait avec une corde, on montait au sommet de la montagne et l’on y allumait le feu. Puis on le faisait aller et venir, monter et descendre, jusqu’à ce que l’on voie son compagnon faire de même au sommet de la seconde montagne ; et ainsi au sommet de la troisième montagne.",
+          "etude_fr": {
+            "traduction_fr": "Comment faisait-on flamber les signaux ? On apportait de longues perches de cèdre, des roseaux, du bois résineux et de l’étoupe de lin ; on les liait avec une corde, on montait au sommet de la montagne et l’on y allumait le feu. Puis on le faisait aller et venir, monter et descendre, jusqu’à ce que l’on voie son compagnon faire de même au sommet de la seconde montagne ; et ainsi au sommet de la troisième montagne.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:3",
+                "explication": "Bartenoura explique que les matériaux énumérés étaient choisis parce qu’ils s’enflamment bien et produisent une flamme visible de loin. La personne montait au sommet de la montagne et agitait le signal dans plusieurs directions — de côté et de haut en bas — afin que ceux postés sur la montagne suivante le distinguent clairement et transmettent à leur tour l’annonce de la sanctification du mois."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:3",
+                "explication": "Le Rambam explique que cette Michna décrit le procédé de transmission rapide de la nouvelle lune avant que l’on n’envoie uniquement des messagers. Les signaux lumineux formaient une chaîne de montagne en montagne : dès que le poste suivant apercevait le feu, il répétait exactement le même geste pour propager l’information vers les lieux éloignés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:3",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « jusqu’à ce qu’il voie son compagnon » signifie que le premier ne cessait pas d’agiter le signal immédiatement après l’avoir allumé : il continuait jusqu’à avoir la certitude que le poste suivant avait bien vu et reproduisait le signal. Cela assurait la continuité fiable de la transmission."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -140,8 +403,27 @@
           "ref": "Mishnah Rosh Hashanah 2:4",
           "he": "וּמֵאַיִן הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת, מֵהַר הַמִּשְׁחָה לְסַרְטְבָא, וּמִסַּרְטְבָא לִגְרוֹפִינָא, וּמִגְּרוֹפִינָא לְחַוְרָן, וּמֵחַוְרָן לְבֵית בִּלְתִּין, וּמִבֵּית בִּלְתִּין לֹא זָזוּ מִשָּׁם, אֶלָּא מוֹלִיךְ וּמֵבִיא וּמַעֲלֶה וּמוֹרִיד עַד שֶׁהָיָה רוֹאֶה כָל הַגּוֹלָה לְפָנָיו כִּמְדוּרַת הָאֵשׁ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et d’où allumait-on les flambeaux ? Du mont des Oliviers à Sartaba, de Sartaba à Grofina, de Grofina à ‘Havran, de ‘Havran à Beit Biltin. Et depuis Beit Biltin, ils ne bougeaient pas de là : il faisait seulement aller et venir, monter et descendre le flambeau, jusqu’à ce qu’il vît toute la diaspora devant lui comme un brasier de feu.",
+          "etude_fr": {
+            "traduction_fr": "Et d’où allumait-on les flambeaux ? Du mont des Oliviers à Sartaba, de Sartaba à Grofina, de Grofina à ‘Havran, de ‘Havran à Beit Biltin. Et depuis Beit Biltin, ils ne bougeaient pas de là : il faisait seulement aller et venir, monter et descendre le flambeau, jusqu’à ce qu’il vît toute la diaspora devant lui comme un brasier de feu.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:4",
+                "explication": "Bartenoura explique que les « flambeaux » servaient à faire connaître aux communautés éloignées que le tribunal avait sanctifié le nouveau mois. Le mont des Oliviers était proche de Jérusalem, et de là le signal passait de montagne en montagne selon l’ordre indiqué par la Michna, jusqu’à Beit Biltin. Là, l’homme chargé du signal agitait le flambeau dans plusieurs directions — en avant, en arrière, vers le haut et vers le bas — afin que les régions de la diaspora le voient et allument à leur tour, jusqu’à ce que tout l’horizon paraisse embrasé."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:4",
+                "explication": "Le Rambam précise que cette Michna décrit l’ancien système d’annonce du nouveau mois par signaux de feu, avant que les perturbations causées par les sectaires n’obligent les Sages à envoyer des messagers. Les lieux énumérés sont des points élevés, visibles l’un depuis l’autre, permettant de transmettre rapidement la nouvelle de la sanctification du mois depuis Jérusalem vers les contrées éloignées."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 2:4",
+                "explication": "Le Tossafot Yom Tov relève que la Michna demande précisément « d’où » l’on allumait, car elle vient fixer l’itinéraire ordonné des signaux. Il souligne que l’expression « ils ne bougeaient pas de là » signifie qu’à Beit Biltin on ne poursuivait pas vers une autre station déterminée ; on y agitait seulement le flambeau jusqu’à ce que les communautés de la diaspora le perçoivent et relaient elles-mêmes le signal."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -150,8 +432,32 @@
           "ref": "Mishnah Rosh Hashanah 2:5",
           "he": "חָצֵר גְּדוֹלָה הָיְתָה בִירוּשָׁלַיִם, וּבֵית יַעְזֵק הָיְתָה נִקְרֵאת, וּלְשָׁם כָּל הָעֵדִים מִתְכַּנְּסִים, וּבֵית דִּין בּוֹדְקִין אוֹתָם שָׁם. וּסְעוּדוֹת גְּדוֹלוֹת עוֹשִׂין לָהֶם בִּשְׁבִיל שֶׁיְּהוּ רְגִילִין לָבֹא. בָּרִאשׁוֹנָה לֹא הָיוּ זָזִין מִשָּׁם כָּל הַיּוֹם, הִתְקִין רַבָּן גַּמְלִיאֵל הַזָּקֵן שֶׁיְּהוּ מְהַלְּכִין אַלְפַּיִם אַמָּה לְכָל רוּחַ. וְלֹא אֵלּוּ בִלְבַד, אֶלָּא אַף הַחֲכָמָה הַבָּאָה לְיַלֵּד, וְהַבָּא לְהַצִּיל מִן הַדְּלֵקָה וּמִן הַגַּיִס וּמִן הַנָּהָר וּמִן הַמַּפֹּלֶת, הֲרֵי אֵלּוּ כְאַנְשֵׁי הָעִיר, וְיֵשׁ לָהֶם אַלְפַּיִם אַמָּה לְכָל רוּחַ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il y avait une grande cour à Jérusalem, appelée Beit Ya‘azek ; c’est là que tous les témoins se rassemblaient, et c’est là que le tribunal les interrogeait. On leur préparait de grands repas, afin qu’ils aient l’habitude de venir. Au début, ils ne bougeaient pas de là durant toute la journée ; Rabban Gamliel l’Ancien institua qu’ils puissent marcher deux mille coudées dans chaque direction. Et cela ne concerne pas seulement ceux-ci : même la sage-femme qui vient pour faire accoucher, et celui qui vient sauver d’un incendie, d’une troupe armée, d’un fleuve ou d’un éboulement, ceux-là sont comme les habitants de la ville, et ils ont deux mille coudées dans chaque direction.",
+          "etude_fr": {
+            "traduction_fr": "Il y avait une grande cour à Jérusalem, appelée Beit Ya‘azek ; c’est là que tous les témoins se rassemblaient, et c’est là que le tribunal les interrogeait. On leur préparait de grands repas, afin qu’ils aient l’habitude de venir. Au début, ils ne bougeaient pas de là durant toute la journée ; Rabban Gamliel l’Ancien institua qu’ils puissent marcher deux mille coudées dans chaque direction. Et cela ne concerne pas seulement ceux-ci : même la sage-femme qui vient pour faire accoucher, et celui qui vient sauver d’un incendie, d’une troupe armée, d’un fleuve ou d’un éboulement, ceux-là sont comme les habitants de la ville, et ils ont deux mille coudées dans chaque direction.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 2:5",
+                "explication": "Le Beit Ya‘azek était une grande cour destinée à accueillir les témoins venus attester l’apparition de la nouvelle lune. On les y réunissait afin que le tribunal puisse les examiner avec précision. Les grands repas qu’on leur servait avaient pour but de les encourager à revenir les mois suivants, car leur déplacement était nécessaire à la fixation du calendrier. Au départ, puisque ces témoins avaient dépassé les limites de Chabbat pour une nécessité de mitsva, ils étaient néanmoins confinés au lieu où ils arrivaient ; Rabban Gamliel l’Ancien institua qu’ils auraient le droit de se déplacer dans un rayon de deux mille coudées, comme les habitants d’une ville."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:5",
+                "explication": "Le Rambam explique que la règle enseignée ici relève des lois des limites de Chabbat : celui qui sort du domaine permis pour une nécessité autorisée ne reste pas limité à quatre coudées, mais reçoit deux mille coudées dans chaque direction. L’institution de Rabban Gamliel fut motivée par la crainte que les témoins cessent de venir si, après avoir accompli leur mission, ils étaient immobilisés toute la journée. La même mesure s’applique à toute personne sortie pour sauver une vie ou pour une nécessité publique indispensable."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 2:5",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « comme les habitants de la ville » signifie que ces personnes sont considérées, pour les limites de Chabbat, comme ayant acquis leur résidence dans la ville où elles sont arrivées pour accomplir leur mission. Elles ne disposent donc pas seulement d’un petit espace autour d’elles, mais du même statut que les gens de cette ville, avec deux mille coudées à partir de ses limites."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 2:5",
+                "explication": "Le Tiféret Israël souligne le principe général de la Michna : les Sages ont facilité les conditions de ceux qui agissent pour une nécessité de mitsva ou pour sauver des vies, afin de ne pas décourager de telles actions à l’avenir. C’est pourquoi la permission ne concerne pas seulement les témoins de la nouvelle lune, mais aussi la sage-femme et ceux qui interviennent face à un danger immédiat, comme un incendie, une attaque, une crue ou un effondrement."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -160,8 +466,32 @@
           "ref": "Mishnah Rosh Hashanah 2:6",
           "he": "כֵּיצַד בּוֹדְקִין אֶת הָעֵדִים. זוּג שֶׁבָּא רִאשׁוֹן, בּוֹדְקִין אוֹתוֹ רִאשׁוֹן. וּמַכְנִיסִין אֶת הַגָּדוֹל שֶׁבָּהֶן וְאוֹמְרִים לוֹ, אֱמֹר, כֵּיצַד רָאִיתָ אֶת הַלְּבָנָה, לִפְנֵי הַחַמָּה אוֹ לְאַחַר הַחַמָּה, לִצְפוֹנָהּ אוֹ לִדְרוֹמָהּ, כַּמָּה הָיָה גָבוֹהַּ וּלְאַיִן הָיָה נוֹטֶה, וְכַמָּה הָיָה רָחָב. אִם אָמַר לִפְנֵי הַחַמָּה, לֹא אָמַר כְּלוּם. וְאַחַר כָּךְ הָיוּ מַכְנִיסִים אֶת הַשֵּׁנִי וּבוֹדְקִין אוֹתוֹ. אִם נִמְצְאוּ דִבְרֵיהֶם מְכֻוָּנִים, עֵדוּתָן קַיָּמֶת. וּשְׁאָר כָּל הַזּוּגוֹת שׁוֹאֲלִין אוֹתָם רָאשֵׁי דְבָרִים, לֹא שֶׁהָיוּ צְרִיכִין לָהֶן, אֶלָּא כְּדֵי שֶׁלֹּא יֵצְאוּ בְּפַחֵי נֶפֶשׁ, בִּשְׁבִיל שֶׁיְּהוּ רְגִילִים לָבֹא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Comment interroge-t-on les témoins ? Le premier groupe de deux qui est arrivé, on l’interroge en premier. On fait entrer le plus éminent d’entre eux et on lui dit : « Dis : comment as-tu vu la lune ? Était-elle devant le soleil ou derrière le soleil ? Au nord de celui-ci ou au sud ? À quelle hauteur était-elle, vers où était-elle inclinée, et quelle était sa largeur ? » S’il a dit : « Devant le soleil », il n’a rien dit. Ensuite, on faisait entrer le second et on l’interrogeait. Si leurs paroles se trouvaient concordantes, leur témoignage était recevable. Quant à tous les autres groupes de deux, on leur demandait seulement les grandes lignes, non qu’on eût besoin d’eux, mais afin qu’ils ne repartent pas l’âme abattue, pour qu’ils aient l’habitude de venir.",
+          "etude_fr": {
+            "traduction_fr": "Comment interroge-t-on les témoins ? Le premier groupe de deux qui est arrivé, on l’interroge en premier. On fait entrer le plus éminent d’entre eux et on lui dit : « Dis : comment as-tu vu la lune ? Était-elle devant le soleil ou derrière le soleil ? Au nord de celui-ci ou au sud ? À quelle hauteur était-elle, vers où était-elle inclinée, et quelle était sa largeur ? » S’il a dit : « Devant le soleil », il n’a rien dit. Ensuite, on faisait entrer le second et on l’interrogeait. Si leurs paroles se trouvaient concordantes, leur témoignage était recevable. Quant à tous les autres groupes de deux, on leur demandait seulement les grandes lignes, non qu’on eût besoin d’eux, mais afin qu’ils ne repartent pas l’âme abattue, pour qu’ils aient l’habitude de venir.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 2:6",
+                "explication": "Bartenoura explique que les témoins étaient interrogés séparément afin de vérifier que leur témoignage était exact et concordant. Les questions portent sur la position du croissant par rapport au soleil, sa hauteur, son inclinaison et son épaisseur, car ces détails permettent aux juges de reconnaître si l’observation est possible. S’il dit que la lune était « devant le soleil », son témoignage est nul, car le croissant de la nouvelle lune ne peut pas être vu ainsi dans la position décrite."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 2:6",
+                "explication": "Le Rambam précise que ces questions relèvent de la connaissance astronomique nécessaire au tribunal pour sanctifier le mois. Les juges connaissaient, par le calcul, la forme et l’emplacement où la nouvelle lune devait pouvoir être observée ; l’interrogatoire servait donc à confronter les propos des témoins à ce qui était possible dans la réalité. Lorsque les deux témoignages s’accordaient sur ces points, leur témoignage pouvait être accepté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Rosh Hashanah 2:6",
+                "explication": "Le Tossafot Yom Tov souligne que l’on faisait entrer d’abord le plus éminent des deux témoins par respect pour lui. Il relève aussi que l’expression « leurs paroles se trouvaient concordantes » signifie que les réponses des deux témoins ne se contredisaient pas dans les éléments essentiels de l’observation ; c’est cette concordance qui rend le témoignage valable."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Rosh Hashanah 2:6",
+                "explication": "Le Tiféret Israël explique que l’on interrogeait aussi les autres groupes, bien que le tribunal n’en eût plus besoin une fois le premier témoignage accepté, pour ne pas les décourager. Puisqu’ils avaient fait l’effort de venir témoigner pour une mitsva publique, on leur témoignait de la considération afin qu’à l’avenir eux-mêmes et d’autres continuent à se déplacer pour le témoignage de la nouvelle lune."
+              }
+            ]
+          }
         },
         {
           "id": "2:7",
@@ -170,8 +500,32 @@
           "ref": "Mishnah Rosh Hashanah 2:7",
           "he": "רֹאשׁ בֵּית דִּין אוֹמֵר מְקֻדָּשׁ, וְכָל הָעָם עוֹנִין אַחֲרָיו מְקֻדָּשׁ מְקֻדָּשׁ. בֵּין שֶׁנִּרְאָה בִזְמַנּוֹ בֵּין שֶׁלֹּא נִרְאָה בִזְמַנּוֹ, מְקַדְּשִׁין אוֹתוֹ. רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק אוֹמֵר, אִם לֹא נִרְאָה בִזְמַנּוֹ, אֵין מְקַדְּשִׁין אוֹתוֹ, שֶׁכְּבָר קִדְּשׁוּהוּ שָׁמָיִם:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le chef du tribunal dit : « Sanctifié », et tout le peuple répond après lui : « Sanctifié, sanctifié. » Qu’il ait été aperçu en son temps ou qu’il n’ait pas été aperçu en son temps, on le sanctifie. Rabbi El‘azar fils de Rabbi Tsadok dit : s’il n’a pas été aperçu en son temps, on ne le sanctifie pas, car les Cieux l’ont déjà sanctifié.",
+          "etude_fr": {
+            "traduction_fr": "Le chef du tribunal dit : « Sanctifié », et tout le peuple répond après lui : « Sanctifié, sanctifié. » Qu’il ait été aperçu en son temps ou qu’il n’ait pas été aperçu en son temps, on le sanctifie. Rabbi El‘azar fils de Rabbi Tsadok dit : s’il n’a pas été aperçu en son temps, on ne le sanctifie pas, car les Cieux l’ont déjà sanctifié.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 2:7",
+                "explication": "Le chef du tribunal proclame « sanctifié » après l’audition et la validation du témoignage des témoins ayant vu la nouvelle lune. Le peuple répond deux fois « sanctifié, sanctifié », conformément au verset « que vous proclamerez » : la proclamation du tribunal établit la sainteté du mois. « En son temps » signifie que la lune a été vue la nuit du trentième jour, de sorte que ce jour devient Roch ‘Hodech. « Pas en son temps » signifie qu’elle n’a pas été vue au trentième jour et que le mois précédent est donc plein ; le trente-et-unième jour devient alors automatiquement le début du nouveau mois. Selon le premier avis, même dans ce cas le tribunal proclame la sanctification. Rabbi El‘azar fils de Rabbi Tsadok conteste : lorsque le mois précédent a nécessairement trente jours, il n’y a plus besoin de sanctification humaine, car le nouveau mois est établi de lui-même par l’ordre céleste. La halakha suit Rabbi El‘azar fils de Rabbi Tsadok."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 2:7",
+                "explication": "Le Rambam explique que la sanctification du mois dépend du tribunal : après réception du témoignage sur la nouvelle lune, le président du tribunal déclare le mois sanctifié. La répétition par le peuple exprime l’acceptation publique de cette décision. Toutefois, lorsque la lune n’a pas été vue au moment où elle pouvait rendre le trentième jour Roch ‘Hodech, le mois sortant devient obligatoirement embolismique, c’est-à-dire complet de trente jours, et le jour suivant est le nouveau mois sans autre acte nécessaire. C’est le sens des paroles de Rabbi El‘azar fils de Rabbi Tsadok : « les Cieux l’ont déjà sanctifié », car la réalité calendaire ne laisse plus d’alternative au tribunal."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 2:7",
+                "explication": "Le Tossafot Yom Tov précise que la formule « sanctifié, sanctifié » n’est pas une simple acclamation, mais fait partie de l’ordre de la proclamation publique du mois. Le tribunal dit d’abord « sanctifié » au singulier, puis le peuple répond en doublant l’expression, afin de rendre manifeste que cette sainteté est reconnue et diffusée publiquement. Il souligne aussi que la discussion entre le premier avis et Rabbi El‘azar fils de Rabbi Tsadok porte uniquement sur le cas où la nouvelle lune n’a pas été vue en son temps : faut-il malgré tout une proclamation formelle du tribunal, ou bien le calendrier est-il fixé automatiquement par le fait que le mois précédent a atteint sa durée maximale ?"
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 2:7",
+                "explication": "Le Tiféret Israël explique de manière pratique le déroulement : les témoins sont examinés, le tribunal accepte leur témoignage, puis le chef du tribunal proclame la sanctification du mois. Si la lune a été vue à temps, cette proclamation est indispensable, car c’est elle qui fait du trentième jour le premier jour du nouveau mois. En revanche, selon Rabbi El‘azar fils de Rabbi Tsadok, lorsque la lune n’a pas été vue à temps, le mois précédent ne peut plus être prolongé au-delà de trente jours ; dès lors, le jour suivant est nécessairement Roch ‘Hodech, et l’expression « les Cieux l’ont déjà sanctifié » signifie que le tribunal n’a plus à créer la sainteté du jour par une déclaration."
+              }
+            ]
+          }
         },
         {
           "id": "2:8",
@@ -180,8 +534,32 @@
           "ref": "Mishnah Rosh Hashanah 2:8",
           "he": "דְּמוּת צוּרוֹת לְבָנוֹת הָיוּ לוֹ לְרַבָּן גַּמְלִיאֵל בַּטַּבְלָא וּבַכֹּתֶל בַּעֲלִיָּתוֹ, שֶׁבָּהֶן מַרְאֶה אֶת הַהֶדְיוֹטוֹת וְאוֹמֵר, הֲכָזֶה רָאִיתָ אוֹ כָזֶה. מַעֲשֶׂה שֶׁבָּאוּ שְׁנַיִם וְאָמְרוּ, רְאִינוּהוּ שַׁחֲרִית בַּמִּזְרָח וְעַרְבִית בַּמַּעֲרָב. אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי, עֵדֵי שֶׁקֶר הֵם. כְּשֶׁבָּאוּ לְיַבְנֶה קִבְּלָן רַבָּן גַּמְלִיאֵל. וְעוֹד בָּאוּ שְׁנַיִם וְאָמְרוּ, רְאִינוּהוּ בִזְמַנּוֹ, וּבְלֵיל עִבּוּרוֹ לֹא נִרְאָה, וְקִבְּלָן רַבָּן גַּמְלִיאֵל. אָמַר רַבִּי דוֹסָא בֶּן הַרְכִּינָס, עֵדֵי שֶׁקֶר הֵן, הֵיאָךְ מְעִידִין עַל הָאִשָּׁה שֶׁיָּלְדָה, וּלְמָחָר כְּרֵסָהּ בֵּין שִׁנֶּיהָ. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ, רוֹאֶה אֲנִי אֶת דְּבָרֶיךָ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabban Gamliel possédait, sur une tablette et sur le mur de sa chambre haute, des représentations de formes de lunes ; au moyen de celles-ci, il les montrait aux gens simples et disait : « Est-ce ainsi que vous l’avez vue, ou ainsi ? »\n\nIl arriva que deux hommes vinrent et dirent : « Nous l’avons vue le matin à l’est, et le soir à l’ouest. » Rabbi Yoḥanan ben Nouri dit : « Ce sont des témoins mensongers. » Lorsqu’ils arrivèrent à Yavné, Rabban Gamliel les accepta.\n\nDeux autres vinrent encore et dirent : « Nous l’avons vue en son temps, mais la nuit de son prolongement elle ne fut pas visible. » Rabban Gamliel les accepta. Rabbi Dosa ben Harkinas dit : « Ce sont des témoins mensongers ! Comment pourraient-ils témoigner au sujet d’une femme qu’elle a enfanté, alors que le lendemain son ventre est encore entre ses dents ? » Rabbi Yehoshoua lui dit : « Je considère que tes paroles sont justes. »",
+          "etude_fr": {
+            "traduction_fr": "Rabban Gamliel possédait, sur une tablette et sur le mur de sa chambre haute, des représentations de formes de lunes ; au moyen de celles-ci, il les montrait aux gens simples et disait : « Est-ce ainsi que vous l’avez vue, ou ainsi ? »\n\nIl arriva que deux hommes vinrent et dirent : « Nous l’avons vue le matin à l’est, et le soir à l’ouest. » Rabbi Yoḥanan ben Nouri dit : « Ce sont des témoins mensongers. » Lorsqu’ils arrivèrent à Yavné, Rabban Gamliel les accepta.\n\nDeux autres vinrent encore et dirent : « Nous l’avons vue en son temps, mais la nuit de son prolongement elle ne fut pas visible. » Rabban Gamliel les accepta. Rabbi Dosa ben Harkinas dit : « Ce sont des témoins mensongers ! Comment pourraient-ils témoigner au sujet d’une femme qu’elle a enfanté, alors que le lendemain son ventre est encore entre ses dents ? » Rabbi Yehoshoua lui dit : « Je considère que tes paroles sont justes. »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 2:8",
+                "explication": "Rabban Gamliel utilisait ces formes de lunes pour interroger les témoins qui n’étaient pas capables de décrire avec précision l’aspect du croissant lunaire. Il leur montrait différentes inclinaisons et épaisseurs du croissant et leur demandait laquelle correspondait à ce qu’ils avaient vu. Concernant les témoins qui dirent avoir vu la lune le matin à l’est et le soir à l’ouest, Rabbi Yoḥanan ben Nouri les déclara menteurs, mais Rabban Gamliel les accepta, car d’après son calcul astronomique leur témoignage pouvait être possible."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 2:8",
+                "explication": "Le Rambam explique que le tribunal devait vérifier le témoignage sur la nouvelle lune par des questions précises portant sur sa forme, sa position et son orientation. Les images conservées par Rabban Gamliel servaient à rendre cet examen clair même pour des témoins simples. Pour le second cas, le fait que la lune n’ait pas été vue la nuit suivante ne prouve pas que le premier témoignage était faux : elle pouvait ne pas être visible à cause de nuages ou d’autres conditions empêchant l’observation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 2:8",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « formes de lunes » désigne différentes apparences du croissant lunaire, et non de simples décorations. Le terme « gens simples » signifie des témoins qui ne savaient pas exprimer correctement ce qu’ils avaient vu ; Rabban Gamliel les aidait donc à identifier leur observation sans leur suggérer un témoignage mensonger."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Rosh Hashanah 2:8",
+                "explication": "Le Tiféret Israël souligne la force de la comparaison de Rabbi Dosa ben Harkinas : si l’on affirme que la nouvelle lune est déjà née, il semble absurde qu’elle disparaisse ensuite comme si elle n’était pas née. Toutefois, Rabban Gamliel ne considérait pas l’absence d’observation le lendemain comme une preuve, car la visibilité dépend aussi de facteurs extérieurs. La Michna prépare ainsi la controverse halakhique qui suit entre Rabban Gamliel et Rabbi Yehoshoua."
+              }
+            ]
+          }
         },
         {
           "id": "2:9",
@@ -190,8 +568,32 @@
           "ref": "Mishnah Rosh Hashanah 2:9",
           "he": "שָׁלַח לוֹ רַבָּן גַּמְלִיאֵל, גּוֹזְרַנִי עָלֶיךָ שֶׁתָּבֹא אֶצְלִי בְּמַקֶּלְךָ וּבִמְעוֹתֶיךָ בְּיוֹם הַכִּפּוּרִים שֶׁחָל לִהְיוֹת בְּחֶשְׁבּוֹנְךָ. הָלַךְ וּמְצָאוֹ רַבִּי עֲקִיבָא מֵצֵר, אָמַר לוֹ, יֶשׁ לִי לִלְמוֹד שֶׁכָּל מַה שֶּׁעָשָׂה רַבָּן גַּמְלִיאֵל עָשׂוּי, שֶׁנֶּאֱמַר (ויקרא כג), אֵלֶּה מוֹעֲדֵי יְיָ מִקְרָאֵי קֹדֶשׁ, אֲשֶׁר תִּקְרְאוּ אֹתָם, בֵּין בִּזְמַנָּן בֵּין שֶׁלֹּא בִזְמַנָּן, אֵין לִי מוֹעֲדוֹת אֶלָּא אֵלּוּ. בָּא לוֹ אֵצֶל רַבִּי דוֹסָא בֶּן הַרְכִּינָס, אָמַר לוֹ, אִם בָּאִין אָנוּ לָדוּן אַחַר בֵּית דִּינוֹ שֶׁל רַבָּן גַּמְלִיאֵל, צְרִיכִין אָנוּ לָדוּן אַחַר כָּל בֵּית דִּין וּבֵית דִּין שֶׁעָמַד מִימוֹת משֶׁה וְעַד עַכְשָׁיו, שֶׁנֶּאֱמַר (שמות כד), וַיַּעַל משֶׁה וְאַהֲרֹן נָדָב וַאֲבִיהוּא וְשִׁבְעִים מִזִּקְנֵי יִשְׂרָאֵל. וְלָמָּה לֹא נִתְפָּרְשׁוּ שְׁמוֹתָן שֶׁל זְקֵנִים, אֶלָּא לְלַמֵּד, שֶׁכָּל שְׁלשָׁה וּשְׁלשָׁה שֶׁעָמְדוּ בֵית דִּין עַל יִשְׂרָאֵל, הֲרֵי הוּא כְבֵית דִּינוֹ שֶׁל משֶׁה. נָטַל מַקְלוֹ וּמְעוֹתָיו בְּיָדוֹ, וְהָלַךְ לְיַבְנֶה אֵצֶל רַבָּן גַּמְלִיאֵל בְּיוֹם שֶׁחָל יוֹם הַכִּפּוּרִים לִהְיוֹת בְּחֶשְׁבּוֹנוֹ. עָמַד רַבָּן גַּמְלִיאֵל וּנְשָׁקוֹ עַל רֹאשׁוֹ, אָמַר לוֹ, בֹּא בְשָׁלוֹם, רַבִּי וְתַלְמִידִי, רַבִּי בְחָכְמָה, וְתַלְמִידִי שֶׁקִּבַּלְתָּ דְּבָרָי:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Rabban Gamliel lui envoya dire : « Je décrète sur toi que tu viennes chez moi avec ton bâton et avec ton argent, le jour de Kippour qui tombe selon ton calcul. » Rabbi Akiva alla et le trouva affligé. Il lui dit : « J’ai de quoi enseigner que tout ce qu’a fait Rabban Gamliel est valable, car il est dit : “Voici les temps fixés de l’Éternel, convocations saintes, que vous proclamerez” : que ce soit en leur temps ou que ce ne soit pas en leur temps, je n’ai d’autres temps fixés que ceux-là. » Il se rendit auprès de Rabbi Dossa ben Harkinas. Celui-ci lui dit : « Si nous venons à contester le tribunal de Rabban Gamliel, il nous faudrait contester chaque tribunal qui s’est tenu depuis les jours de Moché jusqu’à maintenant, car il est dit : “Moché monta, ainsi qu’Aharon, Nadav et Avihou, et soixante-dix des anciens d’Israël.” Et pourquoi les noms des anciens n’ont-ils pas été explicités ? Afin d’enseigner que tout groupe de trois hommes qui s’est tenu comme tribunal sur Israël est considéré comme le tribunal de Moché. » Il prit son bâton et son argent en main, et alla à Yavné auprès de Rabban Gamliel, le jour où Kippour tombait selon son calcul. Rabban Gamliel se leva, l’embrassa sur la tête et lui dit : « Viens en paix, mon maître et mon disciple : mon maître en sagesse, et mon disciple, car tu as accepté mes paroles. »",
+          "etude_fr": {
+            "traduction_fr": "Rabban Gamliel lui envoya dire : « Je décrète sur toi que tu viennes chez moi avec ton bâton et avec ton argent, le jour de Kippour qui tombe selon ton calcul. » Rabbi Akiva alla et le trouva affligé. Il lui dit : « J’ai de quoi enseigner que tout ce qu’a fait Rabban Gamliel est valable, car il est dit : “Voici les temps fixés de l’Éternel, convocations saintes, que vous proclamerez” : que ce soit en leur temps ou que ce ne soit pas en leur temps, je n’ai d’autres temps fixés que ceux-là. » Il se rendit auprès de Rabbi Dossa ben Harkinas. Celui-ci lui dit : « Si nous venons à contester le tribunal de Rabban Gamliel, il nous faudrait contester chaque tribunal qui s’est tenu depuis les jours de Moché jusqu’à maintenant, car il est dit : “Moché monta, ainsi qu’Aharon, Nadav et Avihou, et soixante-dix des anciens d’Israël.” Et pourquoi les noms des anciens n’ont-ils pas été explicités ? Afin d’enseigner que tout groupe de trois hommes qui s’est tenu comme tribunal sur Israël est considéré comme le tribunal de Moché. » Il prit son bâton et son argent en main, et alla à Yavné auprès de Rabban Gamliel, le jour où Kippour tombait selon son calcul. Rabban Gamliel se leva, l’embrassa sur la tête et lui dit : « Viens en paix, mon maître et mon disciple : mon maître en sagesse, et mon disciple, car tu as accepté mes paroles. »",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 2:9",
+                "explication": "Bartenoura explique que l’homme à qui Rabban Gamliel envoya l’ordre est Rabbi Yehoshoua, qui avait calculé le mois autrement et pensait donc que Kippour tombait un autre jour. Rabban Gamliel lui demanda de venir avec son bâton et son argent précisément ce jour-là, afin de montrer publiquement qu’il n’était pas Kippour selon la décision du tribunal. La Michna enseigne ainsi que la fixation des mois dépend de l’autorité du tribunal reconnu, même si certains sages pensent que son calcul est erroné."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 2:9",
+                "explication": "Le Rambam souligne le principe fondamental tiré du verset : « que vous proclamerez ». Les jours saints ne sont pas déterminés seulement par la réalité astronomique, mais par la proclamation du tribunal d’Israël. Même si le tribunal s’est trompé, volontairement ou involontairement, le jour qu’il a sanctifié devient le temps fixé par la Torah. C’est pourquoi Rabbi Akiva console Rabbi Yehoshoua : la validité de Kippour suit la décision de Rabban Gamliel et de son tribunal."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Rosh Hashanah 2:9",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « tout groupe de trois » ne signifie pas n’importe quels trois hommes sans qualification, mais un tribunal établi et accepté comme autorité pour Israël. La comparaison avec le tribunal de Moché enseigne que chaque génération doit se soumettre à son tribunal compétent, car sans cela l’ordre de la Torah et du calendrier ne pourrait pas se maintenir."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Rosh Hashanah 2:9",
+                "explication": "Le Tiféret Israël met en lumière la dimension morale de l’épisode : Rabbi Yehoshoua, bien qu’il fût un grand sage et convaincu de son calcul, se soumit à l’autorité institutionnelle de Rabban Gamliel pour préserver l’unité d’Israël. Le baiser de Rabban Gamliel et ses mots — « mon maître en sagesse, mon disciple car tu as accepté mes paroles » — expriment à la fois la reconnaissance de la grandeur de Rabbi Yehoshoua et l’importance de l’acceptation de la décision du tribunal."
+              }
+            ]
+          }
         }
       ]
     },
@@ -205,8 +607,32 @@
           "ref": "Mishnah Rosh Hashanah 3:1",
           "he": "רָאוּהוּ בֵית דִּין וְכָל יִשְׂרָאֵל, נֶחְקְרוּ הָעֵדִים, וְלֹא הִסְפִּיקוּ לוֹמַר מְקֻדָּשׁ, עַד שֶׁחֲשֵׁכָה, הֲרֵי זֶה מְעֻבָּר. רָאוּהוּ בֵית דִּין בִּלְבַד, יַעַמְדוּ שְׁנַיִם וְיָעִידוּ בִפְנֵיהֶם, וְיֹאמְרוּ מְקֻדָּשׁ מְקֻדָּשׁ. רָאוּהוּ שְׁלשָׁה וְהֵן בֵּית דִּין, יַעַמְדוּ הַשְּׁנַיִם וְיוֹשִׁיבוּ מֵחַבְרֵיהֶם אֵצֶל הַיָּחִיד וְיָעִידוּ בִפְנֵיהֶם, וְיֹאמְרוּ מְקֻדָּשׁ מְקֻדָּשׁ, שֶׁאֵין הַיָּחִיד נֶאֱמָן עַל יְדֵי עַצְמוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si le tribunal et tout Israël l’ont vue, que les témoins ont été interrogés, mais qu’ils n’ont pas eu le temps de dire : « Sanctifié », avant que l’obscurité ne tombe, ce mois est déclaré embolismique. Si le tribunal seul l’a vue, deux se lèveront et témoigneront devant eux, et ils diront : « Sanctifié, sanctifié. » Si trois l’ont vue, et qu’ils constituent le tribunal, les deux se lèveront, feront asseoir certains de leurs collègues auprès de celui qui reste seul, témoigneront devant eux, et ils diront : « Sanctifié, sanctifié », car un individu seul n’est pas digne de foi par lui-même.",
+          "etude_fr": {
+            "traduction_fr": "Si le tribunal et tout Israël l’ont vue, que les témoins ont été interrogés, mais qu’ils n’ont pas eu le temps de dire : « Sanctifié », avant que l’obscurité ne tombe, ce mois est déclaré embolismique. Si le tribunal seul l’a vue, deux se lèveront et témoigneront devant eux, et ils diront : « Sanctifié, sanctifié. » Si trois l’ont vue, et qu’ils constituent le tribunal, les deux se lèveront, feront asseoir certains de leurs collègues auprès de celui qui reste seul, témoigneront devant eux, et ils diront : « Sanctifié, sanctifié », car un individu seul n’est pas digne de foi par lui-même.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:1",
+                "explication": "Même si le tribunal et tout Israël ont vu la nouvelle lune, cela ne suffit pas : la sanctification du mois dépend de la proclamation du tribunal, qui doit dire « Sanctifié ». Si la nuit est tombée avant cette proclamation, on ne sanctifie plus ce jour-là, et le mois précédent devient plein, c’est-à-dire de trente jours. Dans le cas où seuls les juges ont vu la lune, deux d’entre eux doivent se lever comme témoins et témoigner devant un tribunal, car la sanctification doit se faire par un tribunal recevant un témoignage."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:1",
+                "explication": "Le Rambam explique que la vision de la lune, même par le tribunal, ne fixe pas d’elle-même le nouveau mois. Il faut une procédure judiciaire : audition du témoignage et proclamation « Sanctifié ». Lorsque trois juges ont vu la lune, deux deviennent témoins et ne siègent pas comme juges pour ce témoignage ; on adjoint donc deux autres juges au troisième, afin qu’il y ait un tribunal de trois devant lequel les témoins déposent."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 3:1",
+                "explication": "Il précise que l’expression « ce mois est déclaré embolismique » signifie que le mois précédent est prolongé et compte trente jours, non que l’on ajoute un mois entier comme dans une année embolismique. Il souligne aussi que la Michna parle d’un cas où la procédure n’a pas été achevée de jour, car la sanctification du mois ne peut se faire la nuit."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Roch Hachana 3:1",
+                "explication": "Il met en évidence le principe juridique de la Michna : il faut à la fois des témoins et un tribunal. Un seul juge restant ne peut pas former un tribunal à lui seul, même s’il a vu la lune ; c’est pourquoi on lui adjoint d’autres juges. Les deux qui ont vu avec lui témoignent alors devant ce tribunal, lequel proclame ensuite « Sanctifié, sanctifié »."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -215,8 +641,32 @@
           "ref": "Mishnah Rosh Hashanah 3:2",
           "he": "כָּל הַשּׁוֹפָרוֹת כְּשֵׁרִין חוּץ מִשֶּׁל פָּרָה, מִפְּנֵי שֶׁהוּא קֶרֶן. אָמַר רַבִּי יוֹסֵי, וַהֲלֹא כָל הַשּׁוֹפָרוֹת נִקְרְאוּ קֶרֶן, שֶׁנֶּאֱמַר (יהושע ו), בִּמְשֹׁךְ בְּקֶרֶן הַיּוֹבֵל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tous les chofars sont valides, sauf celui de la vache, parce que c’est une corne. Rabbi Yossé dit : Mais tous les chofars ne sont-ils pas appelés « corne », comme il est dit : « Lorsque l’on sonnera longuement de la corne du yovel » ?",
+          "etude_fr": {
+            "traduction_fr": "Tous les chofars sont valides, sauf celui de la vache, parce que c’est une corne. Rabbi Yossé dit : Mais tous les chofars ne sont-ils pas appelés « corne », comme il est dit : « Lorsque l’on sonnera longuement de la corne du yovel » ?",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 3:2",
+                "explication": "Le premier avis exclut le chofar de vache, car la Torah emploie pour lui le terme « corne » — keren — et non le terme « chofar ». Rabbi Yossé objecte que même les chofars valides sont appelés « corne » dans le verset de Yehoshoua : « la corne du yovel ». Bartenoura précise que la halakha ne suit pas Rabbi Yossé : un chofar de vache est invalide."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:2",
+                "explication": "Le Rambam explique que tous les chofars d’animaux sont valides, à l’exception de celui de la vache. Bien que, dans le langage biblique, le mot « keren » puisse désigner plusieurs types de cornes, le chofar de vache est écarté. Dans la halakha, le Rambam retient que le chofar doit provenir d’un animal dont la corne est appelée chofar et non d’une corne de vache."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 3:2",
+                "explication": "Le Tossafot Yom Tov souligne la force de l’objection de Rabbi Yossé : le verset montre que le terme « keren » n’est pas, en soi, une raison suffisante pour invalider. Il rapporte cependant que la Guemara donne d’autres raisons à l’exclusion du chofar de vache, notamment l’idée qu’il rappelle le veau d’or, et qu’un accusateur ne peut devenir défenseur au moment du jugement."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Guemara Roch Hachana 26a",
+                "explication": "Rachi explique que le chofar de vache est associé au veau d’or. Puisque le chofar sert à éveiller la miséricorde divine et à défendre Israël au jour du jugement, il ne convient pas d’utiliser un instrument qui rappelle une faute grave. C’est le principe : « l’accusateur ne devient pas défenseur »."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -225,8 +675,32 @@
           "ref": "Mishnah Rosh Hashanah 3:3",
           "he": "שׁוֹפָר שֶׁל רֹאשׁ הַשָּׁנָה שֶׁל יָעֵל, פָּשׁוּט, וּפִיו מְצֻפֶּה זָהָב, וּשְׁתֵּי חֲצוֹצְרוֹת מִן הַצְּדָדִין. שׁוֹפָר מַאֲרִיךְ וַחֲצוֹצְרוֹת מְקַצְּרוֹת, שֶׁמִּצְוַת הַיּוֹם בַּשּׁוֹפָר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le chofar de Roch Hachana était en corne de bouquetin, droit, et son embouchure était recouverte d’or ; deux trompettes se tenaient de part et d’autre. Le chofar prolongeait le son et les trompettes l’abrégeaient, car la mitsva du jour se fait par le chofar.",
+          "etude_fr": {
+            "traduction_fr": "Le chofar de Roch Hachana était en corne de bouquetin, droit, et son embouchure était recouverte d’or ; deux trompettes se tenaient de part et d’autre. Le chofar prolongeait le son et les trompettes l’abrégeaient, car la mitsva du jour se fait par le chofar.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:3",
+                "explication": "Le Bartenoura explique que cette Michna décrit la manière dont on sonnait dans le Temple à Roch Hachana. Le chofar utilisé était celui d’un yael, c’est-à-dire d’un bouquetin, et il était droit. Les deux trompettes placées sur les côtés accompagnaient le chofar, mais le son principal devait être celui du chofar : c’est pourquoi le chofar prolongeait sa sonnerie tandis que les trompettes écourtaient la leur, afin que l’on entende finalement le chofar, puisque la mitsva propre à Roch Hachana est le chofar."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:3",
+                "explication": "Le Rambam précise que l’association du chofar et des trompettes concernait le Temple, conformément au verset : « Avec des trompettes et le son du chofar, acclamez devant le Roi, Hachem » ; en dehors du Temple, on ne sonnait pas ainsi avec des trompettes à Roch Hachana. Le fait que le chofar prolonge son son exprime que l’accomplissement essentiel de la mitsva du jour dépend du chofar et non des trompettes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 3:3",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « son embouchure était recouverte d’or » ne signifie pas que l’or recouvrait l’endroit où l’on pose la bouche au point de faire écran au son, car cela invaliderait le chofar. Le revêtement était donc placé autour de l’embouchure, de manière décorative, sans modifier le son essentiel du chofar."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Roch Hachana 3:3",
+                "explication": "Le Tiféret Israël explique que la Michna met en contraste le statut du chofar et celui des trompettes : les trompettes ne venaient qu’ajouter de la solennité à la sonnerie dans le Temple, tandis que le chofar portait l’obligation centrale de Roch Hachana. C’est pourquoi l’ordre sonore était organisé pour que le chofar demeure dominant et identifiable."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -235,8 +709,27 @@
           "ref": "Mishnah Rosh Hashanah 3:4",
           "he": "בַּתַּעֲנִיּוֹת, בְּשֶׁל זְכָרִים, כְּפוּפִין, וּפִיהֶן מְצֻפֶּה כֶסֶף, וּשְׁתֵּי חֲצוֹצְרוֹת בָּאֶמְצַע. שׁוֹפָר מְקַצֵּר וַחֲצוֹצְרוֹת מַאֲרִיכוֹת, שֶׁמִּצְוַת הַיּוֹם בַּחֲצוֹצְרוֹת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lors des jeûnes, on sonne avec des cornes de béliers, courbées, dont l’embouchure est recouverte d’argent, et deux trompettes se trouvent au milieu. Le shofar abrège sa sonnerie, et les trompettes prolongent la leur, car la mitsva du jour se fait avec les trompettes.",
+          "etude_fr": {
+            "traduction_fr": "Lors des jeûnes, on sonne avec des cornes de béliers, courbées, dont l’embouchure est recouverte d’argent, et deux trompettes se trouvent au milieu. Le shofar abrège sa sonnerie, et les trompettes prolongent la leur, car la mitsva du jour se fait avec les trompettes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 3:4",
+                "explication": "Bartenoura explique que, lors des jeûnes décrétés pour des malheurs publics, on utilisait des shofarot de béliers, courbés. Leur embouchure était recouverte d’argent, contrairement à Rosh Hashanah où elle était recouverte d’or. Les deux trompettes étaient placées au centre, car l’essentiel de la sonnerie de ce jour-là relevait des trompettes, comme il est dit : « vous sonnerez des trompettes » lors de vos détresses."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 3:4",
+                "explication": "Le Rambam précise que cette Michna décrit l’ordre des sonneries au Temple lors des jeûnes publics. Les trompettes y sont principales, car le verset prescrit de sonner des trompettes en temps de détresse. C’est pourquoi les trompettes prolongent leur son, tandis que le shofar ne fait qu’accompagner et abrège sa sonnerie."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 3:4",
+                "explication": "Le Tossafot Yom Tov souligne le contraste avec les sonneries de Rosh Hashanah : à Rosh Hashanah, la mitsva du jour est le shofar, tandis que lors des jeûnes la mitsva du jour est accomplie par les trompettes. Cela explique la disposition des instruments et la durée respective des sons : l’instrument principal est celui dont la sonnerie est prolongée."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -245,8 +738,27 @@
           "ref": "Mishnah Rosh Hashanah 3:5",
           "he": "שָׁוֶה הַיּוֹבֵל לְרֹאשׁ הַשָּׁנָה לַתְּקִיעָה וְלַבְּרָכוֹת. רַבִּי יְהוּדָה אוֹמֵר, בְּרֹאשׁ הַשָּׁנָה תּוֹקְעִין בְּשֶׁל זְכָרִים, וּבַיּוֹבְלוֹת בְּשֶׁל יְעֵלִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le Jubilé est semblable à Roch Hachana quant à la sonnerie et quant aux bénédictions. Rabbi Yehouda dit : à Roch Hachana, on sonne avec des cornes de béliers, et lors des Jubilés, avec des cornes de bouquetins.",
+          "etude_fr": {
+            "traduction_fr": "Le Jubilé est semblable à Roch Hachana quant à la sonnerie et quant aux bénédictions. Rabbi Yehouda dit : à Roch Hachana, on sonne avec des cornes de béliers, et lors des Jubilés, avec des cornes de bouquetins.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 3:5",
+                "explication": "« Quant à la sonnerie et quant aux bénédictions » signifie que, le jour de Yom Kippour de l’année du Jubilé, on sonne du chofar comme à Roch Hachana, et l’on récite les bénédictions de Malkhouyot, Zikhronot et Chofarot, comme à Roch Hachana. Rabbi Yehouda distingue toutefois l’instrument : à Roch Hachana, selon lui, on emploie des cornes de béliers, tandis que pour le Jubilé on emploie des cornes de bouquetins."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:5",
+                "explication": "Le Rambam explique que la Torah a ordonné de sonner du chofar le dixième jour du septième mois lors de l’année du Jubilé, c’est-à-dire à Yom Kippour, afin de proclamer la liberté. Cette sonnerie est comparée à celle de Roch Hachana pour son ordre rituel et pour les bénédictions qui l’accompagnent. La position de Rabbi Yehouda porte sur le type de chofar à utiliser : il préfère le bélier pour Roch Hachana et le bouquetin pour le Jubilé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 3:5",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « le Jubilé est semblable à Roch Hachana » ne vise pas tous les aspects du jour, mais uniquement ceux explicitement mentionnés : les sonneries et les bénédictions. Il souligne aussi que la mention des « Jubilés » au pluriel désigne les années de Jubilé en général, chacune comportant cette mitsva de sonnerie à Yom Kippour."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -255,8 +767,27 @@
           "ref": "Mishnah Rosh Hashanah 3:6",
           "he": "שׁוֹפָר שֶׁנִּסְדַּק וְדִבְּקוֹ, פָּסוּל. דִּבֵּק שִׁבְרֵי שׁוֹפָרוֹת, פָּסוּל. נִקַּב וּסְתָמוֹ, אִם מְעַכֵּב אֶת הַתְּקִיעָה, פָּסוּל. וְאִם לָאו, כָּשֵׁר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un chofar qui s’est fendu et qu’on a recollé est invalide. S’il a recollé des fragments de chofars, il est invalide. S’il a été percé et qu’on l’a bouché : si cela entrave la sonnerie, il est invalide ; sinon, il est valide.",
+          "etude_fr": {
+            "traduction_fr": "Un chofar qui s’est fendu et qu’on a recollé est invalide. S’il a recollé des fragments de chofars, il est invalide. S’il a été percé et qu’on l’a bouché : si cela entrave la sonnerie, il est invalide ; sinon, il est valide.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 3:6",
+                "explication": "Un chofar fendu puis recollé est invalide parce qu’il n’est plus considéré comme un chofar intact, mais comme un objet réparé. De même, lorsqu’on assemble des morceaux provenant de chofars, l’instrument obtenu n’a pas le statut d’un chofar unique. Pour un chofar percé puis bouché, tout dépend de l’effet sur le son : si le bouchage empêche ou altère la sonnerie normale, il est invalide ; s’il n’empêche pas la sonnerie, il est valide."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 3:6",
+                "explication": "Le Rambam explique que l’invalidité du chofar fendu ou composé de fragments tient au fait que la mitsva exige un véritable chofar, et non un instrument fabriqué par assemblage ou reconstitution. Concernant le trou bouché, la Michna évalue la validité selon la capacité de produire la sonnerie requise : lorsque la réparation modifie ou bloque la production du son, le chofar est invalide ; lorsqu’elle ne l’affecte pas, il reste apte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 3:6",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « si cela entrave la sonnerie » vise l’entrave au son propre du chofar : la question n’est pas seulement de savoir si un son sort, mais si la réparation gêne la sonnerie attendue d’un chofar. Il souligne ainsi la différence entre un défaut structurel, comme une fente recollée ou un assemblage de morceaux, qui invalide en soi, et un trou bouché, dont la validité dépend de son effet concret sur la sonnerie."
+              }
+            ]
+          }
         },
         {
           "id": "3:7",
@@ -265,8 +796,27 @@
           "ref": "Mishnah Rosh Hashanah 3:7",
           "he": "הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַדּוּת אוֹ לְתוֹךְ הַפִּטָּס, אִם קוֹל שׁוֹפָר שָׁמַע, יָצָא. וְאִם קוֹל הֲבָרָה שָׁמַע, לֹא יָצָא. וְכֵן מִי שֶׁהָיָה עוֹבֵר אֲחוֹרֵי בֵית הַכְּנֶסֶת, אוֹ שֶׁהָיָה בֵיתוֹ סָמוּךְ לְבֵית הַכְּנֶסֶת, וְשָׁמַע קוֹל שׁוֹפָר אוֹ קוֹל מְגִלָּה, אִם כִּוֵּן לִבּוֹ, יָצָא, וְאִם לָאו, לֹא יָצָא. אַף עַל פִּי שֶׁזֶּה שָׁמַע וְזֶה שָׁמַע, זֶה כִּוֵּן לִבּוֹ וְזֶה לֹא כִוֵּן לִבּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui sonne dans une citerne, ou dans un réservoir, ou dans une grande jarre : s’il a entendu le son du chofar, il est quitte ; mais s’il a entendu le son de l’écho, il n’est pas quitte. De même, celui qui passait derrière la synagogue, ou dont la maison était proche de la synagogue, et qui a entendu le son du chofar ou la voix de la Méguila : s’il a dirigé son cœur, il est quitte ; sinon, il n’est pas quitte. Bien que celui-ci ait entendu et que celui-là ait entendu, celui-ci a dirigé son cœur et celui-là n’a pas dirigé son cœur.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui sonne dans une citerne, ou dans un réservoir, ou dans une grande jarre : s’il a entendu le son du chofar, il est quitte ; mais s’il a entendu le son de l’écho, il n’est pas quitte. De même, celui qui passait derrière la synagogue, ou dont la maison était proche de la synagogue, et qui a entendu le son du chofar ou la voix de la Méguila : s’il a dirigé son cœur, il est quitte ; sinon, il n’est pas quitte. Bien que celui-ci ait entendu et que celui-là ait entendu, celui-ci a dirigé son cœur et celui-là n’a pas dirigé son cœur.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 3:7",
+                "explication": "Bartenoura explique que lorsqu’on sonne dans une citerne ou dans un récipient profond, le son peut être soit le son direct du chofar, soit un son répercuté, appelé קול הברה, un écho. Seul celui qui entend le véritable son du chofar accomplit la mitsva. Pour celui qui entend depuis l’extérieur de la synagogue, il précise que l’écoute seule ne suffit pas : il faut qu’il ait l’intention d’accomplir la mitsva par cette écoute."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 3:7",
+                "explication": "Le Rambam souligne deux principes de halakha issus de cette Michna. Premièrement, la mitsva du chofar exige d’entendre le son même du chofar, non un son dérivé ou altéré par la résonance. Deuxièmement, les mitsvot qui se réalisent par l’écoute, comme le chofar et la Méguila, nécessitent l’intention de s’acquitter ; celui qui entend par hasard, sans orienter son cœur vers la mitsva, n’est pas quitte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 3:7",
+                "explication": "Le Tossafot Yom Tov relève que la Michna mentionne aussi la Méguila afin d’enseigner que la règle de l’intention ne concerne pas seulement le chofar de Roch Hachana, mais également une lecture que l’on accomplit par audition. Il explique aussi que la formule finale — « bien que celui-ci ait entendu et que celui-là ait entendu » — vient insister sur le fait qu’un même son peut rendre quitte l’un et non l’autre, selon l’intention intérieure de chacun."
+              }
+            ]
+          }
         },
         {
           "id": "3:8",
@@ -275,8 +825,27 @@
           "ref": "Mishnah Rosh Hashanah 3:8",
           "he": "וְהָיָה כַּאֲשֶׁר יָרִים משֶׁה יָדוֹ וְגָבַר יִשְׂרָאֵל וְגוֹ' (שמות יז), וְכִי יָדָיו שֶׁל משֶׁה עוֹשׂוֹת מִלְחָמָה אוֹ שׁוֹבְרוֹת מִלְחָמָה. אֶלָּא לוֹמַר לְךָ, כָּל זְמַן שֶׁהָיוּ יִשְׂרָאֵל מִסְתַּכְּלִים כְּלַפֵּי מַעְלָה וּמְשַׁעְבְּדִין אֶת לִבָּם לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם הָיוּ מִתְגַּבְּרִים. וְאִם לָאו, הָיוּ נוֹפְלִין. כַּיּוֹצֵא בַדָּבָר אַתָּה אוֹמֵר (במדבר כא), עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל נֵס, וְהָיָה כָּל הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי. וְכִי נָחָשׁ מֵמִית, אוֹ נָחָשׁ מְחַיֶּה. אֶלָּא, בִּזְמַן שֶׁיִּשְׂרָאֵל מִסְתַּכְּלִין כְּלַפֵּי מַעְלָה וּמְשַׁעְבְּדִין אֶת לִבָּם לַאֲבִיהֶן שֶׁבַּשָּׁמַיִם, הָיוּ מִתְרַפְּאִים, וְאִם לָאו, הָיוּ נִמּוֹקִים. חֵרֵשׁ, שׁוֹטֶה, וְקָטָן, אֵין מוֹצִיאִין אֶת הָרַבִּים יְדֵי חוֹבָתָן. זֶה הַכְּלָל, כֹּל שֶׁאֵינוֹ מְחֻיָּב בַּדָּבָר, אֵינוֹ מוֹצִיא אֶת הָרַבִּים יְדֵי חוֹבָתָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "« Et il arriva que, lorsque Moché levait sa main, Israël l’emportait, etc. » (Exode 17). Les mains de Moché faisaient-elles donc la guerre, ou brisaient-elles la guerre ? C’est plutôt pour t’enseigner que, tant qu’Israël regardait vers le haut et soumettait son cœur à leur Père qui est aux cieux, ils l’emportaient ; sinon, ils tombaient.\n\nDe même, tu dis : « Fais-toi un serpent brûlant et place-le sur une perche ; et il arrivera que quiconque aura été mordu le regardera et vivra » (Nombres 21). Un serpent fait-il donc mourir, ou un serpent fait-il vivre ? C’est plutôt que, lorsque Israël regardait vers le haut et soumettait son cœur à leur Père qui est aux cieux, ils guérissaient ; sinon, ils dépérissaient.\n\nUn sourd-muet, un aliéné et un mineur ne rendent pas la collectivité quitte de son obligation. Voici la règle : quiconque n’est pas lui-même tenu par la chose ne rend pas la collectivité quitte de son obligation.",
+          "etude_fr": {
+            "traduction_fr": "« Et il arriva que, lorsque Moché levait sa main, Israël l’emportait, etc. » (Exode 17). Les mains de Moché faisaient-elles donc la guerre, ou brisaient-elles la guerre ? C’est plutôt pour t’enseigner que, tant qu’Israël regardait vers le haut et soumettait son cœur à leur Père qui est aux cieux, ils l’emportaient ; sinon, ils tombaient.\n\nDe même, tu dis : « Fais-toi un serpent brûlant et place-le sur une perche ; et il arrivera que quiconque aura été mordu le regardera et vivra » (Nombres 21). Un serpent fait-il donc mourir, ou un serpent fait-il vivre ? C’est plutôt que, lorsque Israël regardait vers le haut et soumettait son cœur à leur Père qui est aux cieux, ils guérissaient ; sinon, ils dépérissaient.\n\nUn sourd-muet, un aliéné et un mineur ne rendent pas la collectivité quitte de son obligation. Voici la règle : quiconque n’est pas lui-même tenu par la chose ne rend pas la collectivité quitte de son obligation.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Rosh Hashanah 3:8",
+                "explication": "Bartenoura explique que la Michna poursuit le sujet du chofar : après avoir enseigné que l’intention du cœur est essentielle, elle apporte deux exemples bibliques où l’acte extérieur — les mains de Moché ou le serpent d’airain — n’agit pas par lui-même. Il sert à orienter Israël vers leur Père qui est aux cieux. De même, pour être acquitté par l’écoute du chofar, il faut diriger son cœur vers la mitsva. Concernant le sourd-muet, l’aliéné et le mineur, ils ne peuvent acquitter autrui, car ils ne sont pas soumis à l’obligation de la mitsva ; or seul celui qui est tenu par une obligation peut en rendre d’autres quittes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Rosh Hashanah 3:8",
+                "explication": "Le Rambam souligne le principe halakhique final : celui qui n’est pas obligé d’accomplir une mitsva ne peut pas acquitter ceux qui y sont obligés. Ainsi, même si un mineur sonne du chofar correctement, les adultes ne sont pas quittes par sa sonnerie, car lui-même n’est pas encore astreint à cette obligation. Le passage aggadique enseigne que les moyens visibles institués par Dieu ne sont pas la cause autonome du salut ou de la guérison ; ils éveillent la pensée et la soumission du cœur envers Dieu."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Rosh Hashanah 3:8",
+                "explication": "Tossafot Yom Tov relève que les deux exemples — Moché et le serpent — ne sont pas de simples digressions : ils éclairent la notion d’intention requise. La Michna enseigne que l’efficacité religieuse d’un acte dépend de l’orientation intérieure vers Dieu. Toutefois, cette intention ne suffit pas à elle seule pour acquitter autrui : il faut aussi que l’auteur de l’acte soit juridiquement astreint à la même obligation."
+              }
+            ]
+          }
         }
       ]
     },
@@ -290,8 +859,32 @@
           "ref": "Mishnah Rosh Hashanah 4:1",
           "he": "יוֹם טוֹב שֶׁל רֹאשׁ הַשָּׁנָה שֶׁחָל לִהְיוֹת בְּשַׁבָּת, בַּמִּקְדָּשׁ הָיוּ תוֹקְעִים, אֲבָל לֹא בַמְּדִינָה. מְשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי, שֶׁיְּהוּ תּוֹקְעִין בְּכָל מָקוֹם שֶׁיֶּשׁ בּוֹ בֵית דִּין. אָמַר רַבִּי אֶלְעָזָר, לֹא הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי אֶלָּא בְיַבְנֶה בִּלְבָד. אָמְרוּ לוֹ, אֶחָד יַבְנֶה וְאֶחָד כָּל מָקוֹם שֶׁיֶּשׁ בּוֹ בֵית דִּין:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Lorsque le Yom Tov de Roch Hachana tombait un Chabbat, on sonnait du chofar dans le Temple, mais non dans le reste du pays. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que l’on sonnerait dans tout lieu où se trouvait un tribunal. Rabbi Elazar dit : Rabban Yoḥanan ben Zakkaï ne l’institua qu’à Yavné seulement. Ils lui dirent : Yavné et tout lieu où se trouve un tribunal ont le même statut.",
+          "etude_fr": {
+            "traduction_fr": "Lorsque le Yom Tov de Roch Hachana tombait un Chabbat, on sonnait du chofar dans le Temple, mais non dans le reste du pays. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que l’on sonnerait dans tout lieu où se trouvait un tribunal. Rabbi Elazar dit : Rabban Yoḥanan ben Zakkaï ne l’institua qu’à Yavné seulement. Ils lui dirent : Yavné et tout lieu où se trouve un tribunal ont le même statut.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 4:1",
+                "explication": "La Michna parle du décret des Sages de ne pas sonner du chofar lorsque Roch Hachana tombe Chabbat, de crainte que quelqu’un ne transporte le chofar quatre coudées dans le domaine public pour aller l’apprendre auprès d’un spécialiste. Dans le Temple, toutefois, on sonnait malgré Chabbat, car le commandement y conservait toute sa force et les Sages n’y appliquèrent pas ce décret. Après la destruction, Rabban Yoḥanan ben Zakkaï institua que l’on sonne dans un lieu où se trouve un tribunal, car la présence du tribunal donne à ce lieu une importance comparable à celle du centre spirituel d’Israël."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:1",
+                "explication": "Le Rambam explique que « dans le Temple » signifie dans l’enceinte du Temple, tandis que « dans le pays » désigne les autres lieux, même à Jérusalem en dehors du Temple selon l’explication retenue. L’institution de Rabban Yoḥanan ben Zakkaï après la destruction vise à maintenir le souvenir de la sonnerie du chofar pratiquée au Temple, mais seulement dans un endroit doté d’un tribunal important. La halakha suit les Sages qui répondent à Rabbi Elazar : ce n’était pas limité à Yavné, mais à tout lieu où se trouve un tribunal qualifié."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 4:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « tout lieu où se trouve un tribunal » ne désigne pas n’importe quel tribunal local, mais un tribunal ayant autorité, dont la présence donne au lieu un statut public et central. Il souligne également que la formulation « Yavné et tout lieu » signifie que Yavné n’était pas l’unique exception : elle sert de modèle, car après la destruction du Temple, le tribunal majeur d’Israël y siégeait."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 4:1",
+                "explication": "Le Tiféret Israël explique que la différence entre le Temple et les autres lieux tient à la vigilance et à l’autorité présentes au Temple, qui empêchaient que l’on en vienne à transgresser Chabbat en transportant le chofar. Après la destruction, Rabban Yoḥanan ben Zakkaï voulut éviter que la mitsva du chofar soit totalement annulée chaque fois que Roch Hachana tombait Chabbat ; il permit donc la sonnerie là où un tribunal pouvait encadrer la pratique."
+              }
+            ]
+          }
         },
         {
           "id": "4:2",
@@ -300,8 +893,27 @@
           "ref": "Mishnah Rosh Hashanah 4:2",
           "he": "וְעוֹד זֹאת הָיְתָה יְרוּשָׁלַיִם יְתֵרָה עַל יַבְנֶה, שֶׁכָּל עִיר שֶׁהִיא רוֹאָה וְשׁוֹמַעַת וּקְרוֹבָה וִיכוֹלָה לָבֹא, תּוֹקְעִין. וּבְיַבְנֶה לֹא הָיוּ תוֹקְעִין אֶלָּא בְּבֵית דִּין בִּלְבָד:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et il y avait encore ceci par quoi Jérusalem avait un avantage sur Yavné : toute ville qui la voyait, qui l’entendait, qui était proche et qui pouvait y venir, on y sonnait du chofar. Mais à Yavné, on ne sonnait que dans le tribunal seulement.",
+          "etude_fr": {
+            "traduction_fr": "Et il y avait encore ceci par quoi Jérusalem avait un avantage sur Yavné : toute ville qui la voyait, qui l’entendait, qui était proche et qui pouvait y venir, on y sonnait du chofar. Mais à Yavné, on ne sonnait que dans le tribunal seulement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:2",
+                "explication": "Bartenoura explique que cette supériorité de Jérusalem concernait le Chabbat de Roch Hachana : non seulement dans le Temple on sonnait du chofar, mais même les villes environnantes pouvaient sonner, à condition de remplir les quatre critères énoncés par la Michna. « Qui la voyait » exclut une ville située dans une vallée ; « qui l’entendait » exclut une ville d’où l’on ne pouvait pas entendre le son du chofar de Jérusalem ; « proche » exclut une ville située au-delà du te’houm ; « qui pouvait y venir » exclut une ville séparée par un fleuve ou un obstacle empêchant l’accès. À Yavné, en revanche, l’autorisation instituée après la destruction du Temple fut plus limitée : on ne sonnait que dans le tribunal."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:2",
+                "explication": "Le Rambam précise que la Michna compare Jérusalem, lorsque le Temple existait, à Yavné après la destruction. À Jérusalem, la sainteté du lieu et la présence du Temple faisaient que les villes dépendantes de Jérusalem, lorsqu’elles étaient visibles, audibles, proches et accessibles, étaient considérées comme rattachées à elle pour cette halakha et pouvaient sonner du chofar même lorsque Roch Hachana tombait Chabbat. À Yavné, même après l’institution de Rabbi Yo’hanan ben Zakkaï, l’autorisation ne s’étendait pas aux villes voisines : elle demeurait limitée au lieu du tribunal."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 4:2",
+                "explication": "Le Tossafot Yom Tov souligne que les quatre expressions de la Michna ne sont pas redondantes : chacune pose une condition indépendante. Il ne suffit pas que la ville soit proche ; elle doit aussi avoir un lien perceptible avec Jérusalem, par la vue et par l’audition, et il faut encore que les habitants puissent effectivement s’y rendre. La Michna montre ainsi que l’extension de la permission autour de Jérusalem était précise et encadrée, et non une permission générale accordée à toute la région."
+              }
+            ]
+          }
         },
         {
           "id": "4:3",
@@ -310,8 +922,32 @@
           "ref": "Mishnah Rosh Hashanah 4:3",
           "he": "בָּרִאשׁוֹנָה הָיָה הַלּוּלָב נִטָּל בַּמִּקְדָּשׁ שִׁבְעָה, וּבַמְּדִינָה יוֹם אֶחָד. מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי שֶׁיְהֵא לוּלָב נִטָּל בַּמְּדִינָה שִׁבְעָה זֵכֶר לַמִּקְדָּשׁ, וְשֶׁיְּהֵא יוֹם הָנֵף כֻּלּוֹ אָסוּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Au début, le loulav était pris dans le Temple durant sept jours, et dans le pays un seul jour. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que le loulav serait pris dans le pays durant sept jours, en souvenir du Temple, et que le jour du balancement serait entièrement interdit.",
+          "etude_fr": {
+            "traduction_fr": "Au début, le loulav était pris dans le Temple durant sept jours, et dans le pays un seul jour. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que le loulav serait pris dans le pays durant sept jours, en souvenir du Temple, et que le jour du balancement serait entièrement interdit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:3",
+                "explication": "La Torah impose de prendre le loulav sept jours seulement « devant Hachem », c’est-à-dire au Temple ; ailleurs, l’obligation toranique n’est que le premier jour. Après la destruction, Rabban Yoḥanan ben Zakkaï institua de le prendre sept jours partout, afin de conserver le souvenir du service du Temple. « Le jour du balancement » désigne le 16 Nissan, jour où l’on agitait l’offrande du omer ; tant que le omer n’avait pas été offert, la nouvelle récolte restait interdite. Après la destruction, il décréta que toute cette journée resterait interdite à la consommation du nouveau grain."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:3",
+                "explication": "Le Rambam explique que cette Michna énumère l’une des institutions établies après la destruction du Temple pour maintenir le souvenir de ce qui s’y accomplissait. Le loulav est donc pris sept jours en dehors du Temple non comme une obligation de la Torah, mais par décret rabbinique. Concernant le « jour du balancement », le Rambam précise qu’il s’agit du jour de l’offrande du omer, à partir de laquelle la nouvelle récolte devenait permise à l’époque du Temple ; Rabban Yoḥanan ben Zakkaï fixa que, sans Temple, l’interdiction s’étendrait à toute la journée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Roch Hachana 4:3",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « dans le pays » s’oppose ici au Temple : elle désigne tous les lieux où l’on n’accomplissait pas le rite comme dans l’enceinte du Temple. Il relève aussi que l’institution du loulav pendant sept jours n’a pas pour but de transformer l’obligation en loi toranique, mais de créer une pratique commémorative explicite, « en souvenir du Temple »."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Rachi sur Menaḥot 68b, au sujet de יום הנף כולו אסור",
+                "explication": "Rachi explique que l’interdiction de tout le jour du balancement fut décrétée par crainte que le Temple soit reconstruit rapidement. Si l’on s’habituait, après la destruction, à manger de la nouvelle récolte dès le matin du 16 Nissan, on risquerait de faire de même lorsque le Temple serait reconstruit, avant l’offrande du omer. C’est pourquoi Rabban Yoḥanan ben Zakkaï interdit toute la journée."
+              }
+            ]
+          }
         },
         {
           "id": "4:4",
@@ -320,8 +956,32 @@
           "ref": "Mishnah Rosh Hashanah 4:4",
           "he": "בָּרִאשׁוֹנָה הָיוּ מְקַבְּלִין עֵדוּת הַחֹדֶשׁ כָּל הַיּוֹם. פַּעַם אַחַת נִשְׁתַּהוּ הָעֵדִים מִלָּבֹא, וְנִתְקַלְקְלוּ הַלְוִיִּם בַּשִּׁיר. הִתְקִינוּ שֶׁלֹּא יְהוּ מְקַבְּלִין אֶלָּא עַד הַמִּנְחָה. וְאִם בָּאוּ עֵדִים מִן הַמִּנְחָה וּלְמַעְלָה, נוֹהֲגִין אוֹתוֹ הַיּוֹם קֹדֶשׁ וּלְמָחָר קֹדֶשׁ. מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי, שֶׁיְּהוּ מְקַבְּלִין עֵדוּת הַחֹדֶשׁ כָּל הַיּוֹם. אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה, וְעוֹד זֹאת הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי, שֶׁאֲפִלּוּ רֹאשׁ בֵּית דִּין בְּכָל מָקוֹם, שֶׁלֹּא יְהוּ הָעֵדִים הוֹלְכִין אֶלָּא לִמְקוֹם הַוָּעַד:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Au début, on recevait le témoignage relatif au nouveau mois durant toute la journée. Une fois, les témoins tardèrent à venir, et les Lévi se trompèrent dans le chant. On institua alors que l’on ne recevrait les témoins que jusqu’à la Min’ha. Et si les témoins venaient depuis la Min’ha et au-delà, on observait ce jour-là comme saint, et le lendemain comme saint. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que l’on recevrait le témoignage relatif au nouveau mois durant toute la journée. Rabbi Yehoshoua ben Korḥa dit : Et encore ceci institua Rabban Yoḥanan ben Zakkaï : même si le chef du tribunal se trouve en quelque lieu que ce soit, les témoins ne doivent aller qu’au lieu de l’assemblée du tribunal.",
+          "etude_fr": {
+            "traduction_fr": "Au début, on recevait le témoignage relatif au nouveau mois durant toute la journée. Une fois, les témoins tardèrent à venir, et les Lévi se trompèrent dans le chant. On institua alors que l’on ne recevrait les témoins que jusqu’à la Min’ha. Et si les témoins venaient depuis la Min’ha et au-delà, on observait ce jour-là comme saint, et le lendemain comme saint. Après la destruction du Temple, Rabban Yoḥanan ben Zakkaï institua que l’on recevrait le témoignage relatif au nouveau mois durant toute la journée. Rabbi Yehoshoua ben Korḥa dit : Et encore ceci institua Rabban Yoḥanan ben Zakkaï : même si le chef du tribunal se trouve en quelque lieu que ce soit, les témoins ne doivent aller qu’au lieu de l’assemblée du tribunal.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Rosh Hashanah 4:4",
+                "explication": "Bartenoura explique que, lorsque les témoins venaient attester avoir vu la nouvelle lune, le tribunal sanctifiait le jour comme Roch Ḥodech. Tant que les témoins n’étaient pas arrivés, les Lévi ne savaient pas quel chant dire avec le sacrifice quotidien : si le jour serait finalement déclaré jour ordinaire ou Roch Ḥodech. L’incident où ils se trompèrent dans le chant entraîna l’institution de ne plus recevoir les témoins après la Min’ha. Si les témoins arrivaient ensuite, on gardait cependant ce jour dans la sainteté, par doute et par respect de la possibilité qu’il fût Roch Ḥodech, et l’on sanctifiait également le lendemain."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Rosh Hashanah 4:4",
+                "explication": "Le Rambam précise que cette limitation jusqu’à la Min’ha était liée au service du Temple : le problème principal était l’organisation correcte des sacrifices et du chant des Lévi. Une fois le Temple détruit, cette raison n’existait plus ; Rabban Yoḥanan ben Zakkaï rétablit donc la règle première, permettant de recevoir le témoignage du mois pendant toute la journée."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Rosh Hashanah 4:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « ce jour-là saint et le lendemain saint » ne signifie pas deux jours de Roch Ḥodech au même titre, mais une conduite de sainteté imposée par l’institution des Sages : le premier jour était observé comme saint parce que les témoins étaient arrivés ce jour-là, mais, puisqu’ils n’avaient pas été acceptés à temps, le tribunal ne sanctifiait effectivement le mois que le lendemain."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Rosh Hashanah 4:4",
+                "explication": "Le Tiféret Israël explique que la dernière institution vise à préserver l’ordre public du témoignage : les témoins doivent se rendre au lieu fixe où siège l’assemblée du tribunal, même si le chef du tribunal se trouve ailleurs. La sanctification du mois dépend en effet du tribunal réuni, et non de la présence personnelle du président en un autre endroit."
+              }
+            ]
+          }
         },
         {
           "id": "4:5",
@@ -330,8 +990,32 @@
           "ref": "Mishnah Rosh Hashanah 4:5",
           "he": "סֵדֶר בְּרָכוֹת, אוֹמֵר אָבוֹת וּגְבוּרוֹת וּקְדֻשַּׁת הַשֵּׁם, וְכוֹלֵל מַלְכוּיוֹת עִמָּהֶן, וְאֵינוֹ תוֹקֵעַ. קְדֻשַּׁת הַיּוֹם, וְתוֹקֵעַ. זִכְרוֹנוֹת, וְתוֹקֵעַ. שׁוֹפָרוֹת, וְתוֹקֵעַ. וְאוֹמֵר עֲבוֹדָה וְהוֹדָאָה וּבִרְכַּת כֹּהֲנִים, דִּבְרֵי רַבִּי יוֹחָנָן בֶּן נוּרִי. אָמַר לוֹ רַבִּי עֲקִיבָא, אִם אֵינוֹ תוֹקֵעַ לַמַּלְכוּיוֹת, לָמָּה הוּא מַזְכִּיר. אֶלָּא אוֹמֵר אָבוֹת וּגְבוּרוֹת וּקְדֻשַּׁת הַשֵּׁם, וְכוֹלֵל מַלְכוּיוֹת עִם קְדֻשַּׁת הַיּוֹם, וְתוֹקֵעַ. זִכְרוֹנוֹת, וְתוֹקֵעַ. שׁוֹפָרוֹת, וְתוֹקֵעַ. וְאוֹמֵר עֲבוֹדָה וְהוֹדָאָה וּבִרְכַּת כֹּהֲנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’ordre des bénédictions est le suivant : il dit les Patriarches, les Puissances et la Sanctification du Nom, et il y inclut les Royautés, mais il ne sonne pas. Il dit la Sanctification du jour, et il sonne ; les Souvenirs, et il sonne ; les Chofarot, et il sonne. Puis il dit le Service, la Reconnaissance et la bénédiction des Cohanim. Telles sont les paroles de Rabbi Yoḥanan ben Nouri.\nRabbi Akiva lui dit : s’il ne sonne pas pour les Royautés, pourquoi les mentionne-t-il ? Mais plutôt : il dit les Patriarches, les Puissances et la Sanctification du Nom, puis il inclut les Royautés avec la Sanctification du jour, et il sonne ; les Souvenirs, et il sonne ; les Chofarot, et il sonne. Puis il dit le Service, la Reconnaissance et la bénédiction des Cohanim.",
+          "etude_fr": {
+            "traduction_fr": "L’ordre des bénédictions est le suivant : il dit les Patriarches, les Puissances et la Sanctification du Nom, et il y inclut les Royautés, mais il ne sonne pas. Il dit la Sanctification du jour, et il sonne ; les Souvenirs, et il sonne ; les Chofarot, et il sonne. Puis il dit le Service, la Reconnaissance et la bénédiction des Cohanim. Telles sont les paroles de Rabbi Yoḥanan ben Nouri.\nRabbi Akiva lui dit : s’il ne sonne pas pour les Royautés, pourquoi les mentionne-t-il ? Mais plutôt : il dit les Patriarches, les Puissances et la Sanctification du Nom, puis il inclut les Royautés avec la Sanctification du jour, et il sonne ; les Souvenirs, et il sonne ; les Chofarot, et il sonne. Puis il dit le Service, la Reconnaissance et la bénédiction des Cohanim.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 4:5",
+                "explication": "Bartenoura explique que la Michna décrit l’ordre de la prière de Moussaf de Roch Hachana. Les trois premières bénédictions sont celles de toute Amida : Avot, Guevourot et Kedouchat HaChem ; les trois dernières sont Avoda, Hoda’a et Birkat Cohanim. Au milieu, on insère les bénédictions propres à Roch Hachana : Malkhouyot, Zikhronot et Chofarot. Selon Rabbi Yoḥanan ben Nouri, Malkhouyot est inclus dans la bénédiction de la Sanctification du Nom, sans sonnerie à ce moment-là ; les sonneries accompagnent seulement la Sanctification du jour, Zikhronot et Chofarot. Rabbi Akiva objecte que si Malkhouyot est une section essentielle, elle doit être liée à une sonnerie ; c’est pourquoi il l’inclut avec la Sanctification du jour, où l’on sonne."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:5",
+                "explication": "Le Rambam précise que ces bénédictions appartiennent à la prière de Moussaf de Roch Hachana, au cours de laquelle on récite des versets de Royautés, de Souvenirs et de Chofarot. Il explique que la discussion porte sur l’endroit où placer Malkhouyot : Rabbi Yoḥanan ben Nouri les rattache à la troisième bénédiction, celle de la sanctification du Nom, tandis que Rabbi Akiva les rattache à la bénédiction de la sainteté du jour. La halakha suit Rabbi Akiva : Malkhouyot est inclus dans Kedouchat HaYom, et l’on sonne après cette bénédiction, puis après Zikhronot et après Chofarot."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 4:5",
+                "explication": "Le Tossafot Yom Tov souligne la logique de Rabbi Akiva : les sonneries du Chofar sont associées aux trois ensembles centraux — Malkhouyot, Zikhronot et Chofarot. Si l’on mentionnait Malkhouyot dans une bénédiction où l’on ne sonne pas, cette section serait séparée de la structure même instituée par les Sages. C’est pourquoi Rabbi Akiva estime qu’il faut placer Malkhouyot avec la Sanctification du jour, afin que la première sonnerie corresponde elle aussi à une bénédiction contenant Malkhouyot."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 4:5",
+                "explication": "Le Tiféret Israël clarifie les noms des bénédictions : Avot correspond à la bénédiction des Patriarches, Guevourot à celle de la puissance divine, Kedouchat HaChem à la sanctification du Nom, Kedouchat HaYom à la sainteté particulière de Roch Hachana, puis viennent Zikhronot et Chofarot. Il explique que la Michna enseigne non seulement le contenu des bénédictions, mais aussi à quel moment les sonneries doivent être faites dans l’ordre de Moussaf. Selon l’opinion retenue, celle de Rabbi Akiva, les trois sonneries principales sont rattachées aux trois bénédictions centrales propres à Roch Hachana : Malkhouyot avec la sainteté du jour, Zikhronot et Chofarot."
+              }
+            ]
+          }
         },
         {
           "id": "4:6",
@@ -340,8 +1024,32 @@
           "ref": "Mishnah Rosh Hashanah 4:6",
           "he": "אֵין פּוֹחֲתִין מֵעֲשָׂרָה מַלְכוּיוֹת, מֵעֲשָׂרָה זִכְרוֹנוֹת, מֵעֲשָׂרָה שׁוֹפָרוֹת. רַבִּי יוֹחָנָן בֶּן נוּרִי אוֹמֵר, אִם אָמַר שָׁלשׁ שָׁלשׁ מִכֻּלָּן, יָצָא. אֵין מַזְכִּירִין זִכָּרוֹן מַלְכוּת וְשׁוֹפָר שֶׁל פֻּרְעָנוּת. מַתְחִיל בַּתּוֹרָה וּמַשְׁלִים בַּנָּבִיא. רַבִּי יוֹסֵי אוֹמֵר, אִם הִשְׁלִים בַּתּוֹרָה, יָצָא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne récite pas moins de dix versets de Royautés, de dix versets de Souvenirs, et de dix versets de Chofarot. Rabbi Yoḥanan ben Nouri dit : s’il en a récité trois de chacun d’eux, il est quitte. On ne mentionne pas un Souvenir, une Royauté ou un Chofar qui exprime un châtiment. On commence par la Torah et l’on termine par le Prophète. Rabbi Yossé dit : s’il a terminé par la Torah, il est quitte.",
+          "etude_fr": {
+            "traduction_fr": "On ne récite pas moins de dix versets de Royautés, de dix versets de Souvenirs, et de dix versets de Chofarot. Rabbi Yoḥanan ben Nouri dit : s’il en a récité trois de chacun d’eux, il est quitte. On ne mentionne pas un Souvenir, une Royauté ou un Chofar qui exprime un châtiment. On commence par la Torah et l’on termine par le Prophète. Rabbi Yossé dit : s’il a terminé par la Torah, il est quitte.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 4:6",
+                "explication": "Les « Royautés », « Souvenirs » et « Chofarot » sont les versets insérés dans la prière de Moussaf de Roch Hachana : les Royautés proclament la royauté de Dieu, les Souvenirs évoquent que Dieu se souvient de Ses créatures, et les Chofarot mentionnent le chofar et la révélation divine. La règle ordinaire est d’en réciter dix pour chacune de ces trois bénédictions. Rabbi Yoḥanan ben Nouri enseigne que, a posteriori, trois versets pour chacune suffisent. On ne choisit pas des versets qui évoquent un châtiment frappant Israël, car ces bénédictions doivent éveiller la miséricorde et non rappeler la faute et la punition."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:6",
+                "explication": "Le Rambam explique que les dix versets de chaque série sont une institution des Sages pour donner à ces bénédictions leur forme complète. Toutefois, si l’on n’en a récité que trois de chaque thème, on est quitte, car chacun des trois ensembles — Torah, Écrits et Prophètes — est alors représenté. Il précise aussi que les versets de châtiment ne conviennent pas à cette prière, puisqu’à Roch Hachana on recherche le souvenir favorable devant Dieu."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 4:6",
+                "explication": "Le Tossafot Yom Tov souligne l’ordre mentionné par la Michna : « on commence par la Torah et l’on termine par le Prophète ». Cela signifie que l’agencement des versets suit une structure liturgique déterminée. Cependant, Rabbi Yossé enseigne que si l’on a terminé par un verset de la Torah, on est quitte ; et c’est même devenu l’usage, afin d’achever par la Torah, qui possède une importance supérieure."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 4:6",
+                "explication": "Le Tiféret Israël précise que « châtiment » désigne des versets où la royauté de Dieu, Son souvenir ou le chofar apparaissent dans un contexte de punition et de malheur. De tels versets ne sont pas appropriés dans la prière de Roch Hachana, car les versets choisis doivent servir de défense et de mérite pour Israël. En revanche, on privilégie des versets qui expriment la souveraineté divine, le souvenir bienveillant et la délivrance associée au chofar."
+              }
+            ]
+          }
         },
         {
           "id": "4:7",
@@ -350,8 +1058,27 @@
           "ref": "Mishnah Rosh Hashanah 4:7",
           "he": "הָעוֹבֵר לִפְנֵי הַתֵּבָה בְּיוֹם טוֹב שֶׁל רֹאשׁ הַשָּׁנָה, הַשֵּׁנִי מַתְקִיעַ. וּבִשְׁעַת הַהַלֵּל, רִאשׁוֹן מַקְרֵא אֶת הַהַלֵּל:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui passe devant l’arche le Yom Tov de Roch Hachana : le second fait sonner le Chofar. Et au moment du Hallel, le premier fait réciter le Hallel.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui passe devant l’arche le Yom Tov de Roch Hachana : le second fait sonner le Chofar. Et au moment du Hallel, le premier fait réciter le Hallel.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 4:7",
+                "explication": "« Celui qui passe devant l’arche » désigne l’officiant qui descend devant l’assemblée pour diriger la prière. Le « second » est l’officiant de Moussaf : c’est lui qui fait sonner le Chofar, car les sonneries instituées avec les bénédictions de Malkhouyot, Zikhronot et Chofarot sont liées à la prière de Moussaf. La Michna ajoute qu’aux jours où l’on récite le Hallel, c’est le premier officiant, celui de Cha’harit, qui fait réciter le Hallel."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:7",
+                "explication": "Le Rambam explique que, le Yom Tov de Roch Hachana, l’officiant de Moussaf est chargé des sonneries, car c’est dans cette prière que sont placées les bénédictions spéciales du jour avec lesquelles les sonneries sont associées. En revanche, lorsque le Hallel est dit dans d’autres jours de Yom Tov, il appartient à l’officiant de la première prière, Cha’harit, de le faire réciter, puisque le Hallel est récité immédiatement après Cha’harit."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 4:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « au moment du Hallel » ne concerne pas Roch Hachana, car on n’y récite pas le Hallel. Elle vient comparer l’ordre des offices : pour les sonneries de Roch Hachana, on attend le second officiant, celui de Moussaf ; pour le Hallel, les jours où il est récité, c’est le premier officiant qui le dirige."
+              }
+            ]
+          }
         },
         {
           "id": "4:8",
@@ -360,8 +1087,32 @@
           "ref": "Mishnah Rosh Hashanah 4:8",
           "he": "שׁוֹפָר שֶׁל רֹאשׁ הַשָּׁנָה, אֵין מַעֲבִירִין עָלָיו אֶת הַתְּחוּם, וְאֵין מְפַקְּחִין עָלָיו אֶת הַגַּל, לֹא עוֹלִין בְּאִילָן, וְלֹא רוֹכְבִין עַל גַּבֵּי בְהֵמָה, וְלֹא שָׁטִין עַל פְּנֵי הַמַּיִם, וְאֵין חוֹתְכִין אוֹתוֹ בֵּין בְּדָבָר שֶׁהוּא מִשּׁוּם שְׁבוּת, וּבֵין בְּדָבָר שֶׁהוּא מִשּׁוּם לֹא תַעֲשֶׂה. אֲבָל אִם רָצָה לִתֵּן לְתוֹכוֹ מַיִם אוֹ יַיִן, יִתֵּן. אֵין מְעַכְּבִין אֶת הַתִּינוֹקוֹת מִלִּתְקוֹעַ, אֲבָל מִתְעַסְּקִין עִמָּהֶן עַד שֶׁיִּלְמְדוּ. וְהַמִּתְעַסֵּק, לֹא יָצָא, וְהַשּׁוֹמֵעַ מִן הַמִּתְעַסֵּק, לֹא יָצָא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Le chofar de Roch Hachana : on ne le fait pas passer au-delà de la limite du domaine ; on ne dégage pas pour lui un éboulement ; on ne monte pas dans un arbre ; on ne monte pas sur le dos d’une bête ; on ne nage pas à la surface de l’eau ; et on ne le taille pas, ni avec un instrument dont l’usage relève d’un interdit rabbinique, ni avec un instrument dont l’usage relève d’un interdit négatif de la Torah. Mais s’il veut y mettre de l’eau ou du vin, qu’il en mette. On n’empêche pas les enfants de sonner, mais on s’occupe avec eux jusqu’à ce qu’ils apprennent. Celui qui s’exerce à sonner n’est pas quitte ; et celui qui entend de quelqu’un qui s’exerce à sonner n’est pas quitte.",
+          "etude_fr": {
+            "traduction_fr": "Le chofar de Roch Hachana : on ne le fait pas passer au-delà de la limite du domaine ; on ne dégage pas pour lui un éboulement ; on ne monte pas dans un arbre ; on ne monte pas sur le dos d’une bête ; on ne nage pas à la surface de l’eau ; et on ne le taille pas, ni avec un instrument dont l’usage relève d’un interdit rabbinique, ni avec un instrument dont l’usage relève d’un interdit négatif de la Torah. Mais s’il veut y mettre de l’eau ou du vin, qu’il en mette. On n’empêche pas les enfants de sonner, mais on s’occupe avec eux jusqu’à ce qu’ils apprennent. Celui qui s’exerce à sonner n’est pas quitte ; et celui qui entend de quelqu’un qui s’exerce à sonner n’est pas quitte.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Roch Hachana 4:8",
+                "explication": "La Michna enseigne que la mitsva du chofar ne repousse ni les interdits de Chabbat et de Yom Tov d’ordre rabbinique, comme sortir au-delà du te’houm, monter à l’arbre, chevaucher une bête ou nager, ni les interdits de la Torah, comme tailler le chofar avec un couteau. Même préparer l’instrument pour accomplir la mitsva n’autorise pas ces actes. En revanche, verser de l’eau ou du vin dans le chofar pour améliorer le son est permis, car ce n’est pas un acte de réparation interdit. Les enfants ne doivent pas être empêchés de sonner, car il y a une mitsva de les éduquer à cette mitsva ; on peut même les accompagner dans leur apprentissage."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Roch Hachana 4:8",
+                "explication": "Le Rambam explique que toutes les actions énumérées sont des préparatifs du chofar et non la sonnerie elle-même ; or les préparatifs d’une mitsva ne repoussent pas Chabbat ni Yom Tov. La distinction entre “interdit rabbinique” et “interdit négatif” signifie que même lorsque l’acte semble seulement faciliter la mitsva, il reste interdit s’il implique une transgression. Quant à celui qui “s’exerce”, il n’a pas l’intention d’accomplir la mitsva, mais seulement d’apprendre ou d’essayer le son ; c’est pourquoi il n’est pas quitte, et celui qui l’entend ne l’est pas non plus."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Roch Hachana 4:8",
+                "explication": "Le Tossafot Yom Tov précise que “on ne le fait pas passer au-delà du domaine” vise même un déplacement nécessaire pour amener le chofar là où l’on pourra sonner. La Michna l’énumère avec d’autres interdits rabbinique afin de souligner que, malgré l’importance de la mitsva du chofar, les Sages n’ont pas autorisé ces préparatifs. Il souligne aussi que mettre de l’eau ou du vin dans le chofar est permis parce que cela ne constitue pas une fabrication d’instrument, mais seulement un moyen ordinaire de clarifier le son."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Roch Hachana 4:8",
+                "explication": "Le Tiféret Israël explique que l’on n’empêche pas les enfants de sonner même si leurs sonneries ne sont pas encore valables, car l’apprentissage lui-même fait partie de leur éducation aux mitsvot. “On s’occupe avec eux” signifie qu’on les aide et qu’on les encourage activement jusqu’à ce qu’ils sachent sonner correctement. En revanche, un adulte qui sonne seulement pour s’entraîner n’accomplit pas la mitsva, car l’acte doit être orienté vers l’accomplissement de l’obligation."
+              }
+            ]
+          }
         },
         {
           "id": "4:9",
@@ -370,8 +1121,32 @@
           "ref": "Mishnah Rosh Hashanah 4:9",
           "he": "סֵדֶר תְּקִיעוֹת, שָׁלשׁ, שֶׁל שָׁלשׁ שָׁלשׁ. שִׁעוּר תְּקִיעָה כְּשָׁלשׁ תְּרוּעוֹת. שִׁעוּר תְּרוּעָה כְּשָׁלשׁ יְבָבוֹת. תָּקַע בָּרִאשׁוֹנָה, וּמָשַׁךְ בַּשְּׁנִיָּה כִשְׁתַּיִם, אֵין בְּיָדוֹ אֶלָּא אֶחָת. מִי שֶׁבֵּרַךְ וְאַחַר כָּךְ נִתְמַנָּה לוֹ שׁוֹפָר, תּוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ שָׁלשׁ פְּעָמִים. כְּשֵׁם שֶׁשְּׁלִיחַ צִבּוּר חַיָּב, כָּךְ כָּל יָחִיד וְיָחִיד חַיָּב. רַבָּן גַּמְלִיאֵל אוֹמֵר, שְׁלִיחַ צִבּוּר מוֹצִיא אֶת הָרַבִּים יְדֵי חוֹבָתָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’ordre des sonneries : trois séries, chacune composée de trois sonneries. La mesure d’une tekia est comme celle de trois terouot. La mesure d’une teroua est comme celle de trois sanglots. S’il a sonné la première, puis a prolongé la seconde comme deux sonneries, il n’a en main qu’une seule sonnerie. Celui qui a récité les bénédictions, puis à qui un chofar est devenu disponible, sonne une tekia, fait une teroua, puis sonne une tekia, trois fois. De même que l’officiant est tenu de s’acquitter, ainsi chaque particulier est tenu de s’acquitter. Rabban Gamliel dit : l’officiant acquitte la communauté de son obligation.",
+          "etude_fr": {
+            "traduction_fr": "L’ordre des sonneries : trois séries, chacune composée de trois sonneries. La mesure d’une tekia est comme celle de trois terouot. La mesure d’une teroua est comme celle de trois sanglots. S’il a sonné la première, puis a prolongé la seconde comme deux sonneries, il n’a en main qu’une seule sonnerie. Celui qui a récité les bénédictions, puis à qui un chofar est devenu disponible, sonne une tekia, fait une teroua, puis sonne une tekia, trois fois. De même que l’officiant est tenu de s’acquitter, ainsi chaque particulier est tenu de s’acquitter. Rabban Gamliel dit : l’officiant acquitte la communauté de son obligation.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Rosh Hashanah 4:9",
+                "explication": "Les « trois séries » correspondent aux trois passages de la prière de Moussaf : Malkhouyot, Zikhronot et Chofarot. Chaque série comprend trois sons : tekia, teroua, tekia. La Michna enseigne aussi que si l’on prolonge une tekia avec l’intention qu’elle compte pour deux tekiot, elle ne compte que pour une seule, car un même son ne peut pas être divisé en deux obligations distinctes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Rosh Hashanah 4:9",
+                "explication": "Le Rambam explique que la teroua mentionnée dans la Torah est un son brisé, semblable à des gémissements ou sanglots, et que sa mesure minimale est de trois yevavot. La tekia doit avoir une durée équivalente à celle de la teroua qui l’accompagne selon l’ordre requis. Il précise également que celui qui n’avait pas de chofar au moment des bénédictions doit ensuite accomplir la mitsva des sonneries dès que le chofar devient disponible."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Rosh Hashanah 4:9",
+                "explication": "Il souligne que la formulation « il n’a en main qu’une seule » signifie que même si le son prolongé avait la durée de deux tekiot, il ne peut être compté que comme la tekia finale de la première série, ou comme la tekia initiale de la série suivante, mais non comme les deux à la fois. La halakha exige des sons distincts, chacun ayant son identité propre."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Rosh Hashanah 4:9",
+                "explication": "Il explique que la discussion finale porte sur le rapport entre l’obligation individuelle et la prière publique. Selon les Sages, chaque individu doit s’efforcer de s’acquitter lui-même, même si l’officiant est également tenu. Rabban Gamliel soutient que l’officiant, par sa prière et son office, acquitte la communauté, en particulier ceux qui ne savent pas prier correctement."
+              }
+            ]
+          }
         }
       ]
     }
