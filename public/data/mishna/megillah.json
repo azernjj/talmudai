@@ -15,8 +15,32 @@
           "ref": "Mishnah Megillah 1:1",
           "he": "מְגִלָּה נִקְרֵאת בְּאַחַד עָשָׂר, בִּשְׁנֵים עָשָׂר, בִּשְׁלֹשָׁה עָשָׂר, בְּאַרְבָּעָה עָשָׂר, בַּחֲמִשָּׁה עָשָׂר, לֹא פָחוֹת וְלֹא יוֹתֵר. כְּרַכִּין הַמֻּקָּפִין חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, קוֹרִין בַּחֲמִשָּׁה עָשָׂר. כְּפָרִים וַעֲיָרוֹת גְּדוֹלוֹת, קוֹרִין בְּאַרְבָּעָה עָשָׂר, אֶלָּא שֶׁהַכְּפָרִים מַקְדִּימִין לְיוֹם הַכְּנִיסָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "La Meguila est lue le onze, le douze, le treize, le quatorze ou le quinze — ni avant ni après. Les grandes villes entourées d’une muraille depuis l’époque de Yehochoua bin Noun lisent le quinze. Les villages et les grandes villes lisent le quatorze, si ce n’est que les villages avancent leur lecture au jour de rassemblement.",
+          "etude_fr": {
+            "traduction_fr": "La Meguila est lue le onze, le douze, le treize, le quatorze ou le quinze — ni avant ni après. Les grandes villes entourées d’une muraille depuis l’époque de Yehochoua bin Noun lisent le quinze. Les villages et les grandes villes lisent le quatorze, si ce n’est que les villages avancent leur lecture au jour de rassemblement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:1",
+                "explication": "La Michna enseigne que la lecture de la Meguila peut, dans certains cas, avoir lieu dès le 11 Adar et jusqu’au 15, mais jamais en dehors de ces dates. Les villes entourées d’une muraille depuis l’époque de Yehochoua bin Noun lisent le 15, comme Chouchane, tandis que les villes non entourées et les grandes villes lisent le 14. Les villages pouvaient avancer la lecture au « jour de rassemblement », c’est-à-dire le lundi ou le jeudi, jours où les habitants des villages venaient en ville pour le tribunal et la lecture de la Torah ; cette institution fut faite afin qu’ils puissent fournir nourriture et eau à leurs frères des villes le jour de Pourim."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:1",
+                "explication": "Le Rambam explique que les cinq dates mentionnées ne sont pas toutes équivalentes pour tout le monde : le 14 est le temps principal de lecture pour la majorité des lieux, et le 15 pour les villes qui avaient une muraille à l’époque de Yehochoua bin Noun. Les dates antérieures ne concernent que les habitants des villages, pour lesquels les Sages ont permis d’avancer la lecture lorsqu’ils se rendaient en ville. Le critère de la muraille est fixé à l’époque de Yehochoua bin Noun afin d’honorer la terre d’Israël, même si Chouchane elle-même fut le modèle du 15."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « ni moins ni plus » signifie que la lecture ne peut pas être avancée avant le 11 ni repoussée après le 15. Il souligne aussi que la Michna commence par énumérer toutes les dates possibles avant d’expliquer à qui chacune s’applique : les villes fortifiées au 15, les villes ordinaires au 14, et les villages parfois plus tôt selon le jour de rassemblement."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Megillah 1:1",
+                "explication": "Le Tiféret Israël explique que « grandes villes » désigne des agglomérations importantes mais non entourées d’une muraille depuis l’époque de Yehochoua bin Noun ; elles lisent donc le 14 comme les villes ouvertes. Quant aux villages, leur avance n’est pas un choix individuel mais dépend du calendrier : lorsque le jour de rassemblement qui précède Pourim tombe le 11, le 12 ou le 13, ils lisent alors à cette date."
+              }
+            ]
+          }
         },
         {
           "id": "1:2",
@@ -25,8 +49,32 @@
           "ref": "Mishnah Megillah 1:2",
           "he": "כֵּיצַד. חָל לִהְיוֹת יוֹם אַרְבָּעָה עָשָׂר בַּשֵּׁנִי, כְּפָרִים וַעֲיָרוֹת גְּדוֹלוֹת קוֹרִין בּוֹ בַיּוֹם, וּמֻקָּפוֹת חוֹמָה לְמָחָר. חָל לִהְיוֹת בַּשְּׁלִישִׁי אוֹ בָּרְבִיעִי, כְּפָרִים מַקְדִּימִין לְיוֹם הַכְּנִיסָה וַעֲיָרוֹת גְּדוֹלוֹת קוֹרִין בּוֹ בַיּוֹם, וּמֻקָּפוֹת חוֹמָה לְמָחָר. חָל לִהְיוֹת בָּחֲמִישִׁי, כְּפָרִים וַעֲיָרוֹת גְּדוֹלוֹת קוֹרִין בּוֹ בַיּוֹם, וּמֻקָּפוֹת חוֹמָה לְמָחָר. חָל לִהְיוֹת עֶרֶב שַׁבָּת, כְּפָרִים מַקְדִּימִין לְיוֹם הַכְּנִיסָה, וַעֲיָרוֹת גְּדוֹלוֹת וּמֻקָּפוֹת חוֹמָה קוֹרִין בּוֹ בַיּוֹם. חָל לִהְיוֹת בְּשַׁבָּת, כְּפָרִים וַעֲיָרוֹת גְּדוֹלוֹת מַקְדִּימִין וְקוֹרִין לְיוֹם הַכְּנִיסָה, וּמֻקָּפוֹת חוֹמָה לְמָחָר. חָל לִהְיוֹת אַחַר הַשַּׁבָּת, כְּפָרִים מַקְדִּימִין לְיוֹם הַכְּנִיסָה, וַעֲיָרוֹת גְּדוֹלוֹת קוֹרִין בּוֹ בַיּוֹם, וּמֻקָּפוֹת חוֹמָה לְמָחָר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Comment cela s’applique-t-il ? Si le quatorzième jour tombe un lundi, les villages et les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe un mardi ou un mercredi, les villages avancent la lecture au jour du rassemblement, les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe un jeudi, les villages et les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe la veille de Chabbat, les villages avancent la lecture au jour du rassemblement, et les grandes villes ainsi que les villes entourées de murailles lisent ce jour-là. S’il tombe pendant Chabbat, les villages et les grandes villes avancent et lisent au jour du rassemblement, et les villes entourées de murailles le lendemain. S’il tombe après Chabbat, les villages avancent la lecture au jour du rassemblement, les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain.",
+          "etude_fr": {
+            "traduction_fr": "Comment cela s’applique-t-il ? Si le quatorzième jour tombe un lundi, les villages et les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe un mardi ou un mercredi, les villages avancent la lecture au jour du rassemblement, les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe un jeudi, les villages et les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain. S’il tombe la veille de Chabbat, les villages avancent la lecture au jour du rassemblement, et les grandes villes ainsi que les villes entourées de murailles lisent ce jour-là. S’il tombe pendant Chabbat, les villages et les grandes villes avancent et lisent au jour du rassemblement, et les villes entourées de murailles le lendemain. S’il tombe après Chabbat, les villages avancent la lecture au jour du rassemblement, les grandes villes lisent ce jour-là, et les villes entourées de murailles le lendemain.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:2",
+                "explication": "La Michna détaille les cas évoqués dans la Michna précédente : les habitants des villages peuvent avancer la lecture de la Méguila au jour du rassemblement, c’est-à-dire le lundi ou le jeudi, jours où les tribunaux siégeaient et où les villageois venaient en ville. Les grandes villes lisent le quatorze Adar, tandis que les villes entourées de murailles depuis l’époque de Yehochoua bin Noun lisent le quinze. Lorsque le quinze tombe Chabbat, les villes entourées de murailles ne lisent pas pendant Chabbat, de crainte que l’on transporte la Méguila dans le domaine public ; elles lisent donc la veille, le quatorze, comme l’indique le cas où le quatorze tombe la veille de Chabbat."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:2",
+                "explication": "Le Rambam explique que cette Michna expose l’ordre des lectures selon le jour de la semaine où tombe le quatorze Adar. Les villages bénéficiaient d’une dispense particulière : ils pouvaient lire plus tôt, au jour de rassemblement le plus proche, afin de pouvoir fournir eau et nourriture à leurs frères des villes le jour de Pourim. Mais les grandes villes ne déplacent pas leur lecture : elles lisent le quatorze, sauf lorsque ce jour tombe Chabbat, car on ne lit pas la Méguila pendant Chabbat."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:2",
+                "explication": "Le Tossafot Yom Tov souligne la structure de la Michna : elle ne vient pas enseigner de nouveaux principes, mais préciser concrètement le tableau des dates possibles mentionné précédemment. L’expression “le lendemain” désigne toujours le quinzième jour, jour de lecture des villes entourées de murailles, sauf dans le cas où le quinzième tombe Chabbat : alors leur lecture est avancée au quatorze, et c’est pourquoi la Michna dit que, lorsque le quatorze tombe la veille de Chabbat, les grandes villes et les villes entourées de murailles lisent ce même jour."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Megillah 1:2",
+                "explication": "Le Tiféret Israël explique que le “jour du rassemblement” correspond au lundi ou au jeudi précédant Pourim, car ces jours étaient fixés pour la lecture publique de la Torah et pour la venue des villageois dans les localités plus importantes. La Michna énumère ainsi toutes les configurations du calendrier : parfois les villages lisent le même jour que les grandes villes, lorsque le quatorze tombe déjà un lundi ou un jeudi ; parfois ils lisent plus tôt, afin de ne pas devoir revenir spécialement le jour de Pourim."
+              }
+            ]
+          }
         },
         {
           "id": "1:3",
@@ -35,8 +83,32 @@
           "ref": "Mishnah Megillah 1:3",
           "he": "אֵיזוֹ הִיא עִיר גְּדוֹלָה, כֹּל שֶׁיֵּשׁ בָּהּ עֲשָׂרָה בַטְלָנִים. פָּחוֹת מִכָּאן, הֲרֵי זֶה כְפָר. בָּאֵלּוּ אָמְרוּ מַקְדִּימִין וְלֹא מְאַחֲרִין. אֲבָל זְמַן עֲצֵי כֹהֲנִים וְתִשְׁעָה בְאָב, חֲגִיגָה וְהַקְהֵל, מְאַחֲרִין וְלֹא מַקְדִּימִין. אַף עַל פִּי שֶׁאָמְרוּ מַקְדִּימִין וְלֹא מְאַחֲרִין, מֻתָּרִין בְּהֶסְפֵּד וּבְתַעֲנִיּוֹת וּמַתָּנוֹת לָאֶבְיוֹנִים. אָמַר רַבִּי יְהוּדָה, אֵימָתַי, מְקוֹם שֶׁנִּכְנָסִין בְּשֵׁנִי וּבַחֲמִישִׁי. אֲבָל מְקוֹם שֶׁאֵין נִכְנָסִין לֹא בְּשֵׁנִי וְלֹא בַחֲמִישִׁי, אֵין קוֹרִין אוֹתָהּ אֶלָּא בִזְמַנָּהּ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Quelle est une grande ville ? Toute ville où se trouvent dix hommes disponibles. S’il y en a moins, c’est considéré comme un village. C’est à propos de ces cas qu’ils ont dit : on avance, mais on ne retarde pas. Mais le temps de l’offrande du bois des Cohanim, le neuf av, la ‘haguiga et le hakhel : on retarde, mais on n’avance pas. Bien qu’ils aient dit : on avance, mais on ne retarde pas, ces jours-là sont permis pour les oraisons funèbres, les jeûnes et les dons aux pauvres. Rabbi Yehouda dit : Quand cela s’applique-t-il ? Dans un lieu où l’on se rassemble le lundi et le jeudi. Mais dans un lieu où l’on ne se rassemble ni le lundi ni le jeudi, on ne la lit qu’en son temps.",
+          "etude_fr": {
+            "traduction_fr": "Quelle est une grande ville ? Toute ville où se trouvent dix hommes disponibles. S’il y en a moins, c’est considéré comme un village. C’est à propos de ces cas qu’ils ont dit : on avance, mais on ne retarde pas. Mais le temps de l’offrande du bois des Cohanim, le neuf av, la ‘haguiga et le hakhel : on retarde, mais on n’avance pas. Bien qu’ils aient dit : on avance, mais on ne retarde pas, ces jours-là sont permis pour les oraisons funèbres, les jeûnes et les dons aux pauvres. Rabbi Yehouda dit : Quand cela s’applique-t-il ? Dans un lieu où l’on se rassemble le lundi et le jeudi. Mais dans un lieu où l’on ne se rassemble ni le lundi ni le jeudi, on ne la lit qu’en son temps.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:3",
+                "explication": "Les « dix hommes disponibles » sont des personnes dégagées de leurs travaux et présentes en permanence à la synagogue pour assurer le minyan. Une ville qui possède un tel noyau fixe est appelée « grande ville » et ne bénéficie pas de l’anticipation de la lecture comme les villages. Les villages, eux, lisaient parfois plus tôt, les jours de marché, lorsque les habitants se rendaient en ville le lundi ou le jeudi."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:3",
+                "explication": "Le Rambam explique que la règle « on avance, mais on ne retarde pas » concerne la lecture de la Meguila dans les cas exposés précédemment : lorsqu’il est nécessaire de déplacer la lecture, on la fixe avant le temps principal et non après, car la mitsva de lecture ne doit pas être repoussée au-delà de son moment. En revanche, pour les autres dates mentionnées par la Michna — comme le neuf av ou le hakhel — si elles ne peuvent être observées en leur temps, on les repousse et on ne les avance pas, chacune selon sa raison halakhique."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:3",
+                "explication": "Le Tossafot Yom Tov souligne que les jours où les villageois lisent la Meguila par anticipation n’acquièrent pas le statut plein de Pourim quant à l’interdiction des oraisons funèbres et des jeûnes. C’est pourquoi la Michna précise qu’ils y sont permis. Cependant, les dons aux pauvres sont donnés le jour même de la lecture, car les pauvres attendent ces dons au moment où la Meguila est lue publiquement."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Megillah 1:3",
+                "explication": "Le Tiféret Israël explique la précision de Rabbi Yehouda : l’autorisation accordée aux villages de lire plus tôt dépend de l’usage de se rendre en ville les lundis et jeudis, jours de rassemblement et de tribunal. Là où cet usage n’existe pas, il n’y a pas de raison de permettre une lecture anticipée ; la Meguila doit donc être lue uniquement en son temps fixé."
+              }
+            ]
+          }
         },
         {
           "id": "1:4",
@@ -45,8 +117,32 @@
           "ref": "Mishnah Megillah 1:4",
           "he": "קָרְאוּ אֶת הַמְּגִלָּה בַּאֲדָר הָרִאשׁוֹן וְנִתְעַבְּרָה הַשָּׁנָה, קוֹרִין אוֹתָהּ בַּאֲדָר הַשֵּׁנִי, אֵין בֵּין אֲדָר הָרִאשׁוֹן לַאֲדָר הַשֵּׁנִי אֶלָּא קְרִיאַת הַמְּגִלָּה וּמַתָּנוֹת לָאֶבְיוֹנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’ils ont lu la Méguila au premier Adar, puis que l’année a été déclarée embolismique, on la lit au second Adar. Il n’y a, entre le premier Adar et le second Adar, que la lecture de la Méguila et les dons aux pauvres.",
+          "etude_fr": {
+            "traduction_fr": "S’ils ont lu la Méguila au premier Adar, puis que l’année a été déclarée embolismique, on la lit au second Adar. Il n’y a, entre le premier Adar et le second Adar, que la lecture de la Méguila et les dons aux pauvres.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Meguila 1:4",
+                "explication": "La Michna parle d’un cas où le tribunal a d’abord laissé l’année comme une année simple, si bien que l’on a lu la Méguila le quatorze du premier Adar, puis le tribunal a ensuite décidé d’ajouter un mois et de faire de l’année une année embolismique. Dans ce cas, on recommence la lecture de la Méguila au second Adar, car la mitsva principale de Pourim doit être accomplie dans l’Adar le plus proche de Nissan, afin de rapprocher la délivrance de Pourim de la délivrance d’Égypte. La différence mentionnée par la Michna concerne la lecture de la Méguila et les dons aux pauvres, qui doivent être accomplis au second Adar."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Meguila 1:4",
+                "explication": "Le Rambam explique que lorsque l’année est rendue embolismique après que l’on a déjà lu la Méguila au premier Adar, cette première lecture ne suffit pas : on doit la relire au second Adar. La règle est que, dans une année à deux Adar, les obligations essentielles de Pourim — lecture de la Méguila et dons aux pauvres — relèvent du second Adar. La raison est que le souvenir du miracle de Pourim doit être placé dans l’Adar qui précède immédiatement Nissan."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Meguila 1:4",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « il n’y a entre le premier Adar et le second Adar que… » doit être comprise dans le cadre de cette Michna : les différences halakhiques essentielles énumérées ici sont la lecture de la Méguila et les dons aux pauvres. Les autres pratiques liées à ces dates ne sont pas le sujet principal de l’énoncé, et la Michna met l’accent sur les obligations qui doivent être répétées au second Adar lorsqu’elles ont déjà été accomplies au premier."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Meguila 1:4",
+                "explication": "Le Tiféret Israël explique que « l’année a été déclarée embolismique » signifie que le tribunal a ajouté un second Adar après que la lecture eut déjà été faite au premier Adar. Dès lors, le premier Adar perd son statut de mois principal pour Pourim, et la lecture doit être faite au second Adar. Les dons aux pauvres sont également rattachés au second Adar, car ils font partie des obligations centrales de Pourim et doivent accompagner la célébration principale du jour."
+              }
+            ]
+          }
         },
         {
           "id": "1:5",
@@ -55,8 +151,27 @@
           "ref": "Mishnah Megillah 1:5",
           "he": "אֵין בֵּין יוֹם טוֹב לְשַׁבָּת אֶלָּא אֹכֶל נֶפֶשׁ בִּלְבָד. אֵין בֵּין שַׁבָּת לְיוֹם הַכִּפּוּרִים אֶלָּא שֶׁזֶּה זְדוֹנוֹ בִּידֵי אָדָם וְזֶה זְדוֹנוֹ בְּכָרֵת:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a entre Yom Tov et Chabbat que la préparation de la nourriture nécessaire à la personne, seulement. Il n’y a entre Chabbat et Yom Kippour que ceci : pour celui-ci, la transgression volontaire relève du tribunal humain, tandis que pour celui-là, la transgression volontaire entraîne le retranchement.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a entre Yom Tov et Chabbat que la préparation de la nourriture nécessaire à la personne, seulement. Il n’y a entre Chabbat et Yom Kippour que ceci : pour celui-ci, la transgression volontaire relève du tribunal humain, tandis que pour celui-là, la transgression volontaire entraîne le retranchement.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Megillah 1:5",
+                "explication": "La Michna enseigne que toutes les mélakhot interdites le Chabbat le sont également à Yom Tov, à l’exception de celles qui sont nécessaires à la préparation de la nourriture, comme cuire et porter ce qui est nécessaire au repas. Concernant la seconde clause, Bartenoura explique que la profanation volontaire de Chabbat, lorsqu’elle est faite avec avertissement et témoins, est passible de mort par le tribunal, tandis que la profanation volontaire de Yom Kippour est punie de karet, retranchement, et non d’une peine capitale infligée par un tribunal humain."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 1:5",
+                "explication": "Le Rambam précise que la différence mentionnée entre Yom Tov et Chabbat porte sur les travaux liés à okhel nefesh : la Torah les a permis à Yom Tov, mais ils demeurent interdits le Chabbat. Toutefois, les autres mélakhot restent interdites à Yom Tov comme à Chabbat. Quant à Chabbat et Yom Kippour, leur statut est semblable pour les interdits de mélakha ; la différence réside dans la sanction de la transgression volontaire : Chabbat peut entraîner une peine capitale judiciaire, tandis que Yom Kippour entraîne karet."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Megillah 1:5",
+                "explication": "Le Tossafot Yom Tov souligne que la formule « il n’y a entre » ne signifie pas qu’il n’existe absolument aucune autre distinction dans tous les domaines, mais qu’elle se rapporte au sujet traité ici : les interdits de mélakha et leurs sanctions. Ainsi, pour Yom Tov et Chabbat, la Michna ne vient comparer que les travaux interdits ; pour Chabbat et Yom Kippour, elle compare principalement la gravité pénale de la transgression volontaire."
+              }
+            ]
+          }
         },
         {
           "id": "1:6",
@@ -65,8 +180,27 @@
           "ref": "Mishnah Megillah 1:6",
           "he": "אֵין בֵּין הַמֻּדָּר הֲנָאָה מֵחֲבֵרוֹ לַמֻּדָּר מִמֶּנּוּ מַאֲכָל אֶלָּא דְּרִיסַת הָרֶגֶל וְכֵלִים שֶׁאֵין עוֹשִׂין בָּהֶן אֹכֶל נֶפֶשׁ. אֵין בֵּין נְדָרִים לִנְדָבוֹת אֶלָּא שֶׁהַנְּדָרִים חַיָּב בְּאַחֲרָיוּתָן, וּנְדָבוֹת אֵינוֹ חַיָּב בְּאַחֲרָיוּתָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a de différence entre celui à qui son prochain est interdit par vœu quant à tout profit, et celui à qui il est interdit par vœu seulement quant à la nourriture, que le droit de passage et les ustensiles avec lesquels on ne prépare pas de quoi se nourrir. Il n’y a de différence entre les vœux et les offrandes volontaires que ceci : pour les vœux, on est tenu d’en assumer la responsabilité ; tandis que pour les offrandes volontaires, on n’est pas tenu d’en assumer la responsabilité.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a de différence entre celui à qui son prochain est interdit par vœu quant à tout profit, et celui à qui il est interdit par vœu seulement quant à la nourriture, que le droit de passage et les ustensiles avec lesquels on ne prépare pas de quoi se nourrir. Il n’y a de différence entre les vœux et les offrandes volontaires que ceci : pour les vœux, on est tenu d’en assumer la responsabilité ; tandis que pour les offrandes volontaires, on n’est pas tenu d’en assumer la responsabilité.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:6",
+                "explication": "Celui qui a interdit à son prochain tout profit provenant de lui lui interdit même des avantages qui ne sont pas de la nourriture, comme entrer dans sa propriété par simple passage, appelé « droit de passage », ou emprunter des ustensiles qui ne servent pas à préparer de la nourriture. En revanche, si le vœu ne porte que sur la nourriture, ces usages restent permis ; seuls les aliments et ce qui sert directement à préparer la nourriture sont interdits. Pour les sacrifices, un « vœu » signifie : « il m’incombe d’apporter un sacrifice » ; s’il a été séparé puis perdu ou devenu invalide, il doit en apporter un autre. Une « offrande volontaire » signifie : « cet animal est un sacrifice » ; si l’animal est perdu ou devient invalide, il n’est pas tenu d’en apporter un autre."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:6",
+                "explication": "Le Rambam explique que l’interdiction générale de profit est plus large que l’interdiction de nourriture : elle inclut même des profits minimes, tels que l’usage de l’espace de l’autre pour passer, ou l’emprunt d’objets qui ne sont pas nécessaires à l’alimentation. Mais lorsqu’il n’a interdit que la nourriture, l’interdit se limite à ce qui relève de la consommation et de ses besoins. Concernant les sacrifices, la différence dépend de la formulation : dans un vœu, l’obligation repose sur la personne ; dans une offrande volontaire, la consécration repose sur l’objet désigné."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:6",
+                "explication": "Il précise que la Michna mentionne « les ustensiles avec lesquels on ne prépare pas de quoi se nourrir » parce que des ustensiles servant à préparer la nourriture sont inclus dans l’interdiction de nourriture : profiter d’un four, d’une marmite ou d’un instrument de cuisine revient à tirer un bénéfice lié à l’alimentation. En revanche, des objets sans rapport avec la préparation alimentaire ne sont interdits que lorsque le vœu porte sur tout profit."
+              }
+            ]
+          }
         },
         {
           "id": "1:7",
@@ -75,8 +209,32 @@
           "ref": "Mishnah Megillah 1:7",
           "he": "אֵין בֵּין זָב הָרוֹאֶה שְׁתֵּי רְאִיּוֹת לְרוֹאֶה שָׁלֹשׁ אֶלָּא קָרְבָּן. אֵין בֵּין מְצֹרָע מֻסְגָּר לִמְצֹרָע מֻחְלָט אֶלָּא פְרִיעָה וּפְרִימָה. אֵין בֵּין טָהוֹר מִתּוֹךְ הֶסְגֵּר לְטָהוֹר מִתּוֹךְ הֶחְלֵט אֶלָּא תִגְלַחַת וְצִפֳּרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a, entre un zav qui a vu deux écoulements et celui qui en a vu trois, que le sacrifice. Il n’y a, entre un lépreux placé en isolement et un lépreux déclaré définitivement impur, que le fait de laisser pousser les cheveux et de déchirer les vêtements. Il n’y a, entre celui qui devient pur à l’issue de l’isolement et celui qui devient pur après avoir été déclaré définitivement impur, que la tonte et les oiseaux.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a, entre un zav qui a vu deux écoulements et celui qui en a vu trois, que le sacrifice. Il n’y a, entre un lépreux placé en isolement et un lépreux déclaré définitivement impur, que le fait de laisser pousser les cheveux et de déchirer les vêtements. Il n’y a, entre celui qui devient pur à l’issue de l’isolement et celui qui devient pur après avoir été déclaré définitivement impur, que la tonte et les oiseaux.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:7",
+                "explication": "Un zav ayant eu deux visions d’écoulement est impur et doit compter sept jours purs, puis s’immerger ; toutefois il n’apporte pas de sacrifice. Celui qui a eu trois visions a les mêmes lois d’impureté et de purification, mais doit en plus apporter un sacrifice : deux oiseaux, l’un en expiatoire et l’autre en holocauste. De même, le metsora musgar, placé en isolement pour examen, et le metsora mouḥlat, déclaré atteint avec certitude, rendent tous deux impur ; la différence est que le mouḥlat doit se comporter en deuil public : laisser pousser ses cheveux et déchirer ses vêtements. Enfin, celui qui est déclaré pur après isolement n’a pas besoin de la procédure de purification du metsora mouḥlat : tonte et oiseaux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:7",
+                "explication": "Le Rambam explique que la Michna énumère des cas où deux statuts sont presque identiques, afin de préciser la seule différence halakhique entre eux. Pour le zav, deux visions suffisent à lui conférer l’impureté sévère du zav, mais l’obligation du sacrifice ne commence qu’à trois visions. Pour le metsora, l’isolement est une étape d’attente et de vérification, tandis que la décision définitive entraîne des marques extérieures imposées par la Torah : cheveux non coupés et vêtements déchirés."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:7",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « il n’y a entre » ne signifie pas que tous les détails pratiques soient absolument identiques en toute circonstance, mais que, pour l’essentiel des obligations mentionnées par la Michna, la différence déterminante est celle qui est énoncée. Ainsi, pour le zav, la Michna met l’accent sur l’ajout du sacrifice, et pour le metsora, sur les obligations qui distinguent le mouḥlat du musgar."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Megillah 1:7",
+                "explication": "Le Tiféret Israël précise les termes : le metsora musgar est celui que le Cohen n’a pas encore déclaré définitivement impur, mais qu’il a enfermé pour une période d’observation ; le metsora mouḥlat est celui dont les signes ont été confirmés et qui est donc déclaré impur de manière arrêtée. Lorsqu’un musgar est finalement déclaré pur, il sort sans cérémonie particulière ; lorsqu’un mouḥlat guérit, il doit suivre la purification du metsora, comprenant la tonte de tout le poil requis et le rite des deux oiseaux."
+              }
+            ]
+          }
         },
         {
           "id": "1:8",
@@ -85,8 +243,32 @@
           "ref": "Mishnah Megillah 1:8",
           "he": "אֵין בֵּין סְפָרִים לִתְפִלִּין וּמְזוּזוֹת אֶלָּא שֶׁהַסְּפָרִים נִכְתָּבִין בְּכָל לָשׁוֹן, וּתְפִלִּין וּמְזוּזוֹת אֵינָן נִכְתָּבוֹת אֶלָּא אַשּׁוּרִית. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, אַף בַּסְּפָרִים לֹא הִתִּירוּ שֶׁיִּכָּתְבוּ אֶלָּא יְוָנִית:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a de différence entre les livres [saints] et les téfilines et les mézouzot que sur ce point : les livres peuvent être écrits dans toute langue, tandis que les téfilines et les mézouzot ne peuvent être écrites qu’en écriture achourite. Rabban Chim‘on ben Gamliel dit : même pour les livres [saints], on n’a autorisé qu’ils soient écrits qu’en grec.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a de différence entre les livres [saints] et les téfilines et les mézouzot que sur ce point : les livres peuvent être écrits dans toute langue, tandis que les téfilines et les mézouzot ne peuvent être écrites qu’en écriture achourite. Rabban Chim‘on ben Gamliel dit : même pour les livres [saints], on n’a autorisé qu’ils soient écrits qu’en grec.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:8",
+                "explication": "Les « livres » désignent les livres saints de l’Écriture. Selon le premier avis, ils peuvent être écrits dans toute langue, pourvu qu’ils soient écrits avec l’encre requise et sur un support valable. En revanche, les téfilines et les mézouzot doivent être écrites en achourit, c’est-à-dire en écriture sainte hébraïque, comme elles sont traditionnellement écrites. Rabban Chim‘on ben Gamliel limite l’autorisation concernant les livres saints : parmi les langues étrangères, seule la langue grecque a été permise."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:8",
+                "explication": "Le Rambam explique que cette Michna compare le statut des livres saints à celui des téfilines et des mézouzot quant à la langue et à l’écriture. Les téfilines et les mézouzot ne sont valables que si elles sont écrites en hébreu, en écriture achourite. Pour les livres saints, le premier maître permet une rédaction dans d’autres langues, tandis que Rabban Chim‘on ben Gamliel n’autorise, en dehors de l’hébreu, que le grec. La halakha suit Rabban Chim‘on ben Gamliel, en raison de la beauté particulière attribuée à la langue grecque pour les textes de l’Écriture."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:8",
+                "explication": "Le Tossafot Yom Tov précise que la différence énoncée par la Michna porte uniquement sur la langue d’écriture. Sur d’autres exigences, comme l’écriture destinée à la sainteté du texte et les règles propres aux écrits sacrés, les livres saints conservent leur statut de sainteté. Il souligne aussi que le terme « achourit » renvoie à l’écriture hébraïque carrée, appelée ainsi parce qu’elle revint avec Israël depuis Achour, ou parce qu’elle est droite et belle."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Megillah 1:8",
+                "explication": "Le Tiféret Israël explique que la permission d’écrire les livres saints dans d’autres langues vise leur lecture et leur étude par ceux qui comprennent ces langues. Toutefois, les téfilines et les mézouzot, qui sont des objets de mitsva dont chaque lettre a une sainteté et une forme déterminées, ne peuvent être écrites que dans l’écriture achourite. L’avis de Rabban Chim‘on ben Gamliel enseigne que, même pour les livres saints, la seule traduction ayant reçu une autorisation particulière est le grec."
+              }
+            ]
+          }
         },
         {
           "id": "1:9",
@@ -95,8 +277,32 @@
           "ref": "Mishnah Megillah 1:9",
           "he": "אֵין בֵּין כֹּהֵן מָשׁוּחַ בְּשֶׁמֶן הַמִּשְׁחָה לִמְרֻבֶּה בְגָדִים אֶלָּא פַּר הַבָּא עַל כָּל הַמִּצְוֹת. אֵין בֵּין כֹּהֵן מְשַׁמֵּשׁ לְכֹהֵן שֶׁעָבַר אֶלָּא פַּר יוֹם הַכִּפּוּרִים וַעֲשִׂירִית הָאֵיפָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a de différence entre un Cohen oint avec l’huile d’onction et un Cohen investi par la multiplication des vêtements qu’au sujet du taureau offert pour toutes les mitsvot. Il n’y a de différence entre un Cohen en fonction et un Cohen qui a cessé d’exercer qu’au sujet du taureau de Yom Kippour et du dixième de l’épha.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a de différence entre un Cohen oint avec l’huile d’onction et un Cohen investi par la multiplication des vêtements qu’au sujet du taureau offert pour toutes les mitsvot. Il n’y a de différence entre un Cohen en fonction et un Cohen qui a cessé d’exercer qu’au sujet du taureau de Yom Kippour et du dixième de l’épha.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 1:9",
+                "explication": "Le « Cohen oint avec l’huile d’onction » est le grand Cohen consacré par l’huile d’onction, à l’époque où elle existait. Le « Cohen investi par la multiplication des vêtements » est le grand Cohen consacré uniquement par le port des huit vêtements de la grande prêtrise, comme ce fut le cas au Second Temple, lorsque l’huile d’onction manquait. Tous deux sont égaux pour les lois de la grande prêtrise, sauf pour le « taureau offert pour toutes les mitsvot » : lorsqu’un grand Cohen oint a rendu une décision erronée dans une interdiction passible de retranchement et a agi selon sa décision, il apporte le taureau prévu par la Torah ; le grand Cohen seulement investi par les vêtements ne l’apporte pas."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 1:9",
+                "explication": "Le Rambam explique que la Michna compare deux statuts de grand Cohen : celui qui a été oint avec l’huile d’onction et celui qui a reçu sa dignité par le service en huit vêtements. Leur autorité cultuelle et leurs interdictions particulières sont identiques, mais l’obligation du taureau pour une décision erronée du grand Cohen dépend spécifiquement de l’onction par l’huile, comme l’indique le verset : « le Cohen oint ». Ainsi, cette obligation ne concerne pas le grand Cohen qui n’a jamais été oint."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 1:9",
+                "explication": "Il souligne que l’expression « il n’y a de différence » ne signifie pas une absence absolue de toute autre nuance possible, mais vise les différences halakhiques principales dans le cadre traité. Concernant le « Cohen en fonction » et le « Cohen qui a cessé d’exercer », la Michna parle d’un grand Cohen qui a été remplacé, par exemple après avoir été temporairement empêché de servir. Même après sa destitution, il conserve la sainteté et les lois du grand Cohen pour de nombreux points, mais il ne peut pas accomplir les services propres au grand Cohen en exercice."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Megillah 1:9",
+                "explication": "Le Tiféret Israël explique que le « Cohen en fonction » est celui qui sert actuellement comme grand Cohen, tandis que le « Cohen qui a cessé d’exercer » est un ancien grand Cohen qui a été écarté de sa charge. Ils sont semblables quant à la dignité de grande prêtrise, mais seul le grand Cohen en fonction apporte le taureau de Yom Kippour et l’offrande quotidienne du dixième de l’épha, appelée minḥat ḥavitin. Ces offrandes sont liées à l’exercice effectif de la charge."
+              }
+            ]
+          }
         },
         {
           "id": "1:10",
@@ -105,8 +311,27 @@
           "ref": "Mishnah Megillah 1:10",
           "he": "אֵין בֵּין בָּמָה גְדוֹלָה לְבָמָה קְטַנָּה אֶלָּא פְסָחִים. זֶה הַכְּלָל, כָּל שֶׁהוּא נִדָּר וְנִדָּב, קָרֵב בַּבָּמָה. וְכֹל שֶׁאֵינוֹ לֹא נִדָּר וְלֹא נִדָּב, אֵינוֹ קָרֵב בַּבָּמָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a de différence entre une grande bama et une petite bama que pour les sacrifices de Pessaḥ. Voici la règle : tout ce qui est voué ou offert volontairement est offert sur une bama ; et tout ce qui n’est ni voué ni offert volontairement n’est pas offert sur une bama.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a de différence entre une grande bama et une petite bama que pour les sacrifices de Pessaḥ. Voici la règle : tout ce qui est voué ou offert volontairement est offert sur une bama ; et tout ce qui n’est ni voué ni offert volontairement n’est pas offert sur une bama.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Megillah 1:10",
+                "explication": "La « grande bama » désigne l’autel public qui se trouvait à Nov puis à Guiv‘on, à l’époque où les bamot étaient permises, après la destruction de Chilo et avant la construction du Temple. La « petite bama » désigne un autel privé que chacun pouvait faire pour offrir ses sacrifices. La différence mentionnée par la Michna est que les sacrifices de Pessaḥ, qui sont des sacrifices obligatoires à temps fixe, étaient offerts sur la grande bama, mais non sur une petite bama. En revanche, les sacrifices relevant d’un vœu ou d’une offrande volontaire pouvaient être apportés sur une bama."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 1:10",
+                "explication": "Le Rambam explique que la Michna parle de la période où l’usage des bamot était autorisé. Les offrandes volontaires, comme un olah ou un chelamim qu’une personne s’est engagée à apporter ou qu’elle donne spontanément, peuvent être offertes sur une bama. Mais les sacrifices qui relèvent d’une obligation fixe et ne viennent pas par vœu ou par don volontaire ne sont pas offerts sur une bama privée. Le sacrifice de Pessaḥ constitue l’exception signalée ici : il est apporté à la grande bama, car il s’agit d’un sacrifice public ou collectif lié à un temps déterminé."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Megillah 1:10",
+                "explication": "Le Tossafot Yom Tov précise la formulation de la Michna : lorsqu’elle dit que tout ce qui est « voué ou offert volontairement » est offert sur une bama, elle vise principalement les sacrifices individuels qui ne sont pas imposés par une obligation fixe. La règle finale vient exclure les sacrifices obligatoires, tels que les sacrifices de faute et autres obligations qui ne dépendent pas d’un vœu ou d’une générosité volontaire. Le cas des sacrifices de Pessaḥ est donc mis à part, car ils ne sont pas offerts sur une petite bama mais relèvent de la grande bama."
+              }
+            ]
+          }
         },
         {
           "id": "1:11",
@@ -115,8 +340,27 @@
           "ref": "Mishnah Megillah 1:11",
           "he": "אֵין בֵּין שִׁילֹה לִירוּשָׁלַיִם אֶלָּא שֶׁבְּשִׁילֹה אוֹכְלִים קָדָשִׁים קַלִּים וּמַעֲשֵׂר שֵׁנִי בְּכָל הָרוֹאֶה, וּבִירוּשָׁלַיִם לִפְנִים מִן הַחוֹמָה. וְכָאן וְכָאן קָדְשֵׁי קָדָשִׁים נֶאֱכָלִים לִפְנִים מִן הַקְּלָעִים. קְדֻשַּׁת שִׁילֹה יֵשׁ אַחֲרֶיהָ הֶתֵּר, וּקְדֻשַּׁת יְרוּשָׁלַיִם אֵין אַחֲרֶיהָ הֶתֵּר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Il n’y a de différence entre Chilo et Jérusalem que ceci : à Chilo, on mange les sacrifices de moindre sainteté et le maasser chéni dans tout lieu d’où l’on voit Chilo ; tandis qu’à Jérusalem, on les mange à l’intérieur de la muraille. Et, ici comme là, les sacrifices de très haute sainteté sont mangés à l’intérieur des tentures. La sainteté de Chilo a été suivie d’une permission, tandis que la sainteté de Jérusalem n’est suivie d’aucune permission.",
+          "etude_fr": {
+            "traduction_fr": "Il n’y a de différence entre Chilo et Jérusalem que ceci : à Chilo, on mange les sacrifices de moindre sainteté et le maasser chéni dans tout lieu d’où l’on voit Chilo ; tandis qu’à Jérusalem, on les mange à l’intérieur de la muraille. Et, ici comme là, les sacrifices de très haute sainteté sont mangés à l’intérieur des tentures. La sainteté de Chilo a été suivie d’une permission, tandis que la sainteté de Jérusalem n’est suivie d’aucune permission.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Megillah 1:11",
+                "explication": "La Michna compare le sanctuaire de Chilo au Temple de Jérusalem. À Chilo, les sacrifices de moindre sainteté, comme les shelamim, ainsi que le maasser chéni, pouvaient être consommés dans tout endroit depuis lequel on voyait Chilo. À Jérusalem, en revanche, leur consommation n’est permise qu’à l’intérieur de la muraille de la ville. Les sacrifices de très haute sainteté, comme le ‘hatat et l’acham, sont dans les deux cas consommés uniquement dans l’enceinte du parvis, désignée à Chilo par les tentures qui entouraient le sanctuaire."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 1:11",
+                "explication": "Le Rambam explique que la différence essentielle concerne le lieu de consommation des kodashim kalim et du maasser chéni. À Chilo, la sainteté s’étendait visuellement : tout endroit d’où le sanctuaire était visible permettait leur consommation. À Jérusalem, la sainteté déterminante est celle de l’enceinte murée. Le Rambam précise aussi que lorsque la Michna dit que la sainteté de Chilo a eu ensuite une permission, cela signifie qu’après la destruction de Chilo il fut de nouveau permis d’offrir des sacrifices sur les hauts-lieux ; après la sanctification de Jérusalem, une telle permission n’est plus jamais revenue."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Megillah 1:11",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « dans tout lieu d’où l’on voit » ne signifie pas une limite territoriale fondée sur des murailles, mais une extension liée à la visibilité du sanctuaire de Chilo. Il précise également que « ici comme là » vient enseigner que, malgré cette différence pour les sacrifices de moindre sainteté, les sacrifices de très haute sainteté conservent le même statut strict : ils doivent être mangés dans l’enceinte du sanctuaire."
+              }
+            ]
+          }
         }
       ]
     },
@@ -130,8 +374,27 @@
           "ref": "Mishnah Megillah 2:1",
           "he": "הַקּוֹרֵא אֶת הַמְּגִלָּה לְמַפְרֵעַ, לֹא יָצָא. קְרָאָהּ עַל פֶּה, קְרָאָהּ תַּרְגּוּם, בְּכָל לָשׁוֹן, לֹא יָצָא. אֲבָל קוֹרִין אוֹתָהּ לַלּוֹעֲזוֹת בְּלַעַז. וְהַלּוֹעֵז שֶׁשָּׁמַע אַשּׁוּרִית, יָצָא:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui lit la Méguila à rebours n’est pas quitte. S’il l’a lue par cœur, s’il l’a lue en traduction, en quelque langue que ce soit, il n’est pas quitte. Mais on la lit aux personnes parlant une langue étrangère dans leur langue étrangère. Et celui qui parle une langue étrangère, s’il a entendu la Méguila en achourit, est quitte.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui lit la Méguila à rebours n’est pas quitte. S’il l’a lue par cœur, s’il l’a lue en traduction, en quelque langue que ce soit, il n’est pas quitte. Mais on la lit aux personnes parlant une langue étrangère dans leur langue étrangère. Et celui qui parle une langue étrangère, s’il a entendu la Méguila en achourit, est quitte.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Megillah 2:1",
+                "explication": "« À rebours » signifie qu’il a lu les versets ou les sections dans un ordre inversé, et il n’est pas quitte car la Méguila doit être lue selon son ordre. « Par cœur » signifie sans lire dans un rouleau écrit : il n’est pas quitte, car la lecture doit provenir d’une Méguila écrite. Quant à « en traduction, en quelque langue que ce soit », cela vise celui qui ne comprend pas cette langue ; mais pour des personnes qui parlent cette langue, on peut la leur lire dans leur langue étrangère, à condition qu’elle soit écrite dans cette langue. Enfin, même celui qui ne comprend pas l’achourit est quitte en l’entendant, car telle est la langue principale de la Méguila."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 2:1",
+                "explication": "Le Rambam explique que la lecture valable exige l’ordre du texte et une lecture à partir de l’écrit. Lire de mémoire ne permet pas d’accomplir l’obligation. Il précise aussi que les langues étrangères ne sont valables que pour ceux qui les comprennent : la lecture doit être entendue comme un texte intelligible. En revanche, la lecture en achourit rend quitte tout auditeur, même s’il ne comprend pas, car c’est la forme originale et fondamentale de la Méguila."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Megillah 2:1",
+                "explication": "Le Tossafot Yom Tov souligne la distinction entre deux cas : lire « en traduction, en quelque langue que ce soit » ne rend pas quitte lorsqu’il s’agit d’une langue que l’auditeur ne comprend pas ; mais « on la lit aux personnes parlant une langue étrangère dans leur langue étrangère » lorsqu’elles comprennent cette langue. Il précise ainsi que la validité de la lecture en langue étrangère dépend de la compréhension de l’auditeur, contrairement à l’achourit, qui est valable pour tous."
+              }
+            ]
+          }
         },
         {
           "id": "2:2",
@@ -140,8 +403,27 @@
           "ref": "Mishnah Megillah 2:2",
           "he": "קְרָאָהּ סֵרוּגִין, וּמִתְנַמְנֵם, יָצָא. הָיָה כוֹתְבָהּ, דּוֹרְשָׁהּ, וּמַגִּיהָהּ, אִם כִּוֵּן לִבּוֹ, יָצָא. וְאִם לָאו, לֹא יָצָא. הָיְתָה כְּתוּבָה בְּסַם, וּבְסִקְרָא, וּבְקוֹמוֹס וּבְקַנְקַנְתּוֹם, עַל הַנְּיָר וְעַל הַדִּפְתְּרָא, לֹא יָצָא, עַד שֶׁתְּהֵא כְּתוּבָה אַשּׁוּרִית, עַל הַסֵּפֶר וּבִדְיוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "S’il l’a lue par intermittence, ou en somnolant, il est quitte. S’il était en train de l’écrire, de l’exposer, ou de la corriger, s’il a dirigé son cœur, il est quitte ; sinon, il n’est pas quitte. Si elle était écrite avec du pigment jaune, du minium, de la gomme ou du sulfate de cuivre, sur du papier ou sur du parchemin non achevé, il n’est pas quitte, jusqu’à ce qu’elle soit écrite en écriture achourite, sur parchemin, et avec de l’encre.",
+          "etude_fr": {
+            "traduction_fr": "S’il l’a lue par intermittence, ou en somnolant, il est quitte. S’il était en train de l’écrire, de l’exposer, ou de la corriger, s’il a dirigé son cœur, il est quitte ; sinon, il n’est pas quitte. Si elle était écrite avec du pigment jaune, du minium, de la gomme ou du sulfate de cuivre, sur du papier ou sur du parchemin non achevé, il n’est pas quitte, jusqu’à ce qu’elle soit écrite en écriture achourite, sur parchemin, et avec de l’encre.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 2:2",
+                "explication": "« Par intermittence » signifie qu’il a lu la Meguila avec des pauses entre les passages, et malgré cela il est quitte, car la lecture demeure dans l’ordre. « En somnolant » désigne un état intermédiaire : il dort sans dormir pleinement ; si on l’appelle, il répond, mais il n’est pas capable de donner une réponse réfléchie. Concernant celui qui l’écrit, l’expose ou la corrige, Bartenoura explique qu’il lit les versets d’une Meguila valide tout en accomplissant ces activités ; s’il a l’intention de s’acquitter de la mitsva de lecture, il est quitte."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 2:2",
+                "explication": "Le Rambam explique que la Michna enseigne deux conditions distinctes : d’une part, la lecture peut être valable même si elle n’est pas continue, tant qu’elle est faite dans l’ordre ; d’autre part, l’objet lu doit avoir le statut d’une Meguila valable. C’est pourquoi une Meguila écrite avec des substances qui ne sont pas de l’encre, ou sur un support impropre comme le papier ou le parchemin non achevé, ne permet pas de s’acquitter. Il faut une écriture achourite, sur un support de parchemin apte, avec de l’encre."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 2:2",
+                "explication": "Le Tossafot Yom Tov souligne que « par intermittence » ne signifie pas une lecture dans le désordre : les interruptions ne disqualifient pas, mais l’ordre des versets reste indispensable. Il précise aussi que l’expression « s’il a dirigé son cœur » signifie qu’il ne suffit pas d’avoir prononcé les mots en étant occupé à écrire, expliquer ou corriger ; il faut avoir conscience que l’on accomplit par cette lecture la mitsva de la Meguila."
+              }
+            ]
+          }
         },
         {
           "id": "2:3",
@@ -150,8 +432,32 @@
           "ref": "Mishnah Megillah 2:3",
           "he": "בֶּן עִיר שֶׁהָלַךְ לִכְרַךְ וּבֶן כְּרַךְ שֶׁהָלַךְ לְעִיר, אִם עָתִיד לַחֲזֹר לִמְקוֹמוֹ, קוֹרֵא כִמְקוֹמוֹ. וְאִם לָאו, קוֹרֵא עִמָּהֶן. וּמֵהֵיכָן קוֹרֵא אָדָם אֶת הַמְּגִלָּה וְיוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ, רַבִּי מֵאִיר אוֹמֵר, כֻּלָּהּ. רַבִּי יְהוּדָה אוֹמֵר, מֵאִישׁ יְהוּדִי (אסתר ב ה). רַבִּי יוֹסֵי אוֹמֵר, מֵאַחַר הַדְּבָרִים הָאֵלֶּה (אסתר ג׳:א׳):",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un habitant d’une ville qui est allé dans une grande ville fortifiée, ou un habitant d’une grande ville fortifiée qui est allé dans une ville : s’il est destiné à retourner à son lieu, il lit comme en son lieu ; sinon, il lit avec eux. Et à partir d’où un homme lit-il la Meguila et s’acquitte-il par elle de son obligation ? Rabbi Méir dit : en entier. Rabbi Yehouda dit : depuis « un homme juif » (Esther 2, 5). Rabbi Yossé dit : depuis « Après ces événements » (Esther 3, 1).",
+          "etude_fr": {
+            "traduction_fr": "Un habitant d’une ville qui est allé dans une grande ville fortifiée, ou un habitant d’une grande ville fortifiée qui est allé dans une ville : s’il est destiné à retourner à son lieu, il lit comme en son lieu ; sinon, il lit avec eux. Et à partir d’où un homme lit-il la Meguila et s’acquitte-il par elle de son obligation ? Rabbi Méir dit : en entier. Rabbi Yehouda dit : depuis « un homme juif » (Esther 2, 5). Rabbi Yossé dit : depuis « Après ces événements » (Esther 3, 1).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 2:3",
+                "explication": "Le « fils de la ville » désigne celui dont le lieu lit le quatorze adar, et le « fils de la grande ville fortifiée » celui dont le lieu lit le quinze. Lorsqu’il est « destiné à retourner à son lieu », il suit la lecture de son propre lieu ; s’il ne doit pas y retourner au moment déterminant, il devient soumis à la lecture de l’endroit où il se trouve et lit avec ses habitants. Bartenoura précise aussi que, pour la seconde partie, la halakha suit Rabbi Méir : il faut lire toute la Meguila afin de s’acquitter de l’obligation."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 2:3",
+                "explication": "Le Rambam explique que la différence entre la ville et la grande ville fortifiée dépend de la date de lecture instituée pour chacune : les villes ordinaires le quatorze, les villes entourées de murailles depuis l’époque de Yehochoua bin Noun le quinze. Celui qui voyage suit soit son lieu d’origine, soit le lieu où il se trouve, selon son intention de retour. Concernant le début de la lecture, le Rambam tranche comme Rabbi Méir : la mitsva consiste à lire la Meguila depuis son commencement jusqu’à sa fin."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 2:3",
+                "explication": "Tossafot Yom Tov souligne que l’expression « lit comme en son lieu » ne signifie pas seulement selon la coutume locale, mais selon l’obligation halakhique attachée à son statut d’origine : quatorze pour l’habitant d’une ville, quinze pour l’habitant d’une grande ville fortifiée. Il précise également que les opinions de Rabbi Yehouda et Rabbi Yossé ne nient pas l’importance du reste du récit, mais considèrent que le cœur de la publication du miracle commence à partir de l’entrée en scène de Mordekhaï, ou à partir de l’élévation de Haman."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Megillah 19a",
+                "explication": "Rachi explique les trois opinions sur le point de départ de la lecture. Rabbi Méir exige toute la Meguila, car tout le récit participe au miracle. Rabbi Yehouda fait commencer la lecture à « un homme juif », car c’est là qu’apparaît Mordekhaï, par qui le salut se prépare. Rabbi Yossé commence à « Après ces événements », car c’est là que Haman est élevé et que débute concrètement le décret contre Israël, ce qui mène au renversement miraculeux."
+              }
+            ]
+          }
         },
         {
           "id": "2:4",
@@ -160,8 +466,32 @@
           "ref": "Mishnah Megillah 2:4",
           "he": "הַכֹּל כְּשֵׁרִין לִקְרוֹת אֶת הַמְּגִלָּה, חוּץ מֵחֵרֵשׁ, שׁוֹטֶה, וְקָטָן. רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן. אֵין קוֹרִין אֶת הַמְּגִלָּה, וְלֹא מָלִין, וְלֹא טוֹבְלִין, וְלֹא מַזִּין, וְכֵן שׁוֹמֶרֶת יוֹם כְּנֶגֶד יוֹם לֹא תִטְבֹּל, עַד שֶׁתָּנֵץ הַחַמָּה. וְכֻלָּן שֶׁעָשׂוּ מִשֶּׁעָלָה עַמּוּד הַשַּׁחַר, כָּשֵׁר:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Tous sont aptes à lire la Méguila, sauf un sourd, un aliéné et un mineur. Rabbi Yehouda déclare apte un mineur. On ne lit pas la Méguila, on ne pratique pas la circoncision, on ne s’immerge pas, on ne procède pas à l’aspersion, et de même une femme qui observe un jour en regard d’un jour ne s’immergera pas, jusqu’à ce que le soleil apparaisse. Mais tous ces actes, s’ils ont été accomplis dès le lever de l’aube, sont valables.",
+          "etude_fr": {
+            "traduction_fr": "Tous sont aptes à lire la Méguila, sauf un sourd, un aliéné et un mineur. Rabbi Yehouda déclare apte un mineur. On ne lit pas la Méguila, on ne pratique pas la circoncision, on ne s’immerge pas, on ne procède pas à l’aspersion, et de même une femme qui observe un jour en regard d’un jour ne s’immergera pas, jusqu’à ce que le soleil apparaisse. Mais tous ces actes, s’ils ont été accomplis dès le lever de l’aube, sont valables.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 2:4",
+                "explication": "« Tous sont aptes » inclut même une femme, car elle aussi est tenue de la lecture de la Méguila, puisqu’elle fut incluse dans le miracle. Le sourd mentionné ici est celui qui parle mais n’entend pas : bien qu’il ait une certaine capacité juridique, il ne peut pas acquitter les autres de leur obligation par une lecture qu’il n’entend pas lui-même. L’aliéné et le mineur sont dispensés des mitsvot et ne peuvent donc pas acquitter ceux qui sont astreints. La halakha ne suit pas Rabbi Yehouda concernant le mineur."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 2:4",
+                "explication": "Le Rambam explique que la lecture de la Méguila, ainsi que les autres actes énumérés dans la Michna, relèvent de mitsvot ou d’actes rituels qui doivent être accomplis le jour. Leur temps idéal commence au lever du soleil. Toutefois, si l’on les a faits après l’apparition de l’aube, ils sont valables, car l’aube marque déjà le début halakhique du jour."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 2:4",
+                "explication": "Il souligne que la Michna distingue entre le moment prescrit a priori et la validité a posteriori : on ne doit pas commencer ces actes avant le lever du soleil, afin que le jour soit clairement établi, mais si l’on a agi depuis le lever de l’aube, l’acte est valable. Il précise aussi que l’expression « tous » se rapporte à chacun des actes énumérés dans la suite de la Michna."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Megillah 2:4",
+                "explication": "La femme appelée « gardienne d’un jour en regard d’un jour » est une femme qui a vu du sang pendant l’un des jours de ziva ; elle doit attendre le jour suivant, le surveiller pour s’assurer qu’il reste pur, puis s’immerger. Elle ne doit pas s’immerger avant le lever du soleil, car son immersion dépend d’un jour de surveillance, mais si elle s’est immergée après l’aube, l’immersion est valable."
+              }
+            ]
+          }
         },
         {
           "id": "2:5",
@@ -170,8 +500,32 @@
           "ref": "Mishnah Megillah 2:5",
           "he": "כָּל הַיּוֹם כָּשֵׁר לִקְרִיאַת הַמְּגִלָּה, וְלִקְרִיאַת הַהַלֵּל, וְלִתְקִיעַת שׁוֹפָר, וְלִנְטִילַת לוּלָב, וְלִתְפִלַּת הַמּוּסָפִין, וְלַמּוּסָפִין, וּלְוִדּוּי הַפָּרִים, וּלְוִדּוּי הַמַּעֲשֵׂר, וּלְוִדּוּי יוֹם הַכִּפּוּרִים, לַסְּמִיכָה, לַשְּׁחִיטָה, לַתְּנוּפָה, לַהַגָּשָׁה, לַקְּמִיצָה וְלַהַקְטָרָה, לַמְּלִיקָה, וְלַקַּבָּלָה, וְלַהַזָּיָה, וּלְהַשְׁקָיַת סוֹטָה, וְלַעֲרִיפַת הָעֶגְלָה, וּלְטַהֲרַת הַמְּצֹרָע:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Toute la journée est valable pour la lecture de la Méguila, pour la lecture du Hallel, pour la sonnerie du chofar, pour la prise du loulav, pour la prière des moussafine, pour les sacrifices supplémentaires, pour la confession sur les taureaux, pour la confession du maasser, pour la confession de Yom Kippour, pour l’imposition des mains, pour l’abattage, pour le balancement, pour la présentation, pour le prélèvement de la poignée et pour la combustion, pour la mélika, pour la réception du sang, pour l’aspersion, pour faire boire la sota, pour la décapitation de la génisse, et pour la purification du lépreux.",
+          "etude_fr": {
+            "traduction_fr": "Toute la journée est valable pour la lecture de la Méguila, pour la lecture du Hallel, pour la sonnerie du chofar, pour la prise du loulav, pour la prière des moussafine, pour les sacrifices supplémentaires, pour la confession sur les taureaux, pour la confession du maasser, pour la confession de Yom Kippour, pour l’imposition des mains, pour l’abattage, pour le balancement, pour la présentation, pour le prélèvement de la poignée et pour la combustion, pour la mélika, pour la réception du sang, pour l’aspersion, pour faire boire la sota, pour la décapitation de la génisse, et pour la purification du lépreux.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 2:5",
+                "explication": "La Michna énumère des mitsvot et des services du Temple dont le temps est le jour entier, depuis le lever du jour jusqu’à la tombée de la nuit. Bartenoura explique que, même lorsque certaines de ces mitsvot ont un moment préférable — par exemple, la lecture de la Méguila se fait idéalement tôt, en raison du principe que les zélés s’empressent d’accomplir les mitsvot — elles restent néanmoins valables toute la journée si elles n’ont pas été accomplies plus tôt."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 2:5",
+                "explication": "Le Rambam précise que toutes les actions mentionnées ici sont des actes dont la Torah ou les Sages ont fixé l’accomplissement au jour, et non à la nuit. L’expression « toute la journée est valable » signifie que leur temps commence avec l’apparition du jour et se prolonge jusqu’au coucher du soleil. Il distingue ainsi ces actes de ceux qui sont valables la nuit, traités dans la Michna suivante."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 2:5",
+                "explication": "Tossafot Yom Tov relève que la Michna associe des obligations très différentes : lectures publiques, prières, rites sacrificiels et procédures particulières comme la sota ou la génisse à la nuque brisée. Leur point commun n’est pas leur nature, mais leur cadre temporel : chacune requiert le jour. Il souligne aussi que « la prière des moussafine » désigne la prière supplémentaire, tandis que « les moussafine » désignent les sacrifices supplémentaires eux-mêmes."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Megillah 2:5",
+                "explication": "Le Tiféret Israël explique plusieurs termes techniques de la liste : la semikha est l’imposition des mains sur la tête du sacrifice ; la tenoufa est le balancement de l’offrande ; la hagacha est sa présentation près de l’autel ; la kemitsa est le prélèvement d’une poignée de l’oblation ; la melika est la mise à mort rituelle de l’oiseau par l’ongle du Cohen. Tous ces actes font partie du service du Temple et doivent être accomplis de jour."
+              }
+            ]
+          }
         },
         {
           "id": "2:6",
@@ -180,8 +534,27 @@
           "ref": "Mishnah Megillah 2:6",
           "he": "כָּל הַלַּיְלָה כָּשֵׁר לִקְצִירַת הָעֹמֶר וּלְהֶקְטֵר חֲלָבִים וְאֵבָרִים. זֶה הַכְּלָל, דָּבָר שֶׁמִּצְוָתוֹ בַיּוֹם, כָּשֵׁר כָּל הַיּוֹם. דָּבָר שֶׁמִּצְוָתוֹ בַלַּיְלָה, כָּשֵׁר כָּל הַלָּיְלָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Toute la nuit est valable pour la moisson du omer et pour faire fumer sur l’autel les graisses et les membres. Voici la règle : toute chose dont la mitsva s’accomplit le jour est valable durant tout le jour ; toute chose dont la mitsva s’accomplit la nuit est valable durant toute la nuit.",
+          "etude_fr": {
+            "traduction_fr": "Toute la nuit est valable pour la moisson du omer et pour faire fumer sur l’autel les graisses et les membres. Voici la règle : toute chose dont la mitsva s’accomplit le jour est valable durant tout le jour ; toute chose dont la mitsva s’accomplit la nuit est valable durant toute la nuit.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 2:6",
+                "explication": "La moisson du omer se fait la nuit, comme il est enseigné ailleurs que l’on moissonne le omer à la sortie de Yom Tov. Les graisses et les membres des sacrifices, dont la combustion n’a pas été achevée pendant le jour, peuvent être offerts sur l’autel toute la nuit, car la nuit qui suit prolonge le temps de leur combustion."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 2:6",
+                "explication": "Le Rambam explique que cette Michna vient formuler un principe général concernant le temps des mitsvot : les actes dont le temps fixé est le jour peuvent être accomplis pendant toute la journée, tandis que ceux dont le temps fixé est la nuit peuvent être accomplis pendant toute la nuit. Il rattache ainsi les cas cités, moisson du omer et combustion des graisses et des membres, à une règle plus large."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 2:6",
+                "explication": "Il souligne que la Michna complète la précédente : après avoir énuméré les actes valables toute la journée, elle énumère ceux qui sont valables toute la nuit. La formule « voici la règle » sert à inclure tous les cas semblables : lorsqu’une mitsva est définie par la Torah ou par les Sages comme relevant du jour ou de la nuit, tout ce laps de temps est valide pour son accomplissement."
+              }
+            ]
+          }
         }
       ]
     },
@@ -195,8 +568,32 @@
           "ref": "Mishnah Megillah 3:1",
           "he": "בְּנֵי הָעִיר שֶׁמָּכְרוּ רְחוֹבָהּ שֶׁל עִיר, לוֹקְחִין בְּדָמָיו בֵּית הַכְּנֶסֶת. בֵּית הַכְּנֶסֶת, לוֹקְחִין תֵּבָה. תֵּבָה, לוֹקְחִין מִטְפָּחוֹת. מִטְפָּחוֹת, לוֹקְחִין סְפָרִים. סְפָרִים, לוֹקְחִין תּוֹרָה. אֲבָל אִם מָכְרוּ תוֹרָה, לֹא יִקְחוּ סְפָרִים. סְפָרִים, לֹא יִקְחוּ מִטְפָּחוֹת. מִטְפָּחוֹת, לֹא יִקְחוּ תֵבָה. תֵּבָה, לֹא יִקְחוּ בֵית הַכְּנֶסֶת. בֵּית הַכְּנֶסֶת, לֹא יִקְחוּ אֶת הָרְחוֹב. וְכֵן בְּמוֹתְרֵיהֶן. אֵין מוֹכְרִין אֶת שֶׁל רַבִּים לְיָחִיד, מִפְּנֵי שֶׁמּוֹרִידִין אוֹתוֹ מִקְּדֻשָּׁתוֹ, דִּבְרֵי רַבִּי יְהוּדָה. אָמְרוּ לוֹ, אִם כֵּן, אַף לֹא מֵעִיר גְּדוֹלָה לְעִיר קְטַנָּה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Les habitants d’une ville qui ont vendu la place publique de la ville achètent, avec son prix, une synagogue. S’ils ont vendu une synagogue, ils achètent une arche. S’ils ont vendu une arche, ils achètent des étoffes d’enveloppement. S’ils ont vendu des étoffes d’enveloppement, ils achètent des livres. S’ils ont vendu des livres, ils achètent une Torah. Mais s’ils ont vendu une Torah, ils n’achèteront pas des livres ; s’ils ont vendu des livres, ils n’achèteront pas des étoffes d’enveloppement ; s’ils ont vendu des étoffes d’enveloppement, ils n’achèteront pas une arche ; s’ils ont vendu une arche, ils n’achèteront pas une synagogue ; s’ils ont vendu une synagogue, ils n’achèteront pas la place publique. Et il en va de même pour leurs surplus. On ne vend pas ce qui appartient à la collectivité à un particulier, parce qu’on le fait descendre de son degré de sainteté : telles sont les paroles de Rabbi Yehouda. Ils lui dirent : s’il en est ainsi, on ne devrait pas non plus vendre d’une grande ville à une petite ville.",
+          "etude_fr": {
+            "traduction_fr": "Les habitants d’une ville qui ont vendu la place publique de la ville achètent, avec son prix, une synagogue. S’ils ont vendu une synagogue, ils achètent une arche. S’ils ont vendu une arche, ils achètent des étoffes d’enveloppement. S’ils ont vendu des étoffes d’enveloppement, ils achètent des livres. S’ils ont vendu des livres, ils achètent une Torah. Mais s’ils ont vendu une Torah, ils n’achèteront pas des livres ; s’ils ont vendu des livres, ils n’achèteront pas des étoffes d’enveloppement ; s’ils ont vendu des étoffes d’enveloppement, ils n’achèteront pas une arche ; s’ils ont vendu une arche, ils n’achèteront pas une synagogue ; s’ils ont vendu une synagogue, ils n’achèteront pas la place publique. Et il en va de même pour leurs surplus. On ne vend pas ce qui appartient à la collectivité à un particulier, parce qu’on le fait descendre de son degré de sainteté : telles sont les paroles de Rabbi Yehouda. Ils lui dirent : s’il en est ainsi, on ne devrait pas non plus vendre d’une grande ville à une petite ville.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 3:1",
+                "explication": "La Michna établit un ordre ascendant de sainteté : la place publique de la ville, car on y priait lors des jeûnes et des rassemblements ; la synagogue ; l’arche où l’on place le rouleau de Torah ; les étoffes qui servent à envelopper les rouleaux ; les livres des Prophètes et des Hagiographes ; puis le rouleau de Torah, dont la sainteté est supérieure. Le produit d’une vente ne peut donc être utilisé que pour acquérir un objet d’une sainteté plus élevée, et non d’une sainteté moindre. « Et il en va de même pour leurs surplus » signifie que même l’argent restant après l’achat de l’objet plus saint conserve cette règle et ne doit pas être utilisé pour une sainteté inférieure."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 3:1",
+                "explication": "Le Rambam explique que cette Michna traite de la sainteté attachée aux objets destinés au service public de la lecture et de la prière. Lorsqu’un objet saint est vendu, son prix reçoit la sainteté de l’objet vendu ; c’est pourquoi on ne peut employer cet argent que pour une chose plus élevée en sainteté. Le rouleau de Torah est au sommet de cette hiérarchie, car il contient la Torah elle-même, tandis que les autres éléments ne sont que des supports ou des usages qui y conduisent."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 3:1",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « livres » désigne ici les autres rouleaux des Écritures saintes, c’est-à-dire les Prophètes et les Hagiographes, par opposition à « Torah », qui désigne un rouleau de Torah. Il relève aussi que la Michna mentionne séparément chaque degré afin d’enseigner non seulement la hiérarchie générale, mais aussi l’interdiction de redescendre même d’un seul niveau de sainteté."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Megillah 3:1",
+                "explication": "Le Tiféret Israël explique l’opinion de Rabbi Yehouda : vendre un bien appartenant à une collectivité à un particulier diminue sa sainteté, car l’usage public confère une importance supplémentaire. Les Sages lui répondent que si l’on suivait ce raisonnement, il faudrait aussi interdire de vendre d’une grande ville à une petite ville, puisque le nombre d’usagers diminuerait également ; or une telle conséquence n’est pas acceptée. Leur objection montre qu’ils ne considèrent pas le passage du public au particulier comme une diminution de sainteté intrinsèque dans ce contexte."
+              }
+            ]
+          }
         },
         {
           "id": "3:2",
@@ -205,8 +602,27 @@
           "ref": "Mishnah Megillah 3:2",
           "he": "אֵין מוֹכְרִין בֵּית הַכְּנֶסֶת, אֶלָּא עַל תְּנַאי שֶׁאִם יִרְצוּ יַחֲזִירוּהוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, מוֹכְרִים אוֹתוֹ מִמְכַּר עוֹלָם, חוּץ מֵאַרְבָּעָה דְּבָרִים, לְמֶרְחָץ וּלְבֻרְסְקִי וְלִטְבִילָה וּלְבֵית הַמָּיִם. רַבִּי יְהוּדָה אוֹמֵר, מוֹכְרִין אוֹתוֹ לְשֵׁם חָצֵר, וְהַלּוֹקֵחַ מַה שֶּׁיִּרְצֶה יַעֲשֶׂה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne vend pas une synagogue, si ce n’est à condition que, s’ils le veulent, ils puissent la reprendre : paroles de Rabbi Méïr. Les Sages disent : on la vend comme une vente définitive, à l’exception de quatre usages : pour en faire un établissement de bains, une tannerie, un lieu d’immersion, ou des latrines. Rabbi Yehouda dit : on la vend sous l’appellation de cour, et l’acheteur en fera ce qu’il voudra.",
+          "etude_fr": {
+            "traduction_fr": "On ne vend pas une synagogue, si ce n’est à condition que, s’ils le veulent, ils puissent la reprendre : paroles de Rabbi Méïr. Les Sages disent : on la vend comme une vente définitive, à l’exception de quatre usages : pour en faire un établissement de bains, une tannerie, un lieu d’immersion, ou des latrines. Rabbi Yehouda dit : on la vend sous l’appellation de cour, et l’acheteur en fera ce qu’il voudra.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 3:2",
+                "explication": "Rabbi Méïr estime qu’une synagogue ne doit pas être aliénée définitivement : la vente doit prévoir que les vendeurs pourront la reprendre, afin que sa sainteté ne soit pas entièrement détachée du lieu. Les Sages ne l’exigent pas : ils permettent une vente définitive, mais interdisent que l’acheteur l’affecte à des usages déshonorants, comme des bains, une tannerie, un lieu d’immersion ou des latrines. Bartenoura précise que la halakha suit les Sages."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 3:2",
+                "explication": "Le Rambam explique que la discussion porte sur la vente d’une synagogue tout en tenant compte de la dignité due à son ancienne sainteté. Selon les Sages, même après la vente, certaines utilisations restent exclues, car elles constituent une profanation manifeste du lieu. Rabbi Yehouda propose une formulation de vente plus générale : on ne la vend pas explicitement pour un usage méprisable, mais comme une cour ordinaire, et l’usage ultérieur dépend de l’acheteur."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 3:2",
+                "explication": "Tossafot Yom Tov souligne la différence entre les positions : pour les Sages, la vente est une “vente définitive”, c’est-à-dire sans condition de retour, mais elle demeure limitée quant aux usages explicitement dégradants. Rabbi Yehouda, lui, ne permet pas de vendre directement pour ces usages ; il permet seulement une vente neutre, “au nom d’une cour”, après quoi l’acheteur agit de sa propre initiative."
+              }
+            ]
+          }
         },
         {
           "id": "3:3",
@@ -215,8 +631,27 @@
           "ref": "Mishnah Megillah 3:3",
           "he": "וְעוֹד אָמַר רַבִּי יְהוּדָה, בֵּית הַכְּנֶסֶת שֶׁחָרַב, אֵין מַסְפִּידִין בְּתוֹכוֹ, וְאֵין מַפְשִׁילִין בְּתוֹכוֹ חֲבָלִים, וְאֵין פּוֹרְשִׂין לְתוֹכוֹ מְצוּדוֹת, וְאֵין שׁוֹטְחִין עַל גַּגּוֹ פֵרוֹת, וְאֵין עוֹשִׂין אוֹתוֹ קַפַּנְדַּרְיָא, שֶׁנֶּאֱמַר (ויקרא כו), וַהֲשִׁמּוֹתִי אֶת מִקְדְּשֵׁיכֶם, קְדֻשָּׁתָן אַף כְּשֶׁהֵן שׁוֹמֵמִין. עָלוּ בוֹ עֲשָׂבִים, לֹא יִתְלֹשׁ, מִפְּנֵי עָגְמַת נָפֶשׁ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Et Rabbi Yehouda dit encore : une synagogue qui est tombée en ruine, on n’y prononce pas d’oraison funèbre, on n’y tresse pas des cordes, on n’y étend pas des filets, on ne fait pas sécher des fruits sur son toit, et on n’en fait pas un raccourci ; car il est dit : « Je dévasterai vos sanctuaires » : leur sainteté demeure même lorsqu’ils sont dévastés. Si des herbes y ont poussé, on ne les arrachera pas, afin de susciter l’affliction de l’âme.",
+          "etude_fr": {
+            "traduction_fr": "Et Rabbi Yehouda dit encore : une synagogue qui est tombée en ruine, on n’y prononce pas d’oraison funèbre, on n’y tresse pas des cordes, on n’y étend pas des filets, on ne fait pas sécher des fruits sur son toit, et on n’en fait pas un raccourci ; car il est dit : « Je dévasterai vos sanctuaires » : leur sainteté demeure même lorsqu’ils sont dévastés. Si des herbes y ont poussé, on ne les arrachera pas, afin de susciter l’affliction de l’âme.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 3:3",
+                "explication": "Bartenoura explique que même lorsqu’une synagogue est détruite, sa sainteté ne disparaît pas : on ne doit donc pas y accomplir des usages profanes ou dégradants, comme faire un éloge funèbre ordinaire, tresser des cordes, tendre des filets, faire sécher des fruits, ou la traverser comme un simple passage. Le verset « Je dévasterai vos sanctuaires » enseigne que, même dévastés, ils conservent leur statut de sanctuaire. Quant aux herbes qui poussent dans ses ruines, on ne les arrache pas, afin que leur présence provoque de la peine et rappelle la destruction du lieu saint, ce qui incitera à prier pour sa reconstruction."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 3:3",
+                "explication": "Le Rambam souligne que la synagogue possède une sainteté qui subsiste même après sa ruine, car elle a été affectée à la prière et au rassemblement sacré. Les actes mentionnés par la Michna sont interdits parce qu’ils transforment le lieu en espace utilitaire ou profane. L’interdiction de faire de la synagogue une kapandarya signifie qu’on ne doit pas l’utiliser comme raccourci pour gagner du temps ou éviter un détour, car cela manifeste un manque de respect envers sa sainteté."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 3:3",
+                "explication": "Tossafot Yom Tov précise que l’expression « on ne prononce pas d’oraison funèbre en son sein » vise un éloge funèbre individuel ou privé, qui ne relève pas de l’honneur collectif de la communauté. En revanche, certains hommages funèbres publics rendus à un sage ou à une personne éminente peuvent avoir un statut différent, car ils constituent eux-mêmes un honneur pour la Torah et pour la communauté. Il relève aussi que le toit est inclus dans l’interdit : la sainteté du lieu ne concerne pas seulement l’intérieur de l’édifice, mais s’étend aussi à ce qui lui est attaché."
+              }
+            ]
+          }
         },
         {
           "id": "3:4",
@@ -225,8 +660,32 @@
           "ref": "Mishnah Megillah 3:4",
           "he": "רֹאשׁ חֹדֶשׁ אֲדָר שֶׁחָל לִהְיוֹת בְּשַׁבָּת, קוֹרִין בְּפָרָשַׁת שְׁקָלִים (שמות ל). חָל לִהְיוֹת בְּתוֹךְ הַשַּׁבָּת, מַקְדִּימִין לְשֶׁעָבַר וּמַפְסִיקִין לְשַׁבָּת אַחֶרֶת. בַּשְּׁנִיָּה, זָכוֹר (דברים כה). בַּשְּׁלִישִׁית, פָּרָה אֲדֻמָּה (במדבר י״ט:ב׳). בָּרְבִיעִית, הַחֹדֶשׁ הַזֶּה לָכֶם (שמות יב). בָּחֲמִישִׁית, חוֹזְרִין לִכְסִדְרָן. לַכֹּל מַפְסִיקִין, בְּרָאשֵׁי חֳדָשִׁים, בַּחֲנֻכָּה וּבְפוּרִים, בַּתַּעֲנִיּוֹת וּבַמַּעֲמָדוֹת וּבְיוֹם הַכִּפּוּרִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Si Roch ‘Hodech Adar tombe un Chabbat, on lit la paracha des Chekalim (Exode 30). S’il tombe au milieu de la semaine, on avance la lecture au Chabbat précédent, et l’on interrompt pour un autre Chabbat. Au deuxième, on lit Zakhor (Deutéronome 25). Au troisième, la vache rousse (Nombres 19, 2). Au quatrième, « Ce mois-ci sera pour vous » (Exode 12). Au cinquième, on reprend l’ordre habituel. Pour tous ces cas, on interrompt : aux Roch ‘Hodech, à ‘Hanouka et à Pourim, aux jeûnes, aux ma‘amadot et à Yom Kippour.",
+          "etude_fr": {
+            "traduction_fr": "Si Roch ‘Hodech Adar tombe un Chabbat, on lit la paracha des Chekalim (Exode 30). S’il tombe au milieu de la semaine, on avance la lecture au Chabbat précédent, et l’on interrompt pour un autre Chabbat. Au deuxième, on lit Zakhor (Deutéronome 25). Au troisième, la vache rousse (Nombres 19, 2). Au quatrième, « Ce mois-ci sera pour vous » (Exode 12). Au cinquième, on reprend l’ordre habituel. Pour tous ces cas, on interrompt : aux Roch ‘Hodech, à ‘Hanouka et à Pourim, aux jeûnes, aux ma‘amadot et à Yom Kippour.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 3:4",
+                "explication": "La paracha des Chekalim est lue à proximité de Roch ‘Hodech Adar afin d’annoncer au peuple d’apporter les demi-sicles destinés aux sacrifices publics, car les nouveaux prélèvements servaient à partir du mois de Nissan. Si Roch ‘Hodech Adar tombe en semaine, on lit Chekalim le Chabbat précédent ; puis on laisse passer un Chabbat sans lecture spéciale lorsque le calendrier l’exige, avant de poursuivre les quatre parachiyot."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 3:4",
+                "explication": "Le Rambam explique l’ordre des quatre lectures particulières : Chekalim pour rappeler la collecte du demi-sicle ; Zakhor avant Pourim, afin de rattacher l’effacement d’Amalek à l’histoire de Haman ; Para, la vache rousse, pour rappeler la purification nécessaire avant le sacrifice de Pessa‘h ; et Ha‘Hodech, qui traite de la sanctification du mois et du sacrifice pascal, à l’approche de Nissan."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 3:4",
+                "explication": "Il précise que « on reprend l’ordre habituel » signifie que l’on revient à la lecture régulière de la Torah, interrompue par ces lectures spéciales. La Michna enseigne ainsi que les quatre parachiyot ne remplacent pas définitivement l’ordre continu, mais créent une interruption ponctuelle, après laquelle la communauté revient à son cycle normal."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Megillah 3:4",
+                "explication": "Il souligne que la Michna énumère des occasions où la lecture régulière est écartée au profit d’une lecture adaptée au jour : Roch ‘Hodech, ‘Hanouka, Pourim, les jeûnes, les ma‘amadot et Yom Kippour. Le principe est que lorsque le jour possède une sainteté ou un caractère public particulier, la lecture de la Torah doit exprimer le thème propre de ce jour."
+              }
+            ]
+          }
         },
         {
           "id": "3:5",
@@ -235,8 +694,27 @@
           "ref": "Mishnah Megillah 3:5",
           "he": "בְּפֶסַח קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁל תּוֹרַת כֹּהֲנִים (ויקרא כב). בַּעֲצֶרֶת, שִׁבְעָה שָׁבֻעוֹת (דברים טז). בְּרֹאשׁ הַשָּׁנָה, בַּחֹדֶשׁ הַשְּׁבִיעִי בְּאֶחָד לַחֹדֶשׁ (ויקרא כג). בְּיוֹם הַכִּפּוּרִים, אַחֲרֵי מוֹת (שם טז). בְּיוֹם טוֹב הָרִאשׁוֹן שֶׁל חָג קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁבְּתוֹרַת כֹּהֲנִים (ויקרא כג), וּבִשְׁאָר כָּל יְמוֹת הֶחָג בְּקָרְבְּנוֹת הֶחָג (במדבר כט):",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À Pessa’h, on lit dans le passage des solennités qui se trouve dans Torat Cohanim. À Atséret, on lit : « Sept semaines ». À Roch Hachana, on lit : « Au septième mois, le premier du mois ». À Yom Kippour, on lit : « Après la mort ». Le premier Yom Tov de la fête, on lit dans le passage des solennités qui se trouve dans Torat Cohanim ; et tous les autres jours de la fête, on lit les sacrifices de la fête.",
+          "etude_fr": {
+            "traduction_fr": "À Pessa’h, on lit dans le passage des solennités qui se trouve dans Torat Cohanim. À Atséret, on lit : « Sept semaines ». À Roch Hachana, on lit : « Au septième mois, le premier du mois ». À Yom Kippour, on lit : « Après la mort ». Le premier Yom Tov de la fête, on lit dans le passage des solennités qui se trouve dans Torat Cohanim ; et tous les autres jours de la fête, on lit les sacrifices de la fête.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 3:5",
+                "explication": "Bartenoura explique que « Torat Cohanim » désigne le livre de Vayikra. Pour Pessa’h, la lecture est le passage des fêtes dans Vayikra, où sont mentionnés Pessa’h et la fête des matsot. À Atséret, on lit « Sept semaines » dans Devarim, car ce passage traite du compte des semaines et de la fête de Chavouot. Pour Yom Kippour, « Après la mort » désigne le passage de Vayikra 16, qui décrit le service du Cohen gadol en ce jour."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 3:5",
+                "explication": "Le Rambam précise que cette Michna énumère les lectures publiques de la Torah fixées pour les grandes solennités. Chaque jour reçoit une lecture en rapport direct avec son sujet : les fêtes dans Vayikra pour Pessa’h et Soukkot, Chavouot dans le passage de « Sept semaines », Roch Hachana dans le passage qui mentionne le premier jour du septième mois, et Yom Kippour dans le passage du service d’expiation."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 3:5",
+                "explication": "Le Tossafot Yom Tov relève que la Michna appelle Soukkot simplement « la fête », conformément à l’usage rabbinique où ‘Hag’ désigne fréquemment Soukkot. Il explique aussi que « les autres jours de la fête » renvoie aux jours intermédiaires, durant lesquels on lit les passages des sacrifices propres à chaque jour de Soukkot, dans le livre de Bamidbar."
+              }
+            ]
+          }
         },
         {
           "id": "3:6",
@@ -245,8 +723,32 @@
           "ref": "Mishnah Megillah 3:6",
           "he": "בַּחֲנֻכָּה, בַּנְּשִׂיאִים (שם ז). בְּפוּרִים, וַיָּבֹא עֲמָלֵק (שמות יז). בְּרָאשֵׁי חֳדָשִׁים, וּבְרָאשֵׁי חָדְשֵׁיכֶם (במדבר כח). בַּמַּעֲמָדוֹת, בְּמַעֲשֵׂה בְּרֵאשִׁית (בראשית א). בַּתַּעֲנִיּוֹת, בְּרָכוֹת וּקְלָלוֹת (ויקרא כו). אֵין מַפְסִיקִין בַּקְּלָלוֹת, אֶלָּא אֶחָד קוֹרֵא אֶת כֻּלָּן. בַּשֵּׁנִי וּבַחֲמִישִׁי וּבְשַׁבָּת בַּמִּנְחָה, קוֹרִין כְּסִדְרָן, וְאֵין עוֹלִין לָהֶם מִן הַחֶשְׁבּוֹן, שֶׁנֶּאֱמַר (ויקרא כג), וַיְדַבֵּר מֹשֶׁה אֶת מֹעֲדֵי יְיָ אֶל בְּנֵי יִשְׂרָאֵל, מִצְוָתָן שֶׁיְּהוּ קוֹרִין כָּל אֶחָד וְאֶחָד בִּזְמַנּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À Hanoucca, on lit le passage des princes. À Pourim, « Amalek vint ». Aux néoménies, « Et lors de vos néoménies ». Lors des maamadot, on lit le récit de la Création. Lors des jeûnes, les bénédictions et les malédictions. On ne s’interrompt pas au milieu des malédictions ; au contraire, un seul lecteur les lit toutes. Le lundi, le jeudi et le Chabbat à l’office de Min’ha, on lit selon l’ordre régulier, et ces lectures ne leur comptent pas dans le décompte, car il est dit : « Moché énonça les temps fixés de l’Éternel aux enfants d’Israël » : leur mitsva est que l’on lise chacun d’eux en son temps.",
+          "etude_fr": {
+            "traduction_fr": "À Hanoucca, on lit le passage des princes. À Pourim, « Amalek vint ». Aux néoménies, « Et lors de vos néoménies ». Lors des maamadot, on lit le récit de la Création. Lors des jeûnes, les bénédictions et les malédictions. On ne s’interrompt pas au milieu des malédictions ; au contraire, un seul lecteur les lit toutes. Le lundi, le jeudi et le Chabbat à l’office de Min’ha, on lit selon l’ordre régulier, et ces lectures ne leur comptent pas dans le décompte, car il est dit : « Moché énonça les temps fixés de l’Éternel aux enfants d’Israël » : leur mitsva est que l’on lise chacun d’eux en son temps.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 3:6",
+                "explication": "« À Hanoucca, le passage des princes » désigne les offrandes des chefs de tribus lors de l’inauguration de l’autel, dans la paracha de Nasso, car Hanoucca rappelle l’inauguration et la consécration du Temple. À Pourim, on lit « Amalek vint », parce que Haman descend d’Amalek et que l’événement de Pourim est lié à l’effacement d’Amalek."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 3:6",
+                "explication": "Le Rambam explique que la Michna énumère les passages particuliers lus aux jours ayant un sujet propre : à Roch ‘Hodech, le passage des sacrifices de la néoménie ; lors des maamadot, le récit de la Création, car les maamadot étaient liés au service des sacrifices, et le monde subsiste par ce service. Les lectures sont donc choisies selon le contenu spirituel du jour."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 3:6",
+                "explication": "Sur « on ne s’interrompt pas au milieu des malédictions », il précise que l’on évite de faire monter plusieurs lecteurs dans cette section, afin de ne pas donner l’impression que chacun reçoit une part distincte de malédiction. C’est pourquoi un seul lecteur lit toute la section d’un seul tenant."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Michna Megillah 3:6",
+                "explication": "« On lit selon l’ordre régulier » signifie que les lectures du lundi, du jeudi et de Chabbat à Min’ha suivent la progression ordinaire de la Torah, c’est-à-dire le début de la paracha qui sera lue le Chabbat suivant. Cependant, « elles ne comptent pas dans le décompte » : elles ne remplacent pas la lecture complète de Chabbat matin et n’en diminuent pas le nombre de lecteurs ni la section à lire."
+              }
+            ]
+          }
         }
       ]
     },
@@ -260,8 +762,32 @@
           "ref": "Mishnah Megillah 4:1",
           "he": "הַקּוֹרֵא אֶת הַמְּגִלָּה עוֹמֵד וְיוֹשֵׁב. קְרָאָהּ אֶחָד, קְרָאוּהָ שְׁנַיִם, יָצְאוּ. מְקוֹם שֶׁנָּהֲגוּ לְבָרֵךְ, יְבָרֵךְ. וְשֶׁלֹּא לְבָרֵךְ, לֹא יְבָרֵךְ. בְּשֵׁנִי וּבַחֲמִישִׁי וּבְשַׁבָּת בַּמִּנְחָה, קוֹרִין שְׁלֹשָׁה, אֵין פּוֹחֲתִין וְאֵין מוֹסִיפִין עֲלֵיהֶן, וְאֵין מַפְטִירִין בַּנָּבִיא. הַפּוֹתֵחַ וְהַחוֹתֵם בַּתּוֹרָה, מְבָרֵךְ לְפָנֶיהָ וּלְאַחֲרֶיהָ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui lit la Méguila peut la lire debout ou assis. Si un seul l’a lue, ou si deux l’ont lue ensemble, ils sont quittes. Dans un endroit où l’on a l’usage de réciter la bénédiction, on la récitera ; et là où l’on n’a pas l’usage de réciter la bénédiction, on ne la récitera pas. Le lundi, le jeudi, et le Chabbat à l’office de l’après-midi, on fait lire trois personnes ; on n’en retranche pas et on n’en ajoute pas davantage, et l’on ne conclut pas par une lecture des Prophètes. Celui qui ouvre et celui qui conclut la lecture de la Torah récitent une bénédiction avant elle et après elle.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui lit la Méguila peut la lire debout ou assis. Si un seul l’a lue, ou si deux l’ont lue ensemble, ils sont quittes. Dans un endroit où l’on a l’usage de réciter la bénédiction, on la récitera ; et là où l’on n’a pas l’usage de réciter la bénédiction, on ne la récitera pas. Le lundi, le jeudi, et le Chabbat à l’office de l’après-midi, on fait lire trois personnes ; on n’en retranche pas et on n’en ajoute pas davantage, et l’on ne conclut pas par une lecture des Prophètes. Celui qui ouvre et celui qui conclut la lecture de la Torah récitent une bénédiction avant elle et après elle.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:1",
+                "explication": "« Debout ou assis » signifie que la lecture de la Méguila est valable dans les deux positions, car elle n’a pas le statut de lecture publique de la Torah, pour laquelle le lecteur doit se tenir debout par respect. « Si deux l’ont lue ensemble » : bien que, d’ordinaire, deux voix simultanées ne soient pas bien entendues, la Méguila est chère au public et chacun prête attention, de sorte que l’on s’acquitte ainsi. Concernant « l’endroit où l’on a l’usage de réciter la bénédiction », Bartenoura explique qu’il s’agit de la bénédiction récitée après la lecture de la Méguila ; les bénédictions avant la lecture, elles, sont obligatoires."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 4:1",
+                "explication": "Le Rambam explique que la Michna distingue entre la lecture de la Méguila et la lecture de la Torah : la Méguila peut être lue assis et même par deux lecteurs à la fois, tandis que la lecture de la Torah suit un ordre public plus strict. Pour les lundis, jeudis et Chabbat après-midi, trois personnes seulement montent à la Torah : on ne diminue pas ce nombre, car telle est l’institution minimale de lecture publique, et on ne l’augmente pas, afin de ne pas alourdir la communauté, ces moments étant des lectures ordinaires et non des jours comportant une sainteté supplémentaire comme Chabbat matin ou Yom Tov."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 4:1",
+                "explication": "Le Tossafot Yom Tov précise que la formule « le lundi, le jeudi et le Chabbat à l’office de l’après-midi » renvoie aux lectures instituées pour que le peuple ne reste pas trois jours sans Torah. Il souligne également que l’absence de haftara — « on ne conclut pas par une lecture des Prophètes » — tient au caractère limité de ces lectures : elles ne sont accompagnées ni d’ajouts de lecteurs ni d’une lecture prophétique, contrairement aux lectures plus solennelles."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Megillah 4:1",
+                "explication": "Le Tiféret Israël met en valeur la dernière clause : « celui qui ouvre et celui qui conclut la lecture de la Torah ». À l’époque de la Michna, seul le premier appelé récitait la bénédiction avant la lecture, et seul le dernier récitait la bénédiction après la lecture ; les appelés intermédiaires ne récitaient pas chacun leurs propres bénédictions. Plus tard, les Sages instituèrent que chaque appelé bénisse avant et après sa lecture, par crainte que des personnes entrant ou sortant au milieu de la lecture ne se trompent sur l’obligation des bénédictions."
+              }
+            ]
+          }
         },
         {
           "id": "4:2",
@@ -270,8 +796,32 @@
           "ref": "Mishnah Megillah 4:2",
           "he": "בְּרָאשֵׁי חֳדָשִׁים וּבְחֻלּוֹ שֶׁל מוֹעֵד, קוֹרִין אַרְבָּעָה, אֵין פּוֹחֲתִין מֵהֶן וְאֵין מוֹסִיפִין עֲלֵיהֶן, וְאֵין מַפְטִירִין בַּנָּבִיא. הַפּוֹתֵחַ וְהַחוֹתֵם בַּתּוֹרָה, מְבָרֵךְ לְפָנֶיהָ וּלְאַחֲרֶיהָ. זֶה הַכְּלָל, כָּל שֶׁיֵּשׁ בּוֹ מוּסָף וְאֵינוֹ יוֹם טוֹב, קוֹרִין אַרְבָּעָה. בְּיוֹם טוֹב, חֲמִשָּׁה. בְּיוֹם הַכִּפּוּרִים, שִׁשָּׁה. בְּשַׁבָּת, שִׁבְעָה. אֵין פּוֹחֲתִין מֵהֶן, אֲבָל מוֹסִיפִין עֲלֵיהֶן, וּמַפְטִירִין בַּנָּבִיא. הַפּוֹתֵחַ וְהַחוֹתֵם בַּתּוֹרָה, מְבָרֵךְ לְפָנֶיהָ וּלְאַחֲרֶיהָ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "À Roch ‘Hodech et à ‘Hol HaMoed, quatre personnes lisent ; on n’en lit pas moins qu’elles et l’on n’en ajoute pas davantage, et l’on ne lit pas de haftara dans le Prophète. Celui qui commence et celui qui termine la lecture de la Torah récitent une bénédiction avant elle et après elle. Voici la règle : tout jour qui comporte un moussaf et qui n’est pas Yom Tov, quatre personnes lisent. À Yom Tov : cinq. À Yom Kippour : six. À Chabbat : sept. On n’en lit pas moins qu’elles, mais on peut en ajouter davantage, et l’on lit une haftara dans le Prophète. Celui qui commence et celui qui termine la lecture de la Torah récitent une bénédiction avant elle et après elle.",
+          "etude_fr": {
+            "traduction_fr": "À Roch ‘Hodech et à ‘Hol HaMoed, quatre personnes lisent ; on n’en lit pas moins qu’elles et l’on n’en ajoute pas davantage, et l’on ne lit pas de haftara dans le Prophète. Celui qui commence et celui qui termine la lecture de la Torah récitent une bénédiction avant elle et après elle. Voici la règle : tout jour qui comporte un moussaf et qui n’est pas Yom Tov, quatre personnes lisent. À Yom Tov : cinq. À Yom Kippour : six. À Chabbat : sept. On n’en lit pas moins qu’elles, mais on peut en ajouter davantage, et l’on lit une haftara dans le Prophète. Celui qui commence et celui qui termine la lecture de la Torah récitent une bénédiction avant elle et après elle.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:2",
+                "explication": "Bartenoura explique que Roch ‘Hodech et ‘Hol HaMoed ont un moussaf, mais ne sont pas appelés Yom Tov quant au nombre d’appelés à la Torah : on y lit donc quatre personnes. On n’ajoute pas d’appelés ces jours-là, afin de ne pas prolonger excessivement la lecture et de ne pas entraîner une interruption du travail plus grande que nécessaire, puisque ces jours ne sont pas entièrement interdits au travail comme Chabbat ou Yom Tov."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 4:2",
+                "explication": "Le Rambam précise la hiérarchie fixée par la Michna selon le degré de sainteté du jour : un jour avec moussaf mais sans statut de Yom Tov a quatre appelés ; Yom Tov, dont la sainteté est plus grande, en a cinq ; Yom Kippour, plus sévère encore, en a six ; Chabbat, dont la sainteté est la plus fréquente et la plus établie pour la lecture publique, en a sept. Il souligne aussi que le principe de ne pas diminuer s’applique à tous ces cas, tandis que l’ajout n’est permis que pour les jours mentionnés à la fin : Yom Tov, Yom Kippour et Chabbat."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 4:2",
+                "explication": "Tossafot Yom Tov relève que la Michna répète la règle des bénédictions : « celui qui commence et celui qui termine » bénissent avant et après la lecture. Cela correspond à l’ancien usage, où seul le premier appelé récitait la bénédiction avant la lecture et seul le dernier récitait celle d’après. Plus tard, les Sages ont institué que chaque appelé bénisse avant et après sa propre lecture, afin d’éviter des malentendus chez ceux qui entrent ou sortent au milieu de la lecture."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Megillah 4:2",
+                "explication": "Tiféret Israël explique que la mention « et l’on lit une haftara dans le Prophète » se rapporte aux jours où l’on peut ajouter des appelés — Yom Tov, Yom Kippour et Chabbat — mais non à Roch ‘Hodech et ‘Hol HaMoed, pour lesquels la Michna a déjà dit explicitement qu’il n’y a pas de haftara. La haftara accompagne donc les lectures des jours de sainteté plus marquée, mais n’est pas instituée pour chaque jour comportant un moussaf."
+              }
+            ]
+          }
         },
         {
           "id": "4:3",
@@ -280,8 +830,32 @@
           "ref": "Mishnah Megillah 4:3",
           "he": "אֵין פּוֹרְסִין אֶת שְׁמַע, וְאֵין עוֹבְרִין לִפְנֵי הַתֵּבָה, וְאֵין נוֹשְׂאִין אֶת כַּפֵּיהֶם, וְאֵין קוֹרִין בַּתּוֹרָה, וְאֵין מַפְטִירִין בַּנָּבִיא, וְאֵין עוֹשִׂין מַעֲמָד וּמוֹשָׁב, וְאֵין אוֹמְרִים בִּרְכַּת אֲבֵלִים וְתַנְחוּמֵי אֲבֵלִים וּבִרְכַּת חֲתָנִים, וְאֵין מְזַמְּנִין בַּשֵּׁם, פָּחוֹת מֵעֲשָׂרָה. וּבַקַּרְקָעוֹת, תִּשְׁעָה וְכֹהֵן. וְאָדָם, כַּיּוֹצֵא בָּהֶן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "On ne procède pas à la récitation publique du Chema, on ne passe pas devant l’arche pour diriger la prière, on ne lève pas les mains pour la bénédiction des Cohanim, on ne lit pas dans la Torah, on ne lit pas la haftara dans le prophète, on ne fait pas les stations et les assises, on ne dit pas la bénédiction des endeuillés ni les paroles de consolation aux endeuillés, ni la bénédiction des mariés, et l’on ne fait pas le zimoun avec le Nom, à moins de dix personnes. Et pour les terrains : neuf personnes et un Cohen. Et pour un homme, de même.",
+          "etude_fr": {
+            "traduction_fr": "On ne procède pas à la récitation publique du Chema, on ne passe pas devant l’arche pour diriger la prière, on ne lève pas les mains pour la bénédiction des Cohanim, on ne lit pas dans la Torah, on ne lit pas la haftara dans le prophète, on ne fait pas les stations et les assises, on ne dit pas la bénédiction des endeuillés ni les paroles de consolation aux endeuillés, ni la bénédiction des mariés, et l’on ne fait pas le zimoun avec le Nom, à moins de dix personnes. Et pour les terrains : neuf personnes et un Cohen. Et pour un homme, de même.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 4:3",
+                "explication": "Bartenoura explique que toute la première liste concerne des actes de sainteté publics, qui ne se font pas avec moins de dix hommes libres et majeurs. « Procéder à la récitation publique du Chema » désigne le fait de dire le Qaddich et Barekhou pour ceux qui n’ont pas entendu ces passages avec l’assemblée. « Passer devant l’arche » signifie être officiant pour la prière publique. La lecture de la Torah, la haftara, la bénédiction des Cohanim, la bénédiction des endeuillés et celle des mariés exigent également une assemblée de dix, car ce sont des paroles de sainteté ou des bénédictions publiques."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 4:3",
+                "explication": "Le Rambam rattache ces lois au principe selon lequel toute chose relevant de la sanctification publique du Nom ne se fait qu’en présence de dix. Il précise que le zimoun « avec le Nom » est la formule employée lorsque dix ont mangé ensemble, où l’on mentionne explicitement Dieu dans l’invitation à bénir. Pour les évaluations de terrains consacrés, la Torah exige la présence de Cohanim ; les Sages ont reçu que l’évaluation se fait par dix personnes, dont l’une est un Cohen."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 4:3",
+                "explication": "Le Tossafot Yom Tov souligne la structure de la Michna : elle regroupe d’abord les rites publics de prière, de lecture et de bénédiction qui nécessitent dix, puis elle passe à des procédures d’évaluation monétaire liées au Temple. « Neuf et un Cohen » signifie que le quorum total est de dix évaluateurs, mais qu’il faut qu’au moins l’un d’eux soit Cohen ; il ne s’agit pas de neuf en plus du Cohen."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Megillah 4:3",
+                "explication": "Le Tiféret Israël explique que « stations et assises » désigne un usage funéraire : on s’arrêtait et l’on s’asseyait à plusieurs reprises avec les accompagnateurs du défunt afin d’exprimer l’honneur rendu au mort et la consolation des endeuillés. Cet acte, comme les formules publiques adressées aux endeuillés ou aux mariés, requiert une communauté constituée, c’est-à-dire dix personnes."
+              }
+            ]
+          }
         },
         {
           "id": "4:4",
@@ -290,8 +864,32 @@
           "ref": "Mishnah Megillah 4:4",
           "he": "הַקּוֹרֵא בַּתּוֹרָה לֹא יִפְחֹת מִשְּׁלֹשָׁה פְסוּקִים. לֹא יִקְרָא לַמְּתֻרְגְּמָן יוֹתֵר מִפָּסוּק אֶחָד, וּבַנָּבִיא שְׁלֹשָׁה. הָיוּ שְׁלָשְׁתָּן שָׁלֹשׁ פָּרָשִׁיּוֹת, קוֹרִין אֶחָד אֶחָד. מְדַלְּגִין בַּנָּבִיא וְאֵין מְדַלְּגִין בַּתּוֹרָה. וְעַד כַּמָּה הוּא מְדַלֵּג, עַד כְּדֵי שֶׁלֹּא יִפְסֹק הַמְּתֻרְגְּמָן:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui lit dans la Torah ne doit pas lire moins de trois versets. Il ne doit pas lire au traducteur plus d’un seul verset à la fois ; et dans le Prophète, trois versets. Si ces trois versets constituent trois sections distinctes, on les lit un par un. On peut sauter d’un passage à un autre dans le Prophète, mais on ne saute pas dans la Torah. Et jusqu’à quelle mesure peut-on sauter ? Jusqu’à un délai tel que le traducteur n’ait pas à s’interrompre.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui lit dans la Torah ne doit pas lire moins de trois versets. Il ne doit pas lire au traducteur plus d’un seul verset à la fois ; et dans le Prophète, trois versets. Si ces trois versets constituent trois sections distinctes, on les lit un par un. On peut sauter d’un passage à un autre dans le Prophète, mais on ne saute pas dans la Torah. Et jusqu’à quelle mesure peut-on sauter ? Jusqu’à un délai tel que le traducteur n’ait pas à s’interrompre.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Commentaire sur la Michna, Megillah 4:4",
+                "explication": "Bartenoura explique que chaque personne appelée à la Torah doit lire au moins trois versets, car une lecture moindre ne constitue pas une lecture publique honorable. Le lecteur ne lit au traducteur qu’un verset à la fois dans la Torah, afin que la traduction soit précise et que l’on ne risque pas d’altérer le sens. Pour les Prophètes, on peut lire trois versets avant la traduction, car les règles y sont moins strictes que pour la Torah."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 4:4",
+                "explication": "Le Rambam précise que la Michna parle de l’usage ancien où l’on traduisait publiquement la lecture en araméen pour que le peuple comprenne. Dans la Torah, on ne donne au traducteur qu’un seul verset, à cause de la grande exactitude requise pour la Torah. Dans le Prophète, on peut lui donner trois versets, sauf si ces trois versets appartiennent à trois sections différentes : dans ce cas, on les traduit un par un, car chaque section constitue une idée distincte."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov, Megillah 4:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression « s’ils étaient tous trois trois sections » signifie que les trois versets du Prophète se trouvent chacun dans une paracha séparée, c’est-à-dire dans des unités textuelles distinctes. Même dans les Prophètes, où l’on permet normalement de lire trois versets à la fois au traducteur, cette permission ne s’applique que lorsque les versets forment une continuité ; s’ils sont séparés, on les lit et traduit séparément."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin, Megillah 4:4",
+                "explication": "Le Tiféret Israël explique que l’on peut sauter dans la lecture des Prophètes, car la haftara peut être composée de passages non contigus lorsqu’ils se rattachent au même sujet. En revanche, on ne saute pas dans la Torah, afin de ne pas troubler l’assemblée et de ne pas donner l’impression que certains passages sont choisis arbitrairement. Même dans les Prophètes, le saut ne doit pas être long : il faut que le lecteur retrouve le passage suivant avant que le traducteur ait terminé, afin d’éviter une interruption publique."
+              }
+            ]
+          }
         },
         {
           "id": "4:5",
@@ -300,8 +898,27 @@
           "ref": "Mishnah Megillah 4:5",
           "he": "הַמַּפְטִיר בַּנָּבִיא, הוּא פּוֹרֵס עַל שְׁמַע, וְהוּא עוֹבֵר לִפְנֵי הַתֵּבָה, וְהוּא נוֹשֵׂא אֶת כַּפָּיו. וְאִם הָיָה קָטָן, אָבִיו אוֹ רַבּוֹ עוֹבְרִין עַל יָדוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui conclut par la lecture du Prophète, c’est lui qui déploie le Chema, c’est lui qui passe devant l’arche, et c’est lui qui élève ses mains. Et s’il était mineur, son père ou son maître passent à sa place.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui conclut par la lecture du Prophète, c’est lui qui déploie le Chema, c’est lui qui passe devant l’arche, et c’est lui qui élève ses mains. Et s’il était mineur, son père ou son maître passent à sa place.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 4:5",
+                "explication": "La Michna enseigne que celui qui reçoit l’honneur de lire la haftara dans les Prophètes reçoit aussi les autres honneurs de l’office : il dirige le Chema public, mène la prière devant l’arche et, s’il est Cohen, accomplit la bénédiction sacerdotale. Bartenoura explique que ces honneurs lui sont donnés afin de compenser le fait que la lecture des Prophètes est d’un rang moindre que la lecture de la Torah : on lui ajoute donc des fonctions honorifiques."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 4:5",
+                "explication": "Le Rambam explique que le maftir, c’est-à-dire celui qui lit dans les Prophètes après la lecture de la Torah, accomplit également les fonctions mentionnées par la Michna. Toutefois, si le maftir est un mineur, il ne peut pas diriger ces parties de l’office qui exigent un adulte ; son père ou son maître les accomplit alors à sa place."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 4:5",
+                "explication": "Le Tossafot Yom Tov précise que l’expression « il élève ses mains » concerne le cas où le maftir est un Cohen, car seuls les Cohanim font la bénédiction sacerdotale. Il souligne aussi que la Michna ne veut pas dire que tout maftir accomplit nécessairement toutes ces fonctions, mais qu’il y a droit lorsque les conditions halakhiques le permettent."
+              }
+            ]
+          }
         },
         {
           "id": "4:6",
@@ -310,8 +927,32 @@
           "ref": "Mishnah Megillah 4:6",
           "he": "קָטָן קוֹרֵא בַּתּוֹרָה וּמְתַרְגֵּם, אֲבָל אֵינוֹ פּוֹרֵס עַל שְׁמַע, וְאֵינוֹ עוֹבֵר לִפְנֵי הַתֵּיבָה, וְאֵינוֹ נוֹשֵׂא אֶת כַּפָּיו. פּוֹחֵחַ פּוֹרֵס אֶת שְׁמַע וּמְתַרְגֵּם, אֲבָל אֵינוֹ קוֹרֵא בַתּוֹרָה וְאֵינוֹ עוֹבֵר לִפְנֵי הַתֵּבָה וְאֵינוֹ נוֹשֵׂא אֶת כַּפָּיו. סוּמָא פּוֹרֵס אֶת שְׁמַע וּמְתַרְגֵּם. רַבִּי יְהוּדָה אוֹמֵר, כֹּל שֶׁלֹּא רָאָה מְאוֹרוֹת מִיָּמָיו, אֵינוֹ פּוֹרֵס עַל שְׁמַע:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un mineur lit dans la Torah et traduit, mais il ne dirige pas la récitation du Chema, ne passe pas devant l’arche, et n’élève pas ses mains. Un homme aux vêtements déchirés dirige la récitation du Chema et traduit, mais il ne lit pas dans la Torah, ne passe pas devant l’arche, et n’élève pas ses mains. Un aveugle dirige la récitation du Chema et traduit. Rabbi Yehouda dit : quiconque n’a jamais vu les luminaires de sa vie ne dirige pas la récitation du Chema.",
+          "etude_fr": {
+            "traduction_fr": "Un mineur lit dans la Torah et traduit, mais il ne dirige pas la récitation du Chema, ne passe pas devant l’arche, et n’élève pas ses mains. Un homme aux vêtements déchirés dirige la récitation du Chema et traduit, mais il ne lit pas dans la Torah, ne passe pas devant l’arche, et n’élève pas ses mains. Un aveugle dirige la récitation du Chema et traduit. Rabbi Yehouda dit : quiconque n’a jamais vu les luminaires de sa vie ne dirige pas la récitation du Chema.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:6",
+                "explication": "Le mineur peut lire dans la Torah, car la lecture publique de la Torah n’exige pas, pour chaque lecteur, la pleine obligation personnelle d’un adulte ; il peut aussi traduire en araméen les versets lus. En revanche, il ne peut pas diriger la récitation du Chema ni passer devant l’arche pour la prière, car il ne peut pas acquitter les adultes d’une obligation qui leur incombe. Il ne peut pas non plus élever ses mains, même s’il est Cohen, car la bénédiction sacerdotale requiert un statut convenable et reconnu dans l’assemblée."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 4:6",
+                "explication": "Le Rambam explique que « diriger la récitation du Chema » désigne le fait de réciter pour la communauté les bénédictions liées au Chema, notamment lorsqu’on rassemble ceux qui n’ont pas encore entendu la prière publique. Cela demande une personne tenue par l’obligation au même titre que l’assemblée ; c’est pourquoi un mineur en est exclu. La fonction de passer devant l’arche correspond à diriger la prière publique, ce qui exige également un adulte apte à acquitter les autres."
+              },
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:6, s.v. פוחח",
+                "explication": "Le « poḥeaḥ » est une personne dont les vêtements sont déchirés ou insuffisants, de sorte que son apparence est indigne pour certaines fonctions publiques. Il peut diriger la récitation du Chema et traduire, car ces actes ne requièrent pas le même degré d’honneur visuel devant la communauté. Mais il ne lit pas dans la Torah, ne passe pas devant l’arche et n’élève pas ses mains, car ces fonctions se font de manière particulièrement publique et exigent une tenue respectueuse."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 4:6",
+                "explication": "Concernant l’aveugle, la première opinion lui permet de diriger la récitation du Chema, bien qu’il récite la bénédiction évoquant la lumière, car même celui qui ne voit pas tire profit de la lumière : les autres le voient et peuvent le guider. Rabbi Yehouda distingue cependant celui qui n’a jamais vu les luminaires de sa vie : puisqu’il n’a jamais eu d’expérience directe de leur lumière, il ne peut pas, selon lui, diriger cette bénédiction pour la communauté."
+              }
+            ]
+          }
         },
         {
           "id": "4:7",
@@ -320,8 +961,32 @@
           "ref": "Mishnah Megillah 4:7",
           "he": "כֹּהֵן שֶׁיֵּשׁ בְּיָדָיו מוּמִין, לֹא יִשָּׂא אֶת כַּפָּיו. רַבִּי יְהוּדָה אוֹמֵר, אַף מִי שֶׁהָיוּ יָדָיו צְבוּעוֹת אִסְטִיס וּפוּאָה, לֹא יִשָּׂא אֶת כַּפָּיו, מִפְּנֵי שֶׁהָעָם מִסְתַּכְּלִין בּוֹ:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Un Cohen qui a des défauts aux mains ne lèvera pas ses paumes. Rabbi Yehouda dit : même celui dont les mains étaient teintes d’istis ou de pouah ne lèvera pas ses paumes, parce que le peuple le regarde.",
+          "etude_fr": {
+            "traduction_fr": "Un Cohen qui a des défauts aux mains ne lèvera pas ses paumes. Rabbi Yehouda dit : même celui dont les mains étaient teintes d’istis ou de pouah ne lèvera pas ses paumes, parce que le peuple le regarde.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 4:7",
+                "explication": "Les défauts visibles sur les mains empêchent le Cohen de réciter la bénédiction sacerdotale, car les fidèles risquent de le regarder et d’être distraits de la bénédiction. De même, selon Rabbi Yehouda, des mains teintes avec de l’istis ou de la pouah attirent le regard. Bartenoura précise, d’après la Guemara, que si les habitants de la ville sont habitués à ce Cohen et ne s’étonnent plus de son aspect, il peut lever ses paumes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 4:7",
+                "explication": "Le Rambam explique que la raison de l’interdiction est que toute chose inhabituelle dans l’apparence du Cohen attire l’attention du public au moment de la bénédiction. Or il convient que l’assemblée écoute avec concentration et ne fixe pas le Cohen. Les teintures mentionnées, istis et pouah, sont des colorants qui marquent fortement les mains et provoquent donc cette distraction."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 4:7",
+                "explication": "Le Tossafot Yom Tov souligne que la Michna parle des mains, car elles sont précisément la partie visible lors de la bénédiction sacerdotale, lorsque le Cohen lève ses paumes. Ce n’est pas le défaut en lui-même qui invalide le Cohen, mais le fait qu’il attire le regard du peuple pendant la bénédiction."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Megillah 24b",
+                "explication": "Rachi explique que « ne lèvera pas ses paumes » signifie qu’il ne montera pas pour la bénédiction des Cohanim. La crainte est que les gens regardent ses mains en raison de leur aspect inhabituel. La Guemara ajoute que lorsqu’il est connu et familier dans sa ville, l’interdiction ne s’applique pas, car il n’attire plus l’attention."
+              }
+            ]
+          }
         },
         {
           "id": "4:8",
@@ -330,8 +995,32 @@
           "ref": "Mishnah Megillah 4:8",
           "he": "הָאוֹמֵר אֵינִי עוֹבֵר לִפְנֵי הַתֵּבָה בִצְבוּעִין, אַף בִּלְבָנִים לֹא יַעֲבֹר. בְּסַנְדָּל אֵינִי עוֹבֵר, אַף יָחֵף לֹא יַעֲבֹר. הָעוֹשֶׂה תְפִלָּתוֹ עֲגֻלָּה, סַכָּנָה וְאֵין בָּהּ מִצְוָה. נְתָנָהּ עַל מִצְחוֹ אוֹ עַל פַּס יָדוֹ, הֲרֵי זוֹ דֶּרֶךְ הַמִּינוּת. צִפָּן זָהָב, וּנְתָנָהּ עַל בֵּית אֻנְקְלִי שֶׁלּוֹ, הֲרֵי זוֹ דֶּרֶךְ הַחִיצוֹנִים:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui dit : « Je ne passe pas devant l’arche en vêtements de couleur », même en vêtements blancs il ne passera pas. « En sandales, je ne passe pas », même pieds nus il ne passera pas. Celui qui fait sa tefila ronde : c’est un danger, et il n’y a en cela aucune mitsva. S’il l’a placée sur son front ou sur la paume de sa main, c’est là la manière de l’hérésie. S’il les a recouvertes d’or, ou les a placées sur le dessus de sa manche, c’est là la manière des gens de l’extérieur.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui dit : « Je ne passe pas devant l’arche en vêtements de couleur », même en vêtements blancs il ne passera pas. « En sandales, je ne passe pas », même pieds nus il ne passera pas. Celui qui fait sa tefila ronde : c’est un danger, et il n’y a en cela aucune mitsva. S’il l’a placée sur son front ou sur la paume de sa main, c’est là la manière de l’hérésie. S’il les a recouvertes d’or, ou les a placées sur le dessus de sa manche, c’est là la manière des gens de l’extérieur.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Megillah 4:8",
+                "explication": "Celui qui refuse de conduire la prière dans des vêtements colorés, ou avec des sandales, est écarté même lorsqu’il accepte une autre tenue, car une telle exigence révèle une conduite suspecte, associée aux minim, les hérétiques. Pour les tefilin, Bartenoura explique que les rendre rondes est dangereux, car elles peuvent blesser la tête, et ce n’est pas une mitsva, car les tefilin doivent être carrées selon la halakha transmise. Les placer sur le front ou sur la paume de la main contredit l’interprétation rabbinique de « entre tes yeux » et « sur ta main » : elles doivent être au-dessus du front, à l’emplacement de la tête, et sur le bras, face au cœur."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Megillah 4:8",
+                "explication": "Le Rambam explique que certaines pratiques extérieures étaient propres à des groupes déviants ; c’est pourquoi celui qui pose des conditions inhabituelles pour passer devant l’arche n’est pas autorisé à officier. Il précise également que les tefilin rondes ne sont pas valables, car leur forme requise est carrée. Les poser sur le front ou sur la paume de la main revient à suivre une lecture littérale fautive du verset, à la manière des sectaires, au lieu de la tradition reçue par les Sages."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Megillah 4:8",
+                "explication": "Le Tossafot Yom Tov souligne la différence entre les deux expressions de la Michna : « la manière de l’hérésie » vise ceux qui déforment le sens des versets et rejettent l’explication des Sages, tandis que « la manière des gens de l’extérieur » désigne une conduite étrangère à la tradition d’Israël, même si elle n’exprime pas nécessairement une hérésie doctrinale. Recouvrir les tefilin d’or ou les porter sur la manche les détourne de leur forme et de leur place halakhiques."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Megillah 4:8",
+                "explication": "Le Tiféret Israël explique que « en vêtements de couleur » et « en sandales » ne sont pas de simples préférences personnelles : dans le contexte de la Michna, ces refus éveillent le soupçon d’une appartenance à des sectes qui avaient leurs propres signes distinctifs. Concernant les tefilin, il précise que la mitsva exige un contact et un emplacement déterminés : les tefilin du bras ne se placent pas sur la paume, et elles ne doivent pas être posées sur un vêtement qui ferait séparation."
+              }
+            ]
+          }
         },
         {
           "id": "4:9",
@@ -340,8 +1029,32 @@
           "ref": "Mishnah Megillah 4:9",
           "he": "הָאוֹמֵר יְבָרְכוּךָ טוֹבִים, הֲרֵי זוֹ דֶּרֶךְ הַמִּינוּת. עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיךָ, וְעַל טוֹב יִזָּכֵר שְׁמֶךָ, מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתוֹ. הַמְכַנֶּה בָעֲרָיוֹת, מְשַׁתְּקִין אוֹתוֹ. הָאוֹמֵר, וּמִזַּרְעֲךָ לֹא תִתֵּן לְהַעֲבִיר לַמֹּלֶךְ (ויקרא יח), וּמִזַרְעָךְ לֹא תִתֵּן לְאַעְבָּרָא בְּאַרְמָיוּתָא, מְשַׁתְּקִין אוֹתוֹ בִנְזִיפָה:",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "Celui qui dit : « Que les bons Te bénissent », c’est là une voie de l’hérésie. S’il dit : « Que Ta miséricorde atteigne le nid d’oiseau », ou : « Que Ton nom soit mentionné pour le bien », ou : « Nous reconnaissons, nous reconnaissons », on le fait taire. Celui qui emploie des périphrases au sujet des unions interdites, on le fait taire. Celui qui dit : « Et de ta descendance tu ne donneras pas pour la faire passer au Molekh » (Lévitique 18), et traduit : « Et de ta descendance tu ne donneras pas pour engendrer avec une Araméenne », on le fait taire avec réprimande.",
+          "etude_fr": {
+            "traduction_fr": "Celui qui dit : « Que les bons Te bénissent », c’est là une voie de l’hérésie. S’il dit : « Que Ta miséricorde atteigne le nid d’oiseau », ou : « Que Ton nom soit mentionné pour le bien », ou : « Nous reconnaissons, nous reconnaissons », on le fait taire. Celui qui emploie des périphrases au sujet des unions interdites, on le fait taire. Celui qui dit : « Et de ta descendance tu ne donneras pas pour la faire passer au Molekh » (Lévitique 18), et traduit : « Et de ta descendance tu ne donneras pas pour engendrer avec une Araméenne », on le fait taire avec réprimande.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:9",
+                "explication": "« Que les bons Te bénissent » est répréhensible, car cette formule exclut les pécheurs d’Israël de la louange divine, alors qu’eux aussi doivent bénir Dieu ; nos Sages apprennent même de l’encens que des éléments moins nobles sont inclus dans le service divin. Dire « Que Ta miséricorde atteigne le nid d’oiseau » est également interdit, car cela présente la mitsva de renvoyer la mère avant de prendre les petits comme fondée sur la compassion divine, alors que les mitsvot sont des décrets du Roi. « Que Ton nom soit mentionné pour le bien » laisse entendre qu’on ne bénit Dieu que pour le bien, alors que l’on doit Le bénir aussi pour le mal. Et celui qui répète « Nous reconnaissons, nous reconnaissons » donne l’apparence de s’adresser à deux puissances, c’est pourquoi on le fait taire."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 4:9",
+                "explication": "Le Rambam explique que ces formulations sont écartées parce qu’elles introduisent des croyances erronées dans la prière ou dans la lecture publique. Les mitsvot ne doivent pas être présentées comme de simples expressions de pitié humaine ; elles relèvent de la sagesse divine et de Ses commandements. De même, limiter la mention du Nom divin au bien contredit le devoir d’accepter le jugement divin dans toutes les circonstances. La répétition de « Modim » est rejetée parce qu’elle ressemble à une confession adressée à deux divinités."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 4:9",
+                "explication": "Le Tossafot Yom Tov précise que « on le fait taire » signifie qu’on l’interrompt immédiatement dans le cadre public, car ses paroles peuvent être comprises de manière hérétique ou trompeuse. Concernant « celui qui emploie des périphrases au sujet des unions interdites », il explique qu’il ne faut pas adoucir ou détourner le sens des versets relatifs aux interdits sexuels : une traduction ou une explication qui remplace le sens clair par une allusion vague altère la Torah et induit le public en erreur."
+              },
+              {
+                "auteur": "Rachi",
+                "reference": "Rachi sur Megillah 25a",
+                "explication": "Rachi éclaire la fin de la Michna : celui qui traduit l’interdit de Molekh comme s’il s’agissait de donner sa descendance à une femme araméenne ne traduit pas le verset selon son sens. Il transforme l’interdit spécifique du culte de Molekh en un autre sujet. Même si l’union avec une non-Juive est gravement condamnée par les Sages, ce n’est pas le sens du verset ; c’est pourquoi on le fait taire avec réprimande, car il fausse publiquement la Torah."
+              }
+            ]
+          }
         },
         {
           "id": "4:10",
@@ -350,8 +1063,32 @@
           "ref": "Mishnah Megillah 4:10",
           "he": "מַעֲשֵׂה רְאוּבֵן (בראשית לה), נִקְרָא וְלֹא מִתַּרְגֵּם. מַעֲשֵׂה תָמָר (בראשית לח), נִקְרָא וּמִתַּרְגֵּם. מַעֲשֵׂה עֵגֶל הָרִאשׁוֹן (שמות לב), נִקְרָא וּמִתַּרְגֵּם. וְהַשֵּׁנִי (שם), נִקְרָא וְלֹא מִתַּרְגֵּם. בִּרְכַּת כֹּהֲנִים (במדבר ו), מַעֲשֵׂה דָּוִד (שמואל ב י״א:כ״ז) וְאַמְנוֹן (שמואל ב יג), לֹא נִקְרָאִין וְלֹא מִתַּרְגְּמִין. אֵין מַפְטִירִין בַּמֶּרְכָּבָה (יחזקאל א), וְרַבִּי יְהוּדָה מַתִּיר. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אֵין מַפְטִירִין בְּהוֹדַע אֶת יְרוּשָׁלַיִם (יחזקאל ט״ז:ב׳):",
           "en": "",
-          "fr": "",
-          "etude_fr": null
+          "fr": "L’épisode de Réouven (Genèse 35) est lu, mais n’est pas traduit. L’épisode de Tamar (Genèse 38) est lu et traduit. Le premier récit du Veau (Exode 32) est lu et traduit ; le second (ibid.) est lu, mais n’est pas traduit. La bénédiction des Cohanim (Nombres 6), l’épisode de David (II Samuel 11, 27) et celui d’Amnon (II Samuel 13) ne sont ni lus ni traduits. On ne lit pas comme haftara le passage du Char divin (Ézéchiel 1) ; Rabbi Yehouda le permet. Rabbi Éliézer dit : on ne lit pas comme haftara le passage : « Fais connaître à Jérusalem » (Ézéchiel 16, 2).",
+          "etude_fr": {
+            "traduction_fr": "L’épisode de Réouven (Genèse 35) est lu, mais n’est pas traduit. L’épisode de Tamar (Genèse 38) est lu et traduit. Le premier récit du Veau (Exode 32) est lu et traduit ; le second (ibid.) est lu, mais n’est pas traduit. La bénédiction des Cohanim (Nombres 6), l’épisode de David (II Samuel 11, 27) et celui d’Amnon (II Samuel 13) ne sont ni lus ni traduits. On ne lit pas comme haftara le passage du Char divin (Ézéchiel 1) ; Rabbi Yehouda le permet. Rabbi Éliézer dit : on ne lit pas comme haftara le passage : « Fais connaître à Jérusalem » (Ézéchiel 16, 2).",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Megillah 4:10",
+                "explication": "L’épisode de Réouven est lu dans la Torah, car il faut lire les versets dans leur ordre, mais on ne le traduit pas publiquement afin de ne pas porter atteinte à l’honneur de Réouven. L’épisode de Tamar, bien qu’il puisse sembler déshonorant, est lu et traduit, car il se termine à la louange de Tamar et de Yehouda, qui reconnut la vérité. Pour le Veau d’or, le premier passage est lu et traduit, car il constitue une réprimande utile ; le second n’est pas traduit, en raison des expressions susceptibles de provoquer une mauvaise compréhension ou de donner prise aux hérétiques."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Megillah 4:10",
+                "explication": "Le Rambam explique que la règle générale de cette Michna dépend du danger de méprise chez le public. Certains passages sont lus parce qu’ils appartiennent à la lecture ordonnée des Écritures, mais ne sont pas traduits en araméen devant tous, afin que les personnes simples n’en tirent pas des conclusions fautives. De même, les passages de la Merkava ne sont pas choisis comme haftara en raison de la profondeur des secrets qu’ils contiennent."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Megillah 4:10",
+                "explication": "Le Tossafot Yom Tov souligne que « lu mais non traduit » concerne la traduction publique faite verset par verset pour l’assemblée. La lecture en hébreu demeure parfois obligatoire, mais la traduction, qui rend le contenu immédiatement intelligible à tous, peut être écartée lorsqu’elle risque d’entraîner un manque de respect envers les personnages bibliques ou une compréhension erronée."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Tiféret Israël, Yakhin sur Megillah 4:10",
+                "explication": "Le Tiféret Israël précise que l’interdiction de lire certains passages comme haftara n’est pas due à un défaut dans les prophéties elles-mêmes, mais à la convenance de la lecture publique. Le passage de la Merkava traite de notions très élevées, qui ne conviennent pas à un enseignement public ordinaire ; Rabbi Yehouda permet néanmoins sa lecture, considérant qu’une lecture prophétique publique n’équivaut pas à l’étude approfondie de ses secrets."
+              }
+            ]
+          }
         }
       ]
     }
