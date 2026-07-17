@@ -131,6 +131,53 @@ export function goToDaf(daf) {
   document.querySelector('.reader')?.scrollTo?.(0, 0)
 }
 
+function renderMefarshim(data) {
+  const rashi = data.rashi || []
+  const tosafot = data.tosafot || []
+
+  const hasRashi = rashi.some(r => (typeof r === 'string' ? r : r.he || '').trim())
+  const hasTosafot = tosafot.some(t => (typeof t === 'string' ? t : t.he || '').trim())
+
+  if (!hasRashi && !hasTosafot) return ''
+
+  const renderItems = (items, label) => {
+    if (!items.length) return ''
+    const content = items.map(x => {
+      const he = typeof x === 'string' ? x : (x.he || '')
+      const fr = typeof x === 'string' ? '' : (x.fr || '')
+      const en = typeof x === 'string' ? '' : (x.en || '')
+      if (!he.trim()) return ''
+      return `
+        <div class="mefarshemItem">
+          <p class="he">${he}</p>
+          <p class="mefarshemTrad">${escapeHtml(cleanText(
+            state.currentLang === 'fr'
+              ? (fr || 'Traduction française en préparation.')
+              : (en || 'English translation in preparation.')
+          ))}</p>
+        </div>
+      `
+    }).join('')
+    if (!content.trim()) return ''
+    return `
+      <div class="mefarshemSection">
+        <div class="mefarshemLabel">${label}</div>
+        ${content}
+      </div>
+    `
+  }
+
+  return `
+    <details class="mefarshemDetails">
+      <summary class="mefarshemSummary">📖 Rachi · Tossefot · Roch · Ritva</summary>
+      <div class="mefarshemBody">
+        ${renderItems(rashi, 'Rachi')}
+        ${renderItems(tosafot, 'Tossefot')}
+      </div>
+    </details>
+  `
+}
+
 export function renderDaf(daf) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[daf]) {
     document.querySelector('#segments').innerHTML = '<div class="empty">Daf non disponible.</div>'
@@ -155,9 +202,9 @@ export function renderDaf(daf) {
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => `
       <article class="segment">
-      <div class="segNum">
-         Segment ${index + 1}
-         ${correctionButtonHtml('segments', index)}
+        <div class="segNum">
+          Segment ${index + 1}
+          ${correctionButtonHtml('segments', index)}
         </div>
         <div class="he clickableHe">${seg.he || ''}</div>
         <div class="translation">
@@ -168,39 +215,70 @@ export function renderDaf(daf) {
       </article>
     `).join('')}
 
+    ${renderMefarshim(data)}
+
+    <div class="mefarshemExtraButtons">
+      <button class="mefarshemBtn" id="roshBtnInline">Roch</button>
+      <button class="mefarshemBtn" id="ritvaBtnInline">Ritva</button>
+    </div>
+    <div id="mefarshemExtraBox"></div>
+
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
       ${next ? `<button id="nextDafBtn">Daf suivant (${escapeHtml(next)}) →</button>` : ''}
     </div>
   `
 
-  renderTalmudCommentaryButtons()
+  document.querySelector('#roshBtnInline')?.addEventListener('click', () => renderExtraCommentaryInline('rosh', 'Roch'))
+  document.querySelector('#ritvaBtnInline')?.addEventListener('click', () => renderExtraCommentaryInline('ritva', 'Ritva'))
 
   if (prev) document.querySelector('#prevDafBtn')?.addEventListener('click', () => goToDaf(prev))
   if (next) document.querySelector('#nextDafBtn')?.addEventListener('click', () => goToDaf(next))
 
   installHebrewWordClick()
   installCorrectionButtons()
+
+  // Masquer l'ancien commentBox
+  const commentBox = document.querySelector('#commentBox')
+  if (commentBox) commentBox.style.display = 'none'
 }
 
-function renderTalmudCommentaryButtons() {
-  document.querySelector('#commentBox').innerHTML = `
-    <div class="commentActions">
-      <button id="rashiBtnLocal">Rachi</button>
-      <button id="tosafotBtnLocal">Tossefot</button>
-      <button id="ritvaBtnLocal">Ritva</button>
-      <button id="roshBtnLocal">Roch</button>
+async function renderExtraCommentaryInline(slug, title) {
+  const box = document.querySelector('#mefarshemExtraBox')
+  if (!box) return
+  box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
+
+  try {
+    const data = await loadExtraCommentary(slug)
+    if (!data?.dapim?.length) {
+      box.innerHTML = `<p>${escapeHtml(title)} non disponible pour ce traité.</p>`
+      return
+    }
+
+    const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
+    if (!daf?.comments?.length) {
+      box.innerHTML = `<p>${escapeHtml(title)} non disponible pour ce daf.</p>`
+      return
+    }
+
+    box.innerHTML = `
+      <div class="mefarshemSection">
+        <div class="mefarshemLabel">${escapeHtml(title)}</div>
+        ${daf.comments.map(item => `
+          <div class="mefarshemItem">
+            <p class="he">${item.he || ''}</p>
+            <p class="mefarshemTrad">${escapeHtml(cleanText(
+              state.currentLang === 'fr'
+                ? (item.fr || 'Traduction française en préparation.')
+                : (item.en || 'English translation unavailable.')
+            ))}</p>
+          </div>
+        `).join('')}
       </div>
-
-    <div id="talmudCommentaryBox">
-      Choisis un commentaire.
-    </div>
-  `
-
-  document.querySelector('#rashiBtnLocal')?.addEventListener('click', () => renderCommentary('rashi'))
-  document.querySelector('#tosafotBtnLocal')?.addEventListener('click', () => renderCommentary('tosafot'))
-  document.querySelector('#ritvaBtnLocal')?.addEventListener('click', () => renderExtraCommentary('ritva', 'Ritva'))
-  document.querySelector('#roshBtnLocal')?.addEventListener('click', () => renderExtraCommentary('rosh', 'Roch'))
+    `
+  } catch (e) {
+    box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
+  }
 }
 
 export function renderCommentary(type) {
@@ -209,13 +287,13 @@ export function renderCommentary(type) {
   const data = state.currentData.dapim[state.currentDaf]
   const items = data[type] || []
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
+  if (!box) return
 
   box.innerHTML = items.length
     ? items.map(x => {
       if (typeof x === 'string') {
         return `<div class="rashiItem"><p class="he">${x}</p></div>`
       }
-
       return `
         <div class="rashiItem">
           <p class="he">${x.he || x.text || ''}</p>
@@ -246,6 +324,7 @@ async function loadExtraCommentary(slug) {
 
 export async function renderExtraCommentary(slug, title) {
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
+  if (!box) return
   box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
 
   try {
@@ -265,7 +344,6 @@ export async function renderExtraCommentary(slug, title) {
 
     box.innerHTML = `
       <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
-
       ${daf.comments.map(item => `
         <div class="rashiItem">
           <p class="he">${item.he || ''}</p>
@@ -318,7 +396,7 @@ export function initTalmudEvents() {
 
   document.querySelector('#tosafotBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') {
-      document.querySelector('#commentBox').innerHTML = 'Tossefot n’existe pas sur les parachiot.'
+      document.querySelector('#commentBox').innerHTML = 'Tossefot n\'existe pas sur les parachiot.'
     } else if (state.currentMode === 'shulchan') {
       renderShulchanCommentaryNotice()
     } else {
