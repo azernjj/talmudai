@@ -30,7 +30,9 @@ export function renderLibrary() {
     const filtered = seder.masechtot.filter(m =>
       m.name.toLowerCase().includes(q) || m.file.toLowerCase().includes(q)
     )
+
     if (!filtered.length) return ''
+
     return `
       <div class="seder">
         <h3>${escapeHtml(seder.name)}</h3>
@@ -58,9 +60,7 @@ export async function loadMasechet(file) {
 
   localStorage.setItem('currentFile', file)
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement du traité...</div>'
-
-  const commentBox = document.querySelector('#commentBox')
-  if (commentBox) commentBox.style.display = 'none'
+  document.querySelector('#commentBox').innerHTML = 'Choisis un commentaire.'
 
   renderLibrary()
   document.querySelector('.sidebar')?.classList.remove('open')
@@ -105,6 +105,7 @@ export function renderDafNav() {
   box.innerHTML = `
     <div class="dafNav selectMode">
       <button id="topPrevDafBtn" ${prev ? '' : 'disabled'}>← ${escapeHtml(prev || '')}</button>
+
       <label class="dafSelectLabel">
         Daf
         <select id="dafSelect">
@@ -113,6 +114,7 @@ export function renderDafNav() {
           `).join('')}
         </select>
       </label>
+
       <button id="topNextDafBtn" ${next ? '' : 'disabled'}>${escapeHtml(next || '')} →</button>
     </div>
   `
@@ -129,28 +131,49 @@ export function goToDaf(daf) {
   document.querySelector('.reader')?.scrollTo?.(0, 0)
 }
 
-function renderCommentaireDetails(items, label) {
-  if (!items || !items.length) return ''
-  const content = items.map(x => {
-    const he = typeof x === 'string' ? x : (x.he || '')
-    const fr = typeof x === 'string' ? '' : (x.fr || '')
-    const en = typeof x === 'string' ? '' : (x.en || '')
-    if (!he.trim()) return ''
-    const trad = state.currentLang === 'fr'
-      ? (fr || 'Traduction française en préparation.')
-      : (en || 'English translation in preparation.')
+function renderMefarshim(data) {
+  const rashi = data.rashi || []
+  const tosafot = data.tosafot || []
+
+  const hasRashi = rashi.some(r => (typeof r === 'string' ? r : r.he || '').trim())
+  const hasTosafot = tosafot.some(t => (typeof t === 'string' ? t : t.he || '').trim())
+
+  if (!hasRashi && !hasTosafot) return ''
+
+  const renderItems = (items, label) => {
+    if (!items.length) return ''
+    const content = items.map(x => {
+      const he = typeof x === 'string' ? x : (x.he || '')
+      const fr = typeof x === 'string' ? '' : (x.fr || '')
+      const en = typeof x === 'string' ? '' : (x.en || '')
+      if (!he.trim()) return ''
+      return `
+        <div class="mefarshemItem">
+          <p class="he">${he}</p>
+          <p class="mefarshemTrad">${escapeHtml(cleanText(
+            state.currentLang === 'fr'
+              ? (fr || 'Traduction française en préparation.')
+              : (en || 'English translation in preparation.')
+          ))}</p>
+        </div>
+      `
+    }).join('')
+    if (!content.trim()) return ''
     return `
-      <div class="mefarshemItem">
-        <p class="he">${he}</p>
-        <p class="mefarshemTrad">${escapeHtml(cleanText(trad))}</p>
+      <div class="mefarshemSection">
+        <div class="mefarshemLabel">${label}</div>
+        ${content}
       </div>
     `
-  }).join('')
-  if (!content.trim()) return ''
+  }
+
   return `
     <details class="mefarshemDetails">
-      <summary class="mefarshemSummary">📖 ${escapeHtml(label)}</summary>
-      <div class="mefarshemBody">${content}</div>
+      <summary class="mefarshemSummary">📖 Rachi · Tossefot · Roch · Ritva</summary>
+      <div class="mefarshemBody">
+        ${renderItems(rashi, 'Rachi')}
+        ${renderItems(tosafot, 'Tossefot')}
+      </div>
     </details>
   `
 }
@@ -167,9 +190,6 @@ export function renderDaf(daf) {
 
   const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
   localStorage.setItem(`daf_${currentFile}`, state.currentDaf)
-
-  const commentBox = document.querySelector('#commentBox')
-  if (commentBox) commentBox.style.display = 'none'
 
   const data = state.currentData.dapim[daf]
   const dapim = Object.keys(state.currentData.dapim).sort(sortDaf)
@@ -195,15 +215,13 @@ export function renderDaf(daf) {
       </article>
     `).join('')}
 
-    ${renderCommentaireDetails(data.rashi || [], 'Rachi')}
-    ${renderCommentaireDetails(data.tosafot || [], 'Tossefot')}
-    <div id="roshBox"></div>
-    <div id="ritvaBox"></div>
+    ${renderMefarshim(data)}
 
     <div class="mefarshemExtraButtons">
-      <button class="mefarshemBtn" id="roshBtnInline">📖 Roch</button>
-      <button class="mefarshemBtn" id="ritvaBtnInline">📖 Ritva</button>
+      <button class="mefarshemBtn" id="roshBtnInline">Roch</button>
+      <button class="mefarshemBtn" id="ritvaBtnInline">Ritva</button>
     </div>
+    <div id="mefarshemExtraBox"></div>
 
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
@@ -211,36 +229,53 @@ export function renderDaf(daf) {
     </div>
   `
 
-  document.querySelector('#roshBtnInline')?.addEventListener('click', () => renderExtraInline('rosh', 'Roch', '#roshBox'))
-  document.querySelector('#ritvaBtnInline')?.addEventListener('click', () => renderExtraInline('ritva', 'Ritva', '#ritvaBox'))
+  document.querySelector('#roshBtnInline')?.addEventListener('click', () => renderExtraCommentaryInline('rosh', 'Roch'))
+  document.querySelector('#ritvaBtnInline')?.addEventListener('click', () => renderExtraCommentaryInline('ritva', 'Ritva'))
 
   if (prev) document.querySelector('#prevDafBtn')?.addEventListener('click', () => goToDaf(prev))
   if (next) document.querySelector('#nextDafBtn')?.addEventListener('click', () => goToDaf(next))
 
   installHebrewWordClick()
   installCorrectionButtons()
+
+  // Masquer l'ancien commentBox
+  const commentBox = document.querySelector('#commentBox')
+  if (commentBox) commentBox.style.display = 'none'
 }
 
-async function renderExtraInline(slug, title, boxSelector) {
-  const box = document.querySelector(boxSelector)
+async function renderExtraCommentaryInline(slug, title) {
+  const box = document.querySelector('#mefarshemExtraBox')
   if (!box) return
   box.innerHTML = `<div class="empty">Chargement de ${escapeHtml(title)}...</div>`
 
   try {
     const data = await loadExtraCommentary(slug)
     if (!data?.dapim?.length) {
-      box.innerHTML = ''
+      box.innerHTML = `<p>${escapeHtml(title)} non disponible pour ce traité.</p>`
       return
     }
 
     const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
     if (!daf?.comments?.length) {
-      box.innerHTML = ''
+      box.innerHTML = `<p>${escapeHtml(title)} non disponible pour ce daf.</p>`
       return
     }
 
-    const items = daf.comments
-    box.innerHTML = renderCommentaireDetails(items, title)
+    box.innerHTML = `
+      <div class="mefarshemSection">
+        <div class="mefarshemLabel">${escapeHtml(title)}</div>
+        ${daf.comments.map(item => `
+          <div class="mefarshemItem">
+            <p class="he">${item.he || ''}</p>
+            <p class="mefarshemTrad">${escapeHtml(cleanText(
+              state.currentLang === 'fr'
+                ? (item.fr || 'Traduction française en préparation.')
+                : (item.en || 'English translation unavailable.')
+            ))}</p>
+          </div>
+        `).join('')}
+      </div>
+    `
   } catch (e) {
     box.innerHTML = `<div class="empty">Erreur : ${escapeHtml(e.message)}</div>`
   }
@@ -248,6 +283,7 @@ async function renderExtraInline(slug, title, boxSelector) {
 
 export function renderCommentary(type) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[state.currentDaf]) return
+
   const data = state.currentData.dapim[state.currentDaf]
   const items = data[type] || []
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
@@ -255,13 +291,17 @@ export function renderCommentary(type) {
 
   box.innerHTML = items.length
     ? items.map(x => {
-      if (typeof x === 'string') return `<div class="rashiItem"><p class="he">${x}</p></div>`
+      if (typeof x === 'string') {
+        return `<div class="rashiItem"><p class="he">${x}</p></div>`
+      }
       return `
         <div class="rashiItem">
           <p class="he">${x.he || x.text || ''}</p>
-          <p>${escapeHtml(state.currentLang === 'fr'
-            ? cleanText(x.fr || x.en || 'Traduction française en préparation.')
-            : cleanText(x.en || 'English translation unavailable.'))}</p>
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? cleanText(x.fr || x.en || 'Traduction française en préparation.')
+              : cleanText(x.en || 'English translation unavailable.')
+          )}</p>
         </div>
       `
     }).join('')
@@ -271,9 +311,12 @@ export function renderCommentary(type) {
 async function loadExtraCommentary(slug) {
   const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
   const key = `${slug}/${currentFile}`
+
   if (extraCommentaryCache[key]) return extraCommentaryCache[key]
+
   const res = await fetch(`/data/commentaries/${slug}/${currentFile}`)
   if (!res.ok) return null
+
   const data = await res.json()
   extraCommentaryCache[key] = data
   return data
@@ -286,18 +329,29 @@ export async function renderExtraCommentary(slug, title) {
 
   try {
     const data = await loadExtraCommentary(slug)
-    if (!data?.dapim?.length) { box.innerHTML = `${escapeHtml(title)} non disponible pour ce traité.`; return }
+
+    if (!data?.dapim?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce traité.`
+      return
+    }
+
     const daf = (data.dapim || []).find(d => String(d.daf) === String(state.currentDaf))
-    if (!daf?.comments?.length) { box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`; return }
+
+    if (!daf?.comments?.length) {
+      box.innerHTML = `${escapeHtml(title)} non disponible pour ce daf.`
+      return
+    }
 
     box.innerHTML = `
       <h3>${escapeHtml(title)} — ${escapeHtml(data.masechet || '')} ${escapeHtml(state.currentDaf)}</h3>
       ${daf.comments.map(item => `
         <div class="rashiItem">
           <p class="he">${item.he || ''}</p>
-          <p>${escapeHtml(state.currentLang === 'fr'
-            ? cleanText(item.fr || item.en || 'Traduction française en préparation.')
-            : cleanText(item.en || 'English translation unavailable.'))}</p>
+          <p>${escapeHtml(
+            state.currentLang === 'fr'
+              ? cleanText(item.fr || item.en || 'Traduction française en préparation.')
+              : cleanText(item.en || 'English translation unavailable.')
+          )}</p>
         </div>
       `).join('')}
     `
@@ -307,25 +361,47 @@ export async function renderExtraCommentary(slug, title) {
 }
 
 function refreshCurrentViewAfterLanguageChange() {
-  if (state.currentMode === 'parasha' && state.currentParasha?.file) { loadParasha(state.currentParasha.file); return }
-  if (state.currentMode === 'talmud' && state.currentData && state.currentDaf) { renderDaf(state.currentDaf); return }
-  if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice(); return }
-  if (state.currentMode === 'mishna') { refreshCurrentMishnaView() }
+  if (state.currentMode === 'parasha' && state.currentParasha?.file) {
+    loadParasha(state.currentParasha.file)
+    return
+  }
+
+  if (state.currentMode === 'talmud' && state.currentData && state.currentDaf) {
+    renderDaf(state.currentDaf)
+    return
+  }
+
+  if (state.currentMode === 'shulchan') {
+    renderShulchanCommentaryNotice()
+    return
+  }
+
+  if (state.currentMode === 'mishna') {
+    refreshCurrentMishnaView()
+  }
 }
 
 export function initTalmudEvents() {
   document.querySelector('#masechetSearch')?.addEventListener('input', renderLibrary)
 
   document.querySelector('#rashiBtn')?.addEventListener('click', () => {
-    if (state.currentMode === 'parasha') { renderParashaRashi() }
-    else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('rashi') }
+    if (state.currentMode === 'parasha') {
+      renderParashaRashi()
+    } else if (state.currentMode === 'shulchan') {
+      renderShulchanCommentaryNotice()
+    } else {
+      renderCommentary('rashi')
+    }
   })
 
   document.querySelector('#tosafotBtn')?.addEventListener('click', () => {
-    if (state.currentMode === 'parasha') { document.querySelector('#commentBox').innerHTML = 'Tossefot n\'existe pas sur les parachiot.' }
-    else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('tosafot') }
+    if (state.currentMode === 'parasha') {
+      document.querySelector('#commentBox').innerHTML = 'Tossefot n\'existe pas sur les parachiot.'
+    } else if (state.currentMode === 'shulchan') {
+      renderShulchanCommentaryNotice()
+    } else {
+      renderCommentary('tosafot')
+    }
   })
 
   document.querySelector('#frBtn')?.addEventListener('click', () => {
