@@ -180,7 +180,35 @@ export function renderDaf(daf) {
   document.querySelector('#dafTitle').textContent = `${state.currentData.title} ${daf}`
 
   document.querySelector('#segments').innerHTML = `
-    ${(data.segments || []).map((seg, index) => `
+    ${(data.segments || []).map((seg, index) => {
+      const rachi   = (data.rashi   || [])[index]
+      const tosafot = (data.tosafot || [])[index]
+      const rosh    = (data.rosh    || [])[index]
+      const ritva   = (data.ritva   || [])[index]
+
+      function commentBlock(item, label) {
+        if (!item) return ''
+        const he = typeof item === 'string' ? item : (item.he || '')
+        const fr = typeof item === 'string' ? '' : (item.fr || '')
+        const en = typeof item === 'string' ? '' : (item.en || '')
+        if (!he.trim()) return ''
+        const trad = state.currentLang === 'fr'
+          ? (fr || 'Traduction française en préparation.')
+          : (en || 'English translation in preparation.')
+        return `
+          <details class="mefarshemDetails">
+            <summary class="mefarshemSummary">📖 ${label}</summary>
+            <div class="mefarshemBody">
+              <div class="mefarshemItem">
+                <p class="he">${he}</p>
+                <p class="mefarshemTrad">${escapeHtml(cleanText(trad))}</p>
+              </div>
+            </div>
+          </details>
+        `
+      }
+
+      return `
       <article class="segment">
         <div class="segNum">
           Segment ${index + 1}
@@ -192,13 +220,13 @@ export function renderDaf(daf) {
             ? escapeHtml(cleanText(seg.fr || 'Traduction française en préparation.'))
             : escapeHtml(cleanText(seg.en || 'English translation in preparation.'))}
         </div>
+        ${commentBlock(rachi,   'Rachi')}
+        ${commentBlock(tosafot, 'Tossefot')}
+        ${commentBlock(rosh,    'Roch')}
+        ${commentBlock(ritva,   'Ritva')}
       </article>
-    `).join('')}
-
-    ${renderCommentaireDetails(data.rashi || [], 'Rachi')}
-    ${renderCommentaireDetails(data.tosafot || [], 'Tossefot')}
-    ${renderCommentaireDetails(data.rosh || [], 'Roch')}
-    ${renderCommentaireDetails(data.ritva || [], 'Ritva')}
+      `
+    }).join('')}
 
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}

@@ -20,7 +20,7 @@ def api_call(items, label):
         prompt += str(i) + ": " + he + "\n"
     payload = json.dumps({
         "model": "claude-sonnet-4-6",
-        "max_tokens": 4000,
+        "max_tokens": 6000,
         "system": SYSTEM,
         "messages": [{"role": "user", "content": prompt}]
     }).encode()
