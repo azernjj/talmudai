@@ -197,14 +197,8 @@ export function renderDaf(daf) {
 
     ${renderCommentaireDetails(data.rashi || [], 'Rachi')}
     ${renderCommentaireDetails(data.tosafot || [], 'Tossefot')}
-    <details class="mefarshemDetails" id="roshDetails">
-      <summary class="mefarshemSummary" id="roshSummary">📖 Roch</summary>
-      <div class="mefarshemBody" id="roshBox">Chargement...</div>
-    </details>
-    <details class="mefarshemDetails" id="ritvaDetails">
-      <summary class="mefarshemSummary" id="ritvaSummary">📖 Ritva</summary>
-      <div class="mefarshemBody" id="ritvaBox">Chargement...</div>
-    </details>
+    ${renderCommentaireDetails(data.rosh || [], 'Roch')}
+    ${renderCommentaireDetails(data.ritva || [], 'Ritva')}
 
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
@@ -212,16 +206,7 @@ export function renderDaf(daf) {
     </div>
   `
 
-  document.querySelector('#roshDetails')?.addEventListener('toggle', function() {
-    if (this.open && document.querySelector('#roshBox')?.textContent === 'Chargement...') {
-      renderExtraInline('rosh', 'Roch', '#roshBox')
-    }
-  })
-  document.querySelector('#ritvaDetails')?.addEventListener('toggle', function() {
-    if (this.open && document.querySelector('#ritvaBox')?.textContent === 'Chargement...') {
-      renderExtraInline('ritva', 'Ritva', '#ritvaBox')
-    }
-  })
+
 
   if (prev) document.querySelector('#prevDafBtn')?.addEventListener('click', () => goToDaf(prev))
   if (next) document.querySelector('#nextDafBtn')?.addEventListener('click', () => goToDaf(next))
