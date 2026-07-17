@@ -1,0 +1,186 @@
+{
+  "type": "mishna",
+  "title": "Bikourim",
+  "sefaria_title": "Mishnah Bikkurim",
+  "seder": "Zeraïm",
+  "source": "Sefaria",
+  "chapters": {
+    "1": {
+      "chapter": 1,
+      "mishnayot": []
+    },
+    "2": {
+      "chapter": 2,
+      "mishnayot": []
+    },
+    "3": {
+      "chapter": 3,
+      "mishnayot": []
+    },
+    "4": {
+      "chapter": 4,
+      "mishnayot": [
+        {
+          "id": "4:1",
+          "chapter": 4,
+          "mishna": 1,
+          "ref": "Mishnah Bikkurim 4:1",
+          "he": "אַנְדְּרוֹגִינוֹס יֵשׁ בּוֹ דְּרָכִים שָׁוֶה לַאֲנָשִׁים, וְיֵשׁ בּוֹ דְּרָכִים שָׁוֶה לַנָּשִׁים, וְיֵשׁ בּוֹ דְּרָכִים שָׁוֶה לַאֲנָשִׁים וְנָשִׁים, וְיֵשׁ בּוֹ דְּרָכִים אֵינוֹ שָׁוֶה לֹא לַאֲנָשִׁים וְלֹא לַנָּשִׁים:",
+          "en": "",
+          "fr": "L’androgyne présente certains aspects par lesquels il est semblable aux hommes ; certains aspects par lesquels il est semblable aux femmes ; certains aspects par lesquels il est semblable aux hommes et aux femmes ; et certains aspects par lesquels il n’est semblable ni aux hommes ni aux femmes.",
+          "etude_fr": {
+            "traduction_fr": "L’androgyne présente certains aspects par lesquels il est semblable aux hommes ; certains aspects par lesquels il est semblable aux femmes ; certains aspects par lesquels il est semblable aux hommes et aux femmes ; et certains aspects par lesquels il n’est semblable ni aux hommes ni aux femmes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bartenoura sur Michna Bikkurim 4:1",
+                "explication": "Bartenoura explique que l’« androgyne » est une personne qui possède à la fois les signes anatomiques masculins et féminins. Cette Michna introduit une série de règles : selon certains domaines de halakha, on le traite comme un homme ; selon d’autres, comme une femme ; dans d’autres encore, comme l’un et l’autre ; et parfois son statut est particulier et ne correspond pleinement à aucun des deux."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire du Rambam sur la Michna, Bikkurim 4:1",
+                "explication": "Le Rambam définit l’androgyne comme celui chez qui se trouvent à la fois un organe masculin et un organe féminin. Il précise que les lois qui suivent ne reposent pas sur une simple assimilation générale à l’homme ou à la femme, mais sur une analyse détaillée de chaque obligation ou statut juridique. La Michna énonce donc les quatre catégories dans lesquelles ses règles seront classées."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Tossafot Yom Tov sur Michna Bikkurim 4:1",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression répétée « il présente des aspects » indique que la Michna ne tranche pas ici une identité unique et simple. Elle prépare plutôt une énumération précise : certains cas découlent de sa dimension masculine, d’autres de sa dimension féminine, d’autres du fait qu’il est inclus dans les obligations communes aux deux, et d’autres enfin de son caractère atypique."
+              }
+            ]
+          }
+        },
+        {
+          "id": "4:2",
+          "chapter": 4,
+          "mishna": 2,
+          "ref": "Mishnah Bikkurim 4:2",
+          "he": "כֵּיצַד שָׁוֶה לַאֲנָשִׁים: מְטַמֵּא בְּלֹבֶן כַּאֲנָשִׁים, וְזוֹקֵק לְיִבּוּם כַּאֲנָשִׁים, וּמִתְעַטֵּף וּמִסְתַּפֵּר כַּאֲנָשִׁים, וְנוֹשֵׂא אֲבָל לֹא נִשָּׂא כַּאֲנָשִׁים, וְחַיָּב בְּכָל מִצְוֹת הָאֲמוּרוֹת בַּתּוֹרָה כַּאֲנָשִׁים:",
+          "en": "",
+          "fr": "En quoi est-il semblable aux hommes ? Il rend impur par un écoulement blanc, comme les hommes ; il astreint au yibbum, comme les hommes ; il s’enveloppe et se coupe les cheveux comme les hommes ; il épouse, mais n’est pas épousé, comme les hommes ; et il est tenu à toutes les mitsvot énoncées dans la Torah, comme les hommes.",
+          "etude_fr": {
+            "traduction_fr": "En quoi est-il semblable aux hommes ? Il rend impur par un écoulement blanc, comme les hommes ; il astreint au yibbum, comme les hommes ; il s’enveloppe et se coupe les cheveux comme les hommes ; il épouse, mais n’est pas épousé, comme les hommes ; et il est tenu à toutes les mitsvot énoncées dans la Torah, comme les hommes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bikkurim 4:2",
+                "explication": "La Michna parle de l’androgyne. Il est semblable aux hommes en plusieurs domaines halakhiques : son écoulement blanc est traité comme celui d’un homme et rend impur ; s’il est frère du défunt sans enfant, il crée l’obligation de yibbum pour la veuve ; il adopte les usages extérieurs des hommes, notamment le vêtement et la coupe des cheveux ; il peut contracter mariage avec une femme, mais un homme ne peut pas le prendre pour épouse. Il est également astreint aux mitsvot positives liées au temps, comme les hommes."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Bikkurim 4:2",
+                "explication": "Le Rambam explique que cette énumération expose les conséquences du côté masculin de l’androgyne. Ainsi, pour les lois d’impureté, de yibbum, de mariage et d’obligation dans les commandements, on le considère comme un homme. La Michna ne tranche pas ici qu’il serait uniquement homme en tout point, mais indique les domaines précis où sa halakha suit celle des hommes."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Bikkurim 4:2",
+                "explication": "Le Tossafot Yom Tov précise que la formule « comme les hommes » signifie que, pour chacun des cas mentionnés, l’androgyne est soumis au même statut halakhique que l’homme ordinaire. Lorsqu’il est dit qu’il « épouse mais n’est pas épousé », cela signifie qu’il peut être celui qui accomplit l’acte de mariage envers une femme, mais qu’il ne reçoit pas de kiddouchin d’un homme comme une femme."
+              }
+            ]
+          }
+        },
+        {
+          "id": "4:3",
+          "chapter": 4,
+          "mishna": 3,
+          "ref": "Mishnah Bikkurim 4:3",
+          "he": "כֵּיצַד שָׁוֶה לַנָּשִׁים: מְטַמֵּא בְּאֹדֶם כַּנָּשִׁים, וְאֵינוֹ מִתְיַחֵד עִם הָאֲנָשִׁים כַּנָּשִׁים, וְאֵינוֹ עוֹבֵר עַל \"בַּל תַּקִּיף\" וְלֹא עַל \"בַּל תַּשְׁחִית\" וְלֹא עַל \"בַּל תְּטַמֵּא לַמֵּתִים\" כַּנָּשִׁים, וּפָסוּל מִן הָעֵדוּת כַּנָּשִׁים, וְאֵינוֹ נִבְעַל בַּעֲבֵירָה כַּנָּשִׁים, וְנִפְסַל מִן הַכְּהֻנָּה כַּנָּשִׁים:",
+          "en": "",
+          "fr": "En quoi est-il semblable aux femmes ? Il rend impur par un écoulement rouge, comme les femmes ; il ne s’isole pas avec les hommes, comme les femmes ; il ne transgresse pas l’interdit de « ne pas arrondir les coins de la tête », ni celui de « ne pas détruire les coins de la barbe », ni celui de « ne pas se rendre impur pour les morts », comme les femmes ; il est invalide pour témoigner, comme les femmes ; il n’est pas soumis, comme partie passive, à une relation interdite, comme les femmes ; et il est rendu inapte à la prêtrise, comme les femmes.",
+          "etude_fr": {
+            "traduction_fr": "En quoi est-il semblable aux femmes ? Il rend impur par un écoulement rouge, comme les femmes ; il ne s’isole pas avec les hommes, comme les femmes ; il ne transgresse pas l’interdit de « ne pas arrondir les coins de la tête », ni celui de « ne pas détruire les coins de la barbe », ni celui de « ne pas se rendre impur pour les morts », comme les femmes ; il est invalide pour témoigner, comme les femmes ; il n’est pas soumis, comme partie passive, à une relation interdite, comme les femmes ; et il est rendu inapte à la prêtrise, comme les femmes.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bikkurim 4:3",
+                "explication": "La Michna parle de l’androgyne, qui possède des signes masculins et féminins. Il est ici comparé aux femmes pour les lois qui découlent de son aspect féminin ou de l’absence de statut masculin certain : s’il voit un écoulement rouge par l’organe féminin, il contracte l’impureté comme une femme nida ; il ne peut pas s’isoler avec des hommes, car il est aussi considéré comme femme sous cet aspect ; et il n’est pas soumis aux interdits propres aux hommes, tels que l’arrondissement des coins de la tête et la destruction des coins de la barbe."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Bikkurim 4:3",
+                "explication": "Le Rambam explique que l’androgyne est traité tantôt comme un homme, tantôt comme une femme, selon le domaine halakhique. Ici, la Michna énumère les cas où son statut rejoint celui des femmes : pour l’impureté d’un écoulement rouge, pour l’interdit d’isolement avec des hommes, pour l’invalidité au témoignage, et pour les interdits dont les femmes sont exemptes. Cette énumération montre que la halakha ne le définit pas simplement comme un homme, mais lui applique, dans ces domaines, les règles féminines."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Bikkurim 4:3",
+                "explication": "Le Tossafot Yom Tov souligne que chaque clause de la Michna vise un point précis : l’écoulement rouge le rend impur non parce qu’il est assimilé entièrement à une femme, mais parce que cet écoulement provient du côté féminin ; l’interdit d’isolement avec les hommes vient de la crainte d’une relation interdite ; et l’invalidité au témoignage suit la règle générale selon laquelle les femmes ne sont pas aptes à témoigner dans les témoignages ordinaires."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Bikkurim 4:3",
+                "explication": "Le Tiféret Israël précise que les expressions de la Michna doivent être comprises comme des conséquences pratiques de son double statut. Lorsqu’il est dit qu’il ne transgresse pas certains interdits, cela signifie qu’on ne lui applique pas les interdits exclusivement imposés aux hommes. En revanche, lorsqu’une relation interdite ou un acte le rend inapte à la prêtrise, il est traité comme une femme : ainsi, s’il est disqualifié par une union interdite, il perd l’aptitude à épouser un Cohen, comme une femme devenue interdite à la prêtrise."
+              }
+            ]
+          }
+        },
+        {
+          "id": "4:4",
+          "chapter": 4,
+          "mishna": 4,
+          "ref": "Mishnah Bikkurim 4:4",
+          "he": "כֵּיצַד שָׁוֶה לַאֲנָשִׁים וְלַנָּשִׁים: חַיָּבִים עַל מַכָּתוֹ וְעַל קִלְלָתוֹ כַּאֲנָשִׁים וְכַנָּשִׁים, וְהַהוֹרְגוֹ שׁוֹגֵג גּוֹלֶה וּמֵזִיד נֶהֱרַג כַּאֲנָשִׁים וְנָשִׁים, וְיוֹשֶׁבֶת עָלָיו דָּם טָמֵא וְדָם טָהוֹר כַּאֲנָשִׁים וְכַנָּשִׁים, וְחוֹלֵק בְּקָדְשֵׁי קֳדָשִׁים כַּאֲנָשִׁים וְכַנָּשִׁים, וְנוֹחֵל לְכָל הַנְּחָלוֹת כַּאֲנָשִׁים וְכַנָּשִׁים, וְאִם אָמַר \"הֲרֵינִי נָזִיר שֶׁזֶּה אִישׁ וְאִשָּׁה\" הֲרֵי זֶה נָזִיר:",
+          "en": "",
+          "fr": "En quoi est-il semblable aux hommes et aux femmes ? On est passible pour l’avoir frappé et pour l’avoir maudit, comme pour les hommes et comme pour les femmes ; celui qui le tue par inadvertance part en exil, et s’il l’a fait volontairement, il est mis à mort, comme pour les hommes et les femmes ; sa mère observe à son sujet le sang impur et le sang pur, comme pour les hommes et comme pour les femmes ; il reçoit une part dans les sacrifices de sainteté éminente, comme les hommes et comme les femmes ; il hérite dans toutes les successions, comme les hommes et comme les femmes ; et si quelqu’un dit : « Me voici nazir si celui-ci est homme et femme », il devient nazir.",
+          "etude_fr": {
+            "traduction_fr": "En quoi est-il semblable aux hommes et aux femmes ? On est passible pour l’avoir frappé et pour l’avoir maudit, comme pour les hommes et comme pour les femmes ; celui qui le tue par inadvertance part en exil, et s’il l’a fait volontairement, il est mis à mort, comme pour les hommes et les femmes ; sa mère observe à son sujet le sang impur et le sang pur, comme pour les hommes et comme pour les femmes ; il reçoit une part dans les sacrifices de sainteté éminente, comme les hommes et comme les femmes ; il hérite dans toutes les successions, comme les hommes et comme les femmes ; et si quelqu’un dit : « Me voici nazir si celui-ci est homme et femme », il devient nazir.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bikkurim 4:4",
+                "explication": "Cette Michna traite de l’androgyne, qui possède à la fois des signes masculins et féminins. Ici sont énumérés des domaines où son statut est suffisamment reconnu pour entraîner les mêmes conséquences que pour tout être humain, homme ou femme : celui qui le blesse, le maudit ou le tue est soumis aux peines prévues par la Torah. Concernant la naissance, la mère observe les lois de pureté et d’impureté liées à l’enfantement en tenant compte des deux aspects, afin de ne pas alléger là où il pourrait avoir le statut d’un garçon ou d’une fille."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Bikkurim 4:4",
+                "explication": "Le Rambam explique que la Michna rassemble les lois où l’androgyne n’est pas exclu de la catégorie d’être humain complet : les interdits de frapper, maudire et tuer s’appliquent à son égard comme à l’égard d’un homme ou d’une femme. De même, pour les lois de nazir, la formulation « si celui-ci est homme et femme » prend effet, car l’androgyne réunit effectivement des éléments des deux sexes, et celui qui a fait ce vœu devient donc nazir."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Bikkurim 4:4",
+                "explication": "Le Tossafot Yom Tov souligne que l’expression répétée « comme les hommes et comme les femmes » ne signifie pas toujours une égalité technique identique dans tous les détails, mais que la règle mentionnée s’applique à l’androgyne comme elle s’applique aux êtres humains des deux catégories. Pour les successions, cela signifie qu’il a une capacité successorale : il hérite lorsque les règles de l’héritage lui donnent droit, bien que son statut puisse entraîner des précautions dans les cas où le partage dépend précisément du sexe."
+              }
+            ]
+          }
+        },
+        {
+          "id": "4:5",
+          "chapter": 4,
+          "mishna": 5,
+          "ref": "Mishnah Bikkurim 4:5",
+          "he": "כֵּיצַד אֵינוֹ שָׁוֶה לֹא לַאֲנָשִׁים וְלֹא לַנָּשִׁים: אֵין חַיָּבִים לֹא עַל מַכָּתוֹ וְלֹא עַל קִלְלָתוֹ לֹא כַּאֲנָשִׁים וְלֹא כַּנָּשִׁים, וְאֵינוֹ נֶעֱרָךְ לֹא כַּאֲנָשִׁים וְלֹא כַּנָּשִׁים, וְאִם אָמַר \"הֲרֵינִי נָזִיר שֶׁזֶּה לֹא אִישׁ וְלֹא אִשָּׁה\" אֵינוֹ נָזִיר. רַבִּי מֵאִיר אוֹמֵר: אַנְדְּרוֹגִינוֹס בְּרִיָּה בִּפְנֵי עַצְמָהּ הוּא וְלֹא יָכְלוּ חֲכָמִים לְהַכְרִיעַ עָלָיו אִם הוּא אִישׁ אוֹ אִשָּׁה. אֲבָל טֻמְטוּם אֵינוֹ כֵּן, פְּעָמִים שֶׁהוּא אִישׁ פְּעָמִים שֶׁהוּא אִשָּׁה:",
+          "en": "",
+          "fr": "En quoi n’est-il semblable ni aux hommes ni aux femmes ? On n’est passible ni pour l’avoir frappé ni pour l’avoir maudit, ni comme pour les hommes ni comme pour les femmes ; il n’est pas l’objet d’une évaluation, ni comme les hommes ni comme les femmes ; et si quelqu’un a dit : « Me voici nazir si celui-ci n’est ni homme ni femme », il n’est pas nazir. Rabbi Méïr dit : l’androgyne est une créature à part, et les Sages n’ont pas pu trancher à son sujet s’il est homme ou femme. Mais le toumtoum n’est pas ainsi : parfois il est homme, parfois il est femme.",
+          "etude_fr": {
+            "traduction_fr": "En quoi n’est-il semblable ni aux hommes ni aux femmes ? On n’est passible ni pour l’avoir frappé ni pour l’avoir maudit, ni comme pour les hommes ni comme pour les femmes ; il n’est pas l’objet d’une évaluation, ni comme les hommes ni comme les femmes ; et si quelqu’un a dit : « Me voici nazir si celui-ci n’est ni homme ni femme », il n’est pas nazir. Rabbi Méïr dit : l’androgyne est une créature à part, et les Sages n’ont pas pu trancher à son sujet s’il est homme ou femme. Mais le toumtoum n’est pas ainsi : parfois il est homme, parfois il est femme.",
+            "mefarshim": [
+              {
+                "auteur": "Rabbénou Ovadia de Bartenoura",
+                "reference": "Bikkurim 4:5",
+                "explication": "« On n’est passible ni pour l’avoir frappé ni pour l’avoir maudit » se rapporte aux peines prévues par la Torah pour celui qui frappe ou maudit son père ou sa mère. Si le parent est androgyne, on ne peut pas le considérer avec certitude comme père ni comme mère, et l’on n’inflige donc pas la peine correspondante. De même, pour les évaluations consacrées au Temple, la Torah fixe des valeurs distinctes pour un mâle et pour une femelle ; l’androgyne n’entre avec certitude dans aucune de ces catégories et n’a donc pas de valeur d’« érekh »."
+              },
+              {
+                "auteur": "Rambam",
+                "reference": "Commentaire sur la Michna, Bikkurim 4:5",
+                "explication": "Le Rambam explique que les lois énumérées ici dépendent d’une définition certaine de mâle ou de femelle. Pour l’évaluation, le verset parle explicitement d’un mâle et d’une femelle ; l’androgyne, dont le statut n’est pas tranché, n’est donc pas inclus dans l’obligation d’évaluation. Quant au toumtoum, il diffère de l’androgyne : son sexe est seulement caché, et lorsqu’il sera découvert, il se révélera être soit homme soit femme."
+              },
+              {
+                "auteur": "Tossafot Yom Tov",
+                "reference": "Bikkurim 4:5",
+                "explication": "Le Tossafot Yom Tov souligne la différence entre l’androgyne et le toumtoum. L’androgyne présente simultanément des signes masculins et féminins, ce qui crée un statut halakhique particulier et non résolu. Le toumtoum, en revanche, n’est pas une catégorie autonome : son identité est simplement dissimulée, et il appartient en réalité à l’une des deux catégories, homme ou femme."
+              },
+              {
+                "auteur": "Tiféret Israël",
+                "reference": "Yakhin, Bikkurim 4:5",
+                "explication": "Le Tiféret Israël explique que la formule de Rabbi Méïr — « une créature à part » — signifie que l’androgyne n’est pas seulement un cas de doute ordinaire : sa constitution même le rend distinct. C’est pourquoi, dans certaines lois, il est traité avec des rigueurs des deux côtés, tandis qu’ici, lorsque la Torah exige une catégorie définie, on ne peut l’assimiler ni aux hommes ni aux femmes."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "stats": {
+    "chapters": 4,
+    "mishnayot": 5,
+    "translated_fr": 0
+  }
+}
