@@ -323,7 +323,6 @@ function renderTalmudStudy(seg) {
       ${Array.isArray(study.resume) && study.resume.length
         ? studyDetails('📌 Résumé', studyList(study.resume))
         : ''}
-      ${renderQuestions(study.questions_revision)}
       ${simpleSection('Synthèse finale', study.synthese_finale, '🎯 ')}
       ${renderSources(study.sources)}
       ${Array.isArray(study.avertissements) && study.avertissements.length
