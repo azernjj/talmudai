@@ -38,7 +38,7 @@ DEFAULT_SEFARIA_TITLES: dict[str, str] = {
     "rashba": "Rashba on {masechet}",
     "ran": "Ran on {masechet}",
     "maharsha": "Chidushei Halachot on {masechet}",
-    "penei_yehoshua": "Penei Yehoshua on {masechet}",
+    "pnei-yehoshua": "Penei Yehoshua on {masechet}",
 }
 
 
@@ -51,7 +51,23 @@ class CommentaryDownloadError(RuntimeError):
 class CommentaryHTTPError(CommentaryDownloadError):
     """
     Erreur HTTP ou réseau lors d’un appel à une source distante.
+
+    Le code HTTP, l'URL et le corps de la réponse sont conservés
+    afin de distinguer une véritable erreur d'un texte absent.
     """
+
+    def __init__(
+        self,
+        message: str,
+        *,
+        status_code: int | None = None,
+        url: str = "",
+        response_body: str = "",
+    ) -> None:
+        super().__init__(message)
+        self.status_code = status_code
+        self.url = url
+        self.response_body = response_body
 
 
 class CommentaryResponseError(CommentaryDownloadError):
@@ -267,7 +283,7 @@ class SefariaHTTPClient:
             | Sequence[tuple[str, Any]]
             | None
         ) = None,
-    ) -> dict[str, Any]:
+    ) -> Any:
         url = self.build_url(
             path,
             params=params,
@@ -318,16 +334,11 @@ class SefariaHTTPClient:
                         f"{url}. Aperçu : {preview}"
                     ) from exc
 
-                if not isinstance(payload, dict):
-                    raise CommentaryResponseError(
-                        f"La réponse de {url} n’est pas "
-                        "un objet JSON."
+                if isinstance(payload, dict):
+                    self._raise_api_error(
+                        payload,
+                        url=url,
                     )
-
-                self._raise_api_error(
-                    payload,
-                    url=url,
-                )
 
                 return payload
 
@@ -341,8 +352,13 @@ class SefariaHTTPClient:
                     body = self._read_http_error_body(exc)
 
                     raise CommentaryHTTPError(
-                        f"Erreur HTTP {exc.code} pour {url}: "
-                        f"{body}"
+                        (
+                            f"Erreur HTTP {exc.code} pour "
+                            f"{url}: {body}"
+                        ),
+                        status_code=exc.code,
+                        url=url,
+                        response_body=body,
                     ) from exc
 
                 retry_after = self._retry_after_seconds(exc)
@@ -593,6 +609,16 @@ class CommentaryDownloader:
 
         warnings = self._extract_warnings(payload)
 
+        if comments:
+            warnings.extend(
+                self._attach_base_refs(
+                    comments,
+                    commentary_daf_ref=sefaria_ref,
+                    masechet=masechet,
+                    daf=normalized_daf,
+                )
+            )
+
         return DownloadedDaf(
             commentary_key=commentary_key,
             commentary=definition.display_name,
@@ -725,6 +751,51 @@ class CommentaryDownloader:
                 result.downloaded_dapim.append(
                     normalized_daf
                 )
+
+            except CommentaryHTTPError as exc:
+                body = exc.response_body.lower()
+
+                is_missing_text = (
+                    exc.status_code == 404
+                    and (
+                        "we have no text for" in body
+                        or "no text for" in body
+                    )
+                )
+
+                if is_missing_text:
+                    result.empty_dapim.append(
+                        normalized_daf
+                    )
+
+                    if keep_empty_dapim:
+                        document.add_or_replace_daf(
+                            CommentaryDaf(
+                                daf=normalized_daf,
+                                comments=[],
+                                metadata={
+                                    "empty": True,
+                                    "reason": (
+                                        "sefaria_no_text"
+                                    ),
+                                },
+                            )
+                        )
+
+                        self.writer.save_document(
+                            document,
+                            target_path,
+                            backup=backup,
+                        )
+
+                    continue
+
+                result.failed_dapim[
+                    normalized_daf
+                ] = str(exc)
+
+                if stop_on_error:
+                    break
 
             except Exception as exc:
                 result.failed_dapim[
@@ -941,6 +1012,12 @@ class CommentaryDownloader:
     ) -> str:
         """
         Résout le titre du texte tel qu’il est connu par Sefaria.
+
+        Ordre de priorité :
+        1. titre fourni explicitement avec `override` ;
+        2. titre déclaré dans le registre des commentaires ;
+        3. dictionnaire historique `DEFAULT_SEFARIA_TITLES` ;
+        4. titre construit depuis le nom d’affichage.
         """
 
         if override and override.strip():
@@ -950,23 +1027,38 @@ class CommentaryDownloader:
             commentary
         )
 
-        template = DEFAULT_SEFARIA_TITLES.get(
+        definition = get_commentary(
             commentary_key
         )
 
-        if template is None:
-            definition = get_commentary(
+        template = getattr(
+            definition,
+            "sefaria_title",
+            None,
+        )
+
+        if not template:
+            template = DEFAULT_SEFARIA_TITLES.get(
                 commentary_key
             )
 
+        if not template:
             template = (
                 f"{definition.display_name} "
                 "on {masechet}"
             )
 
-        return template.format(
-            masechet=masechet
-        )
+        template = str(template).strip()
+
+        if "{masechet}" in template:
+            return template.format(
+                masechet=masechet
+            )
+
+        if template.endswith(" on"):
+            return f"{template} {masechet}"
+
+        return template
 
     def resolve_dapim(
         self,
@@ -1077,6 +1169,25 @@ class CommentaryDownloader:
         str,
         str,
     ]:
+        """
+        Analyse une réponse Sefaria Texts v3 sans perdre les
+        coordonnées canoniques des commentaires.
+
+        Exemple pour Tosafot :
+
+            text[0][0]
+                -> Tosafot ... 2a:1:1
+
+            text[6][0]
+                -> Tosafot ... 2a:7:1
+
+            text[9][1]
+                -> Tosafot ... 2a:10:2
+
+        L'ancienne version aplatissait ces listes et produisait
+        artificiellement :1, :2, :3, etc.
+        """
+
         versions = payload.get("versions", [])
 
         if not isinstance(versions, list):
@@ -1085,8 +1196,78 @@ class CommentaryDownloader:
                 "n’est pas une liste."
             )
 
-        source_texts: list[str] = []
-        translation_texts: list[str] = []
+        def collect_segments(
+            value: Any,
+            path: tuple[int, ...] = (),
+        ) -> dict[tuple[int, ...], str]:
+            """
+            Transforme une structure imbriquée Sefaria en dictionnaire :
+
+                (segment, sous-segment) -> texte
+
+            Les indices sont conservés en base 1.
+            """
+
+            collected: dict[
+                tuple[int, ...],
+                str,
+            ] = {}
+
+            if isinstance(value, list):
+                for index, child in enumerate(
+                    value,
+                    start=1,
+                ):
+                    collected.update(
+                        collect_segments(
+                            child,
+                            path + (index,),
+                        )
+                    )
+
+                return collected
+
+            if value is None:
+                return collected
+
+            if not isinstance(value, str):
+                value = str(value)
+
+            text = value.strip()
+
+            if not text:
+                return collected
+
+            coordinates = path
+
+            # Les commentaires dépendants de Sefaria possèdent
+            # normalement deux niveaux sous le daf :
+            # segment talmudique + commentaire dans ce segment.
+            #
+            # Si une version renvoie exceptionnellement une liste
+            # simple, on lui ajoute le sous-segment 1.
+            if len(coordinates) == 1:
+                coordinates = (
+                    coordinates[0],
+                    1,
+                )
+
+            if not coordinates:
+                coordinates = (1, 1)
+
+            collected[coordinates] = text
+
+            return collected
+
+        source_texts: dict[
+            tuple[int, ...],
+            str,
+        ] = {}
+
+        translation_texts: dict[
+            tuple[int, ...],
+            str,
+        ] = {}
 
         source_title = ""
         translation_title = ""
@@ -1095,8 +1276,8 @@ class CommentaryDownloader:
             if not isinstance(version, dict):
                 continue
 
-            texts = self._extract_version_segments(
-                version
+            texts = collect_segments(
+                version.get("text")
             )
 
             if not texts:
@@ -1130,42 +1311,68 @@ class CommentaryDownloader:
             fallback_text = payload.get("text")
 
             if fallback_text is not None:
-                source_texts = self.flatten_segments(
+                source_texts = collect_segments(
                     fallback_text
                 )
 
         if not source_texts and not translation_texts:
-            return [], source_title, translation_title
+            return (
+                [],
+                source_title,
+                translation_title,
+            )
 
-        comment_count = max(
-            len(source_texts),
-            len(translation_texts),
+        all_coordinates = sorted(
+            set(source_texts)
+            | set(translation_texts)
         )
 
         comments: list[CommentaryComment] = []
 
-        for index in range(comment_count):
-            hebrew = (
-                source_texts[index]
-                if index < len(source_texts)
-                else ""
+        for coordinates in all_coordinates:
+            hebrew = source_texts.get(
+                coordinates,
+                "",
             )
 
-            english = (
-                translation_texts[index]
-                if index < len(translation_texts)
-                else ""
+            english = translation_texts.get(
+                coordinates,
+                "",
             )
 
             if not hebrew and not english:
                 continue
 
-            segment_number = index + 1
+            segment_number = coordinates[0]
+
+            subsegment_number = (
+                coordinates[1]
+                if len(coordinates) > 1
+                else 1
+            )
+
+            reference_suffix = ":".join(
+                str(number)
+                for number in coordinates
+            )
+
+            metadata: dict[str, Any] = {
+                "sefaria_segment": (
+                    segment_number
+                ),
+                "sefaria_subsegment": (
+                    subsegment_number
+                ),
+                "sefaria_coordinates": list(
+                    coordinates
+                ),
+            }
 
             comments.append(
                 CommentaryComment(
                     ref=(
-                        f"{sefaria_ref}:{segment_number}"
+                        f"{sefaria_ref}:"
+                        f"{reference_suffix}"
                     ),
                     he=hebrew,
                     en=english,
@@ -1177,11 +1384,7 @@ class CommentaryDownloader:
                             hebrew
                         )
                     ),
-                    metadata={
-                        "sefaria_segment": (
-                            segment_number
-                        ),
-                    },
+                    metadata=metadata,
                 )
             )
 
@@ -1190,6 +1393,265 @@ class CommentaryDownloader:
             source_title,
             translation_title,
         )
+
+    def _attach_base_refs(
+        self,
+        comments: list[CommentaryComment],
+        *,
+        commentary_daf_ref: str,
+        masechet: str,
+        daf: str,
+    ) -> list[str]:
+        """
+        Relie chaque commentaire au segment talmudique correspondant.
+
+        Un seul appel à l'API Links est effectué pour tout le daf.
+        Les renvois secondaires vers d'autres dapim ne sont pas choisis
+        comme rattachement principal.
+        """
+
+        warnings: list[str] = []
+
+        encoded_ref = urllib.parse.quote(
+            commentary_daf_ref,
+            safe="",
+        )
+
+        try:
+            payload = self.client.get_json(
+                f"/api/links/{encoded_ref}"
+            )
+        except CommentaryDownloadError as exc:
+            return [
+                "Impossible de récupérer les liens Sefaria pour "
+                f"{commentary_daf_ref}: {exc}"
+            ]
+
+        if not isinstance(payload, list):
+            return [
+                "La réponse Links de Sefaria n'est pas une liste "
+                f"pour {commentary_daf_ref}."
+            ]
+
+        links = [
+            item
+            for item in payload
+            if isinstance(item, dict)
+        ]
+
+        for comment in comments:
+            selected = self._select_primary_base_link(
+                links,
+                commentary_ref=comment.ref,
+                masechet=masechet,
+                daf=daf,
+            )
+
+            if selected is None:
+                warnings.append(
+                    "Aucun rattachement talmudique principal trouvé "
+                    f"pour {comment.ref}."
+                )
+                continue
+
+            base_ref, anchor_ref, link = selected
+
+            comment.base_ref = base_ref
+
+            comment.metadata[
+                "sefaria_anchor_ref"
+            ] = anchor_ref
+
+            comment.metadata[
+                "sefaria_base_ref"
+            ] = base_ref
+
+            link_type = str(
+                link.get("type", "")
+            ).strip()
+
+            category = str(
+                link.get("category", "")
+            ).strip()
+
+            if link_type:
+                comment.metadata[
+                    "sefaria_link_type"
+                ] = link_type
+
+            if category:
+                comment.metadata[
+                    "sefaria_link_category"
+                ] = category
+
+        return warnings
+
+    @classmethod
+    def _select_primary_base_link(
+        cls,
+        links: list[dict[str, Any]],
+        *,
+        commentary_ref: str,
+        masechet: str,
+        daf: str,
+    ) -> tuple[
+        str,
+        str,
+        dict[str, Any],
+    ] | None:
+        """
+        Sélectionne le lien principal commentaire -> Talmud.
+
+        Priorités :
+        1. l'ancre correspond exactement au commentaire ;
+        2. la cible appartient au même daf ;
+        3. le lien est de type commentary ;
+        4. la catégorie de la cible est Talmud.
+        """
+
+        commentary_ref = str(
+            commentary_ref
+        ).strip()
+
+        expected_base_prefix = (
+            f"{masechet.strip()} {daf.strip()}"
+        ).lower()
+
+        candidates: list[
+            tuple[
+                int,
+                str,
+                str,
+                dict[str, Any],
+            ]
+        ] = []
+
+        for link in links:
+            ref = str(
+                link.get("ref", "")
+            ).strip()
+
+            anchor_ref = str(
+                link.get("anchorRef", "")
+            ).strip()
+
+            source_ref = str(
+                link.get("sourceRef", "")
+            ).strip()
+
+            category = str(
+                link.get("category", "")
+            ).strip().lower()
+
+            link_type = str(
+                link.get("type", "")
+            ).strip().lower()
+
+            base_ref = ""
+            commentary_anchor = ""
+
+            anchor_matches = (
+                anchor_ref == commentary_ref
+                or anchor_ref.startswith(
+                    commentary_ref + ":"
+                )
+            )
+
+            ref_matches = (
+                ref == commentary_ref
+                or ref.startswith(
+                    commentary_ref + ":"
+                )
+            )
+
+            source_matches = (
+                source_ref == commentary_ref
+                or source_ref.startswith(
+                    commentary_ref + ":"
+                )
+            )
+
+            if anchor_matches:
+                base_ref = ref or source_ref
+                commentary_anchor = anchor_ref
+
+            elif ref_matches:
+                base_ref = anchor_ref or source_ref
+                commentary_anchor = ref
+
+            elif source_matches:
+                base_ref = anchor_ref or ref
+                commentary_anchor = source_ref
+
+            else:
+                continue
+
+            if not base_ref:
+                continue
+
+            # Le rattachement principal doit être un passage du Talmud.
+            is_talmud = (
+                category == "talmud"
+                or base_ref.lower().startswith(
+                    expected_base_prefix
+                )
+            )
+
+            if not is_talmud:
+                continue
+
+            score = 0
+
+            if category == "talmud":
+                score += 100
+
+            if (
+                base_ref.lower()
+                .startswith(expected_base_prefix)
+            ):
+                score += 80
+
+            if link_type == "commentary":
+                score += 40
+
+            if anchor_ref == commentary_ref:
+                score += 20
+
+            if anchor_ref.startswith(
+                commentary_ref + ":"
+            ):
+                score += 15
+
+            # Une référence précise est préférable à un daf entier.
+            if re.search(
+                r"\d+[ab]:\d+(?:-\d+)?$",
+                base_ref,
+                flags=re.IGNORECASE,
+            ):
+                score += 10
+
+            candidates.append(
+                (
+                    score,
+                    base_ref,
+                    commentary_anchor,
+                    link,
+                )
+            )
+
+        if not candidates:
+            return None
+
+        candidates.sort(
+            key=lambda item: item[0],
+            reverse=True,
+        )
+
+        _, base_ref, anchor_ref, link = (
+            candidates[0]
+        )
+
+        return base_ref, anchor_ref, link
 
     def _extract_version_segments(
         self,
