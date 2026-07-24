@@ -31,8 +31,8 @@ from .writer import CommentaryWriter
 SEFARIA_BASE_URL = "https://www.sefaria.org"
 
 DEFAULT_SEFARIA_TITLES: dict[str, str] = {
-    "rashi": "Rashi on {masechet}",
-    "tosafot": "Tosafot on {masechet}",
+    "rachi": "Rashi on {masechet}",
+    "tossefot": "Tosafot on {masechet}",
     "ritva": "Ritva on {masechet}",
     "rosh": "Rosh on {masechet}",
     "rashba": "Rashba on {masechet}",
@@ -509,8 +509,9 @@ class CommentaryDownloader:
     """
     Télécharge, normalise et sauvegarde les commentaires.
 
-    Les téléchargements sont enregistrés après chaque daf afin qu’une
-    interruption ne fasse pas perdre le travail déjà accompli.
+    Les téléchargements sont enregistrés atomiquement après chaque daf afin
+    qu’une interruption ne fasse pas perdre le travail déjà accompli.
+    Aucune copie .bak n’est créée.
     """
 
     def __init__(
@@ -534,7 +535,7 @@ class CommentaryDownloader:
         )
 
         self.writer = writer or CommentaryWriter(
-            create_backups=True
+            create_backups=False
         )
 
         self.loader = loader or CommentaryLoader(
@@ -650,7 +651,7 @@ class CommentaryDownloader:
         force: bool = False,
         keep_empty_dapim: bool = False,
         stop_on_error: bool = False,
-        backup: bool = True,
+        backup: bool = False,
         rebuild_index: bool = False,
     ) -> DownloadResult:
         """
@@ -745,7 +746,7 @@ class CommentaryDownloader:
                 self.writer.save_document(
                     document,
                     target_path,
-                    backup=backup,
+                    backup=False,
                 )
 
                 result.downloaded_dapim.append(
@@ -785,7 +786,7 @@ class CommentaryDownloader:
                         self.writer.save_document(
                             document,
                             target_path,
-                            backup=backup,
+                            backup=False,
                         )
 
                     continue
@@ -883,7 +884,7 @@ class CommentaryDownloader:
         source: str | Path,
         *,
         destination: str | Path | None = None,
-        backup: bool = True,
+        backup: bool = False,
         rebuild_index: bool = False,
     ) -> CommentaryDocument:
         """
@@ -924,7 +925,7 @@ class CommentaryDownloader:
         self.writer.save_document(
             document,
             target_path,
-            backup=backup,
+            backup=False,
         )
 
         if rebuild_index:
@@ -1173,16 +1174,16 @@ class CommentaryDownloader:
         Analyse une réponse Sefaria Texts v3 sans perdre les
         coordonnées canoniques des commentaires.
 
-        Exemple pour Tosafot :
+        Exemple pour Tossefot :
 
             text[0][0]
-                -> Tosafot ... 2a:1:1
+                -> Tossefot ... 2a:1:1
 
             text[6][0]
-                -> Tosafot ... 2a:7:1
+                -> Tossefot ... 2a:7:1
 
             text[9][1]
-                -> Tosafot ... 2a:10:2
+                -> Tossefot ... 2a:10:2
 
         L'ancienne version aplatissait ces listes et produisait
         artificiellement :1, :2, :3, etc.

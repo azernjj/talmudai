@@ -2,10 +2,8 @@ from __future__ import annotations
 
 import json
 import os
-import shutil
 import tempfile
 from dataclasses import dataclass
-from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -38,11 +36,7 @@ class CommentaryWriteResult:
         return {
             "path": str(self.path),
             "written": self.written,
-            "backup_path": (
-                str(self.backup_path)
-                if self.backup_path is not None
-                else None
-            ),
+            "backup_path": None,
             "bytes_written": self.bytes_written,
             "message": self.message,
         }
@@ -56,10 +50,15 @@ class CommentaryWriter:
 
     1. le nouveau JSON est écrit dans un fichier temporaire ;
     2. le fichier temporaire est validé ;
-    3. l’ancien fichier peut être sauvegardé ;
-    4. le fichier temporaire remplace le fichier final.
+    3. le fichier temporaire remplace le fichier final.
 
-    Cela évite de perdre un fichier JSON en cas d’interruption.
+    Cela évite de perdre un fichier JSON en cas d’interruption, sans
+    produire de copie .bak.
+
+    Les paramètres historiques `create_backups`, `backup_directory` et
+    `backup` sont conservés dans les signatures pour ne pas casser les
+    autres composants du moteur V7.2. Ils sont volontairement ignorés :
+    ce writer ne crée jamais de sauvegarde.
     """
 
     def __init__(
@@ -67,18 +66,13 @@ class CommentaryWriter:
         *,
         ensure_ascii: bool = False,
         indent: int = 2,
-        create_backups: bool = True,
+        create_backups: bool = False,
         backup_directory: str | Path | None = None,
     ) -> None:
         self.ensure_ascii = ensure_ascii
         self.indent = indent
-        self.create_backups = create_backups
-
-        self.backup_directory = (
-            Path(backup_directory)
-            if backup_directory is not None
-            else None
-        )
+        self.create_backups = False
+        self.backup_directory = None
 
     def save_document(
         self,
@@ -127,13 +121,6 @@ class CommentaryWriter:
             exist_ok=True,
         )
 
-        backup_enabled = (
-            self.create_backups
-            if backup is None
-            else backup
-        )
-
-        backup_path: Path | None = None
         temporary_path: Path | None = None
 
         try:
@@ -152,11 +139,6 @@ class CommentaryWriter:
 
             self._validate_json_file(temporary_path)
 
-            if backup_enabled and target_path.exists():
-                backup_path = self.create_backup(
-                    target_path
-                )
-
             os.replace(
                 temporary_path,
                 target_path,
@@ -167,7 +149,6 @@ class CommentaryWriter:
             return CommentaryWriteResult(
                 path=target_path,
                 written=True,
-                backup_path=backup_path,
                 bytes_written=target_path.stat().st_size,
                 message="Fichier enregistré avec succès.",
             )
@@ -182,55 +163,6 @@ class CommentaryWriter:
             raise CommentaryWriterError(
                 f"Impossible d’écrire {target_path}: {exc}"
             ) from exc
-
-    def create_backup(
-        self,
-        path: str | Path,
-    ) -> Path:
-        """
-        Crée une sauvegarde horodatée du fichier.
-        """
-
-        source_path = Path(path)
-
-        if not source_path.exists():
-            raise CommentaryWriterError(
-                f"Le fichier à sauvegarder n’existe pas : "
-                f"{source_path}"
-            )
-
-        timestamp = datetime.now().strftime(
-            "%Y%m%d-%H%M%S-%f"
-        )
-
-        if self.backup_directory is not None:
-            backup_directory = self.backup_directory
-            backup_directory.mkdir(
-                parents=True,
-                exist_ok=True,
-            )
-
-            backup_name = (
-                f"{source_path.stem}."
-                f"{timestamp}"
-                f"{source_path.suffix}.bak"
-            )
-
-            backup_path = (
-                backup_directory
-                / backup_name
-            )
-        else:
-            backup_path = source_path.with_name(
-                f"{source_path.name}.{timestamp}.bak"
-            )
-
-        shutil.copy2(
-            source_path,
-            backup_path,
-        )
-
-        return backup_path
 
     def update_french_translation(
         self,
@@ -687,7 +619,7 @@ def save_commentary_document(
     document: CommentaryDocument,
     path: str | Path | None = None,
     *,
-    backup: bool = True,
+    backup: bool = False,
 ) -> CommentaryWriteResult:
     """
     Fonction utilitaire pour sauvegarder un document.
@@ -711,7 +643,7 @@ def update_commentary_translation(
     comment_index: int,
     french_text: str,
     path: str | Path | None = None,
-    backup: bool = True,
+    backup: bool = False,
 ) -> CommentaryWriteResult:
     """
     Fonction utilitaire pour enregistrer une traduction française.
@@ -728,4 +660,4 @@ def update_commentary_translation(
         french_text=french_text,
         path=path,
         backup=backup,
-    )
+)

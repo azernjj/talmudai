@@ -267,7 +267,7 @@ def command_validate(
 
             report = validator.validate_document(
                 document,
-                source_path=path,
+                source=path,
             )
 
             errors = list(
@@ -619,7 +619,7 @@ def command_index(
     started_at = time.monotonic()
 
     indexer = CommentaryIndexer(
-        root_directory=root
+        root=root
     )
 
     index = indexer.build()
@@ -845,7 +845,7 @@ def command_download(
             force=args.force,
             keep_empty_dapim=args.keep_empty,
             stop_on_error=args.stop_on_error,
-            backup=not args.no_backup,
+            backup=False,
             rebuild_index=args.rebuild_index,
         )
     except Exception as exc:
@@ -968,7 +968,7 @@ def command_import_file(
         document = downloader.import_local_file(
             source,
             destination=destination,
-            backup=not args.no_backup,
+            backup=False,
             rebuild_index=args.rebuild_index,
         )
     except Exception as exc:
@@ -1068,7 +1068,7 @@ def command_checkpoint(
     args: argparse.Namespace,
 ) -> int:
     manager = CommentaryCheckpointManager(
-        root_directory=normalize_path(
+        root=normalize_path(
             args.checkpoint_root
         )
     )
@@ -1228,7 +1228,7 @@ def command_checkpoint_reset_processing(
     args: argparse.Namespace,
 ) -> int:
     manager = CommentaryCheckpointManager(
-        root_directory=normalize_path(
+        root=normalize_path(
             args.checkpoint_root
         )
     )
@@ -1262,7 +1262,7 @@ def command_checkpoint_delete(
     args: argparse.Namespace,
 ) -> int:
     manager = CommentaryCheckpointManager(
-        root_directory=normalize_path(
+        root=normalize_path(
             args.checkpoint_root
         )
     )
@@ -1681,14 +1681,6 @@ def create_parser() -> argparse.ArgumentParser:
     )
 
     download_parser.add_argument(
-        "--no-backup",
-        action="store_true",
-        help=(
-            "Ne pas créer de sauvegarde."
-        ),
-    )
-
-    download_parser.add_argument(
         "--rebuild-index",
         action="store_true",
         help=(
@@ -1724,14 +1716,6 @@ def create_parser() -> argparse.ArgumentParser:
         "--destination",
         help=(
             "Chemin de destination personnalisé."
-        ),
-    )
-
-    import_file_parser.add_argument(
-        "--no-backup",
-        action="store_true",
-        help=(
-            "Ne pas créer de sauvegarde."
         ),
     )
 
