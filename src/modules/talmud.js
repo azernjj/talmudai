@@ -494,8 +494,8 @@ export function renderDaf(daf) {
 
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => {
-      const rachi   = (data.rashi   || [])[index]
-      const tosafot = (data.tosafot || [])[index]
+      const rachi   = (data.rachi   || [])[index]
+      const tossefot = (data.tossefot || [])[index]
       const rosh    = (data.rosh    || [])[index]
       const ritva   = (data.ritva   || [])[index]
 
@@ -535,7 +535,7 @@ export function renderDaf(daf) {
         </div>
         ${state.currentLang === 'fr' ? renderTalmudStudy(seg) : ''}
         ${commentBlock(rachi,   'Rachi')}
-        ${commentBlock(tosafot, 'Tossefot')}
+        ${commentBlock(tossefot, 'Tossefot')}
         ${commentBlock(rosh,    'Roch')}
         ${commentBlock(ritva,   'Ritva')}
       </article>
@@ -655,13 +655,13 @@ export function initTalmudEvents() {
   document.querySelector('#rashiBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') { renderParashaRashi() }
     else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('rashi') }
+    else { renderCommentary('rachi') }
   })
 
   document.querySelector('#tosafotBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') { document.querySelector('#commentBox').innerHTML = 'Tossefot n\'existe pas sur les parachiot.' }
     else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('tosafot') }
+    else { renderCommentary('tossefot') }
   })
 
   document.querySelector('#frBtn')?.addEventListener('click', () => {
