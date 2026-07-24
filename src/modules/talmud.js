@@ -528,16 +528,34 @@ export function renderDaf(daf) {
           ${correctionButtonHtml('segments', index)}
         </div>
         <div class="he clickableHe">${seg.he || ''}</div>
-        <div class="translation">
-          ${state.currentLang === 'fr'
-            ? escapeHtml(cleanText(seg.fr || 'Traduction française en préparation.'))
-            : escapeHtml(cleanText(seg.en || 'English translation in preparation.'))}
-        </div>
-        ${state.currentLang === 'fr' ? renderTalmudStudy(seg) : ''}
-        ${commentBlock(rachi,   'Rachi')}
-        ${commentBlock(tossefot, 'Tossefot')}
-        ${commentBlock(rosh,    'Roch')}
-        ${commentBlock(ritva,   'Ritva')}
+        ${state.currentLang === 'fr' && hasContent(seg.fr_html)
+          ? `
+            <div class="talmudV72Study">
+              ${seg.fr_html}
+            </div>
+          `
+          : `
+            <div class="translation">
+              ${state.currentLang === 'fr'
+                ? escapeHtml(cleanText(seg.fr || 'Traduction française en préparation.'))
+                : escapeHtml(cleanText(seg.en || 'English translation in preparation.'))}
+            </div>
+          `}
+        ${state.currentLang === 'fr' && !hasContent(seg.fr_html)
+          ? renderTalmudStudy(seg)
+          : ''}
+        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
+          ? commentBlock(rachi, 'Rachi')
+          : ''}
+        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
+          ? commentBlock(tossefot, 'Tossefot')
+          : ''}
+        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
+          ? commentBlock(rosh, 'Roch')
+          : ''}
+        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
+          ? commentBlock(ritva, 'Ritva')
+          : ''}
       </article>
       `
     }).join('')}
