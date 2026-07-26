@@ -30,6 +30,21 @@ def clean_model_markdown(text: str) -> str:
     """
     cleaned = str(text or "").strip()
 
+    # Le modèle ajoute parfois des balises de mise en forme alors que
+    # le rendu HTML applique lui-même le style nécessaire.
+    cleaned = re.sub(
+        r"</?\\s*(?:b|strong)\\s*>",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+    cleaned = re.sub(
+        r"&lt;/?\\s*(?:b|strong)\\s*&gt;",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+
     if cleaned.startswith("**") and cleaned.endswith("**"):
         cleaned = cleaned[2:-2].strip()
 
