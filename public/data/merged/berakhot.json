@@ -18129,180 +18129,2064 @@
           "id": 2,
           "he": "אָמַר רַבָּהּ בַּר רַב שֵׁילָא: אִם כֵּן, לֵימָא קְרָא: ״וְיִטְהָר״, מַאי ״וְטָהֵר״ — טְהַר יוֹמָא, כִּדְאָמְרִי אִינָשֵׁי: ״אִיעֲרַב שִׁמְשָׁא וְאִדַּכִּי יוֹמָא״.",
           "en": "Rabba bar Rav Sheila said: If so, that: And it is purified, means that the priest goes and purifies himself, then let the verse say unambiguously: And he will become purified. Since the Torah does not employ that language, the conclusion is: What is the meaning of the expression: And it is purified? It means the day is pure, no residue of day remains, as people say colloquially: The sun has set and the day is purified.",
-          "fr": "Rabba bar Rav Sheila dit : si c'est ainsi, que le verset dise « et il se purifiera » [ve-yithar] ; pourquoi dit-il « et il fut pur » [ve-taher] ? — c'est que le jour s'est purifié, comme le disent les gens : « le soleil s'est couché et le jour s'est éclairci ».",
+          "fr": "Rabah bar Rav Sheila dit: si c’est le cas, alors on dira: et « et il sera pur » — purifiera l’homme du jour. Comme on l’a dit, des gens disent: « lorsque Shimon et Adachi seront abordés », peut-on dire « et il sera pur » — purifiera le jour.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Rabah bar Rav Sheila dit: si c’est le cas, alors on dira: et « et il sera pur » — purifiera l’homme du jour. Comme on l’a dit, des gens disent: « lorsque Shimon et Adachi seront abordés », peut-on dire « et il sera pur » — purifiera le jour.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Interprétation: si la locution « et il sera pur » se réfère à purifier le jour ou l’homme, et non à une pureté personnelle effective.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi"
+            ],
+            "confidence": 0.14,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:26:18.029561+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 2,
+            "segment_index": 1,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_03a99789c4ef0c1d006a667b77d1e48192970086223ad4c4d5",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1969,
+                "output": 166,
+                "total": 2135
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2135
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00016485000000000002,
+              "run_eur": 0.00016485000000000002,
+              "spent_eur": 0.007192000000000001,
+              "remaining_eur": 44.992808,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Rabah bar Rav Sheila dit: si c’est le cas, alors on dira: et « et il sera pur » — purifiera l’homme du jour. Comme on l’a dit, des gens disent: « lorsque Shimon et Adachi seront abordés », peut-on dire « et il sera pur » — purifiera le jour.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Interprétation: si la locution « et il sera pur » se réfère à purifier le jour ou l’homme, et non à une pureté personnelle effective.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "",
+                "source_used": false
+              },
+              "ritva": {
+                "available": true,
+                "summary": "",
+                "source_used": false
+              },
+              "rosh": {
+                "available": true,
+                "summary": "",
+                "source_used": false
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.14,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 3,
           "he": "בְּמַעֲרָבָא, הָא דְּרַבָּהּ בַּר רַב שֵׁילָא לָא שְׁמִיעַ לְהוּ, וּבְעוֹ לַהּ מִיבַּעְיָא: הַאי ״וּבָא הַשֶּׁמֶשׁ״ בִּיאַת שִׁמְשׁוֹ הוּא, וּמַאי ״וְטָהֵר״ — טְהַר יוֹמָא, אוֹ דִילְמָא בִּיאַת אוֹרוֹ הוּא, וּמַאי ״וְטָהֵר״ — טְהַר גַּבְרָא.",
           "en": "In the West, Eretz Yisrael, they did not hear this explanation given by Rabba bar Rav Sheila. They raised the dilemma: Does the expression: And the sun sets, refer to the actual setting of the sun, and does: And it is purified, mean the day clears away? Or perhaps it refers to the setting of its light at sunset, in which case what is the meaning of: And it is purified? It refers to the purification of the person. In other words, in Eretz Yisrael, they attempted to clarify the <i>halakha</i> based on the biblical passage, but were unable to do so.",
-          "fr": "En Occident [Eretz Israël], on n'avait pas entendu cette [réponse] de Rabba bar Rav Sheila, et ils soulevèrent la question comme une difficulté : ce « et le soleil se couchera » — s'agit-il de l'entrée de son soleil [le coucher], et que signifie « et il fut pur » — que le jour s'est purifié, ou peut-être s'agit-il de l'entrée de sa lumière [l'aurore], et que signifie « et il fut pur » — que l'homme est purifié ?",
+          "fr": "Dans l’après-midi, ici Raha bar Rav Sheila n’a pas entendu, et on lui demanda: « Et cette ‘Vea Hashemesh’ qui est arrivée avec le soleil lui-même, et qu’est-ce que “et purifié” — purifiait l’homme du jour, ou peut-être que c’est venu avec la lumière, puis qu’est-ce que « et purifié » — purifiait l’homme ?",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Dans l’après-midi, ici Raha bar Rav Sheila n’a pas entendu, et on lui demanda: « Et cette ‘Vea Hashemesh’ qui est arrivée avec le soleil lui-même, et qu’est-ce que “et purifié” — purifiait l’homme du jour, ou peut-être que c’est venu avec la lumière, puis qu’est-ce que « et purifié » — purifiait l’homme ?</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Biais d’interprétation sur l’expression ‘Vea Hashemesh’ et le moment de purification; explicite la possibilité que la purification soit liée à l’aube ou au lever du soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Clarifie que l’‘arrivée de son jour’ peut signifier la sortie du soleil, et questionne si la purification concerne l’aube ou l’aurore.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Souligne que la source reçoit une contradiction: le temps de la mitsva jusqu’à la fin de l’ashmura et le temps plus long selon d’autres opinions.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Expose que le moment de ‘l’écoute’ est jusqu’au milieu du crépuscule et les opinions diffèrent; liturgie et étude entourent la lecture de ‘Shma’.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.15,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:32.828747+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 3,
+            "segment_index": 2,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0ff587091cbc684f006a667bfe5e18819287ca279035871f24",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2116,
+                "output": 343,
+                "total": 2459
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2459
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00024300000000000002,
+              "run_eur": 0.00024300000000000002,
+              "spent_eur": 0.0074350000000000015,
+              "remaining_eur": 44.992565,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Dans l’après-midi, ici Raha bar Rav Sheila n’a pas entendu, et on lui demanda: « Et cette ‘Vea Hashemesh’ qui est arrivée avec le soleil lui-même, et qu’est-ce que “et purifié” — purifiait l’homme du jour, ou peut-être que c’est venu avec la lumière, puis qu’est-ce que « et purifié » — purifiait l’homme ?",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Biais d’interprétation sur l’expression ‘Vea Hashemesh’ et le moment de purification; explicite la possibilité que la purification soit liée à l’aube ou au lever du soleil.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Clarifie que l’‘arrivée de son jour’ peut signifier la sortie du soleil, et questionne si la purification concerne l’aube ou l’aurore.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Souligne que la source reçoit une contradiction: le temps de la mitsva jusqu’à la fin de l’ashmura et le temps plus long selon d’autres opinions.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Expose que le moment de ‘l’écoute’ est jusqu’au milieu du crépuscule et les opinions diffèrent; liturgie et étude entourent la lecture de ‘Shma’.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.15,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 4,
           "he": "וַהֲדַר פָּשְׁטוּ לַהּ מִבָּרַיְיתָא. מִדְּקָתָנֵי בְּבָרַיְיתָא, סִימָן לַדָּבָר — צֵאת הַכּוֹכָבִים. שְׁמַע מִינַּהּ — בִּיאַת שִׁמְשׁוֹ הוּא, וּמַאי ״וְטָהֵר״ — טְהַר יוֹמָא.",
           "en": "Ultimately they resolved this dilemma from a <i>baraita</i>. It was taught in a baraita that the time for the recitation of the evening <i>Shema</i> corresponds to the time when priests are permitted to eat of their <i>teruma</i>, a sign for which is the emergence of the stars. Therefore, derive from here that “and the sun sets” refers to the complete sunset, and the expression “and it is purified” means the day clears away, as the Sages in Babylonia concluded.",
-          "fr": "Et ensuite ils résolurent [la question] à partir d'une baraïta. Puisqu'il est enseigné dans une baraïta : le signe pour la chose est — la sortie des étoiles ; on en déduit que c'est l'entrée de son soleil [le coucher], et que signifie « et il fut pur » — que le jour s'est purifié.",
+          "fr": "Et ils ont étendu ce qui était dit dans la beraitā. D’après ce qui est enseigné dans la beraitā, le signe de la chose est la sortie des étoiles. Écoutez et prenez-note : la venue du soleil est celle qui la rend pure — et « et pur » signifierait que Yoma devient pur.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et ils ont étendu ce qui était dit dans la beraitā. D’après ce qui est enseigné dans la beraitā, le signe de la chose est la sortie des étoiles. Écoutez et prenez-note : la venue du soleil est celle qui la rend pure — et « et pur » signifierait que Yoma devient pur.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Biyaat orehu — le sens est que l’aube du huitième jour purifie l’homme en apportant ses offrandes; ainsi « et pur » est l’injonction qui suit: il faut que le soleil soit sorti.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interroge la supposition que ‘biyat orehu’ est la venue du soleil; discute le moment exact et propose que l’interprétation peut concerner le lever ou la sortie du soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">La fin de la phrase est une objection: la purification n’englobe pas le temps de la chiyuv; le texte de la mishna précise le moment jusqu’auquel on est tenu, et cela fait contraste avec les opinions des tannim.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Selon R. Eliezer et les sages, la veille du Shabbat du récit, et selon Rabban Gamliel jusqu’à l’apparition de l’aube; l’explication du pourquoi on récite l’“éme” de la tefillah au seder est liée à la présence des paroles de la Torah.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.15,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:36.185287+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 4,
+            "segment_index": 3,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0dc9f89aad8616b1006a667c014da481a1a9e2ad1efe07d170",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2084,
+                "output": 422,
+                "total": 2506
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2506
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.000273,
+              "run_eur": 0.0005160000000000001,
+              "spent_eur": 0.007708000000000001,
+              "remaining_eur": 44.992292,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et ils ont étendu ce qui était dit dans la beraitā. D’après ce qui est enseigné dans la beraitā, le signe de la chose est la sortie des étoiles. Écoutez et prenez-note : la venue du soleil est celle qui la rend pure — et « et pur » signifierait que Yoma devient pur.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Biyaat orehu — le sens est que l’aube du huitième jour purifie l’homme en apportant ses offrandes; ainsi « et pur » est l’injonction qui suit: il faut que le soleil soit sorti.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interroge la supposition que ‘biyat orehu’ est la venue du soleil; discute le moment exact et propose que l’interprétation peut concerner le lever ou la sortie du soleil.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "La fin de la phrase est une objection: la purification n’englobe pas le temps de la chiyuv; le texte de la mishna précise le moment jusqu’auquel on est tenu, et cela fait contraste avec les opinions des tannim.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Selon R. Eliezer et les sages, la veille du Shabbat du récit, et selon Rabban Gamliel jusqu’à l’apparition de l’aube; l’explication du pourquoi on récite l’“éme” de la tefillah au seder est liée à la présence des paroles de la Torah.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.15,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 5,
           "he": "אָמַר מָר מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִין לֶאֱכוֹל בִּתְרוּמָתָן. וּרְמִינְהוּ: מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בָּעֲרָבִין — מִשֶּׁהֶעָנִי נִכְנָס לֶאֱכוֹל פִּתּוֹ בְּמֶלַח, עַד שָׁעָה שֶׁעוֹמֵד לִיפָּטֵר מִתּוֹךְ סְעוּדָּתוֹ.",
           "en": "In our mishna, the Master said: The beginning of the time for the recitation of the evening <i>Shema</i> is: From the time when the priests enter to partake of their <i>teruma</i>. The Gemara raises a contradiction to this opinion from a <i>baraita</i> that states that the time for the recitation of the evening <i>Shema</i> is: From when a poor person enters to eat his bread with salt until he rises from his meal.",
-          "fr": "Le maître a dit : dès l'heure où les kohanim entrent pour manger de leur terouma. Et l'on soulève une contradiction : à partir de quand récite-t-on le Shema le soir ? Dès que le pauvre entre pour manger son pain avec du sel, jusqu'à l'heure où il se lève pour prendre congé au milieu de son repas.",
+          "fr": "Disons: depuis le moment où les prêtres entrent pour manger leur terouma, et jusqu’à la fin de l’heure première de l’asshmah, ce qui suit dans le texte de la mishna: et d’où vient que nous lisons « Écoute » au soir — peut-on l’entendre que lorsque le pauvre entre pour manger son pain avec du sel, jusqu’à l’heure où il doit sortir de son repas pour être purifié? La suite: et assurément il y a une dispute entre amnatitin. Le début: qui dit que c’est une dispute entre amnatitin? (signifie) que le texte affirme une différence entre les maîtres et les disciples?",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Disons: depuis le moment où les prêtres entrent pour manger leur terouma, et jusqu’à la fin de l’heure première de l’asshmah, ce qui suit dans le texte de la mishna: et d’où vient que nous lisons « Écoute » au soir — peut-on l’entendre que lorsque le pauvre entre pour manger son pain avec du sel, jusqu’à l’heure où il doit sortir de son repas pour être purifié? La suite: et assurément il y a une dispute entre amnatitin. Le début: qui dit que c’est une dispute entre amnatitin? (signifie) que le texte affirme une différence entre les maîtres et les disciples?</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Doute si &#x27;beyat oro&#x27; signifie que le soleil se lève au huitième jour et que l’homme se purifie en apportant ses offrandes; la phrase &#x27;vetaher&#x27; est une injonction et non un simple état. Le passage montre que la « sortie des étoiles » n’empêche pas le kaparat. Le rabbinim expliquent que le pauvre sans lampe ne peut manger, et la fin affirme que la précision n’est pas universelle.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interprète que &#x27;biyat oro&#x27; est la mise en contact avec la lumière du jour; questionne le lien avec la &#x27;baït shamu&#x27; et propose que cela se réfère au lever du soleil ou à la sortie du soleil; discute l’usage du temps et la manière dont l’assertion est formulée dans la source mentionnée.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">La fin est en désaccord: l’obligation ne dure pas au-delà de l’heure d’assh&#x27;mora; l’énoncé précise la durée selon les opinions, et même si l’apparence de la sortie des étoiles est une preuve pour le kashya, elle n’est pas considérée comme une preuve claire parce que la récitation de la bénédiction n’est pas liée au soir mais au temps de sommeil et de repos.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">La lecture de Shema le soir est liturgique et ne décharge pas de l’obligation avant que la communauté n’ait accompli l’office; la raison est que la lecture est utilisée pour prière et pour soutenir l’étude des paroles divines.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.14,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:43.123878+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 5,
+            "segment_index": 4,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_02e98466c00d6c9e006a667c05fe84819c9b36ef374e28939d",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2040,
+                "output": 591,
+                "total": 2631
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2631
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.0003384,
+              "run_eur": 0.0008544000000000001,
+              "spent_eur": 0.008046400000000002,
+              "remaining_eur": 44.9919536,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Disons: depuis le moment où les prêtres entrent pour manger leur terouma, et jusqu’à la fin de l’heure première de l’asshmah, ce qui suit dans le texte de la mishna: et d’où vient que nous lisons « Écoute » au soir — peut-on l’entendre que lorsque le pauvre entre pour manger son pain avec du sel, jusqu’à l’heure où il doit sortir de son repas pour être purifié? La suite: et assurément il y a une dispute entre amnatitin. Le début: qui dit que c’est une dispute entre amnatitin? (signifie) que le texte affirme une différence entre les maîtres et les disciples?",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Doute si 'beyat oro' signifie que le soleil se lève au huitième jour et que l’homme se purifie en apportant ses offrandes; la phrase 'vetaher' est une injonction et non un simple état. Le passage montre que la « sortie des étoiles » n’empêche pas le kaparat. Le rabbinim expliquent que le pauvre sans lampe ne peut manger, et la fin affirme que la précision n’est pas universelle.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interprète que 'biyat oro' est la mise en contact avec la lumière du jour; questionne le lien avec la 'baït shamu' et propose que cela se réfère au lever du soleil ou à la sortie du soleil; discute l’usage du temps et la manière dont l’assertion est formulée dans la source mentionnée.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "La fin est en désaccord: l’obligation ne dure pas au-delà de l’heure d’assh'mora; l’énoncé précise la durée selon les opinions, et même si l’apparence de la sortie des étoiles est une preuve pour le kashya, elle n’est pas considérée comme une preuve claire parce que la récitation de la bénédiction n’est pas liée au soir mais au temps de sommeil et de repos.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "La lecture de Shema le soir est liturgique et ne décharge pas de l’obligation avant que la communauté n’ait accompli l’office; la raison est que la lecture est utilisée pour prière et pour soutenir l’étude des paroles divines.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.14,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 6,
           "he": "סֵיפָא, וַדַּאי פְּלִיגָא אַמַּתְנִיתִין. רֵישָׁא, מִי לֵימָא פְּלִיגִי אַמַּתְנִיתִין?",
           "en": "The Gemara begins its analysis by clarifying whether there is an actual contradiction here, or whether different expressions are being employed to describe the same time. The latter clause of the <i>baraita</i>, which established that the time for the recitation of the evening <i>Shema</i> ends when a poor person rises from his meal, certainly disagrees with our mishna. Since the poor person clearly does not continue eating until the end of the first watch, this <i>baraita</i> certainly contradicts our mishna. With regard to the first clause of the <i>baraita</i>, however, which establishes the beginning of the time for the recitation of the evening <i>Shema</i>, shall we say that it disagrees with our mishna?",
-          "fr": "La clausule finale [de cette baraïta] est assurément en contradiction avec notre Mishna. Quant à la première clause, peut-on dire qu'elle est en contradiction avec notre Mishna ?",
+          "fr": "Sefa, et certes c’est une dispute entre les traditions. Le premier, que l’on dise: « qui parle ? » n’est pas précisé. Qui peut dire que les Amora’im se disputent? Réponse: Non, un pauvre et un Cohen d’un seul shiur est nécessaire.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Sefa, et certes c’est une dispute entre les traditions. Le premier, que l’on dise: « qui parle ? » n’est pas précisé. Qui peut dire que les Amora’im se disputent? Réponse: Non, un pauvre et un Cohen d’un seul shiur est nécessaire.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Le passage discute de l’entrée des prêtres et du moment où l’on peut manger la terouma; il précise que la kvéra du temps ne dépend pas de réparation, et que l’« ami » sans lumière n’est pas affecté.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Examine la définition de “ba’iyat oro” et la transition vers l’heure du coucher du soleil; débat sur la référence exacte à l’aube et au coucher.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Clarifie que la fin du temps d’obligation est jusqu’à l’heure où l’on s’apprête à quitter la table, et discute des preuves reliant le temps du coucher au temps de réciter le Kriyat Shema.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Indique les limites de la récitation du Shema entre le soir et le début de la première ayn hora, et justifie pourquoi la récitation au synagogue ne constitue pas l’accomplissement seul.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.22,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:47.862300+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 6,
+            "segment_index": 5,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_085be449dc001a00006a667c0d87c481a286cae6965b23d41d",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1880,
+                "output": 339,
+                "total": 2219
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2219
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.0002296,
+              "run_eur": 0.0010840000000000001,
+              "spent_eur": 0.008276000000000002,
+              "remaining_eur": 44.991724,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Sefa, et certes c’est une dispute entre les traditions. Le premier, que l’on dise: « qui parle ? » n’est pas précisé. Qui peut dire que les Amora’im se disputent? Réponse: Non, un pauvre et un Cohen d’un seul shiur est nécessaire.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Le passage discute de l’entrée des prêtres et du moment où l’on peut manger la terouma; il précise que la kvéra du temps ne dépend pas de réparation, et que l’« ami » sans lumière n’est pas affecté.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Examine la définition de “ba’iyat oro” et la transition vers l’heure du coucher du soleil; débat sur la référence exacte à l’aube et au coucher.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Clarifie que la fin du temps d’obligation est jusqu’à l’heure où l’on s’apprête à quitter la table, et discute des preuves reliant le temps du coucher au temps de réciter le Kriyat Shema.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Indique les limites de la récitation du Shema entre le soir et le début de la première ayn hora, et justifie pourquoi la récitation au synagogue ne constitue pas l’accomplissement seul.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.22,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 7,
           "he": "לָא, עָנִי וְכֹהֵן חַד שִׁיעוּרָא הוּא.",
           "en": "The Gemara immediately rejects this idea: No, the time when the poor person eats and the time when the priest is purified and permitted to partake of his <i>teruma</i> are one and the same time.",
-          "fr": "Non, le pauvre et le kohen constituent une seule et même mesure.",
+          "fr": "Non, pauvre et prêtre, un seul temps est exigé.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Non, pauvre et prêtre, un seul temps est exigé.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">La fin précise que le temps du lecteur de la misva est limité, et que l’argument de la souche historique s’applique à l’intervalle jusqu’a la fin de l’“ashmora rishona”.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interprétation technique sur ce que signifie “biyat oro” et sur quel moment exact l’usage du jour commence et se termine pour le compte des temps de bénédiction.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Clarifie que la fin du temps prescrit n’est pas la même que l’heure exacte du coucher du soleil, et que la règle dépend du moment du départ des ténèbres par rapport au décompte.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Indique que la lecture de la Shema le soir a un cadre temporel allant des prêtres entrant pour manger jusqu’à la fin de l’ashmora première, et discute l’usage liturgique.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.13,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:51.659068+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 7,
+            "segment_index": 6,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_06cd615c96d2a2b7006a667c11721081a083ec420fd82b6b0b",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1875,
+                "output": 313,
+                "total": 2188
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2188
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00021894999999999998,
+              "run_eur": 0.0013029500000000002,
+              "spent_eur": 0.008494950000000003,
+              "remaining_eur": 44.99150505,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Non, pauvre et prêtre, un seul temps est exigé.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "La fin précise que le temps du lecteur de la misva est limité, et que l’argument de la souche historique s’applique à l’intervalle jusqu’a la fin de l’“ashmora rishona”.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interprétation technique sur ce que signifie “biyat oro” et sur quel moment exact l’usage du jour commence et se termine pour le compte des temps de bénédiction.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Clarifie que la fin du temps prescrit n’est pas la même que l’heure exacte du coucher du soleil, et que la règle dépend du moment du départ des ténèbres par rapport au décompte.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Indique que la lecture de la Shema le soir a un cadre temporel allant des prêtres entrant pour manger jusqu’à la fin de l’ashmora première, et discute l’usage liturgique.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.13,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 8,
           "he": "וּרְמִינְהוּ: מֵאֵימָתַי מַתְחִילִין לִקְרוֹת קְרִיאַת שְׁמַע בְּעַרְבִית — מִשָּׁעָה שֶׁבְּנֵי אָדָם נִכְנָסִין לֶאֱכוֹל פִּתָּן בְּעַרְבֵי שַׁבָּתוֹת, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: מִשָּׁעָה שֶׁהַכֹּהֲנִים זַכָּאִין לֶאֱכוֹל בִּתְרוּמָתָן. סִימָן לַדָּבָר: צֵאת הַכּוֹכָבִים. וְאַף עַל פִּי שֶׁאֵין רְאָיָה לַדָּבָר, זֵכֶר לַדָּבָר, שֶׁנֶּאֱמַר: ״וַאֲנַחְנוּ עֹשִׂים בַּמְּלָאכָה וְחֶצְיָם מַחֲזִיקִים בָּרְמָחִים מֵעֲלוֹת הַשַּׁחַר עַד צֵאת הַכּוֹכָבִים״, וְאוֹמֵר: ״וְהָיוּ לָנוּ הַלַּיְלָה מִשְׁמָר וְהַיּוֹם מְלָאכָה״.",
           "en": "The Gemara raises a contradiction from the <i>Tosefta</i>: From when does one begin to recite <i>Shema</i> in the evening? From the time when people enter to eat their bread on Shabbat eve. This is the statement of Rabbi Meir. As they do in our mishna, the Rabbis say: From the time when the priests are eligible to partake of their <i>teruma</i>, a sign for which is the emergence of the stars. And although there is no explicit proof that the emergence of the stars is when one may begin to recite the evening <i>Shema</i>, there is an allusion in the book of Nehemiah to the fact that the emergence of the stars is generally considered the beginning of the night. As it is stated with regard to the building of the walls of Jerusalem: “And we perform the work, and half of them grasp their spears from dawn until the emergence of the stars” (Nehemiah 4:15). And it says: “That in the night they may be a guard to us, and may labor in the day” (Nehemiah 4:16). From here we ascertain that the day ends with the emergence of the stars.",
-          "fr": "Et l'on soulève une contradiction : à partir de quand commence-t-on à réciter le Shema du soir ? Dès l'heure où les gens entrent pour manger leur pain la veille des shabbatot, telles sont les paroles de Rabbi Meir. Et les Sages disent : dès l'heure où les kohanim ont droit de manger de leur terouma. Le signe pour la chose : la sortie des étoiles. Et bien qu'il n'y ait pas de preuve à la chose, il y a un rappel pour la chose, comme il est dit : « Et nous faisions le travail, et la moitié d'entre eux tenait des lances, depuis le lever de l'aurore jusqu'à la sortie des étoiles », et il est dit : « Et la nuit sera pour nous une garde et le jour un travail ».",
+          "fr": "Et ils demandent: à partir de quand commence-t-on à lire Shema le soir? — à partir du moment où l’homme entre pour manger le pain pendant le Shabbat, ces paroles de Rabbi Meir. Et les Sages disent: à partir du moment où les prêtres ont le droit de manger de leurs dons. Un signe pour cela est la sortie des étoiles. Et même s’il n’y a pas de preuve pour cela, c’est un souvenir de la chose, comme il est dit: “Et nous faisons l’ouvrage, et la moitié des piques tiennent les charognes qui montent du coucher du soleil jusqu’à la sortie des étoiles.” et il est dit: “Et nous aurons pour nous la nuit comme garde et le jour comme travail.”",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et ils demandent: à partir de quand commence-t-on à lire Shema le soir? — à partir du moment où l’homme entre pour manger le pain pendant le Shabbat, ces paroles de Rabbi Meir. Et les Sages disent: à partir du moment où les prêtres ont le droit de manger de leurs dons. Un signe pour cela est la sortie des étoiles. Et même s’il n’y a pas de preuve pour cela, c’est un souvenir de la chose, comme il est dit: “Et nous faisons l’ouvrage, et la moitié des piques tiennent les charognes qui montent du coucher du soleil jusqu’à la sortie des étoiles.” et il est dit: “Et nous aurons pour nous la nuit comme garde et le jour comme travail.”</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Biya’ot Or: le début du septième jour et la purification de l’homme en apportant ses offrandes; le point de départ pour le châlit est lié à la sortie des étoiles.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interroge s’il s’agit de la venue du jour ou de la sortie du soleil; examine le sens des verbes et des expressions liées à l’apparition du soleil et à l’exode.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Le passage à la fin contredit: le temps de l’obligation n’est pas ce qui suit la fin de la fête, mais jusqu’au moment où l’on serait délivré; la lumière et la nuit jouent un rôle terminologique.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">La continuation de la lecture de Shema en soirée commence lorsque les prêtres entrent pour manger des dons; et la raison d’en faire la lecture à la synagogue est répétée dans le Talmud de Jérusalem.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.18,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:28:56.681564+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 8,
+            "segment_index": 7,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_080588a77673268b006a667c154c0c819c91ad21eae63ef6ae",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2137,
+                "output": 464,
+                "total": 2601
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2601
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00029245000000000003,
+              "run_eur": 0.0015954000000000003,
+              "spent_eur": 0.008787400000000003,
+              "remaining_eur": 44.9912126,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et ils demandent: à partir de quand commence-t-on à lire Shema le soir? — à partir du moment où l’homme entre pour manger le pain pendant le Shabbat, ces paroles de Rabbi Meir. Et les Sages disent: à partir du moment où les prêtres ont le droit de manger de leurs dons. Un signe pour cela est la sortie des étoiles. Et même s’il n’y a pas de preuve pour cela, c’est un souvenir de la chose, comme il est dit: “Et nous faisons l’ouvrage, et la moitié des piques tiennent les charognes qui montent du coucher du soleil jusqu’à la sortie des étoiles.” et il est dit: “Et nous aurons pour nous la nuit comme garde et le jour comme travail.”",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Biya’ot Or: le début du septième jour et la purification de l’homme en apportant ses offrandes; le point de départ pour le châlit est lié à la sortie des étoiles.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interroge s’il s’agit de la venue du jour ou de la sortie du soleil; examine le sens des verbes et des expressions liées à l’apparition du soleil et à l’exode.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Le passage à la fin contredit: le temps de l’obligation n’est pas ce qui suit la fin de la fête, mais jusqu’au moment où l’on serait délivré; la lumière et la nuit jouent un rôle terminologique.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "La continuation de la lecture de Shema en soirée commence lorsque les prêtres entrent pour manger des dons; et la raison d’en faire la lecture à la synagogue est répétée dans le Talmud de Jérusalem.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.18,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 9,
           "he": "מַאי ״וְאוֹמֵר״?",
           "en": "Even before analyzing these sources, the Gemara seeks to clarify a confusing element in the <i>Tosefta</i>. In their biblical proof, the Rabbis do not suffice with one verse, but rather they say: And it says…and they cite an additional verse. What is added by this use of: And it says? It seems superfluous, as the entire proof appears in the first verse.",
-          "fr": "Que [vient ajouter] le « et il est dit » ?",
+          "fr": "Qu’est-ce que signifie « et dit-il » ?",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Qu’est-ce que signifie « et dit-il » ?</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que le terme « et dit-il » introduit une question sur le moment où l’on commence à réciter le Shema le soir, et clarifie l’interprétation du texte et des opinions dans le passage sur le temps du son du cor et la fin de l’“ashmoura”.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot développe des objections sur l’explication « l’entrée de la lumière du jour » et discute si l’exemple concerne le coucher du soleil et le moment où l’homme devient pur en apportant ses offrandes, en analysant les cas où le coucher du soleil est pris comme point de repère.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Le Ritva note que la fin de la durée responsable du méfarec est discutée: elle dure jusqu’à l’heure où l’on se retire de la table, et que certains débats montrent que l’action pouvait être effectuée même après le jour terminé. Il propose une analyse des résultats selon les opinions.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Roch présente les opinions sur le moment d’écouter le Shema en soirée et précise que le but de lire le Shema à la synagogue est pour prêter serment dans la prière, et non seulement pour l’accomplissement du devoir.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.15,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:01.258322+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 9,
+            "segment_index": 8,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_02006be079d4d6dc006a667c1a2b6c8192b3ad40c9fabb365a",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1933,
+                "output": 408,
+                "total": 2341
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2341
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00025985,
+              "run_eur": 0.0018552500000000003,
+              "spent_eur": 0.009047250000000003,
+              "remaining_eur": 44.99095275,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Qu’est-ce que signifie « et dit-il » ?",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Rachi explique que le terme « et dit-il » introduit une question sur le moment où l’on commence à réciter le Shema le soir, et clarifie l’interprétation du texte et des opinions dans le passage sur le temps du son du cor et la fin de l’“ashmoura”.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Tossefot développe des objections sur l’explication « l’entrée de la lumière du jour » et discute si l’exemple concerne le coucher du soleil et le moment où l’homme devient pur en apportant ses offrandes, en analysant les cas où le coucher du soleil est pris comme point de repère.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Le Ritva note que la fin de la durée responsable du méfarec est discutée: elle dure jusqu’à l’heure où l’on se retire de la table, et que certains débats montrent que l’action pouvait être effectuée même après le jour terminé. Il propose une analyse des résultats selon les opinions.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Roch présente les opinions sur le moment d’écouter le Shema en soirée et précise que le but de lire le Shema à la synagogue est pour prêter serment dans la prière, et non seulement pour l’accomplissement du devoir.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.15,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 10,
           "he": "וְכִי תֵּימָא מִכִּי עָרְבָא שִׁמְשָׁא, לֵילְיָא הוּא, וְאִינְהוּ דְּמַחְשְׁכִי וּמַקְדְּמִי, תָּא שְׁמַע ״וְהָיוּ לָנוּ הַלַּיְלָה מִשְׁמָר וְהַיּוֹם מְלָאכָה״.",
           "en": "The Gemara answers that the first verse was not sufficient. As, if you say that night begins when the sun sets, but the workers stayed late and arrived early; i.e., due to the importance of their task they worked even into the night. In anticipation of this objection, the second verse was cited to teach: Come and hear, as it is stated: “That in the night they may be a guard to us, and may labor in the day,” the time between dawn and the emergence of the stars is explicitly referred to as “day,” proving that night begins with the emergence of the stars.",
-          "fr": "Si tu veux dire que dès que le soleil se couche c'est la nuit, et que [les travailleurs de Néhémie] avançaient [leur garde] et anticipaient, viens entendre : « Et la nuit sera pour nous une garde et le jour un travail » [prouvant que la nuit commence bien à la sortie des étoiles].",
+          "fr": "Et quand tu diras: « Peut‑on dire que lorsque vint le début du soir, le soleil est encore à peine couché, et qu’ils se trouvaient dans l’obscurité et en avance sur l’obscurité, écoute: « Le soir pour nous est une garde et le jour une activité. »",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et quand tu diras: « Peut‑on dire que lorsque vint le début du soir, le soleil est encore à peine couché, et qu’ils se trouvaient dans l’obscurité et en avance sur l’obscurité, écoute: « Le soir pour nous est une garde et le jour une activité. »</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Explanation de la srcure: la phrase montre que le temps de la prière et les règles de l’aw eat s’appliquent selon le moment du soleil et des étoiles.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Discussion sur le moment exact de la mise en action et sur l’interprétation de ‘bining shemesh’ comme lever/descente du soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Interprétation du termine « et il est » relatif au temps et à la pratique du travail nocturne après l’apparition des étoiles.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Adresse la limite entre la journée et la nuit pour l’obligation de réciter la prière et les activités interdites.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.22,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:04.218330+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 10,
+            "segment_index": 9,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0acca304c25e0669006a667c1e38c4819298a5d7a70fa9238b",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1908,
+                "output": 306,
+                "total": 2214
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2214
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.0002178,
+              "run_eur": 0.0020730500000000003,
+              "spent_eur": 0.009265050000000004,
+              "remaining_eur": 44.99073495,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et quand tu diras: « Peut‑on dire que lorsque vint le début du soir, le soleil est encore à peine couché, et qu’ils se trouvaient dans l’obscurité et en avance sur l’obscurité, écoute: « Le soir pour nous est une garde et le jour une activité. »",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Explanation de la srcure: la phrase montre que le temps de la prière et les règles de l’aw eat s’appliquent selon le moment du soleil et des étoiles.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Discussion sur le moment exact de la mise en action et sur l’interprétation de ‘bining shemesh’ comme lever/descente du soleil.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Interprétation du termine « et il est » relatif au temps et à la pratique du travail nocturne après l’apparition des étoiles.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Adresse la limite entre la journée et la nuit pour l’obligation de réciter la prière et les activités interdites.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.22,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 11,
           "he": "קָא סָלְקָא דַּעְתָּךְ דְּעָנִי וּבְנֵי אָדָם חַד שִׁעוּרָא הוּא. וְאִי אָמְרַתְּ עָנִי וְכֹהֵן חַד שִׁעוּרָא הוּא, חֲכָמִים הַיְינוּ רַבִּי מֵאִיר?",
           "en": "In analyzing the three opinions regarding the beginning of the period for the recitation of the evening <i>Shema</i>, the Gemara begins with the supposition: It might enter your mind to say that the time when the poor person typically eats his meal and the time when ordinary people eat their Shabbat evening meal are one and the same time, since in both cases those eating would seek to begin their meals as early as possible, as, for different reasons, they are unable to kindle additional lights to illuminate their meal. And, if you say that the time of the poor person’s meal and the time when the priest is purified and permitted to partake of his <i>teruma</i> are one and the same time, then the opinion of the Rabbis is identical to that of Rabbi Meir. What is their disagreement?",
-          "fr": "On pourrait penser que le pauvre et les gens [des veilles de shabbat] constituent une seule et même mesure ; et si tu dis que le pauvre et le kohen constituent une seule et même mesure, alors les Sages seraient identiques à Rabbi Meir ?",
+          "fr": "On peut dire que c’est l’unique temps à prendre en compte pour le décompte: l’homme et l’humanité n’ont qu’un seul chiffre entre eux. Et si tu dis qu’il s’agit d’un humble Abs, et qu’un prêtre possède un seul chiffre, sont ici les sages Rabbi Meir? Non, écoutez d’où: humble suffit et pris en charge par le prêtre, seul chiffre. Non, humble et prêtre forment un seul chiffre, et humble et fils de l’homme ne forment pas un seul chiffre.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">On peut dire que c’est l’unique temps à prendre en compte pour le décompte: l’homme et l’humanité n’ont qu’un seul chiffre entre eux. Et si tu dis qu’il s’agit d’un humble Abs, et qu’un prêtre possède un seul chiffre, sont ici les sages Rabbi Meir? Non, écoutez d’où: humble suffit et pris en charge par le prêtre, seul chiffre. Non, humble et prêtre forment un seul chiffre, et humble et fils de l’homme ne forment pas un seul chiffre.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explicite que l’expression suggère une unité ou une égalité entre les parties impliquées, et clarifie le rapport entre l’homme, le prêtre et les sages.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot discute la traduction et l’étendue du ‘biyat or’ et la manière dont le moment du lever du soleil influence le calcul du temps.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Le Ritva précise que la fin de l’obligation ne dépasse pas l’heure où l’on se libère, et que les interprétations divergent sur le moment exact du coucher du soleil et l’éclairage des étoiles.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Rosh rappelle les limites du temps pour l’audition du שמע en soirée et l’importance de lire aussi dans le cadre du chelomo (délivrance) et de la prière.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.11,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:09.544826+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 11,
+            "segment_index": 10,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0d9838560e206185006a667c231d7c819d93e89f9b25ff0510",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2026,
+                "output": 401,
+                "total": 2427
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2427
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.0002617,
+              "run_eur": 0.0023347500000000005,
+              "spent_eur": 0.009526750000000004,
+              "remaining_eur": 44.99047325,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "On peut dire que c’est l’unique temps à prendre en compte pour le décompte: l’homme et l’humanité n’ont qu’un seul chiffre entre eux. Et si tu dis qu’il s’agit d’un humble Abs, et qu’un prêtre possède un seul chiffre, sont ici les sages Rabbi Meir? Non, écoutez d’où: humble suffit et pris en charge par le prêtre, seul chiffre. Non, humble et prêtre forment un seul chiffre, et humble et fils de l’homme ne forment pas un seul chiffre.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Rachi explicite que l’expression suggère une unité ou une égalité entre les parties impliquées, et clarifie le rapport entre l’homme, le prêtre et les sages.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Tossefot discute la traduction et l’étendue du ‘biyat or’ et la manière dont le moment du lever du soleil influence le calcul du temps.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Le Ritva précise que la fin de l’obligation ne dépasse pas l’heure où l’on se libère, et que les interprétations divergent sur le moment exact du coucher du soleil et l’éclairage des étoiles.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Rosh rappelle les limites du temps pour l’audition du שמע en soirée et l’importance de lire aussi dans le cadre du chelomo (délivrance) et de la prière.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.11,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 12,
           "he": "אֶלָּא, שְׁמַע מִינַּהּ עָנִי שִׁעוּרָא לְחוּד וְכֹהֵן שִׁעוּרָא לְחוּד. לָא, עָנִי וְכֹהֵן חַד שִׁעוּרָא הוּא, וְעָנִי וּבְנֵי אָדָם לָאו חַד שִׁעוּרָא הוּא.",
           "en": "Rather, what we said previously must be rejected, and instead learn from this that there is a separate time for the poor person and a separate time for the priest. However, this conclusion is based on the assumption that the time of the poor person and the time of people are the same. That too can be rejected with the assertion that, no, the time of the poor person and the priest are one and the same time, and the time of the poor person and people are not the same. Accordingly, the opinion expressed by the <i>tanna</i> in our <i>baraita</i> is identical to that of the other <i>tanna’im</i>, and only Rabbi Meir disagrees with them.",
-          "fr": "Mais non, on en déduit que la mesure du pauvre est à part et la mesure du kohen est à part. [Objection :] Non, le pauvre et le kohen constituent une seule et même mesure, mais le pauvre et les gens [des veilles de shabbat] ne constituent pas une seule et même mesure.",
+          "fr": "Mais écoutez: une mendicité est une unité; une seule mesure pour le pauvre et pour l’homme est une. Si tu dis que le pauvre et le prêtre ne forment qu’une seule mesure, est-ce que la sagesse ne serait pas Rabbi Meir? Non, écoutez: un pauvre a une seule mesure pour lui-même et un prêtre a une seule mesure pour lui-même. Non, le pauvre et le prêtre forment une seule mesure, et le pauvre et les enfants d’Adam ne forment pas une seule mesure.\nEt le pauvre et le prêtre ont une seule mesure ? Et on le met en doute: À partir de quand commence-t-on à lire la bénédiction du soir (Shema al Hamittah) — à partir de l’heure où la lune est bénie pour le premier jour du Shabbat? — les paroles de Rabbi…",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Mais écoutez: une mendicité est une unité; une seule mesure pour le pauvre et pour l’homme est une. Si tu dis que le pauvre et le prêtre ne forment qu’une seule mesure, est-ce que la sagesse ne serait pas Rabbi Meir? Non, écoutez: un pauvre a une seule mesure pour lui-même et un prêtre a une seule mesure pour lui-même. Non, le pauvre et le prêtre forment une seule mesure, et le pauvre et les enfants d’Adam ne forment pas une seule mesure.\nEt le pauvre et le prêtre ont une seule mesure ? Et on le met en doute: À partir de quand commence-t-on à lire la bénédiction du soir (Shema al Hamittah) — à partir de l’heure où la lune est bénie pour le premier jour du Shabbat? — les paroles de Rabbi…</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que l’opposition concerne la durée de la obligation entre le pauvre et le prêtre, et clarifie que l’exemple mythique illustre une démarcation de temps et de statut, en lien avec le moment où l’on peut lire Shema et où il faut sortir ses bénédictions.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot remet en question l’identification de l’entrée du jour et discute si l’expression ‘vaya’ doit être comprise comme lever ou coucher du soleil, et explore les implications pour la citation du verset et la transition vers la berakhah.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Ritva souligne que la clause finale contredit les opinions qui limitent le temps, et que la source de la doute vient du calcul du temps de la mitzvah par rapport au coucher du soleil et à la fin de l’assmoura.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Rosh indique les temps de keri’a (Lire Shema) et explique que l’on ne répond pas à l’obligation par la liturgie de la maison, mais que l’objectif est de se placer dans l’étude et prière selon le texte.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.15,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:15.044343+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 12,
+            "segment_index": 11,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0a82c33e68557a35006a667c277d0c819da3249d51eb04d6c0",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2035,
+                "output": 537,
+                "total": 2572
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2572
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00031655,
+              "run_eur": 0.0026513000000000005,
+              "spent_eur": 0.009843300000000004,
+              "remaining_eur": 44.9901567,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Mais écoutez: une mendicité est une unité; une seule mesure pour le pauvre et pour l’homme est une. Si tu dis que le pauvre et le prêtre ne forment qu’une seule mesure, est-ce que la sagesse ne serait pas Rabbi Meir? Non, écoutez: un pauvre a une seule mesure pour lui-même et un prêtre a une seule mesure pour lui-même. Non, le pauvre et le prêtre forment une seule mesure, et le pauvre et les enfants d’Adam ne forment pas une seule mesure.\nEt le pauvre et le prêtre ont une seule mesure ? Et on le met en doute: À partir de quand commence-t-on à lire la bénédiction du soir (Shema al Hamittah) — à partir de l’heure où la lune est bénie pour le premier jour du Shabbat? — les paroles de Rabbi…",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Rachi explique que l’opposition concerne la durée de la obligation entre le pauvre et le prêtre, et clarifie que l’exemple mythique illustre une démarcation de temps et de statut, en lien avec le moment où l’on peut lire Shema et où il faut sortir ses bénédictions.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Tossefot remet en question l’identification de l’entrée du jour et discute si l’expression ‘vaya’ doit être comprise comme lever ou coucher du soleil, et explore les implications pour la citation du verset et la transition vers la berakhah.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Ritva souligne que la clause finale contredit les opinions qui limitent le temps, et que la source de la doute vient du calcul du temps de la mitzvah par rapport au coucher du soleil et à la fin de l’assmoura.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Rosh indique les temps de keri’a (Lire Shema) et explique que l’on ne répond pas à l’obligation par la liturgie de la maison, mais que l’objectif est de se placer dans l’étude et prière selon le texte.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.15,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 13,
           "he": "וְעָנִי וְכֹהֵן חַד שִׁעוּרָא הוּא? וּרְמִינְהוּ: מֵאֵימָתַי מַתְחִילִין לִקְרוֹת שְׁמַע בָּעֲרָבִין — מִשָּׁעָה שֶׁקָּדַשׁ הַיּוֹם בְּעַרְבֵי שַׁבָּתוֹת, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. רַבִּי יְהוֹשֻׁעַ אוֹמֵר: מִשָּׁעָה שֶׁהַכֹּהֲנִים מְטוֹהָרִים לֶאֱכוֹל בִּתְרוּמָתָן. רַבִּי מֵאִיר אוֹמֵר, מִשָּׁעָה שֶׁהַכֹּהֲנִים טוֹבְלִין לֶאֱכוֹל בִּתְרוּמָתָן. אָמַר לוֹ רַבִּי יְהוּדָה: וַהֲלֹא כֹּהֲנִים מִבְּעוֹד יוֹם הֵם טוֹבְלִים? רַבִּי חֲנִינָא אוֹמֵר מִשָּׁעָה שֶׁעָנִי נִכְנָס לֶאֱכוֹל פִּתּוֹ בְּמֶלַח. רַבִּי אַחַאי וְאָמְרִי לַהּ רַבִּי אַחָא אוֹמֵר: מִשָּׁעָה שֶׁרוֹב בְּנֵי אָדָם נִכְנָסִין לְהָסֵב.",
           "en": "And is the time of the poor person and the priest the same? The Gemara raises a contradiction to this approach from another <i>baraita</i>, in which other opinions regarding the time for the recitation of the evening <i>Shema</i> are cited: From when does one begin to recite the evening <i>Shema</i>? <br>From the time when the day becomes sanctified on the eve of Shabbat, this is the statement of Rabbi Eliezer, who established an earlier time for <i>Shema</i>. <br>Rabbi Yehoshua, like our mishna, says: From the time when the priests are eligible to partake of their <i>teruma</i>. <br>Rabbi Meir says: The time for the recitation of <i>Shema</i> begins before the priests were purified, from when the priests immerse themselves in order to partake of their <i>teruma</i>. <br>Rabbi Yehuda said to Rabbi Meir: How is it possible that the time for the recitation of the evening <i>Shema</i> corresponds to the time of the priests’ immersion? Do the priests not immerse themselves during the day, so that with nightfall and the onset of a new day they will be purified? If so, how can that time be called night? <br>Rabbi Ḥanina says that the time for the recitation of the evening <i>Shema</i> begins when the poor person enters to eat his bread with salt. <br>But Rabbi Aḥai, and some say Rabbi Aḥa, says: From the time when most people enter to recline at their meal during the week.",
-          "fr": "Et le pauvre et le kohen constitueraient une seule et même mesure ? Et l'on soulève une contradiction : à partir de quand commence-t-on à réciter le Shema le soir ? Dès l'heure où le jour s'est sanctifié [la veille des] shabbatot, telles sont les paroles de Rabbi Eliezer. Rabbi Yehoshua dit : dès l'heure où les kohanim sont purifiés pour manger de leur terouma. Rabbi Meir dit : dès l'heure où les kohanim font l'immersion pour manger de leur terouma. Rabbi Yehuda lui dit : mais les kohanim font leur immersion alors qu'il fait encore jour ! Rabbi Hanina dit : dès l'heure où le pauvre entre pour manger son pain avec du sel. Rabbi Ahai — et certains disent Rabbi Aha — dit : dès l'heure où la plupart des gens entrent pour s'étendre [à table].",
+          "fr": "Et pauvre et le Cohen constituent une seule « mise à part » (une seule heure d’écart) pour l’écouter? Et on demande: à partir de quand commence-t-on à réciter l’Unité de l’écouter dans le soir — à partir de l’heure où le jour sanctifié par les veilles du Shabbat, les dits de Rabbi Élazar. Rabbi Yehoshua dit: à partir de l’heure où les prêtres se purifient pour manger de leur Trumah. Rabbi Meir dit: à partir de l’heure où les prêtres se baignent pour manger de leur Trumah. Rabbui Yehuda répondit: N’est-ce pas que les prêtres se baignent hors du jour? Rabbi Hanina dit: à partir de l’heure où pauvre entre pour manger son pain au sel. Rabbi Akhai dit et c’est dit: à partir de l’heure où la majorité des gens entrent dans la réception (ou dans le service).",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et pauvre et le Cohen constituent une seule « mise à part » (une seule heure d’écart) pour l’écouter? Et on demande: à partir de quand commence-t-on à réciter l’Unité de l’écouter dans le soir — à partir de l’heure où le jour sanctifié par les veilles du Shabbat, les dits de Rabbi Élazar. Rabbi Yehoshua dit: à partir de l’heure où les prêtres se purifient pour manger de leur Trumah. Rabbi Meir dit: à partir de l’heure où les prêtres se baignent pour manger de leur Trumah. Rabbui Yehuda répondit: N’est-ce pas que les prêtres se baignent hors du jour? Rabbi Hanina dit: à partir de l’heure où pauvre entre pour manger son pain au sel. Rabbi Akhai dit et c’est dit: à partir de l’heure où la majorité des gens entrent dans la réception (ou dans le service).</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">ouverture suggérée sur le moment où l’homme pauvre et le Cohen peuvent consommer; distingue les opinions sur le début et la manière de compter l’‘ashmoura’.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">interroge et précise l’interprétation de ביאת אורו et les usages autour du coucher du soleil et de l’émergence du jour; discute les nuances de temps et de témoins.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">commente sur la portée de jusqu’au moment où l’obligation cesse et la relation avec le temps total permis; clarifie les divergences entre avis.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">résume que l’écoute de ‘Shma’ le soir suit l’entrée des prêtres dans leur Trumah et les horizons jusqu’à l’ashmoura; justifie l’usage du Shma à la maison et à la synagogue.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.18,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:21.675926+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 13,
+            "segment_index": 12,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0f84c4d8830aff02006a667c2bc4d881a190f852b5e4de4aba",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 2361,
+                "output": 474,
+                "total": 2835
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2835
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00030765,
+              "run_eur": 0.0029589500000000006,
+              "spent_eur": 0.010150950000000004,
+              "remaining_eur": 44.98984905,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et pauvre et le Cohen constituent une seule « mise à part » (une seule heure d’écart) pour l’écouter? Et on demande: à partir de quand commence-t-on à réciter l’Unité de l’écouter dans le soir — à partir de l’heure où le jour sanctifié par les veilles du Shabbat, les dits de Rabbi Élazar. Rabbi Yehoshua dit: à partir de l’heure où les prêtres se purifient pour manger de leur Trumah. Rabbi Meir dit: à partir de l’heure où les prêtres se baignent pour manger de leur Trumah. Rabbui Yehuda répondit: N’est-ce pas que les prêtres se baignent hors du jour? Rabbi Hanina dit: à partir de l’heure où pauvre entre pour manger son pain au sel. Rabbi Akhai dit et c’est dit: à partir de l’heure où la majorité des gens entrent dans la réception (ou dans le service).",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "ouverture suggérée sur le moment où l’homme pauvre et le Cohen peuvent consommer; distingue les opinions sur le début et la manière de compter l’‘ashmoura’.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "interroge et précise l’interprétation de ביאת אורו et les usages autour du coucher du soleil et de l’émergence du jour; discute les nuances de temps et de témoins.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "commente sur la portée de jusqu’au moment où l’obligation cesse et la relation avec le temps total permis; clarifie les divergences entre avis.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "résume que l’écoute de ‘Shma’ le soir suit l’entrée des prêtres dans leur Trumah et les horizons jusqu’à l’ashmoura; justifie l’usage du Shma à la maison et à la synagogue.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.18,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 14,
           "he": "וְאִי אָמְרַתְּ עָנִי וְכֹהֵן חַד שִׁעוּרָא הוּא, רַבִּי חֲנִינָא הַיְינוּ רַבִּי יְהוֹשֻׁעַ!",
           "en": "The preceding was the text of the <i>baraita</i>. Returning to our question, if you say that the time of the poor person and the priest are one and the same time, then the opinion of Rabbi Ḥanina is identical to that of Rabbi Yehoshua. However, the fact that they are cited together indicates that they are not, in fact, the same.",
-          "fr": "Et si tu dis que le pauvre et le kohen constituent une seule et même mesure, alors Rabbi Hanina serait identique à Rabbi Yehoshua !",
+          "fr": "Et si tu dis: “Le pauvre et le Cohen ad shiyura, c’est lui”, c’est Rabbi Hananah; voici cela Rabbi Yehoshua!",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et si tu dis: “Le pauvre et le Cohen ad shiyura, c’est lui”, c’est Rabbi Hananah; voici cela Rabbi Yehoshua!</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: le passage discute qui est auteur du temps de récitation de la šma’, et identifie la phrase comme étant d’un cours dans lequel l’homme pauvre et le Cohen doivent réciter séparément, attribuant la position à Rabbi Hanina et à Rabbi Yehoshua.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: clarifie que la question est de savoir si l’exemple se réfère au moment où la journée est encore sous le soleil ou non; débat sur la nature de la conduite liturgique et sur le moment exact de la récitation.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: souligne que la fin de la clause en question oppose les opinions et que le texte sert à marquer les limites temporelles du temps de récitation.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: explique que le passage cherche à comprendre qui est l’interprète de la phrase et comenta les positions des maîtres.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.14,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:26.707760+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 14,
+            "segment_index": 13,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0c3fa14fc7b56a7e006a667c3406188192bc39b97d785d4544",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1944,
+                "output": 340,
+                "total": 2284
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2284
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00023319999999999998,
+              "run_eur": 0.0031921500000000004,
+              "spent_eur": 0.010384150000000003,
+              "remaining_eur": 44.98961585,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et si tu dis: “Le pauvre et le Cohen ad shiyura, c’est lui”, c’est Rabbi Hananah; voici cela Rabbi Yehoshua!",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Éclairage concis: le passage discute qui est auteur du temps de récitation de la šma’, et identifie la phrase comme étant d’un cours dans lequel l’homme pauvre et le Cohen doivent réciter séparément, attribuant la position à Rabbi Hanina et à Rabbi Yehoshua.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Éclairage concis: clarifie que la question est de savoir si l’exemple se réfère au moment où la journée est encore sous le soleil ou non; débat sur la nature de la conduite liturgique et sur le moment exact de la récitation.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Éclairage concis: souligne que la fin de la clause en question oppose les opinions et que le texte sert à marquer les limites temporelles du temps de récitation.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Éclairage concis: explique que le passage cherche à comprendre qui est l’interprète de la phrase et comenta les positions des maîtres.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.14,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 15,
           "he": "אֶלָּא לָאו שְׁמַע מִינַּהּ שִׁעוּרָא דְּעָנִי לְחוּד וְשִׁעוּרָא דְּכֹהֵן לְחוּד, שְׁמַע מִינַּהּ.",
           "en": "Rather, must one not conclude from this the time for the poor person is separate and the time for the priest is separate? Since no objection is raised, the Gemara concedes: Indeed, conclude from this.",
-          "fr": "Mais non, on en déduit nécessairement que la mesure du pauvre est à part et la mesure du kohen est à part — on en déduit.",
+          "fr": "Mais ne l’aie pas entendu de cela une seule donation: écoutez de lui une mesure pour le pauvre et une mesure pour le prêtre seul, écoutez de lui.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Mais ne l’aie pas entendu de cela une seule donation: écoutez de lui une mesure pour le pauvre et une mesure pour le prêtre seul, écoutez de lui.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Le texte commente que le &#x27;beyata ora&#x27; concerne l’aube et la purification par l’offrande et que la tradition distingue les temps selon les sources et les années.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interroge si &#x27;biyat oro&#x27; signifie le lever du soleil du huitième jour et précise les nuances entre la lumière du soleil et le moment où le soleil se lève, selon le contexte.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Distingue la fin du temps d’obligation par rapport à l’ashmora et discute la validité des preuves par rapport au temps nocturne et diurne.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Indique les verbes de temps pour l’audition de la שמע selon si ces temps s’étendent jusqu’à midi ou jusqu’au lever du soleil; souligne l’usage du texte dans la prière et l’étude.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.22,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:29.285531+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 15,
+            "segment_index": 14,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_045f3c2fda77d211006a667c3717c88192b6a7400d652ba3d4",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1941,
+                "output": 315,
+                "total": 2256
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2256
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00022305,
+              "run_eur": 0.0034152,
+              "spent_eur": 0.010607200000000004,
+              "remaining_eur": 44.9893928,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Mais ne l’aie pas entendu de cela une seule donation: écoutez de lui une mesure pour le pauvre et une mesure pour le prêtre seul, écoutez de lui.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Le texte commente que le 'beyata ora' concerne l’aube et la purification par l’offrande et que la tradition distingue les temps selon les sources et les années.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interroge si 'biyat oro' signifie le lever du soleil du huitième jour et précise les nuances entre la lumière du soleil et le moment où le soleil se lève, selon le contexte.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Distingue la fin du temps d’obligation par rapport à l’ashmora et discute la validité des preuves par rapport au temps nocturne et diurne.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Indique les verbes de temps pour l’audition de la שמע selon si ces temps s’étendent jusqu’à midi ou jusqu’au lever du soleil; souligne l’usage du texte dans la prière et l’étude.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.22,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 16,
           "he": "הֵי מִינַּיְיהוּ מְאוּחָר? מִסְתַּבְּרָא דְּעָנִי מְאוּחָר דְּאִי אָמְרַתְּ דְּעָנִי מוּקְדָּם רַבִּי חֲנִינָא הַיְינוּ רַבִּי אֱלִיעֶזֶר. אֶלָּא לָאו שְׁמַע מִינַּהּ דְּעָנִי מְאוּחָר. שְׁמַע מִינַּהּ.",
           "en": "Having established that the time of the poor person and that of the priest are different, the Gemara seeks to determine: which one is later? The Gemara suggests that it is reasonable to conclude that the time of the poor person is later. As if you say that the poor person is earlier, it would be impossible to establish a time earlier than that established by Rabbi Yehoshua, unless we hold that night begins with sunset, in which case the opinion of Rabbi Ḥanina is identical to that of Rabbi Eliezer. Rather, must one not conclude from this that the poor person is later? The Gemara notes: Indeed, conclude from this.",
-          "fr": "Laquelle des deux est la plus tardive ? Il est logique que le pauvre soit le plus tardif ; car si tu dis que le pauvre est le plus précoce, Rabbi Hanina serait identique à Rabbi Eliezer. Mais non, on en déduit que le pauvre est le plus tardif — on en déduit.",
+          "fr": "Voici-ce qui est possible de dire: Qui est supposé être ici? Il est clair que le pauvre est tardif; l’affirmation est que si tu dis que le pauvre est tardif, Rabbi Hanina signifie Rabbi Eliezer. Mais non, écoutez ce que signifie le pauvre est tardif. Écoutez ce que signifie le pauvre est tardif.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Voici-ce qui est possible de dire: Qui est supposé être ici? Il est clair que le pauvre est tardif; l’affirmation est que si tu dis que le pauvre est tardif, Rabbi Hanina signifie Rabbi Eliezer. Mais non, écoutez ce que signifie le pauvre est tardif. Écoutez ce que signifie le pauvre est tardif.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi clarifie que l’expression ‘le pauvre tardif’ peut être interprétée comme une référence impliquant que le lecteur doit accepter une ventilation des temps sur la base des particularités des prêtres, et discute de la manière dont l’heure est déterminée autour de la fin de l’oleh et du moment où l’on peut manger des teroumatou.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot demande des précisions sur le sens de l’« aviat ola » et discute si l’expression réfère à l’aube ou au coucher du soleil, et remet en question l’interprétation qui oppose l’aube et la sortie du Soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Ritva note une dispute sur le temps exact du temps de l’obligation et sur ce qui constitue le début et la fin de l’asshmoreh, et comment cela affecte le temps du kashrut et des prières nocturnes.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Rosh propose une formulation pratique sur le moment où l’on lit le Shema le soir et explique qu’on n’est pas encore tenu par la lecture du Shema jusqu’à ce que l’on soit dans la nuit et que l’on se mette au lit.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.14,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:34.135742+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 16,
+            "segment_index": 15,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_00f0e479605d58bd006a667c3ac1e881a28a1ba43789bcf7fe",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1952,
+                "output": 456,
+                "total": 2408
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2408
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00028,
+              "run_eur": 0.0036952,
+              "spent_eur": 0.010887200000000005,
+              "remaining_eur": 44.9891128,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Voici-ce qui est possible de dire: Qui est supposé être ici? Il est clair que le pauvre est tardif; l’affirmation est que si tu dis que le pauvre est tardif, Rabbi Hanina signifie Rabbi Eliezer. Mais non, écoutez ce que signifie le pauvre est tardif. Écoutez ce que signifie le pauvre est tardif.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Rachi clarifie que l’expression ‘le pauvre tardif’ peut être interprétée comme une référence impliquant que le lecteur doit accepter une ventilation des temps sur la base des particularités des prêtres, et discute de la manière dont l’heure est déterminée autour de la fin de l’oleh et du moment où l’on peut manger des teroumatou.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Tossefot demande des précisions sur le sens de l’« aviat ola » et discute si l’expression réfère à l’aube ou au coucher du soleil, et remet en question l’interprétation qui oppose l’aube et la sortie du Soleil.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Ritva note une dispute sur le temps exact du temps de l’obligation et sur ce qui constitue le début et la fin de l’asshmoreh, et comment cela affecte le temps du kashrut et des prières nocturnes.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Rosh propose une formulation pratique sur le moment où l’on lit le Shema le soir et explique qu’on n’est pas encore tenu par la lecture du Shema jusqu’à ce que l’on soit dans la nuit et que l’on se mette au lit.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.14,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 17,
           "he": "אָמַר מָר. אֲמַר לֵיהּ רַבִּי יְהוּדָה: וַהֲלֹא כֹּהֲנִים מִבְּעוֹד יוֹם הֵם טוֹבְלִים!",
           "en": "We learned that the Master said in a <i>baraita</i> that the time for the recitation of the evening <i>Shema</i> according to Rabbi Meir begins with the time of the immersion of the priests. Regarding this, Rabbi Yehuda said to Rabbi Meir: Do the priests not immerse themselves during the day?",
-          "fr": "Le maître a dit : Rabbi Yehuda lui dit : mais les kohanim font leur immersion alors qu'il fait encore jour !",
+          "fr": "MARA. a dit: Non est-ce pas que les prêtres, depuis le jour où ils se baignent lors du Yom Tov, se purifient en apportant leurs offrandes et puis mangent ensuite? Il est dit: \"et il se purifie\". Que signifie \"et il se purifie\": c’est un temps passé qui est retiré du monde; le texte est impératif de se purifier et de se préparer. Or la phrase finale — \"demandant au pauvre qui n’a pas de luminaire pour allumer son repas\" — est une objection sans doute. Car, si le pauvre n’a pas de lampe pour allumer son repas, alors son expiation n’est pas retardée.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">MARA. a dit: Non est-ce pas que les prêtres, depuis le jour où ils se baignent lors du Yom Tov, se purifient en apportant leurs offrandes et puis mangent ensuite? Il est dit: &quot;et il se purifie&quot;. Que signifie &quot;et il se purifie&quot;: c’est un temps passé qui est retiré du monde; le texte est impératif de se purifier et de se préparer. Or la phrase finale — &quot;demandant au pauvre qui n’a pas de luminaire pour allumer son repas&quot; — est une objection sans doute. Car, si le pauvre n’a pas de lampe pour allumer son repas, alors son expiation n’est pas retardée.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Explication: clarifie le sens de &quot;et il se purifie&quot; comme action passée nécessaire lors du jour où les prêtres se baignent et apportent leurs offrandes; détail sur la purification et le repas du pauvre sans lumière.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Interroge l’idée que l’expression &quot;et il se purifie&quot; puisse signifier le lever du soleil et discute les cas où la purification serait liée au coucher du soleil ou au lever du soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Souligne que la fin de l’obligation ne dure pas jusqu’au terme de l’ashmoura, et que même si c’est le soir, l’acte d’ablution et les cérémonies ne retiennent pas l’expiation; mentionne la distinction entre jour et nuit dans le calcul du temps.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Rappelle que la récitation de la &#x27;Shema&#x27; le soir est fixée jusqu’à la fin de la première Ashmoura et c’est différent selon les opinions.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.19,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:39.813090+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 17,
+            "segment_index": 16,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0ecdd4dfa6aedad0006a667c409c54819d867bc6f9ad6b4564",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1891,
+                "output": 473,
+                "total": 2364
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2364
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00028375,
+              "run_eur": 0.00397895,
+              "spent_eur": 0.011170950000000004,
+              "remaining_eur": 44.98882905,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "MARA. a dit: Non est-ce pas que les prêtres, depuis le jour où ils se baignent lors du Yom Tov, se purifient en apportant leurs offrandes et puis mangent ensuite? Il est dit: \"et il se purifie\". Que signifie \"et il se purifie\": c’est un temps passé qui est retiré du monde; le texte est impératif de se purifier et de se préparer. Or la phrase finale — \"demandant au pauvre qui n’a pas de luminaire pour allumer son repas\" — est une objection sans doute. Car, si le pauvre n’a pas de lampe pour allumer son repas, alors son expiation n’est pas retardée.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Explication: clarifie le sens de \"et il se purifie\" comme action passée nécessaire lors du jour où les prêtres se baignent et apportent leurs offrandes; détail sur la purification et le repas du pauvre sans lumière.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Interroge l’idée que l’expression \"et il se purifie\" puisse signifier le lever du soleil et discute les cas où la purification serait liée au coucher du soleil ou au lever du soleil.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Souligne que la fin de l’obligation ne dure pas jusqu’au terme de l’ashmoura, et que même si c’est le soir, l’acte d’ablution et les cérémonies ne retiennent pas l’expiation; mentionne la distinction entre jour et nuit dans le calcul du temps.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Rappelle que la récitation de la 'Shema' le soir est fixée jusqu’à la fin de la première Ashmoura et c’est différent selon les opinions.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.19,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 18,
           "he": "שַׁפִּיר קָאָמַר לֵיהּ רַבִּי יְהוּדָה לְרַבִּי מֵאִיר?",
           "en": "The Gemara notes: What Rabbi Yehuda said to Rabbi Meir seems correct, and how can Rabbi Meir respond? Rabbi Meir’s response is connected to the fundamental dispute over when night begins. After sunset, a period begins which is neither day nor night. The <i>tanna’im</i> disagree over the precise duration of this period known as twilight [<i>bein hashemashot</i>]. Rabbi Yehuda holds that twilight extends a full hour after sunset. Rabbi Neḥemya agrees in principle, though he disagrees over the specifics. Rabbi Yosei maintains that twilight is very brief, and occurs immediately before the emergence of the stars, which marks the beginning of the night. Regarding Rabbi Meir’s argument, Rabbi Yehuda asks that since the priests immerse themselves before twilight, they have a long wait until nightfall; clearly their immersion takes place while it is still day.",
-          "fr": "Rabbi Yehuda a-t-il bien réfuté Rabbi Meir ?",
+          "fr": "Shafir mahu amar leih le-Rabbi Yehuda le-Rabbi Meir?",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Shafir mahu amar leih le-Rabbi Yehuda le-Rabbi Meir?</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Interpretation du terme &#x27;beyat ore&#x27; comme ouverture de la huitième journée et purification du possesseur à travers l&#x27;offrande; clarifie que la purification est commandée et que le titaḥer se comprend comme sortie du soleil.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Questionne l&#x27;identification de &#x27;biyat oru&#x27; et propose des variantes de lecture liées au lever ou au coucher du soleil; discute l&#x27;usage du verbe &#x27;ttehar&#x27; et la période exacte.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Souligne que la fin du temps d&#x27;obligation ne suit pas nécessairement l&#x27;intervalle jusqu&#x27;au premier garçon et discute les temps de la swmora; insiste sur la distinction entre jour et nuit et sur l&#x27;utilisation de &#x27;KASHD&#x27; pour le temps de la prière.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Indique les temps de récitation de la &#x27;Shma&#x27; au soir selon les opinions et précise l&#x27;usage et le but liturgique dans la synagogue.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.15,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:44.612662+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 18,
+            "segment_index": 17,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_059c8df5f09acafa006a667c46566c819c97e2b60beeecd0a8",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1891,
+                "output": 307,
+                "total": 2198
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2198
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00021735000000000002,
+              "run_eur": 0.0041963,
+              "spent_eur": 0.011388300000000004,
+              "remaining_eur": 44.9886117,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Shafir mahu amar leih le-Rabbi Yehuda le-Rabbi Meir?",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Interpretation du terme 'beyat ore' comme ouverture de la huitième journée et purification du possesseur à travers l'offrande; clarifie que la purification est commandée et que le titaḥer se comprend comme sortie du soleil.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Questionne l'identification de 'biyat oru' et propose des variantes de lecture liées au lever ou au coucher du soleil; discute l'usage du verbe 'ttehar' et la période exacte.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Souligne que la fin du temps d'obligation ne suit pas nécessairement l'intervalle jusqu'au premier garçon et discute les temps de la swmora; insiste sur la distinction entre jour et nuit et sur l'utilisation de 'KASHD' pour le temps de la prière.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Indique les temps de récitation de la 'Shma' au soir selon les opinions et précise l'usage et le but liturgique dans la synagogue.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.15,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 19,
           "he": "וְרַבִּי מֵאִיר הָכִי קָאָמַר לֵיהּ: מִי סָבְרַתְּ דַּאֲנָא אַבֵּין הַשְּׁמָשׁוֹת דִּידָךְ קָא אָמֵינָא? אֲנָא אַבֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי קָא אָמֵינָא, דְּאָמַר רַבִּי יוֹסֵי בֵּין הַשְּׁמָשׁוֹת כְּהֶרֶף עַיִן, זֶה — נִכְנָס, וְזֶה — יוֹצֵא, וְאִי אֶפְשָׁר לַעֲמוֹד עָלָיו.",
           "en": "The Gemara answers that Rabbi Meir said to Rabbi Yehuda as follows: Do you maintain that I am speaking of your definition of twilight? I am speaking of Rabbi Yosei’s definition of twilight, as Rabbi Yosei said: Twilight is like the blink of an eye; night begins and day ends and the time between them is so brief, it is impossible to quantify. According to this opinion, the priests immerse themselves just before the emergence of the stars, when it is already considered night.",
-          "fr": "Et Rabbi Meir lui répondit ainsi : penses-tu que je parle du bein ha-shmashot selon toi ? Je parle du bein ha-shmashot selon Rabbi Yossi ; car Rabbi Yossi a dit : le bein ha-shmashot est comme un clin d'œil — celui-ci entre [le jour] tandis que celui-là sort [la nuit], et il est impossible d'en saisir [le moment avec précision].",
+          "fr": "Et Rabi Meir dit ainsi: qui peut penser que moi, je n’admets pas les ‘ha-shemeshot’ qui te concernent ? moi j’admets les ‘ha-shemashot’ de Rabbi Yosi qui dit que les ‘ha-shemashot’ sont comme un homme qui s’occupe d’une perfidie, ceci — entre, et cela — sort, et s’il est impossible de se tenir sur cela.",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-light\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\">Et Rabi Meir dit ainsi: qui peut penser que moi, je n’admets pas les ‘ha-shemeshot’ qui te concernent ? moi j’admets les ‘ha-shemashot’ de Rabbi Yosi qui dit que les ‘ha-shemashot’ sont comme un homme qui s’occupe d’une perfidie, ceci — entre, et cela — sort, et s’il est impossible de se tenir sur cela.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: Rachi explique que le langage de la source parle d’ôter l’obligation quand les prêtres entrent pour manger leur terouma; la phrase autorise une différenciation entre les temps et les règles de Qodech.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: Tossefot discute l’interprétation de ‘bi’at oreh’ et la manière dont la iconographie solaire détermine le début/fin de l’intervalle, en réfutant une lecture littérale.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-ritva\">\n  <h4>Ritva</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: Ritva précise que la fin de la période d’obligation est l’heure où l’on se prépare à sortir du repas; il oppose les opinions et clarifie le point d’étape entre jour et nuit.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-rosh\">\n  <h4>Roch</h4>\n  <p class=\"talmud-commentary-text\">Éclairage concis: Rosh rappelle les timings et les opinions des haces d’Eliezer et des sages sur jusqu’où s’étend l’obligation de lire la ‘Shema’ et pourquoi le fait de la lire à la synagogue est pour la prière et l’étude.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.18,
+            "review_note": "",
+            "issues": [],
+            "engine_version": "7.2",
+            "schema_version": "study-light-v7.2",
+            "mode": "light",
+            "generated_at": "2026-07-26T21:29:49.971424+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 19,
+            "segment_index": 18,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": null,
+            "translator_response_id": "resp_0b2f216e327eec27006a667c4b7088819eb34fbcc517cc5b87",
+            "reviewer_response_id": null,
+            "reviewer_used": false,
+            "tokens": {
+              "translator": {
+                "input": 1905,
+                "output": 451,
+                "total": 2356
+              },
+              "reviewer": {
+                "input": 0,
+                "output": 0,
+                "total": 0
+              },
+              "total": 2356
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.00027564999999999995,
+              "run_eur": 0.00447195,
+              "spent_eur": 0.011663950000000005,
+              "remaining_eur": 44.98833605,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Et Rabi Meir dit ainsi: qui peut penser que moi, je n’admets pas les ‘ha-shemeshot’ qui te concernent ? moi j’admets les ‘ha-shemashot’ de Rabbi Yosi qui dit que les ‘ha-shemashot’ sont comme un homme qui s’occupe d’une perfidie, ceci — entre, et cela — sort, et s’il est impossible de se tenir sur cela.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Éclairage concis: Rachi explique que le langage de la source parle d’ôter l’obligation quand les prêtres entrent pour manger leur terouma; la phrase autorise une différenciation entre les temps et les règles de Qodech.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Éclairage concis: Tossefot discute l’interprétation de ‘bi’at oreh’ et la manière dont la iconographie solaire détermine le début/fin de l’intervalle, en réfutant une lecture littérale.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Éclairage concis: Ritva précise que la fin de la période d’obligation est l’heure où l’on se prépare à sortir du repas; il oppose les opinions et clarifie le point d’étape entre jour et nuit.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Éclairage concis: Rosh rappelle les timings et les opinions des haces d’Eliezer et des sages sur jusqu’où s’étend l’obligation de lire la ‘Shema’ et pourquoi le fait de la lire à la synagogue est pour la prière et l’étude.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.18,
+            "issues": [],
+            "review_note": ""
           }
         }
       ],
