@@ -213,7 +213,10 @@ def _build_study(
             data.get("translation_fr")
             or data.get("translation")
         ),
-        explanation="",
+        explanation=_clean_text(
+            data.get("explanation_fr")
+            or data.get("explanation")
+        ),
         commentaries=commentaries,
         confidence=_normalise_confidence(
             data.get("confidence")
@@ -236,7 +239,7 @@ def _build_final(
 
     return {
         "translation_fr": study.translation,
-        "explanation_fr": "",
+        "explanation_fr": study.explanation,
         "sources_used": sources_used,
         "confidence": study.confidence,
         "review_note": "",

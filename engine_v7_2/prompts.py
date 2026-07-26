@@ -280,6 +280,9 @@ TERMINOLOGIE
 CONSIGNES
 - Traduis uniquement central_text.
 - Produis un français fidèle, naturel, précis et publiable.
+- Ajoute une étude détaillée courte de deux à quatre phrases.
+- Cette étude explique le raisonnement sans répéter la traduction.
+- Rédige entièrement cette étude en français.
 - Le contexte voisin sert uniquement à comprendre central_text.
 - N'invente aucune source, halakha ou explication.
 - Utilise uniquement les méfarchim réellement fournis.
@@ -294,6 +297,7 @@ CONSIGNES
 FORMAT JSON
 {{
   "translation_fr": "traduction française",
+  "explanation_fr": "étude détaillée courte en français",
   "commentaries": {{
     "rachi": "éclairage français concis",
     "tossefot": "éclairage français concis",
@@ -367,6 +371,9 @@ TERMINOLOGIE
 - Corrige uniquement les erreurs réelles.
 - N'invente rien.
 - N'utilise que les méfarchim fournis.
+- Rédige une étude détaillée courte de deux à quatre phrases.
+- Cette étude explique le raisonnement sans répéter la traduction.
+- Rédige entièrement cette étude en français.
 - Rédige tous les éclairages entièrement en français.
 - Ne recopie pas de long texte hébreu ou araméen.
 - Chaque éclairage doit tenir en une ou deux phrases courtes.
@@ -376,6 +383,7 @@ TERMINOLOGIE
 FORMAT JSON
 {{
   "translation_fr": "traduction française corrigée",
+  "explanation_fr": "étude détaillée courte corrigée",
   "commentaries": {{
     "rachi": "éclairage français concis"
   }},

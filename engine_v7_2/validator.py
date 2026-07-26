@@ -424,15 +424,31 @@ def _validate_study(
         "",
     )
 
-    if not isinstance(explanation, str):
+    if (
+        not isinstance(explanation, str)
+        or not explanation.strip()
+    ):
         errors.append(
-            "study.explanation doit être une chaîne."
+            "study.explanation est vide ou invalide."
         )
-    elif explanation.strip():
-        warnings.append(
-            "study.explanation n'est pas vide "
-            "en mode léger."
-        )
+    else:
+        explanation_text = explanation.strip()
+
+        if HTML_FORMATTING_PATTERN.search(explanation_text):
+            errors.append(
+                "study.explanation contient une balise HTML."
+            )
+
+        if _contains_untranslated_hebrew(explanation_text):
+            errors.append(
+                "study.explanation contient trop de texte "
+                "hébreu non traduit."
+            )
+
+        if len(explanation_text) > 1200:
+            warnings.append(
+                "study.explanation dépasse 1200 caractères."
+            )
 
     _validate_commentaries(
         value.get("commentaries"),
@@ -487,15 +503,31 @@ def validate_editorial_result(
         "",
     )
 
-    if not isinstance(explanation, str):
+    if (
+        not isinstance(explanation, str)
+        or not explanation.strip()
+    ):
         errors.append(
-            "explanation_fr doit être une chaîne."
+            "explanation_fr est vide ou invalide."
         )
-    elif explanation.strip():
-        warnings.append(
-            "explanation_fr n'est pas vide "
-            "en mode léger."
-        )
+    else:
+        explanation_text = explanation.strip()
+
+        if HTML_FORMATTING_PATTERN.search(explanation_text):
+            errors.append(
+                "explanation_fr contient une balise HTML."
+            )
+
+        if _contains_untranslated_hebrew(explanation_text):
+            errors.append(
+                "explanation_fr contient trop de texte "
+                "hébreu non traduit."
+            )
+
+        if len(explanation_text) > 1200:
+            warnings.append(
+                "explanation_fr dépasse 1200 caractères."
+            )
 
     confidence = payload.get("confidence")
 
