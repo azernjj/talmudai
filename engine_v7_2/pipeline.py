@@ -1,82 +1,194 @@
 from __future__ import annotations
 
-from dataclasses import asdict, dataclass
+import re
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Any
 
 from .html_renderer import clean_model_markdown, render_study_html
-from .models import (
-    CommentaryStudy,
-    GlossaryEntry,
-    HalakhaStudy,
-    SegmentTarget,
-    StudyBlock,
-)
+from .models import CommentaryStudy, SegmentTarget, StudyBlock
 from .reviewer import Reviewer
 from .translator import Translator
 from .validator import ValidationResult, validate_editorial_result
 
 
 ENGINE_VERSION = "7.2"
+SCHEMA_VERSION = "study-light-v7.2"
+
+
+COMMENTARY_ALIASES = {
+    "rashi": "rachi",
+    "rachi": "rachi",
+    "tosafot": "tossefot",
+    "tosafoth": "tossefot",
+    "tossefot": "tossefot",
+    "tossafot": "tossefot",
+    "tossafoth": "tossefot",
+    "ritva": "ritva",
+    "rosh": "rosh",
+    "roch": "rosh",
+    "pnei_yehoshoua": "pnei_yehoshoua",
+    "pnei-yehoshoua": "pnei_yehoshoua",
+    "pnei yehoshoua": "pnei_yehoshoua",
+    "pnei_yehoshua": "pnei_yehoshoua",
+    "pnei yehoshua": "pnei_yehoshoua",
+}
+
+
+COMMENTARY_ORDER = (
+    "rachi",
+    "tossefot",
+    "ritva",
+    "rosh",
+    "pnei_yehoshoua",
+)
 
 
 @dataclass
 class PipelineResult:
-    """
-    Résultat complet d'un passage traité par le moteur éditorial.
-
-    - final : contenu destiné au corpus JSON ;
-    - validation : résultat de la validation éditoriale ;
-    - metadata : informations techniques, modèles et consommation de jetons.
-    """
-
     final: dict[str, Any]
     validation: ValidationResult
     metadata: dict[str, Any]
 
 
 def _clean_text(value: Any) -> str:
-    """Convertit une valeur en texte propre sans lever d'exception."""
-    if value is None:
-        return ""
-    return str(value).strip()
-
-
-def _clean_string_list(value: Any) -> list[str]:
     """
-    Normalise une valeur en liste de chaînes non vides, sans doublons,
-    tout en conservant l'ordre d'origine.
+    Nettoie les marqueurs de mise en forme qui ne doivent pas apparaître
+    dans la traduction publiée.
     """
-    if value is None:
-        return []
+    text = str(value or "").strip()
 
-    if isinstance(value, str):
-        candidates = [value]
-    elif isinstance(value, (list, tuple, set)):
-        candidates = list(value)
-    else:
-        candidates = [value]
+    text = re.sub(
+        r"</?\s*(?:b|strong)\s*>",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r"&lt;/?\s*(?:b|strong)\s*&gt;",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
 
-    result: list[str] = []
-    seen: set[str] = set()
+    return clean_model_markdown(text).strip()
 
-    for item in candidates:
-        text = _clean_text(item)
-        if not text:
+
+def _normalise_source_name(value: Any) -> str:
+    text = _clean_text(value).lower()
+    text = text.replace("’", "'").replace("`", "'")
+    text = " ".join(text.split())
+
+    underscored = (
+        text
+        .replace("-", "_")
+        .replace(" ", "_")
+    )
+
+    generic_aliases = {
+        "guemara": "texte",
+        "gemara": "texte",
+        "talmud": "texte",
+        "bavli": "texte",
+        "texte_source": "texte",
+        "passage": "texte",
+        "passage_source": "texte",
+    }
+
+    if underscored in generic_aliases:
+        return generic_aliases[underscored]
+
+    return COMMENTARY_ALIASES.get(
+        underscored,
+        underscored,
+    )
+
+
+def _available_commentaries(
+    target: SegmentTarget,
+) -> set[str]:
+    return {
+        _normalise_source_name(name)
+        for name, text in target.commentary_texts.items()
+        if _clean_text(text)
+    }
+
+
+def _normalise_commentary_payload(
+    target: SegmentTarget,
+    data: dict[str, Any],
+) -> tuple[dict[str, CommentaryStudy], list[str]]:
+    """
+    Conserve uniquement les commentaires réellement disponibles.
+
+    Un commentaire fourni mais non pertinent reste disponible avec un
+    résumé vide. Aucun texte ou commentaire absent n’est inventé.
+    """
+    available = _available_commentaries(target)
+
+    payload = data.get("commentaries")
+    if not isinstance(payload, dict):
+        payload = {}
+
+    summaries: dict[str, str] = {}
+
+    for raw_name, raw_entry in payload.items():
+        name = _normalise_source_name(raw_name)
+
+        if name not in available:
             continue
 
-        key = text.casefold()
-        if key in seen:
-            continue
+        if isinstance(raw_entry, str):
+            summary = _clean_text(raw_entry)
 
-        seen.add(key)
-        result.append(text)
+        elif isinstance(raw_entry, dict):
+            summary = _clean_text(
+                raw_entry.get("summary")
+                or raw_entry.get("resume")
+                or raw_entry.get("text")
+            )
 
-    return result
+        else:
+            summary = ""
+
+        if summary:
+            summaries[name] = summary
+
+    ordered_names = [
+        name
+        for name in COMMENTARY_ORDER
+        if name in available
+    ]
+
+    ordered_names.extend(
+        sorted(
+            available.difference(COMMENTARY_ORDER)
+        )
+    )
+
+    studies: dict[str, CommentaryStudy] = {}
+
+    for name in ordered_names:
+        summary = summaries.get(name, "")
+
+        studies[name] = CommentaryStudy(
+            available=True,
+            source_used=bool(summary),
+            summary=summary,
+        )
+
+    sources_used = ["texte"]
+
+    sources_used.extend(
+        name
+        for name in ordered_names
+        if summaries.get(name)
+    )
+
+    return studies, sources_used
 
 
-def _clean_confidence(value: Any) -> float:
-    """Retourne un niveau de confiance compris entre 0 et 1."""
+def _normalise_confidence(value: Any) -> float:
     try:
         confidence = float(value)
     except (TypeError, ValueError):
@@ -85,292 +197,90 @@ def _clean_confidence(value: Any) -> float:
     return max(0.0, min(1.0, confidence))
 
 
-def _normalise_source_name(value: Any) -> str:
-    """
-    Normalise un nom de source pour permettre les comparaisons entre
-    les réponses du modèle et les noms des commentaires chargés.
-    """
-    text = _clean_text(value).lower()
-    text = text.replace("’", "'").replace("`", "'")
-    text = " ".join(text.split())
-
-    aliases = {
-        "guemara": "texte",
-        "gemara": "texte",
-        "talmud": "texte",
-        "bavli": "texte",
-        "texte source": "texte",
-        "passage": "texte",
-        "passage source": "texte",
-        "rashi": "rachi",
-        "rachi": "rachi",
-        "tosafot": "tossefot",
-        "tosafoth": "tossefot",
-        "tossefot": "tossefot",
-        "tossafot": "tossefot",
-        "tossafoth": "tossefot",
-        "roch": "rosh",
-    }
-    return aliases.get(text, text)
-
-
-def _normalise_source_list(value: Any) -> list[str]:
-    """
-    Normalise et déduplique une liste de sources en conservant l'ordre.
-    """
-    result: list[str] = []
-    seen: set[str] = set()
-
-    for raw_source in _clean_string_list(value):
-        source = _normalise_source_name(raw_source)
-        if not source or source in seen:
-            continue
-
-        seen.add(source)
-        result.append(source)
-
-    return result
-
-
-def _available_commentary_map(
+def _build_study(
     target: SegmentTarget,
-) -> dict[str, str]:
-    """
-    Construit une table normalisée :
-        nom normalisé -> nom réel présent dans commentary_texts.
-    """
-    result: dict[str, str] = {}
-
-    for raw_name in target.commentary_texts:
-        normalised = _normalise_source_name(raw_name)
-        if normalised:
-            result[normalised] = raw_name
-
-    return result
-
-
-def _build_commentary_studies(
-    *,
-    target: SegmentTarget,
-    review: dict[str, Any],
-    sources_used: list[str],
-) -> dict[str, CommentaryStudy]:
-    """
-    Prépare les emplacements des commentaires pour le schéma V7.2.
-
-    Le pipeline V7.2 Livrable 2A ne génère pas encore les résumés détaillés
-    de chaque commentaire. Il indique uniquement leur disponibilité et
-    s'ils ont réellement été déclarés comme utilisés par le modèle.
-    """
-    available = _available_commentary_map(target)
-    used = {_normalise_source_name(source) for source in sources_used}
-
-    commentary_payload = review.get("commentaries")
-    if not isinstance(commentary_payload, dict):
-        commentary_payload = {}
-
-    normalised_payload: dict[str, Any] = {}
-
-    for raw_name, raw_entry in commentary_payload.items():
-        name = _normalise_source_name(raw_name)
-        if name:
-            normalised_payload[name] = raw_entry
-
-    standard_names = ("rachi", "tossefot", "ritva", "rosh")
-    all_names = list(standard_names)
-
-    for name in available:
-        if name not in all_names:
-            all_names.append(name)
-
-    result: dict[str, CommentaryStudy] = {}
-
-    for name in all_names:
-        raw_entry = normalised_payload.get(name, {})
-        summary = ""
-
-        if isinstance(raw_entry, str):
-            summary = raw_entry.strip()
-        elif isinstance(raw_entry, dict):
-            summary = _clean_text(
-                raw_entry.get("summary")
-                or raw_entry.get("resume")
-                or raw_entry.get("text")
-            )
-
-        is_available = name in available
-        source_used = name in used and is_available
-
-        # Sécurité : aucun résumé n'est conservé pour une source absente.
-        if not is_available:
-            summary = ""
-            source_used = False
-
-        result[name] = CommentaryStudy(
-            available=is_available,
-            summary=summary,
-            source_used=source_used,
+    data: dict[str, Any],
+) -> tuple[StudyBlock, list[str]]:
+    commentaries, sources_used = (
+        _normalise_commentary_payload(
+            target,
+            data,
         )
-
-    return result
-
-
-def _build_glossary(review: dict[str, Any]) -> list[GlossaryEntry]:
-    """
-    Convertit le champ `terms` du traducteur ou du relecteur vers le
-    glossaire structuré V7.2.
-    """
-    raw_terms = review.get("terms", [])
-    if not isinstance(raw_terms, list):
-        return []
-
-    glossary: list[GlossaryEntry] = []
-
-    for item in raw_terms:
-        if not isinstance(item, dict):
-            continue
-
-        source = _clean_text(
-            item.get("source")
-            or item.get("term")
-            or item.get("he")
-            or item.get("aramaic")
-        )
-        french = _clean_text(
-            item.get("fr")
-            or item.get("french")
-            or item.get("translation")
-        )
-        note = _clean_text(item.get("note"))
-
-        if not source or not french:
-            continue
-
-        glossary.append(
-            GlossaryEntry(
-                source=source,
-                french=french,
-                note=note,
-            )
-        )
-
-    return glossary
-
-
-def _build_halakha(review: dict[str, Any]) -> HalakhaStudy:
-    """
-    Prépare le bloc halakhique s'il est déjà fourni par un futur module.
-
-    Dans le Livrable 2A, ce bloc reste normalement vide. Cette fonction
-    permet toutefois au pipeline de rester compatible avec les prochains
-    livrables sans casser le format du corpus.
-    """
-    raw = review.get("halakha")
-
-    if isinstance(raw, str):
-        text = raw.strip()
-        return HalakhaStudy(
-            available=bool(text),
-            text=text,
-            sources=[],
-        )
-
-    if not isinstance(raw, dict):
-        return HalakhaStudy()
-
-    text = _clean_text(
-        raw.get("text")
-        or raw.get("summary")
-        or raw.get("resume")
-        or raw.get("halakha_fr")
-    )
-    sources = _clean_string_list(raw.get("sources"))
-
-    return HalakhaStudy(
-        available=bool(text),
-        text=text,
-        sources=sources,
     )
 
-
-def _build_study_block(
-    *,
-    target: SegmentTarget,
-    review: dict[str, Any],
-) -> StudyBlock:
-    """
-    Transforme la réponse finale du relecteur en objet d'étude V7.2.
-    """
-    translation = clean_model_markdown(
-        _clean_text(review.get("translation_fr"))
-    )
-    explanation = clean_model_markdown(
-        _clean_text(review.get("explanation_fr"))
-    )
-    sources_used = _normalise_source_list(review.get("sources_used"))
-    issues = _clean_string_list(review.get("issues"))
-    ambiguities = _clean_string_list(review.get("ambiguities"))
-
-    for ambiguity in ambiguities:
-        if ambiguity not in issues:
-            issues.append(ambiguity)
-
-    applications = _clean_string_list(
-        review.get("applications")
-        or review.get("practical_applications")
-    )
-    key_points = _clean_string_list(
-        review.get("key_points")
-        or review.get("points_cles")
-    )
-    references = _clean_string_list(
-        review.get("references")
-        or review.get("cross_references")
-    )
-
-    return StudyBlock(
-        translation=translation,
-        explanation=explanation,
-        commentaries=_build_commentary_studies(
-            target=target,
-            review=review,
-            sources_used=sources_used,
+    study = StudyBlock(
+        translation=_clean_text(
+            data.get("translation_fr")
+            or data.get("translation")
         ),
-        halakha=_build_halakha(review),
-        applications=applications,
-        glossary=_build_glossary(review),
-        summary=_clean_text(review.get("summary")),
-        key_points=key_points,
-        references=references,
-        confidence=_clean_confidence(review.get("confidence")),
-        issues=issues,
-        review_note=_clean_text(review.get("review_note")),
+        explanation="",
+        commentaries=commentaries,
+        confidence=_normalise_confidence(
+            data.get("confidence")
+        ),
     )
 
+    return study, sources_used
 
-def _render_html(study: StudyBlock) -> str:
-    """
-    Utilise le renderer V7.2 lorsqu'il accepte un bloc complet.
 
-    Tant que l'ancien html_renderer.py est encore en place, la fonction
-    retombe automatiquement sur la signature historique :
-        render_study_html(translation, explanation)
-    """
-    try:
-        return render_study_html(study)
-    except (TypeError, AttributeError):
-        return render_study_html(
-            study.translation,
-            study.explanation,
+def _build_final(
+    target: SegmentTarget,
+    data: dict[str, Any],
+) -> dict[str, Any]:
+    study, sources_used = _build_study(
+        target,
+        data,
+    )
+
+    html = render_study_html(study)
+
+    return {
+        "translation_fr": study.translation,
+        "explanation_fr": "",
+        "sources_used": sources_used,
+        "confidence": study.confidence,
+        "review_note": "",
+        "issues": [],
+        "html": html,
+        "study": study.to_dict(),
+        "mode": "light",
+    }
+
+
+def _token_payload(
+    api_result: Any | None,
+) -> dict[str, int]:
+    if api_result is None:
+        return {
+            "input": 0,
+            "output": 0,
+            "total": 0,
+        }
+
+    input_tokens = int(
+        getattr(
+            api_result,
+            "input_tokens",
+            0,
         )
+        or 0
+    )
 
+    output_tokens = int(
+        getattr(
+            api_result,
+            "output_tokens",
+            0,
+        )
+        or 0
+    )
 
-def _token_payload(api_result: Any) -> dict[str, int]:
-    """Extrait de manière sûre la consommation de jetons d'un appel API."""
-    input_tokens = int(getattr(api_result, "input_tokens", 0) or 0)
-    output_tokens = int(getattr(api_result, "output_tokens", 0) or 0)
     total_tokens = int(
-        getattr(api_result, "total_tokens", input_tokens + output_tokens)
+        getattr(
+            api_result,
+            "total_tokens",
+            input_tokens + output_tokens,
+        )
         or input_tokens + output_tokens
     )
 
@@ -383,90 +293,128 @@ def _token_payload(api_result: Any) -> dict[str, int]:
 
 class EditorialPipeline:
     """
-    Pipeline éditorial TALMUD AI V7.2.
+    Pipeline léger TALMUD AI V7.2.
 
-    Étapes :
-    1. traduction directe hébreu/araméen -> français ;
-    2. relecture éditoriale et rabbinique ;
-    3. construction du bloc d'étude structuré ;
-    4. génération HTML ;
-    5. validation ;
-    6. production des métadonnées techniques.
+    Fonctionnement normal :
+    - un seul appel au traducteur ;
+    - traduction française ;
+    - éclairage concis des méfarchim pertinents ;
+    - validation locale.
+
+    Le relecteur devient un secours exceptionnel. Il est appelé uniquement
+    si la première réponse possède une traduction mais échoue à la
+    validation.
     """
 
     def __init__(
         self,
         translator: Translator,
-        reviewer: Reviewer,
+        reviewer: Reviewer | None = None,
     ) -> None:
         self.translator = translator
         self.reviewer = reviewer
 
-    def run(self, target: SegmentTarget) -> PipelineResult:
-        translation_run = self.translator.translate(target)
-
-        review_run = self.reviewer.review_translation(
-            target,
-            translation_run.draft,
+    def run(
+        self,
+        target: SegmentTarget,
+    ) -> PipelineResult:
+        translation_run = self.translator.translate(
+            target
         )
-        review = review_run.review
 
-        if not isinstance(review, dict):
+        data = translation_run.draft
+
+        if not isinstance(data, dict):
             raise TypeError(
-                "Le relecteur doit renvoyer un objet JSON représenté "
-                "par un dictionnaire Python."
+                "Le traducteur doit renvoyer un objet JSON."
             )
 
-        study = _build_study_block(
-            target=target,
-            review=review,
+        final = _build_final(
+            target,
+            data,
         )
-        html = _render_html(study)
-
-        sources_used = _normalise_source_list(review.get("sources_used"))
-
-        # Le format conserve les champs V7.1 afin que corpus_writer.py,
-        # validator.py et le site actuel restent compatibles pendant
-        # la migration vers V7.2.
-        final: dict[str, Any] = {
-            "translation_fr": study.translation,
-            "explanation_fr": study.explanation,
-            "sources_used": sources_used,
-            "confidence": study.confidence,
-            "review_note": study.review_note,
-            "issues": study.issues,
-            "html": html,
-            "study": study.to_dict(),
-        }
 
         validation = validate_editorial_result(
             final,
-            available_commentaries=set(target.commentary_texts),
+            available_commentaries=(
+                _available_commentaries(target)
+            ),
         )
 
-        translator_tokens = _token_payload(translation_run.api)
-        reviewer_tokens = _token_payload(review_run.api)
+        reviewer_api = None
+        reviewer_used = False
+
+        if (
+            not validation.valid
+            and self.reviewer is not None
+            and bool(final.get("translation_fr"))
+        ):
+            review_run = (
+                self.reviewer.review_translation(
+                    target,
+                    data,
+                )
+            )
+
+            reviewer_api = review_run.api
+            reviewer_used = True
+
+            final = _build_final(
+                target,
+                review_run.review,
+            )
+
+            validation = validate_editorial_result(
+                final,
+                available_commentaries=(
+                    _available_commentaries(target)
+                ),
+            )
+
+        translator_tokens = _token_payload(
+            translation_run.api
+        )
+
+        reviewer_tokens = _token_payload(
+            reviewer_api
+        )
 
         metadata = {
             "engine_version": ENGINE_VERSION,
-            "schema_version": "study-v7.2",
-            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "schema_version": SCHEMA_VERSION,
+            "mode": "light",
+            "generated_at": (
+                datetime.now(timezone.utc).isoformat()
+            ),
             "masechet": target.masechet,
             "daf": target.daf,
             "segment_number": target.segment_number,
             "segment_index": target.segment_index,
-            "translator_model": getattr(self.translator, "model", None),
-            "reviewer_model": getattr(self.reviewer, "model", None),
+            "translator_model": getattr(
+                self.translator,
+                "model",
+                None,
+            ),
+            "reviewer_model": (
+                getattr(
+                    self.reviewer,
+                    "model",
+                    None,
+                )
+                if reviewer_used
+                else None
+            ),
             "translator_response_id": getattr(
                 translation_run.api,
                 "response_id",
                 None,
             ),
             "reviewer_response_id": getattr(
-                review_run.api,
+                reviewer_api,
                 "response_id",
                 None,
             ),
+            "reviewer_used": reviewer_used,
             "tokens": {
                 "translator": translator_tokens,
                 "reviewer": reviewer_tokens,
@@ -475,18 +423,25 @@ class EditorialPipeline:
                     + reviewer_tokens["total"]
                 ),
             },
-            "commentaries_available": sorted(target.commentary_texts),
-            "commentaries_used": sorted(
-                {
-                    _normalise_source_name(source)
-                    for source in sources_used
-                    if _normalise_source_name(source) != "texte"
-                }
+            "commentaries_available": sorted(
+                _available_commentaries(target)
             ),
+            "commentaries_used": [
+                source
+                for source in final.get(
+                    "sources_used",
+                    [],
+                )
+                if source != "texte"
+            ],
             "validation": {
                 "valid": validation.valid,
-                "errors": list(validation.errors),
-                "warnings": list(validation.warnings),
+                "errors": list(
+                    validation.errors
+                ),
+                "warnings": list(
+                    validation.warnings
+                ),
             },
         }
 

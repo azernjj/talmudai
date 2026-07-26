@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import unicodedata
 from dataclasses import dataclass
 from typing import Any
@@ -22,17 +23,13 @@ GENERIC_SOURCE_NAMES = {
     "bavli",
     "guemara",
     "gemara",
-    "contexte",
-    "contexte du passage",
-    "contexte talmudique",
     "segment central",
     "segment source",
     "hebreu",
     "araméen",
     "arameen",
-    "hebreu et arameen",
-    "hébreu et araméen",
 }
+
 
 COMMENTARY_ALIASES = {
     "rashi": "rachi",
@@ -49,18 +46,32 @@ COMMENTARY_ALIASES = {
     "pnei yehoshua": "pnei_yehoshoua",
 }
 
-STANDARD_COMMENTARIES = {
-    "rachi",
-    "tossefot",
-    "ritva",
-    "rosh",
-}
+
+HTML_FORMATTING_PATTERN = re.compile(
+    r"</?\s*(?:b|strong)\s*>|"
+    r"&lt;/?\s*(?:b|strong)\s*&gt;|"
+    r"&amp;lt;/?\s*(?:b|strong)\s*&amp;gt;",
+    flags=re.IGNORECASE,
+)
+
+
+HEBREW_LETTER_PATTERN = re.compile(
+    r"[\u05d0-\u05ea]"
+)
+
+
+LATIN_LETTER_PATTERN = re.compile(
+    r"[A-Za-zÀ-ÖØ-öø-ÿ]"
+)
 
 
 def normalize_source_name(value: Any) -> str:
     text = str(value or "").strip().lower()
+    normalized = unicodedata.normalize(
+        "NFKD",
+        text,
+    )
 
-    normalized = unicodedata.normalize("NFKD", text)
     normalized = "".join(
         character
         for character in normalized
@@ -71,12 +82,13 @@ def normalize_source_name(value: Any) -> str:
     normalized = normalized.replace("-", " ")
     normalized = normalized.replace("’", "'")
     normalized = normalized.replace("`", "'")
-    normalized = " ".join(normalized.split())
 
-    return normalized
+    return " ".join(normalized.split())
 
 
-def canonical_commentary_name(value: Any) -> str | None:
+def canonical_commentary_name(
+    value: Any,
+) -> str | None:
     normalized = normalize_source_name(value)
 
     if normalized in COMMENTARY_ALIASES:
@@ -90,9 +102,6 @@ def canonical_commentary_name(value: Any) -> str | None:
 
 
 def canonical_source_name(value: Any) -> str:
-    """
-    Retourne une clé canonique stable pour une source.
-    """
     normalized = normalize_source_name(value)
 
     if not normalized:
@@ -101,297 +110,351 @@ def canonical_source_name(value: Any) -> str:
     if normalized in GENERIC_SOURCE_NAMES:
         return "texte"
 
-    known = canonical_commentary_name(normalized)
-    if known:
-        return known
+    commentary = canonical_commentary_name(
+        normalized
+    )
+
+    if commentary:
+        return commentary
 
     return normalized.replace(" ", "_")
 
 
-def _validate_string_list(
+def _canonical_available(
+    available_commentaries: set[str],
+) -> set[str]:
+    return {
+        canonical_source_name(name)
+        for name in available_commentaries
+        if canonical_source_name(name)
+    }
+
+
+def _contains_untranslated_hebrew(
+    text: str,
+) -> bool:
+    """
+    Autorise quelques termes hébreux isolés dans une phrase française,
+    mais refuse un résumé resté majoritairement en hébreu.
+
+    Un minimum de douze lettres hébraïques évite de refuser des termes
+    indispensables comme Shema, terouma ou une courte citation.
+    """
+    hebrew_count = len(
+        HEBREW_LETTER_PATTERN.findall(text)
+    )
+    latin_count = len(
+        LATIN_LETTER_PATTERN.findall(text)
+    )
+
+    if hebrew_count < 12:
+        return False
+
+    total = hebrew_count + latin_count
+
+    if total == 0:
+        return False
+
+    return hebrew_count / total >= 0.25
+
+
+def _validate_translation(
     value: Any,
+    *,
     field_name: str,
     errors: list[str],
-) -> list[str]:
-    if not isinstance(value, list):
-        errors.append(f"{field_name} doit être une liste.")
-        return []
+) -> str:
+    if (
+        not isinstance(value, str)
+        or not value.strip()
+    ):
+        errors.append(
+            f"{field_name} est vide."
+        )
+        return ""
 
-    result: list[str] = []
-    for index, item in enumerate(value):
-        if not isinstance(item, str):
+    text = value.strip()
+
+    if HTML_FORMATTING_PATTERN.search(text):
+        errors.append(
+            f"{field_name} contient une balise "
+            "b ou strong."
+        )
+
+    if (
+        text.startswith("```")
+        or text.endswith("```")
+    ):
+        errors.append(
+            f"{field_name} contient un bloc Markdown."
+        )
+
+    return text
+
+
+def _validate_sources(
+    value: Any,
+    *,
+    available: set[str],
+    errors: list[str],
+) -> set[str]:
+    if not isinstance(value, list):
+        errors.append(
+            "sources_used doit être une liste."
+        )
+        return set()
+
+    canonical_sources: list[str] = []
+
+    for index, source in enumerate(value):
+        if not isinstance(source, str):
             errors.append(
-                f"{field_name}[{index}] doit être une chaîne."
+                f"sources_used[{index}] doit être "
+                "une chaîne."
             )
             continue
 
-        text = item.strip()
-        if text:
-            result.append(text)
+        canonical = canonical_source_name(source)
 
-    return result
+        if (
+            canonical
+            and canonical not in canonical_sources
+        ):
+            canonical_sources.append(canonical)
+
+    if "texte" not in canonical_sources:
+        errors.append(
+            'sources_used doit contenir "texte".'
+        )
+
+    claimed = {
+        source
+        for source in canonical_sources
+        if source != "texte"
+    }
+
+    invented = claimed - available
+
+    if invented:
+        errors.append(
+            "Commentaires déclarés mais absents : "
+            + ", ".join(sorted(invented))
+        )
+
+    return claimed
 
 
-def _validate_study_block(
-    study: Any,
+def _validate_commentaries(
+    value: Any,
     *,
-    available_commentaries: set[str],
-    claimed_commentaries: set[str],
+    available: set[str],
+    claimed: set[str],
     errors: list[str],
     warnings: list[str],
 ) -> None:
-    if not isinstance(study, dict):
-        errors.append("study doit être un objet.")
+    if not isinstance(value, dict):
+        errors.append(
+            "study.commentaries doit être un objet."
+        )
         return
 
-    translation = study.get("translation")
-    explanation = study.get("explanation")
+    seen: set[str] = set()
 
-    if not isinstance(translation, str):
-        errors.append("study.translation doit être une chaîne.")
-    elif not translation.strip():
-        errors.append("study.translation est vide.")
-
-    if not isinstance(explanation, str):
-        errors.append("study.explanation doit être une chaîne.")
-    elif not explanation.strip():
-        errors.append("study.explanation est vide.")
-
-    commentaries = study.get("commentaries")
-    if not isinstance(commentaries, dict):
-        errors.append("study.commentaries doit être un objet.")
-    else:
-        available = {
-            canonical_source_name(name)
-            for name in available_commentaries
-            if canonical_source_name(name)
-        }
-
-        expected = STANDARD_COMMENTARIES | available
-        seen_canonical: set[str] = set()
-        entries_by_canonical: dict[str, dict[str, Any]] = {}
-
-        for name, entry in commentaries.items():
-            normalized_name = normalize_source_name(name)
-            canonical = canonical_source_name(name)
-
-            if normalized_name in {"rashi", "tosafot", "tosafoth"}:
-                errors.append(
-                    f"La clé historique {name} est interdite ; "
-                    f"utiliser {canonical}."
-                )
-
-            if canonical in seen_canonical:
-                errors.append(
-                    f"Le commentaire {canonical} apparaît plusieurs fois "
-                    "sous des alias différents."
-                )
-            else:
-                seen_canonical.add(canonical)
-
-            if not isinstance(entry, dict):
-                errors.append(
-                    f"study.commentaries.{name} doit être un objet."
-                )
-                continue
-
-            entries_by_canonical[canonical] = entry
-
-            available_flag = entry.get("available")
-            source_used = entry.get("source_used")
-            summary = entry.get("summary")
-
-            if not isinstance(available_flag, bool):
-                errors.append(
-                    f"study.commentaries.{name}.available "
-                    "doit être un booléen."
-                )
-
-            if not isinstance(source_used, bool):
-                errors.append(
-                    f"study.commentaries.{name}.source_used "
-                    "doit être un booléen."
-                )
-
-            if not isinstance(summary, str):
-                errors.append(
-                    f"study.commentaries.{name}.summary "
-                    "doit être une chaîne."
-                )
-                summary_text = ""
-            else:
-                summary_text = summary.strip()
-
-            actually_available = canonical in available
-
-            if canonical not in expected:
-                errors.append(
-                    f"Le commentaire {canonical} n'est ni standard "
-                    "ni présent dans les sources fournies."
-                )
-
-            if available_flag is True and not actually_available:
-                errors.append(
-                    f"Le commentaire {canonical} est déclaré "
-                    "disponible dans study mais absent des sources."
-                )
-
-            if actually_available and available_flag is not True:
-                errors.append(
-                    f"Le commentaire {canonical} est fourni "
-                    "mais study.available ne vaut pas true."
-                )
-
-            if source_used is True and not actually_available:
-                errors.append(
-                    f"Le commentaire {canonical} est déclaré "
-                    "utilisé mais absent des sources."
-                )
-
-            if source_used is True and available_flag is not True:
-                errors.append(
-                    f"Le commentaire {canonical} est utilisé "
-                    "mais marqué indisponible."
-                )
-
-            if summary_text and not actually_available:
-                errors.append(
-                    f"Un résumé de {canonical} est présent "
-                    "alors que la source est absente."
-                )
-
-            if source_used is True and not summary_text:
-                errors.append(
-                    f"Le commentaire {canonical} est utilisé "
-                    "mais son résumé est vide."
-                )
-
-            claimed = canonical in claimed_commentaries
-
-            if source_used is True and not claimed:
-                errors.append(
-                    f"Le commentaire {canonical} est marqué utilisé "
-                    "dans study mais absent de sources_used."
-                )
-
-            if claimed and source_used is not True:
-                errors.append(
-                    f"Le commentaire {canonical} figure dans sources_used "
-                    "mais study.source_used ne vaut pas true."
-                )
-
-        missing_entries = expected - set(entries_by_canonical)
-
-        if missing_entries:
-            errors.append(
-                "Entrées de commentaires manquantes dans study : "
-                + ", ".join(sorted(missing_entries))
-            )
-
-    halakha = study.get("halakha")
-    if not isinstance(halakha, dict):
-        errors.append("study.halakha doit être un objet.")
-    else:
-        available_flag = halakha.get("available")
-        text = halakha.get("text")
-        sources = halakha.get("sources")
-
-        if not isinstance(available_flag, bool):
-            errors.append(
-                "study.halakha.available doit être un booléen."
-            )
-
-        if not isinstance(text, str):
-            errors.append("study.halakha.text doit être une chaîne.")
-
-        source_list = _validate_string_list(
-            sources,
-            "study.halakha.sources",
-            errors,
+    for raw_name, entry in value.items():
+        canonical = canonical_source_name(
+            raw_name
         )
 
-        if available_flag is True and not str(text or "").strip():
+        if canonical in seen:
             errors.append(
-                "study.halakha est marqué disponible mais son texte est vide."
+                f"Le commentaire {canonical} "
+                "apparaît plusieurs fois."
+            )
+            continue
+
+        seen.add(canonical)
+
+        if canonical not in available:
+            errors.append(
+                f"Le commentaire {canonical} "
+                "est absent des sources."
             )
 
-        if str(text or "").strip() and available_flag is not True:
+        if not isinstance(entry, dict):
+            errors.append(
+                f"study.commentaries.{raw_name} "
+                "doit être un objet."
+            )
+            continue
+
+        available_flag = entry.get(
+            "available"
+        )
+        source_used = entry.get(
+            "source_used"
+        )
+        summary = entry.get(
+            "summary"
+        )
+
+        if available_flag is not True:
+            errors.append(
+                f"study.commentaries.{raw_name}."
+                "available doit valoir true."
+            )
+
+        if not isinstance(source_used, bool):
+            errors.append(
+                f"study.commentaries.{raw_name}."
+                "source_used doit être un booléen."
+            )
+
+        if not isinstance(summary, str):
+            errors.append(
+                f"study.commentaries.{raw_name}."
+                "summary doit être une chaîne."
+            )
+            summary_text = ""
+        else:
+            summary_text = summary.strip()
+
+        if HTML_FORMATTING_PATTERN.search(
+            summary_text
+        ):
+            errors.append(
+                f"Le commentaire {canonical} "
+                "contient une balise HTML."
+            )
+
+        if _contains_untranslated_hebrew(
+            summary_text
+        ):
+            errors.append(
+                f"L'éclairage de {canonical} "
+                "contient trop de texte hébreu non traduit."
+            )
+
+        if (
+            source_used is True
+            and not summary_text
+        ):
+            errors.append(
+                f"Le commentaire {canonical} est utilisé "
+                "mais son éclairage est vide."
+            )
+
+        if (
+            summary_text
+            and source_used is not True
+        ):
+            errors.append(
+                f"Le commentaire {canonical} contient "
+                "un éclairage mais source_used "
+                "ne vaut pas true."
+            )
+
+        if (
+            source_used is True
+            and canonical not in claimed
+        ):
+            errors.append(
+                f"Le commentaire {canonical} est utilisé "
+                "mais absent de sources_used."
+            )
+
+        if (
+            canonical in claimed
+            and source_used is not True
+        ):
+            errors.append(
+                f"Le commentaire {canonical} figure "
+                "dans sources_used mais n'est pas "
+                "marqué utilisé."
+            )
+
+        if len(summary_text) > 650:
             warnings.append(
-                "Un texte halakhique est présent mais "
-                "study.halakha.available vaut false."
+                f"L'éclairage de {canonical} "
+                "dépasse 650 caractères."
             )
 
-        if str(text or "").strip() and not source_list:
-            warnings.append(
-                "Le bloc halakhique contient un texte sans source déclarée."
-            )
+    missing_claimed = claimed - seen
 
-    _validate_string_list(
-        study.get("applications"),
-        "study.applications",
-        errors,
+    if missing_claimed:
+        errors.append(
+            "Commentaires utilisés mais absents "
+            "de study : "
+            + ", ".join(sorted(missing_claimed))
+        )
+
+
+def _validate_study(
+    value: Any,
+    *,
+    translation: str,
+    available: set[str],
+    claimed: set[str],
+    errors: list[str],
+    warnings: list[str],
+) -> None:
+    if not isinstance(value, dict):
+        errors.append(
+            "study doit être un objet."
+        )
+        return
+
+    study_translation = _validate_translation(
+        value.get("translation"),
+        field_name="study.translation",
+        errors=errors,
     )
-    _validate_string_list(
-        study.get("key_points"),
-        "study.key_points",
-        errors,
+
+    if (
+        translation
+        and study_translation
+        and translation != study_translation
+    ):
+        errors.append(
+            "study.translation ne correspond pas "
+            "à translation_fr."
+        )
+
+    explanation = value.get(
+        "explanation",
+        "",
     )
-    _validate_string_list(
-        study.get("references"),
-        "study.references",
-        errors,
+
+    if not isinstance(explanation, str):
+        errors.append(
+            "study.explanation doit être une chaîne."
+        )
+    elif explanation.strip():
+        warnings.append(
+            "study.explanation n'est pas vide "
+            "en mode léger."
+        )
+
+    _validate_commentaries(
+        value.get("commentaries"),
+        available=available,
+        claimed=claimed,
+        errors=errors,
+        warnings=warnings,
     )
-    _validate_string_list(
-        study.get("issues"),
-        "study.issues",
-        errors,
-    )
 
-    glossary = study.get("glossary")
-    if not isinstance(glossary, list):
-        errors.append("study.glossary doit être une liste.")
-    else:
-        for index, entry in enumerate(glossary):
-            if not isinstance(entry, dict):
-                errors.append(
-                    f"study.glossary[{index}] doit être un objet."
-                )
-                continue
+    confidence = value.get("confidence")
 
-            source = entry.get("source")
-            french = entry.get("french")
-            note = entry.get("note")
-
-            if not isinstance(source, str) or not source.strip():
-                errors.append(
-                    f"study.glossary[{index}].source est vide."
-                )
-
-            if not isinstance(french, str) or not french.strip():
-                errors.append(
-                    f"study.glossary[{index}].french est vide."
-                )
-
-            if not isinstance(note, str):
-                errors.append(
-                    f"study.glossary[{index}].note doit être une chaîne."
-                )
-
-    summary = study.get("summary")
-    review_note = study.get("review_note")
-
-    if not isinstance(summary, str):
-        errors.append("study.summary doit être une chaîne.")
-
-    if not isinstance(review_note, str):
-        errors.append("study.review_note doit être une chaîne.")
-
-    confidence = study.get("confidence")
-    if not isinstance(confidence, (int, float)):
-        errors.append("study.confidence doit être un nombre.")
+    if not isinstance(
+        confidence,
+        (int, float),
+    ):
+        errors.append(
+            "study.confidence doit être un nombre."
+        )
     elif not 0 <= float(confidence) <= 1:
         errors.append(
-            "study.confidence doit être compris entre 0 et 1."
+            "study.confidence doit être compris "
+            "entre 0 et 1."
         )
 
 
@@ -406,35 +469,47 @@ def validate_editorial_result(
     if not isinstance(payload, dict):
         return ValidationResult(
             valid=False,
-            errors=["Le résultat éditorial doit être un objet."],
+            errors=[
+                "Le résultat éditorial doit être "
+                "un objet."
+            ],
             warnings=[],
         )
 
-    translation = payload.get("translation_fr")
-    explanation = payload.get("explanation_fr")
+    translation = _validate_translation(
+        payload.get("translation_fr"),
+        field_name="translation_fr",
+        errors=errors,
+    )
 
-    if not isinstance(translation, str) or not translation.strip():
-        errors.append("translation_fr est vide.")
+    explanation = payload.get(
+        "explanation_fr",
+        "",
+    )
 
-    if not isinstance(explanation, str) or not explanation.strip():
-        errors.append("explanation_fr est vide.")
-
-    if isinstance(translation, str) and isinstance(explanation, str):
-        if (
-            translation.strip()
-            and translation.strip() == explanation.strip()
-        ):
-            errors.append(
-                "L'explication répète exactement la traduction."
-            )
+    if not isinstance(explanation, str):
+        errors.append(
+            "explanation_fr doit être une chaîne."
+        )
+    elif explanation.strip():
+        warnings.append(
+            "explanation_fr n'est pas vide "
+            "en mode léger."
+        )
 
     confidence = payload.get("confidence")
 
-    if not isinstance(confidence, (int, float)):
-        errors.append("confidence doit être un nombre.")
+    if not isinstance(
+        confidence,
+        (int, float),
+    ):
+        errors.append(
+            "confidence doit être un nombre."
+        )
     elif not 0 <= float(confidence) <= 1:
         errors.append(
-            "confidence doit être compris entre 0 et 1."
+            "confidence doit être compris "
+            "entre 0 et 1."
         )
     elif float(confidence) < 0.70:
         warnings.append(
@@ -442,85 +517,63 @@ def validate_editorial_result(
             "vérification humaine recommandée."
         )
 
-    available = {
-        canonical_source_name(name)
-        for name in available_commentaries
-        if canonical_source_name(name)
-    }
+    available = _canonical_available(
+        available_commentaries
+    )
 
-    sources = payload.get("sources_used", [])
-    claimed_commentaries: set[str] = set()
-
-    if not isinstance(sources, list):
-        errors.append("sources_used doit être une liste.")
-    else:
-        for source in sources:
-            canonical = canonical_source_name(source)
-
-            if not canonical:
-                continue
-
-            if canonical == "texte":
-                continue
-
-            claimed_commentaries.add(canonical)
-
-        invented_commentaries = claimed_commentaries - available
-
-        if invented_commentaries:
-            errors.append(
-                "Commentaires déclarés mais absents : "
-                + ", ".join(sorted(invented_commentaries))
-            )
+    claimed = _validate_sources(
+        payload.get("sources_used"),
+        available=available,
+        errors=errors,
+    )
 
     discouraged = {
         "ashmoura": "Employer « garde ».",
         "jour bon": "Employer « Yom Tov ».",
     }
 
-    combined = f"{translation or ''} {explanation or ''}".lower()
+    lowered_translation = translation.lower()
 
-    for forbidden, instruction in discouraged.items():
-        if forbidden in combined:
+    for forbidden, instruction in (
+        discouraged.items()
+    ):
+        if forbidden in lowered_translation:
             errors.append(
-                f"Terme interdit « {forbidden} ». {instruction}"
+                f"Terme interdit « {forbidden} ». "
+                f"{instruction}"
             )
 
     html = payload.get("html")
-    if html is not None and not isinstance(html, str):
-        errors.append("html doit être une chaîne.")
 
-    study = payload.get("study")
-    if study is not None:
-        _validate_study_block(
-            study,
-            available_commentaries=available_commentaries,
-            claimed_commentaries=claimed_commentaries,
-            errors=errors,
-            warnings=warnings,
+    if not isinstance(html, str):
+        errors.append(
+            "html doit être une chaîne."
+        )
+    elif re.search(
+        r"&lt;/?\s*(?:b|strong)\s*&gt;|"
+        r"&amp;lt;/?\s*(?:b|strong)\s*&amp;gt;",
+        html,
+        flags=re.IGNORECASE,
+    ):
+        errors.append(
+            "Le HTML contient une balise "
+            "de formatage visible."
         )
 
-        if isinstance(study, dict):
-            study_translation = study.get("translation")
-            study_explanation = study.get("explanation")
+    _validate_study(
+        payload.get("study"),
+        translation=translation,
+        available=available,
+        claimed=claimed,
+        errors=errors,
+        warnings=warnings,
+    )
 
-            if (
-                isinstance(translation, str)
-                and isinstance(study_translation, str)
-                and translation.strip() != study_translation.strip()
-            ):
-                errors.append(
-                    "study.translation ne correspond pas à translation_fr."
-                )
-
-            if (
-                isinstance(explanation, str)
-                and isinstance(study_explanation, str)
-                and explanation.strip() != study_explanation.strip()
-            ):
-                errors.append(
-                    "study.explanation ne correspond pas à explanation_fr."
-                )
+    if payload.get("mode") != "light":
+        warnings.append(
+            "Le résultat n'est pas explicitement "
+            "marqué mode light."
+        )
 
     return ValidationResult(
         valid=not errors,

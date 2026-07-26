@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -35,23 +36,49 @@ COMMENTARY_LABELS = {
 }
 
 
+COMMENTARY_ORDER = (
+    "rachi",
+    "tossefot",
+    "ritva",
+    "rosh",
+    "pnei_yehoshoua",
+)
+
+
 def load_charter(path: str | Path) -> str:
-    return Path(path).read_text(encoding="utf-8")
+    return Path(path).read_text(
+        encoding="utf-8"
+    )
 
 
-def _canonical_commentary_name(name: str) -> str:
+def _canonical_commentary_name(
+    name: str,
+) -> str:
     key = str(name or "").strip().lower()
     key = " ".join(key.split())
 
     if key in COMMENTARY_ALIASES:
         return COMMENTARY_ALIASES[key]
 
-    underscored = key.replace("-", "_").replace(" ", "_")
-    return COMMENTARY_ALIASES.get(underscored, underscored)
+    underscored = (
+        key
+        .replace("-", "_")
+        .replace(" ", "_")
+    )
+
+    return COMMENTARY_ALIASES.get(
+        underscored,
+        underscored,
+    )
 
 
-def _normalise_commentary_name(name: str) -> str:
-    canonical = _canonical_commentary_name(name)
+def _normalise_commentary_name(
+    name: str,
+) -> str:
+    canonical = _canonical_commentary_name(
+        name
+    )
+
     return COMMENTARY_LABELS.get(
         canonical,
         canonical.replace("_", " ").title(),
@@ -61,142 +88,264 @@ def _normalise_commentary_name(name: str) -> str:
 def _available_commentary_keys(
     commentaries: dict[str, str],
 ) -> list[str]:
-    keys = {
+    available = {
         _canonical_commentary_name(name)
         for name, text in commentaries.items()
         if str(text or "").strip()
     }
-    return sorted(key for key in keys if key)
+
+    ordered = [
+        key
+        for key in COMMENTARY_ORDER
+        if key in available
+    ]
+
+    ordered.extend(
+        sorted(
+            available.difference(
+                COMMENTARY_ORDER
+            )
+        )
+    )
+
+    return ordered
+
+
+def _clean_plain_text(value: Any) -> str:
+    text = str(value or "")
+
+    text = re.sub(
+        r"</?\s*(?:b|strong)\s*>",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r"&lt;/?\s*(?:b|strong)\s*&gt;",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r"&amp;lt;/?\s*(?:b|strong)\s*&amp;gt;",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    return " ".join(text.split())
+
+
+def _clip(
+    value: Any,
+    limit: int,
+) -> str:
+    text = _clean_plain_text(value)
+
+    if len(text) <= limit:
+        return text
+
+    clipped = text[:limit]
+
+    if " " in clipped:
+        clipped = clipped.rsplit(
+            " ",
+            1,
+        )[0]
+
+    return clipped.rstrip() + "…"
+
+
+def _segment_source_text(
+    segment: Any,
+) -> str:
+    if isinstance(segment, str):
+        return _clean_plain_text(segment)
+
+    if not isinstance(segment, dict):
+        return _clean_plain_text(segment)
+
+    for key in (
+        "he",
+        "hebrew",
+        "text_he",
+        "source_text",
+        "source",
+        "text",
+    ):
+        value = segment.get(key)
+
+        if (
+            isinstance(value, str)
+            and value.strip()
+        ):
+            return _clean_plain_text(value)
+
+    return ""
 
 
 def compact_commentaries(
     commentaries: dict[str, str],
-    limit_each: int = 12000,
+    limit_each: int = 500,
 ) -> str:
     """
-    Prépare les commentaires disponibles pour le modèle.
+    Envoie au modèle uniquement un court extrait de chaque méfarech.
 
-    Chaque commentaire est clairement séparé. Sa clé canonique est indiquée
-    afin que le modèle la recopie sans créer de doublon ou d'alias.
+    Cette limite constitue la principale protection du budget API.
     """
     if not commentaries:
-        return "Aucun commentaire disponible pour ce daf."
+        return "Aucun méfarech disponible."
+
+    by_key: dict[str, str] = {}
+
+    for name, text in commentaries.items():
+        canonical = _canonical_commentary_name(
+            name
+        )
+        cleaned = _clean_plain_text(text)
+
+        if cleaned and canonical not in by_key:
+            by_key[canonical] = cleaned
 
     blocks: list[str] = []
 
-    for name, text in sorted(commentaries.items()):
-        cleaned_text = str(text or "").strip()
-        if not cleaned_text:
+    for canonical in _available_commentary_keys(
+        by_key
+    ):
+        text = by_key.get(
+            canonical,
+            "",
+        )
+
+        if not text:
             continue
 
-        canonical = _canonical_commentary_name(name)
-        label = _normalise_commentary_name(name)
+        label = COMMENTARY_LABELS.get(
+            canonical,
+            canonical.replace(
+                "_",
+                " ",
+            ).title(),
+        )
+
         blocks.append(
-            f"### {label} [clé JSON: {canonical}]\n"
-            f"{cleaned_text[:limit_each]}"
+            f"{label} [clé: {canonical}]\n"
+            f"{_clip(text, limit_each)}"
         )
 
     if not blocks:
-        return "Aucun commentaire disponible pour ce daf."
+        return "Aucun méfarech disponible."
 
     return "\n\n".join(blocks)
+
+
+def _compact_charter(charter: str) -> str:
+    return _clip(
+        charter,
+        800,
+    )
+
+
+def _compact_terms(
+    terminology_rules: list[str],
+) -> str:
+    rules = [
+        _clip(rule, 120)
+        for rule in terminology_rules[:8]
+        if _clean_plain_text(rule)
+    ]
+
+    if not rules:
+        return "- Aucune règle particulière."
+
+    return "\n".join(
+        f"- {rule}"
+        for rule in rules
+    )
 
 
 def translator_instructions(
     charter: str,
     terminology_rules: list[str],
 ) -> str:
-    terms = (
-        "\n".join(f"- {rule}" for rule in terminology_rules)
-        or "- Aucun terme imposé."
-    )
+    return f"""Tu traduis directement le Talmud de l'hébreu et de l'araméen
+en français pour TALMUD AI.
 
-    return f"""Tu es le traducteur principal de TALMUD AI V7.2.
+CHARTE ESSENTIELLE
+{_compact_charter(charter)}
 
-Ta mission est de traduire directement l'hébreu et l'araméen talmudiques
-en français, sans passer par une traduction anglaise.
+TERMINOLOGIE
+{_compact_terms(terminology_rules)}
 
-CHARTE ÉDITORIALE
-{charter}
+CONSIGNES
+- Traduis uniquement central_text.
+- Produis un français fidèle, naturel, précis et publiable.
+- Le contexte voisin sert uniquement à comprendre central_text.
+- N'invente aucune source, halakha ou explication.
+- Utilise uniquement les méfarchim réellement fournis.
+- Pour chaque méfarech pertinent, écris en français un éclairage distinct
+  d'une ou deux phrases courtes.
+- Traduis en français l'idée du méfarech : ne recopie jamais un long passage
+  hébreu ou araméen dans son éclairage.
+- Omet tout méfarech absent ou non pertinent.
+- N'ajoute ni HTML ni Markdown.
+- Réponds uniquement par un objet JSON valide.
 
-TERMINOLOGIE OBLIGATOIRE
-{terms}
-
-PRINCIPES ABSOLUS
-- Traduis uniquement ce qui est réellement présent dans le passage.
-- Utilise le contexte précédent et suivant seulement pour résoudre le sens.
-- N'invente jamais une source, une opinion, une halakha ou un commentaire.
-- Ne prétends jamais avoir utilisé un commentaire absent.
-- Distingue strictement traduction et explication.
-- La traduction doit rester fidèle, naturelle et publiable telle quelle.
-- L'explication doit éclairer le raisonnement du passage, pas le répéter.
-- Conserve les termes halakhiques utiles lorsqu'une traduction française
-  ferait perdre la précision.
-- En cas d'ambiguïté réelle, indique-la explicitement.
-- Le champ confidence doit être compris entre 0 et 1.
-- Réponds exclusivement par un objet JSON valide.
-- N'ajoute aucun texte avant ou après le JSON.
-- N'utilise aucun bloc Markdown.
-
-FORMAT JSON OBLIGATOIRE
+FORMAT JSON
 {{
-  "translation_fr": "traduction française fidèle et naturelle",
-  "explanation_fr": "explication distincte et précise du passage",
-  "terms": [
-    {{
-      "source": "mot ou expression en hébreu ou araméen",
-      "fr": "traduction française retenue",
-      "note": "précision linguistique ou talmudique"
-    }}
-  ],
-  "sources_used": [
-    "texte",
-    "rachi",
-    "tossefot",
-    "ritva",
-    "rosh"
-  ],
-  "ambiguities": [
-    "ambiguïté réelle du passage"
-  ],
+  "translation_fr": "traduction française",
+  "commentaries": {{
+    "rachi": "éclairage français concis",
+    "tossefot": "éclairage français concis",
+    "ritva": "éclairage français concis",
+    "rosh": "éclairage français concis",
+    "pnei_yehoshoua": "éclairage français concis"
+  }},
+  "sources_used": ["texte", "rachi"],
   "confidence": 0.0
 }}
 
-RÈGLES SUR LES SOURCES
-- "texte" peut toujours être utilisé.
-- N'inclus une clé de commentaire dans sources_used que si ce commentaire
-  est réellement fourni et éclaire effectivement le segment central.
-- Recopie exactement la clé JSON indiquée dans l'en-tête du commentaire.
-- Si aucun commentaire n'est utilisé, écris uniquement ["texte"].
-- N'ajoute aucune source générique ou bibliographique non fournie.
+RÈGLES JSON
+- Supprime de commentaries toute clé absente ou non pertinente.
+- Utilise exactement les clés indiquées dans les extraits.
+- sources_used commence toujours par "texte".
+- Ajoute dans sources_used uniquement les commentaires réellement résumés.
+- confidence doit être compris entre 0 et 1.
 """
 
 
-def translator_input(target: SegmentTarget) -> str:
-    available_commentaries = _available_commentary_keys(
-        target.commentary_texts
-    )
-
+def translator_input(
+    target: SegmentTarget,
+) -> str:
     payload = {
         "masechet": target.masechet,
         "daf": target.daf,
         "segment": target.segment_number,
-        "previous_text": target.previous_text,
-        "central_segment": target.segment,
-        "next_text": target.next_text,
-        "available_commentaries": available_commentaries,
+        "previous_text": _clip(
+            target.previous_text,
+            180,
+        ),
+        "central_text": _segment_source_text(
+            target.segment
+        ),
+        "next_text": _clip(
+            target.next_text,
+            180,
+        ),
+        "available_commentaries": (
+            _available_commentary_keys(
+                target.commentary_texts
+            )
+        ),
     }
 
-    return f"""CONTEXTE DU PASSAGE
-{json.dumps(payload, ensure_ascii=False, indent=2)}
+    return f"""PASSAGE
+{json.dumps(payload, ensure_ascii=False, separators=(",", ":"))}
 
-COMMENTAIRES RÉELLEMENT DISPONIBLES POUR CE DAF
-{compact_commentaries(target.commentary_texts)}
+COURTS EXTRAITS DES MÉFARCHIM
+{compact_commentaries(target.commentary_texts, limit_each=500)}
 
-INSTRUCTION FINALE
-Traduis le segment central. Le texte précédent et le texte suivant servent
-uniquement à comprendre le contexte. Ne les fusionne pas avec la traduction
-du segment central.
+Traduis uniquement central_text et retourne uniquement le JSON demandé.
 """
 
 
@@ -204,132 +353,35 @@ def reviewer_instructions(
     charter: str,
     terminology_rules: list[str],
 ) -> str:
-    terms = (
-        "\n".join(f"- {rule}" for rule in terminology_rules)
-        or "- Aucun terme imposé."
-    )
+    """
+    Prompt de secours appelé uniquement après un refus du validateur.
+    """
+    return f"""Tu corriges une courte traduction talmudique pour TALMUD AI.
 
-    return f"""Tu es le relecteur rabbinique et éditorial de TALMUD AI V7.2.
+CHARTE ESSENTIELLE
+{_compact_charter(charter)}
 
-Tu dois contrôler, corriger et enrichir une proposition de traduction
-française du Talmud sans jamais inventer de contenu.
+TERMINOLOGIE
+{_compact_terms(terminology_rules)}
 
-CHARTE ÉDITORIALE
-{charter}
+- Corrige uniquement les erreurs réelles.
+- N'invente rien.
+- N'utilise que les méfarchim fournis.
+- Rédige tous les éclairages entièrement en français.
+- Ne recopie pas de long texte hébreu ou araméen.
+- Chaque éclairage doit tenir en une ou deux phrases courtes.
+- N'ajoute ni HTML ni Markdown.
+- Réponds uniquement par un objet JSON valide.
 
-TERMINOLOGIE OBLIGATOIRE
-{terms}
-
-OBJECTIFS
-- Vérifier la fidélité à l'hébreu et à l'araméen.
-- Corriger les contresens, omissions et maladresses françaises.
-- Vérifier que l'explication est distincte de la traduction.
-- Vérifier que les commentaires déclarés sont réellement disponibles.
-- Distinguer clairement l'apport propre de chaque commentaire pertinent.
-- Extraire uniquement les enseignements présents dans le texte fourni.
-- Produire une étude structurée compatible avec TALMUD AI V7.2.
-- Ne jamais créer une halakha certaine à partir d'une simple discussion.
-- Ne jamais attribuer une idée à un commentaire si cette idée n'apparaît
-  pas dans le texte de ce commentaire.
-- Répondre exclusivement par un objet JSON valide.
-- Ne rien écrire avant ou après le JSON.
-- Ne pas utiliser de bloc Markdown.
-
-FORMAT JSON OBLIGATOIRE
+FORMAT JSON
 {{
-  "approved": true,
-  "translation_fr": "version finale corrigée",
-  "explanation_fr": "version finale corrigée et distincte",
-  "issues": [
-    "problème corrigé ou point nécessitant une vigilance"
-  ],
-  "sources_used": [
-    "texte",
-    "rachi",
-    "tossefot",
-    "ritva",
-    "rosh"
-  ],
-  "terms": [
-    {{
-      "source": "terme hébreu ou araméen",
-      "fr": "traduction française",
-      "note": "explication concise"
-    }}
-  ],
-  "ambiguities": [
-    "ambiguïté réelle restante"
-  ],
-  "applications": [
-    "application pratique raisonnablement déduite du passage"
-  ],
-  "key_points": [
-    "idée essentielle du passage"
-  ],
-  "references": [
-    "référence explicitement présente ou fournie"
-  ],
-  "summary": "résumé bref du passage",
+  "translation_fr": "traduction française corrigée",
   "commentaries": {{
-    "rachi": {{
-      "available": false,
-      "source_used": false,
-      "summary": ""
-    }},
-    "tossefot": {{
-      "available": false,
-      "source_used": false,
-      "summary": ""
-    }},
-    "ritva": {{
-      "available": false,
-      "source_used": false,
-      "summary": ""
-    }},
-    "rosh": {{
-      "available": false,
-      "source_used": false,
-      "summary": ""
-    }}
+    "rachi": "éclairage français concis"
   }},
-  "halakha": {{
-    "available": false,
-    "text": "",
-    "sources": []
-  }},
-  "confidence": 0.0,
-  "review_note": "justification concise de la révision"
+  "sources_used": ["texte", "rachi"],
+  "confidence": 0.0
 }}
-
-RÈGLES DE VALIDATION
-- approved vaut true seulement si la version finale est publiable.
-- confidence doit être compris entre 0 et 1.
-- "texte" peut toujours figurer dans sources_used.
-- Le bloc commentaries doit contenir une entrée pour chaque commentaire
-  réellement fourni, en utilisant exactement sa clé JSON canonique.
-- Si un commentaire supplémentaire est fourni, par exemple
-  pnei_yehoshoua, ajoute son entrée avec les mêmes trois champs.
-- available vaut true dès que le texte du commentaire est fourni.
-- source_used vaut true uniquement si ce commentaire a réellement servi à
-  corriger, expliquer ou préciser le segment central.
-- Pour un commentaire fourni et pertinent, écris un résumé distinct, fidèle
-  à son apport propre, sans mélanger son enseignement avec celui d'une autre
-  source.
-- Un résumé autonome peut être présent avec source_used=false lorsque le
-  commentaire est pertinent pour le segment mais n'a pas servi à corriger la
-  traduction ou l'explication principale.
-- Pour un commentaire fourni mais sans passage pertinent pour le segment,
-  conserve available=true, source_used=false et summary="".
-- Pour un commentaire absent, conserve available=false,
-  source_used=false et summary="".
-- Toute clé avec source_used=true doit aussi figurer dans sources_used.
-- Toute source de sources_used autre que "texte" doit avoir
-  source_used=true dans commentaries.
-- Le bloc halakha doit rester available=false si aucune conclusion halakhique
-  fiable n'est explicitement soutenue par les sources fournies.
-- applications peut rester vide.
-- references peut rester vide.
-- issues doit décrire les problèmes réels, pas inventer des défauts.
 """
 
 
@@ -337,30 +389,34 @@ def reviewer_input(
     target: SegmentTarget,
     draft: dict[str, Any],
 ) -> str:
-    available_commentaries = _available_commentary_keys(
-        target.commentary_texts
-    )
-
-    review_context = {
+    context = {
         "masechet": target.masechet,
         "daf": target.daf,
         "segment": target.segment_number,
-        "available_commentaries": available_commentaries,
+        "previous_text": _clip(
+            target.previous_text,
+            180,
+        ),
+        "central_text": _segment_source_text(
+            target.segment
+        ),
+        "next_text": _clip(
+            target.next_text,
+            180,
+        ),
+        "available_commentaries": (
+            _available_commentary_keys(
+                target.commentary_texts
+            )
+        ),
+        "draft": draft,
     }
 
-    return f"""IDENTIFICATION DU PASSAGE
-{json.dumps(review_context, ensure_ascii=False, indent=2)}
+    return f"""DONNÉES À CORRIGER
+{json.dumps(context, ensure_ascii=False, separators=(",", ":"))}
 
-PASSAGE SOURCE ET COMMENTAIRES
-{translator_input(target)}
+COURTS EXTRAITS DES MÉFARCHIM
+{compact_commentaries(target.commentary_texts, limit_each=500)}
 
-PROPOSITION DU TRADUCTEUR
-{json.dumps(draft, ensure_ascii=False, indent=2)}
-
-INSTRUCTION FINALE
-Corrige la proposition à partir du segment source et des seuls commentaires
-réellement fournis. Retourne tous les champs du format JSON demandé, même
-lorsqu'une liste est vide ou qu'une source est indisponible. Ajoute dans
-commentaries une entrée pour chaque clé indiquée dans
-available_commentaries.
+Retourne uniquement le JSON final corrigé.
 """
