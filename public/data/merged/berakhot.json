@@ -18438,10 +18438,152 @@
           "id": 1,
           "he": "דִּילְמָא בִּיאַת אוֹרוֹ הוּא, וּמַאי ״וְטָהֵר״ — טְהַר גַּבְרָא?!",
           "en": "Perhaps the expression: “And the sun sets and it is purified” refers to the very beginning of sunset, the setting of the sun’s light. According to that explanation, what does the expression and it is purified mean? It means that the person will become purified. After immersing, he will wait until the beginning of sunset, and only then will he be able to eat of his <i>teruma</i> (<i>Tossefot</i>).",
-          "fr": "Peut-être s'agit-il de l'entrée de sa lumière [l'aurore], et que signifie alors « et il sera pur » — que l'homme est purifié ?!",
+          "fr": "Peut-être l’expression « et il sera pur » se réfère au tout début du coucher du soleil, à l’entrée de la lumière du jour. Selon cette explication, que signifie alors « et il sera pur » ? Cela signifie que la personne sera purifiée. Après immersion, il attendra le début du coucher du soleil, et ce n’est qu’alors qu’il pourra manger de sa teruma (provenance des offrandes des prêtres).",
           "translation_meta": {
             "engine": "claude-sonnet-4-6",
             "source": "hebrew_aramaic_direct"
+          },
+          "fr_explanation": "Le segment explore la signification possible de וְטָהֵר associé à l’énoncé דִּילְמָא בִּיאַת אוֹרוֹ. Selon l’interprétation évoquée, « et il sera pur » désigne la purification de l’individu après immersion, puis l’attente du début du coucher du soleil pour pouvoir consommer la teruma. Le passage ouvre ensuite des débats sur le minutage entre jour et nuit et sur les conditions liées à la consommation de la teruma, tels que discutés par les commentateurs présentés (Rachi, Tossefot, Ritva, Roch).",
+          "fr_html": "<section class=\"talmud-study-block\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Peut-être l’expression « et il sera pur » se réfère au tout début du coucher du soleil, à l’entrée de la lumière du jour. Selon cette explication, que signifie alors « et il sera pur » ? Cela signifie que la personne sera purifiée. Après immersion, il attendra le début du coucher du soleil, et ce n’est qu’alors qu’il pourra manger de sa teruma (provenance des offrandes des prêtres).</strong></p>\n  </section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Étude détaillée</h3>\n  <p class=\"talmud-explanation\">Le segment explore la signification possible de וְטָהֵר associé à l’énoncé דִּילְמָא בִּיאַת אוֹרוֹ. Selon l’interprétation évoquée, « et il sera pur » désigne la purification de l’individu après immersion, puis l’attente du début du coucher du soleil pour pouvoir consommer la teruma. Le passage ouvre ensuite des débats sur le minutage entre jour et nuit et sur les conditions liées à la consommation de la teruma, tels que discutés par les commentateurs présentés (Rachi, Tossefot, Ritva, Roch).</p>\n  </section>\n<section class=\"talmud-study-section talmud-commentary talmud-commentary-rachi\">\n  <h3>Rachi</h3>\n  <p class=\"talmud-commentary-text\">Rachi interprète דילמא ביאת אורו כתחילת שקיעת השמש והטהרו של האדם בהתקרבותו לקרבנותיו; מבאר כי וטהר קשור להוצאת כפרה או טוהר כפשוטו לפי זמן הטבילה והקשרו לבגדי כהנים והטבלה.</p>\n</section>\n<section class=\"talmud-study-section talmud-commentary talmud-commentary-tossefot\">\n  <h3>Tossefot</h3>\n  <p class=\"talmud-commentary-text\">Tossefot propose une lecture alternative sur le sens de ביאת אורו et le passage de הטהר טהר; il discute des points de confusion autour du moment exact (entrée du soleil vs sortie du soleil) et justifie l’usage d’un certain temps pour la pureté et la consommation de התרומה.</p>\n</section>\n<section class=\"talmud-study-section talmud-commentary talmud-commentary-ritva\">\n  <h3>Ritva</h3>\n  <p class=\"talmud-commentary-text\">Ritva analyses le lien entre la fin d’ashmora et les temps de la journée; discute des opinions sur le moment où commence le temps de la prière et les implications sur la récitation du Kriat Shema et le temps où l’on peut manger la teruma.</p>\n</section>\n<section class=\"talmud-study-section talmud-commentary talmud-commentary-rosh\">\n  <h3>Roch</h3>\n  <p class=\"talmud-commentary-text\">Rosh présente les cadres temporels et les opinions des maîtres sur la fin de la période du coucher et la récitation de la kséoua; il lie ces temps au moment où les prêtres peuvent consommer leur teruma et les implications pour la pratique liturgique.</p>\n</section>\n<section class=\"talmud-study-section talmud-glossary\">\n  <h3>Glossaire</h3>\n  <ul class=\"talmud-glossary-list\">\n    <li><span class=\"talmud-glossary-source\">וְטָהֵר</span> : <span class=\"talmud-glossary-french\">et il sera pur</span> <span class=\"talmud-glossary-note\">— formule de purification rituelle; question sur le moment précis de la purification dans le cadre temporel</span></li>\n    <li><span class=\"talmud-glossary-source\">דִּילְמָא</span> : <span class=\"talmud-glossary-french\">Peut-être</span> <span class=\"talmud-glossary-note\">— expression d’hypothèse introduisant une possibilité interprétative</span></li>\n    <li><span class=\"talmud-glossary-source\">בִּיאַת אוֹרוֹ</span> : <span class=\"talmud-glossary-french\">l’entrée de sa lumière / la venue de sa lumière</span> <span class=\"talmud-glossary-note\">— référence au moment du coucher ou à l’apparition de la lumière du jour</span></li>\n    <li><span class=\"talmud-glossary-source\">טְהַר גַּבְרָא</span> : <span class=\"talmud-glossary-french\">et il sera purifié</span> <span class=\"talmud-glossary-note\">— purification rituelle de l’individu</span></li>\n    <li><span class=\"talmud-glossary-source\">תרומה</span> : <span class=\"talmud-glossary-french\">teruma</span> <span class=\"talmud-glossary-note\">— portion destinée à l’usage des prêtres; conditions de consommation selon le temps</span></li>\n  </ul>\n</section>\n<section class=\"talmud-study-section talmud-summary\">\n  <h3>Résumé</h3>\n  <p class=\"talmud-summary-text\">Le passage explore une interprétation possible de וְטָהֵר liée à דִּילְמָא בִּיאַת אוֹרוֹ, suggérant que l’expression « et il sera pur » peut signifier la purification de l’individu après immersion, avec l’attente du début du coucher pour pouvoir consommer la teruma. Le texte ouvre des discussions sur le minutage entre jour et nuit et sur les conditions associées à la consommation de la teruma, telles que développées par les commentaires fournis.</p>\n</section>\n<section class=\"talmud-study-section talmud-key-points\">\n  <h3>Points clés</h3>\n  <ul class=\"talmud-key-points-list\">\n    <li>Possibilité que « et il sera pur » réfère à la purification post-immersion.</li>\n    <li>Temporalité ambiguë entre début de coucher et fin de journée influençant le moment où l’on peut manger la teruma.</li>\n  </ul>\n</section>\n</section>",
+          "fr_editorial": {
+            "sources_used": [
+              "texte",
+              "rachi",
+              "tossefot",
+              "ritva",
+              "rosh"
+            ],
+            "confidence": 0.28,
+            "review_note": "Révision limitée au segment central en s’appuyant uniquement sur les commentaires fournis. La traduction privilégie une formulation fidèle tout en restant fidèle au sens interrogatif du texte et en indiquant les limites interprétatives présentées par les commentateurs.",
+            "issues": [
+              "Traduction proposée omet certains éléments contextuels précis du texte source (par exemple la formulation exacte et le cadre de Tossefot et Ritva).",
+              "La version simplifiée peut masquer les nuances sur le moment précis (début du coucher vs fin de journée) discutées par les commentaires.",
+              "Ambiguïté réelle sur le moment exact décrit par « et il sera pur » et sur le lien avec le début du coucher, tel que discuté par les commentateurs.",
+              "L’interprétation dépend des nuances entre Béréths et les témoins (Rachi, Tossefot, Ritva, Roch); la traduction simplifiée peut ne pas rendre ces distinctions."
+            ],
+            "engine_version": "7.2",
+            "schema_version": "study-v7.2",
+            "generated_at": "2026-07-26T19:44:33.799108+00:00",
+            "masechet": "berakhot",
+            "daf": "2b",
+            "segment_number": 1,
+            "segment_index": 0,
+            "translator_model": "gpt-5-nano",
+            "reviewer_model": "gpt-5-nano",
+            "translator_response_id": "resp_07ecf852d3aab36f006a6663962dd4819f90e02a55dcbdb716",
+            "reviewer_response_id": "resp_0b3148e85156f57b006a66639aac9c819cbb4c32c9b564e02f",
+            "tokens": {
+              "translator": {
+                "input": 18419,
+                "output": 1349,
+                "total": 19768
+              },
+              "reviewer": {
+                "input": 10557,
+                "output": 1356,
+                "total": 11913
+              },
+              "total": 31681
+            },
+            "commentaries_available": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "ritva",
+              "rosh",
+              "tossefot"
+            ],
+            "validation": {
+              "valid": true,
+              "errors": [],
+              "warnings": [
+                "Confiance inférieure à 0,70 : vérification humaine recommandée."
+              ]
+            },
+            "cost": {
+              "segment_eur": 0.0025308,
+              "run_eur": 0.0025308,
+              "spent_eur": 0.006525650000000001,
+              "remaining_eur": 44.99347435,
+              "limit_eur": 45.0
+            }
+          },
+          "study": {
+            "translation": "Peut-être l’expression « et il sera pur » se réfère au tout début du coucher du soleil, à l’entrée de la lumière du jour. Selon cette explication, que signifie alors « et il sera pur » ? Cela signifie que la personne sera purifiée. Après immersion, il attendra le début du coucher du soleil, et ce n’est qu’alors qu’il pourra manger de sa teruma (provenance des offrandes des prêtres).",
+            "explanation": "Le segment explore la signification possible de וְטָהֵר associé à l’énoncé דִּילְמָא בִּיאַת אוֹרוֹ. Selon l’interprétation évoquée, « et il sera pur » désigne la purification de l’individu après immersion, puis l’attente du début du coucher du soleil pour pouvoir consommer la teruma. Le passage ouvre ensuite des débats sur le minutage entre jour et nuit et sur les conditions liées à la consommation de la teruma, tels que discutés par les commentateurs présentés (Rachi, Tossefot, Ritva, Roch).",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "summary": "Rachi interprète דילמא ביאת אורו כתחילת שקיעת השמש והטהרו של האדם בהתקרבותו לקרבנותיו; מבאר כי וטהר קשור להוצאת כפרה או טוהר כפשוטו לפי זמן הטבילה והקשרו לבגדי כהנים והטבלה.",
+                "source_used": true
+              },
+              "tossefot": {
+                "available": true,
+                "summary": "Tossefot propose une lecture alternative sur le sens de ביאת אורו et le passage de הטהר טהר; il discute des points de confusion autour du moment exact (entrée du soleil vs sortie du soleil) et justifie l’usage d’un certain temps pour la pureté et la consommation de התרומה.",
+                "source_used": true
+              },
+              "ritva": {
+                "available": true,
+                "summary": "Ritva analyses le lien entre la fin d’ashmora et les temps de la journée; discute des opinions sur le moment où commence le temps de la prière et les implications sur la récitation du Kriat Shema et le temps où l’on peut manger la teruma.",
+                "source_used": true
+              },
+              "rosh": {
+                "available": true,
+                "summary": "Rosh présente les cadres temporels et les opinions des maîtres sur la fin de la période du coucher et la récitation de la kséoua; il lie ces temps au moment où les prêtres peuvent consommer leur teruma et les implications pour la pratique liturgique.",
+                "source_used": true
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [
+              {
+                "source": "וְטָהֵר",
+                "french": "et il sera pur",
+                "note": "formule de purification rituelle; question sur le moment précis de la purification dans le cadre temporel"
+              },
+              {
+                "source": "דִּילְמָא",
+                "french": "Peut-être",
+                "note": "expression d’hypothèse introduisant une possibilité interprétative"
+              },
+              {
+                "source": "בִּיאַת אוֹרוֹ",
+                "french": "l’entrée de sa lumière / la venue de sa lumière",
+                "note": "référence au moment du coucher ou à l’apparition de la lumière du jour"
+              },
+              {
+                "source": "טְהַר גַּבְרָא",
+                "french": "et il sera purifié",
+                "note": "purification rituelle de l’individu"
+              },
+              {
+                "source": "תרומה",
+                "french": "teruma",
+                "note": "portion destinée à l’usage des prêtres; conditions de consommation selon le temps"
+              }
+            ],
+            "summary": "Le passage explore une interprétation possible de וְטָהֵר liée à דִּילְמָא בִּיאַת אוֹרוֹ, suggérant que l’expression « et il sera pur » peut signifier la purification de l’individu après immersion, avec l’attente du début du coucher pour pouvoir consommer la teruma. Le texte ouvre des discussions sur le minutage entre jour et nuit et sur les conditions associées à la consommation de la teruma, telles que développées par les commentaires fournis.",
+            "key_points": [
+              "Possibilité que « et il sera pur » réfère à la purification post-immersion.",
+              "Temporalité ambiguë entre début de coucher et fin de journée influençant le moment où l’on peut manger la teruma."
+            ],
+            "references": [],
+            "confidence": 0.28,
+            "issues": [
+              "Traduction proposée omet certains éléments contextuels précis du texte source (par exemple la formulation exacte et le cadre de Tossefot et Ritva).",
+              "La version simplifiée peut masquer les nuances sur le moment précis (début du coucher vs fin de journée) discutées par les commentaires.",
+              "Ambiguïté réelle sur le moment exact décrit par « et il sera pur » et sur le lien avec le début du coucher, tel que discuté par les commentateurs.",
+              "L’interprétation dépend des nuances entre Béréths et les témoins (Rachi, Tossefot, Ritva, Roch); la traduction simplifiée peut ne pas rendre ces distinctions."
+            ],
+            "review_note": "Révision limitée au segment central en s’appuyant uniquement sur les commentaires fournis. La traduction privilégie une formulation fidèle tout en restant fidèle au sens interrogatif du texte et en indiquant les limites interprétatives présentées par les commentateurs."
           }
         },
         {

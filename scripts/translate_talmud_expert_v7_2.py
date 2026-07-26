@@ -12,6 +12,7 @@ ROOT_FROM_SCRIPT = SCRIPT_DIR.parent
 if str(ROOT_FROM_SCRIPT) not in sys.path:
     sys.path.insert(0, str(ROOT_FROM_SCRIPT))
 
+from engine_v7_2.budget import BudgetError, BudgetGuard
 from engine_v7_2.checkpoint import CheckpointStore
 from engine_v7_2.commentary_loader import CommentaryLibrary
 from engine_v7_2.config import EnginePaths
@@ -23,7 +24,10 @@ from engine_v7_2.corpus_writer import (
 from engine_v7_2.diagnostics import format_summary
 from engine_v7_2.loader import extract_hebrew_text, load_document
 from engine_v7_2.naming import canonical_name
-from engine_v7_2.openai_client import ResponsesJsonClient
+from engine_v7_2.openai_client import (
+    OpenAIEngineError,
+    ResponsesJsonClient,
+)
 from engine_v7_2.pipeline import EditorialPipeline
 from engine_v7_2.project_index import ProjectScanner
 from engine_v7_2.prompts import load_charter
@@ -69,11 +73,11 @@ def parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--model-translator",
-        default="gpt-5.5",
+        default="gpt-5-nano",
     )
     p.add_argument(
         "--model-reviewer",
-        default="gpt-5.5",
+        default="gpt-5-nano",
     )
     p.add_argument(
         "--dry-run",
@@ -169,6 +173,28 @@ def main() -> int:
         args.project_root
     )
     paths.ensure_runtime_directories()
+
+    try:
+        budget = BudgetGuard(paths.project_root)
+    except BudgetError as exc:
+        raise SystemExit(
+            f"Erreur budgétaire : {exc}"
+        ) from exc
+
+    print("\n💶 Budget de la phase légère")
+    print(
+        "  Plafond :",
+        f"{budget.state['limit_eur']:.2f} €",
+    )
+    print(
+        "  Dépensé :",
+        f"{budget.spent_eur:.6f} €",
+    )
+    print(
+        "  Restant :",
+        f"{budget.remaining_eur:.6f} €",
+    )
+    print("  Fichier :", budget.path)
 
     scanner = ProjectScanner(paths)
     index = scanner.scan()
@@ -270,6 +296,7 @@ def main() -> int:
     processed = 0
     skipped = 0
     total_tokens = 0
+    run_cost_eur = 0.0
     last_report_path: Path | None = None
     last_checkpoint_path: Path | None = None
 
@@ -310,7 +337,42 @@ def main() -> int:
             )
             continue
 
-        result = pipeline.run(target)
+        try:
+            budget.ensure_call_allowed()
+        except BudgetError as exc:
+            print(f"\n⛔ Arrêt budgétaire : {exc}")
+            break
+
+        try:
+            result = pipeline.run(target)
+        except OpenAIEngineError as exc:
+            failed_cost = budget.record_error(
+                args.model_reviewer,
+                exc,
+            )
+            print(f"\n❌ Appel API interrompu : {exc}")
+            print(
+                "💶 Coût comptabilisé :",
+                f"{failed_cost:.6f} €",
+            )
+            print(
+                "💶 Budget restant :",
+                f"{budget.remaining_eur:.6f} €",
+            )
+            return 3
+
+        segment_cost = budget.record_result(
+            result.metadata
+        )
+        run_cost_eur += segment_cost
+
+        result.metadata["cost"] = {
+            "segment_eur": segment_cost,
+            "run_eur": run_cost_eur,
+            "spent_eur": budget.spent_eur,
+            "remaining_eur": budget.remaining_eur,
+            "limit_eur": budget.state["limit_eur"],
+        }
 
         report_payload = _build_report_payload(
             masechet=masechet,
@@ -362,6 +424,7 @@ def main() -> int:
                 "segment_index": target.segment_index,
                 "report": str(report_path),
                 "tokens": result.metadata["tokens"],
+                "cost": result.metadata.get("cost", {}),
                 "validation": result.metadata.get(
                     "validation",
                     {},
@@ -381,6 +444,18 @@ def main() -> int:
 
         print("✅ Traduction validée et sauvegardée.")
         print("📊 Tokens du segment :", segment_tokens)
+        print(
+            "💶 Coût estimé du segment :",
+            f"{segment_cost:.6f} €",
+        )
+        print(
+            "💶 Dépensé sur la phase légère :",
+            f"{budget.spent_eur:.6f} €",
+        )
+        print(
+            "💶 Budget restant :",
+            f"{budget.remaining_eur:.6f} €",
+        )
         print("📄 Rapport :", report_path)
         print("📍 Checkpoint :", checkpoint_path)
 
@@ -389,6 +464,18 @@ def main() -> int:
     print("Segments sauvegardés :", processed)
     print("Segments ignorés :", skipped)
     print("Tokens totaux :", total_tokens)
+    print(
+        "Coût estimé de cette exécution :",
+        f"{run_cost_eur:.6f} €",
+    )
+    print(
+        "Coût cumulé de la phase légère :",
+        f"{budget.spent_eur:.6f} €",
+    )
+    print(
+        "Budget restant :",
+        f"{budget.remaining_eur:.6f} €",
+    )
 
     if last_report_path:
         print("Dernier rapport :", last_report_path)
