@@ -364,6 +364,7 @@ def main() -> int:
     skipped = 0
     run_cost = 0.0
     run_tokens = 0
+    failures: list[dict[str, object]] = []
 
     for index in range(start_index, end_index):
         number = index + 1
@@ -432,8 +433,18 @@ def main() -> int:
                 commentaries,
             )
 
+        except BudgetError as exc:
+            print(
+                "⛔ Budget épuisé : "
+                f"{exc}"
+            )
+            print(
+                "Le traitement est arrêté avant tout "
+                "nouvel appel API."
+            )
+            return 1
+
         except (
-            BudgetError,
             OpenAIEngineError,
             ValueError,
             TypeError,
@@ -443,7 +454,20 @@ def main() -> int:
                 exc,
             )
 
-            print(f"❌ Traitement interrompu : {exc}")
+            failures.append({
+                "daf": daf,
+                "segment": number,
+                "model": selected_model,
+                "error": str(exc),
+                "cost_eur": failed_cost,
+            })
+
+            run_cost += failed_cost
+
+            print(
+                "❌ Segment refusé : "
+                f"{exc}"
+            )
 
             if failed_cost:
                 print(
@@ -451,7 +475,10 @@ def main() -> int:
                     f"{failed_cost:.6f} €"
                 )
 
-            return 1
+            print(
+                "⏭️ Passage automatique au segment suivant."
+            )
+            continue
 
         metadata = budget_metadata(
             model=selected_model,
@@ -560,6 +587,7 @@ def main() -> int:
     print("✅ Exécution terminée")
     print(f"Segments sauvegardés : {saved}")
     print(f"Segments ignorés : {skipped}")
+    print(f"Segments refusés : {len(failures)}")
     print(f"Tokens de cette exécution : {run_tokens}")
     print(
         "Coût de cette exécution : "
@@ -569,6 +597,18 @@ def main() -> int:
         "Budget restant : "
         f"{budget.remaining_eur:.6f} €"
     )
+
+    if failures:
+        print("\n⚠️ Segments à reprendre manuellement :")
+
+        for failure in failures:
+            print(
+                "  - "
+                f"{failure['daf']}:{failure['segment']} — "
+                f"{failure['error']}"
+            )
+
+        return 1
 
     return 0
 
