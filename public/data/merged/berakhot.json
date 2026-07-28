@@ -52940,270 +52940,2321 @@
           "id": 1,
           "he": "וְקוֹבֵר אֶת בָּנָיו — מוֹחֲלִין לוֹ עַל כׇּל עֲוֹנוֹתָיו.",
           "en": "and buries his sons, all his transgressions are forgiven.",
-          "fr": "Et celui qui enterre ses enfants — on lui pardonne toutes ses fautes.",
+          "fr": "Et celui qui enterre ses enfants, toutes ses fautes lui sont pardonnées.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:1"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et celui qui enterre ses enfants, toutes ses fautes lui sont pardonnées.</strong></p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:08.716553+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 1,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0850dc5c93cafeb8006a68e106db4481a394946a4f01303e97",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1175,
+              "output": 52,
+              "total": 1227
+            },
+            "cost": {
+              "segment_eur": 0.00111525,
+              "phase_spent_eur": 0.2675676,
+              "phase_remaining_eur": 44.7324324
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "Segment sélectionné dans l’échantillon de contrôle."
+              ],
+              "sample_for_review": true
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Et celui qui enterre ses enfants, toutes ses fautes lui sont pardonnées.",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.99,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 2,
           "he": "אֲמַר לֵיהּ רַבִּי יוֹחָנָן: בִּשְׁלָמָא תּוֹרָה וּגְמִילוּת חֲסָדִים, דִּכְתִיב: ״בְּחֶסֶד וֶאֱמֶת יְכֻפַּר עָוֹן״. ״חֶסֶד״ — זוֹ גְּמִילוּת חֲסָדִים, שֶׁנֶּאֱמַר: ״רוֹדֵף צְדָקָה וָחָסֶד יִמְצָא חַיִּים צְדָקָה וְכָבוֹד״. ״אֱמֶת״ — זוֹ תּוֹרָה, שֶׁנֶּאֱמַר: ״אֱמֶת קְנֵה וְאַל תִּמְכֹּר״. אֶלָּא ״קוֹבֵר אֶת בָּנָיו״ מִנַּיִן?",
           "en": "Rabbi Yoḥanan said to him: What is your source for this? Granted, if one engages in Torah and acts of charity, his transgressions are forgiven, as it is written: “With mercy and truth, iniquity is expiated” (Proverbs 16:6); mercy refers to acts of charity, as it is stated: “He who pursues charity and mercy finds life, charity and honor” (Proverbs 21:21), mercy and charity are listed together. And truth refers to Torah, as it is stated: “Buy truth and do not sell it; also wisdom, guidance and understanding” (Proverbs 23:23). However, from where is it derived that the transgressions of one who buries his sons are also forgiven?",
-          "fr": "Lui dit Rabbi Yohanan : À la bonne heure pour la Torah et les actes de bienfaisance, car il est écrit : 'Par la bonté et la vérité, la faute est expiée.' 'Bonté' — c'est les actes de bienfaisance, comme il est dit : 'Celui qui poursuit la justice et la bonté trouvera la vie, la justice et l'honneur.' 'Vérité' — c'est la Torah, comme il est dit : 'Acquiers la vérité et ne la vends pas.' Mais 'celui qui enterre ses enfants', d'où le sait-on ?",
+          "fr": "Rabbi Yohanan lui dit : pour la Torah et les actes de bienfaisance, cela se comprend, puisqu’il est écrit : « Par la bonté et la vérité, la faute est expiée. » La « bonté », ce sont les actes de bienfaisance, comme il est dit : « Celui qui poursuit la justice et la bonté trouvera la vie, la justice et l’honneur. » La « vérité », c’est la Torah, comme il est dit : « Acquiers la vérité et ne la vends pas. » Mais d’où déduit-on que celui qui enterre ses enfants obtient le pardon de ses fautes ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:2"
+          },
+          "fr_explanation": "Le passage développe l’idée que la bonté renvoie aux actes de charité et que la vérité renvoie à la Torah, à partir de versets de Proverbes. Il demande ensuite d’où l’on déduit que les fautes de celui qui enterre ses fils sont également expiées.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan lui dit : pour la Torah et les actes de bienfaisance, cela se comprend, puisqu’il est écrit : « Par la bonté et la vérité, la faute est expiée. » La « bonté », ce sont les actes de bienfaisance, comme il est dit : « Celui qui poursuit la justice et la bonté trouvera la vie, la justice et l’honneur. » La « vérité », c’est la Torah, comme il est dit : « Acquiers la vérité et ne la vends pas. » Mais d’où déduit-on que celui qui enterre ses enfants obtient le pardon de ses fautes ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage développe l’idée que la bonté renvoie aux actes de charité et que la vérité renvoie à la Torah, à partir de versets de Proverbes. Il demande ensuite d’où l’on déduit que les fautes de celui qui enterre ses fils sont également expiées.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:13.988901+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 2,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f59aa8634c2b78b006a68e1094068819f9d7e3e1cf789416b",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1567,
+              "output": 255,
+              "total": 1822
+            },
+            "cost": {
+              "segment_eur": 0.00232275,
+              "phase_spent_eur": 0.26989035,
+              "phase_remaining_eur": 44.73010965
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yohanan lui dit : pour la Torah et les actes de bienfaisance, cela se comprend, puisqu’il est écrit : « Par la bonté et la vérité, la faute est expiée. » La « bonté », ce sont les actes de bienfaisance, comme il est dit : « Celui qui poursuit la justice et la bonté trouvera la vie, la justice et l’honneur. » La « vérité », c’est la Torah, comme il est dit : « Acquiers la vérité et ne la vends pas. » Mais d’où déduit-on que celui qui enterre ses enfants obtient le pardon de ses fautes ?",
+            "explanation": "Le passage développe l’idée que la bonté renvoie aux actes de charité et que la vérité renvoie à la Torah, à partir de versets de Proverbes. Il demande ensuite d’où l’on déduit que les fautes de celui qui enterre ses fils sont également expiées.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 3,
           "he": "תְּנָא לֵיהּ הַהוּא סָבָא, מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: אָתְיָא, ״עָוֹן״ ״עָוֹן״. כְּתִיב הָכָא ״בְּחֶסֶד וֶאֱמֶת יְכֻפַּר עָוֹן״, וּכְתִיב הָתָם ״וּמְשַׁלֵּם עֲוֹן אָבוֹת אֶל חֵיק בְּנֵיהֶם״.",
           "en": "An answer was provided to Rabbi Yoḥanan when a certain elder taught him in the name of Rabbi Shimon bar Yoḥai: This conclusion is derived from a verbal analogy between the words iniquity and iniquity. Here, it is written: “With mercy and truth, iniquity is expiated,” and there it is written: “He repays the iniquity of the fathers onto the bosom of their children” (Jeremiah 32:18). Because he “repays the iniquity of the fathers onto the bosom of their children,” the father’s transgressions are forgiven.",
-          "fr": "Un certain vieillard lui enseigna, au nom de Rabbi Shim'on ben Yohaï : Cela est déduit par un procédé de guezera shava sur le mot 'faute' — 'faute'. Il est écrit ici : 'Par la bonté et la vérité, la faute est expiée', et il est écrit là : 'Et il rend la faute des pères dans le sein de leurs enfants.'",
+          "fr": "Ce vieillard lui enseigna au nom de Rabbi Shimon ben Yohaï : on le déduit par analogie entre les deux occurrences du mot « faute ». Il est écrit ici : « Par la bonté et la vérité, la faute est expiée », et il est écrit là-bas : « Il fait retomber la faute des pères dans le sein de leurs enfants. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:3"
+          },
+          "fr_explanation": "L'alignement anglais précise qu'il s'agit d'une réponse donnée à Rabbi Yoḥanan et que la conclusion repose sur une analogie verbale entre les deux occurrences de « faute ». Il ajoute que, puisque Dieu « paie la faute des pères sur le sein de leurs fils », les fautes du père sont pardonnées.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Ce vieillard lui enseigna au nom de Rabbi Shimon ben Yohaï : on le déduit par analogie entre les deux occurrences du mot « faute ». Il est écrit ici : « Par la bonté et la vérité, la faute est expiée », et il est écrit là-bas : « Il fait retomber la faute des pères dans le sein de leurs enfants. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L&#x27;alignement anglais précise qu&#x27;il s&#x27;agit d&#x27;une réponse donnée à Rabbi Yoḥanan et que la conclusion repose sur une analogie verbale entre les deux occurrences de « faute ». Il ajoute que, puisque Dieu « paie la faute des pères sur le sein de leurs fils », les fautes du père sont pardonnées.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:20.668730+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 3,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_08f12521285b5cf5006a68e10f77cc8192ba664315fd7921c3",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1419,
+              "output": 182,
+              "total": 1601
+            },
+            "cost": {
+              "segment_eur": 0.00188325,
+              "phase_spent_eur": 0.2717736,
+              "phase_remaining_eur": 44.7282264
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Ce vieillard lui enseigna au nom de Rabbi Shimon ben Yohaï : on le déduit par analogie entre les deux occurrences du mot « faute ». Il est écrit ici : « Par la bonté et la vérité, la faute est expiée », et il est écrit là-bas : « Il fait retomber la faute des pères dans le sein de leurs enfants. »",
+            "explanation": "L'alignement anglais précise qu'il s'agit d'une réponse donnée à Rabbi Yoḥanan et que la conclusion repose sur une analogie verbale entre les deux occurrences de « faute ». Il ajoute que, puisque Dieu « paie la faute des pères sur le sein de leurs fils », les fautes du père sont pardonnées.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 4,
           "he": "אָמַר רַבִּי יוֹחָנָן: נְגָעִים וּבָנִים — אֵינָן יִסּוּרִין שֶׁל אַהֲבָה.",
           "en": "Rabbi Yoḥanan said: Leprosy and suffering due to children are not afflictions of love.",
-          "fr": "Dit Rabbi Yohanan : Les plaies de lèpre et les enfants — ne sont pas des souffrances d'amour.",
+          "fr": "Rabbi Yohanan dit : les lésions de tzaraat et [l’absence] d’enfants ne sont pas des souffrances d’amour.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:4"
+          },
+          "fr_explanation": "Rabbi Yohanan exclut des souffrances d’amour deux situations : les lésions de tzaraat et le fait de n’avoir jamais eu d’enfants. La Guemara précisera ensuite que la perte d’enfants déjà nés relève d’une autre catégorie.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan dit : les lésions de tzaraat et [l’absence] d’enfants ne sont pas des souffrances d’amour.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabbi Yohanan exclut des souffrances d’amour deux situations : les lésions de tzaraat et le fait de n’avoir jamais eu d’enfants. La Guemara précisera ensuite que la perte d’enfants déjà nés relève d’une autre catégorie.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « les enfants » désigne ici le cas de celui qui enterre ses enfants.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:24.570889+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 4,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_091aae7f098d7218006a68e115773c81a2a1341f21fc9eb380",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1237,
+              "output": 86,
+              "total": 1323
+            },
+            "cost": {
+              "segment_eur": 0.00131475,
+              "phase_spent_eur": 0.27308835,
+              "phase_remaining_eur": 44.72691165
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yohanan dit : les lésions de tzaraat et [l’absence] d’enfants ne sont pas des souffrances d’amour.",
+            "explanation": "Rabbi Yohanan exclut des souffrances d’amour deux situations : les lésions de tzaraat et le fait de n’avoir jamais eu d’enfants. La Guemara précisera ensuite que la perte d’enfants déjà nés relève d’une autre catégorie.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « les enfants » désigne ici le cas de celui qui enterre ses enfants.",
+                "refs": [
+                  "Rashi on Berakhot 5b:4:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 5,
           "he": "וּנְגָעִים לָא? וְהָתַנְיָא: כׇּל מִי שֶׁיֵּשׁ בּוֹ אֶחָד מֵאַרְבָּעָה מַרְאוֹת נְגָעִים הַלָּלוּ — אֵינָן אֶלָּא מִזְבַּח כַּפָּרָה!",
           "en": "The Gemara asks: Is leprosy not an affliction of love? Didn’t we learn in a <i>baraita</i>: If one has any of the four signs of leprosy (Leviticus 13) they are nothing other than an altar of atonement?",
-          "fr": "Et les plaies de lèpre non ? Mais il a été enseigné dans une baraïta : Quiconque a en lui l'une de ces quatre apparences de plaies de lèpre — elles ne sont qu'un autel d'expiation !",
+          "fr": "Les lésions de tzaraat ne le seraient-elles pas ? Pourtant, il a été enseigné dans une baraïta : quiconque présente l’un de ces quatre aspects de tzaraat possède en eux un véritable autel d’expiation !",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:5"
+          },
+          "fr_explanation": "La Guemara objecte qu’une baraïta présente les quatre aspects de tzaraat comme un « autel d’expiation », puisqu’ils permettent l’expiation des fautes.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Les lésions de tzaraat ne le seraient-elles pas ? Pourtant, il a été enseigné dans une baraïta : quiconque présente l’un de ces quatre aspects de tzaraat possède en eux un véritable autel d’expiation !</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara objecte qu’une baraïta présente les quatre aspects de tzaraat comme un « autel d’expiation », puisqu’ils permettent l’expiation des fautes.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi énumère les quatre aspects de tzaraat : séet et son dérivé, bahéret et son dérivé. Bahéret est d’un blanc éclatant comme la neige, son dérivé comme la chaux du Temple ; séet est comme la laine blanche, son dérivé comme la membrane d’un œuf.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:27.395914+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 5,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_09a7c8a3ac46733d006a68e119182081a2906e0066593715fd",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1355,
+              "output": 207,
+              "total": 1562
+            },
+            "cost": {
+              "segment_eur": 0.00194775,
+              "phase_spent_eur": 0.2750361,
+              "phase_remaining_eur": 44.7249639
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Les lésions de tzaraat ne le seraient-elles pas ? Pourtant, il a été enseigné dans une baraïta : quiconque présente l’un de ces quatre aspects de tzaraat possède en eux un véritable autel d’expiation !",
+            "explanation": "La Guemara objecte qu’une baraïta présente les quatre aspects de tzaraat comme un « autel d’expiation », puisqu’ils permettent l’expiation des fautes.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi énumère les quatre aspects de tzaraat : séet et son dérivé, bahéret et son dérivé. Bahéret est d’un blanc éclatant comme la neige, son dérivé comme la chaux du Temple ; séet est comme la laine blanche, son dérivé comme la membrane d’un œuf.",
+                "refs": [
+                  "Rashi on Berakhot 5b:5:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 6,
           "he": "מִזְבַּח כַּפָּרָה — הָווּ, יִסּוּרִין שֶׁל אַהֲבָה — לָא הָווּ.",
           "en": "The Gemara answers: Although the signs of leprosy are an altar of atonement for one’s transgressions, they are not an affliction of love.",
-          "fr": "Un autel d'expiation — elles le sont, des souffrances d'amour — elles ne le sont pas.",
+          "fr": "Elles constituent bien un autel d’expiation, mais elles ne sont pas des souffrances d’amour.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:6"
+          },
+          "fr_explanation": "La Guemara répond : bien que les signes de lèpre soient un autel d’expiation pour les transgressions d’une personne, ils ne constituent pas une affliction d’amour.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Elles constituent bien un autel d’expiation, mais elles ne sont pas des souffrances d’amour.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara répond : bien que les signes de lèpre soient un autel d’expiation pour les transgressions d’une personne, ils ne constituent pas une affliction d’amour.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:30.618241+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 6,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ebbcaa46086a351006a68e11cefd88192a15873a49ccf2afc",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1202,
+              "output": 86,
+              "total": 1288
+            },
+            "cost": {
+              "segment_eur": 0.0012885,
+              "phase_spent_eur": 0.27632460000000003,
+              "phase_remaining_eur": 44.7236754
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Elles constituent bien un autel d’expiation, mais elles ne sont pas des souffrances d’amour.",
+            "explanation": "La Guemara répond : bien que les signes de lèpre soient un autel d’expiation pour les transgressions d’une personne, ils ne constituent pas une affliction d’amour.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 7,
           "he": "וְאִי בָּעֵית אֵימָא: הָא — לָן. וְהָא — לְהוּ.",
           "en": "And if you wish, say instead: This <i>baraita</i>, which says that leprosy is an affliction of love, is for us in Babylonia, because outside of Eretz Yisrael we are not as careful of the laws of ritual impurity, and one afflicted with leprosy may interact with others, mitigating his suffering. And that statement of Rabbi Yoḥanan, that leprosy is not an affliction of love, is for them in Eretz Yisrael, where they are exceedingly careful of the laws of ritual impurity and the suffering of a leper is great because he is banished from society (Rav Hai Gaon).",
-          "fr": "Et si tu veux, dis : Ceci — s'applique à nous, et ceci — s'applique à eux.",
+          "fr": "Et si tu veux, dis plutôt : ceci vaut pour nous, et cela pour eux.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:7"
+          },
+          "fr_explanation": "Selon cette réponse, la distinction dépend du lieu : en Babylonie, où l’isolement imposé par la tzaraat est moins lourd, ces lésions peuvent être des souffrances d’amour ; en Eretz Israël, elles ne le sont pas.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et si tu veux, dis plutôt : ceci vaut pour nous, et cela pour eux.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Selon cette réponse, la distinction dépend du lieu : en Babylonie, où l’isolement imposé par la tzaraat est moins lourd, ces lésions peuvent être des souffrances d’amour ; en Eretz Israël, elles ne le sont pas.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">En Eretz Israël, les villes entourées de murailles sont sanctifiées, et le lépreux doit en être expulsé hors de ces limites ; ce ne sont donc pas des souffrances d’amour. En Babylonie, où l’expulsion n’est pas requise, ce sont des souffrances d’amour.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot cite Rachi et objecte que l’expulsion des camps n’était en vigueur qu’au temps où le jubilé était en vigueur, ainsi qu’avec les villes murées. Or, à l’époque des Amoraïm, le jubilé n’était pas en vigueur ; comment Rabbi Yoḥanan aurait-il donc parlé d’une situation qui n’existait pas de son temps ? Ils proposent aussi que « pour nous et pour eux » se rapporte à la question de la pureté, à laquelle on fait plus attention en Eretz Israël qu’en Babylonie.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:34.052008+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 7,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_02b7d9a23f52d48f006a68e11f65d881a18f06ebfa0c169b13",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 1554,
+              "output": 305,
+              "total": 1859
+            },
+            "cost": {
+              "segment_eur": 0.002538,
+              "phase_spent_eur": 0.2788626,
+              "phase_remaining_eur": 44.7211374
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Et si tu veux, dis plutôt : ceci vaut pour nous, et cela pour eux.",
+            "explanation": "Selon cette réponse, la distinction dépend du lieu : en Babylonie, où l’isolement imposé par la tzaraat est moins lourd, ces lésions peuvent être des souffrances d’amour ; en Eretz Israël, elles ne le sont pas.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "En Eretz Israël, les villes entourées de murailles sont sanctifiées, et le lépreux doit en être expulsé hors de ces limites ; ce ne sont donc pas des souffrances d’amour. En Babylonie, où l’expulsion n’est pas requise, ce sont des souffrances d’amour.",
+                "refs": [
+                  "Rashi on Berakhot 5b:7:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot cite Rachi et objecte que l’expulsion des camps n’était en vigueur qu’au temps où le jubilé était en vigueur, ainsi qu’avec les villes murées. Or, à l’époque des Amoraïm, le jubilé n’était pas en vigueur ; comment Rabbi Yoḥanan aurait-il donc parlé d’une situation qui n’existait pas de son temps ? Ils proposent aussi que « pour nous et pour eux » se rapporte à la question de la pureté, à laquelle on fait plus attention en Eretz Israël qu’en Babylonie.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:7:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.92,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 8,
           "he": "וְאִי בָּעֵית אֵימָא: הָא — בְּצִנְעָא, הָא — בְּפַרְהֶסְיָא.",
           "en": "And if you wish, say instead: This <i>baraita</i>, which says that leprosy is an affliction of love, refers to concealed leprosy that only strikes the concealed areas of one’s body. But that statement of Rabbi Yoḥanan refers to visible leprosy that causes those who see it to distance themselves from the leper.",
-          "fr": "Et si tu veux, dis : Ceci — en privé, ceci — en public.",
+          "fr": "Et si tu veux, dis plutôt : ceci concerne une partie cachée du corps, et cela une partie exposée.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:8"
+          },
+          "fr_explanation": "Selon cette seconde réponse, une lésion cachée sous les vêtements peut être une souffrance d’amour, tandis qu’une lésion visible, qui expose publiquement la personne et l’éloigne des autres, ne l’est pas.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et si tu veux, dis plutôt : ceci concerne une partie cachée du corps, et cela une partie exposée.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Selon cette seconde réponse, une lésion cachée sous les vêtements peut être une souffrance d’amour, tandis qu’une lésion visible, qui expose publiquement la personne et l’éloigne des autres, ne l’est pas.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">En secret : sous ses vêtements.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:36.790324+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 8,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0077f5f519ea761b006a68e122ccf0819f96608befe901098f",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1271,
+              "output": 152,
+              "total": 1423
+            },
+            "cost": {
+              "segment_eur": 0.00163725,
+              "phase_spent_eur": 0.28049985,
+              "phase_remaining_eur": 44.71950015
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Et si tu veux, dis plutôt : ceci concerne une partie cachée du corps, et cela une partie exposée.",
+            "explanation": "Selon cette seconde réponse, une lésion cachée sous les vêtements peut être une souffrance d’amour, tandis qu’une lésion visible, qui expose publiquement la personne et l’éloigne des autres, ne l’est pas.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "En secret : sous ses vêtements.",
+                "refs": [
+                  "Rashi on Berakhot 5b:8:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 9,
           "he": "וּבָנִים לָא?! הֵיכִי דָמֵי, אִילֵּימָא דַּהֲווֹ לְהוּ וּמֵתוּ, וְהָא אָמַר רַבִּי יוֹחָנָן, דֵּין גַּרְמָא דַּעֲשִׂירָאָה בִּיר? אֶלָּא הָא — דְּלָא הֲווֹ לֵיהּ כְּלָל. וְהָא — דַּהֲווֹ לֵיהּ וּמֵתוּ.",
           "en": "The Gemara continues to object: And suffering due to children is not an affliction of love? The Gemara clarifies: What are the circumstances? If you say that he had children and they died, didn’t Rabbi Yoḥanan himself say, while consoling the victim of a catastrophe: This is the bone of my tenth son? Rabbi Yoḥanan experienced the death of ten of his children, and he kept a small bone from his tenth child as a painful memorial. He would show that bone to others in order to console them, and since he showed it to them, the deaths of his children must certainly have been affliction of love. He consoled others by displaying that there is an element of intimacy with God that exists in that suffering (<i>Tossefot</i>). Why, then, would Rabbi Yoḥanan have said that suffering due to children is not afflictions of love? Rather, one must conclude that when Rabbi Yoḥanan said that those afflictions are not afflictions of love, he was speaking with regard to one who has no children, and when one had children who died, this could very well be considered afflictions of love.",
-          "fr": "Et les enfants non ?! Comment cela se présente-t-il ? Si l'on dit qu'il en avait et qu'ils sont morts — mais Rabbi Yohanan n'a-t-il pas dit : Voici l'os de mon dixième fils ? Mais plutôt : ceci — s'applique à celui qui n'en a jamais eu, et ceci — à celui qui en avait et qui les a perdus.",
+          "fr": "Et [la perte] d’enfants ne serait-elle pas une souffrance d’amour ? De quel cas parle-t-on ? Si l’on dit qu’il avait des enfants et qu’ils sont morts, Rabbi Yohanan lui-même n’a-t-il pas déclaré : « Voici l’os de mon dixième fils » ? Il faut donc distinguer : l’absence totale d’enfants n’est pas une souffrance d’amour, tandis que la perte d’enfants que l’on a eus en est une.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:9"
+          },
+          "fr_explanation": "La Guemara précise le cas en distinguant entre quelqu’un qui n’a jamais eu d’enfants et quelqu’un qui en a eu mais les a perdus. L’allusion à Rabbi Yoḥanan sert à montrer que la mort d’enfants peut aussi relever des afflictions d’amour, puisque lui-même consolait les autres en montrant l’os de son dixième fils.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et [la perte] d’enfants ne serait-elle pas une souffrance d’amour ? De quel cas parle-t-on ? Si l’on dit qu’il avait des enfants et qu’ils sont morts, Rabbi Yohanan lui-même n’a-t-il pas déclaré : « Voici l’os de mon dixième fils » ? Il faut donc distinguer : l’absence totale d’enfants n’est pas une souffrance d’amour, tandis que la perte d’enfants que l’on a eus en est une.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara précise le cas en distinguant entre quelqu’un qui n’a jamais eu d’enfants et quelqu’un qui en a eu mais les a perdus. L’allusion à Rabbi Yoḥanan sert à montrer que la mort d’enfants peut aussi relever des afflictions d’amour, puisque lui-même consolait les autres en montrant l’os de son dixième fils.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que Rabbi Yohanan conservait un petit fragment osseux de son dixième fils défunt afin d’évoquer sa douleur. La perte d’enfants peut être une souffrance d’amour, car le deuil contribue à l’expiation des fautes.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot objecte à Rachi : si Rabbi Yoḥanan était certainement un juste, pourquoi réserver ce statut aux seuls hommes ayant des enfants morts, alors que beaucoup de justes n’ont pas d’enfants du tout ? De plus, Rabbi Yoḥanan avait aussi des filles. Tossefot explique donc que la preuve vient du fait qu’il consolait les autres avec cette parole : cela montre qu’il y voyait un aspect de souffrances d’amour, sans que cela dépende d’une règle générale sur les justes.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:52.036149+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 9,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ba8cf94e0a05cc8006a68e12ea790819181d7a054b4b622cc",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 3777,
+              "output": 911,
+              "total": 4688
+            },
+            "cost": {
+              "segment_eur": 0.00693225,
+              "phase_spent_eur": 0.28743209999999997,
+              "phase_remaining_eur": 44.7125679
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Et [la perte] d’enfants ne serait-elle pas une souffrance d’amour ? De quel cas parle-t-on ? Si l’on dit qu’il avait des enfants et qu’ils sont morts, Rabbi Yohanan lui-même n’a-t-il pas déclaré : « Voici l’os de mon dixième fils » ? Il faut donc distinguer : l’absence totale d’enfants n’est pas une souffrance d’amour, tandis que la perte d’enfants que l’on a eus en est une.",
+            "explanation": "La Guemara précise le cas en distinguant entre quelqu’un qui n’a jamais eu d’enfants et quelqu’un qui en a eu mais les a perdus. L’allusion à Rabbi Yoḥanan sert à montrer que la mort d’enfants peut aussi relever des afflictions d’amour, puisque lui-même consolait les autres en montrant l’os de son dixième fils.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que Rabbi Yohanan conservait un petit fragment osseux de son dixième fils défunt afin d’évoquer sa douleur. La perte d’enfants peut être une souffrance d’amour, car le deuil contribue à l’expiation des fautes.",
+                "refs": [
+                  "Rashi on Berakhot 5b:9:1",
+                  "Rashi on Berakhot 5b:9:2",
+                  "Rashi on Berakhot 5b:9:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot objecte à Rachi : si Rabbi Yoḥanan était certainement un juste, pourquoi réserver ce statut aux seuls hommes ayant des enfants morts, alors que beaucoup de justes n’ont pas d’enfants du tout ? De plus, Rabbi Yoḥanan avait aussi des filles. Tossefot explique donc que la preuve vient du fait qu’il consolait les autres avec cette parole : cela montre qu’il y voyait un aspect de souffrances d’amour, sans que cela dépende d’une règle générale sur les justes.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:9:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.94,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 10,
           "he": "רַבִּי חִיָּיא בַּר אַבָּא חֲלַשׁ. עָל לְגַבֵּיהּ רַבִּי יוֹחָנָן אֲמַר לֵיהּ: חֲבִיבִין עָלֶיךָ יִסּוּרִין? אֲמַר לֵיהּ: לֹא הֵן וְלֹא שְׂכָרָן. אֲמַר לֵיהּ: הַב לִי יְדָךְ. יְהַב לֵיהּ יְדֵיהּ, וְאוֹקְמֵיהּ.",
           "en": "The Gemara continues to address the issue of suffering and affliction: Rabbi Yoḥanan’s student, Rabbi Ḥiyya bar Abba, fell ill. Rabbi Yoḥanan entered to visit him, and said to him: Is your suffering dear to you? Do you desire to be ill and afflicted? Rabbi Ḥiyya said to him: I welcome neither this suffering nor its reward, as one who welcomes this suffering with love is rewarded. Rabbi Yoḥanan said to him: Give me your hand. Rabbi Ḥiyya bar Abba gave him his hand, and Rabbi Yoḥanan stood him up and restored him to health.",
-          "fr": "Rabbi Hiyya bar Abba tomba malade. Rabbi Yohanan vint le visiter et lui dit : Tes souffrances te sont-elles chères ? Il lui dit : Ni elles ni leur récompense. Il lui dit : Donne-moi ta main. Il lui donna sa main, et il le releva.",
+          "fr": "Rabbi Hiyya bar Abba tomba malade. Rabbi Yohanan entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:10"
+          },
+          "fr_explanation": "L’édition anglaise précise que Rabbi Yoḥanan venait lui rendre visite lorsqu’il tomba malade, et que sa question signifie : désires-tu être malade et affligé ? Elle ajoute aussi que Rabbi Yoḥanan le remit sur pied et le rendit à la santé.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Hiyya bar Abba tomba malade. Rabbi Yohanan entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’édition anglaise précise que Rabbi Yoḥanan venait lui rendre visite lorsqu’il tomba malade, et que sa question signifie : désires-tu être malade et affligé ? Elle ajoute aussi que Rabbi Yoḥanan le remit sur pied et le rendit à la santé.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:54.294040+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 10,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0368377360c91b93006a68e1348f8481a3a0b4dd517f869d34",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1421,
+              "output": 165,
+              "total": 1586
+            },
+            "cost": {
+              "segment_eur": 0.00180825,
+              "phase_spent_eur": 0.28924035,
+              "phase_remaining_eur": 44.71075965
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Hiyya bar Abba tomba malade. Rabbi Yohanan entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.",
+            "explanation": "L’édition anglaise précise que Rabbi Yoḥanan venait lui rendre visite lorsqu’il tomba malade, et que sa question signifie : désires-tu être malade et affligé ? Elle ajoute aussi que Rabbi Yoḥanan le remit sur pied et le rendit à la santé.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 11,
           "he": "רַבִּי יוֹחָנָן חֲלַשׁ. עָל לְגַבֵּיהּ רַבִּי חֲנִינָא. אֲמַר לֵיהּ: חֲבִיבִין עָלֶיךָ יִסּוּרִין? אֲמַר לֵיהּ: לֹא הֵן וְלֹא שְׂכָרָן. אֲמַר לֵיהּ: הַב לִי יְדָךְ. יְהַב לֵיהּ יְדֵיהּ, וְאוֹקְמֵיהּ.",
           "en": "Similarly, Rabbi Yoḥanan fell ill. Rabbi Ḥanina entered to visit him, and said to him: Is your suffering dear to you? Rabbi Yoḥanan said to him: I welcome neither this suffering nor its reward. Rabbi Ḥanina said to him: Give me your hand. He gave him his hand, and Rabbi Ḥanina stood him up and restored him to health.",
-          "fr": "Rabbi Yohanan tomba malade. Rabbi Hanina vint le visiter et lui dit : Tes souffrances te sont-elles chères ? Il lui dit : Ni elles ni leur récompense. Il lui dit : Donne-moi ta main. Il lui donna sa main, et il le releva.",
+          "fr": "Rabbi Yohanan tomba malade. Rabbi Hanina entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Hanina lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Hanina le releva.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:11"
+          },
+          "fr_explanation": "L'anglais précise que Rabbi Hanina entra pour lui rendre visite, puis le remit sur pied et le rétablit.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan tomba malade. Rabbi Hanina entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Hanina lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Hanina le releva.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L&#x27;anglais précise que Rabbi Hanina entra pour lui rendre visite, puis le remit sur pied et le rétablit.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:56.503921+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 11,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0a1f61c9fd0f04b8006a68e136e42c819db8523038e00b6402",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1369,
+              "output": 131,
+              "total": 1500
+            },
+            "cost": {
+              "segment_eur": 0.00161625,
+              "phase_spent_eur": 0.29085659999999997,
+              "phase_remaining_eur": 44.7091434
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yohanan tomba malade. Rabbi Hanina entra auprès de lui et lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Hanina lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Hanina le releva.",
+            "explanation": "L'anglais précise que Rabbi Hanina entra pour lui rendre visite, puis le remit sur pied et le rétablit.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 12,
           "he": "אַמַּאי, לוֹקִים רַבִּי יוֹחָנָן לְנַפְשֵׁיהּ?",
           "en": "The Gemara asks: Why did Rabbi Yoḥanan wait for Rabbi Ḥanina to restore him to health? If he was able to heal his student, let Rabbi Yoḥanan stand himself up.",
-          "fr": "Pourquoi ? Que Rabbi Yohanan se relève lui-même !",
+          "fr": "Pourquoi Rabbi Yohanan ne s’est-il pas relevé lui-même ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:12"
+          },
+          "fr_explanation": "Puisque Rabbi Yohanan avait auparavant relevé Rabbi Hiyya bar Abba, la Guemara demande pourquoi il ne pouvait pas agir de même pour lui-même.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Pourquoi Rabbi Yohanan ne s’est-il pas relevé lui-même ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Puisque Rabbi Yohanan avait auparavant relevé Rabbi Hiyya bar Abba, la Guemara demande pourquoi il ne pouvait pas agir de même pour lui-même.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:04:58.319960+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 12,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f3d0253af02f9f4006a68e138e28881a1a890f5c8f55713d6",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1196,
+              "output": 79,
+              "total": 1275
+            },
+            "cost": {
+              "segment_eur": 0.0012525,
+              "phase_spent_eur": 0.29210909999999995,
+              "phase_remaining_eur": 44.7078909
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Pourquoi Rabbi Yohanan ne s’est-il pas relevé lui-même ?",
+            "explanation": "Puisque Rabbi Yohanan avait auparavant relevé Rabbi Hiyya bar Abba, la Guemara demande pourquoi il ne pouvait pas agir de même pour lui-même.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.84,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 13,
           "he": "אָמְרִי: אֵין חָבוּשׁ מַתִּיר עַצְמוֹ מִבֵּית הָאֲסוּרִים.",
           "en": "The Gemara answers, they say: A prisoner cannot generally free himself from prison, but depends on others to release him from his shackles.",
-          "fr": "On dit : Un prisonnier ne peut se libérer lui-même de sa prison.",
+          "fr": "Ils répondirent : un prisonnier ne peut se libérer lui-même de sa prison.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:13"
+          },
+          "fr_explanation": "L'idée ajoutée est qu'en général, un prisonnier ne peut pas se délivrer lui-même et dépend d'autrui pour être libéré de ses liens.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Ils répondirent : un prisonnier ne peut se libérer lui-même de sa prison.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L&#x27;idée ajoutée est qu&#x27;en général, un prisonnier ne peut pas se délivrer lui-même et dépend d&#x27;autrui pour être libéré de ses liens.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:00.992835+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 13,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0cf58df7eb0ce534006a68e13b059c81a189dad0b4201527a3",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1191,
+              "output": 84,
+              "total": 1275
+            },
+            "cost": {
+              "segment_eur": 0.00127125,
+              "phase_spent_eur": 0.29338034999999996,
+              "phase_remaining_eur": 44.70661965
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Ils répondirent : un prisonnier ne peut se libérer lui-même de sa prison.",
+            "explanation": "L'idée ajoutée est qu'en général, un prisonnier ne peut pas se délivrer lui-même et dépend d'autrui pour être libéré de ses liens.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 14,
           "he": "רַבִּי אֶלְעָזָר חֲלַשׁ. עַל לְגַבֵּיהּ רַבִּי יוֹחָנָן. חֲזָא דַּהֲוָה קָא גָּנֵי בְּבֵית אָפֵל. גַּלְיֵיהּ לִדְרָעֵיהּ וּנְפַל נְהוֹרָא. חַזְיֵיהּ דַּהֲוָה קָא בָּכֵי רַבִּי אֶלְעָזָר. אֲמַר לֵיהּ: אַמַּאי קָא בָּכֵית? אִי מִשּׁוּם תּוֹרָה דְּלָא אַפֵּשְׁתְּ — שָׁנִינוּ: אֶחָד הַמַּרְבֶּה וְאֶחָד הַמַּמְעִיט, וּבִלְבַד שֶׁיְּכַוֵּין לִבּוֹ לַשָּׁמַיִם. וְאִי מִשּׁוּם מְזוֹנֵי — לֹא כׇּל אָדָם זוֹכֶה לִשְׁתֵּי שֻׁלְחָנוֹת. וְאִי מִשּׁוּם בְּנֵי — דֵּין גַּרְמָא דַּעֲשִׂירָאָה בִּיר.",
           "en": "The Gemara relates that Rabbi Elazar, another of Rabbi Yoḥanan’s students, fell ill. Rabbi Yoḥanan entered to visit him, and saw that he was lying in a dark room. Rabbi Yoḥanan exposed his arm, and light radiated from his flesh, filling the house. He saw that Rabbi Elazar was crying, and said to him: Why are you crying? Thinking that his crying was over the suffering that he endured throughout his life, Rabbi Yoḥanan attempted to comfort him: If you are weeping because you did not study as much Torah as you would have liked, we learned: One who brings a substantial sacrifice and one who brings a meager sacrifice have equal merit, as long as he directs his heart toward Heaven. If you are weeping because you lack sustenance and are unable to earn a livelihood, as Rabbi Elazar was, indeed, quite poor, not every person merits to eat off of two tables, one of wealth and one of Torah, so you need not bemoan the fact that you are not wealthy. If you are crying over children who have died, this is the bone of my tenth son, and suffering of that kind afflicts great people, and they are afflictions of love.",
-          "fr": "Rabbi El'azar tomba malade. Rabbi Yohanan vint le visiter. Il vit qu'il gisait dans une pièce sombre. Il dénuda son bras et une lumière tomba. Il vit que Rabbi El'azar pleurait. Il lui dit : Pourquoi pleures-tu ? Si c'est à cause de la Torah que tu n'as pas assez étudiée — nous avons appris : qu'il étudie beaucoup ou qu'il étudie peu, pourvu qu'il dirige son cœur vers le Ciel. Et si c'est à cause de la subsistance — tout homme ne mérite pas deux tables. Et si c'est à cause des enfants — voici l'os de mon dixième fils.",
+          "fr": "Rabbi Elazar tomba malade. Rabbi Yohanan entra auprès de lui et le vit couché dans une pièce obscure. Il découvrit son bras et la pièce s’emplit de lumière. Il vit alors Rabbi Elazar pleurer et lui demanda : « Pourquoi pleures-tu ? Si c’est parce que tu n’as pas suffisamment étudié la Torah, nous avons appris : que l’on offre beaucoup ou peu, l’essentiel est de diriger son cœur vers le Ciel. Si c’est à cause de ta subsistance, tout homme ne mérite pas les deux tables. Et si c’est à cause de tes enfants, voici l’os de mon dixième fils. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:14"
+          },
+          "fr_explanation": "Rabbi Yohanan envisage trois causes aux larmes de Rabbi Elazar : le regret de ne pas avoir assez étudié, la pauvreté ou la perte de ses enfants. Les « deux tables » désignent la réussite simultanée dans la Torah et dans la richesse matérielle.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Elazar tomba malade. Rabbi Yohanan entra auprès de lui et le vit couché dans une pièce obscure. Il découvrit son bras et la pièce s’emplit de lumière. Il vit alors Rabbi Elazar pleurer et lui demanda : « Pourquoi pleures-tu ? Si c’est parce que tu n’as pas suffisamment étudié la Torah, nous avons appris : que l’on offre beaucoup ou peu, l’essentiel est de diriger son cœur vers le Ciel. Si c’est à cause de ta subsistance, tout homme ne mérite pas les deux tables. Et si c’est à cause de tes enfants, voici l’os de mon dixième fils. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabbi Yohanan envisage trois causes aux larmes de Rabbi Elazar : le regret de ne pas avoir assez étudié, la pauvreté ou la perte de ses enfants. Les « deux tables » désignent la réussite simultanée dans la Torah et dans la richesse matérielle.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que Rabbi Yohanan découvrit son bras et que l’éclat de sa peau illumina la pièce. « Tu n’as pas suffisamment étudié » signifie : autant que tu l’aurais souhaité. L’enseignement sur celui qui offre beaucoup ou peu provient des sacrifices ; les « moyens de subsistance » désignent ici la pauvreté.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot explique qu’il ne faut pas lire « tout homme ne mérite pas » au sens absolu, car de nombreux justes méritent deux tables, comme Rabbi. Ils citent à ce propos le traité Horayot.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:05.713336+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 14,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_07e8bfb7fd04f690006a68e13e5dfc819d8fedcfc8150d7c77",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 2110,
+              "output": 440,
+              "total": 2550
+            },
+            "cost": {
+              "segment_eur": 0.0035625,
+              "phase_spent_eur": 0.29694285,
+              "phase_remaining_eur": 44.70305715
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Elazar tomba malade. Rabbi Yohanan entra auprès de lui et le vit couché dans une pièce obscure. Il découvrit son bras et la pièce s’emplit de lumière. Il vit alors Rabbi Elazar pleurer et lui demanda : « Pourquoi pleures-tu ? Si c’est parce que tu n’as pas suffisamment étudié la Torah, nous avons appris : que l’on offre beaucoup ou peu, l’essentiel est de diriger son cœur vers le Ciel. Si c’est à cause de ta subsistance, tout homme ne mérite pas les deux tables. Et si c’est à cause de tes enfants, voici l’os de mon dixième fils. »",
+            "explanation": "Rabbi Yohanan envisage trois causes aux larmes de Rabbi Elazar : le regret de ne pas avoir assez étudié, la pauvreté ou la perte de ses enfants. Les « deux tables » désignent la réussite simultanée dans la Torah et dans la richesse matérielle.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que Rabbi Yohanan découvrit son bras et que l’éclat de sa peau illumina la pièce. « Tu n’as pas suffisamment étudié » signifie : autant que tu l’aurais souhaité. L’enseignement sur celui qui offre beaucoup ou peu provient des sacrifices ; les « moyens de subsistance » désignent ici la pauvreté.",
+                "refs": [
+                  "Rashi on Berakhot 5b:14:1",
+                  "Rashi on Berakhot 5b:14:2",
+                  "Rashi on Berakhot 5b:14:3",
+                  "Rashi on Berakhot 5b:14:4",
+                  "Rashi on Berakhot 5b:14:5"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot explique qu’il ne faut pas lire « tout homme ne mérite pas » au sens absolu, car de nombreux justes méritent deux tables, comme Rabbi. Ils citent à ce propos le traité Horayot.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:14:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.94,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 15,
           "he": "אֲמַר לֵיהּ: לְהַאי שׁוּפְרָא דְּבָלֵי בְּעַפְרָא קָא בָּכֵינָא. אֲמַר לֵיהּ: עַל דָּא וַדַּאי קָא בָּכֵית, וּבְכוֹ תַּרְוַיְיהוּ.",
           "en": "Rabbi Elazar said to Rabbi Yoḥanan: I am not crying over my misfortune, but rather, over this beauty of yours that will decompose in the earth, as Rabbi Yoḥanan’s beauty caused him to consider human mortality. Rabbi Yoḥanan said to him: Over this, it is certainly appropriate to weep. Both cried over the fleeting nature of beauty in the world and death that eventually overcomes all.",
-          "fr": "Il lui dit : C'est sur cette beauté qui se décompose dans la poussière que je pleure. Il lui dit : Sur cela, certes, il faut pleurer. Et ils pleurèrent tous deux.",
+          "fr": "Il lui répondit : « Je pleure sur cette beauté qui finira dans la poussière. » Rabbi Yohanan lui dit : « Pour cela, assurément, il y a de quoi pleurer. » Et tous deux pleurèrent.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:15"
+          },
+          "fr_explanation": "Le premier parle de la beauté de Rabbi Yoḥanan qui finira par se décomposer dans la terre, et le second approuve ce motif de pleurs. Le commentaire précise que c’est bien sur cela qu’il y a assurément matière à pleurer.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il lui répondit : « Je pleure sur cette beauté qui finira dans la poussière. » Rabbi Yohanan lui dit : « Pour cela, assurément, il y a de quoi pleurer. » Et tous deux pleurèrent.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le premier parle de la beauté de Rabbi Yoḥanan qui finira par se décomposer dans la terre, et le second approuve ce motif de pleurs. Le commentaire précise que c’est bien sur cela qu’il y a assurément matière à pleurer.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Pour cela, assurément, tu pleures » : sur cela, il y a certainement de quoi pleurer.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:08.929106+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 15,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0e4cad0df53f7479006a68e1429b8881928c242eb38de116aa",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1353,
+              "output": 189,
+              "total": 1542
+            },
+            "cost": {
+              "segment_eur": 0.00186525,
+              "phase_spent_eur": 0.29880809999999997,
+              "phase_remaining_eur": 44.7011919
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Il lui répondit : « Je pleure sur cette beauté qui finira dans la poussière. » Rabbi Yohanan lui dit : « Pour cela, assurément, il y a de quoi pleurer. » Et tous deux pleurèrent.",
+            "explanation": "Le premier parle de la beauté de Rabbi Yoḥanan qui finira par se décomposer dans la terre, et le second approuve ce motif de pleurs. Le commentaire précise que c’est bien sur cela qu’il y a assurément matière à pleurer.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Pour cela, assurément, tu pleures » : sur cela, il y a certainement de quoi pleurer.",
+                "refs": [
+                  "Rashi on Berakhot 5b:15:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 16,
           "he": "אַדְּהָכִי וְהָכִי אֲמַר לֵיהּ: חֲבִיבִין עָלֶיךָ יִסּוּרִין? אֲמַר לֵיהּ: לֹא הֵן וְלֹא שְׂכָרָן. אֲמַר לֵיהּ: הַב לִי יְדָךְ, יְהַב לֵיהּ יְדֵיהּ, וְאוֹקְמֵיהּ.",
           "en": "Meanwhile, Rabbi Yoḥanan said to him: Is your suffering dear to you? Rabbi Elazar said to him: I welcome neither this suffering nor its reward. Upon hearing this, Rabbi Yoḥanan said to him: Give me your hand. Rabbi Elazar gave him his hand, and Rabbi Yoḥanan stood him up and restored him to health.",
-          "fr": "Entre-temps, il lui dit : Tes souffrances te sont-elles chères ? Il lui dit : Ni elles ni leur récompense. Il lui dit : Donne-moi ta main. Il lui donna sa main, et il le releva.",
+          "fr": "Après cela, Rabbi Yohanan lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:16"
+          },
+          "fr_explanation": "Le passage précise que Rabbi Yoḥanan demande à Rabbi Elazar si ses souffrances lui sont chères, puis, après sa réponse, lui demande sa main ; en la prenant, il le remet debout et le rétablit.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Après cela, Rabbi Yohanan lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage précise que Rabbi Yoḥanan demande à Rabbi Elazar si ses souffrances lui sont chères, puis, après sa réponse, lui demande sa main ; en la prenant, il le remet debout et le rétablit.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:12.631343+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 16,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_036b80dc937b9e3b006a68e145a190819fb29291498923fb1e",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1321,
+              "output": 138,
+              "total": 1459
+            },
+            "cost": {
+              "segment_eur": 0.00161175,
+              "phase_spent_eur": 0.30041985,
+              "phase_remaining_eur": 44.69958015
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Après cela, Rabbi Yohanan lui demanda : « Les souffrances te sont-elles précieuses ? » Il répondit : « Ni elles ni leur récompense. » Rabbi Yohanan lui dit : « Donne-moi ta main. » Il lui donna sa main et Rabbi Yohanan le releva.",
+            "explanation": "Le passage précise que Rabbi Yoḥanan demande à Rabbi Elazar si ses souffrances lui sont chères, puis, après sa réponse, lui demande sa main ; en la prenant, il le remet debout et le rétablit.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 17,
           "he": "רַב הוּנָא תְּקִיפוּ לֵיהּ אַרְבַּע מְאָה דַּנֵּי דְחַמְרָא. עָל לְגַבֵּיהּ רַב יְהוּדָה אֲחוּהּ דְּרַב סַלָּא חֲסִידָא וְרַבָּנַן, וְאָמְרִי לַהּ רַב אַדָּא בַּר אַהֲבָה וְרַבָּנַן, וַאֲמַרוּ לֵיהּ: לְעַיֵּין מָר בְּמִילֵיהּ. אֲמַר לְהוּ: וּמִי חֲשִׁידְנָא בְּעֵינַיְיכוּ? אֲמַרוּ לֵיהּ: מִי חֲשִׁיד קוּדְשָׁא בְּרִיךְ הוּא דְּעָבֵיד דִּינָא בְּלָא דִּינָא?!",
           "en": "The Gemara relates another story regarding acknowledgement of the justice of divine punishment: Four hundred barrels of Rav Huna’s wine fermented and turned into vinegar, causing him great financial loss. <br>Rav Yehuda, the brother of Rav Sala the Pious, along with the Sages, and some say Rav Adda bar Ahava, along with the Sages, entered to visit him, and said: The Master should examine his actions, as perhaps he committed a transgression for which he is being punished. <br>Rav Huna said to them: Am I suspect in your eyes? Have I committed a transgression on account of which you advise me to examine my behavior? <br>They said to him: Is the Holy One, Blessed be He, suspect that He exacts punishment without justice? Your loss was certainly just, and you must examine your conduct to find out why. The Sages were aware of a flaw in Rav Huna’s conduct, to which they alluded (<i>Tossefot</i>).",
-          "fr": "Rav Houna se retrouva avec quatre cents jarres de vin qui avaient tourné au vinaigre. Rav Yehuda, frère de Rav Sala Hasida, et les sages — et d'autres disent : Rav Adda bar Ahava et les sages — vinrent le visiter et lui dirent : Que Maître examine sa conduite. Il leur dit : Suis-je donc suspect à vos yeux ? Ils lui dirent : Est-il possible que le Saint béni soit-Il exerce un jugement sans justice ?!",
+          "fr": "Quatre cents tonneaux de vin de Rav Houna tournèrent au vinaigre. Rav Yehouda, frère de Rav Sala le Pieux, et les Sages entrèrent auprès de lui ; selon une autre version, il s’agissait de Rav Adda bar Ahava et des Sages. Ils lui dirent : « Que le Maître examine ses actes. » Il leur demanda : « Me soupçonnez-vous donc ? » Ils répondirent : « Soupçonnerait-on le Saint, béni soit-Il, de rendre un jugement injuste ? »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:17"
+          },
+          "fr_explanation": "La perte des quatre cents tonneaux conduit les Sages à inviter Rav Houna à examiner sa conduite. Leur réponse affirme que le jugement divin ne saurait être dépourvu de fondement.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Quatre cents tonneaux de vin de Rav Houna tournèrent au vinaigre. Rav Yehouda, frère de Rav Sala le Pieux, et les Sages entrèrent auprès de lui ; selon une autre version, il s’agissait de Rav Adda bar Ahava et des Sages. Ils lui dirent : « Que le Maître examine ses actes. » Il leur demanda : « Me soupçonnez-vous donc ? » Ils répondirent : « Soupçonnerait-on le Saint, béni soit-Il, de rendre un jugement injuste ? »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La perte des quatre cents tonneaux conduit les Sages à inviter Rav Houna à examiner sa conduite. Leur réponse affirme que le jugement divin ne saurait être dépourvu de fondement.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que le vin des tonneaux avait tourné au vinaigre. Il précise que les « tonneaux » sont les récipients contenant le vin et qu’« examiner ses actes » signifie scruter sa conduite.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot explique que beaucoup de justes souffrent dans leur corps et dans leurs biens, mais qu’ici les Sages savaient qu’il n’avait pas laissé du mauvais à son fermier. Ils voulaient lui faire entendre qu’il ne recommence pas.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:16.626057+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 17,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_02858577dfde9db4006a68e1497c6c819da51bbf7727841ffa",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 1791,
+              "output": 319,
+              "total": 2110
+            },
+            "cost": {
+              "segment_eur": 0.00277875,
+              "phase_spent_eur": 0.3031986,
+              "phase_remaining_eur": 44.6968014
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Quatre cents tonneaux de vin de Rav Houna tournèrent au vinaigre. Rav Yehouda, frère de Rav Sala le Pieux, et les Sages entrèrent auprès de lui ; selon une autre version, il s’agissait de Rav Adda bar Ahava et des Sages. Ils lui dirent : « Que le Maître examine ses actes. » Il leur demanda : « Me soupçonnez-vous donc ? » Ils répondirent : « Soupçonnerait-on le Saint, béni soit-Il, de rendre un jugement injuste ? »",
+            "explanation": "La perte des quatre cents tonneaux conduit les Sages à inviter Rav Houna à examiner sa conduite. Leur réponse affirme que le jugement divin ne saurait être dépourvu de fondement.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que le vin des tonneaux avait tourné au vinaigre. Il précise que les « tonneaux » sont les récipients contenant le vin et qu’« examiner ses actes » signifie scruter sa conduite.",
+                "refs": [
+                  "Rashi on Berakhot 5b:17:1",
+                  "Rashi on Berakhot 5b:17:2",
+                  "Rashi on Berakhot 5b:17:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot explique que beaucoup de justes souffrent dans leur corps et dans leurs biens, mais qu’ici les Sages savaient qu’il n’avait pas laissé du mauvais à son fermier. Ils voulaient lui faire entendre qu’il ne recommence pas.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:17:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 18,
           "he": "אֲמַר לְהוּ: אִי אִיכָּא מַאן דִּשְׁמִיעַ עֲלַי מִלְּתָא — לֵימָא. אֲמַרוּ לֵיהּ: הָכִי שְׁמִיעַ לָן, דְּלָא יָהֵיב מָר שְׁבִישָׁא לַאֲרִיסֵיהּ.",
           "en": "Rav Huna said to them: If someone has heard something improper that I have done, let him say so. They said to him: We have heard that the Master does not give a share of his grapevines to his tenant farmers. A tenant farmer is entitled to a portion of the crop grown on his landlord’s property, as well as a share of the vines planted during a given year.",
-          "fr": "Il leur dit : S'il y a quelqu'un qui a entendu quelque chose à mon sujet, qu'il le dise. Ils lui dirent : Voici ce que nous avons entendu dire, que Maître ne donne pas la part de bois à son métayer.",
+          "fr": "Il leur dit : « Si quelqu’un a entendu à mon sujet quelque chose de répréhensible, qu’il le dise. » Ils répondirent : « Nous avons entendu que le Maître ne remet pas à son métayer sa part des sarments issus de la taille. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:18"
+          },
+          "fr_explanation": "Le métayer avait droit non seulement à une part du produit de la vigne, mais aussi à une part des sarments coupés lors de la taille. C’est cette part que Rav Houna lui refusait.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il leur dit : « Si quelqu’un a entendu à mon sujet quelque chose de répréhensible, qu’il le dise. » Ils répondirent : « Nous avons entendu que le Maître ne remet pas à son métayer sa part des sarments issus de la taille. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le métayer avait droit non seulement à une part du produit de la vigne, mais aussi à une part des sarments coupés lors de la taille. C’est cette part que Rav Houna lui refusait.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que Rav Houna invite les Sages à lui signaler toute conduite dont il devrait se détourner. Le terme araméen désigne la part des sarments coupés lors de la taille, lesquels doivent être partagés avec le métayer comme le vin.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:19.456286+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 18,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d17844507dac9ca006a68e14d284481a39a0f3501a3b5f25b",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1466,
+              "output": 207,
+              "total": 1673
+            },
+            "cost": {
+              "segment_eur": 0.002031,
+              "phase_spent_eur": 0.3052296,
+              "phase_remaining_eur": 44.6947704
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Il leur dit : « Si quelqu’un a entendu à mon sujet quelque chose de répréhensible, qu’il le dise. » Ils répondirent : « Nous avons entendu que le Maître ne remet pas à son métayer sa part des sarments issus de la taille. »",
+            "explanation": "Le métayer avait droit non seulement à une part du produit de la vigne, mais aussi à une part des sarments coupés lors de la taille. C’est cette part que Rav Houna lui refusait.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que Rav Houna invite les Sages à lui signaler toute conduite dont il devrait se détourner. Le terme araméen désigne la part des sarments coupés lors de la taille, lesquels doivent être partagés avec le métayer comme le vin.",
+                "refs": [
+                  "Rashi on Berakhot 5b:18:1",
+                  "Rashi on Berakhot 5b:18:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 19,
           "he": "אֲמַר לְהוּ: מִי קָא שָׁבֵיק לִי מִידֵּי מִינֵּיהּ? הָא קָא גָנֵיב לֵיהּ כּוּלֵּיהּ!",
           "en": "Rav Huna said to them: Does this tenant farmer leave me anything from the produce that he grows on my property? He steals it all. Consequently, in denying him his share of the grapevines I am simply recouping that which was stolen from me by this tenant farmer.",
-          "fr": "Il leur dit : Lui laisse-t-il quoi que ce soit de ce qui est à moi ? Il me vole tout entier !",
+          "fr": "Il leur dit : « Me laisse-t-il donc quoi que ce soit ? Il me vole tout ! »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:19"
+          },
+          "fr_explanation": "Rav Huna dit qu’aucun produit de ce que cultive ce métayer sur sa propriété ne lui reste, parce qu’il le vole entièrement. L’idée ajoutée est que, dès lors, le fait de lui refuser sa part des vignes revient à récupérer ce qui lui a été volé.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il leur dit : « Me laisse-t-il donc quoi que ce soit ? Il me vole tout ! »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rav Huna dit qu’aucun produit de ce que cultive ce métayer sur sa propriété ne lui reste, parce qu’il le vole entièrement. L’idée ajoutée est que, dès lors, le fait de lui refuser sa part des vignes revient à récupérer ce qui lui a été volé.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Me laisse-t-il quelque chose de lui ? » : n’êtes-vous pas soupçonneux à son sujet au point qu’il me vole beaucoup plus que sa part ?</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:22.900031+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 19,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_05755f41d277bd0b006a68e15086e88192a44478b358ad9b90",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1294,
+              "output": 149,
+              "total": 1443
+            },
+            "cost": {
+              "segment_eur": 0.001641,
+              "phase_spent_eur": 0.3068706,
+              "phase_remaining_eur": 44.6931294
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Il leur dit : « Me laisse-t-il donc quoi que ce soit ? Il me vole tout ! »",
+            "explanation": "Rav Huna dit qu’aucun produit de ce que cultive ce métayer sur sa propriété ne lui reste, parce qu’il le vole entièrement. L’idée ajoutée est que, dès lors, le fait de lui refuser sa part des vignes revient à récupérer ce qui lui a été volé.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Me laisse-t-il quelque chose de lui ? » : n’êtes-vous pas soupçonneux à son sujet au point qu’il me vole beaucoup plus que sa part ?",
+                "refs": [
+                  "Rashi on Berakhot 5b:19:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.94,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 20,
           "he": "אֲמַרוּ לֵיהּ: הַיְינוּ דְאָמְרִי אִינָשֵׁי: ״בָּתַר גַּנָּבָא גְּנוֹב, וְטַעְמָא טְעֵים״. אֲמַר לְהוּ: קַבֵּילְנָא עָלַי דְּיָהֵיבְנָא לֵיהּ. אִיכָּא דְאָמְרִי: הֲדַר חַלָּא וַהֲוָה חַמְרָא. וְאִיכָּא דְאָמְרִי: אִייַּקַּר חַלָּא, וְאִיזְדְּבַן בִּדְמֵי דְחַמְרָא.",
           "en": "They said to him: That is the meaning of the folk saying: One who steals from a thief has a taste of theft. Despite the fact that the property was stolen to begin with, one nevertheless engages in theft. Although he did not violate a prohibition per se, it is still a form of theft, and one who is held to a higher standard than others will be punished for it. <br>He said to them: I accept upon myself to give my tenant farmer his portion in the future. <br>Thereupon, as a result of Rav Huna’s repentance, God restored his loss. Some say his vinegar turned back into wine, and some say that the price of vinegar rose and it was sold at the price of wine.",
-          "fr": "Ils lui dirent : C'est ce que les gens disent : 'Derrière le voleur, vole toi aussi, et goûtes-en le goût.' Il leur dit : J'accepte sur moi de lui donner. Les uns disent : Le vinaigre redevint du vin. Et d'autres disent : Le vinaigre prit de la valeur et se vendit au prix du vin.",
+          "fr": "Ils lui répondirent : « C’est ce que les gens disent : voler un voleur, c’est malgré tout goûter au goût du vol. » Il leur dit : « Je prends sur moi de lui donner sa part. » Certains disent que le vinaigre redevint du vin ; d’autres disent que le prix du vinaigre augmenta et qu’il fut vendu au prix du vin.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:20"
+          },
+          "fr_explanation": "Le proverbe enseigne que reprendre illicitement son bien à un voleur reste un acte de vol. Lorsque Rav Houna accepte de rendre au métayer sa part, sa perte lui est compensée : soit le vinaigre redevient du vin, soit sa valeur augmente jusqu’à atteindre celle du vin.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Ils lui répondirent : « C’est ce que les gens disent : voler un voleur, c’est malgré tout goûter au goût du vol. » Il leur dit : « Je prends sur moi de lui donner sa part. » Certains disent que le vinaigre redevint du vin ; d’autres disent que le prix du vinaigre augmenta et qu’il fut vendu au prix du vin.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le proverbe enseigne que reprendre illicitement son bien à un voleur reste un acte de vol. Lorsque Rav Houna accepte de rendre au métayer sa part, sa perte lui est compensée : soit le vinaigre redevient du vin, soit sa valeur augmente jusqu’à atteindre celle du vin.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Vole après le voleur » signifie que celui qui vole un voleur goûte lui aussi au goût du vol.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:26.000492+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 20,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0891ac29af0c7caf006a68e153949c81a0b0fd1f455c7cf60e",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1538,
+              "output": 218,
+              "total": 1756
+            },
+            "cost": {
+              "segment_eur": 0.0021345,
+              "phase_spent_eur": 0.3090051,
+              "phase_remaining_eur": 44.6909949
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Ils lui répondirent : « C’est ce que les gens disent : voler un voleur, c’est malgré tout goûter au goût du vol. » Il leur dit : « Je prends sur moi de lui donner sa part. » Certains disent que le vinaigre redevint du vin ; d’autres disent que le prix du vinaigre augmenta et qu’il fut vendu au prix du vin.",
+            "explanation": "Le proverbe enseigne que reprendre illicitement son bien à un voleur reste un acte de vol. Lorsque Rav Houna accepte de rendre au métayer sa part, sa perte lui est compensée : soit le vinaigre redevient du vin, soit sa valeur augmente jusqu’à atteindre celle du vin.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Vole après le voleur » signifie que celui qui vole un voleur goûte lui aussi au goût du vol.",
+                "refs": [
+                  "Rashi on Berakhot 5b:20:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 21,
           "he": "תַּנְיָא אַבָּא בִּנְיָמִין אוֹמֵר: עַל שְׁנֵי דְבָרִים הָיִיתִי מִצְטַעֵר כׇּל יָמַי — עַל תְּפִלָּתִי שֶׁתְּהֵא לִפְנֵי מִטָּתִי, וְעַל מִטָּתִי שֶׁתְּהֵא נְתוּנָה בֵּין צָפוֹן לְדָרוֹם. ״עַל תְּפִלָּתִי שֶׁתְּהֵא לִפְנֵי מִטָּתִי״, מַאי ״לִפְנֵי מִטָּתִי״? אִילֵּימָא ״לִפְנֵי מִטָּתִי״ מַמָּשׁ, וְהָאָמַר רַב יְהוּדָה, אָמַר רַב, וְאִיתֵּימָא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מִנַּיִן לַמִּתְפַּלֵּל שֶׁלֹּא יְהֵא דָּבָר חוֹצֵץ בֵּינוֹ לְבֵין הַקִּיר — שֶׁנֶּאֱמַר: ״וַיַּסֵּב חִזְקִיָּהוּ פָּנָיו אֶל הַקִּיר וַיִּתְפַּלֵּל״? לָא תֵּימָא, ״לִפְנֵי מִטָּתִי״, אֶלָּא אֵימָא ״סָמוּךְ לְמִטָּתִי״.",
           "en": "The Gemara returns to the topic of prayer. It was taught in a <i>baraita</i> that the <i>tanna</i> Abba Binyamin would say: All of my life I have taken great pains with regard to two things: That my prayer should be before my bed and that my bed should be placed north to south. Abba Binyamin’s statement requires explanation. With regard to his statement: That my prayer should be before my bed, the Gemara asks, what does before my bed mean? If you say that it literally means that he would stand before his bed and pray, it is difficult, as Rav Yehuda said that Rav said, and some say that Rabbi Yehoshua ben Levi said: From where is it derived that one who prays should have nothing separating between him and the wall? As it is stated: “And Hezekiah turned to face the wall and prayed” (Isaiah 38:2), in order to facilitate his concentration during prayer. That being said, why would Abba Binyamin pray before his bed? Rather, do not say that before my bed refers to where he stood during prayer, but rather, say that he prayed adjacent to the time that he would retire to bed; he was careful to recite <i>Shema</i> and recite the evening prayer just before going to sleep (Rabbeinu Ḥananel).",
-          "fr": "Il a été enseigné dans une baraïta. Abba Binyamin dit : Sur deux choses je me suis tourmenté tous mes jours — sur ma prière qu'elle soit faite devant mon lit, et sur mon lit qu'il soit placé entre le nord et le sud. 'Sur ma prière qu'elle soit faite devant mon lit' — que signifie 'devant mon lit' ? Si l'on dit littéralement 'devant mon lit', mais n'a-t-il pas dit Rav Yehuda au nom de Rav, et d'autres disent Rabbi Yehoshou'a ben Levi : D'où sait-on que celui qui prie ne doit avoir aucun obstacle entre lui et le mur — car il est dit : 'Et Hizkiyahou tourna son visage vers le mur et pria' ? Ne dis pas 'devant mon lit', mais dis plutôt 'près de mon lit'.",
+          "fr": "Il a été enseigné dans une baraïta : Abba Binyamin dit : toute ma vie, je me suis appliqué à deux choses : que ma prière soit proche de mon lit et que mon lit soit orienté du nord au sud. Que signifie « que ma prière soit proche de mon lit » ? Si cela signifiait littéralement devant mon lit, Rav Yehouda n’a-t-il pas dit au nom de Rav, et certains disent au nom de Rabbi Yehoshoua ben Lévi : d’où savons-nous que rien ne doit séparer celui qui prie du mur ? Du verset : « Hizkiyahou tourna son visage vers le mur et pria. » Ne lis donc pas « devant mon lit », mais « à proximité du moment où je quitte mon lit ».",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:21"
+          },
+          "fr_explanation": "« Proche de mon lit » signifie que, dès son lever, Abba Binyamin veillait à ne pas se consacrer à d’autres occupations avant le Shema et la prière. L’expression ne décrit donc pas la position matérielle de son lit devant lui.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il a été enseigné dans une baraïta : Abba Binyamin dit : toute ma vie, je me suis appliqué à deux choses : que ma prière soit proche de mon lit et que mon lit soit orienté du nord au sud. Que signifie « que ma prière soit proche de mon lit » ? Si cela signifiait littéralement devant mon lit, Rav Yehouda n’a-t-il pas dit au nom de Rav, et certains disent au nom de Rabbi Yehoshoua ben Lévi : d’où savons-nous que rien ne doit séparer celui qui prie du mur ? Du verset : « Hizkiyahou tourna son visage vers le mur et pria. » Ne lis donc pas « devant mon lit », mais « à proximité du moment où je quitte mon lit ».</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">« Proche de mon lit » signifie que, dès son lever, Abba Binyamin veillait à ne pas se consacrer à d’autres occupations avant le Shema et la prière. L’expression ne décrit donc pas la position matérielle de son lit devant lui.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « à proximité de ma couche » signifie qu’il prenait soin, toute sa vie, de ne pas faire de travail ni d’étudier lorsqu’il se levait de son lit avant de réciter le Shema et de prier.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot explique que l’interdiction d’avoir un objet interposé entre le priant et le mur ne vise pas un meuble fixe comme une armoire ou une table, mais un lit n’est probablement pas considéré comme fixe. Ils précisent aussi que « à proximité de ma couche » signifie qu’il ne faisait pas de travail avant de prier, et ils contestent l’idée qu’il soit interdit d’étudier avant la prière.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:31.613073+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 21,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_01524ec11e70b2ac006a68e15750fc819dadaa03ff4a7edc63",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 2157,
+              "output": 448,
+              "total": 2605
+            },
+            "cost": {
+              "segment_eur": 0.00363375,
+              "phase_spent_eur": 0.31263884999999997,
+              "phase_remaining_eur": 44.68736115
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "Segment sélectionné dans l’échantillon de contrôle."
+              ],
+              "sample_for_review": true
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Il a été enseigné dans une baraïta : Abba Binyamin dit : toute ma vie, je me suis appliqué à deux choses : que ma prière soit proche de mon lit et que mon lit soit orienté du nord au sud. Que signifie « que ma prière soit proche de mon lit » ? Si cela signifiait littéralement devant mon lit, Rav Yehouda n’a-t-il pas dit au nom de Rav, et certains disent au nom de Rabbi Yehoshoua ben Lévi : d’où savons-nous que rien ne doit séparer celui qui prie du mur ? Du verset : « Hizkiyahou tourna son visage vers le mur et pria. » Ne lis donc pas « devant mon lit », mais « à proximité du moment où je quitte mon lit ».",
+            "explanation": "« Proche de mon lit » signifie que, dès son lever, Abba Binyamin veillait à ne pas se consacrer à d’autres occupations avant le Shema et la prière. L’expression ne décrit donc pas la position matérielle de son lit devant lui.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « à proximité de ma couche » signifie qu’il prenait soin, toute sa vie, de ne pas faire de travail ni d’étudier lorsqu’il se levait de son lit avant de réciter le Shema et de prier.",
+                "refs": [
+                  "Rashi on Berakhot 5b:21:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot explique que l’interdiction d’avoir un objet interposé entre le priant et le mur ne vise pas un meuble fixe comme une armoire ou une table, mais un lit n’est probablement pas considéré comme fixe. Ils précisent aussi que « à proximité de ma couche » signifie qu’il ne faisait pas de travail avant de prier, et ils contestent l’idée qu’il soit interdit d’étudier avant la prière.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:21:1",
+                  "Tosafot on Berakhot 5b:21:2"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 22,
           "he": "״וְעַל מִטָּתִי שֶׁתְּהֵא נְתוּנָה בֵּין צָפוֹן לַדָּרוֹם״.",
           "en": "Abba Binyamin’s statement: And my bed should be placed north to south was in deference to the Divine Presence, which rests between east and west, the direction of the Temple; as the Holy of Holies was to the west, while the main entrance was to the east. Therefore, the Sages were careful not to perform actions inconsistent with that sanctity while facing east to west; and, therefore, Abba Binyamin was careful not to sleep in a bed that faced east to west.",
-          "fr": "'Et sur mon lit qu'il soit placé entre le nord et le sud.'",
+          "fr": "« Et que mon lit soit orienté du nord au sud. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:22"
+          },
+          "fr_explanation": "Abba Binyamin dit cela par égard pour la Présence divine, qui repose entre l’est et l’ouest, direction du Temple : le Saint des Saints était à l’ouest, tandis que l’entrée principale était à l’est. C’est pourquoi les Sages veillaient à ne pas accomplir d’actions contraires à cette sainteté en étant tournés d’est en ouest, et Abba Binyamin veillait donc à ne pas dormir dans un lit orienté d’est en ouest.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>« Et que mon lit soit orienté du nord au sud. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Abba Binyamin dit cela par égard pour la Présence divine, qui repose entre l’est et l’ouest, direction du Temple : le Saint des Saints était à l’ouest, tandis que l’entrée principale était à l’est. C’est pourquoi les Sages veillaient à ne pas accomplir d’actions contraires à cette sainteté en étant tournés d’est en ouest, et Abba Binyamin veillait donc à ne pas dormir dans un lit orienté d’est en ouest.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Nord au sud » signifie que sa tête et ses pieds étaient, l’une au nord et l’autre au sud. Rachi explique que la Présence divine est à l’est ou à l’ouest ; il convient donc, pour l’acte de l’union, de se tourner vers d’autres directions.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:34.740883+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 22,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_07d2eaee9821e23b006a68e15c5bf481a1bdf257ddebc8e8ec",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1342,
+              "output": 222,
+              "total": 1564
+            },
+            "cost": {
+              "segment_eur": 0.0020055,
+              "phase_spent_eur": 0.31464434999999996,
+              "phase_remaining_eur": 44.68535565
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "« Et que mon lit soit orienté du nord au sud. »",
+            "explanation": "Abba Binyamin dit cela par égard pour la Présence divine, qui repose entre l’est et l’ouest, direction du Temple : le Saint des Saints était à l’ouest, tandis que l’entrée principale était à l’est. C’est pourquoi les Sages veillaient à ne pas accomplir d’actions contraires à cette sainteté en étant tournés d’est en ouest, et Abba Binyamin veillait donc à ne pas dormir dans un lit orienté d’est en ouest.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Nord au sud » signifie que sa tête et ses pieds étaient, l’une au nord et l’autre au sud. Rachi explique que la Présence divine est à l’est ou à l’ouest ; il convient donc, pour l’acte de l’union, de se tourner vers d’autres directions.",
+                "refs": [
+                  "Rashi on Berakhot 5b:22:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 23,
           "he": "דְּאָמַר רַבִּי חָמָא בְּרַבִּי חֲנִינָא, אָמַר רַבִּי יִצְחָק: כׇּל הַנּוֹתֵן מִטָּתוֹ בֵּין צָפוֹן לְדָרוֹם הָוְיִין לֵיהּ בָּנִים זְכָרִים, שֶׁנֶּאֱמַר: ״וּצְפוּנְךָ תְּמַלֵּא בִטְנָם יִשְׂבְּעוּ בָנִים״.",
           "en": "In praise of that stringency, the Sages added that Rabbi Ḥama said that Rabbi Ḥanina said that Rabbi Yitzḥak said: One who places his bed facing north to south will be rewarded with male children, as it is stated: “And whose belly You fill with Your treasure [<i>utzfunekha</i>], who have sons in plenty and leave their abundance to their babies” (Psalms 17:14). This verse indicates that one who sets his bed facing north will be rewarded with sons in plenty, as north [<i>tzafon</i>] is etymologically similar to Your treasure [<i>tzfunekha</i>].",
-          "fr": "Car a dit Rabbi Hama fils de Rabbi Hanina, a dit Rabbi Yitzhak : Quiconque place son lit entre le nord et le sud aura des fils mâles, comme il est dit : 'Et Ton trésor remplira leur ventre, ils seront rassasiés de fils.'",
+          "fr": "Car Rabbi Hama, fils de Rabbi Hanina, dit au nom de Rabbi Yitzhak : quiconque oriente son lit du nord au sud aura des fils, comme il est dit : « De Ton trésor, Tu rempliras leur ventre ; ils seront rassasiés d’enfants. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:23"
+          },
+          "fr_explanation": "Le verset est interprété par un rapprochement entre le nord et le terme traduit par « Ton trésor ». L’orientation du lit du nord au sud est associée au mérite d’avoir des fils.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Car Rabbi Hama, fils de Rabbi Hanina, dit au nom de Rabbi Yitzhak : quiconque oriente son lit du nord au sud aura des fils, comme il est dit : « De Ton trésor, Tu rempliras leur ventre ; ils seront rassasiés d’enfants. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le verset est interprété par un rapprochement entre le nord et le terme traduit par « Ton trésor ». L’orientation du lit du nord au sud est associée au mérite d’avoir des fils.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Et ton secret » renvoie au nord, et la suite du verset indique : « des fils ils seront rassasiés ».</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Il s’agit de placer le lit entre le nord et le sud, et non entre l’est et l’ouest. Tossefot précise que cela concerne l’homme qui couche avec sa femme, parce que la Présence divine se trouve entre l’est et l’ouest ; il y aurait une inconvenance à se coucher auprès de sa femme dans cette orientation à cause du rapport conjugal. Les versets le montrent également.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:38.696258+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 23,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0b9221b8b44e0418006a68e15f65e4819d8859ea7f5928dd54",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 1565,
+              "output": 330,
+              "total": 1895
+            },
+            "cost": {
+              "segment_eur": 0.00265875,
+              "phase_spent_eur": 0.31730309999999995,
+              "phase_remaining_eur": 44.6826969
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Car Rabbi Hama, fils de Rabbi Hanina, dit au nom de Rabbi Yitzhak : quiconque oriente son lit du nord au sud aura des fils, comme il est dit : « De Ton trésor, Tu rempliras leur ventre ; ils seront rassasiés d’enfants. »",
+            "explanation": "Le verset est interprété par un rapprochement entre le nord et le terme traduit par « Ton trésor ». L’orientation du lit du nord au sud est associée au mérite d’avoir des fils.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Et ton secret » renvoie au nord, et la suite du verset indique : « des fils ils seront rassasiés ».",
+                "refs": [
+                  "Rashi on Berakhot 5b:23:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Il s’agit de placer le lit entre le nord et le sud, et non entre l’est et l’ouest. Tossefot précise que cela concerne l’homme qui couche avec sa femme, parce que la Présence divine se trouve entre l’est et l’ouest ; il y aurait une inconvenance à se coucher auprès de sa femme dans cette orientation à cause du rapport conjugal. Les versets le montrent également.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:23:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.89,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 24,
           "he": "רַב נַחְמָן בַּר יִצְחָק אָמַר: אַף אֵין אִשְׁתּוֹ מַפֶּלֶת נְפָלִים. כְּתִיב הָכָא: ״וּצְפוּנְךָ תְּמַלֵּא בִּטְנָם״, וּכְתִיב הָתָם: ״וַיִּמְלְאוּ יָמֶיהָ לָלֶדֶת וְהִנֵּה תוֹמִים בְּבִטְנָהּ״.",
           "en": "Rav Naḥman bar Yitzḥak said: Moreover, his wife will not miscarry. From where do we derive this? It is written here: “And whose belly You fill [<i>temaleh</i>] with Your treasure,” and it is written there, concerning Rebecca’s pregnancy: “And her time to give birth was fulfilled [<i>vayimle’u</i>] and there were twins in her belly” (Genesis 25:24), consequently: You fill with Your treasure refers to a pregnancy that proceeds without complication.",
-          "fr": "Rav Nahman bar Yitzhak dit : De plus, son épouse ne fera pas de fausses couches. Il est écrit ici : 'Et Ton trésor remplira leur ventre', et il est écrit là : 'Et ses jours s'accomplirent pour enfanter, et voici des jumeaux dans son ventre.'",
+          "fr": "Rav Nahman bar Yitzhak dit : de plus, sa femme ne fera pas de fausse couche. Il est écrit ici : « De Ton trésor, Tu rempliras leur ventre », et il est écrit là-bas : « Lorsque furent accomplis les jours où elle devait enfanter, voici qu’il y avait des jumeaux dans son ventre. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:24"
+          },
+          "fr_explanation": "Le passage explique que l’expression « tu rempliras leur ventre » est rapprochée du verset concernant Rébecca, afin d’indiquer une grossesse qui se déroule sans complication.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rav Nahman bar Yitzhak dit : de plus, sa femme ne fera pas de fausse couche. Il est écrit ici : « De Ton trésor, Tu rempliras leur ventre », et il est écrit là-bas : « Lorsque furent accomplis les jours où elle devait enfanter, voici qu’il y avait des jumeaux dans son ventre. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage explique que l’expression « tu rempliras leur ventre » est rapprochée du verset concernant Rébecca, afin d’indiquer une grossesse qui se déroule sans complication.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Tu rempliras leur ventre » : tu rempliras les jours de leur grossesse.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:41.299232+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 24,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_015cf6d41afabb16006a68e163440c819ca9af52ca55e53b19",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1423,
+              "output": 186,
+              "total": 1609
+            },
+            "cost": {
+              "segment_eur": 0.00190425,
+              "phase_spent_eur": 0.31920734999999995,
+              "phase_remaining_eur": 44.68079265
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Rav Nahman bar Yitzhak dit : de plus, sa femme ne fera pas de fausse couche. Il est écrit ici : « De Ton trésor, Tu rempliras leur ventre », et il est écrit là-bas : « Lorsque furent accomplis les jours où elle devait enfanter, voici qu’il y avait des jumeaux dans son ventre. »",
+            "explanation": "Le passage explique que l’expression « tu rempliras leur ventre » est rapprochée du verset concernant Rébecca, afin d’indiquer une grossesse qui se déroule sans complication.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Tu rempliras leur ventre » : tu rempliras les jours de leur grossesse.",
+                "refs": [
+                  "Rashi on Berakhot 5b:24:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 25,
           "he": "תַּנְיָא. אַבָּא בִּנְיָמִין אוֹמֵר: שְׁנַיִם שֶׁנִּכְנְסוּ לְהִתְפַּלֵּל. וְקָדַם אֶחָד מֵהֶם לְהִתְפַּלֵּל, וְלֹא הִמְתִּין אֶת חֲבֵרוֹ. וְיָצָא. טוֹרְפִין לוֹ תְּפִלָּתוֹ בְּפָנָיו, שֶׁנֶּאֱמַר: ״טֹרֵף נַפְשׁוֹ בְּאַפּוֹ הַלְמַעַנְךָ תֵּעָזַב אָרֶץ״.",
           "en": "Another of Abba Binyamin’s statements with regard to the laws of prayer was taught in a <i>baraita</i>: Abba Binyamin says: If two people enter a synagogue outside of the city in order to pray, and one began praying before the other and did not wait for the other person to complete his prayer, and left him alone in the synagogue, his prayer is thrown back in his face. Because he left the other person alone and caused him to be distracted during his prayer, his own prayer is thrown back in his face, as it is stated: “You who throw your soul in your face, for your sake will the earth be forsaken? The Rock will be moved from its place” (Job 18:4). This verse indicates that one who left the other person alone effectively causes his soul, as prayer is the outpouring of the soul before God, to be thrown in his face. God says to that person: For your sake, do you think because you left, the earth will be forsaken, that God will leave the world and the prayer of the other person will go unheard?",
-          "fr": "Il a été enseigné dans une baraïta. Abba Binyamin dit : Deux personnes qui entrèrent pour prier, et l'une d'elles se hâta de prier sans attendre l'autre, et sortit — on lui jette sa prière au visage, comme il est dit : 'Celui qui déchire son âme dans sa colère, est-ce pour toi que la terre sera abandonnée ?'",
+          "fr": "Il a été enseigné dans une baraïta : Abba Binyamin dit : si deux personnes sont entrées pour prier, que l’une termine sa prière avant l’autre, puis sort sans attendre son compagnon, sa prière lui est rejetée au visage, comme il est dit : « Déchires-tu ton âme dans ta colère ? La terre serait-elle abandonnée à cause de toi ? »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:25"
+          },
+          "fr_explanation": "Celui qui sort laisse son compagnon seul dans la synagogue et risque de troubler sa prière. Sa propre prière est alors considérée comme rejetée.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il a été enseigné dans une baraïta : Abba Binyamin dit : si deux personnes sont entrées pour prier, que l’une termine sa prière avant l’autre, puis sort sans attendre son compagnon, sa prière lui est rejetée au visage, comme il est dit : « Déchires-tu ton âme dans ta colère ? La terre serait-elle abandonnée à cause de toi ? »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Celui qui sort laisse son compagnon seul dans la synagogue et risque de troubler sa prière. Sa propre prière est alors considérée comme rejetée.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « il tire son âme dans sa colère » signifie qu’on lui dit qu’il a provoqué le rejet de sa propre âme devant lui. Il précise que cette « âme » désigne la prière, comme dans « j’ai répandu mon âme devant Hachem ». Sur « pour toi la terre sera-t-elle abandonnée ? », il explique qu’on lui demande s’il a pensé que, parce qu’il est parti, la Présence divine se retirerait et abandonnerait son compagnon qui prie devant elle.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot explique que cette règle concernait notamment les synagogues situées dans les champs, où il pouvait être dangereux de laisser quelqu’un seul la nuit. Lorsqu’un homme prolongeait sa prière après le départ des autres, on l’attendait. Tossefot conclut qu’il est bon d’adopter cette rigueur également dans les autres synagogues.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:46.925157+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 25,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_08e60b86d1826155006a68e16640e4819f8229f264e3875abb",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 1823,
+              "output": 460,
+              "total": 2283
+            },
+            "cost": {
+              "segment_eur": 0.00343725,
+              "phase_spent_eur": 0.32264459999999995,
+              "phase_remaining_eur": 44.6773554
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Il a été enseigné dans une baraïta : Abba Binyamin dit : si deux personnes sont entrées pour prier, que l’une termine sa prière avant l’autre, puis sort sans attendre son compagnon, sa prière lui est rejetée au visage, comme il est dit : « Déchires-tu ton âme dans ta colère ? La terre serait-elle abandonnée à cause de toi ? »",
+            "explanation": "Celui qui sort laisse son compagnon seul dans la synagogue et risque de troubler sa prière. Sa propre prière est alors considérée comme rejetée.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « il tire son âme dans sa colère » signifie qu’on lui dit qu’il a provoqué le rejet de sa propre âme devant lui. Il précise que cette « âme » désigne la prière, comme dans « j’ai répandu mon âme devant Hachem ». Sur « pour toi la terre sera-t-elle abandonnée ? », il explique qu’on lui demande s’il a pensé que, parce qu’il est parti, la Présence divine se retirerait et abandonnerait son compagnon qui prie devant elle.",
+                "refs": [
+                  "Rashi on Berakhot 5b:25:1",
+                  "Rashi on Berakhot 5b:25:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot explique que cette règle concernait notamment les synagogues situées dans les champs, où il pouvait être dangereux de laisser quelqu’un seul la nuit. Lorsqu’un homme prolongeait sa prière après le départ des autres, on l’attendait. Tossefot conclut qu’il est bon d’adopter cette rigueur également dans les autres synagogues.",
+                "refs": [
+                  "Tosafot on Berakhot 5b:25:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 26,
           "he": "וְלֹא עוֹד, אֶלָּא שֶׁגּוֹרֵם לַשְּׁכִינָה שֶׁתִּסְתַּלֵּק מִיִּשְׂרָאֵל, שֶׁנֶּאֱמַר: ״וְיֶעְתַּק צוּר מִמְקֹמוֹ״. וְאֵין ״צוּר״ אֶלָּא הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנֶּאֱמַר: צוּר יְלָדְךָ תֶּשִׁי״.",
           "en": "Not only that, but it causes the Divine Presence to remove itself from Israel, as it is stated in the continuation of the verse: “The Rock will be moved from its place.” The rock, God, is forced to remove His presence. And Rock means nothing other than the Holy One, Blessed be He, as it is stated: “Of the Rock that gave birth to you, you have been unmindful, and you have forgotten God Who bore you” (Deuteronomy 32:18).",
-          "fr": "Et non seulement cela, mais il cause encore la retraite de la Chekhina d'Israël, comme il est dit : 'Et le Rocher se déplace de son lieu.' Et 'Rocher' ne désigne que le Saint béni soit-Il, comme il est dit : 'Le Rocher qui t'a engendré, tu l'as oublié.'",
+          "fr": "Bien plus, il provoque le retrait de la Présence divine d’Israël, comme il est dit : « Le Rocher quitterait-Il Sa demeure ? » Or, le « Rocher » ne désigne que le Saint, béni soit-Il, comme il est dit : « Tu as négligé le Rocher qui t’a engendré. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:26"
+          },
+          "fr_explanation": "Le « Rocher » du verset désigne Dieu. Abandonner son compagnon pendant sa prière est ainsi présenté comme une faute susceptible d’entraîner le retrait de la Présence divine.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Bien plus, il provoque le retrait de la Présence divine d’Israël, comme il est dit : « Le Rocher quitterait-Il Sa demeure ? » Or, le « Rocher » ne désigne que le Saint, béni soit-Il, comme il est dit : « Tu as négligé le Rocher qui t’a engendré. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le « Rocher » du verset désigne Dieu. Abandonner son compagnon pendant sa prière est ainsi présenté comme une faute susceptible d’entraîner le retrait de la Présence divine.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:49.785254+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 26,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_08fa97aafe123660006a68e16b9c20819c8dd34e2992235bae",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1402,
+              "output": 159,
+              "total": 1561
+            },
+            "cost": {
+              "segment_eur": 0.001767,
+              "phase_spent_eur": 0.32441159999999997,
+              "phase_remaining_eur": 44.6755884
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Bien plus, il provoque le retrait de la Présence divine d’Israël, comme il est dit : « Le Rocher quitterait-Il Sa demeure ? » Or, le « Rocher » ne désigne que le Saint, béni soit-Il, comme il est dit : « Tu as négligé le Rocher qui t’a engendré. »",
+            "explanation": "Le « Rocher » du verset désigne Dieu. Abandonner son compagnon pendant sa prière est ainsi présenté comme une faute susceptible d’entraîner le retrait de la Présence divine.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 27,
           "he": "וְאִם הִמְתִּין לוֹ מַה שְּׂכָרוֹ?",
           "en": "And if he waits for him in the synagogue, what is his reward? Is his reward proportionate to the punishment received by one who failed to do so?",
-          "fr": "Et s'il l'a attendu, quelle est sa récompense ?",
+          "fr": "Et s’il l’attend, quelle est sa récompense ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5b:27"
+          },
+          "fr_explanation": "Il s’agit de l’attendre à la synagogue. La question demande quelle récompense il reçoit, et si sa récompense est proportionnée au châtiment de celui qui ne l’a pas fait.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et s’il l’attend, quelle est sa récompense ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Il s’agit de l’attendre à la synagogue. La question demande quelle récompense il reçoit, et si sa récompense est proportionnée au châtiment de celui qui ne l’a pas fait.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T17:05:51.602982+00:00",
+            "masechet": "berakhot",
+            "daf": "5b",
+            "segment_number": 27,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0e7f248638c9c603006a68e16e4ed0819dbe177cfe64277daf",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1178,
+              "output": 89,
+              "total": 1267
+            },
+            "cost": {
+              "segment_eur": 0.001284,
+              "phase_spent_eur": 0.3256956,
+              "phase_remaining_eur": 44.6743044
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T17:33:32.842403+00:00"
+          },
+          "study": {
+            "translation": "Et s’il l’attend, quelle est sa récompense ?",
+            "explanation": "Il s’agit de l’attendre à la synagogue. La question demande quelle récompense il reçoit, et si sa récompense est proportionnée au châtiment de celui qui ne l’a pas fait.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         }
       ],
@@ -53361,7 +55412,22 @@
           "en": "",
           "fr": "Et pourtant Rabbi Yohanan a dit : ceci est l'os du dixième fils. Certains posent la question : comment tenait-il en sa main un os tiré d'un mort, puisque celui-ci transmet l'impureté ? Et certains disent que c'était une dent qui lui avait été arrachée de son vivant."
         }
-      ]
+      ],
+      "fr_validation": {
+        "status": "reviewed",
+        "segments_reviewed": 27,
+        "problems_detected": 0,
+        "reviewed_at": "2026-07-28T17:33:32.842403+00:00",
+        "review_scope": [
+          "hebrew_aramaic",
+          "translation_fr",
+          "explanation_fr",
+          "rachi",
+          "tossefot",
+          "html",
+          "terminology"
+        ]
+      }
     },
     "60a": {
       "segments": [
