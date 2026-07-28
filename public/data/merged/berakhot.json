@@ -40543,20 +40543,176 @@
           "id": 1,
           "he": "וְאִי כְּרַבָּן גַּמְלִיאֵל סְבִירָא לְהוּ — לֵימְרוּ כְּרַבָּן גַּמְלִיאֵל.",
           "en": "And if they explain this verse in accordance with the opinion of Rabban Gamliel who says that “when you lie down” refers to the entire night, then let the Rabbis also say that one may recite the evening <i>Shema</i> until dawn, in accordance with the opinion of Rabban Gamliel.",
-          "fr": "Et si leur opinion est conforme à celle de Rabban Gamliel — qu'ils disent comme Rabban Gamliel.",
+          "fr": "Et s’ils adoptent l’opinion de Rabban Gamliel, qu’ils donnent donc la même limite que Rabban Gamliel.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:1"
+          },
+          "fr_explanation": "Rabban Gamliel comprend « quand tu te couches » comme désignant toute la nuit. Si les Sages adoptaient entièrement son opinion, ils auraient dû fixer la limite à l’aube et non à minuit.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et s’ils adoptent l’opinion de Rabban Gamliel, qu’ils donnent donc la même limite que Rabban Gamliel.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabban Gamliel comprend « quand tu te couches » comme désignant toute la nuit. Si les Sages adoptaient entièrement son opinion, ils auraient dû fixer la limite à l’aube et non à minuit.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">S&#x27;il s&#x27;agit de l&#x27;opinion de Rabban Gamliel, cela signifie que « quand tu te couches » désigne tout le temps où les hommes ont coutume de se coucher, c&#x27;est-à-dire toute la nuit. « Qu&#x27;ils disent donc selon Rabban Gamliel » signifie : jusqu&#x27;à l&#x27;aube.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:08.187932+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 1,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0933b1d0a4701741006a68d06042188191925bcef7ccdcbcbd",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1332,
+              "output": 208,
+              "total": 1540
+            },
+            "cost": {
+              "segment_eur": 0.001935,
+              "phase_spent_eur": 0.15939659999999997,
+              "phase_remaining_eur": 44.8406034
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": true,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et s’ils adoptent l’opinion de Rabban Gamliel, qu’ils donnent donc la même limite que Rabban Gamliel.",
+            "explanation": "Rabban Gamliel comprend « quand tu te couches » comme désignant toute la nuit. Si les Sages adoptaient entièrement son opinion, ils auraient dû fixer la limite à l’aube et non à minuit.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "S'il s'agit de l'opinion de Rabban Gamliel, cela signifie que « quand tu te couches » désigne tout le temps où les hommes ont coutume de se coucher, c'est-à-dire toute la nuit. « Qu'ils disent donc selon Rabban Gamliel » signifie : jusqu'à l'aube.",
+                "refs": [
+                  "Rashi on Berakhot 4b:1:1",
+                  "Rashi on Berakhot 4b:1:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 2,
           "he": "לְעוֹלָם כְּרַבָּן גַּמְלִיאֵל סְבִירָא לְהוּ, וְהָא דְּקָא אָמְרִי ״עַד חֲצוֹת״, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵירָה. כִּדְתַנְיָא, חֲכָמִים עָשׂוּ סְיָיג לְדִבְרֵיהֶם, כְּדֵי שֶׁלֹּא יְהֵא אָדָם בָּא מִן הַשָּׂדֶה בָּעֶרֶב, וְאוֹמֵר: ״אֵלֵךְ לְבֵיתִי וְאוֹכַל קִימְעָא וְאֶשְׁתֶּה קִימְעָא, וְאִישַׁן קִימְעָא, וְאַחַר כָּךְ אֶקְרָא קְרִיאַת שְׁמַע וְאֶתְפַּלֵּל״, וְחוֹטַפְתּוֹ שֵׁינָה וְנִמְצָא יָשֵׁן כָּל הַלַּיְלָה. אֲבָל אָדָם בָּא מִן הַשָּׂדֶה בָּעֶרֶב, נִכְנָס לְבֵית הַכְּנֶסֶת, אִם רָגִיל לִקְרוֹת — קוֹרֵא. וְאִם רָגִיל לִשְׁנוֹת — שׁוֹנֶה, וְקוֹרֵא קְרִיאַת שְׁמַע וּמִתְפַּלֵּל, וְאוֹכֵל פִּתּוֹ וּמְבָרֵךְ.",
           "en": "The Gemara answers: Actually, the Rabbis hold in accordance with the opinion of Rabban Gamliel, and the fact that they say until midnight is in order to distance a person from transgression. As it was taught in a <i>baraita</i>, the Rabbis created a “fence” for their pronouncements with regard to the recitation of <i>Shema</i> in order to prevent a situation where a person comes home from the field in the evening, tired from his day’s work, and knowing that he is permitted to recite <i>Shema</i> until dawn says to himself: I will go home, eat a little, drink a little, sleep a little and then I will recite <i>Shema</i> and recite the evening prayer. In the meantime, he is overcome by sleep and ends up sleeping all night. However, since one is concerned lest he fall asleep and fail to wake up before midnight in order to recite <i>Shema</i> at the appropriate time, he will come from the field in the evening, enter the synagogue, and until it is time to pray, he will immerse himself in Torah. If he is accustomed to reading the Bible, he reads. If he is accustomed to learning <i>mishnayot</i>, a more advanced level of study, he learns. And then he recites <i>Shema</i> and prays as he should. When he arrives home, he eats his meal with a contented heart and recites a blessing.",
-          "fr": "En réalité, leur opinion est conforme à celle de Rabban Gamliel, et ce qu'ils disent 'jusqu'à minuit', c'est pour éloigner l'homme de la transgression. Comme il est enseigné en baraita : les Sages ont établi une haie autour de leurs paroles, afin qu'un homme ne rentre pas des champs le soir en disant : 'J'irai chez moi, je mangerai un peu, je boirai un peu, je dormirai un peu, et ensuite je réciterai le Chema et je prierai' — et le sommeil le saisit et il se retrouve à dormir toute la nuit. Mais un homme qui rentre des champs le soir entre dans la synagogue : s'il a l'habitude de lire — il lit, s'il a l'habitude d'étudier la Michna — il étudie, et il récite le Chema et prie, mange son pain et prononce la bénédiction.",
+          "fr": "En réalité, ils adoptent l’opinion de Rabban Gamliel. S’ils disent « jusqu’à minuit », c’est afin d’éloigner l’homme de la transgression. Comme il a été enseigné dans une baraïta : les Sages ont établi une barrière autour de leurs paroles, afin qu’un homme ne rentre pas du champ le soir en disant : « Je vais rentrer chez moi, manger un peu, boire un peu et dormir un peu ; ensuite, je réciterai le Shema et je prierai. » Le sommeil pourrait le gagner et il dormirait alors toute la nuit. Au contraire, lorsqu’il rentre du champ le soir, il entre à la synagogue. S’il a l’habitude de lire les Écritures, il les lit ; s’il a l’habitude d’étudier, il étudie. Puis il récite le Shema, prie, mange son pain et récite la bénédiction.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:2"
+          },
+          "fr_explanation": "La limite de minuit constitue une précaution rabbinique. Elle empêche de remettre le Shema et la prière à plus tard au risque de s’endormir jusqu’au matin.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>En réalité, ils adoptent l’opinion de Rabban Gamliel. S’ils disent « jusqu’à minuit », c’est afin d’éloigner l’homme de la transgression. Comme il a été enseigné dans une baraïta : les Sages ont établi une barrière autour de leurs paroles, afin qu’un homme ne rentre pas du champ le soir en disant : « Je vais rentrer chez moi, manger un peu, boire un peu et dormir un peu ; ensuite, je réciterai le Shema et je prierai. » Le sommeil pourrait le gagner et il dormirait alors toute la nuit. Au contraire, lorsqu’il rentre du champ le soir, il entre à la synagogue. S’il a l’habitude de lire les Écritures, il les lit ; s’il a l’habitude d’étudier, il étudie. Puis il récite le Shema, prie, mange son pain et récite la bénédiction.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La limite de minuit constitue une précaution rabbinique. Elle empêche de remettre le Shema et la prière à plus tard au risque de s’endormir jusqu’au matin.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« De la transgression » signifie : de peur qu’il ne s’appuie sur le délai qu’il a devant lui, comme l’enseigne la baraïta. « Un peu » signifie : une petite quantité.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">De là, on apprend que dès l’heure où commence le temps du Shema du soir, on ne doit pas prendre un repas avant d’avoir lu le Shema et prié la prière du soir.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:15.765350+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 2,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_00af675e8f533437006a68d064cbc8819d83f8394a78b32dc6",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 2072,
+              "output": 401,
+              "total": 2473
+            },
+            "cost": {
+              "segment_eur": 0.0033585,
+              "phase_spent_eur": 0.16275509999999996,
+              "phase_remaining_eur": 44.8372449
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "En réalité, ils adoptent l’opinion de Rabban Gamliel. S’ils disent « jusqu’à minuit », c’est afin d’éloigner l’homme de la transgression. Comme il a été enseigné dans une baraïta : les Sages ont établi une barrière autour de leurs paroles, afin qu’un homme ne rentre pas du champ le soir en disant : « Je vais rentrer chez moi, manger un peu, boire un peu et dormir un peu ; ensuite, je réciterai le Shema et je prierai. » Le sommeil pourrait le gagner et il dormirait alors toute la nuit. Au contraire, lorsqu’il rentre du champ le soir, il entre à la synagogue. S’il a l’habitude de lire les Écritures, il les lit ; s’il a l’habitude d’étudier, il étudie. Puis il récite le Shema, prie, mange son pain et récite la bénédiction.",
+            "explanation": "La limite de minuit constitue une précaution rabbinique. Elle empêche de remettre le Shema et la prière à plus tard au risque de s’endormir jusqu’au matin.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« De la transgression » signifie : de peur qu’il ne s’appuie sur le délai qu’il a devant lui, comme l’enseigne la baraïta. « Un peu » signifie : une petite quantité.",
+                "refs": [
+                  "Rashi on Berakhot 4b:2:1",
+                  "Rashi on Berakhot 4b:2:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "De là, on apprend que dès l’heure où commence le temps du Shema du soir, on ne doit pas prendre un repas avant d’avoir lu le Shema et prié la prière du soir.",
+                "refs": [
+                  "Tosafot on Berakhot 4b:2:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
@@ -40565,258 +40721,2123 @@
           "en": "The <i>baraita</i> concludes with a warning: Anyone who transgresses the pronouncements of the Sages is liable to receive the death penalty.",
           "fr": "Et quiconque transgresse les paroles des Sages est passible de mort.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:3"
+          },
+          "fr_explanation": "La baraïta se conclut par un avertissement : quiconque transgresse les prescriptions des Sages est passible de la peine de mort.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et quiconque transgresse les paroles des Sages est passible de mort.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La baraïta se conclut par un avertissement : quiconque transgresse les prescriptions des Sages est passible de la peine de mort.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:18.882605+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 3,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d202dc76a9de586006a68d06d3ef4819daa4829c7fd5c53e4",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1186,
+              "output": 73,
+              "total": 1259
+            },
+            "cost": {
+              "segment_eur": 0.001218,
+              "phase_spent_eur": 0.16397309999999996,
+              "phase_remaining_eur": 44.8360269
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et quiconque transgresse les paroles des Sages est passible de mort.",
+            "explanation": "La baraïta se conclut par un avertissement : quiconque transgresse les prescriptions des Sages est passible de la peine de mort.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 4,
           "he": "מַאי שְׁנָא בְּכָל דּוּכְתָּא דְּלָא קָתָנֵי ״חַיָּיב מִיתָה״, וּמַאי שְׁנָא הָכָא דְּקָתָנֵי ״חַיָּיב מִיתָה״?",
           "en": "This is a startling conclusion. What is different in all other places that it is not taught that one is liable to receive the death penalty and what is different here that it is taught that he is liable to receive the death penalty? There is no unique stringency apparent in the rabbinic restriction on the recitation of <i>Shema</i>.",
-          "fr": "En quoi ce cas diffère-t-il de tous les autres endroits où l'on n'enseigne pas 'passible de mort', et en quoi ce cas diffère-t-il ici où l'on enseigne 'passible de mort' ?",
+          "fr": "Pourquoi, dans tous les autres passages, n’enseigne-t-on pas « il est passible de mort », alors qu’ici on enseigne « il est passible de mort » ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:4"
+          },
+          "fr_explanation": "La Guemara demande pourquoi cette règle particulière est assortie d’un avertissement aussi sévère, alors que la même formule n’est généralement pas employée pour les autres prescriptions rabbiniques.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Pourquoi, dans tous les autres passages, n’enseigne-t-on pas « il est passible de mort », alors qu’ici on enseigne « il est passible de mort » ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara demande pourquoi cette règle particulière est assortie d’un avertissement aussi sévère, alors que la même formule n’est généralement pas employée pour les autres prescriptions rabbiniques.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:21.448864+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 4,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0b646302f4443058006a68d06f8aa081a0b10f163f56e02f03",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1280,
+              "output": 120,
+              "total": 1400
+            },
+            "cost": {
+              "segment_eur": 0.0015,
+              "phase_spent_eur": 0.16547309999999996,
+              "phase_remaining_eur": 44.8345269
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Pourquoi, dans tous les autres passages, n’enseigne-t-on pas « il est passible de mort », alors qu’ici on enseigne « il est passible de mort » ?",
+            "explanation": "La Guemara demande pourquoi cette règle particulière est assortie d’un avertissement aussi sévère, alors que la même formule n’est généralement pas employée pour les autres prescriptions rabbiniques.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 5,
           "he": "אִיבָּעֵית אֵימָא מִשּׁוּם דְּאִיכָּא אוֹנֶס שֵׁינָה. וְאִיבָּעֵית אֵימָא: לְאַפּוֹקֵי מִמַּאן דְּאָמַר ״תְּפִלַּת עַרְבִית רְשׁוּת״, קָא מַשְׁמַע לָן דְּחוֹבָה.",
           "en": "The Gemara offers two answers, explaining that the conclusion of the <i>baraita</i> essentially stems not from the magnitude of the transgression, but rather from concern that the “fence” created around this particular mitzva may be neglected. If you wish, say that one returning from work is quite anxious to go to sleep, and due to the risk that he will be overcome by sleep, he must be particularly vigilant in the recitation of <i>Shema</i>. And if you wish, say instead that strong language is employed here in order to exclude the opinion of he who says that although the morning prayer and the afternoon prayer are mandatory, the evening prayer is optional. Therefore, it teaches us that the evening prayer is mandatory, and anyone who transgresses the pronouncement of the Sages in this regard is liable to receive the death penalty.",
-          "fr": "Si tu veux, dis : parce qu'il y a la contrainte du sommeil. Et si tu veux, dis : pour exclure celui qui dit 'la prière du soir est facultative' — il nous enseigne qu'elle est obligatoire.",
+          "fr": "Si tu veux, dis : en raison de la force contraignante du sommeil. Et si tu veux, dis plutôt : cela vient exclure l’opinion selon laquelle la prière du soir est facultative ; on nous enseigne qu’elle est obligatoire.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:5"
+          },
+          "fr_explanation": "Le texte donne deux explications possibles : soit la personne est particulièrement exposée à être vaincue par le sommeil, soit l’expression sert à réfuter l’opinion selon laquelle la prière du soir serait facultative. Le passage précise ainsi que la prière du soir est obligatoire.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Si tu veux, dis : en raison de la force contraignante du sommeil. Et si tu veux, dis plutôt : cela vient exclure l’opinion selon laquelle la prière du soir est facultative ; on nous enseigne qu’elle est obligatoire.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le texte donne deux explications possibles : soit la personne est particulièrement exposée à être vaincue par le sommeil, soit l’expression sert à réfuter l’opinion selon laquelle la prière du soir serait facultative. Le passage précise ainsi que la prière du soir est obligatoire.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">À cause de la contrainte du sommeil qui le pousse à transgresser les paroles des Sages, il fallait l’avertir davantage.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:24.047964+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 5,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0af24e378bf741d0006a68d071f37481a2b61b86933aa37b63",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1511,
+              "output": 197,
+              "total": 1708
+            },
+            "cost": {
+              "segment_eur": 0.00201975,
+              "phase_spent_eur": 0.16749284999999994,
+              "phase_remaining_eur": 44.83250715
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Si tu veux, dis : en raison de la force contraignante du sommeil. Et si tu veux, dis plutôt : cela vient exclure l’opinion selon laquelle la prière du soir est facultative ; on nous enseigne qu’elle est obligatoire.",
+            "explanation": "Le texte donne deux explications possibles : soit la personne est particulièrement exposée à être vaincue par le sommeil, soit l’expression sert à réfuter l’opinion selon laquelle la prière du soir serait facultative. Le passage précise ainsi que la prière du soir est obligatoire.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "À cause de la contrainte du sommeil qui le pousse à transgresser les paroles des Sages, il fallait l’avertir davantage.",
+                "refs": [
+                  "Rashi on Berakhot 4b:5:1",
+                  "Rashi on Berakhot 4b:5:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 6,
           "he": "אָמַר מָר, קוֹרֵא קְרִיאַת שְׁמַע וּמִתְפַּלֵּל. מְסַיַּיע לֵיהּ לְרַבִּי יוֹחָנָן. דְּאָמַר רַבִּי יוֹחָנָן: אֵיזֶהוּ בֶּן הָעוֹלָם הַבָּא — זֶה הַסּוֹמֵךְ גְּאוּלָּה לִתְפִלָּה שֶׁל עַרְבִית. רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אוֹמֵר: תְּפִלּוֹת בָּאֶמְצַע תִּקְּנוּם.",
           "en": "In this <i>baraita</i>, the Master said that when one returns from work in the evening, he enters the synagogue, recites <i>Shema</i>, and prays. From this <i>baraita</i>, we see that at night, just as during the day, one first recites <i>Shema</i> and then prays. This supports the opinion of Rabbi Yoḥanan, as Rabbi Yoḥanan said: Who is assured of a place in the World-to-Come? It is one who juxtaposes the blessing of redemption, recited after <i>Shema</i>, to the evening prayer. Rabbi Yehoshua ben Levi says: The prayers were instituted to be recited between the two recitations of <i>Shema</i>. According to Rabbi Yehoshua ben Levi, one recites the morning <i>Shema</i>, then recites all of the prayers and only after the recitation of the evening prayer does he recite the evening <i>Shema</i>.",
-          "fr": "Le maître a dit : il récite le Chema et prie. Cela soutient l'opinion de Rabbi Yohanan. Car Rabbi Yohanan a dit : Qui est celui qui a part au monde à venir ? Celui qui fait suivre immédiatement la géoula à la prière du soir. Rabbi Yehochoua ben Levi dit : les prières ont été instituées au milieu.",
+          "fr": "Le Maître a dit : il récite le Shema puis il prie. Cela appuie l’opinion de Rabbi Yohanan, car Rabbi Yohanan dit : qui est assuré d’avoir une part dans le Monde à venir ? Celui qui juxtapose la bénédiction de la délivrance à la prière d’Arvit. Rabbi Yehoshoua ben Lévi dit : les prières ont été instituées entre les deux récitations du Shema.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:6"
+          },
+          "fr_explanation": "La baraïta place le Shema avant la prière du soir. Cela soutient Rabbi Yohanan, qui demande d’enchaîner la bénédiction de la délivrance et l’Amida d’Arvit. Rabbi Yehoshoua ben Lévi place au contraire toutes les prières entre le Shema du matin et celui du soir.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Le Maître a dit : il récite le Shema puis il prie. Cela appuie l’opinion de Rabbi Yohanan, car Rabbi Yohanan dit : qui est assuré d’avoir une part dans le Monde à venir ? Celui qui juxtapose la bénédiction de la délivrance à la prière d’Arvit. Rabbi Yehoshoua ben Lévi dit : les prières ont été instituées entre les deux récitations du Shema.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La baraïta place le Shema avant la prière du soir. Cela soutient Rabbi Yohanan, qui demande d’enchaîner la bénédiction de la délivrance et l’Amida d’Arvit. Rabbi Yehoshoua ben Lévi place au contraire toutes les prières entre le Shema du matin et celui du soir.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que l&#x27;ordre est d&#x27;abord le Shema de l&#x27;Arvit, puis la prière. Il précise que cela soutient Rabbi Yoḥanan, qui exige d&#x27;accoler la délivrance à la prière, et non Rabbi Yehoshoua ben Lévi, qui place la prière avant le Shema. Il commente aussi que celui qui fait suivre la délivrance à la prière est appelé « fils du Monde à venir », et que « au milieu » signifie entre les deux Shema, car il pensait que la prière du soir précède le Shema.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot demandent pourquoi on récite Yir’ou Eineinu et d’autres versets après Hashkivénou. Ils répondent que les Sages les ont institués comme le prolongement de la délivrance afin que chacun puisse achever la prière à la synagogue. Ces versets comportent dix-huit invocations correspondant aux dix-huit bénédictions de l’Amida. Il ne faut donc pas parler entre la bénédiction de la délivrance du soir et l’Amida.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:37.197261+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 6,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0c70211c13c4b7a6006a68d07d1310819fa57daa3d1aedb0ec",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 4645,
+              "output": 984,
+              "total": 5629
+            },
+            "cost": {
+              "segment_eur": 0.00791175,
+              "phase_spent_eur": 0.17540459999999994,
+              "phase_remaining_eur": 44.8245954
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Le Maître a dit : il récite le Shema puis il prie. Cela appuie l’opinion de Rabbi Yohanan, car Rabbi Yohanan dit : qui est assuré d’avoir une part dans le Monde à venir ? Celui qui juxtapose la bénédiction de la délivrance à la prière d’Arvit. Rabbi Yehoshoua ben Lévi dit : les prières ont été instituées entre les deux récitations du Shema.",
+            "explanation": "La baraïta place le Shema avant la prière du soir. Cela soutient Rabbi Yohanan, qui demande d’enchaîner la bénédiction de la délivrance et l’Amida d’Arvit. Rabbi Yehoshoua ben Lévi place au contraire toutes les prières entre le Shema du matin et celui du soir.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que l'ordre est d'abord le Shema de l'Arvit, puis la prière. Il précise que cela soutient Rabbi Yoḥanan, qui exige d'accoler la délivrance à la prière, et non Rabbi Yehoshoua ben Lévi, qui place la prière avant le Shema. Il commente aussi que celui qui fait suivre la délivrance à la prière est appelé « fils du Monde à venir », et que « au milieu » signifie entre les deux Shema, car il pensait que la prière du soir précède le Shema.",
+                "refs": [
+                  "Rashi on Berakhot 4b:6:1",
+                  "Rashi on Berakhot 4b:6:2",
+                  "Rashi on Berakhot 4b:6:3",
+                  "Rashi on Berakhot 4b:6:4"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot demandent pourquoi on récite Yir’ou Eineinu et d’autres versets après Hashkivénou. Ils répondent que les Sages les ont institués comme le prolongement de la délivrance afin que chacun puisse achever la prière à la synagogue. Ces versets comportent dix-huit invocations correspondant aux dix-huit bénédictions de l’Amida. Il ne faut donc pas parler entre la bénédiction de la délivrance du soir et l’Amida.",
+                "refs": [
+                  "Tosafot on Berakhot 4b:6:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.91,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 7,
           "he": "בְּמַאי קָא מִפַּלְּגִי?",
           "en": "Although the practical difference between these two positions is clear, the Gemara seeks to determine: With regard to what do they disagree? What is the basis of their argument?",
-          "fr": "Sur quoi sont-ils en désaccord ?",
+          "fr": "Sur quoi porte leur désaccord ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:7"
+          },
+          "fr_explanation": "La Guemara cherche à déterminer sur quoi ils sont en désaccord, et quelle est la base de leur divergence.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Sur quoi porte leur désaccord ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara cherche à déterminer sur quoi ils sont en désaccord, et quelle est la base de leur divergence.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:39.172061+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 7,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_046b4786eea435f1006a68d081f3b881a0b23829a0fc11c4c9",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1171,
+              "output": 56,
+              "total": 1227
+            },
+            "cost": {
+              "segment_eur": 0.00113025,
+              "phase_spent_eur": 0.17653484999999994,
+              "phase_remaining_eur": 44.82346515
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Sur quoi porte leur désaccord ?",
+            "explanation": "La Guemara cherche à déterminer sur quoi ils sont en désaccord, et quelle est la base de leur divergence.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 8,
           "he": "אִי בָּעֵית אֵימָא קְרָא, אִי בָּעֵית אֵימָא סְבָרָא.",
           "en": "The Gemara answers: If you wish, say that they disagree over the interpretation of a verse; if you wish, say instead that they disagree on a point of logic.",
-          "fr": "Si tu veux, dis : sur un verset ; si tu veux, dis : sur un raisonnement.",
+          "fr": "Si tu veux, dis qu’ils divergent sur l’interprétation d’un verset ; et si tu veux, dis qu’ils divergent par raisonnement.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:8"
+          },
+          "fr_explanation": "La Guemara répond qu’on peut l’expliquer de deux manières : soit ils divergent dans l’interprétation d’un verset, soit ils divergent sur un point de logique.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Si tu veux, dis qu’ils divergent sur l’interprétation d’un verset ; et si tu veux, dis qu’ils divergent par raisonnement.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara répond qu’on peut l’expliquer de deux manières : soit ils divergent dans l’interprétation d’un verset, soit ils divergent sur un point de logique.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:41.351329+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 8,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f82692435d6186f006a68d083cd0481a0a23ccc5298eb0b15",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1193,
+              "output": 85,
+              "total": 1278
+            },
+            "cost": {
+              "segment_eur": 0.00127725,
+              "phase_spent_eur": 0.17781209999999995,
+              "phase_remaining_eur": 44.8221879
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Si tu veux, dis qu’ils divergent sur l’interprétation d’un verset ; et si tu veux, dis qu’ils divergent par raisonnement.",
+            "explanation": "La Guemara répond qu’on peut l’expliquer de deux manières : soit ils divergent dans l’interprétation d’un verset, soit ils divergent sur un point de logique.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 9,
           "he": "אִי בָּעֵית אֵימָא סְבָרָא.",
           "en": "If you say that they disagree on a point of logic, then the argument relates to the redemption recited after <i>Shema</i>, whose focus is the exodus from Egypt, the first redemption. The question is whether that redemption began at night, which would render it appropriate to juxtapose redemption to the blessing of the evening prayers as well, in prayer for immediate redemption. Or, perhaps, the redemption from Egypt only began during the day.",
-          "fr": "Si tu veux, dis : sur un raisonnement.",
+          "fr": "Si tu veux, dis : ils divergent par raisonnement.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:9"
+          },
+          "fr_explanation": "Selon cette première explication, ils discutent du moment où commença la délivrance d’Égypte : dès le soir ou seulement le matin.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Si tu veux, dis : ils divergent par raisonnement.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Selon cette première explication, ils discutent du moment où commença la délivrance d’Égypte : dès le soir ou seulement le matin.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:44.409502+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 9,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0900515436519d26006a68d086993881a3a77cfe69577ca1bb",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1225,
+              "output": 147,
+              "total": 1372
+            },
+            "cost": {
+              "segment_eur": 0.00158025,
+              "phase_spent_eur": 0.17939234999999995,
+              "phase_remaining_eur": 44.82060765
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Si tu veux, dis : ils divergent par raisonnement.",
+            "explanation": "Selon cette première explication, ils discutent du moment où commença la délivrance d’Égypte : dès le soir ou seulement le matin.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.86,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 10,
           "he": "דְּרַבִּי יוֹחָנָן סָבַר גְּאוּלָּה מֵאוּרְתָּא נָמֵי הָוֵי, אֶלָּא גְּאוּלָּה מְעַלַּיְיתָא לָא הָוְיָא אֶלָּא עַד צַפְרָא. וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי סָבַר כֵּיוָן דְּלָא הָוְיָא אֶלָּא מִצַּפְרָא — לָא הָוְיָא גְּאוּלָּה מְעַלַּיְיתָא.",
           "en": "Rabbi Yoḥanan holds: Redemption occurred in the evening as well; however, the full-fledged redemption was only in the morning. Since the redemption began in the evening, it is appropriate to juxtapose the blessing of redemption to the daily evening prayer. Rabbi Yehoshua ben Levi, on the other hand, holds: Since full-fledged redemption only occurred in the morning, and the redemption of the previous evening was not a full-fledged redemption, there is no need to juxtapose the blessing of redemption to the evening prayer.",
-          "fr": "Rabbi Yohanan estime que la géoula existe bien le soir aussi, seulement une géoula pleinement accomplie n'existe qu'au matin. Et Rabbi Yehochoua ben Levi estime que puisqu'elle n'est pleinement accomplie qu'au matin, il n'y a pas de géoula pleinement accomplie le soir.",
+          "fr": "Rabbi Yohanan estime que la délivrance commença également le soir, même si elle ne fut complète que le matin. Rabbi Yehoshoua ben Lévi estime que, puisqu’elle ne fut complète que le matin, la délivrance du soir n’était pas une délivrance complète.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:10"
+          },
+          "fr_explanation": "Pour Rabbi Yohanan, la délivrance avait déjà commencé le soir, ce qui justifie de l’accoler à la prière d’Arvit. Pour Rabbi Yehoshoua ben Lévi, seule la délivrance complète du matin est déterminante.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan estime que la délivrance commença également le soir, même si elle ne fut complète que le matin. Rabbi Yehoshoua ben Lévi estime que, puisqu’elle ne fut complète que le matin, la délivrance du soir n’était pas une délivrance complète.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Pour Rabbi Yohanan, la délivrance avait déjà commencé le soir, ce qui justifie de l’accoler à la prière d’Arvit. Pour Rabbi Yehoshoua ben Lévi, seule la délivrance complète du matin est déterminante.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">La délivrance du soir n’est pas considérée comme une délivrance complète ; par conséquent, on ne la prend pas en compte pour imposer l’accolement de la prière à la délivrance.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:47.319993+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 10,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_048614bdae71982b006a68d088f154819fbe101aa8d2d9ee4d",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1482,
+              "output": 261,
+              "total": 1743
+            },
+            "cost": {
+              "segment_eur": 0.002286,
+              "phase_spent_eur": 0.18167834999999996,
+              "phase_remaining_eur": 44.81832165
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yohanan estime que la délivrance commença également le soir, même si elle ne fut complète que le matin. Rabbi Yehoshoua ben Lévi estime que, puisqu’elle ne fut complète que le matin, la délivrance du soir n’était pas une délivrance complète.",
+            "explanation": "Pour Rabbi Yohanan, la délivrance avait déjà commencé le soir, ce qui justifie de l’accoler à la prière d’Arvit. Pour Rabbi Yehoshoua ben Lévi, seule la délivrance complète du matin est déterminante.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "La délivrance du soir n’est pas considérée comme une délivrance complète ; par conséquent, on ne la prend pas en compte pour imposer l’accolement de la prière à la délivrance.",
+                "refs": [
+                  "Rashi on Berakhot 4b:10:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 11,
           "he": "וְאִיבָּעֵית אֵימָא קְרָא, וּשְׁנֵיהֶם מִקְרָא אֶחָד דָּרְשׁוּ, דִּכְתִיב ״בְּשָׁכְבְּךָ וּבְקוּמֶךָ״.",
           "en": "And if you wish, say instead that the dispute between Rabbi Yoḥanan and Rabbi Yehoshua ben Levi is not a difference over a point of logic, but over the interpretation of a verse. Both derived their opinions from the same verse: “When you lie down, and when you rise.” Both interpreted that the juxtaposition in this verse of the recitation of <i>Shema</i> at night and the recitation of <i>Shema</i> in the morning draws a parallel between them.",
-          "fr": "Et si tu veux, dis : sur un verset — et tous deux interprètent un même verset, comme il est écrit : 'à ton coucher et à ton lever'.",
+          "fr": "Et si tu veux, dis plutôt qu’ils divergent sur un verset. Tous deux ont interprété le même verset, comme il est écrit : « quand tu te couches et quand tu te lèves ».",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:11"
+          },
+          "fr_explanation": "Le désaccord entre Rabbi Yoḥanan et Rabbi Yehoshua ben Levi n’est pas un désaccord de logique, mais porte sur l’interprétation d’un verset. Tous deux ont tiré leur opinion du même verset, et ont compris que la juxtaposition de la récitation du Shema le soir et de la récitation du Shema le matin établit un parallélisme entre les deux.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et si tu veux, dis plutôt qu’ils divergent sur un verset. Tous deux ont interprété le même verset, comme il est écrit : « quand tu te couches et quand tu te lèves ».</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le désaccord entre Rabbi Yoḥanan et Rabbi Yehoshua ben Levi n’est pas un désaccord de logique, mais porte sur l’interprétation d’un verset. Tous deux ont tiré leur opinion du même verset, et ont compris que la juxtaposition de la récitation du Shema le soir et de la récitation du Shema le matin établit un parallélisme entre les deux.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:50.082416+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 11,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_00eb6177de509f2f006a68d08be80881a0b34c758ab6854cfc",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1301,
+              "output": 158,
+              "total": 1459
+            },
+            "cost": {
+              "segment_eur": 0.00168675,
+              "phase_spent_eur": 0.18336509999999995,
+              "phase_remaining_eur": 44.8166349
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et si tu veux, dis plutôt qu’ils divergent sur un verset. Tous deux ont interprété le même verset, comme il est écrit : « quand tu te couches et quand tu te lèves ».",
+            "explanation": "Le désaccord entre Rabbi Yoḥanan et Rabbi Yehoshua ben Levi n’est pas un désaccord de logique, mais porte sur l’interprétation d’un verset. Tous deux ont tiré leur opinion du même verset, et ont compris que la juxtaposition de la récitation du Shema le soir et de la récitation du Shema le matin établit un parallélisme entre les deux.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.77,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 12,
           "he": "רַבִּי יוֹחָנָן סָבַר: מַקִּישׁ שְׁכִיבָה לְקִימָה, מָה קִימָה — קְרִיאַת שְׁמַע וְאַחַר כָּךְ תְּפִלָּה, אַף שְׁכִיבָה נָמֵי — קְרִיאַת שְׁמַע וְאַחַר כָּךְ תְּפִלָּה. רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי סָבַר: מַקִּישׁ שְׁכִיבָה לְקִימָה: מָה קִימָה — קְרִיאַת שְׁמַע סָמוּךְ לְמִטָּתוֹ, אַף שְׁכִיבָה נָמֵי — קְרִיאַת שְׁמַע סָמוּךְ לְמִטָּתוֹ.",
           "en": "Rabbi Yoḥanan holds: The verse juxtaposes lying down and rising. Just as when one rises, the recitation of <i>Shema</i> is followed by prayer, as everyone agrees that in the morning one juxtaposes redemption to the morning prayer, so too, when one lies down, the recitation of <i>Shema</i> is followed by prayer. And Rabbi Yehoshua ben Levi maintains: The verse juxtaposes lying down and rising in a different sense. Just as when one rises, he recites <i>Shema</i> adjacent to rising from his bed, as the verse, when you rise, means when one awakens, so too when one lies down, he recites <i>Shema</i> adjacent to lying down in his bed. Therefore, the recitation of the evening <i>Shema</i> should be performed as close as possible to the moment when one actually lies down.",
-          "fr": "Rabbi Yohanan estime : on assimile le coucher au lever — de même qu'au lever on récite le Chema et ensuite on prie, de même au coucher on récite le Chema et ensuite on prie. Rabbi Yehochoua ben Levi estime : on assimile le coucher au lever — de même qu'au lever on récite le Chema à proximité immédiate de son lit, de même au coucher on récite le Chema à proximité immédiate de son lit.",
+          "fr": "Rabbi Yohanan estime que le verset établit un parallèle entre le coucher et le lever : de même qu’au lever on récite le Shema puis on prie, de même au coucher on récite le Shema puis on prie. Rabbi Yehoshoua ben Lévi estime que le parallèle est le suivant : de même qu’au lever le Shema est récité au plus près du moment où l’on quitte son lit, de même au coucher il doit être récité au plus près du moment où l’on se met au lit.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:12"
+          },
+          "fr_explanation": "Rabbi Yohanan compare l’ordre des rites : Shema puis prière, le matin comme le soir. Rabbi Yehoshoua ben Lévi compare leur proximité avec le lit : le Shema doit être récité près du lever et près du coucher.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan estime que le verset établit un parallèle entre le coucher et le lever : de même qu’au lever on récite le Shema puis on prie, de même au coucher on récite le Shema puis on prie. Rabbi Yehoshoua ben Lévi estime que le parallèle est le suivant : de même qu’au lever le Shema est récité au plus près du moment où l’on quitte son lit, de même au coucher il doit être récité au plus près du moment où l’on se met au lit.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabbi Yohanan compare l’ordre des rites : Shema puis prière, le matin comme le soir. Rabbi Yehoshoua ben Lévi compare leur proximité avec le lit : le Shema doit être récité près du lever et près du coucher.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Au lever, le Shema est suivi de la prière, car le matin tout le monde admet qu’il faut les faire se suivre.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:53.161469+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 12,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d2023c81a99f718006a68d08eaf74819c9e4dec7aa50546bf",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1614,
+              "output": 277,
+              "total": 1891
+            },
+            "cost": {
+              "segment_eur": 0.002457,
+              "phase_spent_eur": 0.18582209999999993,
+              "phase_remaining_eur": 44.8141779
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yohanan estime que le verset établit un parallèle entre le coucher et le lever : de même qu’au lever on récite le Shema puis on prie, de même au coucher on récite le Shema puis on prie. Rabbi Yehoshoua ben Lévi estime que le parallèle est le suivant : de même qu’au lever le Shema est récité au plus près du moment où l’on quitte son lit, de même au coucher il doit être récité au plus près du moment où l’on se met au lit.",
+            "explanation": "Rabbi Yohanan compare l’ordre des rites : Shema puis prière, le matin comme le soir. Rabbi Yehoshoua ben Lévi compare leur proximité avec le lit : le Shema doit être récité près du lever et près du coucher.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Au lever, le Shema est suivi de la prière, car le matin tout le monde admet qu’il faut les faire se suivre.",
+                "refs": [
+                  "Rashi on Berakhot 4b:12:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 13,
           "he": "מֵתִיב מָר בְּרֵיהּ דְּרָבִינָא, בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ. וְאִי אָמְרַתְּ בָּעֵי לִסְמוֹךְ, הָא לָא קָא סָמֵךְ גְּאוּלָּה לִתְפִלָּה, דְּהָא בָּעֵי לְמֵימַר ״הַשְׁכִּיבֵנוּ״!",
           "en": "According to Rabbi Yoḥanan, it is a mitzva to recite <i>Shema</i> before the evening prayer. Mar, son of Ravina, raises an objection from a mishna: How can one do that? We learn in a later mishna: In the evening, one recites two blessings prior to the recitation of <i>Shema</i> and two blessings afterward. And if you say that one must juxtapose redemption to prayer, doesn’t he fail to juxtapose redemption to prayer, as he must recite: Help us lie down [<i>hashkivenu</i>], the blessing recited after the blessing of redemption, which constitutes an interruption between redemption and prayer?",
-          "fr": "Mar fils de Ravina soulève une objection : le soir on prononce deux bénédictions avant elle et deux après elle. Et si tu dis qu'il faut faire suivre immédiatement, voilà qu'il ne fait pas suivre immédiatement la géoula à la prière, puisqu'il doit dire 'Hackhivénou' !",
+          "fr": "Mar, fils de Ravina, objecta : le soir, on récite deux bénédictions avant le Shema et deux après. Or, si tu dis qu’il faut juxtaposer la délivrance à la prière, il ne les juxtapose pas, puisqu’il doit réciter Hashkivénou entre les deux !",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:13"
+          },
+          "fr_explanation": "L’objection vise le fait que, selon cette lecture, l’obligation de dire HaChkivénou après la bénédiction de la délivrance crée une interruption entre la délivrance et la prière.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Mar, fils de Ravina, objecta : le soir, on récite deux bénédictions avant le Shema et deux après. Or, si tu dis qu’il faut juxtaposer la délivrance à la prière, il ne les juxtapose pas, puisqu’il doit réciter Hashkivénou entre les deux !</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’objection vise le fait que, selon cette lecture, l’obligation de dire HaChkivénou après la bénédiction de la délivrance crée une interruption entre la délivrance et la prière.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:53:58.505795+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 13,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_056c5ff50ad140f0006a68d0934ffc819dbd9b9efa035f653f",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1430,
+              "output": 159,
+              "total": 1589
+            },
+            "cost": {
+              "segment_eur": 0.001788,
+              "phase_spent_eur": 0.18761009999999995,
+              "phase_remaining_eur": 44.8123899
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Mar, fils de Ravina, objecta : le soir, on récite deux bénédictions avant le Shema et deux après. Or, si tu dis qu’il faut juxtaposer la délivrance à la prière, il ne les juxtapose pas, puisqu’il doit réciter Hashkivénou entre les deux !",
+            "explanation": "L’objection vise le fait que, selon cette lecture, l’obligation de dire HaChkivénou après la bénédiction de la délivrance crée une interruption entre la délivrance et la prière.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 14,
           "he": "אָמְרִי: כֵּיוָן דְּתַקִּינוּ רַבָּנַן ״הַשְׁכִּיבֵנוּ״ — כִּגְאוּלָּה אֲרִיכְתָּא דָּמְיָא. דְּאִי לָא תֵּימָא הָכִי, שַׁחֲרִית הֵיכִי מָצֵי סָמֵיךְ? וְהָא אָמַר רַבִּי יוֹחָנָן: בַּתְּחִלָּה אוֹמֵר: ״ה׳ שְׂפָתַי תִּפְתָּח״, וּלְבַסּוֹף הוּא אוֹמֵר: ״יִהְיוּ לְרָצוֹן אִמְרֵי פִי״.",
           "en": "They say in response: Since the Sages instituted the practice of reciting: Help us lie down, it is considered one extended blessing of redemption, and therefore does not constitute an interruption. As if you fail to say that the sections added by the Sages are considered no less significant than the original prayers, then can one juxtapose redemption to prayer even in the morning? Didn’t Rabbi Yoḥanan say: Before every prayer one recites the verse: “Lord, open my lips, that my mouth may declare Your glory” (Psalms 51:17) as a prelude to prayer? Afterward, one recites the verse: “May the words of my mouth and the meditations of my heart be acceptable before You” (Psalms 19:15). Doesn’t the verse: Lord, open my lips, constitute an interruption between redemption and prayer?",
-          "fr": "On répond : puisque les Sages ont institué 'Hackhivénou', cela est considéré comme une géoula prolongée. Car si tu ne dis pas cela, comment au matin peut-on faire suivre immédiatement ? Pourtant Rabbi Yohanan a dit : au début on dit 'Hachem, ouvre mes lèvres', et à la fin on dit 'Que les paroles de ma bouche soient agréables'.",
+          "fr": "Ils répondent : puisque les Sages ont institué la récitation de Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance. Car, sans cela, comment pourrait-on juxtaposer la délivrance à la prière du matin ? Rabbi Yohanan n’a-t-il pas dit qu’au début de la prière on récite : « Hachem, ouvre mes lèvres », et qu’à la fin on récite : « Que les paroles de ma bouche et la méditation de mon cœur soient agréables devant Toi » ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:14"
+          },
+          "fr_explanation": "Hashkivénou ne constitue pas une interruption, car les Sages l’ont intégrée à la bénédiction de la délivrance. De même, « Hachem, ouvre mes lèvres » est intégré à l’Amida et ne sépare pas la délivrance de la prière.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Ils répondent : puisque les Sages ont institué la récitation de Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance. Car, sans cela, comment pourrait-on juxtaposer la délivrance à la prière du matin ? Rabbi Yohanan n’a-t-il pas dit qu’au début de la prière on récite : « Hachem, ouvre mes lèvres », et qu’à la fin on récite : « Que les paroles de ma bouche et la méditation de mon cœur soient agréables devant Toi » ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Hashkivénou ne constitue pas une interruption, car les Sages l’ont intégrée à la bénédiction de la délivrance. De même, « Hachem, ouvre mes lèvres » est intégré à l’Amida et ne sépare pas la délivrance de la prière.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:01.706799+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 14,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_03a0c41dce80cbd5006a68d09714d88191a8909aa5b84d81fa",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1532,
+              "output": 245,
+              "total": 1777
+            },
+            "cost": {
+              "segment_eur": 0.0022515,
+              "phase_spent_eur": 0.18986159999999994,
+              "phase_remaining_eur": 44.8101384
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Ils répondent : puisque les Sages ont institué la récitation de Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance. Car, sans cela, comment pourrait-on juxtaposer la délivrance à la prière du matin ? Rabbi Yohanan n’a-t-il pas dit qu’au début de la prière on récite : « Hachem, ouvre mes lèvres », et qu’à la fin on récite : « Que les paroles de ma bouche et la méditation de mon cœur soient agréables devant Toi » ?",
+            "explanation": "Hashkivénou ne constitue pas une interruption, car les Sages l’ont intégrée à la bénédiction de la délivrance. De même, « Hachem, ouvre mes lèvres » est intégré à l’Amida et ne sépare pas la délivrance de la prière.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.54,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 15,
           "he": "אֶלָּא הָתָם כֵּיוָן דְּתַקִּינוּ רַבָּנַן לְמֵימַר ״ה׳ שְׂפָתַי תִּפְתָּח״ — כִּתְפִלָּה אֲרִיכְתָּא דָּמְיָא. הָכָא נָמֵי, כֵּיוָן דְּתַקִּינוּ רַבָּנַן לְמֵימַר ״הַשְׁכִּיבֵנוּ״ — כִּגְאוּלָּה אֲרִיכְתָּא דָּמְיָא.",
           "en": "Rather, there, since the Sages instituted that one must recite: Lord, open my lips, it is considered as an extended prayer and not as an interruption. Here, too, with regard to the evening prayer, since the Sages instituted to recite the blessing Help us lie down, it is considered as one extended blessing of redemption.",
-          "fr": "Mais là, puisque les Sages ont institué de dire 'Hachem, ouvre mes lèvres', cela est considéré comme une prière prolongée. De même ici, puisque les Sages ont institué de dire 'Hackhivénou', cela est considéré comme une géoula prolongée.",
+          "fr": "Mais là-bas, puisque les Sages ont institué la formule « Hachem, ouvre mes lèvres », elle est considérée comme le prolongement de la prière. Ici aussi, puisqu’ils ont institué Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:15"
+          },
+          "fr_explanation": "Le texte compare deux cas où une formule instituée par les Sages est intégrée à la prière : là-bas, « Hachem, ouvre mes lèvres » est comptée comme faisant partie d’une prière prolongée et non comme une interruption ; ici aussi, « Fais-nous coucher » est comptée comme une bénédiction de délivrance prolongée.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Mais là-bas, puisque les Sages ont institué la formule « Hachem, ouvre mes lèvres », elle est considérée comme le prolongement de la prière. Ici aussi, puisqu’ils ont institué Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le texte compare deux cas où une formule instituée par les Sages est intégrée à la prière : là-bas, « Hachem, ouvre mes lèvres » est comptée comme faisant partie d’une prière prolongée et non comme une interruption ; ici aussi, « Fais-nous coucher » est comptée comme une bénédiction de délivrance prolongée.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:04.829050+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 15,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0623a98588db4153006a68d09a755481a38b2d45e27172c7c2",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1369,
+              "output": 201,
+              "total": 1570
+            },
+            "cost": {
+              "segment_eur": 0.00193125,
+              "phase_spent_eur": 0.19179284999999993,
+              "phase_remaining_eur": 44.80820715
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Mais là-bas, puisque les Sages ont institué la formule « Hachem, ouvre mes lèvres », elle est considérée comme le prolongement de la prière. Ici aussi, puisqu’ils ont institué Hashkivénou, cette bénédiction est considérée comme le prolongement de la bénédiction de la délivrance.",
+            "explanation": "Le texte compare deux cas où une formule instituée par les Sages est intégrée à la prière : là-bas, « Hachem, ouvre mes lèvres » est comptée comme faisant partie d’une prière prolongée et non comme une interruption ; ici aussi, « Fais-nous coucher » est comptée comme une bénédiction de délivrance prolongée.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.92,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 16,
           "he": "אָמַר רַבִּי אֶלְעָזָר, אָמַר רַבִּי אֲבִינָא: כָּל הָאוֹמֵר ״תְּהִלָּה לְדָוִד״ בְּכָל יוֹם שָׁלֹשׁ פְּעָמִים — מוּבְטָח לוֹ שֶׁהוּא בֶּן הָעוֹלָם הַבָּא.",
           "en": "Tangential to Rabbi Yoḥanan’s statement that one who juxtaposes redemption and prayer is assured of a place in the World-to-Come, a similar statement is cited. Rabbi Elazar said that Rabbi Avina said: Anyone who recites: “A Psalm of David” (Psalms 145) three times every day is assured of a place in the World-to-Come.",
-          "fr": "Rabbi Elazar a dit au nom de Rabbi Avina : quiconque récite 'Tehilla lé-David' trois fois chaque jour est assuré d'avoir part au monde à venir.",
+          "fr": "Rabbi Elazar dit au nom de Rabbi Avina : quiconque récite Tehila LeDavid trois fois chaque jour est assuré d’avoir une part dans le Monde à venir.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:16"
+          },
+          "fr_explanation": "Le passage rapporte une parole formulée en lien indirect avec l’affirmation précédente, puis précise qu’une personne qui récite « un Psaume de David » trois fois par jour est assurée d’une part dans le Monde à venir.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Elazar dit au nom de Rabbi Avina : quiconque récite Tehila LeDavid trois fois chaque jour est assuré d’avoir une part dans le Monde à venir.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage rapporte une parole formulée en lien indirect avec l’affirmation précédente, puis précise qu’une personne qui récite « un Psaume de David » trois fois par jour est assurée d’une part dans le Monde à venir.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Trois fois correspond aux trois prières.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:11.732984+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 16,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ce5367468e10562006a68d09dda1c8191a842332d44b840f5",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1360,
+              "output": 162,
+              "total": 1522
+            },
+            "cost": {
+              "segment_eur": 0.001749,
+              "phase_spent_eur": 0.19354184999999993,
+              "phase_remaining_eur": 44.80645815
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Elazar dit au nom de Rabbi Avina : quiconque récite Tehila LeDavid trois fois chaque jour est assuré d’avoir une part dans le Monde à venir.",
+            "explanation": "Le passage rapporte une parole formulée en lien indirect avec l’affirmation précédente, puis précise qu’une personne qui récite « un Psaume de David » trois fois par jour est assurée d’une part dans le Monde à venir.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Trois fois correspond aux trois prières.",
+                "refs": [
+                  "Rashi on Berakhot 4b:16:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 17,
           "he": "מַאי טַעְמָא?",
           "en": "This statement extolling the significance of this particular chapter of Psalms, usually referred to as <i>ashrei</i> because its recitation is preceded by recitation of the verse, “Happy [<i>ashrei</i>] are those who dwell in Your House, they praise You Selah” (Psalms 84:5), raises the question: What is the reason that such significance is ascribed to this particular chapter?",
-          "fr": "Quelle en est la raison ?",
+          "fr": "Pour quelle raison ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:17"
+          },
+          "fr_explanation": "Cette affirmation, qui exalte l'importance de ce chapitre particulier des Psaumes, appelé habituellement Ashrei parce que sa récitation est précédée par celle du verset « Heureux [ashrei] ceux qui demeurent dans Ta maison, ils Te louent éternellement » (Psaumes 84:5), pose la question suivante : pourquoi une telle importance est-elle attribuée à ce chapitre particulier ?",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Pour quelle raison ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Cette affirmation, qui exalte l&#x27;importance de ce chapitre particulier des Psaumes, appelé habituellement Ashrei parce que sa récitation est précédée par celle du verset « Heureux [ashrei] ceux qui demeurent dans Ta maison, ils Te louent éternellement » (Psaumes 84:5), pose la question suivante : pourquoi une telle importance est-elle attribuée à ce chapitre particulier ?</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:15.526606+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 17,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0a6adf1bd358a51a006a68d0a5374081a3a19762d146bee8b3",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1211,
+              "output": 127,
+              "total": 1338
+            },
+            "cost": {
+              "segment_eur": 0.00147975,
+              "phase_spent_eur": 0.19502159999999993,
+              "phase_remaining_eur": 44.8049784
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Pour quelle raison ?",
+            "explanation": "Cette affirmation, qui exalte l'importance de ce chapitre particulier des Psaumes, appelé habituellement Ashrei parce que sa récitation est précédée par celle du verset « Heureux [ashrei] ceux qui demeurent dans Ta maison, ils Te louent éternellement » (Psaumes 84:5), pose la question suivante : pourquoi une telle importance est-elle attribuée à ce chapitre particulier ?",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 18,
           "he": "אִילֵּימָא מִשּׁוּם דְּאָתְיָא בְּאָלֶף בֵּית, נֵימָא ״אַשְׁרֵי תְמִימֵי דָרֶךְ״ דְּאָתְיָא בִּתְמָנְיָא אַפִּין.",
           "en": "If you say that it is because it is arranged alphabetically, then let us say: “Happy are they who are upright in the way” (Psalms 119) where the alphabetical arrangement appears eight times.",
-          "fr": "Si tu dis : parce qu'il suit l'ordre de l'aleph-bet — qu'on dise plutôt 'Acheré temimé dérèkh' qui suit l'aleph-bet en huit strophes.",
+          "fr": "Si tu dis que c’est parce que ce psaume suit l’ordre alphabétique, que l’on récite plutôt « Heureux ceux dont la voie est intègre », où l’ordre alphabétique est répété huit fois.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:18"
+          },
+          "fr_explanation": "Le psaume 119 suit lui aussi l’alphabet hébraïque, avec huit versets pour chacune des vingt-deux lettres. Le seul caractère alphabétique de Tehila LeDavid ne suffit donc pas à expliquer sa prééminence.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Si tu dis que c’est parce que ce psaume suit l’ordre alphabétique, que l’on récite plutôt « Heureux ceux dont la voie est intègre », où l’ordre alphabétique est répété huit fois.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le psaume 119 suit lui aussi l’alphabet hébraïque, avec huit versets pour chacune des vingt-deux lettres. Le seul caractère alphabétique de Tehila LeDavid ne suffit donc pas à expliquer sa prééminence.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:17.840393+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 18,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f6e008a3d97a5f1006a68d0a82f708191b7a0f6e32dba13ac",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1252,
+              "output": 106,
+              "total": 1358
+            },
+            "cost": {
+              "segment_eur": 0.001416,
+              "phase_spent_eur": 0.19643759999999993,
+              "phase_remaining_eur": 44.8035624
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Si tu dis que c’est parce que ce psaume suit l’ordre alphabétique, que l’on récite plutôt « Heureux ceux dont la voie est intègre », où l’ordre alphabétique est répété huit fois.",
+            "explanation": "Le psaume 119 suit lui aussi l’alphabet hébraïque, avec huit versets pour chacune des vingt-deux lettres. Le seul caractère alphabétique de Tehila LeDavid ne suffit donc pas à expliquer sa prééminence.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 19,
           "he": "אֶלָּא מִשּׁוּם דְּאִית בֵּיהּ ״פּוֹתֵחַ אֶת יָדֶךָ״, נֵימָא ״הַלֵּל הַגָּדוֹל״ דִּכְתִיב בֵּיהּ ״נֹתֵן לֶחֶם לְכָל בָּשָׂר״.",
           "en": "Rather, if you suggest that this particular chapter is recited because it contains praise for God’s provision of sustenance to all of creation: “You open Your hand and satisfy every living thing with favor” (Psalms 145:16), then let him recite the great <i>hallel</i> (Psalms 136), in which numerous praises are written, including: “Who provides food to all flesh, Whose kindness endures forever” (Psalms 136:25).",
-          "fr": "Mais parce qu'il contient 'Tu ouvres Ta main' — qu'on dise plutôt le 'Grand Hallel' dans lequel il est écrit 'Il donne du pain à toute chair'.",
+          "fr": "Et si c’est parce qu’il contient le verset « Tu ouvres Ta main », que l’on récite plutôt le grand Hallel, où il est écrit : « Il donne du pain à toute chair. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:19"
+          },
+          "fr_explanation": "La mention de la subsistance universelle ne suffit pas non plus : le grand Hallel contient également une louange explicite de Celui qui nourrit toute créature.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et si c’est parce qu’il contient le verset « Tu ouvres Ta main », que l’on récite plutôt le grand Hallel, où il est écrit : « Il donne du pain à toute chair. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La mention de la subsistance universelle ne suffit pas non plus : le grand Hallel contient également une louange explicite de Celui qui nourrit toute créature.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:20.524822+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 19,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0af0aeecf2ca3240006a68d0aa6774819f902f4c3ec18ced88",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1323,
+              "output": 157,
+              "total": 1480
+            },
+            "cost": {
+              "segment_eur": 0.00169875,
+              "phase_spent_eur": 0.19813634999999993,
+              "phase_remaining_eur": 44.80186365
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et si c’est parce qu’il contient le verset « Tu ouvres Ta main », que l’on récite plutôt le grand Hallel, où il est écrit : « Il donne du pain à toute chair. »",
+            "explanation": "La mention de la subsistance universelle ne suffit pas non plus : le grand Hallel contient également une louange explicite de Celui qui nourrit toute créature.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 20,
           "he": "אֶלָּא מִשּׁוּם דְּאִית בֵּיהּ תַּרְתֵּי.",
           "en": "Rather, the reason why <i>tehilla leDavid</i> is accorded preference is because it contains both an alphabetic acrostic as well as mention of God’s provision of sustenance to all creation.",
-          "fr": "Mais parce qu'il contient les deux.",
+          "fr": "C’est plutôt parce que ce psaume réunit ces deux qualités.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:20"
+          },
+          "fr_explanation": "La préférence accordée à tehilla leDavid vient du fait qu’il contient à la fois un acrostiche alphabétique et une mention de la providence de Dieu qui pourvoit à la subsistance de toute la création.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>C’est plutôt parce que ce psaume réunit ces deux qualités.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La préférence accordée à tehilla leDavid vient du fait qu’il contient à la fois un acrostiche alphabétique et une mention de la providence de Dieu qui pourvoit à la subsistance de toute la création.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « deux choses » signifie : il vient en acrostiche alphabétique et il comporte une louange sur la préparation de la nourriture pour tout être vivant.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:22.953344+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 20,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0a55699dec09bc0d006a68d0ad008081a2843b9150324811e2",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1242,
+              "output": 130,
+              "total": 1372
+            },
+            "cost": {
+              "segment_eur": 0.0015165,
+              "phase_spent_eur": 0.19965284999999994,
+              "phase_remaining_eur": 44.80034715
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "C’est plutôt parce que ce psaume réunit ces deux qualités.",
+            "explanation": "La préférence accordée à tehilla leDavid vient du fait qu’il contient à la fois un acrostiche alphabétique et une mention de la providence de Dieu qui pourvoit à la subsistance de toute la création.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « deux choses » signifie : il vient en acrostiche alphabétique et il comporte une louange sur la préparation de la nourriture pour tout être vivant.",
+                "refs": [
+                  "Rashi on Berakhot 4b:20:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 21,
           "he": "אָמַר רַבִּי יוֹחָנָן: מִפְּנֵי מָה לֹא נֶאֱמַר נוּן בְּ״אַשְׁרֵי״ — מִפְּנֵי שֶׁיֵּשׁ בָּהּ מַפַּלְתָּן שֶׁל שׂוֹנְאֵי יִשְׂרָאֵל, דִּכְתִיב: ״נָפְלָה לֹא תוֹסִיף קוּם בְּתוּלַת יִשְׂרָאֵל״.",
           "en": "Additionally, with regard to this psalm, Rabbi Yoḥanan said: Why is there no verse beginning with the letter <i>nun</i> in <i>ashrei</i>? Because it contains an allusion to the downfall of the enemies of Israel, a euphemism for Israel itself. As it is written: “The virgin of Israel has fallen and she will rise no more; abandoned in her land, none will raise her up” (Amos 5:2), which begins with the letter <i>nun</i>. Due to this verse, <i>ashrei</i> does not include a verse beginning with the letter <i>nun</i>.",
-          "fr": "Rabbi Yohanan a dit : pourquoi la lettre noun n'apparaît-elle pas dans 'Acheré' ? Parce qu'elle contient l'annonce de la chute des ennemis d'Israël, comme il est écrit : 'Elle est tombée, elle ne se relèvera plus, la vierge d'Israël'.",
+          "fr": "Rabbi Yohanan dit : pourquoi n’y a-t-il pas de verset commençant par la lettre noun dans Ashrei ? Parce que cette lettre évoque la chute des ennemis d’Israël, comme il est écrit : « Elle est tombée, elle ne se relèvera plus, la vierge d’Israël. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:21"
+          },
+          "fr_explanation": "La lettre noun est omise parce qu’elle ouvrirait le mot « nafla », « elle est tombée », dans le verset d’Amos annonçant la chute d’Israël.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan dit : pourquoi n’y a-t-il pas de verset commençant par la lettre noun dans Ashrei ? Parce que cette lettre évoque la chute des ennemis d’Israël, comme il est écrit : « Elle est tombée, elle ne se relèvera plus, la vierge d’Israël. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La lettre noun est omise parce qu’elle ouvrirait le mot « nafla », « elle est tombée », dans le verset d’Amos annonçant la chute d’Israël.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:25.820628+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 21,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_04c6b1fff2278d39006a68d0b003b8819296fd5c6ca61ad03e",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1397,
+              "output": 168,
+              "total": 1565
+            },
+            "cost": {
+              "segment_eur": 0.00180375,
+              "phase_spent_eur": 0.20145659999999993,
+              "phase_remaining_eur": 44.7985434
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": true,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yohanan dit : pourquoi n’y a-t-il pas de verset commençant par la lettre noun dans Ashrei ? Parce que cette lettre évoque la chute des ennemis d’Israël, comme il est écrit : « Elle est tombée, elle ne se relèvera plus, la vierge d’Israël. »",
+            "explanation": "La lettre noun est omise parce qu’elle ouvrirait le mot « nafla », « elle est tombée », dans le verset d’Amos annonçant la chute d’Israël.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 22,
           "he": "בְּמַעְרְבָא מְתָרְצִי לַהּ הָכִי: ״נָפְלָה וְלֹא תּוֹסִיף לִנְפּוֹל עוֹד, קוּם בְּתוּלַת יִשְׂרָאֵל״. אָמַר רַב נַחְמָן בַּר יִצְחָק: אֲפִילּוּ הָכִי, חָזַר דָּוִד וּסְמָכָן בְּרוּחַ הַקֹּדֶשׁ, שֶׁנֶּאֱמַר ״סוֹמֵךְ ה׳ לְכָל הַנֹּפְלִים״.",
           "en": "In order to ease the harsh meaning of this verse, in the West, in Eretz Yisrael, they interpreted it with a slight adjustment: “She has fallen but she shall fall no more; rise, virgin of Israel.” Rav Naḥman bar Yitzḥak adds: Even so, David went and provided support, through divine inspiration. Although King David did not include a verse beginning with the letter <i>nun</i> alluding to Israel’s downfall, he foresaw the verse that would be written by Amos through divine inspiration; and the very next verse, which begins with the letter <i>samekh</i>, reads: “The Lord upholds the fallen and raises up those who are bowed down” (Psalms 145:14). Therefore, through divine inspiration, David offered hope and encouragement; although the virgin of Israel may have fallen, the Lord upholds the fallen.",
-          "fr": "En Occident, on l'interprète ainsi : 'Elle est tombée et elle ne tombera plus ; relève-toi, vierge d'Israël'. Rav Nahman bar Yitzhak a dit : même ainsi, David est revenu et les a soutenues par l'esprit saint, comme il est dit : 'L'Éternel soutient tous ceux qui tombent'.",
+          "fr": "En Eretz Israël, on expliquait le verset ainsi : « Elle est tombée, mais elle ne tombera plus ; relève-toi, vierge d’Israël. » Rav Nahman bar Yitzhak dit : malgré cela, David revint et la soutint par inspiration divine, comme il est dit : « Hachem soutient tous ceux qui tombent. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:22"
+          },
+          "fr_explanation": "En Eretz Israël, le verset était relu comme une promesse de relèvement. Dans Ashrei, David fait immédiatement suivre l’absence de noun par le verset commençant par samekh : Hachem soutient tous ceux qui tombent.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>En Eretz Israël, on expliquait le verset ainsi : « Elle est tombée, mais elle ne tombera plus ; relève-toi, vierge d’Israël. » Rav Nahman bar Yitzhak dit : malgré cela, David revint et la soutint par inspiration divine, comme il est dit : « Hachem soutient tous ceux qui tombent. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">En Eretz Israël, le verset était relu comme une promesse de relèvement. Dans Ashrei, David fait immédiatement suivre l’absence de noun par le verset commençant par samekh : Hachem soutient tous ceux qui tombent.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que David a omis la lettre noun à cause de la chute qu’elle évoque. Il a toutefois immédiatement ajouté un verset annonçant que Hachem soutient ceux qui tombent.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:29.219092+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 22,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_016e3f6dc12cb561006a68d0b2750881a39e9cff462f008662",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1566,
+              "output": 255,
+              "total": 1821
+            },
+            "cost": {
+              "segment_eur": 0.002322,
+              "phase_spent_eur": 0.20377859999999992,
+              "phase_remaining_eur": 44.7962214
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "En Eretz Israël, on expliquait le verset ainsi : « Elle est tombée, mais elle ne tombera plus ; relève-toi, vierge d’Israël. » Rav Nahman bar Yitzhak dit : malgré cela, David revint et la soutint par inspiration divine, comme il est dit : « Hachem soutient tous ceux qui tombent. »",
+            "explanation": "En Eretz Israël, le verset était relu comme une promesse de relèvement. Dans Ashrei, David fait immédiatement suivre l’absence de noun par le verset commençant par samekh : Hachem soutient tous ceux qui tombent.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que David a omis la lettre noun à cause de la chute qu’elle évoque. Il a toutefois immédiatement ajouté un verset annonçant que Hachem soutient ceux qui tombent.",
+                "refs": [
+                  "Rashi on Berakhot 4b:22:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.74,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 23,
           "he": "אָמַר רַבִּי אֶלְעָזָר בַּר אֲבִינָא: גָּדוֹל מַה שֶּׁנֶּאֱמַר בְּמִיכָאֵל יוֹתֵר מִמַּה שֶּׁנֶּאֱמַר בְּגַבְרִיאֵל, דְּאִילּוּ בְּמִיכָאֵל כְּתִיב: ״וַיָּעׇף אֵלַי אֶחָד מִן הַשְּׂרָפִים״. וְאִילּוּ גַּבֵּי גַבְרִיאֵל כְּתִיב: ״וְהָאִישׁ גַּבְרִיאֵל אֲשֶׁר רָאִיתִי בֶחָזוֹן בַּתְּחִלָּה מֻעָף בִּיעָף וְגוֹ׳״.",
           "en": "After this discussion of the statement that Rabbi Elazar said that Rabbi Avina said, another statement of Rabbi Elazar is cited. Rabbi Elazar bar Avina said: What was said about the angel Michael is greater than what was said about the angel Gabriel. As about Michael, it is written: “And one of the seraphim flew to me” (Isaiah 6:6), indicating that with a single flight, the seraph arrived and performed his mission, while regarding Gabriel, it is written: “The man, Gabriel, whom I had seen at the beginning, in a vision, being caused to fly swiftly, approached close to me about the time of the evening offering” (Daniel 9:21). The double language used in the phrase “to fly swiftly [<i>muaf biaf]</i>,” indicates that he did not arrive at his destination in a single flight, but rather, that it took him two flights.",
-          "fr": "Rabbi Elazar bar Avina a dit : ce qui est dit de Mikhaël est plus grand que ce qui est dit de Gavriel — car concernant Mikhaël il est écrit : 'Et l'un des séraphins vola vers moi', tandis que concernant Gavriel il est écrit : 'L'homme Gavriel, que j'avais vu dans la vision au début, volant avec rapidité, etc.'",
+          "fr": "Rabbi Elazar bar Avina dit : ce qui est dit au sujet de Mikhaël est plus remarquable que ce qui est dit au sujet de Gabriel. À propos de Mikhaël, il est écrit : « L’un des séraphins vola vers moi » ; tandis qu’à propos de Gabriel, il est écrit : « L’homme Gabriel, que j’avais vu dans la vision précédente, vola d’un vol rapide vers moi », etc.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:23"
+          },
+          "fr_explanation": "Le singulier employé pour le vol de Mikhaël indique un seul déplacement. La forme redoublée employée pour Gabriel est comprise comme indiquant deux déplacements.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Elazar bar Avina dit : ce qui est dit au sujet de Mikhaël est plus remarquable que ce qui est dit au sujet de Gabriel. À propos de Mikhaël, il est écrit : « L’un des séraphins vola vers moi » ; tandis qu’à propos de Gabriel, il est écrit : « L’homme Gabriel, que j’avais vu dans la vision précédente, vola d’un vol rapide vers moi », etc.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le singulier employé pour le vol de Mikhaël indique un seul déplacement. La forme redoublée employée pour Gabriel est comprise comme indiquant deux déplacements.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Il vola vers moi » signifie en un seul envol, sans s’arrêter entre-temps. « Volant avec rapidité » signifie deux envols.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:33.171015+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 23,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0db3f00056f23fdc006a68d0b5bd60819f936c05fd41769216",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1644,
+              "output": 251,
+              "total": 1895
+            },
+            "cost": {
+              "segment_eur": 0.0023625,
+              "phase_spent_eur": 0.2061410999999999,
+              "phase_remaining_eur": 44.793858900000004
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Elazar bar Avina dit : ce qui est dit au sujet de Mikhaël est plus remarquable que ce qui est dit au sujet de Gabriel. À propos de Mikhaël, il est écrit : « L’un des séraphins vola vers moi » ; tandis qu’à propos de Gabriel, il est écrit : « L’homme Gabriel, que j’avais vu dans la vision précédente, vola d’un vol rapide vers moi », etc.",
+            "explanation": "Le singulier employé pour le vol de Mikhaël indique un seul déplacement. La forme redoublée employée pour Gabriel est comprise comme indiquant deux déplacements.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Il vola vers moi » signifie en un seul envol, sans s’arrêter entre-temps. « Volant avec rapidité » signifie deux envols.",
+                "refs": [
+                  "Rashi on Berakhot 4b:23:1",
+                  "Rashi on Berakhot 4b:23:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 24,
           "he": "מַאי מַשְׁמַע דְּהַאי ״אֶחָד״ מִיכָאֵל הוּא?",
           "en": "To Rabbi Elazar bar Avina, it is clear that “one of the seraphim” refers to Michael, and the Gemara asks: From where is it inferred that the one mentioned in the verse is Michael?",
-          "fr": "D'où ressort-il que ce 'un' est Mikhaël ?",
+          "fr": "D’où déduit-on que cet « un » désigne Mikhaël ?",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:24"
+          },
+          "fr_explanation": "La Guemara demande de quel verset on déduit que l’« un » mentionné est Michael.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>D’où déduit-on que cet « un » désigne Mikhaël ?</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara demande de quel verset on déduit que l’« un » mentionné est Michael.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:35.332999+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 24,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_06bc1ea35709b6c1006a68d0b9b744819f8b13cf975ef34901",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1201,
+              "output": 85,
+              "total": 1286
+            },
+            "cost": {
+              "segment_eur": 0.00128325,
+              "phase_spent_eur": 0.20742434999999992,
+              "phase_remaining_eur": 44.79257565
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "D’où déduit-on que cet « un » désigne Mikhaël ?",
+            "explanation": "La Guemara demande de quel verset on déduit que l’« un » mentionné est Michael.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 25,
           "he": "אָמַר רַבִּי יוֹחָנָן: אַתְיָא ״אֶחָד״ ״אֶחָד״. כְּתִיב הָכָא ״וַיָּעׇף אֵלַי אֶחָד מִן הַשְּׂרָפִים״, וּכְתִיב הָתָם: ״וְהִנֵּה מִיכָאֵל אֶחָד (מִן) הַשָּׂרִים הָרִאשׁוֹנִים בָּא לְעָזְרֵנִי״.",
           "en": "Rabbi Yoḥanan said: This is derived through a verbal analogy between the words one and one. Here, it is written: “And one of the seraphim flew to me” (Isaiah 6:6), and there, it is written: “And behold, Michael, one of the chief ministers of the king, came to my aid” (Daniel 10:13). Since the verse from Daniel refers to Michael as “one,” which aggadic midrash interprets as “the unique one,” so, too, “one of the seraphs” described in Isaiah must also refer to the unique one, Michael.",
-          "fr": "Rabbi Yohanan a dit : on déduit par le mot commun 'un' — 'un'. Il est écrit ici : 'Et l'un des séraphins vola vers moi', et il est écrit là : 'Et voici Mikhaël, l'un des premiers princes, vint à mon secours'.",
+          "fr": "Rabbi Yohanan dit : cela est déduit par une analogie verbale entre « un » et « un ». Il est écrit ici : « L’un des séraphins vola vers moi », et il est écrit là-bas : « Voici que Mikhaël, l’un des premiers princes, vint à mon aide. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:25"
+          },
+          "fr_explanation": "L’identification repose sur la répétition du mot « un » : le séraphin anonyme d’Isaïe est rapproché de Mikhaël, appelé « l’un des premiers princes » dans Daniel.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan dit : cela est déduit par une analogie verbale entre « un » et « un ». Il est écrit ici : « L’un des séraphins vola vers moi », et il est écrit là-bas : « Voici que Mikhaël, l’un des premiers princes, vint à mon aide. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’identification repose sur la répétition du mot « un » : le séraphin anonyme d’Isaïe est rapproché de Mikhaël, appelé « l’un des premiers princes » dans Daniel.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:42.294672+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 25,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f0cbe878cbf35b5006a68d0bdac4481a2acc10e7f18c56f48",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1414,
+              "output": 160,
+              "total": 1574
+            },
+            "cost": {
+              "segment_eur": 0.0017805,
+              "phase_spent_eur": 0.20920484999999991,
+              "phase_remaining_eur": 44.79079515
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yohanan dit : cela est déduit par une analogie verbale entre « un » et « un ». Il est écrit ici : « L’un des séraphins vola vers moi », et il est écrit là-bas : « Voici que Mikhaël, l’un des premiers princes, vint à mon aide. »",
+            "explanation": "L’identification repose sur la répétition du mot « un » : le séraphin anonyme d’Isaïe est rapproché de Mikhaël, appelé « l’un des premiers princes » dans Daniel.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.99,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 26,
           "he": "תָּנָא: מִיכָאֵל — בְּאַחַת, גַּבְרִיאֵל — בִּשְׁתַּיִם, אֵלִיָּהוּ — בְּאַרְבַּע, וּמַלְאַךְ הַמָּוֶת — בִּשְׁמֹנֶה. וּבִשְׁעַת הַמַּגֵּפָה, בְּאֶחָת.",
           "en": "This discussion in the Gemara concludes with a <i>Tosefta</i> that arrives at a hierarchy of angels based on the number of flights required by each to arrive at his destination. It was taught in a <i>Tosefta</i>: Michael, as stated above, in one flight; Gabriel, in two flights; Elijah the Prophet, in four flights; and the Angel of Death, in eight flights. During a time of plague, however, when the Angel of Death seems ubiquitous, he arrives everywhere in one flight.",
-          "fr": "Il est enseigné en baraita : Mikhaël accomplit sa mission en un seul vol, Gavriel en deux, Eliyahou en quatre, et l'ange de la mort en huit. Mais en temps de peste, en un seul.",
+          "fr": "Il a été enseigné : Mikhaël atteint sa destination en un vol, Gabriel en deux, Élie en quatre et l’Ange de la mort en huit. Mais en période d’épidémie, l’Ange de la mort l’atteint en un seul vol.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:26"
+          },
+          "fr_explanation": "Le passage énonce une baraïta présentant une hiérarchie d’anges selon le nombre de vols nécessaires pour atteindre leur destination. Il précise que, pendant une période de peste, l’Ange de la mort arrive partout en un seul vol.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il a été enseigné : Mikhaël atteint sa destination en un vol, Gabriel en deux, Élie en quatre et l’Ange de la mort en huit. Mais en période d’épidémie, l’Ange de la mort l’atteint en un seul vol.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage énonce une baraïta présentant une hiérarchie d’anges selon le nombre de vols nécessaires pour atteindre leur destination. Il précise que, pendant une période de peste, l’Ange de la mort arrive partout en un seul vol.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« En une seule » : en un seul vol.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:44.821850+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 26,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_06e3e0c17e48de71006a68d0c2f768819f8210e646c377a9d9",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1377,
+              "output": 143,
+              "total": 1520
+            },
+            "cost": {
+              "segment_eur": 0.00167625,
+              "phase_spent_eur": 0.2108810999999999,
+              "phase_remaining_eur": 44.7891189
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Il a été enseigné : Mikhaël atteint sa destination en un vol, Gabriel en deux, Élie en quatre et l’Ange de la mort en huit. Mais en période d’épidémie, l’Ange de la mort l’atteint en un seul vol.",
+            "explanation": "Le passage énonce une baraïta présentant une hiérarchie d’anges selon le nombre de vols nécessaires pour atteindre leur destination. Il précise que, pendant une période de peste, l’Ange de la mort arrive partout en un seul vol.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« En une seule » : en un seul vol.",
+                "refs": [
+                  "Rashi on Berakhot 4b:26:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 27,
           "he": "אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אַף עַל פִּי שֶׁקָּרָא אָדָם קְרִיאַת שְׁמַע בְּבֵית הַכְּנֶסֶת — מִצְוָה לִקְרוֹתוֹ עַל מִטָּתוֹ. אָמַר רַבִּי יוֹסֵי: מַאי קְרָא — ״רִגְזוּ וְאַל תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה״.",
           "en": "Rabbi Yehoshua ben Levi said: Even though one recited <i>Shema</i> in the synagogue, it is a mitzva to recite it upon his bed in fulfillment of the verse: “When you lie down.” Rabbi Yosei said: What verse alludes to the fact that one must recite <i>Shema</i> in the evening, upon his bed, as well? “Tremble, and do not sin; say to your heart upon your bed and be still, Selah” (Psalms 4:5). This is understood to mean: Recite <i>Shema</i>, about which it is written, “on your hearts,” upon your bed, and afterward be still and sleep.",
-          "fr": "Rabbi Yehochoua ben Levi a dit : même si un homme a récité le Chema à la synagogue, c'est une mitsva de le réciter sur son lit. Rabbi Yossi a dit : quel est le verset ? — 'Tremblez et ne péchez pas, dites dans vos cœurs, sur votre couche, et demeurez en silence, sela'.",
+          "fr": "Rabbi Yehoshoua ben Lévi dit : bien qu’un homme ait déjà récité le Shema à la synagogue, c’est une mitsva de le réciter sur son lit. Rabbi Yossei dit : quel verset l’enseigne ? « Frémissez et ne fautez pas ; parlez en votre cœur sur votre lit, puis gardez le silence, Sélah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:27"
+          },
+          "fr_explanation": "Le passage est compris comme indiquant qu’il faut réciter le Shema le soir, sur son lit. Le verset cité est interprété dans ce sens : « sur votre cœur » renvoie au Shema, puis « taisez-vous » signifie ensuite se tenir tranquille et dormir.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yehoshoua ben Lévi dit : bien qu’un homme ait déjà récité le Shema à la synagogue, c’est une mitsva de le réciter sur son lit. Rabbi Yossei dit : quel verset l’enseigne ? « Frémissez et ne fautez pas ; parlez en votre cœur sur votre lit, puis gardez le silence, Sélah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage est compris comme indiquant qu’il faut réciter le Shema le soir, sur son lit. Le verset cité est interprété dans ce sens : « sur votre cœur » renvoie au Shema, puis « taisez-vous » signifie ensuite se tenir tranquille et dormir.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Dites dans votre cœur » : dites ce qui est écrit « sur ton cœur ». « Sur votre lit » : comme il est dit « quand tu te coucheras ». « Et taisez-vous » : ensuite, dans le sommeil.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:48.042598+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 27,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ed67dd0355b76fc006a68d0c565e881a2b4693673d8afad4a",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1564,
+              "output": 247,
+              "total": 1811
+            },
+            "cost": {
+              "segment_eur": 0.0022845,
+              "phase_spent_eur": 0.2131655999999999,
+              "phase_remaining_eur": 44.786834400000004
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yehoshoua ben Lévi dit : bien qu’un homme ait déjà récité le Shema à la synagogue, c’est une mitsva de le réciter sur son lit. Rabbi Yossei dit : quel verset l’enseigne ? « Frémissez et ne fautez pas ; parlez en votre cœur sur votre lit, puis gardez le silence, Sélah. »",
+            "explanation": "Le passage est compris comme indiquant qu’il faut réciter le Shema le soir, sur son lit. Le verset cité est interprété dans ce sens : « sur votre cœur » renvoie au Shema, puis « taisez-vous » signifie ensuite se tenir tranquille et dormir.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Dites dans votre cœur » : dites ce qui est écrit « sur ton cœur ». « Sur votre lit » : comme il est dit « quand tu te coucheras ». « Et taisez-vous » : ensuite, dans le sommeil.",
+                "refs": [
+                  "Rashi on Berakhot 4b:27:1",
+                  "Rashi on Berakhot 4b:27:2",
+                  "Rashi on Berakhot 4b:27:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 28,
           "he": "אָמַר רַב נַחְמָן:",
           "en": "With regard to Rabbi Yehoshua ben Levi’s statement, Rabbi Naḥman said:",
-          "fr": "Rav Nahman a dit :",
+          "fr": "Rav Nahman dit :",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4b:28"
+          },
+          "fr_explanation": "Cette formule introduit l’enseignement de Rav Nahman, dont la suite apparaît dans le segment suivant.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rav Nahman dit :</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Cette formule introduit l’enseignement de Rav Nahman, dont la suite apparaît dans le segment suivant.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:54:52.371165+00:00",
+            "masechet": "berakhot",
+            "daf": "4b",
+            "segment_number": 28,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_08ea6cf1ab5dca15006a68d0c965d881a0a9a54244700da610",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1150,
+              "output": 54,
+              "total": 1204
+            },
+            "cost": {
+              "segment_eur": 0.0011055,
+              "phase_spent_eur": 0.2142710999999999,
+              "phase_remaining_eur": 44.7857289
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rav Nahman dit :",
+            "explanation": "Cette formule introduit l’enseignement de Rav Nahman, dont la suite apparaît dans le segment suivant.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.99,
+            "issues": [],
+            "review_note": ""
           }
         }
       ],
@@ -40960,7 +42981,14 @@
           "en": "",
           "fr": "« Il a été enseigné : Mikhaël [accomplit sa mission] en une seule [fois]. » C'est-à-dire en un seul envol, il accomplit sa mission."
         }
-      ]
+      ],
+      "fr_validation": {
+        "status": "reviewed",
+        "segments_reviewed": 28,
+        "translation_reviewed": true,
+        "explanations_reviewed": true,
+        "commentaries_reviewed": true
+      }
     },
     "50a": {
       "segments": [
