@@ -38761,190 +38761,1602 @@
           "id": 1,
           "he": "״בְּנָיָהוּ בֶּן יְהוֹיָדָע״ זֶה סַנְהֶדְרִין, ״וְאֶבְיָתָר״ אֵלּוּ אוּרִים וְתוּמִּים.",
           "en": "Benayahu ben Yehoyada corresponds to the Sanhedrin, since he was the head of the Sanhedrin, and Evyatar corresponds to the <i>Urim VeTummim</i>, as Evyatar ben Ahimelekh the priest would oversee inquiries directed to the <i>Urim VeTummim</i> (see I Samuel 23:9).",
-          "fr": "« Benayahou ben Yehoyada » — ceci désigne le Sanhédrin ; « et Evyatar » — ceux-ci désignent les Ourim ve-Toummim.",
+          "fr": "« Benayahou ben Yehoyada » désigne le Sanhédrin ; « et Eviatar » désigne les Ourim et Toummim.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:1"
+          },
+          "fr_explanation": "Benayahou ben Yehoyada représente ici le Sanhédrin, dont il était le dirigeant. Eviatar représente les Ourim et Toummim, qu’il consultait au nom de David.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>« Benayahou ben Yehoyada » désigne le Sanhédrin ; « et Eviatar » désigne les Ourim et Toummim.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Benayahou ben Yehoyada représente ici le Sanhédrin, dont il était le dirigeant. Eviatar représente les Ourim et Toummim, qu’il consultait au nom de David.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que Benayahou ben Yehoyada désigne le Sanhédrin parce qu’il était av beit din. Eviatar désigne les Ourim et Toummim, que l’on consultait durant le règne de David. Lors de la révolte d’Avshalom, la consultation ne réussit plus par Eviatar mais par Tsadoq ; Eviatar fut alors écarté de sa fonction de Cohen.</p>\n</section>\n<section class=\"talmud-commentary talmud-commentary-tossefot\">\n  <h4>Tossefot</h4>\n  <p class=\"talmud-commentary-text\">Tossefot explique que Benayahou désigne le Sanhédrin par raisonnement, et que Eviatar désigne les Ourim et Toummim. Selon Rabbenou Tam, le texte doit être lu autrement : « après Ahitofel, Yehoyada fils de Benayahou », et « Benayahou sur les Kériti et les Péleti » signifie que les Kériti et les Péleti sont le Sanhédrin, parce qu&#x27;ils tranchent leurs décisions avec vérité et sont distingués dans l&#x27;enseignement. Le commentaire demande comment Yehoyada fils de Benayahou peut être déduit de Benayahou fils de Yehoyada, et répond que, de toute façon, il devait vraisemblablement remplacer son père au Sanhédrin.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:04.433025+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 1,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_05c0bdcbd8adadc4006a68c468370c819d84fc3e3cc58da31c",
+            "commentaries_available": [
+              "rachi",
+              "tossefot"
+            ],
+            "commentaries_used": [
+              "rachi",
+              "tossefot"
+            ],
+            "tokens": {
+              "input": 1711,
+              "output": 424,
+              "total": 2135
+            },
+            "cost": {
+              "segment_eur": 0.00319125,
+              "phase_spent_eur": 0.11767034999999995,
+              "phase_remaining_eur": 44.88232965
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": true,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "« Benayahou ben Yehoyada » désigne le Sanhédrin ; « et Eviatar » désigne les Ourim et Toummim.",
+            "explanation": "Benayahou ben Yehoyada représente ici le Sanhédrin, dont il était le dirigeant. Eviatar représente les Ourim et Toummim, qu’il consultait au nom de David.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que Benayahou ben Yehoyada désigne le Sanhédrin parce qu’il était av beit din. Eviatar désigne les Ourim et Toummim, que l’on consultait durant le règne de David. Lors de la révolte d’Avshalom, la consultation ne réussit plus par Eviatar mais par Tsadoq ; Eviatar fut alors écarté de sa fonction de Cohen.",
+                "refs": [
+                  "Rashi on Berakhot 4a:1:1",
+                  "Rashi on Berakhot 4a:1:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": true,
+                "source_used": true,
+                "summary": "Tossefot explique que Benayahou désigne le Sanhédrin par raisonnement, et que Eviatar désigne les Ourim et Toummim. Selon Rabbenou Tam, le texte doit être lu autrement : « après Ahitofel, Yehoyada fils de Benayahou », et « Benayahou sur les Kériti et les Péleti » signifie que les Kériti et les Péleti sont le Sanhédrin, parce qu'ils tranchent leurs décisions avec vérité et sont distingués dans l'enseignement. Le commentaire demande comment Yehoyada fils de Benayahou peut être déduit de Benayahou fils de Yehoyada, et répond que, de toute façon, il devait vraisemblablement remplacer son père au Sanhédrin.",
+                "refs": [
+                  "Tosafot on Berakhot 4a:1:1"
+                ],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 2,
           "he": "וְכֵן הוּא אוֹמֵר: ״וּבְנָיָהוּ בֶּן יְהוֹיָדָע עַל הַכְּרֵתִי וְעַל הַפְּלֵתִי״. וְלָמָּה נִקְרָא שְׁמָם ״כְּרֵתִי״ וּ״פְלֵתִי״? ״כְּרֵתִי״ שֶׁכּוֹרְתִים דִּבְרֵיהֶם, ״פְּלֵתִי״ שֶׁמּוּפְלָאִים בְּדִבְרֵיהֶם. וְאַחַר כָּךְ ״שַׂר צָבָא לַמֶּלֶךְ יוֹאָב״.",
           "en": "And so it says regarding Benayahu ben Yehoyada’s position as head of the Sanhedrin: “And Benayahu ben Yehoyada was over the <i>Kereti</i> and over the <i>Peleti</i>” (II Samuel 20:23). And why was the Sanhedrin called <i>Kereti UPeleti</i>? It was called <i>Kereti</i> because they were decisive [<i>koretim</i>] in their pronouncements. It was called <i>Peleti</i> because their pronouncements and wisdom were wondrous [<i>mufla’im</i>]. The head of the <i>Kereti UPeleti</i> was the head of the Sanhedrin. According to the order of the verse, upon being instructed by King David to go to war, the Sages first consulted with Ahitophel, then with the Sanhedrin, then they would ask the <i>Urim VeTummim</i>, and only thereafter was the general of the king’s army, Yoav, given the command to ready the military for battle.",
-          "fr": "Et de même il est dit : « Et Benayahou ben Yehoyada était sur les Kréti et les Pléti. » Et pourquoi les appelle-t-on « Kréti » et « Pléti » ? « Kréti » parce qu'ils tranchent (koretim) leurs paroles ; « Pléti » parce qu'ils sont admirables (moufleim) dans leurs paroles. Et ensuite : « le chef de l'armée du roi, Yoav. »",
+          "fr": "Et il est également dit : « Benayahou ben Yehoyada était à la tête des Kereti et des Peleti. » Pourquoi étaient-ils appelés « Kereti » et « Peleti » ? « Kereti », parce qu’ils tranchaient leurs décisions ; « Peleti », parce qu’ils étaient remarquables dans leurs décisions. Et ensuite vient : « Yoav, chef de l’armée du roi. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:2"
+          },
+          "fr_explanation": "Les Kereti et les Peleti désignent le Sanhédrin : ses membres tranchaient les décisions avec autorité et se distinguaient par leur sagesse. Avant une guerre, David consultait Ahitofel, puis le Sanhédrin et les Ourim et Toummim ; Yoav recevait ensuite l’ordre de mobiliser l’armée.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et il est également dit : « Benayahou ben Yehoyada était à la tête des Kereti et des Peleti. » Pourquoi étaient-ils appelés « Kereti » et « Peleti » ? « Kereti », parce qu’ils tranchaient leurs décisions ; « Peleti », parce qu’ils étaient remarquables dans leurs décisions. Et ensuite vient : « Yoav, chef de l’armée du roi. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Les Kereti et les Peleti désignent le Sanhédrin : ses membres tranchaient les décisions avec autorité et se distinguaient par leur sagesse. Avant une guerre, David consultait Ahitofel, puis le Sanhédrin et les Ourim et Toummim ; Yoav recevait ensuite l’ordre de mobiliser l’armée.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que Benayahou ben Yehoyada précédait Yoav : on sollicitait d’abord l’autorisation du Sanhédrin, puis on demandait si la guerre réussirait. « Ils tranchaient leurs décisions » signifie que leurs paroles étaient fermes et définitives, sans rien retrancher ni ajouter. Yoav, chef de l’armée du roi, conduisait ensuite les combattants.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:09.306169+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 2,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_07aed203a375c990006a68c46cffcc819db399b4b3bddce8e3",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1684,
+              "output": 307,
+              "total": 1991
+            },
+            "cost": {
+              "segment_eur": 0.0026445,
+              "phase_spent_eur": 0.12031484999999995,
+              "phase_remaining_eur": 44.87968515
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et il est également dit : « Benayahou ben Yehoyada était à la tête des Kereti et des Peleti. » Pourquoi étaient-ils appelés « Kereti » et « Peleti » ? « Kereti », parce qu’ils tranchaient leurs décisions ; « Peleti », parce qu’ils étaient remarquables dans leurs décisions. Et ensuite vient : « Yoav, chef de l’armée du roi. »",
+            "explanation": "Les Kereti et les Peleti désignent le Sanhédrin : ses membres tranchaient les décisions avec autorité et se distinguaient par leur sagesse. Avant une guerre, David consultait Ahitofel, puis le Sanhédrin et les Ourim et Toummim ; Yoav recevait ensuite l’ordre de mobiliser l’armée.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que Benayahou ben Yehoyada précédait Yoav : on sollicitait d’abord l’autorisation du Sanhédrin, puis on demandait si la guerre réussirait. « Ils tranchaient leurs décisions » signifie que leurs paroles étaient fermes et définitives, sans rien retrancher ni ajouter. Yoav, chef de l’armée du roi, conduisait ensuite les combattants.",
+                "refs": [
+                  "Rashi on Berakhot 4a:2:1",
+                  "Rashi on Berakhot 4a:2:2",
+                  "Rashi on Berakhot 4a:2:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 3,
           "he": "אָמַר רַב יִצְחָק בַּר אַדָּא, וְאָמְרִי לַהּ אָמַר רַב יִצְחָק בְּרֵיהּ דְּרַב אִידִי: מַאי קְרָא ״עוּרָה כְבוֹדִי עוּרָה הַנֵּבֶל וְכִנּוֹר אָעִירָה שָּׁחַר״.",
           "en": "Rav Yitzḥak bar Adda, and some say Rav Yitzḥak, son of Rav Idi, said: From what verse is it derived that David’s lyre would wake him at midnight? “Awake, my glory; awake, harp and lyre; I will wake the dawn” (Psalms 57:9). This means that the playing lyre has already woken, and now I must engage in Torah study until dawn.",
-          "fr": "Rav Yitzhak bar Adda dit — et d'autres disent : Rav Yitzhak fils de Rav Idi dit — : quel est le verset ? « Réveille-toi, ma gloire, réveille-toi, le nével et la kinnor, je veux éveiller l'aurore. »",
+          "fr": "Rav Yitzhak bar Adda a dit, et certains disent que c’est Rav Yitzhak, fils de Rav Idi, qui a dit : quel verset l’enseigne ? « Éveille-toi, ma gloire ; éveillez-vous, harpe et lyre ; j’éveillerai l’aurore. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:3"
+          },
+          "fr_explanation": "Le verset est compris comme indiquant que la lyre de David le réveillait déjà, et qu’ensuite il devait se consacrer à l’étude de la Torah jusqu’à l’aurore.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rav Yitzhak bar Adda a dit, et certains disent que c’est Rav Yitzhak, fils de Rav Idi, qui a dit : quel verset l’enseigne ? « Éveille-toi, ma gloire ; éveillez-vous, harpe et lyre ; j’éveillerai l’aurore. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le verset est compris comme indiquant que la lyre de David le réveillait déjà, et qu’ensuite il devait se consacrer à l’étude de la Torah jusqu’à l’aurore.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Quel est le verset » : la harpe était suspendue au-dessus de son lit et le réveillait. « Réveille-toi, ma gloire » : ne t’embellis pas par le sommeil comme les autres rois. « J’éveillerai l’aurore » : chez les autres rois, c’est l’aurore qui les réveille ; moi, j’éveille l’aurore.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:12.313200+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 3,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_08bbc721b43de9f0006a68c471ed18819fab83c3309cbfeb42",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1463,
+              "output": 229,
+              "total": 1692
+            },
+            "cost": {
+              "segment_eur": 0.00212775,
+              "phase_spent_eur": 0.12244259999999994,
+              "phase_remaining_eur": 44.8775574
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rav Yitzhak bar Adda a dit, et certains disent que c’est Rav Yitzhak, fils de Rav Idi, qui a dit : quel verset l’enseigne ? « Éveille-toi, ma gloire ; éveillez-vous, harpe et lyre ; j’éveillerai l’aurore. »",
+            "explanation": "Le verset est compris comme indiquant que la lyre de David le réveillait déjà, et qu’ensuite il devait se consacrer à l’étude de la Torah jusqu’à l’aurore.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Quel est le verset » : la harpe était suspendue au-dessus de son lit et le réveillait. « Réveille-toi, ma gloire » : ne t’embellis pas par le sommeil comme les autres rois. « J’éveillerai l’aurore » : chez les autres rois, c’est l’aurore qui les réveille ; moi, j’éveille l’aurore.",
+                "refs": [
+                  "Rashi on Berakhot 4a:3:1",
+                  "Rashi on Berakhot 4a:3:2",
+                  "Rashi on Berakhot 4a:3:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 4,
           "he": "רַבִּי זֵירָא אָמַר: מֹשֶׁה לְעוֹלָם הֲוָה יָדַע, וְדָוִד נָמֵי הֲוָה יָדַע.",
           "en": "Rabbi Zeira offered a different solution to the question of whether Moses and David knew exactly when it was midnight and said: Moses certainly knew when it was midnight, and David also knew.",
-          "fr": "Rabbi Zeira dit : Moïse connaissait toujours [le moment exact de minuit], et David aussi le connaissait.",
+          "fr": "Rabbi Zeira dit : Moïse connaissait bel et bien le moment exact de minuit, et David le connaissait également.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:4"
+          },
+          "fr_explanation": "Rabbi Zeira répond que Moïse comme David connaissaient précisément le moment de minuit. La lyre n’indiquait donc pas l’heure à David : elle servait à le réveiller.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Zeira dit : Moïse connaissait bel et bien le moment exact de minuit, et David le connaissait également.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabbi Zeira répond que Moïse comme David connaissaient précisément le moment de minuit. La lyre n’indiquait donc pas l’heure à David : elle servait à le réveiller.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:14.488722+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 4,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ba6c3a4b2a0d1f7006a68c474b93c819d9ff3736b9068fc26",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1220,
+              "output": 96,
+              "total": 1316
+            },
+            "cost": {
+              "segment_eur": 0.001347,
+              "phase_spent_eur": 0.12378959999999994,
+              "phase_remaining_eur": 44.8762104
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Zeira dit : Moïse connaissait bel et bien le moment exact de minuit, et David le connaissait également.",
+            "explanation": "Rabbi Zeira répond que Moïse comme David connaissaient précisément le moment de minuit. La lyre n’indiquait donc pas l’heure à David : elle servait à le réveiller.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 5,
           "he": "וְכֵיוָן דְּדָוִד הֲוָה יָדַע, כִּנּוֹר לְמָה לֵיהּ? לְאִתְּעוֹרֵי מִשִּׁנְתֵּיהּ.",
           "en": "The Gemara asks: If David knew, then why did he need the lyre? The Gemara answers: He needed the lyre to wake him from his sleep.",
-          "fr": "Et puisque David le connaissait, pourquoi avait-il besoin de la kinnor ? Pour se réveiller de son sommeil.",
+          "fr": "Et puisque David connaissait ce moment, pourquoi avait-il besoin de la lyre ? Pour le réveiller de son sommeil.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:5"
+          },
+          "fr_explanation": "La Guemara pose la question de savoir pourquoi David avait besoin de la lyre s'il savait déjà. Elle répond qu'il en avait besoin pour le réveiller de son sommeil.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et puisque David connaissait ce moment, pourquoi avait-il besoin de la lyre ? Pour le réveiller de son sommeil.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara pose la question de savoir pourquoi David avait besoin de la lyre s&#x27;il savait déjà. Elle répond qu&#x27;il en avait besoin pour le réveiller de son sommeil.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:17.053675+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 5,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0cae5aea1f6c7c14006a68c477b90081919816f29508c5717f",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1222,
+              "output": 92,
+              "total": 1314
+            },
+            "cost": {
+              "segment_eur": 0.0013305,
+              "phase_spent_eur": 0.12512009999999996,
+              "phase_remaining_eur": 44.8748799
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et puisque David connaissait ce moment, pourquoi avait-il besoin de la lyre ? Pour le réveiller de son sommeil.",
+            "explanation": "La Guemara pose la question de savoir pourquoi David avait besoin de la lyre s'il savait déjà. Elle répond qu'il en avait besoin pour le réveiller de son sommeil.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 6,
           "he": "וְכֵיוָן דְּמֹשֶׁה הֲוָה יָדַע, לְמָה לֵיהּ לְמֵימַר ״כַּחֲצוֹת״? — מֹשֶׁה קָסָבַר: שֶׁמָּא יִטְעוּ אִצְטַגְנִינֵי פַּרְעֹה, וְיֹאמְרוּ ״מֹשֶׁה בַּדַּאי הוּא״. דְּאָמַר מָר: לַמֵּד לְשׁוֹנְךָ לוֹמַר ״אֵינִי יוֹדֵעַ״, שֶׁמָּא תִּתְבַּדֶּה וְתֵאָחֵז.",
           "en": "Similarly with regard to Moses, since Moses knew the precise moment of midnight, why did he say: About midnight, instead of: At midnight? Moses did so because he maintained: Lest Pharaoh’s astrologers err and believe midnight to be earlier. Since no disaster would have occurred, they would say: Moses is a liar. Moses spoke in accordance with the principle articulated by the Master: Accustom your tongue to say: I do not know, lest you become entangled in a web of deceit.",
-          "fr": "Et puisque Moïse le connaissait, pourquoi avait-il besoin de dire « vers minuit » [et non « à minuit »] ? Moïse pensait : peut-être les astrologues de Pharaon se tromperont-ils, et diront-ils : « Moïse est un menteur. » Car le Maître a dit : habitue ta langue à dire « je ne sais pas », de peur que tu n'inventes quelque chose et sois pris en défaut.",
+          "fr": "Et puisque Moïse connaissait ce moment, pourquoi devait-il dire « vers minuit » ? Moïse pensait : peut-être les astrologues de Pharaon se tromperont-ils et diront-ils : « Moïse est un menteur. » Comme l’a dit le Maître : habitue ta langue à dire « je ne sais pas », de peur d’être confondu et pris dans tes propres paroles.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:6"
+          },
+          "fr_explanation": "Moïse employa volontairement une expression prudente. Les astrologues de Pharaon pouvaient mal calculer l’heure, constater trop tôt que la plaie n’avait pas commencé et l’accuser de mensonge.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et puisque Moïse connaissait ce moment, pourquoi devait-il dire « vers minuit » ? Moïse pensait : peut-être les astrologues de Pharaon se tromperont-ils et diront-ils : « Moïse est un menteur. » Comme l’a dit le Maître : habitue ta langue à dire « je ne sais pas », de peur d’être confondu et pris dans tes propres paroles.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Moïse employa volontairement une expression prudente. Les astrologues de Pharaon pouvaient mal calculer l’heure, constater trop tôt que la plaie n’avait pas commencé et l’accuser de mensonge.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Si Moïse savait fixer l’heure, les astrologues de Pharaon, eux, ne sauraient pas la déterminer avec exactitude ; avant l’arrivée de minuit, ils pourraient penser qu’il est déjà venu alors que la plaie n’aurait pas encore commencé, et dire alors : « Moïse est un menteur ». C’est pourquoi il vaut mieux employer la formule « je ne sais pas ». « Comme l’a dit le Maître » renvoie au traité Derekh Erets. « Que tu sois saisi » signifie que tu t’enfermes et trébuches dans tes propres paroles.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:21.106506+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 6,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0a0e5899e301d3ed006a68c4796f28819fb9922348c0e52a5d",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1588,
+              "output": 353,
+              "total": 1941
+            },
+            "cost": {
+              "segment_eur": 0.0027795,
+              "phase_spent_eur": 0.12789959999999995,
+              "phase_remaining_eur": 44.8721004
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et puisque Moïse connaissait ce moment, pourquoi devait-il dire « vers minuit » ? Moïse pensait : peut-être les astrologues de Pharaon se tromperont-ils et diront-ils : « Moïse est un menteur. » Comme l’a dit le Maître : habitue ta langue à dire « je ne sais pas », de peur d’être confondu et pris dans tes propres paroles.",
+            "explanation": "Moïse employa volontairement une expression prudente. Les astrologues de Pharaon pouvaient mal calculer l’heure, constater trop tôt que la plaie n’avait pas commencé et l’accuser de mensonge.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Si Moïse savait fixer l’heure, les astrologues de Pharaon, eux, ne sauraient pas la déterminer avec exactitude ; avant l’arrivée de minuit, ils pourraient penser qu’il est déjà venu alors que la plaie n’aurait pas encore commencé, et dire alors : « Moïse est un menteur ». C’est pourquoi il vaut mieux employer la formule « je ne sais pas ». « Comme l’a dit le Maître » renvoie au traité Derekh Erets. « Que tu sois saisi » signifie que tu t’enfermes et trébuches dans tes propres paroles.",
+                "refs": [
+                  "Rashi on Berakhot 4a:6:1",
+                  "Rashi on Berakhot 4a:6:2",
+                  "Rashi on Berakhot 4a:6:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 7,
           "he": "רַב אָשֵׁי אָמַר: בְּפַלְגָא אוּרְתָּא דִתְלֵיסַר נָגְהֵי אַרְבֵּסַר הֲוָה קָאֵי, וְהָכִי קָאָמַר מֹשֶׁה לְיִשְׂרָאֵל, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: לְמָחָר כַּחֲצוֹת הַלַּיְלָה כִּי הָאִידָּנָא אֲנִי יוֹצֵא בְּתוֹךְ מִצְרָיִם.",
           "en": "Rav Ashi said: This question is unfounded, as Moses was standing at midnight of the thirteenth, leading into the fourteenth, when he pronounced his prophecy, and Moses told Israel that the Holy One, Blessed be He, said that tomorrow, at the exact time like midnight tonight, I will go out into the midst of Egypt. This indicates that the passage should not be understood to mean about midnight, an approximation; but rather, like midnight, as a comparison, likening midnight tomorrow to midnight tonight.",
-          "fr": "Rav Ashi dit : il se trouvait à la moitié de la nuit du treize au matin du quatorze, et voici ce que Moïse dit à Israël : le Saint béni soit-Il a dit : demain, vers minuit, à pareille heure, je sortirai au milieu de l'Égypte.",
+          "fr": "Rav Ashi dit : Moïse se tenait là au milieu de la nuit du treize au quatorze. Voici ce qu’il dit à Israël : le Saint, béni soit-Il, a déclaré : « Demain, à minuit, à cette même heure, Je sortirai au milieu de l’Égypte. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:7"
+          },
+          "fr_explanation": "Selon Rav Ashi, l’expression ne signifie pas approximativement « vers minuit ». Elle établit une comparaison exacte entre le minuit de cette nuit-là et le minuit de la nuit suivante.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rav Ashi dit : Moïse se tenait là au milieu de la nuit du treize au quatorze. Voici ce qu’il dit à Israël : le Saint, béni soit-Il, a déclaré : « Demain, à minuit, à cette même heure, Je sortirai au milieu de l’Égypte. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Selon Rav Ashi, l’expression ne signifie pas approximativement « vers minuit ». Elle établit une comparaison exacte entre le minuit de cette nuit-là et le minuit de la nuit suivante.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Treize, menant au quatorze » : la nuit écoulée du treize, et le lendemain on parvient au quatorze.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:23.878375+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 7,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_01d5afcc1a29188b006a68c47d97b0819f819e60dd367268dd",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1464,
+              "output": 187,
+              "total": 1651
+            },
+            "cost": {
+              "segment_eur": 0.0019395,
+              "phase_spent_eur": 0.12983909999999996,
+              "phase_remaining_eur": 44.8701609
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rav Ashi dit : Moïse se tenait là au milieu de la nuit du treize au quatorze. Voici ce qu’il dit à Israël : le Saint, béni soit-Il, a déclaré : « Demain, à minuit, à cette même heure, Je sortirai au milieu de l’Égypte. »",
+            "explanation": "Selon Rav Ashi, l’expression ne signifie pas approximativement « vers minuit ». Elle établit une comparaison exacte entre le minuit de cette nuit-là et le minuit de la nuit suivante.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Treize, menant au quatorze » : la nuit écoulée du treize, et le lendemain on parvient au quatorze.",
+                "refs": [
+                  "Rashi on Berakhot 4a:7:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 8,
           "he": "״לְדָוִד, שָׁמְרָה נַפְשִׁי כִּי חָסִיד אָנִי״. לֵוִי וְרַבִּי יִצְחָק. חַד אָמַר: כָּךְ אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, לֹא חָסִיד אֲנִי? שֶׁכָּל מַלְכֵי מִזְרָח וּמַעֲרָב יְשֵׁנִים עַד שָׁלֹשׁ שָׁעוֹת, וַאֲנִי ״חֲצוֹת לַיְלָה אָקוּם לְהוֹדוֹת לְךָ״.",
           "en": "The Gemara further explores King David’s character. It is said: “A prayer of David…Keep my soul, for I am pious” (Psalms 86:1–2). Levi and Rabbi Yitzḥak debated the meaning of this verse and how David’s piety is manifest in the fact that he went beyond his fundamental obligations. One said: David’s declaration of piety referred to his awakening during the night to pray, and so said David before the Holy One, Blessed be He: Master of the Universe, am I not pious? As all of the kings of the East and the West sleep until the third hour of the day, but although I am a king like them, “At midnight I rise to give thanks” (Psalms 119:62).",
-          "fr": "« De David. Garde mon âme, car je suis pieux (hassid). » Lévi et Rabbi Yitzhak [sont en désaccord] : l'un dit : voici ce que David dit devant le Saint béni soit-Il : Maître du monde, ne suis-je pas pieux ? Car tous les rois d'Orient et d'Occident dorment jusqu'à la troisième heure, tandis que moi, « à minuit je me lève pour Te louer. »",
+          "fr": "« Prière de David : garde mon âme, car je suis pieux. » Lévi et Rabbi Yitzhak interprètent ce verset différemment. L’un d’eux dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident dorment jusqu’à la troisième heure, tandis que moi : “À minuit, je me lève pour Te rendre grâce.” »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:8"
+          },
+          "fr_explanation": "La Guemara examine encore le caractère du roi David. Le verset est compris comme une affirmation de sa piété parce qu’il dépasse les obligations fondamentales en se levant la nuit pour prier et remercier Dieu.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>« Prière de David : garde mon âme, car je suis pieux. » Lévi et Rabbi Yitzhak interprètent ce verset différemment. L’un d’eux dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident dorment jusqu’à la troisième heure, tandis que moi : “À minuit, je me lève pour Te rendre grâce.” »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara examine encore le caractère du roi David. Le verset est compris comme une affirmation de sa piété parce qu’il dépasse les obligations fondamentales en se levant la nuit pour prier et remercier Dieu.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:28.539046+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 8,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f220db8c5cb3bb0006a68c4808dbc819ca1baeb97329813d9",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1528,
+              "output": 175,
+              "total": 1703
+            },
+            "cost": {
+              "segment_eur": 0.0019335,
+              "phase_spent_eur": 0.13177259999999996,
+              "phase_remaining_eur": 44.8682274
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "« Prière de David : garde mon âme, car je suis pieux. » Lévi et Rabbi Yitzhak interprètent ce verset différemment. L’un d’eux dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident dorment jusqu’à la troisième heure, tandis que moi : “À minuit, je me lève pour Te rendre grâce.” »",
+            "explanation": "La Guemara examine encore le caractère du roi David. Le verset est compris comme une affirmation de sa piété parce qu’il dépasse les obligations fondamentales en se levant la nuit pour prier et remercier Dieu.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 9,
           "he": "וְאִידַּךְ, כָּךְ אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, לֹא חָסִיד אֲנִי? שֶׁכָּל מַלְכֵי מִזְרָח וּמַעֲרָב יוֹשְׁבִים אֲגוּדּוֹת אֲגוּדּוֹת בִּכְבוֹדָם, וַאֲנִי יָדַי מְלוּכְלָכוֹת בְּדָם וּבְשָׁפִיר וּבְשִׁלְיָא כְּדֵי לְטַהֵר אִשָּׁה לְבַעֲלָהּ. וְלֹא עוֹד, אֶלָּא כָּל מָה שֶׁאֲנִי עוֹשֶׂה, אֲנִי נִמְלָךְ בִּמְפִיבֹשֶׁת רַבִּי, וְאוֹמֵר לוֹ: ״מְפִיבֹשֶׁת רַבִּי, יָפֶה דַּנְתִּי? יָפֶה חִייַּבְתִּי? יָפֶה זִכִּיתִי? יָפֶה טִהַרְתִּי? יָפֶה טִמֵּאתִי?״, וְלֹא בּוֹשְׁתִּי.",
           "en": "And the other Sage said: David said the following before the Holy One, Blessed be He: Master of the Universe, am I not pious? For all of the kings of the East and the West sit in groups befitting their honored status, but I sit as a judge who issues rulings for the people. Women come with questions of ritual impurity and my hands become soiled with their blood as I labor to determine whether or not it is blood of impurity and she has menstruating woman status, and with a fetus that miscarried at a stage of development before it was clear whether or not it is considered a birth, and with placenta, which women sometimes discharge unrelated to the birth of a child (see Leviticus 15:19–30 with regard to blood, and 12:1–8 with regard to miscarriage and placenta). King David went to all this trouble in order to render a woman ritually pure and consequently permitted to her husband. If, after examination, a Sage declares the woman ritually pure, she is permitted to be with her husband, which leads to increased love and affection, and ultimately to procreation (Rabbi Yoshiyahu Pinto). And not only do I engage in activity considered to be beneath the station of a king, but I consult my teacher, Mefivoshet, son of King Saul’s son, Jonathan, with regard to everything that I do. I say to him: Mefivoshet, my teacher, did I decide properly? Did I convict properly? Did I acquit properly? Did I rule ritually pure properly? Did I rule ritually impure properly? And I was not embarrassed. Forgoing royal dignity should make me worthy to be called pious.",
-          "fr": "Et l'autre dit : voici ce que David dit devant le Saint béni soit-Il : Maître du monde, ne suis-je pas pieux ? Car tous les rois d'Orient et d'Occident siègent en groupes dans leur gloire, tandis que mes mains sont souillées de sang, de placenta et d'arrière-faix, afin de rendre une femme pure pour son mari. Et non seulement cela, mais tout ce que je fais, je le consulte avec mon maître Méfibosheth, et je lui dis : « Mon maître Méfibosheth, ai-je bien jugé ? Ai-je bien déclaré coupable ? Ai-je bien acquitté ? Ai-je bien déclaré pur ? Ai-je bien déclaré impur ? » Et je n'en ai pas eu honte.",
+          "fr": "Et l’autre dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident siègent en assemblées, entourés d’honneurs, tandis que mes mains sont souillées de sang, de shafir et de shilya afin de déclarer une femme pure et permise à son mari. Bien plus, pour tout ce que je fais, je consulte Mefivoshet, mon maître, et je lui demande : “Mefivoshet, mon maître, ai-je correctement jugé ? Ai-je correctement condamné ? Ai-je correctement acquitté ? Ai-je correctement déclaré pur ? Ai-je correctement déclaré impur ?” Et je n’en ai pas honte. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:9"
+          },
+          "fr_explanation": "David présente comme une marque de piété le fait de renoncer à sa dignité royale pour examiner des questions délicates de pureté familiale. Il soumettait également ses décisions à Mefivoshet et acceptait publiquement d’être corrigé.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et l’autre dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident siègent en assemblées, entourés d’honneurs, tandis que mes mains sont souillées de sang, de shafir et de shilya afin de déclarer une femme pure et permise à son mari. Bien plus, pour tout ce que je fais, je consulte Mefivoshet, mon maître, et je lui demande : “Mefivoshet, mon maître, ai-je correctement jugé ? Ai-je correctement condamné ? Ai-je correctement acquitté ? Ai-je correctement déclaré pur ? Ai-je correctement déclaré impur ?” Et je n’en ai pas honte. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">David présente comme une marque de piété le fait de renoncer à sa dignité royale pour examiner des questions délicates de pureté familiale. Il soumettait également ses décisions à Mefivoshet et acceptait publiquement d’être corrigé.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Mes mains sont souillées de sang » : les femmes lui montrent le sang de niddah pour qu’il décide s’il est impur ou pur, car il existe des apparences de sang pur chez la femme. « Shafir » désigne l’enveloppe du fœtus, et il y a des cas où l’on suspend la période d’impureté et de pureté à son sujet. « Shilya » désigne le placenta ; on l’apportait devant lui pour voir s’il avait la taille requise et s’il devait être considéré comme preuve d’un fœtus, afin de déterminer les jours d’impureté et de pureté. « J’ai acquitté et condamné » se rapporte aux affaires pécuniaires et capitales, et « j’ai rendu impur et pur » aux lois de pureté et d’impureté.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:34.726895+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 9,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0e1616900c229737006a68c485cdc081a28a126c1a46e09d2b",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 2305,
+              "output": 460,
+              "total": 2765
+            },
+            "cost": {
+              "segment_eur": 0.00379875,
+              "phase_spent_eur": 0.13557134999999995,
+              "phase_remaining_eur": 44.86442865
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et l’autre dit que David parla ainsi devant le Saint, béni soit-Il : « Maître de l’Univers, ne suis-je pas pieux ? Tous les rois de l’Orient et de l’Occident siègent en assemblées, entourés d’honneurs, tandis que mes mains sont souillées de sang, de shafir et de shilya afin de déclarer une femme pure et permise à son mari. Bien plus, pour tout ce que je fais, je consulte Mefivoshet, mon maître, et je lui demande : “Mefivoshet, mon maître, ai-je correctement jugé ? Ai-je correctement condamné ? Ai-je correctement acquitté ? Ai-je correctement déclaré pur ? Ai-je correctement déclaré impur ?” Et je n’en ai pas honte. »",
+            "explanation": "David présente comme une marque de piété le fait de renoncer à sa dignité royale pour examiner des questions délicates de pureté familiale. Il soumettait également ses décisions à Mefivoshet et acceptait publiquement d’être corrigé.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Mes mains sont souillées de sang » : les femmes lui montrent le sang de niddah pour qu’il décide s’il est impur ou pur, car il existe des apparences de sang pur chez la femme. « Shafir » désigne l’enveloppe du fœtus, et il y a des cas où l’on suspend la période d’impureté et de pureté à son sujet. « Shilya » désigne le placenta ; on l’apportait devant lui pour voir s’il avait la taille requise et s’il devait être considéré comme preuve d’un fœtus, afin de déterminer les jours d’impureté et de pureté. « J’ai acquitté et condamné » se rapporte aux affaires pécuniaires et capitales, et « j’ai rendu impur et pur » aux lois de pureté et d’impureté.",
+                "refs": [
+                  "Rashi on Berakhot 4a:9:1",
+                  "Rashi on Berakhot 4a:9:2",
+                  "Rashi on Berakhot 4a:9:3",
+                  "Rashi on Berakhot 4a:9:4",
+                  "Rashi on Berakhot 4a:9:5"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 10,
           "he": "אָמַר רַבִּי יְהוֹשֻׁעַ בְּרֵיהּ דְּרַב אִידִי: מַאי קְרָא — ״וַאֲדַבְּרָה בְעֵדֹתֶיךָ נֶגֶד מְלָכִים וְלֹא אֵבוֹשׁ״.",
           "en": "Rav Yehoshua, son of Rav Idi, said: What verse alludes to this? “And I speak Your testimonies before kings and I will not be ashamed” (Psalms 119:46). This verse alludes both to David’s commitment to Torah, in contrast to the kings of the East and the West, as well as to the fact that he was not ashamed to discuss matters of Torah with Mefivoshet, a descendant of kings. David was not afraid to have his mistakes corrected by Mefivoshet.",
-          "fr": "Rabbi Yehoshoua fils de Rav Idi dit : quel est le verset ? — « Je parlerai de Tes témoignages devant les rois et je n'aurai pas honte. »",
+          "fr": "Rabbi Yehoshoua, fils de Rav Idi, dit : quel verset l’enseigne ? « Je parlerai de Tes témoignages devant des rois et je n’aurai pas honte. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:10"
+          },
+          "fr_explanation": "Le verset allude à cela : à l’attachement de David à la Torah, face aux rois de l’Est et de l’Ouest, ainsi qu’au fait qu’il n’avait pas honte d’évoquer des questions de Torah avec Mefivoshet, un descendant de rois. David ne craignait pas que Mefivoshet corrige ses erreurs.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yehoshoua, fils de Rav Idi, dit : quel verset l’enseigne ? « Je parlerai de Tes témoignages devant des rois et je n’aurai pas honte. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le verset allude à cela : à l’attachement de David à la Torah, face aux rois de l’Est et de l’Ouest, ainsi qu’au fait qu’il n’avait pas honte d’évoquer des questions de Torah avec Mefivoshet, un descendant de rois. David ne craignait pas que Mefivoshet corrige ses erreurs.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:40.520302+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 10,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_080ac8e9ed4ae7fe006a68c48bcfc881928940d4feaa3aae12",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1327,
+              "output": 156,
+              "total": 1483
+            },
+            "cost": {
+              "segment_eur": 0.00169725,
+              "phase_spent_eur": 0.13726859999999996,
+              "phase_remaining_eur": 44.8627314
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yehoshoua, fils de Rav Idi, dit : quel verset l’enseigne ? « Je parlerai de Tes témoignages devant des rois et je n’aurai pas honte. »",
+            "explanation": "Le verset allude à cela : à l’attachement de David à la Torah, face aux rois de l’Est et de l’Ouest, ainsi qu’au fait qu’il n’avait pas honte d’évoquer des questions de Torah avec Mefivoshet, un descendant de rois. David ne craignait pas que Mefivoshet corrige ses erreurs.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.99,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 11,
           "he": "תָּנָא: לֹא ״מְפִיבֹשֶׁת״ שְׁמוֹ, אֶלָּא ״אִישׁ בּשֶׁת״ שְׁמוֹ, וְלָמָּה נִקְרָא שְׁמוֹ מְפִיבֹשֶׁת? שֶׁהָיָה מְבַיֵּישׁ פְּנֵי דָּוִד בַּהֲלָכָה, לְפִיכָךְ זָכָה דָּוִד וְיָצָא מִמֶּנּוּ כִּלְאָב.",
           "en": "It was taught in a <i>Tosefta</i> from a tannaitic tradition: His name was not Mefivoshet, but rather Ish Boshet was his name. Why was Ish Boshet referred to as Mefivoshet? Because he would embarrass [<i>mevayesh</i>] David in matters of <i>halakha</i>. According to this approach, Mefivoshet is an abbreviation of <i>boshet panim</i>, embarrassment. Because David was not embarrassed to admit his errors, he merited that Kilav, who, according to tradition, was exceedingly wise, would descend from him.",
-          "fr": "Il est enseigné dans une baraita : son nom n'était pas « Méfibosheth » mais « Ish Bosheth », et pourquoi l'appelait-on « Méfibosheth » ? Parce qu'il faisait rougir (mevayesh) le visage de David en matière de halakha ; c'est pourquoi David mérita que Kileav naquît de lui.",
+          "fr": "Il a été enseigné : son nom n’était pas Mefivoshet, mais Ish Boshet. Pourquoi fut-il appelé Mefivoshet ? Parce qu’il embarrassait David dans les questions de halakha. C’est pourquoi David mérita que Kilav descende de lui.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:11"
+          },
+          "fr_explanation": "Le nom Mefivoshet est interprété comme une allusion au fait qu’il pouvait mettre David dans l’embarras en corrigeant ses décisions halakhiques. L’humilité de David lui valut d’avoir pour descendant Kilav, réputé pour sa sagesse.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il a été enseigné : son nom n’était pas Mefivoshet, mais Ish Boshet. Pourquoi fut-il appelé Mefivoshet ? Parce qu’il embarrassait David dans les questions de halakha. C’est pourquoi David mérita que Kilav descende de lui.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le nom Mefivoshet est interprété comme une allusion au fait qu’il pouvait mettre David dans l’embarras en corrigeant ses décisions halakhiques. L’humilité de David lui valut d’avoir pour descendant Kilav, réputé pour sa sagesse.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi relie le nom Mefivoshet à la honte provoquée par les paroles de sa bouche : lorsque David se trompait en matière de halakha, Mefivoshet le lui signalait. Parce que David acceptait humblement d’être corrigé, il mérita que Kilav descende de lui.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:44.000207+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 11,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0687aec6a24058df006a68c4912324819d882d37dfa8def273",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1510,
+              "output": 287,
+              "total": 1797
+            },
+            "cost": {
+              "segment_eur": 0.002424,
+              "phase_spent_eur": 0.13969259999999997,
+              "phase_remaining_eur": 44.8603074
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Il a été enseigné : son nom n’était pas Mefivoshet, mais Ish Boshet. Pourquoi fut-il appelé Mefivoshet ? Parce qu’il embarrassait David dans les questions de halakha. C’est pourquoi David mérita que Kilav descende de lui.",
+            "explanation": "Le nom Mefivoshet est interprété comme une allusion au fait qu’il pouvait mettre David dans l’embarras en corrigeant ses décisions halakhiques. L’humilité de David lui valut d’avoir pour descendant Kilav, réputé pour sa sagesse.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi relie le nom Mefivoshet à la honte provoquée par les paroles de sa bouche : lorsque David se trompait en matière de halakha, Mefivoshet le lui signalait. Parce que David acceptait humblement d’être corrigé, il mérita que Kilav descende de lui.",
+                "refs": [
+                  "Rashi on Berakhot 4a:11:1",
+                  "Rashi on Berakhot 4a:11:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 12,
           "he": "וְאָמַר רַבִּי יוֹחָנָן: לֹא ״כִּלְאָב״ שְׁמוֹ אֶלָּא ״דָּנִיאֵל״ שְׁמוֹ, וְלָמָּה נִקְרָא שְׁמוֹ ״כִּלְאָב״ — שֶׁהָיָה מַכְלִים פְּנֵי מְפִיבֹשֶׁת בַּהֲלָכָה.",
           "en": "Rabbi Yoḥanan said: His name was not Kilav; rather, his name was Daniel, as it appears in a different list of David’s descendants. Why was he called Kilav? Because he would embarrass [<i>makhlim</i>] Mefivoshet, the teacher or authority figure [av] in matters of <i>halakha.</i>",
-          "fr": "Et Rabbi Yohanan dit : son nom n'était pas « Kileav » mais « Daniel » ; et pourquoi l'appelait-on « Kileav » ? Parce qu'il confondait (makhlim) le visage de Méfibosheth en matière de halakha.",
+          "fr": "Rabbi Yohanan dit : son nom n’était pas Kilav, mais Daniel. Pourquoi fut-il appelé Kilav ? Parce qu’il embarrassait Mefivoshet dans les questions de halakha.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:12"
+          },
+          "fr_explanation": "Kilav est identifié à Daniel, fils de David. Son nom Kilav est interprété comme indiquant qu’il était capable de répondre à Mefivoshet et de le surpasser dans les discussions halakhiques.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan dit : son nom n’était pas Kilav, mais Daniel. Pourquoi fut-il appelé Kilav ? Parce qu’il embarrassait Mefivoshet dans les questions de halakha.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Kilav est identifié à Daniel, fils de David. Son nom Kilav est interprété comme indiquant qu’il était capable de répondre à Mefivoshet et de le surpasser dans les discussions halakhiques.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi précise que ce fils de David est appelé Daniel dans le livre de Samuel et Kilav dans les Chroniques. Le nom Kilav est interprété comme indiquant qu’il mettait dans l’embarras Mefivoshet, son maître et autorité en matière de halakha.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:48.482536+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 12,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0c97e0091a90face006a68c4945664819cbc9b315441fdaae5",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1449,
+              "output": 240,
+              "total": 1689
+            },
+            "cost": {
+              "segment_eur": 0.00216675,
+              "phase_spent_eur": 0.14185934999999997,
+              "phase_remaining_eur": 44.85814065
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Rabbi Yohanan dit : son nom n’était pas Kilav, mais Daniel. Pourquoi fut-il appelé Kilav ? Parce qu’il embarrassait Mefivoshet dans les questions de halakha.",
+            "explanation": "Kilav est identifié à Daniel, fils de David. Son nom Kilav est interprété comme indiquant qu’il était capable de répondre à Mefivoshet et de le surpasser dans les discussions halakhiques.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi précise que ce fils de David est appelé Daniel dans le livre de Samuel et Kilav dans les Chroniques. Le nom Kilav est interprété comme indiquant qu’il mettait dans l’embarras Mefivoshet, son maître et autorité en matière de halakha.",
+                "refs": [
+                  "Rashi on Berakhot 4a:12:1",
+                  "Rashi on Berakhot 4a:12:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 13,
           "he": "וְעָלָיו אָמַר שְׁלֹמֹה בְּחָכְמָתוֹ ״בְּנִי אִם חָכַם לִבֶּךָ יִשְׂמַח לִבִּי גַם אָנִי״, וְאוֹמֵר: ״חֲכַם בְּנִי וְשַׂמַּח לִבִּי וְאָשִׁיבָה חֹרְפִי דָבָר״.",
           "en": "In his book of wisdom, Solomon said about this wise son: “My son, if your heart is wise, my heart will be glad, even mine” (Proverbs 23:15), as David enjoyed witnessing his son Kilav develop into a Torah luminary to the extent that Kilav was able to respond to Mefivoshet. And Solomon says about Kilav: “Be wise, my son, and make my heart glad, that I may respond to those who taunt me” (Proverbs 27:11).",
-          "fr": "Et c'est à son sujet que Salomon dit dans sa sagesse : « Mon fils, si ton cœur est sage, mon cœur à moi aussi se réjouira » ; et il est dit : « Sois sage, mon fils, et réjouis mon cœur, afin que je puisse répondre à celui qui me raille. »",
+          "fr": "À son sujet, Salomon dit dans sa sagesse : « Mon fils, si ton cœur est sage, mon cœur à moi aussi se réjouira. » Et il est dit : « Sois sage, mon fils, et réjouis mon cœur, afin que je puisse répondre à celui qui m’outrage. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:13"
+          },
+          "fr_explanation": "Ces versets sont appliqués à Kilav : sa sagesse réjouissait David et lui permettait de répondre à ceux qui auraient voulu l’humilier au moyen des erreurs relevées par Mefivoshet.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>À son sujet, Salomon dit dans sa sagesse : « Mon fils, si ton cœur est sage, mon cœur à moi aussi se réjouira. » Et il est dit : « Sois sage, mon fils, et réjouis mon cœur, afin que je puisse répondre à celui qui m’outrage. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Ces versets sont appliqués à Kilav : sa sagesse réjouissait David et lui permettait de répondre à ceux qui auraient voulu l’humilier au moyen des erreurs relevées par Mefivoshet.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:02:52.443619+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 13,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ccdb1cd8a01cd78006a68c499c5c481a381c97c59717372ef",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1365,
+              "output": 175,
+              "total": 1540
+            },
+            "cost": {
+              "segment_eur": 0.00181125,
+              "phase_spent_eur": 0.14367059999999995,
+              "phase_remaining_eur": 44.8563294
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "À son sujet, Salomon dit dans sa sagesse : « Mon fils, si ton cœur est sage, mon cœur à moi aussi se réjouira. » Et il est dit : « Sois sage, mon fils, et réjouis mon cœur, afin que je puisse répondre à celui qui m’outrage. »",
+            "explanation": "Ces versets sont appliqués à Kilav : sa sagesse réjouissait David et lui permettait de répondre à ceux qui auraient voulu l’humilier au moyen des erreurs relevées par Mefivoshet.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 14,
           "he": "וְדָוִד מִי קָרֵי לְנַפְשֵׁיהּ ״חָסִיד״? וְהָכְתִיב ״לוּלֵא הֶאֱמַנְתִּי לִרְאוֹת בְּטוּב ה׳ בְּאֶרֶץ חַיִּים״, וְתָנָא מִשְּׁמֵיהּ דְּרַבִּי יוֹסֵי: לָמָּה נָקוּד עַל ״לוּלֵא״? — אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, מוּבְטָח אֲנִי בְּךָ שֶׁאַתָּה מְשַׁלֵּם שָׂכָר טוֹב לַצַּדִּיקִים לֶעָתִיד לָבוֹא, אֲבָל אֵינִי יוֹדֵעַ אִם יֵשׁ לִי חֵלֶק בֵּינֵיהֶם אִם לָאו?!",
           "en": "With regard to David’s statement, “Keep my soul, for I am pious,” the Gemara asks: Did David call himself pious? Isn’t it written: “If I had not [<i>luleh</i>] believed to look upon the goodness of the Lord in the land of the living” (Psalms 27:13). The dots that appear over the word <i>luleh</i> in the text indicate doubt and uncertainty of his piety, and whether he was deserving of a place in the land of the living (see <i>Avot DeRabbi Natan</i> 34). In the name of Rabbi Yosei, it was taught in a <i>Tosefta</i>: Why do dots appear over the word <i>luleh</i>, as if there are some reservations? Because David said before the Holy One, Blessed be He: Master of the Universe. I have every confidence in You that You grant an excellent reward to the righteous in the World-to-Come since God’s ultimate goodness is manifest in the land of eternal life, but I still harbor uncertainty with regard to myself, and I do not know whether or not I definitely have a portion among them. In any case, apparently David was uncertain whether or not he deserved to receive a portion of God’s reward for the righteous; how, then, could he characterize himself as pious?",
-          "fr": "Et David se serait-il qualifié lui-même de « pieux » ? N'est-il pas écrit : « Si je ne croyais voir le bonheur de l'Éternel dans la terre des vivants » — et il est enseigné au nom de Rabbi Yossi : pourquoi y a-t-il des points diacritiques sur le mot « loulei » ? David dit devant le Saint béni soit-Il : Maître du monde, j'ai la certitude en Toi que Tu accordes une belle récompense aux justes dans le monde à venir, mais je ne sais pas si j'ai une part parmi eux ou non !",
+          "fr": "Mais David se qualifiait-il lui-même de pieux ? N’est-il pas écrit : « Si je n’avais pas cru voir la bonté de Hachem dans le pays des vivants » ? Il a été enseigné au nom de Rabbi Yossei : pourquoi le mot « lulei » est-il ponctué ? David dit devant le Saint, béni soit-Il : « Maître de l’Univers, j’ai confiance en Toi que Tu accordes une bonne récompense aux justes dans le monde à venir ; mais j’ignore si j’ai moi-même une part parmi eux. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:14"
+          },
+          "fr_explanation": "Le passage explique que les points au-dessus de « lulei » expriment un doute sur la certitude de David, et donc sur sa dignité à voir la bonté de Hachem. Il précise aussi que David a confiance dans la récompense des justes dans le monde à venir, tout en restant incertain pour lui-même quant à sa part parmi eux.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Mais David se qualifiait-il lui-même de pieux ? N’est-il pas écrit : « Si je n’avais pas cru voir la bonté de Hachem dans le pays des vivants » ? Il a été enseigné au nom de Rabbi Yossei : pourquoi le mot « lulei » est-il ponctué ? David dit devant le Saint, béni soit-Il : « Maître de l’Univers, j’ai confiance en Toi que Tu accordes une bonne récompense aux justes dans le monde à venir ; mais j’ignore si j’ai moi-même une part parmi eux. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage explique que les points au-dessus de « lulei » expriment un doute sur la certitude de David, et donc sur sa dignité à voir la bonté de Hachem. Il précise aussi que David a confiance dans la récompense des justes dans le monde à venir, tout en restant incertain pour lui-même quant à sa part parmi eux.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que, sans sa confiance en Hachem, David aurait déjà été détourné de Sa crainte. Les points placés sur « lulei » en atténuent cependant la portée et montrent que David n’était pas certain de mériter la bonté de Hachem. « Lulei » signifie « si ce n’était », comme dans le verset : « Si le Dieu de mon père n’avait pas été avec moi. »</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:07.978787+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 14,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0fc051007f318ab2006a68c49d819c819d8a59436cef1d274c",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1880,
+              "output": 409,
+              "total": 2289
+            },
+            "cost": {
+              "segment_eur": 0.0032505,
+              "phase_spent_eur": 0.14692109999999994,
+              "phase_remaining_eur": 44.8530789
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Mais David se qualifiait-il lui-même de pieux ? N’est-il pas écrit : « Si je n’avais pas cru voir la bonté de Hachem dans le pays des vivants » ? Il a été enseigné au nom de Rabbi Yossei : pourquoi le mot « lulei » est-il ponctué ? David dit devant le Saint, béni soit-Il : « Maître de l’Univers, j’ai confiance en Toi que Tu accordes une bonne récompense aux justes dans le monde à venir ; mais j’ignore si j’ai moi-même une part parmi eux. »",
+            "explanation": "Le passage explique que les points au-dessus de « lulei » expriment un doute sur la certitude de David, et donc sur sa dignité à voir la bonté de Hachem. Il précise aussi que David a confiance dans la récompense des justes dans le monde à venir, tout en restant incertain pour lui-même quant à sa part parmi eux.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que, sans sa confiance en Hachem, David aurait déjà été détourné de Sa crainte. Les points placés sur « lulei » en atténuent cependant la portée et montrent que David n’était pas certain de mériter la bonté de Hachem. « Lulei » signifie « si ce n’était », comme dans le verset : « Si le Dieu de mon père n’avait pas été avec moi. »",
+                "refs": [
+                  "Rashi on Berakhot 4a:14:1",
+                  "Rashi on Berakhot 4a:14:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 15,
           "he": "שֶׁמָּא יִגְרוֹם הַחֵטְא.",
           "en": "The Gemara responds: His concern does not prove anything, as King David knew that he was pious. He was simply concerned lest a transgression that he might commit in the future will cause him to lose his opportunity to look upon the goodness of the Lord in the land of the living.",
-          "fr": "De peur que la faute n'ait causé [ma disqualification].",
+          "fr": "De peur qu’une faute n’en soit la cause.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:15"
+          },
+          "fr_explanation": "La Guemara répond que son inquiétude ne prouve rien, car le roi David savait qu'il était pieux. Il craignait seulement qu'une faute qu'il pourrait commettre à l'avenir ne lui fasse perdre son droit de contempler la bonté du Seigneur dans la terre des vivants.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>De peur qu’une faute n’en soit la cause.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara répond que son inquiétude ne prouve rien, car le roi David savait qu&#x27;il était pieux. Il craignait seulement qu&#x27;une faute qu&#x27;il pourrait commettre à l&#x27;avenir ne lui fasse perdre son droit de contempler la bonté du Seigneur dans la terre des vivants.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que c&#x27;est une réponse : David est toujours tenu pour un juste, mais il hésitait à voir la bonté de Dieu parce qu&#x27;il craignait de fauter et que la faute l&#x27;empêche de voir cette bonté.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:11.850473+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 15,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_07a6a06065b11503006a68c4ac8250819ebffc9657ac24b3a1",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1278,
+              "output": 189,
+              "total": 1467
+            },
+            "cost": {
+              "segment_eur": 0.001809,
+              "phase_spent_eur": 0.14873009999999995,
+              "phase_remaining_eur": 44.8512699
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "De peur qu’une faute n’en soit la cause.",
+            "explanation": "La Guemara répond que son inquiétude ne prouve rien, car le roi David savait qu'il était pieux. Il craignait seulement qu'une faute qu'il pourrait commettre à l'avenir ne lui fasse perdre son droit de contempler la bonté du Seigneur dans la terre des vivants.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que c'est une réponse : David est toujours tenu pour un juste, mais il hésitait à voir la bonté de Dieu parce qu'il craignait de fauter et que la faute l'empêche de voir cette bonté.",
+                "refs": [
+                  "Rashi on Berakhot 4a:15:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.94,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 16,
           "he": "כִּדְרַבִּי יַעֲקֹב בַּר אִידִי, דְּרַבִּי יַעֲקֹב בַּר אִידִי רָמֵי, כְּתִיב: ״וְהִנֵּה אָנֹכִי עִמָּךְ וּשְׁמַרְתִּיךָ בְּכָל אֲשֶׁר תֵּלֵךְ״, וּכְתִיב: ״וַיִּירָא יַעֲקֹב מְאֹד״ אָמַר: שֶׁמָּא יִגְרוֹם הַחֵטְא.",
           "en": "The Gemara cites a proof that there is room for one to fear lest he commit a transgression in the future in accordance with the opinion of Rabbi Ya’akov bar Idi, as Rabbi Ya’akov bar Idi raised a contradiction between two verses. It is written that God told Jacob in his vision of the ladder: “Behold, I am with you and I guard you wherever you go” (Genesis 28:15), yet when Jacob returned to Canaan and realized that Esau was coming to greet him, it is written: “And Jacob became very afraid, and he was pained” (Genesis 32:8). Why did Jacob not rely on God’s promise? Jacob had concerns and said to himself: Lest a transgression that I might have committed after God made His promise to me will cause God to revoke His promise of protection.",
-          "fr": "Comme [l'enseigne] Rabbi Yaakov bar Idi, car Rabbi Yaakov bar Idi soulève une contradiction : il est écrit « voici, Je suis avec toi et Je te garderai partout où tu iras », et il est écrit : « Jacob eut très peur » — il dit : peut-être la faute aura-t-elle causé [un changement].",
+          "fr": "Conformément à l’enseignement de Rabbi Yaakov bar Idi, qui souleva une contradiction : il est écrit : « Voici, Je suis avec toi et Je te garderai partout où tu iras », mais il est également écrit : « Yaakov eut très peur. » Il se dit : « Peut-être une faute en sera-t-elle la cause. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:16"
+          },
+          "fr_explanation": "Yaakov avait reçu une promesse explicite de protection, mais il craignait néanmoins d’avoir commis depuis lors une faute susceptible d’empêcher son accomplissement.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Conformément à l’enseignement de Rabbi Yaakov bar Idi, qui souleva une contradiction : il est écrit : « Voici, Je suis avec toi et Je te garderai partout où tu iras », mais il est également écrit : « Yaakov eut très peur. » Il se dit : « Peut-être une faute en sera-t-elle la cause. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Yaakov avait reçu une promesse explicite de protection, mais il craignait néanmoins d’avoir commis depuis lors une faute susceptible d’empêcher son accomplissement.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Yaakov craignait qu’après la promesse il ait fauté, et que, comme l’enseigne la baraïta, le péché fasse que la promesse ne s’accomplisse pas.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:15.521385+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 16,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ca7bf300872d1ba006a68c4b06bc881a384c5e55ccb64b4f0",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1535,
+              "output": 223,
+              "total": 1758
+            },
+            "cost": {
+              "segment_eur": 0.00215475,
+              "phase_spent_eur": 0.15088484999999996,
+              "phase_remaining_eur": 44.84911515
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Conformément à l’enseignement de Rabbi Yaakov bar Idi, qui souleva une contradiction : il est écrit : « Voici, Je suis avec toi et Je te garderai partout où tu iras », mais il est également écrit : « Yaakov eut très peur. » Il se dit : « Peut-être une faute en sera-t-elle la cause. »",
+            "explanation": "Yaakov avait reçu une promesse explicite de protection, mais il craignait néanmoins d’avoir commis depuis lors une faute susceptible d’empêcher son accomplissement.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Yaakov craignait qu’après la promesse il ait fauté, et que, comme l’enseigne la baraïta, le péché fasse que la promesse ne s’accomplisse pas.",
+                "refs": [
+                  "Rashi on Berakhot 4a:16:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 17,
           "he": "כִּדְתַנְיָא ״עַד יַעֲבֹר עַמְּךָ ה׳, עַד יַעֲבֹר עַם זוּ קָנִיתָ״.",
           "en": "Apparently, at times, transgression does cause God’s promise to go unfulfilled, as it was taught explicitly in a <i>baraita</i> with regard to the ostensibly redundant language in a verse in the Song of the Sea: “Until Your people will cross, Lord, until the people You have acquired will cross. You bring them in and plant them in the mountain of Your inheritance, the place, Lord, which You made for Your dwelling” (Exodus 15:16–17).",
-          "fr": "Comme il est enseigné dans une baraita : « jusqu'à ce que Ton peuple passe, ô Éternel, jusqu'à ce que passe ce peuple que Tu as acquis. »",
+          "fr": "Comme il a été enseigné dans une baraïta : « Jusqu’à ce que Ton peuple passe, Hachem, jusqu’à ce que passe le peuple que Tu as acquis. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:17"
+          },
+          "fr_explanation": "La baraïta étudie la répétition du verbe « passer » dans le Cantique de la mer. Les deux formulations seront interprétées comme deux entrées distinctes en Eretz Israël.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Comme il a été enseigné dans une baraïta : « Jusqu’à ce que Ton peuple passe, Hachem, jusqu’à ce que passe le peuple que Tu as acquis. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La baraïta étudie la répétition du verbe « passer » dans le Cantique de la mer. Les deux formulations seront interprétées comme deux entrées distinctes en Eretz Israël.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:18.278011+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 17,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f0c220814f1a5c0006a68c4b46b08819189af49fa7d73f654",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1274,
+              "output": 115,
+              "total": 1389
+            },
+            "cost": {
+              "segment_eur": 0.001473,
+              "phase_spent_eur": 0.15235784999999996,
+              "phase_remaining_eur": 44.84764215
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Comme il a été enseigné dans une baraïta : « Jusqu’à ce que Ton peuple passe, Hachem, jusqu’à ce que passe le peuple que Tu as acquis. »",
+            "explanation": "La baraïta étudie la répétition du verbe « passer » dans le Cantique de la mer. Les deux formulations seront interprétées comme deux entrées distinctes en Eretz Israël.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 18,
           "he": "״עַד יַעֲבֹר עַמְּךָ ה׳״ — זוֹ בִּיאָה רִאשׁוֹנָה, ״עַד יַעֲבֹר עַם זוּ קָנִיתָ״ — זוֹ בִּיאָה שְׁנִיָּה. מִכָּאן אָמְרוּ חֲכָמִים: רְאוּיִם הָיוּ יִשְׂרָאֵל לֵיעָשׂוֹת לָהֶם נֵס בִּימֵי עֶזְרָא כְּדֶרֶךְ שֶׁנַּעֲשָׂה לָהֶם בִּימֵי יְהוֹשֻׁעַ בִּן נוּן. אֶלָּא שֶׁגָּרַם הַחֵטְא.",
           "en": "The Gemara interprets homiletically that until Your people will cross refers to the first entry into Eretz Yisrael during the time of Joshua, while until the people You have acquired pass over refers to the second entry following the exile in Babylonia. Based on the juxtaposition of these two entries in this single verse, the Sages said: Israel was worthy of having a miracle performed on its behalf in the time of Ezra the scribe, just as one was performed on their behalf in the time of Joshua bin Nun. However, transgression caused the absence of a miracle.",
-          "fr": "« Jusqu'à ce que Ton peuple passe, ô Éternel » — ceci désigne la première entrée [en Terre d'Israël] ; « jusqu'à ce que passe ce peuple que Tu as acquis » — ceci désigne la seconde entrée. De là les Sages ont dit : Israël était digne qu'un miracle lui fût accompli au temps d'Ezra, comme cela lui fut accompli au temps de Yehoshoua ben Noun — mais la faute en fut la cause [de l'absence du miracle].",
+          "fr": "« Jusqu’à ce que Ton peuple passe, Hachem » désigne la première entrée ; « jusqu’à ce que passe le peuple que Tu as acquis » désigne la deuxième entrée. De là, les Sages ont dit : Israël était digne qu’un miracle soit accompli en sa faveur aux jours d’Ezra, comme il en fut accompli un en sa faveur aux jours de Yehoshoua ben Noun ; mais la faute l’en empêcha.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:18"
+          },
+          "fr_explanation": "Le texte explique homilétiquement que les deux formulations du verset renvoient à deux entrées en Eretz Israël : la première sous Yehoshoua, la seconde après l’exil babylonien, à l’époque d’Ezra. Il ajoute que, par la juxtaposition de ces deux passages, les Sages en ont déduit qu’Israël aurait dû bénéficier d’un miracle semblable à celui de l’époque de Yehoshoua, mais que la faute a empêché ce miracle.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>« Jusqu’à ce que Ton peuple passe, Hachem » désigne la première entrée ; « jusqu’à ce que passe le peuple que Tu as acquis » désigne la deuxième entrée. De là, les Sages ont dit : Israël était digne qu’un miracle soit accompli en sa faveur aux jours d’Ezra, comme il en fut accompli un en sa faveur aux jours de Yehoshoua ben Noun ; mais la faute l’en empêcha.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le texte explique homilétiquement que les deux formulations du verset renvoient à deux entrées en Eretz Israël : la première sous Yehoshoua, la seconde après l’exil babylonien, à l’époque d’Ezra. Il ajoute que, par la juxtaposition de ces deux passages, les Sages en ont déduit qu’Israël aurait dû bénéficier d’un miracle semblable à celui de l’époque de Yehoshoua, mais que la faute a empêché ce miracle.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">La première venue désigne l’entrée faite aux jours de Yehoshoua. La deuxième venue désigne la montée depuis l’exil de Babylone aux jours d’Ezra. « Ils étaient dignes d’un miracle » signifie qu’ils auraient pu entrer avec force et sans contrainte, mais la faute a empêché cela ; ils ne sont allés qu’avec l’autorisation de Cyrus et furent soumis aux rois de Perse.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:23.480281+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 18,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_039eeb9904b65888006a68c4b6f66c819fab04802187a19344",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1647,
+              "output": 357,
+              "total": 2004
+            },
+            "cost": {
+              "segment_eur": 0.00284175,
+              "phase_spent_eur": 0.15519959999999997,
+              "phase_remaining_eur": 44.8448004
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "« Jusqu’à ce que Ton peuple passe, Hachem » désigne la première entrée ; « jusqu’à ce que passe le peuple que Tu as acquis » désigne la deuxième entrée. De là, les Sages ont dit : Israël était digne qu’un miracle soit accompli en sa faveur aux jours d’Ezra, comme il en fut accompli un en sa faveur aux jours de Yehoshoua ben Noun ; mais la faute l’en empêcha.",
+            "explanation": "Le texte explique homilétiquement que les deux formulations du verset renvoient à deux entrées en Eretz Israël : la première sous Yehoshoua, la seconde après l’exil babylonien, à l’époque d’Ezra. Il ajoute que, par la juxtaposition de ces deux passages, les Sages en ont déduit qu’Israël aurait dû bénéficier d’un miracle semblable à celui de l’époque de Yehoshoua, mais que la faute a empêché ce miracle.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "La première venue désigne l’entrée faite aux jours de Yehoshoua. La deuxième venue désigne la montée depuis l’exil de Babylone aux jours d’Ezra. « Ils étaient dignes d’un miracle » signifie qu’ils auraient pu entrer avec force et sans contrainte, mais la faute a empêché cela ; ils ne sont allés qu’avec l’autorisation de Cyrus et furent soumis aux rois de Perse.",
+                "refs": [
+                  "Rashi on Berakhot 4a:18:1",
+                  "Rashi on Berakhot 4a:18:2",
+                  "Rashi on Berakhot 4a:18:3",
+                  "Rashi on Berakhot 4a:18:4"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 19,
           "he": "וַחֲכָמִים אוֹמְרִים עַד חֲצוֹת: חֲכָמִים כְּמַאן סְבִירָא לְהוּ, אִי כְּרַבִּי אֱלִיעֶזֶר סְבִירָא לְהוּ — לֵימְרוּ כְּרַבִּי אֱלִיעֶזֶר.",
           "en": "The Gemara returns to explain what we learned in the mishna: And the Rabbis say: The time for the recitation of the evening <i>Shema</i> is until midnight. The Gemara asks: In accordance with whose opinion do they hold in explaining the verse: “When you lie down”? If they explain this verse in accordance with the opinion of Rabbi Eliezer, who says that “when you lie down” is the time when people customarily go to sleep, then let the Rabbis also say that the time for the recitation of <i>Shema</i> extends, in accordance with the opinion of Rabbi Eliezer, until the end of the first watch.",
-          "fr": "Et les Sages disent : jusqu'à minuit. Les Sages, de quel avis s'inspirent-ils ? S'ils sont de l'avis de Rabbi Eliezer, qu'ils disent comme Rabbi Eliezer !",
+          "fr": "Et les Sages disent : jusqu’à minuit. Quelle opinion les Sages adoptent-ils ? S’ils adoptent l’opinion de Rabbi Éliézer, qu’ils donnent donc la même limite que Rabbi Éliézer.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 4a:19"
+          },
+          "fr_explanation": "La Guemara revient expliquer ce qui a été appris dans la michna. Elle demande selon quelle opinion les Sages interprètent le verset « quand tu te couches » ; s'ils le comprennent comme Rabbi Eliezer, alors ils devraient aussi dire que le temps de la récitation du Shema va, selon Rabbi Eliezer, jusqu'à la fin de la première garde.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et les Sages disent : jusqu’à minuit. Quelle opinion les Sages adoptent-ils ? S’ils adoptent l’opinion de Rabbi Éliézer, qu’ils donnent donc la même limite que Rabbi Éliézer.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La Guemara revient expliquer ce qui a été appris dans la michna. Elle demande selon quelle opinion les Sages interprètent le verset « quand tu te couches » ; s&#x27;ils le comprennent comme Rabbi Eliezer, alors ils devraient aussi dire que le temps de la récitation du Shema va, selon Rabbi Eliezer, jusqu&#x27;à la fin de la première garde.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Les Sages, selon quelle signification de « quand tu te couches » dans la Torah comprennent-ils ce verset ? S&#x27;ils suivent Rabbi Eliezer, qui dit que cela vaut pendant tout le temps où les gens vont se coucher, les uns plus tôt et les autres plus tard, alors ils devraient dire, comme Rabbi Eliezer, que c&#x27;est jusqu&#x27;à la fin de la première garde, car celui qui veut dormir s&#x27;est alors déjà couché et endormi.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T15:03:27.237493+00:00",
+            "masechet": "berakhot",
+            "daf": "4a",
+            "segment_number": 19,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0b8b39076dbfd106006a68c4bc160881a18eefa4cc4a29a56f",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1516,
+              "output": 250,
+              "total": 1766
+            },
+            "cost": {
+              "segment_eur": 0.002262,
+              "phase_spent_eur": 0.15746159999999998,
+              "phase_remaining_eur": 44.8425384
+            },
+            "quality": {
+              "status": "reviewed",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false,
+              "human_reviewed": true
+            }
+          },
+          "study": {
+            "translation": "Et les Sages disent : jusqu’à minuit. Quelle opinion les Sages adoptent-ils ? S’ils adoptent l’opinion de Rabbi Éliézer, qu’ils donnent donc la même limite que Rabbi Éliézer.",
+            "explanation": "La Guemara revient expliquer ce qui a été appris dans la michna. Elle demande selon quelle opinion les Sages interprètent le verset « quand tu te couches » ; s'ils le comprennent comme Rabbi Eliezer, alors ils devraient aussi dire que le temps de la récitation du Shema va, selon Rabbi Eliezer, jusqu'à la fin de la première garde.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Les Sages, selon quelle signification de « quand tu te couches » dans la Torah comprennent-ils ce verset ? S'ils suivent Rabbi Eliezer, qui dit que cela vaut pendant tout le temps où les gens vont se coucher, les uns plus tôt et les autres plus tard, alors ils devraient dire, comme Rabbi Eliezer, que c'est jusqu'à la fin de la première garde, car celui qui veut dormir s'est alors déjà couché et endormi.",
+                "refs": [
+                  "Rashi on Berakhot 4a:19:1",
+                  "Rashi on Berakhot 4a:19:2",
+                  "Rashi on Berakhot 4a:19:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         }
       ],
@@ -39116,7 +40528,14 @@
           "en": "",
           "fr": "Selon qui les Sages tiennent-ils leur opinion ? C'est pour cette raison que la question est posée, car il n'est pas possible de dire qu'il y aurait une troisième position controversée. Si leur opinion est comme celle de Rabbi Elazar, qu'ils disent la halakha. Ce n'est pas à prendre à la lettre 'qu'ils disent la halakha', mais cela signifie : qu'ils s'expriment comme Rabbi Elazar."
         }
-      ]
+      ],
+      "fr_validation": {
+        "status": "reviewed",
+        "segments_reviewed": 19,
+        "translation_reviewed": true,
+        "explanations_reviewed": true,
+        "commentaries_reviewed": true
+      }
     },
     "4b": {
       "segments": [
