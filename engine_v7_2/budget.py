@@ -18,6 +18,18 @@ MODEL_PRICES_EUR_PER_MILLION = {
         "input": 0.25,
         "output": 2.00,
     },
+    "gpt-5.5": {
+        "input": 5.00,
+        "output": 30.00,
+    },
+    "gpt-5.4-mini": {
+        "input": 0.75,
+        "output": 4.50,
+    },
+    "gpt-5.4-nano": {
+        "input": 0.20,
+        "output": 1.25,
+    },
 }
 
 

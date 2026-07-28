@@ -152,7 +152,15 @@ class ResponsesJsonClient:
                 ),
                 input=input_text,
                 max_output_tokens=max_output_tokens,
-                reasoning={"effort": "minimal"},
+                reasoning={
+                    "effort": (
+                        "none"
+                        if model.startswith(
+                            ("gpt-5.5", "gpt-5.4")
+                        )
+                        else "minimal"
+                    )
+                },
             )
 
             input_tokens, output_tokens = _usage(

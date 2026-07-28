@@ -9,13 +9,25 @@ from .english_source import EnglishSegmentSource
 
 SYSTEM_INSTRUCTIONS = """Tu es le traducteur éditorial de TALMUD AI.
 
-Tu produis une traduction française fidèle, naturelle et précise du Talmud
-à partir de la traduction anglaise alignée sur le segment hébreu/araméen.
+Tu dois distinguer strictement :
+1. la traduction française exacte du segment hébreu/araméen ;
+2. l'explication française apportée par l'édition anglaise alignée ;
+3. les éclairages séparés de Rachi et de Tossefot.
 
 RÈGLES ABSOLUES
-- Traduis uniquement le champ aligned_english fourni.
-- aligned_english constitue la source déterminante de la traduction française.
-- Ne réinterprète pas le texte talmudique principal à partir d'une autre source.
+- Le champ hebrew_aramaic est la source déterminante de translation_fr.
+- Traduis dans translation_fr uniquement les mots et propositions réellement
+  présents dans hebrew_aramaic.
+- N'ajoute dans translation_fr aucune introduction, conclusion, référence,
+  justification ou information absente de hebrew_aramaic.
+- Le champ aligned_english sert uniquement à comprendre les ambiguïtés et à
+  produire explanation_fr.
+- Les développements explicatifs présents seulement dans aligned_english
+  doivent aller dans explanation_fr, jamais dans translation_fr.
+- explanation_fr doit expliquer le passage sans se présenter comme sa
+  traduction et sans inventer d'information supplémentaire.
+- Si aligned_english n'apporte aucune explication distincte,
+  explanation_fr peut être une chaîne vide.
 - Ne complète jamais le passage avec un autre segment.
 - Ne conserve aucune balise HTML ou Markdown.
 - Ne conserve aucune phrase en anglais.
@@ -25,6 +37,10 @@ RÈGLES ABSOLUES
 - Rends baraita par « baraïta ».
 - Rends ashmora par « garde ».
 - N'utilise jamais « ashmora », « ashmoura » ou « veille ».
+- Rends כֹּהֵן par « Cohen ».
+- Rends כֹּהֲנִים par « Cohanim ».
+- Ne traduis jamais Cohen ou Cohanim par « prêtre », « prêtres »,
+  « sacrificateur » ou « sacrificateurs ».
 - Écris toujours « Eretz Israël », jamais « Eretz Yisrael »,
   « Eretz Yisra'el » ou « Terre d'Israël ».
 - Dans ce contexte, actual setting of the sun signifie
@@ -35,8 +51,8 @@ RÈGLES ABSOLUES
 - Ne traduis jamais the day clears away par « le jour se clarifie ».
 - Évite les calques littéraux de l'anglais lorsqu'ils ne sont pas naturels
   en français.
-- Conserve exactement les affirmations, les négations et les verbes du texte
-  anglais aligné.
+- Conserve exactement les affirmations, les négations et les verbes du
+  segment hébreu/araméen dans translation_fr.
 - Ne transforme jamais « ne pas entendre » en « ne pas accepter ».
 - Traduis did not hear par « n'avaient pas entendu ».
 - Traduis setting of its light par « disparition de sa lumière ».
@@ -63,7 +79,8 @@ RÈGLES ABSOLUES
 
 FORMAT JSON
 {
-  "translation_fr": "traduction française du segment talmudique",
+  "translation_fr": "traduction française exacte du segment hébreu/araméen",
+  "explanation_fr": "explication française distincte ou chaîne vide",
   "commentaries": {
     "rachi": {
       "summary": "résumé français fidèle"
@@ -103,7 +120,9 @@ def build_aligned_input(
     """
     Construit une entrée compacte et strictement alignée.
 
-    Le texte anglais sert à produire la traduction française principale.
+    Le texte hébreu/araméen produit la traduction française principale.
+    Le texte anglais sert uniquement à produire l'explication et à résoudre
+    les ambiguïtés.
     Rachi et Tossefot ne sont ajoutés que lorsque leur base_ref correspond
     exactement au segment traité.
     """
@@ -117,6 +136,7 @@ def build_aligned_input(
     payload = {
         "reference": source.base_ref,
         "segment_number": source.segment_number,
+        "hebrew_aramaic": source.hebrew,
         "aligned_english": source.english,
         "commentaries": {},
     }
@@ -135,7 +155,10 @@ def build_aligned_input(
             separators=(",", ":"),
         )
         + "\n\nINSTRUCTION FINALE\n"
-        "Traduis aligned_english en français. "
+        "Traduis exactement hebrew_aramaic dans translation_fr. "
+        "Place dans explanation_fr les développements utiles présents "
+        "seulement dans aligned_english. "
+        "Traduis Cohen par Cohen et Cohanim par Cohanim. "
         "Résume uniquement les commentaires présents. "
         "Retourne exactement le JSON demandé."
     )

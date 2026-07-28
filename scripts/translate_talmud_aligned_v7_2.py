@@ -115,6 +115,15 @@ def build_parser() -> argparse.ArgumentParser:
         help="Remplace une traduction française existante.",
     )
     parser.add_argument(
+        "--exact-only",
+        action="store_true",
+        help=(
+            "Ajoute uniquement la traduction exacte de "
+            "l’hébreu et conserve l’explication ainsi que "
+            "les méfarchim déjà présents."
+        ),
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Contrôle les sources sans appel API ni écriture.",
@@ -431,6 +440,7 @@ def main() -> int:
             run = translator.translate(
                 source,
                 commentaries,
+                exact_only=args.exact_only,
             )
 
         except BudgetError as exc:
@@ -507,7 +517,11 @@ def main() -> int:
                 f"{source.daf}:{source.segment_number}"
             ),
             hebrew=source.hebrew,
-            english=source.english,
+            english=(
+                ""
+                if args.exact_only
+                else source.english
+            ),
             french=run.translation_fr,
             commentaries=run.commentaries,
             confidence=run.confidence,
@@ -521,6 +535,7 @@ def main() -> int:
             run,
             model=selected_model,
             cost=cost_payload,
+            preserve_existing_study=args.exact_only,
         )
 
         segment["fr_editorial"]["quality"] = {
