@@ -50762,240 +50762,2036 @@
           "id": 1,
           "he": "אִם תַּלְמִיד חָכָם הוּא — אֵין צָרִיךְ. אָמַר אַבָּיֵי: אַף תַּלְמִיד חָכָם מִיבְּעֵי לֵיהּ לְמֵימַר חַד פְּסוּקָא דְרַחֲמֵי, כְּגוֹן: ״בְּיָדְךָ אַפְקִיד רוּחִי, פָּדִיתָה אוֹתִי ה׳ אֵל אֱמֶת״.",
           "en": "If one is a Torah scholar, he need not recite <i>Shema</i> on his bed since he is always engaged in the study of Torah and will likely fall asleep engrossed in matters of Torah. Abaye said: Even a Torah scholar must recite at least one verse of prayer, such as: “Into Your hand I trust my spirit; You have redeemed me, Lord, God of truth” (Psalms 31:6).",
-          "fr": "Si c'est un disciple des sages — ce n'est pas nécessaire. Abayé dit : même un disciple des sages doit réciter un verset de miséricorde, par exemple : « Entre tes mains je remets mon souffle, Tu m'as racheté, ô Éternel, Dieu de vérité. »",
+          "fr": "S’il est un talmid hakham, cela n’est pas nécessaire. Abaye dit : même un talmid hakham doit réciter au moins un verset de supplication, par exemple : « Entre Tes mains je remets mon esprit ; Tu m’as délivré, Hachem, Dieu de vérité. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:1"
+          },
+          "fr_explanation": "Un talmid hakham, constamment occupé par l’étude de la Torah, n’est pas tenu de réciter tout le Shema au moment de se coucher. Abaye exige néanmoins qu’il récite au moins un verset de supplication.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>S’il est un talmid hakham, cela n’est pas nécessaire. Abaye dit : même un talmid hakham doit réciter au moins un verset de supplication, par exemple : « Entre Tes mains je remets mon esprit ; Tu m’as délivré, Hachem, Dieu de vérité. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Un talmid hakham, constamment occupé par l’étude de la Torah, n’est pas tenu de réciter tout le Shema au moment de se coucher. Abaye exige néanmoins qu’il récite au moins un verset de supplication.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique qu’un talmid hakham révise constamment son étude ; cette récitation habituelle lui suffit.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:20:44.678682+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 1,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d6ace45752a70b8006a68d6da1acc819e86bd901135e95a58",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1438,
+              "output": 205,
+              "total": 1643
+            },
+            "cost": {
+              "segment_eur": 0.002001,
+              "phase_spent_eur": 0.2162720999999999,
+              "phase_remaining_eur": 44.7837279
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction française contient du texte hébreu.",
+                "Segment sélectionné dans l’échantillon de contrôle."
+              ],
+              "sample_for_review": true
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.280958+00:00"
+          },
+          "study": {
+            "translation": "S’il est un talmid hakham, cela n’est pas nécessaire. Abaye dit : même un talmid hakham doit réciter au moins un verset de supplication, par exemple : « Entre Tes mains je remets mon esprit ; Tu m’as délivré, Hachem, Dieu de vérité. »",
+            "explanation": "Un talmid hakham, constamment occupé par l’étude de la Torah, n’est pas tenu de réciter tout le Shema au moment de se coucher. Abaye exige néanmoins qu’il récite au moins un verset de supplication.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique qu’un talmid hakham révise constamment son étude ; cette récitation habituelle lui suffit.",
+                "refs": [
+                  "Rashi on Berakhot 5a:1:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 2,
           "he": "אָמַר רַבִּי לֵוִי בַּר חָמָא, אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: לְעוֹלָם יַרְגִּיז אָדָם יֵצֶר טוֹב עַל יֵצֶר הָרַע, שֶׁנֶּאֱמַר: ״רִגְזוּ וְאַל תֶּחֱטָאוּ״ אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יַעֲסוֹק בַּתּוֹרָה, שֶׁנֶּאֱמַר: ״אִמְרוּ בִלְבַבְכֶם״. אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יִקְרָא קְרִיאַת שְׁמַע, שֶׁנֶּאֱמַר: ״עַל מִשְׁכַּבְכֶם״. אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יִזְכּוֹר לוֹ יוֹם הַמִּיתָה, שֶׁנֶּאֱמַר: ״וְדֹמּוּ סֶלָה״.",
           "en": "Incidental to the verse, “Tremble, and do not sin,” the Gemara mentions that Rabbi Levi bar Ḥama said that Rabbi Shimon ben Lakish said: One should always incite his good inclination against his evil inclination, i.e., that one must constantly struggle so that his evil inclination does not lead him to transgression, as it is stated: \"Tremble, and do not sin.\"<br>If one succeeds and subdues his evil inclination, excellent, but if he does not succeed in subduing it, he should study Torah, as alluded to in the verse: “Say to your heart.” <br>If he subdues his evil inclination, excellent; if not, he should recite <i>Shema</i>, which contains the acceptance of the yoke of God, and the concept of reward and punishment, as it is stated in the verse: “Upon your bed,” which alludes to <i>Shema</i>, where it says: “When you lie down.” <br>If he subdues his evil inclination, excellent; if not, he should remind himself of the day of death, whose silence is alluded to in the continuation of the verse: “And be still, Selah.”",
-          "fr": "Rabbi Lévi bar Hama dit au nom de Rabbi Chimon ben Lakish : Un homme doit toujours exciter le penchant au bien contre le penchant au mal, comme il est dit : « Frémissez et ne péchez pas. » S'il le vainc — tant mieux, sinon — qu'il s'occupe de la Torah, comme il est dit : « Dites-le dans vos cœurs. » S'il le vainc — tant mieux, sinon — qu'il récite la kriat shema, comme il est dit : « Sur vos couches. » S'il le vainc — tant mieux, sinon — qu'il se rappelle le jour de la mort, comme il est dit : « Et demeurez en silence. Sela. »",
+          "fr": "Rabbi Lévi bar Hama dit au nom de Rabbi Shimon ben Lakish : l’homme doit toujours faire lutter son bon penchant contre son mauvais penchant, comme il est dit : « Tremblez et ne péchez pas. » S’il le vainc, tant mieux ; sinon, qu’il étudie la Torah, comme il est dit : « Parlez en votre cœur. » S’il le vainc, tant mieux ; sinon, qu’il récite le Shema, comme il est dit : « Sur votre couche. » S’il le vainc, tant mieux ; sinon, qu’il se rappelle le jour de la mort, comme il est dit : « Et gardez le silence, à jamais. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:2"
+          },
+          "fr_explanation": "Le passage développe l’idée qu’il faut lutter continuellement contre le mauvais penchant. À défaut d’y parvenir par la Torah, on lit le Shema, qui exprime l’acceptation du joug de Dieu et les notions de récompense et de punition ; à défaut encore, on se remémore le jour de la mort, suggéré par la fin du verset.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Lévi bar Hama dit au nom de Rabbi Shimon ben Lakish : l’homme doit toujours faire lutter son bon penchant contre son mauvais penchant, comme il est dit : « Tremblez et ne péchez pas. » S’il le vainc, tant mieux ; sinon, qu’il étudie la Torah, comme il est dit : « Parlez en votre cœur. » S’il le vainc, tant mieux ; sinon, qu’il récite le Shema, comme il est dit : « Sur votre couche. » S’il le vainc, tant mieux ; sinon, qu’il se rappelle le jour de la mort, comme il est dit : « Et gardez le silence, à jamais. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage développe l’idée qu’il faut lutter continuellement contre le mauvais penchant. À défaut d’y parvenir par la Torah, on lit le Shema, qui exprime l’acceptation du joug de Dieu et les notions de récompense et de punition ; à défaut encore, on se remémore le jour de la mort, suggéré par la fin du verset.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que faire lutter le bon penchant signifie mener la guerre contre le mauvais penchant. « Gardez le silence, à jamais » désigne le jour de la mort, marqué par un silence définitif.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:20:49.262332+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 2,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_06853f3aabd35b13006a68d6dde6ac8191a289ed89846dfc23",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1880,
+              "output": 329,
+              "total": 2209
+            },
+            "cost": {
+              "segment_eur": 0.0028905,
+              "phase_spent_eur": 0.2191625999999999,
+              "phase_remaining_eur": 44.7808374
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281045+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Lévi bar Hama dit au nom de Rabbi Shimon ben Lakish : l’homme doit toujours faire lutter son bon penchant contre son mauvais penchant, comme il est dit : « Tremblez et ne péchez pas. » S’il le vainc, tant mieux ; sinon, qu’il étudie la Torah, comme il est dit : « Parlez en votre cœur. » S’il le vainc, tant mieux ; sinon, qu’il récite le Shema, comme il est dit : « Sur votre couche. » S’il le vainc, tant mieux ; sinon, qu’il se rappelle le jour de la mort, comme il est dit : « Et gardez le silence, à jamais. »",
+            "explanation": "Le passage développe l’idée qu’il faut lutter continuellement contre le mauvais penchant. À défaut d’y parvenir par la Torah, on lit le Shema, qui exprime l’acceptation du joug de Dieu et les notions de récompense et de punition ; à défaut encore, on se remémore le jour de la mort, suggéré par la fin du verset.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que faire lutter le bon penchant signifie mener la guerre contre le mauvais penchant. « Gardez le silence, à jamais » désigne le jour de la mort, marqué par un silence définitif.",
+                "refs": [
+                  "Rashi on Berakhot 5a:2:1",
+                  "Rashi on Berakhot 5a:2:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 3,
           "he": "וְאָמַר רַבִּי לֵוִי בַּר חָמָא, אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, מַאי דִּכְתִיב ״וְאֶתְּנָה לְךָ אֶת לֻחֹת הָאֶבֶן וְהַתּוֹרָה וְהַמִּצְוָה אֲשֶׁר כָּתַבְתִּי לְהוֹרֹתָם״. ״לֻחֹת״ — אֵלּוּ עֲשֶׂרֶת הַדִּבְּרוֹת, ״תּוֹרָה״ — זֶה מִקְרָא, ״וְהַמִּצְוָה״ — זוֹ מִשְׁנָה, ״אֲשֶׁר כָּתַבְתִּי״ — אֵלּוּ נְבִיאִים וּכְתוּבִים, ״לְהוֹרוֹתָם״ — זֶה תַּלְמוּד, מְלַמֵּד שֶׁכּוּלָּם נִתְּנוּ לְמֹשֶׁה מִסִּינַי.",
           "en": "And Rabbi Levi bar Ḥama said that Rabbi Shimon ben Lakish said: God said to Moses, “Ascend to Me on the mountain and be there, and I will give you the stone tablets and the Torah and the mitzva that I have written that you may teach them” (Exodus 24:12), meaning that God revealed to Moses not only the Written Torah, but all of Torah, as it would be transmitted through the generations. <br>The “tablets” are the ten commandments that were written on the tablets of the Covenant, <br>the “Torah” is the five books of Moses. <br>The “mitzva” is the Mishna, which includes explanations for the mitzvot and how they are to be performed. <br>“That I have written” refers to the Prophets and Writings, written with divine inspiration. <br>“That you may teach them” refers to the Talmud, which explains the Mishna. <br>These explanations are the foundation for the rulings of practical <i>halakha</i>. This verse teaches that all aspects of Torah were given to Moses from Sinai.",
-          "fr": "Et Rabbi Lévi bar Hama dit au nom de Rabbi Chimon ben Lakish : Que signifie ce qui est écrit : « Je te donnerai les tables de pierre, la Torah et le commandement que j'ai écrits pour les enseigner » ? « Tables » — ce sont les Dix Paroles ; « Torah » — c'est l'Écriture ; « et le commandement » — c'est la Michna ; « que j'ai écrits » — ce sont les Prophètes et les Hagiographes ; « pour les enseigner » — c'est le Talmud. Cela enseigne que tous ont été donnés à Moïse au Sinaï.",
+          "fr": "Rabbi Lévi bar Hama dit encore au nom de Rabbi Shimon ben Lakish : que signifie le verset : « Je te donnerai les tables de pierre, la Torah et le commandement que J’ai écrits pour les instruire » ? « Les tables », ce sont les Dix Paroles ; « la Torah », c’est le Miqra ; « le commandement », c’est la Michna ; « que J’ai écrits », ce sont les Prophètes et les Écrits ; « pour les instruire », c’est le Talmud. Cela enseigne que tous furent donnés à Moïse au Sinaï.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:3"
+          },
+          "fr_explanation": "L’édition anglaise précise que le verset est compris comme incluant non seulement la Torah écrite, mais tout l’ensemble de la Torah transmis à travers les générations. Elle détaille aussi que la « mitsva » renvoie à la Michna avec l’explication des commandements, que « que J’ai écrite » vise les Prophètes et les Écrits inspirés, et que « pour les leur enseigner » vise le Talmud qui explique la Michna.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Lévi bar Hama dit encore au nom de Rabbi Shimon ben Lakish : que signifie le verset : « Je te donnerai les tables de pierre, la Torah et le commandement que J’ai écrits pour les instruire » ? « Les tables », ce sont les Dix Paroles ; « la Torah », c’est le Miqra ; « le commandement », c’est la Michna ; « que J’ai écrits », ce sont les Prophètes et les Écrits ; « pour les instruire », c’est le Talmud. Cela enseigne que tous furent donnés à Moïse au Sinaï.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’édition anglaise précise que le verset est compris comme incluant non seulement la Torah écrite, mais tout l’ensemble de la Torah transmis à travers les générations. Elle détaille aussi que la « mitsva » renvoie à la Michna avec l’explication des commandements, que « que J’ai écrite » vise les Prophètes et les Écrits inspirés, et que « pour les leur enseigner » vise le Talmud qui explique la Michna.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« C’est le miqra » : le Houmash, dont la lecture dans la Torah est une mitsva. « C’est la michna » : il faut s’occuper de la Michna. « C’est la guemara » : c’est le raisonnement sur le sens des michnayot, d’où sort la décision halakhique ; mais ceux qui tranchent directement à partir de la Michna sont appelés destructeurs du monde, comme il est dit dans le traité Sotah.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:20:58.994642+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 3,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_05faae3a0f6288fc006a68d6e1f94c81a2b654634c07644173",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1937,
+              "output": 411,
+              "total": 2348
+            },
+            "cost": {
+              "segment_eur": 0.00330225,
+              "phase_spent_eur": 0.2224648499999999,
+              "phase_remaining_eur": 44.77753515
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction française contient du texte hébreu."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281077+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Lévi bar Hama dit encore au nom de Rabbi Shimon ben Lakish : que signifie le verset : « Je te donnerai les tables de pierre, la Torah et le commandement que J’ai écrits pour les instruire » ? « Les tables », ce sont les Dix Paroles ; « la Torah », c’est le Miqra ; « le commandement », c’est la Michna ; « que J’ai écrits », ce sont les Prophètes et les Écrits ; « pour les instruire », c’est le Talmud. Cela enseigne que tous furent donnés à Moïse au Sinaï.",
+            "explanation": "L’édition anglaise précise que le verset est compris comme incluant non seulement la Torah écrite, mais tout l’ensemble de la Torah transmis à travers les générations. Elle détaille aussi que la « mitsva » renvoie à la Michna avec l’explication des commandements, que « que J’ai écrite » vise les Prophètes et les Écrits inspirés, et que « pour les leur enseigner » vise le Talmud qui explique la Michna.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« C’est le miqra » : le Houmash, dont la lecture dans la Torah est une mitsva. « C’est la michna » : il faut s’occuper de la Michna. « C’est la guemara » : c’est le raisonnement sur le sens des michnayot, d’où sort la décision halakhique ; mais ceux qui tranchent directement à partir de la Michna sont appelés destructeurs du monde, comme il est dit dans le traité Sotah.",
+                "refs": [
+                  "Rashi on Berakhot 5a:3:1",
+                  "Rashi on Berakhot 5a:3:2",
+                  "Rashi on Berakhot 5a:3:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 4,
           "he": "אָמַר רַבִּי יִצְחָק: כׇּל הַקּוֹרֵא קְרִיאַת שְׁמַע עַל מִטָּתוֹ, כְּאִלּוּ אוֹחֵז חֶרֶב שֶׁל שְׁתֵּי פִיּוֹת בְּיָדוֹ. שֶׁנֶּאֱמַר: ״רוֹמְמוֹת אֵל בִּגְרוֹנָם וְחֶרֶב פִּיפִיּוֹת בְּיָדָם״, מַאי מַשְׁמַע? אָמַר מָר זוּטְרָא וְאִיתֵּימָא רַב אָשֵׁי: מֵרֵישָׁא דְעִנְיָנָא, דִּכְתִיב: ״יַעְלְזוּ חֲסִידִים בְּכָבוֹד יְרַנְּנוּ עַל מִשְׁכְּבוֹתָם״. וּכְתִיב בָּתְרֵיהּ: ״רוֹמְמוֹת אֵל בִּגְרוֹנָם וְחֶרֶב פִּיפִיּוֹת בְּיָדָם״.",
           "en": "The Gemara continues its treatment of the recitation of <i>Shema</i> upon one’s bed. Rabbi Yitzḥak said: Anyone who recites <i>Shema</i> on his bed, it is as if he holds a double-edged sword, guarding him from all evil, as it is stated: “High praises of God in their mouths, and a double-edged sword in their hands” (Psalms 149:6). The Gemara asks: From where is it inferred that this verse from Psalms refers to the recitation of <i>Shema</i>? Mar Zutra, and some say Rav Ashi, said: We derive it from the preceding verse, as it is written: “Let the pious exult in glory; let them joyously sing upon their beds.” The praise of God from one’s bed is the recitation of <i>Shema</i>. And it is written thereafter: “High praises of God in their mouths, and a double-edged sword in their hands.”",
-          "fr": "Rabbi Yitshak dit : Quiconque récite la kriat shema sur son lit, c'est comme s'il tenait une épée à deux tranchants dans sa main, comme il est dit : « Les louanges de Dieu dans leur gorge et l'épée à deux tranchants dans leur main. » D'où cela ressort-il ? Mar Zoutra — et d'autres disent Rav Achi — dit : du début du passage, car il est écrit : « Que les pieux se réjouissent en gloire, qu'ils chantent sur leurs couches », et il est écrit à la suite : « Les louanges de Dieu dans leur gorge et l'épée à deux tranchants dans leur main. »",
+          "fr": "Rabbi Yitzhak dit : quiconque récite le Shema sur son lit est comme s’il tenait dans sa main une épée à deux tranchants, ainsi qu’il est dit : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. » D’où le déduit-on ? Mar Zoutra, et certains disent Rav Ashi, répond : du début du passage, où il est écrit : « Que les hommes pieux exultent dans la gloire, qu’ils chantent avec joie sur leurs couches », puis : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:4"
+          },
+          "fr_explanation": "Le texte anglais précise que ce passage poursuit l’enseignement sur la récitation du Shema au lit. Il explique aussi que l’image de l’épée à deux tranchants suggère une protection contre tout mal, et que le verset antérieur est compris comme une allusion à la récitation du Shema sur le lit.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yitzhak dit : quiconque récite le Shema sur son lit est comme s’il tenait dans sa main une épée à deux tranchants, ainsi qu’il est dit : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. » D’où le déduit-on ? Mar Zoutra, et certains disent Rav Ashi, répond : du début du passage, où il est écrit : « Que les hommes pieux exultent dans la gloire, qu’ils chantent avec joie sur leurs couches », puis : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le texte anglais précise que ce passage poursuit l’enseignement sur la récitation du Shema au lit. Il explique aussi que l’image de l’épée à deux tranchants suggère une protection contre tout mal, et que le verset antérieur est compris comme une allusion à la récitation du Shema sur le lit.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Quiconque lit le Shema sur son lit est comme s’il tenait une épée à deux tranchants dans sa main, pour tuer les nuisibles. L’expression « Quelle est l’inférence ? » demande en quoi ce verset parle du Shema.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:10.228505+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 4,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f5252a2548727a6006a68d6eb7aec819dbc10afb6de1fec23",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1766,
+              "output": 328,
+              "total": 2094
+            },
+            "cost": {
+              "segment_eur": 0.0028005,
+              "phase_spent_eur": 0.22526534999999992,
+              "phase_remaining_eur": 44.77473465
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281101+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yitzhak dit : quiconque récite le Shema sur son lit est comme s’il tenait dans sa main une épée à deux tranchants, ainsi qu’il est dit : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. » D’où le déduit-on ? Mar Zoutra, et certains disent Rav Ashi, répond : du début du passage, où il est écrit : « Que les hommes pieux exultent dans la gloire, qu’ils chantent avec joie sur leurs couches », puis : « Les louanges élevées de Dieu sont dans leur gorge, et une épée à deux tranchants dans leur main. »",
+            "explanation": "Le texte anglais précise que ce passage poursuit l’enseignement sur la récitation du Shema au lit. Il explique aussi que l’image de l’épée à deux tranchants suggère une protection contre tout mal, et que le verset antérieur est compris comme une allusion à la récitation du Shema sur le lit.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Quiconque lit le Shema sur son lit est comme s’il tenait une épée à deux tranchants dans sa main, pour tuer les nuisibles. L’expression « Quelle est l’inférence ? » demande en quoi ce verset parle du Shema.",
+                "refs": [
+                  "Rashi on Berakhot 5a:4:1",
+                  "Rashi on Berakhot 5a:4:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 5,
           "he": "וְאָמַר רַבִּי יִצְחָק: כׇּל הַקּוֹרֵא קְרִיאַת שְׁמַע עַל מִטָּתוֹ — מַזִּיקִין בְּדֵילִין הֵימֶנּוּ. שֶׁנֶּאֱמַר: ״וּבְנֵי רֶשֶׁף יַגְבִּיהוּ עוּף״, וְאֵין ״עוּף״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר: ״הֲתָעִיף עֵינֶיךָ בּוֹ וְאֵינֶנּוּ״. וְאֵין ״רֶשֶׁף״ אֶלָּא מַזִּיקִין, שֶׁנֶּאֱמַר: ״מְזֵי רָעָב וּלְחֻמֵי רֶשֶׁף וְקֶטֶב מְרִירִי״.",
           "en": "And Rabbi Yitzḥak said: Anyone who recites <i>Shema</i> upon his bed, demons stay away from him. This is alluded to, as it is stated: “But man is born into trouble, and the sparks [<i>reshef</i> ] fly [<i>uf</i> ] upward” (Job 5:7). The verse is explained: The word fly [<i>uf</i> ] means nothing other than Torah, as Torah is difficult to grasp and easy to lose, like something that floats away, as it is stated: “Will you set your eyes upon it? It is gone; for riches certainly make themselves wings, like an eagle that flies into the heavens” (Proverbs 23:5). The word “sparks” means nothing other than demons, as it is stated: “Wasting of hunger, and the devouring of the sparks [<i>reshef</i>] and bitter destruction [<i>ketev meriri</i>], and the teeth of beasts I will send upon them, with the venom of crawling things of the dust” (Deuteronomy 32:24). Here we see <i>reshef</i> listed along with <i>ketev meriri</i>, both of which are understood by the Sages to be names of demons.",
-          "fr": "Et Rabbi Yitshak dit : Quiconque récite la kriat shema sur son lit — les démons s'écartent de lui, comme il est dit : « Et les fils du reshef s'élèvent en vol » ; or « vol » ne désigne que la Torah, comme il est dit : « Porteras-tu tes yeux sur elle qu'elle n'est déjà plus » ; et « reshef » ne désigne que les démons, comme il est dit : « Consumés par la faim, dévorés par le reshef et l'épidémie amère. »",
+          "fr": "Rabbi Yitzhak dit encore : quiconque récite le Shema sur son lit, les démons s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les démons, comme il est dit : « Épuisés par la famine, dévorés par le reshef et par le ketev meriri. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:5"
+          },
+          "fr_explanation": "Le raisonnement repose sur une interprétation homilétique du verset. Le terme « vol » est rattaché à la Torah, tandis que « reshef » est compris comme une désignation des démons : la récitation du Shema les éloigne.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yitzhak dit encore : quiconque récite le Shema sur son lit, les démons s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les démons, comme il est dit : « Épuisés par la famine, dévorés par le reshef et par le ketev meriri. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le raisonnement repose sur une interprétation homilétique du verset. Le terme « vol » est rattaché à la Torah, tandis que « reshef » est compris comme une désignation des démons : la récitation du Shema les éloigne.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que la Torah éloigne les démons. Fermer les yeux sur la Torah conduit à l’oublier. Il précise également que « ketev meriri » est le nom d’un démon de midi.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:13.919689+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 5,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0af9b7e840648b57006a68d6f70afc81a18cb4b8f2747db587",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1775,
+              "output": 337,
+              "total": 2112
+            },
+            "cost": {
+              "segment_eur": 0.00284775,
+              "phase_spent_eur": 0.22811309999999993,
+              "phase_remaining_eur": 44.7718869
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281124+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yitzhak dit encore : quiconque récite le Shema sur son lit, les démons s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les démons, comme il est dit : « Épuisés par la famine, dévorés par le reshef et par le ketev meriri. »",
+            "explanation": "Le raisonnement repose sur une interprétation homilétique du verset. Le terme « vol » est rattaché à la Torah, tandis que « reshef » est compris comme une désignation des démons : la récitation du Shema les éloigne.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que la Torah éloigne les démons. Fermer les yeux sur la Torah conduit à l’oublier. Il précise également que « ketev meriri » est le nom d’un démon de midi.",
+                "refs": [
+                  "Rashi on Berakhot 5a:5:1",
+                  "Rashi on Berakhot 5a:5:2",
+                  "Rashi on Berakhot 5a:5:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 6,
           "he": "אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: כׇּל הָעוֹסֵק בַּתּוֹרָה — יִסּוּרִין בְּדֵילִין הֵימֶנּוּ, שֶׁנֶּאֱמַר: ״וּבְנֵי רֶשֶׁף יַגְבִּיהוּ עוּף״. וְאֵין ״עוּף״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר ״הֲתָעִיף עֵינֶיךָ בּוֹ וְאֵינֶנּוּ״, וְאֵין ״רֶשֶׁף״ אֶלָּא יִסּוּרִין, שֶׁנֶּאֱמַר: ״מְזֵי רָעָב וּלְחֻמֵי רֶשֶׁף״.",
           "en": "Regarding this unclear verse, Rabbi Shimon ben Lakish said: If one engages in Torah study, suffering stays away from him, as it is stated: “And the sparks fly upward.” And fly means nothing other than Torah, as it is stated: “Will you set your eyes upon it? It is gone; and sparks means nothing other than suffering, as it is stated: “Wasting of hunger, and the devouring of the sparks,” equating devouring sparks with wasting hunger, as both are types of suffering. From here, we derive that through Torah, fly, one is able to distance himself, upward, from suffering, sparks.",
-          "fr": "Rabbi Chimon ben Lakish dit : Quiconque s'occupe de la Torah — les souffrances s'écartent de lui, comme il est dit : « Et les fils du reshef s'élèvent en vol. » Or « vol » ne désigne que la Torah, comme il est dit : « Porteras-tu tes yeux sur elle qu'elle n'est déjà plus » ; et « reshef » ne désigne que les souffrances, comme il est dit : « Consumés par la faim, dévorés par le reshef. »",
+          "fr": "Rabbi Shimon ben Lakish dit : quiconque s’adonne à la Torah, les souffrances s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les souffrances, comme il est dit : « Épuisés par la famine, dévorés par le reshef. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:6"
+          },
+          "fr_explanation": "Le même verset reçoit ici une autre interprétation : le « vol » renvoie toujours à la Torah, mais « reshef » désigne cette fois les souffrances. L’étude de la Torah les éloigne donc de l’homme.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Shimon ben Lakish dit : quiconque s’adonne à la Torah, les souffrances s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les souffrances, comme il est dit : « Épuisés par la famine, dévorés par le reshef. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le même verset reçoit ici une autre interprétation : le « vol » renvoie toujours à la Torah, mais « reshef » désigne cette fois les souffrances. L’étude de la Torah les éloigne donc de l’homme.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi précise que le terme « reshef », placé entre la famine et d’autres fléaux, peut être interprété dans les deux sens : ici comme désignant les souffrances, et dans le passage précédent comme désignant les démons.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:17.367236+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 6,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d800060a71ecdbf006a68d6faa4cc81a28d3c3d9440cdb99f",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1572,
+              "output": 280,
+              "total": 1852
+            },
+            "cost": {
+              "segment_eur": 0.002439,
+              "phase_spent_eur": 0.23055209999999993,
+              "phase_remaining_eur": 44.7694479
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281143+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Shimon ben Lakish dit : quiconque s’adonne à la Torah, les souffrances s’éloignent de lui, ainsi qu’il est dit : « Et les fils du reshef s’élèvent par le vol. » Or, le « vol » ne désigne ici que la Torah, comme il est dit : « À peine portes-tu les yeux sur elle qu’elle n’est plus » ; et le « reshef » ne désigne ici que les souffrances, comme il est dit : « Épuisés par la famine, dévorés par le reshef. »",
+            "explanation": "Le même verset reçoit ici une autre interprétation : le « vol » renvoie toujours à la Torah, mais « reshef » désigne cette fois les souffrances. L’étude de la Torah les éloigne donc de l’homme.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi précise que le terme « reshef », placé entre la famine et d’autres fléaux, peut être interprété dans les deux sens : ici comme désignant les souffrances, et dans le passage précédent comme désignant les démons.",
+                "refs": [
+                  "Rashi on Berakhot 5a:6:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 7,
           "he": "אָמַר לֵיהּ רַבִּי יוֹחָנָן: הָא אֲפִילּוּ תִּינוֹקוֹת שֶׁל בֵּית רַבָּן, יוֹדְעִין אוֹתוֹ, שֶׁנֶּאֱמַר ״וַיֹּאמֶר אִם שָׁמוֹעַ תִּשְׁמַע לְקוֹל ה׳ אֱלֹהֶיךָ וְהַיָּשָׁר בְּעֵינָיו תַּעֲשֶׂה וְהַאֲזַנְתָּ לְמִצְוֹתָיו וְשָׁמַרְתָּ כׇּל חֻקָּיו כׇּל הַמַּחֲלָה אֲשֶׁר שַׂמְתִּי בְמִצְרַיִם לֹא אָשִׂים עָלֶיךָ כִּי אֲנִי ה׳ רוֹפְאֶךָ״. אֶלָּא: כׇּל שֶׁאֶפְשָׁר לוֹ לַעֲסוֹק בַּתּוֹרָה וְאֵינוֹ עוֹסֵק — הַקָּדוֹשׁ בָּרוּךְ הוּא מֵבִיא עָלָיו יִסּוּרִין מְכוֹעָרִין וְעוֹכְרִין אוֹתוֹ, שֶׁנֶּאֱמַר: ״נֶאֱלַמְתִּי דוּמִיָּה הֶחֱשֵׁיתִי מִטּוֹב וּכְאֵבִי נֶעְכָּר״, וְאֵין ״טוֹב״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר: ״כִּי לֶקַח טוֹב נָתַתִּי לָכֶם תּוֹרָתִי אַל תַּעֲזֹבוּ״.",
           "en": "Rabbi Yoḥanan said to him: Even schoolchildren, who learn only the Written Torah, know this concept as it is stated: “And He said you shall surely hear the voice of the Lord your God, and what is upright in His eyes you shall do and you shall listen to His mitzvot and guard His statutes; any disease that I have placed upon Egypt I will not place upon you for I am the Lord your healer” (Exodus 15:26). Rather, one must interpret the verse: Anyone who is able to engage in Torah study yet does not engage in that study, not only does the Holy One, Blessed be He, fail to protect him, but He brings upon him hideous afflictions, that embarrass him and trouble him, as it is stated: “I was mute with silence; I was silent from good, and my pain was strong” (Psalms 39:3). The word good means nothing other than Torah, as it is stated: “For I have given you a good portion, My Torah, do not abandon it” (Proverbs 4:2). The verse should be understood: “I have been silent from the study of Torah, and my pain was strong.”",
-          "fr": "Rabbi Yohanan lui dit : Cela, même les enfants de l'école le savent, car il est dit : « Et Il dit : Si tu écoutes attentivement la voix de l'Éternel ton Dieu, si tu fais ce qui est droit à Ses yeux, si tu prêtes l'oreille à Ses commandements et si tu observes toutes Ses lois, Je n'infligerai sur toi aucune des maladies que J'ai infligées à l'Égypte, car Je suis l'Éternel ton guérisseur. » Mais voici : quiconque aurait pu s'occuper de la Torah et ne s'en occupe pas — le Saint, béni soit-Il, lui envoie des souffrances laides qui le troublent, comme il est dit : « Je suis resté muet, silencieux, je me suis tu loin du bien, et ma douleur s'est troublée. » Or « bien » ne désigne que la Torah, comme il est dit : « Car Je vous ai donné un bon enseignement, n'abandonnez pas Ma Torah. »",
+          "fr": "Rabbi Yohanan lui dit : même les jeunes élèves de la maison d’étude connaissent cet enseignement, puisqu’il est dit : « Si tu écoutes attentivement la voix de Hachem, ton Dieu, si tu fais ce qui est droit à Ses yeux, si tu prêtes l’oreille à Ses commandements et observes toutes Ses lois, aucune des maladies que J’ai infligées à l’Égypte, Je ne l’infligerai à toi, car Je suis Hachem, qui te guérit. » Il faut plutôt comprendre ainsi : quiconque peut étudier la Torah et ne l’étudie pas, le Saint, béni soit-Il, lui inflige des souffrances pénibles qui le troublent, comme il est dit : « Je suis resté muet et silencieux, je me suis abstenu du bien, et ma douleur s’est aggravée. » Or, le « bien » ne désigne ici que la Torah, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:7"
+          },
+          "fr_explanation": "Rabbi Yohanan rejette l’idée que l’enseignement précédent apporte une nouveauté : le verset de l’Exode établit déjà que l’observance protège des maladies. Il explique plutôt que celui qui néglige une étude de la Torah qui lui est accessible s’expose à des souffrances pénibles et troublantes.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yohanan lui dit : même les jeunes élèves de la maison d’étude connaissent cet enseignement, puisqu’il est dit : « Si tu écoutes attentivement la voix de Hachem, ton Dieu, si tu fais ce qui est droit à Ses yeux, si tu prêtes l’oreille à Ses commandements et observes toutes Ses lois, aucune des maladies que J’ai infligées à l’Égypte, Je ne l’infligerai à toi, car Je suis Hachem, qui te guérit. » Il faut plutôt comprendre ainsi : quiconque peut étudier la Torah et ne l’étudie pas, le Saint, béni soit-Il, lui inflige des souffrances pénibles qui le troublent, comme il est dit : « Je suis resté muet et silencieux, je me suis abstenu du bien, et ma douleur s’est aggravée. » Or, le « bien » ne désigne ici que la Torah, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Rabbi Yohanan rejette l’idée que l’enseignement précédent apporte une nouveauté : le verset de l’Exode établit déjà que l’observance protège des maladies. Il explique plutôt que celui qui néglige une étude de la Torah qui lui est accessible s’expose à des souffrances pénibles et troublantes.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que même les jeunes élèves connaissent cet enseignement grâce au verset de l’Exode appris dans le Pentateuque. « Je me suis abstenu du bien » signifie : de la Torah ; « ma douleur s’est aggravée » désigne une plaie qui s’envenime.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:22.523039+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 7,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_004c774f727d1139006a68d6fe33d0819ea4d303ea040b3306",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 2084,
+              "output": 483,
+              "total": 2567
+            },
+            "cost": {
+              "segment_eur": 0.0037365,
+              "phase_spent_eur": 0.23428859999999993,
+              "phase_remaining_eur": 44.7657114
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281165+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yohanan lui dit : même les jeunes élèves de la maison d’étude connaissent cet enseignement, puisqu’il est dit : « Si tu écoutes attentivement la voix de Hachem, ton Dieu, si tu fais ce qui est droit à Ses yeux, si tu prêtes l’oreille à Ses commandements et observes toutes Ses lois, aucune des maladies que J’ai infligées à l’Égypte, Je ne l’infligerai à toi, car Je suis Hachem, qui te guérit. » Il faut plutôt comprendre ainsi : quiconque peut étudier la Torah et ne l’étudie pas, le Saint, béni soit-Il, lui inflige des souffrances pénibles qui le troublent, comme il est dit : « Je suis resté muet et silencieux, je me suis abstenu du bien, et ma douleur s’est aggravée. » Or, le « bien » ne désigne ici que la Torah, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »",
+            "explanation": "Rabbi Yohanan rejette l’idée que l’enseignement précédent apporte une nouveauté : le verset de l’Exode établit déjà que l’observance protège des maladies. Il explique plutôt que celui qui néglige une étude de la Torah qui lui est accessible s’expose à des souffrances pénibles et troublantes.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que même les jeunes élèves connaissent cet enseignement grâce au verset de l’Exode appris dans le Pentateuque. « Je me suis abstenu du bien » signifie : de la Torah ; « ma douleur s’est aggravée » désigne une plaie qui s’envenime.",
+                "refs": [
+                  "Rashi on Berakhot 5a:7:1",
+                  "Rashi on Berakhot 5a:7:2",
+                  "Rashi on Berakhot 5a:7:3"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 8,
           "he": "אָמַר רַבִּי זֵירָא וְאִיתֵּימָא רַבִּי חֲנִינָא בַּר פָּפָּא: בֹּא וּרְאֵה שֶׁלֹּא כְּמִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא מִדַּת בָּשָׂר וָדָם. מִדַּת בָּשָׂר וָדָם, אָדָם מוֹכֵר חֵפֶץ לַחֲבֵירוֹ, מוֹכֵר עָצֵב, וְלוֹקֵחַ שָׂמֵחַ, אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא אֵינוֹ כֵּן, נָתַן לָהֶם תּוֹרָה לְיִשְׂרָאֵל — וְשָׂמַח, שֶׁנֶּאֱמַר: ״כִּי לֶקַח טוֹב נָתַתִּי לָכֶם תּוֹרָתִי אַל תַּעֲזֹבוּ״.",
           "en": "With regard to the verse: “For I have given you a good portion,” Rabbi Zeira, and some say Rabbi Ḥanina bar Pappa, said: Come and see how the characteristics of the Holy One, Blessed be He, are unlike the characteristics of flesh and blood. It is characteristic of flesh and blood that when one sells an object to another person, the seller grieves the loss of his possession and the buyer rejoices. With regard to the Holy One, Blessed be He, however, this is not so. He gave the Torah to Israel and rejoiced, as it is stated: “For I have given you a good portion, My Torah, do not abandon it.” A good portion is understood as a good purchase; although God sold Torah to Israel, He rejoices in the sale and praises the object before its new owner (Rabbi Yoshiyahu Pinto).",
-          "fr": "Rabbi Zeira dit — et d'autres disent Rabbi Hanina bar Pappa : Viens et vois que la mesure du Saint, béni soit-Il, n'est pas comme la mesure de la chair et du sang. La mesure de la chair et du sang : lorsqu'un homme vend un objet à son prochain, le vendeur est triste et l'acheteur est joyeux ; mais le Saint, béni soit-Il, n'est pas ainsi — Il a donné la Torah à Israël et Il s'en est réjoui, comme il est dit : « Car Je vous ai donné un bon enseignement, n'abandonnez pas Ma Torah. »",
+          "fr": "Rabbi Zeira, et certains disent Rabbi Hanina bar Pappa, dit : viens et vois combien la conduite du Saint, béni soit-Il, diffère de celle des êtres de chair et de sang. Lorsqu’un homme vend un objet à son prochain, le vendeur est triste et l’acheteur se réjouit. Mais il n’en va pas ainsi du Saint, béni soit-Il : Il a donné la Torah à Israël et S’en est réjoui, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:8"
+          },
+          "fr_explanation": "Contrairement à un vendeur humain, qui regrette généralement de se séparer de son bien, le Saint, béni soit-Il, S’est réjoui de donner la Torah à Israël et en a proclamé la valeur.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Zeira, et certains disent Rabbi Hanina bar Pappa, dit : viens et vois combien la conduite du Saint, béni soit-Il, diffère de celle des êtres de chair et de sang. Lorsqu’un homme vend un objet à son prochain, le vendeur est triste et l’acheteur se réjouit. Mais il n’en va pas ainsi du Saint, béni soit-Il : Il a donné la Torah à Israël et S’en est réjoui, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Contrairement à un vendeur humain, qui regrette généralement de se séparer de son bien, le Saint, béni soit-Il, S’est réjoui de donner la Torah à Israël et en a proclamé la valeur.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique qu’un vendeur humain est triste de se séparer d’un objet précieux, surtout lorsqu’il y est contraint. Le Saint, béni soit-Il, au contraire, Se réjouit du don de la Torah, en fait l’éloge devant Israël et l’exhorte à ne pas l’abandonner.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:37.348508+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 8,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0be8fdc0045fbdac006a68d7045b2881a19afac6c9d599f9f3",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1727,
+              "output": 289,
+              "total": 2016
+            },
+            "cost": {
+              "segment_eur": 0.00259575,
+              "phase_spent_eur": 0.23688434999999994,
+              "phase_remaining_eur": 44.76311565
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281183+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Zeira, et certains disent Rabbi Hanina bar Pappa, dit : viens et vois combien la conduite du Saint, béni soit-Il, diffère de celle des êtres de chair et de sang. Lorsqu’un homme vend un objet à son prochain, le vendeur est triste et l’acheteur se réjouit. Mais il n’en va pas ainsi du Saint, béni soit-Il : Il a donné la Torah à Israël et S’en est réjoui, comme il est dit : « Car Je vous ai donné un bon enseignement ; n’abandonnez pas Ma Torah. »",
+            "explanation": "Contrairement à un vendeur humain, qui regrette généralement de se séparer de son bien, le Saint, béni soit-Il, S’est réjoui de donner la Torah à Israël et en a proclamé la valeur.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique qu’un vendeur humain est triste de se séparer d’un objet précieux, surtout lorsqu’il y est contraint. Le Saint, béni soit-Il, au contraire, Se réjouit du don de la Torah, en fait l’éloge devant Israël et l’exhorte à ne pas l’abandonner.",
+                "refs": [
+                  "Rashi on Berakhot 5a:8:1",
+                  "Rashi on Berakhot 5a:8:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.96,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 9,
           "he": "אָמַר רָבָא, וְאִיתֵּימָא רַב חִסְדָּא: אִם רוֹאֶה אָדָם שֶׁיִּסּוּרִין בָּאִין עָלָיו — יְפַשְׁפֵּשׁ בְּמַעֲשָׂיו, שֶׁנֶּאֱמַר: ״נַחְפְּשָׂה דְרָכֵינוּ וְנַחְקֹרָה וְנָשׁוּבָה עַד ה׳״. פִּשְׁפֵּשׁ וְלֹא מָצָא — יִתְלֶה בְּבִטּוּל תּוֹרָה, שֶׁנֶּאֱמַר: ״אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ״.",
           "en": "Previously, the Gemara discussed suffering that results from one’s transgressions. The Gemara shifts the focus and discusses suffering that does not result from one’s transgressions and the suffering of the righteous. Rava, and some say Rav Ḥisda, said: If a person sees that suffering has befallen him, he should examine his actions. Generally, suffering comes about as punishment for one’s transgressions, as it is stated: “We will search and examine our ways, and return to God” (Lamentations 3:40). If he examined his ways and found no transgression for which that suffering is appropriate, he may attribute his suffering to dereliction in the study of Torah. God punishes an individual for dereliction in the study of Torah in order to emphasize the gravity of the issue, as it is stated: “Happy is the man whom You punish, Lord, and teach out of Your law” (Psalms 94:12). This verse teaches us that his suffering will cause him to return to Your law.",
-          "fr": "Rava dit — et d'autres disent Rav Hisda : Si un homme voit que des souffrances s'abattent sur lui, qu'il examine ses actes, comme il est dit : « Scrutons nos voies, examinons-les, et retournons vers l'Éternel. » S'il a examiné et n'a rien trouvé — qu'il impute cela à la négligence envers la Torah, comme il est dit : « Heureux l'homme que Tu châties, ô Éternel, et que Tu instruis par Ta Torah. »",
+          "fr": "Rava, et certains disent Rav Hisda, dit : si un homme voit des souffrances s’abattre sur lui, qu’il examine ses actes, comme il est dit : « Examinons nos voies, scrutons-les et revenons vers Hachem. » S’il a examiné ses actes sans rien trouver, qu’il les attribue à une négligence de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:9"
+          },
+          "fr_explanation": "Le passage développe l’idée que les souffrances sont d’abord à rechercher du côté des fautes. Si aucune transgression n’est trouvée, elles sont alors attribuées à un relâchement dans l’étude de la Torah, ce qui pousse la personne à y revenir.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rava, et certains disent Rav Hisda, dit : si un homme voit des souffrances s’abattre sur lui, qu’il examine ses actes, comme il est dit : « Examinons nos voies, scrutons-les et revenons vers Hachem. » S’il a examiné ses actes sans rien trouver, qu’il les attribue à une négligence de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage développe l’idée que les souffrances sont d’abord à rechercher du côté des fautes. Si aucune transgression n’est trouvée, elles sont alors attribuées à un relâchement dans l’étude de la Torah, ce qui pousse la personne à y revenir.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Il explique que « il a examiné et n’a pas trouvé » signifie qu’il n’a trouvé aucune faute en raison de laquelle ces souffrances mériteraient de venir. Sur « heureux l’homme que Tu châties », il enseigne que les souffrances doivent conduire l’homme à venir à l’étude de la Torah.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:43.309775+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 9,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_090cf3681a31f5fb006a68d71463d881a1997380e12f184115",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1762,
+              "output": 303,
+              "total": 2065
+            },
+            "cost": {
+              "segment_eur": 0.002685,
+              "phase_spent_eur": 0.23956934999999993,
+              "phase_remaining_eur": 44.76043065
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281199+00:00"
+          },
+          "study": {
+            "translation": "Rava, et certains disent Rav Hisda, dit : si un homme voit des souffrances s’abattre sur lui, qu’il examine ses actes, comme il est dit : « Examinons nos voies, scrutons-les et revenons vers Hachem. » S’il a examiné ses actes sans rien trouver, qu’il les attribue à une négligence de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
+            "explanation": "Le passage développe l’idée que les souffrances sont d’abord à rechercher du côté des fautes. Si aucune transgression n’est trouvée, elles sont alors attribuées à un relâchement dans l’étude de la Torah, ce qui pousse la personne à y revenir.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Il explique que « il a examiné et n’a pas trouvé » signifie qu’il n’a trouvé aucune faute en raison de laquelle ces souffrances mériteraient de venir. Sur « heureux l’homme que Tu châties », il enseigne que les souffrances doivent conduire l’homme à venir à l’étude de la Torah.",
+                "refs": [
+                  "Rashi on Berakhot 5a:9:1",
+                  "Rashi on Berakhot 5a:9:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 10,
           "he": "וְאִם תָּלָה וְלֹא מָצָא — בְּיָדוּעַ שֶׁיִּסּוּרִין שֶׁל אַהֲבָה הֵם, שֶׁנֶּאֱמַר: ״כִּי אֶת אֲשֶׁר יֶאֱהַב ה׳ יוֹכִיחַ״.",
           "en": "And if he did attribute his suffering to dereliction in the study of Torah, and did not find this to be so, he may be confident that these are afflictions of love, as it is stated: “For whom the Lord loves, He rebukes, as does a father the son in whom he delights” (Proverbs 3:12).",
-          "fr": "Et s'il a imputé cela et n'a rien trouvé — il est certain que ce sont des souffrances d'amour, comme il est dit : « Car celui que l'Éternel aime, Il le réprimande. »",
+          "fr": "Et s’il les a attribuées à une négligence de l’étude de la Torah sans rien trouver, il est certain qu’il s’agit de souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:10"
+          },
+          "fr_explanation": "Après avoir vérifié que ses souffrances ne proviennent ni d’une faute ni d’une négligence de l’étude, l’homme peut les considérer comme des « souffrances d’amour », destinées à accroître sa récompense.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et s’il les a attribuées à une négligence de l’étude de la Torah sans rien trouver, il est certain qu’il s’agit de souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Après avoir vérifié que ses souffrances ne proviennent ni d’une faute ni d’une négligence de l’étude, l’homme peut les considérer comme des « souffrances d’amour », destinées à accroître sa récompense.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Les souffrances d’amour sont des souffrances que le Saint, béni soit-Il, inflige à un homme en ce monde sans qu’il ait commis de faute, afin d’accroître sa récompense dans le monde à venir, au-delà même du mérite de ses actions.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:46.337865+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 10,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0047f485125052a0006a68d717e5f481a38f5db9b8b3d1f974",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1415,
+              "output": 197,
+              "total": 1612
+            },
+            "cost": {
+              "segment_eur": 0.00194775,
+              "phase_spent_eur": 0.24151709999999993,
+              "phase_remaining_eur": 44.7584829
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281213+00:00"
+          },
+          "study": {
+            "translation": "Et s’il les a attribuées à une négligence de l’étude de la Torah sans rien trouver, il est certain qu’il s’agit de souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »",
+            "explanation": "Après avoir vérifié que ses souffrances ne proviennent ni d’une faute ni d’une négligence de l’étude, l’homme peut les considérer comme des « souffrances d’amour », destinées à accroître sa récompense.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Les souffrances d’amour sont des souffrances que le Saint, béni soit-Il, inflige à un homme en ce monde sans qu’il ait commis de faute, afin d’accroître sa récompense dans le monde à venir, au-delà même du mérite de ses actions.",
+                "refs": [
+                  "Rashi on Berakhot 5a:10:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 11,
           "he": "אָמַר רָבָא, אָמַר רַב סְחוֹרָה, אָמַר רַב הוּנָא: כׇּל שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא חָפַץ בּוֹ — מְדַכְּאוֹ בְּיִסּוּרִין, שֶׁנֶּאֱמַר: ״וַה׳ חָפֵץ דַּכְּאוֹ הֶחֱלִי״.",
           "en": "So too, Rava said that Rav Seḥora said that Rav Huna said: Anyone in whom the Holy One, Blessed be He, delights, He oppresses him with suffering, as it is stated: “Yet in whom the Lord delights, He oppresses him with disease; to see if his soul would offer itself in guilt, that he might see his children, lengthen his days, and that the desire of the Lord might prosper by his hand” (Isaiah 53:10). This verse illustrates that in whomever God delights, he afflicts with illness.",
-          "fr": "Rava dit au nom de Rav Sehora, qui dit au nom de Rav Houna : Quiconque le Saint, béni soit-Il, agrée — Il l'écrase par les souffrances, comme il est dit : « Et l'Éternel a voulu l'écraser, Il l'a rendu malade. »",
+          "fr": "Rava dit au nom de Rav Sehora, au nom de Rav Houna : quiconque est agréé par le Saint, béni soit-Il, Celui-ci l’accable de souffrances, comme il est dit : « Hachem a désiré l’accabler par la maladie. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:11"
+          },
+          "fr_explanation": "L’édition anglaise précise que ce verset est d’Isaïe 53:10 et l’emploie pour illustrer l’idée que celui en qui Dieu prend plaisir est affligé de maladie.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rava dit au nom de Rav Sehora, au nom de Rav Houna : quiconque est agréé par le Saint, béni soit-Il, Celui-ci l’accable de souffrances, comme il est dit : « Hachem a désiré l’accabler par la maladie. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’édition anglaise précise que ce verset est d’Isaïe 53:10 et l’emploie pour illustrer l’idée que celui en qui Dieu prend plaisir est affligé de maladie.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « Et le Seigneur a voulu l’écraser, Il l’a rendu malade » signifie que celui en qui le Saint, béni soit-Il, prend plaisir, Il le fait souffrir par des souffrances.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:50.406779+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 11,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0266ee00be5be2dd006a68d71baffc81a18d3df545f7cf5959",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1429,
+              "output": 196,
+              "total": 1625
+            },
+            "cost": {
+              "segment_eur": 0.00195375,
+              "phase_spent_eur": 0.24347084999999993,
+              "phase_remaining_eur": 44.75652915
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "La traduction paraît anormalement courte par rapport à l’anglais."
+              ],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281228+00:00"
+          },
+          "study": {
+            "translation": "Rava dit au nom de Rav Sehora, au nom de Rav Houna : quiconque est agréé par le Saint, béni soit-Il, Celui-ci l’accable de souffrances, comme il est dit : « Hachem a désiré l’accabler par la maladie. »",
+            "explanation": "L’édition anglaise précise que ce verset est d’Isaïe 53:10 et l’emploie pour illustrer l’idée que celui en qui Dieu prend plaisir est affligé de maladie.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « Et le Seigneur a voulu l’écraser, Il l’a rendu malade » signifie que celui en qui le Saint, béni soit-Il, prend plaisir, Il le fait souffrir par des souffrances.",
+                "refs": [
+                  "Rashi on Berakhot 5a:11:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 12,
           "he": "יָכוֹל אֲפִילּוּ לֹא קִבְּלָם מֵאַהֲבָה? — תַּלְמוּד לוֹמַר: ״אִם תָּשִׂים אָשָׁם נַפְשׁוֹ״, מָה אָשָׁם לְדַעַת, אַף יִסּוּרִין — לְדַעַת.",
           "en": "I might have thought that God delights in him even if he does not accept his suffering with love. Therefore the verse teaches: “If his soul would offer itself in guilt.” Just as a guilt-offering is brought knowingly, as it is one of the sacrifices offered willingly, without coercion, so too his suffering must be accepted knowingly.",
-          "fr": "On pourrait penser que même s'il ne les a pas acceptées avec amour ? — le verset dit : « Si son âme se constitue en offrande de réparation » : de même que l'offrande de réparation requiert la pleine conscience, de même les souffrances requièrent la pleine conscience.",
+          "fr": "Aurait-on pu penser qu’il en va ainsi même s’il ne les accepte pas avec amour ? Le verset enseigne : « Si son âme se constitue en offrande de culpabilité. » De même qu’une offrande de culpabilité est apportée en connaissance de cause, les souffrances doivent elles aussi être acceptées en connaissance de cause.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:12"
+          },
+          "fr_explanation": "Le verset compare l’acceptation des souffrances à une offrande de culpabilité : de même que celle-ci est apportée consciemment et volontairement, les souffrances doivent être acceptées en connaissance de cause.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Aurait-on pu penser qu’il en va ainsi même s’il ne les accepte pas avec amour ? Le verset enseigne : « Si son âme se constitue en offrande de culpabilité. » De même qu’une offrande de culpabilité est apportée en connaissance de cause, les souffrances doivent elles aussi être acceptées en connaissance de cause.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le verset compare l’acceptation des souffrances à une offrande de culpabilité : de même que celle-ci est apportée consciemment et volontairement, les souffrances doivent être acceptées en connaissance de cause.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">« Asham » désigne un sacrifice. « Nefsho » signifie : de sa propre volonté, en connaissance de cause.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:53.308173+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 12,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0c2d6131233928f4006a68d71f2d8c819fbcbe40045150be74",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1358,
+              "output": 195,
+              "total": 1553
+            },
+            "cost": {
+              "segment_eur": 0.001896,
+              "phase_spent_eur": 0.24536684999999994,
+              "phase_remaining_eur": 44.75463315
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281242+00:00"
+          },
+          "study": {
+            "translation": "Aurait-on pu penser qu’il en va ainsi même s’il ne les accepte pas avec amour ? Le verset enseigne : « Si son âme se constitue en offrande de culpabilité. » De même qu’une offrande de culpabilité est apportée en connaissance de cause, les souffrances doivent elles aussi être acceptées en connaissance de cause.",
+            "explanation": "Le verset compare l’acceptation des souffrances à une offrande de culpabilité : de même que celle-ci est apportée consciemment et volontairement, les souffrances doivent être acceptées en connaissance de cause.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "« Asham » désigne un sacrifice. « Nefsho » signifie : de sa propre volonté, en connaissance de cause.",
+                "refs": [
+                  "Rashi on Berakhot 5a:12:1",
+                  "Rashi on Berakhot 5a:12:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.93,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 13,
           "he": "וְאִם קִבְּלָם מַה שְּׂכָרוֹ: ״יִרְאֶה זֶרַע יַאֲרִיךְ יָמִים״. וְלֹא עוֹד אֶלָּא שֶׁתַּלְמוּדוֹ מִתְקַיֵּים בְּיָדוֹ, שֶׁנֶּאֱמַר: ״וְחֵפֶץ ה׳ בְּיָדוֹ יִצְלָח״.",
           "en": "And if one accepts that suffering with love, what is his reward? As the second part of the verse states: “That he might see his children, lengthen his days.” Moreover, in addition to these earthly rewards, his Torah study will endure and his Torah study will be successful, as it is stated: “The purpose of the Lord,” the Torah, the revelation of God’s will, “might prosper by his hand.”",
-          "fr": "Et s'il les a acceptées, quelle est sa récompense ? « Il verra une descendance, il prolongera ses jours. » Et de plus, son étude lui est conservée, comme il est dit : « Et la volonté de l'Éternel prospérera par sa main. »",
+          "fr": "Et s’il les accepte, quelle est sa récompense ? « Il verra une descendance et prolongera ses jours. » Bien plus, son étude de la Torah se maintiendra en lui, comme il est dit : « Le désir de Hachem réussira par sa main. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:13"
+          },
+          "fr_explanation": "Le texte précise qu’en plus de la récompense déjà mentionnée, l’homme mérite aussi que son étude de la Torah demeure en sa main et qu’elle réussisse.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et s’il les accepte, quelle est sa récompense ? « Il verra une descendance et prolongera ses jours. » Bien plus, son étude de la Torah se maintiendra en lui, comme il est dit : « Le désir de Hachem réussira par sa main. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le texte précise qu’en plus de la récompense déjà mentionnée, l’homme mérite aussi que son étude de la Torah demeure en sa main et qu’elle réussisse.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:55.984309+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 13,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0a26d588151af45c006a68d722328c8192a8b439fbfe91861e",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1345,
+              "output": 134,
+              "total": 1479
+            },
+            "cost": {
+              "segment_eur": 0.00161175,
+              "phase_spent_eur": 0.24697859999999994,
+              "phase_remaining_eur": 44.7530214
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281254+00:00"
+          },
+          "study": {
+            "translation": "Et s’il les accepte, quelle est sa récompense ? « Il verra une descendance et prolongera ses jours. » Bien plus, son étude de la Torah se maintiendra en lui, comme il est dit : « Le désir de Hachem réussira par sa main. »",
+            "explanation": "Le texte précise qu’en plus de la récompense déjà mentionnée, l’homme mérite aussi que son étude de la Torah demeure en sa main et qu’elle réussisse.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 14,
           "he": "פְּלִיגִי בַּהּ רַבִּי יַעֲקֹב בַּר אִידִי וְרַבִּי אַחָא בַּר חֲנִינָא. חַד אָמַר: אֵלּוּ הֵם יִסּוּרִין שֶׁל אַהֲבָה — כׇּל שֶׁאֵין בָּהֶן בִּטּוּל תּוֹרָה, שֶׁנֶּאֱמַר: ״אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ״.",
           "en": "With regard to the acceptance of affliction with love and what exactly this entails, Rabbi Ya’akov bar Idi and Rabbi Aḥa bar Ḥanina disagree. One of them said: Afflictions of love are any that do not cause dereliction in the study of Torah, i.e., any which do not afflict his body to the extent that he is unable to study Torah, as it is stated: “Happy is the man whom You afflict, Lord, and teach from Your Torah.” Afflictions of love are when You “teach from Your Torah.”",
-          "fr": "Rabbi Yaakov bar Idi et Rabbi Aha bar Hanina sont en désaccord à ce sujet. L'un dit : telles sont les souffrances d'amour — celles qui n'entraînent pas l'interruption de la Torah, comme il est dit : « Heureux l'homme que Tu châties, ô Éternel, et que Tu instruis par Ta Torah. »",
+          "fr": "Rabbi Yaakov bar Idi et Rabbi Aha bar Hanina sont en désaccord à ce sujet. L’un dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:14"
+          },
+          "fr_explanation": "L’édition anglaise précise que le désaccord porte sur l’acceptation de l’affliction avec amour et sur ce que cela implique exactement. Elle explique aussi que les souffrances d’amour sont celles qui ne provoquent pas un abandon de l’étude de la Torah, c’est-à-dire qu’elles n’affligent pas le corps au point d’empêcher d’étudier la Torah.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Yaakov bar Idi et Rabbi Aha bar Hanina sont en désaccord à ce sujet. L’un dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’édition anglaise précise que le désaccord porte sur l’acceptation de l’affliction avec amour et sur ce que cela implique exactement. Elle explique aussi que les souffrances d’amour sont celles qui ne provoquent pas un abandon de l’étude de la Torah, c’est-à-dire qu’elles n’affligent pas le corps au point d’empêcher d’étudier la Torah.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:21:59.507793+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 14,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_042c8319fa56582d006a68d7256cd881a2a94cfdea350c6968",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1455,
+              "output": 199,
+              "total": 1654
+            },
+            "cost": {
+              "segment_eur": 0.00198675,
+              "phase_spent_eur": 0.24896534999999995,
+              "phase_remaining_eur": 44.75103465
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281268+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Yaakov bar Idi et Rabbi Aha bar Hanina sont en désaccord à ce sujet. L’un dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de l’étude de la Torah, comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
+            "explanation": "L’édition anglaise précise que le désaccord porte sur l’acceptation de l’affliction avec amour et sur ce que cela implique exactement. Elle explique aussi que les souffrances d’amour sont celles qui ne provoquent pas un abandon de l’étude de la Torah, c’est-à-dire qu’elles n’affligent pas le corps au point d’empêcher d’étudier la Torah.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 15,
           "he": "וְחַד אָמַר: אֵלּוּ הֵן יִסּוּרִין שֶׁל אַהֲבָה — כׇּל שֶׁאֵין בָּהֶן בִּטּוּל תְּפִלָּה, שֶׁנֶּאֱמַר: ״בָּרוּךְ אֱלֹהִים אֲשֶׁר לֹא הֵסִיר תְּפִלָּתִי וְחַסְדּוֹ מֵאִתִּי״.",
           "en": "And one said: Afflictions of love are any that do not cause dereliction in the recitation of prayer, as it is stated: “Blessed is God Who did not turn away my prayer” (Psalms 66:20). Despite his suffering, the afflicted is still capable of praying to God.",
-          "fr": "Et l'autre dit : telles sont les souffrances d'amour — celles qui n'entraînent pas l'interruption de la prière, comme il est dit : « Béni soit Dieu qui n'a pas écarté ma prière ni Ses bontés loin de moi. »",
+          "fr": "Et l’autre dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de la prière, comme il est dit : « Béni soit Dieu, qui n’a écarté ni ma prière ni Sa bonté de moi. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:15"
+          },
+          "fr_explanation": "Il s’agit de souffrances qui ne provoquent pas de négligence dans la récitation de la prière ; malgré sa souffrance, l’affligé est encore capable de prier Dieu.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Et l’autre dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de la prière, comme il est dit : « Béni soit Dieu, qui n’a écarté ni ma prière ni Sa bonté de moi. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Il s’agit de souffrances qui ne provoquent pas de négligence dans la récitation de la prière ; malgré sa souffrance, l’affligé est encore capable de prier Dieu.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:01.727647+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 15,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_045ca357624e2ead006a68d728376481a0986a483aa4b72fbb",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1336,
+              "output": 134,
+              "total": 1470
+            },
+            "cost": {
+              "segment_eur": 0.001605,
+              "phase_spent_eur": 0.25057034999999994,
+              "phase_remaining_eur": 44.74942965
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281280+00:00"
+          },
+          "study": {
+            "translation": "Et l’autre dit : les souffrances d’amour sont celles qui n’entraînent pas d’interruption de la prière, comme il est dit : « Béni soit Dieu, qui n’a écarté ni ma prière ni Sa bonté de moi. »",
+            "explanation": "Il s’agit de souffrances qui ne provoquent pas de négligence dans la récitation de la prière ; malgré sa souffrance, l’affligé est encore capable de prier Dieu.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 16,
           "he": "אָמַר לְהוּ רַבִּי אַבָּא בְּרֵיהּ דְּרַבִּי חִיָּיא בַּר אַבָּא, הָכִי אָמַר רַבִּי חִיָּיא בַּר אַבָּא, אָמַר רַבִּי יוֹחָנָן: אֵלּוּ וָאֵלּוּ יִסּוּרִין שֶׁל אַהֲבָה הֵן, שֶׁנֶּאֱמַר ״כִּי אֶת אֲשֶׁר יֶאֱהַב ה׳ יוֹכִיחַ״.",
           "en": "Rabbi Abba, son of Rabbi Ḥiyya bar Abba, said: My father, Rabbi Ḥiyya bar Abba, said that Rabbi Yoḥanan said as follows: Both, even afflictions that cause dereliction in the study of Torah and those that cause dereliction in the recitation of prayer, are afflictions of love, as with regard to one who suffers without transgression it is stated: “For whom He loves, He rebukes,” and inability to study Torah and to pray are among his afflictions.",
-          "fr": "Rabbi Abba, fils de Rabbi Hiyya bar Abba, leur dit : voici ce que Rabbi Hiyya bar Abba a dit au nom de Rabbi Yohanan : les unes et les autres sont des souffrances d'amour, comme il est dit : « Car celui que l'Éternel aime, Il le réprimande. »",
+          "fr": "Rabbi Abba, fils de Rabbi Hiyya bar Abba, leur dit : voici ce que Rabbi Hiyya bar Abba a dit au nom de Rabbi Yohanan : les unes comme les autres sont des souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:16"
+          },
+          "fr_explanation": "L’édition anglaise précise que cela vise aussi bien les souffrances qui entraînent une interruption de l’étude de la Torah que celles qui entraînent une interruption de la récitation de la prière. Elle explique que l’incapacité d’étudier la Torah et de prier fait partie de ces souffrances d’amour.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Rabbi Abba, fils de Rabbi Hiyya bar Abba, leur dit : voici ce que Rabbi Hiyya bar Abba a dit au nom de Rabbi Yohanan : les unes comme les autres sont des souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">L’édition anglaise précise que cela vise aussi bien les souffrances qui entraînent une interruption de l’étude de la Torah que celles qui entraînent une interruption de la récitation de la prière. Elle explique que l’incapacité d’étudier la Torah et de prier fait partie de ces souffrances d’amour.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:04.809812+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 16,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_06501c84377075c1006a68d72a4c3081918ef166668afddda9",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1420,
+              "output": 175,
+              "total": 1595
+            },
+            "cost": {
+              "segment_eur": 0.0018525,
+              "phase_spent_eur": 0.2524228499999999,
+              "phase_remaining_eur": 44.74757715
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281292+00:00"
+          },
+          "study": {
+            "translation": "Rabbi Abba, fils de Rabbi Hiyya bar Abba, leur dit : voici ce que Rabbi Hiyya bar Abba a dit au nom de Rabbi Yohanan : les unes comme les autres sont des souffrances d’amour, comme il est dit : « Car Hachem reprend celui qu’Il aime. »",
+            "explanation": "L’édition anglaise précise que cela vise aussi bien les souffrances qui entraînent une interruption de l’étude de la Torah que celles qui entraînent une interruption de la récitation de la prière. Elle explique que l’incapacité d’étudier la Torah et de prier fait partie de ces souffrances d’amour.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 17,
           "he": "אֶלָּא מַה תַּלְמוּד לוֹמַר ״וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ״ — אַל תִּקְרֵי ״תְלַמְּדֶנּוּ״, אֶלָּא תְלַמְּדֵנוּ. דָּבָר זֶה — מִתּוֹרָתְךָ תְּלַמְּדֵנוּ.",
           "en": "What then, is the meaning when the verse states: “And teach him from Your Torah”? Do not read and teach to mean and teach him, rather, and teach us. You teach us the value of this affliction from Your Torah.",
-          "fr": "Mais alors, qu'enseigne le verset : « Et Tu l'instruis par Ta Torah » ? Ne lis pas « tlamdennou » (Tu l'instruis), mais « telamdenou » (Tu nous instruis). Ce fait lui-même — Tu nous l'enseignes par Ta Torah.",
+          "fr": "Que vient donc enseigner « et à qui Tu enseignes Ta Torah » ? Ne lis pas « Tu lui enseignes », mais « Tu nous enseignes » : cette chose, c’est de Ta Torah que Tu nous l’enseignes.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:17"
+          },
+          "fr_explanation": "Le passage modifie la lecture traditionnelle du verset : la Torah n’est pas ici ce que Dieu enseigne à l’homme éprouvé ; elle est la source à partir de laquelle Dieu nous enseigne la valeur purificatrice des souffrances.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Que vient donc enseigner « et à qui Tu enseignes Ta Torah » ? Ne lis pas « Tu lui enseignes », mais « Tu nous enseignes » : cette chose, c’est de Ta Torah que Tu nous l’enseignes.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le passage modifie la lecture traditionnelle du verset : la Torah n’est pas ici ce que Dieu enseigne à l’homme éprouvé ; elle est la source à partir de laquelle Dieu nous enseigne la valeur purificatrice des souffrances.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que « cette chose » désigne l’enseignement : « Heureux l’homme que Tu corriges, Yah. » C’est de la Torah que nous apprenons cet enseignement.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:08.158822+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 17,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_04fd57bf5b249336006a68d72e2268819fa17867d4ba524f09",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1372,
+              "output": 193,
+              "total": 1565
+            },
+            "cost": {
+              "segment_eur": 0.0018975,
+              "phase_spent_eur": 0.2543203499999999,
+              "phase_remaining_eur": 44.74567965
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281307+00:00"
+          },
+          "study": {
+            "translation": "Que vient donc enseigner « et à qui Tu enseignes Ta Torah » ? Ne lis pas « Tu lui enseignes », mais « Tu nous enseignes » : cette chose, c’est de Ta Torah que Tu nous l’enseignes.",
+            "explanation": "Le passage modifie la lecture traditionnelle du verset : la Torah n’est pas ici ce que Dieu enseigne à l’homme éprouvé ; elle est la source à partir de laquelle Dieu nous enseigne la valeur purificatrice des souffrances.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que « cette chose » désigne l’enseignement : « Heureux l’homme que Tu corriges, Yah. » C’est de la Torah que nous apprenons cet enseignement.",
+                "refs": [
+                  "Rashi on Berakhot 5a:17:1",
+                  "Rashi on Berakhot 5a:17:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 18,
           "he": "קַל וָחוֹמֶר מִשֵּׁן וָעַיִן. מַה שֵּׁן וָעַיִן שֶׁהֵן אֶחָד מֵאֵבָרָיו שֶׁל אָדָם — עֶבֶד יוֹצֵא בָּהֶן לְחֵרוּת, יִסּוּרִין שֶׁמְּמָרְקִין כׇּל גּוּפוֹ שֶׁל אָדָם — עַל אַחַת כַּמָּה וְכַמָּה.",
           "en": "This is taught through an <i>a fortiori</i> inference from the law concerning the tooth and eye of a slave: The tooth and eye are each a single limb of a person and if his master damages either, the slave thereby obtains his freedom; suffering that cleanses a person’s entire body all the more so that one attains freedom, atonement, from his sins.",
-          "fr": "C'est un raisonnement a fortiori à partir de la dent et de l'œil : si la dent et l'œil, qui ne sont qu'un des membres d'un homme, permettent à l'esclave d'acquérir sa liberté, les souffrances qui purifient tout le corps de l'homme — à combien plus forte raison.",
+          "fr": "On le déduit a fortiori de la dent et de l’œil : la dent et l’œil ne sont chacun qu’un seul membre du corps humain, et pourtant l’esclave recouvre sa liberté lorsqu’ils sont endommagés ; à plus forte raison les souffrances, qui purifient le corps entier de l’homme.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:18"
+          },
+          "fr_explanation": "Le raisonnement est a fortiori : la perte d’une dent ou d’un œil suffit à libérer un esclave ; les souffrances, qui purifient l’ensemble du corps, libèrent à plus forte raison l’homme de ses fautes.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>On le déduit a fortiori de la dent et de l’œil : la dent et l’œil ne sont chacun qu’un seul membre du corps humain, et pourtant l’esclave recouvre sa liberté lorsqu’ils sont endommagés ; à plus forte raison les souffrances, qui purifient le corps entier de l’homme.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le raisonnement est a fortiori : la perte d’une dent ou d’un œil suffit à libérer un esclave ; les souffrances, qui purifient l’ensemble du corps, libèrent à plus forte raison l’homme de ses fautes.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:10.704507+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 18,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_03249a545ab2330e006a68d730de908191b6980ec4762e86b6",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1348,
+              "output": 159,
+              "total": 1507
+            },
+            "cost": {
+              "segment_eur": 0.0017265,
+              "phase_spent_eur": 0.25604684999999994,
+              "phase_remaining_eur": 44.74395315
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281318+00:00"
+          },
+          "study": {
+            "translation": "On le déduit a fortiori de la dent et de l’œil : la dent et l’œil ne sont chacun qu’un seul membre du corps humain, et pourtant l’esclave recouvre sa liberté lorsqu’ils sont endommagés ; à plus forte raison les souffrances, qui purifient le corps entier de l’homme.",
+            "explanation": "Le raisonnement est a fortiori : la perte d’une dent ou d’un œil suffit à libérer un esclave ; les souffrances, qui purifient l’ensemble du corps, libèrent à plus forte raison l’homme de ses fautes.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 19,
           "he": "וְהַיְינוּ דְּרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: נֶאֱמַר ״בְּרִית״ בְּמֶלַח, וְנֶאֱמַר ״בְּרִית״ בְּיִסּוּרִין, נֶאֱמַר ״בְּרִית״ בְּמֶלַח, דִּכְתִיב: ״וְלֹא תַשְׁבִּית מֶלַח בְּרִית״ וְנֶאֱמַר ״בְּרִית״ בְּיִסּוּרִין, דִּכְתִיב: ״אֵלֶּה דִבְרֵי הַבְּרִית״, מַה ״בְּרִית״ הָאָמוּר בְּמֶלַח — מֶלַח מְמַתֶּקֶת אֶת הַבָּשָׂר, אַף ״בְּרִית״ הָאָמוּר בְּיִסּוּרִין — יִסּוּרִין מְמָרְקִין כׇּל עֲוֹנוֹתָיו שֶׁל אָדָם.",
           "en": "And that is the statement of Rabbi Shimon ben Lakish, as Rabbi Shimon ben Lakish said: The word covenant is used with regard to salt, and the word covenant is used with regard to afflictions. The word covenant is used with regard to salt, as it is written: “The salt of the covenant with your God should not be excluded from your meal-offering; with all your sacrifices you must offer salt” (Leviticus 2:13). And the word covenant is used with regard to afflictions, as it is written: “These are the words of the covenant” (Deuteronomy 28:69). Just as, in the covenant mentioned with regard to salt, the salt sweetens the taste of the meat and renders it edible, so too in the covenant mentioned with regard to suffering, the suffering cleanses a person’s transgressions, purifying him for a more sublime existence.",
-          "fr": "Et c'est ce que disait Rabbi Chimon ben Lakish, car Rabbi Chimon ben Lakish dit : le terme « alliance » est employé à propos du sel, et le terme « alliance » est employé à propos des souffrances. « Alliance » est employé à propos du sel, comme il est écrit : « Tu ne feras pas disparaître le sel de l'alliance » ; et « alliance » est employé à propos des souffrances, comme il est écrit : « Telles sont les paroles de l'alliance. » De même que l'« alliance » mentionnée à propos du sel signifie que le sel attendrit la viande, de même l'« alliance » mentionnée à propos des souffrances signifie que les souffrances purifient toutes les fautes de l'homme.",
+          "fr": "Cela rejoint l’enseignement de Rabbi Shimon ben Lakish. Rabbi Shimon ben Lakish dit : le mot « alliance » est employé à propos du sel et à propos des souffrances. À propos du sel, il est écrit : « Tu ne feras pas disparaître le sel de l’alliance » ; à propos des souffrances, il est écrit : « Telles sont les paroles de l’alliance. » De même que le sel mentionné dans l’alliance adoucit la viande, les souffrances mentionnées dans l’alliance purifient l’homme de toutes ses fautes.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:19"
+          },
+          "fr_explanation": "Le rapprochement repose sur le mot « alliance », employé tant pour le sel que pour les souffrances. Comme le sel prépare et améliore la viande, les souffrances purifient l’homme de ses fautes.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Cela rejoint l’enseignement de Rabbi Shimon ben Lakish. Rabbi Shimon ben Lakish dit : le mot « alliance » est employé à propos du sel et à propos des souffrances. À propos du sel, il est écrit : « Tu ne feras pas disparaître le sel de l’alliance » ; à propos des souffrances, il est écrit : « Telles sont les paroles de l’alliance. » De même que le sel mentionné dans l’alliance adoucit la viande, les souffrances mentionnées dans l’alliance purifient l’homme de toutes ses fautes.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le rapprochement repose sur le mot « alliance », employé tant pour le sel que pour les souffrances. Comme le sel prépare et améliore la viande, les souffrances purifient l’homme de ses fautes.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi précise que l’expression « paroles de l’alliance », située après les malédictions du Deutéronome, rattache l’alliance aux souffrances. Celles-ci purifient l’homme de toutes ses fautes.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:13.948727+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 19,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0af92d6f905bebce006a68d73316dc819d9d943915526b36af",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1780,
+              "output": 349,
+              "total": 2129
+            },
+            "cost": {
+              "segment_eur": 0.0029055,
+              "phase_spent_eur": 0.25895234999999994,
+              "phase_remaining_eur": 44.74104765
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281336+00:00"
+          },
+          "study": {
+            "translation": "Cela rejoint l’enseignement de Rabbi Shimon ben Lakish. Rabbi Shimon ben Lakish dit : le mot « alliance » est employé à propos du sel et à propos des souffrances. À propos du sel, il est écrit : « Tu ne feras pas disparaître le sel de l’alliance » ; à propos des souffrances, il est écrit : « Telles sont les paroles de l’alliance. » De même que le sel mentionné dans l’alliance adoucit la viande, les souffrances mentionnées dans l’alliance purifient l’homme de toutes ses fautes.",
+            "explanation": "Le rapprochement repose sur le mot « alliance », employé tant pour le sel que pour les souffrances. Comme le sel prépare et améliore la viande, les souffrances purifient l’homme de ses fautes.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi précise que l’expression « paroles de l’alliance », située après les malédictions du Deutéronome, rattache l’alliance aux souffrances. Celles-ci purifient l’homme de toutes ses fautes.",
+                "refs": [
+                  "Rashi on Berakhot 5a:19:1",
+                  "Rashi on Berakhot 5a:19:2"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.97,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 20,
           "he": "תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי אוֹמֵר: שָׁלֹשׁ מַתָּנוֹת טוֹבוֹת נָתַן הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל, וְכוּלָּן לֹא נְתָנָן אֶלָּא עַל יְדֵי יִסּוּרִין, אֵלּוּ הֵן: תּוֹרָה וְאֶרֶץ יִשְׂרָאֵל וְהָעוֹלָם הַבָּא.",
           "en": "Additionally, it was taught in a <i>baraita</i> with regard to affliction: Rabbi Shimon ben Yoḥai says: The Holy One, Blessed be He, gave Israel three precious gifts, all of which were given only by means of suffering, which purified Israel so that they may merit to receive them. These gifts are: Torah, Eretz Yisrael, and the World-to-Come.",
-          "fr": "Il est enseigné dans une baraïta : Rabbi Chimon ben Yohaï dit : Trois bons dons le Saint, béni soit-Il, a donnés à Israël, et Il ne les a tous donnés que par le biais des souffrances. Les voici : la Torah, la terre d'Israël et le monde à venir.",
+          "fr": "Il a été enseigné dans une baraïta : Rabbi Shimon ben Yohaï dit que le Saint, béni soit-Il, a accordé trois précieux dons à Israël, et qu’Il ne les a tous accordés qu’au moyen des souffrances. Les voici : la Torah, Eretz Israël et le monde à venir.",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:20"
+          },
+          "fr_explanation": "Ces trois dons sont liés aux souffrances, comprises comme une purification permettant à Israël de les mériter.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Il a été enseigné dans une baraïta : Rabbi Shimon ben Yohaï dit que le Saint, béni soit-Il, a accordé trois précieux dons à Israël, et qu’Il ne les a tous accordés qu’au moyen des souffrances. Les voici : la Torah, Eretz Israël et le monde à venir.</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Ces trois dons sont liés aux souffrances, comprises comme une purification permettant à Israël de les mériter.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:17.149651+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 20,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0d8045575cec284e006a68d7369df081a392e4d4e9b27244f5",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1390,
+              "output": 133,
+              "total": 1523
+            },
+            "cost": {
+              "segment_eur": 0.001641,
+              "phase_spent_eur": 0.26059334999999995,
+              "phase_remaining_eur": 44.73940665
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281347+00:00"
+          },
+          "study": {
+            "translation": "Il a été enseigné dans une baraïta : Rabbi Shimon ben Yohaï dit que le Saint, béni soit-Il, a accordé trois précieux dons à Israël, et qu’Il ne les a tous accordés qu’au moyen des souffrances. Les voici : la Torah, Eretz Israël et le monde à venir.",
+            "explanation": "Ces trois dons sont liés aux souffrances, comprises comme une purification permettant à Israël de les mériter.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 21,
           "he": "תּוֹרָה מִנַּיִן — שֶׁנֶּאֱמַר: ״אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ״.",
           "en": "From where is it derived that Torah is only acquired by means of suffering? As it is said: “Happy is the man whom You afflict, Lord,” after which it is said: “And teach from Your Torah.”",
-          "fr": "La Torah — d'où le sait-on ? Car il est dit : « Heureux l'homme que Tu châties, ô Éternel, et que Tu instruis par Ta Torah. »",
+          "fr": "D’où le déduit-on pour la Torah ? Comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:21"
+          },
+          "fr_explanation": "La juxtaposition, dans le verset, de la correction divine et de l’enseignement de la Torah sert de preuve que la Torah s’acquiert au moyen des souffrances.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>D’où le déduit-on pour la Torah ? Comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">La juxtaposition, dans le verset, de la correction divine et de l’enseignement de la Torah sert de preuve que la Torah s’acquiert au moyen des souffrances.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:20.220060+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 21,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0f621ba2b5ffeaa3006a68d739f7d881a29b56afe8744bc2f2",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1264,
+              "output": 134,
+              "total": 1398
+            },
+            "cost": {
+              "segment_eur": 0.001551,
+              "phase_spent_eur": 0.26214434999999997,
+              "phase_remaining_eur": 44.73785565
+            },
+            "quality": {
+              "status": "flagged",
+              "flagged": true,
+              "reasons": [
+                "Segment sélectionné dans l’échantillon de contrôle."
+              ],
+              "sample_for_review": true
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281358+00:00"
+          },
+          "study": {
+            "translation": "D’où le déduit-on pour la Torah ? Comme il est dit : « Heureux l’homme que Tu corriges, Yah, et à qui Tu enseignes Ta Torah. »",
+            "explanation": "La juxtaposition, dans le verset, de la correction divine et de l’enseignement de la Torah sert de preuve que la Torah s’acquiert au moyen des souffrances.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.91,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 22,
           "he": "אֶרֶץ יִשְׂרָאֵל, דִּכְתִיב: ״כִּי כַּאֲשֶׁר יְיַסֵּר אִישׁ אֶת בְּנוֹ ה׳ אֱלֹהֶיךָ מְיַסְּרֶךָּ״, וּכְתִיב בָּתְרֵיהּ: ״כִּי ה׳ אֱלֹהֶיךָ מְבִיאֲךָ אֶל אֶרֶץ טוֹבָה״.",
           "en": "Eretz Yisrael, as it is written: “As a man rebukes his son, so the Lord your God rebukes you” (Deuteronomy 8:5), and it is written thereafter: “For the Lord your God will bring you to a good land” (Deuteronomy 8:7).",
-          "fr": "La terre d'Israël — car il est écrit : « De même qu'un homme châtie son fils, l'Éternel ton Dieu te châtie », et il est écrit à la suite : « Car l'Éternel ton Dieu t'introduit dans un bon pays. »",
+          "fr": "Pour Eretz Israël, il est écrit : « Comme un homme corrige son fils, Hachem, ton Dieu, te corrige », puis : « Car Hachem, ton Dieu, te conduit vers une bonne terre. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:22"
+          },
+          "fr_explanation": "",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Pour Eretz Israël, il est écrit : « Comme un homme corrige son fils, Hachem, ton Dieu, te corrige », puis : « Car Hachem, ton Dieu, te conduit vers une bonne terre. »</strong></p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:23.742899+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 22,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_025e72c4c6475a32006a68d73d68fc819fbf25260113052f41",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1332,
+              "output": 78,
+              "total": 1410
+            },
+            "cost": {
+              "segment_eur": 0.00135,
+              "phase_spent_eur": 0.26349435,
+              "phase_remaining_eur": 44.73650565
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281367+00:00"
+          },
+          "study": {
+            "translation": "Pour Eretz Israël, il est écrit : « Comme un homme corrige son fils, Hachem, ton Dieu, te corrige », puis : « Car Hachem, ton Dieu, te conduit vers une bonne terre. »",
+            "explanation": "",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.98,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 23,
           "he": "הָעוֹלָם הַבָּא, דִּכְתִיב: ״כִּי נֵר מִצְוָה וְתוֹרָה אוֹר וְדֶרֶךְ חַיִּים תּוֹכְחוֹת מוּסָר״.",
           "en": "The World-to-Come, as it is written: “For the mitzva is a lamp, the Torah is light, and the reproofs of instruction are the way of life” (Proverbs 6:23). One may arrive at the lamp of mitzva and the light of Torah that exists in the World-to-Come only by means of the reproofs of instruction in this world.",
-          "fr": "Le monde à venir — car il est écrit : « Car le commandement est une lampe et la Torah une lumière, et le chemin de la vie ce sont les réprimandes de la discipline. »",
+          "fr": "Pour le monde à venir, il est écrit : « Car le commandement est une lampe, la Torah est une lumière, et les réprimandes de la discipline sont le chemin de la vie. »",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:23"
+          },
+          "fr_explanation": "Le « chemin de la vie » désigne la vie du monde à venir, à laquelle conduisent les réprimandes et la discipline reçues dans ce monde.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Pour le monde à venir, il est écrit : « Car le commandement est une lampe, la Torah est une lumière, et les réprimandes de la discipline sont le chemin de la vie. »</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le « chemin de la vie » désigne la vie du monde à venir, à laquelle conduisent les réprimandes et la discipline reçues dans ce monde.</p>\n</section>\n<section class=\"talmud-study-section talmud-mefarshim-section\">\n  <h3>Éclairage des méfarchim</h3>\n<section class=\"talmud-commentary talmud-commentary-rachi\">\n  <h4>Rachi</h4>\n  <p class=\"talmud-commentary-text\">Rachi explique que le « chemin de la vie » désigne la vie du monde à venir, à laquelle les réprimandes et la discipline conduisent l’homme.</p>\n</section>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:26.408729+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 23,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_0ee3dcb619a954cc006a68d740625881a3a1b61f6b7bb25114",
+            "commentaries_available": [
+              "rachi"
+            ],
+            "commentaries_used": [
+              "rachi"
+            ],
+            "tokens": {
+              "input": 1324,
+              "output": 142,
+              "total": 1466
+            },
+            "cost": {
+              "segment_eur": 0.001632,
+              "phase_spent_eur": 0.26512635,
+              "phase_remaining_eur": 44.73487365
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281381+00:00"
+          },
+          "study": {
+            "translation": "Pour le monde à venir, il est écrit : « Car le commandement est une lampe, la Torah est une lumière, et les réprimandes de la discipline sont le chemin de la vie. »",
+            "explanation": "Le « chemin de la vie » désigne la vie du monde à venir, à laquelle conduisent les réprimandes et la discipline reçues dans ce monde.",
+            "commentaries": {
+              "rachi": {
+                "available": true,
+                "source_used": true,
+                "summary": "Rachi explique que le « chemin de la vie » désigne la vie du monde à venir, à laquelle les réprimandes et la discipline conduisent l’homme.",
+                "refs": [
+                  "Rashi on Berakhot 5a:23:1"
+                ],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         },
         {
           "id": 24,
           "he": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַבִּי יוֹחָנָן: כׇּל הָעוֹסֵק בְּתוֹרָה וּבִגְמִילוּת חֲסָדִים",
           "en": "A <i>tanna</i> taught the following <i>baraita</i> before Rabbi Yoḥanan: If one engages in Torah and acts of charity",
-          "fr": "Un tanna récita devant Rabbi Yohanan : Quiconque s'occupe de la Torah et de bienfaisance",
+          "fr": "Un Tanna enseigna devant Rabbi Yohanan : quiconque s’adonne à la Torah et aux actes de bienfaisance…",
           "translation_meta": {
-            "engine": "claude-sonnet-4-6",
-            "source": "hebrew_aramaic_direct"
+            "engine": "talmud-ai-aligned-v7.2",
+            "source": "hebrew_aramaic_with_aligned_explanation",
+            "model": "gpt-5.4-mini",
+            "base_ref": "berakhot 5a:24"
+          },
+          "fr_explanation": "Le raisonnement commencé ici se poursuit dans le segment suivant. Les actes de bienfaisance traduisent l’expression guemilout hassadim.",
+          "fr_html": "<section class=\"talmud-study-block talmud-study-aligned\">\n<section class=\"talmud-study-section talmud-translation-section\">\n  <h3>Traduction française</h3>\n  <p class=\"talmud-translation\"><strong>Un Tanna enseigna devant Rabbi Yohanan : quiconque s’adonne à la Torah et aux actes de bienfaisance…</strong></p>\n</section>\n<section class=\"talmud-study-section talmud-explanation-section\">\n  <h3>Explication</h3>\n  <p class=\"talmud-explanation\">Le raisonnement commencé ici se poursuit dans le segment suivant. Les actes de bienfaisance traduisent l’expression guemilout hassadim.</p>\n</section>\n</section>",
+          "fr_editorial": {
+            "engine_version": "7.2-aligned",
+            "schema_version": "study-aligned-v7.2",
+            "mode": "aligned-translation",
+            "generated_at": "2026-07-28T16:22:28.650876+00:00",
+            "masechet": "berakhot",
+            "daf": "5a",
+            "segment_number": 24,
+            "translator_model": "gpt-5.4-mini",
+            "reviewer_model": null,
+            "reviewer_used": false,
+            "translator_response_id": "resp_03d157c05525499c006a68d743130081a395e79e7b05dc9241",
+            "commentaries_available": [],
+            "commentaries_used": [],
+            "tokens": {
+              "input": 1216,
+              "output": 92,
+              "total": 1308
+            },
+            "cost": {
+              "segment_eur": 0.001326,
+              "phase_spent_eur": 0.26645235,
+              "phase_remaining_eur": 44.73354765
+            },
+            "quality": {
+              "status": "translated",
+              "flagged": false,
+              "reasons": [],
+              "sample_for_review": false
+            },
+            "human_reviewed": true,
+            "human_reviewed_at": "2026-07-28T16:47:05.281392+00:00"
+          },
+          "study": {
+            "translation": "Un Tanna enseigna devant Rabbi Yohanan : quiconque s’adonne à la Torah et aux actes de bienfaisance…",
+            "explanation": "Le raisonnement commencé ici se poursuit dans le segment suivant. Les actes de bienfaisance traduisent l’expression guemilout hassadim.",
+            "commentaries": {
+              "rachi": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              },
+              "tossefot": {
+                "available": false,
+                "source_used": false,
+                "summary": "",
+                "refs": [],
+                "full_translation_fr": ""
+              }
+            },
+            "halakha": {
+              "available": false,
+              "text": "",
+              "sources": []
+            },
+            "applications": [],
+            "glossary": [],
+            "summary": "",
+            "key_points": [],
+            "references": [],
+            "confidence": 0.95,
+            "issues": [],
+            "review_note": ""
           }
         }
       ],
@@ -51121,7 +52917,22 @@
           "fr": "Depuis quand récite-t-on le Shema le soir ? Dès l'heure où les kohanim entrent pour manger leur terouma, jusqu'à la fin de la première garde — ce sont les paroles de Rabbi Eliezer. Et les Sages disent : jusqu'à minuit. Rabban Gamliel dit : jusqu'à ce que monte la colonne de l'aube. Rachi explique : et nous qui lisons le Shema à la synagogue avant la sortie des étoiles, nous ne nous acquittons pas de notre obligation, si ce n'est par la lecture du Shema dit sur notre couche — premier chapitre. Et ce que nous lisons à la synagogue, c'est afin de se dresser pour la prière depuis les paroles de Torah. Ainsi enseigne-t-on dans la Berakhot de Yeroushalmi au début du chapitre : celui qui lit le Shema avant ce temps n'est pas quitte. Si tel est le cas, pourquoi le lit-on à la synagogue ? Non pas pour acquitter le public de son obligation, mais afin de se dresser pour la prière depuis les paroles de Torah. Ainsi l'a écrit le Riva et le Riz Guiat, de mémoire bénie, et ainsi l'a écrit Rav Amram, de mémoire bénie — version alternative : et pour cette raison il a écrit qu'il faut réciter la bénédiction « nous a sanctifiés par ses commandements concernant la lecture du Shema » lorsqu'on le lit avant d'aller dormir. De leurs paroles, il ressort que l'homme s'acquitte de son obligation par cette lecture-là. Mais cela ne lui semble pas juste à Rabbenu Tam, de mémoire bénie, car pour le Shema dit sur la couche, nous ne lisons que la première paracha, et sans ses bénédictions, tandis qu'à la synagogue nous le lisons en entier avec ses bénédictions, hors de son temps. De plus, la Guemara dit : si c'est un talmid hakham, il n'a pas besoin de lire le Shema sur sa couche. On peut répondre que cela traite du cas où il l'a lu en son temps à la synagogue. Il a encore objecté que si tel est le cas, nous suivons Rabbi Yehoshua ben Levi qui dit que les prières ont été instituées entre les deux, tandis que nous tranchons selon Rabbi Yohanan qui dit que le Shema du soir vient en premier, puis la prière, comme une baraïta le soutient plus loin dans ce chapitre. Rabbenu Tam, de mémoire bénie, explique donc que la lecture du Shema à la synagogue est l'essentielle. Et le fait que nous le lisions pendant qu'il fait encore jour, c'est que nous tranchons comme Rabbi Yehouda qui dit plus loin au chapitre Tefillat HaShahar (Berakhot 26a) que la prière de Minha vaut jusqu'au plag ha-minha, soit une heure et quart avant la nuit. À partir de là, c'est la nuit en ce qui concerne la prière de Minha, et il en va de même en ce qui concerne le Shema. Et nous disons plus loin (Berakhot 27a) : celui qui agit comme le premier maître a bien agi, et celui qui agit comme le second maître a bien agi. Et nous disons aussi là-bas que Rav a prié la prière de Shabbat le vendredi soir — cela démontre qu'il considère cela comme nuit en ce qui concerne la prière du soir, et il en va de même pour le Shema. Et si tu objectes : la question que pose plus loin Rabbi Yehouda à Rabbi Meir, qui dit « depuis l'heure où les kohanim plongent pour manger leur terouma » — or les kohanim plongent pendant le jour — en vérité, cela serait encore plus difficile selon lui-même, puisqu'il lit le Shema au plag ha-minha qui est pleinement le jour ! On peut répondre qu'il lui dit ceci : selon toi, qui suis l'avis des Sages qui me contredisent au chapitre Tefillat HaShahar et disent que la prière de Minha va jusqu'au soir, cette heure est alors le jour en ce qui concerne le Shema. Et ce que dit le Yeroushalmi — qu'ils lisaient le Shema afin de se dresser pour la prière depuis des paroles de Torah — cela ne signifie pas qu'ils le lisaient avec ses bénédictions, mais qu'ils lisaient la paracha Shema comme nous avons coutume de lire Ashrei avant la prière de Minha. Cependant, cela est quelque peu difficile car pour la prière de Minha nous agissons comme les Sages et prions parfois la prière de Minha après le plag ha-minha, tandis que pour le Shema nous le considérons comme nuit selon Rabbi Yehouda — ce qui revient à prendre deux leniencies contradictoires l'une avec l'autre, comme il est dit en Erouvin (7a) concernant la colonne vertébrale et le crâne. Et ce que nous disons plus loin — celui qui agit comme le premier maître a bien agi, et celui qui agit comme le second maître a bien agi — voici la signification : la halakha n'a pas été tranchée ni comme Rabbi Yehouda ni comme les Sages ; qui veut agir peut tout faire comme Rabbi Yehouda ou tout faire comme les Sages, mais non prendre la leniency des deux à la fois. On peut dire que pour la prière ils ont assoupli la règle. Et il ne me semble pas juste ce que Rabbenu Tam, de mémoire bénie, a apporté comme preuve de la prière de Minha — qu'elle vaut jusqu'au plag ha-minha — car les prières ont été instituées en face des sacrifices perpétuels, et le sacrifice perpétuel était offert et s'étalait jusqu'au plag ha-minha ; mais pour ce qui est du Shema, ce n'est pas l'heure du coucher. Et la preuve tirée de Rav qui a prié la prière de Shabbat le vendredi soir n'est pas une preuve, car peut-être qu'il est d'avis comme Rabbi Yehoshua ben Levi, qui dit que les prières ont été instituées entre les deux, et qu'il lisait le Shema après la sortie des étoiles. Il semble donc juste de maintenir la coutume, car nous estimons comme les autres tannaïm qui avancent l'heure du Shema avant la sortie des étoiles. Et bien que la halakha ne soit pas comme Rabbi Eliezer face à Rabbi Yehoshua, ni comme Rabbi Meir face à Rabbi Yehouda, pour la prière néanmoins on a assoupli, et aussi en raison de la contrainte la coutume s'est établie ainsi, car le public se rassemble pour la prière de Minha, et s'ils ne lisaient pas le Shema et ne priaient pas la prière du soir jusqu'à la sortie des étoiles, chacun rentrerait chez soi et il leur serait pénible de se rassembler à nouveau, et ils ne prieraient pas en communauté. C'est pourquoi le peuple a pris l'habitude de lire le Shema et de prier avant la sortie des étoiles, en s'appuyant sur ces tannaïm comme je l'ai expliqué, même si a priori il ne faut pas lire le Shema avant la sortie des étoiles, selon l'implication de la mishna et selon Rabbi Yehoshua qui contredit Rabbi Eliezer dans la baraïta. On interrogea Rav Haï, de mémoire bénie, au sujet d'une communauté qui prie le soir et lit le Shema avant la sortie des étoiles, et un homme ne peut les retarder. Lequel est préférable : prier avec eux et laisser la lecture du Shema jusqu'à la sortie des étoiles, ou bien attendre jusqu'à la sortie des étoiles et prier en individuel afin de juxtaposer la geoulah à la prière ? Il répondit : en Terre d'Israël on fait ainsi — on prie la prière du soir, puis on lit le Shema en son temps, et l'on ne se soucie pas de juxtaposer la geoulah à la prière du soir. Nous voyons donc que la lecture du Shema en son temps, à savoir à la sortie des étoiles, est préférable à la juxtaposition de la geoulah à la prière, là où il n'est pas possible de prier. Et si l'on a prié une première fois avec la communauté — c'est une obligation facultative — et une seconde fois — c'est une obligation obligatoire —, c'est bien. Telle est la réponse de Rav Haï Gaon, de mémoire bénie. Car il lui semble qu'il vaut mieux prier sa prière avec la communauté à partir du plag ha-minha et au-delà, comme Rabbi Yehouda, plutôt que de prier en individuel et de juxtaposer la geoulah à la prière. À plus forte raison pour nous, qui ne juxtaposons pas la geoulah à la prière du soir, puisque nous intercalons des versets de « Veyire'ou eyneinou » et le Kaddish. Cependant, il semble que celui qui se conduit ainsi doit veiller à ne pas prier la prière de Minha à partir du plag ha-minha et au-delà, puisqu'il le considère comme nuit en ce qui concerne la prière du soir."
         }
       ],
-      "ritva": []
+      "ritva": [],
+      "fr_validation": {
+        "status": "reviewed",
+        "segments_reviewed": 24,
+        "problems_detected": 0,
+        "reviewed_at": "2026-07-28T16:47:05.281399+00:00",
+        "review_scope": [
+          "hebrew_aramaic",
+          "translation_fr",
+          "explanation_fr",
+          "rachi",
+          "tossefot",
+          "html",
+          "terminology"
+        ]
+      }
     },
     "5b": {
       "segments": [
