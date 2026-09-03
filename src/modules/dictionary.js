@@ -1,73 +1,63 @@
 import { state } from '../state.js'
 import { cleanText, escapeHtml } from './utils.js'
 
-import { initializeApp, getApps } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js'
+import { initializeApp, getApps } from "https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js"
 import {
   getFirestore,
   collection,
-  onSnapshot
-} from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js'
+  getDocs
+} from "https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js"
 
 
 /* =========================================================
    FIREBASE
+   Même configuration que public/dictionary/dictionary.js
    ========================================================= */
 
-/* Base française */
 const firebaseFrConfig = {
-  apiKey: 'AIzaSyBTQEl7BVMYcpD4XLjL7hsNUo74MSGaaUI',
-  authDomain: 'dico-fr-arameen.firebaseio.com',
-  projectId: 'test'
+  apiKey: "AIzaSyBTQEl7BVMYcpD4XLjL7hsNUo74MSGaaUI",
+  authDomain: "dico-fr-arameen.firebaseio.com",
+  projectId: "test"
 }
 
-/* Base anglaise */
 const firebaseEnConfig = {
-  apiKey: 'AIzaSyBTQEl7BVMYcpD4XLjL7hsNUo74MSGaaUI',
-  authDomain: 'dico-fr-arameen.firebaseio.com',
-  projectId: 'English'
+  apiKey: "AIzaSyBTQEl7BVMYcpD4XLjL7hsNUo74MSGaaUI",
+  authDomain: "dico-fr-arameen.firebaseio.com",
+  projectId: "English"
 }
 
-let firebaseInitialized = false
-let dbFr = null
-let dbEn = null
 
-let unsubscribeFr = null
-let unsubscribeEn = null
+function getOrCreateApp(config, name) {
+  const existing = getApps().find(app => app.name === name)
 
-let firebaseFrItems = []
-let firebaseEnItems = []
-
-
-function initFirebase() {
-  if (firebaseInitialized) return
-
-  const existingApps = getApps()
-
-  let appFr = existingApps.find(app => app.name === 'talmud-dict-fr')
-  let appEn = existingApps.find(app => app.name === 'talmud-dict-en')
-
-  if (!appFr) {
-    appFr = initializeApp(firebaseFrConfig, 'talmud-dict-fr')
+  if (existing) {
+    return existing
   }
 
-  if (!appEn) {
-    appEn = initializeApp(firebaseEnConfig, 'talmud-dict-en')
-  }
-
-  dbFr = getFirestore(appFr)
-  dbEn = getFirestore(appEn)
-
-  firebaseInitialized = true
+  return initializeApp(config, name)
 }
+
+
+const appFr = getOrCreateApp(firebaseFrConfig, "talmud-fr")
+const appEn = getOrCreateApp(firebaseEnConfig, "talmud-en")
+
+const dbFr = getFirestore(appFr)
+const dbEn = getFirestore(appEn)
 
 
 /* =========================================================
-   OUVERTURE / FERMETURE
+   OUVERTURE DU DICTIONNAIRE
    ========================================================= */
 
 export function openDictionary(initialSearch = '') {
-  document.querySelector('#dictionaryPanel')?.classList.remove('hidden')
-  document.querySelector('#dictOverlay')?.classList.remove('hidden')
+
+  document
+    .querySelector('#dictionaryPanel')
+    ?.classList.remove('hidden')
+
+  document
+    .querySelector('#dictOverlay')
+    ?.classList.remove('hidden')
 
   const input = document.querySelector('#dictSearch')
 
@@ -77,30 +67,40 @@ export function openDictionary(initialSearch = '') {
     input.select()
   }
 
-  if (!state.dictionaryLoaded) {
-    loadDictionary()
-  } else {
-    renderDictionaryResults()
-  }
+  /*
+   * IMPORTANT :
+   * on recharge Firebase à chaque ouverture.
+   *
+   * Donc un mot ajouté dans Firebase après le déploiement
+   * apparaîtra sans modifier GitHub ni Vercel.
+   */
+  loadDictionary()
 }
 
 
 export function closeDictionary() {
-  document.querySelector('#dictionaryPanel')?.classList.add('hidden')
-  document.querySelector('#dictOverlay')?.classList.add('hidden')
+
+  document
+    .querySelector('#dictionaryPanel')
+    ?.classList.add('hidden')
+
+  document
+    .querySelector('#dictOverlay')
+    ?.classList.add('hidden')
 }
 
 
 /* =========================================================
-   UTILITAIRES FIREBASE
+   UTILITAIRE FIREBASE
    ========================================================= */
 
 function getValue(data, keys) {
+
   for (const key of keys) {
+
     if (
-      Object.prototype.hasOwnProperty.call(data, key) &&
-      data[key] !== null &&
       data[key] !== undefined &&
+      data[key] !== null &&
       data[key] !== ''
     ) {
       return data[key]
@@ -111,193 +111,183 @@ function getValue(data, keys) {
 }
 
 
-function firestoreDocToItem(doc, language) {
-  const data = doc.data() || {}
-
-  const term =
-    getValue(data, [
-      'term',
-      'ar',
-      'he',
-      'aramic',
-      'arameen',
-      'hebrew',
-      'word'
-    ]) || doc.id
-
-  const aramic =
-    getValue(data, [
-      'aramic',
-      'arameen',
-      'hebrew',
-      'he',
-      'term',
-      'ar',
-      'word'
-    ]) || term
-
-  if (language === 'fr') {
-    return {
-      term: cleanText(term),
-      aramic: cleanText(aramic),
-      fr: cleanText(
-        getValue(data, [
-          'fr',
-          'french',
-          'translation',
-          'traduction'
-        ])
-      ),
-      en: '',
-      category: 'Firebase Français'
-    }
-  }
-
-  return {
-    term: cleanText(term),
-    aramic: cleanText(aramic),
-    fr: '',
-    en: cleanText(
-      getValue(data, [
-        'en',
-        'english',
-        'translation',
-        'traduction'
-      ])
-    ),
-    category: 'Firebase English'
-  }
-}
-
-
 /* =========================================================
-   SYNCHRONISATION FIREBASE TEMPS RÉEL
-   ========================================================= */
-
-function refreshFirebaseDictionary() {
-  const merged = mergeDictionaryItems([
-    ...firebaseFrItems,
-    ...firebaseEnItems
-  ])
-
-  state.dictionaryItems = merged
-  state.dictionaryLoaded = true
-
-  const status = document.querySelector('#dictStatus')
-
-  if (status) {
-    status.textContent =
-      `${state.dictionaryItems.length} entrées Firebase chargées.`
-  }
-
-  renderDictionaryResults()
-}
-
-
-function startFirebaseListeners() {
-  initFirebase()
-
-  /*
-   * On évite de créer plusieurs écouteurs si le dictionnaire
-   * est ouvert plusieurs fois.
-   */
-  if (!unsubscribeFr) {
-    unsubscribeFr = onSnapshot(
-      collection(dbFr, 'test'),
-
-      snapshot => {
-        firebaseFrItems = []
-
-        snapshot.forEach(doc => {
-          firebaseFrItems.push(
-            firestoreDocToItem(doc, 'fr')
-          )
-        })
-
-        refreshFirebaseDictionary()
-      },
-
-      error => {
-        console.error(
-          'Erreur Firebase dictionnaire français :',
-          error
-        )
-      }
-    )
-  }
-
-
-  if (!unsubscribeEn) {
-    unsubscribeEn = onSnapshot(
-      collection(dbEn, 'English'),
-
-      snapshot => {
-        firebaseEnItems = []
-
-        snapshot.forEach(doc => {
-          firebaseEnItems.push(
-            firestoreDocToItem(doc, 'en')
-          )
-        })
-
-        refreshFirebaseDictionary()
-      },
-
-      error => {
-        console.error(
-          'Erreur Firebase dictionnaire anglais :',
-          error
-        )
-      }
-    )
-  }
-}
-
-
-/* =========================================================
-   CHARGEMENT PRINCIPAL
+   CHARGEMENT FIREBASE
    ========================================================= */
 
 export async function loadDictionary() {
+
   const status = document.querySelector('#dictStatus')
 
   if (status) {
-    status.textContent =
-      'Connexion au dictionnaire Firebase...'
+    status.textContent = 'Chargement du dictionnaire Firebase...'
   }
 
   try {
-    startFirebaseListeners()
 
-    /*
-     * onSnapshot est asynchrone.
-     * Le premier snapshot remplira automatiquement
-     * state.dictionaryItems.
-     */
-    return
+    const all = []
+
+
+    /* -----------------------------------------------------
+       FRANÇAIS
+       ----------------------------------------------------- */
+
+    const frSnap = await getDocs(
+      collection(dbFr, "test")
+    )
+
+    frSnap.forEach(doc => {
+
+      const d = doc.data() || {}
+
+      all.push({
+
+        id: "fr-" + doc.id,
+
+        term:
+          getValue(
+            d,
+            [
+              "term",
+              "ar",
+              "he",
+              "aramic",
+              "arameen"
+            ]
+          ) || doc.id,
+
+        aramic:
+          getValue(
+            d,
+            [
+              "aramic",
+              "arameen",
+              "hebrew",
+              "he",
+              "term"
+            ]
+          ) || doc.id,
+
+        fr:
+          getValue(
+            d,
+            [
+              "fr",
+              "french",
+              "translation",
+              "traduction"
+            ]
+          ),
+
+        en: "",
+
+        category: "Firebase Français"
+      })
+    })
+
+
+    /* -----------------------------------------------------
+       ANGLAIS
+       ----------------------------------------------------- */
+
+    const enSnap = await getDocs(
+      collection(dbEn, "English")
+    )
+
+    enSnap.forEach(doc => {
+
+      const d = doc.data() || {}
+
+      all.push({
+
+        id: "en-" + doc.id,
+
+        term:
+          getValue(
+            d,
+            [
+              "term",
+              "ar",
+              "he",
+              "aramic",
+              "arameen"
+            ]
+          ) || doc.id,
+
+        aramic:
+          getValue(
+            d,
+            [
+              "aramic",
+              "arameen",
+              "hebrew",
+              "he",
+              "term"
+            ]
+          ) || doc.id,
+
+        fr: "",
+
+        en:
+          getValue(
+            d,
+            [
+              "en",
+              "english",
+              "translation"
+            ]
+          ),
+
+        category: "Firebase English"
+      })
+    })
+
+
+    /* -----------------------------------------------------
+       FUSION FR / EN
+       ----------------------------------------------------- */
+
+    state.dictionaryItems =
+      mergeDictionaryItems(all)
+
+    state.dictionaryLoaded = true
+
+
+    if (status) {
+      status.textContent =
+        `${state.dictionaryItems.length} entrées Firebase chargées.`
+    }
+
+
+    renderDictionaryResults()
 
   } catch (error) {
 
     console.error(
-      'Firebase indisponible, utilisation du dictionnaire local :',
+      "Erreur Firebase dictionnaire TALMUD AI :",
       error
     )
 
     if (status) {
       status.textContent =
-        'Firebase indisponible. Chargement du dictionnaire local...'
+        "Firebase indisponible. Chargement du dictionnaire local..."
     }
 
+    /*
+     * En cas de problème Firebase,
+     * TALMUD AI continue à fonctionner avec le JSON.
+     */
     await loadLocalDictionary()
   }
 }
 
 
 /* =========================================================
-   FALLBACK : DICTIONNAIRE JSON LOCAL
+   DICTIONNAIRE LOCAL DE SECOURS
    ========================================================= */
 
 async function loadLocalDictionary() {
+
   const status = document.querySelector('#dictStatus')
 
   const paths = [
@@ -310,37 +300,55 @@ async function loadLocalDictionary() {
 
   let lastError = ''
 
-  for (const url of paths) {
-    try {
-      const response = await fetch(url, {
-        cache: 'no-store'
-      })
 
-      if (!response.ok) {
-        lastError = `${url} : ${response.status}`
+  for (const url of paths) {
+
+    try {
+
+      const res = await fetch(
+        url,
+        {
+          cache: 'no-store'
+        }
+      )
+
+
+      if (!res.ok) {
+
+        lastError =
+          `${url} : ${res.status}`
+
         continue
       }
 
-      const raw = await response.json()
+
+      const raw =
+        await res.json()
+
 
       state.dictionaryItems =
         normalizeDictionaryJson(raw)
 
       state.dictionaryLoaded = true
 
+
       if (status) {
         status.textContent =
           `${state.dictionaryItems.length} entrées locales chargées.`
       }
+
 
       renderDictionaryResults()
 
       return
 
     } catch (error) {
-      lastError = `${url} : ${error.message}`
+
+      lastError =
+        `${url} : ${error.message}`
     }
   }
+
 
   if (status) {
     status.textContent =
@@ -355,117 +363,180 @@ async function loadLocalDictionary() {
    ========================================================= */
 
 function normalizeDictionaryJson(raw) {
+
   const items = []
+
 
   if (Array.isArray(raw)) {
 
     raw.forEach(value => {
-      if (!value || typeof value !== 'object') return
 
-      const term =
-        value.term ||
-        value.aramic ||
-        value.he ||
-        value.hebrew ||
-        value.word ||
-        ''
+      if (
+        value &&
+        typeof value === 'object'
+      ) {
 
-      items.push({
-        term: cleanText(term),
-
-        aramic: cleanText(
+        const term =
+          value.term ||
           value.aramic ||
-          value.hebrew ||
           value.he ||
-          term
-        ),
-
-        fr: cleanText(
-          value.fr ||
-          value.french ||
-          value.traduction ||
+          value.hebrew ||
+          value.word ||
           ''
-        ),
 
-        en: cleanText(
-          value.en ||
-          value.english ||
-          ''
-        ),
 
-        category:
-          value.category ||
-          'Dictionnaire'
-      })
+        items.push({
+
+          term:
+            cleanText(term),
+
+          aramic:
+            cleanText(
+              value.aramic ||
+              value.hebrew ||
+              value.he ||
+              term
+            ),
+
+          fr:
+            cleanText(
+              value.fr ||
+              value.french ||
+              value.traduction ||
+              ''
+            ),
+
+          en:
+            cleanText(
+              value.en ||
+              value.english ||
+              ''
+            ),
+
+          category:
+            value.category ||
+            'Dictionnaire'
+        })
+      }
     })
+
 
     return mergeDictionaryItems(items)
   }
 
 
-  for (const [category, entries] of Object.entries(raw || {})) {
+  for (
+    const [category, entries]
+    of Object.entries(raw || {})
+  ) {
 
-    if (!entries || typeof entries !== 'object') {
+    if (
+      !entries ||
+      typeof entries !== 'object'
+    ) {
       continue
     }
 
-    for (const [term, value] of Object.entries(entries)) {
+
+    for (
+      const [term, value]
+      of Object.entries(entries)
+    ) {
 
       const parsed =
-        parseDictionaryValue(value, category)
+        parseDictionaryValue(
+          value,
+          category
+        )
+
 
       items.push({
-        term: cleanText(term),
 
-        aramic: cleanText(
-          parsed.aramic || term
-        ),
+        term:
+          cleanText(term),
 
-        fr: cleanText(parsed.fr),
+        aramic:
+          cleanText(
+            parsed.aramic ||
+            term
+          ),
 
-        en: cleanText(parsed.en),
+        fr:
+          cleanText(parsed.fr),
+
+        en:
+          cleanText(parsed.en),
 
         category
       })
     }
   }
 
+
   return mergeDictionaryItems(items)
 }
 
 
 function isEnglishCategory(category = '') {
-  const value =
-    String(category).toLowerCase()
+
+  const c =
+    String(category)
+      .toLowerCase()
 
   return (
-    value === 'english' ||
-    value.includes('eng')
+    c === 'english' ||
+    c.includes('eng')
   )
 }
 
 
-function parseDictionaryValue(value, category = '') {
+function parseDictionaryValue(
+  value,
+  category = ''
+) {
+
   const english =
     isEnglishCategory(category)
 
+
   if (Array.isArray(value)) {
+
     return {
-      aramic: value[0] || '',
 
-      fr: english
-        ? ''
-        : (value[2] || value[1] || ''),
+      aramic:
+        value[0] || '',
 
-      en: english
-        ? (value[2] || value[1] || '')
-        : (value[1] || '')
+      fr:
+        english
+          ? ''
+          : (
+            value[2] ||
+            value[1] ||
+            ''
+          ),
+
+      en:
+        english
+          ? (
+            value[2] ||
+            value[1] ||
+            ''
+          )
+          : (
+            value[1] ||
+            ''
+          )
     }
   }
 
 
-  if (value && typeof value === 'object') {
+  if (
+    value &&
+    typeof value === 'object'
+  ) {
+
     return {
+
       aramic:
         value.aramic ||
         value.hebrew ||
@@ -473,15 +544,16 @@ function parseDictionaryValue(value, category = '') {
         value.term ||
         '',
 
-      fr: english
-        ? ''
-        : (
-          value.fr ||
-          value.french ||
-          value.traduction ||
-          value.translation ||
-          ''
-        ),
+      fr:
+        english
+          ? ''
+          : (
+            value.fr ||
+            value.french ||
+            value.traduction ||
+            value.translation ||
+            ''
+          ),
 
       en:
         value.en ||
@@ -497,33 +569,67 @@ function parseDictionaryValue(value, category = '') {
 
   if (typeof value === 'string') {
 
-    const text = value.trim()
+    const s =
+      value.trim()
+
 
     try {
-      const parsed = JSON.parse(text)
+
+      const parsed =
+        JSON.parse(s)
+
 
       if (Array.isArray(parsed)) {
+
         return {
-          aramic: parsed[0] || '',
 
-          fr: english
-            ? ''
-            : (parsed[2] || parsed[1] || ''),
+          aramic:
+            parsed[0] || '',
 
-          en: english
-            ? (parsed[2] || parsed[1] || '')
-            : (parsed[1] || '')
+          fr:
+            english
+              ? ''
+              : (
+                parsed[2] ||
+                parsed[1] ||
+                ''
+              ),
+
+          en:
+            english
+              ? (
+                parsed[2] ||
+                parsed[1] ||
+                ''
+              )
+              : (
+                parsed[1] ||
+                ''
+              )
         }
       }
 
     } catch {
-      /* Ce n'est simplement pas du JSON */
+      /*
+       * Ce n'est pas du JSON.
+       * On conserve la chaîne telle quelle.
+       */
     }
 
+
     return {
+
       aramic: '',
-      fr: english ? '' : text,
-      en: english ? text : ''
+
+      fr:
+        english
+          ? ''
+          : s,
+
+      en:
+        english
+          ? s
+          : ''
     }
   }
 
@@ -537,65 +643,74 @@ function parseDictionaryValue(value, category = '') {
 
 
 /* =========================================================
-   FUSION FR + EN
+   FUSION FRANÇAIS / ANGLAIS
    ========================================================= */
 
 function mergeDictionaryItems(items) {
-  const map = new Map()
+
+  const map =
+    new Map()
+
 
   for (const item of items) {
 
     const key =
-      cleanText(item.term || item.aramic)
+      cleanText(
+        item.term ||
+        item.aramic
+      )
 
-    if (!key) continue
 
-    /*
-     * On utilise également la forme araméenne nettoyée
-     * afin de rapprocher les entrées FR et EN.
-     */
-    const normalizedKey =
-      key.toLowerCase()
+    if (!key) {
+      continue
+    }
 
-    if (!map.has(normalizedKey)) {
 
-      map.set(normalizedKey, {
-        ...item
-      })
+    if (!map.has(key)) {
+
+      map.set(
+        key,
+        {
+          ...item
+        }
+      )
 
     } else {
 
       const old =
-        map.get(normalizedKey)
+        map.get(key)
 
-      map.set(normalizedKey, {
-        ...old,
 
-        term:
-          old.term ||
-          item.term,
+      map.set(
+        key,
+        {
 
-        aramic:
-          old.aramic ||
-          item.aramic,
+          ...old,
 
-        fr:
-          old.fr ||
-          item.fr,
+          aramic:
+            old.aramic ||
+            item.aramic,
 
-        en:
-          old.en ||
-          item.en,
+          fr:
+            old.fr ||
+            item.fr,
 
-        category:
-          old.category === item.category
-            ? old.category
-            : 'Firebase FR + EN'
-      })
+          en:
+            old.en ||
+            item.en,
+
+          category:
+            old.category ||
+            item.category
+        }
+      )
     }
   }
 
-  return Array.from(map.values())
+
+  return Array.from(
+    map.values()
+  )
 }
 
 
@@ -604,6 +719,7 @@ function mergeDictionaryItems(items) {
    ========================================================= */
 
 export function renderDictionaryResults() {
+
   const input =
     document.querySelector('#dictSearch')
 
@@ -613,18 +729,30 @@ export function renderDictionaryResults() {
   const status =
     document.querySelector('#dictStatus')
 
-  if (!input || !box) return
+
+  if (
+    !input ||
+    !box
+  ) {
+    return
+  }
+
 
   const q =
     cleanText(input.value)
       .toLowerCase()
+
 
   box.innerHTML = ''
 
 
   if (!q) {
 
-    if (status && state.dictionaryLoaded) {
+    if (
+      status &&
+      state.dictionaryLoaded
+    ) {
+
       status.textContent =
         `${state.dictionaryItems.length} entrées chargées. Écris un mot.`
     }
@@ -638,23 +766,30 @@ export function renderDictionaryResults() {
   const contains = []
 
 
-  for (const item of state.dictionaryItems || []) {
+  for (
+    const item
+    of state.dictionaryItems || []
+  ) {
 
     const term =
-      cleanText(item.term)
-        .toLowerCase()
+      cleanText(
+        item.term
+      ).toLowerCase()
 
     const aramic =
-      cleanText(item.aramic)
-        .toLowerCase()
+      cleanText(
+        item.aramic
+      ).toLowerCase()
 
     const fr =
-      cleanText(item.fr)
-        .toLowerCase()
+      cleanText(
+        item.fr
+      ).toLowerCase()
 
     const en =
-      cleanText(item.en)
-        .toLowerCase()
+      cleanText(
+        item.en
+      ).toLowerCase()
 
 
     if (
@@ -686,10 +821,14 @@ export function renderDictionaryResults() {
   const results =
     exact.length
       ? exact
-      : [...starts, ...contains].slice(0, 80)
+      : [
+          ...starts,
+          ...contains
+        ].slice(0, 80)
 
 
   if (status) {
+
     status.textContent =
       `${results.length} résultat(s).`
   }
@@ -705,115 +844,126 @@ export function renderDictionaryResults() {
 
 
   box.innerHTML =
-    results.map(item => {
+    results
+      .map(
+        item => `
+          <div class="dictCard">
 
-      const showFrench =
-        state.dictLang !== 'en' &&
-        item.fr
+            <div class="dictTerm">
+              ${escapeHtml(
+                item.aramic ||
+                item.term
+              )}
+            </div>
 
-      const showEnglish =
-        state.dictLang !== 'fr' &&
-        item.en
+            ${
+              item.term &&
+              item.term !== item.aramic
+                ? `
+                  <div>
+                    <b>Entrée :</b>
+                    ${escapeHtml(item.term)}
+                  </div>
+                `
+                : ''
+            }
 
+            ${
+              state.dictLang !== 'en' &&
+              item.fr
+                ? `
+                  <div>
+                    <b>Français :</b>
+                    ${escapeHtml(item.fr)}
+                  </div>
+                `
+                : ''
+            }
 
-      return `
-        <div class="dictCard">
+            ${
+              state.dictLang !== 'fr' &&
+              item.en
+                ? `
+                  <div>
+                    <b>English :</b>
+                    ${escapeHtml(item.en)}
+                  </div>
+                `
+                : ''
+            }
 
-          <div class="dictTerm">
-            ${escapeHtml(item.aramic || item.term)}
+            <small>
+              ${escapeHtml(
+                item.category ||
+                'Firebase'
+              )}
+            </small>
+
           </div>
-
-          ${
-            item.term &&
-            item.term !== item.aramic
-              ? `
-                <div>
-                  <b>Entrée :</b>
-                  ${escapeHtml(item.term)}
-                </div>
-              `
-              : ''
-          }
-
-          ${
-            showFrench
-              ? `
-                <div>
-                  <b>Français :</b>
-                  ${escapeHtml(item.fr)}
-                </div>
-              `
-              : ''
-          }
-
-          ${
-            showEnglish
-              ? `
-                <div>
-                  <b>English :</b>
-                  ${escapeHtml(item.en)}
-                </div>
-              `
-              : ''
-          }
-
-          <small>
-            ${escapeHtml(item.category || 'Dictionnaire')}
-          </small>
-
-        </div>
-      `
-    }).join('')
+        `
+      )
+      .join('')
 }
 
 
 /* =========================================================
-   LANGUES
+   CHOIX FR / EN
    ========================================================= */
 
 function setDictLang(lang) {
+
   state.dictLang = lang
 
+
   document
-    .querySelectorAll('.dictLangButtons button')
-    .forEach(button => {
-      button.classList.remove('active')
-    })
+    .querySelectorAll(
+      '.dictLangButtons button'
+    )
+    .forEach(
+      btn =>
+        btn.classList.remove('active')
+    )
 
 
   if (lang === 'both') {
+
     document
       .querySelector('#dictBothBtn')
       ?.classList.add('active')
   }
 
+
   if (lang === 'fr') {
+
     document
       .querySelector('#dictFrBtn')
       ?.classList.add('active')
   }
 
+
   if (lang === 'en') {
+
     document
       .querySelector('#dictEnBtn')
       ?.classList.add('active')
   }
+
 
   renderDictionaryResults()
 }
 
 
 /* =========================================================
-   DOUBLE-CLIC MOT HÉBREU
+   DOUBLE CLIC SUR TEXTE HÉBREU / ARAMÉEN
    ========================================================= */
 
 export function installHebrewWordClick() {
 
   document
     .querySelectorAll('.clickableHe')
-    .forEach(element => {
+    .forEach(el => {
 
-      element.addEventListener(
+      el.addEventListener(
         'dblclick',
         () => {
 
@@ -823,8 +973,12 @@ export function installHebrewWordClick() {
               .toString()
               .trim()
 
+
           if (selection) {
-            openDictionary(selection)
+
+            openDictionary(
+              selection
+            )
           }
         }
       )
