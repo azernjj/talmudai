@@ -613,6 +613,7 @@ export function renderCommentary(type) {
   ) || []
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
   if (!box) return
+  box.style.display = 'block'
 
   box.innerHTML = items.length
     ? items.map(x => {
