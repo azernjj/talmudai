@@ -603,7 +603,14 @@ async function renderExtraInline(slug, title, boxSelector) {
 export function renderCommentary(type) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[state.currentDaf]) return
   const data = state.currentData.dapim[state.currentDaf]
-  const items = data[type] || []
+  const aliases = {
+    rachi: ['rashi', 'rachi'],
+    tossefot: ['tosafot', 'tossefot']
+  }
+  const keys = aliases[type] || [type]
+  const items = keys.map(key => data[key]).find(
+    value => Array.isArray(value) && value.length > 0
+  ) || []
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
   if (!box) return
 
