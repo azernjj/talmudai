@@ -560,6 +560,31 @@ export function renderDaf(daf) {
       `
     }).join('')}
 
+    ${['rashi', 'tosafot'].map((key) => {
+      const legacyKey = key === 'rashi' ? 'rachi' : 'tossefot'
+      const label = key === 'rashi' ? 'Rachi' : 'Tossefot'
+      const items = Array.isArray(data[key]) ? data[key] : []
+      const legacyItems = Array.isArray(data[legacyKey]) ? data[legacyKey] : []
+      if (!items.length || legacyItems.length) return ''
+      return `
+        <details class="mefarshemDetails">
+          <summary class="mefarshemSummary">📖 ${label} — ${items.length} commentaires</summary>
+          <div class="mefarshemBody">
+            ${items.map(item => `
+              <div class="mefarshemItem">
+                <p class="he">${escapeHtml(item.he || '')}</p>
+                <p class="mefarshemTrad">${escapeHtml(cleanText(
+                  state.currentLang === 'fr'
+                    ? (item.fr || item.en || 'Traduction française en préparation.')
+                    : (item.en || 'English translation unavailable.')
+                ))}</p>
+              </div>
+            `).join('')}
+          </div>
+        </details>
+      `
+    }).join('')}
+
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
       ${next ? `<button id="nextDafBtn">Daf suivant (${escapeHtml(next)}) →</button>` : ''}
