@@ -21,13 +21,19 @@ function normalizeCommentHebrew(value) {
   return cleanText(value)
     .normalize('NFKD')
     .replace(/[\u0591-\u05c7]/g, '')
-    .replace(/[״׳"'`.,:;!?()[\]{}־–—-]/g, ' ')
-    .replace(/\s+/g, ' ').trim()
+    .replace(/בעה["״׳']?ב/g, 'בעל הבית')
+    .replace(/רה["״׳']?ר/g, 'רשות הרבים')
+    .replace(/רה["״׳']?י/g, 'רשות היחיד')
+    .replace(/[\u0022\u0027\u05f3\u05f4`.,:;!?()[\]{}־–—-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
 }
 
 function commentaryStart(item) {
   const he = typeof item === 'string' ? item : (item?.he || item?.text || '')
-  return normalizeCommentHebrew(he.split(/\s+[–—-]\s+|[:.]\s+/)[0])
+  const opening = he.split(/\s+[–—-]\s+|[:.]\s+/)[0]
+  return normalizeCommentHebrew(opening)
+    .replace(/^(?:מתני|מתניתין|גמ|גמרא|ד ה)\s+/, '')
 }
 
 function getDafCommentaries(daf) {
@@ -40,22 +46,100 @@ function getDafCommentaries(daf) {
 function locateComment(comment, segments) {
   const start = commentaryStart(comment.item)
   const words = start.split(' ').filter(w => w.length > 1 && w !== 'וכו' && w !== 'וגו')
-  if (words.length < 2) return -1
-  const texts = segments.map(s => normalizeCommentHebrew(s.he || ''))
-  // Prefer a full quotation; otherwise use its first 2-5 words.
+  if (!words.length) return -1
+
+  const texts = segments.map(s => normalizeCommentHebrew(s.he || '')
+    .replace(/^(?:מתני|מתניתין|גמ|גמרא)\s+/, ''))
+
   for (let n = Math.min(8, words.length); n >= 2; n--) {
     const phrase = words.slice(0, n).join(' ')
     const hits = texts.flatMap((t, i) => t.includes(phrase) ? [i] : [])
     if (hits.length === 1) return hits[0]
     if (hits.length > 1) return -1
   }
+
   return -1
+}
+
+function commentaryCandidates(comment, texts) {
+  const words = commentaryStart(comment.item)
+    .split(' ')
+    .filter(w => w && !['וכו', 'וגו', 'כו'].includes(w))
+
+  if (!words.length) return []
+
+  // Les expressions de deux mots ou plus sont prioritaires.
+  for (let n = Math.min(8, words.length); n >= 2; n--) {
+    const phrase = words.slice(0, n).join(' ')
+    const hits = texts.flatMap((t, i) => t.includes(phrase) ? [i] : [])
+    if (hits.length) return hits
+  }
+
+  // Un seul mot doit être suffisamment distinctif.
+  const word = words[0]
+  if (word.length < 4) return []
+
+  return texts.flatMap((t, i) =>
+    t.split(' ').includes(word) ? [i] : []
+  )
+}
+
+function contextualCommentaryMatches(comments, segments) {
+  const texts = segments.map(s => normalizeCommentHebrew(s.he || ''))
+
+  // Les correspondances V1 restent nos points d'ancrage.
+  const baseline = comments.map(c => locateComment(c, segments))
+  const result = [...baseline]
+
+  comments.forEach((comment, i) => {
+    if (baseline[i] >= 0) return
+
+    const words = commentaryStart(comment.item)
+      .split(' ')
+      .filter(w => w && !['וכו', 'וגו', 'כו'].includes(w))
+
+    if (!words.length) return
+
+    // Éviter les associations basées sur un mot générique.
+    if (words.length === 1 &&
+        ['מתניתין', 'מתני', 'גמרא', 'גמ'].includes(words[0])) return
+
+    const hits = commentaryCandidates(comment, texts)
+    if (!hits.length) return
+
+    const before = baseline.slice(0, i).filter(n => n >= 0)
+    const after = baseline.slice(i + 1).filter(n => n >= 0)
+
+    const lower = before.length ? before[before.length - 1] : 0
+    const upper = after.length ? after[0] : texts.length - 1
+
+    if (lower > upper) return
+
+    const valid = hits.filter(n => n >= lower && n <= upper)
+
+    // Une seule correspondance compatible avec l'ordre.
+    if (valid.length === 1) result[i] = valid[0]
+  })
+
+  return result
 }
 
 function commentaryEntries(daf) {
   const segments = daf.segments || []
-  return getDafCommentaries(daf).map(c => ({
-    ...c, segmentIndex: locateComment(c, segments)
+  const comments = getDafCommentaries(daf)
+  const positions = new Map()
+
+  // Rachi, Tossefot et les autres commentateurs sont
+  // analysés séparément pour respecter leur propre ordre.
+  for (const [type] of COMMENTARY_GROUPS) {
+    const group = comments.filter(c => c.type === type)
+    const matches = contextualCommentaryMatches(group, segments)
+    group.forEach((comment, i) => positions.set(comment, matches[i]))
+  }
+
+  return comments.map(c => ({
+    ...c,
+    segmentIndex: positions.get(c) ?? -1
   }))
 }
 
@@ -650,31 +734,6 @@ export function renderDaf(daf) {
       `
     }).join('')}
 
-    ${['rashi', 'tosafot'].map((key) => {
-      const legacyKey = key === 'rashi' ? 'rachi' : 'tossefot'
-      const label = key === 'rashi' ? 'Rachi' : 'Tossefot'
-      const items = Array.isArray(data[key]) ? data[key] : []
-      const legacyItems = Array.isArray(data[legacyKey]) ? data[legacyKey] : []
-      if (!items.length || legacyItems.length) return ''
-      return `
-        <details class="mefarshemDetails">
-          <summary class="mefarshemSummary">📖 ${label} — ${items.length} commentaires</summary>
-          <div class="mefarshemBody">
-            ${items.map(item => `
-              <div class="mefarshemItem">
-                <p class="he">${escapeHtml(item.he || '')}</p>
-                <p class="mefarshemTrad">${escapeHtml(cleanText(
-                  state.currentLang === 'fr'
-                    ? (item.fr || item.en || 'Traduction française en préparation.')
-                    : (item.en || 'English translation unavailable.')
-                ))}</p>
-              </div>
-            `).join('')}
-          </div>
-        </details>
-      `
-    }).join('')}
-
     <div class="bottomNav">
       ${prev ? `<button id="prevDafBtn">← Daf précédent (${escapeHtml(prev)})</button>` : ''}
       ${next ? `<button id="nextDafBtn">Daf suivant (${escapeHtml(next)}) →</button>` : ''}
@@ -730,7 +789,6 @@ export function renderCommentary(type) {
   ) || []
   const box = document.querySelector('#talmudCommentaryBox') || document.querySelector('#commentBox')
   if (!box) return
-  box.style.display = 'block'
 
   box.innerHTML = items.length
     ? items.map(x => {
