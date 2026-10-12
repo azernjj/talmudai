@@ -8,6 +8,136 @@ import { refreshCurrentMishnaView } from './mishna.js'
 
 let extraCommentaryCache = {}
 
+const COMMENTARY_GROUPS = [
+  ['rachi', 'Rachi', ['rachi', 'rashi']],
+  ['tossefot', 'Tossefot', ['tossefot', 'tosafot']],
+  ['rosh', 'Roch', ['rosh']],
+  ['ritva', 'Ritva', ['ritva']]
+]
+let selectedCommentarySegment = 0
+let commentaryFilter = 'all'
+
+function normalizeCommentHebrew(value) {
+  return cleanText(value)
+    .normalize('NFKD')
+    .replace(/[\u0591-\u05c7]/g, '')
+    .replace(/[״׳"'`.,:;!?()[\]{}־–—-]/g, ' ')
+    .replace(/\s+/g, ' ').trim()
+}
+
+function commentaryStart(item) {
+  const he = typeof item === 'string' ? item : (item?.he || item?.text || '')
+  return normalizeCommentHebrew(he.split(/\s+[–—-]\s+|[:.]\s+/)[0])
+}
+
+function getDafCommentaries(daf) {
+  return COMMENTARY_GROUPS.flatMap(([type, label, aliases]) => {
+    const items = aliases.map(k => daf[k]).find(a => Array.isArray(a) && a.length) || []
+    return items.map((item, order) => ({type, label, item, order}))
+  })
+}
+
+function locateComment(comment, segments) {
+  const start = commentaryStart(comment.item)
+  const words = start.split(' ').filter(w => w.length > 1 && w !== 'וכו' && w !== 'וגו')
+  if (words.length < 2) return -1
+  const texts = segments.map(s => normalizeCommentHebrew(s.he || ''))
+  // Prefer a full quotation; otherwise use its first 2-5 words.
+  for (let n = Math.min(8, words.length); n >= 2; n--) {
+    const phrase = words.slice(0, n).join(' ')
+    const hits = texts.flatMap((t, i) => t.includes(phrase) ? [i] : [])
+    if (hits.length === 1) return hits[0]
+    if (hits.length > 1) return -1
+  }
+  return -1
+}
+
+function commentaryEntries(daf) {
+  const segments = daf.segments || []
+  return getDafCommentaries(daf).map(c => ({
+    ...c, segmentIndex: locateComment(c, segments)
+  }))
+}
+
+function commentaryCard(c) {
+  const he = typeof c.item === 'string' ? c.item : (c.item?.he || c.item?.text || '')
+  const fr = typeof c.item === 'string' ? '' : (c.item?.fr || '')
+  const en = typeof c.item === 'string' ? '' : (c.item?.en || '')
+  const translation = state.currentLang === 'fr'
+    ? (fr || 'Traduction française en préparation.')
+    : (en || 'English translation in preparation.')
+  return `<details class="mefarshemDetails syncedComment">
+    <summary class="mefarshemSummary">📖 ${escapeHtml(c.label)}</summary>
+    <div class="mefarshemBody">
+      <p class="he" dir="rtl">${escapeHtml(he)}</p>
+      <p class="mefarshemTrad">${escapeHtml(cleanText(translation))}</p>
+    </div>
+  </details>`
+}
+
+function currentCommentaryMode() {
+  const choice = localStorage.getItem('talmudCommentaryMode') || 'auto'
+  if (choice === 'auto') return window.matchMedia('(max-width: 800px)').matches ? 'inline' : 'side'
+  return choice
+}
+
+function renderSyncedCommentaries() {
+  if (state.currentMode !== 'talmud') return
+  const daf = state.currentData?.dapim?.[state.currentDaf]
+  const box = document.querySelector('#commentBox')
+  if (!daf || !box) return
+  const entries = commentaryEntries(daf)
+  const mode = currentCommentaryMode()
+  const allowed = c => commentaryFilter === 'all' || c.type === commentaryFilter
+  const selected = Math.min(selectedCommentarySegment, Math.max(0, (daf.segments || []).length - 1))
+  const associated = entries.filter(c => c.segmentIndex === selected && allowed(c))
+  const unmatched = entries.filter(c => c.segmentIndex < 0 && allowed(c))
+  const controls = `<div class="commentModeBar">
+    <label for="commentModeSelect">Affichage :</label>
+    <select id="commentModeSelect" aria-label="Affichage des commentaires">
+      <option value="auto" ${(!localStorage.getItem('talmudCommentaryMode') || localStorage.getItem('talmudCommentaryMode') === 'auto') ? 'selected' : ''}>Automatique</option>
+      <option value="side" ${localStorage.getItem('talmudCommentaryMode') === 'side' ? 'selected' : ''}>Colonne droite</option>
+      <option value="inline" ${localStorage.getItem('talmudCommentaryMode') === 'inline' ? 'selected' : ''}>Sous le texte</option>
+    </select>
+  </div>`
+  const inline = document.querySelectorAll('#segments .syncedInlineComments')
+  inline.forEach((el, i) => {
+    const related = entries.filter(c => c.segmentIndex === i && allowed(c))
+    el.innerHTML = mode === 'inline' && related.length
+      ? `<div class="syncedInlineTitle">Commentaires de ce passage</div>${related.map(commentaryCard).join('')}`
+      : ''
+    el.style.display = mode === 'inline' && related.length ? 'block' : 'none'
+  })
+  document.querySelectorAll('#segments .segment').forEach((el, i) => {
+    el.classList.toggle('syncedSelected', mode === 'side' && i === selected)
+  })
+  box.style.display = 'block'
+  box.innerHTML = controls + (mode === 'side'
+    ? `<p class="syncedHint">Passage ${selected + 1} — cliquez sur un passage de la Guemara pour voir ses commentaires.</p>
+       ${associated.length ? associated.map(commentaryCard).join('') : '<p>Aucun commentaire associé avec certitude à ce passage.</p>'}`
+    : '<p>Les commentaires sont affichés sous les passages correspondants.</p>')
+    + (unmatched.length ? `<details class="mefarshemDetails">
+      <summary class="mefarshemSummary">Autres commentaires du daf (${unmatched.length}) — correspondance à vérifier</summary>
+      <div class="mefarshemBody">${unmatched.map(commentaryCard).join('')}</div>
+    </details>` : '')
+  box.querySelector('#commentModeSelect')?.addEventListener('change', e => {
+    localStorage.setItem('talmudCommentaryMode', e.target.value)
+    renderSyncedCommentaries()
+  })
+}
+
+function installSyncedCommentaryClicks() {
+  document.querySelectorAll('#segments .segment').forEach((el, i) => {
+    el.addEventListener('click', event => {
+      if (event.target.closest('button, a, details, summary, input, select, textarea, .clickableHe')) return
+      selectedCommentarySegment = i
+      renderSyncedCommentaries()
+    })
+  })
+}
+
+
+
 function cleanText(text = '') {
   return String(text)
     .replace(/<\/?b>/gi, '')
@@ -481,10 +611,8 @@ export function renderDaf(daf) {
   const currentFile = localStorage.getItem('currentFile') || 'berakhot.json'
   localStorage.setItem(`daf_${currentFile}`, state.currentDaf)
 
-  const commentBox = document.querySelector('#commentBox')
-  if (commentBox) commentBox.style.display = 'none'
-
   const data = state.currentData.dapim[daf]
+  selectedCommentarySegment = 0
   const dapim = Object.keys(state.currentData.dapim).sort(sortDaf)
   const idx = dapim.indexOf(daf)
   const prev = idx > 0 ? dapim[idx - 1] : null
@@ -494,35 +622,8 @@ export function renderDaf(daf) {
 
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => {
-      const rachi   = (data.rachi   || [])[index]
-      const tossefot = (data.tossefot || [])[index]
-      const rosh    = (data.rosh    || [])[index]
-      const ritva   = (data.ritva   || [])[index]
-
-      function commentBlock(item, label) {
-        if (!item) return ''
-        const he = typeof item === 'string' ? item : (item.he || '')
-        const fr = typeof item === 'string' ? '' : (item.fr || '')
-        const en = typeof item === 'string' ? '' : (item.en || '')
-        if (!he.trim()) return ''
-        const trad = state.currentLang === 'fr'
-          ? (fr || 'Traduction française en préparation.')
-          : (en || 'English translation in preparation.')
-        return `
-          <details class="mefarshemDetails">
-            <summary class="mefarshemSummary">📖 ${label}</summary>
-            <div class="mefarshemBody">
-              <div class="mefarshemItem">
-                <p class="he">${he}</p>
-                <p class="mefarshemTrad">${escapeHtml(cleanText(trad))}</p>
-              </div>
-            </div>
-          </details>
-        `
-      }
-
       return `
-      <article class="segment">
+      <article class="segment" data-segment-index="${index}" tabindex="0">
         <div class="segNum">
           Segment ${index + 1}
           ${correctionButtonHtml('segments', index)}
@@ -544,18 +645,7 @@ export function renderDaf(daf) {
         ${state.currentLang === 'fr' && !hasContent(seg.fr_html)
           ? renderTalmudStudy(seg)
           : ''}
-        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
-          ? commentBlock(rachi, 'Rachi')
-          : ''}
-        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
-          ? commentBlock(tossefot, 'Tossefot')
-          : ''}
-        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
-          ? commentBlock(rosh, 'Roch')
-          : ''}
-        ${!(state.currentLang === 'fr' && hasContent(seg.fr_html))
-          ? commentBlock(ritva, 'Ritva')
-          : ''}
+        <div class="syncedInlineComments" style="display:none"></div>
       </article>
       `
     }).join('')}
@@ -598,6 +688,8 @@ export function renderDaf(daf) {
 
   installHebrewWordClick()
   installCorrectionButtons()
+  installSyncedCommentaryClicks()
+  renderSyncedCommentaries()
 }
 
 async function renderExtraInline(slug, title, boxSelector) {
@@ -702,17 +794,18 @@ function refreshCurrentViewAfterLanguageChange() {
 
 export function initTalmudEvents() {
   document.querySelector('#masechetSearch')?.addEventListener('input', renderLibrary)
+  window.addEventListener('resize', () => { if (state.currentMode === 'talmud') renderSyncedCommentaries() })
 
   document.querySelector('#rashiBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') { renderParashaRashi() }
     else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('rachi') }
+    else { commentaryFilter = commentaryFilter === 'rachi' ? 'all' : 'rachi'; renderSyncedCommentaries() }
   })
 
   document.querySelector('#tosafotBtn')?.addEventListener('click', () => {
     if (state.currentMode === 'parasha') { document.querySelector('#commentBox').innerHTML = 'Tossefot n\'existe pas sur les parachiot.' }
     else if (state.currentMode === 'shulchan') { renderShulchanCommentaryNotice() }
-    else { renderCommentary('tossefot') }
+    else { commentaryFilter = commentaryFilter === 'tossefot' ? 'all' : 'tossefot'; renderSyncedCommentaries() }
   })
 
   document.querySelector('#frBtn')?.addEventListener('click', () => {

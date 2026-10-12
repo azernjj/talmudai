@@ -26,6 +26,19 @@ export function renderLayout(app) {
       </div>
     </header>
 
+
+<style>
+.commentModeBar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:0 0 12px}
+.commentModeBar select{max-width:100%;padding:6px;border-radius:6px}
+.syncedHint{font-size:.9rem;opacity:.85}
+.syncedSelected{outline:2px solid #ba9555;outline-offset:2px;border-radius:6px}
+.syncedInlineComments{margin:12px 0;padding:12px;border-left:3px solid #ba9555;background:rgba(180,140,65,.06)}
+.syncedInlineTitle{font-weight:700;margin-bottom:8px}
+.syncedComment .he{white-space:normal;line-height:1.9;overflow-wrap:anywhere}
+.syncedComment .mefarshemTrad{white-space:normal;overflow-wrap:anywhere}
+@media(max-width:800px){.comments{display:block!important}.syncedSelected{outline:none}}
+</style>
+
     <div class="layout">
       <aside class="sidebar">
 
