@@ -5,10 +5,51 @@ import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 import { correctionButtonHtml, installCorrectionButtons } from './correction-admin.js'
 import { refreshCurrentMishnaView } from './mishna.js'
-import { hideDafScan, renderDafScan } from './daf-scan.js'
 
 let extraCommentaryCache = {}
 let activeMasechetRequest
+
+const masechetFiles = new Set(sedarim.flatMap(({ masechtot }) => masechtot.map(({ file }) => file)))
+const dafRoutePattern = /^\/daf\/([a-z0-9-]+)\/([1-9]\d*[ab])\/?$/i
+
+function syncDafLocation(file, daf, mode) {
+  if (mode === 'none') return
+
+  const url = new URL(window.location.href)
+  url.pathname = `/daf/${file.slice(0, -5)}/${daf}`
+  if (url.href === window.location.href) return
+
+  if (mode === 'replace') window.history.replaceState(null, '', url)
+  else window.history.pushState(null, '', url)
+}
+
+export function openDafLocation(historyMode = 'none') {
+  const path = window.location.pathname
+  const match = dafRoutePattern.exec(path)
+  const file = match && `${match[1].toLowerCase()}.json`
+  if (file && masechetFiles.has(file)) {
+    return loadMasechet(file, { daf: match[2].toLowerCase(), historyMode })
+  }
+
+  if (path.startsWith('/daf/')) {
+    activeMasechetRequest = null
+    state.currentMode = 'talmud'
+    state.currentData = null
+    renderLibrary()
+    document.title = 'Daf non disponible | Talmud AI'
+    document.querySelector('#dafTitle').textContent = 'Daf non disponible'
+    document.querySelector('#dafNav').replaceChildren()
+    const reader = document.querySelector('#segments')
+    const notice = document.createElement('p')
+    notice.className = 'empty'
+    notice.textContent = 'Choisis un traité dans le menu pour ouvrir un daf.'
+    reader.replaceChildren(notice)
+    return
+  }
+
+  const savedFile = localStorage.getItem('currentFile')
+  return loadMasechet(masechetFiles.has(savedFile) ? savedFile : 'berakhot.json', { historyMode })
+}
 
 const COMMENTARY_GROUPS = [
   ['rachi', 'Rachi', ['rachi', 'rashi']],
@@ -580,12 +621,11 @@ export function renderLibrary() {
   })
 }
 
-export async function loadMasechet(file) {
+export async function loadMasechet(file, { daf, historyMode = 'push' } = {}) {
   const request = Symbol()
   activeMasechetRequest = request
   const isCurrent = () => request === activeMasechetRequest && state.currentMode === 'talmud'
 
-  hideDafScan()
   state.currentMode = 'talmud'
   state.currentData = null
   state.currentParasha = null
@@ -612,12 +652,13 @@ export async function loadMasechet(file) {
     const dapim = Object.keys(state.currentData.dapim || {}).sort(sortDaf)
     const savedDaf = localStorage.getItem(`daf_${file}`)
 
-    state.currentDaf = savedDaf && dapim.includes(savedDaf)
+    state.currentDaf = daf || (dapim.includes(savedDaf)
       ? savedDaf
-      : (dapim.includes('2a') ? '2a' : dapim[0])
+      : (dapim.includes('2a') ? '2a' : dapim[0]))
 
     renderDafNav()
     renderDaf(state.currentDaf)
+    if (dapim.includes(state.currentDaf)) syncDafLocation(file, state.currentDaf, historyMode)
     return true
   } catch {
     if (!isCurrent()) return
@@ -663,9 +704,11 @@ export function renderDafNav() {
 }
 
 export function goToDaf(daf) {
+  if (!Object.hasOwn(state.currentData?.dapim || {}, daf)) return
   state.currentDaf = daf
   renderDafNav()
   renderDaf(daf)
+  syncDafLocation(localStorage.getItem('currentFile') || 'berakhot.json', daf, 'push')
   document.querySelector('.reader')?.scrollTo?.(0, 0)
 }
 
@@ -697,7 +740,8 @@ function renderCommentaireDetails(items, label) {
 
 export function renderDaf(daf) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[daf]) {
-    hideDafScan()
+    document.title = 'Daf non disponible | Talmud AI'
+    document.querySelector('#dafTitle').textContent = 'Daf non disponible'
     document.querySelector('#segments').innerHTML = '<div class="empty">Daf non disponible.</div>'
     return
   }
@@ -717,8 +761,8 @@ export function renderDaf(daf) {
   const next = idx < dapim.length - 1 ? dapim[idx + 1] : null
 
   const title = `${state.currentData.title} ${daf}`
+  document.title = `${title} | Talmud AI`
   document.querySelector('#dafTitle').textContent = title
-  renderDafScan(currentFile, daf, title)
 
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => {
@@ -867,6 +911,7 @@ function refreshCurrentViewAfterLanguageChange() {
 }
 
 export function initTalmudEvents() {
+  window.addEventListener('popstate', () => openDafLocation())
   document.querySelector('#masechetSearch')?.addEventListener('input', renderLibrary)
   window.addEventListener('resize', () => { if (state.currentMode === 'talmud') renderSyncedCommentaries() })
 

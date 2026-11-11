@@ -352,38 +352,6 @@ button.active,
   border: 1px solid var(--border);
 }
 
-.dafScan {
-  background: white;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  margin-top: 16px;
-  padding: 12px;
-}
-
-.layout:not(:has(#dafSelect)) .dafScan,
-.layout:has(#segments > .empty) .dafScan {
-  display: none;
-}
-
-.dafScan h3 {
-  color: var(--blue);
-  margin: 0 0 6px;
-}
-
-.dafScan p {
-  margin: 6px 0;
-}
-
-#dafScanPreview img {
-  width: 100%;
-  height: auto;
-  margin-top: 8px;
-}
-
-.dafScanSource {
-  font-size: .83rem;
-}
-
 .rashiItem {
   border-bottom: 1px solid var(--border);
   padding: 10px 0;

@@ -1,4 +1,4 @@
-import { state } from '../state.js'
+import { enterOtherReaderMode, state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
 let currentParashaFile = null
@@ -14,7 +14,7 @@ const mikraotCommentaries = [
 ]
 
 export async function openParashiot() {
-  state.currentMode = 'parasha'
+  enterOtherReaderMode('parasha')
   state.currentParasha = null
   currentParashaFile = null
   currentParashaCommentary = null
@@ -99,7 +99,7 @@ export async function loadParasha(file) {
       }
     })
 
-    state.currentMode = 'parasha'
+    enterOtherReaderMode('parasha')
     state.currentParasha = {
       ...data,
       file,
