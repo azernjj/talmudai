@@ -1,0 +1,90 @@
+.brand .dafHayomiBrand {
+  color: white;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: .05em;
+}
+
+.dafHayomiMain {
+  width: min(860px, calc(100% - 32px));
+  margin: clamp(28px, 6vw, 70px) auto;
+}
+
+.dafHayomiMain h1 {
+  color: var(--blue);
+  font-family: Georgia, serif;
+  font-size: clamp(2.3rem, 6vw, 3.6rem);
+  margin: 0;
+}
+
+.dafHayomiTeacher {
+  color: var(--blue2);
+  font-size: 1.1rem;
+  margin: 8px 0 24px;
+}
+
+.dafHayomiCard {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+  padding: clamp(14px, 4vw, 24px);
+}
+
+.dafHayomiFilters {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.6fr);
+}
+
+.dafHayomiFilters label {
+  color: var(--blue);
+  font-weight: 700;
+  min-width: 0;
+}
+
+.dafHayomiFilters select {
+  display: block;
+  margin-top: 6px;
+  width: 100%;
+}
+
+#videoStatus {
+  color: var(--muted);
+  margin: 14px 0 0;
+}
+
+#videoStatus:empty {
+  display: none;
+}
+
+#retryVideos {
+  margin-top: 10px;
+}
+
+#videoTitle {
+  color: var(--blue);
+  font-size: 1.25rem;
+  margin: 0 0 12px;
+}
+
+#videoPlayer iframe {
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+}
+
+#videoYouTube {
+  color: var(--blue2);
+  display: inline-block;
+  margin-top: 12px;
+}
+
+@media (max-width: 630px) {
+  .dafHayomiFilters {
+    grid-template-columns: 1fr;
+  }
+}
