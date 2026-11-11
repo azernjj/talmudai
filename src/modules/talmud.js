@@ -5,8 +5,10 @@ import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 import { correctionButtonHtml, installCorrectionButtons } from './correction-admin.js'
 import { refreshCurrentMishnaView } from './mishna.js'
+import { hideDafScan, renderDafScan } from './daf-scan.js'
 
 let extraCommentaryCache = {}
+let activeMasechetRequest
 
 const COMMENTARY_GROUPS = [
   ['rachi', 'Rachi', ['rachi', 'rashi']],
@@ -579,12 +581,19 @@ export function renderLibrary() {
 }
 
 export async function loadMasechet(file) {
+  const request = Symbol()
+  activeMasechetRequest = request
+  const isCurrent = () => request === activeMasechetRequest && state.currentMode === 'talmud'
+
+  hideDafScan()
   state.currentMode = 'talmud'
+  state.currentData = null
   state.currentParasha = null
   extraCommentaryCache = {}
 
   localStorage.setItem('currentFile', file)
   document.querySelector('#segments').innerHTML = '<div class="empty">Chargement du traité...</div>'
+  document.querySelector('#dafNav').innerHTML = ''
 
   const commentBox = document.querySelector('#commentBox')
   if (commentBox) commentBox.style.display = 'none'
@@ -596,7 +605,9 @@ export async function loadMasechet(file) {
     const res = await fetch(`/data/merged/${file}`)
     if (!res.ok) throw new Error('Données non disponibles')
 
-    state.currentData = await res.json()
+    const data = await res.json()
+    if (!isCurrent()) return
+    state.currentData = data
 
     const dapim = Object.keys(state.currentData.dapim || {}).sort(sortDaf)
     const savedDaf = localStorage.getItem(`daf_${file}`)
@@ -607,7 +618,9 @@ export async function loadMasechet(file) {
 
     renderDafNav()
     renderDaf(state.currentDaf)
+    return true
   } catch {
+    if (!isCurrent()) return
     state.currentData = null
     document.querySelector('#dafTitle').textContent = 'Données non disponibles'
     document.querySelector('#dafNav').innerHTML = ''
@@ -684,6 +697,7 @@ function renderCommentaireDetails(items, label) {
 
 export function renderDaf(daf) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[daf]) {
+    hideDafScan()
     document.querySelector('#segments').innerHTML = '<div class="empty">Daf non disponible.</div>'
     return
   }
@@ -702,7 +716,9 @@ export function renderDaf(daf) {
   const prev = idx > 0 ? dapim[idx - 1] : null
   const next = idx < dapim.length - 1 ? dapim[idx + 1] : null
 
-  document.querySelector('#dafTitle').textContent = `${state.currentData.title} ${daf}`
+  const title = `${state.currentData.title} ${daf}`
+  document.querySelector('#dafTitle').textContent = title
+  renderDafScan(currentFile, daf, title)
 
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => {
