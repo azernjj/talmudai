@@ -1,0 +1,69 @@
+.dafScan {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin-top: 16px;
+  padding: 12px;
+}
+
+.dafScan[hidden],
+.dafScan [hidden],
+.layout:not(:has(#dafSelect)) .dafScan,
+.layout:has(#segments > .empty) .dafScan {
+  display: none;
+}
+
+.dafScan h3,
+.dafScanDialogBar h3 {
+  color: var(--blue);
+  margin: 0;
+}
+
+.dafScan p {
+  margin: 6px 0;
+}
+
+#dafScanPreview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 8px;
+}
+
+#dafScanPreview img[hidden] {
+  display: none;
+}
+
+.dafScanSource {
+  font-size: .83rem;
+}
+
+#dafScanDialog {
+  width: min(96vw, 66rem);
+  max-height: 94dvh;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+#dafScanDialog::backdrop {
+  background: rgb(0 0 0 / .6);
+}
+
+.dafScanDialogBar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  background: white;
+  border-bottom: 1px solid var(--border);
+}
+
+#dafScanFull img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

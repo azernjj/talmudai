@@ -1,3 +1,5 @@
+import './daf-scan.css'
+
 const scanDirectories = {
   berakhot: 'Berachos',
   shabbat: 'Shabbos',
@@ -76,15 +78,14 @@ export function renderDafScan(file, daf, title) {
 
   const reference = panel.querySelector('#dafScanReference')
   const status = panel.querySelector('#dafScanStatus')
-  const link = panel.querySelector('#dafScanOpen')
+  const open = panel.querySelector('#dafScanOpen')
   const preview = panel.querySelector('#dafScanPreview')
   reference.textContent = title
   status.hidden = false
   status.textContent = url
     ? 'Chargement de la page originale…'
     : 'Page originale indisponible pour ce daf.'
-  link.hidden = true
-  link.removeAttribute('href')
+  open.hidden = true
   preview.replaceChildren()
   if (!url) return
 
@@ -95,8 +96,7 @@ export function renderDafScan(file, daf, title) {
   image.addEventListener('load', () => {
     if (!preview.contains(image)) return
     image.hidden = false
-    link.href = url
-    link.hidden = false
+    open.hidden = false
     status.hidden = true
   }, { once: true })
   image.addEventListener('error', () => {
@@ -111,4 +111,25 @@ export function renderDafScan(file, daf, title) {
 export function hideDafScan() {
   const panel = document.querySelector('#dafScan')
   if (panel) panel.hidden = true
+  const dialog = document.querySelector('#dafScanDialog')
+  if (dialog?.open) dialog.close()
+}
+
+export function initDafScan() {
+  const dialog = document.querySelector('#dafScanDialog')
+  const full = dialog.querySelector('#dafScanFull')
+
+  document.querySelector('#dafScanOpen').addEventListener('click', () => {
+    const image = document.querySelector('#dafScanPreview img:not([hidden])')
+    if (!image) return
+    dialog.querySelector('#dafScanDialogTitle').textContent =
+      document.querySelector('#dafScanReference').textContent
+    full.replaceChildren(image.cloneNode())
+    dialog.scrollTop = 0
+    dialog.showModal()
+  })
+
+  dialog.addEventListener('close', () => {
+    if (!dialog.open) full.replaceChildren()
+  })
 }

@@ -110,6 +110,21 @@ export function renderLayout(app) {
         <div id="commentBox" class="commentBox">
           Choisis un commentaire.
         </div>
+        <section id="dafScan" class="dafScan" aria-labelledby="dafScanTitle" hidden>
+          <h3 id="dafScanTitle">Daf original · Édition de Vilna</h3>
+          <p id="dafScanReference"></p>
+          <p id="dafScanStatus" role="status"></p>
+          <button id="dafScanOpen" type="button" hidden>Agrandir le daf</button>
+          <div id="dafScanPreview"></div>
+          <p class="dafScanSource">Source du fac-similé · <a href="https://www.dafyomi.org/faq.php" target="_blank" rel="noopener">DafYomi.org / E-Daf</a></p>
+        </section>
+        <dialog id="dafScanDialog" aria-labelledby="dafScanDialogTitle">
+          <div class="dafScanDialogBar">
+            <h3 id="dafScanDialogTitle"></h3>
+            <form method="dialog"><button type="submit" autofocus>Fermer</button></form>
+          </div>
+          <div id="dafScanFull"></div>
+        </dialog>
 
       </section>
     </div>
