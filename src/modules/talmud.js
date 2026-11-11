@@ -5,6 +5,7 @@ import { renderParashaRashi, loadParasha } from './parashiot.js'
 import { renderShulchanCommentaryNotice } from './shulchan-arukh.js'
 import { correctionButtonHtml, installCorrectionButtons } from './correction-admin.js'
 import { refreshCurrentMishnaView } from './mishna.js'
+import { hideDafScan, initDafScan, renderDafScan } from './daf-scan.js'
 
 let extraCommentaryCache = {}
 let activeMasechetRequest
@@ -32,6 +33,7 @@ export function openDafLocation(historyMode = 'none') {
   }
 
   if (path.startsWith('/daf/')) {
+    hideDafScan()
     activeMasechetRequest = null
     state.currentMode = 'talmud'
     state.currentData = null
@@ -626,6 +628,8 @@ export async function loadMasechet(file, { daf, historyMode = 'push' } = {}) {
   activeMasechetRequest = request
   const isCurrent = () => request === activeMasechetRequest && state.currentMode === 'talmud'
 
+  hideDafScan()
+
   state.currentMode = 'talmud'
   state.currentData = null
   state.currentParasha = null
@@ -740,6 +744,7 @@ function renderCommentaireDetails(items, label) {
 
 export function renderDaf(daf) {
   if (!state.currentData || !state.currentData.dapim || !state.currentData.dapim[daf]) {
+    hideDafScan()
     document.title = 'Daf non disponible | Talmud AI'
     document.querySelector('#dafTitle').textContent = 'Daf non disponible'
     document.querySelector('#segments').innerHTML = '<div class="empty">Daf non disponible.</div>'
@@ -763,6 +768,7 @@ export function renderDaf(daf) {
   const title = `${state.currentData.title} ${daf}`
   document.title = `${title} | Talmud AI`
   document.querySelector('#dafTitle').textContent = title
+  renderDafScan(currentFile, daf, title)
 
   document.querySelector('#segments').innerHTML = `
     ${(data.segments || []).map((seg, index) => {
@@ -911,6 +917,7 @@ function refreshCurrentViewAfterLanguageChange() {
 }
 
 export function initTalmudEvents() {
+  initDafScan()
   window.addEventListener('popstate', () => openDafLocation())
   document.querySelector('#masechetSearch')?.addEventListener('input', renderLibrary)
   window.addEventListener('resize', () => { if (state.currentMode === 'talmud') renderSyncedCommentaries() })
