@@ -96,6 +96,22 @@ button.active,
   background: var(--gold);
 }
 
+.topbarLink {
+  background: rgba(255, 255, 255, .12);
+  border: 1px solid rgba(255, 255, 255, .25);
+  border-radius: 10px;
+  color: white;
+  display: inline-flex;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 9px 12px;
+  text-decoration: none;
+}
+
+.topbarLink:hover {
+  background: var(--gold);
+}
+
 #globalSearch {
   min-width: 230px;
 }
