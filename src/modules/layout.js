@@ -9,6 +9,7 @@ export function renderLayout(app) {
       <div class="lang">
         <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
         <button id="dictBtn">📖 Dictionnaire</button>
+        <a class="topbarLink" href="./daf-hayomi.html">Daf Hayomi</a>
         <button id="parashaBtn">📖 Parachiot</button>
         <button
           id="correctionAdminBtn"
