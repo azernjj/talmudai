@@ -110,6 +110,15 @@ export function renderLayout(app) {
         <div id="commentBox" class="commentBox">
           Choisis un commentaire.
         </div>
+
+        <section id="dafScan" class="dafScan" aria-labelledby="dafScanTitle" hidden>
+          <h3 id="dafScanTitle">Page originale du Talmud</h3>
+          <p id="dafScanReference"></p>
+          <p id="dafScanStatus" role="status"></p>
+          <a id="dafScanOpen" target="_blank" rel="noopener" hidden>Agrandir la page ↗</a>
+          <div id="dafScanPreview"></div>
+          <p class="dafScanSource">Édition de Vilna · <a href="https://www.dafyomi.org/faq.php" target="_blank" rel="noopener">DafYomi.org / E-Daf</a></p>
+        </section>
       </section>
     </div>
 
