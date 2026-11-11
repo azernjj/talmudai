@@ -1,4 +1,4 @@
-import { state } from '../state.js'
+import { enterOtherReaderMode, state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
 let mishnaIndex = []
@@ -58,7 +58,7 @@ export async function renderMishnaLibrary() {
 }
 
 export async function loadMishna(file) {
-  state.currentMode = 'mishna'
+  enterOtherReaderMode('mishna')
   currentMishnaFile = file
   localStorage.setItem('currentMishnaFile', file)
 

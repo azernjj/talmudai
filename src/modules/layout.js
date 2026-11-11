@@ -9,7 +9,7 @@ export function renderLayout(app) {
       <div class="lang">
         <button id="mobileMenuBtn" class="mobileMenuBtn">☰ Menu</button>
         <button id="dictBtn">📖 Dictionnaire</button>
-        <a class="topbarLink" href="./daf-hayomi.html">Daf Hayomi</a>
+        <a class="topbarLink" href="/daf-hayomi.html">Daf Hayomi</a>
         <button id="parashaBtn">📖 Parachiot</button>
         <button
           id="correctionAdminBtn"
@@ -111,14 +111,6 @@ export function renderLayout(app) {
           Choisis un commentaire.
         </div>
 
-        <section id="dafScan" class="dafScan" aria-labelledby="dafScanTitle" hidden>
-          <h3 id="dafScanTitle">Page originale du Talmud</h3>
-          <p id="dafScanReference"></p>
-          <p id="dafScanStatus" role="status"></p>
-          <a id="dafScanOpen" target="_blank" rel="noopener" hidden>Agrandir la page ↗</a>
-          <div id="dafScanPreview"></div>
-          <p class="dafScanSource">Édition de Vilna · <a href="https://www.dafyomi.org/faq.php" target="_blank" rel="noopener">DafYomi.org / E-Daf</a></p>
-        </section>
       </section>
     </div>
 

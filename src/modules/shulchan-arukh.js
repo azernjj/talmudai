@@ -1,4 +1,4 @@
-import { state } from '../state.js'
+import { enterOtherReaderMode, state } from '../state.js'
 import { escapeHtml } from './utils.js'
 
 let shulchanSectionsCache = null
@@ -245,7 +245,7 @@ export async function renderShulchanLibrary() {
 }
 
 export async function openShulchanArukh() {
-  state.currentMode = 'shulchan'
+  enterOtherReaderMode('shulchan')
   state.currentParasha = null
   currentShulchanCommentary = null
 
@@ -280,7 +280,7 @@ export async function openShulchanArukh() {
 }
 
 export async function loadShulchanSection(file, requestedSiman = null, requestedSeif = null) {
-  state.currentMode = 'shulchan'
+  enterOtherReaderMode('shulchan')
   state.currentParasha = null
   currentShulchanCommentary = null
   commentaryCache = {}
