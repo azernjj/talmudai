@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daf Hayomi du Rav Haïm Zvi Rozenberg | Talmud AI</title>
+  </head>
+  <body class="dafHayomiPage">
+    <header class="topbar">
+      <div class="brand">
+        <p class="dafHayomiBrand">TALMUD AI</p>
+      </div>
+      <a class="topbarLink" href="./">← Retour au Talmud</a>
+    </header>
+
+    <main class="dafHayomiMain">
+      <h1>Daf Hayomi</h1>
+      <p class="dafHayomiTeacher">Les cours du Rav Haïm Zvi Rozenberg</p>
+
+      <section class="dafHayomiCard" aria-label="Choisir un cours">
+        <div class="dafHayomiFilters">
+          <label for="videoSeder">
+            Seder
+            <select id="videoSeder" disabled></select>
+          </label>
+          <label for="videoMasechet">
+            Traité
+            <select id="videoMasechet" disabled></select>
+          </label>
+          <label for="videoDaf">
+            Daf
+            <select id="videoDaf" disabled></select>
+          </label>
+        </div>
+        <p id="videoStatus" role="status">Chargement des cours…</p>
+        <button type="button" id="retryVideos" hidden>Réessayer</button>
+      </section>
+
+      <section id="videoResult" class="dafHayomiCard" aria-labelledby="videoTitle" hidden>
+        <h2 id="videoTitle"></h2>
+        <div id="videoPlayer"></div>
+        <a id="videoYouTube" target="_blank" rel="noopener noreferrer">Ouvrir sur YouTube ↗</a>
+      </section>
+    </main>
+
+    <script type="module" src="/src/daf-hayomi.js"></script>
+  </body>
+</html>
