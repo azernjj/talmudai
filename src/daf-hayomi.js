@@ -65,8 +65,7 @@ function youtubeVideo(link) {
   const seconds = /^\d+s?$/.test(time) ? Number.parseInt(time, 10) : 0
   const watch = new URL('https://www.youtube.com/watch')
   watch.searchParams.set('v', id)
-  const embed = new URL(`https://www.youtube-nocookie.com/embed/${id}`)
-  embed.searchParams.set('autoplay', '1')
+  const embed = new URL(`/embed/${id}`, watch.origin)
   if (seconds) {
     watch.searchParams.set('t', `${seconds}s`)
     embed.searchParams.set('start', seconds)
