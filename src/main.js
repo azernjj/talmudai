@@ -3,7 +3,7 @@ import './design.css'
 import { state } from './state.js'
 import { renderLayout } from './modules/layout.js'
 import { injectMobileStyles, initMobileMenu } from './modules/mobile.js'
-import { renderLibrary, loadMasechet, initTalmudEvents } from './modules/talmud.js'
+import { openDafLocation, initTalmudEvents } from './modules/talmud.js'
 import { initDictionaryEvents } from './modules/dictionary.js'
 import { initParashiotEvents } from './modules/parashiot.js'
 import { initSearchEvents } from './modules/search.js'
@@ -24,7 +24,6 @@ initSearchEvents()
 initShulchanArukhEvents()
 initMishnaEvents()
 
-renderLibrary()
-loadMasechet(localStorage.getItem('currentFile') || 'berakhot.json')
+openDafLocation('replace')
 
 window.TALMUD_AI_STATE = state

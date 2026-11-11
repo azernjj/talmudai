@@ -59,3 +59,13 @@ export const sedarim = [
   ]},
   { name: 'Taharot', masechtot: [{ name: 'Nidda', file: 'niddah.json' }] }
 ]
+
+export function enterOtherReaderMode(mode) {
+  state.currentMode = mode
+  if (!window.location.pathname.startsWith('/daf/')) return
+
+  const url = new URL(window.location.href)
+  url.pathname = '/'
+  window.history.pushState(null, '', url)
+  document.title = 'Talmud AI'
+}
