@@ -67,3 +67,39 @@
   width: 100%;
   height: auto;
 }
+
+@media (max-width: 1000px) {
+  :where(.reader) .dafScan {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 6px 12px;
+    margin: 8px 0 12px;
+  }
+
+  .reader .dafScan > :not(#dafScanPreview) {
+    grid-column: 1;
+  }
+
+  .reader .dafScan p {
+    margin: 0;
+  }
+
+  .reader #dafScanOpen {
+    justify-self: start;
+    min-height: 44px;
+  }
+
+  .reader #dafScanPreview {
+    grid-column: 2;
+    grid-row: 1 / span 4;
+  }
+
+  .reader #dafScanPreview img {
+    width: auto;
+    max-width: 22vw;
+    max-height: 118px;
+    margin: 0;
+    object-fit: contain;
+  }
+}

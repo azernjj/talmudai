@@ -116,10 +116,21 @@ export function hideDafScan() {
 }
 
 export function initDafScan() {
+  const panel = document.querySelector('#dafScan')
+  const segments = document.querySelector('#segments')
   const dialog = document.querySelector('#dafScanDialog')
   const full = dialog.querySelector('#dafScanFull')
+  const narrowLayout = window.matchMedia('(max-width: 1000px)')
 
-  document.querySelector('#dafScanOpen').addEventListener('click', () => {
+  function placeScan() {
+    if (narrowLayout.matches) segments.before(panel)
+    else dialog.before(panel)
+  }
+
+  narrowLayout.addEventListener('change', placeScan)
+  placeScan()
+
+  panel.querySelector('#dafScanOpen').addEventListener('click', () => {
     const image = document.querySelector('#dafScanPreview img:not([hidden])')
     if (!image) return
     dialog.querySelector('#dafScanDialogTitle').textContent =
