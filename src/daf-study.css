@@ -1,0 +1,45 @@
+.dafStudyActions { margin-top: 12px; }
+.dafStudyActions button, .dafStudyNav :is(button, input) { min-height: 44px; }
+.dafHayomiMain.studyActive {
+  width: min(1500px, calc(100% - 24px));
+  display: grid;
+  grid-template-columns: minmax(280px, .8fr) minmax(0, 1.6fr);
+  align-items: start;
+  gap: 0 20px;
+}
+.studyActive > :is(h1, .dafHayomiTeacher, [aria-label="Choisir un cours"]) { grid-column: 1 / -1; }
+.studyActive #videoResult {
+  position: sticky;
+  top: 12px;
+  min-width: 0;
+}
+.studyActive #videoPlayer iframe { min-height: 200px; }
+#dafStudy[hidden] { display: none; }
+#dafStudy { min-width: 0; padding: 12px; scroll-margin-top: 12px; }
+.dafStudyNav { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+#studyAmud { width: 100px; }
+#studyPageHint { color: var(--muted); font-size: .9rem; margin: 8px 0 12px; }
+#studyContent iframe {
+  display: block;
+  width: 100%;
+  height: max(480px, calc(100dvh - 140px));
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--paper);
+}
+@media (max-width: 800px) {
+  .dafHayomiPage:has(.studyActive) > .topbar { position: static !important; }
+  .dafHayomiMain.studyActive { display: block; }
+  .studyActive #videoResult { top: 0; z-index: 20; padding: 10px; }
+  .studyActive #videoTitle { font-size: 1rem; margin-bottom: 6px; }
+  .studyActive #videoPlayer iframe { height: 200px; aspect-ratio: auto; }
+  .studyActive .dafStudyActions { display: none; }
+  .studyActive #videoYouTube { margin-top: 6px; font-size: .85rem; }
+  #dafStudy { scroll-margin-top: 300px; }
+  #studyContent iframe { height: 65dvh; min-height: 360px; }
+}
+@media (max-height: 500px) and (min-width: 600px) {
+  .dafHayomiMain.studyActive { display: grid; grid-template-columns: minmax(220px, .8fr) minmax(0, 1.2fr); }
+  .studyActive #videoResult { top: 8px; }
+  #dafStudy { scroll-margin-top: 8px; }
+}

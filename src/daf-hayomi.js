@@ -1,6 +1,7 @@
 import './style.css'
 import './daf-hayomi.css'
 import { sedarim } from './state.js'
+import { initDafStudy } from './daf-study.js'
 
 // Public anon key used by the Android app for the shared catalogue.
 const supabaseUrl = 'https://hhidfgtxvmpfbxajadpd.supabase.co'
@@ -15,6 +16,7 @@ const result = document.querySelector('#videoResult')
 const title = document.querySelector('#videoTitle')
 const player = document.querySelector('#videoPlayer')
 const youtubeLink = document.querySelector('#videoYouTube')
+const study = initDafStudy(result)
 
 const aliases = {
   'shabbat.json': ['Chabbat'],
@@ -137,6 +139,7 @@ function setOptions(select, options, placeholder) {
 }
 
 function hideVideo() {
+  study.reset()
   result.hidden = true
   player.replaceChildren()
   youtubeLink.removeAttribute('href')
@@ -180,6 +183,7 @@ function showVideo() {
   youtubeLink.href = video.watch
   player.append(iframe)
   result.hidden = false
+  study.setCourse(masechetSelect.value, video.name)
 }
 
 async function loadCatalogue() {
