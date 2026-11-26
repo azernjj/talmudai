@@ -84,8 +84,8 @@ export function initDafStudy(result) {
     setCourse(file, name) {
       close()
       currentFile = file
-      const match = name.match(/\b([1-9]\d*)\s*([ab])?\b/i)
-      input.value = match ? `${match[1]}${match[2]?.toLowerCase() || 'a'}` : ''
+      const match = name.match(/\b(0*[1-9]\d*)\s*([ab])?\b/i)
+      input.value = match ? `${Number(match[1])}${match[2]?.toLowerCase() || 'a'}` : ''
       content.replaceChildren()
       reader = null
     },
